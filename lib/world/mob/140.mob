@@ -1,0 +1,349 @@
+#14001
+death demon~
+a death demon~
+A death demon is here looking for prey.
+~
+The demon seems to be ready to jump on the first sight of living flesh he sees.
+~
+12 0 32 16777256 -300 S
+70 -15 -30 10d30+1000
+400 500 100 3d10+20 -1
+-1
+-1
+0 520000 8 8 0
+#14002
+crazed man worshipper~
+a crazed worshipper~
+A crazed worshipper is standing here screaming.
+~
+The worshipper has eyes of red and look as though Satan has stolen his soul for
+keeps.
+~
+1 0 34 16777256 -200 S
+70 -18 -35 10d40+1200
+400 500 100 4d10+25 -1
+-1
+-1
+5000 520000 8 8 1
+#14003
+minor demon~
+a minor demon~
+A minor demon is searching for a soul to torture.
+~
+The demon has a cruel gleam in his eyes, and starts looking at your soul. He is
+clothed in fire and carries a wicked looking scythe.
+~
+12 4 3684 16777256 -400 S
+90 -28 -43 10d40+1400
+400 500 90 2d20+40
+26 0 10 1d0+95  -1
+-1
+-1
+5000 900000 8 8 0
+#14004
+walking satanic~
+a walking satanic~
+The walking satanic is searching for worthy souls.
+~
+~
+12 1 1636 16777256 -500 S
+92 -32 -45 5d100+1300
+400 500 80 2d20+45
+4 0 10 1d0+95 
+27 0 10 1d0+95  -1
+-1
+-1
+4000 933333 8 8 0
+#14005
+blind follower~
+a blind follower~
+A blind follower is practicing a spell.
+~
+~
+1 4 96 16777256 -350 S
+70 -17 -33 5d50+1000
+400 500 90 2d15+35
+4 0 10 1d0+95  -1
+-1
+-1
+2000 600000 8 8 0
+#14006
+satanic~
+a satanic~
+A satanic is searching for a good soul.
+~
+The satanic wants you to follow him.
+~
+1 4 98 16777256 -500 S
+90 -28 -42 5d100+1300
+400 500 80 2d25+40
+4 0 10 1d0+95
+27 0 10 1d0+75  -1
+-1
+-1
+4000 900000 8 8 0
+#14007
+jack ripper~
+Jack the Ripper~
+Jack the Ripper is looking for live bait.
+~
+Jack is cleaning the blood off his knife.
+~
+1 4 1634 16777384 -500 S
+94 -32 -45 4d100+1550
+400 500 100 4d12+47  -1
+-1
+-1
+15000 1500000 8 8 1
+#14008
+hell hound~
+a hell hound~
+A hell hound is here mucking on the souls of the dead.
+~
+This undead creature is a horrible abomination of a beastly fido.
+~
+4 4 68 128 -200 S
+84 -26 -35 1d100+1200
+408 500 100 4d12+25 -1
+-1
+-1
+0 740000 8 8 0
+#14009
+worshipper~
+a worshipper~
+A worshipper prostrates himself in the name of Satan.
+~
+What a pitiful excuse for a worshipper.
+~
+1 4 1574 16777256 -350 S
+88 -25 -40 3d100+1450
+400 500 90 2d22+40
+27 0 10 1d0+95  -1
+-1
+-1
+5000 900000 6 6 0
+#14010
+warlock~
+a warlock~
+A warlock will pray for you in the name of Satan.
+~
+The warlock has an aura of the deepest shade of blood.
+~
+1 2 2658 16777384 -600 S
+96 -31 -43 1d100+1700
+400 500 60 4d10+43
+26 0 10 1d0+100
+27 0 10 1d0+100
+33 0 5 3d0+100
+38 0 5 3d0+100 
+28 0 10 2d0+95 -1
+-1
+-1
+20000 1500000 8 8 1
+#14011
+counsellor~
+a counsellor~
+A counsellor tries to lure you deeper into hell.
+~
+The counsellor radiates an aura of evil.
+~
+1 4 610 168 -400 S
+98 -30 -45 2d100+1800
+400 500 90 4d10+50
+4 0 5 1d0+95
+27 0 5 1d0+95  -1
+-1
+-1
+10000 1333333 8 8 0
+#14012
+concubine~
+a concubine~
+A concubine is here trying to make your life a living hell.
+~
+Nag Nag Nag...
+~
+1 4 96 42 -350 S
+95 -30 -45 5d60+1930
+400 500 80 2d23+40
+26 0 10 1d0+90
+27 0 10 1d0+98  -1
+-1
+-1
+5000 1100000 8 8 0
+#14013
+mud addict soul~
+a mud addict~
+One of numerous souls of a mud addict wails here.
+~
+The soul stares at you mournfully, shaking it's head.
+~
+1 4 66 2 0 S
+92 -26 -41 1d100+2200
+400 500 100 1d30+40  -1
+-1
+-1
+2000 933333 8 8 0
+#14014
+guardian~
+the Guardian of the Night~
+The Guardian of the Night will not let you live.
+~
+Looks like the biggest, baddest, and ugliest thing you have ever seen.
+~
+12 4 34 2 -600 S
+98 -32 -45 5d100+2800
+400 500 80 4d15+40
+26 0 10 1d0+95 
+27 0 10 1d0+95  -1
+-1
+-1
+20000 2000000 8 8 0
+#14015
+satan~
+Satan~
+Satan is coming to collect your soul.
+~
+Satan is the Master of Evil.
+~
+12 4 610 168 -1000 S
+109 -50 -55 10d100+4000
+400 500 85 1d40+45
+4 0 5 1d0+100
+23 0 5 1d0+100 
+90 0 5 1d0+95 -1
+-1
+-1
+50000 3000000 6 6 0
+#14016
+major demon~
+a major demon~
+A major demon is painting the walls with your blood.
+~
+The major demon has got to be the second ugliest thing you have ever seen.
+~
+12 4 96 42 -450 S
+99 -34 -45 5d100+2000
+400 500 90 1d40+40
+26 0 10 1d0+90  -1
+-1
+-1
+10000 1500000 8 8 0
+#14017
+bael baelzubel~
+Baelzubel~
+Baelzubel is spreading lies and deception.
+~
+Baelzubel is the Lord of the Lies.
+~
+12 4 1634 40 -550 S
+105 -45 -49 4d100+3500
+400 500 75 2d26+40
+33 0 10 3d0+100
+38 0 10 3d0+100
+76 0 5 1d0+100  -1
+-1
+-1
+20000 2400000 8 8 0
+#14019
+sufferer~
+a sufferer~
+A sufferer looks at you for sympathy.
+~
+A sufferer is here wailing in pain and agony.
+~
+12 4 66 40 0 S
+80 -20 -35 10d50+1650
+400 500 100 4d10+35  -1
+-1
+-1
+3000 700000 8 8 1
+#14020
+greater demon huge~
+a greater demon~
+A greater demon claws at you angrily.
+~
+A huge demon looks evil and angry at your presence. Its teeth dripping 
+with blood from its last victim.
+~
+12 0 98 168 -550 S
+105 -40 -50 10d20+2150
+400 500 100 5d10+45  -1
+-1
+-1
+30000 2100000 8 8 0
+#14021
+fury~
+a Fury~
+A Fury flies towards you in attempt to consume you.
+~
+The Fury flutters around you looking for spots to feed upon. It's body is
+covered in the blood of past warriors.
+~
+12 1 98 168 -400 S
+90 -25 -40 10d100+2000
+400 500 0 1d1+0
+26 0 30 1d0+100
+30 0 30 1d0+100
+72 0 30 1d0+100 
+33 0 5 1d0+100 
+4 0 5 1d0+100  -1
+-1
+-1
+0 1200000 8 8 2
+#14022
+hades~
+Hades~
+Hades laughs at your mortality and lunges towards you.
+~
+Hades appears as a reincarnation of death as known to you. 
+~
+12 4 98 168 -1000 S
+109 -50 -60 10d10+4200
+400 500 100 3d20+50 -1
+-1
+-1
+50000 30000000 8 8 1
+#14023
+hell spawn~
+a hell spawn~
+A hell spawn attempts to kill you!
+~
+Their eyes are bright red with blood as its true meaning. It looks hungry
+for the blood of any prey it can get.
+~
+12 4 98 168 -500 S
+90 -27 -45 3d100+1750
+400 500 100 4d10+40 -1
+-1
+-1
+0 1500000 8 8 0
+#14024
+ferrix queen~
+Queen Ferrix~
+Queen Ferrix is waiting here in search for mortal men.
+~
+Here lies a beutiful woman whom at first glance, appears peaceful and loving.
+But as you peer close, you can see the death claws of her nails and the
+vicous armor worn by her.
+~
+12 4 1634 168 -650 S
+109 -50 -55 10d100+3500
+400 500 100 4d10+45  -1
+-1
+-1
+25000 2700000 8 8 2
+#14025
+liz borden~
+Liz Borden~
+Liz Borden is looking for live bait.
+~
+Liz is cleaning the blood off her knife.
+~
+1 4 1634 16777384 -500 S
+94 -32 -45 4d100+1550
+400 500 100 4d12+47  -1
+-1
+-1
+15000 1500000 8 8 2
+#99999
+$~

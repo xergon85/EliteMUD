@@ -1,0 +1,233 @@
+#8500
+statue buddha~
+the Statue of Buddha~
+A golden statue of buddha gleams in the sun.~
+~
+15 104 0 ah 0
+200 0 -1 0 0 0
+10000 1 1
+#8501
+mask ninja~
+a ninja mask~
+A dark cloth mask lies crumpled here.~
+~
+9 65 abdeghijmnp cej ae
+12 0 0 0 0 0
+2 12000 2000
+A
+2 2
+A
+24 15
+#8502
+belt strip red cloth~
+a red belt~
+A strip of red cloth flutters in the breeze.~
+~
+9 55 abdeghijmnp 0 al
+18 0 0 0 0 0
+10 2000 100
+A
+20 5
+#8503
+belt black cloth strip~
+a black belt~
+A strip of black cloth flutters in the breeze.~
+~
+9 85 abcdefghijlmnop bj al
+21 0 0 0 0 0
+20 5000 100
+#8504
+naginata spear curved~
+a Naginata~
+A long, curved spear stands in the dirt.~
+~
+5 68 abdeghijlmnop aehjn an
+0 8 9 12 0 0
+17 12000 2000
+A
+3 -2
+A
+4 -2
+#8505
+shuriken star metal~
+a shuriken~
+A small metal star lies here.~
+~
+5 53 abcdefghijlmnop aj ano
+0 4 8 11 0 0
+2 25000 2000
+A
+18 4
+A
+19 6
+#8506
+tanto black knife evil~
+the tanto~
+A black knife glows with evil here.~
+~
+5 80 abdefghijlmnop acej an
+0 5 6 11 0 0
+11 8600 1000
+E
+knife tanto~
+The tanto is a hunting knife with a short blade. Instead of tapering
+at the end, it has the same type of point as a samurai sword. It is made
+of a strange eldritch metal that glows with darkness.
+~
+A
+18 4
+A
+19 4
+#8507
+katana sword dai~
+the Dai-Katana~
+A huge samurai sword has been stuck in the stone here.~
+~
+5 90 abegijmn acej an
+0 8 8 3 0 0
+18 50000 5000
+E
+sword katana~
+The Dai-Katana is a huge curved sword, over 45 inches long. It is made
+from a strange eldritch metal and the blade is perfectly forged. It seems
+that it would cut through even stone!
+~
+A
+18 5
+A
+19 10
+#8508
+futon~
+a futon~
+A small futon has been placed against the wall.~
+~
+13 0 0 h 0
+0 0 0 0 0 0
+0 0 0
+E
+futon bed~
+The futon is a small mat that is used for sleeping on.
+You notice a small tag on the side of it.
+~
+E
+tag~
+The tag reads "The Futon-Mouth Company"
+~
+#8509
+clothes emperor emperor's~
+the Emperor's new clothes~
+When you look you think you see some clothes, then you don't.~
+~
+9 100 abefijm afgk ak
+20 0 0 0 0 0
+80 90000 10000
+E
+clothes emperor emperor's~
+It is difficult to say whethere these clothes are here or not! On minute
+they are, the next they seem to phase out of existance!
+~
+A
+2 2
+A
+24 18
+#8510
+boots tabi~
+a pair of tabi boots~
+Some boots made of black cloth are crumpled on the floor.~
+~
+9 68 abehijmn cej ag
+10 0 0 0 0 0
+20 10000 3000
+A
+18 2
+A
+14 80
+A
+2 2
+#8511
+suit ninja black cloth~
+a Ninja suit~
+A suit of black cloth lies here in a pile.~
+~
+9 68 abdefghijlmnop cej ak
+17 0 0 0 0 0
+15 35000 1000
+#8512
+tetsubo club spiked~
+a Tetsubo~
+A spiked club lies half buried in the ground.~
+~
+5 55 aefijm hn an
+0 6 7 7 0 0
+19 2000 150
+A
+18 7
+A
+19 7
+#8513
+tekagi strap spikes~
+tekagi~
+A leather strap with spikes along one side hangs here.~
+~
+9 80 abdefghijlmnop bcej ah
+2 0 0 0 0 0
+5 12300 100
+A
+24 -35
+A
+19 8
+#8514
+sushi~
+a bowl of sushi~
+A small bowl of raw fish has been placed here.~
+~
+19 20 0 0 ao
+8 0 0 0 0 0
+2 170 1
+#8515
+rice bowl~
+a bowl of rice~
+A bowl, full to the brim with rice, has been left here.~
+~
+19 1 0 0 ao
+3 0 0 0 0 0
+1 8 1
+#8516
+prawn crackers~
+a bag of prawn crackers~
+A bag full of yummy prawn crackers is waiting to be taken.~
+~
+19 10 0 0 ao
+5 0 0 0 0 0
+1 90 1
+#8517
+golden potion glowing~
+a glowing golden potion~
+There is a phial of golden liquid on the floor.~
+~
+10 80 0 0 ao
+80 29 80 -1 0 0
+10 45000 3000
+#8542
+ring nushi nushi's~
+the Nushi's ring~
+A small black ring with a strange symbol on it has been dropped here.~
+~
+18 50 0 acmn abo
+2 0 0 0 0 255
+5 100 1
+E
+ring nushi~
+The ring has a funny symbol sticking out of it that looks a little like
+a key. Naaaah, it can't be...Or can it?
+~
+#8575
+metal lock lock-pick~
+a lock-pick~
+A twisted piece of metal lies here in the corner.~
+~
+18 55 0 acmn ao
+2 0 0 0 0 255
+2 100 1
+#99999
+$~

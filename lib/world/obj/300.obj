@@ -1,0 +1,126 @@
+#30001
+silk suit~
+a black silk suit~
+A suit of the finest black silk lies here.~
+~
+9 30 0 0 ak
+8 0 0 0 0 0
+8 4000 500
+#30002
+garrote~
+Gontran's garrote~
+A small garrote lies here in the rubble.~
+slice ~
+5 40 abdefghijlmnop j ano
+0 5 6 11 0 0
+1 2000 3000
+A
+18 2
+A
+19 4
+#30003
+amulet~
+a oddlooking amulet~
+An oddlooking amulet lies here, made of stone.~
+~
+9 30 0 gj ac
+5 0 0 0 0 0
+1 3000 400
+A
+2 2
+#30004
+boots silk black~
+a pair of silk boots~
+A pair of black silk boots lies in the corner.~
+~
+9 30 0 0 ag
+5 0 0 0 0 0
+8 3000 1000
+#30005
+key obsidian~
+a obsidian key~
+A key made of obsidian lies here.~
+~
+18 1 0 a ao
+2 0 0 0 0 160
+3 500 1000
+#30006
+twilight key~
+a twilight key~
+The key of twilight lies here.~
+~
+18 1 0 0 ao
+2 0 0 0 0 160
+5 1000 2000
+#30007
+armor shadow~
+a shadow armor~
+A shadow armor lies here as a grey shadow in the floor.~
+~
+9 35 0 0 ad
+15 0 0 0 0 0
+45 10000 2000
+A
+23 20
+#30008
+belt dark~
+a dark belt~
+A belt made of dark matter lies here in the corner.~
+~
+9 36 0 cj al
+7 0 0 0 0 0
+5 2000 3000
+#30009
+book old ones~
+the Book of Old Ones~
+A black book covered with green slime lies here.~
+~
+3 35 cdhknops 0 ao
+50 4 4 6 0 0
+6 4000 400
+A
+3 2
+#30010
+spoon~
+A big spoon~
+A big spoon made of ebony lies here.~
+~
+5 20 0 0 ano
+0 2 5 7 0 0
+10 10 666
+#30011
+statue green~
+a small green statue~
+A small green statue stands in the middle of the room.~
+~
+12 20 0 0 ao
+0 0 0 0 0 0
+5 5000 200
+A
+14 80
+#30012
+barrel~
+a barrel~
+A barrel stands here in the dark corner of the room.~
+~
+17 1 0 0 a
+40 35 4 0 0 0
+50 300 100
+#30013
+key dungeon dungeons~
+the key to the dungeons~
+The key to the dungeons burns a hole in the floor here.~
+~
+18 1 0 0 ao
+2 0 0 0 0 160
+10 100 42
+#30014
+jewelry~
+some expensive jewelry~
+Some expensive jewelry lies on a pillow here.~
+~
+8 1 0 0 ao
+0 0 0 0 0 0
+3 20000 666
+#99999
+$~

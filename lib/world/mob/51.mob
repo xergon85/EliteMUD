@@ -1,0 +1,146 @@
+#5100
+goblin slave~
+the goblin slave~
+A goblin slave lies here asleep.
+~
+The defenseless goblin begs for mercy.
+~
+1 4 130 16777216 350 S
+5 16 6 1d50+50
+400 500 100 1d6+3 -1
+-1
+-1
+0 6666 4 4 1
+#5101
+Drow commoner~
+the Drow commoner~
+A drow commoner is here, walking around on guard duty.
+~
+I doubt he is the type to give directions.
+~
+1 4 96 16777216 -400 S
+20 12 0 2d40+220
+400 500 100 2d6+6 -1
+-1
+-1
+400 20000 8 8 1
+#5102
+drow noble warrior~
+the drow warrior noble~
+A drow warrior noble stands here guarding his home.
+~
+He looks kind of p.o.ed!
+~
+1 4 34 16777216 -400 S
+25 8 -3 1d50+300
+400 500 100 2d6+8 -1
+-1
+-1
+300 50000 8 8 1
+#5103
+drow noble mage~
+the drow mage noble~
+A drow mage noble is here protecting his home.
+~
+The mage prepares to cast a spell...at you!!
+~
+1 1 34 16777224 -400 S
+28 9 -2 2d50+260
+400 500 70 2d5+6
+26 0 10 1d0+80
+30 0 10 1d0+80
+32 0 10 1d0+95 -1
+-1
+-1
+1500 90000 8 8 1
+#5104
+drow priestess~
+the drow priestess~
+A drow priestess is here shouting orders.
+~
+I wouldn't want go get on her bad side!
+~
+1 2 34 16777224 -400 S
+32 6 -6 2d50+260
+400 500 70 3d5+6
+27 0 15 1d0+85
+4 0 5 1d0+80
+33 0 5 3d0+75
+36 0 5 2d0+75 -1
+-1
+-1
+2500 125000 8 8 2
+#5105
+drow master~
+the drow master~
+A drow master stares at you angrily.
+~
+The drow master is ALWAYS ready for a fight.
+~
+1 4 34 16777224 -500 S
+40 2 -8 2d60+420
+400 500 100 3d6+15 -1
+-1
+-1
+8000 200000 8 8 1
+#5106
+drow weaponsmaster~
+the weaponsmaster~
+A drow weaponsmaster is here shadow boxing.
+~
+He definitely know his way around in combat.
+~
+1 4 34 16777216 -400 S
+38 3 -8 3d50+350
+400 500 100 3d6+12 -1
+-1
+-1
+4000 170000 8 8 1
+#5107
+drow matron mother~
+the Matron Mother~
+The Matron Mother of the house is standing here.
+~
+She looks really p.o.ed!!!!
+~
+1 2 34 16777224 -400 S
+40 2 -8 3d50+350
+400 500 70 3d8+8
+27 0 10 1d0+75
+4 0 5 3d0+75
+36 0 5 2d0+75
+33 0 10 3d0+75 -1
+-1
+-1
+3500 200000 8 8 2
+#5108
+drow matron mother~
+the Matron Mother~
+The Matron Mother of the first house is waiting for you.
+~
+She looks like she is about to rip your head of and eat it.
+~
+1 2 34 16777352 -400 S
+42 0 -13 5d50+350
+400 500 80 3d10+10
+27 0 10 1d0+85
+28 0 5 2d0+75
+4 0 5 3d0+75 -1
+-1
+-1
+5000 230000 8 8 2
+#5109
+yochlol~
+the yochlol~
+A yochlol forms out of a swirling mist...
+~
+The yochlol is not in a good mood.
+~
+4 0 34 16777354 -600 S
+45 -3 -14 5d50+400
+400 500 100 3d10+15 -1
+-1
+-1
+5000 250000 8 8 2
+#99999
+$~

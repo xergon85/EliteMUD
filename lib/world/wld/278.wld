@@ -1,0 +1,1972 @@
+#27800
+#RThe Dragons Gateway#N~
+   The cave fortress of the Storm Dragons towers over you here.
+Detailed statues of dragons with their wings outstretched stand on
+each side of the gateway leading in. A wide stone stairway leads
+up the side of the fortress. The gateway is always open... if you 
+are a Storm Dragon.
+~
+278 cdhuz 0
+D0
+You see a corridor in the fortress.
+~
+~
+0 -1 27802
+D3
+A path away from the clan house.
+~
+~
+0 -1 6573
+D4
+Wide granite steps lead up onto the roof.
+~
+~
+0 -1 27821
+E
+fortress~
+This is the unassailable fortress of the Storm Dragons clan. Dragons
+with glistening scales are roosting on the battlements.
+~
+E
+statue statues~
+These beautiful statues catch the light in an almost magical way. They
+appear to be staring straight into your eyes.
+~
+S
+#27801
+#RThe Relaxation Chamber#N~
+   You are in a small, silent chamber. The walls are pulsating slowly
+radiating the power of calmness and peace. You feel you could stay
+here forever. There are soft, Persian carpets around here, where you
+can sleep well and rest comfortably in a lotus position. An Attendant 
+stands ready to serve you with food and drink.
+~
+278 detuz 0
+D1
+You see a corridor to the east.
+~
+~
+0 -1 27802
+E
+carpet carpets~
+The carpets look very soft and you are sure they would be comfortable
+to rest upon.
+~
+S
+#27802
+#RDragons Hallway#N~
+   This is a stone corridor that connects the outer parts of the clan
+home. A colourfull painting covering the walls reminds you of the
+proud heritage of the clan and of the importance of valor, friendship
+and honour.
+~
+278 duz 0
+D0
+There is a red glow to the north.
+~
+~
+0 -1 27805
+D1
+A large room can be seen to the east.
+~
+~
+0 -1 27803
+D2
+The exits from these caves is to the south.
+~
+~
+0 -1 27800
+D3
+A soft glow comes from the west.
+~
+~
+0 -1 27801
+E
+painting~
+The painting is not of any recognisable people..yet at the same time
+you can see some of yourself and others you know in them.
+~
+E
+buildersrefs~
+more updates by amok/demandred july 2000.
+updates by amok/demandred october 1998. im sorry i cant credit the
+original writer - i just don't know who it was. enjoy!
+~
+S
+#27803
+#RStorm Dragons Donation Room#N~
+   You are in a large, untidy room. People have dropped their useless
+items all over the place. There is a hewn stone altar in the middle
+of the room upon which donated things appear. A spiral staircase in
+the corner leads down into a dark basement.
+~
+278 cduz 0
+D3
+You see a corridor to the west.
+~
+~
+0 -1 27802
+D5
+A spiral staircase leads down to a dark basement.
+~
+~
+0 -1 27822
+S
+#27804
+#RKamthra's Sanctum of Solitude#N~
+   An ancient stone table cluttered with heavy tomes of knowledge,
+strange artifacts and all manner of arcane devices, stands proudly in
+the centre of this oversize chamber. One side of the table is left
+slightly clear, and here rests a mysterious pulsating #wglobe#N held in
+the clenched talons of a bronze stand, slowly changing colour as you
+watch. On one side of the room, a old weathered wooden #wbookcase#N
+strains under the weight of a mountain of books. Huge crystal #wwindows#N
+span a whole side of the room, extending upwards to meet high above
+you in a dome. A large threadbare divan rests in a corner of the
+room, and a roaring fire blazes in the fireplace,  strangely without
+the need of any fuel. Above the fireplace hangs a great #woil-painting#N
+and the most noticeable fixture is the ornate full length #wmirror#N
+bordered with softly glowing mystic symbols, which stands in front of
+a stone wall.
+§N~
+278 djuz 0
+D1
+~
+~
+1 -1 27805
+E
+window windows~
+Fluffy white clouds seem to brush your head as you gaze down,
+watching the movement of many people bustling like ants in a large
+town at the edge of a wild forest on a great river. In one direction
+a desert stretches into the distance, rippling mirages seeming to
+appear out of the heat-shimmer, and in another, the relentless sea
+crashes against cold grey rocks. A break in the clouds briefly shows
+you a glimpse of a faraway winged form, gliding smoothly on the
+currents. One of the windows seems to have a handle built into its
+frame, allowing the window to open inwards like a door out into
+nowhere.
+§N~
+E
+globe~
+You are drawn into the swirling colours, and feel yourself growing
+light-headed, and detached. Indistinct voices reach your ears, and
+suddenly cheery laughter the spell, and you feel as though you were
+right on the edge of a stupendous insight or secret but can't 
+figure out what.
+§N~
+E
+mirror~
+You see a reflection of yourself, and wonder why this takes such a
+prominent position in the room, when suddenly the mirror clouds over
+and a vague image of a time and place you don't recognise appears for
+a second before fading back to your reflection. You don't think you
+have the required expertise to fully activate such an arcane
+artifact.
+§N~
+E
+bookcase~
+Leather-bound books of all shapes and sizes, colours and textures are
+stacked haphazardly along the shelves. A couple of titles catch your
+eye, 'Legends of the Storm Dragons', 'The early life of Kamthra the
+Archmage', are but a couple of the titles that you recognise. Some
+are in strange languages that you've never encountered before, some
+titles are in a script which seems to move as you watch, defying all
+attempts to decipher them, and some just seem to have no title at
+all.
+§N~
+E
+painting~
+The painting depicts three figures, a shadowy figure in a dark cloak,
+a brawny barrel-chested fighter, and a dragon.  You notice that all
+three figures share similar features, and suddenly you realize that
+they are all the same person, but slightly different.  The youngest
+seems to be a robed figure, then comes the chilling shadowy figure,
+and finally the veteran fighter.  The crest of the dragon becomes 
+more and more prominent and decorative with each figure.
+§N~
+S
+#27805
+#RStorm Dragons Main Meeting Room#N~
+   This is the heart of the dragon caves. Lava floats slowly through
+here in broad channels on each side of the room. The walls are
+decorated with tapestries of huge dragons in gold on red silk. On the
+north wall hangs the board of the Storm Dragons, with messages
+written in white hot fire. Three thin bridges span over the lava to
+clan ruler rooms to the north, west and east. A much safer looking
+corridor leads south to the Dragons Hallway. A levitating disc of
+pure gold can take you up to the throne room from here.
+~
+278 duz 0
+D1
+A thin bridge leads east into a rulers chambers.
+~
+~
+1 -1 27809
+D2
+A corridor leading away from the heart of the clan house.
+~
+~
+0 -1 27802
+D3
+A thin bridge leads west to a ruler's room.
+§N~
+door~
+11 -1 27804
+D4
+A tunnel leading up to the Storm Dragons throne room.
+~
+~
+0 -1 27807
+D5
+A Dark tunnel leads down to the lower chambers.
+~
+~
+0 -1 27810
+E
+lava~
+It's hot and dangerous to touch but is a safe distance away from you.
+~
+E
+tapestry tapestries~
+The tapestries are very beautiful and no doubt very valuable.
+~
+E
+disc~
+The disc floats around waiting to take you up if you desire.
+~
+E
+bridge bridges~
+They appear to be safe.. but walking uninvited into a rulers room may
+not be.
+~
+S
+#27806
+#RHercules' Quarters#N~
+   This grand room you have entered, is the home of the Mighty
+Hercules. The room is divided into two parts assist training ground
+and a living room.  The training ground is filled with all sorts of
+weapons and armor, most of which are too heavy for you to use. They
+all look like they have had their share of action though.  The living
+room consists of a rough desk and a small bed. On the desk there are
+various documents about how to become a Dragon...  On the walls there
+are pictures of former clan leaders, like Zharradan and Djeli. On
+another wall hangs a portrait of the omnipotent Crusher.
+§N~
+278 djuz 0
+D3
+~
+door~
+289 -1 27816
+S
+#27807
+#RThrone room of the Storm Dragons#N~
+   You stand in the great throne room of the clan. Here the clan
+holds councils of matter concerning the Storm Dragons. A long table
+of black obsidian stands here, completly with chairs for all members.
+At the north end of the table stands the great ruby thrones of the
+clan rulers. Behind them high up sits the clan leader on his diamond
+throne. Two pools of lava provide light and warmth for people. To 
+the west a large oak door leads into the Storm Dragon great library 
+with records of all that is written in the world and to the north 
+a red silk carpet leads north through an archway to one of the the 
+clan leader's room. A glowing archway leads east into the room of 
+another clan leader. A golden disc that can take you down to the main 
+meeting room is hovering here.
+~
+278 duz 0
+D0
+A red carpet leads north into the clan leader's room.
+§N~
+door~
+11 -1 27813
+D1
+A archway leads into one of the clan leaders chambers.
+~
+~
+0 -1 27808
+D3
+You can see a library to the west.
+~
+~
+0 -1 27815
+D5
+A glowing golden disc will take you down to the main meeting room.
+~
+~
+0 -1 27805
+E
+table~
+This table is perfectly smooth and is a wonder of nature.
+~
+E
+chairs~
+These chairs look very comfortable.
+~
+E
+ruby thrones~
+The ruby thrones are truly beautiful but perhaps not as comfortable
+as the other chairs. A reminder that rulers have great rewards but
+also duties.
+~
+E
+diamond throne~
+As you look at the diamond throne you cant stop looking, it is
+crafted from pure diamond and so well made that you never though that
+kind of work was possible. This is the throne of the leader of the
+Storm Dragons. Well fit a king.
+~
+S
+#27808
+#RDemandred's Study#N~
+   This room is dominated by a large desk covered with notes, scrolls 
+and tomes of knowledge. Demandred has travelled the world in search of 
+rare artefacts, and he keeps many of them here for people to view. You 
+notice what appears to be a #wmagical minature globe#N on the desk - you 
+imagine that it is a region of space compressed for storage. A large 
+#wpainting#N has pride of place on the wall across the room from where you 
+stand. Two crystal pillars on the east side of the chamber look like a 
+#wwarp gate#N, such as the ancients were said to use. It appears to be 
+innactive, but might be worth investigating.
+~
+278 dvuz 0
+D1
+The ancient warp gate does not appear to work.
+~
+gate warp~
+1 0 1272
+D3
+An glowing archway leads to the Storm Dragon's Throne Room.
+~
+~
+1 0 27807
+E
+miniature magical globe~
+No mortal has the power to produce one of these items, it must be a 
+gift from one of the creators of the world. The globe appears to be 
+a region of space, compressed into a very small space. Gazing deep
+into the globe, you can see a glimpse into the #wfuture#N of the world.
+~
+E
+future~
+Your vision blurs briefly...then you can see!
+
+In the Wasteland
+   You find yourself in a waking nightmare. The sky is a threatening 
+dark grey colour, and the clouds are blood red. The ground beneath your 
+feet is also grey, and as you move it sends up little puffs of foul 
+smelling ash to assault your nose and eyes. The terrain is flat as far 
+as the eye can see to the north, east and south, but quickly fades into 
+an indistict fog. You imagine that it would be very easy to get lost out 
+there in the desolation. However it is the sight to the west that 
+captures your attention. You stand before a set of broken gates, melted 
+on their hinges, but still just about attached to the crumbling walls. 
+Moreover, you recognise these walls, and the city behind them - Midgaard.
+
+
+You blink, and find yourself safely back in Demandred's Study.
+~
+E
+painting~
+Its a huge picture, magically rendered, of the entire Storm Dragon Clan. 
+You recognise Rise, Corin, Gomorra, Mithembra, Garrion and Dragonstorm 
+among the huge crowd of dragons. In the centre stand Kamthra and 
+Hercules, along with Zharradan and Demandred. The carefully depicted 
+sky is almost blinding in its radiance, as the Celestial Drakes of the 
+Storm Dragons look down on their beloved clan. Among them you recognise 
+Nostromo and Shampoo, Amok and Radagast, Crusher, Criz, Rol and Shylanne.
+~
+E
+pillars gate warp~
+Two faintly glowing crystal pillars form a gate between worlds. It's said 
+that the ancients had the power to use them, but now they are merely
+beautiful and incredibly rare souveniers. As you gaze into the gate you
+think you can see another realm, with strange forces of gravity, but you
+lack the power to enter the gate.
+~
+S
+#27809
+#RGarrion's Room#N~
+   This large room is filled with the spoils of a lifetime of 
+adventuring. Shelves are stacked with books and trophies and the 
+walls are covered with #wpaintings#N. Two large desks, one neat and 
+clear save for pen and paper, one covered with strange objects
+and scribbled notes, sit in opposite corners. Along one wall runs 
+a #wbed#N covered in thick comfortable pelts and in the centre of the 
+room lies a large red #wrug#N with a stylised golden dragon rampant. 
+Glowing globes embedded in the walls and ceiling gently light this 
+pleasant and inviting room.
+~
+278 duz 0
+D3
+You see the Main Meeting Room.
+~
+~
+1 0 27805
+E
+rug~
+With a deep pile you can't resist taking off your footwear and letting
+your toes sink in to it.
+~
+E
+bed~
+Large, warm and comfortable! Although some large beasts have been
+deprived of life to make it so.
+~
+E
+painting paintings~
+Almost unimaginable variety is on display. Snow bound glaciers, jungle
+forests and majestic mountain vistas have been rendered in exquisite 
+detail.
+~
+S
+#27810
+#RThe Great Drake's Gallery#N~
+   You stand inside a great chamber carved out of the mountain. Steps 
+lead up to the Main Meeting room of the Storm Dragons, and down to 
+another chamber. The rock walls gleam in the light from the pools of 
+lava encircling you. Wide archways lead to rooms belonging to the 
+clan's Great Drakes.
+~
+278 duz 0
+D0
+An archway leads north.
+~
+~
+0 -1 27812
+D2
+An archway leads south.
+~
+~
+1 0 27814
+D3
+An archway leads west.
+~
+~
+1 -1 27820
+D4
+Steps lead up to the main meeting room of the Storm Dragons.
+~
+~
+0 -1 27805
+D5
+Carved stone steps lead downwards to the Drake's Gallery.
+~
+~
+0 -1 27811
+S
+#27811
+#RThe Drake's Gallery#N~
+   Darker and slightly smaller than the gallery of the Great Drake's, 
+this chamber still a magnificent sight. It is warmed by a river of lava 
+flowing through the chamber, narrow bridges lead over the lava flow 
+through arches to the rooms belonging to the clan's Drakes.
+~
+278 duz 0
+D0
+A narrow bridge crosses the river of lava into a Drakes Chambers.
+~
+~
+1 -1 27819
+D1
+A narrow bridge crosses the river of lava into a Drakes room.
+~
+~
+0 -1 27818
+D4
+Steps lead up to the gallery of the Great Drakes.
+~
+~
+0 -1 27810
+D5
+A narrow passage leads downwards.
+~
+~
+0 -1 27816
+S
+#27812
+#RThe Chambers of Rise#N~
+   As you enter the room, you are overwhelmed by a strong pleasant 
+sensation which starts to take control over your will. You look around
+and see a big cave-like room with black obsidian walls, decorated with 
+symbols of healing and sanctuary, glowing with a sickly green light. 
+In the centre of the cave you see a hot steaming pond. The vapours 
+around you carry spicy exotic scents. You feel your head swim as the 
+rich scents flow into your nostrils and sting your eyes in a pleasant 
+way. Through the misty vapors you spot an opening in the far wall 
+decorated with exotic weapons and trophies. The opening leads into a 
+smaller side chamber, just large enough to contain a huge round bed. 
+Light emanating from the countless candles within dances on the fine 
+black silk sheets. You let go of your weapons and armor, and enter the 
+steam...
+~
+278 duz 0
+D2
+A narrow archway leads north into the basement of the clanhouse.
+~
+~
+1 -1 27810
+S
+#27813
+#RZharradan's Room#N~
+   You have entered the room of the Storm Dragon leader, the Undead
+Lord Zharradan. A huge oak desk stands at the end of the room, bare
+apart from piles of papers and an ink well...... with red ink???
+There are two large paintings hung behind the desk showing the Storm
+Dragon clan symbol.  A red silk carpet covers the floor, and a large
+fireplace is the west wall makes the room light up. On the east wall
+are portraits of former rulers of the Storm Dragons clan.  Below the
+portraits is a rack of torture devices, thumbscrews, collapsable
+racks... you are glad you aren't one of his prisoners, though if you
+are here without his permission you may become one...
+§N~
+278 dejuz 0
+D2
+The Throne room is this way.
+§N~
+door~
+11 -1 27807
+S
+#27814
+#RCorin's Sanctuary#N~
+   You find yourself standing in a large dark chamber, at first glance 
+the only thing that can be seen is a soft shimmering light coming from 
+the fireplace in the west wall. As your eyes start to get used to the 
+dark you notice that the room is filled with all sorts of parchments and 
+books, everywhere you look there are stacks of books. Looking around you 
+notice several shelves overwhelmed with papers, books and such. On the 
+wall there is a single blurred painting, after observing it for several 
+moments you think that you can see the face of beautiful woman, but as 
+hard as you try you cannot see it again. The floor is decorated with 
+some strange symbols, and a carving of a skeletal arm holding the 
+golden scale of justice. On the north wall, where darkness is thicker 
+stands a large mirror with some strange mystical symbols on it. Next to 
+the mirror is a lone statue of a Wizard, sadly gazing at the archway 
+from which you entered a few moments ago.
+~
+278 duz 0
+D0
+A narrow bridge crosses a river of lava to the north.
+~
+~
+1 -1 27810
+S
+#27815
+#RThe Storm Dragon Library#N~
+   You enter the Storm Dragon Library, around you are large
+bookshelves stacked with old books. A large #wboard#N is fastened on the
+north wall.
+~
+278 dou 0
+D1
+You see the throne room.
+~
+~
+0 -1 27807
+E
+board~
+There's information here on a variety of topics, all collected together
+so that any clan member can refer to them whenever they choose (Use 'Look
+[item]' to view them):-
+
+                        #GRanks#N
+                        #GApplicants#N
+                        #GPolicy#N
+                        #GWebpage#N
+                        #GEquipment#N
+                        #GHistory#N
+                        #GAreas#N
+~
+E
+ranks rank~
+#RStorm Dragons#N operates a merit-based ranking system. This system has 
+been chosen in order to give those worthy members a greater position of 
+responsibility in the clan. It also allows people to see who they can 
+turn to for good advice and help when required.
+
+A consequence of this system is that level is an unimportant consideration 
+whe taking into account a member's suitability for a promotion. 
+
+As you grow higher in rank, thus more is expected from you. Your behaviour
+should be a beacon for others to follow, and you should exemplify the 
+virtues of the Storm Dragons.
+
+A word of caution:-
+#y            Beware of asking for promotions.#N
+#y           Be prepared for blunt answers.#N
+      
+    Promotions will come when you are ready.
+~
+E
+applicants applicant~
+       Minimun level for entry into #RStorm Dragons#N is #c25#N
+
+Applicants may apply at any time, but will only be allowed into the clan
+at level 25. #yWe do not approve of active recruitment.#N We prefer our 
+applicants to make their own way to us. Recruitment of mudders from other
+clans is look upon very badly - expect harsh punishment.
+
+Only #RStorm Dragons#N with the rank of #RDrake#N or higher may enlist
+Eggs into the clan. Any member should feel free to talk to new applicants
+but the final decision regarding enlistment will be for a Drake to make.
+
+The enlisting Drake will normally post a notice on the clan board inviting
+members to comment on the new Hatchling. These comments are in strictest 
+confidence, and are to help the drake make a decision at the end of the 
+probation period, whether the Hatchling will be made a Young Wyrm, or 
+expelled.
+~
+E
+webpage webpages~
+       #MFor the current webage address, finger the clan high drakes.#N
+~
+E
+policy~
+   The #RStorm Dragons #Nare a clan built on brotherhood, and as such is it 
+expected that you will always help your fellow clan members to the best 
+of your abilities. 
+
+#RDonation Room#N
+   Items placed in our donation room should be used only by members of this 
+clan, and not given away to non-members. When donating items for other people 
+to use, you should always come to the clan house and drop those items in 
+person, rather than use the donate command. (This is because when you use the 
+donate command there is a chance that the item will go to the midgard main 
+donation room, or be sacrificed instead.)
+   Please #rdo not#N place items that are easy to obtain, such as bronze 
+equipment, or keys or food, in our donation room. There is a limit to the 
+number of items that are saved in the event of a crash, and we would like to 
+reserve the space for better items.
+~
+E
+equipment~
+   A list of some of the better equipment in the realm, and some clues as 
+to where it can be found have been placed here. This list is by no means
+complete or up to date - there are new areas being introduced all the time.
+(Type 'look <range>' to view the equipment in each range)
+
+                        #clev0=9#N
+                #clev10=19#N
+                #clev20=29#N
+                #clev30=39#N
+                #clev40=49#N
+                #clev50=59#N
+                #clev60=69#N
+                #clev70=79#N
+                #clev80=89#N
+                #clev90=#N
+~
+E
+lev0=9~
+#gML 1:-----{#N
+        A breast plate              <on body> Wg 100 AC 7
+        (shop)                                [ANTI: Mu Ps Wi Il]
+        A Small Spade                <wield>  Wg 1 D 3d5 HR+2 DR+2 En
+        (groundskeeper - Newbie Zoo)          [NO ANTICLASSES]
+        Revolution Ring            2<fingers> Wg 1 AC 5 HR+1 Con+1
+        (Neb N'Var -- Welmars Kingdom)        [NO ANTICLASSES]
+        A bloody cloak             2<ar neck> Wg 15  AC 4
+        (Old gen equipment)                   [NO ANTICLASSES]
+        A bronze helmet             <on head> Wg 8   AC 6
+        (troglodyte lieutenant)               [NO ANTICLASSES]
+        A black silk robe           <ab body> Wg 6   AC 1
+        (mimic -- Thalos)                     [NO ANTICLASSES]
+        A troll signet ring        2<fingers> Wg 1   AC 4 +1 St
+        (Troll gang leader, bruiser -- PK)    [NO ANTICLASSES]
+        A pair of bronze sleeves    <on arms> Wg 8   AC 6
+        (troglodyte  -- catacombs)            [NO ANTICLASSES]
+        A pair of bronze leggings   <on legs> Wg 8   AC 6
+        (troglodyte -- catacombs)             [NO ANTICLASSES]
+        Spiked heeled boots         <on foot> Wg 4   AC 3 -1 Dx +1 DR
+        (Doll -- PK)                          [NO ANTICLASSES]
+        A pair of bronze gauntlets  <on hand> Wg 8   AC 6
+        (Troglodyte -- catacombs)             [NO ANTICLASSES]
+        Iron girth                  <  waist> Wg 6   AC 4
+        (glass cabinet -- Thalos)             [NO ANTICLASSES]
+        A sturdy iron shield        < shield> Wg 5   AC 5 -2 SP -2 SM ND
+        (Beholder in Thalos)                  [NO ANTICLASSES]
+        A teddybear called Qualen   < shield> Wg 4   AC 6 +4 Ch
+        (QUEST -- 2 QP)                         [NO ANTICLASSES]
+        A long sword                <   held> Wg 15  D 1d8  HR+2 DR+2 En
+        (shop, Cityguard NR)                  [NO ANTICLASSES]
+        A hoe                       <  wield> Wg 1   D 3d4  HR+2 DR+2 En
+        (farmer -- Dirt path)                 [NO ANTICLASSES]
+        A pewter ring              2<fingers> Wg 5   AC 0   +10 Hp +1 Dx
+        (master scheduler -- rome)            [NO ANTICLASSES]
+
+#gML 3:-----{#N
+        A chessboard                < shield> Wg 10  AC 8  Int+1 Wis+1+25Mnm  
+        (Quest - 5 QP)                      [ANTI: Th Wa Kn As Ra Pa]
+
+#gML 4:-----{#N
+        A bat ring                 2<fingers> Wg 2   AC 3 +45 Mv
+        (chief gnome -- gnome village)        [NO ANTICLASSES]
+
+#gML 5:-----{#N
+        A small bright green hat    <on head> Wg 1   AC 11 -15 Age ND
+        (matron mother=5.mother -- Drow city) [NO ANTICLASSES]
+        A bead necklace            2<ar neck> Wg 8   AC 3  +2 HR
+        (chief gnome)                         [NO ANTICLASSES]
+        A black metal breast plate  <on body> Wg 10  AC 8
+        A black metal helm          <on head> Wg 7   AC 7
+        Black metal arm plates      <on arms> Wg 7   AC 7
+        Black metal leg plates      <on legs> Wg 6   AC 7
+        Black metal gauntlets       <on hand> Wg 3   AC 7
+        All 5:(troglodyte chief -- caves)     ANTI:[Mu Th Ps Mo Wi Dr AsIl]
+        A samurai bracer           2< wrists> Wg 2   AC 2  +1 HR +1 DR AE
+        (samurai apprentice -- Samurai Tower) [NO ANTICLASSES]
+        A gnome belt                <  waist> Wg 5   AC 3
+        (gnome armourer -- gnome village)     [NO ANTICLASSES]
+        A long dagger               < b/stab> Wg 6   D 3d4  HR+2 DR+2 EnBS   
+        (gnome weaponry -- gnome village)     ANTI:[Cl Mo]
+
+#gML 7:-----{#N
+        A bronze belt               <  waist> Wg 5   AC 4  -2 St +1 HR
+        (Nobleman -- Rome)                    [NO ANTICLASSES]
+
+
+#gML 8:-----{#N
+        A yellow and green ring    2<fingers> Wg 1   AC 8  ND AG +1 CON
+        (large orc -- upper Moria)            [NO ANTICLASSES]
+        A glinting silver ring     2<fingers> Wg 9   AC 5  +30 Hp
+        (rat  -- sewers)                      [NO ANTICLASSES]
+        A pair of muddy boots       <on foot> Wg 10  AC 5  +15 Mv
+        (rat  -- sewers)                      [NO ANTICLASSES]
+        A stethoscope              2<ar neck> Wg 1   AC 0  +4 HR -3 DR
+        (healer -- Rome)                      [NO ANTICLASSES]
+
+#gML 9:-----{#N
+        Sapphire ring              2<fingers> Wg 20  AC 10 +2 HR
+        (judge -- Rome)                       [NO ANTICLASSES]
+        Roman combat boots          <on foot> Wg 45  AC 8  +2 Str -1 DR
+        (Soldier -- rome)                     ANTI:[Mu Ps Wi Il]
+        A stiletto                  < b/stab> Wg 2   D 7d2  HR+4 BS AC+2
+        (Ogre gang leader -- PK)              [NO ANTICLASSES]
+~
+E
+lev10=19~
+#gML 10:-----{#N
+        Black bear fur              <ab body> Wg 10  AC 6  +1 CON
+        (Black bear -- Forest)                [NO ANTICLASSES]
+        Green pointed wizard hat    <on head> Wg 1   AC 10
+        (Slartiin -- Moria Drow)              [NO ANTICLASSES]
+        A pair of swordmans` gloves <on hand> Wg 1   AC 2  +2 HR +2 DR AG
+        (Human warrior -- Moria)              [NO ANTICLASSES]
+        A broken sword              <  wield> Wg 10  D 4d5  HR+2 DR+2 En
+        (Skeleton warrior -- Graveyard)       [NO ANTICLASSES]
+        A golden dwarven ring      2<fingers> Wg 1   AC 0   +1 HR +1 DR
+        (dwarven guards -- dwarven mines NR)  [NO ANTICLASSES]
+
+#gML 12:-----{#N
+        A pair of Moorish bracers   <on arms> Wg 15  AC 8  +2 DR -2 DEX
+        (Caesar -- rome)                  ANTI: [Mu Ps Wi Il]
+
+#gML 15:-----{#N
+        A leather vest              <on body> Wg 10  AC 8  +30 Hp
+        (Salle -- Stanneg)                    [NO ANTICLASSES]
+        A Jewel of the Rising Sun  2<ar neck> Wg 5   AC 15 +1 In Wi AE
+        (Tokugawa -- Samurai Tower)           [NO ANTICLASSES]
+        Blue steel vambraces        <on arms> Wg 8   AC 8
+        (High Minotaur Guard -- Man-Thor)     ANTI:[Mu Cl Ps Mo Wi As]
+        A broad silver belt         <  waist> Wg 4   AC 6
+        (Isha -- Midgaard park)               [NO ANTICLASSES]
+        A glowing dagger            < b/stab> Wg 1   D 2d6  HR+3 DR+2 NMv
+        (In desk near Bad Feeling -- Chessboard) [NO ANTICLASSES]
+        A Poisoned dagger           < b/stab> Wg 1   D 2d10 HR+3 DR+3 NMv
+        (QUEST -- 10 QP)                      [NO ANTICLASSES]
+
+#gML 18:-----{#N
+MR:2    A purple cloak              <ab body> Wg 20  AC 10 +10 SM
+        (Yevaud -- spider area)               [NO ANTICLASSES]
+        (Master mindflayer -- sewers)
+        A black shield              < shield> Wg 4   AC 5  AG
+        (Black orc leader, NR -- Moria)       [NO ANTICLASSES]
+~
+E
+lev20=29~
+#gML 20:-----{#N
+        A black breast plate        <on body> Wg 100 AC 15 +30 Hp +4 SM AG
+        (Black orc chief -- Moria)            ONLY:[Wa Kn Ca Ma]
+        Drow noble armband            <on arms> Wg 30  AC 10     AG
+        (Drow noble -- Moria Drow)            [NO ANTICLASSES]
+        The Amulet of Suun Lu      2<ar neck> Wg 5   AC 15 +20 Hp +3 Co AE
+        (Tokugawa -- Samurai Tower)           [NO ANTICLASSES]
+        Pair of rollerblades        <on foot> Wg 5   AC 15 +50Mv +25Hp
+        (Old gen quest eq)                    [NO ANTICLASSES]
+        A robe                      <ab body> Wg 5   AC 5  +20 Mn AE
+        (Mage -- Ultima)                      ONLY: [Dr Mu Ps Il Wi]
+        A pair of troll gauntlets   <on hand> Wg 8   AC 4  +4 STR
+        (General Woundwort  -- Crete)         [NO ANTICLASSES]
+        The morning star            <h+wield> Wg 10  D 2d10 HR+2 DR+4
+        (Elder Druid -- West Forest)          [NO ANTICLASSES]
+        Golden bow                  <  wield> Wg 20  D 4d6 Bl
+        (Nomad leader -- nomads)              ANTI:[Mu Cl Ps Mo Wi Dr IlPa]
+        Iron scepter                <  light> Wg 10  Eternal light
+        (Spider Queen -- Spider area)         [NO ANTICLASSES]
+
+#gML 21:-----{#N
+        A spider shaped dagger      < b/stab> Wg 8   D 3d4  HR+3 DR+3 BSAG
+        (Yochlol -- Drow City)                [NO ANTICLASSES]
+
+#gML 22:-----{#N
+        A gavel                     <h+wield> Wg 8   D 3d6  +2 Wis +30 MnAE
+        (Judge -- Ultima)                     [NO ANTICLASSES]
+
+#gML 23:-----{#N
+        A red loincloth             <  waist> Wg 30  AC 15 +2 STR +2Dx AE
+        (Mars -- Valley of gods)              Anti:[Cl Dr Mo Pa Mu Wi IlPs]
+
+#gML 24:-----{#N
+        An adamant hammer           <  wield> Wg 12  D 4d8       DR +5
+        (QUEST --  5 QP)                      [NO ANTICLASSES]
+        An iron barbed flail        <  wield> Wg 14  D 5d5 HR +3 DR +3 Ev
+        (QUEST --  5 QP)                      [NO ANTICLASSES]
+        An morning star             <h+wield> Wg 12  D 6d6 HR +6 DR +6
+        (QUEST --  15 QP)                     [NO ANTICLASSES]
+
+#gML 25:-----{#N
+        Vine-embellished Shirt      <on body> Wg 2 AC 15 DexCha+1 Mr+3
+        (Sturdy Elf  -- Tynstri)              [ANTI Th Il]
+        Mystical Loincloth          <waist>   Wg 5 AC13 StrCon+1 Mana+25 Mr+5
+        (Titania -- Fairy Zone)               [ONLY Wi Il Dr Ps]
+        A dark minotaur shield      < shield> Wg 12  AC 10 +10 SP
+        (Crete King -- Crete)                 [NO ANTICLASSES]
+        A magic dagger              < b/stab> Wg 7   D 4d5  HR+2 DR+3 BS
+        (Nystul -- Ultima)                    ANTI:[Cl Mo]
+        A pair of real wings        <ab body> Wg 0   AC 0  FLY
+        (Quest -- 3 QP)                       [NO ANTICLASSES]
+
+#gML 26:-----{#N
+        The basher mace            2<h+wield> Wg 15  D 4d6  HR+4 DR+4 AE
+        (Fat Fryer, Nameless Hero --  Graveyard)  [NO ANTICLASSES]
+
+#gML 27:-----{#N
+        An ebony bracelet          2< wrists> Wg 5 AC1 +30Mn +30Hp AG
+        (Black bishop -- Chessboard)          [NO ANTICLASSES]
+        An ivory bracelet          2< wrists> Wg 5 AC1 +20Mn +20Hp +1St AE
+        (White bishop -- Chessboard)          [NO ANTICLASSES]
+
+#gML 28:-----{#N
+        White gauntlets             <on hand> Wg10 AC6 +1St +1HR +3DR -2DxAE
+        (white rook -- Chessboard)            ANTI:[Mu Wi Ps Il As Th Dr]
+~
+E
+lev30=39~
+#gML 30:-----{#N
+        Diamond Rose                <head>    Wg 5 AC 12 Wis,Cha +2
+        (Titania -- Fairy Zone)               [NO ANTIS]
+        Rainbow Striped Leggings    <legs>    Wg 4 AC 3 HP+40
+        (Jemera -- Tynstri)                   [NO ANTIS]
+        Horn Of Unicorn             <h/wield>  Wg 3 4d6 HR+2 DR+3 Bless
+        (Oberon -- Fairy Zone)                [ANTI ClThwaMoBaKnAsRaPaCa]
+        Red steel greaves           <on legs> Wg 8   AC 9
+        (Royal Minotaur Guard -- Man-Thor)    ANTI:[Mu Ps Wi Cl Mo As]
+        Brown cloak                2<ar neck> Wg 5   AC 10 +10 SM +100 Mv
+        (floor w from Mistress -- Mage Tower) [NO ANTICLASSES]
+        Shaman Amulet              2<ar neck> Wg 5  AC 15 +20 HP
+        (Shaman -- Black Lagoon)              [NO ANTICLASSES]
+        A dragon skin bracelet     2< wrists> Wg 10  AC 10
+        (White dragon -- Draconia)            [NO ANTICLASSES]
+        A platinum bracelet        2< wrists> Wg 5   AC 8
+        (Holy Draconian -- Draconia)          [NO ANTICLASSES]
+        The glowing platemail       <on body> Wg 100 AC 12
+        (chest near Nightmare -- chessboard)  ANTI:[Mu Ps Wi Dr Il]
+        Crimson steel helm & visor  <on head> Wg 8   AC 10
+        (elite minotaur guard -- Man-Thor)    ANTI:[Mu Cl Ps Mo Wi As]
+        A black silk belt           <  waist> Wg 25  AC 8  +1 HR +1 DR
+        (Dragonian queen -- Draconia)         [NO ANTICLASSES]
+        A pearl ring               2<fingers> Wg 1   AC 4 +1St +2DR +3SMAE
+        (White queen -- Chessboard)           [NO ANTICLASSES]
+        A chameleon poncho          <ab body> Wg 4   AC 10 +50 Mv
+        (floor w from Mistress -- Mage Tower) [NO ANTICLASSES]
+        A holy symbol              2<ar neck> Wg 2   AC 15 +35 Mn
+        (Holy Dragonian -- Draconia)          ONLY:[Cl Dr Mo Pa]
+        Drow hand crossbow          <  wield> Wg 7   D 5d6  HR+3 DR+4 AG
+        (Drow weaponry -- Moria Drow)         ANTI:[Cl]
+        A small hexagonal necklace 2<ar neck> Wg 6   AC 20 -1 Wis +1 Int
+        (QUEST -- 15 QP)                      [NO ANTICLASSES]
+        A diamond helmet            <on head> Wg 8   AC 12 +4 HR
+        (QUEST -- 30 QP)                      ANTI:[Mu Ps Wi Il]
+        The crystal shield          < shield> Wg 10  AC 16 +2 STR
+        (QUEST -- 20 QP)                      ANTI:[Mu Ps Il Cl Mo Wi DrPa]
+        Luminous Leggings           <legs>    Wg 10 AC10 HrDr+1 Dex+1
+        (Oberon -- Fairy Zone)                [ANTI Th Wa Ba Kn Ra Pa Ma Ca]
+
+#gML 31:-----{#N
+        A crystal necklace         2<ar neck> Wg 35  AC 0  +6 Int +6 Wis
+        (Venus -- Valley of gods)             [NO ANTICLASSES]
+
+#gML 32:-----{#N
+        A pearl crown               <on head> Wg 20  AC 6  +30 Mn +5 SM AE
+        (White king -- Chessboard)            [NO ANTICLASSES]
+
+#gML 35:-----{#N
+        A large round shield        < shield> Wg 15  AC 10 +40 Hp
+        (Green dragon -- draconia)            [NO ANTICLASSES]
+        A blue shield               < shield> Wg 25  AC 12
+        (Nameless Hero -- Graveyard)          [NO ANTICLASSES]
+        A shadow armor              <on body> Wg 45  AC 15 +20 SP
+        (Poisonlord -- assassins)             [NO ANTICLASSES]
+        A halberd                   <  wield> Wg 16  D 3d12 HR+2 DR+6
+        (Aglandiir -- west mountains)         ONLY:[Wa Kn Ca Ma Pa]
+        A knife                    2<h+wield> Wg 8   D 4d6  HR+4 DR+4 BSDx+2
+        (Duwick -- bandits)                   ANTI:[Th Mo Dr]
+        A girdle of power           <  waist> Wg 3   AC 10 +2 St +25SM
+        (QUEST -- 20 QP)                      [NO ANTICLASSES]
+        A golden pool cue           <   held> Wg 15  D 4d5  St+3 AC -50
+        (QUEST -- 50 QP)                      [NO ANTICLASSES]
+
+#gML 36:------{#N
+        An avalanche                <   held> Wg 18  D 4d8  HR-7 DR+21
+        (Rock Monster -- elemental canyon)    ONLY:[Wa Kn Ca Pa]
+
+#gML 39:------{#N
+        Robe Of Triskelion          <ab body> Wg 15 AC 9 INT+1 Mana+50
+        (   ???    -- Psi School)             [ANTI Th Wa Kn As Ra Ma Ca]
+~
+E
+lev40=49~
+#gML 40:------{#N
+        A Big Zither                <hold>    Wg 20 Mana+90 10chrgs mystic Sh
+        (Prince Aglandiir -- Stanneg)         [Bard Only]
+        Elven chainmail             <on body> Wg 40  AC 15 +75 Mn +57 Hp
+        A pair of elven boots       <on foot> Wg 1   AC 10 +1 HR +25 Hp
+        All 2:(Elven Archer -- Elven camp)    [NO ANTICLASSES]
+        Drow chainmail              <on body> Wg 30  AC 15 +1 HR +1 DR AG
+        Drow boots                  <on foot> Wg 1  AC 10 +1 HR +25Hp SnAG
+        All 2:(Drow commoner -- Moria Drow)   [NO ANTICLASSES]
+        A spiked buckler            < shield> Wg 5   AC 10 +2 DR
+        (Xanthias -- Man-Thor)                ONLY:[Wa Ca Kn Ma Pa Dr Il]
+        The shadow shield           < shield> Wg 15  AC 15 -3 SP
+        (Pythian -- Man-Thor)       ONLY:[Ca Dr Pa Ma Mu Wi Ps]
+        Pair of sphinxian leggings  <on legs> Wg 20  AC 9  +3 St +100 Mv
+        (S from Great Sphinx -- Pyramid)      [NO ANTICLASSES]
+        Tight leather pants         <on legs> Wg 5   AC 11    +70 Mv  AG
+        (Drow woman -- Moria Drow)            [NO ANTICLASSES]
+        Black minotaur vambraces    <on legs> Wg 9   AC 9
+        (Aegithus -- Man-Thor)                ONLY:[Wa Kn Ca Ma Il Dr]
+        A pair of spiked gauntlets  <on hand> Wg 10  AC 8  +2 DR +4 HR
+        (Dragon king -- Draconia)             [NO ANTICLASSES]
+        Major globe of invulnerability <ab body> Wg 1   AC 15 -5 SM
+        (Xanthias -- Man-Thor)                ANTI:[Mu Cl Ps Mo Wi As]
+        A heavy woolen robe         <ab body> Wg 10  AC 15
+        (Jocasta -- Man-Thor)                 ONLY:[Ca Ma As Cl Dr Mo Pa]
+        Black drow cloak            <ab body> Wg 4   AC 12  DR+1   AG
+        (Drow noble -- Moria Drow)            [NO ANTICLASSES]
+        A fur cloak                 <ab body> Wg 10  AC 10 +1 St +50 Hp
+        (Dragonian king - draconia)           [NO ANTICLASSES]
+        A green helmet              <on head> Wg 8   AC 10 +40 Hp
+        (General Patton  -- Graveyard)        [NO ANTICLASSES]
+        White knight belt           <  waist> Wg 14  AC 16          AE
+        (Akkadian -- Moria drow)              ANTI:[Mu Th Ps Wi Dr As IlMa]
+        Trollish loincloth          <  waist> Wg 12  AC 15
+        (Trolls -- Troll caves)               [NO ANTICLASSES]
+        Studded spider necklace    2<ar neck> Wg 5   AC 10  DR +2   AG
+        (Drow noble -- Moria Drow)            [NO ANTICLASSES]
+        A ruby dagger               < b/stab> Wg 8   D 5d6  HR+5 DR+5 BS
+        (Battle Mistress -- Mage Tower)       ANTI:[Cl Mo]
+        Xanthias' Great Axe         < wield>  Wg 20  D 7d7  HR+3 DR+3 Bl
+        (Xanthias -- Man-Thor)                ANTI:[Mu Cl Ps Mo Wi As]
+        An emerald sword           2<h/wield> Wg 14  D 5d8  HR+5 DR+5
+        (Dragonian king  -- Draconia)         ANTI:[Cl Dr]
+        An elven bow               2<h/wield> Wg 12  D 8d8  HR+5 DR+5
+        (Elven Archer -- Elven valley)        ONLY:[Ra]
+        Drow crossbow              2<h/wield> Wg 7   D 8d8  HR+5 DR+5  AG
+        (Drow weaponry -- Moria Drow)         ONLY:[Ra]
+        Foul  spider  scarab        <  light> Wg 5    infty   DR+1  AG
+        (Drow noble -- Moria Drow)            [NO ANTICLASSES]
+        Crystal Scarab              <  light> Wg 1   infty   +50 Mn
+        (Zombie Guardian -- Undertemple)      [NO ANTICLASSES]
+        A golden wedding ring      2<fingers> Wg 1   AC 0   +3 HR +3DR
+        (Jeweler -- shop in Midgaard)         [NO ANTICLASSES]
+        Magical Rune Tattoos        <on arms> Wg 15  AC 12  +10 SE +2 HR
+        (QUEST -- 13 QP)                      [NO ANTICLASSES]
+
+#gML 43:-----{#N
+         Bracelet of Deadly Nightshade <wrist> Wg 1 AC 12 HP+50
+         (Strawberry blond nymph -- Tynstri)   [NO ANTIS]
+ 
+#gML 45:-----{#N
+        A golden mask               <on head> Wg 10  AC 5  +100 Mn +50 HpMv
+        (Ramses -- Pyramid)                   [NO ANTICLASSES]
+        Wizard Walking Boots        <on feet> Wg 4 AC10 +30Mn +25Hp
+        (Fairy Warrior Wizard - Elysium)      Only:[Ps Il Wi]
+        A robe of protection        <on body> Wg 20  AC 20 +10 SC +10 SF
+        (Master Summoner -- Mage Tower)       ANTI:[Wa Kn Ca Ra Th As Ma Cl]
+        British`s sceptre (oldgen)  <h/wield> Wg 8  D 5d8  HR+4 DR+6+50HpMn
+        (Old Gen EQ)                         [NO ANTICLASSES]
+        Miniature Dragon            <light>   Wg 7 light HP+40 AE
+        (west from Malaig -- Delray)          [NO ANTIS]
+        Crimson Platemail           <on body> Wg 25 AC 20 +40Hp -1HR +2DR
+        (Primarch Morgan -- Crimson Fist)     Only:[Kn Pa Ca]
+#gML 46:-----{#N
+        Crimson Mailshirt           <on body> Wg 20 AC 18 +20Hp +1HR +50Mv
+        (Sir Aaron -- Crimson Fist)           Only:[Wa Kn Pa Ca Ra]
+~
+E
+lev50=59~
+#gML 50:-----{#N
+        Wizardly Tunic              <on body> Wg 1 AC20 IntWis+2 Mana+50
+        (Fairy Warrior Wizard - Elysium)      [ONLY Wi Ba Il Ps Dr Mo]
+         A dwarven mithril plate     <on body>Wg 100 AC 22 +3 St +3 Co
+        (crypt near Balrog -- Moria)          ONLY:[Wa Ca Kn Pa Ma]
+        A bloodstone medallion     2<ar neck> Wg 1   AC 10 +50 Mn +50 HpAG
+        (Count Vladamir --  Graveyard)        [NO ANTICLASSES]
+        A sandy-colored ring       2<fingers> Wg 5   AC 12 +2 In +75 Mn
+        (s from Great Sphinx -- Pyramid)      [NO ANTICLASSES]
+        A black cape                <on head> Wg 2   AC 12 +2 Con +100MvAG
+        (Count Vladamir --  Graveyard)        [NO ANTICLASSES]
+        A diamond ring             2<fingers> Wg 6   AC 6  +2 HR +2 DR
+        (Tiamat -- Draconia)                  [NO ANTICLASSES]
+        Deerskin Loincloth          <  waist> Wg 30  AC 17  St+2  Dx+2
+        (Pict -- Black Lagoon)                [NO ANTICLASSES]
+         Drow noble longsword       2<h/wield> Wg 10  D 4d12 HR+6 DR+6 AG
+        (Drow noble -- Moria Drow)            [NO ANTICLASSES]
+        A ruby long sword           <  wield> Wg 8   D 4d12 HR+5 DR+5
+        (Master Enchanter -- Mage Tower)      ANTI:[Cl Mo Dr]
+        A silver dagger             < b/stab> Wg 5   D 5d7  HR+5 DR+5 BS
+        (Master Enchanter -- Mage Tower)      ANTI:[Cl Mo]
+        A cermonial dagger          < b/stab> Wg 6   D 5d8  HR+2 DR+4 AE
+        (in Prayer room -- Small temple)      [NO ANTICLASSES]
+        A plain black robe          <ab body> Wg 4   AC 12  +2 HR
+        (Tiamat -- Draconia)                  [NO ANTICLASSES]
+        A Sha-Gren skin             <ab body>   Wg 4   AC 15  +2 DR
+        (QUEST -- 30 QP)                      [NO ANTICLASSES]
+
+#gML 51:-----{#N
+        Crimson Helmet              <on head> Wg 20 AC11 -1HR +1DR +50Hp
+        (Sir Azig -- Crimson Fist)            Only:[Kn Pa Ca]
+
+#gML 53:-----{#N
+        Crimson Armplates           <on arms> Wg 21 AC9 +4Str +2DR +1HR
+        (Sir Rowland -- Crimson Fist)         Only:[Kn Pa Ca]
+
+#gML 55:-----{#N
+        Robe of Stars               <ab body> Wg 5 AC 12 HrDr+1
+        (In chest near Octopus -- Gigantia)   [NO ANTIS]
+        A red belt                  <  waist> Wg 10  AC 18 +5 SF
+        (Monk -- New Japan)                   ONLY:[Th As Ma Ra Mo]
+        Tetsubo                    2<h/wield> Wg 19  D 6d7  HR+7 DR+7 ND
+        (Shikome -- New Japan NR)             ANTI:[Mu Ps Mo Wi Dr Il]
+
+#gML 59:-----{#N
+        Graceful Golden Robes                 Wg 3 AC10 Int+1 Mana+100 AE
+        (Graceful Dryad -- Tynstri)           [ONLY: Ps Il Dr]
+~
+E
+lev60=69~
+#gML 60:-----{#N
+        Soaking Wet Evening Dress   <on body> Wg 112 AC30 Mv-100 Dx-2 Mr+22
+        (Ma Glob -- Stanneg)                  [ANTI Wa Kn Ra Pa Ca, AG AN]
+        Sturdy Oaken Staff            <wield> Wg 15 D 7d8 +10DR +4HR +50MnHp
+        (Male Elf -- Tynstri Catwalk)         Only:[Dr]
+        Crystal Bracelet of Virgo  2< wrists> Wg 4   AC 10 +50 Mn +2 Ch AE
+        (Virgo -- Galaxy)                     [NO ANTICLASSES]
+        An old ring                2<fingers> Wg 1   AC 15 +100 Mn
+        (cabinet near Gollum -- Moria)        ANTI:[Wa Kn Ca As Th Ma]
+        A crystal headband          <on head> Wg 1   AC 12 +100 Mn
+        (Lich Igon -- Undertemple)            [NO ANTICLASSES]
+        Boots of the North          <on feet> Wg 4 AC10 +2HR +1DR
+        (Frost Giant Commander -- Gigantia)   [NO ANTICLASSES]
+        Shiny armour                <on body> Wg 120 AC 30 +12 SM -60 Mv
+        (Paladin -- Ultima)                   ONLY:[Pa]
+        A runed chisel              < b/stab> Wg 8   D 4d10 HR+5 DR+5 BS
+        (Golem maker -- Mage Tower)           ANTI:[Cl Mo Dr]
+        A crystal quarterstaff      <  wield> Wg 10  D 6d9  HR+4 DR+6
+        (Lich Igon -- Undertemple)            [NO ANTICLASSES]
+        Holy avenger                <  wield> Wg 10  D 5d10 HR+10 DR+5 AE
+        (Paladin -- Ultima)                   ONLY:[Pa]
+        Stone belt                  <  waist> Wg 4   AC 10 +50 HP
+        (Golem maker -- Mage Tower)           [NO ANTICLASSES]
+        Merlin's Sword              <h/wield> Wg 8 6d7  Mana+50
+        (Fairy Warrior-Wizard -- Elysium)     [ONLY: Ps Wi Il]
+
+#gML 65:-----{#N
+        Black Robe                  <on body> Wg 8 AC30 AN AG
+        (Black Apprentice -- Mage Tower)      [ANTI Mu cl Th wa kn as Pa Ma Ca]
+        A white gold bracelet      2< wrists> Wg 5   AC 10 +3 HR
+        (white robed apprentice -- Mage Tower)[NO ANTICLASSES]
+        A onyx bracelet            2< wrists> Wg 6   AC 10 +3 DR
+        (black robed apprentice -- Mage Tower)[NO ANTICLASSES]
+        A glinting silver bracelet 2< wrists> Wg 5   AC 10 +2 HR +1 DR
+        (grey robed apprentice -- Mage Tower) [NO ANTICLASSES]
+        A spiked collar            2<ar neck> Wg 9   AC 0  +5 DR
+        (calico cat -- Mage Tower)            [NO ANTICLASSES]
+        Drow steel-toed boots       <on foot> Wg15 AC10 HR+2 DR+1 +100MvAG
+        (Arziana -- Moria Drow)               ANTI:[Mu Th Wi Dr As Il Pa]
+        Cloak of midnight           <ab body> Wg 20  AC 15 +50Hp       AG
+        (Mercurien -- Moria Drow)             [NO ANTICLASSES]
+        The Horns of Capricorn      <on hand> Wg 6   AC 10 +3 HR +4 DR AE
+        (Capricorn -- Galaxy)                 [NO ANTICLASSES]
+        The Shell of Cancer         <on body> Wg 75  AC 30 AE
+        (Cancer -- Galaxy)                    [NO ANTICLASSES]
+        Drow darksteel chainmail    <on body> Wg 45  AC 30 AG
+        (Tashken, hunter -- Moria Drow)       ANTI:[Mu,Th,Wi,Dr,As,Il,Pa]
+        Darksteel drow vambraces    <on arms> Wg 10  AC 12  HR+1  DR+1  AG
+        (Balazar -- Moria Drow)               ANTI:[Mu,Th,Wi,Dr,As,Il,Pa]
+        The Golden Fleece          2<ar neck> Wg 15  AC 12 +60 Hp AE
+        (Aries -- Galaxy)                     [NO ANTICLASSES]
+        The Bow of Sagittarius      <  wield> Wg 20  D 7d8  HR+6 DR+6 AE
+        The Arrow of Sagittarius    <   held> Wg     D 0    HR+12
+        All 2:(Sagittarius -- Galaxy)         [NO ANTICLASSES]
+        Ninja mask                 <on head> Wg 2   AC 12 +15 SM +2 Dex
+         (Ninja -- New Japan)                 ONLY:[Ma As Th Ra Mo]
+
+#gML 67:-----{#N
+        Orion`s Hunting Belt        <  waist> Wg 7   AC 10 +2 HR +2 CON AE
+        (Orion the Hunter -- Galaxy)          [NO ANTICLASSES]
+        Rusty Shield                <shield>  Wg 22 AC 10 HrDr +3 AG AN
+        (Skeleton -- Ultima)                  [NO ANTIS]
+
+#gML 68:-----{#N
+        The Tail of Pisces          <on legs> Wg 10  AC 10 +1 HR +1 DR AE
+        (Pisces the mermaid -- Galaxy)        [NO ANTICLASSES]
+        A pair of tabi boots        <on foot> Wg 20  AC10 +2HR+80Mv +2DxAG
+        (Ninja Warrior -- New Japan)          ANTI:[Mu Cl Ps Kn Wi Dr IlPa]
+        The Sting of Scorpio        < b/stab> Wg 9   D 6d7  HR+7 DR+7 BSAE
+        (Scorpio -- Galaxy)                   [NO ANTICLASSES]
+~
+E
+lev70=79~
+#gML 70:-----{#N
+        Priest's Robes              <on body> Wg 10 AC33 HP+50 MR+5 AG
+        (Boar and Tiger priest -- Werehome)   [ONLY:Dr Mo Wi Il Ps]
+        Fire Opal Ring              <finger>  Wg 1 AC15 HR+2 Mana+80 SP+10 AG
+        (Fire Dragon -- tynstri)              [NO ANTIS]
+        Studded leather gloves      <on hand> Wg 6   AC 15  HR+3  DR+3  AG
+        (Denzar -- Moria Drow)                [NO ANTICLASSES]
+        Black troll hide greaves        <on legs> Wg 10  AC 10  DR+1 +30Hp
+        (Balazar -- Moria Drow)               [NO ANTICLASSES]
+        Black opal necklace        2<ar neck> Wg 10  AC 13  HR+2 +80Mn AG
+        (Mercurien -- Moria Drow)             [NO ANTICLASSES]
+        Black pearl medallion      2<ar neck> Wg 10  AC 13  HR+1 DR+1+20Hp
+        (Arziana -- Moria Drow)               [NO ANTICLASSES]
+        A shiny plate               <on body> Wg 100 AC 40 AE
+        A large broadsword         2<h/wield> Wg 17  D 6d10 HR+5 DR+10 AE
+        All 2:(paladins -- Small Temple)      ONLY:[Wa Kn Ca Ma Pa]
+
+#gML 71:-----{#N       
+        The Hoof of Taurus          <on foot> Wg 15  AC 10 +100 Mv +3 DR AE
+        (Taurus -- Galaxy)                    [NO ANTICLASSES]
+
+#gML 72:-----{#N
+        A Nemean Lion Skin          <ab body> Wg 45  AC 15 +50 Hp AE
+        (Leo -- Galaxy)                       [NO ANTICLASSES]
+
+#gML 73:-----{#N
+        Arm plates of Hercules      <on arms> Wg 20  AC 10 +5 St +3 DR AE
+        (Hercules -- Galaxy)                  [NO ANTICLASSES]
+
+#gML 75:-----{#N
+        Red Mantle                  <ab body> Wg 15 AC15 HrDr+1 Mr+5 AG
+        (Dorlan -- Wherehome)                 [ANTI Th Wa Kn As Ra Pa Ca]
+        Libra`s Scale of Injustice  < shield> Wg 15 AC 6 +2DR +2HR -2Wi AG
+        Libra`s Scale of Justice    < shield> Wg 15 AC 11 +50Mn,Hp +1Wi AE
+        All 2:(Libra -- Galaxy)               [NO ANTICLASSES]
+        The Mask of Gemini          <on head> Wg 7   AC 16 AE
+        (Gemini -- Galaxy)                    [NO ANTICLASSES]
+        Jack`s knife                < b/stab> Wg 8   D 2d25 HR+5 DR+10 BSAG
+        (Jack the Reaper -- Hell)             ANTI:[Pa]
+        Drow assassin face mask     <on head> Wg 10  AC13  HR+1  AG
+        (Drow assassin -- Moria Drow)         [NO ANTICLASSES]
+        Conans two-handed sword     <  wield>  Wg 0   D 4d20 +5 Str +5 Con
+        (Conan -- Mage tower)                 ONLY:[Wa Ca Kn Pa]
+        Large Broadsword            <h/wield>  Wg 18  D 8d8 HR+5 DR+10
+        (Peter -- Welmar castle)              ONLY:[Ra Kn Ca Pa Ma]
+        Starched White Apron        <waist>   Wg 2 AC 14 MnHp +25
+        (The chief chef -- Tynstri)           [NO ANTIS]
+
+#gML 77:-----{#N
+        Ruby Scale                  <shield>  Wg 15 AC15 Mana+25
+        (Ruby Dragon -- Tynstri)              [NO ANTIS]
+~
+E
+lev80=89~
+#gML 80:-----{#N
+        Tough Dragonskin Boots      <feet>    Wg 10 Dex+3 Mana+50
+        (Master Ranger -- Tynstri)            [ONLY Kn Pa]
+        Long grey cloak            2<ar neck> Wg 7   AC 10 +100 Mn AG AE
+        (Master of Neutrality -- Mage Tower)  ANTI:[Wa Ma Ca Th]
+        White cloak                2<ar neck> Wg 7   AC 15 +100Hp Goodonly   
+        (Master of Goodness   -- Mage Tower)  ANTI:[Wa Ma Ca Th]
+        A golden crown              <on head> Wg 40  AC 25 +100 Mn +100 Hp
+        (King Welmar -- Welmar castle)        ANTI:[Wa Cl Th Mu]
+        Rigel's shoes               <on feet> Wg 18  AC 20 +3 Con + 3 Dex
+        (QUEST -- QP)                         ONLY:[Wa Kn Ca Ra]
+        A ring of lost souls       2<fingers> Wg 2   AC 20 AG
+        (Walking satanics --  Hell)           [NO ANTICLASSES]
+        The Ring of Dignity        2<fingers> Wg 3   AC 15 +85 Hp AE
+        (Cassiopea -- Galaxy)                 [NO ANTICLASSES]
+        A emerald ring             2<fingers> Wg 4   AC 15 +3 HR +3 DR
+        (Royal Mummy -- Small temple)         [NO ANTICLASSES]
+        Tekagi                      <on hand> Wg 5   AC 2  +8 DR -35 SM AG
+        (Dia-oni -- New Japan)                ONLY:[As Th]
+        A golden sceptre                <h/wield> Wg 19  D 10d7 +6HR +10DRAE
+        (King Welmar -- Welmar castle)        ONLY:[Kn Ca Pa Ma]
+        Drow assassin dagger            < b/stab> Wg 10  D 5D10 +10HR +7DRAG
+        (Drow assassin -- Moria Drow)         [NO ANTICLASSES]
+
+#gML 84:-----{#N
+        A  magic cloak              <ab body> Wg 8   AC 15 +75 Mn AE
+        (Shamino -- Ultima)                   [NO ANTICLASSES]
+
+#gML 85:-----{#N
+        Glowing Topaz Bracelet      <wrist>   Wg 15 HP+15 HR+1 DR+1
+        (Topaz Dragon -- Tynstri)             [ NO ANTIS]
+        Steel Dagger With Ebony Handle <b/stab> Wg 8 6d10 HR+9 DR+5
+        (Philosophical Thief -- Elyisium)     [ONLY Th As Ba]
+        A black belt                <  waist> Wg 20  AC 21 AG
+        (Dai-Oni -- New Japan)                ONLY:[As]
+        A suit of fire              <on body> Wg 140 AC 50 +20 SF AG
+        (Satan -- Hell)                       [NO ANTICLASSES]
+        A pitch fork                <  wield> Wg 18 D 7d10 HR+10 DR+10 AG
+        (Satan -- Hell)                       ONLY:[Kn Ca Ra Ma]
+        The holy hammer             <h/wield> Wg 20 D 7d10 HR+4 DR+15+10SM AE
+        (Master Paladin -- Small Temple)      ONLY:[Cl Dr Mo Pa Kn Ca]
+        The avatars glowing spear  2<h/wield> Wg 16  D 6d10 HR+6 DR+15 AE
+        (Prince Orcus -- Small Temple)         [NO ANTICLASSES]
+        A glowing golden chainmail  <on body> Wg 90  AC 45 +3 HR +3 DR AE
+        (Holy Avatar -- Small Temple)         [NO ANTICLASSES]
+        A pair of shiny bracers  2< wrists> Wg 5   AC 15 +3 HR
+        (Holy Avatar -- Small Temple)         [NO ANTICLASSES]
+        Hellstaff                   <   held> Wg 10  +400 Mn AG
+        (Satan -- Hell)                       ONLY:[Wi Il]
+
+#gML 87:-----{#N
+        Deep Purple Belt            <waist>   Wg 5 AC 1 HR-1 DR+3 AG
+        (Purple Dragon -- Tynstri)            [NO ANTIS]
+
+#gML 88:-----{#N
+        Hawthorn heart              <held>    Wg 15 +150Hp 15 chrages of heal
+        (Tamric -- Tynstri)                   [ANTI: Mu Cl Th Wa Ba Kn As Ra Ma]     
+        Amethyst Ankle Bracelet     <feet>    Wg 1 AC 2 HR+1 DR+5 MR-25 AG
+        (Amethyst Dragon -- Tynstri)          [NO ANTRIS]
+~
+E
+lev90=~
+#gML 90:-----{#N
+        Ornate Gold Ring            <finger>  Wg1 AC30 Mana+75
+        (Gold Dragons -- Tynstri)             [ONLY Ps]
+        Compleatly Black Armour     <on body> Wg 188 Ac 45 Mv-50 Hp+100 AN
+        (Exodus -- Ultima)                    [MuClThPsMoKnWiDrAsIlPa]
+        Cap'n's Shield              <shield>  Wg 15 AC6 MV+60 HR+2 Mr+5
+        (Master Ranger -- Tynstri)       [ANTI: Mu Cl Th Ps Mo Ba Wi Dr As]
+        Master Ranger's Hunting Knife <h/wield> Wg 8 6d9 HR+10 DR+8 AE
+        (Master Ranger -- Tynstri)            [Anti Cl Mo Dr]
+        Spiked Mace                 <h/wield> Wg 16 6d13 HR+3 DR+7 AG AN
+        (Blackthorn -- Ultima)                [ANTI: Mu Th Kn Wi Il Pa]
+        A Big Red Face              <head>    Wg 98 AC18 Mana+100 AG AN
+        (Guardian -- Ultima)                  [NO ANTIS]
+        Leggings of Elvenkind       <legs>    Wg 15 AC 10 Mana +30 AE
+        (Master Ranger -- tynstri)            [ONLY:Dr Ra]
+        Froboz`s robe              2<ar neck> Wg 5   AC 6   +20 SM
+        (Old gen eq)                          [NO ANTICLASSES]
+        Great Hunting Bow           <hold>    Wg 10 9d7 Hr+17 Dr+26 Mr10AEAG
+        (Master Ranger -- Tynstri)            [Ranger only]
+        Intricate Torc             2<ar neck> Wg 5   AC 6   +20 MR
+        (xKamthra -- SDzone)                  [NO ANTIS]
+        Bracelet of wizardry      2< wrists>  Wg 5 AC 10 +200 Mn
+        (Great Mistress -- Mage Tower)        ONLY:[Wi Il Ba Ps]
+        Ring of wizardry          2< finger>  Wg 5 AC 10 +100 Mn
+        (Great Mistress -- Mage Tower)        ONLY:[Wi Il Ba]
+        A heart shaped medallion   2<on neck> Wg 3   AC 20
+        (altar n from Mistress -- Mage Tower) [NO ANTICLASSES]
+        Green dragon scale shirt    <on body> Wg 15  AC 35 +200 Mn
+        (Mistress -- Mage Tower)              ANTI:[Kn As Pa Ma Ca]
+        An amulet of true armor    2<ar neck> Wg 10  AC 25 AG
+        (2.Fury -- Hell)                      [NO ANTICLASSES]
+        The ring of the universe   2<fingers> Wg 3   AC 30
+        (Polaris -- Galaxy)                   [NO ANTICLASSES]
+        The ebony kris              < b/stab> Wg 9   D 10d5 HR+10 DR+10
+        (Mistress -- Mage Tower)              ANTI:[Cl Mo Dr]
+        Shiny golden helm           <on head> Wg 30  AC 30  +100 HP AE
+        Shiny golden footplates     <on feet> Wg 20  AC 15  -50 Mv  AE
+        Shiny golden gauntlets      <on hand> Wg 30  AC 12  +5 HR +5 DR AE
+        Shiny golden armplates      <on arms> Wg 40  AC 20  +100 HP AE[
+        Shiny golden leg plates     <on legs> Wg 30  AC 20  -50 Mv AE
+        Shiny golden breastplate    <on body> Wg 140 AC 50  +80 Hp AE
+        All 6:(Master Paladin -- Small temple)ONLY:[Kn Ca Pa]
+        British's amulet            <ar neck> Wg 1  AC 20  +10 SM AE
+        British's crown             <on head> Wg 10 AC 18  +100Mn +5SM AE
+        British's sceptre           <h/wield> Wg 8  D 6d10 DR+8 +100Mn AE
+        All 3:(Lord British -- Ultima)        ANTI:[Th Ba As Ma]
+        Black drow longbow          <h/wield> Wg 10 D  9d9 HR+10 DR+15 AG
+        (Bandar Nazet -- Moria Drow)          ONLY:[Ra]
+        Sceptre of Might            <  light> Wg 4   300 Hrs +4 HR +4 DRAE
+        (King Cepheus -- Galaxy)              [NO ANTICLASSES]
+        Great Dipper of the Skies   <h/wield> Wg 16 D 6d12 HR+15 DR+5 Bl
+        (Old Gen EQ)                          ONLY:[Pa Dr Mo]
+        Light Sabre                 <  light>      Infty  +8HR Good only
+        Light Sabre                 <  light>      Infty  +8DR Evil only
+        All 2:(QUEST -- 20 QP)                      [NO ANTICLASSES]
+        Light Sabre                 <  light>      Infty  +4DR +4 HR AG A
+        (QUEST -- 30 QP)                      [NO ANTICLASSES]
+        Long Shimmering Icicle      <held>    Wg 5 4d3 HR+6 DR+18 AG
+        (Ice Dragon -- Tynstri)               [Invisible,nodrop,hidden]
+
+#gML 95:-----{#N
+        A Set of BattleArmour       <on body> Wg 100 AC45 Hp+75 AE
+        (xDemandred -- SDzone)                [ANTI Cl Mo Ba]
+        Long Tooth                  <b/stab>  Wg 8 10d5 HR8 DR10 MR2 AE
+        (xHercules -- SDzone)                 [NO ANTICLASSES]
+        Metallic Armplates          <on arms> Wg 20 AC10 +2DR +5MR
+        (xHercules -- SDzone)                 [NO ANTICLASSES]
+        Light Mithril Gauntlets    <on hands> Wg 15 AC10 Hp+50 DR+5
+        (xZharradan -- SDzone)                Only:[As]
+        Crimson Long Sword          <h/wield> Wg 7 8d8 HrDr+10 NoMove AG
+        (Hades -- Hell)                       [ANTI Mu Cl Th Ps mo Ba Wi Dr As]
+        Black and Deadly Dagger     <b/stab>  Wg 10 6d8 HR+8 DR+10 AG
+        (xZharradan -- SDzone)                [ANTI Mu Cl Wa Ps mo Ba Kn Wi Dr]
+        An emerald bracer          2< wrists> Wg 10  AC 5  +3 HR +3 DR
+        (Hades -- Hell)                       [NO ANTICLASSES]
+        A suit of death             <on body> Wg 180 AC 55 -5 HR -300 MnAG
+        A pair Of Golden Gauntlets  <hands>   Wg 5 AC 8 HrDr+4 AE
+        (xDemandred -- SDzone)                [ANTI Cl Mo Dr]
+        (Hades -- Hell)                       ONLY:[Wa Kn Ca Ra Ma Ba]
+        A shimmering war band       <on head> Wg 25  AC 10 +2 HR +2 DR AG
+        (Hell spawn  -- Hell)                 ONLY:[Wa Ca Ra Th Ba Pa Ma]
+        Aura of light               <  light> Wg 5   300 Hrs  -25 AC AG
+        (Hades -- Hell)                       [NO ANTICLASSES]
+
+#gML 100:----{#N
+        Psionic Whip                <h/wield> Wg15 6d12 HR+9 DR+6 Mana+100
+        [Creston -- Psi School]               [ONLY: Ps]
+        Belt of Triskelion          <waist>   Wg 25 AC 18 Mana+50 Mr10
+        (Creston -- Psionicist school)        [Ps Wi Only]
+        Magical Ball of Wildfire    <light>   Wg 14 Mana+80 HR+2
+        (Master Ranger -- Tynstri)            [NO ANTIS]
+        Finely Made Mithril Chainmail <on body> Wg 50 Ac50 Hp+25 Mv+100 AE
+        (Master Ranger -- Tynstri)            [Ranger Only]
+        The Emperor`s new clothes   <ab body> Wg 150 AC 20 AE +2 Dx +18 SM
+        (Emperor Nazaki -- New Japan)         ANTI:[Mu Cl Ps Mo Wi Dr Il]
+        Onyx hilted longsword       <  wield> Wg 7   D 8d8 HR+7 DR+10  Ev
+        (Michael -- Moria Drow)               ONLY:[Wa]
+        Kazlyn's Dark-Oak Staff     <  wield> Wg 9 D 6d9 HR+7 DR+9 +150Mn A
+        (Kazlyn -- Moria Drow)                ONLY:[Pa,Wi,Il,Ps,Ma]
+        Diffuse Glow                <light>   Wg 1 Mana+75 AE
+        (xKamthra -- SDzone)                  [NO ANTIS]
+        The heartseeker             < b/stab> Wg 1   D 7d8 HR+10 DR+10 NM
+        (QUEST -- 35 QP)                      [NO ANTICLASSES]
+        The wyrmslayer              <  wield> Wg 15  D 9d9 HR+6 DR+15 Bl
+        (QUEST -- 25 QP)                      [NO ANTICLASSES]
+        Aura of Alcmene            <  light>      Infty  +4DR +3 HR
+        (QUEST -- 30 QP)                      [NO ANTICLASSES
+        Golden Unicorn Horn         <b/stab>  Wg 15 14d3 HR+12 DR+12 AE
+        (Unicorn -- Tynstri)                  [ANTI:cl mo dr]
+        Golden Staff                <h/wield> Wg 12 6d10 HR+8 DR+8 MANA+100
+        (xKamthra -- SDzone)                   [NO ANTIS]  AE
+ 
+#gML 105:-----{#N
+        Mighty Hammer of justice    <h/wield> Wg 21 8d8 HR+5 DR+10 Age+50
+        (Elfking -- Elysium)                  ONLY:[Kn Pa]
+        Superhero Cape              <ab body> Wg 1 AC25
+        (Elfking -- Elyium)                   ONLY:[Kn Pa]
+        Henrietta's Favourite Dress <on body> Wg 5 AC45 +75Hp +150Mn
+        (Henrietta -- Tynstri)                ANTI:[Th Wa Kn As Ma Ca Ni]
+        Long Spiderweb Sleeves      <arms>    Wg 1 AC12 Mana+50
+        (Fairy Warrior-Wizard -- Elysium)     [ONLY Wi Ps Il]
+~
+E
+areas~
+Here is a list of some of the areas available on the mud, however the mud 
+is expanding all the time and areas might be moved slightly to accomodate 
+newer ones. (All directions are from the Temple)
+The level ranges are -very- approximate and depend very heavily on the 
+class equipment and number of remorts. Try zones about the right level, 
+if they are too easy, try harder ones, or others with the same rating.
+
+Always take recalls when exploring a new zone, and make sure you set your
+wimpy as high as possible.
+
+     #GZone Name                 Directions                 Levels#N
+     Assassins                 2s6e2n5e2n8e2n2dw          [#Ylow#W]
+     Bandits                   2s5w6wned3e3swswse         [#Ylow#W] 
+     Chessboard                2s7ed3ne6n6ed              [#Ylow#W-#Mmed#W] 
+     Crete                     3s2e2s7w7w7wswn2w2s        [#Ylow#W]
+     Crimson Fist              2s8e7e3s3wud               [#Chigh#W]
+     Delray                    2s3w6se6swnw3de            [#Ylow#W-#Mmed#W]
+     Demon Empire              2s3w6se6se6s2e9s2s3wnw     [#Gv.high#W]
+     Dirt Path                 2s5w2n                     [#Rnewbie#W]
+     Elysium Faire             8n8n8nw                    [#Gv.high#W]
+     Fairies                   7n7n9e4ne4nw4n             [#Mmedium#W]
+     Galaxy                    2s9w7ws2w2sws3wn2wd        [#Chigh#W] 
+     Gigantia                  9n9n9n3nen3en              [#Mmedium#W] 
+     Godforsaken Slum(PKOK)    3s3w3sws                   
+     Gragloy Castle            2s6e2n5e2n8enenu           [#Chigh#W]
+     Graveyard/Undertemple     2s3w6s2es                  [#Ylow#W-#Mmed#W]
+     Heaven                    2s6e2n4ed3n9ee4nw ("exit") [#Chigh#W]
+     Hell                      2s7ed3ne2s5e2s5e7s4sd      [#Gv.high#W]
+     Hobbit Village            2s4e5n                     [#Ylow#W]
+     Illir                     2s7ed3ne2s5e2s5e3s3ws2w3n  [#Mmedium#W]
+     Japan                     3s3w4se6se6s8s4e2s4e       [#Chigh#W]
+     Lagoon                    3s3w4se6se6s8se5s5s        [#Mmedium#W]
+     Lamias                    2s7ed5n8ese2sw             [#Ylow#W]
+     Lizardmen                 3s2e2s6ws                  [#Ylow#W]
+     Mage's Tower              2s7ed3ne2s5e2s5es4en       [#Chigh#W]
+     Minotaurs                 2s6e5n5und4nen2e3s         [#Mmedium#W]
+     New Arachnos              2s9w7ws3wun                [#Ylow#W]
+     Newbie Zoo                2s5e2s                     [#Rnewbie#W]
+     New Drow                  2s6e8n2wn3wde3n2w2n2wnwn   [#Mmed#W-#Gv.high#W]
+     Ocean                     3s2e2s6w7w3se2swsw2s       [#Mmedium#W]
+     Psionicist School         2s3w5s4en                  [#Mmedium#W]
+     Pyramid                   2s7ed5n9eneu               [#Mmedium#W]
+     Rome                      9n5n5w                     [#Ylow#W]
+     Stanneg                   2s9w2wned3e2s2e            [#Ylow#W-#Mmed#W]
+     Storm Dragons Fortress    2s3w6se6se6s2e9se2neueu    [#Gv.high#W]
+     Swamp                     2s9w7ws2w2sw3s             [#Chigh#W]
+     Small Temple              2s6e8n2n2e4n2en            [#Chigh#W-#gv.high#W]
+     Troglodytes               dned2nwnd2e2nwswndw        [#Ylow#W]
+     Trolls                    2s6e2n5e2n2e2swn           [#Chigh#W]
+     Tynstri                   7n7n9e4ne2n3en2e3ne        [#Mmed#W-#Gv.high#W]
+     Ultima                    2s9w2nwnenw3s              [#Ylow#W-#Gv.high#W]
+     Welmars Castle            2s8e7e3s9en                [#Chigh#W]
+     Werehome                  2s7ed3ne2s2e2n4e3n2edes    [#Chigh#W]
+         
+Approximate Ranges: [#Rnewbie#W]     0-5
+                    [#Ylow#W]        5-30
+                    [#Mmedium#W]     30-60
+                    [#Chigh#W]       60-90
+                    [#Gv.high#W]     90+
+~
+E
+story9~
+Maybe now, such titles as Deimos's "Silver Dragon" or Sinner and his
+"a lone rogue and his dragon".. maybe they make more sense.... Maybe
+names such as Ji and Elvis, Dikuman and Funnyguy won't be
+forgotten... Thank you, Djeli, for allowing me to write the clan
+history.. I think since Evil's deletion I'm probably the one who
+knows it best, although of late my view has been from the outside and
+not from within. Congratulations, Storm Dragons, you have a clan you
+should all be proud of. You did something I, and others, failed to
+do.
+
+You made a clan out of yourselves, and for that, I respect you.
+
+Lady Nymph
+(So ends the history)
+~
+E
+story8~
+EPILOGUE
+That was then, this is now.
+For those who wanted a list of rulers, lets see what I can manage...
+Evil/Nymph (Evil includes *all* his characters)
+Evil
+No-one
+Zharradan
+Djeli
+I've not included various others who held a leader rank, only the
+ones who had "final say", as it were.
+Storm Dragons has had a lot in it's history. Few probably remember
+Funnyguy, or Dikuman, or Santa, or Evil, despite the fact that Evil
+was the second most worshipped god the mud has ever known... but all
+these people and more made this clan what it was, much as you reading
+this make Storm Dragons what it is and what it can become. (To 
+continue, look story9)
+~
+E
+story7~
+to the mortal world and became the first mortal to remort thrice,
+making him one of Midgaard's mightiest heroes. He seized the clan,
+and led it to new heights new blood joined, and working with old
+gods, made the clan something fresh, something new.
+
+Storm Dragons today are indeed a popular clan, ranging between 4 or 5
+and 15 people online, truly impressive. They are a clan with a
+history like no other, for few have a history so rich, or so
+controversial. The clan is a clan of firsts... the first 3rd remort,
+and the first clan to use unique clan titles.. also the reason why
+only advisors and higher can resign from a clan. Due to the Storm
+Dragons, 2 clans died, GeNeX, and Shadow Runners, and many others
+spent themselves attempting to extinguish this clan. Clan wars almost
+became a reality.(To continue, look story8)
+~
+E
+story6~
+Shampoo became the clan Mother Goddess and Lagg remained the sole
+Grand Drake. Evil self-deleted in a fit of despair, and Santa soon
+followed suit.
+
+STORM DRAGON CLAN HISTORY (New Hope)
+Storm Dragons, as a clan, drifted. It was no longer a potent clan,
+and its most prominent warriors became gods, leaving a vaccuum of
+talent in the world of Midgaard. It was a clan with no leader, and
+existed in a void, with no goals, and no identify. Those who had
+attempted to save it had left it for dead.. but it did not die.
+Salvation came in the guise of Avalon and Zharradan. Avalon became
+more and more mighty as an immortal, while Zharradan, an absent god,
+returned (To continue look story7)
+~
+E
+story5~
+forever. In one fell swoop, myself, Sinner, Deimos, Elvis, and Hoffa
+left the clan, and the Storm Dragons lurched on the edge of death.
+For a short time I stayed in the Holy Unicorns, while others drifted
+into clanlessness or the Shadowblades of old. After immorting, I
+spoke with  friends, Deimos, Sinner, Radagast and Puck, and the 5 of
+us returned with renewed spirit to attempt to save our clan.
+It was not to be so. New policies drove friends away, old leaders
+lost hope, and Santa faded away. In anger and despair some of the
+Storm Dragons' finest left, off to search for what they sought to
+create. Shadowblade accepted many, while others formed new clans: the
+Army of Darkness, and Saracen, later to be known as Kai. Still others
+drifted to the Holy Unicorns and the Pack.
+(to continue, read story6)
+~
+E
+story4~
+and more people ignored the clan line. What was once a clan was now
+merely a collection of people. It was at this time that several Storm
+Dragons left the clan and formed what became known as the SHOGUN
+clan.
+
+STORM DRAGON CLAN HISTORY (Clan War)
+
+No, clan war never happened, but it nearly did. Hatred came from
+everywhere, and old allies, such as the SHOGUNS, soon turned on their
+old friends.  Rotting from within, warring from without, the Storm
+Dragons slowly lost hope. Evil became aloof, and I, in my attempts to
+save the clan, nearly destroyed it
+( To continue, look story5)
+~
+E
+story3~
+For some reason, Anubis was raised to the rank of Grand Drake, and
+this began a tendency to raise people to the ruler rank. This
+resulted in a bit of chaos until a balance was reached with first 3
+rulers, and later 5, with Santa being the first among equals and me
+being the Queen over all. Sinner, Radagast, Anubis, Deimos, Sinner,
+Puck, Gurk, Santa, Reddragon, and I believe Odie, all served in the
+post of Grand Drake at one point or another. Lagg was the last of
+them, until the recent election. Slowly, the clan deteriorated, as
+apathy took hold and people began to ignore their kin. A slow rotting
+became an explosion, and the problems became deeper and deeper. The
+very thing that made the clan grow began to destroy it, and the
+recruitment policy of the leaders began to show its evils as more
+(to continue, look story4)
+~
+E
+story2~
+The Storm Dragons grew swiftly, with a recruitment policy more
+aggresive than any other in the history of elite. Only a few clans
+became as despised as the Storm Dragons were. Clumsiness on the part
+of myself and apathy on the part of Santa only quickened the problem,
+and soon the Storm Dragons had to look into themselves to see what
+had gone wrong.
+
+STORM DRAGON CLAN HISTORY (The Turmoil)
+I was the first Mother Goddess, as Djeli's title was known back then,
+and Reddragon was the first Grand Drake, or clan ruler. As I earlier
+said, I pursuaded Evil that Santa was more suited to this role.
+Avalon was the first and only Overgod, but Evil was the first
+Celestial Emperor.
+(to continue, look story3)
+~
+E
+story history storm sd~
+STORM DRAGON CLAN HISTORY (The Beginning)
+Long ago, a great assassin known as Evil achieved his immortality
+indeed, his swiftness in becoming a god was only matched, rather
+ironically, by Zharradan. He found a place for himself in the clan of
+the Shadowblades, and soon was reckoned as a mighty warrior, in
+guises of Santa and Reddragon, the powerful dragon lords. The dragon
+Reddragon contrived to found a clan, a people in his new world,  and
+with the elf Nymph as queen and the assassin Evil as Celestial
+Emperor, the Storm Dragons formed. Exodus began. Evil was a popular
+deity and Santa a respected hero, and many of his comrades from the
+Shadowblades followed, many disenchanted with the loss of Telcor. I
+managed to convinved Santa to take charge over Reddragon, and soon
+this infamous ancient dragon Lord was master of the Storm Dragon
+clan.(To continue, look story2)
+~
+S
+#27816
+#RThe Lower Caverns#N~
+   You find yourself in the deepest darkest area of the Storm Dragons
+Clan House, where the most ancient Storm Dragons reside. Having risen to 
+the peak of their power, these mighty clan members have moved on to other
+realms, but their chambers are always left ready for them, should they
+return.
+~
+278 duz 0
+D4
+A narrow passage leads upwards.
+~
+~
+0 -1 27811
+D0
+You cant see much, its pretty dark.
+~
+~
+0 -1 27817
+D1
+An archway leads east into an ancient leaders chambers.
+~
+~
+0 -1 27806
+S
+#27817
+#RSkar's Study#N~
+   You have entered a cosy room. A fireplace is set into a wall, and
+there is a big comfy looking rug in front of it. A couch is standing
+behind the rug, and there is a bed in a corner as well.  This is the
+room of the current leader of the Storm Dragons, Skar.  You see
+pictures of his family on the walls, some still here, some sadly
+missed. You recognize Diana, Crusher and Dragonstorm.  There are many
+books on ancient dragon lore placed in bookshelves all around the
+room and on the oaken desk which stands in the centre.  A comfortable
+looking chair is standing behind the desk, with soft cushions. Looks
+like Skar likes to have comfort when he is working on making his clan
+a better place for the people to be in.  You also notice some emtpy
+space in one corner and wonder if that is where Rol sleeps when he is
+in his dragon form. You are not sure if dragons need sleep at all,
+but if he does it's nice and warm here to sleep at least.
+~
+278 duz 0
+D2
+You see a small dark chamber to the south.
+~
+~
+1 -1 27816
+S
+#27818
+#RElminister's Funky Chamber of Sleep#N~
+   As you enter this chamber through a not-so-secret flimsy wooden door,
+you begin to understand why Elm lives in the basement. You are enveloped
+by bright nauseating colours emitted by Elm-enhanced glowworms. Assorted
+bizarre looking weapons litter the floor, including weapons from distant 
+Japan and foreboding Ultima. The book shelf is full of dusty spell books 
+perilously close to the caged Book Monster and you see potion bottles 
+not properly corked filling the room with a strange mist that can’t be 
+healthy. Walls are plastered with posters of the sexy Grand Mistress and 
+unbeatable Bruce Lee. A massive grandiose bedstead fills the rest of the 
+chamber and you recognize it as King Welmar’s bed that was reported 
+stolen a couple weeks ago.
+~
+278 duz 0
+D3
+A narrow bridge leads into the Gallery of the Drakes.
+~
+~
+1 -1 27811
+~
+S
+#27819
+#RBludjon's Abode#N~
+   You have entered a very large room. Immediately, the #wtapestry#N on the 
+#wnorth#N wall catches your attention. It depicts a very life-like image of 
+a raging #wStorm Dragon#N. On the centre of the #wnorth#N wall is an #walcove#N, 
+curtained off by some heavy azure velvet #wdrapes#N. #wWest#N, you see what 
+appears to be a #wwizard's workshop#N. The #weast#N wall is completely filled by 
+an enormous #wcloset#N with fold-away doors.
+~
+278 duz 0
+D2
+A wide door leads south onto the Drakes Gallery.
+~
+door~
+1 -1 27811
+D0
+The detail of the #wtapestry#N is exquisite. A #wStorm Dragon#N rearing back, 
+foreclaws extended, ready to deliver a devastating breath attack. 
+Breathtaking!
+~
+~
+0 -1 -1
+D1
+A huge #wcloset#N stretches from wall to wall. The folding door is featureless 
+but for a small #wrecess#N in the centre.
+~
+~
+0 -1 -1
+D3
+Looks like a collection of equipment of the kind a working wizard 
+might have. There is a glass-doored #wcabinet#N which appears to contain 
+spell components. There is a mortar and pestle sitting on large 
+worktable. On one end of the #wworktable#N, there stands a #wdais#N on which 
+rest a huge tome. Bludjon's Spell Book? On the other, there rest a 
+large bookcase containing what looks to be reference materials. 
+~
+~
+0 -1 -1
+E
+tapestry~
+The detail of the #wtapestry#N is exquisite. A #wStorm Dragon#N rearing back, 
+foreclaws extended, ready to deliver a devastating breath attack. 
+Breathtaking!
+~
+E
+raging storm dragon~
+A magnificent beast! The muscles beneath the iridescent scales almost 
+seem to be rippling. Gleaming white fangs and razor teeth strike a 
+primordial chord deep within your breast. Huge ivory talons, the size 
+of broadswords grace the forepaws of the creature. The hind quarters 
+sport even larger ones. Ruby red #weyes#N with elliptical irises of the 
+blackest midnight seem to glow with intelligence and life. The Storm 
+Dragon seems poised to step out of the tapestry to strike!
+~
+E
+eye eyes~
+Strange! The eyes seem to be following you as you move about the 
+room. Could this be some sort of enchanted guardian?
+~
+E
+wizard wizards wizard's workshop~
+Looks like a collection of equipment of the kind a working wizard 
+might have. There is a glass-doored #wcabinet#N which appears to contain 
+spell components. There is a #wmortar#N and #wpestle#N sitting on large 
+#wworktable#N. On one end of the #wworktable#N, there stands a #wdais#W on which 
+rest a huge #wtome#W. Bludjon's Spell Book? On the other, there rest a 
+large #wbookcase#N containing what looks to be reference materials. 
+~
+E
+glass door cabinet~
+Through the glass you see bottles and jars neatly arranged in an 
+order not readily apparent.. Curious, you start to open the door. 
+You get the door partially open, when a invisible force pulls it from 
+your hand and slams it shut. A voice echoes in your head:-
+
+#MThat would not be advisable, mortal! These items are 
+         valuable and dangerous. Do Not Touch!#N
+
+You look around. The tapestry catches your eye. Is that a tendril of 
+smoke rising form the Storm Dragon's mouth? You decide to leave the 
+cabinet alone. After all, curiosity killed the cat. Didn't it?
+~
+E
+dias dais~
+A #wtome#N embossed with arcane magical symbols sits atop the #wdais#N. The 
+dais, itself is made of oak. Wait a minute! It looks like it is actually 
+rooted in the floor. Closer examination shows that the #wdais#N is a 
+miniature oak tree, transformed and shaped by magic. You scratch the 
+the surface of the trunk. Sure enough, sap flows slowly from the wounded 
+tree.
+~
+E
+tome book volume~
+Covered in runes and mystical symbols, the tome radiates an aura of 
+tremendous power. What kind of spells and incantations reside inside? You 
+must see! You reach out to open the book. A blue glow suddenly surrounds 
+the tome. A bolt of green lances lances from the volume striking your 
+hand! You have lost all feeling in your fingers. A voice dins inside your 
+head.
+
+        #MFoolish mortal! You have been warned. Do Not Touch!#N
+
+Feeling slowly returns to your fingers. You check the tapestry. You seem 
+to smell the scent of ozone emanating from that direction. Perhaps you 
+really don't NEED to read the tome.
+~
+E
+bookcase books reference~
+The bookcase appear strange. Looking closer, you see that it is actually 
+a tree rooted in the floor. A transmuted oak tree shaped into a bookcase. 
+Awed, you reach out to take a book from the shelf. Suddenly the book is 
+torn from your grasp! It gently floats back to it's place on the bookshelf. 
+A voice chuckles softly in your head.
+
+   #MAvatar Bludjon likes to keep his library in order, mortal. Cease!#N
+   
+You glance towards the tapestry. Is there a draft in the room? It almost 
+looked like the Storm Dragon's forepaws had twitched. You decide to catch 
+up on your reading later.
+~
+E
+worktable table work~
+A normal, ordinary worktable. The surface is scarred, stained and scorched. 
+Hmm... perhaps Bludjon was not alway so capable. It seems not all his 
+experiment proceeded perfectly.
+~
+E
+pestle mortar~
+Used for combining spell components, the mortal and pestle show signs of 
+wear and tear. Seem like Bludjon is a serious experimenter.
+~
+E
+closet~
+A huge closet stretches from wall to wall. The folding door is featureless 
+but for a small #wrecess#N in the #wcentre#N.
+~
+E
+centre center recess~
+A miniature duplicate of the Storm Dragon from the tapestry is carved here. 
+You reach out to finger it. You quickly yank you hand back as the doors 
+slowly and silently fold back into the wall. You gasp! You see displayed 
+here just about every imaginable type of and magical and non magical 
+weapon, armour and clothing. You are stupefied at the range and rarity of 
+the equipment displayed. You hands itch at the sight of the holy hammer and 
+avatar spear. You reach to take the spear. And quickly retract your 
+traitorous digit as a thin wall of cyan fire erupts for the floor of the 
+closet and extends to the top of the cabinet. Damn! Protected by magic. A 
+voice rumbles ominously inside you head:-
+
+         #CMortal! Much time and blood was spent in the collection 
+         of this equipment. Spend some of your own. Do Not Touch!#N
+
+Oh well, so much for the freebie equipment. You glance at the tapestry. Sure 
+enough, the Storm Dragon's tail looked as if it twitched slightly.
+~
+E
+alcove drapes drape curtain curtains~
+You sweep aside the heavy drapes. Inside the alcove, you find a huge 
+sumptuous bed. It is swathed in azure silk sheets and is covered in a 
+beautiful white fur bedcovering. Several pillows are propped against the 
+wall to facilitate lounging.
+~
+E
+sheet sheets azure silk~
+Pulling back the sheets and fur, you discover a pair of lacy black panties. 
+A faint, intoxicating perfume can be detected in the air.
+~
+E
+lace panty panties~
+Obviously not Bludjon's. It appears he is not averse to the plucking of a 
+delicate flower now and then. An overwhelming urge hits you! You press the 
+panties to your face and breath deep. A disgusted voice rings in your head.
+
+                        #GPerveted Mortal!#N
+
+You blush. Embarrassed, you peek towards the tapestry. You notice there 
+seems to be a smirk upon the Storm Dragon's visage.
+~
+E
+fur white bedcovering bedcover~
+The fur is lovely. It appears to be made from the skins of several frost 
+wolves. Very soft and wonderfully warm.
+~
+E
+pillow pillows~
+It's just some pillows, you idiot! What did you expect?
+~
+E
+bar~
+The bar displays a myriad of different bottles of every shape and size. The 
+all seem to contain alcoholic beverages. Some you recognize. Some you don't. 
+Some look very enticing. Some look positively noxious. Now why would any 
+normal being put a worm into the bottle of liquor? You think you could go 
+for a drink right now. You reach for a bottle of your favourite hooch. Will 
+you never learn? There is a peal of thunder and a flash of lightning!
+
+    #RInsidious Mortal. You may try to discover my spells. You may 
+     try to take my equipment. You may despoil the sanctity of my 
+           sleeping quarters. BUT NO ONE DRINKS MY LIQUOR!!! 
+                      Prepare for thy doom!#N
+                      
+You whirl around! The Storm Dragon is surrounded by an unearthly glow. Slowly 
+a taloned hind foot emerges from the tapestry. You think that, perhaps, now 
+would be a good time to exercise the better part of valour. Flee!
+~
+E
+winerack wine~
+The winerack reaches from floor to ceiling and is filled with dusty, ancient-
+looking bottles of wine. It appears Bludjon enjoys the odd tipple. Hmmm... a 
+nice sip of Cabernet might hit the spot right now. You select the dustiest 
+of the bottles of Cabernet. A peal of thunder and a flash of light!
+
+    #RBlasphemous Mortal. You may try to steal my magical secrets. You 
+    may try to plunder my gear. You may abscond with favours left by my 
+             favourite flowers. BUT NO ONE DRINKS MY LIQUOR!!! 
+                  Prepare for thy doom!#N
+
+You spin! The Storm Dragon is outlined by an ethereal aura. Slowly a taloned 
+forepaw twists itself loose from the tapestry. You think that, perhaps, now 
+would be a good time to to make like the birds and flock off. Flee!
+~
+S
+#27820
+#RThe Mound of Turin Turambar #N~
+   You look upon the mound with a great grey stone up the top and you 
+are filled with great sorrow.  Upon the stone there are runes they read,
+Turin Turambar Dangir Glaurunga and below them Nienor Niniel. On the
+west side you see the words, here lies also Morwen Eledhwen. You
+recall the lament 'Narn I Hin Hurin' the Tale of the Children of Hurin
+and know you this is Turin's and Morwen's final resting places.  Where
+Turin slayed the dragon Glaurung and afterwards threw himself upon his
+own sword Gurthang. You here the rushing for in the distance is the
+brink of Cabed-en-Aras where Nienor threw herself into the river. 
+
+As you walk away from the mound the words - 'A Turin Turmabar turun
+ambartanen' - master of doom by doom mastered enter your mind and you
+filled with great resolve to continue onwards knowing it may cost you
+much but you will suceed.
+~
+278 duz 0
+D1
+A narrow bridge leads eastwards to the Great Drakes Gallery.
+~
+~
+1 -1 27810
+S
+#27821
+#RThe Eye of the Storm#N~
+   In the eye of the storm, all is quiet. The wide rooftop is exposed to 
+the sky, but although the storm rages all around, this place remains 
+peaceful. Clearly it has more protection than the low wall of reddish 
+stone that encloses the area. The sky is a magnificent sight to behold, 
+clouds of grey, black and furious red clash with flashes of lightning 
+and deep rumbles of thunder. Wide stone steps lead down in front of the
+fortress. The prow of a viking longship, gathered and smashed by the 
+storm has come to rest on the north side of the balcony.
+~
+278 dtuz 4
+D5
+Looking down through the eye of the storm you see the Moria Mountains, 
+and a mighty fortress perched on the mountain top.
+~
+~
+0 -1 27800
+E
+viking longship long ship prow~
+Several round viking shields still cling to the bulwarks of the wrecked 
+longship. The splinted mast and shreds of the once-square sail lie 
+forlornly to one side. A cluster of barrels thrown from the wreckage are
+scattered around here.
+~
+>echo 1~
+Thunder rumbles all around you. High in the storm clouds you think you
+see the outline of a huge dragon basking in the storm.
+
+~
+>echo 1~
+You hear the sound of giant wings beating. Glancing back at the fortress
+you think you see one of the Drakes enjoying the storm.
+
+~
+>echo 1~
+Lightning flashes all around you, crackling off the magical barriers 
+surrounding the balcony.
+
+~
+>echo 1~
+Magic crackles all around you, and suddenly the full force of the storm
+buffets you. From deep within the fortress comes a deep rumbling roar
+and suddenly everything is calm once again.
+
+~
+>echo 1~
+Glancing around, you see a person at one of the windows. Before your
+eyes, the figure shimmers and changes shape into a huge dark dragon
+before swooping low overhead and disappearing into the storm.
+
+~
+S
+#27822
+The Basement~
+   The basement of the fortress is one huge dusty room. The walls are
+hidden behind stacks of unused equipment, armour and weapons. In the 
+light cast by flickering torches, the discarded junk takes on a life of 
+its own, with peculiar and fearsome shadow shapes dancing on the walls.
+This room is where the Storm Dragons leave all the lesser treasures 
+that they pick up on their adventures - not worth donating, but worth
+having around just in case.
+~
+278 duz 0
+D4
+A spiral staircase leads up to the clan Donation room.
+~
+~
+0 -1 27803
+S
+#99999
+$~
+

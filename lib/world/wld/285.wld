@@ -1,0 +1,579 @@
+#28500
+#yOn the river before a narrow passage#N~
+     Through a narrow passage to the north you can spot the HUMBLE CASTLE
+(hmm..) of the NIGHT TRIBE Order lying on top of a large cliff in a 
+gigantic cave.  Two immortal DEMONS are guarding the narrow passage to the
+cave, trapped here by powerfull magic that seem to eminate from the
+castle itself. One of the demons warn you: - You take one more step in
+this direction I'll rip your head off. 
+~
+285 cduz 6
+D0
+~
+~
+0 -1 28501
+D2
+~
+~
+0 -1 3214
+E
+humble~
+Well thats probably the understatment of the year but hey we night
+tribers are modest.
+~
+E
+night tribe~
+This is really the best clan around. 
+~
+E
+castle~
+The castle seems to glow in the dark from the precious stones decorating
+its walls forming an arcane magical pattern.
+~
+E
+demon demons guardian guardians~
+If your not a night tribe member your in big trouble. Mayby if you keep to 
+the middle and run real fast you can get through without the demons 
+having you for dinner.  
+~
+S
+#28501
+#yOn the jetty in the gigantic CAVE#N~
+     You are standing on a small JETTY on the rocky shore below the
+castle. The only way up to the castle seems to be a small path leading 
+north from the jetty snakeing itself upwards between the cliffs. A couple 
+of small BOATS made of wood are tied to the jetty. To the south you see 
+the two guardian demons standing in the water, watching you closely. For 
+some reason you get the feeling that they are hungry. (some boats to be
+loaded) 
+~
+285 cduz 4
+D0
+~
+~
+0 -1 28502
+D2
+~
+~
+0 -1 28500
+D4
+~
+~
+0 -1 28502
+E
+jetty~
+The small wooden jetty is well worn but seems to be in perfect condition.
+~
+E
+boat boats~
+These small wooden rowingboats are here floating on the water just waiting  
+for a member of the Night Tribe to use them.
+~
+E
+stalactites up~
+You can see waterdrops falling from the celing making a small sound 
+hitting the cave floor and suddenly you realise that there is a sort of a 
+background noise coming from thousands of small waterdrops that almost 
+sounds like rain.  
+~
+E
+cave~
+The gigantic cave streches out deeper into the hart of the moria mountains 
+with thousands of STALACTITES hanging down from the celing.
+~
+S
+#28502
+#yIn front of the castle#N~
+     The castle is only half finised. Lots of workers are here on strike 
+blocking the entrance, refusing to finish the castle if they don't get 
+paid.  A small path to the south is leading down from the castle to the 
+shoreline. 
+~
+285 cduz 0
+D0
+The huge gate made of black oakwood is still missing. 
+~
+The wall of workers~
+33 -1 28503
+D2
+~
+~
+0 -1 28501
+D5
+~
+~
+0 -1 28501
+S
+#28503
+#yThe Courtyard#N~
+     You are on the inside of the castle walls. Right in front of you is
+the main building. Along the walls to your left and right you can see the 
+stables, metal workshop and the barraks of the guards and servants. To 
+your south lies the huge black gate through which you entered. Some pigs 
+and chicken are running around here happy to have escaped their cages and 
+some poor servant is trying to catch them again. It looks rather funny 
+actually. 
+~
+285 cduz 0
+D0
+A guard is standing on both sides of the big oak door leading into the
+main building. They are armed with large halberds and look very capable of 
+their job, keeping introuders out of the royal halls. 
+~
+oak door~
+33 -1 28506
+D1
+You see a small door at the base of the South-Eastern tower. 
+~
+door ~
+1 -1 28508
+D2
+~
+huge gate~
+33 -1 28502
+D3
+You see the door leading into the South-West tower. A guard is standing 
+here on duty guarding the entrance. 
+~
+door~
+1 -1 28504
+S
+#28504
+#ySouth-West Watchtower#N~
+     You are standing at the top of the S-W watchtower. Two guards is 
+keeping watch over the ground below for anything suspicious. You have the 
+feeling that the viev from up here would be marvelous if you weren't in a 
+dark cave. Some servants is running around here updating the Area BOARD. 
+To the north you can go by the breastwalk to the North-West Watchtower. To 
+the south you can go back down to the courtyard. 
+~
+285 cduz 0
+D0
+~
+door~
+1 -1 28505
+D1
+~
+door~
+1 -1 28503
+D5
+~
+~
+0 -1 28503
+S
+#28505
+#yNorth-West Watchtower#N~
+     A guard is here sleeping on duty. Well what the heck nothing ever 
+happens on this mud anyway, does there :). Some servants are here updating 
+the Quest BOARD, quietly not to wake the sleeping guard. To your east you 
+can follow the brestwalk on the back side of the castle. South the 
+South-West Watchtower is towering. 
+~
+285 cduz 0
+D1
+~
+door~
+1 -1 28510
+D2
+~
+door~
+1 -1 28504
+S
+#28506
+#yThe Throneroom#N~
+     The golden throne of the Bloodking stands here by the northen wall 
+decorated with marks of honour and pictures from the history of the Night 
+Tribe clan. The kings personal servant stands here keeping track of all 
+that consernes the Night Tribe and puts everything of importance on the 
+clanboard. Jugs with ale and wine and some grilled pigs and chicken is 
+here to eat for the hungry and thirsty members of the clan. To the north 
+theres a small door leading out into the castle garden. Before you entered 
+the throneroom you noticed a beautifully worked staiway up to the second 
+floor with two guards standing half way up watching your every move and a 
+little door to the west. 
+~
+285 cdeuz 0
+D0
+~
+door~
+1 -1 28509
+D1
+To the east you can see the hidden door to the secret escape route out of
+the castle. 
+~
+secret passage.~
+33 -1 28512
+D2
+~
+oak door~
+1 -1 28503
+D3
+Since the King can't trust his heirs not looting the Wine cellar, the only 
+two to have a key to this door is the King himself and his trusted guard  
+Minx. 
+~
+wine cellar~
+1 -1 28515
+D4
+~
+n~
+1 -1 28511
+S
+#28507
+#yThe North-East Watchtower#N~
+     The guard is probably away taking a snack but he left a note saying 
+that he'll be back soon. Well nothing dangerous in the moria mountais 
+anyway (hehe). However a few servants are running around here updating
+the bulletin BOARD. To the south you can get to the South-East Watchtower
+via the breastwalk. West is the breastwalk on the back side of the castle. 
+~
+285 cduz 0
+D2
+~
+door~
+1 -1 28508
+D3
+~
+door~
+1 -1 28510
+S
+#28508
+#ySouth-East Watchtower#N~
+     Two guard are here playing cards, but they jump up and eagerly start 
+scouting the area when they notice your approch. A few servants is here 
+managing the Social BOARD. 
+~
+285 cduz 0
+D0
+~
+door~
+1 -1 28507
+D3
+~
+door~
+1 -1 28503
+S
+#28509
+#yThe Castle Garden#N~
+     A lovely smell reaches your nose when you enter the garden. Different
+types of fungus, lichen and moss is growing here almost on the rock itself  
+with great variety in size and colour. You get the feeling that the fauna 
+has a healing effect on you and you feel relaxed. WATER dropping down from 
+a large stalactite in the cave ceiling makes up a small stream through the 
+garden and leaves down through a small HOLE in the rock. 
+~
+285 cdtuz 0
+D2
+~
+door~
+1 -1 28506
+D3
+~
+secret~
+11 -1 28520
+D4
+~
+~
+0 -1 28510
+E
+water~
+The water has probably been seeking its way through the mountain above for 
+centuries befor reaching here and is very clear. When you taste it you 
+notice how cool and good it tastes. Mayby you should bottle it up and sell 
+it as expensive mineral water.
+~
+E
+hole~
+This hole seems to be bottomless  anyway you can't hear the small rock you  
+dropped into it hit the ground below. You better not drop anything 
+important down it, it might be lost for ever.
+~
+S
+#28510
+#yOn the breastwalk on the backside of the castle#N~
+     You stand on the breastwalk on the backside of the castle between  
+two of the watchtowers. East and west leads to the small doors of the 
+watchtowers. To your left you can see small stepps leading down to the 
+castle garden. 
+~
+285 cduz 0
+D1
+~
+door~
+1 -1 28507
+D3
+~
+door~
+1 -1 28505
+D5
+~
+~
+0 -1 28509
+S
+#28511
+#y2nd floor#N~
+     To the north you see the private quarters of the Bloodking. You 
+wouldn't dare to enter without his permission. Through a door to the east 
+you  can spot rows of bookshelfs filled with old books containing almost 
+forgotten knowledge of the powers of magic. South you see a hallway with 
+doors on both sides each door leading to the private chambers of one of 
+the Heirs or royal guards. 
+~
+285 cduz 0
+D0
+~
+~
+33 -1 28513
+D1
+~
+door fingers~
+11 -1 28517
+D2
+~
+door ripper~
+11 -1 28516
+D3
+~
+door metalman~
+11 -1 28518
+D5
+~
+~
+0 -1 28506
+S
+#28512
+#yTournament Grounds#N~
+     A large field spreads out along the eastern side of the castle. 
+Great flags are raised upward, between large multi colored tents, being
+used for many purposes.  Large areas are fenced off for jousts and combats 
+being held throughout the day.  People mill about, watching and cheering 
+for the various knights of the realm competing here, listening to the 
+clanging of armour and fighting.  Great banners and tributes are raised to 
+the champions and rulers of this land, Night Tribe. Royal Questors dodge 
+amount with uncany skill, teasing the crowd while great clerics of the 
+Tribe heal those wounded during the tournament.  Before it all, stands a 
+large tent, with beautiful banners, belonging to the royal heirs and the
+Blood King himself.
+§N~
+285 cruz 2
+D3
+~
+~
+0 -1 28506
+S
+#28513
+#yThe Bloodking's Private Chamber#N~
+     A large room, richly embroidered with gold and crimson, showing 
+beautiful oak trim of the stone walls.  Tapestries and and other works 
+from about the countryside decorate the inner hall, leading to the 
+chambers of the Blood King.  Beautiful sets of armor and weapons, inlaid 
+with designs and emblems of Night Tribe decorate the room in a magnificent 
+display.  Large windows open outward onto a grand balcony overlooking the 
+tournament grounds of the kingdom.
+§N~
+285 cdjuz 0
+D1
+~
+~
+33 -1 28514
+D2
+~
+~
+0 -1 28511
+S
+#28514
+#yStar Chamber of the Royal Council#N~
+     A large room, with a large star carved into deep stone on the floor.  
+small exits drift off to various chambers in the stone walls, half hidden 
+by great tapestries.  A large beautifully crafted wooden table fills the 
+chamber, cluttered with papers of state and war.  Above you a large
+windowed ceiling made of multi-colored glass serves to create an odd 
+effect upon the whole of the room with the light drifting in from the
+moon. 
+§N~
+285 cdouz 0
+D0
+~
+~
+0 -1 28519
+D2
+~
+door~
+11 -1 28521
+D3
+~
+~
+1 -1 28506
+D4
+~
+^~
+0 -1 28513
+S
+#28515
+#yThe Castle Winecellar#N~
+     You wake up with a terrible headache. You try opening your eyes
+but the room just seems to spinn around makeing you feel dizzy so you
+close them again. After a minute or so you try again and manage to focus 
+on an ITEM in your hand. You have absolutely no recollection of how you
+ended up here. When you turn your head you can make out some steps to the 
+south that should lead you up from here if you could just get on you feet. 
+~
+285 cduz 0
+D1
+~
+~
+0 -1 28506
+E
+down~
+You roll over and look at the floor very closely seeing small creatures
+going along in the own little world.
+~
+E
+up~
+You lie staring at the celing and studying a little spider weave a net. 
+Well it's real fachinating but mayby you should get up now don't you
+think.
+~
+E
+south steps~
+The steps ought to lead up to the castle.
+~
+E
+north west east~
+The whole wall is covered with shelfs packed with winebottles.
+~
+E
+item~
+When you look closer you see that the item your holding is an empty wine-
+bottle though you can't make out the brand (those damned letters just
+won't lie still). A bit to your left you see a couple of more empty 
+bottles.
+~
+S
+#28516
+#yRipper's Room#N~
+   As you walk into this room, you start to wonder what's been going
+through this little mudder's mind. To the north you see a picture of
+Jack the Ripper and a picture of Ripper and notice they look exactly
+the same. To the south you see a wall of the heads of many mudders
+defeated by Ripper. As you look closely at one, you notice it is your
+own. To the west you see a wall with weapons and armour made by  
+the mightiest of Dwarves. To the east you see a mirror. As you walk 
+closer to the mirror you see not your reflection, but the reflection
+of Ripper with an ebony kris ready to backstab you!
+~
+285 dtuz 0
+D0
+~
+door ripper~
+11 -1 28511
+S
+#28517
+#yFinger's Crypt#N~
+   As you enter you see torches in ornate gold #Ybrackets#N light the walls
+of the crypt with flickering light, reflected off the polished pink
+granite of the huge, vaulted room, lending their smell of pitch to the
+fragrance of #rroses#N in the dead, still air.  The floor is white #wmarble#N.
+A short pillar in the center of the immense room supports the coffin
+itself, giving it the effect of floating in the air.  The
+gold-enshrouded #Ycoffin#N glows in the torchlight.  Carved symbols cover
+its sides, and continue in a ring around the room, cut into the granite
+beneath the torches and gold #Yvases#N.  
+
+#GOn a small sign, instructions in an ancient language detail
+the process of going to the underworld and back. #N
+ 
+~
+285 dtuz 0
+D3
+~
+door fingers~
+11 -1 28511
+E
+instruction instructions sign~
+          Master fingers guide us. 
+          Master fingers teach us. 
+          Master fingers protect us.  
+          In your light we thrive. 
+          In your mercy we are sheltered.
+          In your wisdom we are humbled.  
+          We live only to serve. 
+          Our lives are yours.
+ 
+~
+S
+#28518
+#yPrivate Chamber of Metalman#N~
+   You have entered the private chamber of Sir Metalman.
+On the walls hang the mounted heads of many strange creatures. 
+In the middle of the room is a huge bed covered in rich furs. 
+A warming energy fills the room. 
+This inner sanctum is a place to find peace and rest from a bloody and 
+dangerous world.
+A sign on the wall reads : Well Come Brothers of the Night Tribe.
+~
+285 duz 0
+D1
+~
+door metalman~
+11 -1 28511
+S
+#28519
+#yBlood Council Private Chambers#N~
+   You have entered the private chambers of the Blood Council, on one 
+wall you see the Council board, please keep all postings to council 
+business. On the remaining walls you see ornate tapestries depicting the 
+Blood Kings of the past.  In the center of the room is a large round 
+table. The ceiling consists of a domed ruby window, bathing all in an 
+eerie light.
+~
+285 douz 0
+D2
+~
+~
+0 -1 28514
+S
+#28520
+#yNC and Enforcer's room#N~
+   As you enter NC and Enforcer's room, you are awed at it's furnishings. 
+Though it is littered with many items, it has a clean outlook along with 
+a powerful magical glow. You wonder what rare pieces of equipment lie 
+inside the safes that you see. You feel smaller as you see the two 
+gigantic statues of NC and Enforcer looking upon you. There is a large 
+poster posted on the wall with the words "NIGHT TRIBE ROCKS!" in the 
+room. 
+~
+285 duz 0
+D1
+~
+secret~
+11 -1 28509
+S
+#28521
+#yZutgoraks Hidingplace#N~
+   This place looks like the worst mess you ever saw. Pencils,
+brushes and half-finished paintings are scattered everywhere, 
+along with various bodyparts from dismembered beings. The walls
+are filled with drawings and it feels as if the eyes of the
+portraits are recording your every move and screaming at you, 
+calling you an intruder. On the southern wall hangs a portrait
+with a golden frame. The colors are faint, but there is 
+something visible.
+~
+285 duz 0
+D0
+~
+door~
+11 -1 28514
+E
+painting portrait~
+As you look at the painting it seems to shift colors and
+shapes and marvellous images are shown, the next one more
+exquisite than the previous. You see a fine draconian, 
+dressed as a priest. A minotaur in shining armor and last, 
+a demon surrounded by undead minions, all bowing before
+their demonic master.
+~
+S
+#99999
+$~

@@ -1,0 +1,860 @@
+#17001
+ring earth~
+the earth ring~
+A dark ring which seems to absorb all the light around it lies here.~
+~
+9 45 0 jk ab
+5 0 0 0 0 0
+8 10000 6911
+A
+2 -1
+A
+5 1
+A
+13 45
+A
+23 2
+#17002
+hide stoney~
+a stoney hide~
+A hide made of the stone from deep within the earth lies here.~
+~
+9 45 0 jk ad
+17 0 0 0 0 0
+125 40000 13823
+A
+2 -2
+A
+5 2
+A
+14 -90
+A
+23 4
+#17003
+dagger fiery~
+a fiery dagger~
+A dagger made of fire crackles mysteriously here.~
+~
+5 45 hp ajk an
+0 3 7 11 0 30
+11 15000 6911
+A
+18 2
+A
+19 6
+#17004
+cape flame flaming red~
+a flame red cape~
+A cape made of ethereal red fiber lies neatly folded on the ground here.~
+~
+9 45 0 ajk ak
+0 0 0 0 0 0
+20 15000 6911
+A
+12 45
+A
+13 45
+A
+20 2
+A
+21 -1
+#17005
+boots wind~
+the wind boots~
+A pair of boots that look fast standing still are here.~
+~
+9 45 0 jk ag
+0 0 0 0 0 0
+5 5000 6911
+A
+2 2
+A
+14 90
+A
+14 90
+A
+19 -1
+#17006
+helmet hurricane~
+a humming hurricane helmet~
+A helmet that looks like it has weathered many storms has been set here.~
+~
+9 45 abcefijkms jk ae
+7 0 0 0 0 0
+10 15000 6911
+A
+23 -5
+#17007
+sword lightning bolt~
+a sparking lightning sword~
+A lightning bolt fashioned into a sword spits sparks here.~
+~
+5 45 abcefijkms abjk an
+0 3 12 3 0 45
+14 30000 6911
+A
+18 2
+A
+19 4
+#17008
+shield electric~
+an electric shield~
+A shield made entirely of energy buzzes here.~
+~
+9 45 abcefijkms abjk aj
+11 0 0 0 0 45
+45 30000 6911
+A
+1 -1
+A
+22 5
+#17009
+girth icy~
+an icy girth~
+A girth made of magical ice has been left here.~
+~
+9 45 0 jk al
+5 0 0 0 0 0
+9 20000 6911
+A
+20 -2
+A
+21 4
+#17010
+cloak waterfall~
+a waterfall cloak~
+A cloak fashioned from a small magical waterfall is here.~
+~
+9 40 0 jk ak
+8 0 0 0 0 0
+20 20000 6911
+A
+24 2
+#17011
+amulet elemental~
+an elemental amulet~
+An amulet depicting fire, water, lightning, earth, and air lies here.~
+~
+9 34 0 abjk ac
+7 0 0 0 0 0
+3 15000 5749
+A
+20 2
+A
+21 2
+A
+22 2
+A
+24 -4
+#17012
+bracelet elemental~
+an elemental bracelet~
+A bracelet made of elemental magic lies here.~
+~
+9 34 0 jk am
+7 0 0 0 0 0
+3 20000 5749
+A
+13 25
+#17013
+armbands platinum bands~
+some platinum arm bands~
+A pair of platinum arm bands, once worn by the Cyclops, lie here.~
+~
+9 32 abcefijkms j ai
+7 0 0 0 0 0
+32 12000 5390
+A
+1 1
+A
+4 -2
+#17014
+legbands platinum bands~
+some platinum leg bands~
+A pair of platinum leg bands, once worn by the Cyclops, lie here.~
+~
+9 32 abcefijkms j af
+7 0 0 0 0 0
+32 12000 5390
+A
+1 1
+A
+3 -2
+#17015
+wand fire~
+an elemental wand of fire~
+A wand lies forgotten on the ground.~
+~
+3 36 bcdfghjklnops g ao
+54 7 7 56 0 0
+6 10000 3333
+#17016
+wand ice~
+an elemental wand of ice~
+A wand lies forgotten on the ground.~
+~
+3 36 bcdfhjklnops g ao
+54 7 7 58 0 0
+6 10000 3333
+#17017
+wand chemistry~
+elemental wand of chemistry~
+A wand lies forgotten on the ground.~
+~
+3 36 bcdfghjklnops g ao
+54 7 7 59 0 0
+6 10000 3333
+#17018
+wand air wind~
+elemental wand of wind and air~
+A wand lies forgotten on the ground.~
+~
+3 36 bcdfghjklnops 0 ao
+54 7 7 88 0 0
+6 10000 3333
+#17019
+wand lightning~
+elemental wand of lightning~
+A wand lies forgotten on the ground.~
+~
+3 36 bcdfghjklnops g ao
+54 7 7 60 0 0
+6 10000 3333
+#17020
+club stone~
+a stone club~
+A large stone club lies on the ground.~
+~
+5 30 abcefgijkms 0 an
+0 2 12 7 0 30
+16 3000 1000
+A
+19 3
+#17021
+lode load lodestone loadstone stone~
+a lodestone~
+A dull red rock lies here amid the weeds.~
+~
+3 20 bcdfghjklnops g ao
+30 4 4 30 0 0
+20 20000 8000
+#17022
+lava lamp~
+a lava lamp~
+A lantern which glows with a red glowing light has been dumped.~
+~
+1 28 0 ag a
+0 0 140 0 0 0
+20 6000 2000
+#17023
+energy scroll~
+an energy scroll~
+A scroll of energy replacement lies here.~
+~
+2 31 0 g ao
+46 39 39 39 0 0
+1 9000 3000
+#17024
+water jug~
+a water jug~
+A large but surprisingly light jug of water stands here.~
+~
+17 0 0 0 a
+15 15 0 0 0 0
+1 300 500
+#17025
+dust~
+magic dust~
+A pile of dust of appearance has gathered here.~
+~
+2 42 bcdfghjklnops g a
+63 1 1 71 0 0
+1 15000 5000
+#17026
+flame lance~
+a flame lance~
+A lance of blue flame burns the ground around it.~
+~
+5 36 abcefgijklms ag an
+0 3 11 12 0 36
+16 18000 6000
+#17027
+icicle ice~
+an icicle~
+A glowing icicle dagger lies here amid a patch of frost.~
+~
+5 36 0 ag an
+0 3 6 11 0 36
+4 0 0
+#17028
+avalanche~
+an avalanche~
+An avalanche is about to crush you!~
+~
+5 36 abcefgijklmos 0 an
+0 4 8 6 0 36
+18 0 0
+A
+18 -7
+A
+19 21
+#17029
+morningstar star morning~
+a morning star~
+A morning star lies here.~
+~
+5 36 aeim 0 ano
+0 4 7 12 0 36
+12 18000 9177
+#17030
+whip shock~
+the shock whip~
+A whip hums innocently too itself.~
+~
+5 36 0 b ano
+0 2 12 2 0 36
+10 10000 9177
+#17031
+elixir anti~
+anti-cyclops elixir~
+An elixir has been left here.~
+~
+10 20 0 g ao
+20 29 -1 -1 0 0
+1 1200 333
+E
+elixir~
+There's a label that reads:
+
+'USE TO WARD OF THE CYCLOPI'
+~
+#17032
+Pepto-Bismol elixir sickness pink~
+a pink elixir~
+An elixir has been left here.~
+~
+10 20 0 g ao
+20 43 -1 -1 0 0
+1 2500 600
+E
+elixir pink~
+There's a label that reads: 
+
+'USE ONE TABLESPOON WHEN YOU FEEL REALLY SICK'
+~
+#17033
+urine elixir yellow sample~
+a yellow elixir~
+An elixir has been left here.~
+~
+10 20 0 g ao
+20 33 -1 -1 0 0
+1 600 100
+E
+elixir yellow~
+There's a label that reads: 
+
+'URINE SAMPLE'
+~
+#17034
+poison elixir brown~
+a brown elixir~
+An elixir has been left here.~
+~
+10 20 0 g ao
+20 38 -1 -1 0 0
+1 1000 100
+E
+elixir brown~
+There's a label that reads: 
+
+'RAT POISON'
+~
+#17035
+elixir red~
+a red elixir~
+An elixir has been left here.~
+~
+10 20 0 g ao
+20 39 39 -1 0 0
+1 3000 1000
+E
+elixir red~
+There's a label that reads: 
+
+'USE WHEN YOU FEEL TIRED'
+~
+#17040
+stone surrender~
+the Stone of Surrender~
+a stone has been left here on the ground.~
+~
+4 38 bcdfhjklnops g ao
+59 4 4 38 0 0
+10 18000 6000
+#17041
+herbs herb~
+rare herbs~
+Some rare herbs seem to have been left here.~
+~
+3 42 cdhklnops g ao
+63 1 1 61 0 0
+1 18000 6000
+#17051
+robe muse muse's~
+Muse's Robe of Office~
+A magnificent white-golden robe is neatly folded here.~
+~
+9 110 0 afg ak
+60 0 0 0 0 0
+1 0 0
+A
+3 4
+A
+4 4
+#17052
+breastplate mordred~
+a Breastplate of Mordred~
+An evilly glowing breastplate is here.~
+~
+9 110 0 aj ad
+100 0 0 0 0 0
+1 0 0
+E
+breastplate~
+You see the Mighty Breastplate of Mordred. You can almost make out Mordred's
+hideous grin in its reflection.
+~
+#17053
+shield empathic~
+an empathic shield~
+An odd looking shield is gathering dust here.~
+~
+11 110 0 0 aj
+0 0 0 0 0 1
+1 0 0
+E
+shield~
+You see a wavy image that resembles a shield.
+~
+#17054
+necklace diamond selene~
+Selene's Diamond Necklace~
+A string of magnificent diamonds are piled on the floor.~
+~
+11 110 0 0 ac
+0 0 0 0 0 0
+1 0 0
+E
+necklace~
+You see a shimmering diamond necklace.  It's beauty is rivaled only by that of its owner, Selene.
+~
+#17055
+hat smurfy johan~
+Johan's Smurfy Hat~
+A miniature blue hat lies here.~
+~
+11 110 0 0 ae
+0 0 0 0 0 0
+1 0 0
+E
+hat~
+You see the fabled Smurfy Hat that belongs to Johan. It's blue, but in a town with only one woman. . .you'd be blue too.
+~
+#17056
+stockings silk black shylanne shylanne's~
+Shylanne's Black Silk Stockings~
+A small pile of the finest black silk is lying here.~
+~
+11 110 0 gjl aef
+0 0 0 0 0 0
+1 0 0
+E
+stockings~
+You see a pair of sexy stockings made of the finest silk you have ever seen.
+You can think about one girl who is worthy of wearing it - the owner, Shylanne.
+~
+A
+6 2
+#17057
+necklace darkness shylanne shylanne's~
+Shylanne's Necklace of Darkness~
+A thin string made of spider silk radiates the power of evil here.~
+~
+11 110 0 gjl ac
+0 0 0 0 0 0
+1 0 0
+E
+necklace~
+You see a thin thread with a small, red eyed skull on it. It seems that it slowly absorbs all the light here. It is so cold that you shiver when you touch it.
+~
+#17058
+tooth wisdom ember ember's~
+Ember's Tooth of Wisdom~
+A white tooth glowing softly is lying on the ground.~
+~
+1 110 0 0 ao
+0 0 -1 0 0 0
+1 0 0
+E
+tooth~
+A small white tooth emitting a soft red glow and a gentle warmth. The light
+is more then enough by which to see and the warmth keeps you well warm in 
+the coldest places.  This is one of the fabled wisdom teeth of Ember, which 
+is supposed to make the holder wiser and light the way to secret places.
+~
+#17059
+helmet ogre horn ulath ulath's~
+Ulath's Ogre Horn Helmet~
+A nice looking helmet is lying here on the ground, forgotten?~
+~
+11 110 0 0 ae
+0 0 0 0 0 0
+1 0 0
+E
+helmet~
+This helmet is made from an ogre horn, it still smells like it :)
+~
+#17060
+plates arm sorsha~
+Sorsha's Arm Plates~
+Some glimmering plates lie here.~
+~
+11 110 0 0 ai
+0 0 0 0 0 0
+1 0 0
+E
+plates~
+You see the arm plates of Sorsha. They look quiet and very self-contained. 
+But, then again, so do mass murderers.
+~
+#17061
+feet webbed quischo quischo's~
+Quischo's webbed feet~
+A pair of webbed feet lie here.~
+~
+11 110 0 0 ag
+0 0 0 0 0 0
+1 0 0
+#17062
+beak orange quischo quischo's~
+Quischo's orange beak~
+An orange beak lies here.~
+~
+11 110 0 0 ae
+0 0 0 0 0 0
+1 0 0
+#17063
+pillow duckie ix~
+Ix's Duckie Pillow~
+Ix's Duckie Pillow rests here looking ever so comfortable.~
+~
+5 110 0 0 an
+0 1 1 7 0 110
+1 0 0
+A
+6 10
+A
+18 50
+#17064
+bunny flaming energizer~
+a Flaming Energizer Bunny~
+A pile of flaming bunny is burning here.~
+~
+1 110 0 a ao
+0 0 -1 0 0 0
+1 0 0
+E
+bunny~
+You see that pesky bunny engulfed in flames. You strip naked and dance around
+the corpse chanting "He keeps burning and burning and burning. . ."
+~
+#17065
+ring fire vulcan~
+Vulcan's Ring of Fire~
+A glowing ring is on the floor here.~
+~
+11 110 0 abgi ab
+0 0 0 0 0 0
+1 0 0
+E
+Ring~
+You see a ring that glows with the heat of 1000 hells. This must be what 
+Vulcan uses to smolt with.
+~
+#17066
+ring death~
+Ring of Death~
+A glowing ring of evil is lying here.~
+~
+11 110 0 0 ab
+0 0 0 0 0 0
+1 0 0
+E
+ring~
+You see the ring that takes all mortals life, prosperity, and that early 
+morning glow.
+~
+#17067
+script play~
+a play script~
+A pile of papers that resembles a script is here.~
+~
+16 110 0 o ao
+0 0 0 0 0 0
+1 0 0
+E
+script~
+You see a old and tattered play script. 
+You open the cover and read the words:
+
+"To hold or not to hold, that is the question."
+~
+#17068
+sword death fangorn~
+Fangorn's Sword of Ultimate Death and Destruction~
+Fangorn's Sword of Ultimate Death and Destruction lies here grining evilly.~
+~
+5 110 0 0 an
+0 1 1 3 0 110
+1 0 0
+E
+sword death fangorn~
+This sword is like no other sword you have seen before. This sword seems 
+alive... and it looks pissed off.
+~
+#17069
+halo angelic nymph~
+Nymph's Angelic Halo~
+Nymph's Angelic Halo lies here on the ground.~
+~
+1 111 acdefghijklmnops kl a
+0 0 1 0 0 0
+1 0 0
+E
+halo~
+A shimmering silver halo glows with the light of heaven. You gaze upon the
+glowing halo of the Angel Nymph, the radiant goodness nearly blinds you.
+~
+#17070
+clue~
+a clue~
+Something is on the floor that you think you should always have.~
+~
+12 1 0 0 ao
+0 0 0 0 0 0
+1 0 0
+E
+clue~
+Everyone should have a clue...
+~
+#17071
+ego~
+an ego~
+~
+~
+13 110 0 0 abcdefghijklmno
+0 0 0 0 0 0
+1 0 0
+A
+6 -5
+#17072
+excuse~
+an excuse~
+A load of crap is here.~
+~
+13 110 0 0 ao
+0 0 0 0 0 0
+1 0 0
+E
+excuse~
+It looks like something you can use when you didn't do something you 
+were supposed to...or when you did something you weren't supposed to. 
+~
+#17073
+pass hall~
+a hall pass~
+A white card with a red string tied to it is here.~
+~
+16 110 0 0 ao
+0 0 0 0 0 0
+1 0 0
+E
+card white~
+It says: 'HALL PASS'
+~
+#17075
+bomb nuclear~
+a nuclear weapon~
+A nuclear weapon is here...~
+~
+4 110 0 0 ao
+110 1 1 17 0 0
+1 0 0
+#17076
+shotgun~
+a 12 gauge shotgun~
+A powerful looking shotgun, probably used to keep mortals in line, lies here~
+~
+5 112 0 0 an
+0 5 1000 8 0 112
+1 0 0
+E
+shotgun~
+You see a mighty 12 Gauge Shotgun. The words "Smith & Wesson" glow brightly.
+~
+A
+18 200
+A
+19 600
+#17080
+cloak anubis~
+Anubis's Ultra-Black cloak~
+You see a bundle of blackness lying on the ground here.~
+~
+9 110 0 0 ak
+0 0 0 0 0 0
+1 0 0
+E
+cloak~
+The cloak has a warm, nice feeling about it that makes you wanna hide in 
+the shadows and wait for a victim to come by so you can slit its throat. 
+~
+#17081
+gun anubis~
+Anubis's Kill-O-Zap Gun~
+You see a mystic metallic rod with strange blinking lights lying here.~
+~
+5 110 0 0 an
+0 1 1 8 0 110
+1 0 0
+E
+gun~
+The blinking of the lights almost hypnotises you and the 
+chrome rod has a red button you really would like to push.
+~
+#17082
+staff radagast~
+Radagast's Staff~
+A brown wooden staff with golden ornaments lies here.~
+~
+5 110 0 0 an
+0 1 1 6 0 110
+1 0 0
+E
+staff~
+The staff is pulsating with a magical, almost divine force.
+~
+#17083
+shorts tweed~
+Tweed's Battle Shorts~
+Someone has left a pair of shorts here...so is probably running around naked!~
+~
+9 110 0 0 aef
+0 0 0 0 0 0
+1 0 0
+E
+shorts~
+These shorts look both sturdy yet very comfortable. You're not sure where you
+would prefer to wear them, in the midst of combat or on the beach. You feel
+like wearing them on your head too, for some strange reason.
+~
+#17084
+collection stamp stamps tweed~
+Tweed's stamp collection~
+Someone has left tiny little stamps all over the floor.~
+~
+8 110 0 0 abcdefghijklmn
+0 0 0 0 0 0
+1 0 0
+E
+stamp stamps~
+It looked like a small pile, but when you look closer, 
+you see stamps from all around the world. You feel like
+licking them and sticking them all over your body, just
+for fun.
+~
+#17099
+book guide newbie helping~
+the Guide to Newbie Helping~
+A book has been placed here.~
+~
+16 110 0 0 aeo
+0 0 0 0 0 0
+1 0 0
+E
+book guide~
+It's a leather bound book with gold trim. When you flip it open, you see the
+following instructions:
+
+1. Show newbies where the Halls of Learning is (tell 'em free eq)
+
+      Much of the contents of this book is covered in the Halls, but some is
+   new text.
+
+2. Give them directions to some newbie zones, and tell them about the
+   'help midgaard' command.
+
+3. Explain the really cool things of Elite, like speed walk, extra great, 
+   aliases, colour, and everything else that makes our mud truly Elite. 
+
+      For aliases, they are string replacement's and are really cool, but they
+   can screw up the other commands if good names are not chosen.
+      To fix the screen, 'display norm', 'display ansi', 'display vt', 
+   resize <screen length>, and redraw are things that could help. The "]" 
+   character they might see are from the colour mode.
+                                 <type 'read 2' to continue with the next page>
+~
+E
+2~
+                                  - 2 -
+
+4. Explain the rules, such as no rent, the 100 item limit, and 'policy.'
+
+     It's not a bad idea to have them read the policy then and ask questions.
+   Tell them to read the boards often explain about each (mortal, social...)
+   Explain about communications (grat, gossip, tell, shout ...) and what each
+   is for.
+     Explain to them what an Immortal is and that they are here to help them in 
+   times of problems.  If they are having a problem, they can put the problem 
+   in their title.
+     Stationery shop and mudmail are cool too, but only if they seem really 
+   patient.
+
+5. If needed, explain how to equip themselves, such as wear <item>, hold <item>
+   wield <item>, and how to fight ('consider' is a really good command).
+
+6. Explain look <direction>, scrolls, guilds, hunger, thirst, 'sac corpse', 
+   'get all corpse' and whatever else a total newbie needs to know.
+                                 <type 'read 3' to continue with the next page>
+~
+E
+3~
+                                  - 3 -
+
+7. The main purpose of mud is social interaction. You get to meet and talk to
+   from all around the globe, and in no other game can you do that. On the
+   other hand, it is rather boring to play if all you want to do is go kill
+   stuff. There is no sound, no pictures, it is all just plain text...and text
+   that lags a lot too *sigh*. We do not want Elite to be a hack and slash
+   type of mud. We stride to make it as user friendly (as logically) possible.
+   If they are just stats seekers, encourage them to go play some other home
+   computer game, where they can maybe even see the monsters in full motion
+   3-D and stereo sound.
+
+8. Casting spells, giving money, giving equipment, corpse retreival and 
+   divulging stats is NOT ALLOWED. Once they are not newbies, you CANNOT tell
+   them what is a good area to go to, or what is a good thing to wear. If 
+   players need it, tell them to get it from other players. Naughty immortals 
+   WILL face the wraith of a 12 gauge shotgun! Or worse...
+
+9. Most importantly, Elite prides itself on being a user-friendly social mud.
+   Please be patient and curteous to all newbies, no matter how silly their
+   questions may seem. Keep in mind that not everyone is as good (or bad) in
+   English as you are. There are people from literally around the globe at 
+   Elite, from Canada to Russia to Canada to Portugal and even some obscure
+   places like the US. Remember, you were once a total newbie too...and maybe
+   you still are (dunno).
+~
+#99999
+$~

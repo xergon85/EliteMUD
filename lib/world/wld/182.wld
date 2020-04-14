@@ -1,0 +1,3246 @@
+#18200
+On Rough Ground to the East of the Volcano~
+   You are standing on rough ground strewn with rocks and boulders.
+To the west a huge cone shaped volcano rises above you it's top 
+shrouded in a menacing plume of ash and smoke. Occasionally, you 
+feel the ground shake as awesome forces of nature push upwards 
+out of the ground. A path through the rubble runs north and south
+from here.
+~
+182 0 4
+D0
+A rock-strewn path leads north from here.
+~
+~
+0 -1 18201
+D2
+A rocky and difficult path leads south through the boulders.
+~
+~
+0 -1 18295
+D5
+A vertical shaft leads down into the ground.
+~
+~
+0 -1 8592
+E
+rock rocks path ground boulders boulder~
+The area has been showered with igneous rock from the nearby volcano.
+~
+E
+volcano~
+The volcano towers above the surrounds. It is obviously active and is
+topped with a large cloud of ash and dust lit by flashes of lightning
+from within. Steam, jets from the ground, through hundreds of vents and
+you think you can make out several lava flows which have caused small
+brush fires.
+~
+S
+#18201
+The North Approach to the Volcano~
+   The ground is very rocky here. Razor sharp edged rocks and boulders
+cover the ground, ripping at you when you least expect it. A massive 
+conical volcano overshadows everything.  A dark pall emanates from it 
+high into the atmosphere. The path leads east or west around the foot
+of the volcano.
+~
+182 0 4
+D1
+A rocky path leads east through the boulders.
+~
+~
+0 -1 18200
+D3
+A trail winds between large black boulders towards a scramble up the
+volcano.
+~
+~
+0 -1 18202
+E
+path trail rock rocks boulder boulders~
+Igneous rocks of all shapes and sizes cover the area making walking
+very difficult and time consuming.
+~
+E
+volcano~
+The smoking side of the volcano rises high above you. The sparse scrub
+has caught light in a number of places. The feeble light reaches down
+between the high rocks you are between casting dancing shadows around
+you. The summit, cocooned in a whirlwind of ash and debris, awaits you.
+~
+S
+#18202
+The Western Foot of the Volcano~
+   You have reached the foot of the volcano. The path heads almost due
+east up the side of the mountain. Only quite an accomplished climber 
+would attempt it without the ability of flight! Jagged edges of broken
+rock catch at your clothing and you feel that you might be obliterated
+in a sudden eruption at any moment. The path also heads north or south
+around the volcano.
+~
+182 0 4
+D0
+A difficult and rocky path winds away through the boulders.
+~
+~
+0 -1 18201
+D1
+A steep path rises almost straight up the side of the volcano. You will
+have to climb in places and it looks very dangerous.
+~
+~
+0 -1 18203
+D2
+A rough trail winds through large boulders to the south.
+~
+~
+0 -1 18295
+E
+volcano~
+An evil looking cloud of death spews from the maw of the foreboding
+volcano as it reaches to the heavens. High above you in the clouds
+bolts of lightning light the cloud from within.
+~
+S
+#18203
+Abandoned Campsite~
+   A large mound of solidified lava marks the end of some ancient flow.
+The steep path splits here and heads either north or south around the 
+side of the mountain or west down a steep trail off the mountain. All 
+the ways will be a bit of a scramble. Looking around you see that the 
+area has been used as a campsite. Someone has used this as a base 
+before going on to tackle the volcano, or its contents, sometime in the
+past.
+~
+182 0 5
+D0
+The steep path continues as a rocky scramble traversing the side of the
+mountain in a northerly direction.
+~
+~
+0 -1 18209
+D2
+The steep path continues south and up around the mountain climbing
+steadily higher all the time.
+~
+~
+0 -1 18204
+D3
+A very steep path with loose rocks and boulders ready to tumble down
+the mountain at the slightest disturbance leads west off the volcano.
+~
+~
+0 -1 18202
+E
+campsite~
+A fire has been set here and very expertly too. The ashes are cold and
+it looks as if it may have been used several times. Odd scraps can be 
+found lying around, discarded arrowheads, small animal bones. Hunters
+of some type have been here in the last few weeks.
+~
+S
+#18204
+The Steep Path~
+   You are standing at the top of a steep path on a small sheltered
+ledge. The area is walled in by huge mounds of smooth, shiny rock.
+They have hardly weathered at all and were probably deposited in an
+eruption fairly recently. Small holes have been chipped into the rock
+face leading you to suppose that someone has been foolish enough to
+climb the cliff here instead of taking the slightly more manageable
+path north and down, back around the mountain.
+~
+182 0 5
+D0
+A rocky scramble leads north and down from this sheltered shelf.
+~
+~
+0 -1 18203
+D4
+The cliff towers above you blocking your view. Someone has thoughtfully
+hacked little holes into the cliff into which you could put your feet
+and hands to help you climb.
+~
+~
+0 -1 18205
+E
+cliff hand foot holds hole holes~
+The cliff would be unclimbable without the handholds that have been cut
+into it. It is smooth and glasslike, a classic example of an igneous
+rock formed from cooling lava.
+~
+S
+#18205
+Outside a Volcanic Vent~
+  You are standing by an opening in the side of the volcano on a small
+ledge. A strong draft is blowing into the vent, almost at gale force as
+huge amounts of cold air are sucked in. The inside is dark and grim but
+at least it doesn't smell too bad because of the ventilation! You are 
+probably about one third of the way up the volcano here and apart from
+the option of entering the cave to the east, you can climb up or down.
+~
+182 0 5
+D1
+Air is sucked at great speed into a dark tunnel. It disappears down 
+inside the volcano very quickly and you can't see far into it.
+~
+~
+0 -1 18213
+D4
+The cliff continues almost vertically up towards the summit. The path
+of the climber who came before you is clear from their handholds...
+~
+~
+0 -1 18206
+D5
+The cliff rapidly falls away and leaning over the edge to look makes 
+you feel slightly giddy. Climbing down is tantamount to suicide...
+~
+~
+0 -1 18204
+S
+#18206
+Lava Tunnel Entrance~
+   You have reached the bottom of a lava tunnel. As the lava flowed
+down the mountain its skin cooled leaving a dank dark tunnel leading up.
+The air is rushing past you, whistling in your ears. You can see heat
+waves rising from pools of flowing lava from a recent eruption. It
+works its way along channels of cooling rock formed like stepping
+stones in the tunnel floor. You find your throat begins to dry from
+the heat. The tunnel slopes upwards into a warm red glow. There is
+a steep cliff below.
+~
+182 ad 11
+D4
+A lava tunnel continues upwards into a warm red glow.
+~
+~
+0 -1 18207
+D5
+A cliff invites you to plummet to your death on rocks far below.
+~
+~
+0 -1 18205
+E
+path trail rock rocks boulder boulders~
+Igneous rocks of all shapes and sizes cover the area making walking 
+very difficult and time consuming.
+~
+S
+#18207
+Lava Tunnel~
+   The tunnel is very tight here. The walls are a mixture of jagged and 
+split rocks which lie about the passageway like teeth that gnash at you
+as the wind pushes you upwards. Ahead in the distance you hear the 
+sounds of rock grinding against rock as the volcano shudders with a
+life of its own. You can feel heat rising from the floor, and there is
+a slow lava flow winding its way between the broken rocks on one side. 
+~
+182 ad 11
+D4
+Above you can see the rim of the volcano, rocks and boulders roll down 
+the sides as the volcano rumbles with a new eruption of liquid fire and 
+shattered rock.
+~
+~
+0 -1 18208
+D5
+A lava tunnel leads down, you can feel strong winds blowing from that 
+direction.
+~
+~
+0 -1 18206
+E
+rocks boulder boulders path trail tunnel rock~
+There are numerous bits of rock formed from cooling lava filling cracks
+in the tunnel floor.
+~
+S
+#18208
+Rim of the volcano~
+   You are standing at the rim of the volcano and stare in terror at 
+the scene before you. Everywhere you look, dozens of jagged fissures 
+open and close like mouths engaged in some hideous chewing. The rock 
+grinds hatefully with a rhythm of its own and gurgling rushes, 
+rendings, and deep groans prelude belches of liquid fire and crushed 
+stone. The steam, smoke and heat rising from all around makes it 
+difficult for you to see any distance. To the south all you can see 
+is the smoke and ash rising from the volcano and below you the gaping 
+maw of a tunnel leads back down the slope.
+~
+182 0 5
+D2
+You can see a whirlwind of ash and debris belching from the mouth of
+the volcano. Flashes of lightning sizzle and crackle in the dark and
+brooding clouds.
+~
+~
+0 -1 18281
+D5
+A lava tunnel leads down, you can feel strong winds blowing from that 
+direction.
+~
+~
+0 -1 18207
+E
+volcano inferno maelstrom~
+The blazing maelstrom of the volcano blasts and rumbles with hellish 
+fury.
+~
+S  
+#18209
+Glassy path~
+   You are on a glassy path which has been formed from cooling lava.
+Looking closely at the floor you can see air bubbles and shiny 
+crystals of rock trapped below the surface. To the north the path 
+continues winding its way between smooth rounded boulders, to the
+south there appears to be a abandoned campsite.
+~
+182 0 5
+D0
+The glassy path continues round the side of the volcano.
+~
+~
+0 -1 18210
+D2
+You can see an abandoned campsite, marked by the charred circle of a
+long dead fire.
+~
+~
+0 -1 18203
+E
+volcano~
+The volcano towers like a sombre grey ghost above you. Black ash and
+smoke rise from the rim darkening the skies for miles around, creating 
+an atmosphere of impending doom. Strange wisps of smoke create phantom
+clouds that melt away into the distance.
+~
+S
+#18210
+Glassy path~
+   The ground is very smooth here, like a sheet of solid glass. Looking 
+south you can see the glassy path continues around the volcano. Above
+you lies the rim of the volcano but you see no easy path to it. From
+the rim of the volcano, smoke and ash flow, darkening the skies above 
+with foreboding black clouds which drift away into the distance. It is 
+very difficult to keep your feet on the smooth glassy surface here and 
+you think that it would be wise to move on. East of here there is an 
+opening in the side of the volcano which is venting black choking 
+smoke.
+~
+182 0 5
+D2
+The steep glassy path leads further around the side of the volcano.
+~
+~
+0 -1 18209
+D1
+You can see a vent in the side of the volcano, reams of black smoke
+pour from the opening.
+~
+~
+0 -1 18211
+E
+volcano~
+The volcano towers like a sombre grey ghost above you, black ash and 
+smoke rise from the rim darkening the skies for miles around.
+~
+S
+#18211
+Choked Vent~
+   You are in a volcanic vent. It is almost impossible to see anything 
+in here, but through the occasional break in the plumes of smoke and 
+ash venting past you out of the volcano and upwards into the darkness
+you can see ragged and cracked rock walls. The heat of the black smoke
+hurts your eyes as you peer around looking for obvious exits from this 
+unbearable ash-filled vent. To the west you can clamber out of the 
+vent onto a glassy path. Looking up you can see the smoke and ash 
+rising upwards through cracks in the volcanic rock and you think it may 
+be possible to climb up the jagged walls through the smoke.
+~
+182 ad 5
+D3
+A glassy path leads west from here around the side of the volcano.
+~
+~
+0 -1 18210
+D4
+The smoke flows upwards into the darkness of another tunnel.
+~
+~
+0 -1 18212
+S
+#18212
+Collapsed Lava Tunnel~
+   As the smoke swirls around this hell-hole you cast about looking
+for a path onwards. Before you is a large wall of cooling lava the
+centre of which has a small trickle of molten rock seeping out. Parts
+of this tunnel have collapsed closing some of the exits. Down below
+you smoke rises from a volcanic vent. There is a small vent to the south 
+where the ash and smoke continues to drift slowly away into the dark.
+~
+182 a 5
+D2
+The smoke clears as you stare southwards, another smaller vent leads
+into the black smoke and ash.
+~
+~
+0 -1 18226
+D5
+The rock walls here offer a route down through the smoke into a gaping 
+vent below you.
+~
+~
+0 -1 18211
+S
+#18213
+Inside a Volcanic vent~
+   This is where the end of a tunnel formed from cooling lava stops.
+The vent that the lava welled from leads down into the mountain side. As
+you look at the floor you can see the rivulets of solidified rock left 
+behind as the level of lava in the main shaft receded and the flow 
+stopped. The floor is smooth and slippery making life difficult for 
+those on foot. A warm breeze blows upwards from the depths to the east
+and you could enter or go back down the lava tunnel to the west.
+~
+182 ad 5
+D1
+A large vent leads east and down into the dark heart of the volcano.
+~
+~
+0 -1 18214
+D3
+A thin walled tunnel deposited by a cooling lava flow leads down the
+mountain to the west.
+~
+~
+0 -1 18205
+E
+lava tunnel flow~
+Interesting drips and waves of rock have formed where it cooled as 
+the lava flow subsided giving the tunnel a very organic, grown, air.
+Anybody caught in the tunnel during another eruption would have no
+chance of escaping the lava that would rush along the tunnel at them.
+~
+S
+#18214
+The Bottom of a Narrow Chimney~
+   A small pile of rock has fallen from the roof of the tunnel that 
+you are in disturbing its otherwise smooth and glassy surface. Revealed 
+above you is the entrance to a tight chimney disappearing up into the
+darkness. You might be able to squeeze up it if you try. The vent
+itself continues east, down into the heart of the volcano.
+~
+182 ad 5
+D1
+The tunnel disappears into the gloomy depths to the east. The wind
+seems to be picking up as it heads downwards.
+~
+~
+0 -1 18215
+D3
+A smooth walled tunnel leads west and up at a gentle slope.
+~
+~
+0 -1 18213
+D4
+A small hole overhead offers an alternative exit. You would have 
+to climb up and squeeze through into the unknown.
+~
+~
+0 -1 18221
+S
+#18215
+The Western Edge of the Inferno~
+   You are standing at the western edge of the central vent of this 
+volcano. Metres from your feet you can see a huge bubbling pool of 
+lava. The heat is intense and a howling wind blows you towards the
+inferno. You realise that the air is being heated by the lava. It  
+then rises rapidly up the shaft drawing in cold air though the 
+tunnels at the base. You can battle your way west against the wind 
+or you can try to skirt around the edge of the pool to the east.
+~
+182 d 11
+D1
+A narrow ledge allows access to the eastern side of the volcano's
+main shaft.
+~
+~
+0 -1 18216
+D3
+A howling gale blows at you from a large dark tunnel to the west.
+~
+~
+0 -1 18214
+E
+lava magma molten rock pool~
+A heaving and bubbling pool of lava is trying to thrust its way up the
+volcano's shaft and blast out over the surrounding countryside. It can't
+however. You can see a fine tracery of yellow lines flowing and 
+shimmering across its surface, allowing heat and gas through but holding
+the rock itself down. You marvel at the immense magical energy being 
+brought to bear here.
+~
+S
+#18216
+Hot Spot!~
+   You can feel your toes melting in the heat. You are perched on a 
+narrow ledge right over the main chamber of the volcano. Molten rock 
+heaves and bubbles just below you. It is too hot to stay here for long. 
+You can edge along the ledge to the west or the east or you can be very 
+stupid indeed and step off the ledge down into the lava.
+~
+182 dx 11 
+D1
+You think that you can shuffle along the crumbling ledge to the relative
+safety of the east side of the chamber. You can see a tunnel you could 
+get some relief from the heat in.
+~
+~
+0 -1 18218
+D3
+You think that you can shuffle along the crumbling ledge to the relative
+safety of the west side of the chamber. You can see a tunnel you could 
+get some relief from the heat in.
+~
+~
+0 -1 18215
+D5
+Only a complete idiot would think of stepping off the edge down into 
+the raging inferno below. You are, however, captivated by the beauty 
+of the lines of magic force holding the lava down like some giant net.
+~
+~
+0 -1 18217
+E
+lava magma molten rock pool~
+A heaving and bubbling pool of lava is trying to thrust its way up the
+volcano's shaft and blast out over the surrounding countryside. It can't
+however. You can see a fine tracery of yellow lines flowing and 
+shimmering across its surface, allowing heat and gas through but holding
+the rock itself down. You marvel at the immense magical energy being 
+brought to bear here.
+~
+S
+#18217
+Molten Rock~
+   Ouch! Yep! Molten rock is bad for your health! You die, fairly 
+quickly but very painfully.
+Deathtraps are no fun.
+~
+182 bcdux 0 
+D4
+What you lookin' at? You're dead! Wretched Imm's getting in all
+the nooks and crannies..... *shakes head* *wanders off mumbling*
+~
+~
+0 -1 18216
+S
+#18218
+The Eastern Edge of the Inferno~
+   You are standing at the eastern edge of the central vent of this 
+volcano. Metres from your feet you can see a huge bubbling pool of 
+lava. Surprisingly, it seems to be constrained by some kind of magical
+net consisting of continually writhing yellow strands. You can edge 
+to the west along a narrow ledge over the lava or head down to the 
+east into a dark tunnel. 
+~
+182 d 11
+D1
+A large tunnel leads off into the rock to the east. It seems to be 
+quite unremarkable.
+~
+~
+0 -1 18219
+D3
+A narrow ledge skirts around the edge of the chamber barely above the
+fiery lava pool.
+~
+~
+0 -1 18216
+E
+lava magma molten rock pool~
+A heaving and bubbling pool of lava is trying to thrust its way up the
+volcano's shaft and blast out over the surrounding countryside. It can't
+however. You can see a fine tracery of yellow lines flowing and 
+shimmering across its surface, allowing heat and gas through but holding
+the rock itself down. You marvel at the immense magical energy being 
+brought to bear here.
+~
+S
+#18219
+A Hot Smelly Tunnel~
+   The air here is foul and sulphurous and you choke and cough with 
+streaming eyes as you stumble about. The air is searing and the walls 
+hot to the touch. Although molten rock has not penetrated this tunnel 
+it cannot be far away. There are signs of life though, even here.
+~
+182 ad 11
+D1
+The tunnel continues down and eastward. In the distance you can see
+a reddish glow as if from a pool of lava.
+~
+~
+0 -1 18220
+D3
+The tunnel rises slowly as it makes its way west from here.
+~
+~
+0 -1 18218
+S
+#18220
+The Salamanders Lair~
+   You have stumbled onto the lair of one of the most fabled of beasts,
+the Salamander! A pool of lava has welled up into the corner of this 
+cave, causing suffocating heat and gases to fill the chamber. Your 
+attention is caught by the neat pile of 'skeletal remains' stacked up
+in one corner. Several hardy adventurers have met an untimely end here.
+Obviously, the volcano provides the two necessities for any salamander.
+Heat and food! 
+~
+182 dx 11
+D3
+You can head back west towards the centre of the volcano.
+~
+~
+0 -1 18219
+E
+pool lava magma molten~
+The pool of lava has been penned in with a low wall of stones to stop
+it running everywhere. It flows in through a crack in the floor, spills
+over a low part of the wall and down a channel into a small hole in the 
+wall.
+~
+E
+pile skeletal remains~
+The pile consists of various body parts the salamander did not find to
+its taste. Skulls, spinal cord and other things best left to an 18 
+certificate film.
+~
+S
+#18221
+A Tight Chimney~
+   You are struggling in a tight chimney. You can worm your way up
+or down.
+~
+182 acd 5
+D4
+The dark hole above you is not very big but you should be able to
+squeeze through.
+~
+~
+0 -1 18222
+D5
+Writhing around you get a look between your feet down into the gloom.
+You are sure that you can make it down if you try hard enough.
+~
+~
+0 -1 18214
+S
+#18222
+A Tight Chimney~
+   You are struggling in a tight chimney. You can worm your way up
+or down.   
+~
+182 acd 5
+D4
+The chimney seems to open out into a larger space above you.
+~
+~
+0 -1 18223
+D5
+Writhing around you get a look between your feet down into the gloom.
+You are sure that you can make it down if you try hard enough.
+~
+~
+0 -1 18221
+S
+#18223
+A Passageway~
+   You have arrived in a rather nondescript tunnel. The walls, floor
+and ceiling all appear to have been cracked and shattered by massive 
+shocks and loose fragments of rock lie all around you. The tunnel runs
+downhill from west to east. A small hole at your feet leads down into 
+darkness.
+~
+182 ad 0
+D1
+It is impossible to see far as the tunnel twists and turns into the
+dark.
+~
+~
+0 -1 18225
+D3
+A faint glimmer of light and a cooling breeze come from the west.
+~
+~
+0 -1 18224
+D5
+A small, narrow hole leads down into the dark. Hmm, good for rabbits 
+but for you.....
+~
+~
+0 -1 18222
+S
+#18224
+A Cliff~
+   You have emerged standing on a ledge over a large cliff. Birds have
+colonised this region and the ground is white and sticky under your 
+feet. You have a magnificent view from here although the distance is
+blurred by smoke and ash from the volcano.
+~
+182 0 1
+D1
+A dark roomy tunnel goes east from here, down into the volcano.
+~
+~
+0 -1 18223
+E
+white sticky guano~
+Don't ask!
+~
+S
+#18225
+A Dead End~
+   The tunnel has collapsed here. Try as you might you can see no way
+of progressing to the east. However, the tunnel going west is large 
+and clear from obstructions.
+~
+182 ad 0
+D3
+A large tunnel leads west and up away from here.
+~
+~
+0 -1 18223
+S
+#18226
+A Partially Choked Vent~
+   The vent is almost choked with rubble. The roof has given way 
+presenting a jumbled mess of rock. A faint glimmer of light from the
+outside world illuminates a dark hole at your feet. It leads down into
+the gloom. A strong warm wind blows up onto your face. A short scramble
+up the vent to the north will take you out onto the side of the volcano.
+~
+182 ad 5
+D0
+The tunnel leads upwards and to the north to the fresh outside air.
+~
+~
+0 -1 18212
+D5
+A small gap between two boulders at your feet leads down into the darkness.
+~
+~
+0 -1 18227
+S
+#18227
+A Twisty Tunnel~
+   You are crouched at the end of a small, twisting tunnel. The walls,
+floor and ceiling are cracked and fissured from the countless eruptions 
+and movements of the volcano. A small black hole leads upwards. A harsh,
+hot wind blows up the tunnel from the south.
+~
+182 ad 5
+D2
+A narrow, twisting fissure, emanating a strong hot wind leads off to
+the south.
+~
+~
+0 -1 18228
+D4
+A small black hole in the ceiling of the tunnel leads up into the gloom.
+~
+~
+0 -1 18226
+E
+fissure fissures wall walls floor ceiling~
+A myriad of tiny cracks run through every part of the structure of the
+tunnel. Water runs from some and tiny stalagmites and stalactites are
+growing despite the frequent tremors from the stirring volcano.
+~
+S
+#18228
+A Twisty Tunnel~
+   You're half-walking, half-crawling along a tight, twisting tunnel.
+The tunnel has cracked and split under countless eruptions and it is
+hard to make progress. A dull red glow and a shrieking arid gale tears
+at you from the south, hurtling up the tunnel northwards.
+~
+182 d 5
+D0
+A small tunnel leads off to the north.
+~
+~
+0 -1 18227
+D2
+The tunnel widens a little to the south. A ruddy glow casts a feeble 
+light and you can see that the passage continues downhill.
+~
+~
+0 -1 18229
+S
+#18229
+A Rocky Outcrop~
+   You feel very precarious here. You are standing on a small ledge in 
+the main vent of the volcano. The heat and sulphurous fumes are almost
+unbearable. Below you as you look down the vent you can see the source
+of the heat and light, a pool of lava. Upwards, through the smoke you
+can just make out a dark object far above you. You can head north into
+a narrow fissure or step out into thin air and plunge to certain doom
+in the lava.
+~
+182 cdux 11
+D0
+A narrow vent springs off from the main shaft on the volcano. It looks
+dark and safe compared to the searing heat and light here.
+~
+~
+0 -1 18228
+D2
+You are relatively sheltered here on the outcrop. The full force of the
+volcano's might rages to the south up the central vent towards the sky.
+~
+~
+0 -1 18230
+E
+lava pool magma~
+You can just make out the lava pool below you. Too far away to see 
+clearly though it is just an angry red blur beneath you.
+~
+E
+object dark~
+Far above you is a large stone structure suspended in mid-air. You can
+not make out any details but you marvel at the forces that must be being
+brought to bear to keep it there.
+~
+S
+#18230
+The Central Vent~
+   A powerful hot wind is buoying you up. Your delight at this is soon
+dashed by burning heat and noxious gases. As the air whips around you 
+you feel your skin blistering and cracking. Far below you through the
+smoke and ash you can see the pool of molten rock which is fuelling the
+maelstrom. Just out of reach to the north is a rocky outcrop which you
+might be able to get to. Above you a large, dark forbidding mass
+threatens to tumble from the air, smashing you to your death.
+~
+182 cdux 11
+D0
+A small platform sticks out into the vent just to the north of here.
+~
+~
+0 -1 18229
+D4
+The wind will carry you upwards, if you let it, towards some huge 
+obstruction in the volcanic vent.
+~
+~
+0 -1 18231
+E
+lava pool magma molten~
+You can just make out the lava pool below you. Too far away to see 
+clearly though it is just an angry red blur beneath you.
+~
+E
+object mass obstruction~
+Far above you is a large stone structure suspended in mid-air. You can
+not make out any details but you marvel at the forces that must be being
+brought to bear to keep it there.
+~
+S
+#18231
+Under the Dragon Fortress~
+   You are transfixed in awe by the sight above you, oblivious to the
+raging torrent of burning air on which you are suspended. A massive
+fortress in the shape of a dragon, propelling itself up the vent,
+hangs in the air above you. The detail is magnificent, the craftsman-
+ship incredible. The wings soar across the vent catching the thermal 
+generated by the volcano. The tail hangs down towards you and at its
+tip you can see a way in.
+~
+182 cdux 11
+D4
+The tail of the Dragon Fortress hangs down from above you. A warm 
+light shines down from a hole at the end of it.
+~
+~
+0 -1 18232
+D5
+You can try to struggle down against the flow towards the level of the
+ledge.
+~
+~
+0 -1 18283
+E
+fortress dragon~
+The fortress obviously houses its inhabitants in its body. The wings
+are slim and elegant and the tail long and slender. The head and upper
+body is obscured by its underside.
+~
+S
+#18232
+In the Dragon's Tail~
+   You are in the lowest section of the Storm Dragons' fortress. The
+tail rises as a vertical column. The powerful gale from the volcano 
+shoots up past you but now, strangely, feels pleasant against your 
+skin. You doubt that the force of the wind alone is keeping the 
+fortress aloft. The magical forces holding both you and the fortress
+up will allow you to move upwards into the light above you.
+~
+182 d 11
+D4
+The tail disappears up and widens slightly as it blurs into a white
+light.
+~
+~
+0 -1 18233
+D5
+You can try to struggle down to the exit below you
+~
+~
+0 -1 18284
+E
+wall tail fortress~
+The fortress appears to have been grown rather than hewn or assembled.
+The walls are smooth and seamless and slightly warm to the touch- you
+can feel a pulse!
+~
+S
+#18233
+The Beginning~
+   You are now deep inside the fortress travelling up its central 
+shaft. You continue to be supported and cosseted in mid-air by the
+warm thermal from the volcano. The walls here are smooth and 
+decorated with fascinating murals. You can try to make your way down
+against the air flow or let it carry you up into the light. A large 
+and imposing statue, exquisitely sculpted from a smooth grey rock is 
+eyeing you.
+~
+182 d 0
+D4
+The shaft starts to widen considerably as it reaches upwards.
+~
+~
+0 -1 18238
+D5
+You can try to struggle down against the air currents towards
+the tip of the fortress' tail.
+~
+~
+0 -1 18285
+E
+statue radagast~
+As you study the statue it turns to face you and words come unbidden 
+into your mind,
+"Welcome to the home of the Storm Dragons. Please wipe your feet and
+smoking is not allowed in any part of the building. Oh, and watch out
+for Zharradan... he's in a bad mood again."
+~
+E
+murals mural painting wall walls paintings illustrations~
+On the wall, you see a large painting. As you look closer
+you realise that it is of Santa and Nymph as they founded 
+the clan, having their first members go through their
+baptism of fire. Ever since that day, every Storm Dragon 
+raised above the rank of Wyrm goes through the same ritual,
+invoking the arcane powers of Glaurung, the father of all
+dragons, making them in to powerful and respected beings.
+~
+S
+#18234
+A Storage Tunnel~
+   You seem to be in one of the areas reserved for storage in the 
+fortress. Large alcoves have been hewn from the rock to provide cool,
+dark storage places. Peering around you see nothing of much interest,
+the usual foodstuffs and simple equipment. You get the feeling it is
+probably for the attendants rather than the dragons. You can walk 
+around the fortress to the east or west.
+~
+182 d 0
+D1
+The tunnel turns south as it disappears off to the east.
+~
+~
+0 -1 18236
+D3
+The tunnel turns south as it disappears off to the west.
+~
+~
+0 -1 18237
+D4
+A ladder leads up into a bright light above you.
+~
+~
+0 -1 18239
+E
+alcove food foods~
+A variety of rather tasty looking foods are neatly stacked in clear
+cubes. They look as fresh and tasty as the moment that they were 
+cooked. Unfortunately, you can't seem to take the capsules or even
+find a method for opening them.
+~
+S
+#18235
+A Quiet Tunnel~
+   This quiet tunnel is obviously a place for solitude and reflection
+away from the activity of the main part of the fortress. Seats are 
+placed along the walls every few yards and an air of calm pervades
+everything.
+~
+182 d 0
+D1
+The tunnel goes east, turning north as it does so.
+~
+~
+0 -1 18236
+D3
+The tunnel leads west, turning north as it does so.
+~
+~
+0 -1 18237
+D4
+A ladder leads up into a bright light here.
+~
+~
+0 -1 18240
+S
+#18236
+A Hatchery~
+   You have found what, in one sense, is the heart of The Fortress, the
+Hatcheries. Large numbers of giant eggs, glinting like huge precious 
+gem stones are cosseted inside loose piles of hot rocks. They are 
+highly prized and much care is taken in their protection. Hercules 
+in particular takes a personal interest in their care. 
+~
+182 d 0
+D0
+The tunnel leads north, turning quickly and obstructing your view.
+~
+~
+0 -1 18234
+D2
+The tunnel heads south through a small arch quickly bending, curtailing
+your line of sight.
+~
+~
+0 -1 18235
+D4
+A large spiral ramp winds its way gently up through a large hole in
+the ceiling.
+~
+~
+0 -1 18241
+S
+#18237
+A Hatchery~
+   You have found what in one sense, is the heart of the Fortress, the
+Hatcheries. Large numbers of giant eggs, glinting like huge precious 
+gem stones are cosseted inside loose piles of hot rocks. They are 
+highly prized and much care is taken in their protection. Hercules 
+in particular takes a personal interest in their care. 
+~
+182 0 0
+D0
+A tunnel heads north through an archway
+~
+~
+0 -1 18234
+D2
+The southern exit leads into a short tunnel.
+~
+~
+0 -1 18235
+D4
+A large ramp slowly spirals up through a hole in the ceiling.
+~
+~
+0 -1 18242
+S
+#18238
+The First Nexus~
+   You are floating at the centre of a large intersection. Exits 
+lead in all directions, the horizontal ones through large portals
+filled with a shimmering light. The spaces between them are filled
+with more detailed and intricate murals depicting the clan history.
+~
+182 d 0
+D0
+A red shimmering light fills the arch to the north of you.
+~
+Santa~
+0 -1 18239
+D1
+A green shimmering light fills the arch to the east.
+~
+Nymph~
+0 -1 18241
+D2
+A black void greets you to the south.
+~
+Evil~
+0 -1 18240
+D3
+The portal to the west is covered in a yellow forcefield.
+~
+Avalon~
+0 -1 18242
+D4
+The main shaft of the fortress stretches up above you.
+~
+~
+0 -1 18243
+D5
+It's a long way down!
+~
+~
+0 -1 18286
+E
+mural murals painting paintings~
+You see dragons of all shapes, kinds, colours and sizes 
+streaming towards a giant building sculpted into the living
+rock of an enormous mountain. The Storm Dragons Clan House!
+A massive dragon hangs in the air over the clan house, 
+golden light flowing from its every pore, Glaurung, Father 
+of dragonkind, blesses the rapidly swelling ranks of the Storm 
+Dragons. Waiting at the doors to welcome the worthy and pure 
+of heart stand Evil and Nymph.
+~
+S
+#18239
+The Scratching Room~
+   This room is a chaotic jumble. Dragons grow and as they do so 
+they shed their skins, replacing them each time with ever sturdier
+scales. It makes them itch like crazy. If you meet a cranky dragon,
+chances are they're about to moult. This room is dedicated to assuaging 
+these urges. Posts and walls are covered with scales shed by previous 
+dragons and are used as a place where the dragons can have a really good 
+scratch without destroying the furniture. The fruits of their labour lie 
+all around you.
+~
+182 d 0
+D1
+Through the piles of sloughed skin you can see an arch to the east.
+~
+~
+0 -1 18241
+D2
+To the south a large doorway is filled with a red glow
+~
+santa~
+0 -1 18238
+D3
+An archway leads west to a passageway away from this mess.
+~
+~
+0 -1 18242
+D5
+A ladder leads down into darkness.
+~
+~
+0 -1 18234
+E
+scratching posts walls~
+A strong adhesive has been used to stick scales of various sizes
+and roughness in patches onto the posts and walls. Some of them
+are extremely rough and easily remove the skin from the end of
+your fingers.
+~
+E
+piles skin scale scales~
+The scales vary in size from a fingernail up to the size of a hand.
+They come in many colours and if you could find a way of using them
+they would make some very tough armour.
+~
+S
+#18240
+Sleeping Quarters~
+   The younger, less senior, dragons sleep here. A large room has 
+been divided up by screens and forcefields into cubicles for use
+by tired dragons. Each contains a large mat and a small cupboard
+for the dragons' personal belongings. Generally, the dragons' 
+attendant staff keep the place nice and tidy so it all looks a 
+little spartan.
+~
+182 d 0
+D0
+A large portal to the north is filled with a black miasma.
+~
+evil~
+0 -1 18238
+D1
+At the far eastern end of the hall a small arch highlights an exit.
+~
+~
+0 -1 18241
+D3
+A small arch west leads to a tunnel flooded with darkness.
+~
+~
+0 -1 18242
+D5
+A small ladder leads down into a peaceful and soothing glow.
+~
+~
+0 -1 18235
+S
+#18241
+Attendants Quarters~
+   The servants of the Storm Dragons live here. A humanoid race of
+unknown origin they move silently amongst the dragons, communicating 
+without words with one and other and their masters. This room has been
+divided by screens and forcefields to provide all the amenities that 
+they seem to need. The room is rather empty and austere, without any
+form of adornment or decoration.
+~
+182 d 0
+D0
+Strange and horrifying cries of pain and pleasure come from a tunnel
+leading north from here.
+~
+~
+0 -1 18239
+D2
+An archway in the south wall will let you out of this drab place.
+~
+~
+0 -1 18240
+D3
+A large portal filled with a shimmering green light leads west. 
+~
+nymph~
+0 -1 18238
+D5
+A huge ramp spirals down into a warm draft. It seems quite out of 
+keeping with the rest of the room.
+~
+~
+0 -1 18236
+S
+#18242
+House Training Room~
+   It seems that newly hatched dragons need house training and here 
+is where they are kept until they master the art! It is, to say the
+least, somewhat fragrant here. It looks as if the attendants devotion
+to duty has some limit after all, either that, or they can't keep up 
+with the current rate of production. Exits lead north, south and east 
+out of this hell-hole!
+~
+182 d 0
+D0
+Quick, there might be some fresh air to the north!
+~
+~
+0 -1 18239
+D1
+A huge glowing forcefield shimmers in the doorway to the east.
+~
+Avalon~
+0 -1 18238
+D2
+A tunnel to the south offers some hope of a breathable atmosphere.
+~
+~
+0 -1 18240
+D5
+A large spiral ramp winds down into a warm, calm area.
+~
+~
+0 -1 18237
+E
+floor mess shit poo pooh crap~
+Please don't look! This is a family mud!
+~
+S
+#18243
+The Second Nexus~
+   You are floating at another cross-roads in the Storm Dragons'
+fortress. The walls are richly decorated with scenes from the
+clans colourful past. These one however, are tinged with darkness
+and gloom. Around you four massive doorways filled with a shimmering
+silver light which prevents you from looking through lead north,
+south, east and west. You can also try up or down the fortress'
+main thoroughfare.
+~
+182 d 0
+D0
+A silver forcefield lies to the north.
+~
+garrion~
+0 -1 18244
+D1
+A silver forcefield lies to the east.
+~
+gomorra~
+0 -1 18245
+D2
+A silver forcefield lies to the south.
+~
+mithembra~
+0 -1 18246
+D3
+A silver forcefield lies to the west.
+~
+drake~
+0 -1 18247
+D4
+The fortress continues to rise above you.
+~
+~
+0 -1 18253
+D5
+The warm and pleasant draft from the volcano blows up at you.
+~
+~
+0 -1 18287
+E
+mural murals painting paintings picture pictures~
+Strife and its followers death and destruction shroud these pictures in
+darkness. You see thunderclouds over the clan house, dragon fighting
+dragon, alien beings massing to strike in this moment of darkness. And 
+in the background an exodus, as dragons sick of the internecine 
+wrangling leave the clan forever to make a new start, somewhere out 
+there, in a better place.
+~
+S
+#18244
+Garrion's Design Studio~
+   You are in a large comfortable room. It is filled with displays, 
+maps and models. In the north-eastern corner is a large desk piled
+high with papers and in the north-western corner stands a large
+drawing board. From the size and design of the furnishings you assume 
+that the owner prefers humanoid form for his work. The displays are 
+set out in such a way as to be on display and you guess that the 
+dragons are welcome to walk in at any time and browse through the 
+plans.
+~
+182 d 0
+D0
+A large doorway filled with shimmering lines of force lies to the
+north.
+~
+door force forcefield field~
+1 -1 18248
+D1
+A large tunnel heads east quickly curving to the south curtailing
+your view.
+~
+~
+0 -1 18245
+D2
+A short passage leads to the central tower of the fortress.
+~
+~
+0 -1 18243
+D3
+A large tunnel heads west quickly curving to the south obscuring
+your view.
+~
+~
+0 -1 18247
+E
+maps plans plan display displays design designs~
+You idly shuffle though the papers. You see the designs for the 
+fortress, descriptions of strange beasts and a drawing of someone
+bearing an uncanny likeness to yourself hanging upside-down from 
+a tree. Neat Trick!
+~
+S
+#18245
+Gomorra's Room~
+   As you enter this room the words 'Only the worthy shall become 
+True Storm Dragons' pop into your mind. A quick look around this
+room shows that this is where the formative years of the young 
+dragons are planned. The walls are lined with little alcoves into
+which books and pamphlets have been placed. Large pictures on the
+walls depict various races with their weakness picked out in red.
+Several tables support more literature, books based on the clan's
+rather chequered history and a tray of leaflets marked, 'Please 
+take one.' A large doorway to the east is filled with a silver
+forcefield, much like the one to the west. Tunnels lead off to the
+north and south.
+~
+182 d 0
+D0
+A tunnel leading north turns west obscuring your view.
+~
+~
+0 -1 18244
+D1
+A silver forcefield obscures your view to the east.
+~
+door forcefield force field~
+0 -1 18249
+D2
+An exit to the south soon turns to the west and out of sight.
+~
+~
+0 -1 18246
+D3
+An enormous archway leads back west to the central shaft.
+~
+~
+0 -1 18243
+E
+pamphlets pamphlet leaflet leaflets~
+Also sorts of information is available from these references. 
+Techniques for killing, healing, worshipping, meditation and just
+about everything else you can think of. Lists of creatures, their 
+strengths and weakness, ways to improve spell learning and how
+to be the smooth dragon about town that you always yearned to be.
+~
+E
+picture pictures painting paintings chart charts~
+Several races can be seen, dwarf, elf, human. Most of them have red
+marks at their throat, heart and head. Bizarrely enough, the one of
+a lizardman has a mark under the tail! Your eyes water at the very
+thought!
+~
+E
+book books~
+The books on the clan history seem interesting enough. They have 
+titles like, 'Deimos and his Silver Dragon' and 'Santa and Nymph 
+play with the fairies.'
+~
+S
+#18246
+Mithembra's Room~
+   You have entered a large and spacious room with exits in all
+four cardinal compass directions. In one corner a reception like
+area has been set up with a desk and a large but functional chair.
+A large sign above the desk says, 'Promotion comes to those that 
+do, not those that ask!' The rest of the room is empty apart from 
+a large notice board and numerous paintings and portraits.
+~
+182 d 0
+D0
+A large doorway filled with a pulsating glow leads back to the 
+central tower.
+~
+mithembra~
+0 -1 18243
+D1
+A tunnel leads east, then turns north.
+~
+~
+0 -1 18245
+D2
+A large oak door bars they way south.
+~
+oak large door oaken~
+0 -1 18250
+D3
+A tunnel heads to the west before turning north.
+~
+~
+0 -1 18247
+E
+board sign notice noticeboard~
+The board has various pieces of paper pinned to it. One says, 
+'Quests currently available to suitably qualified dragons 
+wishing to improve their chances of promotion. Address all
+enquiries to Mithembra please' another has a list of several,
+rather hard to come by, pieces of equipment.
+~
+E
+desk~
+The desk is neat, with small stacks of papers on it. One catches
+you eye. It is headed 'Donation Room' and goes on for several 
+pages. It has a neat, hand-written note in the margin, 'Must 
+remember to get two more Froboz robes.'
+~
+E
+picture pictures painting paintings mural murals portrait portraits~
+Several heroic acts are shown on these paintings. One titled 
+'Hercules' shows a golden dragon biting the head off Froboz's now
+lifeless corpse.
+~
+S
+#18247
+A Drake's Room~
+   This room is given over to the clan ideal of fraternity. The 
+Drake who commissioned it has had large comfortable padded benches 
+installed around a central table. In the north-eastern corner a small
+stage has been erected and you guess that anyone is free to use it 
+for entertainment of any sort. Several large pictures of groups of
+dragons adorn the wall with the obligatory silly one where they all
+have their bottoms to the artist and their tails in the air!
+~
+182 d 0
+D0
+A short tunnel leads north before turning eastwards out of sight.
+~
+~
+0 -1 18244
+D1
+A silvery pattern dances in the large archway leading east.
+~
+drake~
+0 -1 18243
+D2
+A short tunnel leads south before turning eastwards out of sight.
+~
+~
+0 -1 18246
+D3
+A doorframe with no door in it leads west.
+~
+~
+0 -1 18251
+E
+picture pictures painting paintings mural murals~
+As you look closer, you recognise Zharradan as he returned to the
+clan, which by then was just a shadow of its former self. Zharradan
+struggled against almost inpossible odds, and triumphed to bring the 
+clan back to where it once was, One of the greatest clans ever to 
+roam the realm of Elite. He, by himself, took command over the clan, 
+and slowly, but safely, Storm Dragons rose from the ashes to become 
+what it is today. As time passed, heroes like Kamthra, Demandred and 
+Hercules joined Zharradan, and the clan blossomed once more.
+~
+S
+#18248
+Garrion's Quarters~
+   These sleeping quarters are nice indeed. Considering most stone
+buildings are cold and dark, someone has gone to great effort to
+make the room warm and light. Warmth comes from some heated rocks
+against the north wall, light from numerous glowing globes inserted
+into the walls and ceiling. The subtle diffuse lighting shows you
+a large bed, a small tidy desk and a strange contraption like a 
+small easel. Several storage boxes contain neatly folded clothes
+and personal effects and the walls are decorated with drawings,
+paintings and large tapestries. You can leave through a large 
+door to the south.
+~
+182 d 0
+D2
+A large wooden doorway lies to the south.
+~
+Door large wood wooden~
+1 -1 18244
+D3
+A large tapestry covers a good portion of the west wall.
+~
+~
+295 18200 18252
+E
+light lights globe globes~
+The light is coming from several small globes about a hand-span in
+diameter. The give a warm slightly yellow light. They are stuck fast
+in the rock of the fortress. You can see no way of altering the 
+light level they emit.
+~
+E
+bed~
+The bed is obviously for humanoids. Careful inspection shows it to
+be of advanced design with some kind of magical field holding it a
+little way off the floor. It is very comfortable.
+~
+E
+easel music stand~
+Propped up at about eye level are a couple of sheets of paper with
+strange symbols on them. You suspect that they might be music. Then
+you realise that solid rock in a fortress of this type is probably
+reasonable sound-proofing.
+~
+E
+tapestry~
+This large tapestry depicts two Storm Dragons and a maniacally
+grinning dwarf. In the background hangs the Fortress, riding the
+fury of the volcano. Woven into the fabric in large golden
+letters are the names; Garrion, Radagast and Storm.
+~
+S
+#18249
+Gommora's Quarters~
+   This room is dominated by the bed. It is enormous and you know
+that Gomorra doesn't bother much with humanoid form. For someone
+who writes so much you see no sign of a desk or any writing materials.
+A few shelves hold pictures of his friends and clan mates but 
+little else is on show. He obviously copes well without much in
+the way of belongings.
+~
+182 d 0
+D3
+A silver forcefield glows in the only exit, a doorway to the west.
+~
+door force field forcefield~
+0 -1 18245
+E
+bed~
+At least three times the length of a human and made of some tough 
+fibrous material the bed has a huge divot in the centre where 
+Gomorra's weight has crushed the material.
+~
+E
+pictures picture~
+Various dragons and humanoids appear in the pictures including one of
+Gomorra himself, 'writing' by will power alone, words appear on the
+page with no sign of a pen.
+~
+S
+#18250
+Mithembra's Quarters~
+   You are overwhelmed by the panoply of colours and smells that 
+greet you as you stand here. The room is neat and immaculate with 
+stylish, colour co-ordinated decor. You know instantly that a 
+woman of great taste and sophistication lives here. Her bed, a
+wrought iron four-poster with cream drapes, lies against the 
+south wall. Above it a large window lets in a stream of sunlight. 
+A small table, a chest of drawers and other items of furniture 
+compliment the room perfectly. The surfaces are covered with 
+rare flowers growing lustily in small pots filling the room 
+with an exquisite perfume. The walls are hung with paintings 
+and works of fine art. On the west wall, amidst the artworks, 
+hangs a large mirror. Opposite the bed, in the north wall, a 
+large oak door has been fitted.
+~
+182 d 0
+D0
+A solid oak door leads north.
+~
+door oak large oaken~
+0 -1 18246
+E
+window sun sunlight~
+Closer inspection reveals the window to be a clever magical 
+fake. You guess it can be made to show anything that the 
+owner wishes.
+~
+E
+mirror~
+Nothing special here, just a mirror that runs from floor to
+ceiling!
+~
+S
+#18251
+A Drake's Quarters~
+   This is a simple bedroom. A large and comfortable bed lies against 
+one wall. Several comfortable benches and tables are arranged about
+the room. Some cupboards have been built into the rock of the fortress 
+into which clothes and some personal effects have been placed. A large,
+doorless, exit leads east to some comfortable sofas.
+~
+182 d 0
+D1
+A large doorframe but with no door in it, leads east.
+~
+~
+0 -1 18247
+S
+#18252
+Garrion's Private Retreat~
+   This room is obviously used as a hideaway. A large mound of some 
+dried plant material in one corner acts as a bed. Going by the 
+impression the owner sleeps here in dragon form. This idea is lent 
+strength by the pile of sloughed skin and scales in one corner, next 
+to a rather handy, and well worn, scratching post. Another desk and 
+several piles of papers take up the remaining space.
+~
+182 d 0
+D1
+A door is set in the east wall.
+~
+~
+2 18200 18248
+E
+desk paper papers~
+The contents of the papers lying on the desk are obviously
+confidential as they are in some form of cipher. Some of the
+drawings are decipherable though and suggest that they relate
+to the defensive capabilities of the fortress.
+~
+E
+picture painting~
+As you look closer at the painting, you recognise the great 
+Zharradan being blessed by the gods as he reached Immortality, 
+thus gaining recognition throughout the Universe. Zharradan 
+later re-incarnated in a mortal body, but still with the mind 
+and power of one of the gods.
+~
+S
+#18253
+The Third Nexus~
+   You are standing at one of the higher junctions in the Storm 
+Dragons' fortress. Huge portals filled with gold shimmering force
+fields lie to the north, east, south and west. Recent scenes from 
+the clan's long history bedeck the walls in this wide shaft. Above
+you you can see the shaft end as it expands into an enormous hall.
+Below you the shaft disappears in to the distance, vanishing to 
+a tiny dot.
+~
+182 d 0
+D0
+A magnificent archway radiating golden light lies to the north.
+~
+demandred~
+0 -1 18254
+D1
+A magnificent archway radiating golden light lies to the east.
+~
+dragonstorm~
+0 -1 18255
+D2
+A magnificent archway radiating golden light lies to the south.
+~
+lagg~
+0 -1 18256
+D3
+A magnificent archway radiating golden light lies to the west.
+~
+skar~
+0 -1 18257
+D4
+Not far above you the shaft abruptly enters a huge cavernous hall.
+~
+~
+0 -1 18258
+D5
+As you look down the shaft disappears to a point in the distance.
+~
+~
+0 -1 18288
+E
+mural murals painting paintings picture pictures~
+The focal point of these pictures is the clan house, run down 
+and falling into decay. But all around the room a procession 
+of dragons marches towards the gates of the building. At their
+head flies a black dragon, blood dripping from his fangs as 
+the long lost Zharradan returns to rebuild the clan to its 
+former glory. In the background you see a smoking volcano 
+and through the smoke and haze you see the fortress, retreat
+and citadel of the Storm Dragons constructed to preserve the
+life and ideals of the clans through dark, hard times.
+~
+S
+#18254
+Demandred's Study~
+   A huge polished oak desk fills half of this room, with a large 
+comfortable looking chair behind it. The surface of the desk is 
+strewn with bits of paper covered in notes  and open books of ancient 
+lore. There is a miniature statue of Kamthra on the desk, and one of 
+the books, nearly filled with writing has the name Garrion on the 
+spine. The room is warmed by a small fire in the corner of the room, 
+and the opposite wall is covered by a large painting showing the 
+clan immortals. A large doorway to the south leads to the fortress'
+main shaft.
+~
+182 d 0
+D1
+~
+~
+295 18239 18282
+D2
+A huge doorway leads south, although you can see through, some 
+force keeps out the noise and wind from the volcano.
+~
+~
+0 -1 18253
+E
+statue~
+The statue is about a foot high. You see a great man, dressed 
+in glowing armour holding a staff from which energy crackles 
+and snakes.
+~
+S
+#18255
+Dragonstorm's Domicile~
+   This rather large room has fallen into a subtle state of disuse.
+Oh, it is clean and tidy as if meticulously looked after by the 
+attendants but you feel that the owner rarely comes here. Most of
+the middle ranking Drakes are assigned to tasks that take them 
+far from the fortress. Consequently, apart from its lavish paintings
+and pictures, this room hold little of interest. You can exit 
+through a doorway to the west.
+~
+182 d 0
+D3
+A golden forcefield prevents the noise and hubbub from the fortress'
+main thoroughfare disturbing the peace.
+~
+~
+0 -1 18253
+E
+picture pictures paintings mural murals painting~
+This painting is of Evil, who, in a desperate attempt to change
+the way of thought with some immortals, left this realm and 
+abandoned his clan. Evil and Santa, two of the most renowned 
+beings ever to roam the realm of Elite and two of the founders
+of Storm Dragons disappeared suddenly one day, and were never 
+seen again. However, those who knew and remember Evil and Santa 
+still talk about them with respect. No one, before or after, rose 
+through the ranks to gain immortality faster than Evil.
+~
+S
+#18256
+Lagg's Quarters~
+   This large and spacious room is extravagantly decorated. There
+is no sign of a bed, just ornate chairs and tables. Statues of 
+unusual design and of many shapes and sizes stand around the room.
+Shelves are laden with books and unusual artefacts are hung on the
+walls. You guess that Lagg travels a lot and likes to bring back
+memento's of his trips. You fail completely to recognise any of 
+the ethnic styles and wonder where they originate from. 
+You can leave through a short tunnel to the north.
+~
+182 d 0
+D0
+A short tunnel leads to an archway back to the Main Shaft.
+It is filled with a golden glow.
+~
+~
+0 -1 18253
+E
+statue statues~
+Many creatures are featured, few recognisable to you. One 
+statue, a group of five hideous, harpy like, creatures has 
+an inscription on the base. It simply reads, 'Girl Power.'
+~
+E
+artefact artefacts~
+These are all fastened immovably to the wall with some form
+of magic that you are unfamiliar with. Some seem to be weapons,
+some armour and one intriguing item is labelled, 'Mandelbrot 
+Marital Aids'!
+~
+E
+book books~
+This really is an eclectic mix. At least the ones in languages 
+that you can read are. Some of the ones with pictures in are
+quite shocking!
+~
+S
+#18257
+Skar's Quarters~
+   A curiously decorated room surrounds you. It is decorated in a
+harsh mixture of white and black. Perhaps it represents the essential
+and vast contradictions that exist in the personality of the owner.
+Light comes only from a few feeble candles glowing in a small shrine
+in the corner. Peering into the blackness you see a dark bed, covered
+entirely in a huge black cloth. Where the walls are white, pictures of
+the clans heyday abound, where it is dark, sombre, forbidding stretches
+of black drapes cover the walls. The only colour in the room, a golden
+archway back to the central shaft of the fortress, lies to the east.
+~
+182 d 0
+D1
+A large arch leads back, through the shimmering light, to the centre
+of the fortress.
+~
+~
+0 -1 18253
+E
+picture pictures~
+Happy scenes of the Mighty Storm Dragons slaughtering hapless mobs
+abound!
+~
+S
+#18258
+The Dragons' Hall~
+   You are stunned. The central shaft opens and spreads to the west
+into a huge hall. You eyes are drawn due west to where the Thrones
+sit. You marvel at the colossal nature of the very place itself, then
+you notice something odd about the thrones. They shift and shimmer
+before your eyes blurring seamlessly from form to form. You can not
+make out any more than that at this distance. To the north, east and
+south, massive ornately decorated arches lead to the private chambers
+of the clan leaders. High above you on an enormous balcony which
+circles the hall you see massive statues staring down at you, peering
+deep inside your soul.
+~
+182 d 0
+D0
+Through the decorous archway comes nothing but raw blackness. Sucking
+in all light and pulling at the very essence of your life-force. The
+mighty Vampire Dragonlord Zharradan welcomes you to his domain with a
+smile.
+~
+~
+0 -1 18259
+D1
+A pair of massive grey stone doors fill the archway to the east.
+~
+~
+0 -1 18261
+D2
+A forcefield similar to others seen around the fortress blocks your
+view through the southern archway.
+~
+~
+0 -1 18263
+D3
+You look with curiosity towards the throne room of the Storm Dragons.
+The thrones seem to be arranged in a parabola, with the opening towards
+you.
+~
+~
+0 -1 18265
+D4
+A yellow cylindrical forcefield continues to map out a path up into
+the heavens.
+~
+~
+0 -1 18271
+D5
+The shaft disappears, straight down, as far as you can see.
+~
+~
+0 -1 18289
+E
+throne thrones~
+You can't see much from here. They do, however, appear to be changing
+shape. An experience you can only imagine to be rather peculiar to the
+user!
+~
+S
+#18259
+Zharradan's Study~
+   You have entered the study of Lord Zharradan, High Drake of the
+Storm Dragons. A large oak desk stands at the end of the room,
+together with an ornate chair. The desk is bare apart from a pile
+of papers and an ink well.......with red ink? There is a large
+painting hung behind the desk which shows the Storm Dragon clan
+symbol.  A red silk carpet covers the floor, and a large fireplace
+in the west wall makes the room light up. On the east wall are
+portraits of former rulers of the Storm Dragons clan.  Below the
+portraits is a pedestal upon which a large manuscript lies. Near
+the pedestal is a trapdoor, from which you can hear screams and
+howls of agony...
+~
+182 d 0
+D2
+Nothing but a pitch black archway lies to the south.
+~
+~
+0 -1 18258
+D5
+Screams are coming from a black hole in the floor.
+~
+trap door trapdoor~
+295 18240 18260
+E
+portraits~
+Those depicted in the portraits include Santa, Nymph and Djeli.
+~
+E
+oak desk chair~
+It seems very old and intricately carved. It almost seems to have
+grown out of the floor...
+~
+E
+manuscript~
+The manuscript is far too long to read right now - you could 
+be discovered in here at any moment...
+~
+E
+symbol clan~
+                /           /
+                /' .,,,,  ./         
+               /';'     ,/    
+              / /   ,,//,`'`      
+             ( ,, '_,  ,,,' ``   
+             |    /@  ,,, ;" `  
+            /    .   ,''/' `,``   
+           /   .     ./, `,, ` ; 
+        ,./  .   ,-,',` ,,/''\,'   
+       |   /; ./,,'`,,'' |   |     
+       |     /   ','    /    |  
+        \___/'   '     |     |  
+          `,,'  |      /     `\  
+
+~
+S
+#18260
+Zharradan's Bedroom~
+   You have entered Zharradan's Bedroom. Well you assume it's his
+bedroom anyway. The huge pile of gold in the centre of the room looks
+like the kind of place a dragon would sleep. You then notice the source
+of the screams you heard earlier, several people are here, tied to 
+various torture devices. Blood lines the walls, and the smell is 
+horrendous. How can anyone sleep here you wonder? 
+~
+182 d 0
+D4
+Nothing but a black circle in the black stone of the ceiling
+lies above you.
+~
+trap door trapdoor~
+2 18240 18259
+E
+blood~
+There seem to be several different colours of blood on the walls,
+but red seems to be the most prevalent.
+~
+E
+gold pile~
+It must be worth a fortune!! You decide you'd better take some, after
+all it seems rather cramped in here. You reach out to get a rather nice
+looking crown and draw back your hand with a scream...it's burning hot!
+It must be magically protected...
+~
+S
+#18261
+Hercules' Dungeon~
+   This is the dungeon of Hercules. Although it might look frightening
+at first glance, due to the darkness and disturbing liquids on the
+floor, it's really a nursery. Running around on the floor are lots of
+tiny newly hatched dragons, all being overlooked by the Mighty Hercules
+High Drake of the Storm Dragons. It probably wouldn't be a good idea to
+disturb them. At the far end of the room is a huge golden throne.
+There is a black hole in the ground here.
+~
+182 d 0
+D3
+You can see into the Dragon's Hall. In the distance the thrones blur
+and shift in a disconcerting way.
+~
+~
+0 -1 18258
+D5
+An open hole in the ground sits at your feet awaiting your move.
+~
+~
+0 -1 18262
+E
+throne~
+A huge golden throne, carved into a fierce dragon, seems almost
+alive. Anyone sitting there who isn't a High Drake will probably end
+up in that hole in the floor very soon.
+~
+S
+#18262
+Hercules' Pit~
+   This room is full of bones and skulls from all kinds of different
+creatures, most of them burned and twisted at impossible angles.
+It must be the place where Hercules puts the remains of his fallen
+enemies, there sure seem to have been a lot of them. This place
+really gives you the creeps! You hope that you can make it out 
+through the large hole in the ceiling.
+~
+182 d 0
+D4
+A light high above through a hole in the ceiling offers you hope of a
+way out.
+~
+~
+0 -1 18261
+S
+#18263
+Kamthra's Workshop~
+   You are standing in the workshop of one of the most powerful and
+renowned mages ever known in this land. Several desks and benches are
+covered in books, equipment and in some cases experiments in progress.
+The experiments are contained within yet more of the ubiquitous magical
+fields found throughout the fortress. Even more books fill the shelves
+lining the walls accompanied by strangely labelled bottles and boxes.
+A large painting glowing with a great white light hangs on one wall.
+You can see the splendour of the dragonhall to the north though an arch
+or you could try the large and imposing door to the east.
+~
+182 d 0
+D0
+A large archway takes you back to the overwhelming sight of the Storm
+Dragons' throne room.
+~
+~
+0 -1 18258
+D1
+A large and beautiful dark hardwood door leads to Kamthra's home to
+the east.
+~
+large dark hardwood door~
+2 18204 18264
+E
+bench benches desk desks experiment experiments~
+Six long benches are laid out around the room. On each is a neat 
+notebook filled with a writing you can not read. Next to it, inside 
+a shimmering globe, sits an experiment in progress, a wand spins 
+slowly in one, a severed hand twitches sporadically in another. 
+You feel quite ill!
+~
+E
+painting paintings picture~
+This is a painting of who you just think might be Avalon, the only true 
+Overgod and Protector of  the Storm Dragons. He gained great powers as an 
+immortal, and many looked up to him, and worshipped him. However, Avalon 
+faded away somehow, and today, his deeds are remembered only by the oldest 
+clan members. However, many of the areas mortals roam today were blessed 
+by Avalon and bears his mark.
+~
+S
+#18264
+Kamthra's Bedroom~
+   This could only be a mage's bedroom. A rather fetching bed, made-up
+with sheets of glowing force twisting, seemingly with a life of their
+own, floats a foot off the floor. A deep piled, dark blue, carpet lies
+on the floor, smothering the sound of your feet. The walls just don't
+appear to exist. A midnight blue night sky with stars twinkling in it
+stretches above and to the horizon in all directions. Rather incongruously
+a large doorway stands in the middle of nowhere to the west.
+~
+182 d 0
+D3
+A large hardwood door stands completely isolated to the west, neatly
+framed by the night sky.
+~
+large hardwood door~
+2 18204 18263
+E
+bed~
+Definitely King Size and apparently without support you gently drop
+your backside on to the bed. Hmmm! Very comfortable! Suddenly the
+sheets spring and wrap themselves around your neck! You just manage
+to scramble free.
+~
+E
+sky~
+Obviously it is a form of magical projection of an absolutely beautiful
+night sky. A deep midnight blue lit only by star light and a brilliant
+moon. You feel yourself relaxing as you stare into infinity.
+~
+E
+drape~
+You realise that behind the bed, hidden in the darkness, is a large
+black drape. Pulling it back you are shocked to find a shimmering cube
+of crystal. Inside it you can just make out shapes writhing in agony,
+trapped forever at the will of Kamthra
+~
+S
+#18265
+Before the Thrones~
+   You can not help but notice the way that the hall is dominated by
+the Thrones. At this distance you realise that they are truly enormous
+one moment and then they shift and change to just very large. They are
+arranged in a huge parabola. At the apex sits the two largest and
+most impressive. You feel the mixture of awe and dread of any person
+who, when called to the Council of the Storm Dragons, has to approach
+this way. You can set out towards the High Drakes thrones to the west
+or you can head towards the arms of the parabola north or south. To
+the east you can see the main shaft of the fortress.
+~
+182 d 1
+D0
+A line of thrones lies north of here, sweeping in a majestic arc to
+the west.
+~
+~
+0 -1 18266
+D1
+To the east you see the main shaft of the fortress. As it spreads
+and opens towards you into this massive hall the cylindrical force
+field continues up towards where the vaulted roof comes to a point.
+~
+~
+0 -1 18258
+D2
+A line of thrones lies south of here, sweeping in a majestic arc to
+the west.
+~
+~
+0 -1 18268
+D3
+West of here lies the high drakes thrones and the focal point of the
+throne room.
+~
+~
+0 -1 18269
+E
+throne thrones~
+>From here you see the thrones are writhing between huge platforms
+designed to take the bulk of a dragon and a more traditional form
+suitable for a humanoid to sit on.
+~
+S
+#18266
+The Northern Thrones~
+   You are standing in front of the Drakes Thrones. The harder you try
+the harder it is for you to focus on them. The laws of nature are
+taking a beating from the raw magical energy forced into the fabric
+of the Thrones. High above you the council of immortals stares down
+implacably at you. You can go south or walk west along the front of
+the thrones to the High Drakes Thrones.
+~
+182 d 1
+D2
+South lies the area in front of the thrones
+~
+~
+0 -1 18265
+D3
+The largest and most impressive thrones lie to the west.
+~
+~
+0 -1 18269
+S
+#18267
+The High Drakes Thrones~
+   From this close you can see that the two largest Thrones are each
+carved from a single gem stone, one clear and one black. Your attempts
+to touch them are fruitless, your hand just passes through the space
+that they occupy. Even a small chip from one would be worth a fortune.
+~
+182 d 1
+D1
+To the east lies a large red mat.
+~
+~
+0 -1 18269
+D3
+You can see though the gap between the thrones to the space behind
+them.
+~
+~
+0 -1 18270
+S
+#18268
+The Southern Thrones~
+   The Thrones in front of you are small compared to the largest ones
+but still they are works of art. As their forms slip and shift before
+you you manage to pick out some detail in the carvings. 
+~
+182 d 1
+D0
+~
+~
+0 -1 18265
+D3
+You can walk west along the face of thrones to the largest ones.
+~
+~
+0 -1 18267
+S
+#18269
+The Centre of the Throne Room~
+   You are standing before the High Drakes Thrones at the focus of the
+throne room. It is acoustically perfect, you can here every little
+noise around you. Anybody sitting in the thrones or standing here can
+be heard clearly without the need to shout or raise their voice. The
+Thrones and Council of Immortals above you make this a very imposing
+setting. The floor of the hall is of flawless white marble but here,
+presumably so that you know your place, is a large red mat, a single
+blood-red stain against the pristine white of the floor.
+~
+182 d 1
+D0
+~
+~
+0 -1 18266
+D1
+~
+~
+0 -1 18265
+D2
+~
+~
+0 -1 18268
+D3
+~
+~
+0 -1 18267
+E
+red mat carpet rug~
+Woven from a rich, velvet like fibre, the mat is both vibrantly coloured
+and exquisitely soft.
+~
+S
+#18270
+Behind the Thrones~
+   Your view of the hall is almost completely curtailed by the two
+huge thrones and the balcony above you. A small desk sits here and
+you guess that this is where the more mundane aspects of the council
+meetings takes place. Several parchments lie on the desk, agendas
+for meetings you think, and a small picture has been hung on the wall
+over the desk.
+~
+182 d 1
+D1
+You can squeeze between the two High Drakes thrones towards the centre
+of the hall to the east.
+~
+~
+0 -1 18267
+E
+parchment agenda~
+Apologies
+Approve minutes
+Renovation of Zharradan's Quarters *
+Promotions
+Clan Quest Summary
+Treasurer's Report
+Annual Clan Dinner
+AOB
+
+* MUST try and get that blood off the walls.
+~
+E
+picture pictures painting paintings~
+When you look at the painting, you recognise Radagast, young and 
+still a mortal, as he was raised to Grand Drake, a long time ago. 
+Radagast reigned together with Zharradan for a brief time, until 
+he left the clan to embark on a journey of self-discovery. He 
+later returned, now as an Immortal, trying to find himself the 
+powers he lost. Radagast again went through his baptism of fire,
+and was accepted back into the clan as one of the Celestial Drakes,
+the Holy Order of Immortals watching over Storm Dragons.
+~
+S
+#18271
+The Council of the Immortals~
+   You are now at 'eye' level with the Clan Immortals. Their statues
+surround you on all sides. To reach then you can try north, east, south
+or west. However, you will have to leave the support of the warm draft
+from the volcano to do so. Above you the roof comes to a point where
+the force field goes up into the 'neck' of the dragon. Beneath you lies
+the Throne Room of the fortress, spread out in all its magnificence.
+Avalon's statue floats in the air, glowing gently.
+~
+182 d 0
+D0
+Statues stare at you balefully from the north.
+~
+~
+0 -1 18272
+D1
+Statues stare at you balefully from the east.
+~
+~
+0 -1 18273
+D2
+Statues stare at you balefully from the south.
+~
+~
+0 -1 18274
+D3
+Statues stare at you balefully from the west.
+~
+~
+0 -1 18275
+D4
+The current of air disappears into a hole in the ceiling at the start
+of the neck of the fortress.
+~
+~
+0 -1 18276
+D5
+You can see the Throne room and the rooms of the clan leaders dwellings
+below you.
+~
+~
+0 -1 18290
+E
+avalon~
+You see the statue of an ancient Immortal. The Great God Avalon was
+legendary in his time. As one of the gods with the most influence and
+power, he was the one, true overgod of Storm Dragons. As you look at the
+statues eyes, you see a strange fire glowing in them, just as the statue
+was alive.
+~
+S
+#18272
+The Council of the Immortals~
+   You are standing on a ledge which runs the entire way around the
+throne room of the Storm Dragons. Statues of the clan immortals are
+placed along the ledge, looking down and overseeing the welfare of
+the clan.
+A statue of Crusher eyes you stonily.
+Evil's statue stands here.
+~
+182 d 0
+D1
+Statues are lined along the balcony to the east.
+~
+~
+0 -1 18273
+D2
+You can step off the ledge back to the central shaft.
+~
+~
+0 -1 18271
+D3
+Statues are lined along the balcony to the west.
+~
+~
+0 -1 18275
+E
+statue statues~
+They are all different and some of them seem to be moving!
+~
+E
+crusher~
+A tall man, with ancient and wise eyes. He struggled for a long time, 
+facing more personal disasters than all others around him. Nothing, 
+however, seemed to be able to break him. Long ago, the Gods were 
+impressed by this his kindness and helpful nature, so they decided to 
+bless him with Immortality. You might have heard stories about this 
+man, since he has been around for a very long time. Now, he sits mostly 
+in the background, and rumours say that he has left the Elite realm, 
+never to come back, but in his clan, the Storm Dragons, no one ever 
+doubts that Crusher is still with them, watching over their every step.
+~
+E
+evil~
+This is the statue of Evil, one of the most worshipped gods who ever roamed
+the realm of Elite. Evil founded the Storm Dragons together with the 
+Legendary Santa, and together with the elf Nymph, they made the clan reach 
+unequalled heights. He was a powerful man, though not many mortals now 
+remember him, the power of Evil still surges through the Storm Dragons.
+~
+S
+#18273
+The Council of the Immortals~
+   You are standing on a ledge which runs the entire way around the
+throne room of the Storm Dragons. Statues of the clan immortals are
+placed along the ledge, looking down and overseeing the welfare of
+the clan.
+A statue of Annubis stands resolute here.
+Santa's statue hovers gently above the ledge.
+~
+182 d 0
+D0
+Statues are lined along the balcony to the north.
+~
+~
+0 -1 18272
+D2
+Statues are lined along the balcony to the south.
+~
+~
+0 -1 18274
+D3
+You can step off the ledge back to the central vent.
+~
+~
+0 -1 18271
+E
+statue statues~
+They are all different and some of them are looking at you!
+~
+E
+annubis~
+Before you stands the statue of an ancient warrior. He was a tall man,
+and although his face is covered by a mask, you can see his eyes
+glowing with a red light. As one of the former Rulers of Storm Dragons, 
+Annubis was once one of the mightiest warriors of the Elite Realm.
+~
+E
+santa~
+Dressed in red, with a black belt, stands the legendary Santa. Some claimed
+he was Evils one born son, or perhaps even incarnate, but no one seems to
+know the truth in this matter these days. However, Storm Dragons still
+remember his name, and we whisper it with respect, for great was his
+powers, and his knowledge perhaps even greater.
+~
+S
+#18274
+The Council of Immortals~
+   You are standing on a ledge which runs the entire way around the
+throne room of the Storm Dragons. Statues of the clan immortals are
+placed along the ledge, looking down and overseeing the welfare of
+the clan.
+Shampoo's statue stands here.
+~
+182 d 0
+D0
+You can step off the ledge back towards the safety of main shaft.
+~
+~
+0 -1 18271
+D1
+Statues are lined along the balcony to the east.
+~
+~
+0 -1 18273
+D3
+Statues are lined along the balcony to the west.
+~
+~
+0 -1 18275
+E
+statue statues~
+Large and dragon-like surprisingly enough!
+~
+E
+shampoo~
+A kind woman of great charisma and personality her statue was crafted 
+by one of the most skilled craftsmen in Midgaard. As you look at it, 
+you can almost see her hair floating in the breeze, and a smile is 
+playing on her lips. Being a mighty warrior, her might and reputation 
+made the Gods bless her and forever grant her Immortality. She is now 
+one of the Ancient gods who forever watches over the Storm Dragons clan.
+~
+S
+#18275
+The Council of the Immortals~
+   You are standing on a ledge which runs the entire way around the
+throne room of the Storm Dragons. Statues of the clan immortals are
+placed along the ledge, looking down and overseeing the welfare of
+the clan.
+A statue of Shylanne ponders your existence.
+Radagast's statue keeps a friendly little grin on his face.
+~
+182 d 0
+D0
+Statues are lined along the balcony to the north.
+~
+~
+0 -1 18272
+D1
+You can step off the ledge back to the main route through the fortress.
+~
+~
+0 -1 18271
+D2
+Statues are lined along the balcony to the south.
+~
+~
+0 -1 18274
+E
+statue statues~
+Yes, they are!
+~
+E
+shylanne~
+You see before you a woman of might and power. Her name was once feared
+everywhere in the Realm of Elite. Her eyes glow with a faint light, and
+you see a large sword hanging by her side. Long ago, the Gods of Elite
+granted her Immortality, and she too is now one of the Gods who watch
+over the clan known as the Storm Dragons.
+~
+E
+radagast~
+As you look at the statue, you recognise Radagast the Brown Mage. He was
+once spoken of as the QuestMaster of the realm of Elite. He is truly
+ancient, and has survived the birth and death of many immortals. He was one
+of the first members of Storm Dragons, and he held the rank or ruler at one
+point too. However, he left the clan and even the realm for one reason or
+another and was not seen again for a long time. 
+~
+S
+#18276
+In the Dragon's neck~
+   You are travelling in the Dragon's neck. You are surrounded by rock
+carved in intricate patterns. Beneath you through a small hole comes
+a great flood of light. Above you the neck continues to narrow as you
+presume it nears the head and your way out of the fortress.
+~
+182 d 0
+D4
+The neck narrows above you.
+~
+~
+0 -1 18277
+D5
+You can see a small portion of the throne room of the Storm Dragon's
+fortress though a hole in its roof.
+~
+~
+0 -1 18291
+S
+#18277
+Before Glaurung~
+   The neck of the Storm Dragon's fortress has narrowed here and you
+have reached the base of the jaw. The air from the volcano far, far
+below you, now howls around you as it is forced through this small
+path. You can feel a powerful presence coming from just above you.
+Warm and kind, yet powerful and implacable in the defence of its kind.
+Just above you you see serrated teeth, perhaps just a little too much
+attention to detail in the fortress for your liking. A strange glow
+comes from somewhere above. Beneath you the neck stretches into the
+distance.
+~
+182 d 0
+D4
+You are just below the mouth of the dragon, complete with teeth and
+an eerie glow.
+~
+~
+0 -1 18279
+D5
+The neck dwindles to a tiny point of light far below you.
+~
+~
+0 -1 18292
+E
+glow~
+A yellow light pulses slowly, reflected from the rocky walls of the
+fortress.
+~
+S
+#18278
+In the Eye of Glaurung~
+   You are now in the presence of Glaurung, forefather of Dragon Kind.
+You are standing in a cavernous room in the head of the fortress. The
+wall in front of you ripples and dances as the face within its very
+fabric turns to you. Large eyes look you over from head to toe and then
+through you into your mind and down into your soul. Glaurung himself,
+thought to be long lost except in every dragons heart, has placed some
+small part of himself here to protect and watch his offspring as they
+grow.
+~
+182 d 0
+D1
+You can leave this holy place through a small doorway to the east.
+~
+~
+0 -1 18279
+E
+wall glaurung fore father forefather face~
+You can see the shape of a dragon's head in the wall, lit by an internal
+glow. The thing you notice most are its eyes, large and luminous they
+seem to penetrate you, easily reaching into the farthest parts of your
+psyche.
+~
+S
+#18279
+In the Mouth of Glaurung~
+   Rows of razor sharp teeth line the inside of the mouth. You never
+realised that dragons had six rows of the things! The mouth is long and
+narrow and ends just above you. You can see light from the outside
+world at its end. The force holding you up is weakening now and you
+know that you are almost free of the fortress. A yellow glow is
+coming from a small hole in the roof of the mouth to the west of here.
+~
+182 d 0
+D3
+The hole is about big enough for a dragon to just squeeze through if
+they really tried. A pulsating yellow light emanates from it along
+with a presence so powerful you can almost touch it.
+~
+~
+0 -1 18278
+D4
+You can see a way out of the fortress just above you!
+~
+~
+0 -1 18280
+D5
+You can battle your way against the updraft down into the neck.
+~
+~
+0 -1 18293
+S
+#18280
+In the Eye of the Storm~
+   You are standing on the 'nose' of the fortress. The hot air from 
+the fortress rushes past you up into the atmosphere.
+~
+182 0 0
+D0
+You are faced with a wall of whirling ash and debris. A cylindrical
+force field holds it back but northwards will take you right into
+it.
+~
+~
+0 -1 18281
+D5
+You can enter the fortress by climbing down into the Dragons' Mouth.
+~
+~
+0 -1 18294
+E
+storm whirlwind ash debris~
+You can see a whirlwind of ash and debris belching from the mouth of
+the volcano. Flashes of lightning sizzle and crackle in the dark and
+brooding clouds.
+~
+S
+#18281
+In the Storm~
+   It is almost impossible to see. A maelstrom of debris, smoke and
+ash howls all around you, cutting your skin and stinging your eyes. 
+Terrifying electrical discharges crackle and sizzle the choking gases 
+that you are attempting to breathe. It is all you can do to discern a 
+faint rocky outline to the north of you.
+~
+182 acx 5
+D0
+You think that you can see a rocky horizon to the north.
+~
+~
+0 -1 18208
+D2
+Try as you might you can not see far enough to tell what lies in the cone
+of the volcano to the south.
+~
+~
+0 -1 18280
+E
+cloud storm ash debris dust~
+A thick, choking cloud of ash and debris is whipping around you, blasted
+through the air by powerful currents of hot gas spewing from the volcano.
+~
+S
+#18282
+Demandred's Library~
+   The walls in this room are covered with shelves laden with books. A 
+glance at the books shows that each one bears the name of a mighty Storm
+Dragon. Some of the books on the lower shelves seem to be only just 
+begun. The books on the middle shelves are filled with writing and 
+some of names on the highest shelves have several volumes devoted to 
+them.
+~
+182 d 0 
+D3
+A door leads back to the west.
+~
+~
+2 18239 18254
+E
+book books volume volumes~
+Some of the books on the top shelves are ancient and have lain 
+undisturbed for years. You sneak a peek at one and read the 
+following, 'This day marks the beginning of probation for Chewie may 
+he find the path to true greatness.' You decide to put it back 
+in case someone comes.
+~
+S
+#18283
+The Central Vent~
+   A powerful hot wind is buoying you up. Your delight at this is soon
+dashed by burning heat and noxious gases. As the air whips around you 
+you feel your skin blistering and cracking. Far below you through the
+smoke and ash you can see the pool of molten rock which is fuelling the
+maelstrom. Just out of reach to the north is a rocky outcrop which you
+might be able to get to. Above you a large, dark forbidding mass
+threatens to tumble from the air, smashing you to your death.
+~
+182 cdupx 9
+D0
+A small platform sticks out into the vent just to the north of here.
+~
+~
+0 -1 18229
+D4
+The wind will carry you upwards, if you let it, towards some huge 
+obstruction in the volcanic vent.
+~
+~
+0 -1 18231
+E
+lava pool magma molten~
+You can just make out the lava pool below you. Too far away to see 
+clearly though it is just an angry red blur beneath you.
+~
+E
+object mass obstruction~
+Far above you is a large stone structure suspended in mid-air. You can
+not make out any details but you marvel at the forces that must be being
+brought to bear to keep it there.
+~
+S
+#18284
+Under the Dragon Fortress~
+   You are transfixed in awe by the sight above you, oblivious to the
+raging torrent of burning air on which you are suspended. A massive
+fortress in the shape of a dragon, propelling itself up the vent,
+hangs in the air above you. The detail is magnificent, the craftsman-
+ship incredible. The wings soar across the vent catching the thermal 
+generated by the volcano. The tail hangs down towards you and at its
+tip you can see a way in.
+~
+182 cdpux 9
+D4
+The tail of the Dragon Fortress hangs down from above you. A warm 
+light shines down from a hole at the end of it.
+~
+~
+0 -1 18232
+D5
+You can try to struggle down against the flow towards the level of the
+ledge.
+~
+~
+0 -1 18283
+E
+fortress dragon~
+The fortress obviously houses its inhabitants in its body. The wings
+are slim and elegant and the tail long and slender. The head and upper
+body is obscured by its underside.
+~
+S
+#18285
+In the Dragon's Tail~
+   You are in the lowest section of the Storm Dragons' fortress. The
+tail rises as a vertical column. The powerful gale from the volcano 
+shoots up past you but now, strangely, feels pleasant against your 
+skin. You doubt that the force of the wind alone is keeping the 
+fortress aloft. The magical forces holding both you and the fortress
+up will allow you to move upwards in to the light above you.
+~
+182 dp 9
+D4
+The tail disappears up, your vision curtailed by a bright light 
+seemingly coming from all around you, widening slightly as it goes.
+~
+~
+0 -1 18233
+D5
+You can try to struggle down to the exit below you.
+~
+~
+0 -1 18284
+E
+wall tail fortress~
+The fortress appears to have been grown rather than hewn or assembled.
+The walls are smooth and seamless and slightly warm to the touch.
+~
+S
+#18286
+The Beginning~
+   You are now deep inside the fortress travelling up its central 
+shaft. You continue to be supported and cosseted in mid-air by the
+warm thermal from the volcano. The walls here are smooth and 
+decorated with fascinating murals. You can try to make your way down
+against the air flow or let it carry you up into the light. A large 
+and imposing statue, exquisitely sculpted from a smooth grey rock is 
+eyeing you.
+~
+182 dp 9
+D4
+The shaft starts to widen considerably as it reaches upwards.
+~
+~
+0 -1 18238
+D5
+You can try to struggle down against the air currents.
+~
+~
+0 -1 18285
+E
+statue radagast~
+As you study the statue it turns to face you and words come unbidden 
+into your mind,
+"Welcome to the home of the Storm Dragons. Please wipe your feet and
+smoking is not allowed in any part of the building. Oh, and watch out
+for Zharradan... he's in a bad mood again"
+~
+E
+murals walls paintings illustrations~
+On the wall, you see a large painting. As you look closer
+you realise that it is of Santa and Nymph as they founded 
+the clan, having their first members go through their
+baptism of fire. Ever since that day, every Storm Dragon 
+raised above the rank of Wyrm goes through the same ritual,
+invoking the arcane powers of Glaurung, the father of all
+dragons, making them in to powerful and respected beings.
+~
+S
+#18287
+The First Nexus~
+   You are floating at the centre of a large intersection. Exits 
+lead in all directions, the horizontal ones through large portals
+filled with a shimmering light. The spaces between them are filled
+with more detailed and intricate murals depicting the clan history.
+~
+182 dp 9
+D0
+A red shimmering light fills the arch to the north of you.
+~
+Santa~
+0 -1 18239
+D1
+A green shimmering light fills the arch to the east.
+~
+Nymph~
+0 -1 18241
+D2
+A black void greets you to the south.
+~
+Evil~
+0 -1 18240
+D3
+The portal to the west is covered in a yellow forcefield.
+~
+Avalon~
+0 -1 18242
+D4
+The main shaft of the fortress stretches up above you.
+~
+~
+0 -1 18243
+D5
+It's a long way down!
+~
+~
+0 -1 18286
+E
+mural murals painting paintings~
+You see dragons of all shapes, kinds, colours and sizes 
+streaming towards a giant building sculpted into the living
+rock of an enormous mountain. The Storm Dragons Clan House!
+A massive dragon hangs in the air over the clan house, 
+golden light flowing from its every pore, Glaurung, father 
+of dragonkind, blesses the rapidly swelling ranks of the Storm 
+Dragons. Waiting at the doors to welcome the worthy and pure 
+of heart stand Evil and Nymph.
+~
+S
+#18288
+The Second Nexus~
+   You are floating at another cross-roads in the Storm Dragons'
+fortress. The walls are richly decorated with scenes from the
+clans colourfully past. These one however, are tinged with darkness
+and gloom. Around you four massive doorways filled with a shimmering
+silver light which prevents you from looking through lead in north,
+south, east and west. You can also try up or down the fortress' main
+thoroughfare.
+~
+182 dp 9
+D0
+A silver forcefield lies to the north.
+~
+garrion~
+0 -1 18244
+D1
+A silver forcefield lies to the east.
+~
+gomorra~
+0 -1 18245
+D2
+A silver forcefield lies to the south.
+~
+mithembra~
+0 -1 18246
+D3
+A silver forcefield lies to the west.
+~
+drake~
+0 -1 18247
+D4
+The fortress continues to rise above you.
+~
+~
+0 -1 18253
+D5
+The warm and pleasant draft from the volcano blows up at you.
+~
+~
+0 -1 18287
+E
+mural murals painting paintings picture pictures~
+Strife and its followers death and destruction shroud these pictures in
+darkness. You see thunderclouds over the clan house, dragon fighting
+dragon, alien beings massing to strike in this moment of darkness. And 
+in the background an exodus, as dragons sick of the internecine 
+wrangling leave the clan forever to make a new start, somewhere out 
+there, in a better place.
+~
+S
+#18289
+The Third Nexus~
+   You are standing at one of the higher junctions in the Storm 
+Dragons' fortress. Huge portals filled with gold shimmering force
+fields lie to the north, east, south and west. Recent scenes from 
+the clan's long history bedeck the walls in this wide shaft. Above
+you you can see the shaft end as it expands into an enormous hall
+Below you the shaft disappears in to the distance, vanishing to 
+a tiny dot.
+~
+182 dp 9
+D0
+A magnificent archway radiating golden light lies to the north.
+~
+demandred~
+0 -1 18254
+D1
+A magnificent archway radiating golden light lies to the east.
+~
+dragonstorm~
+0 -1 18255
+D2
+A magnificent archway radiating golden light lies to the south.
+~
+great~
+0 -1 18256
+D3
+A magnificent archway radiating golden light lies to the west.
+~
+grand~
+0 -1 18257
+D4
+Not far above you the shaft abruptly enters a huge cavernous hall.
+~
+~
+0 -1 18258
+D5
+As you look down the shaft disappears to a point in the distance.
+~
+~
+0 -1 18288
+E
+mural murals painting paintings picture pictures~
+The focal point of these pictures is the clan house, run down 
+and falling into decay. But all around the room a procession 
+of dragons marches towards the gates of the building. At their
+head flies a black dragon, blood dripping from his fangs as 
+the long lost Zharradan returns to rebuild the clan to its 
+former glory. In the background you see a smoking volcano 
+and through the smoke and haze you see the fortress, retreat
+and citadel of the Storm Dragons constructed to preserve the
+life and ideals of the clans through dark, hard times.
+~
+S
+#18290
+The Dragons' Hall~
+   You are stunned. The central shaft opens and spreads to the west
+into a huge hall. You eyes are drawn due west to where the Thrones
+sit. You marvel at the colossal nature of the very place itself, then
+you notice something odd about the thrones. They shift and shimmer
+before your eyes blurring seamlessly from form to form. You can not
+make out any more than that at this distance. To the north, east and
+south massive, ornately decorated, arches lead to the private chambers
+of the clan leaders. High above you on an enormous balcony which
+circles the hall you see massive statues staring down at you, peering
+deep inside your soul.
+~
+182 dp 9
+D0
+Through the decorous archway comes nothing but raw blackness. Sucking
+in all light and pulling at the very essence of your lifeforce. The
+mighty Vampire Dragonlord Zharradan welcomes you to his domain with a
+smile.
+~
+~
+0 -1 18259
+D1
+A pair of massive grey stone doors fill the archway to the east.
+~
+~
+0 -1 18261
+D2
+A forcefield similar to others seen around the fortress blocks your
+view through the southern archway.
+~
+~
+0 -1 18263
+D3
+You look with curiosity towards the throne room of the Storm Dragons.
+The thrones seem to be arranged in a parabola, with the opening towards
+you.
+~
+~
+0 -1 18265
+D4
+A yellow cylindrical forcefield continues to map out a path up into
+the heavens.
+~
+~
+0 -1 18271
+D5
+The shaft disappears, straight down, as far as you can see.
+~
+~
+0 -1 18289
+E
+throne thrones~
+You can't see much from here. They do, however, appear to be changing
+shape. An experience you can only imagine to be rather peculiar to the
+user!
+~
+S
+#18291
+The Council of the Immortals~
+   You are now at 'eye' level with the Clan Immortals. Their statues
+surround you on all sides. To reach then you can try north, east, south
+or west. However, you will have to leave the support of the warm draft
+from the volcano to do so. Above you the roof comes to a point where
+the force field goes up into the 'neck' of the dragon. Beneath you lies
+the Throne Room of the fortress, spread out in all its magnificence.
+~
+182 dp 9
+D0
+Statues stare at you balefully from the north.
+~
+~
+0 -1 18272
+D1
+Statues stare at you balefully from the east.
+~
+~
+0 -1 18273
+D2
+Statues stare at you balefully from the south.
+~
+~
+0 -1 18274
+D3
+Statues stare at you balefully from the west.
+~
+~
+0 -1 18275
+D4
+The current of air disappears into a hole in the ceiling at the start
+of the neck of the fortress.
+~
+~
+0 -1 18276
+D5
+You can see the Throne room and the rooms of the clan leaders dwellings
+below you.
+~
+~
+0 -1 18290
+S
+#18292
+In the Dragon's neck~
+   You are travelling in the Dragon's neck. You are surrounded by rock
+carved in intricate patterns. Beneath you through a small hole comes
+a great flood of light. Above you the neck continues to narrow as you
+presume it nears the head and your way out of the fortress.
+~
+182 dp 9
+D4
+The neck narrows above you.
+~
+~
+0 -1 18277
+D5
+You can see a small portion of the throne room of the Storm Dragon
+fortress though a hole in its roof.
+~
+~
+0 -1 18291
+S
+#18293
+Before Glaurung~
+   The neck of the Storm Dragon's fortress has narrowed here and you
+have reached the base of the jaw. The air from the volcano far, far
+below you, now howls around you as it is forced through this small path.
+You can feel a powerful presence coming from just above you. Warm and
+kind, yet powerful and implacable in the defence of its kind. Just
+above you you see serrated teeth, perhaps just a little too much
+attention to detail in the fortress for your liking. A strange glow
+comes from somewhere above. Beneath you the neck stretches into the
+distance.
+~
+182 dp 9
+D4
+You are just below the mouth of the dragon, complete with teeth and
+an eerie glow.
+~
+~
+0 -1 18279
+D5
+The neck dwindles to a tiny point of light far below you.
+~
+~
+0 -1 18292
+E
+glow~
+A yellow light pulses slowly, reflected from the rocky walls of the
+fortress
+~
+S
+#18294
+In the Mouth of Glaurung~
+   Rows of razor sharp teeth line the inside of the mouth. You never
+realised that dragons had six rows of the things! The mouth is long and
+narrow and ends just above you. You can see light from the outside
+world at its end. The force holding you up is weakening now and you
+know that you are almost free of the fortress. A yellow glow is
+coming for a small hole in the roof of the mouth to the west of here.
+~
+182 dp 9
+D3
+The hole is about big enough for a dragon to just squeeze through if
+they really tried. A pulsating yellow light emanates from it along
+with a presence so powerful you can almost touch it.
+~
+~
+0 -1 18278
+D4
+You can see a way out of the fortress just above you!
+~
+~
+0 -1 18280
+D5
+You can battle your way against the updraft down into the neck.
+~
+~
+0 -1 18293
+S
+#18295
+End of a Lava Flow to the South of the Volcano.~
+   A huge, glass like slide of molten rock has solidified here. Time
+and eruptions have caused it to split and shatter into razor sharp
+shards and it is quite unclimbable. The path continues through the rocks
+to the east and west. Above you the volcano continues to belch smoke
+and ash in to the air.
+~
+182 0 4
+D1
+A small trail rapidly disappears through the boulders to the east.
+~
+~
+0 -1 18200
+D3
+A small path winds through the jagged rocks to the west.
+~
+~
+0 -1 18202
+E volcano~
+The huge bulk of a volcano towers over you to the north. As you look
+up the slope whisps of smoke from the cloud pouring forth high above
+you catch at your throat and make you cough.
+~
+S
+#18296
+Mob Chute 1 - target volcano~
+   If you can see this, we're in trouble.
+~
+182 u 0
+D0
+~
+~
+0 -1 18200
+D1
+~
+~
+0 -1 18202
+D2
+~
+~
+0 -1 18203
+D3
+~
+~
+0 -1 18206
+D4
+~
+~
+0 -1 18209
+D5
+~
+~
+0 -1 18212
+S
+#18297
+Mob Chute 2 - target fortress~
+   If you can see this then we are in trouble!
+~
+182 u 0
+D0
+~
+~
+0 -1 18234
+D1
+~
+~
+0 -1 18240
+D2
+~
+~
+0 -1 18243
+D3
+~
+~
+0 -1 18258
+D4
+~
+~
+0 -1 18267
+D5
+~
+~
+0 -1 18289
+S
+#99999
+$~

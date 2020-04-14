@@ -1,0 +1,38 @@
+#110
+Nursery Rhymes Book~
+11099 10 1
+*
+* Mobs
+*
+M 0 11000 1 11002 * Farmer in the Dell
+M 0 11001 1 11002 * His pig
+M 0 11002 1 11003 * Georgie Peorgie
+M 0 11003 1 11004 * Mouse (Hickory Dickory Dock)
+M 0 11004 1 11005 * Baker
+M 0 11005 1 11006 * Jack (House that Jack Built)
+O 0 11000 100 11007 * wall (Humpty Dumpty)
+M 0 11006 1 11008 * Old Man
+M 0 11007 1 11009 * Jack (Jack & Jill)
+M 0 11008 1 11009 * Jill
+M 0 11009 1 11010 * Jack (Jack, Be Nimble)
+M 0 11010 1 11011 * Jack Sprat
+M 0 11011 1 11011 * Jack Sprat's Wife
+O 0 11001 100 11012 * swing
+M 0 11012 1 11013 * Kookaburra
+O 0 11002 100 11013 * gumdrop
+M 0 11013 1 11014 * Little Bo Peep
+M 0 11014 1 11015 * Little Bunny Foo Foo
+O 0 11003 100 11016 * brick from bridge
+O 0 11004 100 11017 * moonbeam :)
+M 0 11015 1 11018 * Mary (lamb)
+M 0 11016 1 11019 * Mary (garden)
+O 0 11005 100 11019 * bunch of flowers
+M 0 11017 1 11020 * Michael
+M 0 11018 1 11022 * Old King Cole
+O 0 11006 100 11024 * meatball!
+O 0 11007 100 11025 * shoe
+*
+*
+S
+#99999
+$~

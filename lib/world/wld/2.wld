@@ -1,0 +1,1642 @@
+#400
+#bThe Entrance to the Kai Citadel#N~
+   A huge citadel is outlined against the sky, overlooking the city of
+Midgaard. The massive bronze doors to this fortress stand open, and you
+somehow feel welcome. No guards defend this place, and the sounds that 
+are normally heard in the castles of the Elite world are not heard here.
+Whatever lies within, this place is at peace. Above the door you see a
+huge stone archway with some writing on it. You can go south, back into
+Midgaard, or north, into the citadel. You also see a #N#bplaque#N on the wall
+here that may bear furthur reading.
+§N~
+-1 cdu 1
+D0
+~
+~
+0 -1 401
+D2
+~
+~
+0 -1 3065
+E
+archway arch ~
+Carved from a single piece of marble, this archway supports the south
+facing wall of the citadel. Inscribed across the top of the archway is
+the Kai Credo. It reads:
+
+           "Honour, Fellowship, Courage, Respect, Loyalty."
+§N~
+E
+plaque sign wall~
+It reads:
+A lot of work was put into this house, especially the extra descriptions!
+If you see a work of interest such as plaque, sign, statue, anything, try
+to look at it! Often, there is a detailed description attached. We, the 
+builders of the Kai Fortress, hope you like it, and you are *more* then
+welcome to look around and use our facilities. 
+-Nymph and Rilarien
+§N~
+S
+#401
+#bInside the Citadel#N~
+   You are standing in a darkened hallway, massive marble pillars holding up
+the arched ceiling all along the length of the hall. Carved into each pillar is
+a statue, presumably of some past hero. You can follow the hallway north, or go
+to one of the two rooms here. There is a small plaque on one of the pillars. 
+~
+2 du 0
+D0
+The hallway to the north is dark. 
+~
+~
+0 -1 404
+D1
+You catch a glimpse of some books to the east. 
+~
+~
+0 -1 402
+D2
+You can see sunlight from here. 
+~
+~
+0 -1 400
+D3
+The doorway here is framed with massive claymores. 
+~
+~
+0 -1 403
+E
+fang~
+Stern, stalwart, deadly, Fang was the Kai of Honour and Courage. He helped 
+those he deemed worthy, and had no patience for those who were incompetent.
+Years of battle changed him, and he became much respected for who he was, 
+as well as for his unmatched ability with the sword.
+~
+E
+karen lanier~
+Beautiful, elegant, slender frame belying great power, Karen Eth Lanier 
+was the trusted ally of Ben Kenobi and succeeded where he failed. The two 
+fought many great battles side by side, for Karen is the Kai of Skill.
+~
+E
+ben kenobi~
+A slender robed figure carved in stone, with deep scars and determined 
+gaze. Ben Kenobi was the Kai of respect, once beloved by his people, and 
+cast aside when he lost his faith in them.
+~
+E
+plaque sign pillar~
+These are the semblances of the mightiest of the old Kai. Look upon them 
+well, for they each symbolize a facet of what you aspire to be. The 
+legendary Ben Kenobi, the vengeful Fang, and the mighty Karen Eth Lanier.
+~
+S
+#402
+#bDarius's Library#N~
+   This dusty room's walls are lined with shelves filled with old tomes. 
+There are desks and pedestals throughout the chamber, some with books in
+them.  A few notable titles catch your eye.. "The Rise and Fall of the
+Jedi"... "The Crimson Apocalypse"... "The Credo".... and "Arcane Arts".
+Someone has been reading them and they have ornate bookmarks keeping them
+at an assigned page. If you wish, you can stay here and study, or you can
+leave to the west.  Occasionally the librarian Darius can be seen reading 
+some ancient tome here.
+§N~
+2 cdu 0
+D3
+There is fresh air this way, it must be the way out. 
+~
+~
+0 -1 401
+E
+arcane arts~
+You try but fail to understand the holy words.
+~
+E
+credo~
+The Credo of the Kai is written on this page:
+"Courage is not the absence of fear, it is acting in spite of it. To 
+accept defeat is a courageous act, but to keep on trying in spite of it, 
+therin lies true greatness."
+~
+E
+crimson apocalypse~
+You scan the open pages and a passage catches your eye:
+"And the young gods rose up and slew their elders, in the mighty war to 
+end all wars, at the end of the world. And lo did one who called himself 
+Fish rise above the battle and rebuild his world, claiming it for him, 
+and remaking it as he wished, and he made himself its Lord. Those who did 
+not side with the usurper were smitten by his hand, until none opposed 
+his subjugation."
+~
+E
+jedi~
+The Book Reads:
+"Mighty were the Jedi, those who helped others before themselves. 
+Tales of Kris, Ben, Karen and Lanceor are no longer told in the world of 
+Crimson, for the Apocalypse has changed much, and the Jedi, a dying breed 
+after their return, have faded into obscurity. Many traveled through the 
+portal to another world and were never seen again. Others, like Karen Eth 
+Lanier, who led after Ben Kenobi was slain by the gods, achieved grace 
+and now are immortal. But the Jedi are no more."
+~
+S
+#403
+#bThe Kai Training Hall#N~
+   This empty chamber has weapons lining the walls, and it obviously doubles
+for an armoury. On the far wall beyond a glowing forcefield are 4 weapons,
+legendary artifacts from another world. A pure white blade, a crackling black
+sword, a solid mithril mace and a long war spear. The Kai also use this room to
+stock spare equipment. New warriors are always welcome to look here should
+they have need of beginning equipment!
+§N~
+2 du 0
+D1
+You see the dark hallway. 
+~
+~
+0 -1 401
+E
+blade white pure glory~
+This is the mighty Sword of Glory, the weapon of the Kai. It was brought 
+to this world by Ben Kenobi, and is kept here, as he is no longer worthy 
+to wield such a blade.
+~
+E
+sword crackling black stormblade~
+This is the deadly Stormblade, hidden by the elves until the dragon Santa 
+plundered their castles and completed their quests. When it fell into his 
+hands, all who were good trembled with fear, and no-one dared oppose him. 
+~
+E
+mace mithril disruption~
+This is the holy Mace of Disruption, brought to this world by the warrior 
+maiden Kris. Thought lost, it surfaced recently and has been kept here 
+ever since. Many undead creatures were blasted into oblivion at Kris's hands.
+~
+E
+spear vangar~
+This is Vangar's Spear, wielded by the mighty general of the Crimson 
+World. No-one knows how it arrived in Elite, but here it is kept, lest it 
+fall into the wrong hands.
+~
+S
+#404
+#bArched Hallway#N~
+   The large hallway continues. There are more pillars with statues carved into
+them here, and there is a plaque on one support. If you wish, you can follow
+the hall north or south, or you can enter one of the two doorways here to see
+what lies beyond. A spiral staircase also leads up from here. §N
+~
+2 du 0
+D0
+The hallway continues to the north. 
+~
+~
+0 -1 407
+D1
+There is a large chamber to the east. 
+~
+~
+0 -1 405
+D2
+The hallway continues to the south. 
+~
+~
+0 -1 401
+D3
+There is a large chamber to the west. 
+~
+~
+0 -1 406
+D4
+There is a portal going up.
+~
+portal~
+9 -1 423
+E
+trinity~
+She was Ben's teacher, his instructor, and one of the prime creation gods 
+of the world of Crimson. He was also dark and self-serving, using his 
+status among his peers to garner power for himself. It is hard to 
+determine the gender of this statue.. it seems to change from each angle. 
+Trinity has not been seen since the Apocalypse, although it is rumored he 
+still lives in the world of Crimson. 
+~
+E
+terrock~
+A stern questor, searching wanderer, he left the realms of the gods to 
+escape their hatred, and returned for the caring of a friend and the love 
+of a woman. Almost a father to young Ben, he was cast aside after the 
+Apolapyse, and is occasionally seen wandering the world of Elite.
+~
+E
+chani~
+A lovely angel carved in marble of startling purity and innocence. The 
+smile on her lips hides the sadness she has endured. She gazes, almost 
+lovingly, across the room at the statue of Terrock, her lover.
+~
+E
+plaque~
+This is the room of the dead gods. The gods who once held power in the 
+world of Crimson, but fell after the Apocalypse. Chani and Terrock are 
+not the powers they once were, and Trinity has vanished totally.
+~
+S
+#405
+#bThe Kai Barracks#N~
+   These are the sleeping quarters of the Kai, where they rest between their
+rigorous adventures. If you need to rest, rest here, for the magic of the Kai
+ensures that you cannot be harmed within this room. Indeed, some claim that
+those who tend their wounds here heal much faster than anywhere else! Also,
+the food you see here is for people resting here, often left by kind-hearted
+Kai for less fortunate people. Please contribute! There is a map on the 
+wall here, with a plaque beneath it.
+§N~
+2 cdetu 0
+D3
+The hallway is through this door. 
+~
+~
+0 -1 404
+E
+map~
+
+                                      #bRoom#N   
+                                      /  |   
+                                     / #bCouncil#N   
+                                    /   
+                           #bWoR#N -- #bEoH#N  -- #bAsh#N   
+                                   |    
+                                   |        #bZif#N   
+             #bWil    DaM    Atl#N     |   #bRoom#N/   
+              |      |      |      |  /   
+             #bElH#N -- #bElH#N -- #bElH#N -- #bArH#N  -- #bKai Barracks#N   
+              |      |      |      |   
+             #bCat    Dar    Flg#N     |   
+                                   |   
+                           #bArm#N -- #bInC#N  -- #bLibrary#N   
+                                   |   
+                                  #bEnt#N  
+§N~
+E
+key plaque~
+#bMAP KEY
+-------#N
+
+Ash - Ashen-Shugar's Room  WoR - Worship Room
+EoH - End of Hall          Wil - Willow's Room
+DaM - Dakkon's Maze        Atl - Atlantis's Room (register of Kai is here)
+Elh - Elder Hall           Cat - Catwoman's Playroom
+Dar- Darren's Room        Flg - Flagg's Room 
+Zif - Zifnab's Room        ArH - Arched Hallway
+InC - Inside Citidel       Ent - Entrance
+
+Arm- Armory. NOTE: this room is for low level players only.
+     High level players taking equip from this room is *HIGHLY*
+     frowned on.
+
+       Map courtesy of the Kai and the Keeper of the Citidel
+§N~
+S
+#406
+#bHallway of the Elders#N~
+  This long hallway is beautifully decorated, with a scarlet red carpet
+covering the length. Doors line this hall, presumably leading to the private
+rooms of various notable Kai. You can follow the hallway to the east or the
+west, or open on of the doors here. The door to the south has the is engraved
+with the name "Flagg".
+§N~
+2 du 0
+D0
+~
+~
+0 -1 420
+D1
+~
+~
+0 -1 404
+D2
+~
+door~
+1 0 417
+D3
+~
+~
+0 -1 418
+S
+#407
+#bThe End of the Hallway#N~
+   The long hallway ends here, at a spiral staircase. Massive granite pillars
+support the ceiling; some have speckles of obsidian in them, and they all have
+ornately carved statues gracing them. There is a plaque on one pillar. You can
+go through either of the doorways to the east or the west, or you can climb the
+stairs to the next level of the citadel. 
+~
+2 du 0
+D0
+A faint red portal shimmers here. 
+~
+portal ~
+1 0 412
+D1
+The room to the east is surprisingly well lit! 
+~
+door~
+1 -1 408
+D2
+The hallway continues to the south. 
+~
+~
+0 -1 404
+D3
+The doorway to the west is small and you cannot see in the room. 
+~
+~
+0 -1 409
+D4
+The stairs climb in a spiral. 
+~
+~
+0 -1 410
+E
+thirdstone~
+Once the friend of Ben Kenobi, the two grew apart, and became bitter 
+enemies. Thirdstone despised Ben, and envied him, and sought to defeat 
+him and take his place. Before all the people of Crimson, the young Jedi 
+slew the evil Thirdstone, and drove him off with the aid of Fang. 
+Thirdstone hasn't been seen in the world of Elite for over 2 decades.
+~
+E
+evil~
+A robed figure with dagger in hand, face hidden by a hood, almost solid 
+obsidian. One of the most respected and powerful gods of his time, he was 
+one of the first to arrive in Elite. The cause of his death is uncertain, 
+but there came a day when he no longer answered the calls of his followers, 
+and he has not been seen since. He is presumed dead but the loyal anxiously
+await his return.
+~
+E
+santa~
+A massive dragon carved from the granite, the mightiest of his kind. He 
+was one of the first to arrive in Elite, and for a time lived in both 
+worlds, but he soon fell to more evil ways and faded into legend. He will 
+be forever remembered.
+~
+E
+plaque sign~
+This is the room of treachery and deceit, and fallen glory. The statues 
+of Santa, Evil, and Thirdstone are here.
+~
+S
+#408
+#bLady Nibor's Chambers#N~
+   You are standing in the chambers of the Lady Nibor, the deadly and 
+beautiful Kai.  There is a plush bed, magnificent rugs, and ornate 
+statues decorating the room.  Two magnificent swords have been placed 
+over the doorway to the room.  There is a desk, covered with paperwork 
+and quill pens, in the middle of the room, lit with an oil lamp.  It 
+looks like Nibor keeps herself very busy with the Kai clan.
+§N~
+2 du 0
+D3
+The hallway is much darker than here. 
+~
+door~
+1 -1 407
+S
+#409
+#bThe Room of Worship#N~
+   This is where the Kai pray to their gods. Many idols line the walls,
+hold-overs from the Saracen days. In the center of the room is a large altar,
+presumably used for the many ceremonies of the Kai. This is where new Kai are
+initiated, and taught of the days of old, the days of the Saracen, and the
+credo of the Kai. 
+~
+2 du 0
+D1
+You can leave to the hallway. 
+~
+~
+0 -1 407
+E
+idols~
+The idols of Nymph the Angel, Rilarien the Wolf, Odie, Nymph's lover, 
+Xman the once-king, and Radagast the Wizard all line the walls. There are 
+other nameless statues, too old to be identified.
+~
+E
+altar~
+The large altar is vaguely translucent, and you see that embedded deep 
+within is what appears to be a Sword of Glory.
+~
+S
+#410
+#bA Small Room#N~
+   At the top of the spiral staircase is a small room, with an open doorway to
+the south. A marvelous painting adorns the north wall, obviously an old work of
+art. You can descend the staircase or go through the doorway to the south. 
+~
+2 du 0
+D2
+The Council Room of the Kai is to the south. 
+~
+~
+0 -1 411
+D5
+The hallway is below. 
+~
+~
+0 -1 407
+E
+painting north art~
+An ancient dragon, fighting side-by-side a much younger red dragon and
+several mortal heroes, battles a mighty demon in this painting. You identify
+one of the robed figures as Evil, once-emperor of the Storm Dragons, and
+therefore the dragons are likely to be Santa and Reddragon. The other heroes
+are unknown to you. Writing on the bottom of the painting indicates that
+this work of art was taken from the world of Crimson, from Santa's cave,
+so that it would always be safe here.
+§N~
+S
+#411
+#bThe Council Chamber of the Kai#N~
+   This chamber is well lit by light that comes in from the balcony to the
+south. The walls are pristine white, to furthur enhance the feeling of peace
+and purity. In the center of the room is a large meeting table, with an emblem
+of a phoenix emblazoned upon it. This is where the Kai hold their meetings, and
+there is a chair for each Lord, Elder, and Knight. There are several more
+anonymous seats for when the Kai Lords deem a situation important enough for
+the whole clan to attend. The balcony to the south is open, and you can look
+out the window there. 
+~
+2 du 0
+D0
+The small room is the north. 
+~
+~
+0 -1 410
+E
+balcony south window~
+The town of Midgaard can be seen to the south, with people bustling 
+around, attending to their business. Guards keep the peace and warriors 
+tend to their wounds in the temple. You are struck with an odd sense of 
+purpose.. and a feeling of love for the world of Elite.
+^~
+S
+#412
+#bJesta's Garden#N~
+   The red light fades and you find yourself standing in the middle of a
+massive desert, with sand as far as the eye can see... burnt, black sand. In
+the middle there is a small broken-down tower with some dead trees around it,
+and brown vines seem to fill the interior. Inside you see a broken swing and a
+dog's collar lying on the floor. You can still smell something in the air,
+possibly sulfur, possibly something much, much worse. You are filled with an
+overpowering urge to leave this ruin. It is possible to climb to the second
+story of the tower, or you can venture out into the desert. 
+~
+2 cu 2
+D1
+The desert stretches as far as the eye can see. 
+~
+~
+0 -1 414
+D2
+The desert stretches as far as the eye can see. 
+~
+portal~
+1 -1 407
+D4
+It looks like you might be able to climb higher in the tower! 
+~
+~
+0 -1 413
+E
+swing~
+This is Jesta's swing, where the carefree goddess used to swing for hours 
+and hours.
+~
+E
+collar dog~
+This is the collar of Watson, the Sausage dog.
+~
+S
+#413
+#bBen Kenobi's Study#N~
+   Ben Kenobi, much respected Jedi hero and Kai Lord, once a high-god in the
+world of Crimson, now a mere mortal, spends his days here, when he is not out
+in the world of Elite. It took all the magic the Kai could muster to salvage
+this portion of the world he came from. The room itself is rather sparse, a
+bed, a desk, paperwork cluttering it. The only objects of note are two statues,
+one of a fair maiden, and one of an elven hero, which seem to guard the stairs
+against all intruders. There is a storage closet north of here.
+§N~
+2 dtu 0
+D0
+~
+door~
+1 -1 416
+D5
+You can climb down to the Garden. 
+~
+~
+0 -1 412
+E
+alannon elven hero elf~
+Alannon the Elven Knight, who instructed Ben in the use of the sword, and 
+showed Ben the ways of magic. His apparant youth belies his talent, and 
+he is sorely missed by the Kai Lords. He was the Avatar of Good, a fabled 
+warrior in his time.. but now he is dead, and no-one speaks of his deeds 
+anymore.
+~
+E
+jesta maiden~
+This is a statue of Jesta, Ben's goddess in the world of Crimson. She 
+looks rather playful, like she was a harmless figure, and her almost 
+childlike beauty is marred only by her eyes. They seem too fierce, too 
+angry for her face.
+~
+S
+#414
+#bThe Desert#N~
+   The black sand stretches out in all directions. 
+~
+2 u 4
+D0
+The desert stretches out in all directions. 
+~
+~
+0 -1 415
+D1
+~
+~
+0 -1 421
+D3
+The desert stretches out in all directions. 
+~
+~
+0 -1 412
+S
+#415
+#bDeimos's Cave#N~
+   It is a lot cooler in here, as the cave you've found shelters you from 
+the desert heat. This cave is tremendous on the inside, and every noise 
+you make echoes off the walls in an eerie fashion. You see a ledge on the 
+other side of the cave, strewn with treasure, a dragon's treasure, you 
+suddenly realize. You can't get to it from here, because you are blocked 
+by a large lake, and all the treasure on this side doesn't really seem worth 
+it. Mostly books.. a dragon reading? There is also a small painting on the 
+ground, mostly completed. You can go back out into the desert, or try to 
+cross the lake.
+~
+2 adtu 4
+D2
+~
+~
+0 -1 414
+E
+painting lanceor~
+This is a almost complete painting of a young elf. According to the 
+frame, this is Lanceor Eth Lanier, the last Jedi. He is depicted here in 
+battle with the evil denizens of the fabled city of Arnath, with the 
+spirits of the Jedi Knights Karen Eth Lanier and Ben Kenobi watching over 
+him. 
+~
+E
+lake~
+Odd, it seems like there is a red glowing shape in the lake.
+~
+S
+#416
+#bA Storage Room#N~
+   This is where the Kai keep their spare equipment. The shelves in this room
+are all kept clean, and it is well lit enough that you can see far into the
+storage chamber. If you find yourself in need of some of the more common items
+Elitemud has, check here often. Occasionally you may find something
+interesting! §N
+~
+2 du 1
+D2
+~
+door~
+1 -1 413
+D5
+~
+~
+9 -1 422
+S
+#417
+#bFlagg's Chambers#N~
+   You have entered the chambers of Flagg, fabled dwarven warlord. The 
+elderly adventurer is still seen in the world of Elite, but is very often
+off in distance, unknown lands. His legend has diminished, but there are
+some within the Kai who will never forget this brave hero.
+§N~
+2 dtu 0
+D0
+§N~
+door~
+1 -1 406
+S
+#418
+#bHallway of the Elders#N~
+   The long hallway continues. Everything is clean and shiny, giving a
+feeling of purity and pristine freshness. A cool breeze blows in from
+the south, and you can see a small woodland grove outside. The hall leads
+to the west and the east, and there is a door to the north with the name
+"Deathknight" written on it.
+§N~
+2 du 0
+D0
+The door to Deathknight's Dojo is here.
+§N~
+door~
+9 -1 426
+D1
+~
+~
+0 -1 406
+D2
+~
+~
+0 -1 419
+D3
+~
+~
+0 0 424
+S
+#419
+#gDarren's Woodland Hide-Away#N~
+   The Kai have many valued friends, and as a mark of respect, some of
+these allies are given dwellings within the fortified walls of the Kai
+citadel. The Huntress Soulcatcher is one such person. An experienced   
+ranger, she has chosen to live in the peace and serenity of the woods just
+outside the fortress, forsaking the civilization within. When this warrior
+maiden is not out aiding her clan, the Pack, or battling in the world of
+Elite, she can occasionally be found resting here. The mystical powers of
+the grove are beneficial to the injured, and many an adventurer has tended
+his wounds here, using the woodland's healing power. The woods have been  
+vacant since Soulcatcher left the land of the mortals, but recently, a
+ranger by the name of Darren has been seen resting here.
+§N~
+2 tu 3
+D0
+~
+~
+0 -1 418
+S
+#420
+#bLady Xala's Quarters#N~
+ You are in the private chambers of Lady Xala, the famed Kai knight.  
+Many weapons have been stored here, so that people can come here to 
+train.  Xala's personal sword, the blade of the Eth Lanier's is on a 
+special rack on the wall, the steel of the sword sparkling light, 
+reflecting light from an old lantern.
+#N~
+2 du 0
+D2
+~
+~
+0 -1 406
+S
+#421
+#bThingol's Farm#N~
+  In the oasis of the desert the humble peasant Thingol tills the soil, 
+growing corn and wheat and meatballs for his glorious lords.... well, 
+mostly for his friends and family, but his glorious lords do get a little 
+bit, if Thingol feels generous.  All peasants are welcome to work the 
+land and take care of Thingol's animals, and he will protect them from 
+all harm.
+#N~
+2 deu 0
+D3
+~
+~
+0 -1 414
+S
+#422
+#bLarson's Bar and Grill#N~
+   This is Larson's Bar and Grill, home of the famous fido steak and dwarven
+ale.  Somewhere around here can be found Larson, the proprieter of this fine
+establishment.  He's a cool dwarf, always doing something - a hockey stick and
+a work-out machine stand as a testiment to this.  Working here is the swedish
+chef, serving drinks for Larson.
+§N~
+2 deu 0
+D5
+~
+~
+0 -1 3001
+S
+#423
+#bKronan's High Tower#N~
+     You emerge from the portal and find yourself in a large tower
+overlooking the Kai Citadel.  The view is breath taking and you are overcome
+with a feeling of utter serenity and calm.  A large shimmering Phoenix is 
+inscribed in the floor, it is ablaze, but the flames do not harm you.  Perhaps 
+the regenerative powers of the Phoenix may aid in healing your wounds.  As you
+look around the room, you see various ornately woven tapestries, some even seem
+to emanate an aura of magic.  As you look closer, you see the tapestries depict
+the various battle and achievements of Kai.  You notice a different weapon
+look in each of the six corners of the room, each weapon belonging to the
+various powers that roam this realm.  Satan's Pitch Fork, Hades's Crimson Long
+Sword, The Avatar's Glowing Spear, The Ebony Kris, The Dai-Katana, and The Holy
+Hammer.  You feel in awe of such achievement.  The only exit is the portal from
+which you came.
+~
+2 deu 0
+D5
+~
+portal~
+9 -1 404
+S
+#424
+#bHallway of the Elders#N~
+   You are standing in the long hallway. It is soothingly quiet this deep
+into the Kai Fortress, and as the walls of this citadel dig furthur
+into the mountain on which it is built, they get closer to the magic
+that binds much of this mystical place to this plane. To the north there
+is a door with a faint red aura around it; the name "Viv" is written
+upon it in golden lettering. To the south is another door with the name
+"Odie" inscribed on it.
+~
+2 du 0
+D0
+~
+door~
+1 -1 425
+D1
+~
+~
+0 -1 418
+D2
+~
+door~
+1 -1 1236
+D3
+~
+~
+0 -1 179
+S
+#425
+#mViv's Treehouse#N~
+  You are standing in a small wooden tree house.  This is where Viv
+crashes when she gets tired of rocking the mud, and decides to rock
+something else instead. *wink* Lots of cushions, wine bottles, leather
+toys and other stuff can be seen here.  There is a small TV and VCR in
+the corner.
+§N~
+2 adhu 0
+D2
+~
+door~
+1 -1 424
+S
+#426
+#bA ruined old room#N~
+   This room used to belong to a loyal Kai, but times have changed.  It is
+in ruins, and horrible magics, spewed out by treachery, have leveled the room,
+and threaten to hurt anyone who enters.
+§N~
+-1 dgu 1
+D2
+The door to the hall is here.
+§N~
+door~
+9 -1 418
+S
+#427
+#bHallway of the Elders#N~
+   You are at the end of the long hallway. North of here there is a door
+with the name "Willow" inscribed on it. The southern door has the name
+"Catwoman" written on it. To the west is a door with the name "Garthos"
+emblazoned on it in fiery red lettering. It is getting to be rather dark
+in here, and more light comes from under the two doors than comes from the
+hall lights. You can leave to the east.
+§N~
+2 cdu 0
+D0
+~
+door~
+3 -1 428
+D1
+~
+~
+0 -1 424
+D3
+~
+door~
+1 -1 179
+S
+#428
+#bWillow's Chambers#N~
+   As you walk through the door you seem to step into another world.
+Everything in this room is constructed of wood. It looks like the inside
+of a massive willow tree! All the furniture has grown from the tree and is
+very well carved. The desk appears to be a battlefield, and Willow often  
+gets into trouble for the amount of time he spends playing wargames. On   
+almost every wall is a shelf, with thousands and thousands of books covering
+them. You can imagine that the man reading these books must very wise.    
+The bed is surrounded by a white and golden glow, and looks quite comfortable
+indeed.
+§N~
+2 dtu 0
+D2
+~
+door~
+3 -1 427
+S
+#429
+Spare room~
+§N~
+2 dt 0
+D0
+~
+door~
+35 5326 427
+S
+#430
+On the river before a narrow passage.~
+   Through a narrow passage to the north you can spot the HUMBLE CASTLE (hmm..
+) of the NIGHT TRIBE Order lying on top of a large cliff in a gigantic cave.
+Two immortal DEMONS are guarding the narrow passage to the cave, trapped here
+by powerfull magic that seem to eminate from the castle itself. One of the
+demons warn you: - You take one more step in this direction I'll rip your head
+off. 
+~
+2 cdu 6
+D0
+~
+~
+0 -1 431
+D2
+~
+~
+0 -1 3214
+E
+humble~
+Well thats probably the understatment of the year but hey we night tribers 
+are modest.
+~
+E
+night tribe~
+This is really the best clan around. 
+~
+E
+castle~
+The castle seems to glow in the dark from the precious stones decorating its
+walls forming an arcane magical pattern.
+~
+E
+demon demons guardian guardians~
+If your not a night tribe member your in big trouble. Mayby if you keep to
+the middle and run real fast you can get through without the demons haveing
+you for dinner.  
+~
+S
+#431
+On the jetty in the gigantic CAVE.~
+   You are standing on a small JETTY on the rocky shore below the castle. The
+only way up to the castle seems to be a small path leading north from the jetty
+snakeing itself upwards between the cliffs. A couple of small BOATS made of
+wood are tied to the jetty. To the south you see the two guardian demons
+standing in the water, watching you closely. For some reason you get the
+feeling that they are hungry. (some boats to be loaded ) 
+~
+2 cdu 4
+D0
+~
+~
+0 -1 432
+D2
+~
+~
+0 -1 430
+D4
+~
+~
+0 -1 432
+E
+jetty~
+The small wooden jetty is well worn but seems to be in perfect condition.
+~
+E
+boat boats~
+These small wooden rowingboats are here floating on the water just waiting 
+for a member of the Night Tribe to use them.
+~
+E
+stalactites up~
+You can see waterdrops falling from the celing making a small sound hitting
+the cave floor and suddenly you realise that there is a sort of a background
+noise coming from thousands of small waterdrops that almost sounds like rain.  
+~
+E
+cave~
+The gigantic cave streches out deeper into the hart of the moria mountains
+with thousands of STALACTITES hanging down from the celing.
+~
+S
+#432
+In front of the castle.~
+   The castle is only half finised. Lots of workers are here on strike blocking
+the entrance, refusing to finish the castle if they don't get paid. A small
+path to the south is leading down from the castle to the shoreline. 
+~
+2 cdu 0
+D0
+The huge gate made of black oakwood is still missing. 
+~
+The wall of workers~
+33 -1 433
+D2
+~
+~
+0 -1 431
+D5
+~
+~
+0 -1 431
+S
+#433
+The Courtyard.~
+   You are on the inside of the castle walls. Right in front of you is the main
+building. Along the walls to your left and right you can see the stables, metal
+workshop and the barraks of the guards and servants. To your south lies the
+huge black gate through which you entered. Some pigs and chicken are running
+around here happy to have escaped their cages and some poor servant is trying
+to catch them again. It looks rather funny actually. 
+~
+2 cdu 0
+D0
+A guard is standing on both sides of the big oak door leading into the main
+building. They are armed with large halberds and look very capable of their
+jobb, keeping introuders out of the royal halls. 
+~
+oak door~
+33 -1 436
+D1
+You see a small door at the base of the South-Estern tower. 
+~
+door ~
+1 -1 438
+D2
+~
+huge gate~
+33 -1 432
+D3
+You see the door leading into the South-West tower. A guard is standing here on
+duty guarding the entrance. 
+~
+door~
+1 -1 434
+S
+#434
+South-West Watchtower.~
+   You are standing at the top of the S-W watchtower. Two guards is keeping
+watch over the ground below for anything suspicious. You have the feeling that
+the viev from up here would be marvelous if you weren't in a dark cave. Some
+servants is running around here updating the Area BOARD. To the north you can
+go by the breastwalk to the North-West Watchtower. To the south you can go back
+down to the courtyard. 
+~
+2 cdu 0
+D0
+~
+door~
+1 -1 435
+D1
+~
+door~
+1 -1 433
+D5
+~
+~
+0 -1 433
+S
+#435
+North-West Watchtower.~
+   A guard is here sleeping on duty. Well what the heck nothing ever happens on
+this mud anyway, does there :). Some servants are here updating the Quest
+BOARD, quietly not to wake the sleeping guard. To your east you can follow the
+brestwalk on the back side of the castle. South the South-West Watchtower is
+towering. 
+~
+2 cdu 0
+D1
+~
+door~
+1 -1 440
+D2
+~
+door~
+1 -1 434
+S
+#436
+The Throneroom.~
+   The golden throne of the Bloodking stands here by the northen wall decorated
+with marks of honour and pictures from the history of the Night Tribe clan. The
+kings personal servant stands here keeping track of all that consernes the
+Night Tribe and puts everything of importance on the clanboard. Jugs with ale
+and wine and some grilled pigs and chicken is here to eat for the hungry and
+thirsty members of the clan. To the north theres a small door leading out into
+the castle garden. Before you entered the throneroom you noticed a beautifully
+worked staiway up to the second floor with two guards standing half way up
+watching your every move and a little door to the west. 
+~
+2 cdeu 0
+D0
+~
+door~
+1 -1 439
+D1
+To the east you can see the hidden door to the secret escaperoute out of the
+castle. 
+~
+secret passage.~
+33 -1 451
+D2
+~
+oak door~
+1 -1 433
+D3
+Since the King can't trust his heirs not looting the Wine cellar, the only two
+to have a key to this door is the King himself and his trusted guard Minx. ^
+~
+wine cellar~
+1 -1 460
+D4
+~
+n~
+1 -1 450
+S
+#437
+The North-East Watchtower.~
+   The guard is probably away taking a snack but he left a note saying that
+he'll be back soon. Well nothing dangerous in the moria mountais anyway (hehe).
+However a few servants are running around here updating the bulletin BOARD. To
+the south you can get to the South-East Watchtower via the breastwalk. West is
+the breastwalk on the back side of the castle. 
+~
+2 cdu 0
+D2
+~
+door~
+1 -1 438
+D3
+~
+door~
+1 -1 440
+S
+#438
+South-East Watchtower.~
+   Two guard are here playing cards, but they jump up and eagerly start
+scouting the area when they notice your approch. A few servants is here
+managing the Social BOARD. 
+~
+2 cdu 0
+D0
+~
+door~
+1 -1 437
+D3
+~
+door~
+1 -1 433
+S
+#439
+The Castle Garden .~
+   A lovely smell reaches your nose when you enter the garden. Different types
+of fungus, lichen and moss is growing here almost on the rock itself with great
+variety in size and colour. You get the feeling that the fauna has a healing
+effect on you and you feel relaxed. WATER dropping down from a large stalactite
+in the cave ceiling makes up a small stream through the garden and leaves down
+through a small HOLE in the rock. 
+~
+2 cdtu 0
+D2
+~
+door~
+1 -1 436
+D4
+~
+~
+0 -1 440
+E
+water~
+The water has probably been seeking its way through the mountain above for
+centuries befor reaching here and is very clear. When you taste it you notice
+how cool and good it tastes. Mayby you should bottle it up and sell it as 
+expensive mineral water.
+~
+E
+hole~
+This hole seems to be bottomless  anyway you can't hear the small rock you 
+dropped into it hit the ground below. You better not drop anything important
+down it, it might be lost for ever.
+~
+S
+#440
+On the breastwalk on the backside of the castle.~
+   You stand on the breastwalk on the backside of the castle between two of the
+watchtowers. East and west leads to the small doors of the watchtowers. To your
+left you can see small stepps leading down to the castle garden. 
+~
+2 cdu 0
+D1
+~
+door~
+1 -1 437
+D3
+~
+door~
+1 -1 435
+D5
+~
+~
+0 -1 439
+S
+#450
+2nd floor.~
+   To the north you see the private quarters of the Bloodking. You wouldn't
+dare to enter without his permission. Through a door to the east you can spot
+rows of bookshelfs filled with old books containing almost forgotten knowledge
+of the powers of magic. South you see a hallway with doors on both sides each
+door leading to the private chambers of one of the Heirs or royal guards. 
+~
+2 cdu 0
+D0
+~
+~
+33 -1 452
+D5
+~
+~
+0 -1 436
+S
+#451
+Tournament Grounds~
+     A large field spreads out along the eastern side of the castle. Great
+flags are raised upward, between large multi colored tents, being used for
+many purposes.  Large areas are fenced off for jousts and combats being held
+throughout the day.  People mill about, watching and cheering for the various
+knights of the realm competing here, listening to the clanging of armour and
+fighting.  Great banners and tributes are raised to the champions and rulers
+of this land, Night Tribe. Royal Questors dodge amount with uncany skill,
+teasing the crowd while great clerics of the Tribe heal those wounded during
+the tournament.  Before it all, stands a large tent, with beautiful banners,
+belonging to the royal heirs and the Blood King himself.
+§N~
+2 cru 2
+D3
+~
+~
+0 -1 436
+S
+#452
+The Bloodking's Private Chambers~
+A large room, richly embroidered with gold and crimson, showing beautiful oak
+trim of the stone walls.  Tapestries and and other works from about the
+countryside decorate the inner hall, leading to the chambers of the Blood
+King.  Beautiful sets of armor and weapons, inlaid with designs and emblems
+of Night Tribe decorate the room in a magnificent display.  Large windows
+open outward onto a grand balcony overlooking the tournament grounds of the
+kingdom.
+§N~
+2 cdju 0
+D1
+~
+~
+33 -1 453
+D2
+~
+~
+0 -1 450
+S
+#453
+Star Chamber of the Royal Council~
+A large room, with a large star carved into deep stone on the floor. small
+exits drift off to various chambers in the stone walls, half hidden by great
+tapestries.  A large beautifully crafted wooden table fills the chamber,
+cluttered with papers of state and war.  Above you a large windowed ceiling
+made of multi-colored glass serves to create an odd effect upon the whole
+of the room with the light drifting in from the moon. 
+§N~
+2 cdou 0
+D3
+~
+~
+1 -1 436
+D4
+~
+^~
+0 -1 452
+S
+#454
+The Heirs private chambers.~
+<This needs a Desc>
+~
+2 cdu 0
+D0
+~
+~
+0 -1 453
+S
+#460
+The Castle Winecellar.~
+   You wake up with a terrible headache. You try opening your eyes but the room
+just seems to spinn around makeing you feel dizzy so you close them again.
+After a minute or so you try again and manage to focus on an ITEM in your hand.
+You have absolutely no recollection of how you ended up here. When you turn
+your head you can make out some steps to the south that should lead you up from
+here if you could just get on you feet. 
+~
+2 cdu 0
+D1
+~
+~
+0 -1 436
+E
+down~
+You roll over and look at the floor very closely seeing small creatures going
+along in the own little world.
+~
+E
+up~
+You lie staring at the celing and studying a little spider weave a net. 
+Well it's real fachinating but mayby you should get up now  don't you think.
+~
+E
+south steps~
+The steps ought to lead up to the castle.
+~
+E
+north west east~
+The whole wall is covered with shelfs packed with winebottles.
+~
+E
+item~
+When you look closer you see that the item your holding is an empty wine-
+bottle though you can't make out the brand (those damd letters just won't
+lie still). A bit to your left you see a couple of more empty bottles.
+~
+S
+#461
+Malina Meeting Room~
+   This is the room for clan meetings and celebrations. There is a large
+round table, lit with may candles. A fireplace burnes brightly, warming
+the otherwise cold chambers. There is plenty of food and drink, and the
+mugs of ale on the table remain ever full.
+§N~
+2 du 0
+D0
+~
+door ~
+0 -1 464
+D1
+~
+~
+0 -1 462
+D2
+~
+~
+0 -1 465
+D3
+~
+~
+0 -1 463
+S
+#462
+Storage Room~
+   Attention clan members! Please, use this room and share extra equipment
+with other people in the clan! We are not a set of anarchial "heroes", we 
+are a clan.
+§N~
+2 du 0
+D3
+~
+~
+0 -1 461
+S
+#463
+Relaxation Room~
+   This is a large square room, warm and comfortable, decorated with 
+pictures of the clan founders and generals. Banners, armor, and other
+trophies decorated the walls. Rest here, heal your wounds, and sharpen
+your swords for your future battle!
+§N~
+2 cdetu 0
+D1
+~
+~
+0 -1 461
+S
+#464
+Dark Passageway~
+   You are standing in a darkened passage. Light shines in from the south.
+The air in here is rather stuffy, and the passage undeveloped. Roots from
+trees up above show through the earthen walls.
+§N~
+2 adu 1
+D0
+~
+bush hole~
+1 1 3760
+D2
+~
+~
+0 -1 461
+S
+#465
+Darker Cave~
+The cave gets darker as you move further a,long to the south.
+The darkness seems to create a forboding, rising to a terror.
+You fear for your life as something moves in the shadow.
+§N~
+2 du 0
+D0
+~
+~
+0 -1 461
+D4
+You see a small wall you can scale up toeach deeper into the cave.
+§N~
+~
+0 -1 466
+S
+#466
+The Dark Cave~
+  The Cave sparkes as your light reflects off of something in the walls.  As
+you squint your eyes and try to look deeper into the cave, you think you can
+see something move.
+§N~
+2 du 0
+D1
+~
+~
+0 -1 470
+D3
+You hear the boisterous calls of the drunks from here.
+§N~
+~
+0 -1 469
+D4
+~
+trapdoor door trap~
+1 -1 467
+D5
+Down to a darker cave
+§N~
+~
+0 -1 465
+S
+#467
+Den's Personal Residence~
+   You see a lighted, warm, good looking room.  In the middle of the room,
+there is a map of Elite and a list of MALINA clan members.  On the walls of 
+this room, there are many interesting historical pictures and a few big 
+glowing spears and swords, which are momentos of Den's past.
+§N~
+2 deju 0
+D5
+~
+trapdoor door trap~
+1 -1 466
+S
+#469
+MALINA Clan Pub~
+   Here you see the perfect pub.  It is a nice, warm, lighted place.  Near
+the round tables are situated many barrels of assorted beers.  Around you 
+are your friends.  The beer is free and there is no phone, so you don't
+have to worry about calling the wife.  Enjoy it while you are here.
+§N~
+2 du 0
+D0
+The door to Qwax's room
+§N~
+door~
+1 -1 474
+D1
+You see the dark Cave.
+§N~
+~
+0 -1 466
+D3
+The door to Sip's room
+§N~
+~
+1 -1 475
+D5
+~
+~
+0 -1 471
+S
+#470
+The MALINA Clan Library~
+   You have entered the MALINA clan's library.  Around you are large bookstacks
+containing old books.  It is a very quiet place, so MALINA claniers can feel good
+here when they read a book.
+§N~
+2 dou 0
+D3
+~
+~
+0 -1 466
+S
+#471
+Dark Large Cellar~
+   You have entered the old wine cellar of the MALINA Clan.  On the shelves,
+there are many bottles and barrels of the better stuff.  Most are found only 
+as references in books and then you wonder how there are so many of them here.
+On the floor in the courners, there are some of the larges barrels of bear you 
+have seen.  There are also some broken arm chairs, dishes, shelves, and other 
+unrecognized broken things.  You get the feeling that this is a place where
+challenges are called and met -- duels to the death between clan members.
+§N~
+2 adru 0
+D1
+~
+~
+0 -1 473
+D3
+~
+~
+0 -1 472
+D4
+~
+~
+0 -1 469
+S
+#472
+Dark Cellar~
+  You are standing in a very dark and damp place.  No light enters this place
+and all you can do is hear the sounds of rustles and squeeks of the rats.
+Better GO AWAY from this place or you may join the rats for a meal -- for them.
+§N~
+2 adu 0
+D1
+~
+~
+0 -1 471
+S
+#473
+Dark Prison~
+   This place is cool and damp.  There is only one oil lamp on the wall
+weakly glowing.  If you squint some, you will see many cages, which are 
+full of prisoners of the clan.  Most of them are rich patrons of Midgaard
+awaiting their ransom paid (some several times over).
+§N~
+2 adu 0
+D3
+~
+~
+0 -1 471
+S
+#474
+Qwax's room~
+When you enter this nicely decorated room you hear bubbeling from a "bubbelpool".
+On a desk there is a Toaster just about to go in the air and you can smell the newly cooked coffee.
+§N~
+2 dju 1
+D2
+The exit
+§N~
+door~
+1 -1 469
+S
+#475
+Sip's room~
+   You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow. 
+~
+2 dju 1
+D1
+The exit
+§N~
+door~
+1 -1 469
+S
+#666
+Outside the Wedding Chapel~
+   You seem to be floating in the heavens above Elite.  Directly below
+you can see the town of Midgaard, the center of Elite.  Looking around
+you can also see Welmar's castle and the fires of Hell dimly burning.
+You wonder what mystical power protects you from falling to the earth
+below.  As you look around, the only thing visible is a white chapel
+in the distance.  Two large golden doors and beautiful stained glass
+windows decorate this magnificent building.  You conclude that this
+place must be the creation of one of Elite's gods.  Putting aside the
+fear of plummeting to your death below, you decide to approach the
+chapel to bear witness to the events that are about to unfold.
+§N~
+-1 deu 0
+D0
+~
+~
+0 -1 667
+D5
+~
+~
+0 -1 3001
+S
+#667
+Inside the Wedding Chapel~
+   The golden doors mysteriously open, as if sensing your presence.
+At first glance, the interior of this building is as beautiful as its
+exterior.  Flowers gathered from the far reaches of Elite can be seen
+here decorating the white walls.  Ahead of you a set of crystaline
+doors can be seen.  These also open, as if they had a life of their
+own.  Your first look at the actual chapel leaves you speechless.  
+§N~
+-1 deu 0
+D0
+~
+~
+0 -1 668
+D1
+~
+~
+0 -1 669
+D2
+~
+~
+0 -1 666
+D3
+~
+~
+0 -1 670
+S
+#668
+The Wedding Chapel~
+   The walls inside the chapel glow with a divine light.  You feel at
+ease inside here, all of your worries left at the door.  Rows of
+cushioned silvery seats are here for your seating comfort.  Murals of
+Elite's great gods line the walls, providing witness to this event.
+Upon closer inspection, you realize the stained glass windows are
+actually depictions of IO creating the very fabric of existance.  At
+the far end of the room you see a magnificent altar constructed of an
+unknown, but enchanting alloy. A beautiful silken canopy covers the
+wedding platform, where the bride and groom to be will stand and speak
+their vows.
+§N~
+-1 deu 0
+D2
+~
+~
+0 -1 667
+S
+#669
+Flower Garden~
+  You have wandered into a beautiful flower garden.  Every variety of
+Elite foliage must be here growing and blossoming.  Looking around
+you realize that the flowers form a heart-shape, with a single
+golden swing in the middle.  The swing seems perfectly sized for two
+people.  You inhale deeply and breath in the wonderful scents that
+float around this garden.
+§N~
+-1 deu 0
+D3
+~
+~
+0 -1 667
+S
+#670
+Dining Hall~
+   Inside the dining hall you see a gigantic room with foods of all
+sorts.  Elite's finest chefs must have gathered and collaborated to
+create such a magnificent feast for the eyes as well as the
+stomachs of all.  At the head of the room you see a gigantic cake,
+fit for such an occassion.  Next to the cake you see the table that
+belongs to the lucky couple.  Through the many large glass doors
+you can see a balcony that must provide a breathtaking view of the
+land below.
+§N~
+-1 deu 0
+D1
+~
+~
+0 -1 667
+D3
+~
+~
+0 -1 671
+S
+#671
+Balcony~
+   Standing upon the balcony you can see virtually all of Elite below.
+Through the clouds, characters the size of ants can be seen scurrying
+around below, rushing from one zone to the next.  There appears to be
+celebration all around you, including on the world below.  The news of
+a wedding must have spread throught the realm.  Looking out above the
+clouds, in the very distance you see the palace that contains the
+homes of Elite's mighty gods.
+§N~
+-1 deu 0
+D1
+~
+~
+0 -1 670
+S
+#99999
+$~

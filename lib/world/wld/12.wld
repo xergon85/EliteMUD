@@ -1,0 +1,1627 @@
+#1200
+The Chat Room~
+   You enter a cozy lounge that is funished with serveral oversized 
+chairs for reclining and relaxing.  There is a warm fire burning 
+magically, making the room twinkle with light and shadows.  You hear
+talking and giggling from over in the corner.  Sit down and take it 
+easy a while with the rest of the gang.
+~
+12 dk 0
+D1
+~
+~
+0 -1 1203
+S
+#1201
+The Combustion Chamber~
+   This is where the immortals plan and prepare for quests.  There
+are shelves on all the walls holding every kind of imaginable object.
+There is a fridge in the corner with cold drinks.  You know how hard
+planning can be!
+~
+12 dk 0
+S
+#1202
+The Ice Box~
+   This room is so cold you can see your breath.  This is where the 
+frozen remains of mud players who just couldn't play nice with the
+other kids in the sandbox are kept on ice. 
+~
+12 dk 0
+D1
+~
+~
+0 -1 1207
+S
+#1203
+The Drawing Board~
+   The room seems to glow with a strange aura that aids your view.  
+There is a large board posted on the wall overflowing with messages.  
+Take a peak at what new areas the World group is planning.  Feel free
+to cruise over to the test site and take a closer look.
+~
+12 dk 0
+D0
+~
+~
+0 -1 1205
+D2
+~
+~
+0 -1 1207
+D3
+~
+~
+0 -1 1200
+S
+#1204
+The Board Room of the Immortals~
+   This large room is well decorated, and lit from above by a soft 
+magical glow of no particular origin.  Scattered around the room are 
+comfortable chairs and piles of furs of various dimensions, and in
+the very middle there is a huge oak table that shimmers in an odd 
+manner. A large picture window looks down over the whole world, 
+showing the exploits of the many intrepid mortals.  A spiral 
+staircase leads down to another part of this room. 
+~
+12 dek 0
+D4
+You see the Overseers Board Room above you.
+~
+~
+0 -1 1215
+D5
+You see the lower part of this room, and the normal board. 
+~
+~
+0 -1 1205
+S
+#1205
+The Lower Board Room of the Immortals~
+   This room is a close twin to the main Immortal Board Room at the
+top of the spiral staircase.  Your mind and body cannot help but 
+relax as you gaze around this comfortable room, and hope that you 
+will be able to linger here awhile.  Many green plants line a marble 
+stairway that leads down to the Temple of Midgaard. 
+~
+12 dek 0
+D2
+~
+~
+0 -1 1203
+D3
+A well screened inter-dimensional portal hangs quietly in the air
+here. You have no idea where it could possibly lead... 
+~
+portal fractal sex drugs rock'n'roll~
+0 -1 1206
+D4
+You see the main Immortal Board Room at the top of the spiral
+staircase 
+~
+~
+0 -1 1204
+D5
+You see the hustle and bustle of the temple of midgaard. 
+~
+~
+0 -1 3001
+S
+#1206
+The Fractal Orgy Chamber~
+   This room seems to go on forever, as does the party taking place 
+here.  For miles in every direction, lewd acts and general debauchery 
+meets your eye.  Each group of orgy-goers seems to be made up of
+several sub-groups, and each sub-group of even more sub-groups, etc., 
+as you may have imagined.  A large silvery portal that leads back to 
+the lower board room is floating in the air above you. 
+~
+12 dgk 4
+D1
+~
+~
+0 -1 1207
+S
+#1207
+The Hallway of the Dorms~
+   You are in the hallway of the immortals.  This is where the
+immortals go to hang out when those bitchy mortals get on their 
+nerves.
+~
+12 dk 0
+D0
+~
+~
+0 -1 1203
+D1
+~
+~
+0 -1 1206
+D2
+~
+~
+0 -1 1208
+D3
+~
+~
+0 -1 1202
+S
+#1208
+The Hallway of the Dorms~
+    You are in the hallway of the immortals. This is where the
+immortals go to hang out when those bitchy mortals get on their 
+nerves.
+~
+12 dk 0
+D0
+~
+~
+0 -1 1207
+D2
+~
+~
+0 -1 1211
+S
+#1209
+Vulcan's Smithy~
+   You are standing in a large hot smithy complete with forge and
+anvil. There is a large old wooden desk set in a back corner which is
+covered with papers in unkempt piles.  There is also a macintosh 
+computer from which Vulcan surfs the net.  I hope that the occasion 
+for which you have come here is pleasant.  So often it isn't...  
+There are tools, weapons and armor covering the walls, some finished, 
+some not, discarded work lays about on the floor.  There is also a 
+large low bed along one wall. Please don't touch anything as that 
+tends to make Vulcan angry.
+#N~
+12 dehjk 0
+D2
+~
+~
+0 -1 28411
+D5
+There is a portal here leading down to the Temple.
+~
+portal~
+3 -1 3001
+E
+bed~
+The large low bed looks comfy though rumpled.  It looks as though
+Vulcan snatches a nap whenever he can find time, which probably
+isn't often.
+#N~
+E
+desk~
+The desk seems to be made of old oak.  I wouldn't mess with the
+papers as many of them look important.
+#N~
+S
+#1210
+Empty~
+Empty
+~
+12 dk 0
+E
+owner~
+Rahl
+~
+S
+#1211
+The Hallway of the Dorms~
+    You are in the hallway of the immortals. This is where the
+immortals go to hang out when those bitchy mortals get on their 
+nerves.
+~
+12 dk 0
+D0
+~
+~
+0 -1 1208
+D2
+The hallway continues. 
+~
+~
+0 -1 1218
+S
+#1212
+A Pillow Stockpile~
+   A vast ocean of pillows fills this room, or is it a mountain, or a
+field, a pit ? Or maybe is it so that you have reached The Great Pillow
+Void. One thing is certain, there is a lot of pillow present. Real cosy
+it seems. All the pillows hold their own specific motif. Some are dry as
+the desert while other are soaked with salt water, yet others show
+pictures of both heaven and hell. Seems that the little Glob that resides
+here have got a finger in most every part of the world.
+~
+12 kuedjv 0
+D0
+ Pillows, pillows  everywhere pillows...
+~
+~
+0 -1 -1
+D1
+ Pillows, pillows  everywhere pillows...
+~
+~
+0 -1 -1
+D2
+ Pillows, pillows  everywhere pillows...
+~
+~
+0 -1 -1
+D3
+ Pillows, pillows  everywhere pillows...
+~
+~
+0 -1 -1
+D4
+ Pillows, pillows  everywhere pillows...  No, actually not.
+But there seems to be a evil gleam, way up there, gleaming down on you.
+~
+~
+0 -1 -1
+D5
+ Dive into the pillows and you might end up finding a few halfdone.
+~
+~
+0 -1 -1
+E
+Void great~
+ The Great Pillow Void lies just next to the even larger missing socks
+void, whereto all and every sock that anyone ever misplaced end up. The
+pillow void is just a bit more pleasurable and certainly a lot better
+smelling.
+~
+E
+pillow pillows~
+ Seems like every single part of the world got its own little pillow
+represented in this very room. Sure make a lot of pillows.
+~
+E
+gleam~
+ It looks a bit like an eye. A huge, but distant, red eye.
+~
+E
+eye~
+ Peering closer at the eye you find a very unnerving feeling grow inside
+you. That eye is powerful and evil, very evil, and right now, it is
+looking straight at YOU !
+~
+E
+evil~
+ Oh yes, very evil indeed.
+~
+E
+halfdone~
+ Looking at some halfdone pillows, apparently Glob is really interesting
+into knitting or something, you see very accurate sewings of small
+islands and dispergated arms and legs on almost all of the pillows. But
+some differ very distinctly, these either are clean as the purest fabric
+or either they are covered with a very od insignia.
+~
+E
+insignia triangle triangular~
+ OH NO !!! It is the GlobInc. insignia  -  RUN !!!
+~
+E
+insignia globinc globinc. inc~
+ Very little is actually known about this society. Perhaps it is best
+not to know too much. Very few outsides that know anything true about it
+are still alive. Just for your own sake, perhaps you should ignore this
+eye, as They most certainly already know that you have been studying it.
+~
+S
+#1213
+#wThe Sanctuary of Sorrow#N~
+   As you walk into this room a feeling of anguish and neverending
+loss assaults your senses. The room's interior is an expanse of a floor
+and walls of white marble. The ceiling is golden but blackened soot
+covers it giving everything a dingy cast. Tapestries of red and blue are
+still up on the walls but they are torn and ripped apart. In the center
+of the room a dais is raised and upon it is a throne of gold and wood,
+covered with a plush blue pillow. The throne itself is covered in ash and
+fire, the pillow has a long claw mark in it and is soaked in blood and a
+smell of brimstone still fills the air. A feeling of sorrow and loss as
+never felt before in this world overcomes you and in your mind you can
+hear the silent screams of the men, women, and children of the family,
+'Eth Lanier' as they died to the demon hordes decades past.
+~
+12 dkuz 0
+D0
+~
+~
+0 -1 1217
+E
+owner~
+Kestrel
+~
+E
+throne~
+This throne sits upon the dais of white marble. The blue pillow on it
+has long claw marks through it, and the whole pillow is soaked in blood.
+Looking at it you can almost imagine the dread demon-lord Beriz, 
+wrenching a clawed hand through the lost Patron of the family 'Eth
+Lanier' cutting through sinew and bone to reach the pillow behind him 
+and then casually tossing him aside.
+~
+E
+tapestry tapestries~
+The tapestries along the wall smell of soot, ash, smoke, and brimstone.
+Ripped apart by the conquoring demons they depict a land as fair as the
+morning dawn. A land you can only see in the memory of this faded
+tapestry as the guardians of this land were finally overrun.
+~
+S
+#1214
+#yHeaVeN's Retreat#N~
+     The sun shines in from all directions.  The floor has been
+sprinkled with petals from millions of exotic flowers.  There is a
+certain scent to this room, a light floral aroma that's pleasant to
+your nostrils. In the center of the room, there lies the comfiest
+looking bed you've ever seen.  Soft enchanting music plays in the
+distance.  There are many odd #mthings#N you see in this room,
+including a strange looking #rmirror#N, but the most intriguing thing
+is the haunting #mportrait#N of Thomas... It seems as if he's
+watching your every move... 
+#N~
+12 dk 0
+D5
+~
+~
+0 -1 3001
+E
+mirror~
+You curiously look into the mirror, hoping to get a quick glance
+at yourself to see if anything's misplaced.  But strangely, all
+you see is this person behind a wierd looking box tapping away at
+a strange looking key-board-type-thing. Woah.
+#N~
+E
+portrait~
+A hand crafted oil painting of Thomas, HeaVeN's beloved husband.
+#N~
+E
+things~
+On a night-table beside the bed, there stands a small frame with
+a picture of Link on it.  Another thing that boggles you are the
+herbs and potions on the shelf above the table. Wonder what they're 
+for...
+#N~
+S
+#1215
+The Board Room of the Overseers~
+   This large room is well decorated, and lit from above by a soft 
+magical glow of no particular origin. Scattered around the room are 
+comfortable chairs and piles of furs of various dimensions, and in
+the very middle there is a huge oak table that shimmers in an odd 
+manner. A large picture window looks down over the whole world, 
+showing the exploits of the many intrepid immortals. A spiral 
+staircase leads down to the immortal board room below.
+~
+12 dejk 0
+D5
+You see the Immortal Board Room streching out beneath you.
+~
+~
+0 -1 1204
+S
+#1216
+#rMaerlyn's Shattered Empire#N~
+   It is obvious something horrible once happened here. As far as you
+can see bodies cover the ground in various states of decay. The soil
+is stained red from the blood of the dead and only small patches of 
+grass seem able to grow. Off to the north east, likely hundreds of miles 
+away, you see a pillar of magic raging around what looks to be a human 
+like figure. Whatever is in that city is enormous by anyones standards 
+and doesn't seem too pleased. Even from here you can hear it's endless
+screeching quite clearly. About 20' away from you rests a comfy #wchair#W
+made from purple velvet and easily big enough for a troll or minotaur.
+However the #wwoman#W resting in it is not nearly that big. She is 
+actually quite small even for a #wdrow#W. A faint aura of energy 
+surrounds her letting you know that even though she seems to be 
+sleeping its probably not a good idea to attack her. A small pad hovers 
+in the air near the chair awaiting usage. A few leather backpacks rest 
+at her feet along with a #wtome#W. A little further behind her chair you
+see a portal through which you see Midgaard temple. This appears to be 
+the only exit.
+~
+12 ekuz 0
+D2
+The temple of midgaard lies to the south
+~
+portal~
+1 -1 3001
+E
+tome book~
+   This tome is probably near to 1000 pages by your estimation even
+though it doesn't weigh more than a pound. It is bound in well cared for
+leather and has an eight pointed star burned into the cover. As you flip
+through it you find each page, sometimes each word, is inscribed in a
+different language and appears to be written in no particular way. Only
+one passage of one page is written on a language you recognize.
+
+It reads:
+
+   Long ago the God Maerlyn ruled over an entire race of people named
+the Khatherites. They were a war like people who sought to rule not only
+this dimension but others as well. They were masters of Magic, Psionics,
+Mathematics, Martial arts, Meditation and many other disciplines of the
+body, mind, and soul. Maerlyn himself sought to become one with a force
+that not even the Gods had power over, Chaos. For Eons unnumbered the
+Khatherites waged wars across the planes of existence.
+   Eventully those they ruled and those they sought to rule were able
+to combine forces and a massive battle ensued in the area where the
+Khaterites first began their ascension. This is the result of the 
+battle. The Plains of Khatar were once covered in wheat and oats and 
+other food stuffs for the Empire. Now they, and the original land of 
+the Khaterites, serve as a Prison for the Lost Deity Maerlyn. In his 
+rage over the destruction of his people Maerlyn entrapped himself in 
+what remained of his peoples empire, closing the way to get in and 
+out. The one remaining Khaterite, Jessica as she calls herself, was 
+also trapped. Eventully she found a way out using her Psiconic powers 
+of astral travel. Now she works to.....
+
+The words then switch into a language you do not recognize.
+
+~
+E
+drow woman~
+   This "drow" is the last remaining Khaterite. She seems about four
+foot three inches tall and couldn't wiegh more than 70 pounds. Her hair 
+is a dark blue color and is pulled back in a warriors pony tail that 
+comes down to the middle of her her back. She is wearing a silken white 
+loincloth and a halter top of the same material. Its is an odd contrast 
+to her ebony colored skin. Her head bears a massive scar where she was 
+wounded at the battle that was that was the death of more than ninty-
+five percent of her race. The others were all killed over time. She is 
+all that remains.
+Were it not for her god she would not even be that.
+~
+E
+chair~
+   This chair is shaped like a pappasan  though its structure is
+slightly different. It is oblong rather than round, deep instead of
+shallow, and is flat where you actully sit. Overall it is certainly a
+nice chair. Most worthy of hour upon hour of sleep/rest/wasting time
+~
+E
+pad~
+   A small control pad with 5 buttons, each bearing a Khatar symbol, 
+floats in the air near the chair. You press one and a magical beam of 
+light emits from a small jewel set into the top of the chair. It stops 
+creating a flat screen about 30' high and 30' wide. It is covered in 
+images of some strange fight scene where no one can seem to match their 
+lips movement with what they are actully saying. How odd. Another button 
+causes the pad to increase in size so it has about 100 different keys 
+on it while the magic beam becomes only 17" across and now is covered 
+in some strange scrolling text written in a form of bastardized common 
+tongue. One button is clearly marked off. Maybe this is your chance to 
+just walk away from the strange pad. 
+~
+S
+#1217
+Kestrel's Work Room~
+This room is sparsely decorated with many bookshelves across the walls. 
+A giant, maple desk dominates the center of the room. The desk is littered 
+with scrolls reguarding the placement of mobiles on Elite, the statistics of
+objects, and the delicate equations that balance the world with the players.
+Sheets of mail lay to one side of the desk in piles. Some say mortal
+complaints, others immortal complaints, still others hold suggestions from
+mortals, immortals, and the coders. A large book labeled "Notes" sits open
+holding every thought Kestrel has gathererd as a mortal and an immortal
+during the last 10 years. Notes are scattered all over the place but there
+appears to be some methodology to the madness. Framed on the wall is a
+document certifying Kestrel as a part owner of Elite and current implementor.
+~
+12 dejkuv 0
+D2
+~
+~
+0 -1 1213
+D5
+~
+~
+0 -1 1215
+S
+#1218
+Do Not Cross Line~
+   There is a 'Do Not Cross Line' here, along with a hand carven sign 
+which reads 'Bless This Mess'. Must be under construction. 
+~
+12 dk 0
+D0
+The hallway continues. 
+~
+~
+0 -1 1211
+D3
+~
+~
+11 -1 1237
+S
+#1219
+An Angel's Haven~
+Candles and rose petals line up the entrance to this room leading to a 
+mantle with a single #bblue#N rose laying gently upon it. In the corner,
+you see a cuddly teddybear propped up in a chair. The air around you 
+twinkles and shimmers as if the very essence of the brightest stars were
+captured within it. Suddenly a brilliant flash startles you and you see
+a small angel floating in the air right in front of your eyes. "Drusian",
+she whispers and then just as quickly vanishes leaving you to wonder if 
+it was nothing more than a mere illusion. 
+~
+12 euvdjk 0
+D0
+~
+~
+0 -1 1220
+D3
+~
+~
+0 -1 1221
+D4
+~
+~
+0 -1 1213
+E
+owner~
+Drusian
+~
+S
+#1220
+#CBod's home from home#N~
+   A cosy, rather bare looking room with a few tattered posters on the
+walls. A rather old and worn sofa stands against one wall, while some
+cushions and a blanket lie on the floor beside it. Next to the sofa is
+a small table. On this table can be seen a table lamp and a vase
+containing a single #bblue#N rose.
+~
+12 euvdjk 0
+D1
+~
+~
+0 -1 1202
+D2
+~
+~
+0 -1 1219
+D3
+~
+~
+0 -1 1221
+E
+owner~
+Bod
+~
+S
+#1221
+#wThe Edge of #BTwilight#N~
+As the sun tips over the western skies, the shadows creep within thine 
+eyes. Within the shimmer of the waning light, do you stand on the edge 
+of Twilight..
+~
+12 euvdjk 0
+D0
+~
+~
+0 -1 1213
+D1
+~
+~
+0 -1 1220
+D2
+~
+~
+0 -1 1219
+E
+owner~
+Sapphyre
+~
+S
+#1222
+Kurrelgyre's Gladiator Colloseum~
+   Your are standing in a horrible colloseum with blood splattering
+the walls.  A possessed crowd has been charmed and is cheering
+constantly. Many of them have shouted themselves hoarse from the 
+shouting.
+~
+12 d 0
+S
+#1223
+Kurrelgyre's Other Gladiator Colloseum~
+   You are standing in another horrible colloseum with even more
+blood splattering the walls.  Another crowd is charmed by another 
+spell, and is shouting another chant to rally on the fighters.  It 
+seems the fighers in this area rely more on brute force. 
+~
+12 d 0
+S
+#1224
+#MMystery's Scratching Post#N~
+   As you look about this cozy room, you can hear the purr of a content
+kitty but you can't seem to find her anywhere.  The lush carpeting
+softens your footsteps as you meander about, looking for the source
+of that purring. Venturing further into the room, you notice various
+trinkets strewn about and the #Gpictures#N of Mystery's dearest friends
+hanging on the walls. You feel something brush against your leg, but
+when you look down there is nothing there... just a few paw prints
+leading toward the #Mbed#N. Maybe this mysterious kitty is hiding under
+the covers, but be careful... she may just be waiting for the right
+moment to *POUNCE* on you!
+~
+12 djk 0
+D1
+You see an exit to Midgaard.
+~
+~
+1 -1 3001
+D2
+To Erebos' Glowing Chamber.
+~
+erebos door
+~
+11 -1 1269
+E
+pictures~
+Mystery treasures all her friends, and has collected their pictures over
+the years. Although some of the pictures have faded, she still holds the
+memories of those friendships dear to her heart. Is your picture up on
+the wall anywhere?
+~
+E
+bed~
+This bed is just big enough for two people to snuggle in, covered with
+deep purple satin sheets and a warm quilt. Next to the bed on a small
+table rests a crystal vase, holding a single purple rose, a present from
+somebody this kitty always purrs for.
+~
+S
+#1225
+Empty~
+Empty
+~
+12 djk 8
+S
+#1226
+#cMelody's#w Music Box#N~
+   As you enter the room, the sweet smell of #mroses#N and the 
+brilliance of the room almost knocks you backward.  The carpet feels 
+surprisingly warm and soft under your bare feet.  A large canopy bed 
+draped with sheer white cloth that is blowing in the brisk summer
+breeze from the window.  The softest comforter you have ever felt is 
+thrown carelessly over the satiny bed.  Over near the window, there 
+are two plush white #wlounge#N chairs.  Your knee bumps something and 
+you finally notice the glass table between the chairs.  There is a 
+steamy mug with tea sitting precariously on the edge.  Everything 
+reflects the glorious afternoon sun as it floods the room.  Scattered 
+around the room to add color are several vibrant #Gtropical#N plants. 
+There are some soothing sounds coming from the stereo tucked away in 
+the corner.
+~
+12 djk 0
+D0
+~
+kitten~
+11 -1 1260
+D5
+This way to temple.
+~
+door~
+11 -1 3001
+E
+rose roses~
+There is a large bunch of roses in a ceramic vase sitting on the
+table here.  They are perpetually in bloom, someone special must have 
+given them to her.
+~
+E
+lounge chairs chair~
+These plush chairs look so inviting.  Melody likes to cuddle up with
+a good book or chat with a friend here.  Why don't you sit down and
+take a load off.
+~
+E
+tropical plants plant~
+These are some plants from the jungle to give Melody the feel of her 
+natural habitat.  She keeps the lush and healthy as she once cared
+for the jungle in which she grew up.
+~
+S
+#1227
+Duck Pond~
+   If this is a pond then you certainly hope to never see a lake! This
+immense pond stretches beyond the limits of your sight in all directions.
+Small outcroppings of #Crocks #Ngently lift out of the water in a few
+places, and luckly you seem to have landed on one of them. All the water
+is crystal clear allowing you to watch small #Bfish #Ndart about in
+schools. A light breeze comes up and from somewhere you hear the chirping
+of crickets. Apparently Talos isn't in his pond right now, but maybe
+you'll just stretch out on your rock and wait. After all the #Ysun #Nis s
+warm and you are sooooo tired.....
+~
+12 dk 0
+D0
+~
+~
+0 -1 1227
+D1
+~
+~
+0 -1 1227
+D2
+~
+~
+0 -1 1227
+D3
+~
+~
+0 -1 1227
+E
+rock rocks~
+Rock outcroppings rise out of the depths of the pond. Surprisingly they
+are smooth very warm from the sun, you sure are lucky to have landed on
+these rocks.
+~
+E
+fish~
+Most of the fish are small, but hey there is a lunker over there.... Just
+how big do the fish get in this pond?
+~
+E
+sun~
+Don't look at the sun silly, you'll go blind!
+~
+S
+#1228
+Empty~
+Empty
+~
+12 djk 0
+S
+#1229
+#rLink's Realm#N~
+   You are standing in the middle of a very dark room. The only
+light sources are the flashing strobe lights that are blinking
+around you. At a first glance you see a few #Cponcho#N type packs
+hanging on the wall. You are starting to wonder what this place
+is. You watch as red beams of light are shooting from every
+possible direction. You then know this place must belong to Link
+the Laser Quest freak. You decide not to put a pack on because
+you probably will only be staying for a few minutes.  As you look
+more thoroughly through the room you can see a weapon rack that
+has about 4 swords on it, one of them being the all mighty
+#CMaster Sword#N. You see a pile of paper, most likely #Cscore
+cards#N.  As you look to the west you see a door that has a sign
+that says "Thomas' Room" in glowing colors. You then see a
+stairway leading up into a swirling #bblue#N and #Mpurple#N
+portal. 
+#N~
+12 dku 0
+D3
+~
+~
+0 -1 1228
+D4
+~
+~
+0 -1 0
+D5
+~
+~
+0 -1 27500
+S
+#1230
+Nostromo's Laboratory~
+   You are standing in Nostromo's laboratory, caught betwixt here and
+there. Nothing can reach you here except the Hand of the Divine. As you
+look around benches and storage boxes cast long shadows deep into the
+far recesses of the room and you shiver. You hear a faint rustling as
+something scuttles around hidden in the darkness. Partially completed
+experiments sit on the benches which are arranged around one large and
+well-lit desk. A large comfortable chair is arranged in front of the
+desk bathed in the glow from the desk light. Perched rather near the
+edge of the desk is a small open cage.....
+~
+12 dk 0
+E
+cage~
+A small cage with a little house and a small wheel like attachment
+is perched near the edge of the desk. The door is open and the cage
+is empty.
+~
+E
+desk~
+A large desk with a lamp on it and several pens and pieces of paper.
+You catch of a glimpse of what looks like a couple of odd looking
+mice running under it into the shadows.
+~
+E
+experiment experiments~
+Partly pieced together equipment is scattered around and you get the
+impression that Nostromo doesn't get the time to do much experimenting
+these days.
+~
+S
+#1231
+Empty~
+Empty
+~
+12 dk 0
+E
+owner~
+Titan
+~
+S
+#1232
+#yKurrelspace#N~
+   You are in a huge metallic sphere, seemingly crafted from a dense 
+shiny metal. You see your face, floating everywhere, reflected in the 
+gleaming, highly polished surface. As you admire the seamless 
+construction, and the complete lack of ornamentation, you notice the 
+reflection of another, that of Kurrelgyre. As he watches you from
+afar, your stomach churns with the unmistakeable sensation of motion, 
+yet you have never felt speed this blinding.  A shrill, yet 
+comforting whistle seems to waft in, carressing your ears.  Normally 
+the lack of windows would seem stifling, yet here, you really dont 
+want to know where you are.
+#N~
+12 djk 0
+D3
+~
+pentagram~
+315 -1 1238
+S
+#1233
+Empty~
+Empty
+~
+12 djk 0
+S
+#1234
+A neatly ordered cloud~
+Wisps of reds, blues and whites covers the floor so you
+cant see your own feet. Despite that, you feel welcomed
+and comfortable in here. Grab a fluffy cloud, relax and
+await the heavenly precense that usually abide in here.
+In the far right corner you can see a comfortable whispy
+cloud, this must be her counselling corner. Leave a 
+message at the counselling schedule and she will get
+back to you as soon as possible.
+~
+12 dk 0
+D0
+~
+door~
+1 -1 1235
+D1
+~
+door~
+1 -1 1204
+D2
+~
+door~
+1 -1 1272
+D5
+~
+trapdoor~
+1 -1 3001
+E
+owner~
+Turf.
+~
+S
+#1235
+A chaotic stack of papers~
+Whew, this places keeps more paper then the recyclebins of
+world would contain. Everywhere theres scribings, photos
+and other things that you dont want to mention, like that
+3-year-old pizza slice in the corner. Perhaps better stay
+clear of this place before you catch something.
+~
+12 dk 0
+D0
+~
+door~
+1 -1 1204
+D1
+~
+door~
+1 -1 9
+D2
+~
+door~
+1 -1 1234
+D5
+~
+trapdoor~
+1 -1 3001
+E
+owner~
+Articus.
+~
+S
+#1236
+#MBritomartis' Room#N~
+#cYou walk through the door and find yourself standing in the
+middle of a vast plain of #Ggreen grass#c that stretches as
+far as the eye can see in all directions. There are gentle
+hills around you in the distance and there is a quiet breeze
+in the air. In the area that you have found yourself, there
+is a set of bedroom furniture sitting arranged for a bedroom
+around you. There are pictures hanging in mid air where walls
+would be for the arrangement of the furniture. You find that
+you can walk completely around them and they have no apparent
+means for support. There is no sun in the sky at all, but
+the sky is gently lit by the #yAurora Borealis#c.
+The stars are everywhere, but you can clearly see as if
+it were bright day light. There are clouds that are small
+that stretch to the horizon, but there is something odd
+about the horizon. The clouds just get smaller and smaller
+as they approach it, but don't dip behind it. It is as if
+you were not standing on a planet, but an infinite plain
+stretching forever in all directions.#N
+~
+12 dk 0
+S
+#1237
+Crusher's .. Room(?)~
+   You've entered a room that doesn't look like any other room in the 
+whole world. This room is deep and somehow someone has been able to 
+squeeze in a whole forest with lakes and other interesting things.  
+Among many things in this .. so called room .. you notice a small box 
+right where you entered.  You can hear the sound of birds and the
+little river flowing a bit further down. Deep down in your mind you 
+can't really believe all this. But you can SEE it!  There is a small 
+pile of stones, that looks more like gravestones or something in a 
+small clearing not far away from where you stand. If you look real 
+close you might be able to see what they say. A small shelter is 
+built up on a small hill a little further away. Right where you stand 
+there is a strange module that beeps and wurrs in a weird way. A 21" 
+monitor is placed up on it too but you can't make out what the text 
+on the screen says.
+   A voice is heard in the background some place. It sounds like the 
+whole sky is made of a huge speaker. You hear a voice saying
+something.. hm.. wait..  it says #y'You may be here on only once 
+condition...'#N a small pause is made and the voice continues #y'... 
+upon your arrival #gCRUSHER#y invited you here to this place...'#N 
+another pause.. and it once more speaks up... #y'... if this is 
+#rNOT#y true... I advice you to eminently remove yourself from this 
+spot of #bElite#w!!#y'#N. (I strongly suggest you follow this advice, 
+the "voice" sound kinda #Bangry!#N
+~
+12 dejk 0
+D0
+~
+~
+0 -1 1218
+D4
+~
+~
+0 -1 3001
+D5
+~
+~
+0 -1 1
+E
+stone memory gravestones pile~
+  As you look up on the stones you can find small inscriptions like 
+someone, probably the owner of the room, has written a few sentences
+on them. You look even closer and find the following writings on 
+them:
+
+Right stone:
+  In memory of Shylanne, who has spent some of my best moments on
+this mud with me.  The path of work has become overgrown with tasks 
+and has taken you from my company.  Rest easy and remember the good 
+times, and none of the bad.
+
+Left stone:
+  In memory of Sorsha, who once spent a few moments in my life with
+me. Hope she'll live and let this stone stay forever on. In memory of 
+a great woman.
+
+Middle stone:
+  This stone I dedicate to my first wife, Rydia, whom I didn't get to 
+spend too much time with but mourned most over. I wish her all
+happiness in life.. although her small accident on getting timed out 
+must have hurt some. In the future I can only hope and pray she'll be 
+happy.
+~
+E
+sky voice~
+  You look up on the sky and hope you'll catch a glimse on whomever
+is saying these things. You fail. All you can see is a clear blue sky
+with a couple of smaller clouds.
+~
+E
+box~
+  Well.. it's a box ok.  It has some sort of transmitting device 
+attached to it... but you can't really make out what's used for.
+~
+E
+river~
+  A river. Like most others, it pours and seems to be filled with
+life! Around it you can see some small plants growing. They're 
+BEAUTIFUL!
+~
+S
+#1238
+#rNymph's Abyss#N~
+   Fire surrounds you, cries of agony call out to you.  You are
+standing in hell.  Molten magma flows by in a horrid river of death, 
+pulling soul after soul in it's commanding current.  The boatmen, 
+commanded by mighty Charon, drag people to their ultimate doom.  Over 
+all the carnage and destruction watches Nymph, the wicked succubus, 
+temptress of mortals. This is her realm.  This is her abyss.  Here, 
+she reigns even over the mighty demon lords, for though they have raw 
+strength, they are no match for her machinations. 
+#N~
+12 jk 1
+D1
+~
+kurreldoor~
+299 -1 1232
+D4
+You see the end of a rainbow here seeming to lead elsewhere.  As you
+touch it, you find it solid and able to support your weight.
+~
+portal~
+1 -1 3001
+D5
+As you look down this deep hole, you see a protion of the stream 
+trickling down into the deep darkess.  The stream runs and murges
+with the dark.
+~
+hole cave~
+11 -1 1225
+E
+rock pillar granite~
+A granite pillar stands at the side of the stream with writing
+engraved in it. It reads:
+
+                           MEMORY ROCK
+             Evil    Santa   Jesta   Alannon   Clint
+                  It   Nefarious   Ben    Karen   
+             Nymph   Vladimir  Reddragon    Gandalf
+
+There is more writing, but it is badly worn.
+~
+S
+#1239
+Empty~
+Empty
+~
+12 djk 1
+S
+#1240
+Empty~
+Empty
+~
+12 djk 3
+S
+#1241
+#rCrypt #Mof #rSamhain#N~
+   Deep inside the Black Rock lies this ghastly crypt. It's a place 
+where horror and fear deserve it's meaning. Poisonous snakes resting 
+between rotten bones, the walls covered with mystical engravings, and a 
+reddish light thrown into the room by giant candles which seem to burn 
+forever, fastened on old skulls. The crypt continues deeper inside 
+the mountain, and as you pass towards the end, the light rays get 
+swallowed by darkness. Suddenly you find yourself in front of large, 
+black, stone steps, leading up to the throne of Samhain, the master of 
+the undead and the creator of #MS#rha#Mm#rhn#Ma#N. The throne is guarded 
+by two skeletons, who prevent you of climbing up the stairs. This is the 
+place where from Samhain controls the dark forces of the undead army, 
+and as you are standing here, you can only hope to leave this place as a 
+living being. In case that you will be allowed to leave at all...
+~
+12 djk 1
+D4
+~
+tombstone~
+11 -1 28607
+S
+#1242
+Drogg's Room~
+This is the room of the Mighty Drogg. He has fought many long,
+fierce, hard battles. So if you are here it is either out of 
+friendship or you are in serious trouble. He has no time for puny 
+mortals' petty problems, so if you have something serious to talk 
+about, this is were you should 
+be.
+#N~
+12 ejkt 0
+D0
+~
+door drogg~
+11 -1 28411
+D4
+~
+~
+0 -1 3001
+S
+#1243
+Under a Large Oak Tree~
+   The tree you are finding yourself beneath is an old oak tree. It
+looks to be many hundrets of years old. The bark has a dark brown color
+with many lines on it. At the bottom of the tree you can see a small
+opening. You can see some low branches that might help you climb up 
+into the tree. Under the tree there is grass which looks fresh, green 
+and soft. The tree is at one side of a clearing and as you look around
+it is hard to see a way out of the clearing but why would you want to
+anyway. The sun is shining and the sky above is a wonderful shade of 
+blue. This is a place you can relax and be alone. In the distance you
+can see the mountains they are looking dark and majestic. When it is 
+all quiet the sound of water running can be heared. On the ground is a
+blanket spread out ready for use.
+~
+12 ojk 0
+D4
+~
+~
+0 -1 6032
+D5
+~
+~
+0 -1 3001
+E
+blanket~
+It's red and white and looks big enough for two people to lay on.
+~
+E
+opening~
+Looks just big enough for a small person to squeeze through.
+~
+S
+#1244
+#rSoulcatcher's Grove#N~
+   You are standing in a verdant woodland grove, lush with trees and
+life.  All manner of creatures, magical and mundane, can be seen
+peeking through the trees.  In the center of the woods is a clearing, 
+where you find a small encampment.  A cluster of weapons is leaning 
+against a tree, covered by an odd silvery lion skin.  Various other 
+trinkets, gathered from the world of Elite, are protruding from a 
+well-stocked backpack.  You look around, but see no-one, and there 
+are no foot prints leading away from the fire...  obviously the mark 
+of a master ranger.
+#N~
+12 jk 3
+S
+#1245
+Empty~
+Empty
+~
+12 djk 0
+S
+#1246
+Empty~
+Empty
+~
+12 djkt 0
+S
+#1247
+Dagref's Refuge~
+   You are standing in a rather dark room.  As you try to look
+through the darkness trying to find the lightswitch, you can see a 
+large desk with a plethora of papers on it, but all in neatly 
+arranged piles. As you peer around some more you can make out a 
+picture fram on the desk, but you can't make out the picture.  As you 
+look around more, you can see a fine Italian leather chair sitting 
+the corner next to the door, and you swear you can see a small bed 
+next to it.  Perhaps for a puppy?  Although it is dark, you feel 
+welcome, and at home.
+~
+12 djk 0
+D5
+~
+carpet~
+1 -1 3001
+S
+#1248
+Extra-dimensional projected bubble of space~
+   You are floating in a void of all things which is a projection of 
+Elite into a nameless dimension.  It is quiet and peaceful here with
+no interruptions to be had by those wanting a private conversation
+without the distractions of the surounding world of Elite.  The 
+bubble is opaque and only lets in a greyish light, which is bearly 
+enough to by which to read.
+~
+12 cdijko 10
+D5
+In a faintly glowing outline, you can bearly make out a set of
+symbols that seem to be magical in nature.  The markings seem to 
+indicate a recall portal in nature, similar to what is used to banish 
+demons before closing the circular gate.
+~
+portal port circle gate~
+1 -1 1204
+S
+#1249
+A Private Hidy Hole~
+   You are in a dark room lighty lilled with flowing smoke.  You see
+a relatively empty room, from what you can see.  A table, a bed, and
+a few chairs.  You wonder how many of the slats in the walls, floor 
+and ceiling are loose and contain secret treasures tucked away for a
+later day. Occationally, you trip on droped equipment that was left 
+from days gone by, or maybe here to be inventoried.
+#N~
+12 dejko 0
+D5
+You see a hidden trapdoor covered by a carpet.  You here the 
+muted sounds of what appears to be a 24hr party going on 
+downstairs.
+#N~
+carpet trap trapdoor door~
+3 -1 3001
+S
+#1250
+Empty~
+Empty
+~
+12 djk 0
+S
+#1251
+Empty~
+Empty
+~
+12 djk 0
+S
+#1252
+Empty~
+Empty
+~
+12 djk 0
+S
+#1253
+Criz's Practice Room~
+   You find yourself in a room filled with every musical instrument
+ever invented.  There are various pieces of manuscript paper on 
+shelves all around the walls, with strange musical symbols and titles 
+like sunrise, starlight, and birdsong.
+   You realize this is the place all the music of the world is 
+created...
+(Just don't go playing the piano without permission, ok ? :) )
+#N~
+12 djk 0
+D5
+~
+~
+0 -1 3001
+S
+#1254
+Empty~
+Empty
+~
+12 djk 0
+S
+#1255
+Empty~
+Empty
+~
+12 djk 1
+S
+#1256
+Empty~
+Empty
+~
+12 djk 0
+S
+#1257
+Empty~
+Empty.
+~
+12 dk 0
+S
+#1258
+Empty~
+Empty.
+~
+12 djuk 0
+S
+#1259
+Empty~
+Empty.
+~
+12 djuk 0
+S
+#1260
+Helm's Sanctuary~
+     You have entered a large helmet shaped room of sorts. your 
+footsteps cause a strange echo as you walk around.  You notice that
+this room would be entirely empty except for various pieces of 
+headgear which line the walls.  As you take a closer look you see 
+that the headwear ranges from simple caps to ornate battle helmets..
+probably one of Helm's disguises that he uses while watching mortals. 
+You aren't sure but you could swear that one of the helms winked at 
+you... you feel like you are being watched.
+~
+12 dehjk 1
+S
+#1261
+#bKaleen's Hidey Hole#N~
+   This little nest is ever so cozy and warm, just perfect for a rat 
+like Kaleen.  A small bed made of bits of paper and straw lies in one 
+corner.  Piles of shiny trinkets have been left all over the room.  A 
+small table sits in the middle of the room, covered with various 
+pictures of Kaleen's enormous family.  On one wall is a collection of 
+weapons, gathered from places far and wide.  The clutter in this room 
+leads you to believe that Kaleen is indeed a pack rat!
+~
+12 djklu 1
+D1
+Hallway of Wisdom
+~
+door hallway east~
+11 -1 28411
+D3
+Kaleen's number one harem boy
+~
+heimdal door~
+11 -1 1265
+E
+wall weapons~
+The weapons on the wall seem to come from all over the known world.  
+Most are covered with blood and gore, and were most likely used by 
+Kaleen while she was a mortal.  You notice a rather large whip
+displayed prominently.  Could this be the legendary Whip of 
+Submission? Perhaps Lovely has allowed Kaleen to use it for the time 
+being.
+~
+E
+pictures table~
+The table is covered with many pictures of Kaleen's enormous family.
+A large portrait of her mother, Lovely, stands in the center of the
+table next to a beautiful picture of a young Kaleen.  You notice that 
+in this picture, Kaleen isn't a rat!  Maybe you should look a little 
+closer.
+~
+E
+kaleen 2.picture~
+This picture portrays Kaleen as a young half-elf.  She didn't start
+her life as a rat!  Next to Kaleen stands a young man, who looks very
+much like her.  A small inscription has been made in the frame, 
+reading 'Kaleen and Kalen, Age 16'
+~ 
+E
+trinkets silver shiny~
+The piles of shiny trinkets have been collected by Kaleen during her 
+life as a rodent.  She just can't help taking the nice bright
+shinies!  Hey!  Is that your old ring?  You always wondered what 
+happened to it!
+~
+S
+#1262
+Empty~
+Empty
+~
+12 djk 0
+S
+#1263
+Empty~
+Empty
+~
+12 djk 0
+S
+#1264
+Empty~
+Empty
+~
+12 djk 0
+S
+#1265
+#gHeimdal's Guardpost#N~
+   You are on a meadow on the edge of Asag#<aa>rd, you can see a tree
+close to the edge with a worn patch in the grass below in the shade.
+You notice that the patch is in the shape of a man having a lie down.
+This is where Heimdal keeps post, guarding against the giants, 
+guarding against Ragnar#<oe>k. Maybe you think it looks as if Heimdal
+is doing a sloppy job, resting in the shade of that tree? Well that 
+is not the case, Heimdal has the best hearing of all the gods, he can
+hear the grass grow and the fish breathe. You take a peek over the 
+edge and immediately regret it, the landscape is spread out like a map
+far below you. Good thing that #MB#mi#bf#gr#yo#rs#Rt#N is spanning the sky
+in an arc to your west, providing safe passage down to Midg#<aa>rd, the
+land of the mortals.
+~
+12 djk 0
+D1
+A tiny door stands on its own to the east.
+~
+kaleen door~
+11 -1 1261
+D3
+A beautiful rainbow spans the sky.
+~
+~
+0 -1 3001
+S
+#1266
+Empty~
+Empty
+~
+12 djk 0
+S
+#1267
+Empty~
+Empty
+~
+12 djk 0
+S
+#1268
+Talon's Duckie Room~
+This is where the mad Duck dose his work. You can see many projects 
+started and some almost finished. You wonder what this crazy duck 
+will make next!
+~
+12 dk 0
+D4
+~
+~
+0 -1 1271
+D5
+~
+~
+0 -1 1269
+E
+owner~
+Talon
+~
+S
+#1269
+The Glowing Chamber of Erebos~
+   This is what seems to be a huge room, completely surrounded by 
+darkness.  A circle is painted on the floor, the circle is glowing,
+it seems to be the only light source in the room.  A huge throne is
+placed in the centre of the circle, the throne is completely white 
+and is flanked by two large warrior statue both wielding huge swords. 
+A golden portal is located just to the east of the throne.
+~
+12 dku 0
+D1
+~
+~
+1 -1 3001
+D4
+~
+~
+0 -1 1268
+E
+throne white~
+The throne is covered with ornaments, it sure looks well used.
+~
+E
+ornaments~
+The ornaments appears to slowly move across the white throne. 
+~
+E
+portal~
+A golden frame encircle the portal, the surface looks like it is made
+of water.
+~
+E
+circle~
+The circle seems to have been painted with some kind of magical
+color.
+~
+E
+warrior statue~
+The two warrior statues is of giant size, wielding huge two-handed 
+swords.  They look like their purpose is to guard Erebos.
+~
+S
+#1270
+#ySunny ARueBah!#N~
+   An island paradise surrounds you.  Sandy white beaches stretch for
+miles, curving around deep bays and smaller shallow lagoons.  The
+waves roll softly in from the sea.  Inland there is a deep green 
+forest, shady and cool, leading up the slopes of the island's single 
+mountain.  A very natural place, a beautiful place to be, yet there 
+is a disturbing sense in the air that all is illusion subject to the 
+whimsy of a goddess.
+~
+12 jktu 0
+D4
+Let's go visit Annie!
+~
+~
+1 -1 28319
+D5
+Dig deep enough and who knows where you'll end up.
+~
+~
+1 -1 3001
+E
+sea water~
+Some small island lagoons are warm and shallow, made for wading out
+into.  The large bay on the island deepens quickly, and the waves can
+be quite strong at times.
+~
+E
+forest~
+From the depths of the cool forest you hear the call of birds and
+small animals.  
+~
+S
+#1271
+#MChani's Sylvan Paradise#N~
+   Woods surround a small clearing, keeping it hidden and protected 
+from the chaos and turmoil of the world around it.  Animals from all 
+around drink from the stream here and there is a feeling of innocence
+in the air around you. Everything seems so pure, untouched,pristine. 
+The stream comes from a nearby waterfall which sparkles when the sun
+reflects through it.  The beauty of this place overwhelms you.  Then 
+you see the reason this place has managed to survive the world it is 
+in; a majestic unicorn steps out of the woods with muscles rippling 
+in fluid motion, it's spire shining brightly in the moonlight.
+~
+12 dku 0
+D3
+~
+~
+1 -1 28002
+D5
+~
+~
+0 -1 1268
+S
+#1272
+#CA Travesty of #rAmok#Cery#N~
+   What a mess! There's bits and pieces of #Yjunk#N lying on every
+horizontal surface, and (thanks to powerful magic) some of the
+vertical surfaces as well. A closer look reveals that the junk 
+consists of tiny models. Some of the tiny models look very familiar 
+to you, as places you have visited, others look less familiar, but 
+all of them are in various states of disrepair, as if the owner 
+tinkers endlessly, but never quite finishes them. There is a large 
+workbench in the centre of the room, covered in hundreds of scraps of
+paper, which are clearly plans of some kind. As you glance over the 
+plans you see a tiny #bbug#N skitter beneath them.
+#YA large stuffed penguin stands guard over the papers.#N
+~
+12 cdeku 0
+D4
+Steps lead upwards into the light.
+~
+trapdoor~
+1 -1 1203
+D5
+Steps lead down to the Temple of Midgaard.
+~
+trapdoor~
+1 -1 3001
+E
+penguin pingu~
+#RPingu the Penguin tells you, '#w*#cbeep#w*#R'#N
+~
+E
+junk~
+Looks like bits of zones, in various states of repair.
+~
+E
+bug bugs~
+Pah!...if you see any bugs mail me!..no good just sitting there
+chuckling to yourself.
+~
+S
+#1275
+Sneaky's Study~
+   You walk into this room (pit is more like it) and cautiously try 
+to avoid stepping on all discarded papers and old computer manuals 
+lying around on the floor.  Sneaky is at the desk (well you think 
+it's a desk anyway hard to tell buried under all that crap) mumbling
+incoherently about some file he's working on.  You believe the room 
+to be fairly drab, but since the only light comes from the computer 
+moniter you can't quite say for sure.  A small mini fridge sits in 
+the corner, and a few half full bags of chips are lying about the 
+floor.  You wonder how anyone could ever live in this mess, but 
+Sneaky's too attached to the computer notice. 
+#N~
+12 cdjk 0
+D4
+~
+~
+0 -1 3001
+S
+#99999
+$~
+

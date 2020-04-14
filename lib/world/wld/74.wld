@@ -1,0 +1,965 @@
+#7400
+Cave entrance~
+   You are standing in the cave entrance. It is very dark down here.
+There is writing at the wall. There is an exit to the north. A stairway
+leads up.
+~
+74 9 1
+D0
+To the north you can see a small tunnel.
+~
+~
+0 -1 7401
+D4
+You can see the stairs going up into darkness.
+~
+~
+2 -1 7102
+E
+writing wall~
+The writing says 'BEWARE adventurer!'
+~
+S
+#7401
+Cave tunnel~
+   You are walking in a tunnel. It is very cold. You can feel the
+presence of a living thing ... SOMEWHERE.
+~
+74 9 1
+D0
+To the north you can see the tunnel continuing.
+~
+~
+0 -1 7402
+D2
+To the south tunnel continuing.
+~
+~
+0 -1 7400
+S
+#7402
+Cave room~
+   You are standing in a room. It's much cooler now. The walls are
+glowing.
+~
+74 8 1
+D1
+To the east you see the tunnel going downwards.
+~
+~
+0 -1 7403
+D3
+~
+~
+0 -1 7421
+D2
+To the south you see a dark cave tunnel.
+~
+~
+0 -1 7401
+S
+#7403
+Cave T-cross~
+   You are standing in a mudlike substance. The smell here is awful, it
+is rotten. To the west you can see some light.
+~
+74 9 2
+D1
+To the east the tunnel still goes downwards.
+~
+~
+0 -1 7404
+D2
+~
+~
+0 -1 7408
+D3
+You can see some light to the west.
+~
+~
+0 -1 7402
+E
+mud~
+When you examine the mud, you notice small worms crawling around.
+~
+E
+worms~
+The worms are purple.  They do not look edible.
+~
+S
+#7404
+Cave turning-point~
+   The mud are getting deeper. You are wondering, 'Would it be an idea
+to leave, before I disappear?'. To the south you notice a flat round
+stone are blocking the way. To the west you can see mud.
+~
+74 9 2
+D3
+~
+~
+0 -1 7403
+D2
+You can see an opening behind the stone.
+~
+flat round stone~
+1 -1 7405
+E
+flat round stone~
+The stone looks very uninteresting.  BUT as you are about to turn away,
+you see a light stripe coming through a small hole.  Conclusion: The
+stone is moveable.
+~
+S
+#7405
+The secret room~
+   There is dust all over the place. It looks like nobody has been here
+for ages. In the middle of the room you see a socket with a crystal
+globe. The globe glows with a pulsing light. To the north you see a
+stone door. To the south you see a gray block.
+~
+74 8 1
+D0
+You see a round stone door.
+~
+round stone door~
+1 -1 7404
+D2
+You see a gray block
+~
+gray block~
+1 -1 7406
+E
+socket~
+The socket looks like the work of a dwarf.  It is VERY beautiful.
+~
+E
+crystal globe~
+The crystal globe is glowing with a pulsing light. It looks like there
+is smoke inside it.
+~
+S
+#7406
+The mudhole~
+   You are standing in a lot of mud. The mud goes to your chest. You
+feel the presence of something IN the mud. The only obvious exit is to
+the west.
+~
+74 9 3
+D0
+You can see nothing at all.
+~
+gray block~
+1 -1 7405
+D3
+~
+~
+0 -1 7407
+S
+#7407
+Tunnel~
+   The mud goes to your knees. Otherwise the tunnel looks very normal.
+~
+74 9 3
+D0
+~
+~
+0 -1 7408
+D1
+You can see a mudhole.
+~
+~
+0 -1 7406
+D2
+~
+~
+0 -1 7409
+S
+#7408
+The long tunnel~
+   Here there is almost no mud, as you stand at the top of a small
+rock. Just beside you there are a sign which says 'WARNING! The worms
+are dangerous!'.
+~
+74 9 1
+D0
+You can see a lot of mud... Yuck!
+~
+~
+0 -1 7403
+D2
+The tunnel goes a little downwards.
+~
+~
+0 -1 7407
+S
+#7409
+The hot room~
+   You are very surprised, as this room for a change are hot instead of
+cold. To the north it goes downwards into some mud. There are also an
+exit to the west.
+~
+74 9 1
+D0
+You see a lot of mud.
+~
+~
+0 -1 7407
+D3
+You see a entrance to a small room.
+~
+~
+0 -1 7410
+S
+#7410
+The small room~
+   As you look around you notice a small statue. There are exits to the
+west and to the east.
+~
+74 9 1
+D3
+You see a VERY long hallway.
+~
+~
+0 -1 7411
+D1
+It is pitch dark out there.
+~
+~
+0 -1 7409
+E
+small statue~
+This is a statue of a imp, pointing to the west.  The imp looks like a
+man with horns and a tail.
+~
+S
+#7411
+The stalagmite cave~
+   You are standing in a stalagmite cave. Water is dripping from the
+walls. It is very cold in here.
+~
+74 9 2
+D0
+~
+~
+0 -1 7414
+D1
+You see a long hallway, and some mud.
+~
+~
+0 -1 7410
+D2
+~
+~
+0 -1 7412
+E
+stalagmite~
+The stalagmites are very tall, and looks very beautiful.
+~
+S
+#7412
+The stalagmite tunnel~
+   You has entered a small tunnel. Here it is quite dry. Maybe it would
+be a good idea to rest here.
+~
+74 9 1
+D0
+You can see a small cave to the north.
+~
+~
+0 -1 7411
+D3
+~
+~
+0 -1 7413
+S
+#7413
+The spongy room~
+   You definitely NOT like this area. It is very dank, and in most of
+the room it is wet.
+~
+74 12 3
+D1
+~
+~
+0 -1 7412
+D3
+~
+~
+0 -1 7445
+S
+#7414
+The stalagmite T-cross~
+   You are standing in a cross. To the north you can see some light.
+Otherwise it is dark.
+~
+74 12 1
+D0
+You see some light ahead.
+~
+~
+0 -1 7417
+D1
+~
+~
+0 -1 7415
+D2
+~
+~
+0 -1 7411
+S
+#7415
+The blind end room~
+   This room is obviously a blind end. To the north you see a primitive
+picture.
+~
+74 9 1
+D0
+You see a primitive picture.
+~
+sun~
+1 -1 7416
+D3
+~
+~
+0 -1 7414
+E
+primitive picture~
+You see some people dancing around a huge sun.  The sun is about 7 feet
+in diameter, which shows the size of the picture.
+~
+S
+#7416
+The treasure room~
+   This room is richly ornamented. The walls has been carved to show
+people dancing around a sun which is drawn on the floor. It looks very
+old, and it is very dusty. To the south you see a secret door.
+~
+74 9 1
+D2
+You can see a picture with some persons crawling around a huge moon.
+~
+door picture sun moon~
+1 -1 7415
+S
+#7417
+The square lair~
+   You are standing in the south-east part of the lair. You can see a
+skeleton lying in the corner.
+~
+74 8 1
+D0
+Another part of the lair.
+~
+~
+0 -1 7418
+D3
+Another part of the lair.
+~
+~
+0 -1 7420
+D2
+~
+~
+0 -1 7414
+E
+skeleton~
+It looks like a adventurer who wasn't lucky.  You'd better watch out...
+~
+S
+#7418
+The square lair~
+   You are standing in the north-east part of the lair. You see a sign
+on the wall.
+~
+74 9 1
+D1
+You see a wooden door.
+~
+wooden door~
+1 -1 7421
+D2
+Another part of the lair.
+~
+~
+0 -1 7417
+D3
+Another part of the lair.
+~
+~
+0 -1 7419
+E
+sign wall~
+The sign says 'Gods of War I call you, my sword is by my side,
+               I seek a light free from all false pride'
+                       Reyemle Grug.....
+~
+S
+#7419
+The square lair~
+   You are standing in the north-west part of the lair. Here there is
+another sign. There is an exit from the lair to the north.
+~
+74 9 1
+D0
+You see a small tunnel leading north.
+~
+~
+0 -1 7422
+D1
+Another part of the lair.
+~
+~
+0 -1 7418
+D2
+Another part of the lair.
+~
+~
+0 -1 7420
+E
+sign~
+The sign says 'I'm wandering around in a everlasting tale,
+               seeking the light to regain my pride
+                           Corama...
+~
+S
+#7420
+The lair end~
+   You can see a table in front of you. It's very dusty. Five skeletons
+are sitting around the table. Exits are north and east.
+~
+74 9 1
+D0
+The northern part of the lair.
+~
+~
+0 -1 7419
+D1
+The eastern part of the lair.
+~
+~
+0 -1 7417
+E
+table~
+On the table there is dust, in the center there is a small statue of a
+Dragon sleeping.
+~
+E
+skeleton skeletons~
+They've obviously been killed somehow, but it doesn't look like it was
+by sword or club.
+~
+E
+dragon statue~
+It looks like a silver dragon.  It is nailed onto the table.  The
+dragon sits on a red dragon that looks dead.  But the eyes of the red
+dragon are glowing, pulsating red.  You feel drained.
+~
+S
+#7421
+East tunnel~
+   You are standing in dark tunnel, the exits are east and west. To the
+west you see a wooden door.
+~
+74 12 1
+D3
+You can see a wooden door.
+~
+wooden door~
+1 -1 7418
+D1
+You can see a muddy tunnel.
+~
+~
+0 -1 7402
+S
+#7422
+North tunnel~
+   You are standing in a dark tunnel, it leads upwards.
+~
+74 9 1
+D0
+The dark tunnel continues.
+~
+~
+0 -1 7423
+D2
+You can see the lair.
+~
+~
+0 -1 7419
+D3
+You can see a cave entrance.
+~
+~
+0 -1 7436
+S
+#7423
+The L-shaped room~
+   You are standing in deep darkness. To the south there is a small
+exit. To the east you can see a gaping hole.
+~
+74 9 1
+D1
+~
+~
+0 -1 7424
+D2
+~
+~
+0 -1 7422
+S
+#7424
+The Circular hall~
+   You are standing in round hall. To the north, east and south you can
+see a stone head hanging on the walls.
+~
+74 9 1
+D3
+you see a room far away.
+~
+~
+0 -1 7423
+D1
+~
+green head dragon sculpture face~
+1 -1 7425
+E
+head heads~
+When you study the faces of the heads you see that they are faces of
+dragons. The face to the north is red, the face to the east is green,
+and the face to the south is blue.
+~
+E
+green~
+This looks like an evil dragon.
+~
+E
+red~
+This looks like a neutral dragon.
+~
+E
+blue~
+This looks like a good dragon.
+~
+S
+#7425
+Dusty tunnel~
+   You are standing in dust. This place has not been touched for a long
+time. Otherwise it is quite boring here, looks like a place to rest! To
+the west you see the outline of a door. A tunnel leads to the east.
+~
+74 12 1
+D3
+You can see the outline of a door. Just like in the description!
+~
+door~
+1 -1 7424
+D1
+You see a tunnel which leads downwards. It is quite dark.
+~
+~
+0 -1 7426
+S
+#7426
+The crossing~
+   You are standing in a crossing of hallways. You can leave this place
+in every direction, except up and down. In the dust you notice strange
+footprints.
+~
+74 9 3
+D0
+~
+~
+0 -1 7431
+D1
+~
+~
+0 -1 7430
+D2
+~
+~
+0 -1 7427
+D3
+~
+~
+0 -1 7425
+E
+footprints foot~
+You have never seen this kind of footprints before!
+~
+S
+#7427
+The L-shaped room~
+   You are standing in a L-shaped room. You can hear noises from the
+long tunnel to the east. You feel very afraid! A sign is hanging on the
+wall.
+~
+74 9 2
+D0
+~
+~
+0 -1 7426
+D1
+a long dark tunnel.
+~
+~
+0 -1 7428
+E
+sign~
+The sign says 'DANGER!!'.
+~
+S
+#7428
+Dragons lair~
+   You can see burned walls, the floor stones are fiery red. All kinds
+of bones are scattered all over the floor. On the walls you can see
+some burned shapes. You smell burnt flesh. Two creatures are sort of
+melted into the floor.
+~
+74 8 2
+D0
+You can see a long tunnel.
+~
+~
+0 -1 7429
+D3
+You can see nothing but darkness.
+~
+~
+0 -1 7427
+S
+#7429
+The burned room~
+   You are in a room, which once had been quite burned. There is
+writing on the wall.
+~
+74 9 1
+D2
+You can see a red glow...
+~
+~
+0 -1 7428
+D3
+~
+~
+0 -1 7430
+E
+writing~
+The writing says 'DANGER!!!'
+~
+S
+#7430
+The wind tunnel~
+   You are standing in a tunnel. Above you, you can feel a breeze.
+~
+74 9 1
+D1
+To dark to tell
+~
+~
+0 -1 7429
+D3
+~
+~
+0 -1 7426
+E
+breeze~
+The breeze comes from a hole above you.  NO way to get up there.
+~
+S
+#7431
+The glittering room~
+   This room are all bright. In the walls you can see some silver.
+Exits are west, east and south.
+~
+74 8 1
+D1
+~
+~
+0 -1 7432
+D2
+~
+~
+0 -1 7426
+D3
+~
+~
+0 -1 7433
+E
+glitter walls silver~
+The glittering silver looks like it is INSIDE the walls.
+~
+S
+#7432
+The secret passage room~
+   You have entered a tiny room. There is an exit down, and an exit to
+the west.
+~
+74 9 1
+D3
+You can see a light to the west.
+~
+~
+0 -1 7431
+E
+down~
+A sign is blocking the way. It says 'This has not been implemented
+yet....'
+~
+S
+#7433
+End of long tunnel~
+   You are at a end of a long tunnel. Right in front of you, you can
+see a gray mass. To the east you can see a tremendously long tunnel,
+but you know that, you were just there.
+~
+74 9 3
+D1
+A long tunnel. JUST like in the description!
+~
+~
+0 -1 7431
+D3
+A gray mass is blocking the way.
+~
+~
+0 -1 7434
+E
+gray mass~
+The mass is nothing but a mass, but it is quite suspicious!
+~
+S
+#7434
+Stair-room~
+   You are standing in a small room. Drawings of faces in pain are on
+the walls. You can fell darkness is ruling the place. There are two
+exits: south and down.  But apparently the exit down is blocked and
+impossible to get by.
+~
+74 9 1
+D2
+Nothing but darkness...
+~
+~
+0 -1 7435
+D5
+A sign is blocking the way: 'This has not been implemented yet'.
+~
+~
+0 -1 -1
+S
+#7435
+Dark tunnel~
+   You are standing in a dark tunnel. It continues to the north and to
+the south. Bones are spread on the floor.
+~
+74 9 1
+D0
+~
+~
+0 -1 7434
+D2
+~
+~
+0 -1 7436
+E
+bones bone~
+It looks like bones of a human.
+~
+S
+#7436
+Entrance to lair~
+   The smell here is awful. To the south you can see some smoke. A
+tunnel leads north and east.
+~
+74 13 2
+D0
+~
+~
+0 -1 7435
+D2
+The only thing you can see is smoke.
+~
+~
+0 -1 7437
+D1
+A small cave is to the east.
+~
+~
+0 -1 7422
+S
+#7437
+North-eastern part of Basilisk's cave~
+   It is hard to see here because of the smoke. To the north you can
+barely see a small tunnel. Other exits are to the south and to the
+west.
+~
+74 9 2
+D0
+~
+~
+0 -1 7436
+D2
+~
+~
+0 -1 7438
+D3
+~
+~
+0 -1 7439
+S
+#7438
+South-eastern part of Basilisk's cave~
+   There are a very small hole in wall from which the smoke is coming
+from. Otherwise it is pitch black. Exits are north and west.
+~
+74 9 2
+D0
+You can see nothing but smoke.
+~
+~
+0 -1 7437
+D3
+You can see nothing but smoke.
+~
+~
+0 -1 7440
+E
+hole small~
+It's a small hole, about one foot in diameter.
+~
+S
+#7439
+North-western part of Basilisk's cave~
+   You can see some hay spread on the floor. The smell is awful here,
+and it makes you feel sick. This place where the Basilisk sleeps. Watch
+out... maybe it is not far from here..
+~
+74 9 2
+D1
+~
+~
+0 -1 7437
+D2
+~
+~
+0 -1 7440
+5~
+E
+hay~
+The hay is very dirty.  The smell of it makes you feel sick.
+~
+S
+#7440
+South-western part of Basilisk's cave~
+   You can see nothing but smoke.
+~
+74 9 3
+D0
+~
+~
+0 -1 7439
+D1
+~
+~
+0 -1 7438
+D2
+~
+~
+0 -1 7441
+S
+#7441
+The small cave~
+   You are standing in small cave. You can see some light at the end.
+Exits are north and south.
+~
+74 13 2
+D0
+You can see only smoke.
+~
+~
+0 -1 7440
+D2
+You can see a blue glow. And you feel a fresh breeze.... ahhhh....
+~
+~
+0 -1 7442
+S
+#7442
+The northern end of the pool~
+   You have wet feet, you are standing in water. The water looks calm.
+You can see that it's a big lake. Light seeps from the water.
+~
+74 8 3
+D0
+You can see a small cave.
+~
+~
+0 -1 7441
+D1
+You can see more water.
+~
+~
+0 -1 7443
+D2
+You can see water.
+~
+~
+0 -1 7444
+S
+#7443
+The pool~
+   You are swimming in water. It is getting deep here. It is also dark
+in this end.
+~
+74 9 3
+D3
+You see calm water.
+~
+~
+0 -1 7442
+D2
+You can see some bubbles in the water.
+~
+~
+0 -1 7445
+S
+#7444
+The south end of the pool~
+   You standing in water up to your neck! You can only see water.
+~
+74 8 3
+D0
+You can see calm water.
+~
+~
+0 -1 7442
+D1
+To dark to tell, but you can feel something nearby.
+~
+~
+0 -1 7445
+S
+#7445
+The pool~
+   You are swimming in DARKNESS. You feel something touching your right
+leg.
+~
+74 9 3
+D0
+To dark to tell.
+~
+~
+0 -1 7443
+D1
+You can feel a warm breeze.
+~
+~
+0 -1 7413
+D3
+~
+~
+0 -1 7444
+S
+#99999
+$~

@@ -1,0 +1,753 @@
+#14200
+Credits~
+   Thanks to IO for making the MUD in the first place.  Thanks to Nymph,
+for helping us out with supplying us with a sample file.  Also to all the
+immortals for helping to make the MUD a better place :) 
+~
+142 C 3
+S
+#14201
+Through a Tiny Cave~
+   As you walk through this dark place you seem to find your equipment
+double in size, or is it you getting smaller? 
+~
+142 ac 3
+D0
+Before the Village
+~
+~
+0 -1 14202
+D2
+~
+~
+0 -1 501
+S
+#14202
+Before the Village of Faerise~
+   Far and wide in front of you lies the most beautiful garden you've 
+ever seen. Overgrown flowers that resemble homes tower above you. 
+This place has a beautiful, magical scent and you decide its a good 
+place to visit.
+~
+142 c 1
+D0
+Village of Faerise
+~
+~
+0 -1 14203
+D2
+The Dark Passage
+~
+~
+0 -1 14201
+S
+#14203
+Village of Faerise~
+   Home of the most tiniest, most beautiful creatures -- the fairies.
+To the east you see a giant sunflower stem that needs to be explored,
+and farther north lies a magnificent, miniature lagoon.
+~
+142 0 1
+D0
+Before the Lagoon
+~
+~
+0 -1 14209
+D1
+A Giant Stem
+~
+~
+0 -1 14204
+D2
+Before the village
+~
+~
+0 -1 14202
+S
+#14204
+In Front of a Giant Stem~
+   You look up. Woah. Before you stands the largest, greenest stem you've
+ever seen. It makes you dizzy just looking at it.  But when you look
+closer you see there are grooves and leaf stems that make it look like an
+easy climb. Shall you?
+~
+142 0 1
+D3
+The Village
+~
+~
+0 -1 14203
+D4
+Climbing the Stem
+~
+~
+0 -1 14205
+S
+#14205
+Climbing the Stem~
+   You place your feet into the tiny notches along the stem. As you keep 
+going, you hope you won't slip and fall to your doom.
+~
+142 0 5
+D4
+Climbing the Stem
+~
+~
+0 -1 14206
+D5
+The Base of the Stem
+~
+~
+0 -1 14204
+S
+#14206
+Climbing the Stem~
+   You are nearing the top of the huge stem. Looking upwards you see a 
+huge sunflower petals of vibrant yellow.
+~
+142 0 5
+D4
+On Top of a SunFlower
+~
+~
+0 -1 14207
+D5
+Climbing the Stem
+~
+~
+0 -1 14205
+S
+#14207
+On Top of a SunFlower~
+   Wiping a drop of sweat from your brow, you take a deep breath. The air 
+is crisp and floral, overall, pleasant up here.  The view is overwhelming.
+From here you can see the whole village of Faerise, the wonderful gardens,
+the beautiful lagoon and all the little fairies playing below. The ground
+is soft and light.  There's a trail of sunflower seeds leading to the east.
+~
+142 0 1
+D1
+On a SunFlower Petal
+~
+~
+0 -1 14208
+D5
+Climbing the Stem
+~
+~
+0 -1 14206
+S
+#14208
+On a SunFlower Petal~
+   The Scent of the flower is overpowering! You can see far over the 
+village at this view point. I'd say the climb was worth it? Wouldn't you?
+~
+142 0 1
+D3
+On the Tippy Top of the Flower
+~
+~
+0 -1 14207
+S
+#14209
+Before the Lagoon~
+   Before you lies a miniature lagoon. From here you see the delicate 
+ripples of the water, the grassy surroundings and the beautiful fairy 
+civilization. No wonder the fairies are such a charming race.
+~
+142 0 1
+D0
+The path continues
+~
+~
+0 -1 14212
+D3
+A Garden
+~
+~
+0 -1 14210
+S
+#14210
+A Small Garden~
+   Your nostrils are filled with exotic scents from the many types of 
+flowers. Roses, Tulips, Buttercups, you name it, it's here. All the bright 
+colors fill your eyes with delight, while the sound of the wind blowing 
+through the trees make you feel calm. Looking westward you see a small red 
+tulip that has fallen over.
+~
+142 0 1
+D1
+Before the Lagoon
+~
+~
+0 -1 14209
+D3
+Inside a Tulip
+~
+~
+0 -1 14211
+S
+#14211
+Inside a Tulip~
+   You've never really been inside a flower before, so you don't know what
+to expect. There's a strong smell of nectar in the area and you're not too
+sure if you like it. In fact, its giving you a headache. There's a faint
+buzzing too, but it seems to be getting louder. Maybe exploring the flower
+wasn't such a good idea. 
+~
+142 0 1
+D1
+A Small Garden
+~
+~
+0 -1 14210
+S
+#14212
+In Front of the Lagoon~
+   Here lies the Lagoon of Faerise. Beautiful to the eye, but you're not
+too sure about swimming in it. The lagoon continues to the east and west. 
+~
+142 0 1
+D1
+South-East Edge of the Lagoon
+~
+~
+0 -1 14213
+D2
+Before the Lagoon
+~
+~
+0 -1 14209
+D3
+South-West Corner of the Lagoon
+~
+~
+0 -1 14219
+S
+#14213
+South-East Edge of the Lagoon~
+   The path around the lagoon continues to the north and to the west.
+~
+142 0 1
+D0
+Around the Lagoon
+~
+~
+0 -1 14214
+D3
+In Front of the Lagoon
+~
+~
+0 -1 14212
+S
+#14214
+Around the Lagoon~
+   As you keep walking around the lagoon, you notice a small path 
+leading to the east.
+~
+142 0 1
+D0
+North-East Corner of the Lagoon
+~
+~
+0 -1 14215
+D1
+A Small Path
+~
+~
+0 -1 14220
+D2
+South-East Edge of the Lagoon
+~
+~
+0 -1 14213
+S
+#14215
+North-East Corner of the Lagoon~
+   The path around the lagoon continues to the south and to the west.
+~
+142 0 1
+D2
+Around the Lagoon
+~
+~
+0 -1 14214
+D3
+Beside the Lagoon
+~
+~
+0 -1 14216
+S
+#14216
+Beside the Lagoon~
+   Here you can see across the lagoon right to the entrance of Faerise. 
+You smile to yourself and decide this was a wonderful experience. To the 
+north you see another path leading away from the lagoon, towards a palace 
+made of flowers.  To the east and west, the lagoon continues.
+~
+142 0 1
+D0
+In the dense part of Faerise
+~
+~
+0 -1 14224
+D1
+North-East Corner of the Lagoon
+~
+~
+0 -1 14215
+D3
+North-West Edge of the Lagoon
+~
+~
+0 -1 14217
+S
+#14217
+North-West Edge of the Lagoon~
+   The path around the lagoon continues to the east and south.
+~
+142 0 1
+D1
+Beside the Lagoon
+~
+~
+0 -1 14216
+D2
+Around the Lagoon
+~
+~
+0 -1 14218
+S
+#14218
+Around the Lagoon~
+   Across the lagoon, eastward, you can see a small path. This path 
+continues to the north and south.
+~
+142 0 1
+D0
+North-West Edge of the Lagoon
+~
+~
+0 -1 14217
+D2
+South-West Corner of the Lagoon
+~
+~
+0 -1 14219
+S
+#14219
+South-West Corner of the Lagoon~
+   The path around the lagoon continues to the north and east.
+~
+142 0 1
+D0
+Around the Lagoon
+~
+~
+0 -1 14218
+D1
+In Front of the Lagoon
+~
+~
+0 -1 14212
+S
+#14220
+A Small Path~
+   This path made of small stones, lined with tulips and marigolds 
+is said to be the way to the Fairy's Sanctuary. It is also said that 
+people who enter the Sanctuary never leave feeling the same. Maybe its 
+a blessing. Maybe its a curse. You can always turn back.
+~
+142 0 1
+D1
+In Front of the Sanctuary
+~
+~
+0 -1 14221
+D3
+Around the Lagoon
+~
+~
+0 -1 14214
+S
+#14221
+In Front of the Sanctuary~
+   Before you stands a small little temple, the Fairy's Sanctuary. It is
+hideous looking from the outside, almost as if it doesn't belong here,
+surrounded with such beautiful creatures and magnificent flowers. There is
+a door to the east, slightly open. A strange white glow shines from behind
+the door. 
+~
+142 0 1
+D1
+The Sanctuary
+~
+doors~
+1 -1 14222
+D3
+A Small Path
+~
+~
+0 -1 14220
+S
+#14222
+The Sanctuary~
+   Light pours in from all directions, which seems odd because all
+the windows have been covered with vines and strange flowers. The only 
+visible exit is the way you came in, but there is a small draft coming
+in from underneath you.
+~
+142 d 1
+D3
+Outside the Sanctuary
+~
+doors~
+0 -1 14221
+D5
+Darkness
+~
+secret~
+2 14203 14223
+S
+#14223
+In the dark passage~
+   It is damp and cold in here. You'd like to make a hasty exit.
+~
+142 ad 1
+D4
+The Sanctuary
+~
+secret~
+2 14204 14222
+D5     
+A Room
+~
+~
+0 -1 14240
+S
+#14224
+In the dense part of Faerise~
+   Fairies are flying in and out from every direction. They seem very
+busy, but each has their own delighted expression on their faces. To the
+north is the Village Square.
+~
+142 0 1
+D0
+Village Square
+~
+~
+0 -1 14225
+D2
+Beside the Lagoon
+~
+~
+0 -1 14216
+S
+#14225
+Village Square~
+   Small shops line the streets. A florist selling flowers, a magician
+selling fine herbs and vials, and a baker selling sweet smelling deserts
+are all here smiling at their customers. You see at least a dozen fairies
+flittering about. 
+~
+142 0 1
+D0
+The Palace Gates
+~
+~
+0 -1 14226
+D2
+In the dense part of the city
+~
+~
+0 -1 14224
+S
+#14226
+The Palace Gates~
+   Towering before you, the Palace Gates stand. The gates seem to
+be slightly open towards the north, looks like a short cut. And to the
+west is a small flowery path.
+~
+142 0 1
+D0
+Inside the Palace
+~
+~
+0 -1 14227
+D2
+Village Square
+~
+~
+0 -1 14225
+D3
+A Flower Patch
+~
+~
+0 -1 14228
+S
+#14227
+Fairy's Revenge~
+   You think to yourself, 'If I were a fairy where would I be? The
+Palace!' But now you realize this was just a trick. Getting your entire
+leg stuck in mud you can't get it out. You eventually get really bored and
+slit your wrists. Picking on Fairies are ya? That'll teach ya! 
+~
+142 bc 1
+D2
+You can't see.
+~
+~
+0 -1 14226
+S
+#14228
+A Flower Patch~
+   Smells so sweet in here and you feel like you want to stay forever. 
+You suddenly remember that that's not why you're here. You secure all your
+equipment, and get in one last glance of this beautiful place. 
+~
+142 0 1
+D1
+The Palace Gates
+~
+~
+0 -1 14226
+D3
+A Bed of Roses
+~
+~
+0 -1 14229
+S
+#14229
+In a Bed of Roses~
+   You slash through the thorns and vines of the roses that tower
+above you. It seems as if you'd probably would have enjoyed being a little
+taller at the moment. Never thought being so little was such hard work.
+~
+142 0 1
+D0
+A Path
+~
+~
+0 -1 14230
+D1
+A Bed of Flowers
+~
+~
+0 -1 14228
+S
+#14230
+A Path to the Garden Palace~
+   There is a trail of rose petals leading northbound. Beautiful Fairies
+flitter about here.
+~
+142 0 1
+D0
+Before the Garden Palace
+~
+~
+0 -1 14231
+D2
+A Bed of Roses
+~
+~
+0 -1 14229
+S
+#14231
+Overlooking the Garden Palace~
+   It has been a long journey and you've started to believe that there
+is no such thing as the Fairy Palace.  Just some stupid myth that people
+talk about to get you here. You start to grovel, when all of a sudden
+you have a certain urge to look forward. A smile comes across your lips
+as you see the sun peeping out from behind the palace.
+~
+142 0 1
+D1
+The Path Continues
+~
+~
+0 -1 14232
+D2
+The Path
+~
+~
+0 -1 14230
+S
+#14232
+In Front of the Garden Palace~
+   Still enchanted from your first glimpse of the palace, your feet lead
+the way, as your eyes dart around trying to memorize the beauty of the
+place.
+~
+142 0 1
+D1
+Entrance to the Palace
+~
+~
+0 -1 14233
+D3
+Before the Palace
+~
+~
+0 -1 14231
+S
+#14233
+Entrance to the Garden Palace~
+   As you get a closer look at the palace, you notice the fine
+craftsmanship and detail that has been put into the making of this fine
+structure. The marbleized pillars stretch to the almost limitless ceiling,
+in itself highly adorned with golden vines slathering across its vast
+surface. 
+~
+142 0 1
+D1
+Inside the Palace
+~
+~
+0 -1 14234
+D3
+In Front of the Palace
+~
+~
+0 -1 14232
+S
+#14234
+Inside the Garden Palace~
+   You stumble somewhat awkwardly as you realize the magnificent size
+of the foyer you have just entered. Gazing at the curvaceous walls, you
+are totally awed by the flawless beauty of the gorgeous hand-woven 
+tapestries. Westward is the exit from the palace and to the east lies
+a long hallway.
+~
+142 d 1
+D1
+A Hallway
+~
+~
+0 -1 14235
+D3
+Entrance to the Palace
+~
+~
+0 -1 14233
+S
+#14235
+A Long Hallway~
+   Wood carvings of dalecarlian horses, their nostrils flaring, stare at
+you in equine amazement. As you progress down the hallway, the walls are
+recessed with gleaming golden pedestals bearing exquisitely-shaped crystal
+ornaments. The hallway continues westward leading back to the entrance. To
+the east lies a turn in the hallway. 
+~
+142 d 1
+D1
+A Corner
+~
+~
+0 -1 14236
+D3
+Inside the Palace
+~
+~
+0 -1 14234
+S
+#14236
+A Corner~
+   A strong silent sentry suited in silver armor stands sagaciously in the
+corner. As you egress down the hallway, shimmering purple pixie dust
+descends upon you. Looking south, you get a glimpse of the enchanting
+throne room. To the west is a brightly lit hallway. 
+~
+142 cd 1
+D2
+The Throne Room
+~
+~
+0 -1 14237
+D3
+A Long Hallway
+~
+~
+0 -1 14235
+S
+#14237
+The Throne Room~
+   In the center of the throne room is an incredible pair of pearlized
+thrones, encrusted with bedazzling emeralds, rubies, diamonds and
+sapphires. This is where King Oberon and Queen Titania rule over their
+mystical kingdom.  To the east is Titania's garden. Westward lies Oberon's
+study. Looking south, you see a room filled with fragrant flower petals.
+North you see a bend in the hallway. 
+~
+142 d 1
+D0
+A Corner
+~
+~
+0 -1 14236
+D1
+Titania's Personal Garden
+~
+~
+0 -1 14239
+D2
+A Room Filled With Rose Petals
+~
+~
+0 -1 14240
+D3
+Oberon's Study
+~
+~
+0 -1 14238
+S
+#14238
+Oberon's Study~
+   In the study, the shelves are lined with spell-binding books.  Off to
+one side is a massive mahogany desk. An extremely large bay window
+spanning one complete wall scatters shimmering shafts of sunlight into all
+nooks and crannies. The window is open permitting a billowing breeze to
+flow into the room wafting the curtains high into the air.  The only
+visible exit is back the way you came. 
+~
+142 do 1
+D1
+The Throne Room
+~
+~
+0 -1 14237
+S
+#14239
+Titania's Personal Garden~
+   An abundance of beautiful blossoms in a rainbow of colours flourishes
+in this gorgeous garden. In the centre of the garden is a frolicking
+fountain with posing chubby cherubs. While the floral fragrance fills your
+nostrils, the profusion of colour seizes your eyes and the cascading water
+heightens your awareness. You feel incredibly energized. 
+~
+142 dt 1
+D3
+The Throne Room
+~
+~
+0 -1 14237
+S
+#14240
+A Room Filled With Rose Petals~
+   An immediate sense of peace surrounds you when you step into this room.     
+The heady aroma of the soft rose petals invades your soul.
+~
+142 cd 1
+D0
+The Throne Room
+~
+~
+0 -1 14237
+D4
+A Secret Place
+~
+~
+0 -1 14223
+S
+#99999
+$~
+

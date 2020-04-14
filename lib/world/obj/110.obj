@@ -1,0 +1,112 @@
+#11000
+wall~
+a large stone wall~
+A large stone wall spans the page.~
+~
+8 0 0 0 0
+0 0 0 0 0 0
+0 0 0
+E
+wall~
+The stone wall is covered with moss.  Bits of eggshell and large
+amounts of yolk are stuck to the large stones that make up the wall.
+~
+#11001
+swing~
+a large swing~
+The large swing rocks gently, inviting you to sit down and relax.~
+~
+8 0 0 0 0
+0 0 0 0 0 0
+0 0 0
+E
+swing~
+The large swing is painted white to match the picket fence that
+surrounds the small house.  It looks quite cozy, and would probably
+make a great place to sit down and relax.
+~
+#11002
+gumdrop~
+a gumdrop~
+A tasty gumdrop seems to have fallen from the tree.~
+~
+19 0 0 0 a
+1 0 0 0 0 0
+1 0 0
+E
+gumdrop~
+This tasty morsel looks good enough to eat!  Better get it fast
+before the Kookaburra snatches it up.
+~
+#11003
+brick~
+an enormous brick~
+An enormous brick has fallen from the bridge.~
+~
+8 0 0 0 0
+0 0 0 0 0 0
+0 0 0
+E
+brick~
+This large brick was once part of the magnificent bridge.  However,
+due to terrible maintenance, the bridge is falling apart.  The brick
+looks quite heavy, and you probably won't be able to pick it up.
+~
+#11004
+moonbeam beam~
+a moonbeam~
+The moon reaches down and gently caresses you with a moonbeam.~
+~
+8 0 0 0 0
+0 0 0 0 0 0
+0 0 0
+E
+moonbeam beam~
+The soft light of the moonbeam lights up the room, but at the same
+time makes you feel quite sleepy.
+~
+#11005
+bunch flower flowers~
+a bunch of flowers~
+A bunch of freshly-picked flowers rests on the edge of the garden.~
+~
+8 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+bunch flower flowers~
+The delicious scent of the flowers fills your nose as you inhale
+deeply.  Oh no!  You just inhaled a bug!  That'll teach you to go
+around sniffing strange flowers!
+~
+#11006
+meatball~
+an enormous meatball~
+A rather large meatball rolls off the spaghetti and onto the floor.~
+~
+19 0 0 0 a
+1 0 0 0 0 0
+1 0 0
+E
+meatball~
+This meatball is making your mouth water.  If it wasn't for the bits
+of dust that it has aquired from being on the floor, it'd be
+absolutely perfect!
+~
+#11007
+shoe~
+a small shoe~
+Covered with mud, a small shoe sits here without his mate.~
+~
+8 0 0 0 0
+0 0 0 0 0 0
+0 0 0
+E
+shoe~
+The shoe is covered with mud, and it looks quite alone without its
+mate.  A small silver buckle covers the top half of the shoe, and the
+leather tongue seems to be sticking out right at you!  You better not
+try to take the shoe, it looks quite stuck to the ground.
+~
+#99999
+$~

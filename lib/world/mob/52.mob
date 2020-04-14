@@ -1,0 +1,138 @@
+#5200
+beholder~
+the mighty beholder~
+You meet a beholder's deadly gaze!
+~
+It has a large central eye that projects an anti-magic ray and ten
+eyestalks atop the round body which can do anything from charm you
+to disintegrate you.  Beholders are not known for their personality.
+~
+0 0 163 8 -500 S
+35 6 0 1d14+450
+400 500 100 6d9+5 -1
+-1
+-1
+2560 134000 8 8 0
+#5201
+lamia beast~
+the lamia~
+A strange lamia stands here waiting for her next meal.
+~
+This is a creature with the upper torso of a beautiful woman, but the 
+lower body of a four-legged beast.  She licks her lips as she looks 
+at you greedily.
+~
+0 0 cg 0 -1000 S
+18 12 3 1d10+320
+400 500 80 2d5+4 
+94 0 20 1d0+90 -1
+-1
+-1
+150 7500 8 8 2
+#5202
+mimic chest~
+the mimic~
+A strong chest lies in one corner of the room.
+~
+A strong, wooden chest bound with iron straps and a heavy pad-lock on 
+the front.
+~
+0 0 2 0 10 S
+18 10 1 1d20+280
+400 500 100 2d7+3 -1
+-1
+-1
+0 13000 8 8 0
+#5203
+mimic boulder~
+the mimic~
+Two skeletons lie crushed under a large boulder.
+~
+~
+0 0 2050 40 4294967286 S
+20 7 1 3d15+250
+400 500 100 3d5+1 -1
+-1
+-1
+0 20000 8 8 0
+#5204
+mimic floor~
+the mimic~
+The stone floor of this house has been ripped apart.
+~
+~
+0 0 2 0 4294967156 S
+11 11 3 2d6+110
+400 500 100 2d6+0 -1
+-1
+-1
+0 10500 8 8 0
+#5205
+mimic pottery~
+the mimic~
+Some broken shards of pottery lie strewn about the floor.
+~
+~
+0 0 2 0 200 S
+14 14 0 1d8+250
+400 500 100 2d5+3 -1
+-1
+-1
+0 9800 8 8 0
+#5206
+mimic planks~
+the mimic~
+A few wooden planks lie stacked on a low shelf.
+~
+~
+0 0 2 0 0 S
+11 9 0 1d12+110
+400 500 100 4d3+1 -1
+-1
+-1
+0 12000 8 8 0
+#5207
+lizard horned~
+the horned lizard~
+A small horned lizard flicks his tongue and slithers away.
+~
+A cute little lizard -- that is, if you like reptiles!
+~
+0 0 128 0 300 S
+3 17 4 1d14+30
+400 500 100 2d4+0 -1
+-1
+-1
+0 500 8 8 0
+#5208
+golem stone~
+the stone golem~
+In the corner you see a large, stone golem faithfully standing watch.
+~
+It is a big chunk of rock that has been magically formed into a giant 
+stone creature.  He stands here still guarding the city.
+~
+0 0 2306 40 800 S
+25 0 -5 6d6+500
+400 500 100 4d7+3 -1
+-1
+-1
+425 145000 8 8 0
+#5209
+lamia beast~
+the lamia~
+A strange lamia stares at you hungrily.
+~
+This is a creature with the upper torso of a beautiful woman, but the 
+lower body of a four-legged beast.  She licks her lips as she looks 
+at you greedily.
+~
+0 0 cfg f -1000 S
+20 10 3 1d12+350
+400 500 80 4d3+4
+94 0 20 1d0+95 -1
+-1
+-1
+150 7600 8 8 2
+#99999
+$~

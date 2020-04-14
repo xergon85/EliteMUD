@@ -1,0 +1,275 @@
+#11000
+farmer~
+the farmer~
+The farmer smiles happily as he dances a jig.
+~
+The farmer smells of sweat and manure, but he appears to be happy
+enough.  His overalls look like they haven't been washed in weeks,
+and you fear that standing too close to him may very well make you
+pass out!
+~
+1 4 bg 0 0 S
+10 15 4 1d1+153
+400 500 100 1d6+6
+-1 -1 -1 
+100 2133 8 8 1
+#11001
+pig~
+a pig~
+Strange, but true, this pig is dancing!
+~
+This little fellow has pink skin, which has been covered almost
+completely in mud.  He smells terrible, but he has the cutest little
+face, and boy can he dance!
+~
+1 4 bg 0 0 S
+5 18 7 1d1+83
+400 500 100 1d6+3
+-1 -1 -1 
+25 666 8 8 1
+#11002
+georgie peorgie boy~
+Georgie Peorgie~
+Georgie Peorgie puckers up to give you a big wet kiss!
+~
+Georgie Peorgie is quite the lady's man, but he doesn't seem to care
+too much to let his playmates know.  He's short and stout, probably
+from eating too much pie.  His dirty blonde hair is unkempt and could
+probably use a good washing.
+~
+1 4 bg 0 0 S
+7 17 6 1d1+111
+400 500 100 1d6+4
+-1 -1 -1 
+49 1066 8 8 1
+#11003
+mouse~
+a small mouse~
+A small mouse runs up the clock.
+~
+The small mouse has a soft grey coat and long black whiskers.  His
+giant ears look rather comical atop his tiny little head.  He stares
+at you, twitching his tiny little tail.
+~
+1 4 bg 0 0 S
+4 18 7 1d1+69
+400 500 100 1d6+3
+-1 -1 -1 
+16 533 8 8 1
+#11004
+baker~
+the baker~
+The baker stands here, working magic on a piece of dough.
+~
+The baker is an enormous man, who has an almost perfectly round
+shape.  You imagine he probably got that way from eating a few too
+many of his delicious baked goods.
+~
+1 4 bg 0 0 S
+10 15 4 1d1+153
+400 500 100 1d6+6
+-1 -1 -1 
+100 2133 8 8 1
+#11005
+jack man~
+Jack~
+Jack smiles proudly at his handiwork.
+~
+Jack stands tall in his dusty overalls.  His hair is covered with
+sawdust and bits of wood.  He considers himself to be a master
+builder, but one look at his handiwork and you know better! 
+~
+1 4 bg 0 0 S
+10 15 4 1d1+153
+400 500 100 1d6+6
+-1 -1 -1 
+100 2133 8 8 1
+#11006
+old man~
+an old man~
+An old man snores loudly as he sleeps the day away.
+~
+This old man looks like he's had a rough time.  He has a huge bump on
+his head, and he's snoring loud enough to wake the dead!  Might not
+be a good idea to wake him, he doesn't look much like a morning
+person.
+~
+1 4 bg 0 0 S
+10 15 4 1d1+153
+400 500 100 1d6+6
+-1 -1 -1 
+100 2133 8 8 1
+#11007
+jack boy~
+Jack~
+A young boy carries his pail to the top of the hill.
+~
+Jack is a handsome young fellow, full of energy and life.  He better
+watch his step though, the steep hill looks quite treacherous.  Jack
+probably wouldn't take too well to falling down!
+~
+1 4 bg 0 0 S
+6 17 6 1d1+97
+400 500 100 1d6+4
+-1 -1 -1 
+36 800 8 8 1
+#11008
+jill girl~
+Jill~
+Singing happily, a young girl climbs the steep hill.
+~
+Jill is a pretty young girl, with smiling blue eyes and golden hair.
+She appears to be walking a bit too quickly, and she better be
+careful that she doesn't come tumbling down on her pretty little
+head!
+~
+1 4 bg 0 0 S
+6 17 6 1d1+97
+400 500 100 1d6+4
+-1 -1 -1 
+36 800 8 8 2
+#11009
+jack man~
+Jack~
+A young man runs around with his pants on fire!
+~
+Uh oh!  It seems that Jack got a little too close to the flame as he
+jumped over the candlestick!  His pants are on fire, and he's
+frantically trying to put them out.
+~
+1 4 bg 0 0 S
+10 15 4 1d1+153
+400 500 100 1d6+6
+-1 -1 -1 
+100 2133 8 8 1
+#11010
+jack sprat man husband~
+Jack Sprat~
+An extremely thin man sits at the table, eating only the lean.
+~
+Jack Sprat must eat no fat, he's ever so thin indeed!  His long, lean
+frame appears almost skeletal.  Jack better start eating something
+other than the lean, or he'll waste away to nothing.
+~
+1 4 bg 0 0 S
+8 16 5 1d1+125
+400 500 100 1d6+5
+-1 -1 -1 
+64 1333 8 8 1
+#11011
+wife jack sprat woman~
+Jack Sprat's wife~
+A portly, yet pretty, woman sits at the table stuffing her face.
+~
+Jack Sprat's wife eats just about anything she can get her hands on,
+and it certainly shows.  She's about four times the size of her
+rail-thin husband.  Luckily for her (and for Jack) she's as pretty as
+she is large.
+~
+1 4 bg 0 0 S
+8 16 5 1d1+125
+400 500 100 1d6+5
+-1 -1 -1 
+64 1333 8 8 2
+#11012
+kookaburra bird~
+the Kookaburra~
+A large bird sits in the tree, eating all the gumdrops he can see.
+~
+The kookaburra is a strange-looking bird, with a laugh to match.  He
+sits high in the tree, eating all the tasty gumdrops.  Better hope he
+saves some for you!
+~
+1 4 bg 0 0 S
+5 18 7 1d1+83
+400 500 100 1d6+3
+-1 -1 -1 
+25 666 8 8 1
+#11013
+little bo peep girl~
+Little Bo Peep~
+A young girl stands crying in the pasture.
+~
+Poor Little Bo Peep!  She fell asleep beneath a cozy tree, and her
+sheep all wandered off.  Now she'll have to go home and explain that
+to her parents.
+~
+1 4 bg 0 0 S
+6 17 6 1d1+97
+400 500 100 1d6+4
+-1 -1 -1 
+36 800 8 8 2
+#11014
+little bunny foo~
+Little Bunny Foo Foo~
+Laughing wildly, a small bunny picks up a field mouse and BOPS it on
+the head!
+~
+With his long ears and wiggly nose, Little Bunny Foo Foo looks
+innocent enough, but one look in his eyes and you know this rabbit is
+a maniac!  He takes joy in that pain of field mice - what a sicko!
+~
+1 4 bg 0 0 S
+5 18 7 1d1+83
+400 500 100 1d6+3
+-1 -1 -1 
+25 666 8 8 1
+#11015
+mary girl~
+Mary~
+A young girl plays with her classmates.
+~
+Mary is a pretty young girl, wearing a frilly pink dress with
+matching petticoat.  Her curly brown hair and big green eyes seem to
+complete the picture.  What you can't tell from her appearance, is
+that Mary has a thing for young sheep!
+~
+1 4 bg 0 0 S
+6 17 6 1d1+97
+400 500 100 1d6+4
+-1 -1 -1 
+36 800 8 8 2
+#11016
+mary contrary gardener lady~
+Mary~
+Tending to her garden, the young lady doesn't even notice you.
+~
+Mary is quite the gardener.  She can grow anything almost anywhere,
+and she's won numerous awards from the local gardening club.  Humming
+softly to herself, she tends her magnificent garden.
+~
+1 4 bg 0 0 S
+8 16 5 1d1+125
+400 500 100 1d6+5
+-1 -1 -1 
+64 1333 8 8 2
+#11017
+michael boy~
+Michael~
+A young boy is rowing across the river as fast as he can.
+~
+Michael is very much the athlete, and he often rows himself across
+the river to keep in shape.  This time however, he's rowing across
+the river to see what he can of the promised land.
+~
+1 4 bg 0 0 S
+6 17 6 1d1+97
+400 500 100 1d6+4
+-1 -1 -1 
+36 800 8 8 1
+#11018
+old king cole man~
+Old King Cole~
+Old King Cole watches over the festivities, chewing on his pipe.
+~
+Old King Cole is a handsome old man, with twinkling grey eyes and a
+perpetual smile.  He's dressed in the finest clothing available, and
+while he has a bit of a belly, his outfit fits him quite well.
+~
+1 4 bg 0 0 S
+10 15 4 1d1+153
+400 500 100 1d6+6
+-1 -1 -1 
+100 2133 8 8 1
+#99999
+$~

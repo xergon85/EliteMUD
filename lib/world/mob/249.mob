@@ -1,0 +1,155 @@
+#24901
+crab~
+A small crab~
+A crab is crawling around here looking for toes to pinch.
+~
+The crab has a hard, brightly brown shell and two BIG pinchers.
+~
+0 0 32 0 0 S
+5 17 5 4d8+75
+407 500 100 1d5+2  -1
+-1
+-1
+0 1200 8 8 0
+#24902
+fat man~
+A fat man~
+A fat man is sunbathing here.
+~
+His skin has a nice tan because he is using a new sun lotion.
+~
+1 4 130 0 300 S
+8 17 6 4d12+120
+401 500 100 1d8+3  -1
+-1
+-1
+200 2600 5 5 1
+A
+%10 say Go away! Can't you see i'm busy?!
+~
+#24903
+mitch baywatch~
+Mitch the Baywatch~
+Mitch the Baywatch is standing here, trying to look muscular.
+~
+He is staring at the people bathing here, always ready to help a poor swimmer.
+~
+1 4 192 0 400 S
+10 15 6 4d15+150
+401 500 100 2d5+4  -1
+-1
+-1
+200 2400 8 8 1
+A
+%10 say Hello folks!;%10 emote looks at you.
+~
+#24904
+fat woman~
+A fat woman~
+A fat woman is sunbathing here.
+~
+She looks at you angrily as you are standing between her and the sun.
+~
+1 4 194 0 500 S
+8 17 7 4d12+120
+410 500 100 1d6+1  -1
+-1
+-1
+400 2600 5 5 0
+#24905
+turtle~
+A turtle~
+A green turtle is crawling around on the beach here.
+~
+The turtle has an extremely hard and beautifull shell and a small head.
+~
+0 4 64 0 200 S
+6 17 6 4d9+90
+408 500 100 2d4+1  -1
+-1
+-1
+0 1600 8 8 0
+#24906
+captain kidd~
+Captain Kidd~
+Captain Kidd is here selling boats and icecreams.
+~
+He looks very mean and quite capable of chopping you to pieces if he wanted to.
+~
+1 4 2114 33555456 -200 S
+109 -50 -60 1d100+30000
+403 500 100 1d500+100  -1
+-1
+-1
+0 50000 8 8 0
+#24907
+surfer orc~
+An orc surfer~
+An orc surfer is here, riding the waves with some difficulty.
+~
+The orc is surfing around on a surfing board made in the dark caves of moria.
+As you watch him surfing around on the waves you notice that he is cursing the
+dark water all the time.
+~
+1 4 68 1024 -200 S
+9 15 4 4d15+135
+403 500 100 2d5+1  -1
+-1
+-1
+100 3000 8 8 1
+A
+%10 emote shudders at the sight of the water.;
+%10 emote wobbles uneasily on his board.
+~
+#24908
+surfer elf~
+An elf surfer~
+An elf surfer is riding the waves here.
+~
+He is quite comfident in his ability in surfing the waves. His long blond hair
+is ruffling in the wind as he make spectacular turns.
+~
+1 4 64 0 200 S
+9 15 4 4d15+140
+402 500 100 2d5+1  -1
+-1
+-1
+300 3000 8 8 1
+A
+%10 emote combs his hair.
+~
+#24909
+white shark big~
+The big white~
+A big white fin just above the waterline is moving straight at you!
+~
+Arghhh ! Suddenly you remember those old movies about this horrible creature.
+The big white shark that killed hundreds of people bathing on nice beaches all
+over the world.
+~
+0 4 96 33555456 0 S
+12 14 5 4d18+180
+408 500 100 1d13+6  -1
+-1
+-1
+0 3500 8 8 0
+#24910
+seagull~
+A seagull~
+A seagull is flying around here.
+~
+The seagull is circling around your head some 5 meters above you. It looks 
+really angry and screams at you in a highpitched voice. 
+~
+13 4 64 134217728 100 S
+5 19 8 4d6+75
+408 500 50 2d3+1
+406 500 50 1d5+1  -1
+-1
+-1
+0 1200 8 8 0
+A
+%10 emote screams angrily at everyone.
+~
+#99999
+$~

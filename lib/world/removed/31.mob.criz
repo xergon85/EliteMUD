@@ -1,0 +1,155 @@
+#3100
+maid~
+The Maid~
+The Maid is waiting for your order.
+~
+She is very beautiful with golden hair, and deep blue eyes.  A tired
+look in her eyes indicates the sort of treatment she has had from the
+orcs.
+~
+1 4 2051 8 1000  S
+33 9 -10 1d1+360
+400 500 100 1d8+22 -1
+-1
+-1
+2000 80000 8 8 2
+#3120
+sexton~
+the Sexton~
+A Sexton is sitting here shivering, and drinking hot tea.
+~
+The Sexton looks like he is trying to relax after digging another 
+another grave for a non-orc.
+~
+1 4 2 0 800  S
+3 19 7 2d6+35
+400 500 100 1d7+0 -1
+-1
+-1
+13 400 6 6 1
+#3121
+swan~
+the swan~
+A swan is swimming around in the pond.
+~
+The white swan is very elegant and nervous of people near the pond.
+~
+0 0 2 0 1000  S
+1 20 9 2d6+10
+400 500 100 1d5+0 -1
+-1
+-1
+0 100 8 8 0
+#3122
+duckling~
+the duckling~
+A duckling is swimming around in the pond.
+~
+The duckling is adorable, it looks most of all like a tiny furball.
+~
+0 0 2 0 1000  S
+0 20 10 1d1+0
+400 500 100 1d1+0 -1
+-1
+-1
+0 1 8 8 0
+#3123
+sparrow~
+the sparrow~
+A sparrow is flapping around on the ground.
+~
+The sparrow is furtive after learning what orcs do to birds.
+~
+0 0 192 0 1000  S
+0 20 10 2d6+0
+400 500 100 1d3+0 -1
+-1
+-1
+0 25 8 8 0
+#3124
+duck~
+the duck~
+A duck is here, guarding its duckling.
+~
+The duck is quite skinny.  It looks like people have not fed
+the birds recently.
+~
+0 0 64 0 1000  S
+1 20 10 2d6+5
+400 500 100 1d4+0 -1
+-1
+-1
+0 75 8 8 0
+#3140
+orc leader huge~
+the HUGE orc leader~
+The HUGE Orc Leader is here guarding HIS safe.
+~
+A very big, angry orc leader.
+~
+1 4 38 8 800  S
+17 14 1 1d12+210
+400 500 100 1d8+18 -1
+-1
+-1
+0 10000 8 8 1
+#3141
+orc bodyguard~
+the orc bodyguard~
+An orc bodyguard stands here, looking very upset.
+~
+A big, strong, angry bodyguard.
+~
+1 4 38 0 1000  S
+10 17 2 1d12+123
+400 500 100 1d8+3 -1
+-1
+-1
+0 3000 8 8 1
+#3142
+secretary~
+the Secretary~
+A secretary is here, tied to her chair and gagged.
+~
+She looks very angry and slightly molested.
+
+>
+The Secretary says 'Gmph! Hmph!'
+The Secretary says 'Hmmmmph! Hmmmmmmmph! MMmmmph mmph maaaaaamph!.'
+~
+1 1 2 0 900  S
+12 18 2 1d12+148
+400 500 100 2d7+1 -1
+-1
+-1
+100 2000 8 8 2
+#3143
+mayor~
+the Mayor~
+The Mayor is here, looking rather drugged.
+~
+A stocky, middle-aged man, the orcs have been keeping him
+happy and quiet with certain...concoctions.
+~
+1 4 2051 8 1000  S
+24 12 -4 6d10+790
+400 500 100 1d8+18 -1
+-1
+-1
+1000 58000 4 4 1
+#3144
+crier~
+the Town Crier~
+The Town Crier is here, weeping quietly.
+~
+Crying softly, you think you hear him muttering something about:
+'If only they had listened...if only they had listened!'.
+~
+1 4 128 0 900  S
+1 20 9 2d6+10
+400 500 100 1d5+0 -1
+-1
+-1
+34 100 8 8 1
+#99999
+$~

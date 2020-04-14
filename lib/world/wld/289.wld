@@ -1,0 +1,617 @@
+#28900
+#bThe Entrance to the Fortress#N~
+   You have arrived at the entrance to a large fortress.  Even though
+the walls are extremely high, you manage to make out a castle in the
+distance. You hear clanging from the other side of the wall, loud 
+enough to make you wonder if there's a battle on the other side. 
+Sparks of bright light emerge from the castle, and sounds of 
+explosions can be heard in the distance. If you are not welcome, you 
+think it would be a good idea to depart before the occupants realize 
+you are here. You wonder if the gargoyle has a copy of the guest 
+list?
+~
+289 duz 0
+D1
+The Courtyard
+~
+gate~
+11 -1 28901
+D3
+Clara's Field o' Daisies
+~
+~
+0 -1 3061
+E
+gargoyle statue~
+Before you stands a gargoyle of immense proportions. It appears to be 
+made out of stone, but just like the fortress ahead, it is scary 
+enough. It appears ready to come to life at any moment and pounch on 
+you.  You wonder who made the gargoyle, for it is so large it would 
+have taken an extremely advanced magical expertise to construct it.
+~
+S
+#28901
+#bThe Courtyard#N~
+   You have reached the inside of the fortress. Before you stands the
+largest castle you have ever seen. It's not the most beautiful 
+fortress you have ever seen, in fact it has the gloomy look of just 
+having survived a major siege. Chunks of stone are missing here and 
+there. All around you various activity is commencing. You see big 
+figures watching little ones. You get the impression that a good deal 
+of training is going on here. All around there are various machines 
+of war set up. To your left is a catapult, to your right are some 
+wooden contraptions. Just as you feel you are getting in someone's 
+way the front door to the castle begins to raise.
+~
+289 duz 0
+D1
+Chamber of Wizardry
+~
+~
+0 -1 28903
+D3
+~
+gate~
+11 -1 28900
+S
+#28902
+#bChamber of Wizardry#N~
+   You have entered a room glowing with mystical energy. You see 
+many people shrouded in black clothing muttering incantations. You 
+can only guess that this is where the occupants test their magical 
+abilities. In the corner you see a bookshelf stacked with bound 
+books. They surely contain the secrets of these magical masters. 
+Through the occaisonal lightning bolt which lingers your way you see 
+staves, scrolls, and flasked all along the ground and on tables. You 
+decide to leave the room before something powerful strays your way.
+~
+289 duz 0
+D0
+~
+~
+0 -1 28903
+S
+#28903
+#bThe Reception Room#N~
+   As you enter the castle, you can't help but notice all the 
+archways and the immense size of the reception room. You don't notice 
+any servants, but rather see a whole host of dominant figures wearing 
+dark clothing. The floor is decorated with a lush red rug, and there 
+are various red and black banners hanging from the wall. It looks as 
+if it had been recently redecorated. The battle damage doesn't appear 
+as bad in here, but there are overturned articles of furniture laying 
+around. Everyone is gathered around something, perhaps you should 
+take a look?
+~
+289 duz 0
+D0
+~
+~
+0 -1 28904
+D1
+~
+~
+0 -1 28905
+D2
+~
+~
+0 -1 28902
+D3
+~
+~
+0 -1 28901
+S
+#28904
+#bThe Council Chamber#N~
+   You roam into a room full of arguing people. In the center of the
+room is a large table, rectangular in shape, with a large man at the 
+head of the table. He looks annoyed to see all his companions out of 
+their seats screaming at the top of their lungs. The chairs, mostly 
+empty, are exquisitely made, with large bones representing the arm 
+rests and skulls for hand rests. The table itself had blood all over 
+it, yet none of the arguing parties appear to be injured in any way. 
+You decide to leave without asking any questions.
+~
+289 duz 0
+D2
+~
+~
+0 -1 28903
+S
+#28905
+#bA Junction of Stairs#N~
+   You have entered a compact hallway, with steps leading downwards
+and upwards. You hear moans coming from both the basement and 
+second floor. The downward steps must lead to the crypts below this 
+evil castle. The steps up lead to things you can only guess at. The 
+hallway itself is stained with large amounts of blood and has 
+incomplete skeletons laying all around you.
+~
+289 duz 0
+D3
+~
+~
+0 -1 28903
+D4
+~
+~
+0 -1 28909
+D5
+~
+~
+0 -1 28906
+S
+#28906
+#bEntrance to the Crypt#N~
+   You have entered perhaps the darkest room you have ever witnessed.
+Several skulls are hanging along the walls, glowing with an unnatural
+aura. You can barely make out several exits leading in all directions.
+The containers of the dead housed in this room of the crypt have been 
+overturned, and pieces of the coffins' occupants are strewn about the 
+room. You are confronted by moans and groans from each direction, 
+helping you very little in deciding a safe path to take.
+~
+289 duz 0
+D1
+~
+~
+0 -1 28908
+D3
+~
+~
+0 -1 28907
+D4
+~
+~
+0 -1 28905
+S
+#28907
+#bThe Vault#N~
+   You have entered the armory of the current occupants. All around 
+you are mass weapons of war. You see swords, staves, maces, axes, 
+shields, and armors of all varieties. There are also many occult 
+objects with special magical powers such as rings and amulets. Only 
+the best can be found in here, demonstrating the wealth of the 
+occupying force. Even the simplest of their weapons are inlaid with 
+delicate gems and carvings. The rest of the room is a total mess. 
+They clearly have used the resting place of countless souls as a 
+storage space for their weapons which create even more mindless 
+corpses.
+~
+289 duz 0
+D1
+~
+~
+0 -1 28906
+S
+#28908
+#bThe Mortuary#N~
+   The room you have just entered was what was probably a mortuary at
+some point. You see all kinds of wonderful gadgets to aid in preparing
+dead bodies for their final rest in the crypts. Unfortuantely it has 
+changed from a place of eternal rest to a place of eternal life. 
+Countless alchemists have set up shop in here, healing both old 
+Legionaires and preparing new corpses for eternal service to the 
+Legion. As expected you see countless flasks laying around 
+everywhere. You also see bodies who would have died easily from their 
+wounds brought back to life by the alchemists' sinister magic.
+~
+289 dtuz 0
+D3
+~
+~
+0 -1 28906
+S
+#28909
+#bThe Leaders' Chambers#N~
+   You have entered the room of all rooms in this structure. All of 
+the fortress' activity is coordinated in this room. You see the two 
+immortal leaders of the Legion, #bShayde#N and #bVampyre#N, being 
+administered by their personal advisors. They are discussing new 
+strategies and experimenting on new kinds of powerful magic worthy 
+of their devoted attention. You see they act very friendly towards 
+their companions, yet the companions have a kind of fear, instilled 
+only by utmost terror and respect. There are dozens of maps and books 
+sprawled all over the several tables occupying this room. Up above 
+you see a bright light, the brightest you have seen in the entire 
+castle.  The personal chambers of Vampyre and Shayde lie to the east 
+and west, while the northern passage leads into a massive hallway 
+toward the council quarters.
+~
+289 duz 0
+D0
+~
+~
+0 -1 28912
+D1
+~
+door~
+11 -1 28911
+D3
+The Dark Realm of Shade lies to the west.
+~
+door~
+11 -1 28910
+D4
+~
+portal~
+11 -1 1255
+D5
+~
+~
+0 -1 28905
+S
+#28910
+#bDark Realm of Shayde#N~
+   This room is filled with a cold mist that smells of death.
+You can feel a powerful energy here, emitting a magical aura
+stronger than anything you have ever felt.  There is an open
+coffin in the middle of the room, with a name brazed upon the
+lid.  Inside the coffin, there are two #bdaggers#N, the blades
+crossed to perfect symetry.  In the northwest corner of the
+room, there is a misty doorway leading toward Nymph's room.
+Shayde is nowhere to be found...  You wonder if all the rumors
+about him are true.  Some people say that he is not human at
+all, that nobody has ever seen him eat or sleep.  Some even
+say that he is immortal, only pretending to be human to serve
+his own purposes.  Before you finish that thought, an icy wind
+howls past you, and for just one moment, you think you heard
+somebody whispering a word to you...  It sounded like...  "Janus".
+~
+289 duz 0
+D1
+~
+door~
+11 -1 28909
+E
+daggers~
+The coffin has the name "Dark Shayde" brazed upon the lid in
+electric blue letters.  The two daggers belong to Shayde and
+Vampyre, and respectively have the words etched into the blades,
+"Soren" and "Sartre".
+~
+E
+symbol~
+There are many arcane formulas and runes swirling around a central
+quotation from some ancient scripture.  It reads, #w"#bThe Black Wind
+Howls...#w"#N
+~
+E
+abyss~
+You cant seem to make out a bottom to this abyss, and it might not
+be a very good idea to examine it any closer.  There are faint 
+whisperings coming from deep inside...  You cant seem to make them 
+out, but it sounds something like #w"#bSkai Draka, Shay Vampyrica, 
+Deth...#w"#N What could this possibly mean?  The cold air sends 
+chills up your spine.
+~
+S
+#28911
+#bVampyre's Lair#N~
+   You enter a room covered with mist and fog. It is hard to believe
+that this could exist in a castle. In fact it is a room conjured by
+powerful magic. In the corner you see a pair of glowing eyes. Surely 
+they belong to Vampyre, a powerful mage of the clan, Dark Legion. 
+You cannot help but wonder what your fate may be. You quickly 
+glance around for an exit. But to no avail, you only find a shelf 
+full of potions and books, and a rack full of advanced weapons years 
+beyond the current genre of weaponry. Just as you think you are at 
+Vampyre's mercy, he smiles and kindly casts the most friendly and 
+useful of spells on you.
+
+~
+289 duz 0
+D3
+~
+door~
+11 -1 28909
+S
+#28912
+#bA Long Dark Hallway#N~
+   The hallway continues to the north, or leads south back to the 
+chamber of the clan leaders.  There are large wooden doors to the 
+east and west that each have a plaque in the center with a name 
+engraved in gothic letters.  The western door reads "#bNymph#N", 
+while the eastern door reads "#bDrakkon#N".
+~
+289 duz 0
+D0
+~
+~
+0 -1 28913
+D1
+~
+door~
+11 -1 28917
+D2
+~
+~
+0 -1 28909
+D3
+~
+door~
+11 -1 28916
+S
+#28913
+#bA Long Dark Hallway#N~
+   The hallway continues to the north, or leads south back to the 
+southern end of the hallway.  There are large wooden doors to the 
+east and west that each have a plaque in the center with a name 
+engraved in gothic letters.  The western door reads "#bHalcyon#N", 
+while the eastern door reads "#bGenso#N".
+~
+289 duz 0
+D0
+~
+~
+0 -1 28914
+D1
+~
+door~
+11 -1 28919
+D2
+~
+~
+0 -1 28912
+D3
+~
+door~
+11 -1 28918
+S
+#28914
+#bA Long Dark Hallway#N~
+   The hallway continues to the north, or leads south back to the 
+southern end of the hallway.  There are large wooden doors to the 
+east and west that each have a plaque in the center with a name 
+engraved in gothic letters.  The western door reads "#bLegion#N", 
+while the eastern door reads "#bKrypt#N".
+~
+289 duz 0
+D0
+~
+~
+0 -1 28915
+D1
+~
+door~
+11 -1 28921
+D2
+~
+~
+0 -1 28913
+D3
+~
+door~
+11 -1 28920
+S
+#28915
+#bThe End of the Hallway#N~
+   The hallway has come to an end.  Besides the doors at your sides, 
+you have no choice but to head back south down the hallway.  There 
+are two last large wooden doors to the east and west that each have a 
+plaque in the center with a name engraved in gothic letters.  The 
+western door reads "#bDeathlord#N", while the eastern door reads 
+"#bSteellord#N".
+~
+289 duz 0
+D1
+~
+door~
+11 -1 28923
+D2
+~
+~
+0 -1 28914
+D3
+~
+door~
+11 -1 28922
+S
+#28916
+#bA Darkened Chamber#N~
+   This small, dank chamber is harshly illuminated by a single, 
+flickering candle mounted on the far wall.  The cobbled walls are slick 
+and damp and reflect the light ominously, giving the appearance of 
+constant movement across the mouldy #btapestries#N that hang from them.  
+A heavy, granite sarcophagus sits on a wrought-iron pedestal, dominating 
+the room.  The carved #brunes#N that decorate the lid give the stone coffin
+an undeniable sense of antiquity, while the thick layer of muddy dust 
+that cakes the coffin and covers the floor gives the room a cold, dead, 
+abandoned feel.
+~
+289 duz 0
+D1
+~
+door~
+11 -1 28912
+E
+tapestries~
+The tapestries were once colorful, but have now faded to dull greys.
+Cobwebs cloud the images and the yellowing cords that fringe the edge of 
+the pictures hang limply, damp and brown.  The tapestry to the left 
+appears to be of a #bwoman#N, while the one on the right displays what 
+could have been a #bwarrior#N.
+~
+E
+warrior~
+A warrior stands in front of smudged figures in this tapestry.  The 
+figures are all faceless and the fabric of the tapestry is badly damaged 
+where they stand, but the warrior himself is still somewhat colorful.  A 
+blue phoenix decorates his tunic, and his sword was once made to appear 
+to glow before the brightness faded from the cloth.
+~
+E
+woman~
+A dark-skinned woman with white, braided hair stands in a castle in this
+tapestry.  Her wings indicate that she is clearly meant to be an angel, 
+but the subtle, menacing look to her grey eyes and they way her knuckles 
+are whitened by the way her hands clutch a gem make her appear far too 
+malevolent to be angelic.  A closer look shows tears, badly faded by the 
+age of the tapestry, in the corners of her eyes.
+~
+E
+runes~
+The old, worn runes bear a few strange words, spaced close together and
+lined with deep, simple edging.  The runes are in a language once used 
+but which now only appears in scholarly works.  It appears to be nothing 
+more than a list of names.
+
+   Sinner  Pendragon  Zumdahl  Percival  Ember  Jade  Vulcan  Rigel  Evil
+       Jesta   Mordred   Soulcatcher   Deimos  Kris   Nibor  Darius
+~
+S
+#28917
+#bDrakkon's Empty Room#N~
+   This room is in need of a description.
+~
+289 duz 0
+D3
+~
+door~
+11 -1 28912
+E
+raven ravens~
+The two statues seem to be made of night itself... dark, black a
+sense of foreboding grips you.  Then you see one of the eyes blink
+slowly...  Death walks the land.
+~
+E
+symbol symbols rune runes~
+"Blood to Blood, we stand... by our Dark Power we
+Conquer as our friend Death walks the Land."
+~
+S
+#28918
+#bThe Chambers of Halcyon#N~
+   As you enter the chambers of Halcyon, you are suddenly
+embraced by a feeling of peace and harmony. The walls
+are draped in sky blue silk. The music of windchimes
+floats gently in the breeze coming from the eastern
+window. Scents of lavender and chamomile hang in the
+air. To your right is Halcyon's desk. Its surface is
+in an organized state of disarray, piled with pages of
+poetry and her journals. The shelves surrounding her
+desk contain literature both old and new. To your left
+is an inviting bed, made up in white linen. Stacks of
+books surround it. Under her pillow is a lock of #rred#N
+tied up in a black cord.
+~
+289 duz 0
+D1
+~
+door~
+11 -1 28913
+E
+red~
+This lock of bright ruby-red hair is tied up in a cord
+and kept safely by Halcyon.  It looks about the same
+color as Genso's hair...
+~
+S
+#28919
+#bYoung Master Genso's Room#N~
+   This room is strangely empty.  There is no furniture
+or bed in sight.  Against the wall nearest you, there is
+a small shrine, where Genso honors his Samurai ancestors.
+There are various weapons, mostly katana swords, resting
+on the floor and against the wall.  One sword in particular
+looks quite deadly, and has the word "Murasame" engraved
+on the blade.  In the same corner that this sword rests,
+there is a small mat and pillow on the floor, where Genso
+sleeps.  Under his pillow is a lock of #ygold#N tied up in
+a black cord.
+~
+289 duz 0
+D3
+~
+door~
+11 -1 28913
+E
+gold~
+This lock of yellow hair, as bright as the sun, is tied up
+in a cord and kept safely by Genso.  Surely this dazzling
+lock of flaxen hair could only belong to fair Halcyon.
+~
+S
+#28920
+#bDark Legion's Tower#N~
+   You are in Legion's Tower. The bottom of the tower
+serves as a living area. There is a column of fire
+burning in the center of the room. The flame illuminates
+the entire room with its fiery glow. The walls are covered
+with weapons and armors from all over Elite. Most of the
+equipment is bloodstained and shows other signs of use in
+battle. Maybe you should leave before Legion returns and your 
+blood is the next to stain his blade.....
+~
+289 duz 0
+D1
+~
+door~
+11 -1 28914
+S
+#28921
+#bKrypt's Inner Sanctum#N~
+   A large but tidy room filled with candles, smoke and artwork taken
+from battles won on every nation known to man.  There is a cool draft
+coming from what seems to be every direction.  In the corner there is
+a large collection of books, mostly well used and worn.  In the 
+middle of the room is a large altar made to the God Yeshua whom he 
+serves. Against the far wall is his large collection of equipment and
+treasure.
+~
+289 duz 0
+D3
+~
+door~
+11 -1 28914
+S
+#28922
+#bShadowy Room of Deathlord#N~
+   As you walk through the walnut door, a narrow cavern is revealed 
+which leads you down deep into a smoke filled room.  Its a small room 
+that is fogged with cool mist, and it lit only by a few fiery torches 
+on the rocky walls.  There is a large hole in the center of the room, 
+but you cannot make anything out when you look inside of it.  You can 
+only guess at why Deathlord being the powerful mage that he is would 
+choose to live in such an atmosphere.  The shadows seem to be 
+increasing rapidly, and an eerie moaning echoes from down inside the 
+black hole.
+~
+289 duz 0
+D1
+~
+door~
+11 -1 28915
+S
+#28923
+#bShrine of Steellord#N~
+   As you enter this room you feel a sirene calmness come over you. A 
+subtle scent fills the room. Looking around the room, the first thing 
+to catch your eyes is a chest on the far right of the room. As you 
+step closer you can see a rather large amethyst crystal ball resting 
+on the top of a sillver stand. Scattered around the stand are smaller 
+pieces of various crystal. Next to the bed is a small wooden stand 
+with a tall, deep green candle sitting on fur.   Lying next to the candle
+is a large, very old, leather bound book  that looks to be 
+very tattered & torn.  On the other side of the room you see a small 
+fountain sitting near the far corner.  Water slowly caresses the 
+stone  with a solid black crystal ball spinning on top of the water. 
+To the left of the fountain you see an old sword, a shield, set of 
+chain armor, and a cloak. Lying upon the floor you see several 
+different fur rugs. On the walls there are many different paintings 
+of battles & slain dragons. One has a man in it showing off a dragon 
+that he has slain.  On the floor oppisite the bed there is a very 
+large crystal ball on a stand.  As you start to leave the room you 
+notice a small ferret following you nipping at your feet. Just as you 
+start to pick it up it scuttles off.
+~
+289 duz 0
+D3
+~
+door~
+11 -1 28915
+S
+#99999
+$~
+

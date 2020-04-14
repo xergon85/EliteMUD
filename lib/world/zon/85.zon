@@ -1,0 +1,117 @@
+#85
+The Japanese Island~
+8592 130 2
+D 0 8517 1 1            Closes door to Temple
+D 0 8526 3 1            Closes door to shack
+D 0 8526 1 1            Closes door to shack
+D 0 8529 3 1            Closes door to shack
+D 0 8529 1 1            Closes door to shack
+D 0 8542 2 0            Opens door to nushi cave
+D 0 8575 2 0            Opens door to daimyo cave
+*
+O 0 8500 5 8512         Loads statue of buddah
+P 1 8517 5 8500         Loads potion into it
+*
+M 0 8503 1 8583         Loads emperor Nazaki
+E 1 8509 5 12          Equips Nazaki with Emperor's new clothes
+*
+M 0 8525 1 8586         Loads Bruce :)
+G 1 8514 50              Gives food to shopkeeper
+G 1 8515 50              Ditto
+G 1 8516 50              Ditto
+*
+M 0 8502 2 8583         Loads sumo
+M 0 8502 2 8583         Loads sumo
+M 0 8519 2 8515         Loads tiger
+M 0 8519 2 8516         Loads tiger
+M 0 8517 5 8509         Loads Gardener
+M 0 8516 3 8512         loads piper
+*
+M 0 8500 10 8524        loads ninja
+E 1 8504 5 16           loads naginata on Ninja
+*
+M 0 8500 10 8533        loads ninja
+E 1 8510 5 8            loads tabi boots on ninja
+*
+M 0 8500 10 8539        loads ninja
+E 1 8511 5 12           Loads ninja suit on ninja
+*
+M 0 8501 8 8517         loads monk
+G 1 8505 10             Loads shuriken on monk
+*
+M 0 8501 8 8506         Loads monk
+E 1 8502 5 13           Loads red belt on monk
+*
+M 0 8504 6 8528         Loads Rokuro-kubi to shack
+M 0 8504 6 8528         Ditto
+M 0 8504 6 8531         ditto
+M 0 8504 6 8531         ditto
+M 0 8504 6 8533         ditto
+M 0 8504 6 8527         ditto
+O 0 8508 5 8528         Loads futon to shack
+*
+M 0 8511 1 8522         Loads nushi to cave
+E 1 8542 5 2            Equips Nushi with key (on finger)
+*
+D 1 8542 2 2            If key loaded lock door
+*
+M 0 8513 5 8522         Loads shadow demon to cave
+M 0 8513 5 8522         Loads shadow demon to cave
+M 0 8513 5 8522         Loads shadow demon to cave
+M 0 8513 5 8522         Loads shadow demon to cave
+*
+O 0 8501 5 8543         Loads Ninja Mask to treasure room
+O 0 8506 5 8543         Loads tanto to treasure cave
+*
+M 0 8518 4 8546         Loads kappa to water
+M 0 8518 4 8547         Ditto
+M 0 8518 4 8550         Ditto
+M 0 8518 4 8551         Ditto
+M 0 8523 1 8554         Loads Kracken
+*
+M 0 8505 10 8556        Loads bakemono
+M 0 8505 10 8558        Ditto
+M 0 8505 10 8561        Ditto
+M 0 8506 1 8562         Loads O-Bakemono to cave
+M 0 8507 2 8565         Loads Trapdoor Spider
+M 0 8509 5 8569         Loads samurai
+M 0 8509 5 8571         Loads samurai
+M 0 8514 1 8568         Loads Mantis demon to cave
+M 0 8512 1 8568         Loads mukade to cave
+*
+M 0 8522 10 8568        Loads shikome to cave
+E 1 8512 50 16          Loads tetsubo to shikome (Wield)
+*
+M 0 8522 10 8568        Loads shikome to cave
+E 1 8512 50 16          Loads tetsubo to shikome (Wield)
+*
+M 0 8524 10 8576        Loads mountain lion to den
+M 0 8524 10 8576        Loads mountain lion to den
+M 0 8524 10 8576        Loads mountain lion to den
+M 0 8524 10 8576        Loads mountain lion to den
+M 0 8524 10 8576        Loads mountain lion to den
+M 0 8508 10 8573        Loads ronin
+*
+M 0 8520 1 8575         Loads Daimyo to cave
+E 1 8513 5 9            Loads tekagi to daimyo (Hands)
+G 1 8575 1              Loads key to daimyo 
+D 1 8575 2 2            If key loaded lock door
+*
+M 0 8515 8 8575         Loads Red Ninja to cave
+M 0 8515 8 8575         Loads Red Ninja to cave
+M 0 8515 8 8575         Loads Red Ninja to cave
+M 0 8515 8 8575         Loads Red Ninja to cave
+*
+M 0 8521 1 8580         Loads Dai-Oni to Lair
+E 1 8507 5 16           Loads Dai-Katana to Dai-Oni
+E 1 8503 5 13           Loads black belt to Dai-Oni
+*
+M 0 8510 10 8580        Loads shura
+M 0 8510 10 8580        Loads shura
+M 0 8510 10 8580        Loads shura
+M 0 8510 10 8580        Loads shura
+M 0 8510 10 8580        Loads shura
+M 0 8510 10 8580        Loads shura
+S
+#99999
+$~

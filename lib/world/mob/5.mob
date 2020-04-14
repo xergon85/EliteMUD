@@ -1,0 +1,770 @@
+#500
+bouncy ferret male m500~
+A bouncy male ferret~
+The bouncy male ferret races through the grasses.
+~
+This small bundle of fur loves racing through the high grasses.
+Although small, he is fierce and can easily kill animals several times
+his size.  He is sly and quick, and not an animal you want to harass!  
+~
+1 4 g y 100 S
+5 18 8 1d5+85
+400 500 100 1d6+2 -1
+-1
+-1
+20 666 8 8 1
+A
+%%1 sneeze~
+#501
+general Roman procession leader m501~
+the Roman general~
+The Roman general follows his triumphal procession into Rome.
+~
+Wearing the laurel wreath of the successful Roman general, Fobos
+Maximilius follows his successful army back to Rome.  They bring with
+them treasures from the mighty civilizations and barbaric tribes they
+have conquered.  The general ponders the effect his triumph may have on
+his political career.  Perhaps he should stage a coup.
+~
+1 4 bg z 0 S
+30 6 -4 2d100+350
+400 500 100 3d6+9-1
+-1
+-1
+1000 100000 8 8 1
+#502
+sable ferret m502~
+The sable ferret~
+A slinky soft sable black ferret slips through the grass.
+~
+A double handful of soft black fur is playing silly ferret games in the
+grass by the side of the road.  A bit shy of the foot traffic on the
+road, still he is very curious.  With the Romans frequently bringing
+their armies back along this road, sometimes they drop some interesting
+booty from one of their campaigns.  Last time it was bananas!
+~
+3 0 bgh y 0 S
+7 17 7 1d7+109
+408 500 100 1d6+3 -1
+-1
+-1
+100 1066 8 8 2
+A
+%%3 hop~
+#503
+albino female ferret snow white m503~
+A snow white ferret~
+The pure white ferret is too busy playing ferret games to notice you.
+~
+Often just a streak of white, racing up a tree or across the road in
+front of you (startling the horses), this ferret spends her days
+frolicking in the grass.  She is so beautiful, so soft and sleek, that
+she is frequently fed by passersby.  She is an animal worthy of being a
+pet to an emperor.
+~
+1 4 212 0 0 S
+7 17 7 1d7+109
+408 500 100 1d6+3 -1
+-1
+-1
+100 1066 8 8 2
+#504
+centurion Roman soldier leader m504~
+The Roman centurion~
+The Roman centurion commands his 100 soldiers with a will of iron.
+~
+Wearing a bronze helmet topped with bright red feathers, the Roman
+centurion struts at the head of his 100 man command.  The Roman army
+was, as always, successful, and the centurion is mentally spending the
+bonus he will receive.  He is a tall man, well favored, with a long
+straight nose.  His skin is well-tanned and firm, though it bears many
+scars.
+~
+1 4 bg z 0 S
+25 9 -4 1d150+250
+400 500 100 3d4+7-1
+-1
+-1
+400 60000 8 8 1
+#505
+standard bearer roman soldier standard-bearer m505~
+The Roman standard-bearer~
+Marching at the head of his group, the standard-bearer moves with
+pride.
+~
+A deep tan born of countless summers spent conquering new territory
+contrasts sharply with the ice blue eyes and blond hair bleached almost
+white by the sun.  The son of a slave turned freedman, this citizen's
+Nordic heritage is very clear both in his coloring as well as his
+fierceness in battle.
+~
+1 4 bg z 0 S
+22 11 -3 1d100+220
+400 500 100 3d4+5-1
+-1
+-1
+400 33000 8 8 1
+#506
+warrior Roman returning m506~
+The Roman warrior~
+The young Roman warrior struts along proudly with his comrades in arms.
+~
+Finished with his first campaign, the young warrior feels he has
+acquitted himself with honor.  He has carefully guarded his salarium,
+his ration of salt, and he will bring that back to his family.
+~
+1 4 bgm z 0 S
+22 11 -3 1d100+220
+400 500 100 3d4+5-1
+-1
+-1
+400 33000 8 8 1
+#507
+warrior roman carrier soldier m507~
+The Roman soldier~
+The Roman soldier carries a large gold chest filled with precious gems.
+~
+Roman soldiers have earned enough for the republic in their many
+campaigns of conquest that Roman citizens no longer must pay heavy
+taxes or work as slaves due to their poverty.  This soldier is proud to
+be carrying back part of the bounty of war, although the chest is quite
+heavy.
+~
+1 4 bg z 0 S
+25 7 -5 3d38+262
+400 500 100 3d5+6
+-1
+-1
+-1
+0 29167 8 8 1
+#508
+slave captive gallic Gaul m508~
+The Gallic slave~
+The Gallic captive, now a slave to the Romans, glares haughtily at you.
+~
+He was a great and fierce fighter, but he was captured and now will be
+a great and proud slave.  His body still retains the remnants of blue
+paint, which evidently was not enough to frighten off the Roman armies.
+His amulet of herbs and unmentionables, worn about his neck, were also
+not enough to protect him from capture.
+~
+1 4 bg z 0 S
+25 7 -5 3d38+262
+400 500 90 3d5+6
+32 0 10 1d0+100 -1
+-1
+-1
+0 29167 8 8 0
+#509
+fairy floating m509~
+The floating fairy~
+Lightly floating on a breeze, the fairy flies north to see Titania.
+~
+The delicate fairy, dressed in gossamer thin fabric, is enjoying the
+feel of the light breeze on his skin.  His delicate pale features and
+light boned body make him appear frail, but his magic makes him
+fearsomely strong.
+~
+1 4 bg bhB 0 S
+14 15 3 1d13+181
+400 500 100 1d6+8 -1
+-1
+-1
+200 4266 8 8 1
+#510
+orc black huge captive prisoner m510~
+The Morian Orc~
+The huge Black Orc shuffles along, a captive of war in chains.
+~
+During a trip through the Morian caves, in search of the fabled
+treasures of the ancient elven city of Illir, the Roman army decimated
+the population of Orcs, deeming them too stupid to bother to bring
+back.  They did spare a few, just for the curiosity sake.
+~
+1 4 bg ky -600 S
+30 6 -4 2d100+350
+400 500 100 3d6+9-1
+-1
+-1
+1000 100000 8 8 1
+#511
+minotaur roman warrior m511~
+The mighty warrior~
+The mighty minotaur Roman warrior needs no helmet as his horns suffice.
+~
+Roman citizens come in all shapes and sizes.  The minotaur's grandsire
+was captured during an early raid on Crete.  He did well as a slave,
+earning great quantities of gold as a favored charioteer (of the leek,
+or green team).  He was freed, and his son and grandson thereby were
+able to be citizens.
+~
+1 4 bg ky 600 S
+30 6 -4 2d100+350
+400 500 100 3d6+9-1
+-1
+-1
+1000 100000 8 8 1
+#512
+elf woodelf wood m512~
+The wood elf~
+The little wood elf is heading off for a lark in Tynstri to the east.
+~
+The merry little elf has skin the color of oak bark on a warm summer
+afternoon.  He is off to visit some distant cousins, who live in the
+woods northeast of Tynstri.  With his dark green tunic he easily blends
+into the woods surrounding the road.  He slips into the woods, hiding
+when the path becomes busy.
+~
+17 4 cg z 0 S 
+25 7 -5 1d100+300
+400 500 100 3d6+4 -1
+-1
+-1
+0 60000 8 8 1
+#513
+rabbit longears mr jackrabbit m513~
+Mr. Longears~
+Mr. Longears is off to visit his jackrabbit friends in the forest.
+~
+Mr. Longears is a very large rabbit, with long, strong hind legs and
+feet and ears that stretch high above his head.  As he hops along, his
+legs pound the earth with a heavy thud, and he practically flies
+through the grass.
+~
+1 4 gh y 250 S
+10 16 5 1d10+145
+400 500 100 1d6+5 -1
+-1
+-1
+150 2133 8 8 1
+A
+%%5 hop;%5 em wiggles his rabbit nose, sniffing the air~
+#514
+burnt umber ghost dragon m514~
+The burnt umber ghost~
+The huge burnt umber ghost was once a graceful dragon.
+~
+Why should ghosts always be a foggy white?  That's what this (former)
+dragon thought.  She loved beautiful jewels while still alive, and this
+is about the best she can do now that she is a dragon ghost.  Robbed of
+her strength by death, she can still be a formidable opponent.
+~
+1 4 g bdyB 0  S
+13 15 3 1d13+181
+400 500 100 1d6+6 -1
+-1
+-1
+200 4266 8 8 2
+#515
+barbarian evil slave m515~
+The evil barbarian~
+The evil barbarian is led in chains past you, a prize of war.
+~
+A tall human ... perhaps all of 6.5' (about 2m.) ... with heavy bone
+structure and well defined musculature, the captive will undoubtedly
+sell for a high price at the slave market.  His unshaven chin juts out
+with pride, and his shoulders remain square, his back straight.  He is
+aware of his worth and uncowed by his status.
+~
+1 1 bg 0 0 S
+25 7 -5 4d38+262
+400 500 100 3d5+6
+-1
+-1
+-1
+0 29167 8 8 0
+#516
+warrior elephant roman m516~
+The warrior elephant~
+Huge elephants brought back from a foreign campaign pound along.
+~
+The pachyderm packs a whallop with his trunk, although he has not been
+used for fighting.  Originally brought over from Africa by Hannibal,
+who wanted to "surprise" the Romans one winter, these Romans are
+delighted to bring them back as a prize to Rome.  They can carry
+literally tons of treasure brought back from the wars.
+~
+1 4 beg kz 0 S
+30 6 -4 2d100+350
+400 500 100 3d6+9
+-1
+-1
+-1
+1000 100000 8 8 1
+#517
+hedgehog little m517~
+The little hedgehog~
+The little hedgehog has rolled up into a spiny ball.
+~
+The little hedgehog wishes to be left alone to sleep (if the sun is
+shining) or roam around and rid the earth of worms, beetles and slugs,
+surely a noble occupation!  This one is aware of your interest, and has
+rolled himself into a little ball of sharp spines that say, "Don't
+touch!"
+~
+1 4 c y 0 S
+10 16 5 1d10+145
+400 500 100 1d6+5
+-1
+-1
+-1
+0 2133 8 8 1
+#518
+sleepy bat hanging m518~
+The sleepy bat~
+The sleepy bat is hanging from the tree branch, hoping he's invisible.
+~
+This bat tends to think of the Romans as a race of vampires.  He and
+his brethren, a small band of fruit bats, are killed by the romans and
+the bodies drained of blood.  The blood is sold to the Roman shops
+which help keep the citizens beautiful.
+~
+1 4 bg y 0 S
+7 17 7 1d7+109
+400 500 100 1d6+3 -1
+-1
+-1
+100 1066 4 4 1
+#519
+gnome gnomish scientist psci psi pscientist m519~
+The gnomish psci~
+The #ggnomish#Y pscientist checks you carefully for signs of dragoness.
+~
+He has heard rumors that sometimes dragons masquerade as other life
+forms, and he is hot on the trail of some field research on the
+subject.
+Obviously, he has ignored the effect the dragons' hot breath might have
+on his slightly hairy pointed ears.
+~
+1 1 g y 0 S
+13 15 3 1d13+181
+400 500 100 1d6+6 -1
+-1
+-1
+200 4266 8 8 1
+A
+%%5 pose~
+#520
+ratman roman warrior soldier ratsoldier m520~
+The Roman Ratsoldier~
+The Ratman Ratsoldier looks fierce despite his long twitching tail.
+~
+As long as you are a land owning citizen, you may sign up for a 20 year
+stretch in the Roman army.  Although it is a hard life (especially for
+a rat), the promise of glory and a regular salary are hard to resist.
+~
+17 4 bg z 0 S 
+25 7 -5 1d100+300
+400 500 100 3d6+4
+-1
+-1
+-1
+200 60000 8 8 1
+A
+%%5 pose~
+#521
+elf ranger m521~
+The elf ranger~
+The elf ranger watches you warily.
+~
+The elf is new to his ranger job, and he takes it quite seriously.  He
+is worried about the tramping of the Roman soldiers through this woods,
+although as yet they have not discovered the path to the deep forest.
+He fears he will soon have to do battle with them.
+~
+1 4 g y 500 S
+12 12 3 1d10+120
+400 500 100 2d5+1
+-1
+-1
+-1
+150 10500 8 8 2
+#522
+elf scout m522~
+The elf scout~
+The elf scout looks for signs of danger approaching Tynstri.
+~
+This small woodland elf is training hard, hoping one day to become a
+mighty ranger.  Her hair is a deep green and quite short.  She is tiny,
+but wiry, and her dusky brown skin helps her blend in.  She is ever
+watchful for danger, although she is unsure what form it will take.
+Could those enormous footprints, for example, be from some large
+elf-predator?
+~
+1 0 g k 300 S
+12 12 3 1d10+120
+400 500 100 2d5+1
+-1
+-1
+-1
+150 10500 8 8 2
+A
+%%5 peer;%5 scout~
+#523
+Peter Rabbit m523~
+Peter Rabbit~
+Peter looks about curiously, wondering where the elves grow cabbages.
+~
+A bit away from his original home, nevertheless Peter Rabbit still
+loves carrots and cabbages, and the elves have a hard time keeping him
+away
+from their greens.  He is often to be seen hopping through the woods in
+his blue waistcoat.
+~
+5 0 g m 350 S
+12 12 3 1d10+120
+400 500 100 2d5+1 -1
+-1
+-1
+150 10500 8 8 1
+A
+%%5 hop~
+#524
+Benjamin Bunny m524~
+Benjamin Bunny~
+Benjamin is a handsome little rabbit with white fur and pink ears.
+~
+Benjamin often accompanies Peter on adventures in the forest.  Today
+they are finding many little tricks to play on the elves.  Together
+they can pound their hind feet into deep depressions in the earth, so
+watchful elves believe there are LARGE MONSTERS in their forest!
+~
+5 0 g m 350 S
+10 16 5 1d10+145
+400 500 100 1d6+5
+-1
+-1
+-1
+150 8000 8 8 1
+A
+%%5 hop~
+#525
+cat striped skunk m525~
+The little skunk~
+The black cat has a strange white stripe down his back.
+~
+Pepe LePew would love this little stinker.  The skunk is busy digging
+through forest debris looking for good things to eat.  She is solid
+black with a bright white stripe starting at her head and extending
+through her tail.  She may be small, but she has a secret weapon that
+forces even very large predators to back away.
+~
+5 0 g m 350 S
+12 12 3 1d10+120
+400 500 100 2d5+1
+-1
+-1
+-1
+150 10500 8 8 2
+A
+%%1 sniff~
+#526
+Pepe LePew skunk m526~
+Pepe LePew~
+This skunk ain't no stinker.  He's a lover!
+~
+Pepe is so busy looking for the skunk of his dreams that he may not
+notice you.  Be sure not to frighten him, because the results would be
+... alarming!
+~
+5 0 g m 350 S
+12 12 3 1d10+120
+400 500 100 2d5+1 -1
+-1
+-1
+150 10500 8 8 1
+#527
+Mrs T Tiggywinkle Hedgehog m527~
+Mrs Tiggywinkle~
+Mrs Tiggywinkle is full of grandmotherly advice for you.
+~
+Mrs T has tiny pink feet and a soft black nose.  Her back is covered
+with long sharp spikes, and she is apt to roll up into a ball of spikes
+when she is frightened.  Her belly is covered with soft white fur.
+Mrs. T is very small, but very well armored.
+~
+5 0 g m 350 S
+12 12 3 1d10+120
+400 500 100 2d5+1 -1
+-1
+-1
+150 10500 8 8 2
+#528
+duck jemima puddle puddle-duck m528~
+Jemima Puddle-Duck~
+Jemima Puddle-Duck waddles happily through forest streams and ponds.
+~
+That's what ducks do best, after all!  Swimming in the little lakes and
+ponds is something Jemima learned to do very early in life, and she is
+quite good at it.
+~
+5 0 g m 350 S
+12 12 3 1d10+120
+400 500 100 2d5+1 -1
+-1
+-1
+150 10500 8 8 2
+A
+%%5 kvack~
+#529
+fairy apprentice mage m529~
+The fairy apprentice~
+A young fairy holds tightly to a short stick that seems to glow.
+~
+The fairy is out exploring the woods for the first time, experimenting
+with a wand he discovered in a workshop.  A very tiny mage with
+gossamer wings that beat rapidly, his magic makes him more powerful than
+a human
+many times his size.
+~
+1 0 2306 40 800  S
+25 0 -5 6d6+500
+400 500 10 4d7+3
+32 0 90 1d0+90
+-1
+-1
+-1
+425 145000 8 8 1
+#530
+gnome old cloth merchant m530~
+The cloth merchant~
+The old gnome leads a donkey laden with bolts of wool.
+~
+Bringing heavy bolts of wool woven from Stanneg sheep, the cloth
+merchant hopes to trade for some fairy cloth, should he be lucky enough
+to discover the fairy home.
+~
+1 0 cg k 0 S
+25 0 -5 6d6+500
+400 500 100 4d7+3 -1
+-1
+-1
+425 145000 8 8 1
+#531
+tinker m531~
+The tinker~
+The tinker easily carries his huge pack on his massive back.
+~
+"Wandering from village to village, that's the life for me!"  A man of
+enormous strength and cleverness, the tinker carries the tools of his
+trade on his back.  Quick to fix, that's the tinker.
+~
+1 0 g kr 200  S
+25 0 -5 6d6+500
+400 500 100 4d7+3 -1
+-1
+-1
+425 145000 8 8 1
+#532
+druid captive m532~
+The druid captive~
+In his earth colored robes, the druid walks in harmony with the forest.
+~
+Captured in Gaul, the Romans noted the druid's remarkable healing
+abilities.  He will undoubtedly become the physician for some patrician
+unable to afford a Greek slave.  He is tall, lean and pale, with long
+brown hair tied neatly at his neck with a leather thong.
+~
+1 1 cg 0 0 S
+28 7 -5 4d38+362
+400 500 60 3d5+6
+8 0 10 1d0+40
+15 0 15 2d0+40
+48 0 15 1d0+40 -1
+-1
+-1
+100 29167 8 8 1
+#533
+mouse m533~
+The frightened mouse~
+The frightened mouse scurries off to hide from you.
+~
+Long black whiskers twitching as he glares at you from his beady little
+mouse eyes, the mouse is panicking, attempting to flee ... from YOU!
+~
+1 0 gh k 0 A 1 1
+A
+%%5 em twitches nervously.;%2 twitch;%2em 's whiskers tremble violently.~
+#534
+fox sly red m534~
+The sly red fox~
+The sly red fox curls up in the shade, tail tucked neatly around him.
+~
+The fox may be the picture of innocence and foxy beauty where he lies
+beneath the tree, but he is a very clever fellow.  Hiding his razor
+sharp teeth in an appearance of sleep is just one of his many tricks.
+~
+1 4 g rs 0 S
+25 9 -4 1d150+250
+400 500 100 3d4+7 -1
+-1
+-1
+200 60000 8 8 1
+A
+%%2 snore~
+#535
+gnome picnic boy m535~
+The boy gnome~
+The boy gnome carries the heavy basket, looking for a good picnic spot.
+~
+The boy gnome wonders what his Midgaardian girl friend could possibly
+have packed in the basket, it is so heavy.  It feels like rocks!  The
+little gnome hopes they will find a nice place for a picnic very soon!
+~
+1 4 bgl 0 400 S 
+23 8 -4 1d100+200 
+400 500 100 3d5+5 -1
+-1
+-1
+400 40000 8 8 1
+A
+%%5 smile girl~ 
+#536
+girl picnic m536~
+The wary picnicker~
+The Midgaard girl warily fingers her dagger as she looks about her.
+~
+She has never seen so many trees in her life.  They have a presence of
+their own - a "beingness", and she is unsure whether it is benign or
+evil.  She leans a bit closer to her gnome and wonders if she should
+help with the heavy basket.  She has packed some rocks to hold down the
+blanket.
+~
+1 4 bgl 0 400 S 
+23 8 -4 1d100+200 
+400 500 100 3d5+5 -1
+-1
+-1
+400 40000 8 8 2
+A
+%%5 flirt boy~
+#537
+changeling baby m537~
+The demon changeling~
+Apparently someone has abandoned a sweet little baby.
+~
+But Beware!  This softly crying babe is a changeling.  He will become a
+small demon with a raging temper when disturbed.
+~
+8 4 bc 0 -500 S 
+40 2 -8 2d100+550
+400 500 100 3d10+10 -1
+-1
+-1
+1000 200000 8 8 1
+A
+%%3 cry~
+#538
+girl red riding hood ridinghood m538~
+The little girl~
+The little girl in a bright red hooded cape carries a heavy basket.
+~
+Two long dark pigtails trail out from under the cherry red hood that
+keeps the child's head warm.  Bright blue eyes and an eager smile give
+her a very elfin charm, although she is undoubtedly human.
+~
+1 0 cegl kD 800  S
+25 0 -5 6d6+500
+400 500 100 4d7+3 -1
+-1
+-1
+425 145000 8 8 2
+A
+%%1 say do you know the way to Grandmother's house?;%1 say Have you seen
+my pet wolf?~
+#539
+owl m539~
+The horny owl~
+The horny owl eyes the mice hungrily.
+~
+You are glad it's the mice and not you that those big golden eyes are
+staring at!  The sharp beak and long talons look like they could do a
+lot of damage.
+~
+6 0 g k 0 A 4 1
+A
+%%1 yell C'mere little mousey!  I have a nice surprise for you!~
+#540
+sparrow m540~
+The sparrow~
+The gray-brown sparrow is looking for yummy worms and seeds.
+~
+The tiny bird hops along in the short grass looking for good things to
+eat.  It has a small, sharp beak and short, delicate claws, and doesn't
+look like it could hurt anything bigger than a worm.
+~
+6 0 g k 0 A 2 1
+A
+%%5 em chirps cheerfully.;%2 emote pecks away at the dirt, trying to
+unearth a worm.~
+#541
+worm red m541~
+The glistening red worm~
+The long, glistening red worm looks like bird food.
+~
+He took a wrong turn in one of the many tunnels underground and now,
+alas, he is destined to be breakfast for some sparrow or bait for some
+fish.  He is your garden variety long red worm, not too bright.
+~
+0 0 g k 0 A 1 1
+A
+%%1 emote heads down into the dirt and knocks himself out on a rock.~
+#542
+slug m542~
+The slug~
+The slug slimes his way along the underside of a leaf.
+~
+Carrying a little house around with him is a lot of work.  The slug
+munches the tender leaves of young plants and wonders how long til he
+has to build something a little larger.
+~
+0 0 g k -500 A 1 1
+A
+%%1 emote slimes along happily.~
+#543
+sly pinworm m543~
+The sly pinworm~
+#r"DESTRUCTION FROM WITHIN!!" shouts the lowly pinworm.#N
+~
+The sly pinworm is waiting for his chance to work his way into your
+body and cause massive destruction! ... or at least some itching,
+discomfort, and massive barfiness.
+~
+0 0 bg k -1000 A 1 1
+A
+%%2 say C'mon, baby! Let me worm my way into your heart!~
+#544
+halfling roman soldier m544~
+The halfling~
+The halfling looks small, but his heart is as brave as any Roman's.
+~
+This halfling is small and far from the land of his grandparent's birth,
+but he is a Roman citizen-soldier and very proud of it.  His parents,
+captured in a raid, were able to buy their freedom from their small
+tobacco shop.
+~
+1 0 bg k 800  S
+1 18 80 10d2+45
+400 500 100 3d1+4 -1
+-1
+-1
+55 270 8 8 1
+#545
+gnome roman soldier m544~
+The gnome~
+The gnomish soldier is in charge of building roads across ravines.
+~
+This gnome was something of a washout in terms of carrying around 3 days
+worth of equipment on his back, but he is a positive genius when it
+comes to building bridges and designing campsites.  He is small and
+getting a trifle old for the life of a soldier.
+~
+1 0 bg k 800  S
+2 16 60 10d2+55
+400 500 100 5d1+5 -1
+-1
+-1
+65 333 8 8 1
+#99999
+$~
+

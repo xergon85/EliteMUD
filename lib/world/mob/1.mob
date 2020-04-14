@@ -1,0 +1,63 @@
+#100
+guard guardian~
+The Eternal Guardian~
+A Giant stone-like guardian in standing here.
+~
+This unmoving creature looks like a statue.  It is covered with dust.  Maybe it
+is a statue?  Only one way to find out.
+~
+0 4 2114 16777384 0  S
+90 -12 -15 2d20+1300
+400 500 100 2d10+42 -1
+-1
+-1
+0 900000 8 8 0
+#101
+guard guardian~
+The Rainbow Guardian~
+A giant Guardian in the colors of the rainbow is here.
+~
+It's mean, it's from blue to green, it's a fighting machine.
+~
+0 4 2114 16777384 0  S
+92 -13 -16 2d20+1350
+400 500 100 2d10+44 -1
+-1
+-1
+0 930000 8 8 0
+#102
+guard guardian~
+The Guardian of Karma~
+The giant statue of the Guardian of Karma is standing here.
+~
+It's big and covered with moss and other small plants.  Seems to be very
+ancient.
+~
+0 4 2114 16777384 0  S
+94 -14 -15 3d20+1400
+400 500 100 3d8+46 -1
+-1
+-1
+0 960000 8 8 0
+#199
+joker gandalf~
+Gandalf Grey~
+Gandalf is standing here, peering around and looking bewildered.
+~
+Yes!  It's Gandalf, that crazy IMM.  It seems that he is looking for 
+Rasure, the love of his life.
+~
+1 1 2049 168 1000  S
+99 0 -100 1d8+30000
+400 500 80 1d46+46
+27 0 10 1d0+95
+26 0 10 1d0+95 -1
+300 95 318 95 -1
+-1
+5000 520000 8 8 1
+A
+%5 yell Rasure! Where are you?;%5 yell Cmon Where are you honey Rasure?;
+%5 yell Anyone seen my honey Rasure?;%10 cry;
+%5 yell Rasure.. Honey?? I know you love me!;%10 bkiss~
+#99999
+$~

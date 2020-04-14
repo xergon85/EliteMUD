@@ -1,0 +1,33 @@
+#77
+Sekky's Pk zone 1~
+7753 15 1
+*
+R 0 7753 6 Randomising Entry Room - Amok
+*
+* Writen for Elitemud by Sekhmet
+*
+* Mobiles & Objects
+M 0 7700 1 7701			the killer rabbit
+M 0 7701 5 7711			#1 the knight of Ni #1
+M 0 7701 5 7711                 #1 the knight of Ni #2
+M 0 7701 5 7711                 #1 the knight of Ni #3
+M 0 7701 5 7711                 #1 the knight of Ni #4
+M 0 7701 5 7711                 #1 the knight of Ni #5
+M 0 7702 5 7711                 #2 the knight of Ni #1
+M 0 7702 5 7711                 #2 the knight of Ni #2
+M 0 7702 5 7711                 #2 the knight of Ni #3
+M 0 7702 5 7711                 #2 the knight of Ni #4
+M 0 7702 5 7711                 #2 the knight of Ni #5
+M 0 7703 1 7718			Brother Maynard
+* Doors
+D 0 7711 5 1			Trapdoor to tunnel(above)
+D 0 7724 5 1			Stone to tunnel(above)
+D 0 7741 4 1			Trapdoor to tunnel(down)
+D 0 7750 4 1			Stone to tunnel(down)
+*
+*Portals
+L 0 2101 7703 7753      PKZone entry PORTAL to 7753
+A 1 7703 1 -1            attach NO_KEY and close portal
+S
+#99999
+$~

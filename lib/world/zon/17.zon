@@ -1,0 +1,188 @@
+#17
+The Gnome City~
+1799 60 2 
+M 0 1732 1 1767          Mu guild master
+M 0 1733 1 1762          Cl guild Master
+M 0 1734 1 1769          Th guild Master
+M 0 1735 1 1771          Wa guild master
+*
+M 0 1702  3 1703
+E 1 1703 20 16
+G 1 6429 10           Cookie
+*
+M 0 1702  3 1705
+E 1 1703 20 16
+G 1 6429 10           Cookie
+*
+M 0 1702  3 1706
+E 1 1703 20 16
+G 1 6430 10           Cookie
+*
+M 0 1700  3 1709
+G 1 1702 20
+G 1 6431 10           Cookie 
+M 0 1701  3 1709
+G 1 6432 10           Cookie
+*
+M 0 1700  3 1710
+G 1 1702 20
+G 1 6434 10           Cookie 
+M 0 1701  3 1710
+G 1 6433 10           Cookie
+*
+M 0 1700  3 1711
+G 1 6435 10           Cookie
+G 1 1702 20 
+M 0 1701  3 1711
+G 1 6436 10           Cookie
+*
+M 0 1703 1 1716       Armourer
+G 1 1705 100 
+G 1 1715 100
+G 1 1725 100
+G 1 1726 100
+*
+O 0 1734 100 1703
+* 
+M 0 1727 1 1715       Weaponsmith
+G 1 1702 100
+G 1 1704 100
+G 1 1724 100
+*
+M 0 1728 1 1714       Storekeeper
+G 1 1727 100
+G 1 1728 100
+G 1 6434 100           Cookie
+G 1 6435 100           Cookie
+G 1 6436 100           Cookie
+G 1 6437 100           Cookie
+G 1 6438 100           Cookie
+G 1 6439 100           Cookie
+*
+M 0 1729 1 1791       Scientist
+G 1 1729 100
+G 1 1730 100
+* 
+M 0 1710 1 1792       postmaster
+* 
+M 0 1730 1 1709       Gnome Tavernkeeper
+G 1 1731 100
+G 1 1732 100
+G 1 1733 100
+*
+M 1 1731 1 1710         Baker
+G 1 1720 100
+G 1 1721 100
+G 1 1722 100
+G 1 6429 100           Cookie
+G 1 6430 100           Cookie
+G 1 6431 100           Cookie
+G 1 6432 100           Cookie
+G 1 6433 100           Cookie
+*
+M 0 1704 3 1736
+G 1 1700 3 
+G 1 1706 10
+E 1 1707 10 3
+*
+M 0 1708  2 1722
+M 0 1708  2 1722
+*
+M 0 1707 1 1724
+*
+M 0 1704  6 1727
+E 1 1704 20 16
+*
+M 0 1704  6 1730
+E 1 1704 20 16
+M 0 1704  6 1730
+E 1 1704 20 16
+*
+M 0 1704  6 1734
+E 1 1704 12 16
+*
+D 0 1736 1 2
+*
+M 0 1709  3 1741
+E 1 1705 10 11
+*
+M 0 1710  3 1742
+E 1 1703 12 16
+*
+M 0 1711 3 1743
+*
+R 0 1748 4              ; maze these hallways
+R 0 1749 4
+R 0 1750 4
+R 0 1751 4
+R 0 1752 4
+R 0 1753 4
+R 0 1754 4
+R 0 1755 4
+*
+M 0 1712 1 1745
+G 1 1701 4
+D 0 1745 3 2
+D 0 1746 1 2
+* 
+M 0 1713 10 1748
+M 0 1714 10 1748
+*
+M 0 1713 10 1750
+M 0 1714 10 1750
+*
+M 0 1713 10 1751
+M 0 1714 10 1751
+*
+M 0 1713 10 1753
+M 0 1714 10 1753
+*
+M 0 1713 10 1755
+M 0 1714 10 1755
+*
+M 0 1715 1 1757
+G 1 1705 10
+G 1 1712 10
+*
+O 0 1717 50 1757
+O 0 1718 40 1757
+*
+M 0 1705 1 1758
+E 1 1708 5 1
+E 1 1709 5 3
+E 1 1710 5 16
+*
+M 0 1736 3 1788   load the yaks and let them wander
+M 0 1736 3 1789
+M 0 1736 3 1789
+M 0 1737 1 1797   ancient yakherder
+E 1 1735 100  6   hat
+G 1 6421 100      yak horn polish
+M 0 1738 1 1797   yakkity yak
+M 0 1739 2 1790   circling dragon
+M 0 1739 2 1785
+M 0 1740 1 1786   apprentice yakherder
+G 1 6421 100      yak horn polish
+M 0 1741 1 1795   Yolanda
+M 0 1742 1 1794   Yvan
+M 0 1743 1 1795   Big Mama
+M 0 1744 1 1793   Yseult
+M 0 1745 1 1779   Veerle gnome
+E 1 1736 100  5   bikini
+M 0 1746 2 1773   swimmer
+M 0 1746 2 1774   swimmer
+M 0 1747 1 1722   mouse
+M 0 1748 1 1779   beach gnome
+G 1 6439 10           Cookie
+G 1 6438 10           Cookie
+M 0 1749 3 1780   climber gnome
+G 1 1737 100      levitating potion
+M 0 1749 3 1782   climber gnome
+G 1 1737 100      levitating potion
+M 0 1749 3 1783   climber gnome
+G 1 1737 100      levitating potion
+M 0 1750 3 1720   frog
+M 0 1750 3 1774   frog
+S
+#99999
+$~

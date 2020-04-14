@@ -1,0 +1,513 @@
+#12500
+halfling soldier~
+The halfling soldier~
+The halfling soldier is wandering round off duty.
+~
+The halfling soldier look battle scarred and, despite being off duty, he 
+still carries his sword.  He looks like he knows how to use it too.
+~
+1 4 gl y 250 A 35 1
+A
+%%10 emote sizes you up and decides you are not a threat.; 
+%10 emote absently rubs the scar over his eye.;
+%10 emote glances at you and takes a firm grip on his sword.~
+#12501
+halfling guard palace~
+The palace guard~
+The palace guard stands to attention.
+~
+The guard stands ready to defend the kingdom of Delray.  His heavily 
+polished armor shines, and there are decorative tassels and braids on 
+his halberd, but despite the formality of this dress-uniform his weapon
+is razor sharp, and his eyes move from place to place, seeking out the 
+next threat.
+~
+1 4 bem y 350 A 40 1
+A
+%%10 emote snaps to attention.;
+%10 emote salutes.;
+%10 emote stamps on an unfortunate crab.~
+#12502
+halfling palace servant~
+The halfling servant~
+The palace servant is tidying up.
+~
+Like all good servants, he has mastered the art of doing his job without
+intruding on other people in the room.  He is dressed in the dark blue 
+livery of the palace of Delray.
+~
+1 4 cgh ry 250 A 30 1
+A
+%%10 emote flicks a small hermit crab off one of the ornaments.;
+%10 emote brushes sand from a figurine.;
+%10 emote picks up some rubbish.~
+#12503
+congar eel~
+The congar eel~
+A congar eel writhes in the corner.
+~
+He's a real slippery character, six feet of pure muscle with razor sharp 
+teeth.  His black eyes regard you suspiciously as you enter the room. He 
+seems in a particularly bad mood - you'd better watch out!
+~
+15 4 bgl kr -150 A 31 1
+#12504
+dogfish~
+The dogfish~
+The dogfish glides dangerously round the room.
+~
+This fellow looks like a natural killer, sleek like a shark, fast and 
+agile with rows of teeth. 
+~
+15 4 bgl kr -250 A 32 1
+#12505
+lobster~
+The lobster~
+You almost don't see the lobster nestling behind a statue.
+~
+The lobster looks like a tough customer, powerful claws to crush his 
+enemies and shiny black armor plating to protect him.  He's just going 
+about his business and doesn't want any trouble.
+~
+15 4 bgl kz 0 A 31 1
+#12506
+Malaig halfling magician~
+Malaig the Magician~
+Malaig, the kings first advisor, is working on a new spell.
+~
+This is the most powerful mage in the kingdom, you can almost feel his 
+power.  Energy crackles  between his fingers as he works on his latest 
+spell.  His eyes stare intensely at a miniature dragon held in his hands,
+as he works you think you see the dragon twitch. Suddenly a flame about 
+the size of your finger flares from the its mouth and the tiny dragon 
+leaps from the magicians  hand.  Malaig snaps his  fingers, the dragon 
+disappearing in a puff of smoke, and proceeds to scrawl notes in a large 
+book on his desk.  He looks up, noticing you for the first time - you 
+feel like you shouldn't be here.
+~
+1 4 beg dhrD 300 S
+50 -6 -18 5d10+900
+400 500 70 1d30+30
+30 0 20 1d0+50
+67 0 10 2d0+50 -1
+-1
+-1
+2500 300000 8 8 1
+A
+%%10 emote mutters and scribbles some notes in a book.;
+%10 emote snaps his fingers.~
+#12507
+halfling prince heir baby~
+The baby prince~
+The heir to the throne is gurgling and sucking his thumb.
+~
+The young prince is doing what all babies do - trying to eat his hand.  
+Of course, since he is a Prince he does this with a certain nobility.  
+Apparently this baby is over four hundred years old, which makes him the 
+oldest baby you've ever seen.
+~
+1 4 bg ry 350 A 15 1
+A
+%%10 emote gurgles.;
+%10 emote giggles.;
+%10 emote sucks his thumb.~
+#12508
+halfling king delray~
+The King of Delray~
+The King of Delray sits impassively on his throne.
+~
+The King is clearly a warrior, not a courtier.  His arms bulge with 
+muscle and the sword he carries looks more functional than decorative. 
+His eyes are tired, worn down by the pressure of ruling for four hundred 
+years.
+~
+1 4 bgl hry 500 A 45 1
+#12509
+halfling queen delray~
+The Queen of Delray~
+The Queen of Delray glides smoothly around the room.
+~
+The Queen is a dainty and dignified halfling.  She looks at you calmly 
+as if she meets scruffy adventurers every day. 
+~
+1 4 bgl hry 600 A 38 2
+#12510
+gaoler licky kicky creature~
+Licky-Kicky~
+The gaoler runs over to you and licks your hand.
+~
+This is one of Malaigs conjurations, a gaoler.  He appears to be 
+constructed of pieces of scrap all cobbled together in the shape of a 
+dog.  He bounds around the room, licking your hand in a friendly manner. 
+But don't be fooled, the hind quarters are sharpened steel and made for 
+killing. Licky-Kicky has only two functions - lick and kick.  At the 
+moment he's feeling licky - you'd better hope it stays that way.
+~
+12 4 bcl hry 0 A 42 1
+A
+%%10 emote licks your hand.;
+%10 emote bounds around the room excitedly.~
+#12511
+wyrm serpent~
+The Wyrm~
+The Wyrm hisses and draws back, ready to strike.
+~
+He's a monster, there's no doubt.  The Wyrm towers above you ready to 
+lunge down and bite you in half.  This is the only survivor from the 
+beasts conjured by Malaig to face the invaders.  You wonder how the 
+others could possibly have been killed, you won't have to wonder forever 
+though - either you'll find out very soon, or you'll be dead!
+~
+18 4 bil hyxBD 0 A 47 1
+#12512
+halfling general mad~
+The mad general~
+The mad general stares at you with wild eyes.
+~
+No wonder he's lost the plot, the rockfall to the south must have 
+blocked the way out centuries ago, leaving him trapped here ever since.  
+Once he was a proud general, a mighty warrior, slicing orcs and kobolds 
+in defense of his kingdom.  Now he's a raving loon, with drool on his 
+chin and a homicidal glint in his eye.
+~
+1 4 bl ry 250 S
+44 -3 -14 6d10+660
+400 500 100 1d22+23 -1
+-1
+40 100 7 100 38 44 -1
+1200 243333 8 8 1
+A
+%%10 emote dribbles.;
+%10 emote drools.;
+%10 emote mutters insanely to himself.;
+%10 emote mumbles.;
+%10 emote stares straight at you.~
+#12513
+orc prisoner~
+The orc prisoner~
+The Orc is slumped sadly in the corner of the room.
+~
+The orc looks tired, which hardly seems surprising - the beds here don't
+look very comfortable.  You suspect that the room service isn't exactly 
+five-star either.  He carries many scars, the results of Malaig's 
+experimentation to make better killers. 
+~
+1 4 gh y -400 A 38 1
+A
+%%10 emote sighs.;
+%10 emote counts the marks on the wall.;
+%10 emote yawns.~
+#12514
+kobold prisoner~
+The kobold prisoner~
+The Kobold paces up and down the cell.
+~
+You'd think he would be bored after four hundred years pacing up and 
+down this cell, but he's a kobold and not very bright.  He doesn't look 
+in very good shape either - clearly the larger prisoners take his share 
+of the food.
+~
+1 4 gh y -300 A 31 1
+A
+%%10 emote paces up and down.;
+%10 emote mumbles.~
+#12515
+shoal fish~
+The shoal of tiny fish~
+There is a shoal if tiny coloured fish flitting about the room.
+~
+Individually they wouldn't be a match for a mighty adventurer like you, 
+but there are literally thousands of them, all with brightly glinting 
+scales, and sharp teeth.
+~
+15 4 g kB 0 A 34 0
+A
+%%10 emote flits towards the north.;
+%10 emote flits towards the east.;
+%10 emote flits towards the south.;
+%10 emote flits towards the west.~
+#12516
+citizen halfling delray~
+A citizen of Delray~
+A citizen of Delray ambles aimlessly through the city.
+~
+He has a happy expression on his face, pleased to be able to walk 
+the streets of his beloved city in safety. He has a chubby face, 
+and a little pot belly - obviously living the good life.
+~
+1 4 gl y 400 A 33 1
+A
+%%5 emote whistles a happy tune.;
+%5 emote sneezes, sending up a small stream of bubbles.~
+#12517
+soldier offduty halfling~
+An off-duty soldier~
+A halfling soldier is wandering around off-duty.
+~
+Taking advantage of his time off, this soldier is enjoying
+the sights of the City of Delray. He does not seem at all
+surprised to see seaweed and fish sharing the streets.
+~
+1 4 gl y 350 A 35 1
+A
+%%5 emote flexes his fingers.;
+%5 emote whistles softly to himself.~
+#12518
+child halfling~
+A halfling child~
+A spritely halfling child hops and skips down the street.
+~
+At over four hundred years old, she has had a longer 
+childhood than most. Still, she still seems to be enjoying 
+herself, skipping about with a jolly expression on her 
+little halfling face.
+~
+1 4 gl y 450 A 30 2
+A
+%%5 emote hops and skips excitedly.;
+%5 emote giggles merrily.;
+%5 emote bounces joyfully around.~
+#12519
+halfling mage apprentice~
+A halfling apprentice mage~
+An apprentice mage practices hard to become a master magician.
+~
+The apprentice mage yearns to one day become as powerful as her 
+master, Malaig. Her attention is elsewhere, and her lips and 
+fingers move as if practicing spells, 
+~
+1 4 gl y 250 S
+32 -3 -14 5d10+400
+400 500 70 1d30+10
+32 0 20 1d0+90
+67 0 10 2d0+90 -1
+-1
+-1
+2500 140000 8 8 2
+#12520
+halfling junkmaster shopkeeper jakat~
+Jakat the Junkmaster~
+The head and shoulders of Jakat poke out above the piles of junk.
+~
+At first glace he appears to be buried, and you prepare to offer
+him assistance. You soon realise however that this is the 
+proprietor, Jakat.
+~
+1 4 bg hy 250 S
+109 -100 -200 1d30+30000
+400 500 100 50d50+100
+-1
+-1
+-1
+2500 1400000 8 8 1
+R
+-1 -1 -1 -1 100
+#12521
+halfling innkeeper~
+The Innkeeper~
+A portly innkeeper leans casually against the bar.
+~
+He has a round belly from drinking too much ale, and the biggest 
+forearms you have ever seen. He has spent the best part of four 
+hundred years lugging barrels of ale about, and serving his 
+regulars.
+~
+1 4 bg hy 360 A 38 1
+#12522
+ghost gorkan halfling~
+Gorkan's ghost~
+A semi-transparent halfling glides across the room.
+~
+When he was alive, Gorkan was a magician almost as powerful as 
+Malaig himself - in fact he was Malaig's brother. Jealous of his 
+brothers power and popularity, he tried to betray the City of 
+Delray until he was banished by his brother to live the rest of 
+his life outside the city walls. After many decades, his magic 
+began to fail and he drowned but even death could not free him 
+from Malaig's justice, and he haunts this place still.
+~
+1 4 bgl yC 400 S
+32 -3 -14 5d10+600
+400 500 870 1d30+23
+37 0 20 1d0+95
+-1
+-1
+-1
+2500 200000 8 8 1
+A
+%%5 emote howls with rage.;
+%5 emote moans with anguish.;
+%5 emote shouts for Malaig to set him free.~
+R
+-1 -1 -1 -1 20
+#12523
+giant octopus~
+the giant octopus~
+The tentacles of a huge octopus lunge at you out of a cloud of ink.
+~
+You can barely make out the shape of the giant octopus's head 
+through the inky murk around you. Eight long tentacles flail about 
+you, trying to draw you in to the vicious beak in the centre.
+~
+1 4 bfgl yC 0 A 37 1
+#12524
+terrapin~
+a terrapin~
+A little terrapin is paddling furiously towards the altar.
+~
+He is only the size of your hand, but he could still give you a nasty 
+nip! Aw, just look at his little legs go.
+~
+1 4 bgl y 100 A 4 1
+#12525
+turtle giant~
+the giant turtle~
+A huge turtle bats at you angrily with his flipper.
+~
+His craggy face glares at you irritably, annoyed at being disturbed. 
+Those flippers could give you a nasty whack, and his jaws look about 
+the right size to snap off your head.
+~
+1 4 bgl yC -100 A 35 1
+#12526
+prawn~
+a little prawn~
+A little prawn flips across the sandy ground.
+~
+Your eyes can barely make out the little prawn as she flips her body 
+along the seabed, between the coral pillars.
+~
+1 4 bgl yC 400 A 6 2
+#12527
+king prawn~
+King Prawn~
+The King Prawn gazes down on you from his perch in the coral towers.
+~
+The King Prawn is the ruler of all prawns, he sits upon his coral 
+throne, master of all he surveys. Some might dismiss him as a wimpy 
+shrimp, but you don't get to be king prawn around these parts without 
+knowing a thing or two about dirty fighting.
+~
+1 4 bgl yC 600 A 34 1
+#12528
+anenome~
+an anenome~
+A bloated red anenome squats protectively over her coral patch.
+~
+Nobody wants an anenome as an enemy.
+~
+1 4 bgl yC 300 A 33 2
+#12529
+seahorse sea horse~
+a seahorse~
+A seahorse rears up in front of you!
+~
+She stares at you with boggling eyes, down her long nose as if to
+say "..and what do you want?". Probably not best pleased to see
+you.
+~
+1 4 gl yC 300 A 33 2
+#12530
+starfish~
+a starfish~
+A red and orange starfish scuttles along in front of you.
+~
+Hmm..as you stare and the starfish you gradually realise that 
+those five arms of his would wrap perfectly around your head - 
+might even squash it.
+~
+1 4 gl yC -100 A 35 1
+#12531
+eel wriggly~
+a wriggly eel~
+A long thin eel wriggles out of your way.
+~
+He's a slippery customer, just going about his business and 
+not looking for any trouble. He probably squeeze you flat if 
+you mess him about.
+~
+1 4 gl yC -300 A 34 1
+#12532
+weed weeds seaweed clinging fronds~
+clinging seaweeds~
+Long fronds of seaweed grab you as you try to pass.
+~
+You could think they were trying to strangle you! The long 
+strands grapple with your arms, and wrap around your head, 
+making it difficult to see.
+~
+1 4 bgl yC 0 A 33 0
+#12533
+barracuda vicious~
+a vicious barracuda~
+A long thin barracuda snaps at you viciously.
+~
+Say "ba" (ba), "ra" (ra), "cu" (cu), "da" (da), put it all together 
+and what have you got? Babararacucudada - what does it say? I dunno, 
+but i think we got a hit record. *faint*
+~
+1 4 fgl yC -400 A 35 1
+#12534
+halfling citizen delray~
+a citizen of Delray~
+A halfling skips merrily along the city streets.
+~
+She just seems happy to be alive, beaming from ear to ear, and gliding
+along with a skip and a spring in her step.
+~
+1 4 gl y 400 A 33 1
+A
+%%5 emote skips gaily along.;
+%5 emote giggles merrily.~
+#12535
+cloud coal dust~
+a cloud of coal dust~
+A mucky cloud of coal dust envelopes you.
+~
+The cloud swirls around, carried by the random currents of the ocean. The
+thick black particles stick to your clothes, and choke you. The coal dust
+seems to have a life of its own!
+~
+15 4 bf dC -500 A 37 0
+A
+%%5 emote swirls towards you on a current of water, choking you!.;
+%5 emote wraps itself around you.~
+#12536
+crab little~
+a little crab~
+A tiny crab scuttles nonchalantly in front of you.
+~
+The little crab happily scuttles about in the silty sand. Just look at her
+little legs go! Hehehe. She seems to be going round in circles - one of the
+problems with walking everywhere sideways.
+~
+15 4 hg rC 200 A 32 2
+#12537
+clownfish clown fish~
+the clownfish~
+A colourful clownfish is here, goofing about.
+~
+The clownfish is a startling yellow colour, with brilliant blue markings.
+He looks fairly timid though, be careful not to scare him off.
+~
+15 4 hg C 300 A 31 1
+#12538
+monkfish~
+monkfish~
+A monkfish swims about here, praying.
+~
+The monkfish is a wide squat fish, with a powerful tail and black-tipped 
+brownish fins.
+~
+15 4 bhg C 200 A 34 1
+#12539
+citizen halfling delray~
+A citizen of Delray~
+A citizen of Delray dances merrily through the city.
+~
+She seems cheerful and full of the joys of life, she almost seems to
+dance through the city, smiling at the other inhabitants around her.
+~
+1 4 gl y 400 A 33 2
+#99999
+$~

@@ -1,0 +1,21 @@
+>entry_prog 30~
+do(mob, "emote keeps an eye out for wanted criminals.");
+~
+>greet_prog 40~
+do(mob, "look " + name(ch));
+if isgood(ch) {
+  do(mob, "say Good day");
+  do(mob, "smile " + name(ch));
+} else {
+  do(mob, "mpechoaround " + name(ch) + " " + full_name(mob) + " wonders if " + name(ch) + " is among the most wanted.");
+  do(mob, "mpechoat " + name(ch) + " " + full_name(mob) + " wonders if you are among the most wanted.");
+}
+~
+>rand_prog 20~
+if number(0,1)
+ do(mob, "emote whistles a little song.");
+else
+ do(mob, "sing");
+~
+|
+

@@ -1,0 +1,1042 @@
+#4200
+The Guard Post~
+   You climb down the ladder into a damp room. The only light comes 
+from the north where a little campfire burns. To the east you hear 
+the faint sound of footsteps. 
+~
+42 d 3
+D0
+~
+~
+0 -1 4201
+D1
+~
+~
+0 -1 4211
+D4
+~
+~
+0 -1 4110
+S
+#4201
+The Mining Tunnel~
+   The entire tunnel gradually slopes downward, and the floor is 
+covered with small rocks from holes in the wall. It looks like 
+someone has been mining for something. 
+~
+42 ad 3
+D0
+~
+~
+0 -1 4202
+D2
+You see the guard post. 
+~
+~
+0 -1 4200
+S
+#4202
+The Mining Tunnel~
+   The entire tunnel gradually slopes downward, and the floor is 
+covered with small rocks from holes in the wall. It looks like 
+someone has been mining for something. 
+~
+42 ad 3
+D0
+~
+~
+0 -1 4203
+D2
+~
+~
+0 -1 4201
+S
+#4203
+The Mining Tunnel~
+   The entire tunnel gradually slopes downward, and the floor is 
+covered with small rocks from holes in the wall. It looks like 
+someone has been mining for something. 
+~
+42 ad 3
+D0
+~
+~
+0 -1 4204
+D2
+~
+~
+0 -1 4202
+S
+#4204
+The Mining Tunnel~
+   The tunnel makes a sharp turn to the east. You can see light 
+flickering ahead. 
+~
+42 ad 3
+D1
+You see some flickering lights ahead. 
+~
+~
+0 -1 4205
+D2
+~
+~
+0 -1 4203
+S
+#4205
+The Mining Tunnel~
+   The tunnel continues and to the east you see a large cave. The 
+flickering light is getting stronger and you can make out a 
+campfire at the end of the cave. 
+~
+42 d 3
+D1
+You see a large cave. 
+~
+~
+0 -1 4206
+D3
+~
+~
+0 -1 4204
+S
+#4206
+The Large Cave~
+   The tunnel comes out in large cave. Further east you see a large 
+black door covered with strange runes. A campfire makes the whole 
+cave light up. To the north you see a couple of beds made of straw. 
+~
+42 d 3
+D0
+You see a couple of mattresses made of straw. 
+~
+~
+0 -1 4207
+D1
+You see a the huge black door. 
+~
+~
+0 -1 4209
+D3
+You see the mining tunnel. 
+~
+~
+0 -1 4205
+S
+#4207
+The Beds~
+   Around you are four beds made of straw. A table and two chairs is 
+the only furniture besides the beds. To the east you see a large pile 
+of stone. 
+~
+42 d 3
+D1
+You see a large pile of stone. 
+~
+~
+0 -1 4208
+D2
+You see the entrance to the cave. 
+~
+~
+0 -1 4206
+S
+#4208
+The North-East Corner~
+   In front of you is a large pile of stone. The stone probably comes 
+from the mining in the tunnel. To the south you see the campfire 
+and the huge black door. The straw beds are to the west. 
+~
+42 d 3
+D2
+You see the huge black door. 
+~
+~
+0 -1 4209
+D3
+You see a couple of beds made of straw. 
+~
+~
+0 -1 4207
+S
+#4209
+In Front of the Black Door~
+   Who or what ever built this door must have been enormous. The 
+door measures ten meters in height and five meters in width, and 
+the whole door is covered with arcane writings. Maybe you should 
+turn back while you can. 
+~
+42 d 3
+D0
+You see a large pile of stone. 
+~
+~
+0 -1 4208
+D1
+The black door towers above you. Two meters up you see a large keyhole. 
+~
+huge black door~
+39 4207 4210
+D3
+You see the entrance to the cave. 
+~
+~
+0 -1 4206
+S
+#4210
+The Staircase~
+   Before you a huge staircase formed of gray stone leads down into 
+darkness. To the west you hear the sound of fire burning. 
+~
+42 ad 4
+D3
+The black door towers above you. Two meters up you see a large keyhole. 
+~
+huge black door~
+39 4207 4209
+D5
+~
+~
+0 -1 4223
+S
+#4211
+The Dark Mining Tunnel~
+   As you enter the dark mining tunnel you notice a draft coming 
+from within. The tunnel continues into the dark. To the West you 
+here a fire burning. 
+~
+42 ad 3
+D1
+~
+~
+0 -1 4212
+D3
+You see the guard post. 
+~
+~
+0 -1 4200
+S
+#4212
+The T-cross~
+   The mining tunnel divides into two tunnels, one north and one 
+south. From the south you hear footsteps and distant muttering. 
+~
+42 ad 3
+D0
+~
+~
+0 -1 4213
+D2
+~
+~
+0 -1 4216
+D3
+~
+~
+0 -1 4211
+S
+#4213
+Turn in the Mining Tunnel~
+   The mining tunnel makes a sharp turn to the east. 
+~
+42 ad 3
+D1
+~
+~
+0 -1 4214
+D2
+~
+~
+0 -1 4212
+S
+#4214
+The Cave-In~
+   The mining tunnel comes to an abrupt end. The tunnel in front of 
+you looks like it has collapsed. 
+~
+42 ad 3
+D3
+~
+~
+0 -1 4213
+D4
+You see a little opening at the top of the stones. 
+~
+~
+0 -1 4215
+S
+#4215
+The Collapsed Tunnel~
+   The whole tunnel seems too have collapsed. Remains of two skeletons 
+can be found on the floor. Maybe you should get out of here before you 
+join them. 
+~
+42 ad 5
+D5
+~
+~
+0 -1 4214
+S
+#4216
+The Mining Tunnel~
+   The tunnel makes a sharp turn to the east. Further east you see 
+light flickering. 
+~
+42 ad 2
+D0
+~
+~
+0 -1 4212
+D1
+~
+~
+0 -1 4217
+S
+#4217
+The Mining Tunnel~
+   As you move forward you smell the scent of roasted meat. The sound 
+of muttering is getting louder. 
+~
+42 ad 3
+D1
+You see a light in the distance. 
+~
+~
+0 -1 4218
+D3
+~
+~
+0 -1 4216
+S
+#4218
+The Huge Cave~
+   The tunnel emerges into a huge cave. To the south you see the cause 
+of the smell, a large cauldron over a campfire. 
+~
+42 d 3
+D1
+~
+~
+0 -1 4219
+D2
+You see a large Cauldron. 
+~
+~
+0 -1 4220
+D3
+~
+~
+0 -1 4217
+S
+#4219
+The Huge Cave~
+  Lots of bones and junk have been thrown away here.
+~
+42 d 3
+D2
+~
+~
+0 -1 4221
+D3
+You see the entrance to the cave. 
+~
+~
+0 -1 4218
+S
+#4220
+The Huge Cave~
+   A large cauldron is placed over a campfire here. 
+~
+42 d 3
+D0
+You see the entrance to the cave. 
+~
+~
+0 -1 4218
+D1
+~
+~
+0 -1 4221
+S
+#4221
+The Huge Cave~
+   In this corner of the cave the Black Orcs practice their fighting 
+skills. 
+~
+42 d 3
+D0
+~
+~
+0 -1 4219
+D3
+You see a large Cauldron and some beds made of straw. 
+~
+~
+0 -1 4220
+S
+#4223
+The Staircase~
+   You are in a very large cave room. You can see a metal sign nailed 
+on the wall. To the north a large corridor continues into the unknown 
+and a huge staircase leads up.
+~
+42 ad 3
+D0
+~
+~
+0 -1 4224
+D4
+~
+~
+0 -1 4210
+E
+metal sign~
+******************************************************
+*The Balrogs Tomb created by Gimli the Dwarven King  *
+*                   ANNO 734                         *
+*             !!!Dare you enter!!!                   *
+*       (Ps. First level created by Avalon)          *
+******************************************************
+~
+S
+#4224
+The Corridor~
+   You are in a large north-south leading corridor. 
+~
+42 ad 2
+D0
+~
+~
+0 -1 4225
+D2
+~
+~
+0 -1 4223
+S
+#4225
+The Cave Entrance~
+   You see a large cave filled with stalagmites and stalactites to 
+the north and east. You can enter a corridor to the south. 
+~
+42 ad 2
+D0
+~
+~
+0 -1 4228
+D1
+~
+~
+0 -1 4226
+D2
+~
+~
+0 -1 4224
+S
+#4226
+The South-East Corner of Stalagmite Cave~
+   You are in a large stalagmite cave. The air is very moist here and 
+water is dripping from the walls. The cave continues to the north and 
+the west. 
+~
+42 ad 2
+D0
+~
+~
+0 -1 4229
+D3
+~
+~
+0 -1 4225
+S
+#4227
+The South-West Corner of the Stalagmite Cave~
+   You are in a large stalagmite cave. The air is very moist here and 
+water is dripping from the walls. The cave continues to north and east. 
+~
+42 ad 2
+D0
+~
+~
+0 -1 4230
+D1
+~
+~
+0 -1 4228
+S
+#4228
+The Stalagmite Cave~
+   You are in a large stalagmite cave. The cave seems much bigger now. 
+The cave continues in all directions. 
+~
+42 ad 2
+D0
+~
+~
+0 -1 4231
+D1
+~
+~
+0 -1 4229
+D2
+~
+~
+0 -1 4225
+D3
+~
+~
+0 -1 4227
+S
+#4229
+The Stalagmite Cave~
+   You are in a large stalagmite cave. You can see big stalagmites 
+hanging above your head. The cave continues to the north, south 
+and west. 
+~
+42 ad 2
+D0
+~
+~
+0 -1 4232
+D2
+~
+~
+0 -1 4226
+D3
+~
+~
+0 -1 4228
+S
+#4230
+Near the Big Boulder~
+   You are in the large stalagmite cave near a big boulder. You can 
+see a carving on the boulder's left side. The cave continues to the 
+north, south and east. 
+~
+42 ad 2
+D0
+~
+~
+0 -1 4234
+D1
+~
+~
+0 -1 4231
+D2
+~
+~
+0 -1 4227
+D5
+~
+boulder stone rock~
+35 -1 4255
+E
+boulder carving~
+You can read the words 'OPEN ME'
+~
+S
+#4231
+The Stalagmite Cave~
+   You are in the middle of a large stalagmite cave. The cave 
+continues in all directions. 
+~
+42 ad 2
+D0
+~
+~
+0 -1 4235
+D1
+~
+~
+0 -1 4232
+D2
+~
+~
+0 -1 4228
+D3
+~
+~
+0 -1 4230
+S
+#4232
+The Stalagmite Cave~
+   You are in the middle of a large stalagmite cave. The floor is 
+covered with water puddles. The cave continues in all directions. 
+~
+42 ad 2
+D0
+~
+~
+0 -1 4236
+D1
+~
+~
+0 -1 4233
+D2
+~
+~
+0 -1 4229
+D3
+~
+~
+0 -1 4231
+S
+#4233
+The Stalagmite Cave~
+   You are in a large stalagmite cave. The floor is covered with water 
+puddles. The cave continues to the north and west. 
+~
+42 ad 2
+D0
+~
+~
+0 -1 4237
+D3
+~
+~
+0 -1 4232
+S
+#4234
+Near the Abyss~
+  You are standing near the edge of a very deep abyss. Hot smoke is 
+drifting out of the abyss. You can continue north into the abyss 
+(not a very wise decision) or continue south and east.
+~
+42 ad 2
+D0
+Into the abyss
+~
+~
+0 -1 4238
+D1
+~
+~
+0 -1 4235
+D2
+~
+~
+0 -1 4230
+S
+#4235
+Near the Abyss~
+  You are standing near the edge of a very deep abyss. Hot smoke is 
+drifting out of the abyss. You can continue north into the abyss 
+(not a very wise decision) or continue south, east and west.
+~
+42 ad 2
+D0
+Into the abyss
+~
+~
+0 -1 4239
+D1
+~
+~
+0 -1 4236
+D2
+~
+~
+0 -1 4231
+D3
+~
+~
+0 -1 4234
+S
+#4236
+Near the Narrow Stone Bridge~
+   You see a narrow stone bridge to the North. The cave continues to 
+the south, east and west. 
+~
+42 ad 2
+D0
+You see a stone bridge
+~
+~
+0 -1 4240
+D1
+~
+~
+0 -1 4237
+D2
+~
+~
+0 -1 4232
+D3
+~
+~
+0 -1 4235
+S
+#4237
+Near the Abyss~
+  You are standing near the edge of a very deep abyss. Hot smoke is 
+drifting out of the abyss. You can continue north into the abyss 
+(not a very wise decision) or continue south and west.
+~
+42 ad 2
+D0
+Into the abyss
+~
+~
+0 -1 4241
+D2
+~
+~
+0 -1 4233
+D3
+~
+~
+0 -1 4236
+S
+#4238
+In the abyss~
+   You are faaaaaaalling down into the dark abyss. 
+~
+42 bcd 0
+D0
+~
+~
+0 -1 4242
+D2
+~
+~
+0 -1 4234
+S
+#4239
+In the Abyss~
+   You are faaaaaaaling down into the dark abyss. 
+~
+42 bcd 0
+D0
+~
+~
+0 -1 4243
+D1
+~
+~
+0 -1 4240
+D2
+~
+~
+0 -1 4235
+S
+#4240
+On the Narrow Stone Bridge~
+   You are standing on a narrow stone bridge. It looks very slippery 
+and wet. You better be careful because it's a long way down. You can 
+continue east and west into the abyss or south and north to the cave. 
+~
+42 ad 2
+D0
+~
+~
+0 -1 4244
+D1
+~
+~
+0 -1 4241
+D2
+~
+~
+0 -1 4236
+D3
+~
+~
+0 -1 4239
+S
+#4241
+In the Abyss~
+   You are faaaaaaaling down into the dark abyss. 
+~
+42 bcd 0
+D0
+~
+~
+0 -1 4245
+D2
+~
+~
+0 -1 4237
+D3
+~
+~
+0 -1 4240
+S
+#4242
+Near the Abyss~
+   You are standing near the edge of a very deep abyss. Hot smoke is 
+drifting out of the abyss. You can continue south into the abyss 
+(not a very wise decision) and east to the cave. 
+~
+42 ad 2
+D1
+~
+~
+0 -1 4243
+D2
+Into the abyss. 
+~
+~
+0 -1 4238
+S
+#4243
+Near the Abyss~
+   You are standing near the edge of a very deep abyss. Hot smoke is 
+drifting out of the abyss. You can continue south into the abyss (not 
+a very wise decision), east, west and north to the cave. 
+~
+42 ad 2
+D0
+~
+~
+0 -1 4246
+D1
+~
+~
+0 -1 4244
+D2
+Into the abyss. 
+~
+~
+0 -1 4239
+D3
+~
+~
+0 -1 4242
+S
+#4244
+Near the Narrow Stone Bridge~
+   You see a narrow stone bridge to the South. The cave continues to 
+the east and west. 
+~
+42 ad 2
+D0
+You see the caves go north.
+~
+~
+0 -1 4621
+D1
+~
+~
+0 -1 4245
+D2
+You see a stone bridge.
+~
+~
+0 -1 4240
+D3
+~
+~
+0 -1 4243
+S
+#4245
+Near the Abyss~
+   You are standing near the edge of a very deep abyss. Hot smoke is 
+drifting out of the abyss. You can continue south into the abyss (not 
+a very wise decision) and west to the cave. 
+~
+42 ad 2
+D2
+Into the abyss. 
+~
+~
+0 -1 4241
+D3
+~
+~
+0 -1 4244
+S
+#4246
+The Corridor~
+   You are in a large south-west leading corridor. 
+~
+42 ad 2
+D2
+~
+~
+0 -1 4243
+D3
+~
+~
+0 -1 4247
+S
+#4247
+The Crypt Entrance~
+  The corridor ends up at a huge stone door to the west. You can see 
+a large inscription on the door. The corridor continues to the east. 
+~
+42 ad 2
+D1
+~
+~
+0 -1 4246
+D3
+You see a huge stone door. 
+~
+huge stone door~
+39 4208 4248
+E
+Inscription~
+You can read the words 'Sealed by the last dwarfs in moria year 781'
+~
+S
+#4248
+The Passage~
+   You are in a very narrow tunnel. The floor is covered with dust. 
+The  tunnel continues into a large crypt to the south and east to 
+a corridor. 
+~
+42 ad 2
+D1
+You see a huge stone door. 
+~
+huge stone door~
+39 4208 4247
+D2
+You see the crypt. 
+~
+~
+0 -1 4249
+S
+#4249
+The Crypt~
+   Lit torches line the walls of the crypt. You can see a big throne 
+at the end of the room. A thick layer of dust covers the floor. It 
+looks like nobody has been here for ages. In the middle of the room 
+you see a large stone chest with arcane writings. 
+~
+42 d 2
+D0
+~
+~
+0 -1 4248
+D5
+~
+chest large stone~
+35 -1 4250
+E
+throne~
+This was the former throne of the Dwarven  king. On the side you can 
+read the history of the king and about his many brave adventures.
+~
+E
+chest~
+The lid on the stone chest seems too be moveable.
+~
+S
+#4250
+The Tomb of the Dwarven king~
+   You climb down into the stone chest. Something about this makes your 
+backbone shiver. This place does not seem to like your intrusion. You 
+can see the remains of a powerful looking dwarf. He wears a shining 
+plate and wields two-handed axe. Maybe you shouldn't disturb him. The 
+only exit seems to be up. 
+~
+42 d 1
+D4
+~
+chest large stone~
+35 -1 4249
+S
+#4251
+In the Cottage~
+  You are in a very small and dirty cottage. The floor is covered with 
+garbage and junk. The only furniture in the room is a small straw bed 
+and a cabinet. The only exit is to the south.
+~
+42 ad 2
+D2
+You can see a small rickety door. 
+~
+door~
+1 -1 4252
+D3
+~
+cabinet~
+35 -1 4256
+E
+cabinet~
+The cabinet is filled with jars and rather disgusting food.
+~
+S
+#4252
+Outside the Cottage~
+   You are on a small island outside a cottage. You can continue North 
+into the cottage or East into the water. 
+~
+42 ad 2
+D0
+You can see a small rickety door. 
+~
+door~
+1 -1 4251
+D1
+~
+~
+0 -1 4253
+S
+#4253
+On the Lake~
+   You are on a small lake in the cave. This part of the lake seems to 
+be very deep. The lake continues to the east and you can see a small 
+island to the west. 
+~
+42 ad 6
+D1
+~
+~
+0 -1 4254
+D3
+~
+~
+0 -1 4252
+S
+#4254
+On the Lake~
+   You are on a small lake in the cave. The water seems to be almost 
+black. The lake continues to the west and you can see a small beach 
+to the north. 
+~
+42 ad 6
+D0
+~
+~
+0 -1 4255
+D3
+~
+~
+0 -1 4253
+S
+#4255
+The Small Beach~
+   You are on a very small beach. The only exits are up on a 
+ladder or south on a small lake. 
+~
+42 ad 2
+D2
+~
+~
+0 -1 4254
+D4
+You can see a large boulder. 
+~
+rock boulder stone~
+35 -1 4230
+S
+#4256
+Behind the Cabinet~
+   You step in behind the cabinet. The only exit is back to the east. 
+~
+42 ad 2
+D1
+~
+cabinet~
+35 -1 4251
+S
+#4257
+An Empty Room~
+   Hey you, get outta here!  This is an empty room!
+~
+42 ad 2
+S
+#99999
+$~
+	

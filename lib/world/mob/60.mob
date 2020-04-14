@@ -1,0 +1,273 @@
+#6000
+john lumberjack~
+John the Lumberjack~
+John the Lumberjack is here, looking for some trees to chop down.
+~
+He is six feet tall and looks quite strong, muscles bulging under his heavy,
+chequered shirt.  His features are worn with hard work and his expression is
+one of a peaceful man leading a simple life.
+~
+1 4 2116 1024 370 S
+10 16 6 1d50+120
+400 500 100 1d4+3  -1
+-1
+-1
+100 4000 8 8 1
+A
+%15 say Damn this weather!;
+%10 say Beware the bandits in dragon mountains.;
+%5 say You heading for the swamp?, take care it is filled with evil creatures.
+~
+#6001
+rabbit~
+the rabbit~
+A small rabbit is foraging in the bushes here.
+~
+It is a small, furry creature with long ears and big feet.
+~
+0 0 64 1024 0 S
+1 19 6 1d20+25
+400 500 100 1d6+5 -1
+-1
+-1
+0 300 8 8 0
+#6002
+bear~
+the brown bear~
+A big, brown, angry-looking bear is here.
+~
+The bear is a big, brown, furry animal with very large claws and very sharp
+teeth.  It doesn't resemble those cute little dolls from toy shops at all.
+~
+5 0 1120 1024 0 S
+15 12 0 1d50+230
+400 500 100 2d6+4 -1
+-1
+-1
+0 10000 4 8 0
+#6003
+rabbit~
+the ferocious rabbit~
+A ferocious rabbit is here, glaring hungrily at you.
+~
+This small, furry creature with long ears and big feet has been attacked by
+the dreaded rabbit rabies, a horrible disease that turns helpless and innocent
+rabbits into ferocious and bloodthirsty monsters.
+~
+0 0 96 1024 0 S
+3 17 6 1d20+30
+400 500 100 1d8+0  -1
+-1
+-1
+0 700 4 8 0
+#6004
+deer~
+the fallow deer~
+A fallow deer is grazing peacefully here.
+~
+She is a graceful creature on long, slender legs, and with large, brown eyes
+looking back at you with an air of watchful interest.
+~
+0 0 82 1024 350 S
+8 16 5 2d50+40
+400 500 100 1d6+3 -1
+-1
+-1
+0 2100 8 8 2
+#6005
+fox~
+the brown fox~
+A brown fox is stalking rabbits through the underbrush here.
+~
+It is a large fox with beautiful, red-brown fur and a long, thick bushy tail.
+~
+0 0 64 1024 0 S
+4 18 6 1d15+40
+400 500 100 1d8+2 -1
+-1
+-1
+0 750 8 8 0
+#6006
+bird large~
+the bird~
+A large bird with a broken wing has been cornered here.
+~
+The bird isn't going to live much longer, by the looks of it.
+~
+0 0 18 1024 0 S
+1 17 8 2d10+20
+400 500 100 1d2+1  -1
+-1
+-1
+0 300 8 8 0
+#6007
+bobcat cat~
+the bobcat~
+A medium sized bobcat is stalking a bird here.
+~
+The bobcat has sharp claws and teeth, and will probably eat you instead of the
+bird if you give it the chance.
+~
+0 0 34 1024 0 S
+5 17 5 1d12+60
+400 500 100 2d4+3  -1
+-1
+-1
+0 1100 8 8 0
+#6008
+sparrow~
+the sparrow~
+A sparrow is flapping around by the ground.
+~
+The sparrow looks like it is enjoying life.
+~
+0 0 64 1024 200 S
+1 18 9 1d10+20
+400 500 100 1d4+0  -1
+-1
+-1
+0 250 8 8 0
+#6009
+robin~
+the robin~
+A robin is hopping around looking for bugs to eat.
+~
+The robin looks quite intent on finding a bug or worm to eat.
+~
+0 0 64 1024 200 S
+1 18 9 1d10+20
+400 500 100 1d4+0  -1
+-1
+-1
+0 250 8 8 0
+#6010
+squirrel~
+the squirrel~
+A squirrel is here seeking refuge in it's nest.
+~
+It peers out of it's next at you anxiously, seeming to plead silently with you
+to leave it alone.
+~
+0 0 2 1024 200 S
+1 19 8 1d10+20
+400 500 100 1d5+0  -1
+-1
+-1
+0 250 8 8 0
+#6011
+badger~
+the sleepy badger~
+A furry brown badger is curled up under a log here.
+~
+The badger is slowly awakening and peering up at you from it's burrow. You know
+that it won't be moving this slow for long.  It's sharp claws and teeth catch
+your attention when you consider killing it.
+~
+0 0 2 1024 50 S
+4 18 5 1d20+50
+400 500 100 2d3+2  -1
+-1
+-1
+0 750 8 8 0
+#6012
+grey squirrel~
+the grey squirrel~
+A grey squirrel with a bushy tail is foraging for nuts here.
+~
+This happy creature seems to pay you no heed as it goes about it's search for
+nuts among the leaves and twigs on the ground here.
+~
+0 0 64 1024 150 S
+2 18 7 1d12+22
+400 300 100 1d6+0  -1
+-1
+-1
+0 350 8 8 0
+#6013
+chipmunk~
+the small chipmunk~
+A small brown-red chipmunk dashes from tree to tree here.
+~
+The absolute zenith of hyperactivity, this small rodent seems to never tire of
+running up, down, and around the trees in this area.  If you could ever catch
+it, you imagine it would make an easy meal.
+~
+0 0 64 1024 170 S
+1 19 5 1d10+20
+400 500 100 1d4+0  -1
+-1
+-1
+0 300 8 8 0
+#6014
+crow black bird~
+the large black crow~
+A large black crow flits about here, picking at bits of carrion.
+~
+The bird eyes you warily, but continues with it's meal.
+~
+0 0 258 1024 0 S
+2 18 7 1d12+22
+400 500 100 1d5+1  -1
+-1
+-1
+3 350 8 8 0
+#6015
+grotesque vulture~
+the grotesque vulture~
+A grotesque vulture covered in blood and gore is here feeding madly.
+~
+It sickens you to even look at this foul bird.  Bits of dried gore stick to
+it's beak, and unidentifiable organs hang from it's talons and feathers.  
+It sees you and attacks, protecting it's horrible feast!
+~
+0 0 38 1024 0 S
+6 17 4 1d12+68
+400 500 100 2d3+2  -1
+-1
+-1
+14 750 8 8 0
+#6016
+buck deer~
+the young buck~
+A young 5-point buck is drinking from the lake here.
+~
+This young male deer is drinking from the edge of the lake and watching you
+warily.  His antlers are not full size yet, and will no doubt be quite 
+impressive in a few years.
+~
+0 0 66 1024 350 S
+4 18 4 1d12+48
+400 500 100 1d5+3  -1
+-1
+-1
+0 450 8 8 1
+#6017
+fish~
+the fish~
+A fish is swimming just below the surface here.
+~
+~
+0 0 2 1024 100 S
+1 19 10 1d10+10
+400 500 100 1d3+0  -1
+-1
+-1
+0 180 8 8 0
+#6099
+rabbit~
+the ferocious killer rabbit, Guardian of the graal~
+A very innocent (*giggle*) rabbit is here, glaring hungrily at you.
+~
+This small, furry creature with long ears and big feet has been attacked by
+the dreaded rabbit rabies, a horrible disease that turns helpless and innocent
+rabbits into ferocious and bloodthirsty monsters. Not to mention that this
+one seems a bit mutated.
+~
+0 0 66 1024 0 S
+100 -80 -200 1d1000+8000
+400 500 100 3d60+45  -1
+-1
+-1
+50000 500000 4 8 0
+#99999
+$~

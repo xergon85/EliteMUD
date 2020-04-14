@@ -1,0 +1,2706 @@
+#13100 Slag tunnel~
+   It is dark. Warm slag from the purging station comes continuously in
+from the south. A little hole in the bottom of the tunnel leads down to
+something, further down. Maybe it is worth a following... maybe not.
+~
+131 cadhi 0
+D2
+ The purging station.
+~
+~
+0 -1 13153
+D5
+ Darkness.
+~
+~
+0 -1 13128
+S
+#13101 Chute I~
+   takes ...
+~
+131 ude 1
+D0
+entrance 13111 ..
+~
+~
+0 -1 13111
+D1
+inside main extract 13119..
+~
+~
+0 -1 13119
+D2
+purging station 13153..
+~
+~
+0 -1 13153
+D3
+path of giants 13164..
+~
+~
+0 -1 13164
+D4
+upper mixing 13183..
+~
+~
+0 -1 13183
+D5
+time delay 13101..
+~
+~
+0 -1 13101
+S
+#13102 A little grassy clearing~
+   The path comes in from the west and ends rather abruptly at a huge
+and presumably very very deep hole in the ground. The edge of the hole
+has been reinforced on one side so that you can approach without risking
+a fall into it, at least not due to bad construction.
+~
+131 u 2
+D3
+ A small path leads off.
+~
+~
+0 -1 13103
+D5
+ Down a deep, deep hole.
+- Going there is possible but just do not expect to get back up.
+   At least, not this way.
+~
+~
+0 -1 13240
+E
+hole~
+   The hole is 10 yards in diameter and quite smooth, at least as far
+down as you can see. The sheer presence is a question in itself, and what
+is it used for? There definitely is some kind of use for it as there
+is a path up here. A small ladder goes down opposite the reinforced
+edge.
+~
+E
+ladder~
+   The ladder is broken about a yard down. That means that there is or
+was something down there. If you wait for it to be fixed you could find
+a whole new world for you to explore. Or, you can try to use your well-
+trained body and try to climb down the rather rugged surface of the hole.
+Should not be too big of a problem for you.
+~
+S
+#13103 Lesser used path of giants~
+   The caravan way of giants leads in a south-east direction even if its
+travellers are somewhat less frequent than on the way in between the
+high storages.
+~
+131 u 4
+D1
+ The path ends in a small grassy field.
+~
+~
+0 -1 13102
+D2
+ The small path continues.
+~
+~
+0 -1 13104
+S
+#13104 Lesser used path of giants~
+   The caravan way of giants leads in a south-north direction even if
+its travellers are somewhat less frequent than on the way in between the
+high storages. A smaller trail leads off the path north towards
+something else.
+~
+131 0 4
+D0
+ The small path continues.
+~
+~
+0 -1 13103
+D2
+ The path continues.
+~
+~
+0 -1 13165
+S
+#13105 Chute V~
+   DO not let any guard WALK out...
+~
+131 udzh 1
+S
+#13106 Rest and Dressing room~
+   Warm and friendly air seems to emanate both from north and south.
+Right here, wooden panels cover the walls and warm marble covers the
+floor. How they manage to keep the marble warm is a mystery to you, but
+why complain and to whom? Some well-polished wooden benches stretch out
+along the wall and there even are some hooks here for you to hang your
+clothes. Behind the northern wooden door you hear laughter and random
+splashes while from the south, soft dance music pours out and fills your
+ears. There is a small sign hanging next to the stairway entrance to
+this room.
+~
+131 d 0
+D0
+Steam slips out from under the door to the Sauna and Jacuzzis.
+~
+door sauna~
+1 -1 13107
+D2
+A constant flickering of light comes out from the lowered dance floor.
+~
+~
+0 -1 13108
+D4
+The stairs lead up to the VIP Lounge.
+~
+stairs trapdoor~
+1 -1 13148
+E
+small sign~
+
+   Your hostess Gretchen, invites YOU all to the Mill VIP club.
+   Here there are no restrictions in age, gender or preferences.
+
+                        WELCOME  and  ENJOY !!!
+
+~
+E
+floor marble~
+   If you place your ear to the floor you can hear a weak sound
+resembling flowing water. The heat must originate from some hot
+springs or maybe someone has taken the effort to lead warm water through
+the floor just to heat it up. Anything to make you feel good.
+~
+S
+#13107 Sauna and Jacuzzi~
+   The heat and humidity is enormously high and the difference from the
+Rest and Dressing room is extreme. This is where the VIPs of the mill
+get started for their big parties. The evenings amusement take on new and
+intriguing forms every time. Sometimes local employees and specially
+invited guests join the event. This might become a new experience for
+some, ancient history for others, but everyone seems to be happy.
+~
+131 duhj 0
+D2
+You can see the dressing room through the mist.
+~
+door sauna~
+1 -1 13106
+E
+sauna bastu~
+   You read #<OE>LYT on a sign, which could be the brand name. Beware! It
+is very hot and would surely burn a crude tattoo into your skin if you
+happened to sit down on it.
+~
+S
+#13108 Dance floor~
+   The dance floor is one of the smallest ones you have ever seen. It is
+even smaller than the one at Granite Head's Bakery and he does not even
+admit to having one. A crystal sphere rotates on its hanger in the
+ceiling and some coloured lanterns have their flow of light directed
+directly towards it, giving multicoloured reflections all over the room.
+The few people here look up at you as the newbie you are, but they smile
+invitingly towards you and bid you out on the small dancefloor. It
+is always nice with a new face.
+~
+131 Adj 0
+D0
+The dressing room reveals itself through the dim lighting.
+~
+~
+0 -1 13106
+S
+#13109 Hotter than Hot!!!~
+   One really should stop to think before one dives into a pool of smelt.
+This time you only DIED!
+It could have been worse.
+You could have ended up eternally imprisoned in a metal block.
+Or perhaps as a lethal part in a slaying weapon.
+Not a nice future.
+Consider yourself LUCKY!
+~
+131 dbm 1
+D1
+Someone put the plug in. You can not get out. What a pity.
+~
+~
+0 -1 13124
+D4
+ To Late!
+~
+~
+0 -1 13199
+S
+#13110 Road heading towards the Iron Mill~
+   The road surrounded by bushes turns west-north here allowing you to
+either reach some large greyish buildings to the north or some more road
+to the west. The buildings seem to let go of some smoke, smoke of the
+same colour as the landscape around you.
+~
+131 0 2
+D0
+ You see a large sign in the distance. It has to be large, as you would
+not see it this far away otherwise.
+~
+~
+0 -1 13111
+D3
+ A bushed road leads away.
+~
+~
+0 -1 6562
+E
+landscape~
+   Dirty does not really bear good comparison with the real situation
+here.
+Just by barely touching a leaf or almost anything you get dirty and this
+include trying to brush it away, as it only spreads it out more.
+~
+E
+solid solids dust dirt~
+   Dust and Dirt. The environmental issue does not seem to exist.
+Perhaps that is the price for progress, perhaps not.
+~
+S
+#13111 At a large Sign~
+   The road continues south toward the southern outskirts of the mill and
+splits up west and east, heading for the large complex of very dirty
+buildings in your view to the north. A large sign next to the road shows
+that if you go in that direction you will end up being treated rather
+hostile by the owners. They do not like trespassers. So you would better
+stroll some other way or be prepared to encounter trouble.
+~
+131 0 2
+D1
+ Further in between the mill buildings
+~
+~
+0 -1 13116
+D2
+ The road goes on towards somewhere else.
+~
+~
+0 -1 13110
+D3
+ Some big building towers up towards the dirty sky.
+~
+~
+0 -1 13113
+E
+sign~
+
+      Dwarven Kingdom Iron Mill  a joint venture with
+              Glob Inc. Development Group.
+
+
+    Trespassers will be punished in the most severe manner.
+            Minimum Removal Distance - Two Yards.
+
+~
+S
+#13112 In between buildings~
+   One large grey building ends and another one begins. This has to be
+the height of dwarven architecture. Add a little fog (smog) and your
+sense of direction would go haywire. A little sign next to the western
+door is still visible. Nothing seems to have stopped you so far so why
+wait.
+~
+131 c 1
+D1
+ In front of yet another large grey building.
+~
+~
+0 -1 13113
+D3
+ Inside yet another large grey building.
+~
+door~
+1 -1 13182
+E
+sign~
+The very dirty sign reads:
+
+                    Prep Facility
+           Preparation room and Mixing station
+
+
+                 Do not feed the giants.
+              (Unless you are supposed to)
+~
+E
+height architecture~
+   There seems to be a shortage of that.   Hehe.    Sorry.
+~
+S
+#13113 In front of a large grey building~
+   A little east-west path goes next to the wall of a huge grey
+building. From its enormous chimney a thin chain comes down. Wonder what
+they mean by 'For emergency use only - Unauthorized use will be punished
+by DEATH!' as the sign next to it reads. These people really mean
+business. The chain is climbable, at least upwards, but it looks a bit
+unstable. And what was that thing about unauthorized use?
+~
+131 c 1
+D1
+ A front a very huge door.
+~
+~
+0 -1 13115
+D3
+ More grey buildings.
+~
+~
+0 -1 13112
+D4
+ You can climb but it will not be popular.
+~
+~
+0 -1 13196
+S
+#13114 At a HUGE gate~
+   You stand at the huge gate in an even larger building. The gate is so
+large they had to split it up into two parts. A stream of air penetrates
+the gate from the inside. It is warm and a bit dirty. A small sign with
+a lot of writing on it is placed on the gate. You had better read it. If
+you decide to not to enter the gate the yard stretches out in just about
+any direction.
+~
+131 0 1
+D0
+ It is warmer inside the building.
+~
+huge gate~
+1 -1 13119
+D1
+ The huge gate continues.
+~
+~
+0 -1 13115
+D2
+ You see the back side of a large sign along the path from the mill.
+~
+~
+0 -1 13111
+D3
+ A grey building...
+~
+~
+0 -1 13113
+E
+sign~
+   'GO AWAY!'
+   'RAUS!'
+   'STICK DIN FULA KOSSA!'
+   'SKRID!'
+   'VAI passear camelo'
+... and a lot other more or less rude 'go away expressions'.
+~
+S
+#13115 At a HUGE gate~
+   You stand at the huge gate in an even larger building. The gate is so
+large they had to split it up into two parts. A stream of air penetrates
+the gate from the inside. It is warm and a bit dirty. A small sign with
+a lot of writing on is placed on the gate. You had better read it. If
+you decide to not to enter the gate the yard stretches out in just
+about every direction.
+~
+131 0 1
+D0
+ It is warmer inside the building.
+~
+Huge Gate~
+1 -1 13118
+D1
+ The large grey building ends.
+~
+~
+0 -1 13116
+D2
+ You see the backside of a large sign along the path from the mill.
+~
+~
+0 -1 13111
+D3
+ The huge gate continues.
+~
+~
+0 -1 13114
+E
+sign~
+   'GO AWAY!'
+   'RAUS!'
+   'STICK DIN FULA KOSSA!'
+   'SKRID!'
+   'VAI passear camelo'
+... and a lot other more or less rude 'go away expressions'.
+~
+S
+#13116 End of a huge building~
+   Heaps of ashes and stone can be seen in abundance. The drawbacks of
+development can be duly noted in the large amounts of trash and waste
+that have been dumped here without any discrimination or regard for the
+mountainside vegetation. A good suggestion would be to head west.
+~
+131 d 0
+D3
+ A huge gate.
+~
+~
+0 -1 13114
+E
+ trash waste~
+  Stone that had its ore extracted is just waste. Apparently this is the
+place where the dwarfs dump it, awaiting something better to do with it.
+~
+S
+#13117 South wall inside the extraction house ~
+   A variety of craftsman tools hangs on the walls as well as lie in
+well-organised piles neatly stuffed away in the correct small toolboxes.
+The temperature seems to increase in the northwards direction.
+~
+131 d 0
+D0
+ A schlurping sound can be heard, but you can not see anything special.
+~
+~
+0 -1 13131
+D1
+ A less organised corner.
+~
+~
+0 -1 13130
+D3
+ The draft from the outside can be clearly noted in the aerosol flow.
+~
+~
+0 -1 13118
+E
+ tool tools wall box~
+   Tools, tools, everywhere tools. Everything you, or anyone else would
+ever need in order to run an iron mill staffed mainly by dwarfs is here
+or out in the mill somewhere, but has its box here. Needless to say,
+quite a lot of ladders have their places here.
+~
+S
+#13118 Inside the Main Extraction building~
+   A huge hall stretches out in all directions but south, where the
+large gate leads out into the fresher air. In the northern part of the
+building a yellow-reddish glow can be seen at floor-level. The glow
+appears to originate from the large chimney that goes from floor to roof
+in the western part of the building and it ends abruptly in the
+north-eastern corner of the building.
+~
+131 d 0
+D0
+ A glow warms your face.
+~
+~
+0 -1 13129
+D1
+~
+~
+0 -1 13117
+D2
+ Outside, it is a bit colder but just as dirty.
+~
+Gate Huge~
+1 -1 13115
+D3
+ Also inside the huge gate.
+~
+~
+0 -1 13119
+S
+#13119 Inside the Main Extraction building~
+   A huge hall stretches out in all directions but south, where the large
+gate leads out into the fresher air. In the northern part of the
+building a yellow-reddish glow can be seen at floor-level. It appears to
+originate from the large chimney that goes from floor to roof in the
+western part of the building and ends abruptly in the north-eastern
+corner.
+~
+131 d 0
+D0
+ A glow warms your face.
+~
+~
+0 -1 13126
+D1
+ Inside the huge gate.
+~
+~
+0 -1 13118
+D2
+ Outside, it is a bit colder but just as dirty.
+~
+Huge Gate~
+1 -1 13114
+D3
+~
+~
+0 -1 13120
+S
+#13120 Inside the Main Extraction building~
+   West, you see a large platform above head-level from where you can
+detect a faint swooshing sound. At ground level you can also walk
+around the cigar-shaped chimney. The chimney seems to be very hot and
+you hesitate to move in any closer, even though it should not be
+dangerous. But you can always wimp out back east toward the gate.
+~
+131 d 0
+D0
+ A faint glow warms your bared skin.
+~
+~
+0 -1 13125
+D1
+ Next to a huge gate.
+~
+~
+0 -1 13119
+D3
+ Next to the furnace.
+~
+~
+0 -1 13121
+S
+#13121 Next to the blast furnace~
+   You stand under a small platform next to the blast furnace. A small
+ladder lets you climb up to the platform. It is rather hot and
+you wonder what makes the worker endure this environment. If it wasn't
+for the high noise level and all the dirt the climate would be really
+nice (if it wasn't for the dwarfs who keep on complaining about you
+getting in the way all the time - Perhaps a large heap of sand and a few
+big umbrella drinks would do the trick).
+~
+131 d 0
+D0
+ The smelt outlet.
+~
+~
+0 -1 13124
+D1
+ The draft from the outside can be clearly noted in the aerosol flow.
+~
+~
+0 -1 13120
+D3
+ The southwest corner.
+~
+~
+0 -1 13122
+D4
+ The platform.
+~
+~
+0 -1 13135
+E
+ window~
+   FIRE!!!
+You see nothing but the scorching white heat of molten metal. Wonder how
+they muster up that kind of temperature.
+~
+E
+ platform~
+   A metal grid allows you to walk around on a higher level of the
+building.
+~
+E
+chimney cigar furnace~
+   Made up of bricks, its cigar shape surely has some process importance,
+but you are not an extractive metallurgist. Then you would know. There
+are some small windows one could look through to see the inside of the
+furnace.
+~
+E
+ladder~
+   The ladder is very narrow - or maybe standard size for a midg..
+                                                                dwarf.
+~
+S
+#13122 Southwest corner of the main extraction building~
+   You stand under a small platform next to the blast furnace. It is
+rather hot here and as everywhere else, a bit dirty too. A swooshing
+sound can be heard intermittently from above the metal grid platform
+above your head. There seems to something going on there.
+~
+131 d 0
+D0
+ A corner.
+~
+~
+0 -1 13123
+D1
+ A little ladder leads up to the platform.
+~
+~
+0 -1 13121
+S
+#13123 Northwest corner of the main extraction building~
+   You stand under a small platform next to the blast furnace. It is
+rather hot here but you ignore that as you see a very odd construct
+placed on a rail here. The thing is apparently not in use right now but
+the rail goes eastward if you want to activate it.
+~
+131 d 0
+D1
+ The smelt outlet.
+~
+~
+0 -1 13124
+D2
+ The south-western corner of the extraction building.
+~
+~
+0 -1 13122
+E
+rail odd construct~
+  The complexity of the thingies indicates gnome workmanship, but
+surprisingly it DOES seem to be working. The dwarfs would not have it
+any other way so some bright dwarf must have had her hand into this
+before it was taken on-line in the mill.
+~
+S
+#13124 Smelt outlet~
+   Here the furnace is 'bled' of the molten metal. It plunges out of a
+small hole in the furnace and splashes into a stream going eastward. A
+small rail starting right under the hole goes out in an arch towards the
+west.
+~
+131 d 0
+D1
+ The smelt flows away.
+~
+~
+0 -1 13125
+D2
+ A little ladder goes up the furnace.
+~
+~
+0 -1 13121
+D3
+ Follow the rail to the solution.~
+~
+0 -1 13123
+E
+ solution~
+   The plug fits perfectly in the furnace hole. The mill staff uses it to
+halt the flow of metal once in a while or as there is a need for it.
+~
+E
+ rail~
+   It leads west of here. Wonder what the use of it is.
+~
+E
+hole ~
+   Ooohh, so very hot. Melting metal in that inferno must be child's
+play. But you DO wonder how they do it.  The flowing smelt is sooo sexy -
+You stay and admire it for a while.  Why did you not learn about this in
+school?
+ Sigh.
+~
+S
+#13125 Next to the smelt flow~
+   A small channel in the floor conducts the smelt in an eastward
+direction. The smelt seems to be covered with some slag that surely
+would ruin the fine iron if left on and in the metal. You can
+follow the flow east-west or you can head towards the south and the exit
+out of the building.
+~
+131 d 0
+D1
+ There is some kind of blocker in the smelt flow.
+~
+~
+0 -1 13126
+D2
+ You can see the dirt in the air whirl at the huge gate.
+~
+~
+0 -1 13120
+D3
+ The smelt outlet!
+~
+~
+0 -1 13124
+S
+#13126 Slag Scraper~
+   Here the slag is scraped off from the smelt coming from the west. All
+of the slag it seems, by some large doctors blade. Some small amount of
+pure metal is scraped of too, but that is just to be on the safe side.
+The off-scraped is turned into a small channel leading primarily north.
+The rest of the now clean smelt continues east.
+~
+131 d 0
+D0
+ The slag channel leads away the slag.
+~
+~
+0 -1 13127
+D1
+ The metal flows on.
+~
+~
+0 -1 13129
+D2
+~
+~
+0 -1 13119
+D3
+ The metal comes flowing.
+~
+~
+0 -1 13125
+S
+#13127 Slag Channel ~
+   The slag comes in from the scrapes in the south and slowly follows
+the channel here to where it plunges down into some black hole in the
+floor.
+~
+131 d 0
+D2
+ More slag comes from the scraper.
+~
+~
+0 -1 13126
+D5
+ The slag tank accepts all kind of trash and will keep it safe.
+~
+~
+0 -1 13128
+S
+#13128 Slag Tank ~
+   Its warm, DARK, without exit and there is absolutely no magic in this
+place. What did you think of when you jumped into this place. You had
+better stay and contemplate your situation for a while before you start
+whining about rescue. Perhaps some study of the slag heaps down here
+is something to do while being stuck.
+~
+131 ahcd 0
+D4
+   It is far away and more hot slag keeps on coming, effectively
+hindering you from going up again. Your only chance is to pray to the
+gods that be to take you home again.
+~
+~
+0 -1 -1
+E
+slag~
+   Slag is no good. Well perhaps maybe as roadfill. Well maybe it is
+good. Slagbuilders are added to the furnace setup to create a slag with
+wanted, specific properties. But what is slag then, you ask yourself as
+you sit there having a real dull time? Slag is a complex gathering of
+mostly oxides that bond the real unwanted stuff in the smelt to itself in
+a way that makes it, at least somewhat, easily removable before the smelt
+reaches the foundry. Neat, is it not?
+~
+S
+#13129 Next to the smelt flow~
+   A small channel in the floor conducts the smelt in an eastward
+direction. The smelt is free from any kind of impurities and is now
+ready to continue to alloying and final treatment. The big building you
+are in also stretches out southwards.
+~
+131 d 0
+D1
+~
+~
+0 -1 13131
+D2
+ The lighting change at the huge gate.
+~
+~
+0 -1 13118
+D3
+~
+~
+0 -1 13126
+S
+#13130 Scrap corner~
+   Broken tools, empty barrels and a lot more are scattered around in
+this place. It seems that the things have been here for years but the
+dirt in the mill easily covers up any proof of that. As the building
+expands to the north and west the scrap density clearly decreases.
+~
+131 gd 0
+D0
+ The world seems more organised.
+~
+~
+0 -1 13132
+D3
+ The world seems more organised.
+~
+~
+0 -1 13117
+E
+ tool tools wall box~
+   Tools, tools, everywhere tools. All and everything you, or someone
+else, would ever need in order to run a iron mill populated mainly of
+dwarves is here or is out in the mill somewhere but have their boxes
+here. Needless to say quite a lot of ladders have their place here.
+Unfortunately these items and boxes no longer seem to be used. They
+almost look abandoned.
+~
+S
+#13131 The smeltpath plunges down~
+   The smelt falls down through a hole on the channel to some sublevel
+part of the plant. The sound of it splashing into the collector below is
+fascinating. The intriguing sound fights the urge to explore further but
+you loosen yourself from its grip and start to search for some stairs to
+descend, which is not easy as the building expands into all directions.
+~
+131 d 0
+D0
+~
+~
+0 -1 13133
+D1
+~
+~
+0 -1 13132
+D2
+~
+~
+0 -1 13117
+D3
+ The smelt comes running.
+~
+~
+0 -1 13129
+D5
+ Schluurrrrp!!!
+The darkness gleams, but there is no way down for you here.
+~
+~
+0 -1 -1
+S
+#13132 East of the plunging path~
+   The temperature is a bit lower here compared with next to the westly
+smelt but the dirt is still here. A small spiral staircase is north of
+you.
+~
+131 d 0
+D0
+ A small flight of stairs comes up from below.
+~
+~
+0 -1 13134
+D2
+ A lot of junk is piled up here for you to sort out.
+~
+~
+0 -1 13130
+D3
+ The smelt flow ends and a schlurping sound can be heard.
+~
+~
+0 -1 13131
+S
+#13133 North of the plunging path~
+   The temperature is a bit lower here compared with next to the southern
+smelt but the dirt is still here. A small spiral staircase is east of
+you.
+~
+131 d 0
+D1
+ A small windle of stairs comes up from below.
+~
+~
+0 -1 13134
+D2
+ The smelt flow ends and a schlurping sound can be heard.
+~
+~
+0 -1 13131
+S
+#13134 Windle of stairs~
+   Stairs go down to the foundry on the floor below this level of the
+iron mill. Steam and smoke come blowing up through the metal grid steps.
+The humidity down there must be enormous. Perhaps you should stay up
+here and troop off south or west into the big building.
+~
+131 d 0
+D2
+~
+~
+0 -1 13132
+D3
+~
+~
+0 -1 13133
+D5
+ The air coming from below is warm and humid. Perhaps they have a sauna
+down there.
+~
+~
+0 -1 13151
+S
+#13135 Up on a shelf - SouthEast corner.~
+   You can see through the metal grid making up the floor you stand on.
+The view over the mill inside is rather disappointing. The place has
+not been cleaned for ages it seems, but on the other hand you should not
+be in here in the first place, so who should you complain to? Some kind
+of air pumping device is here awaiting to be served.
+~
+131 d 0
+D0
+ More grid.
+~
+~
+0 -1 13138
+D3
+ More grid.
+~
+~
+0 -1 13136
+D5
+ A tiny winy ladder leads down.
+~
+~
+0 -1 13121
+S
+#13136 Up on a shelf - SouthWest corner.~
+   You can see through the metal grid, making up the floor you stand on.
+The view over the mill inside is rather disappointing. The place has
+not been cleaned for ages it seems, but on the other hand you should not
+be in here in the first place, so who should you complain to? Some kind
+of air pumping device is here awaiting to be served.
+~
+131 d 0
+D0
+ More grid.
+~
+~
+0 -1 13137
+D1
+ More grid.
+~
+~
+0 -1 13135
+S
+#13137 Up on a shelf - NorthWest corner.~
+   You can see through the metal grid, making up the floor you stand on.
+The view over the mill inside is rather disappointing. The place has
+not been cleaned for ages it seems, but on the other hand you should not
+be in here in the first place, so who should you complain to? Some kind
+of air pumping device is here awaiting to be served.
+~
+131 d 0
+D1
+ More grid.
+~
+~
+0 -1 13138
+D2
+ More grid.
+~
+~
+0 -1 13136
+S
+#13138 Up on a shelf - NorthEast corner.~
+   You can see through the metal grid, making up the floor you stand on.
+The view over the mill inside is rather disappointing. The place has
+not been cleaned for ages it seems, but on the other hand you should not
+be in here in the first place, so who should you complain to? Some kind
+of air pumping device is here awaiting to be served.
+~
+131 d 0
+D2
+ More grid.
+~
+~
+0 -1 13135
+D3
+ More grid.
+~
+~
+0 -1 13137
+S
+#13139 Inside an air pump~
+   The hole in the floor that you came in through and the walls are
+covered with some VERY reinforced paper lining. The lining must be very
+magic as the air elementals kept in here can not escape. In the
+narrow end you can see the inside of the furnace where the metal is
+produced.
+~
+131 dgw 0
+D5
+ YOU can step down on the grid.
+~
+paper lining~
+1 -1 13135
+E
+narrow hole end furnace metal inside~
+   FIRE FIRE FIRE!!!
+The air coming from the pump burns away the carbon in the furnace setup
+producing a large portion of the heat needed to produce the liquid iron.
+~
+S
+#13140 Inside an air pump~
+   The hole in the floor that you came in through and the walls are
+covered with some VERY reinforced paper lining. The lining must be very
+magic as the air elementals kept in here can not escape. In the narrow
+end you can see the inside of the furnace the metal is produced.
+~
+131 dgw 0
+D5
+ YOU can step down on the grid.
+~
+paper lining~
+1 -1 13136
+E
+narrow hole end furnace metal inside~
+   FIRE FIRE FIRE!!!
+The air coming from the pump burns away the carbon in the furnace setup
+producing a large portion of the heat necessary to produce the liquid
+iron.
+~
+S
+#13141 Inside an air pump~
+   The hole in the floor that you came in through and the walls are
+covered with some VERY reinforced paper lining. The lining must be very
+magic as the air elementals kept in here can not escape. In the
+narrow end you can see the inside of the furnace the metal is produced.
+~
+131 gdw 0
+D5
+ YOU can step down on the grid.
+~
+paper lining~
+1 -1 13137
+E
+narrow hole end furnace metal inside~
+   FIRE FIRE FIRE!!!
+The air coming from the pump burns away the carbon in the furnace setup
+producing a large portion of the necessary heat to produce the liquid
+iron.
+~
+S
+#13142 Inside a air pump~
+   The hole in the floor that you came in through and the walls are
+covered with some VERY reinforced paper lining. The lining must be very
+magic as the air elementals kept in here can not escape. In the
+narrow end you can see the inside of the furnace where the metal is
+produced.
+~
+131 dgw 0
+D5
+ YOU can step down on the grid.
+~
+paper lining~
+1 -1 13138
+E
+narrow hole end furnace metal inside~
+   FIRE FIRE FIRE!!!
+The air coming from the pump burns away the carbon in the furnace setup
+producing a large portion of the heat necessary to produce the liquid
+iron.
+~
+S
+#13143 Finance and Public Relations Department~
+   Welcome to the finance department of the Dwarf Kingdom & Glob
+Incorporated joint venture Iron Mill. The air in here is much fresher
+than in the rest of the mill which makes you hesitate about going out
+east again. North is a room for displaying charts and figures. West
+you should be able to hear the steady work of the department staff.
+~
+131 Adco 0
+D0
+ The display room.
+~
+~
+0 -1 13144
+D1
+ Not nearly as clean as in here.
+~
+door~
+1 -1 13174
+D3
+ A hallway.
+~
+~
+0 -1 13146
+S
+#13144 Chart and display room~
+   Along the walls are a multitude of charts and graphs showing you the
+latest production and sale statistics, efficiency ratings, upkeep,
+salary costs, gain after taxation with or without various deductions and
+bla bla bla... You quickly grow bored and check for exits. On your way
+back out you can pass the compulsory step-by-step ore-to-metal view
+box that every decent mill must have.
+~
+131 de 0
+D2
+ Freedom of statistics. HURRAY!!!!
+~
+~
+0 -1 13143
+E
+step one box view metal~
+   In this mill iron is produced with help of a rather standard
+continuous counter flow reactor, The Blast Furnace. In it the ferrous ore
+is loaded together with a mix of limestone and coal/coke in the top.
+Initially the mix is dried up after which preheating takes place a bit
+further down the furnace. Next the carbon in the mix and the carbon
+monoxide produced lower in the furnace starts to reduce the iron oxide
+to a lesser oxide Hematite -> Magnetite  ->  Wüstite  ->  pure liquid
+IRON. At the bottom of the furnace the added air burns the leftover of
+the carbon giving away enormous heat to manage the final melting. A
+continuous separation of molten metal and slags from the furnace is also
+done very low in the furnace.
+
+Furball, Glob Inc. Research Department.
+in association with B-#<AA>, your local metallurgist and mountainman.
+~
+S
+#13145 Accountant office~
+   The office has no windows but instead a large desk in the centre with
+a comfortable chair behind and two (less comfy) chairs in front. A huge
+archive file cabinet flanks the desk. There really is not any more
+furniture in here, if you do not count the constant piles of paper that
+always seem to be gathering.
+~
+131 d 0
+D0
+ A small door leads out to the plain hallway.
+~
+door~
+1 -1 13146
+D5
+ The floor can be lifted up to expose a little stairwell.
+~
+floor stair stairwell~
+1 -1 13168
+E
+desk~
+ Its huge. Unfortunately for the accountant it is filled with paperwork.
+~
+E
+paper~
+ Looks about as dull as it is. Numbers and words make a big mumbo jumbo.
+~
+S
+#13146 Assistant secretary desk~
+   A secretary's desk is placed here in the hallway and is the centre of
+all work being done in here. North is the Assistant Managers office
+while the accountant has his south of here. On the desk there are two
+small baskets, one marked #wout#W and one marked #win#W. The chair
+behind the desk looks very little used, a sign of the magnitude of the
+secretary's workload.
+~
+131 cd 0
+D0
+ A sign on the door says 'Assistant Manager'.
+~
+door~
+1 -1 13147
+D1
+ A hallway.
+~
+~
+1 -1 13143
+D2
+ A sign on the door says 'Accountant'.
+~
+door~
+1 -1 13145
+D3
+ A hallway.
+~
+~
+0 -1 13149
+E
+in~
+   The IN box is very filled. Poor secretary.
+~
+E
+out~
+   The OUT box is empty. Guess the secretary has to run over with the
+papers immediately to please her employers.
+~
+E
+ desk~
+   The desk is a mess. No time to organise anything here, nono.
+~
+S
+#13147 Manager assistant Room~
+   The size and shape of this room is like all the others in the Finance
+Department. Walls with no windows but with calming wallpaper covering
+them, a large desk in the centre with a comfortable chair behind and two
+(less comfy) chairs in front. And not to forget the standard issue
+triple archive file cabinet for all useful documents he might ever need.
+The amount of paper on his desk is of course also a bit too high to be
+pleasurable.
+~
+131 d 0
+D2
+ A plain door leads out to the hallway.
+~
+door~
+1 -1 13146
+E
+wallpaper~
+   You do feel calmer as you look at the wallpaper.  Little globs swim
+through a serene blue sea.
+~
+E
+desk~
+   Papers papers - everywhere papers. Wonder how he notices any new
+papers, or perhaps that is what he does not do...
+~
+S
+#13148 VIP Lounge and coffee room~
+   This room differs from the rest as it is much bigger. Along two
+of the walls go two enormous sofas. Next to the sofas are some low
+tables. On the other side of the tables sit low leather armchairs. They
+would be perfect in every adventurers' home to relax in after a long
+hard day of questing. The third wall in covered with some complex
+apparatus of evidently gnomish design smelling strongly of coffee. The
+southwest corner seems strangely cleared but the rest of the room is
+real comfortable.
+~
+131 dcet 0
+D0
+ A hallway. There would be no problems in closing up that door, if such a
+need arise.
+~
+door~
+1 -1 13149
+D5
+ You hear a faint humming as of music. Sounds intriguing.
+~
+trapdoor trap~
+1 -1 13106
+E
+ table~
+ Nice low table and on the table, Cookies!!!, but a-a-a they are not
+for you, so hands off.
+~
+E
+ sofa armchair~
+  What a delight it would be to relax in this wonderful piece of
+furniture. Apperantly a gift from someone in the court of Galadriel as
+it clearly has elvish design.
+~
+E
+southwest corner clear cleared~
+ AHA! A trapdoor going down.
+~
+S
+#13149 Managers secretary desk~
+   A small desk stands next to the end of the hallway. On it three small
+cages stand. In, Out and Manager. There are not too many papers in either
+of them. There also is a small carpet lying in front of the wooden door
+to the north.
+~
+131 cd 0
+D0
+ A small sign on the door says 'MANAGER'.
+~
+door~
+1 -1 13150
+D1
+ A hallway.
+~
+~
+0 -1 13146
+D2
+ The VIP room. At least it says so in the door.
+~
+door~
+1 -1 13148
+E
+ desk~
+   So very clean. Guess she polishes her desk as much as her
+fingernails.
+~
+E
+out~
+   The OUT box is empty. All done and delivered.
+~
+E
+in~
+   The IN box is empty. No more to do.
+~
+E
+manager~
+   The Manager box is empty.
+~
+E
+carpet~
+   What can I say.
+A real nice carpet but only for manager feet. So STEP OFF!
+~
+S
+#13150 Mill Manager Office~
+   A magnificent office, huge one-piece marble desk and accordingly the
+most throne like office chair you have ever seen, behind it. Even the
+guest chairs look inviting. A small fireplace is moulded into the west
+wall. There are even paintings on the walls. They mostly show panoramic
+views of the mill, but still no one else in the finance department dares
+to have any.
+~
+131 dc 0
+D1
+ A small door.
+~
+closet door ~
+1 -1 13169
+D2
+ A hallway.
+~
+door~
+1 -1 13149
+D3
+   The fireplace is made up of bricks but there is no wood in it. No
+ashes either. Seems like something else makes up the heat in here.
+~
+~
+1 -1 -1
+E
+desk marble~
+   BIG (well he is a dwarf) and made out of one single slab of marble.
+That sure was not free. Guess the operating results are pretty good.
+~
+E
+chairs chair~
+   The bigger the chair and chair backsupport the more important
+position one holds. Big chair and backsupport almost to the roof.
+ Top of the Pops.
+~
+E
+fireplace~
+   The fireplace is made up of bricks but there is no wood in it. No
+ashes either. Seems like something else makes up the heat in here.
+~
+E
+paintings painting wall walls panorama~
+   Mill panoramas how, ehhhh, nice. A lot of dirty buildings and small
+workers. Good artist though, but with a very boring motif.
+~
+E
+closet door~
+  The door to the closet is powerful but the lock is broken... Oh no!!!
+~
+S
+#13151 Below the stairs~
+   Heat makes your face red as you look toward the pool south of here
+where the smelt splashes down from above. A beautiful piece of liquid
+metal magic. Either head toward the metalfall or up the stairs.
+~
+131 d 0
+D2
+ A metal pool and a very odd 'waterfall'.
+~
+~
+0 -1 13152
+D4
+ A windle of stairs take you up.
+~
+~
+0 -1 13134
+E
+stairs~
+   The windle of stairs is pretty small. It is a Dwarven iron mill.
+~
+S
+#13152 Metal pool~
+   The molten metal comes pouring down through a hole in the roof.
+A quite hazardous place. If a working condition inspector ever made it
+here alive (and out again) he would close this place immediately or at
+least try to. Letting iron smelt touch your bare hand will scorch
+you completely and give you agony for a long time. Better be careful.
+~
+131 d 0
+D0
+ A small windle of stairs go up.
+~
+~
+0 -1 13151
+D1
+ A rather smoky room.
+~
+~
+0 -1 13153
+E
+metal pool waterfall metalfall hole~
+   The spectacular view is so wonderful you have to convince yourself
+very hard not to get too close...
+~
+S
+#13153 Purging Station ~
+   This is where air is forced through the smelt pool to draw out any
+unwanted elements that lie invisible in the smelt. It is quite a smoky
+room as the ventilation, if there ever was any, is nonfunctional. A
+tilting scraper goes across the surface in a regular pattern removing
+the slag as it appears. The sound level is quite high as the purging is
+a very noisy thing. A small slurp adds to the sound as the slag goes
+down into a small hole to the north.
+~
+131 d 0
+D0
+ Darkness is very much present in the slag tunnel leading off.
+~
+~
+0 -1 13100
+D1
+ The metal flows to another pool.
+~
+~
+0 -1 13154
+D3
+ A glowing waterfall can be seen.
+~
+~
+0 -1 13152
+E
+ pool metal~
+   The air elementals usually flow through the smelt dragging along the
+unwanted elements with them as they come up to the surface again.
+~
+S
+#13154 Alloying pool ~
+   To give the metal its specific properties, the dwarfs shovel some
+secret alloying additives into the smelt pool. What alloy to add and when
+is a highly guarded secret and you can see that the alloying rooms north
+and south are usually very well guarded. The stream of smelt that come in
+from the west continues eastwards as a melt.
+~
+131 dc 0
+D0
+ A very dirty alloy storage room.
+~
+~
+0 -1 13155
+D1
+ The stream of melt splits up.
+~
+~
+0 -1 13157
+D2
+ A rather clean alloy storage room.
+~
+~
+0 -1 13156
+D3
+ Another pool.
+~
+~
+0 -1 13153
+E
+pool~
+   Watch out!  A splash of melt and you will burn. Be careful.
+~
+S
+#13155 Alloy Room ~
+   Tall heaps of grubble are lying everywhere. Small signs written in
+some dwarfish code system are posted above the heaps. Small openings
+in the wall allow for the supply system to replenish the supply of
+alloying elements, very practical. There is a bit of a distance out to
+the alloying pool, guess that is where the guards usually hang out.
+~
+131 dA 0
+D2
+ A metal pool.
+~
+~
+0 -1 13154
+E
+opening small~
+   The very small openings lead to large but unavailable storage rooms
+for the bulk mass of the alloys.
+~
+E
+sign code~
+   Do you know this dwarf code system???
+        I did not think so!
+      Do not mess it up, OK?!!
+~
+S
+#13156 Alloy Room ~
+   Small metal bars lie in well organized heaps, strictly tagged with a
+sign in some secret dwarven code system. Perhaps if you interrogate the
+alloyer enough he will tell you what it means but you are not sure even
+he knows. He just follows directives given to him. Perhaps you could do
+some testing of the bars yourself but your metallurgical skills are
+non-existant, so it would probably not turn out very well. There is a bit
+of a distance out to the alloying pool, guess that is where the guards
+usually hang out.
+~
+131 d 0
+D0
+ A metal pool.
+~
+~
+0 -1 13154
+E
+bar bars metal~
+   The bars are not of iron origin that you can establish, but what they
+really are made of, you have no clue about.
+~
+S
+#13157 Melt splitter~
+   The meltflow coming in the floor from the west is split up here into
+three different streams flowing north, east and south and then down to
+the foundry. A very hot cylinder distributes the melt in the supposed
+directions. Touching without the correct protection would easily cause
+serious burn to your hands.
+~
+131 d 0
+D0
+ The stream of metal reaches the foundry and nothing but steam comes
+back up from down there.
+~
+~
+0 -1 13158
+D1
+ The stream of metal reaches the foundry and nothing but steam comes
+back up from down there.
+~
+~
+0 -1 13160
+D2
+ The stream of metal reaches the foundry and nothing but steam comes
+back up from down there.
+~
+~
+0 -1 13159
+D3
+ A metal pool.
+~
+~
+0 -1 13154
+E
+cylinder~
+   Turning the cylinder cause two of the melt outlets to be blocked
+allowing melt from the inflow to go only in one direction. Perhaps the
+foundry wants their moulds filled up quickly and intermittently.
+~
+S
+#13158 Foundry~
+   This is the part of the mill where the melt solidifies under some kind
+of controlled environment. The humidity is so intense that you feel
+your clothing dampening on you every second you stay. The production
+logistics are quite complex with melt coming in and filling up small
+moulds which solidify after being touched by water elementals that
+usually roam around in here. The melt comes in from up above and the ready 
+bars are taken out eastly.
+~
+131 cd 0
+D1
+ The bar storage.
+~
+~
+0 -1 13161
+D2
+ More steam comes from another part of the Foundry.
+~
+~
+0 -1 13160
+D4
+ The meltsplitter takes melt your way.
+~
+~
+0 -1 13157
+E
+mould~
+   The mould are about as big as the bars. What a surprise!
+~
+S
+#13159 Foundry~
+   This is the part of the mill where the melt solidifies under some kind
+of controlled environment. The humidity is so intense that you feel
+your clothing dampening on you every second you stay. The production
+logistics are quite complex with melt coming in and filling up small
+moulds which solidify after being touched by water elementals that
+usually roam around in here. The melt comes in from up above and the ready 
+bars are taken out eastly.
+~
+131 cd 0
+D0
+ More steam comes from another part of the Foundry.
+~
+~
+0 -1 13160
+D1
+ The bar storage.
+~
+~
+0 -1 13161
+D4
+ The meltsplitter takes melt your way.
+~
+~
+0 -1 13157
+E
+mould~
+   The mould are about as big as the bars. What a surprise!
+~
+S
+#13160 Foundry~
+   This is the part of the mill where the melt solidifies under some kind
+of controlled environment. The humidity is so intense that you feel
+your clothing dampening on you every second you stay. The production
+logistics are quite complex with melt coming in and filling up small
+moulds which solidify after being touched by water elementals that
+usually roam around in here. The melt comes in from up above and the ready 
+bars are taken out eastly.
+~
+131 cd 0
+D0
+ More steam comes from another part of the Foundry.
+~
+~
+0 -1 13158
+D1
+ The bar storage.
+~
+~
+0 -1 13161
+D2
+ More steam comes from another part of the Foundry.
+~
+~
+0 -1 13159
+D4
+ The meltsplitter takes melt your way.
+~
+~
+0 -1 13157
+E
+mould~
+   The mould are about as big as the bars. What a surprise!
+~
+S
+#13161 Bar Storage~
+   You have entered a huge room filled with still warm metal bars of
+equal size. There appears to be no difference between them but you have
+good reason to think that the ancient dwarf magic of the blacksmiths
+could change that quite a lot. The bar origin can be found to the west
+in the foundry while there seems to be some kind of transport out of
+this location to the south of here.
+~
+131 dc 0
+D2
+ An occasional grunt can be heard.
+~
+~
+0 -1 13162
+D3
+ Hot steamy air pour out from the foundry.
+~
+~
+0 -1 13160
+E
+bar storage bars~
+   Geeeeee, even if you could count, you could still not count to this
+many...
+~
+S
+#13162 Pick up room~
+   Giants come to this place to pick up metal bars to carry them in
+their slow caravan towards some distant place. The giant controller that
+also work as a bar counter has his chair here. It is worth noticing that
+the ground is filled with small holes. Either some groundhog tribe did
+this or the giants overloaded themselves and discarded the excess. North
+the bar storage take up the major part while a path goes up and away.
+~
+131 0 4
+D0
+   You see a high storage of bars and bars and bars and bars...
+(Too sad you can not order a single beer at any of them.)
+~
+~
+0 -1 13161
+D4
+ A trail leads off.
+~
+~
+0 -1 13163
+E
+chair~
+   The chair is elevated a few meters above the ground. Prolly to be
+able to get in closer to the head of the carrier giants.
+~
+S
+#13163 Path of giants~
+   The caravan way of the giants goes east towards some distant place or
+down to the mill pick up room. Grunts and metallic clashes can be heard
+as new loads get ready below you. The path you are on is well trodden
+and takes you between two distant high storages. Dull - true, but
+efficient - yes.
+~
+131 0 5
+D1
+ The path continues.
+~
+~
+0 -1 13164
+D5
+ A pick up room for metal bars.
+~
+~
+0 -1 13162
+S
+#13164 Path of giants~
+   The caravan way of the giants either leads in from the east and trails
+off to the north or vice versa. The path is well trampled and leads you
+between two distant high storages. Dull - true, but efficient - yes.
+~
+131 0 5
+D0
+ The path continues.
+~
+~
+0 -1 13165
+D3
+ The path continues.
+~
+~
+0 -1 13163
+S
+#13165 Path of giants~
+   The caravan way of the giants either leads in from the south and goes
+off to the east or vice versa. The path is well trodden and leads you
+between two distant high storages. Dull - true, but efficient - yes.
+Strangely enough a little path trails off to the north. It looks still
+in use.
+~
+131 0 5
+D0
+ The path continues somewhat lesser used.
+~
+~
+0 -1 13104
+D1
+ The path continues.
+~
+~
+0 -1 13166
+D2
+ The path continues.
+~
+~
+0 -1 13164
+S
+#13166 Path of giants~
+   The caravan way of the giants either takes you north or to the west
+depending on your travel direction. The path available is well trampled
+and leads you between two distant high storages. Dull - true, but
+efficient - yes.
+~
+131 0 5
+D0
+ A drop room.
+~
+~
+0 -1 13167
+D3
+ The path continues.
+~
+~
+0 -1 13165
+S
+#13167 Drop room~
+   This is where the carrier giants that usually come in from the south
+should leave the metal bars for the blacksmiths' attendants to pick them
+up and bring them into the smithery to the east. As the giants are not
+always too careful (or bright) the signs of many depressions in the
+ground are clearly visible. The bars do not get hurt from this drop but
+it is not recommended to stay here long as your skull most probably
+would not like the experience of the full impact of a metal bar
+from giant height.
+~
+131 0 4
+D1
+ A door leads into the House of Blacksmiths.
+~
+door~
+1 -1 13171
+D2
+ A path leads off.
+~
+~
+0 -1 13166
+E
+depression hole~
+ Deep.
+ Standing in the way of that drop would have been clearly fatal.
+~
+S
+#13168 Secret treasury~
+   One demand from the investors was that an ATM should be placed at the
+mill to ensure secure handling of their money. With the right
+connections and some serious bribes the mill was the first ever to be
+allowed to set up an ATM outside Midgaard town.
+~
+131 ed 0
+D4
+ Light comes down from the accountant's office.
+~
+stair stairwell roof~
+1 -1 13145
+S
+#13169 Secret closet~
+   Everyone has something to hide. Some bury it in the forest, others
+deep in the sea, yet others secretly sneak it into poems that everyone
+can read but no one can understand. This is another common place whereto
+shovel in your old skeletons - into the old closet, lock and then hide
+the key forever.
+~
+131 0 1
+D3
+ The manager office is so close.
+~
+door~
+1 -1 13150
+E
+ door~
+   The door is powerful but the lock is broken....  oh no!!!
+~
+S
+#13170 Inside the reheating furnace~
+   Scorching hot this place. Ouch!!! You jump around as a little
+panicked cricket inside a jar wildly shaken by a curious child. Why did
+you go here in the first place? Get out before you start burning.
+                   Quick! Quick! Quick!
+~
+131 gxdvu 10
+D0
+ If you want to walk on burning coal here is your chance. It wont hurt.
+Much.
+~
+~
+0 -1 13170
+D1
+ If you want to walk on burning coal here is your chance. It wont hurt.
+Much.
+~
+~
+0 -1 13170
+D2
+ If you want to walk on burning coal here is your chance. It wont hurt.
+Much.
+~
+~
+0 -1 13170
+D3
+ If you want to walk on burning coal here is your chance. It wont hurt.
+Much.
+~
+~
+0 -1 13170
+D4
+ Up the chimney there is no hot coal to bother your sore feet with.
+~
+~
+0 -1 13173
+S
+#13171 Entrance~
+   Right inside from a western door. From the other side frequent grunts
+and moans can be heard as well as a sporadic metallic crash. You sense a
+slight heat coming from the east. It has to be more comfortable there
+than in this drafty place.
+~
+131 cd 1
+D1
+ Warmth meets you if you travel inside the Smithery.
+~
+~
+0 -1 13173
+D3
+ The bar storage.
+~
+door~
+1 -1 13167
+S
+#13172 Coal store~
+   *Cough!*Cough!!* The Coal dust not only stains your clothes it makes
+you sneeze as well which roars up more dust that makes you sneeze and
+dirties you clothing even further. Better leave this place while you
+still can find the exit.
+~
+131 cagd 1
+D2
+ A fire allows for reheating of the metal.
+~
+~
+0 -1 13173
+S
+#13173 Blast Reheater~
+   Before the blacksmiths do their trick on the metal bars from the mill
+they need to be red hot. The fireplace or the blast reheater is the
+place for that. The coal is stored in a coalstorage to the north, black
+footprints clearly show that. Westward is the exit out to the bar
+storage and from the east the continuous banging from the blacksmith can
+be heard all day.
+~
+131 cd 1
+D0
+ Darkness meets you.
+~
+~
+0 -1 13172
+D1
+ An anvil stands there, ready for use.
+~
+~
+0 -1 13176
+D3
+ The entrance to the Blacksmiths.
+~
+~
+0 -1 13171
+E
+ fireplace~
+    The fireplace is built up by bricks, and in the centre of it carbon
+brickets feed the fire to extreme temperatures. You can enter it if you
+want to but there is a good chance that the fire might scorch you a bit.
+~
+E
+ foot footprint print~
+   Dwarf sized and very, very black.
+~
+S
+#13174 Display room~
+   All over the room there are the most incredible swords, armours and
+gadgets useful in warfare. Unfortunately most of them are in size XS, but
+some, more dull looking, come in bigger sizes. Apparently the objects go
+in steps from the blacksmith, first the polisher goes over them east of
+here and then they are sold in the Shoppe south. A small sign stands
+next to the door on the western wall.
+~
+131 d 1
+D1
+ A slight scent of solvents traces themselves to you.
+~
+~
+0 -1 13178
+D2
+ Weaponry and Armoury Shoppe.
+~
+~
+0 -1 13175
+D3
+ The air seems much fresher in there...
+~
+door~
+1 -1 13143
+E
+ sword swords armor armour gadget~
+   Whoooaa, there is a lot of stuff in here.
+Guess the shop has a potential for some real interesting sales...
+~
+E
+sign~
+The little sign reads :
+
+   Finance and Public Relations Department
+
+~
+S
+#13175 Weaponry and Armoury Shoppe counter of the Blacksmiths~
+   You do not have that much money. Why did you burn all in the Hide 'n
+Tooth shop? Those are the first thoughts that go through your mind
+when looking at all these marvellous pieces of equipment that are up on
+display here. Dwarf size dolls all dressed up for war in well polished
+armour stand everywhere. If you are a dwarf, you are in Utopia.
+~
+131 d 1
+D0
+ A display room.
+~
+~
+0 -1 13174
+D3
+ The dwarven settlement should appear in front of you if leave the shop
+taking the chute westly. But beware, to avoid the sneaky attempt of
+local trash a one way door has been installed. You can not climb back up
+again.
+~
+~
+0 -1 6415
+E
+ doll armour sword display~
+   Sorry, it is pay #ybefore#N view that is the rule here.
+~
+S
+#13176 Smithy's~
+   A large anvil takes up the center part of this place. Pieces of
+metal lie scattered around in various degrees of development. Could this
+place really be where all magnificent dwarven wartools originate?  Maybe
+so. It does not look that wrong. The metal is heated up at the furnace
+to the west and after proper treatment it goes either south to the
+polisher or, hopefully not, east to the trash corner.
+~
+131 cd 1
+D0
+ BIG DOOR -- BIG SIGN -- BIG LETTERS -- 'GO AWAY!!!'.
+~
+door~
+295 13102 13179
+D1
+ The trash corner.
+~
+~
+0 -1 13177
+D2
+ You smell a faint touch of solvents reach you from that room.
+~
+~
+0 -1 13178
+D3
+ The furnace heatens the metal pieces.
+~
+~
+0 -1 13173
+E
+anvil~
+   Big chunk of metal, with a flat upper side. Perfect for whacking your
+hammer against or perhaps some poor old opponents head...
+~
+S
+#13177 Trash corner~
+   Very deformed versions of what seems to be excellent armour lie just
+slumped on the floor. There really is nothing wrong with them that you
+can see but they must have failed the scrutinizing eyes of their
+creator.  A large sign hangs on the wall. The Smithy's place is to the
+west.
+~
+131 hdz 1
+D3
+ Bank! Bonk! Smash! Can be heard when the smith is at work.
+~
+~
+0 -1 13176
+E
+ sign~
+    TOUCH AND DIE!!!
+~
+S
+#13178 Polishing room~
+   What would the sales people say if the gear was not in top notch
+shape and perfectly stainless? A diverse collection of polishes fill the
+room, causing the smell of abrasives and polish mixes that fills the
+air, to totally block your sensory system in this clean environment.
+~
+131 dg 1
+D0
+ Oh, was there a little pink elephant in the corner?!!
+~
+~
+0 -1 13176
+D1
+ Hi there little wallie. Wanna be friends?
+~
+~
+0 -1 -1
+D2
+ OH NOOOOO. IT IS COMING TO GET ME!!!!!!
+~
+~
+0 -1 -1
+D3
+ Do Be Do Be Do Be Dooooooo! Hey! This is fun! Sing along! Tralalala!
+~
+~
+0 -1 13174
+D4
+ Worms, worms, worms... and more worms...
+~
+~
+0 -1 -1
+D5
+ No floor. Odd. Could bet there was a floor there just a second ago.
+~
+~
+0 -1 -1
+E
+ abrasive abrasives polish mix mixes~
+   Do not inhale to long. Could get permanent damage from those...
+~
+S
+#13179 Grand-Smiths room~
+   You can feel the magic in this room. Here the dwarven master
+blacksmith has formed the most perfect and powerful equipment of
+war that you could ever imagine. There is a small blast furnace here too
+so that there will be no need to leave during complex enchantments to
+reheat the masterpiece-to-be. A certain room to the north has been
+assigned to the hardening of weaponry while the final tests of the
+equipment are done east of here. If a piece is not accepted as a base for
+an item it is utterly dismissed west to the big reheater.
+~
+131 DCd 1
+D0
+ Hardening room.
+~
+~
+0 -1 13180
+D1
+ Test room.
+~
+~
+0 -1 13181
+D2
+ A plain door leads out. Keep it closed.
+~
+door~
+295 13102 13176
+D3
+ Go with the discards to the reheater.
+~
+~
+0 -1 13173
+D4
+ What was that? It seemed like a big eye in the midst of the blackened
+ceiling just closed itself as you started looking up. That just can not
+be true, can it?
+~
+~
+0 -1 -1
+E
+eye~
+ It looks as if you have stumbled over something previously unknown. Up
+in the stone above, unreachable for you (even with the aid of magics,
+strangely enough) you can now see the faint outline of a closed eyelid.
+What terrible organization or entity can it be that have such power to
+peek into the most holy of dwarven places.
+~
+E
+lid eyelid~
+ Studying the eyelid you also notice a even fainter carving around where
+the eye is. It appears triangular. But who uses a triangle around a eye
+as a insignia?
+~
+E
+insignia triangle triangular~
+ OH NO!!! It is the Glob Inc insignia  -  RUN!!!  -  FLEE!!!
+~
+E
+glob inc~
+ Very little is actually known about this society. Perhaps it is best
+not to know too much. Very few outsiders that know anything true about it
+are still alive. Just for your own sake, perhaps you should ignore this
+eye, as they most certainly already know that you have been studying it.
+~
+S
+#13180 Hardening room~
+   To give the weapons extra edge in combat, the dwarfs harden them. The
+procedure usually is to quickly cool the red hot metal in oil or salted
+water, but sometimes for that very special power-kick to that very
+special weapon, a more alternative hardening method is used. That is why
+there usually are slaves here of different species, waiting...
+You could place yourself first in line and become a nice addition.
+~
+131 cDdhtA 1
+D2
+ Grand-Smiths room.
+~
+~
+0 -1 13179
+S
+#13181 Test room~
+   All equipment coming out from the Grand Master Smiths hands must be
+duly tested for one to truly find the clear potential of the individual
+items. This room has experienced many of those tests. Usually on
+non-willing victims. Their pain and agony can still be felt in the
+walls.  Not a very pleasant room to be in, unless you should test
+something. For that purpose some crude X-crosses are usually placed
+here.
+~
+131 cDdhtA 1
+D3
+ Grand-Smiths room.
+~
+~
+0 -1 13179
+E
+walls wall~
+   You can truly feel the pain. Not nice at all, unless you are a demon.
+~
+S
+#13182 Entry to Prep facility~
+   East of here is an open area in front of a huge building with a fat
+chimney. Westwardly some grinding and smashing sounds increase in
+volume.
+~
+131 d 1
+D1
+A small door probably leads out of the building.
+~
+door~
+1 -1 13112
+D3
+ A rather empty room.
+~
+~
+0 -1 13183
+E
+building huge chimney~
+   Another big grey building. Who was the architect, you really would
+like to talk to him.
+~
+S
+#13183 Upper mixing station~
+   A metal grating covers a wide hole in the ground. Large heaps of some
+grey and some black stuff are blended with a slightly larger heap of
+finely crushed stone. What could drive the dwarves to shovel all this
+down
+through the bars is still a question to you. In all directions but east,
+large still-to-be-mixed masses pile up in storage rooms.
+~
+131 d 1
+D0
+ Darkness.
+~
+~
+0 -1 13186
+D1
+ Nothing but a way out.
+~
+~
+0 -1 13182
+D2
+ Whiteness.
+~
+~
+0 -1 13184
+D3
+ Greyness and a bit of grunting.
+~
+~
+0 -1 13187
+D5
+ It is rather dark down there but a grinding sounds can be clearly heard.
+~
+grating hole~
+1 -1 13193
+S
+#13184 Limestone deposit~
+   Whiteish powders fill this room to the very brim. No space is spared
+and anything or anyone entering this room gets its share on itself. It
+is not poisonous but prolonged exposure and inhalation could damage your
+health. Which the workers that usually are around here have noticed. More
+white powder comes pouring out from a hole in the wall above you.
+~
+131 d 1
+D0
+ The mixing station.
+~
+~
+0 -1 13183
+D4
+ Some larger storeroom seems reachable up there.
+~
+wall storeroom hole~
+1 -1 13185
+E
+Hole~
+ It sure looks like one could climb up there if one wanted too.
+~
+S
+#13185 Upper Limestone deposit~
+    A grinding wheel blocks any further progress upwards. Through the
+wheel a whitish powder slowly falls down upon anyone stupid enough
+to stand under it (i.e. you).  You'd better leave. This can not be
+healthy, even if its not directly dangerous.
+~
+131 d 1
+D5
+ It is a bit too dirty to see anything down there.
+~
+hole wall deposit~
+1 -1 13184
+E
+grind wheel~
+   It is big. It is lethal to tamper with. Just accept that it grinds
+the limestone to powder making it much more easier to handle.
+~
+S
+#13186 Coal store ~
+   This room is covered in blackness, as all light is banned from here
+due to the risk of explosion and the fact that the coal is very light
+absorbing. A fireball in here would not be recommended for anyone
+within a few hundred yards.
+~
+131 cahd 1
+D2
+ The mixing station - take a shovel and help with the shovelling.
+~
+~
+0 -1 13183
+S
+#13187 Ore Store~
+   Fine grain ore / stone lies everywhere as sharp shards. You have to
+be extra careful if you want to walk round in this place without
+damaging your feet or your equipment. The crushing sounds from the west
+have definitely increased and it seems that the crushed stone really
+just is transported through this place on its way to the eastern mixing
+station.
+~
+131 cd 1
+D1
+The mixing station. Do not change the amount. Would be bad for the iron.
+~
+~
+0 -1 13183
+D3
+ You see shards of stone whirl about as the big blocks are being
+crushed.
+~
+~
+0 -1 13188
+E
+shards stone shard~
+   The stoneshards are very sharp and your warlike mind immediately
+starts to think about ways to convert this to weaponry. But its only
+shards, not much one can do but walk on it.
+~
+S
+#13188 Ore Crushing Area [Enter at own risk]~
+   Stones in widely varied sizes lie scattered around in what seems to
+be a totally devastated area. No vegetation is still alive in here
+after the treatment the giants have given this place. The ground is
+covered with shards and you must be very careful not to cut yourself if
+you want to walk around in here. On the other hand, if you stay long
+enough maybe some giants will want to give you some of their special
+treatment. You can flee this place out to the east or continue your
+perilous journey west or south further into Giant crushing lands.
+~
+131 dx 1
+D1
+ Bring some readycrushed ore to the mixing station.
+~
+~
+0 -1 13187
+D2
+ Ore Crushing Area [Enter at own risk].
+~
+~
+0 -1 13189
+D3
+ Ore Crushing Area [Enter at own risk].
+~
+~
+0 -1 13191
+E
+stones shards ground stone shard~
+   The stoneshards on the ground and on nearby larger stones but into
+you draining your blood and trashing your clothes. Maybe you should do
+like the giants and get some revenge on the stone around you. The
+dwarven workers would like some extra, free, personnel too.
+~
+S
+#13189 Ore Crushing Area [Enter at own risk]~
+   Stones in widely varied sizes lie scattered around in what seems to
+be a totally devastated area. No vegetation is still alive in here
+after the the treatment the giants have given this place. The ground is
+covered with shards and you must be very careful not to cut yourself if
+you want to walk around in here. On the other hand, if you stay long
+enough maybe some giants will want to give you some of their special
+treatment. The crushing area expands further north and west.
+~
+131 dx 1
+D0
+ Ore Crushing Area [Enter at own risk].
+~
+~
+0 -1 13188
+D3
+ Ore Crushing Area [Enter at own risk].
+~
+~
+0 -1 13190
+E
+stones shards ground stone shard~
+   The stoneshards on the ground and on nearby larger stones but into
+you draining your blood and trashing your clothes. Maybe you should do
+like the giants and get some revenge on the stone around you. The
+dwarven workers would like some extra, free, personnel too.
+~
+S
+#13190 Ore Crushing Area [Enter at own risk]~
+   Stones in widely varied sizes lie scattered around in what seems to
+be a totally devastated area. No vegetation is still alive in here
+after the the treatment the giants have given this place. The ground is
+covered with shards and you must be very careful not to cut yourself if
+you  want to walk around in here. On the other hand, if you stay long
+enough maybe some giants will want to give you some of their special
+treatment. The crushing area expands further north and west and there
+seem to be some kind of raw ore receiving zone west of you.
+~
+131 dx 1
+D0
+ Ore Crushing Area [Enter at own risk].
+~
+~
+0 -1 13191
+D1
+ Ore Crushing Area [Enter at own risk].
+~
+~
+0 -1 13189
+D3
+ Some kind of crude stone dump awaits you.
+~
+~
+0 -1 13192
+E
+stones shards ground stone shard~
+   The stoneshards on the ground and on nearby larger stones bite into
+you draining your blood and trashing your clothes. Maybe you should do
+like the giants and get some revenge on the stone around you. The
+dwarven workers would like some extra, free, personnel too.
+~
+S
+#13191 Ore Crushing Area [Enter at own risk]~
+   Stones in widely varied sizes lie scattered around in what seems to
+be a totally devastated area. No vegetation is still alive in here
+after the the treatment the giants have given this place. The ground is
+covered with shards and you must be very careful not to cut yourself if
+you  want to walk around in here. On the other hand, if you stay long
+enough maybe some giants will want to give you some of their special
+treatment. The crushing area expands further south and east.
+~
+131 xd 1
+D1
+ Ore Crushing Area [Enter at own risk].
+~
+~
+0 -1 13188
+D2
+ Ore Crushing Area [Enter at own risk].
+~
+~
+0 -1 13190
+E
+stones shards ground stone shard~
+   The stoneshards on the ground and on nearby larger stones bite into
+you draining your blood and trashing your clothes. Maybe you should do
+like the giants and get some revenge on the stone around you. The
+dwarven workers would like some extra, free, personnel too.
+~
+S
+#13192 Crude Ore Deposit~
+   Whenever a load of ore comes from the mines, they dump it at this
+place through a chute from above. This is below their dumping place. A
+very first halt for the metal to be. The guided tours have been
+cancelled for now but might be taken up later if the economic increment
+is large enough and when safety can be fully guaranteed, which it can
+not be today. Too many villains sneaking around the premises.
+~
+131 d 1
+D1
+ Ore Crushing Area [Enter at own risk].
+~
+~
+0 -1 13190
+D4
+ There is no way for you to get back up there. The constant downfall
+of too big boulders would easily crush any head or any other bodyparts
+for that matter in a few seconds, so you better forget getting up there.
+Should be a BIG orerich stone coming down any moment. Better start
+moving.
+~
+~
+0 -1 -1
+E
+chute~
+   There is no way for you to get back up there. The constant downfall
+of too big boulders would easily crush any head or any other bodyparts
+for that matter in a few seconds, so you better forget getting up there.
+Should be a BIG orerich stone coming down any moment. Better start
+moving.
+~
+S
+#13193 Lower Mixing Station~
+   Coal, limestone and crushed stone shove down through the metal grid
+roof from the upper level of the mixing station. The healthiness level
+in here is not a very high one. The cunning dwarfs have trapped a huge
+earthworm in here and it has been integrated as a part of the mixing
+process. It brutally devours anything, or anyone, coming within its
+reach. A small set of steps leads up east of you and going west would take 
+you onto the dog trail.
+~
+131 d 1
+D1
+ A small stairway leads up to above.
+~
+grid~
+1 -1 13183
+D3
+ A small trail starts, but getting there, through the worm, is hard.
+~
+~
+0 -1 13194
+E
+mixing station~
+   One has to blend the components that are headed to the furnace in
+the correct way to get maximum efficiency. Dwarfs like maximum
+efficiency.
+~
+S
+#13194 Dog trail~
+   At the end of the gigantic earthworm, that has been fully integrated
+into the mixing process, a perfect mix is continuously 'released'. There
+usually are a few dwarfs with absolutely no sense of smell who stand here
+shovelling up the 'creations' onto carrier baskets. The dogs carry these
+baskets up the trail that leads to the top of the huge iron mill chimney.
+Some devouring sounds can normally be heard from the east.
+~
+131 d 1
+D4
+ Further up the trail.
+~
+~
+0 -1 13195
+D1
+Going to the other side of the mixing station is easier without the
+worm.
+~
+~
+0 -1 13193
+E
+basket carrier~
+   The dwarfs shovel the worm production into baskets to make transport
+up the chimney a lot easier. Not a nice job, but someone has to do it.
+~
+S
+#13195 Dog trail~
+   The trail is too narrow for anyone larger than two well built dogs
+with a double basket. The space needed for two fully loaded dogs carrying
+their load to the chimney top to pass each other. The dogs do not seem to
+complain about this treatment. Perhaps they get enough rewards for their
+hard work to make up for all of it. Perhaps they get to eat captured
+intruders...
+~
+131 d 2
+D4
+ The trail continues.
+~
+~
+0 -1 13196
+D5
+ The trail continues.
+~
+~
+0 -1 13194
+S
+#13196 Upper part of the Dog trail~
+   A little intricately designed slope allows for the dogs to unload
+themselves without getting hurt. The mix does not just accumulate on
+the ground but rumbles eastwards and slightly downwards into the top of
+the chimney. A slight rush of heat comes towards you every time a package
+enters the chimney. Wonder what happens in there. Feel free to enter and
+find out for yourself. But do not forget to close after you, leaking
+gases can be troublesome. Or if strolling into chimneys is not your
+thing, follow the trail down.
+~
+131 d 2
+D1
+ Top of the furnace - The Furnace Throat.
+~
+throat chimney~
+1 -1 13197
+D5
+ Head down the trail.
+~
+~
+0 -1 13195
+E
+slope~
+   The dogs step onto a little construct looking like a long AA. They
+place the baskets on the A tops and kneel, where the baskets flip and
+empty themselves onto the sloping inner sides of the A's. The load then
+slides into the furnace without letting the heat out. Very simple.
+~
+E
+chimney~
+   It does not look that dangerous. Just a little peek inside would do
+no harm.
+~
+S
+#13197 The Furnace Throat~
+   The Furnace Throat has its own guardian, who carefully makes sure
+that the from the west incoming mix is evenly distributed over the
+chimney. As the mix accumulates and starts to dry up, it slowly descends
+further down the furnace. It seems a bit hotter down there, but you could
+surely handle that kind of treatment.
+~
+131 Dcd 1
+D3
+ Out to the Dog Trail.
+~
+chimney trail throat~
+1 -1 13196
+D5
+ Entering the Agglomeration Zone is a one way trip.
+~
+furnace~
+295 13103 13198
+E
+ mix chimney furnace~
+   As a first step in the iron melting process the base material is
+loaded on top of a blast furnace to dry up and start the heating process
+using warm gases from below. The setup of the material is essential to
+get the best exchange values out of the process.
+~
+S
+#13198 Agglomeration Zone~
+   The heat is increasing dramatically and the air supply decreases at
+the same rate. The mix is slowly changing shape and the now completely
+dry mix has started to agglomerate into larger pieces of increasingly
+warmer clumps. You can if you want to, with the risk of slightly
+scorching yourself, crawl even lower down to where the mix starts to
+melt.
+~
+131 Dcd 1
+D4
+   The crawlway up is blocked by the slowly descending masses.
+~
+~
+0 -1 -1
+D5
+ Pro Melting Zone. And do not expect to get up again.
+~
+furnace~
+295 13104 13199
+E
+mix furnace clumps~
+   The gas coming from below not only dries and heats the mix, it also
+starts to react with it. The reaction is called reduction. That is when
+the oxides loose their bound oxygen and come closer to the pure metal.
+~
+S
+#13199 Pro Melting Zone~
+   The heat is scorching and you can feel your skin peel as it keeps
+getting warmer and warmer the deeper you go. Further down would be a
+real killer. Looking at the walls you can detect small drops of molten
+metal beginning to take form. Staying here too long can not be good for
+you. You can overcome yourself and struggle further down but it is
+not advised.
+~
+131 Dcdx 1
+D4
+   The crawlway up is blocked by the slowly descending masses. Sorry!
+~
+~
+0 -1 -1
+D5
+ The furnace shows only white metal and your nosehairs curl at the
+temperature down there. Guess it is too hot for you.
+~
+furnace hot smelt~
+1 13105 13109
+E
+ metal mix ore furnace drop drops~
+   As the reduction of the ore comes to a complete stage and only pure
+metal is present, the very elevated temperature starts to have some real
+effect on the metal structural state of existence and the melting
+begins. Somewhere further down there must be an outlet so that the
+molten metal can be extracted and give room for more ore in the furnace.
+~
+S
+#99999
+$~
+
+

@@ -1,0 +1,20 @@
+#28300
+warrior bartender elysium~
+the Elysium bartender~
+The old warrior listens intently to tales of battles lost and won.
+~
+The old warrior has long since retired, but gladly serves drinks 
+here at the clan's bar.  He is always here, whenever he is needed.
+The faint points of his ears and delicate bone structure betray
+his elven origins as surely as his leathered skin and knowledge of 
+the forest do his years as a ranger.
+~
+1 0 bg hk 1000 S
+110 -60 -200 1d900+30000
+400 500 100 100d100+99
+-1 -1 -1
+1 1 8 8 1
+#99999
+$~
+
+

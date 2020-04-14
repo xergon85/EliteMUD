@@ -1,0 +1,153 @@
+#5
+The Northern Woods~
+599 10 2
+*
+M 0 500 4 506     ferret                  
+M 0 500 4 513     ferret                  
+M 0 500 4 520     ferret                  
+M 0 500 4 557     Path b4 rome                  
+M 0 501 2 500     Roman General 
+M 0 501 2 556     Roman General                  
+M 0 502 5 501     ferret                  
+M 0 502 5 529     ferret                  
+M 0 502 5 531     ferret                  
+M 0 502 5 560     ferret                  
+M 0 502 5 562     ferret                  
+M 0 503 5 522     ferret                  
+M 0 503 5 529     ferret                  
+M 0 503 5 531     ferret                  
+M 0 503 5 560     ferret                  
+M 0 503 5 562     ferret                  
+M 0 504 2 546     Centurion                  
+M 0 504 2 555     Centurion                  
+M 0 505 2 546     Std bearer                  
+M 0 505 2 555     Std bearer                  
+M 0 507 5 508     Roman warrior                 
+M 0 507 5 544     Roman warrior                 
+M 0 507 5 549     Roman warrior                 
+M 0 507 5 551     Roman warrior                  
+M 0 507 5 552     Roman soldier                
+M 0 508 2 524     Gallic slave                  
+M 0 508 2 539     Gallic slave                  
+M 0 509 3 502     fairy                  
+M 0 509 3 509     fairy                  
+M 0 509 3 518     fairy                  
+M 0 510 2 524     orc captive                  
+M 0 510 2 537     orc captive                  
+M 0 511 3 542     Minotaur warrior                  
+M 0 511 3 542     Minotaur warrior                  
+M 0 511 3 551     Minotaur warrior                  
+M 0 512 3 505     Wood elf                  
+M 0 512 4 512     Wood elf                  
+M 0 512 4 514     Wood elf                 
+M 0 513 3 528     Mr Longears                  
+M 0 513 3 538     Mr Longears                  
+M 0 513 3 545     Mr Longears                  
+M 0 514 3 502     dragon ghost                  
+M 0 514 3 503     dragon ghost                  
+M 0 514 3 510     dragon ghost                  
+M 0 515 3 524     barbarian slave                  
+M 0 515 3 539     barbarian slave                  
+M 0 515 3 539     barbarian slave                  
+M 0 516 3 516     Warrior Elephant                  
+M 0 516 3 532     Warrior Elephant                 
+M 0 516 3 550     Warrior Elephant                  
+M 0 517 5 509     hedgehog                  
+M 0 517 5 533     hedgehog                  
+M 0 517 5 534     hedgehog                  
+M 0 517 5 535     hedgehog                  
+M 0 517 5 555     hedgehog                  
+M 0 518 5 504     sleepy bat                  
+M 0 518 5 504     sleepy bat                  
+M 0 518 5 508     sleepy bat                  
+M 0 518 5 508     sleepy bat                  
+M 0 518 5 525     sleepy bat                 
+M 0 519 3 503     gnomish pscientist                  
+M 0 519 3 533     gnomish pscientist                  
+M 0 519 3 543     gnomish pscientist                  
+M 0 520 3 542     ratman soldier                  
+M 0 520 3 542     ratman soldier                  
+M 0 521 3 500     elf ranger lvl 12                  
+M 0 521 3 506     elf ranger lvl 12                  
+M 0 521 3 507     elf ranger lvl 12                
+M 0 522 2 507     elf scout lvl 12                  
+M 0 522 2 514     elf scout lvl 12                  
+M 0 523 1 519     peter rabbit lvl 12                  
+M 0 524 1 519     benjamin bunny lvl 10                  
+M 0 525 1 518     female skunk lvl 12                  
+M 0 526 1 518     Pepe LePew lvl 12                  
+M 0 527 1 543     Mrs. T lvl 12                  
+M 0 528 1 559     Jemima lvl 12                  
+M 0 529 1 501     fairy appren l 25                  
+M 0 529 1 511     fairy appren l 25                  
+M 0 530 3 500     merchant l 24                  
+M 0 530 3 515     merchant l 24                  
+M 0 531 3 512     tinker l 25                  
+M 0 531 3 513     tinker l 25                  
+M 0 531 3 518     tinker l 25                 
+M 0 532 2 524     druid captive l 28                  
+M 0 532 2 537     druid captive l 28                  
+M 0 533 2 561     lvl 1 mouse                  
+M 0 533 2 564     lvl 1 mouse                  
+M 0 534 2 504     fox l 25                  
+M 0 534 2 511     fox l 25                  
+M 0 535 1 536     gnome picnicker                  
+M 0 535 2 540     gnome picnicker                  
+M 0 535 2 540     merchant l 24                  
+M 0 536 2 536     human picnicker                  
+M 0 536 2 540     human picnicker                  
+M 0 537 5 507     changeling                  
+M 0 537 5 511     changeling                  
+M 0 537 5 521     changeling                  
+M 0 538 4 550     owl lvl 4                   
+M 0 538 4 554     owl lvl 4                   
+M 0 538 4 559     owl lvl 4                   
+M 0 538 4 563     owl lvl 4                   
+M 0 539 1 513     little red riding hood                  
+M 0 540 3 542     sparrow level 2                  
+M 0 540 3 549     sparrow level 2                  
+M 0 540 3 550     sparrow level 2                  
+M 0 540 3 553     sparrow level 2                  
+M 0 540 3 565     sparrow level 2                  
+M 0 541 5 510     worm path b4 rome                  
+M 0 541 5 514     worm path b4 rome                  
+M 0 541 5 530     worm path b4 rome                  
+M 0 541 5 537     worm path b4 rome                  
+M 0 541 5 550     worm path b4 rome                   
+M 0 542 3 553     slug level 1 :)                  
+M 0 542 3 558     slug level 1 :)             
+M 0 543 3 541     Pinworm :P                  
+M 0 543 3 556     Pinworm :P                  
+M 0 543 3 557     Pinworm :P                  
+M 0 500 5 566     ferret                  
+E 1 3031 100 0 	   lantern
+M 0 544 10 559     Halfling soldier
+E 1 3040 100 5     breast plate
+M 0 545 10 559     Gnome soldier
+E 1 3042 100 11    Shield
+M 0 544 10 560     Halfling soldier
+E 1 3046 100 5     Bronze breast
+M 0 545 10 561     Gnome soldier
+E 1 3070 100 9     gauntlets
+M 0 544 10 562     Halfling soldier
+E 1 3075 100 6     bronze helmet
+M 0 545 10 563     Gnome soldier
+E 1 3080 100 7     bronze leggings
+M 0 544 10 564     Halfling soldier
+E 1 3085 100 10    bronze sleeves
+M 0 545 10 565     Gnome soldier
+E 1 3085 100 10    bronze sleeves
+M 0 544 10 566     Halfling soldier
+E 1 3075 100 6     bronze helmet
+M 0 545 10 560     Gnome soldier
+E 1 3042 100 11    Shield
+M 0 544 10 561     Halfling soldier
+E 1 3040 100 5     breast plate
+E 1 12001 50 13    Bronze belt
+M 0 545 10 562     Gnome soldier
+E 1 3040 100 5     breast plate
+M 0 545 10 562     Gnome soldier
+E 1 12001 100 13   bronze belt  
+S
+#99999
+$~

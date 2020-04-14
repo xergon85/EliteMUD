@@ -1,0 +1,80 @@
+#1
+9900
+9901
+9908
+9909
+9910
+9941
+-1
+1.1
+0.9
+-1
+%s We didn't grow any of those this year.~
+%s You don't have that!~
+%s I won't buy that!~
+%s I can't buy that!~
+%s You can't buy that!~
+%s Ok, %d coins please!~
+%s Ok, %d coins please!~
+1
+0
+9904
+0
+9950
+8
+22
+8
+22
+#2
+9922
+9923
+9924
+9925
+9936
+-1
+1.1
+0.7
+9
+-1
+%s Could you repeat that please?~
+%s You don't have one to sell!~
+%s Nobody in Stanneg would buy one of THOSE!~
+%s I'd love to buy one but I can't afford it.~
+%s But you haven't the money!~
+%s Ok, %d gold please.~
+%s Ok, %d gold please.~
+1
+0
+9901
+0
+9945
+8
+22
+8
+22
+#3
+9919
+9920
+9921
+-1
+1.2
+1.0
+-1
+%s I don't know how to make one of those!~
+%s We don't *buy* drinks...we sell 'em!~
+%s We don't *buy* drinks...we sell 'em!~
+%s We don't *buy* drinks...we sell 'em!~
+%s I don't give 'em away free, you know!~
+%s That's %d gold.~
+%s We don't *buy* drinks...we sell 'em!~
+1
+0
+9914
+0
+9957
+1
+24
+1
+24
+#99999
+$~

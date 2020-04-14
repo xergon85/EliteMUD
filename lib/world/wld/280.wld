@@ -1,0 +1,1095 @@
+#28000
+#MThe Gates of Zia#N~
+   Awe is what you feel, standing in front of these truly gigantic 
+gates, which burn perpetually, keeping those not of Phos from entering 
+our sacred refuge. The burning spires tower high above you, seeming to 
+singe the clouds and reach for the sun in their marvelous grandeur. 
+Amazingly, the spectacular gates are only the beginning of the wonders 
+that await you when you enter our sacred fold.
+~
+280 duz 0
+D0
+~
+~
+0 -1 28001
+D3
+~
+~
+0 -1 3060
+S
+#28001
+#MDen of the Eclipse#N~
+   The first thing that catches your eye as you enter this immense 
+dining room for the followers of Phos is a monstrous marble dining 
+table. Each of our esteemed brothers and sisters claims a seat, where 
+we discuss our exploits and drink wine until Phos shines upon us once 
+again. Richly dark oak pillars stand around the table, and huge fires 
+remind us of our Lord when he is away blessing others. A #Ygolden 
+#Yplaque#N hangs on the eastern wall. Thick rugs and furs invite you 
+to remove your heavy boots and sit for a spell, and talk amongst 
+yourselves.
+~
+280 duz 0
+D0
+~
+~
+0 -1 28002
+D1
+#MThe Library#N
+~
+door~
+1 -1 28011
+D2
+~
+~
+0 -1 28000
+D3
+#MThe Store#N
+~
+door~
+1 -1 28015
+D4
+~
+door~
+1 -1 28010
+D5
+~
+~
+0 -1 28003
+E
+golden plaque~
+#yThe Founding Members of #MDragoons #wof #CPhos#N
+Ix, Kurrelgyre, Ambryl, Purr, Chani, Tsunami, Wick, Hylar, 
+Kieriay, Colosul, Aynjul, Jura, Rage, Ragnar, Nermal, Garf, 
+Prophator, Redfang, Snarf
+#yMay the Sun shine upon you wherever you may go.#N 
+~
+S
+#28002
+#MPhos' High Altar#N~
+   This dedication to our god, Phos, is an immense room with a dome made 
+of stained glass. The entire room is golden with the light of our 
+beloved Lord of the Sun. Even at night, the room still emanates a warm 
+glow, a gift given to his chosen ones by our benevolent Lord. The walls 
+glitter with elaborate tapestries of silk, glittering weapons, and 
+gilded icons showing our faith. A very warm feeling of replenishment 
+flows through your veins as you stand here, for the light from above 
+invigorates your weary body. Rest here and Phos will watch over you. 
+There is also anther #MShelf #wof #CPhos#N here where we can put items 
+that might help you but are not worth enter the #MDragoon Trove#N.
+~
+280 dtuz 0
+D0
+~
+~
+0 -1 28004
+D1
+~
+door~
+1 -1 28005
+D2
+~
+~
+0 -1 28001
+D3
+~
+door~
+1 -1 28008
+S
+#28003
+#MDragoon Trove#N~
+   In this room, our brethren leave important items for communal use. 
+There is also a #MShelf #wof #CPhos#N where you can place items you find 
+you cant drop. Take what you wish, but try to return it once no more 
+can be gleaned from it. Another dragoon may find use of it, and the 
+favor shall come back to you. 
+~
+280 duz 0
+D4
+~
+~
+0 -1 28001
+D5
+~
+door~
+0 -1 28012
+S
+#28004
+#MBurning Den#N~
+   Warmth encompasses your body as you enter the den. A hearth heats the 
+entire room, and fire pits lie spitting and hissing in the Four Corners 
+of the room. Two enormous couches sit facing each other, large enough 
+to accommodate all the Dragoons and then some. A thick slab of redwood 
+serves as a table and a footrest, and engraved mugs of pewter lie 
+scattered and empty. While the dining room serves the more serious and 
+formal matters, this room is designed purely for comfort. This is also 
+where the Dragoons hone their battle skills, so as not forget the reason 
+they banded together. They will always remain exceptional warriors.
+~
+280 druz 0
+D0
+~
+door~
+11 -1 28006
+D1
+#MA Phos Hallway#N
+~
+door~
+1 -1 28007
+D2
+~
+~
+0 -1 28002
+D3
+#MA Phos Hallway#N
+~
+door~
+1 -1 28009
+S
+#28005
+#MA Phos Hallway#N~
+   This is a long hallway that expands to the east. From this hallway 
+you can get to many different rooms of the #MDragoon's#N.
+~
+280 duz 0
+D0
+#MKeldron's Swinging Pad#N
+~
+door~
+1 -1 28020
+D1
+#MA Phos Hallway#N
+~
+~
+0 -1 28032
+D2
+#MHarlan's Conservatory#N
+~
+door~
+1 -1 28021
+D3
+#MPhos' High Altar#N
+~
+door~
+1 -1 28002
+D5
+#MThe #cSizzling #MChamber#N
+~
+door trapdoor~
+1 -1 28034
+S
+#28006
+#MSith's Shrine Of '#RCore#N~
+   As you enter this room, you get the inexplicable urge to Skank. And 
+in the background you notice a feverish, up-beat guitar, a melodic, and 
+moving baseline which is amplified in effect by a set of horns 
+(Trombone, and alto and Bari sax), a throbbing drumbeat, that all 
+intertwine behind a blaring set of vocal chords, screaming the anthem 
+"We're not gonna take it!" After finally getting adjusted to the music 
+of the room, you notice the shape of this "room", it is round, with no 
+corners and one visible face that surrounds and encompasses the viewer 
+with a #Rmural#N painted onto this surface, the floor is of hard wood 
+and slanted at various angles to give a mesmerizing effect if one were 
+to stare at it for too long. Along this wall above the mural are many 
+various guitars, with a white Yamaha bass as the centerpiece to them 
+all. Along the side opposite the door is a stack of speakers resembling 
+an amplifier of some sort, the section of floor under this area is 
+raised to be a bit higher than that of the rest of the room. To the 
+near side of the room are a couple of chairs and couches, with a bed 
+resting on two red trunks on the area to the right, just before the 
+stage. 
+~
+280 duz 0
+D2
+~
+door~
+11 -1 28004
+E
+mural~
+This mural depicts 4 men. The first one an older man with a blonde 
+receding hairline, he has a big nose and an awkward grin on his face, 
+as if he has just done something wrong. The second man is much shorter 
+than the first and is wearing allot of necklaces and bracelets. In his 
+right hand he holds a paints brush still dripping with red paint. The 
+third man is slightly taller than the second, he is very thin and looks 
+about as old as the second (but in all reality is not), on his head he 
+wears a hat that bears an iron cross on the backside (since he is 
+wearing it backwards, that is the side facing), on his right hand in a 
+watch, and in the hand is a piece of glass. The fourth and final man is 
+the same height as the third, although this man carries a much larger 
+and muscular build. He wears a pair of china blue shoes, and on his face 
+are the thickest pair of glasses you have ever seen in your life. 
+Attached to his shirt in some fashion is some sort of watch, it 
+resembles a grandfather clock's face only smaller. The four men look 
+confident and indomitable. As you continue to stare at the painting, the 
+picture shifts and the men's appearances change, all the while under 
+close scrutiny, one can notice other shapes fall in behind the four men, 
+some ever seem to stand along side the four. But the only real 
+noticeable difference is that the second man seems to have a dark shadow 
+over him, and all that look upon this know something has gone awry. The 
+only signature to be found on the painting is that of and "S" with two 
+vertical lines running through it. 
+~
+E
+bass yamaha~
+This is a standard issue white Yamaha bass model kpx250 along the neck 
+is written the words "#Rfor Stan#N". 
+~
+S
+#28007
+#MA Phos  Hallway#N~
+   This is a long hallway that expands to the east. From this hallway 
+you can get to many different rooms of the #MDragoon's#N.
+~
+280 duz 0
+D0
+#wMinas #gLus#yi#rtania#N
+~
+door~
+1 -1 28022
+D1
+#MA Phos Hallway#N
+~
+~
+0 -1 28031
+D2
+#MSamas' #NSecret #CPalace#N
+~
+door~
+1 -1 28023
+D3
+#MBurning Den#N 
+~
+~
+0 -1 28004
+S
+#28008
+#MThe Hall of Rememberence#N~
+   As you step into this room you get the feeling that things here are 
+calmer, more peaceful then in the hustle and bustle of the normal rooms. 
+As you peer around you see that this hallway leads to the rooms of our 
+long departed but honored #MPhos#N. 
+~
+280 duz 0
+D0
+#MAynjul's Playroom#N
+~
+door~
+1 -1 28018
+D1
+#MPhos' High Altar#N
+~
+door~
+1 -1 28002
+D2
+#MGarf and Ragnar's Room#N
+~
+door~
+1 -1 28019
+S
+#28009
+#MA Phos  Hallway#N~
+   This is a long hallway that expands to the west. From this hallway 
+you can get to many different rooms of the #MDragoon's#N.
+~
+280 duz 0
+D0
+#MWab#No's D#Cojo#N
+~
+door~
+1 -1 28024
+D1
+#MBurning Den#N 
+~
+door~
+1 -1 28004
+D2
+#rPuma#e'#rs#e and #rDemonic#e'#rs #rA#ercane #rS#eanctuary#
+~
+door~
+1 -1 28025
+D3
+#MA Phos Hallway#N~
+~
+0 -1 28030
+S 
+#28010
+#MThe Hall of Gods#N~
+   Amongst these sacred halls lay the rooms of Gods both past and
+present who were either members of #MD#wo#CP#N or held by the clan in high
+regards for their wisdom and advice. #MD#wo#CP#N salutes and remembers those who
+gave unselfishly if their time and energy to create and rule in this
+land we call #bElitemud#N!
+~
+280 duz 0
+D0
+#MChani's Sylvan Paradise#N
+~
+~
+0 -1 1271
+D1
+#Mdroggs Room#N
+~
+~
+0 -1 1242
+D2
+Ix's Humble Abode~
+~
+0 -1 28017
+D3
+#rLink's Realm#N
+~
+~
+0 -1 1229
+D4
+#MThrone of the Eclipse Lord#N
+~
+door~
+1 -1 28016
+D5
+#MDen of the Eclipse#N
+~
+door~
+1 -1 28001
+S
+#28011
+#MThe Library#N~
+   As you walk in this great room you realize that this is where the 
+#MDragoon#e'#Ms#N come to read the important information being passed down from 
+member to member. As you stand in the center you get the feeling that 
+there is something different about this room. Its not just that huge 
+writing board in the center that #MPhos#N use to pass on information. 
+You walk to the center of the room and look up and see a huge 
+#Cskylight#N that allows the sun and moon alike to let their rays of 
+light into this great hall. Just as you are about to leave this room 
+it finally comes to you what is so different about this place. This 
+room is devoid of any sound.
+~
+280 douzE 0
+D3
+#MDen of the Eclipse#N
+~
+door den~
+1 -1 28001
+E
+skylight~
+As you look up you gaze in awe at the beauty of the skylight directly 
+above you. 20 feet in diameter, this giant dome fills the room with the 
+glory of the #yday#N and the beauty of the #Bnight#N. It seems to you 
+that there is nothing between you and the #bsky#N above.
+~
+S
+#28012
+#MThe Waiting Room#N~
+   As you descend from the #MDragoon Trove#N you realize at once that
+this isn't an ordinary room. You get the impression that your being
+watched by more then #gMercedes#N the secretary at the center of the room.
+You quickly scan the room and see a door to the #Gnorth#N and #Rsouth#N.
+Each door has a name over it. There are also quite a few #Bpictures of
+beautiful naked women#N on the walls in addition to a #Cstatue#N in the
+north corner of the room. Strangely enough there are #Mchairs#N on the
+West Side of the room. As you attempt to step towards one of the doors
+the secretary blocks your way and points to the south corner of the of
+the room where there is a #Csign#N.
+~
+280 duE 0
+D4
+#MDragoon Trove#N
+~
+~
+0 -1 28003
+D0
+#RDa #BFuzzy #YOne #C, High Lord of #G(HEMP)'s #C Room#N
+~
+door fuzzy lord high HEMP~
+1 -1 28013
+D2
+#MFistandantilus Room of Honor#N
+~
+door fistandantilus~
+1 -1 28014
+E
+picture women~
+Ashlyn's measurements are 34C-22-33 and five foot-three inches tall, 
+with shapely legs, a beautifully round ass and breasts that are enticing 
+mounds of flesh standing erect. Ashlyn is simply stunning.
+~
+E
+naked beautiful~
+Briana is a beautiful blonde, wild, who seems born to be a model. She 
+has a 34DD-26-30 figure and long, blonde hair. 
+~
+E
+chair chairs~
+As you check out these comfortable leather chairs you realize that you 
+may have a long wait before you gain entry into XeNos's and Fistandantilus
+rooms.
+~
+E
+Statue!~
+This is a statue of Kaitlyn our most precious prize. This buxom blonde 
+statue is a long legged seducer that boasts a stellar 34D-24-35 figure 
+at 5'5''.
+~
+>echo 15~
+I'm sorry but since you don't have an appointment, you will just have 
+to sit and wait.
+~
+S
+#28013
+#RDa #BFuzzy #YOne #C, High Lord of #G(HEMP) #COutdoors Indoors#N~
+   It is hard to tell if you just stepped outdoors or you are still 
+inside the clanhouse. This room rests against an enormous #Rredwood 
+#Rtree#N, which forms the inner wall. Some lower branches reach out 
+across the room towards the sunlight, which streams through the glass 
+ceiling. Large #wratton basket chairs#N filled with enormous soft 
+cushions swing from the tree's branches. During the heat of the day, 
+or when da Wolf seeks #Bnight#N, the glass ceiling darkens until the 
+room has the comfort of a shaded spot in a deep #Gforest#N or a cave 
+buried in the face of a mountain. The roof slants gradually from its 
+peak 20 feet up the side of the tree to a bare 8 inches from the thick 
+dark green moss, which cushions the floor. A very fine screen forms 
+the short remaining wall. The mesh seems to disappear when you attempt 
+to look closely at it. A bubbling stream fills the pond at the center 
+of the room, and the force of the water forms a small magical 
+#Bfountain#N that seems to be altered.
+~
+280 dtuz 0
+D2
+~
+door~
+1 -1 28012
+E
+redwood tree forest~
+Really some fabulous trees, a holdout from the Cretaceous or Pleistocene 
+prehistoric time. The Redwood is the world's tallest known tree and one 
+of the world's oldest trees. This tree, is nine hundred years old, 
+stands 360 feet tall and has a diameter of 15 feet. Redwoods are named 
+for the color of their bark and heartwood. The high tannin content of 
+the wood gives the trees remarkable resistance to fungus diseases and 
+insect infestations. The thick, fibrous bark has an even higher tannin 
+content, and insulates them from the periodic fires which have occurred 
+naturally down through the centuries. This immense tree has delicate 
+foliage. Narrow, sharp-pointed needles only one-half to three-quarters 
+of an inch long grow flat along their stems, forming feathery sprays. 
+The cones are about an inch long and each cone contains fourteen to 
+twenty-four tiny seeds
+~
+E
+ratton basket chair chairs~
+As you look at the ratton basket chairs you see it's made of wicker with 
+very thick reeds instead of thin ones and is almost enclosed on three 
+sides.
+~
+E
+night~
+As you look up into the night you see a vivid display. The night shines 
+with the light of the moon and the stars. It is indeed a beautiful site.
+~
+S
+#28014
+#MFistandantilus Room of Honor#N~
+   In this room full of pillage and plunder #MD#wo#CP#N honors one of their own.
+The wonderfully awesome spectacular Fistandantilus whose aliases have 
+been known to include Darklord, Hawkeye... and the list goes on and on.
+This fearless warrior will wipe out entire zones of monsters without
+even blinking an eye. This is where he plans out his mass killing sprees
+so that the they can be executed to perfection since nothing less than
+perfection will do. Just take a look around the room and admire and
+look in awe of at all of his trophies and prizes. The one we know as
+Fistandantilus is an admired #MD#wo#CP#N Council member.
+~
+280 dtuz 0
+D0
+#RThe Waiting Room#N
+~
+door waiting~
+1 -1 28012
+S
+#28015
+#MThe Store#N~
+   This is where all #MPhos#N come to do their business. As you can see 
+you can buy things from the nice merchant. In addition you can do 
+banking in case you have too much or too little cash on hand. As you 
+look around you notice a small sign on the wall.
+~
+280 deuzE 0
+D1
+#MDen of the Eclipse#N
+~
+door~
+1 -1 28001
+E
+sign~
+This is a place of business. I will not tolerate any violence or 
+stealing in my shop. Violators will be punished to the full extent of 
+the law!
+~
+S
+#28016
+#MThrone of the Eclipse Lord#N~
+   Closest to Phos is Kurrelgyre, Lord of the Eclipse, and co-founder of 
+our wondrous clan. His gilded throne sits here, lined with plush satin 
+cushions and endowed with a regal glow. A spire of light illuminates the 
+center of the room, piercing through a round window cut from diamond and 
+placed directly above the throne. This serves as a constant reminder of 
+Kurrelgyre's Lord, and his dedication to the #MDragoons #wof#C Phos#N. 
+~
+280 duz 0
+D5
+#MThe Hall of Gods#N
+~
+door~
+1 -1 28010
+E
+throne~
+As you examine the throne more closely, the glare seems to subside and 
+you see small, ornate etchings. Reading them more closely, you see the 
+names of the mercenaries who embrace Phos. 
+~
+S
+#28017
+#MIx's Humble Abode#N~
+   You are standing in a small, but ever expanding room. On the walls, 
+you see great artwork, which was obviously stolen from art galleries 
+around the world. The room is very cozy and you feel right at home. 
+~
+280 duz 0
+D0
+#MThe Hall of Gods#N
+~
+door~
+1 -1 28010
+S
+#28018
+#MAynjul's Playroom#N~
+   You have entered a room that appears to be completely white. Upon 
+closer inspection, you realize that you are surrounded on all sides by 
+walls made of moving clouds. The white, fluffy clouds and cool, blowing 
+breeze in this room give it a peaceful and relaxing feel. As you turn 
+around to get a better look at the rest of the room, you notice a black 
+kitten sitting on top of a smaller, stationary cloud just above your 
+head looking down ready to pounce! 
+~
+280 duz 0
+D2
+#MThe Hall of Rememberence#N
+~
+door~
+3 -1 28008
+S
+#28019
+#MGarf and Ragnar's Room#N~
+   This is a not so small room for two people. It has the standard 
+equipment; two desks, two closets, a weapons rack and of course a finely 
+carved four-poster canopy bed. The heavy oak desk obviously belongs to 
+Ragnar as there is an axe holding down a sheet of paper. The other 
+lighter desk just has to belong to Garf. The weapons rack has the 
+standard tools of the trade locked up in it; a couple of swords, an axe 
+or two, and of course a bow with a quiver of arrows A sign at the door 
+says: "Wipe Your Feet the rug costs money" 
+~
+280 duz 0
+D0
+#MThe Hall of Rememberence#N
+~
+door~
+1 -1 28008
+S
+#28020
+#MKeldron's Swinging Pad#N~
+   As you walk into this room the eerie glow of 30 lava lamps surrounds 
+you. You smell a faint trace of reefer and notice the bright colors on 
+the walls. Over the door hangs a sign proclaiming #r"FREE LOVE MAN!" #N
+There is a bean bag chair in the corner and a large flower shaped carpet 
+in the middle of the room. The resident has posted several Woodstock 
+posters on the wall and there is a stack of records up to waist level 
+in the corner. You decide to take a seat and the lights dim and a Jimmy 
+Hendrix record begins playing. "Hmm..." you think to yourself, "what a 
+swinging pad." 
+~
+280 duz 0
+D2
+#MA Phos  Hallway#N
+~
+door~
+1 -1 28005
+S
+#28021
+#MHarlan's Conservatory#N~
+   You have entered a place of learning and growth. In this room, Harlan 
+studies and cultivates the art of creating music. In the center of the 
+room, you see a beautiful #rpiano#N, superbly crafted from ebony. There 
+are various other musical instruments surrounding it. Along the west 
+wall, many large bookcases made of a dark wood stretch toward the 
+ceiling, filled with stacks of handwritten scores. As your eyes follow 
+the them upward, you see several large skylights that allow the sultry 
+glow of dusk to saturate the room. In the southern stretch of the room, 
+you see a huge #bbed#N adorned in fine silk. Beside it is a small 
+wooden table. Looking to the north, you see a small area of the floor 
+crowded with overstuffed beanbag chairs. It looks like a nice place to 
+relax for a while. There are many #gplants#N striving in stone pots all 
+around it. You feel a sense of peace and healing here. 
+~
+280 duz 0
+D0
+#MA Phos  Hallway#N
+~
+door~
+1 -1 28005
+E
+piano~
+It is a fine instrument, unlike any you have seen. The whole piano seems 
+to quietly emanate the emotion that has been poured into it. Its lid is 
+propped open, revealing the work of a master craftsman. The is a small 
+engraving in the sound board that reads: "Without music, life would be a 
+mistake." - Nietzsche 
+~
+E
+bed~
+The bed is large and round, about ten feet across. The sheets, a cobalt 
+pool of silk, are in disarray. There are pillows strewn about the bed 
+and the floor around it. The scent of a woman lingers in the air here. 
+~
+E
+plant plants~
+The plants appear to be a fine strain of cannabis sativa. 
+They are robust and fragrant. 
+~
+S
+#28022
+#wMinas #gLus#yi#rtania#N~
+   You feel a sense of quietness as you enter this room. A dim light 
+comes from the walls and a soft tone fills the place. Lying on the 
+floor you find a #bbagpipe#N and a #brecorder#N among other musical 
+instruments. On a desk some unfinished music scores wait the 
+inspiration of their creator. At the other end some rather #Mqueer 
+shelves#N keep #bbooks#N and #bscrolls#N of all sizes and for all 
+ocasions just next to bottles containing liquids of bizarre colours 
+and smells. On a heavy table rests a wizard hat and a wand seeming to 
+move with own life. Levitating over a shiny mirror there is a 
+#Mplaque#N reading in some weird language.
+~
+280 djuz 0
+D2
+#MA Phos Hallway#N~
+~
+1 -1 28007
+E
+plaque~  
+           #M| x x x x x x x x x x x x x x x x x |
+           |x o o o o o o o o o o o o o o o o x|
+           | o x x x x x x x x x x x x x x x o |
+           |x x|                           |x x|
+           | o |                           | o |
+           |x x|  #yREQUALIFICAR E' LINDO!   #M|x x|
+           | o |                           | o |
+           |x x|                           |x x|
+           | o x x x x x x x x x x x x x x x o |
+           |x o o o o o o o o o o o o o o o o x|
+           | x x x x x x x x x x x x x x x x x |
+~
+E
+shelf shelves~
+#MAvariel #CPrivate #NLibrary
+Tacking a fast look the shelves you see large books, small books, 
+weird books with wood covers, elegant books with fine worked leather 
+covers, scrolls with strange symbols, bottles filled with exotic 
+fluids, multiple flasks containing arcane ingredients. You try to get 
+one book out, but when you touch it you feel a pain in the soul that 
+force you to drop it. A voice in you head warns you that you're not 
+allowed to take that book. You take another look trying to find 
+something without a protective aura and your eyes stop in one name 
+that you recognize. In one of the books you read '#MThe book of 
+Shadows#N by #bAvariel the Warmage#N'. This must be the famous 
+library of the migthy wizard.
+~
+E
+book~
+The #MBook #Cof #NShadows by #MAvariel the Warmage#N
+You see a large book with letters and magic symbols of gold and a 
+purple silk cover. The book of shadows is more then a spell book, is 
+the diary of the wizards progress in the art of magic, were he 
+register his thoughs, his visions and his spells. The book is the 
+Warmage greater treasure and this one is protected with several
+spells that gives it a strange aura of many colours, a aura that keep 
+the nosy folks away.
+~
+E
+bagpipe~
+The #MBagpipe #Cof #NWarsongs
+The #bbagpipe#N is decorated by a symbol in silver blue from an 
+ancient celtic village. It looks as if music comes from it calling 
+you to battle. #CGood luck to your quest!#N
+~
+E
+recorder~
+#MPalantir#C's #Nrecorder
+This #rrecorder#N appears to be very precious indeed to its owner. It 
+is as shiny as if it was polished today and it is placed on soft red 
+silk. Picking it up and blowing a tune you hear the rumble of a 
+thousand warrior coming to help you.
+~
+S
+#28023
+#MSamas' #NSecret #CPalace#N~
+   As enter you notice two haunting golden #Cknights#N on each side of 
+the platinum door. You begin to question your existence in such a room 
+and start to quiver. However, you begin to hear an inviting chant coming 
+from the slaved #Cmonks#N in the corner of the palace. Further in 
+tapestries align the walls in a soothing manner. You no longer feel 
+apprehension of being lost. You begin to wonder what type of wealth can 
+purchase and decorate a room with such soothing discipline. Samas is a 
+man of power, deception, and care for his fellow clannies. However, you 
+will begin to notice in your stay that there is no expectance of his 
+return. A journeyman and nomad, Samas rarely is present in his own 
+palace. To the contrary, he has filled this room with gold, herbs, and 
+riches to express his wealth and share it with other #MD#wo#CP#N members. You 
+now figure that after staying in such wealth for a few hours, it is time 
+to leave. You take one last sniff of power and exterminate your 
+existence. Wait... what was that? Who was watching you gazing the riches? 
+You run out more quickly than you entered.
+~
+280 duz 0
+D0
+#MA Phos  Hallway#N
+~
+door~
+1 -1 28007
+E
+knight knights golden~
+The knight statues, made of the purest gold, diamonds, and platinum, are 
+created after darkest days of Elite. Built much like the guardians of 
+the ancient Elite Clan, these enormous statues can scare even the second 
+toughest warrior of Elite. The only fighter not tainted by their evil 
+looks is the owner of this room, Samas. The great sculptor, Michelangelo 
+is the artist of these two massive golden pieces. Their value is 
+priceless and the shear wonder of how Samas could purchase one, let 
+alone two, is an unknown myth. 
+~
+E
+monk monks slaved~
+Hailing from the most secluded mountains of Tibet, these ancient 
+Buddhist monks are skilled in the art of muteness and chanting. They all 
+have ridded of material needs which makes their presence in this room 
+of wealth a wonder in itself. The average value of a monk on the slave 
+market is nearly 50m, but as you well know, this is pocket change to the 
+great and powerful
+~
+S
+#28024
+#MWab#No's D#Cojo#N~
+   When you walk in to the #CDojo#N you see Wabo in his #wwhite#N 
+judogi. And you notice that he knows exactly what to do on the 
+#gtatami#N. Wabo looks at you and tells you 'Hey come on join the 
+fun!' and #ySmiles#N next to the #gtatami#N you see a table with 
+a #bTV#N on it, and in front of the table you see a #rBIG#N fluffy 
+#mBED#N and in the corner a Pool table. What a nice place to 
+#CRELAX#N in.
+~
+280 duz 0
+D2
+#MA Phos Hallway#N
+~
+door~
+1 -1 28009
+S
+#28025
+#rPuma#e'#rs#e #rA#ercane #rS#eanctuary#N~
+   This magical room is filled with thin #egrey#N mist. The walls are 
+covered in ancient #yglowing#N #Crunes#N, and there is a round #eblack#N 
+table in the middle of the room, filled with different #Gscrolls#N and 
+#Mpotions#N. Then you feel like you are being watched, when you turn 
+around you see a little #bImp#N looking up at you. Then you realize that 
+there are #rmages#N living here, when you sit down you feel a #Rwarm 
+#Gfeeling#N flow though you, and you feel #Bsafe#N here
+~
+280 dtuz 0
+D0
+#MA Phos Hallway#N
+~
+door~
+1 -1 28009
+E
+imp~
+This little Imp is like all other Imps, short, annoying and loyal to his 
+Mage. He looks at you, examining you equipment.
+~
+E
+runes~
+These strange Runes glow with a #rred#N light, they are from an ancient 
+order of mages. They seem to heal your wounds quicker.
+~
+S
+#28026
+#CHigh #Ntower #Mroom#N~
+   This is where the mighty dweomer master #CGlobal #Nspends his time
+when he doesn't level or is helping other clan members. In his room he
+has a lot of books witch contain magic formulas and the history of other
+masters and the history of other clans. There is many other stuffs in his
+tower room too, he has a small bed where he sleeps and at the wall there
+is a large chest with his clothes. At the right side of the window there
+is a big fire barrel witch he can use to see great distances. There is 4
+statues in here, one of the Greatest Dweomer master Nevyn, the wise elf
+Dallandra, Aderyn when he is in his owl shape ready to take off and Jill´s
+most loved warrior Rhodry. And on the left side on the wall beside the
+window there is a picture of the dragon Arzosah Sothy Lorezohaz.
+~
+280 duz 0
+D2
+#MA Phos Hallway#N
+~
+door~
+1 -1 28030
+E
+chest~
+You look at a chest on the floor witch contains all the stuffs that 
+Global has been collecting under all these years. In the chest you
+see a many herbs and clothes, even some weapons is lying in the 
+chest.
+~
+E
+nevyn~
+Here stands Nevyn a great dweomer master, he is holding his staff and 
+he is wearing a large coat.
+~
+E
+dallandra~
+Here is one of the mighty elven dweomer master named Dallandra, she was
+Aderyns husband before got contact with the Guardians witch took her to
+their world where the time passed much slower then in the land that
+Aderyn lives in. She is wearing a coat and backpack, and she is sitting
+on a horse.
+~
+E
+rhodry~
+You want to #rscream#N when you see him in this mood, hes is ready for
+a fight and he is already berzerking, with his laugh you just want to
+flee far away from him.
+~
+E
+arzosah sothy lorezohaz:~
+Arzosah is a huge black dragon who lives far up in the mountains among
+the volcanos, so she can keep warm all the long winter. The only one
+that can control her is the one who has the #wsilverring#N. And the one
+who has it now is Rhordry.
+~
+E
+aderyn~
+He is a kind of strange elf, because he looks like an owl. But he is just
+as mighty as all the other Dweomer masters.
+~
+S
+#28027
+#MAdara's abode#N~
+   As you walk in this room you immediately smell the #mevocative#N
+fragrance of the perfume Adara wears. The apparent source seems to be a
+#rrose#N lying on the farthest wall. The wallpaper of the room is pink and
+speckled with flowers. There is a marble statue of #MPhos#N in a corner
+surrounded by perpetually burning candles. Adara's #Ycomfy bed#N is in the
+center of the room with her clothes spread all over it. There is also a
+portrait of Adara's true love, that #Cmagically#N changes when her heart
+changes. A small #egrey#N kitten with #gbright eyes#N leaps toward you.
+~
+280 duz 0
+D0
+#MA Phos Hallway#N
+~
+door~
+1 -1 28030
+E
+grey kitten bright eyes~
+This is an elegant #egrey#N kitten with #gbright eyes#N and black
+stripes down his sides with one long magnificent black stripe from the
+tip of his tail to the top of his head. You can't help but to draw in a
+breath and just take in this magnificent creature, its somehow #Cmagical#N.
+~
+E
+rose red~
+As you gaze upon this rose, the redness of the petals enchants you and
+draws you into it and fills you with its scent which causes you to smile
+and feel loved.
+~
+S
+#28028
+#MRoom of Gilian#N~
+   This is not a big room, it looks like a trophy room or something like 
+that. On the North wall you see a lot of heads hanging. Mostly orcs 
+(from Moria), but there I also saw other evil creatures hanging there. 
+You see a sign that says "Balrog". But the balrog doesn't seem to be 
+there. On the East wall there is lots of equipment (also from Moria) 
+hanging, nothing interesting. On the right side of the door you see 
+three stuffed horses. When you look at the first one you see that it is 
+a brown colored, fat horse (it looks very lazy). The second is also 
+brown, but this one looks underfed, not very nice. When you take a 
+closer look on the third horse you see a very muscular white colored 
+horse. A very fine horse (it looks like a fake). On the West Side of 
+the room you see a very large, blue and white colored bed. Beside it 
+lies a #Mnote#N. On the bed you see a small note.
+Above the bed is a big #Mpainting #wof four #Cbards#N.
+~
+280 duz 0
+D2
+#MA Phos Hallway#N
+~
+door~
+1 -1 28031
+E
+note~
+This is my Hästens bed and it was very expensive so do not touch!
+~
+E
+painting four bards~
+The four bards are Hansi Kursh, Andre Olbrich, Markus Siepen and Thomen 
+Stauch. These four bards have wandered together in a very long time. 
+They call themselves The Blind Guardians.
+~
+S
+#28029
+Title (free room)~
+Description
+~
+280 duz 0
+S
+#28030
+#MA Phos Hallway#N~
+   This is a long hallway that expands to the east. From this hallway 
+you can get to many different rooms of the #MDragoon's#N.
+~
+280 duz 0
+D0
+#CHigh #Ntower #Mroom#N
+~
+door~
+1 -1 28026
+D1
+#MA Phos Hallway#N~
+~
+0 -1 28009
+D2
+Adara's abode
+~
+door~
+1 -1 28027
+S
+#28031
+#MA Phos Hallway#N~
+   This is a long hallway that expands to the west. From this hallway 
+you can get to many different rooms of the #MDragoon's#N.
+~
+280 duz 0
+D0
+#MRoom of Gilian#N
+~
+door~
+1 -1 28028
+D3
+#MA Phos  Hallway#N
+~
+~
+0 -1 28007
+S
+#28032
+#MA Phos Hallway#N~
+   This is a long hallway that expands to the west. From this hallway 
+you can get to many different rooms of the #MDragoon's#N.
+~
+280 duz 0
+D0
+#MLoomin's Throne Room#N
+~
+door~
+1 -1 28033
+D3
+#MA Phos  Hallway#N
+~
+~
+0 -1 28005
+S
+#28033
+#MLoomin's Throne Room#N~
+   You have entered the room of Loomin, the mighty warrior. The first
+thing that catches your eyes is a big map on the southern wall. It
+shows what the world looked like a long time ago when the world was 
+still new. You also see a different collection of all kinds of ancient 
+weapons and armours. He has saved them during the ages, and when he some
+day in the future retires, he will write a history book about armour and
+weapons, and how they have developed through the ages.
+#GLoomin's Large golden breast plate lies here
+A staff of magic lies here
+Loomin's Journal lies here
+A #yGolden #GDagger lies here
+~
+280 duz 0
+D2
+#MA Phos  Hallway#N
+~
+door~
+1 -1 28032
+E
+breast plate~
+#MOn this armour, you see a banner from a clan long lost.
+#CYou can still see the marks of #eswords#C on it.
+~
+E
+staff~
+This is a #MM#Ca#Mg#Ci#Mc#Ca#Ml #wstaff it can only be used by its original owner #ML#Coomi#Mn.
+~
+E
+golden dagger~
+This ancient dagger is made out of pure gold. It was once made by the
+hands of an elder priest, to be used in ceremonies. It still keeps
+the memory of ancient rituals and sacrifises alive.
+~
+E
+journal~
+This is what you see on the journal#M
+ 
+                  ,_
+                   _  \`\  )\  ,
+                   \`\|  \/ |_/\  
+         .-. ,    _/  `   '     |/\
+         _> \|\,_'>               <__,
+        `\      ,/\/\               /__  ,
+         / _   / `/) >_,/\            <_/|
+  * _____\/_\._\'     ,   '-\  /\        /_,
+   `-.\\_\\_\\} /|     |     >/ |       ` /         
+              | #gD#M/    /    ; ` _\       .'       
+              |    _.'|   ;   /        /_,             
+              |    (_ | .'    _>        <
+              |, _ `,`\_    ,_/        _.'
+               \| 7/`\_;`  \         /_ ,
+                  `  ;  _.-'           /
+                     | <             <'
+                     |  `7         .-'
+                     \_ /__________/
+#NBut thers a lock on it so you cant read it#N
+~
+S
+#28034
+#MThe #cSizzling #MChamber#N~
+   As you step into the glowing chamber, your eyes immediately hurt from
+a blazing #wsphere#N of white light just in the middle of the room. This
+is the recharging room of the being known as #cBalefire#N. There are no
+furniture or other objects in the room, for what chairs does a fiery
+entity need? When the thing isn't roaming the lands, you can be sure it
+is either recharging close to the giant sphere, or it has withdrawn into
+it completely. Should it be in this room and regaining lost energy, be
+sure to keep away from the uncontrolled bursts of fire which sometimes 
+emerges from it's body, as they can kill even before they reach home.
+~
+280 duz 0
+D4
+#MA Phos Hallway#N
+~
+door trapdoor~
+1 -1 28005
+E
+sphere~
+A ball of electricity, that  now and then strikes out bursts of pure
+energy. If you feel your hairs are starting to stand straight out, you're
+standing too close.
+~
+S
+#99999
+$~

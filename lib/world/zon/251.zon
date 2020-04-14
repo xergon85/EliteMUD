@@ -1,0 +1,82 @@
+#251
+Black Lagoon~
+25199 50 2
+*
+*Created by Anubis alias Claes Soerensson
+*
+*   In the Summer of 1995
+*
+* Mobiles
+M 0 25100 19 25119 Deep One
+E 1 25108 22 16      spear
+M 0 25101 19 25119 Deep One
+E 1 25108 22 16      spear
+M 0 25101 19 25119 Deep One
+E 1 25108 22 16      spear
+M 0 25101 19 25122 Deep One
+E 1 25108 22 16      spear
+M 0 25100 19 25124 Deep One
+E 1 25108 22 16      spear
+M 0 25100 19 25126 Deep One
+E 1 25108 22 16      spear
+M 0 25100 19 25134 Deep One
+E 1 25108 22 16      spear
+M 0 25101 19 25150 Deep One
+E 1 25108 22 16      spear
+M 0 25100 19 25146 Deep One
+E 1 25108 22 16      spear
+M 0 25101 19 25138 Deep One
+E 1 25108 22 16      spear
+M 0 25101 19 25136 Deep One
+M 0 25102 6 25131 Thraxx
+M 0 25102 6 25153 Thraxx
+M 0 25102 6 25133 Thraxx
+M 0 25103 20 25152 Piranha
+M 0 25103 20 25152 Piranha
+M 0 25103 20 25152 Piranha
+M 0 25103 20 25152 Piranha
+M 0 25103 20 25152 Piranha
+M 0 25103 20 25152 Piranha
+M 0 25103 20 25152 Piranha
+M 0 25103 20 25152 Piranha
+M 0 25103 20 25152 Piranha
+M 0 25103 20 25152 Piranha 10
+M 0 25103 20 25168 Piranha
+M 0 25103 20 25168 Piranha
+M 0 25103 20 25168 Piranha
+M 0 25103 20 25168 Piranha
+M 0 25103 20 25168 Piranha
+M 0 25103 20 25168 Piranha
+M 0 25103 20 25168 Piranha
+M 0 25103 20 25168 Piranha
+M 0 25103 20 25168 Piranha
+M 0 25103 20 25168 Piranha 10
+M 0 25104 2 25163 Tiger
+M 0 25107 1 25139 Captain Silver
+G 1 25103 100      boat
+M 0 25105 8 25160 Parrot
+M 0 25105 8 25160 Parrot
+M 0 25105 8 25164 Parrot
+M 0 25105 8 25162 Parrot
+M 0 25105 8 25163 Parrot
+M 0 25105 8 25157 Parrot
+M 0 25105 8 25165 Parrot
+M 0 25106 5 25160 Pict
+E 1 25107 10 16    pict's axe
+M 0 25106 5 25160 Pict
+E 1 25107 10 16    pict's axe
+M 0 25106 5 25165 Pict
+E 1 25107 10 16    pict's axe
+M 0 25106 5 25165 Pict
+E 1 25107 10 16    pict's axe
+M 0 25106 5 25164 Pict
+E 1 25107 10 16    pict's axe
+E 1 25105 5  13    loincloth on pict
+* Objects
+M 1 25108 1 25164  Shaman
+E 1 25106 5 3      and equip him with amulet.
+O 0 25104 5 25138   Sign
+S
+#99999
+$~
+

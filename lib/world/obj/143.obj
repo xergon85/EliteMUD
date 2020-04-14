@@ -1,0 +1,510 @@
+#14300
+spear heavenly~
+a heavenly spear~
+A heavenly spear has been left here by it's owner.~
+~
+5 40 cks ik an
+40 3 8 12 0 0
+10 5000 0
+E
+spear heavenly~
+This spear looks like any normal spear with religious origin,
+but when you touch it you feel that this spear came right
+down from Heaven!
+~
+A
+18 3
+A
+19 4
+#14301
+golden armor plate heavenly~
+a golden armor~
+A golden plated armor like this one should be quite valuable...~
+~
+9 40 abcefgijklms ik ad
+15 40 0 0 0 0
+30 5000 0
+E
+golden armor plate heavenly~
+This plate is obviously made mostly for the looks - it doesn't
+look very protective.
+~
+#14302
+angel halo heavenly~
+an angel's halo~
+There is an angel's heavenly halo busy spreading goodness here.~
+~
+9 40 0 agik ae
+10 40 0 0 0 0
+1 500 0
+E
+halo angel heavenly~
+It's a glowing circle that is usually hovering above ones head,
+symbolizing goodness.
+~
+#14303
+plain dress white heavenly~
+a plain white dress~
+A plain white dress is lying forgotten on the ground with noone
+to wear it.~
+~
+9 40 0 gik ad
+10 40 0 0 0 0
+5 1000 0
+E
+plain dress white heavenly~
+This dress should be worn by an angel. Where is the angel now?
+~
+#14304
+wing wings heavenly~
+a pair of wings~
+A pair of wings is flapping, trying to take off, but they need
+someone to wear them.~
+~
+9 40 0 gik ak
+10 40 0 0 0 0
+1 1000 0
+E
+wing wings heavenly~
+These heavenly wings are angel wings, the kind you get when
+you enter Heaven. Either someone stole them or ripped them off
+some poor angel.
+~
+A
+14 50
+A
+10 -50
+#14305
+heavenly hand god~
+the hand of God~
+The mighty hand of God is unbelievably enough within your reach!~
+~
+5 100 cks agikln ao
+100 6 10 7 0 0
+17 100000 0
+E
+heavenly hand god~
+This is the hand of God, the ultimate tool of divine power.
+Wield this and you have an unbelievably powerful weapon!
+~
+A
+12 100
+A
+12 100
+A
+19 10
+A
+18 6
+#14306
+flaming sword gabriel heavenly~
+Gabriel's flaming sword~
+Gabriel's flaming sword is ready to toast some demons!~
+~
+5 95 abcdefgijkms abgiku an
+95 5 10 3 0 0
+16 25000 0
+E
+flaming sword gabriel heavenly~
+This sword can turn your enemies to roasted bread, and your evil enemies
+to coal. But remember, it was meant only for Gabriel to use...
+~
+A
+18 10
+A
+19 7
+#14307
+shield protection heavenly michael~
+the shield of protection~
+Michael has created this shield to protect from foul evilness.~
+~
+9 85 abcefgijkms abgik aj
+10 85 0 0 0 0
+10 25000 0
+E
+shield protection heavenly michael~
+This shield was created by Michael to protect it's user against any kind
+of injuries - magical or physical. It works rather well.
+~
+A
+24 5
+#14308
+key staff moses wooden~
+Moses' wooden staff~
+The staff Moses used to divide the ocean in half wants to do it again!~
+~
+18 1 0 bi ao
+0 0 0 0 0 120
+8 100 0
+E
+key staff moses wooden~
+This staff was once used by Moses to divide the ocean in half, letting
+his people flee from the egyptians. The staff still has got some power
+left in it...
+~
+B C
+#14309
+stone tablet~
+a stone tablet~
+A stone tablet with words of wisdom is waiting to be read.~
+~
+16 1 0 0 a
+0 0 0 0 0 0
+1 1 0
+E
+stone tablet~
+The stone tablet reads:
+Thou shalt not...
+~
+#14310
+stone tablet~
+a stone tablet~
+A stone tablet with words of wisdom is waiting to be read.~
+~
+16 1 0 0 a
+0 0 0 0 0 0
+1 1 0
+E
+stone tablet~
+The stone tablet reads:
+Thou shalt not...
+~
+#14311
+healers healer's gloves heavenly raphael~
+healer's gloves~
+These heavenly gloves have special healing powers, waiting to be used.~
+~
+3 80 acdeghiklmnops gik aho
+100 5 0 28 0 0
+5 10000 0
+E
+healers healer's gloves heavenly raphael~
+These gloves were once worn by Raphael to give him greater healing powers
+(not that he needed any help). Of course, you could use them just as well.
+~
+A
+17 -12
+#14312
+ring treason lucifer heavenly~
+Lucifer's ring of treason~
+Lucifer's lesser ring of treason might be useful in sneaky occasions.~
+~
+9 57 abdeghimnp gj ab
+12 57 0 0 0 0
+3 50 0
+E
+ring treason lucifer heavenly~
+This is Lucifer's lesser ring of treason. Good to have if you want to
+spy on people or sneak up on them.
+~
+B bst
+#14313
+damned ring treason lucifer heavenly~
+Lucifer's damned ring of treason~
+Unfortunately, Lucifer's greater ring of treason is damned.~
+~
+9 90 abcdhknops ghjn ab
+20 90 0 0 0 0
+3 2500 0
+E
+ring treason lucifer damned heavenly~
+This ring was cursed by God when Lucifer tried to infiltrate Heaven by
+using the ring, so it lost its special powers.
+~
+A
+12 50
+B j
+#14314
+dragon slayer lance george heavenly~
+the dragon slayer lance~
+The lance saint George used to slay the dragon wants some reptile blood!~
+~
+5 80 abcefgijklmos ik an
+80 6 10 12 0 0
+16 10000 0
+E
+lance dragon slayer george heavenly~
+This lance was once used by saint George to slay the evil dragon that was
+about to eat the beautiful princess. The bravery of saint George still
+remains in this powerful lance - the dragons will have to watch out for
+anyone wielding this weapon!
+~
+A
+18 8
+A
+19 8
+#14315
+dragon shield george heavenly~
+the dragon shield~
+Pick this dragon shield up and no fire will harm you no more!~
+~
+9 80 abcefgijklmos ik aj
+13 80 0 0 0 0
+16 10000 0
+E
+dragon shield george heavenly~
+This was the shield saint George used as protection when he fought the evil
+dragon. It has been given special abilities that will protect against
+the fire of dragons...
+~
+A
+20 15
+#14316
+grail holy heavenly~
+the holy grail~
+The holy grail is waiting to be quaffed.~
+~
+10 60 0 agi a
+60 3 28 28 0 0
+2 500 0
+E
+grail holy heavenly~
+The grail is made of gold, with really nice patterns in it. Noone but a
+pure genius of art could have made this, or a really good magician.
+~
+#14317
+big sack nicholaus heavenly~
+a big sack~
+This big sack could probably contain a whole mountain of loot.~
+~
+15 1 0 gi ao
+200 0 -1 0 0 0
+1 10 0
+E
+big sack nicholaus heavenly~
+This is the sack saint Nicholas keeps all his stuff in. As the patron
+saint of the thieves, he's got to have something to keep his loot in.
+~
+#14318
+santas santa lantern heavenly nicholas~
+Santas lantern~
+A lantern spread its warm light in the room.~
+~
+1 80 0 agik ao
+0 0 20 0 0 0
+5 100 0
+E
+light lantern heavenly nicholas~
+This lantern is designed not only to spread light around the holder, but
+also a feeling of peace. The holder will feel faster, healthier and more
+self-confident with this lantern lit.
+~
+A
+13 50
+A
+14 40
+A
+6 3
+#14319
+crown candles lucia heavenly~
+a crown of candles~
+This crown made out of candles should be worn with pride.~
+~
+9 80 abcdiks gik ae
+12 80 0 0 0 0
+4 1000 0
+E
+crown candles lucia heavenly~
+This crown was worn by sainte Lucia as a light source, since she had her
+hands full with bread and water for the christian prisoners in the roman
+dungeons. Too bad they executed her...
+~
+A
+6 3
+A
+13 100
+#14320
+scythe death apocalyptic~
+the apocalyptic scythe of #rDeath#N~
+#rDeath#G's dark scythe is within your reach. Dare you wield this evil
+tool of destruction?~
+~
+5 99 bfhjnp ceghjn an
+99 6 9 3 0 0
+14 10000 0
+E
+scythe death apocalyptic~
+This is the uttermost evil tool of chaotic destruction you will ever have
+the opportunity to lay your hands on. Nothing withstands the power of the
+first horseman, Death, and his scythe.
+~
+A
+18 10
+A
+19 13
+#14321
+cape death apocalyptic~
+the cape of #rDeath#N~
+The apocalyptic cape of the horseman #rDeath#G is waiting to be worn by
+some foolish adventurer.~
+~
+9 99 bfhjnp ceghjn ak
+20 99 0 0 0 0
+10 10000 0
+E
+cape death apocalyptic~
+As you look at this cape, you can almost see the skull face of #rDeath#N
+staring at you from the black weave. You hear his wicked laugh, sense his
+foul evilness... Is this truly the fate of mankind?
+~
+A
+12 50
+A
+24 10
+A
+6 -2
+#14322
+axe war apocalyptic~
+#RWar#N's apocalyptic axe of destruction~
+You see the axe of #RWar#G, the second of the apocalyptic horsemen.~
+~
+5 97 abcefgijkms j an
+97 7 10 3 0 0
+24 10000 0
+E
+axe war apocalyptic~
+Blood is dripping from the blade of this cruel double bladed axe. The runes engraved on it seems to absorb the surrounding light in their foulness. Be careful with this axe!
+~
+A
+19 18
+A
+12 -100
+A
+12 -100
+#14323
+plate war apocalyptic~
+#RWar#N's resistant plate~
+The plate of #RWar#G seems to be absorbing all magic around it.~
+~
+9 97 abcefgijkms ej ad
+45 97 0 0 0 0
+40 10000 0
+E
+plate war apocalyptic~
+This plate will render it's wearer nearly invincible, even to arcane
+powers!
+~
+A
+12 -100
+A
+12 -100
+A
+24 10
+#14324
+helmet war apocalyptic~
+#RWar#N's apocalyptic helmet~
+A war helmet has been abandoned on the ground here.~
+~
+9 97 abcefgijkms ej ae
+30 97 0 0 0 0
+15 10000 0
+E
+helmet war apocalyptic~
+This helmet was made by warriors, for warriors, and any sorcerer trying
+to use it will soon loose a great deal of his powers.
+~
+A
+12 -100
+A
+12 -100
+A
+13 50
+A
+24 5
+#14325
+disease dagger pestilence apocalyptic~
+#GPestilence#N's dagger of disease~
+Flies circle around a dagger that someone left here.~
+~
+5 98 abdefhijlmnop hjn an
+98 4 12 11 0 0
+6 10000 0
+E
+disease dagger pestilence apocalyptic~
+This is the dagger used by #GPestilence#N - the third horseman of the
+Apocalypse. Be very careful with using this dagger - it's not only
+bad for your enemies.
+~
+A
+18 12
+A
+19 12
+B l
+#14326
+potion flask chemical~
+A chemical flask~
+You notice a small flask filled with chemicals that has been left here.~
+~
+10 30 0 a a
+30 27 -1 -1 0 0
+2 100 0
+E
+flask potion chemical~
+Oh, just a small flask filled with chemicals.
+~
+#14327
+key death black apocalyptic~
+The black key to #rDeath#N~
+A black key with the name of #rDeath#G written upon it is waiting to be 
+picked up.~
+~
+18 1 0 c a
+0 0 0 0 0 120
+5 100 0
+E
+key death black apocalyptic~
+The key has the word #rDeath#N written upon it, and some runes which are impossible for you to translate.
+~
+#14328
+key war blood red apocalyptic~
+The blood red key to #RWar#N~
+A blood red key with the name of #RWar#G written upon it is waiting to be 
+picked up.~
+~
+18 1 0 c a
+0 0 0 0 0 120
+5 100 0
+E
+key war blood red apocalyptic~
+The key has the word #RWar#N written upon it, and some runes which are impossible for you to translate.
+~
+#14329
+key pestilence green apocalyptic~
+The green key to #GPestilence#N~
+A green key with the name of #GPestilence#G written upon it is waiting to 
+be picked up.~
+~
+18 1 0 c a
+0 0 0 0 0 120
+5 100 0
+E
+key pestilence green apocalyptic~
+The key has the word #GPestilence#N written upon it, and some runes which are impossible for you to translate.
+~
+#14330
+key famine pale grey apocalyptic~
+The pale grey key to #wFamine#N~
+A pale grey key with the name of #wFamine#G written upon it is waiting to 
+be picked up.~
+~
+18 1 0 c a
+0 0 0 0 0 120
+5 100 0
+E
+key famine pale grey apocalyptic~
+The key has the word #wFamine#N written upon it, and some runes which are impossible for you to translate.
+~
+#14331
+key petrus heavenly~
+Saint Petrus' key to the gates of Heaven~
+A great white key bears promises of eternal pleasure.~
+~
+18 1 0 c a
+0 0 0 0 0 120
+5 100 0
+E
+key petrus heavenly~
+This key rightfully belongs to saint Petrus, and should be used by noone
+but him. How come you have it in your hands?
+~
+#99999
+$~

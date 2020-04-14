@@ -1,0 +1,26 @@
+#7190
+ring silver~
+a glinting silver ring~
+A lovely silver ring has been left here.~
+~
+9 8 0 g ab
+5 0 0 0 0 0
+9 8000 5000
+A
+13 30
+#7191
+ring gold goldring~
+a golden ring~
+A shiny gold ring has been abandoned here.~
+~
+13 0 0 m ab
+1 0 0 0 0 0
+1 0 180000
+E
+warning gold ring goldring~
+This isn't what you think it is...
+~
+A
+3 -5
+#99999
+$~

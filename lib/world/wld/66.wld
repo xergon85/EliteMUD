@@ -1,0 +1,2613 @@
+#6600
+Gate to Tynstri~
+   Tall, lacy ironwork gates painted a gleaming white are flanked by
+guards in bright white uniforms.  The gates of Tynstri are open wide to
+welcome all those who come in good faith to visit, to hunt or to shop
+here.  The elves are always on the watch for evil, however, so better
+watch your step!!
+~
+66 0 1
+D0
+North of here you see a very tall circular white tower made of gleaming
+white stone.
+~
+door oak heavy~
+1 -1 6601
+D1
+The road to town continues east.
+~
+gate iron door
+~
+1 -1 6607
+D2
+South of here you see a very tall circular white tower made of gleaming
+white stone.
+~
+door oak heavy
+~
+1 -1 6604
+D3
+Off to the west you see the rest of the world.
+~
+~
+0 -1 507
+S
+#6601
+Ground level of North Tower~
+   You enter a dark, circular room, the only light filtering in from
+the open door and from far up in the tower.  A narrow stone staircase
+spirals clockwise around the stone wall.  You may leave by the door to
+the city gate, or you may climb the spiral staircase leading up the
+tower.
+~
+66 d 0
+D2
+Looking south you see the lacy white ironwork of the gates to Tynstri.
+~
+door heavy oaken~
+1 -1 6600
+D4
+The top of the tower shines dimly above you.
+~
+~
+0 -1 6602
+E
+staircase~
+Looks pretty rough and narrow to me.
+~
+S
+#6602
+Spiraling around inside the North Tower~
+   The spiral staircase seems to circle endlessly around and around the
+stone staircase.  You are in almost total darkness.  The tower door is
+far beneath you and the end of the staircase is nowhere in sight.  You
+are tempted to cling to the stone walls as the stairs were made for
+sure footed elves.
+~
+66 d 5
+D4
+Dim light filters through from above.
+~
+~
+0 -1 6603
+D5
+F-a-a-a-r below you lies the stone floor of the tower.
+~
+~
+0 -1 6601
+E
+walls~
+They are old, and rough.  They tear at your clothes where you brush
+against them.
+~
+S
+#6603
+Atop the North Gate Tower~
+   You emerge at the top of the tower, and the tower's purpose becomes
+immediately obvious.  This tower faces eastward, toward the treetop
+kingdom of the elves.    A fire here would be unthinkable, and you
+understand the use of the large horn to the right of the watcher.
+~
+66 d 0
+D5
+You see an endlessly spiraling staircase leading down.
+~
+~
+0 -1 6602
+S
+#6604
+Bottom of South Tower~
+   This large, dark, circular room smells of mold and old moss.  The
+bare stone walls support a large staircase, which circles 
+counterclockwise up the tower.  The stone staircase looks sturdy and 
+well kept, if perhaps a bit rough.  There is no handrail.  You may 
+leave by the door to the gate or try your luck up the staircase.
+~
+66 d 0
+D0
+A heavy oaken door leads north.
+~
+door~
+1 -1 6600
+D4
+Above you a staircase spirals endlessly.
+~
+~
+0 -1 6605
+S
+#6605
+Part of the way up the South Tower of Tynstri~
+   You circle endlessly between the hard stone floor far beneath you
+and the dim light from above.  The watchtower really towers, you tell
+yourself, as your legs grow tired.  You contemplate resting on one of
+the steps, but they are REALLY narrow and VERY hard.
+~
+66 d 0
+D4
+Looking up, all you can see is a small opening at the top of the
+stairway far away.
+~
+~
+0 -1 6606
+D5
+W-a-a-a-y down, you see the stone floor of the tower and the large oak
+door.
+~
+~
+0 -1 6604
+S
+#6606
+Atop the South Gate Tower~
+   During the day and on moonlit nights, the top of the tower is filled
+with light from the large open area looking west.  From this watch
+station a keen-sighted elf can see far into the forest surrounding
+Tynstri.  The room is barren and comfortless.  The stone walls and
+stone floor bespeak a hard life for the Watcher.
+~
+66 d 0
+D3
+You see the wide expanse of forest and a narrow dirt road leading up to
+the gates far below.
+~
+~
+0 -1 -1
+D5
+You see the beginnings of a long, spiraling staircase.  You feel dizzy.
+~
+~
+0 -1 6605
+S
+#6607
+Near the Gates~
+   A broad dirt road is well rutted from traffic coming to and from the
+elven village of Tynstri.  Although a main thoroughfare for the town,
+it retains a woodsy charm.  The trees grow thickly on both sides of the
+road, and are hung with strong vines.
+~
+66 0 1
+D1
+More shops ...
+~
+~
+0 -1 6610
+D3
+The gates of Tynstri glow whitely.
+~
+gate
+~
+1 -1 6600
+D4
+The ladder appears to go up into the tree.
+~
+~
+0 -1 6608
+E
+tree~
+You see a ladder dangling from a branch that is out of sight.
+~
+E
+ladder~
+You see a sturdy ladder woven of thick vines of ivy.  You hope it's not
+poisonous.
+~
+S
+#6608
+Climbing a tree~
+   You are pleased you practiced that silly climb-a-rope-ladder game at
+the fair so many times, because it's not easy to traverse a ladder made
+only of rope.  Your feet and hands scrape against the rough bark.   The
+tree is about as big around as an elephant's leg, but looks sturdy
+enough to hold your weight.  The bark is rough and deeply grooved and
+seems loose in places.  The ladder continues up to a ledge of sorts and
+down to the ground.  Better go up or down!
+~
+66 c 3
+D4
+Uh oh!  Is that bird droppings you feel on your face?
+~
+~
+0 -1 6609
+D5
+Down always looks safer, if more boring.
+~
+~
+0 -1 6607
+E
+bark~
+It looks loose!
+~
+S
+#6609
+On a wide branch~
+   This not-very-thick tree has a surprisingly large branch.  It is
+unfortunately rather covered with bird goo from the huge nest directly
+above you.  You could reach up and gather the eggs if you were really
+hungry, but the very large bird sitting on the nest looks like she
+wants them more than you do.  Escape from this sticky situation is
+either down the shaky rope ladder at your feet or taking a strong hold
+of the vine at hand and swinging over to the tree north of here.
+~
+66 0 3
+D1
+A small platform awaits the brave.  There seem to be scorch marks ...
+~
+~
+0 -1 6732
+D5
+Back down the ladder.
+~
+~
+0 -1 6608
+E
+bird vulture~
+It looks like a vulture.  A mother vulture.  A mother vulture with
+several mouths to feed.  She's looking at you, sizing you up as food!
+~
+E
+vine~
+Hmm ... seems easy enough to swing over to that platform.  Remember not
+to release the vine so you can get back!
+~
+S
+#6610
+Broad Path into Town~
+   The deep ruts in the hard packed dirt road bear evidence to the
+numbers going to and from the fair town of Tynstri.  To the east you can 
+see the first shops.  To the west, in the distance you see the tall iron 
+gates, and above you, you hear the shouts and laughter of elven children
+playing.
+~
+66 0 1
+D1
+The shops appear to be open.
+~
+~
+0 -1 6611
+D3
+The gates far to the west are tall, white, and enchanted with a
+blessing to protect from evil.
+~
+~
+0 -1 6607
+S
+#6611
+Tynstri Proper - Main Road~
+   Tynstri is a local center for the healing arts, traffic in herbal
+remedies, and a meeting place for elves.  The street here continues to
+be well shaded with trees known for their magic properties.  From the
+north come music and laughter and the sounds of a rowdy bunch having a
+bit of fun.  To the south is a small storefront organization recruiting
+hardy young elves over the age of 100 to ... well, perhaps you should
+take a look and see.
+~
+66 0 1
+D0
+A blue-black cloud of smoke emerges from the establishment north of
+here.
+~
+~
+0 -1 6612
+D1
+The road continues east toward the center of town.
+~
+~
+0 -1 6616
+D2
+A brightly painted sign reads, "Free the Elves!"
+~
+~
+0 -1 6614
+D3
+You look back towards the entrance to town.
+~
+~
+0 -1 6610
+S
+#6612
+A Sleazy Tavern~
+   You have wandered into a sleazy tavern on the outskirts of Tynstri.
+The bartender is a dainty elf wearing a skimpy top, a short leather 
+skirt and high heeled boots.  She smiles at you as you walk in.  Just 
+inside the door, two burly bouncers eye you with surly suspicion.  From 
+the north, a cloud of dark gray cigar smoke streams through a curtain of
+garishly colored purple, green and yellow beads.  There is a small sign
+on the counter.
+~
+66 d 0
+D0
+This is a REALLY ugly curtain!
+~
+curtain~
+1 -1 6613
+D2
+The street will be there when you decide to leave.
+~
+~
+0 -1 6611
+E
+sign~
+It reads:
+     say    LIST         - to learn what you can buy here
+            BUY   <item> - to buy something
+            SELL  <item> - to sell something
+            VALUE <item> - to find out how much I will pay for
+            something that you wish to sell.
+~
+S
+#6613
+Back Room~
+   The boys in the back room are having a friendly game of poker.  This
+is their home away from home, and you can see they've made it to their
+liking.  The chairs evenly spaced around the center table are large and
+sturdily made from solid oak.  The walls are covered with elven pinups
+and racing ponies.
+~
+66 d 0
+D2
+A garish bead curtain in yellow, purple and green.
+~
+curtain
+~
+1 -1 6612
+E
+pinup~
+You see quite a few pictures of scantily clad girl elves with names
+like "Buttercup" and "Melody".
+~
+E
+buttercup~
+Lying in a field of yellow buttercups, wearing nothing but the flowers,
+Buttercup's picture is enough to distract the most determined of poker
+players.
+~
+E
+melody~
+Melody winks at you saucily.
+~
+S
+#6614
+Elven underground~
+   Free the Elven slaves!!! The wall is full of posters of famous elven
+chefs, kidnapped and kept as slaves for the evil forces of the assassin
+Gontran.  Eager young recruits to this cause will tell you the
+assassins ate some of the more reluctant slaves.
+~
+66 d 0
+D0
+You are so caught up with enthusiasm for the quest that you don't
+notice the street is still outside!
+~
+~
+0 -1 6611
+D4
+One of the posters looks like it is falling off the wall.
+~
+poster~
+1 -1 6615
+E
+poster~
+This is a particularly sad poster of Chef Boyardee, who was
+mysteriously stolen right from his kitchen.  The chef's eyes seem to
+follow you suspiciously around the room.
+~
+S
+#6615
+Upstairs from the Free the Elves Foundation~
+   Here's where the real radicals gather to train and to plot a serious
+attempt on Gontran and his evil minions.  The room is bare except for a
+table under the harsh light of a single lantern and a small practice
+area along the opposite wall.  In a place of prominence, over the
+table, there is a framed picture of the Foundation's hero, #bDazzlin'
+Hambone#N, General in Chief of the Elven Armies.  He has been painted in
+his full battle uniform with all his many decorations for valor.  
+~
+66 d 0
+D5
+Down the secret stairs
+~
+poster
+~
+1 -1 6614
+S
+#6616
+Shopping in Tynstri~
+   As you wander slowly down the street, you are amazed at the number
+and variety of shops. To the south you see the bright colors and sweet
+scents of Flowers & Sweets, while north of you is Tynstri's fashion
+spot, Second Hand Rose.
+~
+66 0 1
+D0
+Looks intriguing.  Knights, monks, magicians ... all sorts appear to be
+heading for Rose's.
+~
+~
+0 -1 6617
+D1
+To the east lie a couple of odd looking stores.
+~
+~
+0 -1 6619
+D2
+Mmmm, looks like a tasty kind of gift shop ...
+~
+~
+0 -1 6618
+D3
+You see a sleazy tavern and the Elf Foundation to the west.
+~
+~
+0 -1 6611
+S
+#6617
+Second Hand Rose~
+   Rose loves to collect new and used clothing and armor of all sorts.
+The shop is alive with color and movement.  Battle hardened warriors
+argue loudly about the best kits, and there is always a group looking
+for something unique to just "hang" in.  The south wall of the shop is
+covered with racks of social attire, from hats to shoes.  The eastern
+and western walls hold more serious gear - armor for those eager to
+fight and not die!  There is a small embroidered sign hanging over one
+of the tables.
+~
+66 d 0
+D2
+The street beckons as if to say, "stop your dawdling and get busy!"
+~
+~
+0 -1 6616
+E
+sign~
+It reads:
+     say    LIST         - to learn what you can buy here
+            BUY   <item> - to buy something
+            SELL  <item> - to sell something
+            VALUE <item> - to find out how much I will pay for
+            something that you wish to sell.
+~
+S
+#6618
+Flowers & Sweets~
+   This is an all-occasion gift shop.  You can feed that sweet tooth of
+yours, buy a funeral wreath in fond memory of your recently dead uncle
+or a baby's breath bouquet to celebrate an adoption.  You might even
+find some enchanted flowers or sweets in the collection.  Flora is,
+after all, married to Seymour, the magic herbalist.  Seymour studied
+with Henrietta for many years - until his love potions started to rock
+and Flora told him he'd better stay closer to home!  There is a small
+sign on the wall, hand embroidered by Flora herself.
+~
+66 d 1
+D0
+The street is still there.
+~
+~
+0 -1 6616
+E
+sign~
+Roses are red
+Violets are blue
+Sugar is sweet
+So buy some of that too.
+ 
+It continues:
+     say    LIST         - to learn what you can buy here
+            BUY   <item> - to buy something
+            SELL  <item> - to sell something
+            VALUE <item> - to find out how much I will pay for
+            something that you wish to sell.
+~
+S
+#6619
+Wandering through Tynstri~
+   Trees with long branches and fingerlike leaves beautifully shade the
+road through the center of town.  Are they moving with the breeze? or
+are they waving at you?  There are many cheerful flowers planted at the
+base of the trees, adding a touch of color to the natural greens and
+browns of town and trees.  The sign on the store north of you is
+peeling and not easily read, but it _looks_ like it once read "Elmer's
+Oddities".  To the south, Barns & Nibble invites you to sit awhile,
+read, nibble and chat with your friends.
+~
+66 0 1
+D0
+It looks like a curio shop, how curious!
+~
+~
+0 -1 6620
+D1
+Small explosions and noxious odors come from the east.
+~
+~
+0 -1 6622
+D2
+Barns & Nibble looks like a great place to while away an afternoon
+amicably.
+~
+~
+0 -1 6621
+D3
+More street!
+~
+~
+0 -1 6616
+E
+trees~
+You're not sure of the variety, but there is a strangely sentient look
+about these.  You are glad you are not expected to chop one down!
+~
+E
+flowers~
+Colorful pansies  are planted around the base of each tree.
+~
+S
+#6620
+Elmer's Oddities~
+   Elmer's store is crammed with strange and unusual artifacts from all
+corners of the kingdom.  This is a favorite haunt for those who delight
+in the unusual, the arcane, the utterly useless.  Elmer looks as odd as
+his store.  He mutters to himself as he sorts through his clutter.
+~
+66 d 0
+D2
+Back to the street.
+~
+~
+0 -1 6619
+S
+#6621
+Barns & Nibble Café~
+   This cafe feels like the living room of your great aunt right down
+to the odd cats wandering through, brushing against your legs.
+Comfortable chairs and tables fill the room, but the large plants and
+screens provide an atmosphere of privacy where you can sit and chat.
+The walls are lined with ancient books containing the wisdom of the
+elder Elves.  This would be a cozy place to rest a while.  You notice a
+sign hanging at the end of one of the shelves of books.
+~
+66 d 0
+D0
+The street is still north of here.
+~
+~
+0 -1 6619
+E
+sign~
+It reads:
+     say    LIST         - to learn what you can buy here
+            BUY   <item> - to buy something
+            SELL  <item> - to sell something
+            VALUE <item> - to find out how much I will pay for
+            something that you wish to sell.
+~
+E
+title book~
+"Nature in all Her Glory", by Brother Russ
+"How to Prevent Forest Fires", by Crash, M.R.
+"Mysteries of Magic", by Henrietta, M.H.
+~
+S
+#6622
+Wandering through Tynstri~
+   As you stroll down the dirt road that forms the main path through
+Tynstri, you see to the east of you a beautiful green park. From the
+north, the pungent scents of the herb shop intrigue and repulse you.
+To the south you see a shop with the sign of a powerful arm flexing,
+and from the crowd of adventurers heading into the store you can
+suppose some sort of adventuring equipment must be sold there.
+~
+66 0 1
+D0
+A twin cloud of bright magenta and saffron yellow billows forth.
+~
+~
+0 -1 6623
+D1
+What a lovely park!
+~
+~
+0 -1 6627
+D2
+You see knights and soldiers coming out with shiny new weapons.
+~
+~
+0 -1 6626
+D3
+There is the oddest shop off west of here.
+~
+~
+0 -1 6619
+S
+#6623
+Little Shop of Seymour's~
+   Seymour has stocked his store with the best that nature has to
+offer. He does the distilling himself, and frequent small explosions and
+noxious odors come from the room you can glimpse through the partially
+open door at the back of the shop.  The walls behind the counter are
+lined floor to ceiling with beakers, bottles and boxes of all sizes and
+shapes.  Suddenly from the back you hear a deep, petulant voice
+screaming, "Feed Me!" and Seymour asks if you'd like to step on back to
+his greenhouse and feed his plant.  There is a small unobtrusive sign
+on the counter.
+~
+66 d 0
+D0
+Seymour's greenhouse lies north of here.
+~
+~
+0 -1 6624
+D2
+You can (and probably should) go back out to the street this way.
+~
+~
+0 -1 6622
+E
+sign~
+It reads:
+     Be sure to visit my special pet, Audreyii, in my greenhouse!
+     say    LIST         - to learn what you can buy here
+            BUY   <item> - to buy something
+            SELL  <item> - to sell something
+            VALUE <item> - to find out how much I will pay for
+            something that you wish to sell.
+~
+S
+#6624
+Greenhouse~
+   The back room of the herb and potion shop is a combination
+greenhouse/distillery. Seymour grows some truly rare and unusual plants
+here.  Some are huge, and reputed to be carnivorous.  The scents and
+the warm humid air combine to overwhelm your senses, making you feel
+drowsy.
+~
+66 d 1
+D2
+The main part of the store is south of here.
+~
+~
+0 -1 6623
+D5
+Hmm ... looks awfully ... _DARK_ down there!
+~
+door~
+1 -1 6625
+S
+#6625
+Myconoid Hangout~
+   This earth cellar smells musty and dank, and with good reason.  This
+is where Seymour cultivates his special mushrooms.  These are VERY 
+special fungi, and don't take kindly to strangers intruding on them, 
+bringing light and fresh air with them.
+~
+66 d 0
+D4
+Relative safety, i.e. the myconoids have no relatives up there ... you
+hope!
+~
+door~
+1 -1 6624
+S
+#6626
+Elven Arms~
+   Horatio, the shopkeeper of the Elven Arms, doubles as a blacksmith
+on non-market days, and his burly physique clearly is a reflection of
+long, hot days spent over his forge.  He has a reputation for selling
+only the sharpest of swords and knives, the heaviest of hammers and the
+snappiest of whips in his shop.  He tells you, "You can buy with
+confidence here."  Should you lose your confidence (or have not enough
+gold) you can leave by the door to the street.  A small sign is sitting
+on the counter.
+~
+66 d 0
+D0
+The street!
+~
+~
+0 -1 6622
+E
+sign~
+It reads:
+     Courtesy Tynstri Chamber of Commerce
+     say    LIST         - to learn what you can buy here
+            BUY   <item> - to buy something
+            SELL  <item> - to sell something
+            VALUE <item> - to find out how much I will pay for
+            something that you wish to sell.
+~
+S
+#6627
+Village Park~
+   This small park lies at the end of the shopping area.  Other than
+the Barns & Nibble store this is the gathering place for elves of 
+Tynstri, a meeting place of sorts.  The park is, of course, surrounded 
+by and filled with tall trees and small animals and birds.  The focal
+point of the park is a small spring fed fountain.  Its source lies 
+deep in the earth.
+~
+66 0 1
+D0
+The park is rather dimly lit north of here.
+~
+~
+0 -1 6628
+D1
+A shining stairway leads east and up.
+~
+~
+0 -1 6733
+D2
+The forest begins south of here.
+~
+~
+0 -1 6629
+D3
+The stores and village gathering places are to the west.
+~
+~
+0 -1 6622
+D5
+The small spring feeding the beautiful fountain has it's roots deep
+underneath the earth's surface.  You might be able to swim into
+the small cave from where the water bubbles.
+~
+~
+0 -1 6663
+S
+#6628
+Northern End of the Park~
+   You are at the northern boundary of the town park.  This end is
+apparently more of a gathering for elven lowlife, and you feel
+distinctly uneasy as you look about you.  Did you just see a furtive
+movement over there by that tree?  And what about those seedy
+characters sitting on the bench?  Accosted by the unwashed, you decide
+quickly to head east up the hill towards the pair of buildings you see
+or south towards the better-lit section of the park.  
+~
+66 0 2
+D0
+The beautiful forests of Tynstri lie north of here
+~
+~
+0 -1 6735
+D1
+Looks like a pretty steep hill!
+~
+~
+0 -1 6667
+D2
+Very green.
+~
+~
+0 -1 6627
+S
+#6629
+Forest path~
+   This narrow path leads north to a small but inviting park, and south
+into the darkness of a forest of tall trees and long, dangling vines.
+The mass of branches overhead has blocked sunlight from the forest
+floor to the extent that it is fairly clear of debris, making walking
+easy.
+~
+66 c 3
+D0
+You see the happy sights and sounds of a city park.
+~
+~
+0 -1 6627
+D2
+It's getting d-a-a-r-r-r-k-k-e-r .....
+~
+~
+0 -1 6630
+S
+#6630
+Creepy Forest~
+   This path gives you a creepy feeling that something is vastly amiss.
+The forest is gloomy.  The vines that once appeared to you like a
+lovely green waterfall are now more menacing and dangerous.  The small
+sounds of the forest are more sinister than cheerful.  The park is a
+long ways off to the north, and the clearing to the south looks closer.
+A rustle in the bushes makes you scurry on to your next destination.
+~
+66 0 3
+D0
+The forest looks clearer to the north.
+~
+~
+0 -1 6629
+D1
+This exit goes somewhere.
+~
+~
+0 -1 6695
+D2
+Whatever you see to the south, it's gotta feel safer than it does here!
+~
+~
+0 -1 6664
+E
+bushes~
+Looks like someone must be hiding there.
+~
+E
+vines~
+They are reaching out to you, grasping at you.
+~
+S
+#6631
+Across a Creek~
+   The dirt path abruptly stops at a narrow creek that appears quite
+deep. The water looks cool, clear and just looking at it seems to make 
+you thirsty.  You are disappointed that you will have to turn back to 
+town so soon, then you notice a series of large flat rocks irregularly
+spaced across the creek.  Some look a bit slippery and wet, but you
+could cross the stream on the stones, or follow the creek to the east.
+~
+66 0 3
+D0
+It's too dark to see much ... a shadowed forest ...
+~
+~
+0 -1 6664
+D1
+The creek sounds louder to the east.
+~
+~
+0 -1 6665
+D2
+The forest continues, the trees growing larger and thicker to the
+south.
+~
+~
+0 -1 6632
+S
+#6632
+The Big Trees~
+   The trees are all very very old here, their circumferences so wide
+that a small band of rogues or a den of tigers could easily hide behind
+them.  What was that noise?  Should you race off to the clearing north
+of here?  Would you be safer plunging still deeper into the forest
+further south?  Either way, you don't feel safe standing still!  Do
+something!
+~
+66 0 3
+D0
+You smell a faint scent of water.
+~
+~
+0 -1 6631 
+D2
+The trees all look so very ... BENT up ahead.
+~
+~
+0 -1 6633
+E
+tree~
+It is huge.  Yes.  And there is a head peeking out at you from behind
+it.
+~
+S
+#6633
+Faint Echoes of Music~
+   From the south some faint music enraptures you, leaves you without
+will to resist coming closer to its source.  The forest is very still 
+here and you sense that even the forest listens to the beautiful melody
+drifting this way.   The fir and rowan, yew and thistle all seem to bow
+to the music coming from the south, behind that small thicket.
+~
+66 0 3
+D0
+You see some VERY LARGE trees.
+~
+~
+0 -1 6632 
+D2
+The path stops at a large thicket.
+~
+bush thicket~
+1 -1 6634
+E
+thicket~
+Looks like you could easily move it aside, although at some cost to
+your hands!
+~
+S
+#6634
+Circle of Joy~
+   You enter a large forest glade filled with incredibly beautiful
+music. The glade is circular in shape.  The floor is covered with the 
+softest green moss that you have ever seen, and you are sorely tempted 
+to remove your shoes and run barefoot, letting the tiny tendrils tickle
+your toes.  Planted around this part of the glade are herbs of joy:
+catnip, morning glory, witchgrass and meadowsweet.  You may continue to
+explore the glade to the east and south, or head north from here into
+the gloom of the forest.
+~
+66 0 3
+D0
+Looks like a pretty thick thicket.
+~
+thicket~
+1 -1 6633
+D1
+The circle continues to purify you.
+~
+~
+0 -1 6635
+D2
+The dryad's circle continues to be friendly.		
+~
+~
+0 -1 6637
+S
+#6635
+Circle of Purity~
+   The dryads who care for this peaceful setting have planted herbs of
+purification here - copal and iris, thistle, vervain and sage.  If you
+are very lucky and very quiet, you may see the nymphs dancing here.
+The nymphs are elves who do not mingle much with the rest of the world.
+Very shy, they fade into the trees when confronted with the mundane. 
+~
+66 0 3
+D1
+The dryad's circle continues to heal you.
+~
+~
+0 -1 6636
+D2
+An enormous tree beckons to you.
+~
+~
+0 -1 6638
+D3
+The dryad's circle continues joyfully.
+~
+~
+0 -1 6634
+S
+#6636
+Circle of Healing~
+   The beautiful glade continues south and west.   You see the patterns
+of many feet on the soft moss floor, and know that this glade is sacred to
+the dryads of this forest - the wood nymphs.  They come to this spot to
+dance and celebrate the forest magic.  This section of the glade is
+planted with many herbs of healing: viper's bugloss, whose prickly
+hairs tickle your feet, and coltsfoot to make a tea for coughs.  At
+your feet you find adder's tongue and fennel, burdock and garlic, and
+this portion of the ring is made up of cedar trees. 
+~
+66 0 3
+D2
+A cloud of color.
+~
+~
+0 -1 6639
+D3
+The circle continues purely.
+~
+~
+0 -1 6635
+S
+#6637
+Circle of Friendship~
+   You are standing in the western most part of a beautiful forest
+glade, encircled with the dark green of the yew tree and silver-gray of the
+rowan.  The bright red berries on the yew add a touch of brightness to
+this misty green/gray world.  The music of the dryads, heard throughout
+the clearing, is haunting.  This area is planted with herbs of
+friendship: lemongrass, sweetpea and passionflower, and bordered with
+pink tourmaline and turquoise.
+~
+66 0 3
+D0
+The circle continues joyfully.
+~
+~
+0 -1 6634
+D1
+Looks like a tree, something you've seen in a tapestry.
+~
+~
+0 -1 6638
+D2
+The circle continues with honor.
+~
+~
+0 -1 6640 
+S
+#6638
+Center of the circle~
+   An enormous tree fills the center of the circle, tall and graceful,
+its branches brushing the sky.  The tree is full as well as tall, 
+branches spread wide over you, each covered with deep green leaves and 
+soft pink and white blossoms.  The bark of the tree resembles a deeply 
+rippled river of chocolate - smooth and dark, with deep ridges and 
+swirls.
+~
+66 0 3
+D0
+The pure circle continues.
+~
+~
+0 -1 6635
+D1
+The circle continues in a comradely manner.
+~
+~
+0 -1 6639
+D2
+The dryad's circle continues strongly.
+~
+~
+0 -1 6641
+D3
+You see a moving cloud of color.
+~
+~
+0 -1 6637
+S
+#6639
+A cloud of butterflies~
+   You have walked into a cloud of moving color.  Soft flashes of
+green, mauve, yellow, gold, aqua and lavender brush against you, 
+bewildering you until one alights on your arm and you see that 
+butterflies surround you.  You look about you and see the circle 
+continues north and south, and the center of the circle beckons 
+to you from the west.  There are several large vitex plants here 
+attracting the butterflies.
+~
+66 0 3
+D0
+The dryad's circle continues joyfully.
+~
+~
+0 -1 6636 
+D2
+The dryad's circle continues in good health.
+~
+~
+0 -1 6642
+D3
+There appears to be something white under an enormous tree.
+~
+~
+0 -1 6638
+S
+#6640
+Circle of Honor~
+   This southernmost point of the circle honors courage, divination and
+spirituality, and it has been planted with camphor, orris, mugwort and
+dragon's blood, thyme and yarrow, frankincense and gardenia.  The
+circle is sweet and pungent, colorful against the deep brown bark of
+the trees.
+~
+66 0 3
+D0
+The circle continues in a friendly fashion.
+~
+~
+0 -1 6637 
+D1
+The circle continues strongly.
+~
+~
+0 -1 6641
+S
+#6641
+Circle of Strength~
+   This part of the circle is planted with herbs of strength and
+wisdom.  Carnations of all colors are blooming next to pennyroyal and 
+saffron.  Sage and iris grow side by side with bodhi.  You may continue 
+around the circle west or north or east.
+~
+66 0 3
+D0
+An enormous tree beckons to you gracefully.
+~
+~
+0 -1 6638
+D1
+The circle continues in good health.
+~
+~
+0 -1 6642 
+D3
+The circle continues with honor.
+~
+~
+0 -1 6640
+S
+#6642
+Circle of Health~
+   The stones placed here, like the herbs that grow amongst them, are
+the source of the dryads' glowing good health.  Here grows the sweet,
+strong magic of caraway, juniper, marjoram, nutmeg, rue, sassafras and
+tansy.  You are tempted to take some and crush it between your fingers.
+Agate, jade and coral stones make small borders around them.
+~
+66 0 3
+D0
+You see a moving cloud of color.
+~
+~
+0 -1 6639 
+D3
+The circle continues strongly.
+~
+~
+0 -1 6641
+S
+#6643
+A cold, clear lake~
+   This cold clear lake is fed by the creek whose bank you followed.
+From the temperature of the water you can guess that the source lies up 
+in the mountains.  Your teeth chatter, although you are not sure whether
+that is because your toes are turning blue or because of the very LARGE
+fish you see swimming around.
+The lake continues in all directions but up.
+~
+66 0 6
+D0
+The lake continues.
+~
+~
+0 -1 6649
+D1 
+The lake continues.
+~
+~
+0 -1 6644
+D2 
+The lake continues.
+~
+~
+0 -1 6646
+D3 
+The lake continues.
+~
+~
+0 -1 6666
+D5 
+The lake bottom is dark.
+~
+~
+0 -1 6652
+S
+#6644
+The Forest Lake or Who's the Prey Now?~
+   The clear water is shallower here, not enough that you could rest
+your feet on the bottom and still keep your nose above water, though.   The
+pond is much larger than it originally looked, and you hope you can
+find your way back to shore before you drown.    
+~
+66 0 6
+D0 
+The lake continues.
+~
+~
+0 -1 6650
+D1 
+The lake continues.
+~
+~
+0 -1 6645 
+The lake continues.
+D2
+~
+~
+0 -1 6647 
+The lake continues.
+D3
+~
+~
+0 -1 6643 
+The lake continues.
+D5 
+The lake looks bottomless.
+~
+~
+0 -1 6653
+S
+#6645
+Drowning in the Lake!~
+   The cold clear waters of the pool would be refreshing if they didn't
+make your teeth chatter.  And perhaps you'd rather just not know about
+those funny looking fish with the fangs.  A lazy frog floats by on a
+lilypad.  At least ... you THINK it's a frog.    
+~
+66 0 6
+D0
+Yet more lake!
+~
+~
+0 -1 6651
+D1
+This is a really vast lake.
+~
+~
+0 -1 6643
+D2
+What a lake!
+~
+~
+0 -1 6648
+D3
+Will it ever end?
+~
+~
+0 -1 6644
+D5
+Murky depths of the lake ...
+~
+~
+0 -1 6654
+S
+#6646
+Off the bank~
+   The bottom suddenly drops out from under your toes and you are
+treading water and swimming with the fish.  Some of them look rather 
+nasty, with long sharp teeth and a lean hungry look in their eyes.  
+Others look remarkably like the waybread your Auntie used to bake up 
+for you, and you remember how long it's been since you last ate.
+~
+66 0 6
+D0
+The lake continues endlessly northwards.
+~
+~
+0 -1 6643
+D1
+The lake continues in the direction of the rising sun.
+~
+~
+0 -1 6647
+D2
+The lake continues as far as you can see.
+~
+~
+0 -1 6649
+D3
+The waterfall keeps needlessly pouring more water into the lake.
+~
+~
+0 -1 6666
+D5
+The lake looks deep.
+~
+~
+0 -1 6655
+S
+#6647
+Deep and Cold~
+   The water is cold and deep, and your body is working hard to stay
+warm and to breathe.  All around you fish of differing sizes and colors 
+swim lazily about, looking for food.  You hope you don't look tasty to 
+them. Far to the west you hear a waterfall.
+~
+66 0 6
+D0
+The lake continues endlessly.
+~
+~
+0 -1 6644
+D1 
+The lake continues endlessly.
+~
+~
+0 -1 6648
+D2 
+The lake continues endlessly.
+~
+~
+0 -1 6650
+D3 
+The lake continues endlessly.
+~
+~
+0 -1 6646
+D5
+The lake looks bottomless.
+~
+~
+0 -1 6656
+S
+#6648
+On the Lake~
+   Ripples of cold water splash at your face.  You begin to wonder if
+you've somehow tumbled into the deep blue sea, but the water is fresh,
+not salty.  You watch a frog float by on a lilypad, and wish you had a
+boat.
+~
+66 0 6
+D0 
+The lake continues endlessly.
+~
+~
+0 -1 6645
+D1 
+The lake continues endlessly.
+~
+~
+0 -1 6646
+D2 
+The lake continues endlessly.
+~
+~
+0 -1 6651
+D3 
+The lake continues endlessly.
+~
+~
+0 -1 6647
+D5
+The lake appears to be bottomless.
+~
+~
+0 -1 6657
+S
+#6649
+Treading water~
+   As your legs keep cycling beneath you, tiredly you wonder why this
+lake seems to keep growing around you, and you remember all the magic in
+this forest.  You look hard to the north, south, east and west, looking
+for someplace to crawl out and rest your cold, weary body.
+~
+66 0 6
+D0 
+The lake continues endlessly.
+~
+~
+0 -1 6646
+D1 
+The lake continues endlessly.
+~
+~
+0 -1 6650
+D2 
+The lake continues endlessly.
+~
+~
+0 -1 6643
+D3 
+The lake continues endlessly.
+~
+~
+0 -1 6651
+D5 
+The lake looks bottomless.
+~
+~
+0 -1 6658
+S
+#6650
+Dreading water~
+   The lake waters are calm, the water faintly rippling in an easterly
+direction.  If it wasn't so cold and so vast you would probably enjoy
+your swim more, but you are tiring, and you begin to think a watery
+grave might be peaceful.  Then a fish takes a small *bite* out of you
+and you decide it's time to move on!
+~
+66 0 6
+D0 
+The lake continues endlessly.
+~
+~
+0 -1 6647
+D1 
+The lake continues endlessly.
+~
+~
+0 -1 6651
+D2 
+The lake continues endlessly.
+~
+~
+0 -1 6644
+D3 
+The lake continues endlessly.
+~
+~
+0 -1 6649
+D5
+The lake appears to be bottomless.
+~
+~
+0 -1 6659
+S
+#6651
+Swimming with the fish~
+   The lake appears well stocked with fish, both of known and unknown
+varieties.   It is much larger than it first appeared, the waters calm
+despite a slight breeze.  You can swim in just about any direction but
+up from here. 
+~
+66 0 6
+D0 
+The lake continues endlessly.
+~
+~
+0 -1 6648
+D1 
+The lake continues endlessly.
+~
+~
+0 -1 6649
+D2 
+The lake continues endlessly.
+~
+~
+0 -1 6645
+D3 
+The lake continues endlessly.
+~
+~
+0 -1 6650
+D5
+The lake appears bottomless.
+~
+~
+0 -1 6660
+S
+#6652
+Deep in the Lake~
+   You are deep beneath the surface of the cold lake waters. You have
+lost all sense of direction in the watery world, and your body is 
+beginning to feel numb.    Fish of all sizes and varieties swim around 
+you.  None of them is smiling, except for the big one in the distance 
+who is looking at you with a hungry, toothy grin.   
+~
+66 0 6
+D0
+More water, more fish.
+~
+~
+0 -1 6658
+D1
+More water, more fish.
+~
+~
+0 -1 6653
+D2
+More water, more fish.
+~
+~
+0 -1 6655
+D3
+More water, more fish.
+~
+~
+0 -1 6654
+D4
+More water, more fish.
+~
+~
+0 -1 6643
+S
+#6653
+Deep in the Lake~
+   You are deep beneath the surface of the cold lake waters. You have
+lost all sense of direction in the watery world, and your body is 
+beginning to feel numb.    Fish of all sizes and varieties swim around 
+you.  None of them is smiling, except for the big one in the distance 
+who is looking at you with a hungry, toothy grin.   
+~
+66 0 6
+D0
+More water, more fish.
+~
+~
+0 -1 6659
+D1
+More water, more fish.
+~
+~
+0 -1 6654
+D2
+More water, more fish.
+~
+~
+0 -1 6656
+D3
+More water, more fish.
+~
+~
+0 -1 6652
+D4
+More water, more fish.
+~
+~
+0 -1 6644
+S
+#6654
+Deep in the Lake~
+You are deep beneath the surface of the cold lake waters. You have
+lost all sense of direction in the watery world, and your body is 
+beginning to feel numb.    Fish of all sizes and varieties swim around 
+you.  None of them is smiling, except for the big one in the distance 
+who is looking at you with a hungry, toothy grin.   
+~
+66 0 6
+D0
+More water, more fish.
+~
+~
+0 -1 6660
+D1
+More water, more fish.
+~
+~
+0 -1 6652
+D2
+More water, more fish.
+~
+~
+0 -1 6657
+D3
+More water, more fish.
+~
+~
+0 -1 6653
+D4
+More water, more fish.
+~
+~
+0 -1 6645
+S
+#6655
+Deep in the Lake~
+You are deep beneath the surface of the cold lake waters. You have
+lost all sense of direction in the watery world, and your body is 
+beginning to feel numb.    Fish of all sizes and varieties swim around 
+you.  None of them is smiling, except for the big one in the distance 
+who is looking at you with a hungry, toothy grin.   
+~
+66 0 6
+D0
+More water, more fish.
+~
+~
+0 -1 6652
+D1
+More water, more fish.
+~
+~
+0 -1 6656
+D2
+More water, more fish.
+~
+~
+0 -1 6658
+D3
+More water, more fish.
+~
+~
+0 -1 6657
+D4
+More water, more fish.
+~
+~
+0 -1 6646
+S
+#6656
+Deep in the Lake~
+   You are deep beneath the surface of the cold lake waters. You have
+lost all sense of direction in the watery world, and your body is 
+beginning to feel numb.    Fish of all sizes and varieties swim around 
+you.  None of them is smiling, except for the big one in the distance 
+who is looking at you with a hungry, toothy grin.   
+~
+66 0 6
+D0
+More water, more fish.
+~
+~
+0 -1 6653
+D1
+More water, more fish.
+~
+~
+0 -1 6657
+D2
+More water, more fish.
+~
+~
+0 -1 6659
+D3
+More water, more fish.
+~
+~
+0 -1 6655
+D4
+More water, more fish.
+~
+~
+0 -1 6647
+D5
+More water, more fish.
+~
+~
+0 -1 6661
+S
+#6657
+Deep in the Lake~
+   You are deep beneath the surface of the cold lake waters. You have
+lost all sense of direction in the watery world, and your body is 
+beginning to feel numb.    Fish of all sizes and varieties swim around 
+you.  None of them is smiling, except for the big one in the distance 
+who is looking at you with a hungry, toothy grin.   
+~
+66 0 6
+D0
+More water, more fish.
+~
+~
+0 -1 6654
+D1
+More water, more fish.
+~
+~
+0 -1 6655
+D2
+More water, more fish.
+~
+~
+0 -1 6660
+D3
+More water, more fish.
+~
+~
+0 -1 6656
+D4
+More water, more fish.
+~
+~
+0 -1 6648
+S
+#6658
+Deep in the Lake~
+   You are deep beneath the surface of the cold lake waters. You have
+lost all sense of direction in the watery world, and your body is 
+beginning to feel numb.    Fish of all sizes and varieties swim around 
+you.  None of them is smiling, except for the big one in the distance 
+who is looking at you with a hungry, toothy grin.   
+~
+66 0 6
+D0
+More water, more fish.
+~
+~
+0 -1 6655
+D1
+More water, more fish.
+~
+~
+0 -1 6659
+D2
+More water, more fish.
+~
+~
+0 -1 6652
+D3
+More water, more fish.
+~
+~
+0 -1 6660
+D4
+More water, more fish.
+~
+~
+0 -1 6649
+S
+#6659
+Deep in the Lake~
+   You are deep beneath the surface of the cold lake waters. You have
+lost all sense of direction in the watery world, and your body is 
+beginning to feel numb.    Fish of all sizes and varieties swim around 
+you.  None of them is smiling, except for the big one in the distance 
+who is looking at you with a hungry, toothy grin.   
+~
+66 0 6
+D0
+More water, more fish.
+~
+~
+0 -1 6656
+D1
+More water, more fish.
+~
+~
+0 -1 6660
+D2
+More water, more fish.
+~
+~
+0 -1 6653
+D3
+More water, more fish.
+~
+~
+0 -1 6658
+D4
+More water, more fish.
+~
+~
+0 -1 6650
+S
+#6660
+Deep in the Lake~
+   You are deep beneath the surface of the cold lake waters. You have
+lost all sense of direction in the watery world, and your body is 
+beginning to feel numb.    Fish of all sizes and varieties swim around 
+you.  None of them is smiling, except for the big one in the distance 
+who is looking at you with a hungry, toothy grin.   
+~
+66 0 6
+D0
+More water, more fish.
+~
+~
+0 -1 6657
+D1
+More water, more fish.
+~
+~
+0 -1 6658
+D2
+More water, more fish.
+~
+~
+0 -1 6654
+D3
+More water, more fish.
+~
+~
+0 -1 6659
+D4
+More water, more fish.
+~
+~
+0 -1 6651
+S
+#6661
+Very Deep in the Forest Lake~
+   You are very deep in the lake.  Most of the light available at the
+surface has been trapped in the upper layers of the lake so that at
+this level, you can barely see the dim shapes that glide silently by
+with an occasional soft brush of a fin against your cheek or thigh.  To
+the west is the rough stone wall of an underwater cliff, broken only by
+a strangely metallic feeling bar.  
+~
+66 0 6
+D3
+There seems to be a grate of some sorts, or a door.
+~
+grate door~
+1 6615 6662
+D4
+There may be sunlight or moonlight up there somewhere.
+~
+~
+0 -1 6656
+S
+#6662
+Narrow underwater tunnel~
+   You are swimming through a long, dark tunnel.  The tunnel feels like
+a perfect circle around you, too perfect and too smooth to be the work 
+of purely natural forces.  Filled completely with water to the east, 
+where it joins an underground lake, the tunnel rises sufficiently to 
+the west that you may crawl out of the water.
+~
+66 0 3
+D1
+The tunnel empties into a large body of water.
+~
+grate~
+1 6615 6661
+D3
+There appears to be some sort of cave ahead.
+~
+~
+0 -1 6663
+S
+#6663
+Beginning of the cave~
+   You arrive in an enormous underground cavern.  You are unable to see
+the farthest reaches of the cave despite the bravely flickering candle
+left behind by some adventurer.   An underground stream gurgles by,
+disappearing into a cavity to the east.  
+~
+66 c 4
+D0
+A crack in the northern wall appears to lead somewhere.
+~
+~
+0 -1 6782
+D1
+The water drains into a small tunnel.
+~
+~
+0 -1 6662
+S
+#6664
+Forest Sounds~
+   The gloomy forest seems to close in around you.  It is a silent,
+dark place.  It feels ... not evil, but off balance, as if somehow 
+Mother Nature took a vacation and her apprentice went wild.  There is 
+a sense of many things hidden, many unseen.  To the south you hear faint 
+sounds of water moving across rock.  To the north the gloomy forest 
+continues.
+~
+66 0 3
+D0
+The gloomy forest continues northward.
+~
+~
+0 -1 6630
+D2
+The intriguing sound of rushing water commands your interest.
+~
+~
+0 -1 6631
+S
+#6665
+Top of the Waterfall~
+   The creek abruptly turns into a waterfall, cascading over a sudden
+small cliff.  The water creates a rainbow when the sun hits it.  To the
+east you can see the cold clear waters of a small forest lake, fed by
+this creek.  You can scramble down the hillside here to reach the lake,
+or head west into deep forest.
+~
+66 0 3
+D3
+Looks like you could ford the creek if you follow it west a bit.
+~
+~
+0 -1 6631
+D5
+It's a l-o-n-g way down.  Good thing you are fit!
+~
+~
+0 -1 6666
+S
+#6666
+Bottom of the Waterfall~
+   The climb from top to bottom of the waterfall is a long and
+dangerous one, and there is very little here at the bottom of the 
+waterfall.  To the east stretches a jewel-like lake.  You can make 
+the arduous climb back up to the top of the waterfall if you wish 
+to head back to town, or you may wish to go for a swim.
+~
+66 c 3
+D1
+The cool clear waters of the lake look quite inviting.
+~
+~
+0 -1 6646
+D4
+It's a long hard climb back up the side of the cliff.
+~
+~
+0 -1 6665
+S
+#6667
+Starting up a steep hill~
+   As you begin your climb up the steep hill, you look north towards
+the dense forest where the sylvan elves have their homes.  You can see
+little, and you wonder a bit at their reluctance to mingle with other
+elves and other races.  You can continue on to the top of this hill, or
+return to the park.  There is a small warning sign posted here.
+~
+66 c 1
+D1
+The hill continues it's rise.
+~
+~
+0 -1 6668
+D3
+The park lies west.
+~
+~
+0 -1 6628
+E
+sign~
+                         #m WARNING!
+					#wDo #cNOT #rmess #gwith
+					    #Ythe #yMonks!
+					#W(You have been #rWARNED#N!)
+~
+S
+#6668
+Climbing a Hill~
+   The grass is green and soft beneath your feet.  The ground rises
+slowly to the east, and you feel your calf muscles pleasantly ache.  
+Far to the east two small buildings sit atop a small rise.  The air is
+fragrant with plantlife, and you reflect on how simple it would be to
+ignore anything unpleasant.  Your choices are to climb the rise which
+continues east, or to decend to a rather seedy looking park to the
+west.
+~
+66 0 4
+D1
+~
+~
+0 -1 6669
+D3
+~
+~
+0 -1 6667
+S
+#6669
+Further Up the Hill~
+   The path leads steeply east to what you can clearly see now as a
+beautiful, small monastery.  The monastery grounds are particularly
+lovely and well tended.  The monks raise a variety of biological life
+thought to be extinct.  They care for the plants as the children their
+vocation forbids them to have.
+~
+66 1 0
+D1
+~
+~
+0 -1 6670
+D3
+~
+~
+0 -1 6668
+S
+#6670
+A Choice of Good or Evil~
+   The path ends here with a tall, wooden fence blocking your view to
+the east.  Behind this fence you hear some loud buzzing, snaps, and 
+other odd sounds.  South, the cool green arches of the Wiccan monastery
+invite you to stop and study with the good monks, perhaps take a meal
+in their kitchen.  To the north, hardened criminals have been locked
+away to keep the village safe or as punishment for unspeakable crimes.
+~
+66 0 1
+D0
+The prison!
+~
+~
+0 -1 6698
+D2
+The monastery!
+~
+~
+0 -1 6671
+D3
+A path slopes downhill.
+~
+~
+0 -1 6669
+S
+#6671
+Standing beneath the arch~
+   You have reached the inspiring entryway to the Wiccan Monastery of
+Tynstri.  Far above you curves a graceful arch of green marble.  Wise
+elves renounce worldly possessions and devote their lives to the study
+of the natural order.  The Brothers you will find here have bodies
+hardened by their asceticism and wits sharpened by their studies.  Come
+here in peace and be enlightened.
+~
+66 1 1
+D0
+You can faintly make out the outline of the Tynstrian prison.
+~
+~
+0 -1 6670
+D2
+You see the heavily carved doorway of the monastery.
+~
+door~
+1 -1 6672
+S
+#6672
+Monastery Hallway East~
+   You are at the eastern end of a long, fairly dark hallway dimly lit
+with a faint magical glow.  The floor beneath your feet is a hard,
+rough gray stone from a nearby quarry.  It is Brother George's
+particular pride (and duty) to keep the stone as clean as if washed by
+a daily rainstorm.  The plaster walls and ceiling have been painted
+white and hung with instructional verses.  The hallway continues to the
+west.  From the east the warmth and fragrance of the monastery kitchen
+tempt you.  You can leave the monastery through the tall graceful
+arches to the north.
+~
+66 1 1
+D0
+The graceful green marble arch of the monastery entrance.
+~
+door~
+1 -1 6671
+D1
+Interesting smells and sounds from the kitchen.
+~
+door~
+1 -1 6691
+D2
+The novice's dormitory
+~
+door~
+1 -1 6677
+D3
+The hallway continues west.
+~
+~
+0 -1 6673
+E
+verse instructional~
+Wormwood and nutmeg,
+Mandrake root and pine,
+Bind them together
+And luck will be thine.~
+S
+#6673
+Central Monastery Hallway~
+   The hallway continues here, its simple clean gray stone floor and
+whitewashed walls are very restful.  The Wiccan brothers labor long
+hours in their garden and in the surrounding forest, studying the
+relationships between nature and magic.  
+~
+66 1 0
+D1
+The hallway continues both east and west.
+~
+~
+0 -1 6672
+D2
+A monk's cell.
+~
+door~
+1 -1 6675
+D3
+The hallway continues both east and west.
+~
+~
+0 -1 6674
+S
+#6674
+Western Monastery Hallway~
+   You stand at the western end of the monastery.  A large window to
+the west captures each evening's sunset.  The flowers you see planted in
+the patch of garden reflect the sunset colors and you sense the
+Brothers' struggle for harmony.
+~
+66 1 0
+D1
+The hallway heads towards the kitchen.
+~
+~
+0 -1 6673
+D2
+You hear sounds of weeping coming from the cell to the south.
+~
+door~
+1 -1 6676
+S
+#6675
+Brother Russ's Cell~
+   Brother Russ is the master herbalist of this sect.  The many charts
+of rare and common plants of field and forest obscure the whitewashed
+walls. Twigs, leaves, and small seedlings cover the narrow oak table
+under the large, southern facing window.  Looking out the window, you
+see a beautifully planned garden, with some very odd-looking plants.
+Your only path from here is north to the hallway.
+~
+66 1 0
+D0
+A plain wooden door blocks your view of the hallway.
+~
+door~
+1 -1 6673
+S 
+#6676
+Brother John's Cell~
+   Brother John sleeps in this small, dark cell.  There is no clue to
+the personality of the owner inside - the walls are plain and bare and 
+the small table has only a comb and brush and a small piece of  
+parchment. The view from the single, small bare window at the southern 
+end of the room is blocked by a small stand of trees.  This has the 
+effect of keeping the occupant's focus either internal, or on the 
+intrigue of nature as revealed in the pattern of bark. 
+It is no wonder Brother John feels like weeping at times.
+~
+66 1 0
+D0
+An exit to the hallway.
+~
+door~
+1 -1 6674
+E
+tree bark words window~
+Bide the Wiccan Law ye must,
+In perfect love and perfect trust.
+Eight words the Wiccan Rede fulfill:
+An' ye harm none, do what ye will.
+
+What ye send forth comes back to thee
+So ever mind the law of three.
+Follow this with mind and heart,
+Merry ye meet, and merry ye part.
+~
+E
+parchment~
+There is writing on it!
+~
+E
+writing~
+Despite watery blotches on the paper, you are able to decipher the
+following words:
+
+     "I can never hope for forgiveness or absolution.  I should never
+      have allowed it.  We are to preserve nature, not enhance it.  
+      The experiments with the insects should never have happened.  
+      I can only hope they can be confined within the monastery grounds."
+
+Beyond this point, the writing becomes too blurred to read.
+~
+S
+#6677
+Monastery Dormitory~
+   This large room serves as a dormitory for the newest monks.  The
+room appears nearly empty during the day, as the monks roll their 
+mats out on the floor at night, and roll them into a bundle for the day.  The
+room's only light is the daylight or moonlight/starlight that filters
+in through the narrow clerestory windows which line the south wall.
+~
+66 d 0
+D0
+The monastery hallway glistens whitely north of here.
+~
+door~
+1 -1 6672
+D1
+The dormitory is a large room.
+~
+~
+0 -1 6678
+S
+#6678
+Eastern End of the Monk's Dormitory~
+   The young monks who inhabit this room leave little trace of their
+existence when they are not here.  The room is bare except for a pile
+of rolled-up sleeping mats in one corner.  The walls are painted white,
+a faint contrast with the cold grey of the stone floor.  The room
+continues to the west.
+~
+66 d 0
+D1
+The monastery gardens where all novices study and work lie to the east
+of here, through the wooden doors.
+~
+wooden door~
+1 -1 6679
+D3
+The dormitory continues westward.
+~
+~
+0 -1 6677
+S
+#6679
+Vine-covered Trellis~
+   A large trellis marks the entrance to the monastery gardens.  The
+trellis is tall enough and wide enough for a small group of the tallest
+of the monks to easily pass beneath.  It is covered with a dark green
+vine with small, glossy leaves.
+~
+66 c 3
+D1
+A dazzling display of humongous white flowers.
+~
+~
+0 -1 6680
+D3
+The monks dormitory lies through a simple wooden door west.
+~
+door~
+1 -1 6678
+S
+#6680
+Rainbow Gardens - White~
+   You feel the scent of hundreds of white roses almost as a physical
+assault.  Everywhere you look you see white roses of every variety.
+There are climbing roses on trellises and tea roses with long stems on
+large bushes, creamy white roses and snow white roses, and everywhere a
+heavy sweet scent.
+~
+66 1 0
+D0
+More flowers ...
+~
+~
+0 -1 6681
+D3
+~
+~
+0 -1 6679
+S
+#6681
+Wiccan Rainbow Gardens - Purple~
+   You are walking in the gardens of the Wiccan Monastery of Tynstri.
+There is a path of sorts, formed from relatively smooth flat rocks 
+gathered from some streambed.  Brightly colored flowers border the path.  In
+this section of the garden, the flowers are all shades of deep purple,
+lilac and violet.  The garden continues north and south. 
+~
+66 0 1
+D0
+Shades of blue tempt you to explore.
+~
+~
+0 -1 6682
+D2
+The brightness of white nearly blinds you.
+~
+~
+0 -1 6680
+S
+#6682
+Rainbow Gardens - Deep Purple Moves into Blue~
+   The deep purple flowers north of here are gradually shading into
+deep blue, powder blue and aqua. The Wiccan love of rainbows has been
+reflected in the garden plantings.  Blue-stars blossom next to blue
+bugles and  forget-me-nots.
+~
+66 0 1
+D0
+The garden continues
+~
+~
+0 -1 6683
+D2
+To the north, the blue becomes green.
+~
+~
+0 -1 6681
+S
+#6683
+Rainbow Gardens - succulent green~
+   Here, the monks raise aloe.  The aloe is used to treat dragon-burns
+and other injuries.  The aloe grow in small spiked clumps and on tall 
+trees with no bark.  Besides the succulents, coleus, Bells-of-Ireland,
+Limelight and green zinnias blossom here. 
+~
+66 0 1
+D0
+North, the garden warms into the colors of sunset.
+~
+~
+0 -1 6684
+D2
+To the south, the garden deepens to blue.
+~
+~
+0 -1 6682
+S
+#6684
+Rainbow Gardens - Sunset colors~
+   This part of the garden is so bright that you feel warm just
+admiring the plants.  Hollyhocks and daisies, Iceland poppies and tall
+sunflowers, miniature marigolds and black-eyed susan vines all in
+shades from sunny yellow to a deep burnt orange.  All flourish with the
+monks' careful magic.
+~
+66 0 1
+D0
+Red ahead.
+~
+~
+0 -1 6685
+D2
+You see aloe.
+~
+~
+0 -1 6683
+S
+#6685
+Rainbow Gardens - Red~
+   Red and pink flowers cover this part of the garden.  Fuschia drip
+from pots hung on the monastery wall.  Snapdragons snap at your heels.
+Monkey flowers make faces at you and foxglove, poppies, patience and
+cockscomb all add to the dull red, bright red, cherry red, deep pink
+... all shades of red.
+~
+66 0 1
+D2
+More flowers!
+~
+~
+0 -1 6684
+D3
+A vegetable garden begins.
+~
+~
+0 -1 6686
+S
+#6686
+Rainbow vegetables - Orange to yellow~
+   Bright orange and yellow vegetables and fruits fill this part of the
+garden.  Pumpkins of all sizes - many large enough to hold an adult elf
+- bask in the sunshine and grow even larger.  Yellow squash and pale
+yellow bananas grow side by side.  Yellow tomatoes grow on bushes on
+the eastern side of the path, bosc pears on trees on the west.  Carrots
+wave their greens at you from under the pear trees.
+~
+66 0 1
+D1
+You see red.
+~
+~
+0 -1 6685
+D2
+You see green.
+~
+~
+0 -1 6687
+S
+#6687
+Greens~
+   Lettuces and cabbages grow in abundance here in the shade of the
+monastery wall.  Leaf lettuces line up by head lettuces.  Cabbages grow
+in firm round balls next to tall dark leafy kale and mustard greens.
+Green beans drip from their vines, ready to be harvested.
+~
+66 0 1
+D0
+Looks like more garden.
+~
+~
+0 -1 6686
+D2
+The garden continues.
+~
+~
+0 -1 6688
+S
+#6688
+Rainbow Gardens - Blueberries and Boysandberries~
+   Berries in all shades of blue and purple grow on bushes and thorny
+vines, straining for sunshine in this part of the garden just off the
+monastery kitchen.  Blueberries, boysenberries and blackberries are all
+ready to be picked.  Trees laden with enormous deep purple plums reach
+for the sky, and huge aubergines grow at your feet.  All the plants are
+unusual in their size.  They all seem to glow with magic.
+~
+66 0 1
+D0
+The garden continues.
+~
+~
+0 -1 6687
+D2
+A patch of white vegetables lies south of here.
+~
+~
+0 -1 6689
+S
+#6689
+Blindingly white onions~
+   Enormous vegetables in many shades of white fill this part of the
+gardens.  Giant heads of cauliflower wink at you from their nest of
+green, and large white onions peek shyly from their barely-covering
+layer of soil.  Potatoes, white radishes and daikon all seem to
+flourish here in large sizes.
+~
+66 1 0
+D0
+More veggies!
+~
+~
+0 -1 6688
+D2
+Stinkeroonio!
+~
+~
+0 -1 6690
+S
+#6690
+Hold your nose~
+   To every thing there is a season, and for the pile that you find
+here, that season is past.  The Wiccan monks carefully recycle all of 
+their left over clippings, herbs, vegetables, flowers, and other organic
+matter in an enormous compost heap that one of the strong monks tends.
+As you bat the enormous flies away from your face you debate entering
+the monastery kitchen, west of you, or exploring the gardens to the
+north.
+~
+66 c 0
+D0
+You see enormous white vegetables in scattered plantings.
+~
+~
+0 -1 6689
+D3
+The monastery kitchen is off to the west.
+~
+door~
+1 -1 6691
+S
+#6691
+Monastery Kitchen~
+   The monastery kitchen is warm and welcoming, fragrant with the odors
+of fish baking in herbs freshly gathered from the forest.  Elven chefs 
+are widely known, and the monks have long held that a strong body, like 
+a strong mind, must be properly nurtured.  The kitchen is spotlessly
+white and clean.  The walls are lined with cabinets that hold foods and
+herbs, medicinal and savory, grown by the monks who live here.
+~
+66 1 0
+D1
+Smells of decay seep through the heavy door.
+~
+door~
+1 -1 6690
+D3
+The passage to the monks' rooms begins west of here.
+~
+door~
+1 -1 6672
+D5
+Down the stairs to an intoxicating smell
+~
+door~
+1 6674 6692
+E
+lock~
+It looks like a long slit.
+~
+S
+#6692
+Monastery Wine Cellar~
+   A steep, narrow stairway winds round and round, finally leaving you
+in an unlit, cool cellar, redolent with the fruit of the vine.  Around 
+you an endless army of green glass stores wines of many colors and 
+scents.  The cellar continues to the east, or you may wish to return to 
+the kitchen via the stairs.
+~
+66 1 0
+D1
+~
+~
+0 -1 6693
+D4
+~
+~
+1 6674 6691
+S
+#6693
+Wine Cellar - East~
+   At this end of the wine cellar you can often see Brother Dionysos
+and the Wiccan winemaker conferring about the properties of the wines.
+Around you are large oaken barrels, each with a tap in the end near the
+bottom.  The dirt floor is cold beneath your feet, and the earthy smell
+adds an overlay to the pungent odor of spilt wine and candle wax.
+~
+66 1 0
+D3
+~
+~
+0 -1 6692
+S
+#6694
+Off the beaten path~
+   Yet another small clearing in the elven forest at once frightens and
+enchants you. A heavy fall of vines from one of the many tall trees is
+a delight to the eyes, yet there is something very sinister about their
+long sharp thorns.  You can go back to the path south of here.  Trees
+north, east and west block the path.
+~
+66 1 0
+D2
+A tiny trail through the forest is south of here.
+~
+~
+0 -1 6695
+S
+#6695
+A tiny trail~
+   A tiny trail leads through the forest here.  The way is so narrow
+that you wonder if it is a path made by small forest animals rather than
+elves.  It bends sharply here, and you must choose between following
+the trail west or south, or head north into a tiny clearing.
+~
+66 1 0
+D0
+A small clearing in the forest.
+~
+~
+0 -1 6694
+D2
+A small dark path
+~
+~
+0 -1 6696
+D3
+A more travelled path appears to be west of here.
+~
+~
+0 -1 6630
+S
+#6696
+Small dark path through the forest~
+   A small dark path leads east, north and south from here.  The path
+is so faint that you wonder if you are just imagining it in hopes that 
+you are not lost.  From the south you hear a roar.
+~
+66 1 0
+D0
+The tiny trail continues north
+~
+~
+0 -1 6695
+D1
+The tiny clearing looks like a good spot for an ambush.
+~
+~
+0 -1 6697
+D2
+You hear the roar of rushing water
+~
+~
+0 -1 6665
+S
+#6697
+A perfect place for an ambush!~
+   This small clearing appears to be the perfect setup for an ambush.
+If you stand very still you can hear soft, stealthy sounds from behind 
+the trees that block the exits north, east and south from here.  
+Probably not a good place to just hang...
+~
+66 1 0
+D3
+You see a tiny trail wending its way through the forest.
+~
+~
+0 -1 6696
+S
+#6698
+Path to the Prison~
+   This path looks sadly unused and neglected.  Weeds thrive along the
+edges and have begun to grow across the middle of the path.  The loud
+buzzing of insects thriving on the monastery garden plants competes for
+your attention with a thrummm of activity which is somehow underneath
+your feet.
+~
+66 1 0
+D0
+A dark and dismal place looms ahead
+~
+~
+0 -1 6699
+D2
+In the distance you see the green arches of the monastery.
+~
+~
+0 -1 6670
+S
+#6699
+Prison~
+   The dark gray building seems out of place here amidst the verdant
+greens of Tynstri.  There are heavy chains covering the doors.  There
+are no windows.  There is a small sign on the door.  You look down the 
+path south of here and realize that that is a safer place to be.
+~
+66 1 0
+D2
+An overgrown dirt path leads south.
+~
+~
+0 -1 6698
+E
+sign~
+You read, "Out hunting dragons."  There is something further written in
+tiny, barely legible print.
+~
+E
+print~
+If u c some1 in an oranj jumpsuit with "Tynstri Prison" in black
+writing
+on the back ... run!
+~
+S
+#99999
+$~

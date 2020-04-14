@@ -1,0 +1,12 @@
+>greet_prog 50~
+if isgood(ch) {
+  if (level(ch) > 50) {
+    echoat(ch, full_name(mob) + " snaps to attention at your arrival.");
+    echoaround(mob, ch, full_name(mob) + " snaps to attention at the arrival of " + name(ch) + ".");
+  }
+} else if !number(0,3) {
+  do(mob, "growl " + name(ch));
+  do(mob, "say Evil is not wanted here!");
+}
+~
+|

@@ -1,0 +1,775 @@
+#2600
+mantra compassion mu key~
+Mu~
+Mu, the Mantra of Compassion is here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 0 0
+#2601
+mantra humility lum key~
+Lum~
+Lum, the Mantra of Humility is here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 0 0
+#2602
+mantra justice beh key~
+Beh~
+Beh, the Mantra of Justice is here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 0 0
+#2603
+mantra spirituality ohm key~
+Ohm~
+Ohm, the Mantra of Spirituality is here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 0 0
+#2604
+mantra honesty ahm key~
+Ahm~
+ahm, the Mantra of Honesty is here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 0 0
+#2605
+mantra sacrifice cah key~
+Cah~
+Cah, the Mantra of Sacrifice is here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 0 0
+#2606
+mantra valour ra key~
+Ra~
+Ra, the Mantra of Valour is here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 0 0
+#2607
+mantra honour summ key honor~
+Summ~
+Summ, the Mantra of Honour is here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 0 0
+#2608
+moonstone key~
+a moonstone~
+A totally featureless moonstone is here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 0 0
+#2609
+moonstone key~
+a moonstone~
+A totally featureless moonstone is here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 0 0
+#2610
+moonstone key~
+a moonstone~
+A totally featureless moonstone is here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 0 0
+#2611
+moonstone key~
+a moonstone~
+A totally featureless moonstone is here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 0 0
+#2612
+moonstone key~
+a moonstone~
+A totally featureless moonstone is here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 0 0
+#2613
+moonstone key~
+a moonstone~
+A totally featureless moonstone is here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 0 0
+#2614
+moonstone key~
+a moonstone~
+A totally featureless moonstone is here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 0 0
+#2615
+moonstone key~
+a moonstone~
+A totally featureless moonstone is here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 0 0
+#2616
+hourglass key~
+the hourglass~
+You feel an aura of power emmanating from the hourglass.~
+~
+18 1 0 ab a
+0 0 0 0 0 255
+1 0 0
+#2617
+crook~
+the shepherd's crook~
+The crook lies here.~
+~
+5 10 0 0 an
+0 3 4 6 0 0
+11 1400 467
+A
+4 1
+#2618
+doll~
+the doll~
+An old rag doll is here.~
+~
+8 1 0 0 a
+0 0 0 0 0 0
+1 100 200
+E
+rag old doll~
+The rag doll seems to take on the weight of the child you killed.
+~
+#2619
+sword katrina~
+a sword~
+Katrina's sword gleams prettily.~
+~
+5 15 bfj gk an
+0 2 9 3 0 18
+11 5000 6000
+E
+sword~
+The sword is shined and cared for with much care. It glows with
+the light of virtue.
+~
+A
+19 2
+#2620
+scroll~
+a wrinkled scroll~
+A scroll rescued from the spider's web.~
+~
+2 18 bcdfghjklnops g a
+27 0 0 0 0 0
+1 4000 2000
+#2621
+dagger~
+a magic dagger~
+The magic dagger lies here, pulsating.~
+~
+5 25 bf ag an
+0 4 5 11 0 30
+7 6000 10000
+A
+18 2
+A
+19 3
+#2622
+robe~
+a robe~
+The robes of a mage lies here.~
+~
+9 20 bcdfghklnops k ak
+5 0 0 0 0 0
+5 4000 90
+E
+robe~
+These robes are comfortable and clean.
+~
+A
+12 20
+#2623
+horseshoes~
+horseshoes~
+Smithy's horseshoes are here.~
+~
+8 28 0 0 ao
+0 0 0 0 0 0
+7 500 4667
+#2624
+mandolin instrument~
+a mandolin~
+The fine instrument lies here.~
+~
+3 27 abcdefhijklmnops gk ao
+55 3 3 77 0 0
+6 6250 400
+#2625
+cup~
+a cup~
+The beggar's cup is here.~
+~
+15 1 0 0 ao
+1 0 0 0 0 0
+1 21 7
+#2626
+gold~
+some gold pieces~
+Gold pieces.~
+~
+20 1 0 0 a
+50 0 0 0 0 0
+1 0 0
+#2627
+bottle~
+the bottle~
+Iolo's bottle sits here.~
+~
+10 39 0 g ao
+59 15 15 15 0 0
+1 1750 0
+#2628
+mandolin silver~
+a silver mandolin~
+Iolo's mandolin stands against a wall.~
+~
+3 39 abcdefhijklmnops gk an
+78 4 4 71 0 0
+12 9000 1000
+E
+mandolin silver~
+Crafted by the master himself, Iolo, the mandolin is finely made. Its
+wood gleams, and as you pluck the string the clearest note sounds.
+~
+#2629
+chicken~
+a chicken~
+A chicken is lying on the ground.~
+~
+13 1 0 hn ao
+0 0 0 0 0 0
+8 0 0
+E
+chicken~
+As you look closer you see this isn't a real chicken, 
+it's one of those gag rubber chickens. 
+~
+#2630
+mandolin golden~
+a golden mandolin~
+The golden mandolin floats here.~
+~
+3 39 abcdefhijklmnops gk an
+78 4 4 61 0 0
+10 8000 3000
+E
+infinity bow~
+The bow is immense, yet light. You see no string, but as your
+hands touch the bow a string of pure energy appears and the bow
+vibrates with power.
+~
+#2631
+spear~
+a wooden spear~
+A simple wooden spear lies here.~
+~
+5 34 bfj 0 an
+0 3 9 12 0 17
+5 1000 567
+#2632
+club~
+a stone club~
+A stone club is here.~
+~
+5 35 abcefgijkms 0 an
+0 3 12 7 0 50
+16 1000 200
+#2633
+gavel~
+a gavel~
+The Judge's gavel lies here.~
+~
+12 42 0 jk ao
+0 0 0 0 0 0
+8 3200 1400
+E
+judge gavel~
+The Gavel is made of ironwood, and seems to have some of the
+qualities of Justice in it.
+~
+A
+4 2
+A
+12 70
+#2634
+quarterstaff~
+a quarterstaff~
+Jaana's staff lies here.~
+~
+5 48 0 gk an
+0 3 14 6 0 48
+9 4800 1600
+E
+staff~
+Jaana's staff is strangely shaped, in a double helix form. As
+you look at the two snake-like pieces of wood, they seems to
+move.
+~
+A
+3 2
+A
+4 3
+#2635
+sword geoffrey~
+a sword~
+Geoffrey's sword gleams in the sun.~
+~
+5 57 abefijm gk an
+0 3 15 3 0 57
+16 12800 7600
+E
+geoffrey sword~
+Geoffrey's sword is heavy but sharp. When you touch the jeweled
+hilt, power floods into your arm.
+~
+A
+19 4
+A
+18 2
+#2636
+sword~
+a sword~
+A simple sword is here.~
+~
+5 44 abefijm an ano
+0 3 12 3 0 44
+14 4000 1467
+#2637
+sword bastard~
+a bastard sword~
+Simon's monstrous bastard sword lies here.~
+~
+5 57 abcefgijlm gk an
+0 4 14 3 0 57
+18 18500 9500
+E
+sword bastard~
+This is the biggest and best sword you've ever seen. It's 
+balance is perfect and it is sharp and sure. When you grab 
+it, you suddenly feel incredibly strong, and incredibly 
+courageous.
+~
+A
+19 5
+A
+2 2
+#2638
+hammer tinker~
+a hammer~
+A tinker's hammer lies here.~
+~
+5 52 0 0 an
+0 3 14 7 0 52
+10 6200 1733
+#2639
+sword~
+a sword~
+Julia's hot, glowing sword lies here.~
+~
+5 70 abefijm agk an
+0 5 12 3 0 66
+8 20000 11000
+E
+glowing sword hot~
+Julia was working on this sword before you attacked her. Though
+it has been removed from the forge for a long time, it seems to
+continue to glow as if Julia's vengeful spirit has taken its
+place.
+~
+A
+19 5
+#2640
+amulet love~
+the Amulet of Love~
+The most beautiful amulet lies in a pile here.~
+~
+9 64 0 gk ac
+10 0 0 0 0 0
+1 10000 10667
+A
+24 10
+A
+21 10
+#2641
+avenger~
+the holy avenger~
+A shiny sword lies here.~
+~
+5 60 abcdefghijklmops agk an
+0 5 10 3 0 60
+10 20000 200
+A
+18 10
+A
+19 5
+#2642
+armour shiny~
+shiny armour~
+A paladin's suit of armour lies here.~
+~
+9 60 abcdefghijklmops gk ad
+30 0 0 0 0 0
+120 25000 20783
+A
+24 12
+A
+14 -60
+#2643
+rapier dupre~
+a rapier~
+Dupre's rapier is here.~
+~
+5 75 abcdefghijklmops gk an
+0 4 17 12 0 75
+13 25000 10000
+A
+18 5
+A
+19 5
+#2644
+boomerang~
+a boomerang~
+A gargoyle's boomerang is here.~
+~
+3 64 bcdfhjklnops bgk anp
+96 6 6 88 0 0
+6 6000 2133
+E
+boomerang~
+Though this seems like your basic boomerang, it is much more. 
+It hums with an unearthly tone, waiting for its power to be
+unleashed.
+~
+#2645
+sword rusty~
+a rusty sword~
+A corroded, rusty sword is here.~
+~
+5 67 abcefhijmn hjln an
+0 3 18 3 0 67
+16 0 0
+A
+9 67
+#2646
+shield rusty~
+a rusty shield~
+A spiked rusty shield lies here.~
+~
+9 67 0 hjln aj
+10 0 0 0 0 67
+22 0 0
+A
+18 3
+A
+19 3
+#2647
+cloak magic~
+a magic cloak~
+A magic cloak is here.~
+~
+9 84 0 gk ak
+15 0 0 0 0 0
+8 15000 10000
+A
+12 75
+#2648
+aura power~
+an aura of power~
+A bright light of power shoots into the air.~
+~
+9 84 cdhkops ag ad
+0 0 0 0 0 0
+1 10000 5000
+A
+12 84
+A
+12 84
+#2649
+face big red~
+a big red face~
+The empty shell of the Guardian head lies here.~
+~
+9 90 0 ghjln ae
+18 0 0 0 0 0
+98 0 0
+E
+face head helmet red~
+When you slew the evil Guardian, all that was left was his
+corporal form that he inhabited. That of the big red head.
+~
+A
+12 100
+#2650
+mace spiked~
+a spiked mace~
+Waves of corruption come off this evilly enchanted spiked mace.~
+~
+5 90 achimn ghjln an
+0 6 13 6 0 0
+16 0 0
+A
+18 3
+A
+19 7
+#2651
+armour black death~
+a completely black armour~
+This completely black armor reeks of death.~
+~
+9 90 abcefhijkmns ghjln ad
+45 0 0 0 0 0
+188 0 0
+A
+14 -50
+A
+13 100
+#2652
+charm evil~
+an evil charm~
+You see a very oddly shaped charm...it might be worth it to look at its shape.~
+~
+12 90 0 ghjln ac
+0 0 0 0 0 0
+1 0 0
+E
+shape evil charm~
+The charm looks to be a mummified part of a body. It 
+is about 3 inches long, and...NO! It could not be...
+~
+A
+19 1
+A
+17 -23
+#2653
+gem death~
+the death gem~
+The evil gem pulsates here.~
+~
+3 90 bcdfghjklnops ghjln ao
+109 3 3 76 0 0
+1 20000 0
+A
+12 50
+A
+3 3
+#2654
+helmet sentri~
+Sentri's helmet~
+Sentri's helmet is here.~
+~
+9 76 abcefgijkms gkl ae
+15 0 0 0 0 0
+25 15000 0
+#2655
+sleeves sentri~
+Sentri's sleeves~
+Sentri's sleeves lies here.~
+~
+9 76 abcefgijkms gkl ai
+19 0 0 0 0 0
+25 10000 0
+#2656
+girth sentri~
+Sentri's girth~
+Sentri's girth is here.~
+~
+9 76 abcefgijkms gkl al
+10 0 0 0 0 0
+25 15000 0
+A
+18 2
+A
+19 2
+#2657
+sword sentri two-handed~
+Sentri's two-handed sword~
+Sentri's two-handed sword is here.~
+~
+5 76 abcefgijkms gkl an
+0 5 15 3 0 76
+18 25000 0
+A
+19 9
+#2658
+gloves sentri~
+Sentri's gloves~
+Sentri's gloves are here.~
+~
+9 76 abcefgijkms gkl ah
+10 0 0 0 0 0
+25 10000 0
+A
+18 2
+A
+19 2
+#2659
+boots sentri~
+Sentri's boots~
+Sentri's boots are here.~
+~
+9 76 abcefgijkms gkl ag
+10 0 0 0 0 0
+25 10000 0
+A
+14 50
+#2660
+leggings sentri~
+Sentri's leggings~
+Sentri left his leggings here.~
+~
+9 76 abcefgijkms gkl af
+12 0 0 0 0 0
+25 10000 0
+A
+2 2
+#2661
+armour sentri~
+Sentri's armour~
+Sentri left his armour here.~
+~
+9 76 abcefgijkms gkl ad
+45 0 0 0 0 0
+25 25000 0
+A
+13 65
+A
+12 30
+#2662
+medallion fellowship~
+a Fellowship medallion~
+A triangular shaped medallion is here.~
+~
+9 81 0 ghjln ac
+15 0 0 0 0 0
+6 8000 1000
+A
+12 40
+#2663
+sword glass~
+the Glass Sword~
+The most amazingly well crafted sword lies here.~
+~
+5 90 bfj fgkl an
+0 8 8 3 0 0
+1 25000 5000
+E
+glass sword~
+Invisible to the naked eye, this sword is the best crafted, as
+you look at it, its amazing shape and size brings tears to your
+eyes. You know that this is the best weapon that you will ever
+see.
+~
+A
+18 10
+A
+19 10
+#2664
+crown british~
+British's crown~
+A jewel encrusted crown is here.~
+~
+9 90 cgkos gk ae
+18 0 0 0 0 0
+10 20000 12000
+E
+british crown~
+Legend has it that this most perfect of crowns has within one of
+its jewels, a perfect ray of sunlight. He who wears it must
+truly be enlightened.
+~
+A
+24 5
+A
+12 100
+#2665
+sceptre british~
+British's sceptre~
+A pure gold sceptre is topped with a perfect crystal orb of power.~
+~
+5 90 cgkos gk an
+0 6 10 6 0 0
+8 20000 10000
+E
+sceptre~
+The second of the crown jewels, this sceptre is amazingly light,
+and amazingly powerful. It is pure gold, but topped with an orb
+of power.
+~
+E
+orb~
+The orb of power is transparent to the point of sightlessness. 
+It holds within a vast store of power.
+~
+A
+12 100
+A
+18 7
+A
+19 8
+#2666
+silver amulet british~
+British's amulet~
+A silver amulet lies here.~
+~
+9 90 cgkos gk ac
+20 0 0 0 0 0
+1 10000 10000
+E
+amulet~
+British's amulet is in the shape of the great earth serpent.
+~
+A
+24 10
+#2667
+fountain~
+a fountain~
+A fountain shaped in an Ankh pours water.~
+~
+23 0 0 0 0
+100 100 15 0 0 0
+0 0 0
+#2668
+boat~
+a boat~
+A boat lies here.~
+~
+22 0 0 0 0
+0 0 0 0 0 0
+50 12000 4000
+#2699
+moongate~
+#Mmoongate#N~
+#MA moongate#N~
+~
+26 114 0 abghmt 0
+-1 0 -1 -1 -1 -1
+0 0 0
+#99999
+$~

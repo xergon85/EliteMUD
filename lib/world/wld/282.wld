@@ -1,0 +1,1064 @@
+#28200
+#bThe Entrance to the Kai Citadel#N~
+     A huge citadel is outlined against the sky, overlooking the city of
+Midgaard. The massive bronze doors to this fortress stand open, and you
+somehow feel welcome. No guards defend this place, and the sounds that 
+are normally heard in the castles of the Elite world are not heard here.
+Whatever lies within, this place is at peace. Above the door you see a
+huge stone archway with some writing on it. You can go south, back into
+Midgaard, or north, into the citadel. You also see a #N#bplaque#N on the
+wall here that may bear furthur reading.
+§N~
+282 cduz 1
+D0
+~
+~
+0 -1 28201
+D2
+~
+~
+0 -1 3065
+E
+archway arch ~
+Carved from a single piece of marble, this archway supports the south
+facing wall of the citadel. Inscribed across the top of the archway is
+the Kai Credo. It reads:
+
+           "Honour, Fellowship, Courage, Respect, Loyalty."
+§N~
+E
+plaque sign wall~
+It reads:
+     A lot of work was put into this house, especially the extra
+descriptions!  If you see a work of interest such as plaque, sign, 
+statue, anything, try to look at it! Often, there is a detailed 
+description attached. We, the  builders of the Kai Fortress, hope you 
+like it, and you are *more* then welcome to look around and use our 
+facilities.  -Nymph and Rilarien
+§N~
+S
+#28201
+#bInside the Citadel#N~
+     You are standing in a darkened hallway, massive marble pillars
+holding up the arched ceiling all along the length of the hall. Carved
+into each pillar is a statue, presumably of some past hero. You can 
+follow the hallway north, or go to one of the two rooms here. There is a 
+small plaque on one of the pillars. 
+~
+282 duz 0
+D0
+The hallway to the north is dark. 
+~
+~
+0 -1 28204
+D2
+You can see sunlight from here. 
+~
+~
+0 -1 28200
+E
+fang~
+Stern, stalwart, deadly, Fang was the Kai of Honour and Courage. He 
+helped those he deemed worthy, and had no patience for those who were 
+incompetent.  Years of battle changed him, and he became much respected
+for who he was, as well as for his unmatched ability with the sword.
+~
+E
+karen lanier~
+Beautiful, elegant, slender frame belying great power, Karen Eth Lanier 
+was the trusted ally of Ben Kenobi and succeeded where he failed. The two 
+fought many great battles side by side, for Karen is the Kai of Skill.
+~
+E
+ben kenobi~
+A slender robed figure carved in stone, with deep scars and determined 
+gaze. Ben Kenobi was the Kai of respect, once beloved by his people, and 
+cast aside when he lost his faith in them.
+~
+E
+plaque sign pillar~
+These are the semblances of the mightiest of the old Kai. Look upon them 
+well, for they each symbolize a facet of what you aspire to be. The 
+legendary Ben Kenobi, the vengeful Fang, and the mighty Karen Eth Lanier.
+~
+S
+#28202
+#bAn Arched Hallway#N~
+     This large hallway continues to the north and south. Pillars line 
+both sides of the walls, supporting the giant arches above. Some of them 
+seem to have carvings of ancient people on them, giving off great wisdom. 
+To the west of here is a quiet, dark room, lit by candles. To the north, 
+the great hallway ends and opens into a large room with an enormous 
+circular table in the middle.
+§N~
+282 cduz 0
+D0
+~
+~
+0 -1 28220
+D2
+~
+~
+0 -1 28204D3
+There is fresh air this way, it must be the way out. 
+~
+~
+0 -1 28209
+E
+pillar wall statue carving~
+Carved into these pillars are the faces of legendary Kai heroes. Most 
+recognizable are Kronan, Nibor, and the great Darius. All of them seem to 
+have been very important to Kai, and very wise.
+~
+S
+#28203
+#bThe Kai Training Hall#N~
+     This empty chamber has weapons lining the walls, and it obviously
+doubles for an armoury. On the far wall beyond a glowing forcefield are 4
+weapons, legendary artifacts from another world. A pure white blade, a
+crackling black sword, a solid mithril mace and a long war spear. The Kai
+also use this room to stock spare equipment. New warriors are always
+welcome to look here should they have need of beginning equipment!
+§N~
+282 duz 0
+D1
+You see the dark hallway. 
+~
+~
+0 -1 28204
+E
+blade white pure glory~
+This is the mighty Sword of Glory, the weapon of the Kai. It was brought 
+to this world by Ben Kenobi, and is kept here, as he is no longer worthy 
+to wield such a blade.
+~
+E
+sword crackling black stormblade~
+This is the deadly Stormblade, hidden by the elves until the dragon Santa 
+plundered their castles and completed their quests. When it fell into his 
+hands, all who were good trembled with fear, and no-one dared oppose him. 
+~
+E
+mace mithril disruption~
+This is the holy Mace of Disruption, brought to this world by the warrior 
+maiden Kris. Thought lost, it surfaced recently and has been kept here 
+ever since. Many undead creatures were blasted into oblivion at Kris's
+hands.
+~
+E
+spear vangar~
+This is Vangar's Spear, wielded by the mighty general of the Crimson 
+World. No-one knows how it arrived in Elite, but here it is kept, lest it 
+fall into the wrong hands.
+~
+S
+#28204
+#bArched Hallway#N~
+     The large hallway continues. There are more pillars with statues
+carved into them here, and there is a plaque on one support. If you wish, 
+you can follow the hall north or south, or you can enter one of the two 
+doorways here to see what lies beyond. A spiral staircase also leads up
+from here.
+~
+282 duz 0
+D0
+The hallway continues to the north. 
+~
+~
+0 -1 28202
+D1
+There is a large chamber to the east. 
+~
+~
+0 -1 28205
+D2
+The hallway continues to the south. 
+~
+~
+0 -1 28201
+D3
+There is a large chamber to the west. 
+~
+~
+0 -1 28203
+E
+plaque~
+This is the room of the dead gods. The gods who once held power in the
+world of Crimson, but fell after the Apocalypse.  Chani is not the power 
+she once was, and Trinity and Terrock have vanished totally.
+~
+S
+#28205
+#bThe Kai Barracks#N~
+     These are the sleeping quarters of the Kai, where they rest between
+their rigorous adventures. If you need to rest, rest here, for the magic 
+of the Kai ensures that you cannot be harmed within this room. Indeed, 
+some claim that those who tend their wounds here heal much faster than 
+anywhere else! Also, the food you see here is for people resting here, 
+often left by kind-hearted Kai for less fortunate people. Please 
+contribute! There is a map on
+the wall here, with a plaque beneath it.
+§N~
+282 cdetuz 0
+D3
+The hallway is through this door. 
+~
+~
+0 -1 28204
+E
+map~
+
+                                      #bRoom#N   
+                                      /  |   
+                                     / #bCouncil#N   
+                                    /   
+                           #bWoR#N -- #bEoH#N  -- #bAsh#N   
+                                   |    
+                                   |        #bZif#N   
+             #bWil    DaM    Atl#N     |   #bRoom#N/   
+              |      |      |      |  /   
+             #bElH#N -- #bElH#N -- #bElH#N -- #bArH#N  -- #bKai
+                                                        Barracks#N   
+              |      |      |      |   
+         #bCat    Dar    Flg#N     |   
+                                   |   
+                           #bArm#N -- #bInC#N  -- #bLibrary#N   
+                                   |   
+                                  #bEnt#N  
+§N~
+E
+key plaque~
+#bMAP KEY
+-------#N
+
+Ash - Ashen-Shugar's Room  WoR - Worship Room
+EoH - End of Hall          Wil - Willow's Room
+DaM - Dakkon's Maze        Atl - Atlantis's Room (register of Kai is 
+                                                  here)
+Elh - Elder Hall           Cat - Catwoman's Playroom
+Dar- Darren's Room        Flg - Flagg's Room 
+Zif - Zifnab's Room        ArH - Arched Hallway
+InC - Inside Citidel       Ent - Entrance
+
+Arm- Armory. NOTE: this room is for low level players only.
+     High level players taking equip from this room is *HIGHLY*
+     frowned on.
+
+       Map courtesy of the Kai and the Keeper of the Citidel
+§N~
+S
+#28206
+#bHallway of the Elders#N~
+  This long hallway is beautifully decorated, with a scarlet red
+carpet covering the length. Doors line this hall, presumably leading to
+the private rooms of various notable Kai. You can follow the hallway to
+the east or the west, or open on of the doors here. The door to the south
+has the is engraved with the name "Flagg".
+§N~
+282 duz 0
+S
+#28207
+#bSnicker's Room#N~
+     The first thing you notice upon stepping into this room, is the 
+clutter.  A dark blue velvet cloak hangs over the lone chair which sits 
+near a writing desk piled with journals, papers and scrolls.  Books are 
+stacked everywhere, maps and illustrations line the walls, and small 
+metal figurines crowd a little shelf.  A worn staff in the corner topped 
+with a traditional jester's cap and bells declares the owner's 
+occupation.  The bed is the only thing that looks neat, appearing to 
+never have been slept in.
+~
+282 duz 0
+D1
+~
+door~
+1 -1 28217
+E
+journals papers scrolls~
+Most of the papers seem to be written in a cramped, unreadable script.  
+What few you can read seem to be notations on the world you are familiar 
+with. One paper in particular is dedicated to the study of extinct flora 
+and fauna, including the long-lost "smurfs."
+~
+E
+maps~
+The maps on the walls cover large amounts of territory, both familiar
+and strange.  The largest maps cover areas labeled "Elanthia," "Norrath,"
+and "Covenia," in addition to a large world map that seems somewhat
+familiar, if a bit old.  Although all appear to be drawn by the same 
+hand, the Elanthian and Norrath maps are signed by "Talies," and the 
+Covenia map is unsigned, and appears to be unfinished.
+~
+E
+figurines~
+The metal figurines are each small enough to hold in one hand,
+although much heavier than they first appear. Each one is different, and
+colorfully painted, and they all seem to be tiny adventurers or monsters.  
+~
+E
+cloak~
+The cloak appears somewhat worn, but still retains it's original
+beauty.  The scent of campfires lingers when you touch it.
+~
+E
+staff~
+Worn by use or travel, you can't tell, but the jester's cap seems to
+be a recent addition.
+~
+S
+#28208
+#bInside a Beautiful Flower#N~
+     The sweet scent of the flower is overwhelming and makes you feel a 
+little dizzy. As you enter the small opening in the flower, you feel a 
+strange sensation goes through your body and everything around you seems 
+to increase in size. 
+
+     Looking back up at the opening, you can see a piece of the flower, 
+which hangs over the opening acting like an awning. You can see the sky 
+from where you are sitting and feel a cool breeze in your hair. On the 
+edge of the opening is a small hook, maybe used to fasten the awning in 
+bad weather. If you stand up you might be able to look over the edge back 
+into the garden. The walls of the small nest are soft like velvet and 
+seem to be changing in colors ranging from yellow to green right before 
+your eyes. The bottom is covered with small silk pillows in many 
+different colors and patterns to sit on. Also, a small chest acts as both 
+a table and a place to keep things. On top of it are some small pictures 
+in silver frames and a basket with fruit.
+§N~
+282 dpuz 0
+D4
+~
+awning~
+1 -1 28214
+E
+pillow~
+The pillows are of many colors, shapes and patterns, their look very 
+comfortable.
+~
+E
+chest~
+The small chest is made of wood and has strange patterns carved into it. 
+A large metal lock prevents you from opening it. 
+~
+E
+walls~
+The yellow and green colors seems to change all the time.
+~
+E
+awning~
+The awning is of a light yellow color with small green spots, on one side 
+is a rope hanging, most likely used to secure it when the wind blows.
+~
+E
+hook~
+It is a small hook that seems to have been put there for a reason.
+~
+E
+fruit~
+There are a few different kinds of fruit all foreign to you, but they 
+look fresh and delicious.
+~
+E
+basket~
+The basket is made of wicker.
+~
+E
+out~
+You see the garden below you with all it's flowers and grass. When you 
+look up you can see the trees above. Everything looks much bigger than 
+usual or maybe you remember wrong.
+~
+S
+#28209
+#bThe Room of Worship#N~
+     This is where the Kai pray to their gods. Many idols line the
+walls, hold-overs from the Saracen days. In the center of the room is a 
+large altar, presumably used for the many ceremonies of the Kai. This is 
+where new Kai are initiated, and taught of the days of old, the days of 
+the Saracen, and the credo of the Kai. 
+~
+282 duz 0
+D1
+You can leave to the hallway. 
+~
+~
+0 -1 28202
+E
+idols~
+The idols of Nymph the Angel, Rilarien the Wolf, Odie, Nymph's lover, 
+Xman the once-king, and Radagast the Wizard all line the walls.  There 
+are other nameless statues, too old to be identified.
+~
+E
+altar~
+The large altar is vaguely translucent, and you see that embedded deep  
+within is what appears to be a Sword of Glory.
+~
+S
+#28210
+#bEnd of the West Wing#N~
+     The west wing ends here. Further west lies the humble abode of one 
+of the greatest Kai of all, Viv. North is the home of Karen Eth Lanier. 
+Like the other hallways in this citadel, there are pillars supporting the 
+arched ceiling. However, nothing has been carved into these, perhaps 
+leaving room for future Kai. 
+~
+282 duz 0
+D0
+~
+~
+0 -1 28223
+D1
+~
+~
+0 -1 28211
+D3
+~
+~
+0 -1 28225
+E
+painting north art~
+An ancient dragon, fighting side-by-side a much younger red dragon and
+several mortal heroes, battles a mighty demon in this painting. You
+identify one of the robed figures as Evil, once-emperor of the Storm
+Dragons, and therefore the dragons are likely to be Santa and Reddragon.
+The other heroes are unknown to you. Writing on the bottom of the 
+painting indicates that this work of art was taken from the world of 
+Crimson, from Santa's cave, so that it would always be safe here.
+§N~
+S
+#28211
+#bIn the West Wing#N~
+     This large hallway leads east and west. The vaulted ceiling is 
+supported by huge pillars. Most of them have been carved into statues of 
+ancient Kai, others may have been, but have eroded and are 
+incomprehensible at their present state. There seems to be room north and 
+south for people's rooms. 
+~
+282 duz 0
+D1
+~
+~
+0 -1 28220
+D3
+~
+~
+0 -1 28210
+E
+pillar wall carvings~
+The pillars here have been carved away to form statues of the faded Kai. 
+Odie, and Dementorr, are the only statues here that haven't been worn 
+away beyond recognition.
+~
+S
+#28212
+#bJesta's Garden#N~
+     The red light fades and you find yourself standing in the middle
+of a massive desert, with sand as far as the eye can see... burnt, black 
+sand. In the middle there is a small broken-down tower with some dead 
+trees around it, and brown vines seem to fill the interior. Inside you 
+see a broken swing and a dog's collar lying on the floor. You can still 
+smell something in the air, possibly sulfur, possibly something much, 
+much worse. You are filled  with an overpowering urge to leave this ruin. 
+~
+282 cuz 2
+D3
+The desert stretches as far as the eye can see. 
+~
+~
+0 -1 28214
+E
+swing~
+This is Jesta's swing, where the carefree goddess used to swing for
+hours and hours.
+~
+E
+collar dog~
+This is the collar of Watson, the Sausage dog.
+~
+S
+#28213
+#bBen Kenobi's Study#N~
+     Ben Kenobi, much respected Jedi hero and Kai Lord, once a
+high-god in the world of Crimson, now a mere mortal, spends his days 
+here, when he is not out in the world of Elite. It took all the magic the 
+Kai could muster to salvage this portion of the world he came from. The 
+room itself is rather sparse, a bed, a desk, paperwork cluttering it. The 
+only objects of note are two statues, one of a fair maiden, and one of an 
+elven hero, which seem to guard the stairs against all intruders.
+§N~
+282 dtuz 0
+D5
+You can climb down to the Garden. 
+~
+~
+0 -1 28220
+E
+alannon elven hero elf~
+Alannon the Elven Knight, who instructed Ben in the use of the
+sword, and showed Ben the ways of magic. His apparant youth belies his 
+talent, and  he is sorely missed by the Kai Lords. He was the Avatar of 
+Good, a fabled  warrior in his time.. but now he is dead, and no-one 
+speaks of his deeds anymore.
+~
+E
+jesta maiden~
+This is a statue of Jesta, Ben's goddess in the world of Crimson.
+She looks rather playful, like she was a harmless figure, and her almost  
+childlike beauty is marred only by her eyes. They seem too fierce, too  
+angry for her face.
+~
+S
+#28214
+#bA Large Garden#N~
+     The garden is filled with flowerbeds and tall beautiful trees. There 
+are many trails in the garden, but most of them lead right back to the 
+middle. All around the garden is a tall stone wall. On the wall flowers 
+and grass is growing and some places the stones have been broken, leaving 
+opening in the wall. There is a small flower right next to an old oak 
+tree, which looks foreign and out of place.
+~
+282 uz 4
+D0
+~
+door maple~
+1 -1 28228
+D1
+~
+~
+0 -1 28212
+D2
+~
+~
+0 -1 28217
+D4
+~
+flower~
+11 -1 28208
+E
+oak~
+The old tree looks to be many hundreds of years old.
+~
+E
+flower~
+The green and yellow flower has a small opening in the top.
+~
+E
+trail~
+The trail is a dirt trail.
+~
+E
+wall~
+In between the large stones flowers and grass grows. The wall has not 
+been kept well.
+~
+S
+#28215
+#bDeimos's Cave#N~
+     It is a lot cooler in here, as the cave you've found shelters you 
+from the desert heat. This cave is tremendous on the inside, and every
+noise you make echoes off the walls in an eerie fashion. You see a ledge
+on the other side of the cave, strewn with treasure, a dragon's treasure,
+you suddenly realize. You can't get to it from here, because you are
+blocked by a large lake, and all the treasure on this side doesn't really
+seem worth it. Mostly books.. a dragon reading? There is also a small
+painting on the  ground, mostly completed. You can go back out into the
+desert, or try to cross the lake.
+~
+282 adtuz 4
+D2
+~
+~
+0 -1 28227
+E
+painting lanceor~
+This is a almost complete painting of a young elf. According to the 
+frame, this is Lanceor Eth Lanier, the last Jedi. He is depicted here in
+battle with the evil denizens of the fabled city of Arnath, with the
+spirits of the Jedi Knights Karen Eth Lanier and Ben Kenobi watching 
+over him. 
+~
+E
+lake~
+Odd, it seems like there is a red glowing shape in the lake.
+~
+S
+#28216
+#bA Storage Room#N~
+     This is where the Kai keep their spare equipment. The shelves in
+this room are all kept clean, and it is well lit enough that you can see
+far into the storage chamber. If you find yourself in need of some of the
+more common items EliteMUD has, check here often. Occasionally you may
+find something interesting!
+~
+282 duz 0
+D4
+~
+door~
+1 -1 28220
+S
+#28217
+#bNorth Wing#N~
+    This hallway is much shorter than the others, it ends to the north in 
+enormous double doors, forming a great arch. Through the doorway, a vast 
+garden is visible, and beyond that a giant tree. Pillars line the walls 
+here, each with carvings in them. A small blue animal resembling a smurf 
+walks into the room east of here, and to the west comes the laughter of 
+the greatest Jester to belong to Kai.
+~
+282 duz 0
+D0
+§N~
+door~
+1 -1 28214
+D1
+§N~
+door~
+1 -1 28222
+D2
+§N~
+door~
+1 -1 28220
+D3
+~
+door~
+1 -1 28207
+E
+pillar wall carving~
+The pillars here have been carved away to form statues of the faded Kai. 
+Labria, Larson, and Mithrandir are among the most prominent statues here.
+~
+S
+#28218
+#bThe East Wing#N~
+  This hallway continues off to the east, an endless tribute to faded 
+Kai, carved onto the pillars. North leads to the room of Atlantis, and to 
+the south is space for a new Kai to live. Rocks crumble from the top of 
+the arched ceiling, this hallway is badly in need of repair.
+~
+282 duz 0
+D0
+~
+door~
+9 -1 28229
+D1
+~
+~
+0 -1 28227
+D3
+~
+~
+0 -1 28220
+E
+pillar wall carving~
+The pillars here have been carved away to form statues of the faded Kai. 
+Xala, Garthos, and Seleena have been carved into these pillars, forever 
+honored.
+~
+S
+#28219
+#gDarren's Woodland Hide-Away#N~
+   The Kai have many valued friends, and as a mark of respect, some
+of these allies are given dwellings within the fortified walls of the
+Kai citadel. The Huntress Soulcatcher is one such person. An experienced  
+ranger, she has chosen to live in the peace and serenity of the woods 
+just outside the fortress, forsaking the civilization within. When this
+warrior maiden is not out aiding her clan, the Pack, or battling in the 
+world of Elite, she can occasionally be found resting here. The mystical 
+powers of the grove are beneficial to the injured, and many an adventurer 
+has tended his wounds here, using the woodland's healing power. The woods 
+have been   vacant since Soulcatcher left the land of the mortals, but 
+recently, a ranger by the name of Darren has been seen resting here.
+§N~
+282 tuz 3
+D0
+~
+~
+0 -1 28227
+S
+#28220
+#bThe Heart of the Citadel#N~
+    This giant room appears to be the meeting room of the citadel. In its 
+center is an enormous round table, with places for all the Kai to sit and 
+participate. Off in one corner is a fountain, and in the opposite, a 
+lounge for the weary Kai to socialize after a hard day's fighting. In the 
+other two corners are staircases, one leading up, another leading down.
+~
+282 duz 0
+D0
+~
+~
+0 -1 28217
+D1
+~
+~
+0 -1 28218
+D2
+~
+~
+0 -1 28202
+D3
+~
+~
+0 -1 28211
+D4
+~
+~
+0 -1 28213
+D5
+~
+door~
+1 -1 28216
+S
+#28221
+#bThingol's Farm#N~
+    In the oasis of the desert the humble peasant Thingol tills the
+soil, growing corn and wheat and meatballs for his glorious lords....
+well, mostly for his friends and family, but his glorious lords do get a
+little bit, if Thingol feels generous.  All peasants are welcome to work
+the land and take care of Thingol's animals, and he will protect them
+from all harm.
+#N~
+282 deuz 0
+D1
+~
+~
+0 -1 28228
+S
+#28222
+#cGunter's Mushroom House#N~
+   You have just walked into the room of one of the #bKai#N Knights, 
+Gunter the #csmurf#N. Being a #csmurf#N with #csmurf#N like natures, he will 
+undoubtedly invite you in to talk and what not, although you may have to 
+sneak out to get away. One of the first things you notice as you walk in 
+is that the room is not very well kept. There are #Cpictures#W of loved 
+ones on a counter, and after meeting Gunter, you are afraid to peer into 
+the drawers. At the very end of the room you see a small box marked 
+Gunters special stock, but of what, you wonder. Some of more interesting 
+things you notice are a half open #rcloset#N, a tall #ebookshelf#N that holds 
+the many books he reads. Also small, #csmurf#N sized #gbed#N, and even a funny 
+shaped #Bhammok#N that Gunter loves to sit in when there is nothing more 
+interesting to be done, and #ypool table #Wnear it, in which he boasts 
+himself to be the best player around. And lastly you see strange 
+#mmantles#N that seem to be glowing, lighting and brighting the room.
+§N~
+282 deuz 0
+D3
+~
+door~
+1 -1 28217
+E
+pictures~
+You see many pictures of different people,most of them #csmurfs#N and 
+other people of Kai. One of the#c smurf #Wpeople you know from the 
+pictures is the famed #rgrandpa #csmurf#N!
+~
+E
+closet~
+You peek into the closet, and it is not unlike many you have seen 
+before. Shirts with #csmurf#Wish logos and names on them, socks, coats, a 
+dress.....How did that get in there?!?
+~
+E
+Bookshelf~
+At the top of the shelf you see a lot of the books are dusty 
+and have not been used for a while, probally because Gunter cant reach 
+them. The ones on the lower shelves seem to be well used though. You look 
+at some of the titles: Go Dog Go, Clifford, Curious Gorge... Hmm...
+~
+E
+bed~
+This bed looks much to small for any human to use, but it seems 
+perfect for a #csmurf#W. There are blue sheets and a fluffy pillow, maybe 
+a favorite of his.
+~
+E
+hammock~
+This hammock has been crafted, somehow, into the form of a sitting 
+#csmurf#N. It looks very comfortable, and you wonder if you could sit for 
+a while in it.
+~
+E
+Pool table~
+A finely crafted table with, of course, blue felt. Also a slot 
+to accept four quarters.... What a cheap smurf!
+~
+E
+mantles~
+These are glowing with a bright, warming light because of some magic. 
+Items have been encased in the wood, shown though glass. Relics from 
+his old homeland of the #csmurfs#W, these are very dear to him.
+~
+S
+#28223
+#wThe Sanctuary of Sorrow#N~
+    As you walk into this room a feeling of anguish and neverending
+loss assults your senses. The room's interior is an expanse of a floor 
+and walls of white marble. The ceiling is golden but blackened soot 
+covers it giving everything a dingy cast. Tapestries of red and blue are 
+still up on the walls but they are torn and ripped apart. In the center 
+of the room a dias is raised and upon it is a throne of gold and wood, 
+covered with a plush blue pillow. The throne itself is covered in ash and 
+fire, the pillow has a long claw mark in it and is soaked in blood and a 
+smell of brimstone still fills the air. A feeling of sorrow and loss as 
+never felt before in this world overcomes you and in your mind you can 
+hear the silent screams of the men, women, and children of the family, 
+'Eth Lanier' as they died to the demon hordes decades past.
+~
+282 duz 0
+D2
+~
+door~
+9 -1 28210
+E
+throne~
+This throne sits upon a the dias of white marble. The blue pillow on it
+has long claw marks through it, and the whole pillow is soaked in blood.
+Looking at it you can almost imagine the dread demon-lord Beriz, 
+wrenching a clawed hand through the lost Patron of the family 'Eth 
+Lanier' cutting through sinew and bone to reach the pillow behind him, and then casually tossing him aside.
+~
+E
+tapestry tapestries~
+The tapestries along the wall smell of soot, ash, smoke, and brimstone.
+Ripped apart by the conquoring demons they depict a land as fair as the
+morning dawn. A land you can only see in the memory of this faded 
+tapestry as the guardians of this land were finally over-run.
+~
+S
+#28224
+#bHallway of the Elders#N~
+     You are standing in the long hallway. It is soothingly quiet this 
+deep into the Kai Fortress, and as the walls of this citadel dig furthur
+into the mountain on which it is built, they get closer to the magic that
+binds much of this mystical place to this plane. To the north there is a 
+door with a faint red aura around it; the name "Viv" is written upon it 
+in golden lettering. To the south is another door with the name "Odie" 
+inscribed on it.
+~
+282 duz 0
+S
+#28225
+#mViv's Treehouse#N~
+    You are standing in a small wooden tree house.  This is where
+Viv crashes when she gets tired of rocking the mud, and decides to rock 
+something else instead. *wink* Lots of cushions, wine bottles, leather 
+toys and other stuff can be seen here.  There is a small TV and VCR in 
+the corner.
+§N~
+282 adhuz 0
+D1
+~
+door~
+1 -1 28210
+S
+#28226
+#bWargas's Sanctuary#N~
+    This, quite odd room, belongs to the Master Wizard of the red order.
+Quite hard to believe that, since the whole room is absolutely full of
+cats. cats, everywhere, small balls of fur racing around on the floor,
+stalking and pouncing on eachother. Sounds of purring, everywhere,
+there's no way escaping it. Along one wall, a huge bed has been
+placed, now very full of cats. By the far end of the room, a small 
+altar has been erected, propably dedicated to cats, yes, cats.
+Then it hits you; Where does he sleep? He does sleep, doesn't he?
+You check the room, the closets, every corner and as you check behind
+the entrance door, you find a chair. A simple chair, still showing 
+the signs of great use. A chair? You begin wondering, what kind of cat
+maniac is this?.           
+§N~
+282 duz 0
+D3
+~
+door~
+1 -1 28227
+S
+#28227
+#bEnd of the East Wing#N~
+   You are at the end of the long hallway. North of here there is a
+door with the name "Deimos" inscribed on it. The southern door has the
+name "Darren" written on it. To the east is a door with the name 
+"Wargas's Sanctuary". Three white marble pillars lining the walls have 
+been carved to form statues of lost Kai.
+§N~
+282 cduz 0
+D0
+~
+~
+0 -1 28215
+D1
+~
+door~
+9 -1 28226
+D2
+~
+~
+0 -1 28219
+D3
+~
+~
+0 -1 28218
+E
+pillar~
+The pillars here have been carved away to form statues of the faded Kai. 
+The statues of Nimbus, Takashi, and Sarastro seem rather new, compared 
+with the rest of the statues in the citadel.
+~
+S
+#28228
+#bGeoff and Belephebe's Love Nest#N~
+   Upon entering this giant maple tree, you realize that it has been 
+carved into a cozy one-room house. In the northwest corner, there is a 
+soft fluffy bed, with a nightstand sitting next to it. On the other side 
+of the room is the wood stove, with two rocking chairs sitting next to 
+each other, looking out through a window. Immediately to the right, there 
+is a beautifully carved maple table. Across from that is a white 
+loveseat, sitting in front of a bookshelf. Next to the loveseat is a 
+small scratching post for Belephebe's fluffy gray kitten, who seems to be 
+hunting mice right now, judging by the noises coming from outside. There 
+are many windows on each wall, looking out upon spectacular scenery.
+~
+282 duz 0
+D2
+~
+maple door~
+1 -1 28214
+D3
+~
+~
+0 -1 28221
+E
+rocking chairs stove chairs~
+Off to the east is a wood stove, used to cook all sorts of food, but more 
+importantly, keep the house warm. A little ways away from the stove, 
+there lies two rocking chairs made of maple, side by side. They face 
+another window, through which a wooden bench, suspended from a higher 
+branch on the tree by two metal chains, can be seen.
+~
+E
+pillow bed nightstand~
+A fluffy bed rests in the northwest corner of the house. On top of it is 
+a magical patchwork quilt, that's kept people warm even in the coldest of 
+winters. It is very colorful, and appears to be homemade, which might 
+explain its magic. The down pillows are extremely soft, and comfortable, 
+much like the rest of the bed. Beside the bed is a nightstand, with two 
+candles on it, one blue, and one brown. Also, there are some books on it, 
+lying open since the night before.
+~
+E
+table pie~
+A worn wooden table, big enough for no more than two, lies in the corner. 
+On top of it is a delicious blueberry pie, cooling off before it gets 
+eaten. Next to the pie is a vase of daisies, filling the room with a 
+sweet smell. Beside the daisies is a picture of Geoff and Belephebe in 
+their wedding outfits, with bigger smiles on their face than anyone else 
+in the world.
+~
+E
+window~
+Carved into the side of the wall is a square window. On the sill, there 
+is a pair of candles, and a vase of daisies. The rows of blueberry 
+bushes, and sugar maple orchards are visible through the crystalline 
+window panes.
+~
+E
+candle~
+Bunches of candles are scattered about the room, always in pairs. The two 
+candles' aromas combine to make the sweetest smell known to man. Even 
+without the other, the smell of blueberries or maple sugar would bring 
+any nose to ecstasy.
+~
+E
+vase daisies~
+Standing out in the room are daisies. There are daisies in crystal vases 
+everywhere, in the window, in the bookshelf, and on the table. All of 
+them are beautiful, as if duplicates of each other, give off a smell that 
+tickles every nose that smells it.
+~
+E
+wall picture~
+Hanging on the wall is a picture of the most beautiful woman you've ever 
+seen. Her loving face seems to portray an aura of sweetness throughout 
+the room. It's hard to look away from such a captivating woman.
+~
+E
+bookshelf loveseat~
+The bookshelf carved into the southwest corner of the room is filled with 
+books. The only exception is a row of daisies in the middle shelf. In 
+front of the bookshelf is a white loveseat. It's big enough for two 
+people and a cat to cuddle in while reading faerie tales, magic books, or 
+one of many other books hidden in the bookshelf.
+~
+S
+#28229
+#bThe Abode of Atlantis#N~
+   Embedded into the floor is a #bblue phoenix#N, molded from blue cobolt 
+glass.  It seems as if it is lit from below, as a bright blue aura fills
+the room.  Rumor has it that this aura is the very heart and soul of that 
+which is #bKai#N.  One's safety is guaranteed when surrounded by it.  On the 
+eastern wall, hangs a #yportrait#N of Atlantis and his beautiful wife Bronwyn.  
+Below the portrait, an engraved #yplaque#N is mounted on a polished wooden 
+block.  The #yinscription#N fills the plaque, however a closer look will be 
+required to make out the words.  On the ceiling, a #gportal#N to the heavens 
+remains open, as an invite to the lords that dwell over this domain.  There
+are weapons and armors scattered about the room, and #wbooks#N of magic 
+and combat on the #wshelves#N.  One book catches your eye as it seems to 
+glow with the very same aura that is #bKai#N.  It is titled "The #cCode#N of 
+#CAtlantis#N"
+~
+282 duz 0
+D2
+~
+door~
+11 -1 28218
+D4
+~
+~
+0 -1 1264
+E
+portrait picture~
+   The noble and brave Atlantis, of #bKai#N and his beautiful 
+wife Bronwyn.  Atlantis is dressed head to toe in his finest crystal
+armors, wearing the Crown of Alannon, to show his pride in #bKai#N.
+Bronwyn, dressed in her skimpiest silken gown, stands beside her
+man, giving a sense of prowess and beauty to the painting.  What a 
+lucky man Atlantis is.
+~
+E
+plaque inscription~
+   It reads:
+
+   To my dearest love, 
+      My heart will always beat for you, and my love
+   will always guide me.  Wherever I am, and wherever you
+   go, my soul will always follow.
+
+   Love Bronwyn
+~
+E
+portal~
+   This portal leads directly into the heavens.  It is only 
+passible by the divine.  In order for a mortal to go through it, he
+or she must be escorted by a lord.
+~
+E
+shelf books shelves~
+   You see the following titles:
+"Magic & You"
+"How to Slay a Dragon"
+"Weapons and Armor"
+"The Healing Power of Herbs"
+"The Potion Cookbook"
+~
+E
+code~
+   I vow to be honest and noble; to uphold the Credo of #bKai#N;
+to assist the weak; to protect this realm from any and all evils.  My 
+heart will stay pure and my mind focussed -- for I am #bKai#N, and #bKai#N is me.
+      #CAtlantis#N
+~
+S
+#99999
+$~
+
+

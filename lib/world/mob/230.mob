@@ -1,0 +1,150 @@
+#23000
+elf archer~
+The Elven archer~
+A Elven archer is hiding in the trees.
+~
+The elven archer is wearing green clothes making him disappear in
+the vegetation. He points a bow with a nocked arrow at you.
+~
+1 4 2338 787456 500 S
+45 -4 -13 2d100+600
+400 500 100 3d10+10 -1
+-1
+-1
+1000 260000 8 8 1
+#23001
+cow~
+The cow~
+A cow is standing here eating.
+~
+The cow looks very well feed.
+~
+0 4 0 0 250 S
+6 17 7 6d10+50
+400 500 100 1d6+4  -1
+-1
+-1
+0 1400 8 8 2
+#23002
+horse~
+The Horse~
+A horse is standing here.
+~
+The horse look very well feed.
+~
+0 4 0 0 300 S
+10 15 6 6d10+100
+400 500 100 1d10+5  -1
+-1
+-1
+0 3500 8 8 2
+#23003
+deer~
+The Deer~
+A deer is here eating from some bushes.
+~
+The deer looks very peaceful.
+~
+0 4 128 0 100 S
+10 16 6 5d6+130
+400 500 100 1d8+5  -1
+-1
+-1
+0 3500 8 8 2
+A
+%10 emote looks up and eyes you with suspicion.~
+#23004
+rabbit~
+The rabbit~
+A rabbit is jumping around here.
+~
+The rabbit looks happy.
+~
+0 4 0 0 100 S
+2 20 8 1d10+20
+408 500 100 1d5+2  -1
+-1
+-1
+0 500 8 8 2
+#23005
+wasp~
+The wasp~
+A wasp is flying here.
+~
+The wasp looks angry.
+~
+0 4 34 1024 -100 S
+7 16 5 5d10+55
+409 500 100 1d4+4  -1
+-1
+-1
+0 1400 8 8 2
+#23006
+badger~
+The badger~
+A badger is digging a hole here.
+~
+The badger looks busy.
+~
+0 4 0 1024 0 S
+5 16 6 1d10+90
+407 500 100 1d10+5  -1
+-1
+-1
+0 800 8 8 1
+#23007
+snake~
+The snake~
+A green snake is slithering over the path here.
+~
+The snake looks dangerous.
+~
+0 4 0 1024 -200 S
+8 15 4 1d10+140
+408 500 100 1d6+8  -1
+-1
+-1
+0 2000 8 8 1
+#23008
+black bear~
+The Black Bear~
+A Black bear is resting here better leave it alone.
+~
+The bear looks huge and very dangerous.
+~
+0 4 2 1024 -300 S
+18 12 0 2d50+200
+407 500 100 3d6+2 -1
+-1
+-1
+0 15000 8 8 1
+A
+%10 snore~
+#23009
+huge spider~
+the huge spider~
+A huge spider drops down from above.
+~
+The spider looks dangerous.
+~
+0 4 38 1024 -400 S
+25 6 -5 4d50+250
+408 500 100 3d6+5 -1
+-1
+-1
+0 60000 8 8 1
+#23010
+highwayman man~
+The highway man~
+A Highway man charges you from nowhere.
+~
+The highway man grins wickedly.
+~
+1 4 38 1024 -300 S
+14 12 2 1d50+190
+400 500 100 1d7+6  -1
+-1
+-1
+400 6000 8 8 1
+#99999
+$~

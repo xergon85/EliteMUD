@@ -1,0 +1,248 @@
+#130
+Samurai Temple~
+13099 70 2
+M 0 13000 20 13003      Trainee
+E 1 13053 150 5           vest
+E 1 13019 50 16            weapon
+*
+M 0 13000 20 13004      Trainee
+E 1 13053 150 5           vest
+E 1 13019 50 16           weapon
+*
+M 0 13000 20 13005      Trainee
+E 1 13053 150 5           vest
+E 1 13019 50 16           weapon
+*
+M 0 13000 20 13006      Trainee
+E 1 13053 150 5           vest
+E 1 13019 50 16           weapon
+*
+M 0 13000 20 13007      Trainee
+E 1 13053 150 5           vest
+E 1 13019 50 16          weapon
+*
+M 0 13000 20 13008      Trainee
+E 1 13053 150 5           vest
+E 1 13019 50 16           weapon
+*
+M 0 13000 20 13009      Trainee
+E 1 13053 150 5           vest
+E 1 13019 50 16           weapon
+*
+M 0 13000 20 13010      Trainee
+E 1 13053 150 5           vest
+E 1 13019 50 16           weapon
+*
+M 0 13000 20 13027      Trainee
+E 1 13053 150 5           vest
+E 1 13019 50 16           weapon
+*
+M 0 13000 20 13028      Trainee
+E 1 13053 150 5           vest
+E 1 13019 50 16           weapon
+*
+M 0 13000 20 13029      Trainee
+E 1 13053 150 5           vest
+E 1 13019 50 16           weapon
+*
+M 0 13000 20 13030      Trainee
+E 1 13053 150 5           vest
+E 1 13019 50 16           weapon
+*
+M 0 13001 20 13011      Apprentice
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13001 20 13012      Apprentice
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13001 20 13013      Apprentice
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13001 20 13014      Apprentice
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13001 20 13015      Apprentice
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13001 20 13016      Apprentice
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13001 20 13017      Apprentice
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13001 20 13018      Apprentice
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13001 20 13031      Apprentice
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13001 20 13032      Apprentice
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13001 20 13033      Apprentice
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16         weapon
+*
+M 0 13001 20 13034      Apprentice
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13002 20 13019      Warrior
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13002 20 13020      Warrior
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13002 20 13021      Warrior
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13002 20 13022      Warrior
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13002 20 13023      Warrior
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13002 20 13024      Warrior
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13002 20 13025      Warrior
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13002 20 13026      Warrior
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13002 20 13027      Warrior
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13002 20 13028      Warrior
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13002 20 13029      Warrior
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13002 20 13030      Warrior
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13002 20 13031      Warrior
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13002 20 13032      Warrior
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13002 20 13033      Warrior
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13002 20 13034      Warrior
+E 1 13053 150 5           vest
+E 1 13063 150 14          bracer
+E 1 13012 50 16          weapon
+*
+M 0 13003 1 13006         Jin Shogun
+G 1 13001 100           amulet
+E 1 13015 20 16          weapon
+*
+M 0 13004 1 13010         Ei Shogun
+G 1 13002 100           amulet
+E 1 13016 20 16          weapon
+*
+M 0 13005 1 13014         Chu Shogun
+G 1 13003 100           amulet
+E 1 13014 20 16          weapon
+*
+M 0 13006 1 13018         Ko Shogun
+G 1 13004 100           amulet
+E 1 13018 20 16          weapon
+*
+M 0 13007 1 13022         Rei Shogun
+G 1 13005 100           amulet
+E 1 13017 20 16          weapon
+*
+M 0 13008 1 13026         Chi Shogun
+G 1 13006 100           amulet
+E 1 13020 20 16          weapon
+*
+M 0 13009 1 13030         Shin Shogun
+G 1 13007 100           amulet
+E 1 13021 20 16          weapon
+*
+M 0 13010 1 13032         Tei Shogun
+G 1 13008 100           amulet
+E 1 13022 20 16          weapon
+*
+M 0 13011 1 13035         Tokugawa
+E 1 13009 20 16          Fugu Blade
+E 1 13010 20 3          Jewel
+E 1 13011 20 4           Suun Lu
+*
+D 0 13006 4 2
+*
+D 0 13010 4 2
+*
+D 0 13014 4 2
+*
+D 0 13018 4 2
+*
+D 0 13022 4 2
+*
+D 0 13026 4 2
+*
+D 0 13030 4 2
+*
+D 0 13032 4 2
+S
+#99999
+$~
+
+

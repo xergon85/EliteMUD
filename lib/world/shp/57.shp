@@ -1,0 +1,437 @@
+#5705~
+5767
+5768
+5769
+-1
+1.1
+1.0
+17
+-1
+%s I don't know how to make one of those!~
+%s I don't *buy* drinks... we sell 'em!~
+%s I don't *buy* drinks... we sell 'em!~
+%s I don't *buy* drinks... we sell 'em!~
+%s I don't give 'em away free, you know!~
+%s That's %d gold.~
+%s I don't *buy* drinks... we sell 'em!~
+1
+2
+5705
+0
+5702
+0
+28
+0
+0
+#5710~
+5740
+5741
+5742
+5743
+5745
+5791
+-1
+1.1
+1.0
+-1
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+5710
+0
+5835
+0
+28
+0
+0
+#5711~
+5734
+5735
+5736
+5737
+5738
+5739
+-1
+1.5
+0.4
+1
+15
+19
+13
+8
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a treasure.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+2
+5711
+0
+5828
+0
+28
+0
+0
+#5713~
+5746
+5747
+5748
+5749
+5750
+5751
+5752
+5753
+5754
+5755
+-1
+1.05
+0.15
+-1
+%s Sorry, I haven't got exactly that item.~
+%s You don't seem to have that.~
+%s I don't buy such items.~
+%s That is too expensive for me!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+2
+5713
+0
+5814
+0
+28
+0
+0
+#5714~
+5756
+5757
+5758
+5759
+5760
+-1
+1.3
+1.0
+-1
+%s I've never heard of that... what kind of vegetable is it?~
+%s I don't buy.~
+%s I don't buy.~
+%s I don't buy.~
+%s If you come back with more money, I may consider selling it.~
+%s That's %d coins... can I wrap it up for you?~
+%s I don't buy.~
+0
+2
+5714
+0
+5815
+0
+28
+0
+0
+#5715~
+5761
+5762
+5763
+-1
+1.1
+1.0
+19
+-1
+%s I didn't kill any of those this season, sorry.~
+%s I don't buy that.~
+%s I don't buy that.~
+%s I don't buy that when I don't have the money.~
+%s That costs money.  Something you don't have... sorry.~
+%s That costs %d coins.~
+%s Here are %d coins, thank you for your business.~
+0
+2
+5715
+0
+5822
+0
+28
+0
+0
+#5716~
+5715
+5716
+5717
+5718
+5719
+5720
+5721
+-1
+1.3
+0.5
+9
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I only buy armours.. Go away!~
+%s That is too expensive for me - Try a wizard!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+2
+2
+5716
+40
+5829
+0
+28
+0
+0
+#5717~
+5703
+5704
+5705
+5706
+5707
+5708
+5709
+5710
+-1
+1.3
+0.4
+5
+-1
+%s I haven't got that kind of a weapon~
+%s You don't carry that weapon~
+%s I only buy weapons.~
+%s I can't afford such a great weapon~
+%s Sorry, but NO CREDIT~
+%s That just costs %d coins.~
+%s Here is %d coins for that.~
+0
+2
+5717
+0
+5836
+0
+28
+0
+0
+#5718~
+-1
+2.0
+.5
+19
+-1
+%s Sorry buddy, I don't sell that.~
+%s Why don't you sell something you own?~
+%s I don't buy such items!~
+%s That is much to valuable for you to let go!~
+%s No money.  Off with ya then!~
+%s That will be %d gold.~
+%s Here is %d gold for that.~
+0
+2
+5718
+0
+5732
+6
+12
+13
+20
+#5733~
+-1
+1.1
+1.0
+2
+3
+4
+8
+-1
+%s Don't have one, but I think I might be able to find one...~
+%s You have one?  Really?  Let me see!~
+%s I'm not interested.  Anything else?~
+%s Too rich for my blood!~
+%s Perhaps you should go visit the bank first...~
+%s That's just %d coins, cash in advance.~
+%s I'll take that for %d coins, thank you!~
+2
+2
+5733
+8
+5703
+0
+28
+0
+0
+#5765~
+3060
+3061
+-1
+1.2
+0.9
+22
+-1
+%s Sorry pal, I have not got that kind of ship.~
+%s Ok, but let me see it first.~
+%s I only trade ships.~
+%s I can't afford such a nice ship.~
+%s This ship is too expensive for you.~
+%s Here is your ship, I'll take %d gold coins.~
+%s What a fine deal, you get %d gold coins.~
+0
+2
+5765
+0
+5842
+6
+22
+0
+0
+#5766~
+5787
+5788
+5789
+-1
+1.2
+0.5
+9
+5
+-1
+%s Havn't got that in storage, try LIST!~
+%s You can't sell what you dont HAVE!~
+%s Sorry, I'm not a fence.~
+%s I'd love to buy it, I just can't spare the coinage~
+%s Bah, come back when you can pay!~
+%s That'll be %d coins -- thank you.~
+%s I'll give ya %d coins for that!~
+0
+2
+5766
+0
+5844
+0
+28
+0
+0
+#5779~
+5770
+5771
+5772
+5773
+5774
+-1
+1.2
+1.0
+10
+-1
+%s We don't have any of those, Sugar.~
+%s Are you sure you have one, handsome?~
+%s I don't buy those, darling.~
+%s I'm a little strapped -- how about a gift?~
+%s Perhaps later, when you've more cash, honey.~
+%s That's %d coins, love.~
+%s Here's %d coins, friend.~
+0
+2
+5779
+0
+5823
+7
+17
+0
+0
+#5780~
+5778
+5779
+5780
+5781
+5782
+-1
+1.8
+0.5
+11
+12
+3
+4
+-1
+%s Sorry buddy, I don't sell that.~
+%s Why don't you sell something you own?~
+%s I don't buy that kind of crap!~
+%s That is much to valuable for you to let go!~
+%s No money.  I killed my mother for less.~
+%s That will be %d gold.~
+%s Here is %d gold for that.~
+0
+2
+5780
+0
+5824
+0
+12
+13
+20
+#5783~
+5775
+5776
+5777
+-1
+1.3
+1.0
+-1
+%s It's very noisy in here, what did you say you wanted to buy?~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Are you drunk or what ?? - NO CREDIT!~
+%s That'll be - say %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+5783
+0
+5838
+0
+28
+0
+0
+#5784~
+5722
+5723
+5824
+5825
+5826
+5827
+5828
+5829
+5830
+-1
+1.1
+0.5
+9
+-1
+%s Havn't got that in storage, try LIST!~
+%s You can't sell what you dont HAVE!~
+%s Sorry, I'm not a fence.~
+%s I'd love to buy it, I just can't spare the coinage~
+%s Bah, come back when you can pay!~
+%s That'll be %d coins -- thank you.~
+%s I'll give ya %d coins for that!~
+0
+2
+5784
+0
+5837
+0
+28
+0
+0
+#99999
+$~
+

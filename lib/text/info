@@ -1,0 +1,235 @@
+#wRecent Code Changes for Version 6.4.120 (summarised)#N
+
+#bBod#N
+- Added some new imm commands for the world group
+- Banned the use of emote and : for roulette
+- Fixed missing ":" command ban for poker room
+- Fixed removing the name from drink containers problem
+- Minor tweak to title screen
+- More modifications to roulette code
+- Started work on chess code
+
+
+
+
+
+#wRecent Code Changes for Version 6.4.119 (summarised)#N
+
+#bBod#N
+- Changed Poker code to prevent the use of "emote" and re-enabled Poker
+- Changed remort code so Vampires will start with Max Thirst
+- Disabled anti-looting code and re-enabled loot logging (pending fix)
+- Minor work on roulette code prior to implementing for trial purposes
+- Modified imm interaction with clan items (via holylight)
+- Modified what imm's flagged HOLYLIGHT can do / see (thats not standard)
+- Muted players can no longer use the "order" command
+- Re-enabled stripping of colour codes from chat and auction
+
+
+#bDrusian#N
+- Fixed a small bug with amend board code
+- Made some modifications to classes and quest races #n(requested by Sapphyre)#N
+
+
+
+
+
+#wRecent Code Changes for Version 6.4.118 (summarised)#N
+
+#bBod#N
+- Fixed berzerk double death bug
+- Fixed a small problem with zone error message reporting to mudlog
+- Made a small change to the title screen
+
+
+#bDrusian#N
+- Fixed "wear sheild" typo error - wear SHIELD now works correctly
+- Fixed amend code for boards
+- Modified max messages on boards from 100 to 200 #m(requested by Kestrel)#N
+
+
+
+
+
+#wRecent Code Changes for Version 6.4.117 (summarised)#N
+
+#bBod#N
+- Added new immortal command: disable
+- Added some more boards
+- Fixed immortal command: set <player> room <vnum>
+
+
+
+
+
+#wRecent Code Changes for Version 6.4.116 (summarised)#N
+
+#bBod#N
+- Added various special procedures required by Glob for new continent work 
+- Added boards and carried out other work requested by existing clans
+
+
+#bDrusian#N
+- Small fixes to board code
+
+
+
+
+
+#wRecent Code Changes for Version 6.4.115 (summarised)#N
+
+#bArticus#N 
+- New Socials Added to Game
+#cadore      coke       dismember  eyeball    hidenseek  imitate    leer#N
+#clust       moon       ohno       paint      pillow     pucker     recoil#N
+#creprimand  scalp      shark      slam       splat      strip      throttle#N
+#ctug        whinge     wobble#N
+
+
+#bBod#N
+- Added new immortal social: melt
+- Added new socials to command list #m(provided by Articus)#N
+- Added some new notebooks
+- Made some changes to immsets for level 115s #m(requested by Kestrel)#N
+- Made some changes to syslog info shown to level 115s
+- Modified title screen displayed on initial connection to game
+- Removed immortal command: fubar
+- Small fix to imm command set nohassle
+
+
+
+
+
+#wRecent Code Changes for Version 6.4.105 (summarised)#N
+
+#bBod#N
+- Added a new option to imm command show
+- Added display of (UN)LOCK on look at board
+- Changed colour and format of INFO -> x #m(suggested by Player Survey)#N
+- Changed so dying doesn't take you immediately to menu screen
+- Fixed colour bleed on clantell
+- Fixed so fleeing mobs nolonger loose exp #m(suggested by Euximus)#N
+- Removed colour cutting from chat/auction #m(requested by Mokky)#N
+- Small change to imm command force
+- Small change to imm command tedit
+- Small fix to drink container name code
+- Small fix to Ghost Stat capping (now handles being zapped properly)
+- Small fix to stat command (Worships[x] now displays correctly)
+- Tidied up and properly commented CON_x code
+
+
+
+
+
+#wRecent Code Changes for Version 6.4.1 (summarised)#N
+
+#bBod#N
+- Added info_line to display some PK Info to players on PK Say
+- Added some channel control for Overseer's
+- Changed tail lash damage to level x1.5 instead of level /2
+- Fix to board code regarding write access to clan boards
+- Fix to PK Say channel
+- Modification to elite_config re: channel access level
+- Modified immortal_interp a bit
+- Modified Ghost Stat capping a bit 
+- Modified PK Say so can't turn on if too low level to use channels
+- Small change to flame ray message #m(suggested by Ripper)#N
+- Small fix to bash command (re: BROKEN doors)
+- Small fix to imm command - set class
+
+
+#bDrusian#N
+- A player can no longer quit the game with over 100 items
+- Added AMEND message to boards
+- Added channel PK Say
+- Added IGNORE command - see #whelp ignore#N for more details
+- Added LOCK and UNLOCK message to boards
+- Added LOCK and UNLOCK boards
+- Changed PK Say and Gossip to default as off for new players
+- Created withdraw and deposit all commands for banking
+- Fixed alias save bug
+- Fixed bug with Ghost Stats
+- Fixed colour bleeding in alias list
+- Fixed colour bleeding on all channels
+- Fixed donate command to only go to Public Don Room in Midgaard
+- Fixed exp loss display on do_flee
+- Fixed player_table to display names correctly
+- Fixed ungroup to work on self
+- Small change to bash skill for doors
+- Small change to clan donation rooms
+- Small change to colour display for chat and auction
+- Small change to imm commands stat and immstat
+- Small fix to align check on mob kill
+- Small fix to charmed mobs #m(suggested by Goozer)#N
+- Small fix to display name on amended messages
+- Small fix to imm command - set name
+- Small fix to imm command - set title
+- Small fix to immortal login
+- Small fix to yell #m(reported by Toril)#N
+
+
+
+
+
+#wCode Changes for Version 6.4 (summarised)#N
+
+#bBod#N
+- Added display of item affects to stats command #m(suggested by Adara)#N
+- Added history for YELL #m(suggested by Alibaba)#N
+- Added in Global PKOK System #m(suggested by Israfel and Rahl)#N
+- Added logging of purge obj / mob <vnum> Imm command
+- Added skill check for PIERCE on pierce_no_backstab for skillbonus
+- Added [-k clanvnum] to display on who -? #m(suggested by Euximus)#N
+- Changed Colours for each Immortal Levels Wizname
+- Changed finger not to show DELETED players #m(suggested by Kuldran)#N
+- Changed YELL to be turned on/off by NOCHAT
+- CLAN boards can now be configured for only clan members to see
+- Duplicated ITEM_WEAPON code to ITEM_FIREWEAPON for Bow Object Changes
+- Fixed board problems with CLAN boards
+- Fixed colour bleeding on locate obj #m(reported by Zero and Nopeace)#N
+- Fixed "Ghost Stats" affect
+- Fixed gtell and reply to be blocked by SILENT rooms and players writing
+- Fixed ITEM_HIDDEN to work as required
+- Fixed MOB_HIDDEN to work as required
+- Fixed set file <player> title <text> Imm command 
+- HOLYLIGHT flagged Imms can now pick up "Wrong Clan!" items
+- Modified back to 116 levels (7 Immortal Levels)
+- Modified MUTE to block ALL communication commands except clantell
+- Modified restore Imm command to remove blind, poison, curse and sleep
+- Modified spell sleep to be usable by PKOK chars as well as pk_allowed
+- Modified stats command (for players) information
+- Modified stats Imm command to display FULL date for char creation etc
+- MUTED players can see channel history #m(suggested by Dismal)#N
+- New Players corpses are transferred back to Temple (not left by mob)
+- New Purge Player Scripts
+- PKOK Character name's are displayed in bright red 
+- PKOK Characters can't track other PKOK Characters
+- PKOK Character/PKOK room deaths leaves an empty corpse 
+- Player corpses can no longer be looted by other players
+- Small fix to channel history 
+- Small fixes to config and view Imm commands
+
+
+#bDJMCAVE#N
+- Added check in hunt skill to prevent overloading past weight limit
+- Added some preliminary code for rewrite of wargames
+- Changed land command to be usable by anyone flying
+- Fixes to rprogs (room push / transfer) code
+- Fixed an issue with number of items carried
+- Fixed problem with AGGRESSIVE mobs
+- Fixed shops to prevent purchase of a container containing an item of 
+  a higher level than the player #m(reported by Thorn and Nightshade)#N
+- Fixed who -r not being able to display half-X races
+- Small fix for fleeing mobs
+- Small fix to object saving 
+
+
+#bDrusian#N
+- Added: $n has finished writing a message. (end of board write / mail)
+- Exp loss on flee is now displayed to players
+- Fixed flee to work as intended (exp loss if escape skill check fails)
+- Fixed some problems with stop_fighting caused by fleeing
+- Fix to player/mob WAIT_STATES (time before can perform another action)
+- Small fix to kick skill
+
+

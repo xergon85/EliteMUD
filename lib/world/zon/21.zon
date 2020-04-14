@@ -1,0 +1,156 @@
+#21
+Godforsaken Slum PKOK~
+2199 45 2
+O 0 2113 100 2101   /* loads PK noticeboard into PK zone start*/
+D 0 2124 1 1        /* closes the door out from the warehouse */
+D 0 2125 3 1        /* closes the door into the warehouse */
+D 0 2148 1 1        /* closes the door out of the chapel */
+D 0 2149 3 1        /* closes the door into the chapel */
+M 0 2103 2 2124          /* loads a gang leader in the warehouse */
+E 1 2111 10 1        /* equips Ogre gang leader with signet(finger) */
+M 0 2103 2 2148          /* loads a gang leader in chapel */
+E 1 2106 5 16       /* equips Troll leader with stiletto (wield) */
+E 1 2112 6 17       /* equips Troll leader with knuckles (hands)*/
+M 0 2108 12 2124    /* loads a pit bull in the warehouse */
+M 0 2108 12 2124    /* loads a pit bull in the warehouse */
+M 0 2108 12 2124    /* loads a pit bull in the warehouse */
+M 0 2108 12 2124    /* loads a pit bull in the warehouse */
+M 0 2108 12 2148    /* loads a pit bull in the chapel */
+M 0 2108 12 2148    /* loads a pit bull in the chapel */
+M 0 2108 12 2148    /* loads a pit bull in the chapel */
+M 0 2108 12 2148    /* loads a pit bull in the chapel */
+M 0 2104 10 2116    /* loads a bruiser */
+E 1 2104 10 11      /* equips bruiser with a cover (shield) */
+E 1 2103 10 16      /* equips bruiser with a chain (wield) */
+M 0 2104 10 2155    /* loads a bruiser */
+E 1 2104 10 11      /* equips bruiser with a cover (shield) */
+E 1 2109 5 9        /* equips bruiser with gloves (hands) */
+M 0 2104 10 2114    /* loads a bruiser */
+E 1 2103 10 16      /* equips bruiser with a chain (wield) */
+M 0 2104 10 2108    /* loads a bruiser */
+E 1 2109 5 9        /* equips bruiser with gloves (hands) */
+M 0 2104 10 2170    /* loads a bruiser */
+E 1 2111 5 1        /* equips bruiser with signet (finger) */
+E 1 2104 10 11      /* equips bruiser with cover (shield) */
+M 0 2105 10 2125    /* loads doll */
+E 1 2108 20 17      /* equips doll with mirror (held) */
+E 1 2107 20 8       /* equips doll with boots (feet) */
+M 0 2105 10 2149    /* loads doll */
+E 1 2107 20 8       /* equips doll with boots (feet) */
+E 1 2108 20 17      /* equips doll with mirror (held) */
+M 0 2105 10 2152    /* loads doll */
+E 1 2108 20 17      /* equips doll with mirror (held) */
+M 0 2105 10 2123    /* loads doll */
+E 1 2108 20 17      /* equips doll with mirror (held) */
+M 0 2106 15 2131    /* loads patrolman in no-mans land */
+E 1 2110 15 16      /* equips patrolman with club */
+M 0 2106 15 2132    /* loads patrolman in no-mans land */
+E 1 2110 15 16      /* equips patrolman with club */
+M 0 2106 15 2133    /* loads patrolman in no-mans land */
+E 1 2110 15 16      /* equips patrolman with club */
+M 0 2106 15 2134    /* loads patrolman in no-mans land */
+E 1 2110 15 16      /* equips patrolman with club */
+M 0 2106 15 2135    /* loads patrolman in no-mans land */
+E 1 2110 15 16      /* equips patrolman with club */
+M 0 2106 15 2136    /* loads patrolman in no-mans land */
+E 1 2110 15 16      /* equips patrolman with club */
+M 0 2106 15 2137    /* loads patrolman in no-mans land */
+E 1 2110 15 16      /* equips patrolman with club */
+M 0 2106 15 2138    /* loads patrolman in no-mans land */
+E 1 2110 15 16      /* equips patrolman with club */
+M 0 2106 15 2139    /* loads patrolman in no-mans land */
+E 1 2110 15 16      /* equips patrolman with club */
+M 0 2106 15 2140    /* loads patrolman in no-mans land */
+E 1 2110 15 16      /* equips patrolman with club */
+M 0 2107 4 2102          /* loads vandal */
+E 1 2105 8 17       /* equips vandal with spray can (held) */
+M 0 2107 4 2114          /* loads vandal */
+E 1 2105 8 17       /* equips vandal with spray can (held) */
+M 0 2107 4 2165          /* loads vandal */
+E 1 2105 8 17       /* equips vandal with spray can (held) */
+M 0 2107 4 2161          /* loads vandal */
+E 1 2105 8 17       /* equips vandal with spray can (held) */
+M 0 2101 25 2102    /* loads ogre gang member */
+E 1 2101 30 5       /* equips gang member with jacket (body) */
+M 0 2101 25 2103    /* loads ogre gang member */
+E 1 2101 30 5       /* equips gang member with jacket (body) */
+M 0 2101 25 2104    /* loads ogre gang member */
+E 1 2101 30 5       /* equips gang member with jacket (body) */
+M 0 2101 25 2105    /* loads ogre gang member */
+M 0 2101 25 2106    /* loads ogre gang member */
+E 1 2101 30 5       /* equips gang member with jacket (body) */
+M 0 2101 25 2107    /* loads ogre gang member */
+E 1 2101 30 5       /* equips gang member with jacket (body) */
+M 0 2101 25 2108    /* loads ogre gang member */
+M 0 2101 25 2109    /* loads ogre gang member */
+E 1 2101 30 5       /* equips gang member with jacket (body) */
+M 0 2101 25 2110    /* loads ogre gang member */
+E 1 2101 30 5       /* equips gang member with jacket (body) */
+M 0 2101 25 2111    /* loads ogre gang member */
+M 0 2101 25 2112    /* loads ogre gang member */
+E 1 2101 30 5       /* equips gang member with jacket (body) */
+M 0 2101 25 2113    /* loads ogre gang member */
+E 1 2101 30 5       /* equips gang member with jacket (body) */
+M 0 2101 25 2114    /* loads ogre gang member */
+M 0 2101 25 2115    /* loads ogre gang member */
+E 1 2101 30 5       /* equips gang member with jacket (body) */
+M 0 2101 25 2116    /* loads ogre gang member */
+E 1 2101 30 5       /* equips gang member with jacket (body) */
+M 0 2101 25 2117    /* loads ogre gang member */
+E 1 2101 30 5       /* equips gang member with jacket (body) */
+M 0 2101 25 2118    /* loads ogre gang member */
+E 1 2101 30 5       /* equips gang member with jacket (body) */
+M 0 2101 25 2119    /* loads ogre gang member */
+M 0 2101 25 2120    /* loads ogre gang member */
+M 0 2101 25 2121    /* loads ogre gang member */
+E 1 2101 30 5       /* equips gang member with jacket (body) */
+M 0 2101 25 2122    /* loads ogre gang member */
+E 1 2101 30 5       /* equips gang member with jacket (body) */
+M 0 2101 25 2128    /* loads ogre gang member */
+M 0 2101 25 2130    /* loads ogre gang member */
+E 1 2101 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2142    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2145    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2146    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2150    /* loads troll gang member */
+M 0 2102 25 2151    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2152    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2153    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2154    /* loads troll gang member */
+M 0 2102 25 2155    /* loads troll gang member */
+M 0 2102 25 2156    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2157    /* loads troll gang member */
+M 0 2102 25 2158    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2159    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2160    /* loads troll gang member */
+M 0 2102 25 2161    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2162    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2163    /* loads troll gang member */
+M 0 2102 25 2164    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2165    /* loads troll gang member */
+M 0 2102 25 2165    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2165    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2165    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2166    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2167    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+M 0 2102 25 2169    /* loads troll gang member */
+E 1 2102 30 5       /* equips gang member with jacket (body) */
+S
+$~

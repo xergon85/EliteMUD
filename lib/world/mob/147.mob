@@ -1,0 +1,1491 @@
+#14701
+Queuer bored~
+The bored Queuer~
+The Queuer is doing what he is best at, queueing!
+~
+   The more than slightly bored queuer has not gone away yet, because he
+knows that there is something inside worth waiting for. Could be a cold
+beer, a hot meal or just another opportunity.
+~
+1 4 g k 300 S
+47 -4 -16 1d300+726
+400 500 100 1d23+24
+-1
+363 100 -1
+-1
+2002 264417  8 8 1
+A
+%%10 sigh
+;%10 say IS this queue ever going to start moving ?~
+#14702
+guard~
+The door guard~
+The guard is blocking the door while he tries to look macho.
+~
+   The door guard really seems to like his job, at least with the few
+brain cells he seems to have stored away in his head for use on a very
+special occasion somewhere else. But you better not mess with this one
+cause he seems to like bullying you around all too much.
+~
+1 4 bglm kdf 0 S
+52 -7 -18 1d300+819
+410 500 100 1d26+27
+-1
+373 100 339 100 325 100 -1
+-1
+704 319832  8 8 1
+A
+%%10 say YOU have got a VIP card ?
+;%10 say ... and where are YOU going ???
+;%10 say You just wait a bit here now.~
+#14703
+guard~
+The clothes guard~
+A guard is here watching over the guests' clothing.
+~
+   The guard in charge of clothes protection does not look that fit. He
+is the only guard you have seen sitting on guard duty. But under the
+surface gleams a mind skilled in the art of war.
+~
+9 4 bglm kdf 0 S
+50 -6 -17 1d300+781
+410 500 80 1d25+26
+4 0 20 1d0+75 -1
+373 100 339 100 325 100 -1
+-1
+2500 297665  5 5 1
+A
+%%10 say You forgot your ticket, oh no!
+;%10 say No ticket - No Clothes
+;%10 emote pokes around a bit in the wardrobe~
+#14704
+captain~
+The Captain of Guards~
+The Captain of the Guards is here doing some paperwork.
+~
+   The Captain of Guards is a most well renowned man. He has spent his
+time in the army but after becoming bored with the continuous slaying of
+monsters up in the mountain he was offered this position by Ma herself.
+He could have won all awards on the walls around him if he just wanted.
+~
+8 4 bg kdhzDfr 1 S
+55 -8 -20 1d300+878
+410 500 80 1d27+28
+38 0 20 1d0+80 -1
+373 100 339 100 325 100 324 100 328 100 338 100 -1
+372 90 7 100 38 100 40 100 -1
+3025 351499  6 6 1
+A
+%%10 say Asch now where did that paper go?
+;%10 say What are you doing here. Get out !
+;%10 emote flexes his big chunks of muscles a bit, impressive!
+;%10 emote scrabbles something down on paper.~
+#14705
+Strolling Guard~
+the strolling guard~
+The strolling guard is walking around to see if everthing is all right.
+~
+   This guard is just trying to make you enjoy your presence to the
+maximum. If there are any problems, he will be taking care of you.
+~
+1 4 glm ks 0 S
+52 -7 -18 1d300+819
+410 500 95 1d26+27
+38 0 5 1d0+95 -1
+373 100 339 100 325 100 345 50 -1
+-1
+2704 319832  8 8 1
+A
+%%10 smile
+;%10 say Hello, everything all right here ?
+;%10 say Hello! Can I be of any service ?~
+#14706
+janitor~
+the janitor~
+The Janitor is trying his best to be ignored.
+~
+   The janitor is trying to be out of the way and not to be noticed. His
+task is not the most fun but someone got to do it. It looks like he is
+really good because you hardly notice how all junk around you disappear.
+~
+10 4 gch kdstr -10 S
+47 -4 -16 1d300+626
+400 500 100 1d23+14
+-1
+345 60 338 50 318 70 -1
+372 80 7 100 38 100 40 100 -1
+9 264417  8 8 1
+A
+%%1 say Excuse me, Sir.~
+#14707
+lady ticket elf~
+the ticket lady~
+The ticket selling woman has been here a while, a long while.
+~
+   An old elven face, tainted by boredom meets you. She has been sitting
+here for ages waiting for someone to buy a ticket. Her appearance seems
+fragile but she looks well fed and in a rather good mood.
+~
+1 4 bgc k 100 S
+49 -5 -17 1d300+763
+400 500 80 1d24+25
+28 0 20 2d0+80 -1
+-1
+7 100 38 100 40 100 26 75 -1
+2402 286581  8 8 2
+A
+%%10 emote shines a smile at you.
+;%10 say Hello, Dancing or Free entrance ticket?
+;%10 say Please, do not touch anything.~
+#14708
+monkey white~
+a small white faced monkey~
+A small white faced monkey sits on the bardisk holding a sign
+~
+   The monkey is most probably the pet of one of the bartenders. It is
+not a very large monkey but just a bit more than a foot in length. The
+fur is short and greyish-brownish all over except for the face where its
+clear white. Give it a cookie and he wont eat your ears off.
+~
+12 4 bcglm dy -349 S
+40 0 -10 8d100+50
+408 500 40 1d26+17
+407 500 60 2d10+10
+-1
+318 100 317 100 321 60 363 100 338 100 373 60 -1
+7 100 38 100 40 100 324 80 -1
+309 98593  6 6 1
+A
+%%10 smile
+;%10 snicker
+;%20 emote tries to bonk you in the head with a tin cup.~
+#14709
+man bar hanger~
+a man at the bar~
+A man, hanging at the bar, is desperately trying to get a beer for free.
+~
+   If the bartenders all look alike, a typical bar person be twins of
+triples or whatever number they are... Sunken eyes, fumbling for a
+cigarette, desperately looking at anything in a skirt (even pics) and of
+course with the standard 'a large beer' in front of themselves.
+~
+1 4 bg k 300 S
+49 -5 -17 1d300+763
+400 500 100 1d24+25
+-1
+-1
+-1
+401 286581  8 8 1
+A
+%%10 emote looks at you.
+;%10 say Hi Pal! Sit down and buy me a beer!
+;%10 emote places a foot on the bar rail but misses awfully.
+;%10 say Ho ! Bartender! I want a new beer. This old one is broken.
+;%10 emote looks at the draft dreamily.~
+#14710
+drunk guest~
+a very unsober man~
+A happy drunk male is trying to sit properly.
+~
+   This one has been at it for a while. He looks red in his face and has
+an even redder nose. You cannot be sure if he is looking at you or not
+because his eyes are neither focused or directed in the same heading.
+~
+1 4 g y 100 S
+51 -6 -18 1d300+800
+400 500 75 1d25+26
+17 0 10 1d0+80
+96 0 1 2d0+95
+80 0 14 2d0+60 -1
+-1
+-1
+1 308749  8 8 1
+A
+%%10 emote looks at you or someone next to you.
+;%10 say Hshello Pal! Wher chave you been ?
+;%10 hic
+;%3 drink firebreather
+;%10 say You schtool my beer. *hick* Gimme a new one !
+;%10 emote blinks in a desperate attempt to focus on anything.~
+#14711
+Lost desperate Joel~
+Joel the misplaced~
+A desperate man is trying to get to the dinner without passing the bar.
+~
+   Joel is expected. He is in a hurry. He has not the slightest idea
+where he is. Well he knows he is inside the Ma Globs Dancing Parlor, but
+there is ends. He is not giving up yet. He will come through. Someday...
+~
+1 4 bgh k 500 S
+47 -4 -16 1d300+726
+400 500 90 1d23+24
+3 0 5 2d0+90
+36 0 5 2d0+90 -1
+-1
+-1
+2500 264417  8 8 1
+A
+%%10 emote looks very lost.
+;%10 say Ehh, excuse me. Do you know where the restaurant is ?
+;%10 sniff~
+#14712
+grand master waiter head~
+the head waiter~
+The head waiter tells you the restaurant is fully booked.
+~
+   The Grand Master Waiter is a handsome man. Perhaps a bit old but
+still stunning in his appearance. He moves around with grace and dignity
+as if he were royal. He sure is treated like one, anything to get a good
+table. He seems to have the power to make you execute his commands.
+~
+1 4 bg khfd 0 S
+55 -6 -18 2d100+878
+404 500 75 1d27+28
+32 0 10 1d0+90
+28 0 10 2d0+90
+75 0 5 2d0+80 -1
+324 100 -1
+-1
+3025 351499  8 8 1
+A
+%%10 say What can I do for You ?
+;%10 say Welcome! Games north, dance west and the bar east. Bye !
+;%10 emote goes through his big book of reservations.
+;%10 emote looks at you meaningly and says '...and...'~
+#14713
+croupier~
+a croupier~
+The croupier is taking care of the game on the table in front of her.
+~
+   Skilled, delicate, nimble fingered and making you lose again and
+again, this girl is really good at what she do. But then Ma did not
+hire her to lose. The eyes of the croupier reveal that she is very
+concentrated on the game.
+~
+1 4 bg kh 200 S
+53 -7 -19 1d300+839
+400 500 90 1d26+27
+4 0 5 1d0+90
+3 0 5 2d0+90 -1
+318 100 -1
+-1
+5809 330916  8 8 2
+A
+%%10 say place your bets !
+;%10 say No glasses on the table.
+;%10 emote snickers softly as she wins again.~
+#14714
+gambler~
+a not-so-fortunate gambler~
+The gambler is not doing as well as he hoped.
+~
+   The average gambler is slightly drunk, wants to winwinwin and usually
+loses. Unfortunately for him, this one is not an exception. The lust
+for gambling has become a slight mania and his obsession has screened
+him off pretty much from the rest of the world (not beer or umbrella
+drinks)
+~
+1 4 bgc k -50 S
+49 -5 -17 1d300+763
+400 500 100 1d24+25
+-1
+329 75 -1
+-1
+1 286581  6 6 1
+A
+%%10 say Double or Nothing!
+;%10 say Here, give me some more tokens, I'll walk home.
+;%10 emote searches though his pockets for his last golden coin.~
+#14715
+noble gambler~
+a noble gambler~
+A Chemin de Fer gambler cares for just one thing, a stylish game.
+~
+   The average gambler is slightly drunk, wants to winwinwin and usually
+loses. This one is an exception. He has style. He got class. He will have
+his martinis with the right length of toothpick penetrating the olive or
+not at all.
+~
+1 4 bg k 300 S
+53 -7 -19 1d300+839
+410 500 80 1d26+27
+71 0 10 2d0+75
+36 0 10 2d0+90 -1
+321 100 -1
+-1
+5433 330916  6 6 1
+A
+%%10 say 'Card'
+;%10 say 'Hold'
+;%10 emote places a huge bunch of tokens as tip for the croupier.~
+#14716
+gambler~
+a roulette gambler~
+A gambler is watching the ball spin on the roulette board.
+~
+   The roulette player watches carefully how the ball springs around in
+the roulette wheel. He crosses his fingers and hopes he will strike
+lucky this time. He most probably will not. But he still enjoys the
+game.
+~
+1 4 bg k 100 S
+51 -6 -18 1d300+800
+400 500 100 1d25+26
+-1
+-1
+-1
+601 308749  8 8 1
+A
+%%10 emote looks at the ball with rotating eyes.
+;%10 say come on, come on, come oooonnnnnnnnn!!!.
+;%10 emote takes up another token to place on the table.~
+#14717
+wannabe lookat~
+a wannabe gambler~
+A young man is standing at a table but he is only looking.
+~
+   The gambler wannabe has borrowed a worn tuxedo from a relative to
+impress his surroundings. Good luck boy! He looks just a little bit out
+of place, but he really wants to be where he thinks the real people are.
+One day he might reach the painful insight that his heroes are losers.
+~
+1 4 g k 100 S
+47 -4 -16 1d300+726
+400 500 90 1d23+24
+39 0 10 2d0+100 -1
+-1
+-1
+2209 264417  8 8 1
+A
+%%10 say Oh, what a genius move.
+;%10 say Can I hold that for you ?
+;%10 emote pulls up his pants that seem to slide down again immediately.~
+#14718
+dart player~
+a skilled dart player~
+The dart player is aiming for triple-twenty and hits it again.
+~
+   The dart player is very good. That is easily noted by just watching a
+few moments of play. The procedure is the same every time. Old routines.
+Dart comes up - aim - throw - dart is where it should be. It really
+looks very easy but this guy has been training a lot.
+~
+1 4 bgm kdr 300 S
+50 -6 -17 1d300+781
+400 500 82 1d25+26
+32 0 15 1d0+75
+24 0 3 2d0+100 -1
+319 100 318 100 331 100 -1
+-1
+2500 297665  8 8 1
+A
+%%10 emote throws a dart and silently says '60'.
+;%10 say Watch out !!! You twitt !
+;%10 say Hush! I am concentrating.
+;%10 emote places one foot just behind the line and relaxes.~
+#14719
+wallflower girl~
+a sad wallflower~
+A wallflower is here dreaming about Mr Right.
+~
+   The sight is sad, but not uncommon. Some girls just always end up
+here. There is nothing wrong with her, perhaps a bit shy, but that is
+nothing bad. She is probably rather intelligent too and that has always
+been a problem for the boys.
+~
+1 4 bgh kf 300 S
+50 -6 -17 1d300+781
+400 500 83 1d25+26
+68 0 10 2d0+100
+73 0 7 1d0+80 -1
+313 20 -1
+-1
+500 297665  6 6 2
+A
+%%10 sniff
+;%10 emote says a bit shyly 'Hello'
+;%10 emote looks dreamingly towards the dancefloor.
+;%10 emote looks down.~
+#14720
+stage guard~
+a stage guard~
+The stage guard is on duty.
+~
+   The stage guard is maybe even stronger than the other guards as he
+most frequently must assist the band when moving some instrument or some
+cradle with equipment. Those biceps might be something to brag about
+if he would indulge himself in simple conversation with a customer.
+~
+1 4 bglm kfd 0 S
+52 -7 -18 1d300+819
+410 500 100 1d26+27
+-1
+323 100 373 100 339 100 325 100 -1
+-1
+2704 319832  8 8 1
+A
+%%10 emote looks at you.
+;%10 emote polishes some unseens stain away.
+;%10 emote glares at you.
+;%10 emote flexes a bit just to make you feel puny.~
+#14721
+mad drummer insane~
+one completely insane drummer boy~
+The drummer is going totally wicked with his soundy behavior, HIDE !!
+~
+   This drummer is very dedicated to what he is doing. Nothing stands in
+his way, at least not very long. He has the largest arms you have ever
+seen on a human. You can just imagine what he would do if he started
+drumming on you.
+~
+12 4 g kzD 300 S
+53 -7 -19 1d300+839
+400 500 9 2d6+17
+401 500 9 14d2+27
+403 500 9 1d2+10
+404 500 9 3d6+13
+405 500 9 1d2+5
+407 500 9 1d6+17
+408 500 9 3d26+1
+409 500 9 1d2+0
+410 500 9 1d26+27
+23 0 19 1d0+90 -1
+329 70 321 100 -1
+-1
+8209 330916  8 8 1
+A
+%%10 emote goes out in a wild drum solo.
+;%10 emote bashes something against the wall. Could it be his head?
+;%10 emote breaks one of his drumsticks but he does not seem to care.
+;%10 emote screams WWWooooooHAaaaaaaa !!!!~
+#14722
+percussionist~
+a percussionist~
+The percussionist is trying to keep up with the drummer.
+~
+   The percussionist is a bit out of his league when it comes to acting
+and drumming. Well that is if you compare him with the other, the mad
+drummer on the stage. It is just that the other one always gets the
+attention.
+~
+1 4 g k 50 S
+50 -6 -17 1d300+781
+401 500 95 1d25+26
+23 0 5 1d0+75 -1
+329 70 321 100 -1
+-1
+2500 297665  8 8 1
+A
+%%10 emote plays along.
+;%10 emote smiles at you.
+;%10 emote shows off some of his skills. He is really good.~
+#14723
+brass band player member~
+a brass player member~
+The brass band members are very proud of their instruments.
+~
+   As any member of a brass band, this one makes no exception. Well
+polished instrument. Affection to the incomrehensible art form called
+jazz and of course big swollen cheeks.
+~
+1 4 g k 300 S
+50 -6 -17 1d300+781
+400 500 95 1d25+26
+59 0 5 1d0+60 -1
+328 100 -1
+-1
+2500 297665  8 8 1
+A
+%%10 emote plays a tune just for you.
+;%10 emote smiles at you.
+;%10 emote does a little trick with his instrument.~
+#14724
+guitar player~
+a guitar player~
+The guitar player is holding his tongue right in his mouth.
+~
+   The guitar player's fingers run like lightning over the strings of
+the guitar while he plays a something barely heard over the rest of the
+orchestra. But he does not care. He knows he is real good.
+~
+1 4 g kr 300 S
+52 -7 -18 1d300+819
+400 500 100 1d26+27
+-1
+-1
+-1
+2704 319832  8 8 1
+A
+%%10 emote fingers disappear just a moment.
+;%10 emote has problems with his tongue again.
+;%10 emote goes off in a solo.~
+#14725
+piano player~
+a solitary piano player~
+The piano player has a slight malfunction in his piano.
+~
+   The piano player has his head halfway down the pianos inside. It
+looks like some keys has come loose and he is desperately trying to put
+them back in place without anyone noticing.
+~
+1 4 bg kh 500 S
+52 -7 -18 1d300+819
+400 500 75 1d26+27
+31 0 5 2d0+0
+17 0 15 1d0+90
+29 0 5 2d0+100 -1
+317 100 -1
+-1
+2704 319832  8 8 1
+A
+%%10 emote looks in frustration at his loose keys.
+;%10 emote smiles at you, slightly embarrassed.
+;%10 say Can you help me a bit here, please.~
+#14726
+girl backing vocal doa doa-doa~
+a doa-doa girl~
+The Doa-Doa-girl looks better than she sings.
+~
+   The Doa-Doa-girls work best together giving their backing vocals that
+extra touch. They do not really sing that good, but they are nice enough
+to look at so they got the job anyway.
+~
+1 4 bghm k 250 S
+52 -7 -18 1d300+819
+400 500 100 1d26+27
+-1
+-1
+-1
+2704 319832  8 8 2
+A
+%%10 emote takes a step closer to you.
+;%10 emote smiles at you invitingly. She want you to sing too ?
+;%10 say Hey ! Sing a long. It aint that hard !~
+#14727
+dust monster~
+The Dust Monster~
+A horrid DUST MONSTER slithers your way.
+~
+   The Dust Monster has been here for a long time. And it has grown and
+grown and GROWN !!! Perhaps you should back off before it is too late.
+~
+2 4 bgf kdbfrt -400 S
+55 -8 -20 1d300+878
+408 500 90 1d27+28
+37 0 10 1d0+80 -1
+363 100 -1
+-1
+3025 351499  8 8 0
+A
+%%10 emote does something.~
+#14728
+paper papers manuscript~
+a manuscript paper~
+The manuscript papers swirl around the whole room.
+~
+   The manuscript has been infected by the insanity of Suss-Ana and the
+pagers have gone on their own little tour of the room. They never lie
+still long enough for you to read anything from it.
+~
+17 4 bg k 0 S
+46 -4 -15 1d300+708
+406 500 100 1d23+24
+-1
+-1
+7 100 38 100 40 100 23 75 -1
+0 253333  8 8 0
+A
+%%10 emote swirls around in a loop.
+;%10 emote swoosches in behind your head.
+;%5 emote somehow manage to grin evilly at you.~
+#14729
+Suss Ana prompter suss-ana~
+Suss-Ana~
+The prompter girl Suss-Ana is trying to control her manuscript papers.
+~
+   Suss-Ana is a cute elven woman apparently abandoned by the rest of
+the world. Sitting in her box waiting for someone to need some prompting
+has gone to her head. To have some company she animated some papers
+from the manuscripts she held.  Unfortunately they have started to run
+amok in here.
+~
+1 4 bgm k 300 S
+50 -6 -17 1d300+781
+400 500 90 1d25+26
+54 0 10 1d0+100 -1
+-1
+-1
+500 297665  8 8 2
+A
+%%10 emote asks you 'Can I help you ?'
+;%10 emote waves wildly with her arms towards her even wilder papers.
+;%10 emote casts 'charm person' at a manuscript page.~
+#14730
+Lady-in-Waiting daisy~
+Lady-in-Waiting~
+Daisy, the Lady-in-Waiting is waiting for the Man.
+~
+   Daisy really should be back to the castle taking care of her majesty
+Morianne, but she has found another occupation that gives her more joy.
+She sits in Hulio's room tearing up any love letter to him she can find.
+~
+1 4 bg krz 500 S
+52 -7 -18 1d300+819
+407 500 100 1d26+27
+-1
+317 100 323 50 324 50 345 60 -1
+-1
+5704 319832  5 5 2
+A
+%%10 emote sniffs sadly as she awaits her beloved.
+;%10 emote looks up at you hoping You are Hulio. What a mistake !
+;%10 emo tears another letter apart and spreads the pieces around
+ herself.
+;%10 emote stares dreamingly into nothingness and smiles.~
+#14731
+Waiter~
+a Waiter~
+The waiter is skillfully avoiding you as he walks past you.
+~
+   The waiter seems to be very handy when it comes to carrying plentiful
+plates and dishes simultaneously. Dressed up in a clean white suit he
+looks remarkably clean and tidy.  No spots or stains here, nono.
+~
+1 4 g kds 300 S
+51 -6 -18 1d300+800
+400 500 100 1d25+26
+-1
+318 100 338 100 -1
+-1
+201 308749  8 8 1
+A
+%%10 emote asks you 'Do you have a table reservation ?'
+;%10 emote dexterously avoids a collision.
+;%10 emote takes away some invisible spot from a table.~
+#14732
+hunney honey girl~
+Honey~
+Honey's thoughts are but on one boy, Bunny.
+~
+   Honey is a nice girl. Her only problem is to focus on anything but
+her boyfriend Bunny. All her waking hours (and most sleeping) her mind
+is set on one thing and a real good one too, Bunny.
+~
+1 4 bgm k 750 S
+45 -3 -15 1d300+691
+409 500 95 1d22+23
+3 0 5 2d0+80 -1
+325 100 -1
+-1
+2025 242250  6 6 2
+A
+%%10 lick bunny
+;%10 kiss bunny
+;%10 giggle
+;%10 blush
+;%10 whisper bunny something~
+#14733
+Bunny boy~
+Bunny~
+Bunny thoughts are but on one girl, Honey
+~
+   Bunny is a nice boy. His only problem is he focuses on nothing but
+his girlfriend Honey. All his waking hours (and most sleeping even
+though he wont admit it) his mind is set on one wonderful girl, Honey.
+~
+1 4 bgm k 750 S
+45 -3 -15 1d300+691
+409 500 95 1d22+23
+3 0 5 2d0+90 -1
+325 100 329 100 -1
+-1
+2025 242250  6 6 1
+A
+%%10 hug honey
+;%10 tickle honey
+;%10 blush
+;%10 french honey
+;%10 whisper honey something~
+#14734
+dining man~
+A dining man~
+A dining man really enjoys his meal.
+~
+   The man is in good condition, perhaps a little too good around the
+stomach but what can one expect for a rather frequent visitor of the
+restaurant. A good guess is that he is pretty wealthy, too, if he is
+going to have a chance of paying for the meals.
+~
+1 4 bg k 300 S
+50 -6 -17 1d300+781
+400 500 100 1d25+26
+-1
+-1
+-1
+3500 297665  6 6 1
+A
+%%10 emote shovels in another fork full of food into his mouth.
+;%10 emote unnoticed spills a drop of sauce in his lap.
+;%10 say Ohhh, this is really good. Some more wine, perhaps ?~
+#14735
+woman dining~
+A dining woman~
+A dining woman carefully tastes the delights in front of her.
+~
+   The woman is almost shivering with delight as she tastes the food
+supplied by Ma Globs Dancing Parlor. She is careful not to get too much
+of the sauce though, as it would most certainly increase some of her
+measures in a most undesired way.
+~
+1 4 bg k 300 S
+50 -6 -17 1d300+781
+400 500 100 1d25+26
+-1
+-1
+-1
+500 297665  6 6 2
+A
+%%10 emote takes a sip of her wine.
+;%10 emote takes a small sniff from the food vapours before devouring it.
+;%10 say Excuse me, but could you stop staring at us while we eat ?~
+#14736
+girl screaming screamers~
+a screaming girl~
+A girl is screaming for Hulio so much she almost faints.
+~
+   The girl must have some spastical problem because she seems to be
+unable to stand still. There is no problem with her lungs though. Her
+lung capacity made her heard from a long distance (and seen).
+~
+1 4 bg k 150 S
+45 -3 -15 1d300+691
+400 500 99 1d22+23
+96 0 1 1d0+95 -1
+363 100 -1
+-1
+2025 242250  8 8 2
+A
+%%10 emote almost faints from exhaustion.
+;%10 screams HULIOOOOOOO !!!
+;%1 emote breathes.
+;%20 emote jumps up and down like a maniac.~
+#14737
+wannabe~
+a Hulio wannabe~
+A Hulio wannabe is trying to impress the girls with his hairy chest.
+~
+   The Hulio wannabe is a awkward sight for those not targeted by his
+charm attempt. He is dressed up in tight trousers and a wide open shirt
+showing off his bodily hair. A pitiful sight really, but he keeps up.
+~
+1 4 bghl k 300 S
+44 -3 -14 1d300+673
+400 500 85 1d22+23
+36 0 15 2d0+80 -1
+345 20 -1
+-1
+2936 231166  8 8 1
+A
+%%10 strut
+;%10 flex
+;%10 emote tries to impress his unwilling audience.~
+#14738
+jenka dancer~
+a jenka dancer~
+A jenka dancer is trying not to step on someone else in the jenka train.
+~
+   It is hard to focus on the jenka dancer as he is continuously moving
+and parrying for the actions of other jenka dancers. But he seems to
+enjoy himself and that is the important thing.
+~
+1 4 gm kr 300 S
+48 -5 -16 1d300+744
+409 500 100 1d24+25
+-1
+318 100 328 100 338 100 -1
+-1
+304 275500  8 8 1
+A
+%%10 emote tries desperately to connect to the dance in front of him.
+;%10 laugh
+;%40 follow mm14739
+;%30 emote jumps one step back and two forth, again...~
+#14739
+jenka leader mm14739~
+a Jenka Dance Leader~
+A Jenka Dance Leader is leading a train of laughing jenka dancers.
+~
+   The Jenka Dance Leader is a seasoned party dancer. He has been
+everywhere trying to get people off their sometimes little too round
+behinds and out on the dance floor. He is driven by some other motive
+because he is fully fit himself.
+~
+1 4 g kdfr -500 S
+52 -7 -18 1d300+819
+405 500 100 1d26+27
+-1
+318 100 328 100 338 100 -1
+-1
+2704 319832  8 8 1
+A
+%%10 say you seem to be in need of some exercise.
+;%10 smile
+;%10 say Don't you wanna join? It is great fun.
+;%30 emote jumps one step back and two forth, again...~
+#14740
+waltzer dancer~
+a waltzer~
+A waltz dancer got interrupted when you came by.
+~
+   The waltzer does not seem too pleased by you disturbing him. There
+might even be a stain on his tux because of you. Guess you should let
+him alone before he calls upon security.
+~
+1 4 g k -200 S
+50 -6 -17 1d300+781
+407 500 90 1d25+26
+36 0 10 2d0+90 -1
+329 100 -1
+-1
+2500 297665  8 8 1
+A
+%%10 say Hey!, you stained my best tuxedo !
+;%1 emote hollers 'Guards !!!'
+;%10 emote growls towards you very disturbingly.
+;%10 emote tries to take away the dirt you placed on him.~
+#14741
+tango man~
+a tango dancing man~
+A tango dancing man tangos around you in wide circles.
+~
+   The tango dancing man totally ignores you as he continues his dance.
+Or maybe not, it might even be so that he enjoys being watched
+performing his dance act. It looks like he has been training a lot to
+make it look real easy.
+~
+1 4 g k 0 S
+52 -7 -18 1d300+819
+400 500 90 1d26+27
+75 0 5 2d0+70
+71 0 5 2d0+70 -1
+-1
+-1
+2704 319832  8 8 1
+A
+%%10 emote tangos right past you.
+;%10 emote smiles a rather plastic smile.
+;%10 emote makes a quick sidestep, not to collide, look natural.~
+#14742
+tango woman~
+a tango dancing woman~
+A tango dancing woman follows her lead whereever he might be.
+~
+   The tango dancing woman is as plastic as her colleague. Smile, hair,
+dress, all of it looks superficial and only a part of her way to act.
+~
+1 4 g k 0 S
+52 -7 -18 1d300+819
+400 500 90 1d26+27
+67 0 5 2d0+80
+80 0 5 2d0+80 -1
+-1
+-1
+2704 319832  8 8 2
+A
+%%10 emote slowly bends her head to the side.
+;%10 emote sadly looks down on her environment.
+;%10 emote does not sweat.~
+#14743
+youngster shaker~
+a youngster shaker~
+An androgynous youngster shakes wildly after some unknown beat.
+~
+   Even though insanity seems to be complete here, the body seems to be
+in a very good physical shape as the youngster gets a great workout here
+on the dance floor. Perhaps you should take a step back as the arms and
+legs seems to have a rather irregular pattern.
+~
+1 4 g k 200 S
+48 -5 -16 1d300+744
+401 500 95 1d24+25
+45 0 5 2d0+100 -1
+321 50 323 50 -1
+-1
+304 275500  8 8 1
+A
+%%10 emote waves a legs in a angle thought impossible.
+;%10 emote manage to get to some extremities almost parallel.
+;%10 emote hollers 'Yehaaaaa!!!'~
+#14744
+hugger dancers swaying two people~
+Two swaying people~
+Two people intimately embraced.
+~
+   The border between these two persons is almost undetectable. They
+hug each other so tight that everything becomes one huge mass of passion.
+They don't do anything not suitable for the dance floor, but they are
+very very much occupied only by themselves.
+~
+1 4 bg kD 1000 S
+55 -2 -17 2d100+1756
+400 500 85 1d27+28
+28 0 15 2d0+90 -1
+317 100 -1
+-1
+25 351499  8 8 0
+A
+%%10 emote sways slightly to one side.
+;%10 emote sways slightly to the other side.
+;%2  emote moans very very softly.~
+#14745
+fat fryer~
+a very fat Fryer~
+A very fat Fryer overlooking the fry board.
+~
+   The fat Fryer starts here and goes all over to there. Ouch! That sure
+is big. The meat accumulated in there must be able to feed hundreds, but
+then again someone must be pretty strong to carry that load around.
+~
+1 4 bg kD 300 S
+54 -5 -20 2d100+1716
+401 500 83 1d27+28
+64 0 15 2d0+100
+5 0 2 1d0+90 -1
+365 50 -1
+7 100 38 100 40 100 324 90 -1
+916 342000  8 8 1
+A
+%%10 emote flips a steak without splashing the fat around.
+;%10 emote takes forth another egg.
+;%2  emote almost unnoticed tosses a meatball into his mouth.~
+#14746
+crow black~
+a crow~
+A black crow watches over the nest
+~
+   The black crow flaps his wings a futile attempt to get rid of you.
+Otherwise it looks a rather good mood. Its skilled eyes scan out over
+the surroundings as continues to protect its nest from intruders.
+~
+6 4 gf ksB 351 S
+48 -5 -16 1d300+744
+408 500 100 1d24+15
+-1
+-1
+7 100 38 100 40 100 23 80 -1
+0 275500  8 8 0
+A
+%%10 emote flaps a wing in your face.
+;%10 emote screams 'KRAH KRAH !!!'
+;%10 emote picks on a unprotected part of your body. Aiii !~
+#14747
+chef white~
+a Chef~
+A Chef in white is poking around
+~
+   The chef is all dressed up in a white chef-suit. He is walking around
+here making sure that all the delicious meals made from the kitchen
+really are produced. He chops up vegetables, spoons on sauce, places that
+little piece of something on the exactly right place.
+~
+1 4 glm k 300 S
+53 -7 -19 1d300+839
+406 500 85 1d26+27
+35 0 3 2d0+100
+43 0 2 2d0+100
+28 0 10 2d0+100 -1
+-1
+-1
+2809 330916  8 8 1
+A
+%%10 emote cleans off a cutting board.
+;%10 emote waves a knife in your face. 'Get out of here, we are working!'
+;%10 emote dries off his hands on a towel hanging from his side.~
+#14748
+Ms miss bean~
+Miss Bean~
+The magnificent Miss Bean has her hands in something delicious.
+~
+   Miss Bean is a woman in the prime of her years, whenever that is for
+a elf woman and she looks absolutely wonderful. Dressed up in the
+correct full-white chef-suit (absolutely no stains) she dominates the
+kitchen with her presence. There is no mistake who is boss in Ma Glob's
+Kitchen.
+~
+1 4 bg kdfrhD 300 S
+57 -7 -21 1d300+2000
+410 500 85 1d28+29
+12 0 5 2d0+100
+4 0 5 1d0+100
+28 0 5 2d0+100 -1
+-1
+-1
+5249 370500  8 8 2
+A
+%%10 emote smiles a warm smile towards you.
+;%10 emote asks 'What can I do for you ?'
+;%10 hug egba
+;%10 cuddle furball
+;%10 emote makes the finishing touch on a small pastry in front of her.~
+#14749
+Hulio~
+Hulio~
+Hulio, the mushy singer extreme is secretly in love with Ms Bean.
+~
+   Oh, Hulio - My Hulio. There is no one to compare Hulio with, no one
+at all. You can all imagine yourself, he is a real mushy singer. Perfect
+sun tan, large hairy chest(well shown through his wide open shirt) and
+dark trousers with perfect fold. Either you love him at sight or get
+disgusted.
+~
+1 4 bg khf 400 S
+56 -9 -21 1d300+899
+410 500 85 1d28+29
+38 0 5 1d0+75
+39 0 10 2d0+100 -1
+363 100 -1
+-1
+136 361000  8 8 1
+A
+%%10 emote hums softly to himself and the immediate surrounding.
+;%10 emote sings out in a loverly tune to please his fans.
+;%10 kiss Jellie
+;%10 emote tries to push you off the stage without anyone noticing.~
+#14750
+assistant chef~
+Ms Beans assistant~
+Ms Beans assistant help Ms Bean in any way she want.
+~
+   Ms Beans assistant must be the luckiest man around. Not only is he
+allowed to be around Ms Bean the whole day, but also he get to sample
+all Ms Beans creations to see whether or not she has overcome herself
+again. The samplings have made themselves remarkably present around the
+man's hips.
+~
+1 4 bg khdf 200 S
+53 -7 -19 1d300+1239
+409 500 100 1d26+27
+-1
+325 70 345 25 -1
+-1
+2809 330916  8 8 1
+A
+%%10 emote licks his lips.
+;%10 emote gives away a faint murmur from the midst of his body.
+;%10 say Yummie !!! This one is really really good.~
+#14751
+dish washer~
+a dish washer~
+A soaking wet washer of dishes, washes dishes.
+~
+   The dish washer is a man with brutally big biceps. It could come
+from his continuous rubbing of plates or from battling the foam in the
+sink in front of him that always tries to spread over proportions.
+~
+1 4 bg kdf 300 S
+51 -6 -18 1d300+800
+405 500 100 1d25+26
+-1
+373 100 324 70 -1
+-1
+601 308749  8 8 1
+A
+%%10 emote rubs another plate while humming a happy little tune.
+;%10 emote plunges down his arms into the foamy water.
+;%10 growl foam
+;%10 slap foam~
+#14752
+foam monster creature foaming~
+some foam wanting to leave the Sink~
+A foaming creature awaits the sacrifice of your persona
+~
+   The foam monster is like nothing you have ever seen before. Perhaps
+you have discovered another of the base elements. It must be some
+intermediate form of earth, water and air.
+~
+15 4 bg krt 300 S
+52 -7 -18 1d300+819
+408 500 95 1d26+27
+25 0 5 1d0+80 -1
+-1
+-1
+0 319832  8 8 0
+A
+%%10 emote splashes you down.
+;%10 emote rumbles a bit.~
+#14753
+drier man~
+a man drying dishes~
+A man drying dishes is hunting his disobedient towels.
+~
+   The man drying dishes seems happy. Could be he is not washing them or
+maybe that he is just happy to have a nice job in the kitchen of Ma
+Globs Dancing Parlor. He is wearing a 'Uncle Juan' T-shirt and a some
+whiteish trousers and seems to be feeling just fine.
+~
+1 4 bg k 200 S
+52 -7 -18 1d300+819
+400 500 95 1d26+27
+5 0 5 1d0+100 -1
+373 100 -1
+-1
+2704 319832  8 8 1
+A
+%%10 emote dries another plate.
+;%10 emote does a little trick flipping a plate in front of him.
+;%10 emote smiles at you.
+;%10 emote kicks a dirty towel in under the Sink again.~
+#14754
+dirty towel~
+a dirty towel~
+A dirty towel just fell out from behind the Sink
+~
+   Yuck ! The towel sure is dirty. Someone must remove it before it
+spreads and infects something. It seems dirt and food particles has
+collected on this one for a long time.
+~
+16 4 bg kD 100 S
+53 -7 -19 1d300+839
+400 500 90 1d26+27
+100 0 5 1d0+80
+28 0 5 2d0+100 -1
+331 100 -1
+-1
+0 330916  8 8 0
+A
+%%10 emote flaps the edges of the towel together.
+;%10 emote bodybuilds by picking up something from the floor.
+;%10 emote gives off a rather disgusting odor.~
+#14755
+frost monster entity frosties~
+Frosties~
+Some kind of frost covered entity moves around on the floor
+~
+   The frost monster seems to have originated from some old paper barrel
+standing in the corner of the cold store. It seems like it is build up
+by a lot of small flakes. A good guess is that it would very sensitive
+for crushes or a spray of milk.
+~
+14 4 bgf kdfD -300 S
+52 -7 -18 1d300+819
+407 500 80 1d26+27
+8 0 10 1d0+100
+28 0 10 2d0+100 -1
+363 100 -1
+7 100 38 100 40 100 8 90 77 90 -1
+4 319832  8 8 0
+A
+%%10 emote grins evilly towards you.
+;%10 emote whispers to you 'I am going to CLOG you up badly'
+;%10 emote soaks up some more flakes from the ground.~
+#14756
+evil wine~
+Wine gone evil~
+Some too old wines covered with dust lie carefully stuffed away.
+~
+   The wine seems to have been lying here to long without proper care or
+proper looking after. It seems the cork has not been sealing enough and
+now the wine is out for revenge.
+~
+12 4 bgf kD -300 S
+58 -10 -22 1d300+940
+409 500 95 1d29+30
+33 0 5 1d0+100 -1
+331 100 -1
+-1
+64 379999  8 8 0
+A
+%%10 emote makes a plinging sound as it hits another bottle.
+;%10 emote approaches you slowly.~
+#14757
+resting waiter~
+resting waiter~
+A resting waiter sits down and relaxes
+~
+   After a while the legs just get tired of running around in the
+kitchen and in the restaurant. Then why not do as this waiter has done.
+Take his legitimate break and relax a bit on some nice couch. He doesn't
+seem to care much about your presence as long as you let him be.
+~
+1 4 bg k 300 S
+50 -6 -17 1d300+781
+400 500 90 1d25+26
+68 0 10 2d0+100 -1
+-1
+-1
+2500 297665  5 5 1
+A
+%%10 yawn
+;%10 emote turns page in the newspaper he is reading.
+;%10 emote reaches out and grabs himself a sandwich.~
+#14758
+resting guard~
+resting guard~
+A resting guard has a break in his shift
+~
+   After a while the legs just get tired of running around in Ma Globs
+Dancing Parlor. Then why not do as this guard has done. Take his
+scheduled break and relax a bit on some nice couch together with some
+friends and a marvelous snack.
+~
+1 4 bglm kdf 0 S
+52 -7 -15 1d300+819
+410 500 100 1d26+27
+-1
+373 100 339 100 325 100 -1
+-1
+2704 319832  5 5 1
+A
+%%10 yawn
+;%10 emote turns page in magazine he is looking in.
+;%10 emote grabs himself a snack and throws in into his mouth.~
+#14759
+clara blue dragoness~
+Clara the Blue Dragoness~
+A enormous blue dragon lady counting gold coins
+~
+   The dragon is rather big. You wonder how it ended up in this room in
+the first place, but then there is a lot about dragons that you dont
+know, is there not ? A good estimation is that the dragon would be a
+fearsome enemy if tampered with, so you'd better not.
+~
+1 4 bg kbdhzBDf 100 S
+55 -8 -20 1d300+1278
+400 500 28 1d27+28
+404 500 28 2d20+28
+408 500 19 3d20+20
+28 0 5 2d0+100
+60 0 15 1d0+100
+103 0 5 1d0+100 -1
+317 100 318 100 363 100 -1
+7 100 38 100 40 100 30 90 60 90 104 50 106 50 103 60 6 90 -1
+5025 351499  8 8 2
+A
+%%10 emote sniffs your scent and giggles a bit.
+;%10 emote moves some gold over to another heap.
+;%10 say are you really supposed to be here ?
+;%10 emote is charging up her lightning breath batteries.~
+#14760
+bob~
+BOB~
+A man looking very strangely twisted grins towards you.
+~
+   Who is this man ? WHY is this man. WHAT is this man ? Examining him
+doesn't really help. The only you feel is that he can not be trusted at
+all, ever. He is looking at you, estimating you for something, perhaps
+for his personal shelf of trophies somewhere.
+~
+1 4 g kdfh -751 S
+55 -8 -20 3d100+978
+404 500 50 1d27+28
+2 0 50 2d0+80 -1
+-1
+7 100 38 100 40 100 372 70 104 70 26 70 33 100 -1
+50000 351499  8 8 1
+A
+%%10 emote grins at you with a very wicked smile.
+;%10 emote takes a step in behind a curtain and comes out behind you.
+;%10 emote ask 'You know where you are ?  Not ?  GOOD !'
+;%10 say 'Evael ot Emit'~
+#14761
+glob ma~
+Ma Glob~
+A strange old humanoid in damp clothes looks at you with gleaming eyes.
+~
+   Ah, there is the oldest of Globs (at least public ones). In good
+condition too, for the age worn on Ma's shoulders.  Ma peers around with
+gleaming eyes to see that everything is like it should be and that
+everyone is fully satisfied. The air around the old Glob almost shivers
+with the power inside the ancient body.
+~
+0 4 g dfhkrAD -999 S
+60 -12 -18 4d100+2983
+404 500 30 1d30+31
+28 0 14 2d0+100
+4 0 7 1d0+100
+8 0 7 1d0+100
+17 0 7 1d0+100
+100 0 7 1d0+100
+25 0 7 1d0+100
+23 0 7 1d0+100
+33 0 7 1d0+100
+73 0 7 1d0+100 -1
+317 100 318 100 338 100 363 100 331 100 328 100 373 100 -1
+7 100 38 100 40 100 33 100 372 80 4 90 26 90 104 90 96 80 101 50 -1
+3600 399000  8 8 0
+A
+%%15 emote smiles a very small smile towards you.
+;%15 emote takes a sip from a glass filled with the purest water.
+;%15 hug egba
+;%15 kiss egba
+;%15 say Please, enjoy yourselves !
+;%15 say Oh I must take care of my other guests too.~
+#14762
+guard~
+a Mad Guard~
+An enraged guard is quickly approaching YOU !
+~
+   This guard is not at all pleased about your presence. The only thing
+on his mind at the moments is that you should be somewhere else,
+preferably 6 feet down somewhere else. His intent is to make sure it
+happens, so you better choose quickly.
+~
+1 4 gflm kdfzs 300 S
+110 -8 -20 1d300+878
+410 500 100 1d27+28
+-1
+324 100 373 100 339 100 325 100 -1
+-1
+3000 408499  8 8 1
+A
+%%10 emote insults you very gravely.
+;%25 enter ma14768
+;%10 scream CHARGE !!!~
+#14763
+entity monster smoke~
+a Smoke Entity~
+Some sort of Smoke Entity awaits you with a warm smile in the darkness
+~
+   Too much smoke. You cannot see a thing. Sorry.
+~
+2 4 bgf kdf 100 S
+52 -7 -18 1d300+819
+408 500 80 1d26+27
+4 0 15 1d0+100
+80 0 5 2d0+80 -1
+363 100 -1
+-1
+0 319832  8 8 0
+A
+%%10 emote takes a good grip of your lungs tries to claw you inside out!
+;%10 emote gets in your eyes.~
+#14764
+wallflower boy drunk~
+a drunk wallflower~
+A wallflower is here telling tales about Ms Undress Easily.
+~
+   The sight is pitiful, but not too uncommon. Some boys just always get
+too drunk to do anything useful and they often end up here. The nerve to
+ask some of the girls to dance is so shaking that the richter scale would
+not notice. So he does not bother. It is much easier to find a equal and
+tell some very untrue tales.
+~
+1 4 bgm kz -100 S
+50 -6 -17 1d300+781
+400 500 100 1d25+26
+-1
+373 80 -1
+-1
+1250 297665  6 6 1
+A
+%%10 burp
+;%10 emote glares at you and says 'Hey! Thats my beer !'
+;%10 emote glares at you.
+;%2 drink whisky
+;%10 emote looks toward the girl bench and grins evilly.~
+#14765
+guard~
+a Mad Guard~
+An enraged guard is quickly approaching YOU !
+~
+   This guard is not at all pleased about your presence. The only thing
+on his mind at the moment is that you should be somewhere else,
+preferably 6 feet down somewhere else. His intent is to make sure it
+happens, so you better choose quickly.
+~
+1 4 gflm kdfzs 300 S
+110 -8 -20 1d300+878
+410 500 100 1d27+28
+-1
+373 100 339 100 325 100 -1
+-1
+3000 408499  8 8 1
+A
+%%10 emote insults you very gravely.
+;%25 enter ma14768
+;%10 scream CHARGE !!!~
+#14766
+family dinner~
+a messed up family dinner~
+A whole family is gathered here having dinner together.
+~
+   The disorganization of the family dinner looks complete, yet the
+family members seems to have total control of each others arms and faces
+and no one manage to stick a fork in someone's nose by mistake, even
+though you cannot be all to certain about the smallest children.
+~
+1 4 bgl kD 300 S
+55 -6 -15 14d80+1681
+400 500 33 1d25+26
+404 500 33 2d25+20
+408 500 34 3d25+15 -1
+-1
+-1
+25000 297665  8 8 0
+A
+%%10 emote stands up giving each other a toast.
+;%10 emote starts to laugh simultaneously. Someone must have told a joke
+;%10 emote stops eating and look at you !~
+#14767
+bartender shopkeeper~
+a bartender~
+The bartender is here waiting to serve you your order
+~
+   All bartenders look alike. A little rounder that the usual person, a
+little friendlier and they have very good ears or how else would they
+manage to listen to all the things people just have to tell them.
+~
+1 4 g krhAs 349 S
+53 -7 -19 1d300+839
+400 500 100 1d26+27
+-1
+345 20 317 100 321 60 373 60 -1
+-1
+5809 330916  8 8 1
+A
+%%10 smile
+;%10 say Hello, Can I get you anything ?
+;%10 emote drafts up a beer for a customer.~
+#14768
+bartender shopkeeper~
+a bartender~
+The bartender is here waiting to serve you your order
+~
+   All bartenders look alike. A little rounder that the usual person, a
+little friendlier and they have very good ears or how else would they
+manage to listen to all the things people just have to tell them.
+~
+1 4 g krhAs 349 S
+53 -7 -19 1d300+839
+400 500 100 1d26+27
+-1
+345 20 317 100 321 60 373 60 -1
+-1
+5809 330916  8 8 1
+A
+%%10 smile
+;%10 say Hello, Can I get you anything ?
+;%10 emote drafts up a beer for a customer.~
+#14769
+bartender shopkeeper~
+a bartender~
+The bartender is here waiting to serve you your order
+~
+   All bartenders look alike. A little rounder that the usual person, a
+little friendlier and they have very good ears or how else would they
+manage to listen to all the things people just have to tell them.
+~
+1 4 g krhAs 349 S
+53 -7 -19 1d300+839
+400 500 100 1d26+27
+-1
+345 20 317 100 321 60 373 60 -1
+-1
+5809 330916  8 8 1
+A
+%%10 smile
+;%10 say Hello, Can I get you anything ?
+;%10 emote drafts up a beer for a customer.~
+#99999
+$~
+

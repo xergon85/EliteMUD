@@ -1,0 +1,23 @@
+#275
+Clans~
+27599 1 0
+*
+*** MIDNIGHT SUN CLAN HOUSE (110)
+O 0 10 100 27501        Guard #1 (Main Entrance)
+O 0 9 100 27515         Guard #2 (Leadership Only)
+O 0 15 100 27511        Midnight Sun board #1
+O 0 8 100 27516         Midnight Sun Leadership Board
+O 0 27509 100 27518     Midnight Sun Membership Board
+O 0 27500 100 27506     Fountain
+O 0 15 100 27519        Midnight Sun board #1 (Second loading room)
+*
+M 0 27500 1 27504       Shopkeeper
+G 1 27501 100           Tea
+G 1 27502 100           Coffee
+G 1 27503 100           Sandwich
+G 1 27504 100           Clan Recall
+G 1 27505 100           Identify
+S
+#99999
+$~
+

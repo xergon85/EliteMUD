@@ -1,0 +1,150 @@
+#3100
+maid~
+The Maid~
+The Maid is waiting for your order.
+~
+She is very beautiful with golden hair, and deep blue eyes.  A good reason
+for coming here more often, you think to yourself.
+~
+1 4 2051 8 1000  S
+33 9 -10 1d1+360
+400 500 100 1d8+22 -1
+-1
+-1
+2000 80000 8 8 2
+#3120
+sexton~
+the Sexton~
+A Sexton is sitting here, drinking hot tea.
+~
+The Sexton looks like he is relaxing after another gravedigging job.
+~
+1 4 2 0 800  S
+3 19 7 2d6+35
+400 500 100 1d7+0 -1
+-1
+-1
+13 400 6 6 1
+#3121
+swan~
+the swan~
+A swan is swimming around in the pond.
+~
+The white swan is very elegant.
+~
+0 0 2 0 1000  S
+1 20 9 2d6+10
+400 500 100 1d5+0 -1
+-1
+-1
+0 100 8 8 0
+#3122
+duckling~
+the duckling~
+A duckling is swimming around in the pond.
+~
+The duckling is adorable, it looks most of all like a tiny furball.
+~
+0 0 2 0 1000  S
+0 20 10 1d1+0
+400 500 100 1d1+0 -1
+-1
+-1
+0 1 8 8 0
+#3123
+sparrow~
+the sparrow~
+A sparrow is flapping around on the ground.
+~
+The sparrow looks like it is enjoying life.
+~
+0 0 192 0 1000  S
+0 20 10 2d6+0
+400 500 100 1d3+0 -1
+-1
+-1
+0 25 8 8 0
+#3124
+duck~
+the duck~
+A duck is here, quacking happily.
+~
+The duck is quite fat.  It looks like it is enjoying life.
+~
+0 0 64 0 1000  S
+1 20 10 2d6+5
+400 500 100 1d4+0 -1
+-1
+-1
+0 75 8 8 0
+#3140
+chief~
+the Chief Guard~
+The Chief Guard is looking very upset.
+~
+A very angry chief.
+~
+1 4 38 8 800  S
+17 14 1 1d12+210
+400 500 100 1d8+18 -1
+-1
+-1
+0 10000 8 8 1
+#3141
+cityguard guard~
+the upset cityguard~
+A cityguard stands here, looking very upset.
+~
+A big, strong, angry guard.
+~
+1 4 38 0 1000  S
+10 17 2 1d12+123
+400 500 100 1d8+3 -1
+-1
+-1
+0 3000 8 8 1
+#3142
+secretary~
+the Secretary~
+A secretary is sitting at the desk, typing away on the typewriter.
+~
+She looks very busy.
+
+>
+The Secretary says 'Sorry, but the Mayor is extremely busy today.'
+The Secretary says 'Please sit down and have a seat in the meantime.'
+~
+1 1 2 0 900  S
+12 18 2 1d12+148
+400 500 100 2d7+1 -1
+-1
+-1
+100 2000 8 8 2
+#3143
+mayor~
+the Mayor~
+The Mayor is sitting in his huge chair, snoring loudly.
+~
+He is a stocky, middle-aged man with thin, grey hair.
+~
+1 4 2051 8 1000  S
+24 12 -4 6d10+790
+400 500 100 1d8+18 -1
+-1
+-1
+1000 58000 4 4 1
+#3144
+crier~
+the Town Crier~
+The Town Crier is here, weeping quietly.
+~
+He is very good at his job - completely dissolved in tears.
+~
+1 4 128 0 900  S
+1 20 9 2d6+10
+400 500 100 1d5+0 -1
+-1
+-1
+34 100 8 8 1
+#99999
+$~

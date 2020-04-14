@@ -1,0 +1,464 @@
+#16100
+grey glyph key~
+a grey glyph~
+A grey glyph lies here.~
+~
+18 1 0 0 ao
+2 0 0 0 0 255
+2 100 100000
+#16101
+obsidian glyph key~
+an obsidian glyph~
+An obsidian glyph lies here.~
+~
+18 1 0 0 ao
+2 0 0 0 0 255
+2 100 100000
+#16102
+ivory glyph key~
+an ivory glyph~
+An ivory glyph lies here.~
+~
+18 1 0 0 ao
+2 0 0 0 0 255
+2 100 10000
+#16103
+ebony kris~
+the ebony kris~
+A wavy bladed knife made of ebony is here.~
+~
+5 90 bfj g an
+0 10 5 11 0 0
+9 60000 5000
+A
+18 10
+A
+19 10
+#16104
+sword~
+Conans two-handed sword~
+A huge two-handed sword lies here.~
+~
+5 75 abcefgijklmos 0 an
+0 4 20 2 0 0
+0 0 0
+A
+1 5
+A
+5 5
+#16105
+belt stone~
+a stone belt~
+A belt made of stone is laying here.~
+~
+9 60 0 g al
+10 0 0 0 0 0
+0 0 0
+A
+13 50
+#16106
+green scale shirt~
+a tight fitting green dragon scale shirt~
+Some green dragon scales which have been sewn together are here.~
+~
+9 90 hknop g ad
+35 0 0 0 0 0
+15 50000 10000
+E
+green scale shirt~
+Green dragon scale shirt was made from a poor unfortunate green dragon.
+~
+A
+12 100
+A
+12 100
+#16107
+wand red~
+a red wand~
+A red wand is laying here.~
+~
+3 60 cdhklnops g ao
+60 10 10 88 0 0
+10 15000 5000
+#16108
+gem bluring~
+a bluring gem~
+A strange gem lies here.~
+~
+4 60 cdhklnops g ao
+60 5 5 80 0 0
+6 10000 100
+#16109
+staff~
+a red-blue staff~
+A red and blue staff lies here.~
+~
+4 60 cdhklnops fg ao
+70 5 5 61 0 0
+10 17000 1000
+#16121
+cabinet silver~
+a silver chased cabinet~
+A large cabinet with a silver finish is here.~
+~
+15 0 0 0 0
+5000 15 16125 0 0 0
+10000 1 1
+#16122
+cabinet silver~
+a silver chased cabinet~
+A large cabinet with a silver finish is here.~
+~
+15 0 0 0 0
+5000 15 16125 0 0 0
+10000 1 1
+#16125
+silvery key~
+a silvery key~
+A silvery key has been left here.~
+~
+18 0 0 0 a
+2 0 0 0 0 255
+1 10000 10000000
+#16131
+cauldron black~
+a black cauldron~
+A large black cauldron is here bubbling.~
+~
+15 0 0 0 0
+1000 0 -1 0 0 0
+5000 5000 500000
+#16132
+wings~
+a small pair of bat wings~
+A small pair of bat wings is here.~
+~
+10 1 0 g a
+30 45 51 -1 0 0
+2 1 1
+#16133
+eye eyeball~
+a juice-filled eyeball~
+An eyeball filled with liquid has been left here.~
+~
+10 1 0 g ao
+30 19 44 47 0 0
+1 1 1
+#16134
+book tome~
+the book of magic~
+An enormous book is lying open here.~
+~
+15 0 0 a 0
+500 0 -1 0 0 0
+5000 500000 500000
+#16135
+spectacles glasses~
+a pair of spectacles~
+A pair of wire-rimmed spectacles has been left here.~
+~
+9 60 0 g ae
+0 0 0 0 0 0
+4 10000 5000
+A
+3 3
+A
+4 3
+#16136
+altar~
+a golden altar~
+~
+~
+15 0 0 0 0
+1000 5 -1 0 0 0
+5000 1 1
+#16137
+medallion heart~
+a heart shaped medallion~
+A heart shaped medallion is here.~
+~
+9 90 0 g ac
+20 0 0 0 0 0
+3 10000 1000
+#16138
+chest~
+a large chest~
+A large chest is here.~
+~
+15 0 0 ag 0
+2000 1 -1 0 0 0
+5000 500000 5000000
+#16139
+key intricate~
+an intricately carved key~
+An intricately carved key has been left here.~
+~
+18 1 0 ag ao
+2 0 0 0 0 255
+1 10000 1000000
+A
+24 -1
+#16141
+cloak brown~
+a brown cloak~
+A travel worn cloak has carelessly been left here.~
+~
+9 30 0 g ac
+10 0 0 0 0 0
+5 2000 250
+A
+24 10
+A
+14 100
+#16142
+chameleon poncho~
+a chameleon poncho~
+Some multicolored cloth is on the ground here.~
+~
+9 30 0 g ak
+10 0 0 0 0 0
+4 15000 5000
+A
+14 50
+#16143
+boots worn~
+a pair of old boots~
+A pair of old boots is here, they look very comfortable.~
+~
+9 30 0 g ag
+5 0 0 0 0 0
+2 3500 900
+A
+14 100
+#16144
+ring seashell~
+a seashell ring~
+A small seashell has been left here.~
+~
+9 30 0 g ab
+5 0 0 0 0 0
+2 6500 1100
+A
+14 100
+#16145
+backpack leather~
+a leather backpack~
+A leather backpack is here.~
+~
+15 1 0 0 ako
+250 0 -1 0 0 0
+9 750 50
+#16174
+belt holster~
+a holstered belt~
+A holstered belt is here.~
+~
+15 1 0 g al
+120 0 -1 0 0 0
+6 3000 20
+#16176
+chisel runed~
+a runed chisel~
+A runed chisel is here.~
+~
+5 60 bfj ag an
+0 4 10 11 0 0
+8 5000 500
+A
+18 5
+A
+19 5
+#16177
+pouch belt beltpouch~
+a beltpouch~
+A beltpouch is here.~
+~
+15 1 0 0 al
+100 0 -1 0 0 0
+750 3000 200
+#16179
+cowl dark~
+a dark cowl~
+A dark cowl is here.~
+~
+9 60 abcdhklnops gj ac
+15 0 0 0 0 0
+5 1200 400
+#16181
+club~
+a huge spiked club~
+A huge spiked club has been left here.~
+~
+5 50 abcefgijkms 0 an
+0 4 15 6 0 0
+20 4000 2000
+A
+19 5
+#16182
+robe grey~
+a grey robe~
+A pile of grey cloth has been left here.~
+~
+9 65 abcdhklnops gjk ad
+30 0 0 0 0 0
+8 5000 750
+#16183
+cloak grey~
+a long grey cloak~
+A pile of grey cloth has been left here.~
+~
+9 80 cdop gjk ac
+10 0 0 0 0 0
+7 12000 1200
+A
+12 100
+#16184
+bracelet silver~
+a glinting silver bracelet~
+A glinting hoop of silvery metal is here.~
+~
+9 65 0 0 am
+10 0 0 0 0 0
+5 5000 500
+A
+18 2
+A
+19 1
+#16186
+minor ward cube clear~
+a ward minor~
+A small clear cube is sitting here.~
+~
+9 80 abcdhklnops ag ao
+0 0 0 0 0 0
+5 5000 1000
+A
+17 -10
+#16187
+robe black~
+a black robe~
+A pile of black cloth is on the ground here.~
+~
+9 65 abcdhklnops gjl ad
+30 0 0 0 0 0
+8 5000 750
+#16188
+bracelet onyx~
+an onyx bracelet~
+A hoop of black onyx is here.~
+~
+9 65 0 g am
+10 0 0 0 0 0
+6 8500 850
+A
+19 3
+#16189
+cloak black dark~
+a dark black cloak~
+A pile of black cloth is on the ground here.~
+~
+9 80 cdop gjl ac
+15 0 0 0 0 0
+8 9000 950
+A
+18 2
+A
+19 2
+#16190
+shard black obsidian~
+a sharp shard of obsidian~
+A piece of black glass is here.~
+~
+5 80 bfj j an
+0 4 12 11 0 0
+8 12000 2000
+A
+18 3
+A
+19 8
+#16191
+robe white~
+a white robe~
+A pile of white cloth is on the ground here.~
+~
+9 65 abcdhklnops gkl ad
+30 0 0 0 0 0
+7 7500 750
+#16192
+bracelet white gold~
+a white gold bracelet~
+A hoop of silvery metal is here.~
+~
+9 65 0 g am
+10 0 0 0 0 0
+5 5000 1000
+A
+18 3
+#16193
+cloak white~
+a white cloak~
+A pile of white cloth is on the ground here.~
+~
+9 80 cdop gikl ac
+15 0 0 0 0 0
+7 9000 1500
+A
+13 100
+#16194
+ivory dagger~
+an ivory hilted dagger~
+An ivory hilted dagger has been left here.~
+~
+5 100 0 gik an
+0 4 12 11 0 0
+8 12000 1500
+A
+18 5
+A
+19 5
+#16195
+collar spiked~
+a spiked collar~
+A small spiked collar is here.~
+~
+9 65 0 g ac
+0 0 0 0 0 0
+9 10000 5000
+A
+19 5
+#16197
+ring wizardry~
+the ring of wizardry~
+A small ring lies on the ground here.~
+~
+3 90 abcdefhjklnops g abo
+90 4 4 75 0 0
+5 50000 10000
+A
+17 -10
+A
+12 100
+#16198
+bracelet wizardry~
+the bracelet of wizardry~
+A beautifully crafted hoop of emerald is here.~
+~
+9 90 abcdfhjklnops g am
+10 0 0 0 0 0
+5 30000 3500
+A
+12 100
+A
+12 100
+#16199
+ward major clear crystal~
+a ward major~
+A large clear crystal cube is here.~
+~
+9 90 abcdhklnops ag ao
+0 0 0 0 0 0
+6 20000 2000
+A
+17 -20
+#99999
+$~

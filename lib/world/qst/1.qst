@@ -1,0 +1,108 @@
+#1
+The newbie test Quest.~
+   Harold the Undertaker is very annoyed over the fact that all the fidos in
+the city is ruining his trade by eating all the corpses, making the need for
+burials unnecessary.  If you kill six fidos he will pay you handsomely.
+   But only those fidos from the City of Midgaard.  The fidos from New Sparta
+look different and don't count.  Return to Harold and greet him to get your
+reward.
+~
+1 114 60
+0 0 0 3062 0 1 0
+OK man, you've killed first fido.
+~
+S
+0 0 0 3062 0 1 0
+OK man, you've killed second fido.
+~
+S
+0 0 0 3062 0 1 0
+OK man, you've killed third fido.
+~
+S
+0 0 0 3062 0 1 0
+OK man, you've killed forth fido.
+~
+S
+0 0 0 3062 0 1 0
+OK man, you've killed fifth fido.
+~
+S
+0 0 0 3062 0 1 0
+OK man, you've killed last fido. Now return to Harold and greet him.
+~
+S
+0 0 0 3016 264 2 63
+Harold the Undertaker says 'Thanks man, I appriciate it.'
+He adds 'My friend the Grocer will pay you.'
+~
+S
+3010 30 0 3002 264 2 127
+The Grocer says 'Hello.  Yes my friend Harold told me to give you something.'
+He gets a bag and tosses it at your feet.
+~
+O 0 3032 999 3010
+P 1 6007 999 3032
+S
+-1
+1 100
+2 3000
+-1
+#2
+Papa Smurf needs help.~
+   Papa Smurf had proclaimed that he need help with a problem he's been having.
+Go and talk to him and see if you can help him.
+~
+5 20 60
+0 0 0 3810 264 2 0
+Papa Smurf greets you sadly.  He tells you that one of his smurfs has been
+captured by Gargamel, and is now kept imprisoned at his castle.  Will you help
+him free his smurf, so that they can again smurf their smurfs together?
+You will probably have to kill both Gargamel and his cat Azreal.
+~
+S
+0 38 0 3811 0 1 1
+You have killed the slimebag Gargamel.
+~
+M 0 3801 999 3828
+S
+0 38 0 3812 0 1 1
+You have killed the furball Azreal.  Good work!
+~
+S
+0 38 0 3801 264 2 7
+The smurfs thanks you for freeing him.
+He says 'Go to my smurfy Papa Smurf and he'll smurf you a smurf you never
+smurfed.'
+~
+S
+0 38 0 3810 264 2 7
+Papa Smurf smiles at you.  'Thank you valiant friend.  How can I ever thank you
+enough?  I know.  In my house there is something you can have.  Just get it and
+it is yours.'
+~
+O 0 3802 999 3825
+O 0 6511 999 3825
+S
+-1
+1 200
+-1
+#99
+Another of these funny quests.~
+This quest is quite long and hard to perform.  You have to go around the world
+asking people about things and based on the clues that you gain, you will find
+out where IO has his toilet.  This may sound funny, but if you knew that IO
+keep his treasure in the toilet, you understand the meaning of this quest.
+   It is heard that some smurf knows something about this toilet.
+~
+40 90 120
+3801 38 3801 3801 0 0 0
+The smurf tells you the a minotaur named Xanthias may know something more.
+He is however kidnapped by a dragon, or so it was heard. Well move on.
+~
+M 0 17025 1 3801
+S
+-1
+-1
+#99999
+$~

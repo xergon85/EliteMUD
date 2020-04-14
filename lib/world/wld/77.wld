@@ -1,0 +1,1440 @@
+#7700
+In the High Grass~
+   You are standing in high grass that reaches up to your knees and
+dances gracefully in the gentle breeze. This green plain would nicely
+camouflage you and make you almost invisible to your foes until they 
+practically stepped on you. The plain stretches further on to the south 
+and to your east lies a small dark cave.
+~
+77 r 2
+D1
+To your east lies a small dark cave.
+~
+~
+0 -1 7701
+D2
+You see a single large oak tree standing in the distance.
+~
+~
+0 -1 7706
+S
+#7701
+The Cave of Kyre Banorg~
+   You are standing in a small dark cave and, with skeletons piled up 
+in each corner, the stench of death seems to be everywhere. What 
+horrible, vile creature could be responsible for this massacre? 
+Several astronomical drawings cover the east wall of the cave, glowing 
+with a soft blue light. The glow from the drawings gives the cave 
+an eerie atmosphere.
+~
+77 r 2
+D1
+The east wall of the cave is covered with astronomical drawings.
+~
+~
+2112 -1 7753
+D3
+To your west lies the entrance to this cave.
+~
+~
+0 -1 7700
+~
+E
+drawings astronomical~
+The design of the drawing looks very familiar to you. Several circles
+placed inside each other form some kind of elaborate symbol. You
+remember reading in an ancient book of wizardry a long time ago. You
+remember that this symbol calls upon the ultimate power in the
+universe, and is call the "Ultimate Magic Circle of Warding". Only the
+gods are able to manipulate this magical power.
+~
+S
+#7702
+Along the River bank~
+   A river flows east and south from here. You could either 
+follow the river eastwards along the bank or go on the river 
+and let the gentle currents carry you south. Dense vegetation 
+covers the river bank and the ground beneath your feet feels 
+soft making it awkward to move around. A steep rocky wall to 
+your west looks impossible to climb.
+~
+77 gr 2
+D1
+The river gently flows south.
+~
+~
+0 -1 7703
+D2
+The river bank continues south.
+~
+~
+0 -1 7708
+S
+#7703
+On the River~
+   Quietly, the river runs from north to south. On the east side
+of the river there is a dense forest and on the west, dense 
+vegetation grows. The water is clean and pure, but looking 
+downwards, you are unable to see the river bed. Who knows what
+kind of creature lurks down there?
+~
+77 r 6
+D1
+A dense forest covers the east river bank.
+~
+~
+0 -1 7704
+D2
+The river gently flows south.
+~
+~
+0 -1 7709
+D3
+Dense vegetation covers the west river bank.
+~
+~
+0 -1 7702
+D5
+It is too dark down there to make out anything.
+~
+~
+0 -1 7738
+S
+#7704
+In the Heavy Woods~
+   You are standing in a dense forest composed mainly of oak trees.
+Lots of leaves have fallen from the trees and lie all over the forest 
+floor, although enough remain on the trees to hide a stealthy assailant.
+These oak trees are not really very large, but further to the east you 
+can make out some truly ancient ones. Through the branches to the west 
+you can make out a river, winding its way southwards.
+~
+77 r 3
+D1
+You can make out some ancient trees to the east.
+~
+~
+0 -1 7705
+D2
+The river gently continues south.
+~
+~
+0 -1 7710
+D3
+The river gently flows south.
+~
+~
+0 -1 7703
+S
+#7705
+In the Heavy Woods~
+   You are standing in a dense forest composed mainly of oak trees.
+Lots of leaves have fallen from the trees and lie all over the forest 
+floor, although enough remain on the trees to hide a stealthy assailant.
+The forest continues further to the south and west.
+~
+77 r 3
+D2
+You can only make out more trees to the south.
+~
+~
+2112 -1 7711
+D3
+You can only make out more trees to the west.
+~
+~
+0 -1 7704
+D4
+You could hide up in that large oak tree.
+~
+~
+0 -1 7735
+S
+#7706
+In the High Grass~
+   You are standing in high grass that reaches up to your knees and
+dances gracefully in the gentle breeze. This green plain would nicely 
+camouflage you and make you almost invisible to your foes until they 
+practically stepped on you. The plain stretches further in every 
+direction, and to the south you can see a large oak tree.
+~
+77 r 2
+D0
+The vast green plain stretches on further to the north.
+~
+~
+0 -1 7700
+D1
+The vast green plain stretches on further to the east.
+~
+~
+0 -1 7707
+D2
+A lonely oak tree stands south of you.
+~
+~
+0 -1 7712
+S
+#7707
+In the High Grass~
+   You are standing in high grass that reaches up to your knees and
+dances gracefully in the gentle breeze. This green plain would nicely 
+camouflage you and make you almost invisible to your foes until they 
+practically stepped on you. The plain stretches further to the west, 
+and to the east you can see thick vegetation. The way north is 
+blocked by a steep rocky outcrop and further to the south is a small 
+hill.
+~
+77 r 2
+D1
+You see dense vegetation covering a river bank.
+~
+~
+0 -1 7708
+D2
+A small hill rises south of you.
+~
+~
+0 -1 7713
+D3
+The vast green plain stretches on further to the west.
+~
+~
+0 -1 7706
+S
+#7708
+Along the River Bank~
+   You stop alongside a wide river just to the east, which flows from 
+north to south. You can either follow the river or take the plunge and 
+swim eastwards, letting the currents take you south. Dense vegetation 
+covers both river banks and the ground beneath your feet feels soft 
+making it hard to move about. A vast green plain of grass lies to your 
+west while to the south a small hill peers down at you.
+~
+77 gr 2
+D0
+The river bank continues north.
+~
+~
+0 -1 7702
+D1
+The river takes a sharp turn to the east.
+~
+~
+0 -1 7709
+D2
+A small hill rises south of you.
+~
+~
+0 -1 7714
+D3
+A vast green plain of grass lies to your west.
+~
+~
+0 -1 7707
+S
+#7709
+On the River~
+   The river takes a sharp turn to the east here following around the 
+base of a small hill. Dense vegetation covers the west back of the 
+river, and on the eastern side you can see a dark forest. Although 
+the water is clean and pure, you cannot see very far downwards - who 
+knows what might lurk in the depths?
+~
+77 r 6
+D0
+The river arrives from the north and takes a sharp turn east.
+~
+~ 
+0 -1 7703
+D1
+The river continues east around the hill.
+~
+~
+0 -1 7710
+D2
+A small hill rises south of you.
+~
+~
+0 -1 7715
+D3
+Dense vegetation covers the west river bank.
+~
+~
+0 -1 7708
+D5
+It is too dark down there to make out anything.
+~
+~
+0 -1 7739
+S
+#7710
+On the River~
+   The river resumes its course south alongside the small hill. East 
+of the river is a dark forest, and the west bank is covered by thick 
+vegetation. Although the river water is clean and pure, you cannot 
+see very far downwards - who knows what might lurk in the depths?
+~
+77 r 6
+D0
+A dark forest grows on the river bank.
+~
+~
+0 -1 7704
+D1
+A dark forest grows on the river bank.
+~
+~
+2112 -1 7711
+D2
+The river gently flows south.
+~
+~
+0 -1 7716
+D3
+The river arrives from the west and continues south.
+~
+~
+0 -1 7709
+D5
+It is to dark down there to make out anything.
+~
+~
+0 -1 7740
+S
+#7711
+In the Heavy Woods~
+   You are standing in a dense forest, composed mainly of oak trees. 
+The ground beneath your feet is covered by a thick layer of fallen 
+leaves, although there are many still on the trees. Although these 
+trees are probably too weak to take your weight, there are some 
+sturdier looking trees further to the north. To the west, a wide 
+river flows south.
+~
+77 r 3
+D0
+You can make out some ancient trees to the north.
+~
+~
+0 -1 7705
+D2
+The forest continues south.
+~
+~
+0 -1 7717
+D3
+The river gently flows south.
+~
+~
+0 -1 7710
+D5
+You notice a small trapdoor hidden under some leaves.
+~
+trap trapdoor~
+1 -1 7741
+S
+#7712
+A Lonely Oak~
+   You are standing in high grass, which reaches as high as your 
+knees, dancing gracefully in the gentle breeze. This green plain 
+would nicely camouflage you and make you almost invisible to your 
+foes until they practically stepped on you. The grassy plain 
+continues to the north and south, and a small hill lies to the 
+east. A big old oak tree stands here completely isolated, and 
+would definitely make a nice hiding place for you.
+~
+77 r 2
+D0
+The vast green plain stretches on further to the north.
+~
+~
+0 -1 7706
+D1
+A small hill rises east of you.
+~
+~
+0 -1 7713
+D2
+The vast green plain stretches on further to the south.
+~
+~
+0 -1 7718
+D4
+You could hide up in that large oak tree.
+~
+~
+0 -1 7736
+S
+#7713
+Northwest Side of the Hill~
+   You are standing on the northwest side of a small hill. You can 
+either climb the hill or walk around it to the east or south. A 
+big solitary oak tree stands just west of here, and a wide grassy 
+plain spreads out to the north.
+~
+77 r 4
+D0
+A vast green plain of grass lies to your north.
+~
+~
+0 -1 7707
+D1
+The hill continues east.
+~
+~
+0 -1 7714
+D2
+The hill continues south.
+~
+~
+0 -1 7719
+D3
+A big solitary oak tree stands just west of here.
+~
+~
+0 -1 7712
+D4
+You see the top of the hill.
+~
+~
+0 -1 7737
+S
+#7714
+North Side of the Hill~
+   You are standing on the north side of a small hill. You can 
+either climb the hill or walk around it to the east or west. A 
+little further to the northeast you can see a river flowing gentle 
+southwards, and beyond the river is a dark forest.
+~
+77 r 4
+D0
+Dense vegetation covers the west river bank.
+~
+~
+0 -1 7708
+D1
+The hill continues east, looks muddy over there.
+~
+~
+0 -1 7715
+D3
+The hill continues west.
+~
+~ 
+0 -1 7713
+D4
+You see the top of the hill.
+~
+~
+0 -1 7737
+S
+#7715
+Northeast Side of the Hill~
+   You are standing on the northeast side of a small hill. You can 
+either climb the hill or walk around it to the south or west. A 
+river flows from the north, around this hill making the ground 
+beneath your feel very muddy. Be careful not to fall into the river!
+~
+77 r 4
+D0
+The river makes a hard turn east just before the hill.
+~
+~
+0 -1 7709
+D1
+The river gently flows south.
+~
+~
+0 -1 7716
+D2
+The hill continues south.
+~
+~
+0 -1 7720
+D3
+The hill continues west.
+~
+~
+0 -1 7714
+D4
+You see the top of the hill.
+~
+~
+0 -1 7737
+>push 10 1~
+You lose your balance and slide down the muddy hill side.
+~
+S
+#7716
+On the River~
+   The river flows quietly south. On the east bank is a dark forest, 
+and to the west you can see a small hill. The water is clean and 
+pure, but looking downwards, you are unable to see the river bed. 
+Who knows what kind of creature lurks down there?
+~
+77 r 6
+D0
+The river gently flows from north to south.
+~
+~
+0 -1 7710
+D1
+On the east bank a dark forest grows.
+~
+~
+0 -1 7717
+D2
+The river gently flows south.
+~
+~
+0 -1 7721
+D3
+A small hill rises west of you.
+~
+~
+0 -1 7715
+D5
+It is too dark down there to make out anything.
+~
+~
+0 -1 7746
+S
+#7717
+In the Heavy Woods~
+   You are standing in a dense forest, composed mainly of oak trees. 
+The ground beneath your feet is covered by a thick layer of fallen 
+leaves, although there are many still on the trees. Although these 
+trees are probably too weak to take your weight, there are some 
+sturdier looking trees further to the north. In the distance you can
+see some big oak trees, while east beyond the trees there is a 
+river. To the south, the forest becomes a grassy plain.
+~
+77 r 3
+D0
+You notice some ancient oak trees to the north.
+~
+~
+2112 -1 7711
+D2
+To the south, the forest becomes a grassy plain.
+~
+~
+0 -1 7722
+D3
+The river gently flows south. 
+~
+~
+0 -1 7716
+S
+#7718
+Standing in the High Grass~
+   You are standing in high grass that reaches up to your knees and
+dances gracefully in the gentle breeze. This green plain would nicely 
+camouflage you and make you almost invisible to your foes until they 
+practically stepped on you. The plain stretches further to the north 
+and south, and to the east you can see a small hill. To the north you
+can see a big oak tree, standing alone.
+~
+77 r 2
+D0
+To the north you can see a big oak tree, standing alone.
+~
+~
+0 -1 7712
+D1
+A small hill rises east of you.
+~
+~
+0 -1 7719
+D2
+The vast green plain stretches on further to the south.
+~
+~
+0 -1 7723
+S
+#7719
+West Side of the Hill~
+   You are standing on the west side of a small hill. You can either 
+walk up the hill or around it to the north and south. To the east is 
+a wide grassy plain.
+~
+77 r 4
+D0
+The hill continues north.
+~
+~
+0 -1 7713
+D2
+A large flat stone slab lies south on the hill side.
+~
+~
+0 -1 7724
+D3
+A vast green plain of grass lies to your west.
+~
+~
+0 -1 7718
+D4
+You see the top of the hill.
+~
+~
+0 -1 7737
+S
+#7720
+East Side of the Hill~
+   You are standing on the east side of a small hill. You can either 
+walk up the hill or walk around it to the north or south. To the east
+a river runs, making this bank slippery with mud. If you are not 
+careful you might slip into the river.
+~
+77 r 4
+D0
+The hill continues north.
+~
+~
+0 -1 7715
+D1
+The river gently flows south.
+~
+~
+0 -1 7721
+D2
+The hill continues west.
+~
+~
+0 -1 7726
+D4
+You see the top of the hill.
+~
+~
+0 -1 7737
+>push 10 1~
+You lose your balance and slide down the muddy hill side.
+~
+S
+#7721
+On the River~
+   Quietly, the river runs from north to south. On the east side
+of the river grows a plain of long grass and on the west, dense 
+vegetation grows. The water is clean and pure, but looking 
+downwards, you are unable to see the river bed. Who knows what
+kind of creature lurks down there?
+~
+77 r 6
+D0
+The river gently flows from north to south.
+~
+~
+0 -1 7716
+D1
+On the east river bank grows a plain of long green grass.
+~
+~
+0 -1 7722
+D2
+The river gently flows south.
+~
+~
+0 -1 7727
+D3
+A hill rises west of you.
+~
+~
+0 -1 7720
+D5
+It is too dark down there to make out anything.
+~
+~
+0 -1 7749
+S
+#7722
+In the High Grass~
+   You are standing in high grass that reaches up to your knees and
+dances gracefully in the gentle breeze. This green plain would  
+camouflage you nicely and make you almost invisible to your foes 
+until they practically stepped on you. The plain stretches further to 
+the south, and to the north of you lies a dense forest. To the west 
+you can see a wide river, flowing south.
+~
+77 r 2
+D0
+To your north lies a dense forest.
+~
+~
+0 -1 7717
+D2
+The vast green plain stretches on further to the south.
+~
+~
+0 -1 7728
+D3
+The river gently flows south.
+~
+~
+0 -1 7721
+S
+#7723
+In the High Grass~
+   You are standing in high grass that reaches up to your knees and
+dances gracefully in the gentle breeze. This green plain would
+camouflage you nicely and make you almost invisible to your foes 
+until they practically stepped on you. The plain stretches further to 
+the north and south and a small hill raises to your east.
+~
+77 r 2
+D0
+The vast green plain stretches on further to the north.
+~
+~
+0 -1 7718
+D1
+A hill rises to your east.
+~
+~
+0 -1 7724
+D2
+The vast green plain stretches on further to the south.
+~
+~
+0 -1 7729
+S
+#7724
+Southwest Side of the Hill~
+   You are standing on the southwest side of a small hill, you can
+climb the hill, or try going around it to the north or east. An vast 
+grassy plain stretches in every direction. A large flat stone slab 
+lies on the floor here.
+~
+77 r 4
+D0
+The hill continues north.
+~
+~
+0 -1 7719
+D1
+The hill continues east.
+~
+~
+0 -1 7725
+D2
+A vast green plain of grass lies to your south.
+~
+~
+0 -1 7730
+D3
+A vast green plain of grass lies to your west.
+~
+~
+0 -1 7723
+D4
+You see the top of the hill.
+~
+~
+0 -1 7737
+D5
+A large big flat stone slab lies here on the floor, it seems like it 
+has been moved recently.
+~
+stone slab~
+1 -1 7750
+E
+stone slab~
+A large big flat stone slab lies here on the floor, it seems like it    
+has been moved recently.
+~
+S
+#7725
+South Side of the Hill~
+   You are standing on the south side of a small hill, you can
+climb the hill or walk around it to the east or west. A vast grassy
+plain stretches in every direction as far as the eye can see.
+~
+77 r 4
+D1
+The hill continues east, looks muddy over there.
+~
+~
+0 -1 7726
+D2
+A vast green plain of grass lies to your south.
+~
+~
+0 -1 7731
+D3
+The hill continues west.
+~
+~
+0 -1 7724
+D4
+You see the top of the hill.
+~
+~
+0 -1 7737
+S
+#7726
+Southeast Side of the Hill~
+   You are standing on the southeast side of a small hill, you can
+climb the hill or walk around it to the north or west. A vast grassy
+plain lies to your south and to your east is a river. The river has
+made this side of the hill muddy and very slippery.
+~
+77 r 4
+D0
+The hill continues north.
+~
+~
+0 -1 7720
+D1
+The river gently flows south.
+~
+~
+0 -1 7727
+D2
+A bridge over the river lies southeast from here.
+~
+~
+0 -1 7732
+D3
+The hill continues west.
+~
+~
+0 -1 7725
+D4
+You see the top of the hill.
+~
+~
+0 -1 7737
+>push 10 1~
+You lose your balance and slide down the muddy hill side.
+~
+S
+#7727
+On the River~
+   Quietly, the river runs from north to south. On the east side
+of the river there tall grass dances in the breeze and to the west
+stands a small hill. The water is clean and pure, but looking 
+downwards, you are unable to see the river bed. Who knows what
+kind of creature lurks down there?
+~
+77 r 6
+D0
+The river gently flows from north to south.
+~
+~
+0 -1 7721
+D1
+On the east river bank grows a plain of long green grass.
+~
+~
+0 -1 7728
+D2
+The river gently flows south.
+~
+~
+0 -1 7733
+D3
+A hill rises west of you.
+~
+~
+0 -1 7726
+D5
+It is too dark down there to make out anything.
+~
+~
+0 -1 7751
+S
+#7728
+In the High Grass~
+   You are standing in high grass that reaches up to your knees and
+dances gracefully in the gentle breeze. This green plain would camouflage 
+you nicely and make you almost invisible to your foes until they 
+practically stepped on you. The plain stretches further to the north
+and south.
+~
+77 r 2
+D0
+The vast green plain stretches on further to the north.
+~
+~
+0 -1 7722
+D2
+A bridge over the river lies southwest from here.
+~
+~
+0 -1 7734
+D3
+The river gently flows south.
+~
+~
+0 -1 7727
+S
+#7729
+In the High Grass~
+   You are standing in high grass that reaches up to your knees and
+dances gracefully in the gentle breeze. This green plain would camouflage 
+you nicely and make you almost invisible to your foes until they 
+practically stepped on you. The plain stretches further to the north
+and east. To the northeast you can see a small hill.
+~
+77 r 2
+D0
+The vast green plain stretches on further to the north.
+~
+~
+0 -1 7723
+D1
+The vast green plain stretches on further to the east.
+~
+~
+0 -1 7730
+S
+#7730
+In the High Grass~
+   You are standing in high grass that reaches up to your knees and
+dances gracefully in the gentle breeze. This green plain would camouflage 
+you nicely and make you almost invisible to your foes until they 
+practically stepped on you. The plain stretches further to the east
+and west. To the north you can see a small hill.
+~
+77 r 2
+D0
+A hill rises north of you.
+~
+~
+0 -1 7724
+D1
+The vast green plain stretches on further to the east.
+~
+~
+0 -1 7731
+D3
+The vast green plain stretches on further to the west.
+~
+~
+0 -1 7729
+S
+#7731
+In the High Grass~
+   You are standing in high grass that reaches up to your knees and
+dances gracefully in the gentle breeze. This green plain would camouflage 
+you nicely and make you almost invisible to your foes until they 
+practically stepped on you. The plain stretches further to the east
+and west. To the north you can see a small hill.
+~
+77 r 2
+D0
+A hill rises north of you.
+~
+~
+0 -1 7725
+D1
+The vast green plain stretches on further to the east.
+~
+~
+0 -1 7732
+D3
+The vast green plain stretches on further to the west.
+~
+~
+0 -1 7730
+S
+#7732
+In the High Grass~
+   You are standing in high grass that reaches up to your knees and
+dances gracefully in the gentle breeze. This green plain would camouflage 
+you nicely and make you almost invisible to your foes until they 
+practically stepped on you. The plain stretches further to the west 
+and to the east a bridge spans the river. To the north you can see a 
+small hill.
+~
+77 gr 2
+D0
+A hill rises north of you.
+~
+~
+0 -1 7726
+D1
+A bridge over the river lies just east from you.
+~
+~
+0 -1 7733
+D3
+The vast green plain stretches on further to the west.
+~
+~
+0 -1 7731
+S
+#7733
+A Bridge over the River~
+   You are standing on a bridge that crosses the river. As you lean over 
+the side of the bridge and look into the water you are struck by how 
+clean and pure the water is. However, the water becomes dark and you are 
+unable to see any further than a couple of feet into the depths. The 
+bridge supports plunge into the water below you, making a good hiding 
+place. On both sides of the bridge a wide grassy plain stretches as far as 
+the eye can see.
+~
+77 r 2
+D0
+Gently the river flows from north to south.
+~
+~
+0 -1 7727
+D1
+A vast green plain of grass lies to your east.
+~
+~
+0 -1 7734
+D3
+A vast green plain of grass lies to your west.
+~
+~
+0 -1 7732
+S
+#7734
+In the High Grass~
+   You are standing in high grass that reaches up to your knees and
+dances gracefully in the gentle breeze. This green plain would camouflage 
+you nicely and make you almost invisible to your foes until they 
+practically stepped on you. The plain stretches further to the north
+and to the west a bridge spans the river.
+~
+77 r 2
+D0
+The vast green plain stretches on further to the north.
+~
+~
+0 -1 7728
+D3
+A bridge over the river lies just west from you.
+~
+~
+0 -1 7733
+S
+#7735
+Up in a Large Oak Tree~
+   You are standing on a sturdy oak branch, with red and brown leaves
+tumbling to the ground as you shuffle about. You can see a river a little
+further on to the west meandering from north to south. On the far side
+of the river you can see a small hill.
+~
+77 r 5
+D5
+If you could get that damn branch out of your face you might see something.
+~
+~
+0 -1 7705
+S
+#7736
+Up in a Large Oak Tree~
+   You are standing on a sturdy oak branch, with red and brown leaves
+tumbling to the ground as you shuffle about. There is a small hill 
+just to the east, and to the north you notice a little cave.
+~
+77 r 5
+D5
+If you could get that damn branch out of your face you might see something.
+~
+~
+0 -1 7712
+S
+#7737
+The Top of the Hill~
+   As you reach the top of the hill you stop and look around you. Your
+eyes wander across the landscape, searching out you foes. You notice
+a small cave lying just to the north and looking further eastwards 
+a river flows from north to south. As your eyes follow the river south, 
+you see a bridge, and on the far side a dense forest. To the west, a
+large oak tree stands isolated on a vast green plain.
+~
+77 r 5
+D0
+You notice a small cave lying just to the north.
+~
+~
+0 -1 7714
+D1
+You see a river gently flowing from north to south, on the far side is
+dense forest.
+~
+~
+0 -1 7720
+D2
+A bridge over the river lies a little further southeast from the hill.
+~
+~
+0 -1 7725
+D3
+You only see a large oak tree standing isolated.
+~
+~
+0 -1 7719
+S
+#7738
+In the River~
+   You are diving underwater in the river. Long green weeds reach up
+from the river bed hiding you from anyone who might be looking for
+you in the water.
+~
+77 r 8
+D2
+Weed, weed, weed, everywhere you look weed.
+~
+~
+0 -1 7739
+D4
+It's hard to make out anything above the water.
+~
+~
+0 -1 7703
+S
+#7739
+In the River~
+   You are diving underwater in the river. Long green weeds reach up
+from the river bed hiding you from anyone who might be looking for
+you in the water.
+~
+77 r 8
+D0
+Weed, weed, weed, everywhere you look weed.
+~ 
+~
+0 -1 7738
+D1
+Weed, weed, weed, everywhere you look weed.
+~
+~
+0 -1 7740
+D4
+It's hard to make out anything above the water.
+~
+~
+0 -1 7709
+S
+#7740
+In the River~
+   You are diving underwater in the river. Long green weeds reach up
+from the river bed hiding you from anyone who might be looking for
+you in the water.
+~
+77 r 8
+D2
+Weed, weed, weed, everywhere you look weed.
+~ 
+~
+0 -1 7746
+D3
+Weed, weed, weed, everywhere you look weed.
+~
+~
+0 -1 7739
+D4
+It's hard to make out anything above the water.
+~
+~
+0 -1 7710
+S
+#7741
+Inside a Small Tunnel~
+  You are crouched inside a cramped dusty tunnel. Dirt rains down from
+ceiling as you crawl slowly forward. Roots growing down from above wrap
+themselves around your limbs, and get into your eyes. Although low, the 
+tunnel is wide enough for two people to pass each other. A small 
+trapdoor above your head leads out of the tunnel.
+~
+77 r 4
+D2
+The tunnel disappears into the darkness.
+~
+~
+0 -1 7747
+D4
+A small trapdoor that leads out of this tunnel is situated just above
+your head.
+~
+trap trapdoor~
+1 -1 7711
+S
+#7742
+Inside a Small Tunnel~
+  You are crouched inside a cramped dusty tunnel. Dirt rains down from
+ceiling as you crawl slowly forward. Roots growing down from above wrap
+themselves around your limbs, and get into your eyes. Although low, the 
+tunnel is wide enough for two people to pass each other. 
+~
+77 r 4
+D1
+The tunnel disappears into the darkness.
+~
+~
+0 -1 7743
+D2
+The tunnel disappears into the darkness.
+~
+~
+0 -1 7748
+S
+#7743
+Inside a Small Tunnel~
+  You are crouched inside a cramped dusty tunnel. Dirt rains down from
+ceiling as you crawl slowly forward. Roots growing down from above wrap
+themselves around your limbs, and get into your eyes. Although low, the 
+tunnel is wide enough for two people to pass each other. 
+~
+77 r 4
+D1
+The tunnel disappears into the darkness.
+~
+~
+2112 -1 7744
+D3
+The tunnel disappears into the darkness.
+~
+~
+0 -1 7742
+S
+#7744
+Inside a Small Tunnel~
+  You are crouched inside a cramped dusty tunnel. Dirt rains down from
+ceiling as you crawl slowly forward. Roots growing down from above wrap
+themselves around your limbs, and get into your eyes. Although low, the 
+tunnel is wide enough for two people to pass each other. 
+~
+77 r 4
+D1
+The tunnel disappears into the darkness.
+~
+~
+0 -1 7745
+D3
+The tunnel disappears into the darkness.
+~
+~
+0 -1 7743
+S
+#7745
+Inside a Small Tunnel~
+  You are crouched inside a cramped dusty tunnel. Dirt rains down from
+ceiling as you crawl slowly forward. Roots growing down from above wrap
+themselves around your limbs, and get into your eyes. Although low, the 
+tunnel is wide enough for two people to pass each other. 
+~
+77 r 4
+D1
+The tunnel disappears into the darkness.
+~
+~
+0 -1 7747
+D3
+The tunnel disappears into the darkness.
+~
+~
+0 -1 7744
+S
+#7746
+In the River~
+   You are diving underwater in the river. Long green weeds reach up
+from the river bed hiding you from anyone who might be looking for
+you in the water.
+~
+77 r 8
+D0
+Weed, weed, weed, everywhere you look weed.
+~
+~
+0 -1 7740
+D2
+Weed, weed, weed, everywhere you look weed.
+~
+~
+0 -1 7749
+D4
+It's hard to make out anything above the water.
+~
+~
+0 -1 7716
+S
+#7747
+Inside a Small Tunnel~
+  You are crouched inside a cramped dusty tunnel. Dirt rains down from
+ceiling as you crawl slowly forward. Roots growing down from above wrap
+themselves around your limbs, and get into your eyes. Although low, the 
+tunnel is wide enough for two people to pass each other. 
+~
+77 r 4
+D0
+The tunnel disappears into the darkness.
+~
+~
+0 -1 7741
+D3
+The tunnel disappears into the darkness.
+~
+~
+0 -1 7745
+S
+#7748
+Inside a Small Tunnel~
+  You are crouched inside a cramped dusty tunnel. Dirt rains down from
+ceiling as you crawl slowly forward. Roots growing down from above wrap
+themselves around your limbs, and get into your eyes. Although low, the 
+tunnel is wide enough for two people to pass each other. 
+~
+77 r 4
+D0
+The tunnel disappears into the darkness.
+~
+~
+0 -1 7742
+D2
+The tunnel disappears into the darkness.
+~
+~
+0 -1 7750
+S
+#7749
+In the River~
+   You are diving underwater in the river. Long green weeds reach up
+from the river bed hiding you from anyone who might be looking for
+you in the water.
+~
+77 r 8
+D0
+Weed, weed, weed, everywhere you look weed.
+~
+~
+0 -1 7746
+D2
+Weed, weed, weed, everywhere you look weed.
+~
+~
+0 -1 7751
+D4
+It's hard to make out anything above the water.
+~
+~
+0 -1 7721
+S
+#7750
+Inside a Small Tunnel~
+  You are crouched inside a cramped dusty tunnel. Dirt rains down from
+ceiling as you crawl slowly forward. Roots growing down from above wrap
+themselves around your limbs, and get into your eyes. Although low, the 
+tunnel is wide enough for two people to pass each other. A wide flat
+stone above your head covers the exit from the tunnel.
+~
+77 r 4
+D0
+The tunnel disappears into the darkness.
+~
+~
+0 -1 7748
+D4
+A big flat stone that covers the exit that leads out of this tunnel is
+situated just above your head.
+~
+stone~
+1 -1 7724
+E
+stone~
+A big flat stone that covers the exit that leads out of this tunnel is
+situated just above your head.
+~
+S
+#7751
+In the River~
+   You are diving underwater in the river. Long green weeds reach up
+from the river bed hiding you from anyone who might be looking for
+you in the water.
+~
+77 r 8
+D0
+Weed, weed, weed, everywhere you look weed.
+~
+~
+0 -1 7749
+D2
+Weed, weed, weed, everywhere you look weed.
+~
+~
+0 -1 7752
+D4
+It's hard to make out anything above the water.
+~
+~
+0 -1 7727
+S
+#7752
+In the River~
+   You are diving underwater in the river. Long green weeds reach up
+from the river bed hiding you from anyone who might be looking for
+you in the water. A bridge across the river prevents you from
+surfacing here.
+~
+77 r 8
+D0
+Weed, weed, weed, everywhere you look weed.
+~
+~
+0 -1 7751
+S
+#7753
+The Nexus~
+   You are standing at a crossroads in time and space. Visions of 
+vast green plains, dense forests and a river running alongside a small 
+hill fill your mind. You feel as if you exist everywhere at the same
+time.
+~
+77 gr 0
+D0
+As you look north the possibilities of the Nexus rise in your mind you
+can travel to vast green plains or a river that runs alongside a small
+hill or choose to travel to an ancient oak forrest, that is if you can
+control the Nexus.
+~
+~
+0 -1 7710
+D1
+As you look east the possibilities of the Nexus rise in your mind you
+can travel to vast green plains or a river that runs alongside a small
+hill or choose to travel to an ancient oak forrest, that is if you can
+control the Nexus.
+~
+~
+0 -1 7720
+D2
+As you look south the possibilities of the Nexus rise in your mind you
+can travel to vast green plains or a river that runs alongside a small
+hill or choose to travel to an ancient oak forrest, that is if you can
+control the Nexus.
+~
+~
+0 -1 7730
+D3
+As you look west the possibilities of the Nexus rise in your mind you
+can travel to vast green plains or a river that runs alongside a small
+hill or choose to travel to an ancient oak forrest, that is if you can
+control the Nexus.
+~
+~
+0 -1 7740
+D4
+As you look up the possibilities of the Nexus rise in your mind you
+can travel to vast green plains or a river that runs alongside a small
+hill or choose to travel to an ancient oak forrest, that is if you can
+control the Nexus.
+~
+~
+0 -1 7750
+D5
+As you look down the possibilities of the Nexus rise in your mind you
+can travel to vast green plains or a river that runs alongside a small
+hill or choose to travel to an ancient oak forrest, that is if you can
+control the Nexus.
+~
+~
+0 -1 7752
+S
+#99999
+$~
+

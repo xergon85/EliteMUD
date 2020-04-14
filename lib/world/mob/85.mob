@@ -1,0 +1,406 @@
+#8500
+ninja warrior~
+the Ninja~
+A Ninja Warrior is on a quest to slay the Emperor.
+~
+The person in front of you is a ninja. He has been trained from birth as
+ an assassin and has no equal in this area. He is clad all in black and 
+ only his dark eyes are visible through the small slit in his mask. He 
+ whispers the word "Akukugara" and looks straight at you. A shiver runs 
+ down your spine as a voice that seems to come from nowhere echos 
+ "Prepare to die!".
+~
+1 4 2080 17040424 -50 S
+70 -12 -21 2d90+1100
+406 500 100 6d7+25        -1
+-1
+-1
+0 526666 8 8 1
+#8501
+monk~
+a Monk~
+A monk of the White Lotus has fled the temple
+~
+The man before you has a shaved head and wears loose fitting robes.
+ He is a peaceful and religious man, a monk who is a member of the
+ White Lotus. On his forearms he bares a tatoo of a Lotus Flower.
+ His life has been spent practising martial arts to improve his
+ self-control. You would be a fool to attack him as his temple has
+ been destroyed by the minions of the Evil Daimyo and he is not happy!
+~
+1 4 2336 16778272 50 S
+55 -9 -23 3d50+900
+400 500 100 5d5+25        -1
+-1
+-1
+1450 370000 8 8 1
+#8502
+sumo wrestler~
+a Sumo Wrestler~
+A Sumo wrestles to amuse the Emperor
+~
+This man is huge. He must weigh over 600 pounds! He is a sumo wrestler
+ and one of the Emperor's champions. He is here to provide the Emperor
+ with some amusement in these troubled times. You would not fare well
+ in a fight against him, if he sat on you it would probably kill you!
+~
+1 4 6146 536871040 100 S
+80 -6 -20 50d10+3000
+410 500 100 10d10+15      -1
+-1
+-1
+0 670000 8 8 1
+A
+%%20 emote wrestles the sumo wrestler to the floor.;
+%35 emote charges towards the sumo wrestler attempting to grab him.~
+#8503
+emperor nazaki~
+Emperor Nazaki~
+Emperor Nazaki sits here on his throne.
+~
+He is the Emperor of this peaceful land but of late there has been
+ much trouble. The man who acts directly under him- the Daimyo, has
+ rebelled and now controls evil forces which are bringing the Emperor's
+ land to it's knees. A powerful man and a great ruler- it is a shame
+ that this has happened.
+~
+1 4 2050 1064 200 S
+109 -60 -70 10d20+4500
+400 500 100 10d6+30       -1
+-1
+-1
+10000 1400000 8 8 1
+A
+%%30 cheer sumo;%50 say Why don't you join the fun?;%60 pat sumo~
+#8504
+rokoru kubi head~
+the Rokoru-Kubi~
+A disembodied head snaps its teeth at you.
+~
+Arrgghh, this is digusting. A human head has actually flown away from
+ its corpse and is flying towards you! It is a Rokoru-Kubi an undead
+ being, no doubt a direct result from it's slaughter by the Daimyo's
+ legion of death. It snaps its teeth at you and attacks. It hasn't
+ eaten for a while!
+~
+2 4 36 150996008 -100 S
+60 -10 -21 10d10+1000
+408 500 100 7d8+20        -1
+-1
+-1
+2500 420000 8 8 0
+#8505
+bakemono goblin~
+the Bakemono~
+A strange looking goblin eyes you curiously.
+~
+~
+1 4 4 1064 -70 S
+65 -8 -18 20d20+700
+407 500 100 5d8+18        -1
+-1
+-1
+1213 470000 8 8 0
+#8506
+o-bakemono o bakemono goblin~
+The O-Bakemono~
+A huge goblin towers over you.
+~
+This is a huge goblin, larger that even an ogre or troll and much more
+ dangerous. His green, scaly skin looks like it would act as good armour
+ and his huge fists look dangerous.
+~
+8 4 2086 16778408 -200 S
+80 -20 -30 20d10+1000
+401 500 100 8d8+30        -1
+-1
+-1
+5000 670000 8 8 1
+#8507
+totate kumo spider trapdoor~
+the Totate Kumo~
+A giant trapdoor spider leaps at you.
+~
+~
+0 4 160 17563680 -50 S
+70 -10 -27 10d15+700
+409 500 100 5d10+23       -1
+-1
+-1
+0 526666 8 8 0
+#8508
+ronin samurai~
+a ronin~
+A samurai with no master wanders around here.
+~
+~
+1 4 2048 33554432 0 S
+70 -13 -23 15d15+780
+403 500 100 7d6+33        -1
+-1
+-1
+965 526666 8 8 1
+#8509
+samurai~
+the Emperor's samurai~
+The Emporer's Samurai searches for the source of evil.
+~
+The Emperor has sent the last of his troops on a desperate mission to
+ destroy the Evil Daimyo. His power is growing and there have been tales
+ of horrific beings living in the mountain regions. He has only one thought
+ on his mind, and that is to destroy the Daimyo.
+~
+1 4 288 5160 600 S
+80 -22 -28 12d20+1150
+403 500 100 8d8+35        -1
+-1
+-1
+2500 670000 8 8 1
+A
+%%10 say We need your help to destroy the Daimyo!;%30 peer~
+#8510
+shura~
+the Shura~
+The ghost of a former warrior drifts by.
+~
+The apparition before you is the ghost of a former warrior, maybe even one
+ of the Emperor's own samurai. He has been raised from the dead by evil
+ magic to fight on the side of the Daimyo and the Dai-Oni.
+~
+12 4 32 16778282 -100 S
+65 -12 -22 20d20+1000
+400 500 100 7d6+18        -1
+-1
+-1
+0 470000 8 8 0
+#8511
+nushi woman beautiful~
+the Nushi~
+A beautiful woman arouses you.
+~
+The gorgeous woman before you is actually a demon in human form. It has
+ taken this form in order to seduce and then kill it's victims, so don't
+ get any ideas about asking her for a date!
+~
+12 4 2080 16778408 -800 S
+95 -30 -41 30d30+1200
+400 500 80 9d9+30
+86 0 20 1d0+80          -1
+-1
+-1
+15000 983333 8 8 2
+A
+%%20 say Well, hello there. Have you got any plans for this evening?~
+#8512
+mukade worm~
+a Mukade~
+A huge glowing worm attempts to devour you.
+~
+~
+12 4 6176 16778280 -300 S
+70 -15 -18 9d9+900
+408 500 100 7d7+25        -1
+-1
+-1
+2000 526666 8 8 0
+#8513
+shadow demon~
+a Shadow Demon~
+The Shadow Demon is eating your face.
+~
+~
+12 4 4102 50332714 -300 S
+60 -10 -19 1d100+1300
+400 500 100 5d7+19        -1
+-1
+-1
+90 420000 8 8 0
+#8514
+mantis preying demon~
+the Mantis Demon~
+An enormous preying mantis is preying on you.
+~
+~
+12 4 2560 17302568 -150 S
+70 -17 -23 1d200+1800
+407 500 100 7d8+20        -1
+-1
+-1
+0 526666 8 8 0
+A
+%%40 emote prays to the gods.~
+#8515
+ninja red~
+the red ninja~
+A Ninja with a red costume sneaks around.
+~
+~
+1 3 4098 787496 -180 S
+70 -15 -20 10d10+1200
+402 500 100 8d8+10        -1
+-1
+-1
+1000 526666 8 8 2
+#8516
+piper man~
+the Emperor's piper~
+A small man plays melodies on a set of pipes.
+~
+The beautiful music you heard must have been played by this man. 
+ He is a very skilled musician and has been asked to play to help 
+ raise the morals of the Emperor's followers.
+~
+1 0 132 4224 80 S
+40 -2 -11 10d20+600
+400 500 90 4d5+12
+17 0 10 1d0+60        -1
+-1
+-1
+1290 196666 5 5 1
+A
+%%25 emote plays wonderful melodies on his pipes.~
+#8517
+gardener man~
+the Emperor's gardener~
+A small and wizened man tends the Emperor's garden.
+~
+This old man must have a very special skill. It appears as though an
+ army of giants would be needed to tend this garden. Maybe he has magical
+ skills.
+~
+1 0 132 4224 100 S
+40 -6 -15 30d5+700
+400 500 100 3d10+18       -1
+-1
+-1
+943 196666 8 8 1
+A
+%%25 emote trims the hedge.;%10 emote say Stay off the grass!~
+#8518
+kappa huge green being~
+the Kappa~
+A huge green being with a flat head bursts out of the water.
+~
+The being before you looks like a huge troll of some. Its flat head holds
+ water which it needs to breath. The only way you will defeat it is by
+ hitting it so much that the water spills from it's head.
+~
+8 4 2086 553649192 -300 S
+85 -23 -35 4d200+1200
+401 500 100 7d8+38        -1
+-1
+-1
+5000 760000 8 8 0
+#8519
+tiger white ornamental~
+the white tiger~
+A beautiful ornamental tiger sits here peacefully.
+~
+~
+3 4 2 16777216 65 S
+50 -5 -12 2d100+800
+408 500 50 4d10+15
+407 500 50 4d10+15        -1
+-1
+-1
+0 255000 8 6 0
+#8520
+daimyo evil~
+the evil Daimyo~
+The evil Daimyo awaits news of the Emperor's destruction.
+~
+This is the man who has caused all the trouble here. The Emperor's
+ lands are becoming infested with evil and all because of him! When 
+ you look closely though, he dooen't appear to be anything other
+ than a human, maybe a good fighter, but he would not have the 
+ ability to control all these creatures...
+~
+1 4 2594 553649160 -500 S
+100 -45 -48 20d25+3000
+400 500 80 8d9+47
+87 0 20 1d0+70        -1
+-1
+-1
+18945 1600000 8 8 1
+A
+%%20 say So you have found me! Now prepare to die.
+;%40 emote orders his Ninja to attack.~
+#8521
+dai-oni dai oni creature~
+the Dai-Oni~
+The creature before you is the source of the Daimyo's power.
+~
+Ah, this would explain it. The Dai-Oni is a great demon from the spiritual
+ planes of existence who has felt that the Emperor's benevolent rule
+ was causing too much of a threat to all of the dark-minded creatures
+ of the lands. He has come to put that right!
+~
+12 4 2082 553649162 -700 S
+108 -55 -60 4d100+3500
+404 500 70 8d8+53
+90 0 20 1d0+65
+28 0 10 2d0+85        -1
+-1
+-1
+35000 3155555 8 8 1
+#8522
+shikome ape hairy~
+the Shikome~
+A weird, hairy ape-like creature runs at you.
+~
+~
+1 4 32 16778248 -67 S
+58 -8 -18 3d50+800
+401 500 100 5d6+15        -1
+-1
+-1
+932 400000 8 8 0
+A
+%%30 growl~
+#8523
+kracken~
+the Kracken~
+The tentacles of a Kracken lunge at you.
+~
+~
+12 4 2082 16778376 -100 S
+90 -24 -38 4d100+2200
+410 500 100 6d10+35       -1
+-1
+-1
+0 900000 8 8 0
+#8524
+lion mountain~
+a mountain lion~
+A large mountain lion paces about here.
+~
+~
+3 4 4098 16777224 55 S
+60 -6 -11 10d100+1200
+407 500 80 4d10+30
+408 500 20 4d10+30       -1
+-1
+-1
+0 470000 8 8 0
+#8525
+bruce lee shopkeeper~
+Bruce Lee~
+Bruce Lee is here cooking delights for you to sample.
+~
+They were right, Bruce Lee was not dead! All that happened was that by
+ some temporal anomaly he was transported back in time and to these lands.
+ Bored with acting, and with not much call for it in these parts, he 
+ decided to turn his hand to the art of cookery and food preperation.
+ In his spare time he teaches the troops the chinese art of Wing Chun
+ and his own martial art- Jeet Kune Do.
+~
+1 4 2066 8 100 S
+109 -50 -100 1d1+30000
+400 500 100 100d100+50    -1
+-1
+-1
+10000 6000000 8 8 1
+A
+%%50 emote shows his devastating martial arts skills.;%40 pose~
+#99999
+$~

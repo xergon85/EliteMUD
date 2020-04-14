@@ -1,0 +1,1134 @@
+#23701
+The Entrance to the Newbie Zoo~
+   A large iron gate separates the small zoo from the rest of the city. 
+You can hear the sounds of exotic animals from behind the walls of the
+zoo, along with the odors characteristic of such a park.  Inside the zoo
+you will find not only the exotic creatures native to this world, but many
+informative exhibits to help you get acquainted with your new
+surroundings. 
+~
+237 0 0
+D0
+~
+~
+0 -1 3503
+D2
+~
+~
+0 -1 23702
+S
+#23702
+Inside the Newbie Zoo~
+   As you enter the lovely little zoo, you notice a large wooden building
+before you.  A small shaded path leads through the zoo to the east.  You
+see a large sign posted on one of the trees along the path, perhaps you
+should look at it! 
+~
+237 c 0
+D0
+~
+~
+0 -1 23701
+D1
+~
+~
+0 -1 23703
+D2
+~
+~
+0 -1 23710
+E
+sign~
+*******************************************************
+*                                                     *
+*         Welcome to the Newbie Zoo!                  *
+*                                                     *
+*     This Zoo is full of interesting animals         *
+*      and informative exhibits for newbies           *
+*                                                     *
+*      Make sure you look at everything and           *
+*         ask LOTS of questions here!!                *
+*                                                     *
+*    The Newbie Zoo was founded by the                *
+*          Save the Newbies Foundation                *
+*         with a design from architect                *
+*                    Lovely                           *
+*         and technical assistance from               *
+*                    Fishbone                         *
+*                                                     *
+*******************************************************
+#rPlease note that not all features of the zoo are currently working!#N
+~
+S
+#23703
+Along the Shaded Path in the Newbie Zoo~
+   The shaded path is quiet except for the exotic animals and children's
+voices.  The characteristic smell of the zoo is strangely enticing as you
+move further into the zoo. 
+~
+237 0 0
+D1
+~
+~
+0 -1 23704
+D3
+~
+~
+0 -1 23702
+S
+#23704
+The Three-way Intersection on the Shaded Path~
+   The shady path branches off to the south here.  You may may continue to
+the east or west, but most of the action in zoo seems to be taking place
+to the south of here. 
+~
+237 0 0
+D1
+~
+~
+0 -1 23705
+D2
+~
+~
+0 -1 23712
+D3
+~
+~
+0 -1 23703
+S
+#23705
+The Shaded Path through the Newbie Zoo~
+   The shaded path continues along the east and west here.  The chirping
+birds mingled with the roars of nearby animals creates a melodious chorus
+of nature.  Children can be heard somewhere nearby, squealing with delight
+as they see strange and exotic animals for the first time. 
+~
+237 0 0
+D1
+~
+~
+0 -1 23706
+D3
+~
+~
+0 -1 23704
+S
+#23706
+The Shaded Path through the Newbie Zoo~
+   The east-west path meanders through the shady zoo here.  You can hear
+the sounds of animals somewhere to the south, and the air carries their
+strange odors right to your nose. 
+~
+237 0 0
+D1
+~
+~
+0 -1 23707
+D3
+~
+~
+0 -1 23705
+S
+#23707
+The Shaded Path through the Newbie Zoo~
+   The shady path is covered with bird droppings here.  As you gaze up
+into the trees, you can see a small nest high above.  Frantic chirps
+emanate from the nest, and a pair of small birds begin to dive at you. 
+They must have a nest full of babies, so you should probably leave them
+alone. 
+~
+237 0 0
+D1
+~
+~
+0 -1 23708
+D3
+~
+~
+0 -1 23706
+S
+#23708
+The Information Station at the Bend in the Path~
+   A small table is set up here with various pamphlets and maps placed
+upon it.  A light breeze rustles through the papers at this bend in the
+shaded path.  The path continues to the west and south. 
+~
+237 e 0
+D2
+~
+~
+0 -1 23716
+D3
+~
+~
+0 -1 23707
+S
+#23709
+The Information Room~
+   This room is filled with information about Midgaard and the Newbie Zoo. 
+Two large maps cover the west wall, one of Midgaard and one of the zoo.  A
+table sits in the corner covered with several pamphlets.  The main
+corridor of the Education Building lies to the east. 
+~
+237 de 0
+D1
+~
+~
+0 -1 23710
+E
+zoo map~
+
+The Newbie Zoo
+(Please note that this map is not to scale!)
+
+      Zoo Gate
+         |                                          Information 
+         |                                            Station
+         |---------|-------------------------------------|
+         |         |					 |
+      Education    |-----------------------------|-------|
+       Building    |                             |       |
+                   |                           Small     |
+                   |                          Mammals    |
+                   |    Large                            |--Reptiles
+                   |---Mammals                           |
+                   |                          Birds      |
+                   |			        |	 |
+	           |-------|--------------------|--------|
+                   |       |                Information  |
+                  Ape   Souvenirs                      Snack
+                 House                                  Shop
+~
+E
+midgaard map~
+                                ALTAR
+                                  |
+           HALLS                  |
+             OF-------READING---TEMPLE----DONATION
+         LEARNING       ROOM      |         ROOM
+             |                    |
+          LIBRARY                 |
+                                  | 
+              CITY     CLERIC     |   POST OFFICE             CITY
+             LIBRARY    GUILD     |   THREE CROWNS   CASINO   BANK
+                |         |       |        |           |       |
+         ---TEMPLE---STREET-----TEMPLE-----TEMPLE---STREET------
+         |      |         |     SQUARE     |           |       | 
+         |   TAILOR'S  JEWELER'S  |      ROSY'S    STATIONARY  |     
+         |                        |      FLOWERS      SHOP     |    HOBBIT 
+ DIRT    |                        |                            |    VILLAGE
+ PATH    |  MAGIC      BAKER      |     GENERAL    WEAPON      |      |
+  |      |   SHOP       SHOP      |     STORE       SHOP       |      |
+  | WEST |    |          |        |       |          |         |   EAST   
+  --GATE----MAIN------STREET----MARKET----MAIN------STREET---------GATE----   
+         |    |          |      SQUARE    |          |        |
+         |  MAGIC      ARMORER    |      PET       WARRIOR    |
+         |  GUILD                 |      SHOP       GUILD   WATER
+         |                        |                         SHOP  
+         |                        |                    
+         |                        |                      UNCLE JUAN'S
+         |                        |                           |
+         |--POOR---ALLEY--------COMMON----DARK---ALLEY--------- 
+         |               |      SQUARE      |        |        |
+         |            GRUBBY      |       THIEF    LEEVE  WAREHOUSE
+   MIDGAARD PARK        INN       |       GUILD      |
+~
+S
+#23710
+Inside the Newbie Zoo Education Building~
+   You are in a large hallway that runs through the center of the
+Education Building.  Small rooms lie to the east and west, both of which
+are full of important newbie Education materials! 
+~
+237 d 0
+D0
+~
+~
+0 -1 23702
+D1
+~
+~
+0 -1 23711
+D2
+~
+~
+0 -1 23718
+D3
+~
+~
+0 -1 23709
+S
+#23711
+The Newbie Board Room~
+   This room contains a bulletin board full of information for newbies. 
+You may post questions and problems on the board, and just read it for
+answers to questions you may have that have already been asked. 
+~
+237 de 0
+D3
+~
+~
+0 -1 23710
+S
+#23712
+Another Three-way Intersection~
+   You are at the intersection of two paths.  A small gravel path leads
+further into the zoo to the east, and the wider dirt path continues to the
+north and south. 
+~
+237 0 0
+D0
+~
+~
+0 -1 23704
+D1
+~
+~
+0 -1 23713
+D2
+~
+~
+0 -1 23720
+S
+#23713
+A Path Through the Newbie Zoo~
+   The gravel path is covered with discarded popcorn boxes and candy
+wrappers.  It looks like the groundskeepers haven't been doing their jobs
+too well here lately! 
+~
+237 0 0
+D1
+~
+~
+0 -1 23714
+D3
+~
+~
+0 -1 23712
+S
+#23714
+A Path Through the Newbie Zoo~
+   The gravel path continues to the east and west.  Just east of here you
+see a large stone building.  You hear strange sounds coming from within
+the building. 
+~
+237 0 0
+D1
+~
+~
+0 -1 23715
+D3
+~
+~
+0 -1 23713
+S
+#23715
+Outside the Small Mammal House~
+   The gravel path runs east and west outside of a large stone building. 
+The gray stones of the building lend to it a cold and dark appearance. 
+You can feel warm humid air coming from the doorway however, and the
+sounds coming from inside let you know that many animals can be found
+within.  A small metal sign is hanging next to the doorway. 
+~
+237 0 0
+D1
+~
+~
+0 -1 23716
+D2
+~
+~
+0 -1 23722
+D3
+~
+~
+0 -1 23714
+E
+metal sign~
+Small Mammal House
+~
+S
+#23716
+Another Three-way Intersection~
+   The gravel path intersects here with a wider dirt path.  Tall shady
+trees line the eastern side of the dirt path, and you can barely see the
+outline of a large stone wall behind them.  The dirt path continues to the
+north and south while the gravel path continues to the west. 
+~
+237 0 0
+D0
+~
+~
+0 -1 23708
+D2
+~
+~
+0 -1 23723
+D3
+~
+~
+0 -1 23715
+S
+#23717
+The Newbie Training Room~
+   The newbie training facilities have been provided to you as a service
+of the Save the Newbies Fund.  They have provided a master instructor to
+help you find your way to enlightenment.  You may practice any of your
+skills in this room with this great instructor.  Simply type "practice" to
+see what skills and spells you can practice, then "practice <skill/spell>"
+to practice them.  
+~
+237 de 0
+D1
+~
+~
+0 -1 23718
+S
+#23718
+Inside the Newbie Zoo Education Building~
+   You are in a large hallway that leads down the middle of the Education
+Building.  The walls are covered with murals painted by the children of
+Midgaard.  Rooms lie to the east and west, full of educational facilities
+for you as a newbie.  Take advantage of them while you can! 
+~
+237 d 0
+D0
+~
+~
+0 -1 23710
+D1
+~
+~
+0 -1 23719
+D2
+~
+~
+0 -1 23725
+D3
+~
+~
+0 -1 23717
+S
+#23719
+The Newbie First-Aid Station~
+   Most people have to pay for the services of a healer, but here at the
+Newbie Zoo, one is provided for free!  You should probably rest here for a
+little while before you venture back out into the zoo... we don't want to
+have to scrape anyone off of the buildings! 
+~
+237 de 0
+D3
+~
+~
+0 -1 23718
+S
+#23720
+A Path Through the Newbie Zoo~
+   You are on a wide dirt path that runs to the north and south.  Through
+the trees to the west, you can see a large building.  You hear some
+strange whoops coming from the south, and you can smell the strong odors
+of several large animals. 
+~
+237 0 0
+D0
+~
+~
+0 -1 23712
+D2
+~
+~
+0 -1 23727
+S
+#23721
+The Pygmy Marmoset Enclosure~
+   The eastern wall of this room is made of a strange, clear material. 
+You can see several people pointing and waving at you on the other side. 
+Several small trees fill up the room, and you can hear strange noises
+coming from above.  perhaps some small animals are hiding in here! 
+~
+237 d 0
+D1
+~
+door~
+1 -1 23722
+S
+#23722
+Inside the Small Mammal House~
+   The smell in this building is nearly unbearable.  The zookeepers must
+not have cleaned it out yet today.  You can hear strange squeaks coming
+from behind a large, clear wall to the west.  On the other side of the
+wall you see several large trees.  A small door is cut into the wall,
+barely large enough for you to pass through, if you can even open it. 
+~
+237 d 0
+D0
+~
+~
+0 -1 23715
+D2
+~
+~
+0 -1 23730
+D3
+A small door has been cut in the glass, allowing entry to the room within.
+~
+door~
+1 -1 23721
+S
+#23723
+A Path Through the Newbie Zoo~
+   The north-south path is rather serene here.  You can hear the distant
+voices of the animals, but for some reason they are not so evident on this
+part of the path. 
+~
+237 0 0
+D0
+~
+~
+0 -1 23716
+D2
+~
+~
+0 -1 23731
+S
+#23724
+The Snack Shop~
+   The Newbie Zoo staff has thought of everything!  They figured you would
+need a place to stop and eat on your tour, so they provided a snack shop! 
+The best thing about this shop is that everything is free!  Just help
+yourself to the food sitting on the counter. 
+~
+237 de 0
+D1
+~
+~
+0 -1 23725
+S
+#23725
+The Director's Reception~
+   This is where the Director of the Newbie Zoo welcomes all patrons.  A
+large podium stands here for the director to stand behind while he gives
+you a brief history of the Newbie Zoo, as well as an informative lecture
+on the areas surrounding Midgaard.  The Director can also answer some
+questions, such as what routes you should follow to find the animal
+houses.  Just stand here long enough and he'll talk your ear off!
+~
+237 de 0
+D0
+~
+~
+0 -1 23718
+D1
+~
+~
+0 -1 23726
+D3
+~
+~
+0 -1 23724
+S
+#23726
+The Souvenir Shop~
+   Here in the Newbie Zoo Souvenir Shop, you can find low-cost,
+comfortable Zoo attire.  All proceeds from this shop go toward providing
+the many services to newbies in the zoo.  To see what you can buy, type
+"list."  Then just buy the item you would like by typing "buy <item>." 
+You can also help yourself to the many free samples that have been left
+here. 
+~
+237 de 0
+D3
+~
+~
+0 -1 23725
+S
+#23727
+A Path Through the Newbie Zoo~
+   The path runs north and south here, The trees to the west slightly
+obscure a large building.  To the south you can see another large building
+down the path.  Strange sounds seem to be coming from within it.  A
+shorter distance to the south is the entrance to a dark building.  You can
+hear an occasional roar coming from within. 
+~
+237 0 0
+D0
+~
+~
+0 -1 23720
+D2
+~
+~
+0 -1 23734
+S
+#23728
+The Tiger Cage~
+   You are inside a large metal cage.  The zookeepers have filled the cage
+with large plants.  You can hear the footsteps of some large animal
+somewhere inside the cage.  You better watch out, or you may get eaten!
+~
+237 ad 0
+D2
+~
+cage~
+1 -1 23735
+S
+#23729
+The Golden Lion Tamarin Enclosure~
+   The warm humid room is filled with many tall trees.  A large clear
+window opens up into the room to the east.  You see several people outside
+the window looking in at you.  A small door is cut into the window leading
+to the room. 
+~
+237 d 0
+D1
+~
+door~
+1 -1 23730
+S
+#23730
+Inside the Small Mammal House~
+   As you continue into the small mammal house, you come upon another wall
+of the same clear material.  Behind the wall you see a room full of trees,
+and some small furry animals.  A small door is cut into the wall, through
+which you may gain entry to the room within.  The small mammal house also
+extends to the north. 
+~
+237 d 0
+D0
+~
+~
+0 -1 23722
+D3
+A small door is cut in the glass.
+~
+door~
+1 -1 23729
+S
+#23731
+A Path Through the Zoo~
+   The path continues through the zoo here.  To the west is a large black
+building.  This part of the zoo is much more quiet for some reason.  The
+path continues to the north and south. 
+~
+237 0 0
+D0
+~
+~
+0 -1 23723
+D2
+~
+~
+0 -1 23738
+S
+#23732
+The Mata Mata Tank~
+   The large tank is full of warm, murky water.  You have a hard time
+seeing what might lie beneath the surface of the water.  You feel small
+fish swimming between your legs, at least you hope they are fish!  You can
+climb out of the tank to the south. 
+~
+237 d 0
+D2
+~
+tank~
+1 -1 23739
+S
+#23733
+The Gila Monster's Enclosure~
+   The sandstone floor of this dry room is bare but for a few small cacti. 
+A large bright lantern warms the entire room.  The wall to the south is
+transparent, allowing you to see the adjacent room.  A small door has been
+cut into the wall for passage in and out of the room. 
+~
+237 d 0
+D2
+~
+door~
+1 -1 23740
+S
+#23734
+A Path Through the Zoo~
+   The north-south path is bordered by trees on the west, and the outside
+wall of a large stone building to the east.  You can hear menacing roars
+coming from within the building, and even stranger sounds coming from the
+building further to the south. 
+~
+237 0 0
+D0
+~
+~
+0 -1 23727
+D2
+~
+~
+0 -1 23741
+S
+#23735
+Inside the Dark Building~
+   The rooms don't seem to get any brighter as you move further into the
+building.  Two large cages are inside of this room.  One lies to the
+north, filled with several large plants that seem to be hiding a rather
+large animal inside.  The other cage lies to the east.  You can see a set
+of large eyes reflecting your light back at you from behind the bars. 
+~
+237 ad 0
+D0
+~
+cage~
+1 -1 23728
+D1
+~
+cage~
+1 -1 23736
+D2
+~
+~
+0 -1 23742
+S
+#23736
+The Lion's Den~
+   The floor of this dark cage is covered with tall dry grasses.  The
+smell of blood overwhelms your senses and makes you quite nauseous.  The
+hair on the back of your neck stands on end as you feel the movement of a
+large body just behind you. 
+~
+237 ad 0
+D3
+~
+cage~
+1 -1 23735
+S
+#23737
+The Kiwi's Hiding Place~
+   This dark room is home to the elusive kiwi.  He only comes out at
+night, so in order to see him, please try not to shine any bright lights
+his way.  A large black curtain separates this room from the rest of the
+bird house to the south. 
+~
+237 d 0
+D2
+~
+curtain~
+1 -1 23743
+S
+#23738
+Outside the Reptile House~
+   A large obsidian building stands east of the dirt path here.  A large
+sign over the door informs you that you have reached the reptile house. 
+The Newbie Zoo is famous for its collection of rare and exotic reptiles,
+so you should most definitely take a look inside. 
+~
+237 0 0
+D0
+~
+~
+0 -1 23731
+D1
+~
+~
+0 -1 23739
+D2
+~
+~
+0 -1 23744
+S
+#23739
+Inside the Reptile House~
+   The large Newbie Zoo Reptile House is home to several interesting
+reptile species.  A large glass tank lies to the north, filled with
+brownish water.  The building continues to the east, and you can exit to
+the west. 
+~
+237 d 0
+D0
+~
+tank~
+1 -1 23732
+D1
+~
+~
+0 -1 23740
+D3
+~
+~
+0 -1 23738
+S
+#23740
+Inside the Reptile House~
+   The Reptile House is home to several rare species of large lizards. 
+Behind the large transparent walls to the north and south you can see the
+rooms of two such lizards.  The komodo dragon's pit lies to the south, and
+the gila monsters enclosure lies to the north.  You may enter the rooms
+through the small doors that have been cut into the walls. 
+~
+237 d 0
+D0
+~
+door~
+1 -1 23733
+D2
+~
+door~
+1 -1 23745
+D3
+~
+~
+0 -1 23739
+S
+#23741
+Outside the Menacing Building~
+   You are outside of a large stone building.  Menacing roars can be heard
+from within.  The building looks dark and frightening inside.  The path
+continues further to the north and south.  A large gray building lies at
+the end of the path a short distance to the south. 
+~
+237 0 0
+D0
+~
+~
+0 -1 23734
+D1
+~
+~
+0 -1 23742
+D2
+~
+~
+0 -1 23746
+S
+#23742
+A Dark Room~
+   The building is dark and menacing.  You have an incredible urge to turn
+around and walk back through the entrance.  The loud roars coming from
+within definitely do not help calm your feels at all.  You can venture
+further into the building to the north, or leave for the path to the west. 
+~
+237 ad 0
+D0
+~
+~
+0 -1 23735
+D3
+~
+~
+0 -1 23741
+S
+#23743
+The Bird House~
+   The collection of birds at the Newbie Zoo is housed in this spacious
+aviary.  The tall glass ceiling allows you to see the sky above the zoo. 
+Most of the birds housed here are flightless to maintain their residency
+within this building.  The birds are free to roam about the room.  That
+combined with the lush tropical foliage makes you feel as if you have
+entered a sort of avian paradise.  A small room lies to the north of the
+aviary.  A thick black curtain hides your view of what lies inside. 
+~
+237 d 0
+D0
+~
+curtain~
+1 -1 23737
+D2
+~
+~
+0 -1 23749
+S
+#23744
+A Path Through the Zoo~
+   The path passes between two buildings here.  To the west is a small
+building made of greenish stone.  To the east is a larger building made of
+an obsidian material.  The path continues to the north and south. 
+~
+237 0 0
+D0
+~
+~
+0 -1 23738
+D2
+~
+~
+0 -1 23750
+S
+#23745
+The Komodo Dragon's Pit~
+   As you climb into the large pit, you feel a warm blast of humid air.  A
+large burrow leads deeper into the room, but it is too small for you to
+enter.  You can exit the pit through the small door on the north wall.  As
+you look towards the exit, you see looks of horror on the faces of the
+people in the adjacent room.  Perhaps you should turn around...slowly. 
+~
+237 d 0
+D0
+~
+door~
+1 -1 23740
+S
+#23746
+Another Three-way Intersection~
+   The three-way intersection appears to be well-worn, as if many visitors
+have traveled to this part of the zoo.  A large gray building lies a short
+way down the path to the south, and a large menacing building of stone
+lies a short way to the north. 
+~
+237 0 0
+D0
+~
+~
+0 -1 23741
+D1
+~
+~
+0 -1 23747
+D2
+~
+~
+0 -1 23751
+S
+#23747
+On the Path Outside the Souvenir Shop~
+   The dirt path continues to the east and west here.  A small wooden
+building lies just south of the path.  You can see several articles of
+clothing displayed in a small case next to the doorway. 
+~
+237 0 0
+D1
+~
+~
+0 -1 23748
+D2
+~
+~
+0 -1 23752
+D3
+~
+~
+0 -1 23746
+S
+#23748
+A Path Through the Zoo~
+   The small dirt path continues to the east and west.  The exotic animal
+chorus that you have heard on your visit here accompanies you on your
+passage. 
+~
+237 0 0
+D1
+~
+~
+0 -1 23749
+D3
+~
+~
+0 -1 23747
+S
+#23749
+Outside the Bird House~
+   A small building made of greenish stones stands just north of the dirt
+path.  You hear birds chirping and singing from within.  The path
+continues to the east and west. 
+~
+237 e 0
+D0
+~
+~
+0 -1 23743
+D1
+~
+~
+0 -1 23750
+D3
+~
+~
+0 -1 23748
+S
+#23750
+Outside the Snack Shop~
+   At the bend in the dirt path, you find yourself enticed by the smell of
+the snack shop to the south.  Fresh buttered popcorn and delicious roasted
+hot-dogs are almost begging you to come in for a bite.  The path continues
+on its merry way through the zoo to the north and west. 
+~
+237 0 0
+D0
+~
+~
+0 -1 23744
+D2
+~
+~
+0 -1 23753
+D3
+~
+~
+0 -1 23749
+S
+#23751
+Outside the Ape House~
+   A large gray building stands just south of here at the path's end.  The
+sounds of many strange animals can be heard within.  Loud whoops and hoots
+pique your interest as to what creatures abide within.  As you approach
+the building you notice the large sign that hangs above the door informing
+you that this is the Ape House. 
+~
+237 0 0
+D0
+~
+~
+0 -1 23746
+D2
+~
+~
+0 -1 23755
+S
+#23752
+The Souvenir Shop~
+   The souvenir shop is always stocked with all of your zoo-going needs. 
+Small stuffed animals are piled high on a shelf which sits next to a table
+containing a display of reading materials on various types of animals. 
+Behind the display case containing various animal artifacts is a young man
+who can help you with your selections. 
+~
+237 de 0
+D0
+~
+~
+0 -1 23747
+S
+#23753
+The Snack Shop~
+   The snack shop at the Newbie Zoo is always free!  The Save the Newbies
+Foundation funds parts of the zoo to provide visitors with many different
+services.  Just help yourself to the food and beverages.  If you would
+like to have something added to the menu, please contact the management or
+an information aide! 
+~
+237 de 0
+D0
+~
+~
+0 -1 23750
+S
+#23754
+A Tree-filled Room~
+   This rather large room is filled with all types of tall trees.  The
+many branches are perfect for swinging and climbing.  The east wall of the
+room is made of a clear material, allowing you to see into the adjacent
+room.  A small door has been cut into the clear wall allowing access to
+the room outside. 
+~
+237 d 0
+D1
+~
+door~
+1 -1 23755
+S
+#23755
+Inside the Ape House~
+   The Newbie Zoo Ape House was named by a former zoo director who wasn't
+very well versed in the terminology of primates.  The building is home to
+several species of not only apes, but other primates as well.  The walls
+to the east and west afford spectacular views of the animals in the
+adjacent rooms.  The Ape House also continues further to the south. 
+~
+237 d 0
+D0
+~
+~
+0 -1 23751
+D1
+~
+metal door~
+1 -1 23756
+D2
+~
+~
+0 -1 23758
+D3
+~
+door~
+1 -1 23754
+S
+#23756
+Tucker's Room~
+   This room is filled with large blocks of wood and chewed up leather
+hats.  Ropes hang from the large tree-like structure in the center of the
+room.  Piles of straw are scattered about the room, some of them covered
+with pieces of burlap.  A large clear wall dominates the west side of the
+room.  A small metal door is set into the clear wall to allow access to
+the room outside. 
+~
+237 d 0
+D3
+~
+metal~
+1 -1 23755
+S
+#23757
+The Monkey Room~
+   A large tree-like structure stands in the middle of the room.  The
+ceiling here is made of glass, allowing a lovely view of the sky above. 
+The clear eastern wall allows you to see into the room adjacent to this
+one.  A small door is cut into the wall. 
+~
+237 d 0
+D1
+~
+door~
+1 -1 23758
+S
+#23758
+Inside the Ape House~
+   The large room is surrounded on three sides by clear walls.  On the
+other side of each of the walls you can see the habitats of various large
+primate species.  This building houses a very interesting collection of
+ape and monkey species. 
+~
+237 d 0
+D0
+~
+~
+0 -1 23755
+D1
+~
+door~
+1 -1 23759
+D2
+~
+metal door~
+1 -1 23760
+D3
+~
+door ~
+1 -1 23757
+S
+#23759
+A Tree-filled Room~
+   This is another tree-filled room.  Like all of the other rooms, one
+wall (the west wall) is made of a clear material allowing visitors to see
+inside, and allowing the animals to see out.  A small door is cut into the
+wall allowing access to the room outside. 
+~
+237 d 0
+D3
+~
+door~
+1 -1 23758
+S
+#23760
+Katu's Room~
+   This spacious room is filled with several large pieces of soft
+furniture.  A small bed made of straw has been placed in one corner of the
+room.  Several pieces of paper covered with bright paints are pasted to
+the walls of this room.  A large clear wall stands to the north allowing
+the occupant of this room to see the people outside.  A small metal door
+has been placed in the wall. 
+~
+237 d 0
+D0
+~
+metal door~
+1 -1 23758
+S
+#99999
+$~
+
+

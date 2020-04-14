@@ -1,0 +1,910 @@
+#14900
+fury flaming~
+a Flaming Fury~
+A Flaming Fury greets you with a torching smile
+~
+The flaming Fury are physical emotions of the gods rage
+that has taken shape and now reside here within the gauntlet.
+Its body is covered in flames that urges to burn your skin.
+~
+12 1 fijklg hfd -400 S
+90 -25 -40 10d100+2000
+400 500 0 1d1+0
+26 0 30 1d0+100
+30 0 30 1d0+100
+72 0 30 1d0+100
+33 0 5 1d0+100
+4 0 5 1d0+100  -1
+-1
+-1
+0 900000 8 8 0
+
+#14901
+fury flaming~
+a Flaming Fury~
+A Flaming Fury greets you with a torching smile
+~
+The flaming furys are physical emotions of the gods rage
+that has taken shape and now reside here within the gauntlet.
+Its body is covered in flames that urges to burn your skin.
+~
+12 1 fijklg hfd -400 S
+90 -25 -40 10d100+2000
+400 500 0 1d1+0
+26 0 30 1d0+100
+30 0 30 1d0+100
+72 0 30 1d0+100
+33 0 5 1d0+100
+4 0 5 1d0+100  -1
+-1
+-1
+0 1000000 8 8 0
+
+#14902
+fury flaming~
+a Flaming Fury~
+A Flaming Fury greets you with a torching smile
+~
+The flaming furys are physical emotions of the gods rage
+that has taken shape and now reside here within the gauntlet.
+Its body is covered in flames that urges to burn your skin.
+~
+12 1 fijklg hfd -400 S
+90 -25 -40 10d100+2000
+400 500 0 1d1+0
+26 0 30 1d0+100
+30 0 30 1d0+100
+72 0 30 1d0+100
+33 0 5 1d0+100
+4 0 5 1d0+100  -1
+-1
+-1
+0 1100000 8 8 0
+
+
+#14903
+red man~
+A man shifting in Red~
+A man slightly shivers, standing within a reddish aura.
+~
+The light of the room vastly enhances the scaling of his skin.
+Each scale glimmers and changes color from pearl white to ruby red
+as he advances towards you.
+~
+12 4 fijklm dhkrB -750 S
+105 -50 -60 1d1+6500
+410 500 83 5d30+50
+322 0 7 0d0+0
+26 0 10 1d0+85 -1
+-1
+4 100 7 100 38 100 40 100 104 50 105 50 106 50 107 50 -1
+1 1000000 8 8 1
+
+
+
+#14904
+Zeppo devine artist~
+Zeppo~
+Zeppo devine artist is singing a praise to peace and tranquility.
+~
+Zeppo skips around you, pointing at your feet, bonking your
+head and taunting you, this guy is really begging for it.
+~
+12 2 fijklg dhkrB 1000 S
+109 -38 -48 0d0+5000
+400 500 85 2d40+15
+28 0 15 2d0+95 -1
+304 100 326 100 327 100 -1
+-1
+1 750000 8 8 1
+A
+%%10 emote utters the words 'pzar'.~
+R
+-1 -1 -1 -1 25
+
+
+
+#14905
+Groucho obidient~
+Groucho the obidient~
+Groucho is so obidient that he can not take any more orders.
+~
+Is that a fake nose or what? The glasses are half melted over
+is sootened nose and his cigar is filling the air with a stench
+so abhorrent that you have to breathe through your ears to get
+a remote gasp.
+~
+12 4 gfijkl dhkrB 1000 S
+109 -43 -48 0d0+5000
+403 500 80 2d40+20
+26 0 20 1d0+75 -1
+304 100 326 100 327 100 -1
+-1
+1 750000 8 8 1
+R
+-1 -1 -1 -1 25
+
+
+
+#14906
+Harpo blessed~
+Harpo the blessed~
+Harpo is blessed with the most useful skilll in the world.
+~
+  And he can not tell you...
+
+Uriel
+~
+12 2 gfijkl dhkrB 1000 S
+109 -38 -48 0d0+5000
+400 500 90 2d40+20
+6 0 10 1d0+95 -1
+304 100 326 100 327 100 -1
+-1
+1 750000 8 8 1
+A
+%%8 frown;%8 mumble;%8 scratch;%8 ponder~
+R
+-1 -1 -1 -1 25
+
+
+#14907
+Gloria~
+Gloria~
+Gloria, Gloria, Gloria!  The salvation have come! And you to receive!
+~
+C'mon now, sing it folks, Gloria states. A voice crackling with
+false notes and rhymes that doesnt match, how can you not oblige
+it?
+~
+12 4 fijkgl dhkrB 1000 S
+109 -43 -48 0d0+5000
+403 500 80 2d40+20
+30 0 20 1d0+75 -1
+304 100 326 100 327 100 -1
+-1
+206 750000 8 8 2
+R
+-1 -1 -1 -1 25
+
+
+
+#14908
+mclarry speedfreak speed freak~
+McLarry, the speedfreak~
+A destined man have taken aim and is now rushing towards the wall.
+~
+Once a respected jockey, now reduced to a babbling idiot since he
+fell off his horse one too many times. His face is mangled and his
+voice is nasal, but hey, he used to be the fastest, so be gentle.
+~
+1 4 fijklm drs -800 S
+109 -32 -70 1d1+7000
+400 500 80 5d30+50
+409 500 10 3d100+30
+322 0 10 0d0+0
+30 0 10 1d0+95 -1
+321 100 -1
+4 90 7 100 38 100 40 100 104 50 105 50 106 50 107 50 372 90 -1
+1 2000000 8 8 1
+A
+%%10 emote grins and says 'Can I try your mount ?';
+%10 emote whispers quietly 'I am the fastest there is, you know.'~
+
+
+
+#14909
+wall death~
+the Wall~
+A flat death awaits the destiny of McLarry.
+~
+This is what ended McLarry's carreer, According to McLarry,
+the walled attacked him. The wall seems totally indifferent
+with the accsations. What do you think?
+~
+12 1 fijklm dkr -400 S
+105 -35 -55 1d1+2750
+400 500 35 10d10+30
+407 500 10 10d15+30
+76 0 10 1d0+90
+100 0 30 1d0+90
+106 0 15 1d0+90 -1
+-1
+4 95 7 100 38 100 40 100 103 75 -1
+0 1000000 8 8 0
+
+
+
+#14910
+Henry~
+Henry~
+Henry is crossdressing (and this do not mean mixing up fashionstatements)
+~
+Nice high heels, glorious legs in thin laced stockings, a nice teddy,
+a pare of cherry red lips and a big furry mustache. Henry refuses to
+look ordinary, and will commit his charms upon you.
+~
+1 2 mfijkl dhkrD 750 S
+100 -50 -50 2d40+20000
+400 500 30 3d20+90
+104 0 15 1d0+85
+76 0 10 1d0+85
+65 0 01 1d0+85
+97 0 24 1d0+85
+106 0 20 1d0+98 -1
+-1
+-1
+231 2000000 8 8 2
+A
+%%5 emote smiles and winks suggestivly at you.~
+
+#14911
+Morgan dresser assistant~
+Morgan~
+Beware, beware! Morgan is coming short of new (and odd) underwear.
+~
+Morgan is Henry's dressing assistant, as Henry's short arms cant reach
+all the odds ends of himself. While Henry is out for fun, Morgan cultivates
+his collection of underwear.
+~
+1 4 fijklm dhkrzD 0 S
+109 -40 -55 20d10+7000
+400 500 80 14d4+60
+402 500 20 10d5+40
+-1
+317 100 327 100 328 100 318 100 359 100 321 100 322 100 323 10 -1
+-1
+1 1000000 8 8 1
+A
+%%2 giggle;%2 say can I have your underwear when you are done?~
+
+
+
+#14912
+Evil dragon~
+The Evil Dragon~
+>From head to tail, there is pure evil through this dragon.
+~
+Black and white scales intertwine to form a pattern of pure hatred
+across the dragons torso. Fierce teeth glimmer in the darkness high
+above you and you realize that you may have gone just a bit too far.
+~
+18 4 fijkl dsBz -1000 S
+100 -30 -47 3d50+7600
+404 500 40 2d40+100
+107 0 10 1d0+60
+105 0 10 1d0+70
+26 0 20 1d0+70
+86 0 20 1d0+85 -1
+-1
+-1
+666 1000000 8 8 1
+
+
+#14913
+Good dragon~
+The Good Dragon~
+>From wingtip to wingtip, the dragon is but utter goodness.
+~
+White scales are exhanged with hues of blue, magnificent as the
+sky itself. This dragon seems to have understood the wisdom of
+live and let live, but you can never be certain, can you ?
+~
+18 4 fijkl krzB 1000 S
+83 -3 -36 50d2+2900
+409 500 40 2d15+100
+104 0 15 1d0+60
+105 0 15 1d0+50
+56 0 15 1d0+75
+10 0 15 1d0+99
+-1
+-1
+-1
+0 1000000 8 8 2
+
+#14914
+Neutral dragon spectral~
+the dragon of balance~
+The spectral dragon of balance shimmers in all colours and none.
+~
+Not quite here, not quite anyplace really, this dragon is the perfect
+match in hunters knowledge, predatorian instincts and wise decisions.
+At least its colors suggest that it has lived for more then you wish
+to find out.
+~
+18 4 fijklg rzB 0 S
+85 -24 -40 8d10+2975
+407 500 10 30d2+100
+404 500 30 15d4+80
+104 0 15 1d0+75
+26 0 15 1d0+80
+48 0 15 1d0+99
+10 0 15 1d0+99
+-1
+-1
+-1
+2 1000000 8 8 0
+
+
+
+#14915
+pentagon first grandmaster~
+First member of the Pentagon~
+The First member of the Pentagon is sceming up yet another evil plan.
+~
+Once just a mage, now a grandmaster of a secret order called
+the pentagon. His long beard flows in the wind he just conjured up
+and you expect to see bolts of lightning any second now.
+~
+1 4 fijklc bk -1000 S
+109 -42 -50 4d164+3270
+405 500 75 5d10+45
+71 0 3 2d0+95
+75 0 2 2d0+95
+76 0 5 1d0+75
+88 0 5 1d0+75
+90 0 10 1d0+75 -1
+-1
+-1
+5 600000 8 8 1
+A
+%%10 say The Pentagon does not accept failure.~
+
+
+
+#14916
+pentagon second~
+Second member of the Pentagon~
+The Second member of the Pentagon is waiting on the grandmaster.
+~
+As the grandmasters apprentice he knows he is also second in command
+and will inherit the power when the grandmaster dies of his old age
+or the poisons carefully placed in his food.
+~
+1 4 fijklc bk -1000 S
+104 -40 -45 4d156+2680
+405 500 75 5d10+40
+71 0 3 2d0+95
+75 0 2 2d0+95
+76 0 5 1d0+75
+88 0 5 1d0+75
+90 0 10 1d0+75 -1
+-1
+-1
+5 600000 8 8 1
+A
+%%10 say The Pentagon will not show mercy.~
+
+#14917
+pentagon third~
+Third member of the Pentagon~
+The Third member of the Pentagon is hiding in the shadows.
+~
+Trained to be a stealth assassin for his order, the pentagon,
+he has now decided to turn against it forthe riches they store.
+If the old leader dies, he might be able to sneak into the treasury.
+~
+1 4 cfijkl bk -1000 S
+107 -40 -50 4d161+2840
+405 500 75 4d12+50
+1 0 3 2d0+95
+75 0 2 2d0+95
+76 0 5 1d0+75
+88 0 5 1d0+75
+90 0 10 1d0+75 -1
+-1
+-1
+5 600000 8 8 1
+
+
+#14918
+pentagon fourth~
+Fourth member of the Pentagon~
+The Fourth member of the Pentagon is trying to gain power for himself.
+~
+Greed can be a large temptation and it seems that this pentagon
+member has succumbed to it. He plots and plans for his own elevation
+within the order aswell as the elimiation of the competition.
+~
+1 4 cfijkl bk -1000 S
+101 -34 -44 4d152+2420
+405 500 75 4d10+50
+71 0 3 2d0+95
+75 0 2 2d0+95
+76 0 5 1d0+75
+88 0 5 1d0+75
+90 0 10 1d0+75 -1
+-1
+-1
+5 600000 8 8 2
+
+
+#14919
+pentagon Fifth~
+Fifth member of the Pentagon~
+The Fifth member of the Pentagon is sceming up yet another evil plan.
+~
+The fifth member of the pentagon tried to reach the seat of power
+but was cut off by the second in command. Since then he has been
+nursing a strong hate towards the apprentice and just waits for a
+chance to place a dagger in his back.
+~
+1 4 cfijkl bk -1000 S
+98 -28 -44 4d147+1960
+405 500 100 4d12+40 -1
+-1
+-1
+5 600000 8 8 1
+
+#14920
+vamp~
+The Vamp~
+The Vamp is trying to please her beloved genious.
+~
+Black soft velvet covers the vamps body, all to please her
+genious lover while he invents new ways to improve or destroy
+the world....
+~
+18 4 fijklm dhkyBD -900 S
+109 -55 -65 10d10+12000
+400 402 80 10d10+100
+372 0 10 0d0+0
+103 0 10 1d0+95 -1
+315 95 372 95 322 95-1
+-1
+10000 2000000 8 8 1
+
+
+#14921
+genious~
+The Genious~
+The Genious is awaiting pleasure from a vamp.
+~
+THAT MUST BE IT, he screams as you glance at him. Running frantically
+around the room, hair on end and a smoking bottle in his hand.
+His tattered robes swirling in the dust from the explosion that just
+occured.
+~
+18 4 fijklm dhkyBD 750 S
+109 -55 -65 0d0+12000
+400 407 60 10d10+100
+400 408 20 10d10+120
+103 0 20 1d0+95 -1
+322 95 -1
+-1
+0 1000000 8 8 2
+
+#14922
+Pilates instructor aerobics~
+Pilates~
+Pilates, the grand intructor of slimming aerobics stands before you!
+~
+Dancing around, or something to the beat of a drum seems to have brought
+extasy to this thing. Pink tights, curled socks and a tank top, and a
+hideous headband, her flying in the wind, and a stench of body odours
+emanate from her. EEEEW!
+~
+0 4 fijklg bdh 1000 S
+109 -42 -50 8d100+4000
+400 500 60 3d30+20
+28 0 15 2d0+95
+76 0 10 1d0+80
+90 0 15 1d0+85 -1
+-1
+-1
+2 800000 8 8 2
+
+#14923
+Stepup stepuppp~
+StepUp~
+The Queen of power movement roars out 'StepUppp'.
+~
+Stepping up, and stepping down from a single stair. My, where did this
+thing come from? Why walk a stair that doesnt lead anywhere ? Maybe
+you should end her suffering right here and now?
+~
+0 4 fijklg h 700 S
+107 -34 -48 5d100+3000
+400 500 70 3d30+20
+28 0 20 2d0+75
+90 0 10 1d0+95 -1
+-1
+-1
+2 1000000 8 8 2
+
+
+#14924
+ChiTai chi tai~
+ChiTai~
+ChiTai the Prince of slow movement, just try to ignore your speed.
+~
+Clad in a pyjamas, moving so slow it seems he is frozen in time,
+this Tai-Chi instructor slowly (VERY SLOWLY) advances towards you.
+Why not take a short nap and wait for his arrival ?
+~
+12 4 fijklg dfhD -349 S
+109 -35 -40 5d100+3500
+400 500 75 3d20+35
+23 0 5 1d0+95
+76 0 5 1d0+95
+90 0 10 1d0+85
+28 0 5 2d0+75  -1
+-1
+-1
+0 1200000 6 6 1
+A
+%%10 yawn;%20 say Slow circular movements, thats it.;
+%15 emote seems to move at least an inch.~
+
+
+
+#14925
+four fabolous guitar player guitarplayer*~
+The mismatched guitarplayer~
+The mismatched guitarplayer tries to take a clean chord.
+~
+Zebra striped boots, plaid pants and spotted shirt. This thing is
+an orgy in mismatching colors that hurts your eyes. On top of that
+he is abusing his guitar to really bring up a headache.
+~
+12 4 fijkl dfhkrA -800 S
+109 -45 -55 0d0+6000
+403 500 100 7d10+35 -1
+304 100 326 100 327 100 338 100 328 100 -1
+1004 33 -1
+4 750000 8 8 1
+A
+%%10 growl;%5 moan;%10 emote swings his guitar in a raunchy movement
+around his pelvis.~
+R
+-1 -1 -1 -1 40
+
+
+
+#14926
+four fabolous singer*~
+The singer~
+The singer waves his hands in the air, starting the crowd.
+~
+With bat wings and a bat painted in his face, the singer starts
+to slobber all over you (YUCK!). At least he has a somewhat descent
+voice, but regrettably, not much else.
+~
+12 4 fijkl dfhkrsA -800 S
+109 -45 -55 0d0+6000
+403 500 75 6d10+35
+100 0 20 1d0+95
+17 0 5 1d0+100 -1
+304 100 326 100 327 100 338 100 328 100 -1
+-1
+4 750000 8 8 1
+A
+%%40 emote shouts 'All together now!~
+R
+-1 -1 -1 -1 33
+
+
+#14927
+four fabolous drummer~
+drunk drummer~
+The drunk drummer is trying to hit the drums at least once.
+~
+The drummer waves his sticks about frantically, his tongue halfway
+out of a tooth free mouth. The stench of mead is almost touchable
+around this wild thing. Suddenly he throws his sticks into your
+face and grabs another pair.
+~
+12 3 fijkl dfkhrsAD -800 S
+109 -43 -50 0d0+6000
+402 500 90 6d10+30
+33 0 10 1d0+100 -1
+304 100 326 100 327 100 338 100 328 100 331 100 -1
+-1
+4 750000 8 8 1
+R
+-1 -1 -1 -1 33
+
+
+
+#14928
+four fabolous baseplayer base player~
+idiot baseplayer~
+An idiot baseplayer is ignoring the note sheets.
+~
+Deaf as a pole, intelligent as a worm and as subtle as a brick.
+The perfect base player in other words. Nothing can stop him
+from playing the base as he wants, not even the other band members.
+~
+12 4 fijkl dfkhrA -800 S
+109 -42 -48 0d0+5500
+400 500 100 6d10+30 -1
+304 100 326 100 327 100 338 100 328 100 -1
+-1
+4 750000 8 8 1
+A
+%%30 emote laughs a wicked laugh.~
+R
+-1 -1 -1 -1 20
+
+
+
+#14929
+triad member mage holy~
+the Mage~
+The grand Mage of the Holy TRIad, watches you with great intense.
+~
+The grandmage snorts in contempt at your gaze. At least he knows
+he trancends you by miles. His arrogant ways are what recruited
+him into the TRIad in the first place.
+~
+0 0 fijkl h 1000 S
+105 -40 -40 20d5+6000
+406 500 85 14d4+45
+96 0 7 1d0+75
+101 0 8 1d0+75 -1
+322 100 -1
+-1
+1 700000 8 8 1
+
+#14930
+thief cleric holy triad member~
+the Thief Clergyman~
+There is no peace to the war this clergyman fights within himself.
+~
+Dressed in wide white garments this member of the TRIad seems
+to have at least one ounce of goodness in him, his smile warms
+the room and then he attacks.
+~
+1 1 gfijkl fhd 0 S
+109 -40 -45 10d100+4000
+400 500 40 3d20+30
+28 0 15 2d0+95
+76 0 15 1d0+95
+90 0 10 1d0+95
+4 0 2 3d0+95
+30 0 10 1d0+95
+87 0 5 1d0+95
+33 0 3 3d0+95  -1
+-1
+-1
+3 1000000 8 8 1
+A
+%%30 say We come in peace, KILL IT FAST!;
+%20 smile;%20 dance;%20 say Welcome, now please leave us.~
+
+#14931
+helper holy triad warrior member~
+the Warrior~
+The warrior of the TRIad is sharpening his boar-spear
+~
+WHOA. This thing is having an allergic reaction or something.
+he has bulges all over his body and displays muscles you didn't
+know existed. His broad, leaf-bladed spear definetly looks like
+it can do serious damage.
+~
+14 4 fijklg dhkrzD -800 S
+109 -50 -90 10d10+10000
+404 500 80 1d50+80
+103 0 4 1d0+90
+26 0 8 1d0+100
+5 0 8 1d0+100 -1
+-1
+-1
+40000 1300000 8 8 1
+R
+-1 -1 -1 -1 30
+
+
+
+#14932
+Robin bird duo~
+Robin~
+Robin is the latest bird in the Dynamic Duo.
+~
+He really is one rocking robin, but was misplaced by a nanny from being
+a common sparrow. You can clearly see his grey feathers beneath the
+red paint. Gently cracking a note he tries to look casual.
+~
+1 4 fijklm hk 1000 S
+103 -40 -48 4d155+2960
+403 500 77 4d10+50
+1 0 2 2d0+95
+28 0 15 2d0+75
+61 0 2 2d0+95
+67 0 2 2d0+95
+71 0 2 2d0+95 -1
+-1
+-1
+2 666667 8 8 1
+
+
+#14933
+Bruce man duo~
+Bruce~
+Bruce likes to dress up in tight leather outfits, Dynamic Duo, you bet!
+~
+Bruce was supposed to be the dark knight, but some old mummy down in that
+small temple in Moria beat him too it, so he has to settle for second best,
+at least for a little while longer. He only needs one kill to be number one.
+~
+12 4 fijklm dk -600 S
+105 -35 -20 1d1+8000
+410 500 90 30d4+0
+322 0 10 0d0+0 -1
+-1
+-1
+75 2333333 8 8 0
+A
+%%10 flex~
+
+
+
+#14934
+Slafs pro protectorate~
+Slafs~
+Slafs is but one part of the Gauntlets final Protectorate.
+~
+Consisting of a puddle of slimy liquid cant be that easy, but Slafs
+has managed this far. Green, brown and some other colors you cant
+really name is floating around within his liquid body, aswell as
+the last visitor.
+~
+12 4 fgijkl dfh -1000 S
+109 -50 -60 10d10+4200
+400 500 100 3d20+50 -1
+-1
+-1
+0 1200000 8 8 0
+
+#14935
+stomp pro protectorate~
+Stomp~
+Stomp is adding more power to the final Protectorate of the Gauntlet.
+~
+Stomp really isnt much of a looker, but hey, his feet is large enough
+to stomp you into the ground and past breaking point, best be you watch
+your step around him, and maybe he will mind his.
+~
+12 4 fijklg dfh -1000 S
+109 -50 -55 10d100+4000
+400 500 85 1d40+45
+4 0 5 1d0+100
+23 0 5 1d0+100
+90 0 5 1d0+95 -1
+-1
+-1
+0 1000000 6 6 0
+
+#14936
+Schlurp pro protectorate~
+Schlurp~
+The Protectorates own protegee, Schlurp, want to suck your life out.
+~
+Gibbering and giggling he runs to you and asks, can I keep you?
+Then he runs around screaming about some giant ant in his nose.
+You nervously look at the surroundings for that ant of his.
+~
+12 4 gfijkl df -550 S
+105 -45 -49 4d100+3500
+400 500 75 2d26+40
+33 0 10 3d0+100
+100 0 10 3d0+100
+76 0 5 1d0+100  -1
+-1
+-1
+0 800000 8 8 0
+
+
+#14937
+arti demon fallen~
+Arti~
+The old fallen, wants to feed you #rFIRE#N!
+~
+Once a nobody, now fallen from grace, he tries to lure people
+down in despair to shorten his own eternal lifespan. The gods
+has granted him 20 years off his sentance for each soul he
+gives them.
+~
+18 4 fijklm dhkyB 0 S
+100 -35 -55 0d0+3500
+400 407 60 7d11+30
+400 408 20 10d10+50
+26 0 20 1d0+90 -1
+-1
+-1
+1 1200000 8 8 1
+
+
+#14938
+divine intervention mistress~
+the Divine Intervention~
+The mistress, is really an act of higher divinity.
+~
+A sight for sore eyes. Pherhaps a little too much sight, but
+you can definetly get used to it, oh if only you had time to
+ogle it some more.
+~
+12 1 fijklm bdhk 1000 S
+105 -35 -60 1d1+2750
+407 500 50 20d6+10
+322 0 5 0d0+0
+4 0 20 1d0+95
+100 0 15 1d0+75
+107 0 10 1d0+75 -1
+-1
+4 95 7 100 38 100 40 100 103 75 -1
+2 1800000 8 8 2
+A
+%%10 emote bats her long lashes towards you.;
+%5 sneeze;
+%5 giggle~
+
+
+#14939
+anti mass~
+The AntiMass~
+The AntiMass is very much anti to masses.
+~
+With his anti body he tried to destroy the world, but was trapped
+by trickery and put here, to guard the gauntlet forever, to stop
+intruders and to be a tough challenge.
+~
+12 1 fijklc dhkD -1000 S
+105 -30 -45 1d1+2500
+400 500 15 20d3+30
+26 0 5 1d0+40
+4 0 20 1d0+90
+37 0 13 1d0+75
+63 0 14 1d0+50
+88 0 13 1d0+75
+100 0 20 1d0+40
+-1
+-1
+-1
+0 15 8 8 0
+A
+%%10 fart;
+%10 puke;
+%10 drool~
+
+
+#14940
+blob~
+The Blob~
+The Blob is at the end of the Gauntlets food chain.
+~
+A blob, much like those that surround Midgaard, but 50 times
+their size has taken up its residence here. Gelatinous slime
+covers the coating and it stenches like a slaughterhouse on 
+a hot summers day. Suddenly a slimy tentacle rushes forward
+to grasp and burn your leg away with its acid touch.
+~
+0 1 cfijkgl dhkD 0 S
+110 -40 -54 10d999+15000
+400 500 10 1d200+50
+322 0 5 0d0+0
+59 0 25 1d0+95
+100 0 25 1d0+100
+109 0 2 1d0+100
+33 0 15 1d0+100
+110 0 3 2d0+60
+75 0 2 2d0+60
+71 0 3 2d0+60
+28 0 10 2d0+100
+-1
+322 100 339 100 321 100 373 100 377 100
+-1
+375 90 372 90 324 100 322 100 300 90 301 90 302 90 303 90 373 90 387 90
+-1
+1000000 3 8 8 0
+A
+%%10 Emote tries to devour you.
+;%10 Emote welcomes you, in its very own special way, as dinner.
+;%10 rasp~
+R
+-1 -1 -1 -1 60
+#99999
+$~
+
+
+

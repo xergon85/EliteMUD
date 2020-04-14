@@ -1,0 +1,2233 @@
+Note: Time and Date is SYSTEM time not GMT. (ie GMT - 6h)
+
+
+
+
+Version 6.4.2
+
+
+
+03/07/30 09:40 - Bod
+
+act.comm.c     - Changed colour of tell to #b and yell to #c
+constants.c    - Changed Version to 6.4.122
+history.c      - Changed colour of tell to #b and yell to #c
+ignore.c       - Changed MAX_IGNORE to 100
+
+
+03/07/03 07:03 - Bod
+
+constants.c    - Changed Version to 6.4.121
+fight.c        - Changed so PKOK characters run through normal corpse generation sequence
+                 Players flagged KILLER or fights in PKOK rooms still generate empty corpses
+
+
+12/06/03 09:40 - Bod
+
+act.wizard.c   - Added 3 new imm commands (assigned to IMM_WORLD)
+        whereload:  Finds where an object or mobile loads to.  It goes through 
+                    the zone commands for each file and shows you all commands 
+                    that would load the object or mobile specified and all 
+                    relevant information.
+
+        findkey:    Finds the key that goes to the door in the direction 
+                    specified, and sends the vnum to the whereload command.
+
+        finddoor:   Finds the door that a key goes to.
+constants.c    - Changed Version to 6.4.120
+interpreter.c  - Added new imm commands to command_interpreter
+
+
+11/06/03 17:05 - Bod
+
+casino.c       - More modifications to special(roulette)
+config.c       - Tweaked title screen again
+constants.c    - Changed Version to 6.4.120c
+
+
+11/06/03 15:45 - Bod
+
+casino.c       - Made more changes to special(roulette)
+               - Banned the use of emote in the roulette room (just in case)
+constants.c    - Changed Version to 6.4.120b
+gen_cards.c    - In special(poker) barred the use of ":" (emote)
+
+
+11/06/03 08:45 - Bod
+
+act.obj2.c     - Fixed name_from_drinkcon problem (moved function calls to 
+                 before item value 2 (drink type) is set to 0)
+constants.c    - Changed Version to 6.4.120a
+
+
+10/06/03 16:30 - Bod
+
+act.comm.c     - Re-enabled stripping of color from chat & auction channels
+act.informative.c - In show_obj_to_char re-enabled (!CLAN) display against
+                 items for imm's flagged HOLYLIGHT only
+act.obj1.c     - In can_take_obj changed so imm's flagged HOLYLIGHT can pick up
+                 equipment from the don room of a clan they don't belong to
+               - Disabled anti looting code (loot logging re-enabled) pending
+                 a fix solution to reported bugs
+act.obj2.c     - Changed so imms flagged HOLYLIGHT can drink from / eat any
+                 clan eq (not just the clan they belong to)
+act.offensive.c - Prevented MUTED players from using order command
+act.other.c    - In do_use changed so imms flagged HOLYLIGHT can use (quaff, 
+                 recite, use) any clan eq (not just clan they belong to)
+act.wizard.c   - In do_start changed so vampires are started with max thirst
+                 (this happens prior to advance to level 1 so they get max gain)
+boards.c       - Added entry for obj 899 (Chalumeau Board)
+casino.c       - Changed roulette to take a bit longer (per cycle) and changed
+                 bet amounts to 100 - 100000 instead of 1000 to 10mil
+constants.c    - Changed Version to 6.4.119
+gen_cards.c    - In special(poker) barred the use of "emote" to prevent cheating
+handler.c      - Changed so imms are not automatically immune to align zapping 
+                 from eq (checks for HOLYLIGHT flag instead of level)
+               - Changed so imms flagged HOLYLIGHT can wear ANY clan eq 
+                 (not just the clan they belong to)
+spec_assign.c  - Assigned gen_board spec to obj 899 (Chalumeau Board)
+
+boards.h       - Increased Max Board Num from 62 to 63
+
+
+
+01/06/03 18:39 - Drusian
+
+constants.c    - Changed Version to 6.4.118m
+
+spellconst.c   - Removed spell "mage gauntlets" from Cleric
+                 as instructed by Sapphyre
+
+
+01/06/03 13:26 - Drusian
+
+constants.c    - Changed Version to 6.4.118c
+
+boards.c       - Fixed amend code
+
+act.wizard.c   - do_start - Dragon - tail lash skill set to 75
+fight.c        - Changed tail lash dmg to level x1 instead of level x1.5
+                 as instructed by Sapphyre
+
+
+30/05/03 04:12 - Bod
+
+config.c       - Tweaked title screen (moved text over from right a bit)
+constants.c    - Changed Version to 6.4.118
+fight.c        - In stop_fighting changed last stage of berzerk hp strip check to only
+                 affect players without enough hp to lose and that aren't on -3 or less hp
+                 (ie prevent double death from berzerk affect wearing off on being killed)
+
+
+29/05/03 15:40 - Bod
+
+constants.c    - Changed Version to 6.4.118a
+db.c           - Fixed Unknown cmd in reset table; syslog msg having a stray carriage return
+
+
+29/05/03 11:40 - Drusian
+
+act.obj2.c     - changed case "sheild" to "shield"
+boards.c       - fixed amend code
+
+boards.h       - changed MAX_BOARD_MESSAGES to 200 (requested by Kestrel)
+
+
+29/05/03 11:00 - Bod
+
+act.wizard.c   - Added disable to immortal_interp for OVERSEER
+                 In do_set fixed set room to work (moved roomflags case after room case)
+boards.c       - Added notebook for Kurrelgyre (obj 164)
+constants.c    - Changed Version to 6.4.117
+db.c           - Added load_disabled to initial game boot
+interpreter.c  - Added command do_disable and relevent support code
+spec_assign.c  - Added assigns for new boards
+utility.c      - Aded function get_line
+
+db.h           - Added definitions for disable
+functions.h    - Added definition of function get_line
+utils.h        - Added definition of READ_SIZE
+
+
+28/05/03 05:00 - Bod
+
+NOTE
+mu_guild, th_guild, cl_guild and wa_guild currently have their class specific feature disabled
+
+boards.c       - Renumbered board 42 as 28826
+                 Added boards 28825 and 28202
+                 Set boards 28202 to allow remove at cl9
+constants.c    - Changed Version to 6.4.116
+spec_assign.c  - Assigned various mob specs for zones 162 and 169
+                 Assigned pet_shops room spec for zone 162
+                 Added new special guildmaster (generic guildmaster with no clas restriction)
+spec_procs.c   - Modified guild_guard spec to include blocking for zone 162
+                 Added new special guildmaster (generic guildmaster with no clas restriction)
+
+boards.h       - Increased Max Board No to 61
+
+
+20/03/03 10:30 - Drusian
+
+boards.c       - Small fixes to board system
+constants.c    - Changed Version to 6.4.115
+
+
+06/03/03 15:40 - Bod
+
+lib/world/wld/30.wld
+Added NOSWEEP flag to room 3090 (requested by Kestrel)
+Modified description of room 1217 
+
+lib/world/zon/12.zon
+Added command to load Maerlyn's Board (161) into room 1216
+
+lib/world/obj/1.obj
+Changed description for board 161
+Added a #N at start of room description for board 149
+
+config.c       - Changed Elite Title Screen slightly
+constants.c    - Changed Version to 6.4.115
+structs.h      - Changed LEVEL_BOARD to 115 (level can read any board etc)
+
+	
+04/03/03 19:20 - Bod
+
+lib/world/obj/1.obj
+Changed description for boards 139 148 149 158 159 160 and 163
+Added objects 102 and 103 (Bod & Drusian wedding rings as per Glob)
+Added object 104 - Overseer Board
+Added object 105 - Criz's Clarinet
+Added object 163 - Talons Board
+
+lib/world/wld/12.wld
+Changed description for rooms 1234 and 1235
+Changed description for room 1236 - Now Britomartis Room
+Changed description for room 1215 - Now Overseers Board Room
+Modified exits for room 1204 to include an up exit to 1215
+Changed description for room 1231 - Now Titans Room
+Changed description for room 1268 - Now Talons Room
+Created exits on 1268 / 1269 / 1271 to link to / from 1268
+Changed description for room 1221 - Now Sapphyres Room
+Changed description for room 1219 - Now Drusians Room
+Created exits on 1219 / 1220 / 1221 to link to each other
+Created exit on 1220 to link to 1202
+Changed description of room 1257 to Empty (Brigantias room)
+
+Lib/world/zon/12.zon
+Added command for Turfs board (158) to load in room 1234
+Added command for Articus board (123) to load in room 1235
+Added command for Criz board (139) to load in room 1253
+Added command for Kestrel board (149) to load in room 1217
+Added command for Overseer board (104) to load in room 1215
+Added command for Chanis board (159) to load in room 1271
+Added command for Titans board (160) to load in room 1231
+Added command for Erebos board (162) to load in room 1269
+Added command for Sapphyre board (148) to load in room 1221
+Added command for Talons board (163) to load in room 1268
+Removed command loading Globs board (122) in room 1260
+Added command for Globs board (122) to load in room 1212
+Added command for Drusians board (136) to load in room 1219
+
+act.wizard.c   - In do_quest fixed colour bleed issues with send_to_all msg
+boards.c       - Added boards 104 - Overseer Board, 163 - Talons
+constants.c    - Changed Version to 6.4.114
+ocs.c          - For oedit changed NO_RENT / NO_SWEEP / NO_LOCATE toggles to
+                 display current setting and be visible to any level (must be
+                 113+ to be able to toggle still though)
+spec_assign.c  - Assigned SPECIAL(gen_board) to new boards 104 and 163
+
+boards.h       - Increased num of boards from 57 to 59
+
+
+04/03/03 11:40 - Bod
+
+lib/world/obj/1.obj
+
+Added new boards 136 - 139, 148 - 149 and 158 - 162
+Changed description for board 123
+
+boards.c       - Added in some new boards
+                 118 - IO (relinked), 122 - Glob (changed read / remove lvl)
+                 123 - Articus (changed read / remove lvl)
+                 136 - Drusian, 137 - Rahl, 138 - Israfel, 139 - Criz
+                 148 - Sapphyre, 149 - Kestrel, 158 - Turf, 159 - Chani
+                 160 - Titan, 161 - Maerlyn, 162 - Erebos
+constants.c    - Changed Version to 6.4.113
+spec_assign.c  - Assigned SPECIAL(gen_board) to new board objects
+
+boards.h       - Increased num of boards from 45 to 57
+
+
+04/03/03 08:30 - Bod
+
+act.wizard.c   - Added melt (social) to immortal_interp on IMM_BASIC
+                 In do_set fixed set nohassle - from NUMBER to BINARY
+constants.c    - Changed Version to 6.4.112
+interpreter.c  - Added new socials to command_interpreter
+                 melt - LEVEL_DEITY
+                 strip, moon, whinge, tug, throttle, splat, slam, adore,
+                 shark, scalp, reprimand, recoil, pucker, pillow, ohno, 
+                 lust, leer, hidenseek, eyeball, dismember, wobble, coke,
+                 imitate, paint - usable by all
+
+
+04/03/03 08:00 - Articus
+
+lib/misc/socials
+
+Rewrote bye social
+Changed bow to only work when standing
+
+Added new socials:
+strip, moon, whinge, tug, throttle, splat, slam, adore, shark, scalp, melt,
+reprimand, recoil, pucker, pillow, ohno, lust, leer, hidenseek, eyeball,
+dismember, wobble, coke, imitate, paint
+
+
+04/03/03 06:30 - Bod
+
+NB In interpreter.c LEVEL_IMPL remains the only level unaffected by FREEZE
+   Also the only level that cant delete from main menu
+
+   Also paintball.c will need to be evaluated for LEVEL_ADMIN once wargames 
+   revision has been completed by Djmc.
+
+   Also left show passwd as LEVEL_IMPL only - may change later but add
+   checking so LEVEL_ADMIN cant use show passwd on a LEVEL_IMPL 
+
+
+act.informative.c - In do_who changed so LEVEL_ADMIN idle time does not show
+act.wizard.c   - LEVEL_ADMIN can go to PRIVATE rooms (with 2 or more ppl in)
+                 LEVEL_ADMIN can use transfer ALL
+                 LEVEL_ADMIN+ now sees who is set PLR_LOG
+                 Also fixed speacing issue with LOG displaying on PLR:
+                 Changed SHUTDOWN so anyone with shutdown command can use 
+                 all options (means Britomartis can shutdown die if needed)
+                 LEVEL_ADMIN restore on an IMM will now give skills / maxstats
+                 LEVEL_ADMIN can set another IMMs invis level
+                 LEVEL_ADMIN can toggle another IMMs NOHASSLE flag
+                 LEVEL_ADMIN can set a players clan level without IMM_CLAN flag
+                 LEVEL_ADMIN can change an online players name  
+                 LEVEL_ADMIN can use set <player> goldlevel <value>
+                 Xlag now syslogs to LEVEL_ADMIN on BRIEF
+                 Removed fubar from immortal_interp
+                 LEVEL_ADMIN can immset IMM_ALL and any other flags on same or
+                 lower level IMMs (inc self but NOT LEVEL_IMPL IMMs)
+                 Immset now syslogs to LEVEL_ADMIN on NORMAL
+                 Changed force so force <imm> shutdown is blocked and syslogged
+boards.c       - Messages from LEVEL_ADMIN default to colour bright red
+                 LEVEL_ADMIN can remove / amend etc any board message
+comm.c         - Mud Efficiency now syslogs to LEVEL_ADMIN on COMPLETE
+constants.c    + Changed Version to 6.4.111
+db.c           - Zone resets now syslogs to LEVEL_ADMIN on COMPLETE
+                 Reset errors now syslogs to LEVEL_ADMIN on COMPLETE
+                 IMM_ALL is now set on LEVEL_ADMIN+ on login
+interpreter.c  - Removed fubar from command_interpreter
+limits.c       - LEVEL_ADMIN will no longer idle out
+modify.c       - Invalid option in string editor now syslogs to LEVEL_ADMIN
+                 on BRIEF
+
+
+
+09/02/03 14:40 - Bod
+
+act.comm.c     - Commented out Color code stripping from chat and auction
+                 as instructed by Mokky (look at redoing color s/n/c options)
+constants.c    - Changed to version 6.4.105
+
+
+09/02/03 14:10 - Bod
+
+act.offensive.c - In do_flee changed exp loss on flee to be for players only
+                  not for mobs (reported by Euximus)
+constants.c    - Changed to Version 6.4.104
+
+
+07/02/03 04:45 - Bod
+
+act.wizard.c   - Changed immortal_interp so tedit is avail to IMM_OVERSEER
+                 IMM_CODE IMM_NEWS and IMM_HELP
+               - Changed tedit to remove bugs ideas and typos options
+                 (these didn't work properly and I think will be better redone
+                  in a different way at a later date)
+               - Changed so credits can be changed by IMM_CODE
+               - Changed so all other options can be changed by IMM_OVERSEER
+               - Added show immortal for IMM_OVERSEER - lists ALL immortals in
+                 playerfile (currently very basic with unsorted name and level)
+constants.c    - Changed to Version 6.4.103
+handler.c      - Added capping of HMV to max if an object is zapped from a player
+                 ie align / clan checks which are carried out on autosave and don't
+                 pass through perform_wear or perform_remove functions
+
+
+06/02/03 07:00 - Bod
+
+act.obj2.c     - Rewrote name_from_drinkcon and name_to_drinkcon function to
+                 equivelent of current CircleMUD versions. Fixes issue of 
+                 incorrectly adding / removing liquid name as reported by Titan
+                 NB puts names on correctly but doesn't appear to properly remove
+                 (either removes or doesn't change)
+act.wizard.c   - In do_stat_character fixed display of Worships[x] to check 
+                 correctly (fixes last player in player_table's name appearing
+                 for players who worship None)
+constants.c    - Changed to Version 6.4.102
+               - Tidied up connected_types to remove meaningless OCSROOM entries
+                 (main game loop interacts with OCS in CON_PLYNG)
+               - In drinknames list changed "orange juice" to "juice"
+
+
+03/02/03 12:50 - Bod
+
+act.comm.c     - Changed info_line to be normal colour and Info: 
+                 (Titan conducted a player survey of preferred styles / colouring)
+act.social.c   - Added colour bleed fix to do_clantell
+act.wizard.c   - Changed do_force so all IMPL specifics is now ADMIN (115)
+                 ie 115 can now use force room / all and their use of force
+                 is not displayed to the player forced (ALL force use is logged!)
+boards.c       - Changed READ/AMEND/REMOVE to be READ/AMEND/(UN)LOCK/REMOVE
+config.c       - Added char *DEAD_MESSG =
+                 "§RYou have died. Press RETURN to go to main menu...§N\r\n";
+constants.c    - Changed to Version 6.4.101
+                 Added "Dead Msg", and "TextEdit", to connected_types for CON_x 
+handler.c      - In extract_char changed to send dead players to CON_DEADWAIT and
+                 display DEAD_MESSG instead of CON_SLCT and Main Menu
+interpreter.c  - Added CON_DEADWAIT - passes player onto Main Menu on RETURN
+
+structs.h      - Added CON_DEADWAIT and added explaination commentary for CON States
+
+
+Version 6.4.1
+
+
+02/02/03 17:10 - Bod
+
+fight.c        - Added check for !IS_NPC(ch) before running info_line as ALL player
+                 deaths are syslogged but I only want to display player v player
+
+
+02/02/03 15:10 - Bod
+
+act.comm.c     - Added void info_line - for broadcasting information to pksay channel
+act.other.c    - Changed so can't toggle pksay channel until level >= level_can_chat
+                 (remorts are excluded from this check)
+fight.c        - When player kills are syslogged also pass information to info_line
+
+functions.h    - Define for void info_line
+
+
+02/02/03 13:45 - Drusian
+
+
+act.wizard.c   - Changed so names aren't stored in lowercase in playertable anymore
+db.c           - Added copying of idnum into player_table structure
+               - Changed so names aren't stored in lowercase in playertable anymore
+                 - Fixes bug with uppercase names
+interpreter.c  - Fixes to get_player_lvl, get_idnum_name and get_idnum_level
+                 Also new players idnum's are stored into player_table on creation
+
+db.h           - Added long idnum in player_index_element
+
+
+02/02/03 13:20 - Bod
+
+act.comm.c     - Fixed glitches with pksay channel (due to being PLR_x
+                 instead of PRF_x (due to PRF_x being full))
+act.wizard.c   - do_shutdown - full options now avail to IMM_CODE
+               - set test changed to be avail to IMM_CODE and IMM_CODER
+               - Changed eedit and redit to be IMM_OVERSEER
+               - Changed pfunctions to be IMM_CODE and IMM_CODER
+constants.c    - Added CODER for IMM_CODER
+interpreter.c  - Moved pksay beneath pstatus (player request)
+spec_assign.c  - Added special postmaster to mob 3070 (immortal postmaster)
+
+structs.h      - Added IMM_CODER
+
+
+01/02/03 17:30 - Bod
+
+lib/misc/messages - Small grammatical / context change to flame ray (95)
+                    - reported by Ripper, suggested by Drusian
+
+act.comm.c     - In do_gen_com added checking for channel_allowed before
+                 proceeding to carry out channel action
+act.wizard.c   - Added do_chanset to turn global channels on / off
+                 Added chanset to immortal_interp for IMM_OVERSEER
+                 In do_set fixed a bug with changing a single class to
+                 3-multi-class (not setting class2 to Mu (if undefined)
+                 - Found by Rahl
+boards.c       - Changed override read / write level of clan boards to
+                 LEVEL_BOARD (defined in structs.h) - amend / lock etc unchanged
+               - Fixed an issue with write on clan boards that meant clan boards
+                 with write_lvl of 0 weren't open to anyone writing on them
+config.c       - Definition of channel_allowed[7]
+               - In default_elite_config set level_can_chat to 10
+db.c           - In game_boot turn all channels on
+fight.c        - Changed tail lash dmg to level x1.5 instead of level /2
+                 as instructed by Sapphyre
+                 Switched order or change_alignment and gain_exp to prevent
+                 zapping when mob kill fixes align
+interpreter.c  - Added ACMD(do_chanset) and chanset to command_interpreter
+
+structs.h      - Added #define LEVEL_BOARD 114
+
+
+01/02/03 12:30 - Bod
+
+Implemented Drusian's Changes.
+Made modifications so PKOKC is PKSAY and is on PLR_x as PRF_x is full 
+and I am not prepared to break sprintbit error checking (uses 32nd bit)
+Also removed !GECHO toggle due to lack of space on bitvector.
+Also moved do_ignore from act.offensive.c to act.other.c!
+Also changed edit (for boards) to amend (have future use for edit as imm cmd)
+
+act.informative.c - Made toggle nowho only visible to 112+ Immortals
+                  - Modified toggle so pksay appears amongst other channels
+act.movement.c - Added checking of ex_broken for open / close
+act.obj2.c     - Added stat (HMV) capping at end of perform_remove
+act.offensive.c - bash on exits now sets the door to EX_BROKEN (til reset)
+act.other.c    - In do_ignore added ignore * option to clear ignore list
+act.social.c   - Added #define "ignore.h" 
+act.wizard.c   - Moved immstat to IMM_ADMIN
+               - In do_stat_character - can only see an immortals immset if
+                 stating self or you have IMM_ADMIN / IMM_OVERSEER / IMM_ALL
+               - In immortal_interp assigned freeze peace and thaw to ADMIN / OVERSEER
+                 Moved afssave config nolastcmd pfunctions to CODE
+                 Moved duplicate load to STD / LOAD
+                 Moved medit oedit purge qecho quest questeq to STD / QUESTOR
+                 Moved restore send switch teleport transet transfer to STD / QUESTOR
+                 Moved unaffect to REMORT / QUESTOR (unaffect innates is remort only)
+constants.c    - Changed version to 6.4.1 
+db.c           - In execute_reset_cmds added removing of EX_BROKEN
+               - Added error checking for exit exists to prevent bad zone files crashing game
+interpreter.c  - mudlog display of immflags on logon only goes to level 115+
+modify.c       - fixed color bleed on alias display
+
+functions.h    - Added declaration of new function in boards.c
+structs.h      - Added in exit info EX_BROKEN
+
+lib/plrignore/ - Added directory structure for ignore and files for automaint 
+automaint      - Modified to include purging of plrignore as relevant
+
+
+24/01/03 12:25 - Drusian
+
+act.comm.c     - Fixed color bleeding on all channels
+constants.c    - Changed version to 6.4.009b
+structs.h      - Changed #define MAX_PRF 32
+	       - Changed #define CHAN_GLOBAL_MAX   6
+               - Added #define PRF_NOPKOK (1 << 31)
+
+22/01/03 22:09 - Drusian
+
+act.offensive.c - Added small fix to prevent mobs from using IGNORE command.
+objsave.c      - Fixed alias save bug when removing all aliases.
+
+22/01/03 12:31 - Drusian	
+
+constants.c    - Changed version to 6.4.009
+db.c	       - Changed channel GOSSIP to default OFF (offensive channel)
+	       - Changed channel PKOK to default OFF (offensive channel)
+	       
+22/01/03 9:31 - Drusian
+	      
+act.comm.c     - Changed message to display toggle chat isntead of toggle gossip (Found by Toril)
+act.obj2.c     - Fixed so AUTOSAVE does not cap to natural stats
+handler.c      - In equip char commented out portion to fix AUTOSAVE capping to natural stats
+
+21/01/03 4:15 - Drusian
+
+act.comm.c    - ACMD(do_gen_com): added PRF_NOPKOK, added CHAN_PKOK
+act.informative.c - ACMD(do_toggle) : added PKOK to be toggable
+act.other.c   - Added channel PKOK toggle messages 
+              - Added case SCMD_NOPKOK to switch statement 
+act.wizard.c  - Fixed so that titles set by immortals in color will not bleed.
+constants.c   - Added !PKOKC to const char
+history.c     - Added case CHAN_PKOK 
+              - Added channel PKOK history
+history.h     - Added channel PKOK and moved all others so PKOK is before QUEST
+interpreter.c - Added command PKOK to command_interpreter
+interpreter.h - Made PKOK channel toggable
+              - Defined PKOK channel as '5' and moved GRAT to '6' since it has no history
+spec.procs.c  - Added withdraw all and deposit all commands for banking
+structs.h     - Added #define PRF_NOPKOKC (did NOT change max flags)
+              - Changed #define MAX_PLR_FLAGS 31
+
+21/01/03 15:35 - Drusian
+
+act.obj1.c     - Added check to see if player is standing in their own clan donation room
+               - ACMD(do_put) : only clan members can put an item in their own donation room
+               - Fixed so only clan members of that clan can take an item from their donation room
+               - ACMD(do_drop) : only clan members can donate equipment, sacrifice equipment,
+                 or drop an item in their clan donation room.
+               - Commented out portion to prevented DONATED items from appearing in clan donation
+                 rooms. All successful donations will go to Midgaard Donation Room. 
+                 
+19/01/03 18:55 - Drusian
+
+act.comm.c     - Added #include "ignore.h"
+               - Added command to make sure a tell does not get sent to the ignoring party
+               - ACMD(do_whisper): removes whisper from ignoring party, still show in history
+               - ACMD(do_ask) : removes message, still displays player asking question
+               - ACMD(do_qcomm): added check for ignore (and writing?)
+               - ACMD(do_gen_com) : added ignore check to do_write
+               - ACMD(do_gsay) : added ignore check to do_write
+               - ACMD(do_say): sends message to each character vs sending to room
+act.offensive.c - Added #include "ignore.h" 
+               - Created ACMD(do_ignore)
+                 To a maximum list of 50, mortals can ignore mortals. Players cannot ignore 
+                 themselves or immortals. Immortals cannot ignore mortals.  A player does not
+                 know they are being ignored. Messages to ignored players do not reach the 
+                 ignored party but will show up on the sender's screen and in their history.
+act.other.c    - Created command to write to ignorelist in pfile.
+               - ACMD(do_save) : added command to write to ignorefile if player uses ignore.
+act.social.c   - Added #include "ignore.h"
+	       - ACMD(do_clantell) : added ignore check to do_write
+constants.c    - Added constant "SIGNO" for save ignore
+db.c           - Added free ignore list
+ignore.c       - Created for IGNORE command - Functions for ignoring players
+ignore.h       - Created for IGNORE command- Types for ignore.c
+interpreter.c  - Added #include "ignore.h"
+               - Added ACMD(do_ignore)
+               - Added command ignore to command_interpreter
+Makefile.in    - Added to OBJFILES ignore.o
+               - Added ignore.o:ignore.c
+               - Added ignore.h to act.comm.o, act.offensive.o, act.other.o, act.social.o
+                 intepreter.o
+objsave.c      - Added case IGNORE_FILE
+objsave.h      - Added #define IGNORE_FILE
+structs.h      - Added #define PLR_SAVEIGN (Saves the ignore list)
+               - Added new structure for ignore list
+
+lib/           - created directory structure for plrignore/               
+
+19/01/03 13:35 - Drusian
+
+act.comm.c     - Added cut_colors function to cut out color codes from a string
+               - ACMD(do_gen_com): added argument to cut out colors from CHAT and AUCTION
+act.wizard.c   - ACMD(do_gecho): if player is flagged !GECHO, they will not see them
+act.informative.c - ACMD(do_toggle) : made gecho toggable (Requested by most of TRI)
+act.other.c    - ACMD(do_gen_tog) : added case SCMD_NOGECHO
+constants.c    - Added !GECHO to const char
+interpreter.h  - Added #define SCMD_GECHO 
+structs.h      - Added #define PLR_NOGECHO
+               - Changed MAX_PLR_FLAGS to 30
+
+19/01/03 10:05 - Drusian 
+
+act.other.c    - ACMD(do_ungroup) : fixed to allow ungrouping of self, and ungroups all 
+                 members including the leader when grouped
+               - ACMD(do_quit): fixed to prevent a player from quitting the game with over 100 items
+magic.c        - Added new array for failure or controlling of pets. 
+               - Check is done when mobs are obtained by charmed person or instant slayer/wolf. If
+                 a player exceeds the max follows, excess mobs obtained by aformentioned spells will
+                 attack player and their followers. Is not affected by store bought pets. 
+                 (Suggested by Goozer)
+                 
+18/01/03 21:45 - Drusian
+
+boards.c       - Added flags to messages. Flags are stored after the heading after the
+                 string so do NOT modify heading_len unless you know what you are doing.
+                 MSG_EDITED,MSG_LOCKED are available flags to date.
+               - Added flag BOARD_LOCKED. It will not save on crash but could prove to be
+                 useful. Flag can only be set by LEVEL_ADMIN+. When flag in place, no
+                 edit, writing or removal of messages is possible.
+               - Added EDIT message command for boards . Edit works so that LEVEL_IMPL
+                 can edit any message. REMOVE_LVL on clanboard will allow for editing of all
+                 messages. Messages can be edited by self. 
+               - Added LOCK message command for boards. Lock allows you to lock a message 
+                 from being removed or edited until unlocked. For general boards, LEVEL_ADMIN
+                 can use and for clanboards REMOVE_LVL. Lock board will add the BOARD_LOCKED
+                 flag to the board.
+               - Added UNLOCK message command for boards. Reverse effect of LOCK. Unlock board
+                 will remove the BOARD_LOCKED flag from the board.
+               - Added Board_amend_msg(), Board_lock_msg(), Board_unlock_msg(), set_msg_flag(), 
+                 unlock_msg(), lock_board(), unlock_board(),msg_locked().
+boards.h       - Added msg flags, MSG_EDITED, MSG_LOCKED, MSG_STICKY. MSG_STICKY is not
+                 implemented yet.
+               - Added board flag : BOARD_LOCKED
+               - Added struct message_flag, set_msg_flag(), unlock_msg(),Board_display_msg(),
+                 Board_amend_msg(), Board_lock_msg() uses it.
+interpreter.c  - Added edit command for interpreter_command
+limits.c       - Fixed to display CAPPED value lost on flee vs CALCULATED value lost
+
+
+
+Version 6.4    
+
+
+14/01/03 16:45 - Bod
+
+act.comm.c     - Fixed do_gsay to be blocked by MUTE, SILENT rooms and players
+                 writing. This also stops pstatus.
+               - Fixed do_reply to be blocked by MUTE, SILENT rooms and players
+                 writing
+               - Fixed whisper to be blocked by MUTE and players writing
+               - Fixed ask to be blocked by MUTE and players writing
+               - Fixed tell and say to be MUTE blocked
+act.obj2.c     - Changed WAISTE to WAIST (all occurances)
+act.social.c   - Fixed insult, pose and all socials to be MUTE blocked
+act.wizard.c   - Fixed emote to be MUTE blocked
+constants.c    - Changed WAISTE to WAIST
+               - Changed version to 6.4
+
+structs.h      - Changed WAISTE to WAIST (all occurances)
+
+
+14/01/03 12:30 - Drusian
+
+act.offensive.c - Changes: ACMD(do_flee)
+                 Changed so that both players AND mobs will lose xp when they flee.
+                 Added check for every person in the room so that they will stop
+                 fighting you if you flee. Should solve the circle/bash after
+                 mob/player fleeing issue.
+
+
+14/01/03 11:15 - Djmc
+
+constants.c    - Changed version to 6.3.130a
+shop.c         - Added code to prevent purchase of containers containing items
+                 of a higher level than the player purchasing (ie lvl 1 trying
+                 to buy a bag containing sg set)
+
+
+Version 6.3.129 - This version never rebooted to (rollsover upto 6.3.130)
+
+
+09/01/03 18:45 - Bod
+
+interpreter.c  - Added "afk" to the reserved list (ie invalid names)
+
+
+09/01/03 16:45 - Djmc
+
+constants.c    - Changed version to 6.3.129z
+objsave.c      - Changed obj_to_store to write out object vnum's as 5 digits
+                 ie #30 is written as #00030 etc
+
+
+09/01/03 04:00 - Bod
+
+handler.c      - In unequip_char commented out HMV update (to lock down to max HMV)
+                 - Just doing this on equip_char should be sufficient as this way
+                 we allow players to retain the part of their HMV that the 
+                 replacement item has. Suggested by Goozer.
+
+
+08/01/03 13:50 - Bod
+
+act.obj1.c     - Modified get_from_container so pcorpse looting by players can be
+                 enabled / disabled via config loot (IMMS can always loot). Any 
+                 allowed looting is always logged.
+act.wizard.c   - Modified do_config to add toggle option for loot (loot_allowed)
+boards.c       - Rewrote boards code to fix issues with CLAN Boards.
+                 Added a reference value to table which stores clan vnum of
+                 each clan board (now locked by clan if not read / write level 0)
+                 Also added so IMM_CLAN can remove any message from any CLAN board
+                 Clan Boards MSG_LEVEL will be equal to clanlevel of player and
+                 no longer LEVEL of player (other boards still use player level)
+config.c       - Added loot_allowed to elite_config default is set to NO
+constants.c    - Changed version to 6.3.129y
+
+boards.h       - Modified board_type structure and added define for new entry
+
+
+07/01/03 19:00 - Bod
+
+act.informative.c - Changed do_finger to not show DELETED characters 
+                  - inspired by a query from Kuldran
+act.offensive.c - Fix to do_flee (preventing a mob whose POS status hasn't been
+                 updated due to mob_wait_state and is on 0 or less hp from fleeing)
+                 - found and fixed by Djmc
+act.wizard.c   - Modified do_stat_character to split up SPELL_FROM_ITEM display
+                 of Magic: (from item) ... to seperate lines ie no more
+                 Magic: (from item) invisibility sneak hide sets INVIS SNEAK HIDE
+config.c       - Added sh_int newbie_corpse_room = 3001; (set to mortal_start_room
+                 pending completion of rewrite of newbie zone by Mokky)    
+constants.c    - Changed version to 6.3.129x
+db.c           - Added newbie_corpse_room into check_start_rooms 
+fight.c        - Newbie corpses now go to newbie_corpse_room.
+                 This doesn't occur with make_pk_corpse (PKOK empty corpses)
+                 and newbie is defined as a non-remort character whose level
+                 is equal to or less than max_remort_level
+handler.c      - In affect_total changed EQ affect_modify check not to remove
+                 obj->bitvector (remove and re-add) - fixes temp glitch
+
+
+03/01/03 12:00 - Bod
+
+act.wizard.c   - Added extern char *item_affects[];
+               - Rewrote do_stat_character Affected By section to incorporate
+                 SPELL_FROM_ITEM displays Magic: (from item) regeneration
+                 for example (Error messages are set to show on affects which
+                 currently are not coded / inuse ie FEIGN_DEATH, DODGE etc)
+                 - This work was inspired by a request from Adara
+constants.c    - Changed version to 6.3.129w
+               - Added const char *item_affects[] for display of item affects
+db.c           - Modified char_to_store to not write to pfile SPELL_FROM_ITEM
+                 affects
+handler.c      - In equip_char and unequip_char modified call to affect_modify
+                 to not pass bitvector information and instead run a check to 
+                 add / remove bitvector through affect_char (ie Affected By(2)
+                 - spell / skill affects) - won't set if affect is already on 
+                 char - is distinguished as type SPELL_FROM_ITEM to allow 
+                 proper handling of bitvector removal with item removal etc 
+
+spells.h       - Added #define SPELL_FROM_ITEM 298 /* A bit set by wearing obj */
+
+
+02/01/03 17:00 - Bod
+
+act.wizard.c   - Changed do_stat_character to display Hometown[Midgaard] to players
+                 as preperation for new continent and Geldenrock hometown (still
+                 displays Hometown[<num>] for level 110+
+               - Moved Worships[x] to same line as Worshippers [x] and Power [x]
+                 Changed colour to bright blue and now displays name or None
+                 instead of IDNUM (doesn't display for lvl 100 - 109 (player
+                 worship levels - does if an imm does stat <player> though)
+               - Moved Remort to display before Clan[x] if visible
+constants.c    - Changed version to 6.3.129v
+
+
+02/01/03 15:45 - Bod
+
+act.wizard.c   - Changed do_stat_character to display FULL date for created and
+                 last logon (shows as Day Month Date Time Year) - that is default
+                 output from system time and how the data is stored in pfile
+constants.c    - Changed version to 6.3.129u
+
+
+01/01/03 10:30 - Bod
+
+act.informative.c - After discussion with Glob added ITEM_HIDDEN. Items are ONLY
+                 hidden (unseeable on look) if on the floor and this flag is never
+                 removed
+constants.c    - Changed version to 6.3.129t
+
+
+31/12/02 05:05 - Bod
+
+act.comm.c     - Moved yell back to be toggled on / off by NOCHAT (now gos is only
+                 abusive channel)
+act.informative.c - After discussion with Glob changed MOB_HIDDEN to only make 
+                 mob unseeable if it is on full hitpoints (this means hidden mobs 
+                 MUST have a long description - Glob to fix)
+constants.c    - Changed version to 6.3.129s
+fight.c        - In perform_violence removed MOB_HIDDEN REMOVE_BIT check 
+
+
+30/12/02 04:25 - Djmc
+
+constants.c    - Changed version to 6.3.129r
+
+structs.h      - Modified struct warg_data for wargames
+utils.h        - Added defines for wargames
+
+
+30/12/02 19:40 - Bod
+
+act.informative.c - PKOK player name's are displayed in bright red on look
+               - In list_char_to_char excluded MOB_HIDDEN from displaying on look
+act.wizard.c   - Moved redit and eedit to IMM_ADMIN against Quest Imm requirements
+                 for temporary room changes 
+constants.c    - Changed version to 6.3.129q
+fight.c        - In perform_violence made MOB_HIDDEN flag be removed so mob can be
+                 seen in room on look
+
+
+30/12/02 11:15 - Bod
+
+constants.c    - Changed version to 6.3.129p
+history.c      - Added checks in ct, wizline and yell history to ensure characters
+                 are in the game for history to be added to their list (found an
+                 obscure segmentation fault with a mob yelling as a character was
+                 extracted to main menu)
+
+
+30/12/02 10:25 - Bod
+
+constants.c    - Changed version to 6.3.129o
+fight.c        - Wrote new routine make_pk_corpse - changed so ALL pk deaths leave a 
+                 corpse (make_pk_corpse doesn't move a players equipment or gold to
+                 corpse - leaves it with player instead).
+                 Changed check statements in raw_kill to call make_pk_corpse when a
+                 player dies under a pk situation OR is a PKOK character
+
+
+30/12/02 08:10 - Djmc
+
+act.movement.c - Added check in do_hunt to prevent getting items when overweight etc
+               - Changed do_land to be usable by ANYONE flying and fixed typo in dragon 
+                 landing message. - Default landing message is: 
+                 $n stops flying and lands on the ground.
+constants.c    - Changed version to 6.3.129n
+
+structs.h      - In char_special_data changed byte carry_items to an int (prevent looping
+                 if a character has more than 127 items)
+
+
+28/12/02 08:10 - Bod
+
+act.wizard.c   - Modified do_restore to also remove blind, poison, curse and sleep
+constants.c    - Changed version to 6.3.129m
+
+
+27/12/02 20:15 - Bod
+
+constants.c    - Changed version to 6.3.129l
+magic.c        - modified mag_areas to work with PKOK system and pk_allowed check
+               - Disabled spell_charm_person from being usable against players EVER
+                 as spell modifies players name to include _<charmer>_ and _charm_
+               - Modified spell sleep to be usable by PKOK chars as well as pk_allowed
+
+
+27/12/02 18:00 - Bod
+
+act.comm.c     - In do_gen_comm changed CHAN_NONE to CHAN_YELL to activate yell history
+                 as request by Alibaba
+               - Added: Toggle gossip channel ON if you want to yell! message for NOGOSS
+                 flagged players so they understand why are not seeing Yell History
+act.wizard.c   - Added stringdata_save(vict); into do_set TITLE (case 2) so that 
+                 set file <player> title <val> will actually change a players title
+                 Also added stringdata_load(cbuf); to bring all plrstrings info in to
+                 game - otherwise a players string file will be written out as just new title
+constants.c    - Changed version to 6.3.129k
+               - Removed unused channel_name list (specified individually in history.c)
+history.c      - Added case CHAN_YELL 
+modify.c       - Added: $n has finished writing a message. sent to room at end of writing
+                 or mailing - requested by Drusian
+
+history.h      - Added #define CHAN_YELL for yell channel history and changed 
+                 #define CHAN_MAX to 12
+structs.h      - Changed CHAN_CHAR_MAX to 7 to include yell history as local history
+
+
+26/12/02 21:35 - Bod
+
+act.informative.c - Added a line in do_score so PKOK players are fully aware they are PKers
+constants.c    - Changed version to 6.3.129j
+fight.c        - Modified raw_kill so PKOK players never leave a corpse (am thinking of
+                 changing this so that they leave a corpse but nothing is placed in it -
+                 this would allow creation of PK items that are left in corpse for victor
+                 to take - ie items like for example pk crown etc)
+graph.c        - Changed so a PKOK char CANNOT track another PKOK character.
+                 This may need to be changed so no-one can track a PKOK character (we'll see)
+
+
+26/12/02 16:15 - Bod
+
+constants.c    - Changed version to 6.3.129i
+fight.c        - Duplicated ITEM_WEAPON checks for ITEM_FIREWEAPON so bows can be seperated
+                 onto a seperate item type for future changes - requested by Mokky
+                 (check for dual wield skill, check for skillbonus (stab, slash etc) in hit.
+                  check for dual wield skill in perform_violence)
+               - Added skill check for PIERCE on pierce_no_backstab (type 12) for skillbonus
+magic.c        - Duplicated ITEM_WEAPON checks for ITEM_FIREWEAPON so bows can be seperated
+                 onto a seperate item type for future changes - requested by Mokky
+                 (spell identify and spell enchant weapon)
+
+26/12/02 12:20 - Bod
+
+act.wizard.c   - Added logging of purge obj <vnum> and purge mob <vnum> to syslog and screen
+constants.c    - Changed version to 6.3.129h
+magic.c        - Added #N's in key places in spell_locate_object to prevent colour bleed
+                 from objects or rooms that aren't correctly terminated with #N as pointed
+                 out by Zero and Nopeace from observing Samhain's sack bleeding red everywhere
+
+
+23/12/02 16:50 - Bod
+
+constants.c    - Changed version to 6.3.129g
+handler.c      - Removed comments around code in equip_char and unequip_char that prevented
+                 phantom hp / mn / mv from ceasing to exist (with equip) - blame Kestrel
+
+
+23/12/02 13:30 - Bod
+
+act.informative.c - In do_who added -p option for who pkok
+                 Added (PKOK) flag at end of players titles who are PKOK
+                 Changed so PKOK players' names will display in bright red on who
+                 instead of dark green or drak cyan depending on state of wizname
+actoffensive.c - Rewrote pkok_check to work with PKOK system and pk_regardless 
+act.wizard.c   - Added set pkok (pkok flag) for IMM_PK and IMM_ADMIN (Rahl and Israfel
+                 have already been given IMM_PK immset)
+                 Added view pkok and show pkok 
+constants.c    - Changed to v6.3.129f
+fight.c        - Rewrote check_killer to work with PKOK sysetm and pk_regardless
+magic.c        - Modified spells sleep and charm_person to work with PKOK system and
+                 pk_regardless (summon left with pk_regardless toggle ONLY)
+
+
+23/12/02 13:10 - Bod
+
+act.obj1.c     - Changed so Wrong Clan! items can be picked up by players flagged with
+                 PLR_HOLYLIGHT - ie IMMS (same as dropping NODROP items)
+
+
+23/12/02 13:00 - Djmc
+
+mobact.c       - Added invalid room protection around MOB_AGGRESSIVE to hopefully
+                 resolve rprog associted crash issues once and for all
+                 log("SYSERR: Calling AGGRESSIVE Mob Act with mob not in a valid room");
+
+
+23/12/02 12:30 - Bod
+
+act.informative.c - Changed default wizname colours in do_who as follows
+                  and added an extra imm level for 116 structure
+                  #define GET_COLORWIZ(ch) ((GET_LEVEL(ch) < LEVEL_DEITY)  ? "#R" :(\
+                  (GET_LEVEL(ch) == LEVEL_DEITY)  ? "#m" :(\
+                  (GET_LEVEL(ch) == LEVEL_RETIRED) ? "#e" :(\
+                  (GET_LEVEL(ch) == LEVEL_IMMORT)  ? "#w" :(\
+                  (GET_LEVEL(ch) == LEVEL_LESSER) ? "#c" :(\
+                  (GET_LEVEL(ch) == LEVEL_GREATER) ? "#y" :(\
+                  (GET_LEVEL(ch) == LEVEL_ADMIN) ? "#b" :(\
+                  (GET_LEVEL(ch) == LEVEL_IMPL)   ? "#g" : "#R"))))))))
+                  
+                  Changed wiznamelist_m and _f for levels as follows :-
+                    " DEITY  ",
+                    "RETIRED ",
+                    " IMMORT ",
+                    " LESSER ",
+                    "GREATER ",
+                    " ADMIN  ",
+                    "  IMPL  "
+constants.c    - Changed to v6.3.129e
+structs.h      - Added LEVEL_ADMIN as 115 and changed LEVEL_IMPL to 116
+
+util/
+editlvl.c      - Modified to work for new 116 structure conversion instead of to 115
+
+
+17/12/02 13:05 - Bod
+
+act.informative.c - Fixed who -r half-x problem - changed strncmp check on race_table
+                 to check first 8 characters instead of 4 - as pointed out by Djmc
+
+
+16/12/02 18:00 - Bod
+
+act.wizard.c   - Added pkok_allowed into do_config
+config.c       - Added pkok_allowed to config for Global PK System default is YES
+                 Changed default auto save time to 6
+constants.c    - Changed version to 129d. Added PKOK to PLR_x
+structs.h      - Added define for PLR_PKOK (global pk system)
+
+
+16/12/02 15:02 - Bod
+
+util/
+editlvl.c      - Wrote a little utility to run through the playerfile and raise all
+                 Imms to their correct level for new structure (ie 114 -> LEVEL_IMPL
+                 (either 115 or 116 etc) - Tested on 7k pfile - works fine - outputs
+                 a new pfile to players.new leaving players unaffected
+
+
+15/12/02 17:20 - Bod
+
+act.informative.c - Changed colour definitions for each imm level on wizname to be
+                 different and added definition for LEVEL_RETIRED
+                 LEVEL_IMPL    - Dark Green (req Mokky)
+                 LEVEL_GREATER - Light Blue (req Sapphyre)
+                 LEVEL_LESSER  - Light Cyan (req Rahl and Chani)
+                 LEVEL_IMMORT  - Light Green (req Talon)
+                 LEVEL_RETIRED - Light Yellow (req Pintor and Samhain)
+                 LEVEL_DEITY   - Light Magenta
+constants.c    - Changed to v6.3.129c, Added PK to IMM_x
+structs.h      - Changed to 115 Level system (added LEVEL_RETIRED at 111), moved other
+                 level definitions up 1. Added IMM_PK define for PK control stuff
+
+
+11/12/02 18:00 - Bod
+
+util/
+showplay.c     - Added load_room to output info as requested by Mokky
+                 Also tidied display and ensurd fixed length for data
+
+
+11/12/02 17:15 - Bod
+
+act.comm.c     - Changed mute so muted players can see channel history but still not 
+                 use channels - requested by Dismal
+act.informative.c - Added [-k clanvnum] to display on who -? as suggested by Euximus
+act.offensive.c - Fixed do_kick so a failed kick no longer sends miss message and then
+                 performs a succesful kick - Found by Drusian
+act.wizard.c   - In do_config fixed max_bank_gold xxM display to show properly
+                 - reported by Mokky
+                 In view_immortals and view_questors fixed Switched: displaying imm's
+                 name instead of the mob they are switched into
+utils.h        - Changed WAIT_STATE from = (cycle) to
+                 #define WAIT_STATE(ch, cycle) { \
+                    if ((ch)->desc) (ch)->desc->wait += (cycle); \
+                    else if (IS_NPC(ch)) GET_MOB_WAIT(ch) += (cycle); }
+                 suggested by Drusian
+                 Fixes issue of circling (getting a wait state of 2) being bashed by a
+                 mob like elite guards (in same round) and having wait state set to 1
+                 and then being able to circle in 1 round stime instead of 2.
+                 This way it just increments the wait state so a player being multi 
+                 bashed by a group of mobs may not be able to action any commands until
+                 they auto flee and likewise its possible for a group of players spam
+                 bashing a mob to keep that mob sitting down (this is harder to do than
+                 the mobs keep a player from using skills / spells - mob wait state works
+                 in attacks whereas players work in combat rounds)
+
+
+10/12/02 16:45 - Djmc
+
+constants.c    - Changed version to v6.3.129b
+rprogs.c       - in execute_push_prog added error checking for invalid dir
+                 dir < 0 || dir > 5 to prevent crashes associated with mob move
+
+
+09/12/02 13:20 - Djmc
+
+constants.c    - Changed version to v6.3.129a
+rprogs.c       - on line 205 of rprogs.c change return 0 to continue
+                 it stops to check other room triggers when one is faulty
+                 it should just ignore that one...
+               - line 246 ending of switch had extra semicolon
+
+
+Version 6.3.128
+
+
+08/12/02 18:40 - Bod
+
+spec_assign.c  - Commented out goto_mayor assign - incase it's causing SIGTERM
+                 If not then globbie's rprogs have to die
+
+
+08/12/02 17:40 - Bod
+
+automaint.c   - Modified circle-3.1 automaint script and threaded elite account with
+                renamed copies of purgeobjs + purgedir for the following directories:
+                lockers, plraliases, plrlogs, plrmail, plrobjs and plrstrings
+
+autorun.c     - Modified circle-3.1 autorun script for elite
+
+
+util/
+delobjs.c     - Modified circle-3.1 delobjs.c for automaint script (purge process)
+purgeplay.c   - Modified circle-3.1 delobjs.c for automaint script (purge process)
+
+showplay.c    - Modifield circle-3.1 showplay.c to work with elite and provide 
+                information sa requested by Mokky
+
+
+07/12/02 16:45 - Bod
+
+act.wizard.c   - In do_set Changed range for ac to -2000, hr to 100 and dr to 100
+constants.c    - Changed to v 128
+
+
+30/11/02 18:15 - Bod
+
+act.other.c    - Changed if (number(1, 110) + GET_LEVEL(victim) < GET_SKILL(ch, SKILL_FIRST_AID)) 
+                 in do_aid to be number(1, 110) < SKILL_FIRST_AID to make the skill usable!
+                 Also corrected the grammer of success message
+constants.c    - Changed to version 6.3.128b
+
+
+26/11/02 16:10 - Bod
+
+act.wizard.c     - Modified do_duplicate to accept a qty arguement (range: 1 - 20)
+                 As requested by Glob and Mokky
+
+
+26/11/02 14:20 - Bod
+
+act.wizard.c     - Fixed vstat room for do_stat_room references to IN_ROOM(ch)
+                 Character is now moved silently to room, performs stat and returns 
+                 to original location (just like at - at room stat room - is same as)
+
+
+26/11/02 12:55 - Djmc
+
+spec_procs.c     - Fixed goto_mayor spec to work without crashing the mud
+
+
+24/11/02 13:25 - Bod
+
+constants.c      - Changed version to 6.3.128a
+fight.c          - Fixed berzerk bug - was checking for min(level/2,100) instead of level
+
+
+Version 6.3.127
+
+
+24/11/02 09:25 - Bod
+
+act.wizard.c     - do_config - fixed incorrect logging msg
+fight.c          - Added a message for dying people with berzerk
+limits.c         - Added a check to kill POS_DED ppl in point_update
+
+
+24/11/02 08:15 - Bod
+
+act.offensive.c  - Fixed issue where could gain a couple more move than 50 cap
+fight.c          - Changed to set to -3 hp and POS_INCAP and remove hp > 0 check
+
+
+24/11/02 07:10 - Bod
+
+act.wizard.c     - Modified do_transet to delete_doubledollar so $vars will be passed for
+                 evaluation by do_trans act calls
+                 Added text about $n and $N to transet usage
+                 Modified do_trans so act calls contain ch to enable $N usage
+interpreter.c    - Changed trans to transet and placed AFTER transfer ie type trans for
+                 transfer and transe for transet - Requested by Titan
+
+
+23/11/02 18:00 - Bod
+
+act.wizard.c     - Added do_transet (like do_poofset)
+                 - Changed do_trans to use transIn / Out or default msg
+                 - Also improved do_poofset so an invalid subcmd returns usage msg
+db.c             - Added transIn and transOut to free_char
+interpreter.c    - Created entry for do_transet
+objsave.c        - Added transIn and transOut to stringdata_save and stringdata_load
+interpreter.h    - Added SCMD options for TRANSIN / OUT / VIEW
+structs.h        - In char_special_data added chars TransIn and TransOut for new trans
+
+
+23/11/02 17:15 - Bod
+
+act.wizard.c     - Rewrote do_trans to accept an optional argument of type
+                 trans <thing> <text> - Displays to both entry / exit room instead of
+                 usual puff of smoke - Requested by Titan
+
+
+20/11/02 18:00 - Bod
+
+act.wizard.c     - Fixed for LEVEL_IMPL and IMM_OVERSEER to be able to go to PRIVATE
+                 rooms (an incorrect boolean expresion caused the problem)
+interpreter.c    - Players flagged !DEL can no longer self-delete and IMPL's trying to
+                 self-delete are now informed that they can't instead of silent method
+
+
+20/11/02 16:30 - Bod
+
+boards.c         - Aded new board for Midnight Sun (27509)
+boards.h         - Increased total boards by 1 to 45
+spec_assign.c    - Assigned gen_board to obj 27509
+19/11/02 17:05 - Bod
+
+fight.c          - Discussed with Mokky not enough hp on berzerk now sets player to
+                   -3 hp and POS_INCAP - requires first aid or heal to live otherwise
+                   will die in about 4 ticks
+
+
+19/11/02 16:30 - Bod
+
+fight.c          - Made Berzerk harsher! Gained HP / Move will ALWAYS be removed!
+                 If this would take the players move below 0 it is set to 0 instead
+                 If this would take the players hp below 0 it is instead set to 0 and
+                 their position set to STUNNED (tick update will restore hitpoints and
+                 put them back to POS_STANDING or heal)
+                 If a player ends combat BELOW 0 hp then they are left to be healed,
+                 first aided or die with tick update(s)
+                 - Topic for debate - should having less than the required hp to be 
+                 removed at end of combat set player to POS_INCAPACITATED and -3 hp
+                 to require intervention from another player to keep them alive and
+                 more specifically increase the need for first aid skill?
+
+
+19/11/02 15:20 - Bod
+
+act.comm.c       - Changed do_gen_comm, do_qcomm and do_pray so that level_can_chat
+                 restriction doesn't affect remorts (ie a lvl 1 1st remort can chat!)
+act.informative.c - In do_who changed display for idle: %d to count in minutes not ticks
+                 (tch->specials.timer * SECS_PER_MUD_HOUR / SECS_PER_REAL_MIN)
+                 as found by Titan (now conforms to view and users)
+                 Also changed to display after 5 minutes not 5 ticks
+act.obj1.c       - Changed so players flagged HOLYLIGHT can drop NODROP items and can
+                 drop items in NO_DROP rooms      
+act.wizard.c     - Added view_questors to do_view - provide details of QUEST flagged
+                 characters
+                 - Added Idle timer to view_mortals
+                 - In do_stat_character changed colour of Saves[x/x/x/x] from Red to
+                 normal colour with values still in red - suggested by Toke
+fight.c          - Changed BERZERK removal to take away bonus hp if player on > 100 HIT
+                 and take away bonnus mv if player on > 50 MOVE
+
+
+19/11/02 12:55 - Djmc
+
+act.movement.c   - In do_wake changed You can't wake people up if you are asleep 
+                 yourself msg to display to TO_SLEEP - Found by Titan
+
+
+17/11/02 13:35 - Bod
+
+act.wizard.c     - Fixed angel's innates being grouped in with half_elf and others
+                 causing some races to get free det_align if created or set
+                 - Reported by djmc
+
+
+17/11/02 19:55 - Bod
+
+constants.c      - Changed version no to 6.3.127 to update 4k
+
+
+17/11/02 19:35 - Djmc
+
+spec_assign.c    - Added assigns for guard_caller spec and entry in spec_list
+spec_procs.c     - Added guard_caller spec for Glob's Mill zone (132) - Elite Guards
+
+
+17/11/02 19:20 - Bod
+
+fight.c          - Changed removal of berzerk to remoev gained hp / move from current 
+                   if player is on more than 1/4 hp / mv to prevent berzerk being used 
+                   as a method of healing or to accumulate fake hps
+interpreter.c    - Barred wimpy from being used with berzerk as recommended by Goozer
+
+
+17/11/02 16:25 - Bod
+
+act.wizard.c     - Fixed wrongly set line breaks between PLR_TEST and normal stat
+constants.c      - changed version to 6.3.127a
+
+
+
+Version 6.3.126
+
+
+17/11/02 15:20 - Bod
+
+act.offensive.c  - Changed berzerk to give +level hitpoints and +level/2 move
+act.wizard.c     - Changed so IMM_OVERSEER can goto PRIVATE rooms
+                 - Changed do_stat back to:
+                   Saves[Physical: 0 / Mental: 0 / Magic: 0 / Poison: 0]
+constants.c      - Changed to version 6.3.126
+fight.c          - Removed taking away of move points
+
+
+17/11/02 12:20 - Bod
+
+act.offensive.c - Changed berzerk to give a hitroll bonus of 1 + GET_LEVEL(ch)/2
+                  Also to give a MOVE bonus of GET_LEVEL(ch)/2 - as discussed with Mokky
+                  Left HIT bonus commented out for future discussion
+act.wizard.c    - Changed do_immset so can't set your own imm flags or others of the
+                  same or higher level unless you are LEVEL_IMPL (Prevents Temptation)
+                - do_stat - Changed display of Saves[...] to Save vs Spell[...] to be 
+                  more informative of precise nature of saves
+                  Changed to display Clan, Clanlevel etc for any level char instead of
+                  level 100+
+constants.c     - Changed version to 6.3.126d
+fight.c         - Changed back so berzerked players don't gain dex ac bonus
+                  Changed removing of berzerk at end of cmbat to remove affect instead of
+                  just flag. Also changed to subtract 50 move (or set to 0) whichever is
+                  applicable to cancel out the bonus given at the start of combat
+interpreter.c   - Changed switch, show, wizhelp, skillclear, skillset, force, echo and
+                  send to POS_DEAD in command_interpreter
+                - Changed berzerk to block bash and kick again
+                - Changed berzerk to allow say, ', yell, whisper, ask, consider, diagnose
+                  examine and look from POS_RESTING upwards (score, stats, group,
+                  pstatus are all usable already!) - as discussed with Mokky
+
+
+17/11/02 10:20 - Bod
+
+act.wizard.c    - Fixed dwarves and gnomes starting with det_align (in do_start)
+                  Found by Mokky
+
+
+17/11/02 10:00 - Bod
+
+boards.c        - Changed main tkk board to read cl2, write cl2, remall cl10 at Ripper's
+                  request
+
+
+17/11/02 18:30 - Bod
+
+constants.c     - Updated version no to 6.3.126c (letter will disappear for 4k boot)
+fight.c         - Changed display of dam inflicted by opponent to show as >>x<< as
+                  suggested by Glob and also fixed display of 0 dam from opponent
+                  when player is PRF_GAG'ed as found by Crimh
+
+
+17/11/02 18:00 - Bod
+
+act.wizard.c    - Changed display of stat slightly (Magic Resistance to seperate line at
+                  request of players)
+                - Fixed purge <player> issue reported by Rahl
+
+
+13/11/02 17:30 - Bod
+
+act.offensive.c - Added Damage Detail msg for Bash, Kick and Throw Skills
+fight.c         - Changed text for Unfair Fight Damage Detail msg to include 0 dam
+                  Added Damage Detail msg for claw, pounce and tail lash including dam value
+interpreter.c   - Changed Berzerk command block check
+                  - Modified to ONLY count if char is fighting (because of AFF_BERZERK items)
+                  but changed to bar all POS_RESTING, POS_SITTING and POS_STANDING commands
+                  and enabled bash and kick from POS_FIGHTING commands
+                  Also enabled look from POS_RESTING commands
+
+
+13/11/02 15:40 - Bod
+
+fight.c         - Added send_to_char("[#GUnfair Fight Attack#N: ", ch); /* Damage Detail */
+                  in hit() when an attack is replaced with unfair fight skill
+
+
+13/11/02 15:00 - Bod
+
+act.wizard.c    - do_stat_char CAPS display value of MR at it's code limit of 85 (int mr_cap)
+                  (kit still increases MR past this point but stat now reflects effective
+                   value of MR ie additional kit past 85 does nothing!)
+constants.c     - Changed version to 6.3.126b - To clarify incomplete version update
+fight.c         - Added (Orig: dam) to PLR_DETAIL to show damage before SANC, limit and
+                  saves_spell(victim, attacktype, NULL, SAVE_SPECIAL) damage reductions
+                  NB This orig damage is after parry / dodge / tumble reductions!
+                - Added display of To Hit, Diceroll, Victim AC and Dam before skills change it
+fight.c         - Changed so BERZERK only penalises AC by GET_LEVEL(ch)/2 and doesn't cancel
+                  out the DEX AC bonus for AWAKE players as well!
+
+
+13/11/02 14:30 - Bod
+
+act.informative.c - ACMD(do_toggle) added option "detail" for PLR_DETAIL (Damage Detail on
+                  PLR_TEST) Only displayed on "toggle" to characters with PLR_TEST set
+act.other.c     - ACMD(do_gen_tog) added SCMD_DETAIL - for Damage Display to PLR_TEST
+act.wizard.c    - do_stat_char - Fixed stradd to display for GET_STR == 18 if its value > 0
+                - do_stat_char - Changed Resistances display to be more informative for players
+                  - Changed AC / HR / DR display to show hidden bonuses for players flagged PLR_TEST
+                    (note this doesn't include skill based or other checks calculated during combat)
+constants.c     - In Plr_x changed TEST to T1 and added T2 for PLR_DETAIL
+fight.c         - Modified dam display <<%d>> to show <<0>> entries if player doesn't have GAG on
+                - Added check for PLR_DETAIL to Damage Display (will be expanded to show more 
+                  of the combat values under PLR_DETAIL to facilitate testing)
+interpreter.h   - Added SCMD_DETAIL to do_gen_tog SCMD list
+structs.h       - Added PLR_DETAIL
+
+
+13/11/02 14:10 - Djmc
+
+act.obj2.c     - Removed light++ from do_grab and removed light-- from perform_remove
+act.other.c    - Removed light-- from do_quit
+fight.c        - Removed light-- from make_corpse
+handler.c      - In char_to_room added   if (!ch || room < 0 || room > top_of_world)
+                 check to prevent illegal values being parsed to char_to_room that
+                 could cause the game to crash
+               - In equip_char added light++ (protected with IN_ROOM(ch) != NOWHERE)
+               - In unequip_char added light-- (protected with IN_ROOM(ch) != NOWHERE)
+
+
+12/11/02 13:35 - Bod
+
+boards.c       - Changed REMOVEALL value of Kai Board to cr 9 at Goggi's request due to 
+                 Phobos' inactivity
+constants.c    - Changed version to 6.3.126
+
+
+Version 6.3.125
+
+
+11/11/02 14:15 - Bod
+
+act.obj2.c     - modified perform_remove and do_grab for light sources (reverted to original)
+fight.c        - make_corpse - modified for light sources (reverted to original)
+handler.c      - modified equip_char, unequip_char and extract_char for light sources
+                 (reverted to original)
+spec_assign.c  - Re-enabled mobile assigns for glob's new specs
+
+
+11/11/02 14:05 - Bod
+
+act.wizard.c   - Added usage display to do_purge, do_restore and do_unaffect
+ban.c          - Changed so instead of LEVEL_IMPL only being able to ban
+                 IMM_OVERSEER and IMM_ALL can ban
+
+
+10/11/02 19:05 - Bod
+
+constants.c    - Changed version to .125
+objsave.c      - In object_load added an error check for trying to put a 5th affection
+                 onto an object during item load - returns error via fparse_error with
+                 text - AFF1 - aff_pos >= 4 - Silently removes item from game!
+spec_assign.c  - commented out the assigns for glob's new specs incase lack of mob existing
+                 in main game causes a problem in mobile_activity
+
+
+
+Version 6.3.124
+
+
+10/11/02 15:40 - Bod
+
+act.informative.c - Changed do_users to display idletime for LEVEL_IMPL
+
+
+10/11/02 15:25 - Bod
+
+act.informative.c - LEVEL_IMPL doesn't display (idle: time) on do_who
+limits.c       - Changed idletimer so LEVEL_IMPL idletimer counts up but does not cause
+                 them to be idle extracted for excessive idling
+
+
+10/11/02 15:15 - Bod
+
+act.wizard.c   - do_config is now finished and working complete with range checking
+
+
+10/11/02 13:20 - Bod
+
+act.wizard.c   - Made some changes to view_immortals - Fixed to display switched imms
+                 Also changed Snooping to only display to same level or higher imms
+                 and made some minor display changes
+
+
+10/11/02 12:50 - Bod
+
+act.wizard.c   - do_config now displays current settings of configurable options.
+                 Options are not settable online yet.
+
+
+10/11/02 11:40 - Bod
+
+act.wizard.c   - Added do_config - when finished will allow setting of config options
+               - Added config entry to immortal_interp for IMM_ALL only
+interpreter.c  - Added ACMD(do_config) and config entry to command_interpreter
+
+
+10/11/02 10:25 - Bod
+
+act.comm.c     - do_gen_comm - added check for holler_move_cost so yell can cost move to use
+act.movement.c - Modified do_recall to use max_recall_level instead of fixed value of 10
+config.c       - Wrote config code to read / write config from file and setup default config
+                 With the addition of a config command this will enable changing of certain
+                 game configs like pk_allowed from within the game and save the settings to
+                 be reloaded across reboots
+db.c           - Added read_elite_config to boot sequence
+objsave.c      - Modified Crash_load to use max_obj_save to determin number of items loaded
+                 on player (all are saved out - but only 100 are loaded atm)
+spec_procs.c   - Modified SPECIAL(bank) to use max_bank_gold to restrict depositable gold
+                 and inform players if they try to exceed limit along with amount they are
+                 able to deposit to take bank balance to cap value
+
+
+10/11/02 09:20 - Bod
+
+act.wizard.c   - Tweaked do_start and race_config to correctly sort out hunger / thirst
+                 toggle for 4th remorts and also to fix an issue with innate armor on dragons
+fight.c        - Tweaked PLR_TEST dam display to also display damage inflicted by opponent
+                 (doesn't show other players in a groups damage - nor is it intended to)
+
+
+10/11/02 08:03 - Bod
+
+act.wizard.c   - In do_set added set test - toggle PLR_TEST on / off - for IMM_CODE
+constants.c    - Added define TESTin plr_x for PLR_TEST
+fight.c        - If char flagged PLR_TEST display numerical value of sucessful hits by char
+structs.h      - Added PLR_TEST (used in fight.c)
+
+
+10/11/02 07:08 - Bod
+
+act.obj2.c     - do_grab fixed to re-enable equipping of light sources
+
+
+09/11/02 23:20 - Bod
+
+history.c      - Changed Group Say History to Group Tell History - pointed out by Goozer
+
+
+09/11/02 07:40 - Bod
+
+spec_assign.c  - Added defines for castle.c spec_procs and removed shop_keeper and
+                 cstore_keeper from special_list - causing compile problems
+
+
+09/11/02 07:12 - Djmc
+
+spec_assign.c  - Added missing spec_proc names to special_list (used by stat mob to
+                 display name of procedure affecting mob)
+spec_procs.c   - Rewrote tithe_cleric spec to work as tithe cleric AND shopkeeper
+
+
+07/11/02 16:00 - Djmc
+
+act.obj2.c     - modified perform_remove and do_grab for light sources
+fight.c        - make_corpse - modified for light sources
+handler.c      - modified equip_char, unequip_char and extract_char for light sources
+spec_assign.c  - Added name definition for goto_mayor to spec list
+                 re-enabled goto_mayor spec assign
+spec_procs.c   - Rewrote / fixed goto_mayor spec and modified as required by Glob
+
+
+07/11/02 15:30 - Bod
+
+spell_parser.c - Modified TAR_SELF_ONLY check so that LEVEL_IMMORT+ can cast self only
+                 spells like detect invis on others
+
+
+06/11/02 19:05 - Bod
+
+constants.c    - In const char      *preference_bits[] = {
+                 fixed overflow issue of "NOGRAT" missing terminating , and flowing
+                 through to "\n" - causing a new line in stat on any char with NOGRAT
+                 as last PRF: bit
+
+
+04/10/02 20:15 - Bod
+
+act.social.c   - Modified clan power not to count imms flagged nowho on display to
+                 players under level_deity (110) - caused by Atiel being annoying
+
+
+01/11/02 14:50 - Bod
+
+act.wizard.c   - Removed gecho from IMM_STD and IMM_QUESTOR and moved to IMM_REMORT 
+                 and IMM_ADMIN This was done as a result of various complaints about
+                 abuse and the discussion about quest imms using QECHO and not gecho
+                 (if in doubt blame Tor / Toke :) )
+
+
+31/10/02 10:00 - Bod
+
+act.wizard.c   - do_start - added det_align innate to angel and demon
+               - race_config - added det_align innate to angel and demon
+               - perform_unaffect - modified to correctly report if spells have been 
+                 removed from victim
+               - made do_view available to IMM_STD
+
+
+31/10/02 02:30 - Bod
+
+act.wizard.c   - Wrote new function ACMD(do_unaffect) to replace SCMD_UNAFFECT in wizutil
+                 unaffect - all - IMM_ALL 
+                          - zone - IMM_ADMIN
+                          - room - IMM_STD
+                          - innates - IMM_REMORT (unaffect and strip innates)
+                          - removes all spells (excluding innates unles INNATES option
+                            is used
+interpreter.c  - In command_interpreter changed unaffect to referencer do_unaffect
+                 instead of do_wizutil SCMD_UNAFFECT and added define for ACMD(do_unaffect)
+
+
+31/10/02 01:30 - Bod
+
+act.wizard.c   - in do_wizutil changed char name[40]; to char name[MAX_INPUT_LENGTH];
+                 to prevent possible buffer overflow
+
+
+31/10/02 00:35 - Bod
+
+act.wizard.c   - added define of void Crash_listlocker to remove implicit 
+                 declaration warning
+magic.c        - Fixed roomflag_check on SPELL_SUMMON to affect summoned player
+                 not the person casting the spell!
+               - added define of int roomflag_check to remove implicit decleration
+                 warning
+
+
+30/10/02 21:00 - Bod
+
+act.wizard.c   - do_start - Angels - have hunger / thirst toggled off
+                          - Dragon - tail lash skill set to 100
+                          - Feline - hunger no longer toggled off
+                                   - pounce skill set to 95
+                                   - claw skill set to 95
+                          - automated skill / affect clearance
+                            (if we choose a remort system that keeps skills /
+                            innates then they wil need to be set on the char
+                            after advance to 0)
+               - roll_abilities - 4th remort or greater have stats set to 
+                 racial maximum (str_add is set to 100 if class is warrior
+                 cavalier knight or ranger - called by do_start
+               - set godlevel - removed check preventing setting of melody's
+                 godlevel - leftin check that only allows LEVEL_IMPL to set val
+               - added void race_config - called by do_set (race)
+               - race config clears innates, turns on conditions that have been
+                 turned off (ie hunger) and clears quest race skills
+interpreter.c  - Changed use of imm commands when switched to be available
+                 to IMM_BASIC
+               - Created reserved_word list and modified char name selection 
+                 to use - list is char *reserved[] and includes someone, all
+                 and room as well as some other new banned words like zone
+functions.h    - Added void race_config
+utils.h        - Added defines for IS_ASSASSIN IS_BARD IS_NINJA IS_MARINER 
+                 IS_RANGER IS_CAVALIER and IS_KNIGHT (used by race_config)
+                 Also added IS_MONK IS_DRUID IS_WIZARD IS_PALADIN
+                 IS_ILLUSIONIST and IS_PSIONICIST for possible future use
+
+
+30/10/02 18:05 - Bod
+
+act.informative.c - Disabled display of (!CLAN) at Mokky's request
+act.wizard.c   - Fixed display issue with view_players
+                 Removed IMPL only block on restore options and set-up
+boards.c       - Changed settings for my board
+
+
+28/10/02 13:48 - Djmcave
+
+act.informative.c - display_string_array changed to block "DO_NOT_USE"
+act.movement.c - Line 538 changed back->keyword to fname(back->keyword)
+                 Fixes display of all keywords on door close
+constants.c    - Changed version to 6.3.124
+
+
+
+Version 6.3.123
+
+
+26/10/02 07:31 - Bod
+
+act.informative.c - Rewrote do_inventory and do_equipment to accept an arguement
+                 ie for Immortals it is possible to type inv <player>, eq <player>
+                 to see what said online player is wearing / carrying
+act.wizard.c   - Rewrite do_purge to contain more options 
+                 - purge obj <vnum> - IMM_WORLD (All instances of vnum)
+                 - purge mob <vnum> - IMM_WORLD (All instances of vnum)
+                 - purge zone <vnum> - IMM_WORLD (sim to zpurge)
+                 - purge reset <vnum> - IMM_WORLD (sim to zreset)
+                 Rewrote do_restore to contain more options
+                 - restore all (mortals) - IMM_ALL
+                 - restore zone - IMM_ADMIN
+                 - restore room - IMM_STD
+                 - restore quest - IMM_STD
+                 Set do_view to be usable by IMM_ADMIN as well as IMM_CODE
+db.c           - Removed NODELETE flagged players not counting towards clan info
+                 - This was put in by Helm due to complaints about idle players 
+                   counting towards clans - nolonger relevant due to current use
+                   of nodelete flag
+interpreter.h  - added SCMD_ defines for restore_mortals
+
+
+24/10/02 13:55 - Bod
+
+act.comm.c     - Modified do_tell and do_replay to send tell failure msges to sleeping
+                 characters - suggested by djmcave
+act.wizard.c   - Rewrote view_mortals and added new view_immortals
+
+
+15/10/02 13:18 - Bod
+
+act.informative.c - Rewrote do_look (autoexits) to return "normal" autoexits to as before
+                 but leave the new format for DISP ANSI and VT
+act.wizard.c   - Modifed view_mortals to fix spacing issue and change display format
+                 Added display of opponent for POS_FIGHTING
+constants.c    - Changed version number to .123
+
+
+
+
+Version 6.3.122 
+
+
+
+10/10/02 16:55 - Bod
+
+spec_assign.c  - Assigned goto_mayor spec to mob 13216
+spec_procs.c   - Rewrote goto_mayor spec proc from scratch (for Glob - zones 131 / 132)
+
+
+09/10/02 19:30 - Bod
+
+act.wizard.c   - Added view_mortals to do_view - provides activity info on mortal players
+spec_procs.c   - In SPECIAL(spraycan) modified message of how to end graffiti from @ to end to
+                 "Ok.. go ahead and make art.. (/s to end /h for help with your graffiti)
+                 - Reported by Titan
+
+
+08/10/02 15:43 - Bod
+
+act.obj1.c     - In do_drop modified sacrifice to not allow saccing of above char level items
+
+
+04/10/02 04:40 - Bod
+
+act.movement.c - Reversed need_movement check to check for FLY or mount before HOVER to
+                 rectify issue of being charged movement if FLYING and HOVERING - reported by Titan
+act.wizard.c   - Added #N after L-Des: in stat_object to prevent colour bleed - reported by Titan
+act.obj2.c     - In do_eat modified act("You eat the $o.", FALSE, ch, food, 0, TO_CHAR);
+                 to act("You eat $p.", FALSE, ch, food, 0, TO_CHAR); as recommended by Titan
+boards.c       - Modified board code so an imm with IMM_ALL can remove ANY msg from
+                 any board regardless of level restrictions (request by Glob)
+magic.c        - Changes "Used but uncertain." to "Used but uncertain" as recommended by Titam
+
+
+03/10/02 16:40 - Bod
+
+act.informative.c - Modified generation of autoexits to be a fixed [Exits:      ]
+                 so it doesn't mess up in ansi / vt display. This does mean however
+                 that you can get an exit display like this [Exits: n s   ] and
+                 a room with no exits will be display as [Exits:     ] instead of
+                 [Exits: None! ]
+boards.c       - Defined code board as type BOARD_CODE and allowed imms with IMM_CODE
+                 to remove any message on this board (like remort board for IMM_REMORT)
+boards.h       - Added board flag definition BOARD_CODE
+
+
+02/10/02 08:55 - Bod
+
+act.other.c    - Rewrote do_gen_write - bug / idea / typo commands now write out to file
+                 do_tedit needs to be modified to read file to memory and then display
+                 memory in editor not just parse memory to editor!
+
+
+01/10/02 16:55 - Bod
+
+constants.c    - Version changed to reflect the new month
+fight.c        - In void damage added TO_NOTVICT msges for AMA - into oblivion and misses
+                 fight msges - reported by Titan
+
+
+23/09/02 13:40 - Bod
+
+objsave.c      - Replaced all occurances of obj_to_obj in Crash_load_room 
+                 with the 3 lines of obj_to_obj that move the objs about
+                 thus preventing weight addition to containers in clan don rooms on boot
+                 This will need to be changed in the future - original method was correct
+                 but needed to work on a temporary copy of the objects to prevent affects
+                 being applied to ingame copies
+
+
+23/09/02 10:00 - Bod
+
+act.wizard.c   - Removed Stats (Str, Dex etc) from view players and tidied so
+                 output would fit on one line per character
+constants.c    - changed to v122
+objsave.c      - In Crash_crashsave_room removed Crash_clear_weight(world[roomnr]->contents);
+                 This was causing items in clan don rooms to reduce contained weight every
+                 Crash_save_all tick (wrapping containers to -ve contained weight). Issue is
+                 now to find another way to resolve addition of contained weight to these 
+                 objects on game boot.
+
+
+21/08/02 07:55 - Bod
+
+act.wizard.c   - Added do_view (Currently only view players but in the future
+                 will be expanded to display zone and zonecommand info. Also
+                 to search and report hard object and hard mobile statistics
+                 on various search criteria)
+               - Added do_view on IMM_CODE in immortal_interp
+                 Once finished can be reassigned as deemed appropriate
+interpreter.c  - Added do_view
+
+
+Version 6.3.121
+
+
+
+19/08/02 06:30 - Bod
+
+magic.c        - Added roomflag_check(ch); to spell_teleport and spell_summon
+                 This means players will now be affected by room flags ie
+                 teleporting to a DT = Death, Zero-Mana = Mana zeroed etc
+
+
+19/08/02 06:00 - Bod
+
+act.wizard.c   - Added do_tedit (online text file editor)
+                 Added to imm_interp for IMM_CODE / IMM_NEWS and IMM_HELP
+comm.c         - Add freeing of d->storage
+constants.c    - Added additional IMM_x and CON_TEXTED
+interpreter.c  - Added command tedit (LEVEL_DEITY)
+modify.c       - Added code to string_add for tedit (CON_TEXTED)
+utility.c      - Added function stripcr for tedit
+functions.h    - Added define for char stripcr
+structs.h      - Defined new CON_x and renamed IMM_13 / IMM_14 and IMM_15
+
+
+18/08/02 15:42 - Bod
+
+act.informative.c - In do_who changed - char  name_search from [80] to [MAX_INPUT_LENGTH];
+act.offensive.c - In do_order changed - char name from [100] to [MAX_INPUT_LENGTH]
+act.other.c    - In do_aid changed - char victim_namefrom [240[ to [MAX_INPUT_LENGTH];
+modify.c       - In do_wizname - barred the use of "%" char
+ocs.c          - Set oedited items to be NO_SWEEP by default for 110 & 111
+                 Added ability for 112+ to toggle nosweep and nolocate
+                 Options 51 - nosweep, 52 - nolocate in oedit
+spec_procs.c   - Changed fido's to only eat NPC corpses (in SPECIAL(fido) changed
+                 && i->obj_flags.value[3]) to && i->obj_flags.value[3] == 1)
+
+
+17/08/02 18:50 - Bod
+
+act.comm.c     - Modified do_qcomm so qsay displays to char sending msg if they are asleep
+constants.c    - Changed to v121
+objsave.c      - In Crash_crashsave_room added Crash_clear_weight(world[roomnr]->contents);
+                 This resolves the issue of containers in don rooms not clearing weight on save
+
+
+11/08/02 18:05 - Bod
+
+boards.c       - Added Amber Circle Board 2 to boards list
+boards.h       - Increased No of Boards by one
+spec_assign.c  - Assigned SPEC gen_board to obj 27903 (Amber Circle Board 2)
+
+
+
+Version 6.3.120
+
+
+
+25/05/02 21:30 - Bod
+
+act.wizard.c   - Changed do_set to use get_player_vis_exact (requires EXACT player
+                 name now and doesn't accept abbreviations) - Requested by Mokky
+db.c           - obj_proto[i].worn_on = -1;
+                 key_update - now passes worn keys to extract
+                 disappears msg for worn / carried / inobj displays to sleeping chars
+                 (prevent complaints of I lost my ice pendant etc)
+handler.c      - Rewrote extract_obj to fix issue of objects not properly extracting
+                 from containers (ie weight not being deducted) and also to enable
+                 items to extract from worn location.
+                 Added setting of obj->worn_on in equip_char (for extract_obj)
+                 Added setting of obj->worn_on = -1; in unequip_char (for extract_obj)
+structs.h      - added sh_int worn_on; /* Worn where? */ to obj_data for extract_obj
+utils.h        - Added definition of REMOVE_FROM_LIST macro from stock circle
+
+
+24/05/02 04:00 - Bod
+
+constants.c    - Added !TRACK to mob flags
+graph.c        - Added prevention of tracking !TRACK mobs - You sense no trail.
+structs.h      - Added #define MOB_NOTRACK (1 << 16)/* q - mob can't be tracked */
+                 NB This would be better as an AFF as could be used for a new skill
+                 Would require use of AFF2 as AFF is full
+
+
+23/05/02 06:00 - Bod
+
+act.comm.c     - Changed yell to be disabled by NOGOSS as opposed to NOCHAT
+                 Suggested by Titan to group "vulgar" channels together
+act.other.c    - Changed do_group to display group details when sleeping
+                 added TO_SLEEP to the two act calls - Suggested by Titan
+act.wizard.c   - added arg "room" to do_vnum - Requested by Glob
+                 added arg "room" to do_vstat
+shop.c         - Changed do_emote(keeper, "smokes on his joint.", 36, 0);
+                 to "smokes a joint." - requested by Glob
+spec_procs.c   - Changed if (GET_GOLD(ch) > 0) { in tithe_cleric to 
+                 >= 100000 following discussion with Glob
+
+
+22/05/02 07:00 - Bod
+
+db.c           - Added in error checking and logging of invalid sector types in
+                 load_room on boot
+
+
+12/05/02 16:53 - Bod
+
+constants.c    - Changed to Version 6.3.120
+                 set AFF_PROTECT_EVIL constant to PROT-EVIL from !USED
+
+
+
+Version 6.3.119
+
+
+
+06/05/02 13:10 - Bod
+
+act.comm.c     - added delete_doubledollar(arguement) to do_gsay to fix
+                 typing gt $ displaying You tell your group $$ - Reported by Goozer
+boards.c       - Changed write lvl of DoP Board 2 (28001) from 9 to 2
+structs.h      - struct time_info_data - changed byte hours, day, month to an int
+                 this resolves display issue of -127 to 127 days on do_score
+
+
+03/05/02 10:20 - Bod
+
+constants.c    - Added HIDDEN to mob flags
+structs.h      - Added #define MOB_HIDDEN  p /* mob doesn't display on look room */
+
+
+30/04/02 19:32 - Bod
+
+act.informative.c - modified show_obj_to_char so that mode 0 (list room contents)
+                 will not display long description for hidden objects.
+                 All other interactions work as normal and there is no indication
+                 to a player that this is a hidden item (ie no (hidden) appearing
+                 by it when in inventory etc) - Also no removing of hidden flag on
+                 pickup etc
+
+
+30/04/02 16:07 - Bod
+
+spec_assign.c  - assigned pet_shops spec to room 13282 for Glob
+
+
+30/04/02 03:17 - Bod
+
+*.cln          - Format for adding Claneq Lists to clan files is as follows:
+                 At the bottom of the file (above #99999) add lines of this format
+                 E <vnum of clan obj> <vnum of obj required to exchange>
+
+constants.c    - changed version number to 6.3.119
+spec_assign.c  - added claneq_shopkeeper to list of specs shown in stat
+spec_procs.c   - checked claneq_shopkeeper - commented out an else statement
+                 that disabled item exchange by reporting that the item doesn't
+                 exist on sucess
+
+
+
+Version 6.3.118
+
+
+25/04/02 17:55 - Bod
+
+act.informative.c - Modified who -k to accept arguement like users -c does
+                    Duplicated code from users so who -k <clan vnum> lists as expected
+                    Requested by Mokky
+
+
+17/04/02 05:55 - Bod
+
+act.informative.c - MOB_BLINDER added to show_char_to_char (mode 1 - look at char)
+                    calls function blind_routine which will blind a char
+                    result of looking at a mob flagged BLINDER is you will see
+                    the extra descrip of the mob and then be blinded (with no msg)
+                    routine returns before providing details on health and equip
+                    NB This does NOT activate on peeking (need to know if Glob wishes)
+                    Spoke to Glob - Blinder routine added to peek - makes peek fail
+                    and sends a message of you have been blinded by looking at x (in do_peek)
+act.wizard.c   - act.wizard.c:2573: warning: unused variable `original' - Removed
+spec_assign.c  - added tithe_cleric spec - assigned to mob 13280
+spec_procs.c   - added tithe_cleric special - if player buys tithe takes 10% of gold and 
+                 1% of bank and sends them a blessed feeling msg (requested by Glob)
+functions.h    - added define of void blind_routine
+
+
+02/04/02 09:45 - Bod
+
+constants.c    - added drink orange (18) - drunk 0, hunger 2, thirst 8
+mail.c         - sprintf(buf, "Has unread mail since %s.\r\n", buf2 + 8);
+                 removed .\r\n to tidy display on finger (buf2 provides date of mail and
+                 contains a \r\n in info read from file - the . is unnecessary so removed)
+spec_assign.c  - removed SPEC_ASSIGN(mob_blind)
+               - added mob_block to the Spec Proc display list for stat 
+spec_procs.c   - removed spec proc(mob_blind) - doesn't work - being replaced with MOB_BLINDER
+
+
+01/04/02 17:00 - Bod
+
+comm.c         - added log("Saving :: Players."); to Crash_save_all
+                 This triggers on game shutdown as requested by Mokky
+                 I'm not happy with the way the Save Flags work BUT we'll see (ie SOBJS)
+constants.c    - added BLINDER to action_bits and BOARD to item_types
+magic.c        - Spoke with Mokky about Kestrel's skill&spell board post on dragon breath
+                 As a result changed dragon breath to cap at lvl 109 instead of 90
+structs.h      - #define MOB_BLINDER (1 << 14)/* o - mob blinds PC if examined */
+                 Added as a generic - will be used in do_look - requested by Glob
+               - added #define ITEM_BOARD 27 for rewrite of board code as discussed with Mokky
+
+
+24/03/02 10:22 - Bod
+
+act.wizard.c   - do_wizline fixed implementation of display for switched imms on '- @'
+                 would list all imms below a switched imm as switched into themselves
+
+
+24/03/02 19:53 - Bod
+
+act.informative.c - Rewritten display of room name for players with roomflags
+                  Also neatened up code. New display is as below :-
+                  [ 3001] The Temple Of Midgaard [!MOB INDOORS LAWFUL * ] [Inside]
+                  Now displays sector_type as well and vnum is more prominent
+                  Also modified autoexits to display exit list in cyan - more eyecatching
+constants.c    -  modified room_bits defines so all NO_x are !x - compacts display slightly
+
+
+19/03/02 05:13 - Bod
+
+act.informative.c - For compatability with DISP vt and ansi - spacing in mortal autoexit removed
+                 and new autoexits for ROOMFLAGS disabled for vt/ansi display modes
+boards.c       - REMOVE_LVL of ALL clan boards set to 10, DoP board2 set to 9 9 9 (read/write/rem)
+                 REMOVE_LVL of TRI, DoP and AG boards set to 9
+
+
+18/03/02 17:00 - Bod
+
+boards.c       - REMOVE_LVL of ALL clan boards set to 0
+                 BOARD_CLAN set to check clan_level for read / write / remove instead of level
+constants.c    - Version changed to 6.3.118
+spec_assign.c  - Added the 3 boards (134, 28000 and 28001) that I missed from last version
+
+
+
+
+Version 6.3.117 
+
+
+16/03/02 09:25 - Bod
+
+act.social.c   - The long awaited fixes to clan raise / demote
+                 In do_clan modified case 6 (raise) so clan_level 1 can't be raised to 2
+                 In do_clan modified case 7 (demote) so clan_level 2 can't be demoted to 1
+
+
+06/03/02 14:45 - Bod
+
+act.informative.c - Made changes to autoexits display (case 8 of do_look)
+                 If a player is flagged ROOMFLAGS they will be shown additional
+                 information. Namely room number exit leads to and door status.
+                 Example: [ Exits: n (3005)  e (3015)  s (3025)  w (3013)  ]
+
+
+02/03/02 19:34 - Bod
+
+boards.c       - 122 - changed from notebook.helm to notebook.glob and levels adjusted
+                 123 - changed from notebook.erebos to notebook.leah and levels adjusted
+                 134 - added as notebook.bod and levels set to LEVEL_IMMORT
+                 38 - renumbered to 28000 (DoP clan board)
+                 28001 - added as board.dragoon2 with read level set as 109
+
+boards.h       - NUM_BOARDS adjusted from 41 to 43 
+
+
+02/03/02 14:56 - Bod
+
+act.wizard.c   - Added mute and notitle into do_set for toggle setting
+                 mute, notitle - IMM_ADMIN
+
+
+23/02/02 06:15 - Bod
+
+act.wizard.c   - Modified do_wiznet to display switched imms on wiznet with
+                 (Switched: <name of mob switched into>) does not display this
+                 to the switched imm. wiznet @ now fully supports display of 
+                 switched imms in online / offline and inherits their prefs.
+                 Note if a switched imm is writing or mailing they will display
+                 as writing / writing mail as opposed to switched.
+                 
+
+22/02/02 09:00 - Bod
+
+act.wizard.c   - Modified do_wiznet to send to switched imms
+                 TODO: display switched imms on wiznet with (switched)
+
+interpreter.c  - Changed so flags IMM_STD and IMM_ALL has imm commands when switched
+                 Fixed stat to work for switched imms by parsing it back through to 
+                 imm body to be executed
+
+
+12/02/02 11:40 - Bod
+
+interpreter.c  - LEVEL_IMMORT+ can now use imm commands while switched
+                 Imm commands take affect from the imm body NOT the mob
+                 Known issue with stat - displays mob stats not self
+                 Other issues with use of immortal commands may wish to 
+                 be resolved but the quest imms can generate a list :)
+
+
+12/02/02 08:15 - Bod
+
+act.wizard.c   - vlist now supports z<num> and z <num> default is 0
+
+
+10/02/02 10:15 - Bod
+
+act.wizard.c   - changed do_vlist to use is_abbrev as suggested by mokky
+                 so vlist r | m | o works (
+               - changed bool type to default to FALSE in do_zreset (requested by mokky)
+                 this means default zreset type is now sim as opposed to all
+
+
+act.wizard.c   - wrote do_vlist (incorporates rlist, mlist and olist into one command)
+               - changed do_duplicate to mudlog on NRM as opposed to BRF
+               - changed zpurge to accept arg "." to purge current zone
+
+
+07/02/02 16:30 - Bod
+
+handler.c      - added validate_char routine - checks if descriptor is still valid
+
+interpreter.c  - ammended command_interpreter to allow LEVEL_IMPL to use imm commands
+                 while switched. These commands take affect from the players body not
+                 from the mob they are switched into!
+
+functions.h    - added validate_char - generic character validation routine
+
+
+06/02/02 13:30 - Bod
+
+act.wizard.c   - added do_peace (peace command as there isn't one in code)
+               - added peace to immortal_interpreter on IMM_ADMIN
+               - replace mlist, olist and rlist with vlist in immortal_interpreter
+
+interpreter.c  - added peace to command_interpreter
+               - replace mlist, olist and rlist with vlist in command_interpreter
+
+
+05/02/02 08:35 - Bod
+
+act.informative.c - commented out part of do_commands relating to wizhelp
+                    unnecessary sort through command_interpreter as ignored
+                    and wizh is generated from a search of immortal_interpreter
+                  - changed [%-12s] to %-13s and to display 5 per line instead of 4
+act.wizard.c   - rewritten do_poofset for poof <in|out|view>
+               - removed poofin, poofout - added poof to immortal_interpreter
+               - small plog adjust: Usage: plog <player> <chat|title|other> <message>
+               - alphabetically sorted immortal_interpreter instead of duplicating
+                 code - PLEASE drop additional imm commands in alphabetical order :)
+interpreter.c  - removed poofin, poofout - added poof to command_interpreter
+interpreter.h  - added SCMD_POOFVIEW
+
+
+Version 6.3.116 (includes some minor undocumented changes by Phobos)
+
+04/02/02 08:15 - Bod
+
+objsave.c      - removed definition of buf from list_plog - unnecessary
+
+Outstanding issues - list_plog - file_to_string truncates long lines
+
+
+03/02/02 17:30 - Bod
+
+act.wizard.c   - do_wizlock - fixed so doesn't send to mudlog if type wizlock
+                 on own to see what status is
+
+
+03/02/02 14:20 - Bod 
+
+act.wizard.c   - do_wizlock - fixed display issue on mudlog (\r\n issue)
+
+
+31/01/02 06:53 - Bod
+
+act.wizard.c   - tidied print display for do_plog (spacing imm name etc)
+
+
+24/01/02 20:00 - Bod
+
+lib/           - created directory structure for plrlogs/
+
+act.wizard.c   - added show plog in do_show (case 19 - IMM_STD)
+               - added plog to immortal_interpreter on IMM_STD
+               - added do_plog (ToDo)
+                 - Writes a test message to a player log file
+                   Usage: plog <player> <chat | title | other> <message>
+                          plog <player> <show>
+                   Also: show plog <player>
+
+interpreter.c  - added do_plog to command_interpreter at LEVEL_DEITY
+
+objsave.c      - added list_plog (reads plog file to screen)
+               - added write_plog (writes to plog file)
+               - added case PLOG_FILE to get_filename
+
+functions.h    - added void list_plog
+               - added char write_plog
+
+objsave.h      - #define PLOG_FILE 8
+
+
+22/01/02 19:40 - Bod
+
+act.wizard.c   - added do_log 
+                 - Writes a text message into SYSLOG via mudlog (NRM)
+                   Format is "(GC) Bod LOGS: Just reimbed Drusian "
+                   Usage: log <message>
+
+               - added to immortal_interpreter on IMM_BASIC
+
+
+interpreter.c  - added to command_interpreter at LEVEL_DEITY
+

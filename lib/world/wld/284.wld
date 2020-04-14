@@ -1,0 +1,821 @@
+#28400
+#bThe Artemisian's Sanctuary#N~
+   Before you lies the golden temple of the Artemisian Order.  Behind 
+the door you hear the faint whispers of the sisterhood within.  Above
+the door you see the words "Boethia Uber Allelon," the Artemisian 
+Credo. Although these lovely women are more than happy to help those 
+in need, they are not too fond of unwanted guests!
+~
+284 duz 0
+D0
+The Great Hall of Artemis.
+~
+~
+0 -1 28401
+D3
+~
+~
+0 -1 3802
+S
+#28401
+#bThe Great Hall of Artemis#N~
+   As you enter this holy temple, you become aware that you are being 
+watched...but by whom?  You hear the echoes of footsteps, but see no 
+one as you turn to look.  This room smells of the wild flowers that 
+are growing from the floor.  Somehow, sunlight filters through the 
+arched ceiling, making you feel as if you are still in the forest 
+outside.
+~
+284 duz 0
+D0
+The Altar Room
+~
+~
+0 -1 28402
+D2
+the Temple Entrance
+~
+~
+0 -1 28400
+S
+#28402
+#bThe Altar Room#N~
+   A large statue of the goddess Artemis greets you as you enter the
+room.  She stands before a bloodstained altar upon which the unjust 
+are slain in her honor.  Several smaller statues of the Goddesses 
+stand guard at her side.  As you move about this room, you can feel 
+the watchful eyes of the sisterhood upon you.  Perhaps you will 
+become the next to lose your life upon their altar?
+~
+284 duz 0
+D0
+Adelphean's Room
+~
+~
+0 -1 28403
+D1
+Hallway of Secrets
+~
+wooden~
+11 -1 28407
+D2
+Great Hall of Artemis
+~
+~
+0 -1 28401
+D4
+Hallway of Immortality
+~
+artemis~
+11 -1 28411
+D5
+Amazon's Training Room
+~
+altar~
+11 -1 28405
+E
+altar bloodstained~
+The altar is stained with the blood of the men and the beasts 
+sacrificed to Artemis.  You notice that the stones at the base do not 
+quite fit into the floor...perhaps something is beneath it?
+~
+E
+melody 2.goddess~
+Dark brown hair with just a tint of auburn flows life-like behind the
+statue of Melody.  She stands poised, her lithe body ready to pounce
+into action in an instant.  As you move around the room you notice 
+her hypnotic gaze following you around the room... like a huntress
+watching her prey.  Armed only with her claws, you know this
+Artemisian goddess would make a formidable adversary as well as a
+faithful ally.
+~
+E
+kaleen 1.goddess~
+Kaleen grins back at you as you gaze upon her statue.  The petite 
+ratwoman is the adopted daughter of Lovely and Drogg, and can call 
+many of the Artemisians her sisters and brothers.  Her statue is 
+adorned with a wreath of laurel leaves, a bow, and a quiver of 
+arrows.  She wears the mark of the Artemisians on her left arm as a 
+symbol of her allegiance to her proud heritage.
+~
+E 
+artemis goddess~
+The maiden Goddess Artemis is strong and tall.  She wears only a 
+wreath of flowers and a quiver of arrows.  In one hand she holds a 
+golden bow, and in the other, a double-headed axe...dripping with 
+blood.
+~
+S
+#28403
+#bThe Adelpheans' Room#N~
+   The Artemisian Adelpheans are skilled in the arts of healing and 
+magic. They assist the High Priestesses with the preperations of 
+rituals and sacrifices.  You see a large pool here, built for the 
+ritual bathing of the victims before they are sacrificed.  Most men 
+will come here willingly with a beautiful Adelphean, but leave here 
+weeping when they realize what is to be done to them.
+~
+284 duz 0
+D0
+The Maiden's Room
+~
+~
+0 -1 28404
+D2
+~
+~
+0 -1 28402
+E
+pool shimmering~
+The shimmering pool is quite inviting, but the only souls allowed 
+inside are the Artemisians, and those they are to sacrifice.
+~
+S
+#28404
+#bThe Maiden's Sanctuary#N~
+   Before an Artemisian may become an Amazon, she must endure a 
+period of intense training as a Maiden.  The Maidens are trained in 
+the arts of war, as well as the lore of the forest.  This room is 
+where the maidens spend much of their time studying and practicing 
+their skills.  The walls are covered with murals of the Artemisian 
+hunt, during which Artemis transforms herself into a white doe, which 
+the Maidens must capture alive.
+~
+284 dtuz 0
+D2
+~
+~
+0 -1 28403
+S
+#28405
+#bThe Amazon's Training Room#N~
+   This room is where the mighty Amazon warriors of the Artemisian
+Order practice their deadly skills.  the Amazons are skilled hunters,
+capable of dispatching man or beast with eerie efficiency.  The walls 
+are covered with murals of the many battles fought for the Order 
+before Artemis.
+~
+284 douz 0
+D0
+~
+relm~
+11 -1 28421
+D2
+~
+door armory~
+11 -1 28406
+D4
+~
+altar~
+11 -1 28402
+S
+#28406
+#bThe Amazon's Armory#N~
+   This is where the Amazons keep the spoils of their hard fought 
+battles.  The treasure in this room is for all of the Artemisians to 
+share.
+~
+284 duz 0
+D0
+Training Room
+~
+door training~
+11 -1 28405
+S
+#28407
+#bHallway of Secrets#N~
+   This hidden hallway is where the private chambers of the Order's  
+leaders can be found.  The floor here is covered with a thick blue  
+carpet, just right for walking barefoot on.  You can barely hear the
+noise from the Altar through the thick wooden door.
+~
+284 duz 0
+D0
+Bronwyn's Chamber
+~
+bronwyn~
+11 -1 28409
+D1
+Hallway
+~
+~
+0 -1 28413
+D2
+BigBird's Chamber
+~
+bigbird~
+11 -1 28408
+D3
+Altar Room
+~
+wooden~
+11 -1 28402
+S
+#28408
+#bBigBird's Chambers#N~
+   You have entered the private chambers of BigBird.  BigBird has
+decided to decorate the room with a dungeon motif.  An Iron Maiden 
+lies against one wall, and various instruments of torture are 
+scattered around the room.  The blood of her latest victim is 
+dripping on the floor.  In one corner is a large bookshelf, piled 
+high with stuffed animals!?!?!?  Well, perhaps BigBird has a nice 
+side after all ...(?)
+~
+284 druz 0
+D0
+Hallway of Secrets
+~
+door hallway north~
+11 -1 28407
+E
+shelf animals~
+This shelf is full of cute and fuzzy stuffed animals.  Among them, 
+you can see a few bunnies, a couple of bears, and Barney, the purple 
+dinosaur.
+~
+E
+iron maiden~
+This pain inflicting device is from the late 1800's.  Although aged 
+and less used now adays, it still proves as a worthwhile method of  
+distributing pain and extracting valuable information.
+~
+S
+#28409
+#bBronwyn's Chambers#N~
+   You have entered Bronwyn's Chamber. As you look around, all you
+can do is smile. Bronwyn may be a grown woman, but looking around, 
+you'd think she was a child. You look to the left of the room and you 
+see a pile of stuffed bunnies everywhere! As you continue to look 
+around the room, straight ahead you see an antique four-poster bed, 
+with a handmade comforter on it, probably fifty or more years old 
+itself, along with some other antique furniture around the room.  Off 
+to the side of the bed, on the nightstand, is a picture in an elegant 
+frame. To the right of the bed is a large bay window with a 
+picturesque view of Midgaard. Bronwyn can often be found resting in 
+her window seat, thinking about what life has in store for her.
+~
+284 duz 0
+D2
+Hallway of Secrets
+~
+bronwyn~
+11 -1 28407
+E
+bunnies~
+As you look at the pile of bunnies, you get the urge to go and jump 
+into them like a child would, but you suppress it for now.
+~
+E
+picture~
+As you look at this portrait you see Bronwyn and her sexy, loving 
+husband Fresh, her sister Madison and Madison's adorable husband 
+Smilex. They all look so cute!
+~
+E
+window~
+Outside the window, you can see people shuffling about the town. Off 
+to the east, you can see Harold the Undertaker doing busineses with a 
+bloody person whom you cannot make out at this point.
+~
+S
+#28410
+#bMystic's #yL#mo#rv#ge #bS#yh#ga#wc#mk#N~
+   As you push aside the beads hanging in the doorway, you feast your
+eyes on a vibrantly decorated room.  In the very center of the room, 
+is a soft, comfy looking bed that has seen many happy nights.  There 
+are pictures completely covering the walls of her VERY extended 
+family.  There is a soft breeze coming from the balcony, where Mystic 
+can often be seen reading or just thinking.  There are several old 
+bean bag chairs scattered about the room.  Scattered around the room 
+are lava lamp in every color imaginable.  This room would be peaceful 
+and calm.  That is if the party girlie would turn down the music.
+~
+284 duz 0
+D0
+Hallway
+~
+mystic~
+11 -1 28413
+E
+music~
+What music is she playing??? #yL#mo#rv#ge #bS#yh#ga#wc#mk#N,
+of course!
+~
+S
+#28411
+#bHallway of Immortality#N~
+   This hallway is dark, lit only by the cracks of light escaping 
+from underneath four doors.  The northern door looks oddly enough 
+like a visor, you can't begin to fathom how to operate it... The door 
+to the east and west are small and are located several feet off the 
+ground.  The door to the south appears to be made of stout oak.
+~
+284 duz 0
+D1
+The light eminating from the crack is #bc#ro#mo#gl#yi#we#cs#N!
+~
+bri~
+803 -1 1257
+D2
+Drogg's Chambers
+~
+drogg~
+11 -1 1242
+D3
+Kaleen's Chambers
+~
+kaleen~
+11 -1 1261
+D5
+The Altar Room
+~
+artemis~
+11 -1 28402
+S
+#28412
+#bKarli's Choklit Paradise#N~
+   This relatively small room is approximately 20 by 20 feet and made 
+of pure solid milk chocolate.  Little Oompa Loompas run about mixing 
+chocolate, and creating candies for the kiddie winks.  Chocolate 
+kisses line the ceiling, waiting to be eaten.  Many buckets (made of 
+chocolate also) are scattered about the room, all marked and 
+containing a different kind of scrumdidilyumptious candy.  In a 
+special section of the room, several pictures float in mid-air... one 
+depicting her beautiful daughter, Medea... one of her whip-mistress 
+mommy, Lovely...one of her lovely Goddess and sister, Brigantia... 
+and one of the WHOLE Artemisian clan! Whips of all sort lie on the 
+ground just beneath the pictures (seemingly used veeeery frequently).  
+A great portrait of the Goddess Artemis is carved into the chocolate 
+of the back wall.
+
+Welcome to Karli's Choklit Paradise...
+~
+284 duz 0
+D2
+Hallway
+~
+karli~
+11 -1 28413
+S
+#28413
+#bHallway of Secrets#N~
+   This hidden hallway is where the private chambers of the Order's
+leaders can be found.  The floor here is covered with a thick blue
+carpet, just right for walking barefoot on.  You can barely hear the
+noise from the Altar through the thick wooden door.
+~
+284 duz 0
+D0
+Karli's Chambers
+~
+karli~
+11 -1 28412
+D1
+Hallway of Secrets
+~
+~
+0 -1 28420
+D2
+You hear loud music making you want to dance.  A large neon sign 
+reads "#bMystic's #yL#mo#rv#ge #bS#yh#ga#wc#mk#N...#gThe #bCooliest 
+#mPlace #yin #gElite#w!!!#N"
+~
+mystic~
+11 -1 28410
+D3
+Hallway
+~
+~
+0 -1 28407
+D5
+The Basement...where the bugs live!
+~
+~
+0 -1 28415
+S
+#28414
+#bJesse's #gHideaway#N~
+   As you enter this abode the first thing you feel is the soft plush
+green carpeting beneath your feet and at the same time you hear the 
+songs of dolphins (which is coming from the small pool in the floor). 
+The room is decorated in soft Earth tones which gives it a sort of 
+cozy, homey feeling.  On the far wall of the room there is a large 
+overstuffed green couch with pillows thrown about and from which one 
+can watch their favorite football game on the large screen TV, 
+complete with stero on top of it for easy listening or a kick butt 
+party tune.  (It's no secret this girl likes to party!)  On the side 
+wall there is a loft bed complete with a dark green comforter and 
+pillows galore.  The final thing you notice is the computer desk 
+strewn with papers and books the only hint that this girl is not as 
+organized as she looks.  One the desk there is also a photo album 
+that contains pictures of the good times in her life.  There is also
+a small plaque here.    
+~
+284 duz 0
+D2
+Hallway
+~
+jesse~
+11 -1 28420
+E
+pool~
+You see Jesse's only pet, a baby dolphin named 'Sasha'.
+~
+E
+stero~
+You notice it is a 3 disc changer with Jesse's favorite tunes in for 
+the playing '101 Great drinking songs', 'Club Mix Galore', and 
+'Celine Dion'
+~
+E
+desk~
+Lots and lots of school books there.(not to mention the occasional 
+romance novel *wink*)
+~
+E
+album~
+You see Jesse in pics with her daughter Claudette and other members 
+of her family and friends.
+~
+E
+plaque~
+"Good friends and Good times always welcome, sit and take a load  
+off!"
+~ 
+S
+#28415
+#bHallway of Philos#N~
+   This is the hallway upon which you will find the room of the
+leaders of the Gargareans, the Philos. The floor here is covered with 
+a thick blue carpet, just right for walking barefoot on.
+~
+284 duz 0
+D0
+~
+spellie~
+11 -1 28416
+D1
+~
+asil~
+11 -1 28418
+D2
+~
+smilex~
+11 -1 28417
+D3
+~
+zagreus~
+11 -1 28419
+D4
+~
+~
+0 -1 28413
+S
+#28416
+#bSpellbinder's Chamber#N~
+Spellie needs to re-decorate.
+~
+284 duz 0
+D2
+~
+spellie~
+11 -1 28415
+S
+#28417
+#bSmilex's Rockin Room#N~
+   As you enter this spacious abode, the smell of burning incense
+overcomes you.  The room is very dark, with candles glowing all 
+around, and black lights on the ceiling, giving a florescent glow to 
+the posters on the wall.  In the center of the room, there are two 
+computers set up, one next to the other, obviously where Smilex and 
+Madison sit and play with the internet.  There is a speaker in each 
+of the four corners, and the music of Boyz II Men is playing softly.  
+The entertainment center is placed so that it can be operated and 
+viewed from while sitting at the computers.  On one of the screens 
+the words "I love Madison" are moving slowly across, and on the other 
+it reads "I love Smilex".  There is a futon in front of the 
+entertainment center, to sit on while watching TV, and if you listen 
+quietly, you can hear the squeaking of a mouse. Perhaps this is 
+Roger, Smilex's pet.  The walls seem to glow, making you think you 
+are protected.
+~
+284 duz 0
+D0
+~
+smilex~
+11 -1 28415
+E
+futon~
+It's white, kind of dirty, but looks very comfortable.  Have a seat,
+relax.
+~
+E
+computer computers~
+Not much to say, they are computers, they look like computers, they 
+sound like computers.  The screen savers announce Smilex's and 
+Madison's true love for one another.
+~
+E
+mouse roger~
+Roger is a small mouse, about 3 inches long plus a tail.  He is grey 
+and fuzzy, and very cute.  He won't hurt you.  You can even pet him 
+if you wish.  He answers to Roger and Rog.
+~
+S
+#28418
+#bThe Ristorante D'Asilasilab#N~
+   Welcome to the Ristorante D'Asilasilab! Please come in, make 
+yourself comfortable, and enjoy dining at EliteMUD's first Italian 
+restaurant. Sample our fine food while swooning to the styling sounds 
+of Johnny "Pibbman" Powell (tips accepted at the door). Our specials 
+today are listed on the sign to your right. Here is your menu.
+Enjoy!    
+~
+284 duz 0
+D3
+~
+asil~
+11 -1 28415
+E
+menu~
+THE RISTORANTE D'ASILASILAB
+ 
+Omlette of Suun Lu...........................45 gold pieces
+Ogreburger with pitch black coke.............60 gold pieces
+Onion Rings of the Universe..................25 gold pieces
+Froboz Frappe...............................100 gold pieces
+Caesar salad (fresh from Rome)...............25 gold pieces
+Katrina's Humble Pie.........................45 gold pieces
+ 
+All entrees served with hot bread and your choice of
+Dragon Hatchling Stew or our famous Moria Veggie Medley
+~
+E
+sign~
+Please seat yourself.
+ 
+Our specials today are:
+Spellbinder's Mexican Fido Gumbo....75 gold pieces
+Mystic's Black Olive Delight........60 gold pieces
+Chicken a la Pibbman................65 gold pieces
+~
+E
+big tony Big Tony~
+As you gaze at this large Italian man you get the feeling that you 
+should just ignore whatever is going on behind the door he is 
+guarding. If you have "business" to discuss, then this is the place 
+to go. Just make sure that you show the proper respect to the Family.
+~
+S
+#28419
+#YZagreus' #bHideaway#N~
+   You have entered Zagreus' cluttered study - clearly belonging to a
+man of solitary habits.  The candles perched on odd scraps of clear 
+space provide only a meager amount of light,  but enough to reveal 
+walls lined with floor to  ceiling oak bookcases stuffed with 
+manuscripts, scrolls, and bound leather volumes.  A quick scan of 
+visible titles reveals subjects ranging from metaphysics, philosophy 
+and the occult to histories, folklore, astronomy and scattered 
+treatises on sexual practices.  To the right a large desk struggles 
+under an deluge of notebooks, spilt containers of ink, puddles of 
+candle wax, and small mountains of  books and scrolls.  Behind the 
+desk sits a very large comfy chair, worn and ragged but sturdy.  In a 
+far, dark corner you catch a glimpse of a large couch covered in 
+blankets and pillows causing it to resemble an unmade comfortable 
+bed.  A number of simple wooden chairs scattered about the 
+room have been put to use holding books and papers,  but are still 
+available for guests willing to clear them. Although cluttered and 
+dusty, the room tempts you to spend a moment of quiet time, to read 
+or engage in casual conversation.
+~
+284 duz 0
+D1
+~
+zagreus~
+11 -1 28415
+S
+#28420
+#bHallway of Secrets#N~
+   This hidden hallway is where the private chambers of the Order's
+leaders can be found.  The floor here is covered with a thick blue
+carpet, just right for walking barefoot on.  You can barely hear the
+noise from the Altar through the thick wooden door.
+~
+284 duz 0
+D0
+Jesse's Chambers
+~
+jesse~
+11 -1 28414
+D2
+Urd's Chambers
+~
+urd~
+11 -1 28421
+D3
+Hallway
+~
+~
+0 -1 28413
+S
+#28421
+#bUrd's Lounge#N~
+   You come into a more dimly illuminated room and you find yourself
+having to adjust to the dim lighting for a few seconds. On a far side 
+of the room you see a the light of a small candle burning over a book 
+which glows in it's own distinct way. As you come further into the 
+room you catch the aroma of sweet spring flowers drifting in the air 
+and you instantly feel relieved. You can now perceive a small desk on 
+a wall on which there appears to be little more then some old scrolls 
+and a portrait. And on a wall on the opposite side of the room you 
+see a comfortable looking sofa with nice big pillows in it.
+~
+284 duz 0
+D0
+Hallway of Secrets
+~
+urd~
+11 -1 28420
+E
+portrait~
+A family picture of Urd, her parents (daddy Xenos and mama Chani), 
+and her grandparents (Helm and Brigantia).
+~
+E
+candle~
+You notice it has a magical air about it, it's flame doesn't seem to
+be affected by the small turbulence in the air. It reads "I am the 
+light that shines in the darkness."
+~
+E
+sofa~
+It's not a particularly beautiful sofa but it looks comfortable in a
+strange way with all the big many colored pillows in it. A small 
+heart shaped pillow sits tucked away among the other pillows.
+~
+S
+#28421
+#bRelm's #gTropical #mParadise#N~
+   You are surrounded by luscious ferns and tall vine-covered trees,
+deep in a tropical jungle.  The air is hot and humid, making you 
+sweat. Large exotic flowers bloom throughout the dense foliage in 
+striking colors of bright orange, red, and purple.  You can hear 
+various animals and birds calling and whistling, forming strange 
+melodies that are making you uneasy.  As you look around, you spot 
+mysterious cat-like tracks sunk in the rich damp soil.  A small 
+stream runs by your feet, glistening in the scattered sunlight that 
+tries to break through the dense canopy. Under the darkest shadows, 
+you sense that you can see glowing eyes and the glistening of sharp 
+teeth, but they disappear quickly, maybe moving in for a closer look
+at you, the stranger.  You get a feeling of awe and respect for 
+whatever find its home here, living in such beauty, and uncertain 
+danger as well..
+§N~
+284 duz 0
+D2
+~
+relm~
+11 -1 28405
+S
+#28422
+#cNot In Use#N~
+   This is a free room.  No charge for changing desc.
+§N~
+284 duz 0
+D1
+~
+door~
+11 -1 0
+S
+#28423
+#cNot In Use#N~
+   This is a free room.  No charge for changing desc.
+§N~
+284 duz 0
+D1
+~
+door~
+11 -1 0
+S
+#28424
+#cNot In Use#N~
+   This is a free room.  No charge for changing desc.
+§N~
+284 duz 0
+D1
+~
+door~
+11 -1 0
+S
+#28425
+#cNot In Use#N~
+   This is a free room.  No charge for changing desc.
+§N~
+284 duz 0
+D1
+~
+door~
+11 -1 0
+S
+#28426
+#cNot In Use#N~
+   This is a free room.  No charge for changing desc.
+§N~
+284 duz 0
+D1
+~
+door~
+11 -1 0
+S
+#28427
+#cNot In Use#N~
+   This is a free room.  No charge for changing desc.
+§N~
+284 duz 0
+D1
+~
+door~
+11 -1 0
+S
+#28428
+#cNot In Use#N~
+   This is a free room.  No charge for changing desc.
+§N~
+284 duz 0
+D1
+~
+door~
+11 -1 0
+S
+#28429
+#cNot In Use#N~
+   This is a free room.  No charge for changing desc.
+§N~
+284 duz 0
+D1
+~
+door~
+11 -1 0
+S
+#28430
+#cNot In Use#N~
+   This is a free room.  No charge for changing desc.
+§N~
+284 duz 0
+D1
+~
+door~
+11 -1 0
+S
+#28431
+#cNot In Use#N~
+   This is a free room.  No charge for changing desc.
+§N~
+284 duz 0
+D1
+~
+door~
+11 -1 0
+S
+#28432
+#cNot In Use#N~
+   This is a free room.  No charge for changing desc.
+§N~
+284 duz 0
+D1
+~
+door~
+11 -1 0
+S
+#28433
+#cNot In Use#N~
+   This is a free room.  No charge for changing desc.
+§N~
+284 duz 0
+D1
+~
+door~
+11 -1 0
+S
+#28434
+#cNot In Use#N~
+   This is a free room.  No charge for changing desc.
+§N~
+284 duz 0
+D1
+~
+door~
+11 -1 0
+S
+#28435
+#cNot In Use#N~
+   This is a free room.  No charge for changing desc.
+§N~
+284 duz 0
+D1
+~
+door~
+11 -1 0
+S
+#99999
+$~

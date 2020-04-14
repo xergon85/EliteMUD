@@ -1,0 +1,285 @@
+#1801
+white pawn~
+a white pawn~
+A pawn of the light realm is here waiting for orders.
+~
+This white pawn looks quite patriotic. He stands ready to give his life for the
+Crown.
+~
+10 4 cfgi d 350 A 30 1
+#1802
+white pawn~
+a white pawn~
+A pawn of the light realm is rushing to the opposite side.
+~
+This white pawn looks quite brave. He wants to reach the other side so that
+Malthus can get another rook.
+~
+10 4 cfgi d 350 A 30 1
+#1803
+white pawn~
+a white pawn~
+A pawn of the light realm is here, trying not to be noticed.
+~
+This white pawn looks like a wimp. He is here praying that Malthus doesn't
+sacrifice him...pathetic, isn't it?
+~
+10 4 cfghi d 350 A 30 1
+#1804
+white pawn~
+a pawn of the white court~
+A pawn is here, cursing Malthus.
+~
+This white pawn looks quite angry. He is upset that Malthus has sacrificed him.
+~
+10 4 cfghi d 350 A 30 1
+#1805
+priest white bishop~
+a white bishop~
+A priest of the light realm stands here.
+~
+He seems willing to send you to Heaven so he can help you reach a higher
+spirituality. He wields a powerful mace for just such a purpose.
+~
+10 2 fgik d 450 S
+34 4 -8 3d34+459
+401 500 43 3d10+20
+4 0 2 3d0+80
+23 0 10 1d0+100
+27 0 10 1d0+75
+28 0 10 4d0+60
+36 0 5 2d0+80
+50 0 20 4d0+80 -1
+-1
+-1
+3000 150000 8 8 1
+#1806
+white knight~
+a white knight~
+A knight of the light realm stands here.
+~
+Here stands a magnificent knight of the light realm. It seems he wants you to
+take a close look at his sharp lance.
+~
+10 4 fgik d 450 A 34 1
+#1807
+white rook castle~
+a white rook~
+A large, white stone castle is scouting the area.
+~
+This white rook is a very large man-made tomb on wheels. Just from the looks of
+it, it will probably be YOUR tomb.
+~
+10 4 fg d 550 A 36 0
+#1808
+white queen~
+the white queen~
+The queen of the light realm stands here.
+~
+The white queen is a stunningly beautiful woman with pale skin and a mass of
+light hair that frames her head like the sun.  This is surely love at first
+sight for you.
+~
+10 1 fgik d 650 S
+38 2 -10 1d57+399
+402 500 50 2d10+15
+6 0 10 1d0+75
+26 0 20 1d0+75
+72 0 20 1d0+75
+-1
+-1
+-1
+5000 200000 8 8 2
+#1809
+white king~
+the white king~
+The king of the light realm is here, trying to hide from danger.
+~
+The white king looks like a wimp. He keeps peering around, apparently in
+hopes of spoting a rook to hide behind. You wonder why Malthus made him the
+king instead of you..
+~
+10 1 fghik d 750 S
+40 2 -10 1d60+420
+402 500 70 2d10+15
+6 0 10 1d0+75
+26 0 10 1d0+75
+72 0 10 1d0+75
+-1
+-1
+-1
+8000 230000 8 8 1
+#1810
+black pawn~
+a black pawn~
+A pawn of the dark realm is here waiting for orders.
+~
+This black pawn looks quite patriotic. He stands ready to give his life for the
+Crown.
+~
+10 4 cfgj d -350 A 30 1
+#1811
+black pawn~
+a black pawn~
+A pawn of the dark realm is rushing to the opposite side.
+~
+The black pawn looks quite brave. He wants to reach the other side so that
+Turing can get another rook.
+~
+10 4 cfgj d -350 A 30 1
+#1812
+black pawn~
+a black pawn~
+A pawn of the dark realm is here, trying not to be noticed.
+~
+The black pawn looks like a wimp. He is here praying that Turing doesn't
+sacrifice him...pathetic, isn't it?
+~
+10 4 cfghj d -350 A 30 1
+#1813
+black pawn~
+a black pawn~
+A pawn of the dark realm is here, cursing Turing.
+~
+The black pawn looks quite angry. He is upset that Turing has let him get
+captured.
+~
+10 4 cfghj d -350 A 30 1
+#1814
+priest black bishop~
+a black bishop~
+A priest of the dark realm stands here.
+~
+He seems willing to help you straight into your grave so that he can properly
+bless you.
+~
+10 2 fgjk d -450 S
+34 4 -8 3d34+459
+401 500 43 3d10+20
+4 0 2 3d0+80
+23 0 10 1d0+100
+27 0 10 1d0+75
+28 0 10 4d0+60
+36 0 5 2d0+80
+50 0 20 4d0+80 -1
+-1
+-1
+3000 150000 8 8 1
+#1815
+black knight~
+a black knight~
+A knight of the dark realm stands here.
+~
+Here stands a magnificent knight of the dark realm. He seems to want you to
+take a close look at his powerful lance.
+~
+10 4 fgjk d -450 A 34 1
+#1816
+black rook castle~
+a black rook~
+A large, black stone castle is here, looking for someone to kill.
+~
+The black rook is a very large man-made tomb on wheels. Just from the looks of
+it, it will probably be YOUR tomb.
+~
+10 4 fg d -550 A 36 0
+#1817
+black queen~
+the black queen~
+The queen of the dark realm stands here.
+~
+The black queen is a stunningly beautiful woman with dark skin and a mass of
+dark hair that crowns her head like a black cloud. If looks could kill, you'd
+already be dead!
+~
+10 1 fgjk d -650 S
+38 2 -10 1d57+399
+402 500 50 2d10+15
+6 0 10 1d0+75
+26 0 20 1d0+75
+72 0 20 1d0+75 -1
+-1
+-1
+5000 200000 8 8 2
+#1818
+black king~
+the black king~
+The king of the dark realm is here, trying to avoid capture.
+~
+The Black King looks like a wimp. He is keeps peering around, apparently in
+constant fear of being captured. You wonder why Turing made him the king
+instead of you.
+~
+10 1 fghjk 8 -750 S
+40 2 -10 1d60+420
+402 500 70 2d10+15
+6 0 10 1d0+75
+26 0 10 1d0+75
+72 0 10 1d0+75
+-1
+-1
+-1
+8000 230000 8 8 1
+#1819
+hermes official timekeeper~
+Hermes~
+Hermes is here, staring at the hourglass.
+~
+Hermes looks happy. The last grains of sand are about to drop down from the top
+portion of the hour glass. Turing's reached his time limit, so in a moment,
+Hermes may get to forfeit black's move.
+~
+1 4 gl d 0 A 45 2
+#1820
+hopper official~
+Hopper~
+Hopper is here, examining the rules book.
+~
+Hopper is here scratching his head. He's not sure if the last move by Malthus
+was legal or not..
+~
+1 4 gl d 0 A 45 2
+#1821
+chessmaster grand malthus~
+Malthus~
+Malthus is here, patiently twiddling his thumbs.
+~
+Malthus is legendary for his masterful skill at playing chess. This Grand
+Chessmaster looks smart, but not half as smart as RIGEL. Apparently, he went
+last and is now waiting for Turing to respond.
+~
+1 1 gl ds 800 S
+50 -4 -15 1d75+1050
+402 500 35 3d10+20
+4 0 5 3d0+75
+8 0 10 1d0+75
+30 0 20 1d0+70
+33 0 5 3d0+75
+72 0 20 1d0+70
+88 0 5 1d0+75 -1
+-1
+-1
+10000 400000 8 8 1
+#1822
+chessmaster grand turing~
+Turing~
+Turing is here, wondering how she can save both queen without losing a pawn.
+~
+Turing is one of the greatest chessmasters ever. She looks smart, maybe even
+smarter than IO! She'll need all of her wits if she's going to escape from the
+trap Malthus set without loosing any pieces.
+~
+1 1 gl ds -800 S
+50 -4 -15 1d75+1050
+402 500 35 3d10+20
+4 0 5 3d0+75
+8 0 10 1d0+75
+30 0 20 1d0+70
+33 0 5 3d0+75
+72 0 20 1d0+70
+88 0 5 1d0+75 -1
+-1
+-1
+10000 400000 8 8 2
+#99999
+$~

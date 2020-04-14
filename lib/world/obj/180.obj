@@ -1,0 +1,968 @@
+#18000
+shiny brass key~
+a shiny brass key~
+A shiny brass key has been dropped.~
+~
+18 1 0 0 ao
+18000 0 0 0 0 80
+1 3000 0
+E
+key shiny brass~
+This shiny brass key looks like it might unlock something important. 
+Better not lose it. 
+~
+#18001
+twisted crank key~
+a twisted key shaped like a crank~
+A small twisted crank looks like a missing machine part.~
+~
+18 1 0 0 ao
+18001 0 0 0 0 80
+1 3000 0
+E
+twisted crank key~
+This little crank looks like it was lost from some small machine.  Made
+of tin, it may be too battered to work properly when once again
+inserted into the place where it fits, wherever that may be! 
+~
+#18002
+superhero cape~
+the Elfking's superhero cape~
+Eeeep! looks like someone dropped a green and white flag!~
+~
+9 105 abcdefgijklmops 0 ak
+25 105 0 0 0 0
+1 20000 0
+E
+superhero cape Elfking~
+A large sheet of silk was assembled from smaller sheets of forest green
+and gleaming white.  The actual cape rather resembles a flag, with the
+Elfking's golden lion emblazoned in the center.  The cape attaches at
+the shoulders and billows out behind as the Elfking walks, creating an
+illusion of flight. 
+~
+#18003
+Elfking's white gold crown~
+the Elfking's #wwhite #Ygold crown#N~
+A crown of great delicacy has been intricately wrought of white gold.~
+~
+9 100 abcdefgijklmops ak ae
+26 100 0 0 0 0
+3 30000 1
+E
+Elfkings crown gold white~
+Brilliant diamonds and deep red rubies reflect the beauty of the circle
+of white gold which forms this crown.  The materials to make the crown
+were brought at great cost from the four corners of the world, a gift
+to the Mighty Elfking from his grateful subjects. 
+~
+A
+12 80
+A
+13 80
+A
+4 1
+A
+3 1
+#18004
+mighty hammer justice~
+the Mighty Hammer of Justice~
+This hammer keeps evil at bay.~
+~
+5 105 abcdefgijklmops ak ano
+105 8 8 7 0 0
+21 10000 1
+E
+hammer justice~
+The Mighty Hammer of the Elfking is extremely heavy and carries a
+Mighty WHAM! when it hits a target.  The Hammer of Justice is only
+swung in the name of good, of course, and only kills evil targets.  It
+is extremely large and quite heavy and although apparently made of
+elven mithril, it feels too heavy to be solid mithril. 
+~
+A
+18 5
+A
+19 10
+A
+9 50
+#18005
+wedding ring~
+a #Ygold#N wedding ring~
+You can faintly see the letters N.h...a in this well-worn gold ring.~
+~
+9 68 0 0 ab
+10 68 0 0 0 0
+1 10000 1
+E
+ring wedding~
+A heavy, antique gold wedding ring glows softly.  It has clearly been
+worn for an elven lifetime, as the metal is no longer polished and
+shiny.  On the inside of the ring the letters N.h...a still can be
+read.
+~
+A
+18 3
+A
+19 3
+#18006
+cloak darkness dark shadow~
+the Cloak of Darkness~
+Something dark lies like a shadow on the ground.~
+~
+9 90 abdefghijlmnop cej ac
+20 90 0 0 0 0
+1 10000 1
+E
+cloak darkness~
+A whirling cape of deepest black is there - and then it isn't.  A thing
+of magic, it swirls darkness over everything that it touches.
+Formless, shapeless, yet deep in its darkness.
+~
+A
+24 10
+B st
+#18007
+dress peasant buttercup~
+a dress embroidered in a pattern of buttercups~
+A pattern of yellow buttercups covers a pretty cotton peasant dress.~
+~
+9 1 0 0 ad
+2 1 0 0 0 0
+1 15000 0
+E
+dress buttercup peasant~
+This is a princess' idea of a peasant dress ... made of softest
+batiste, in a soft white and embroidered all over with yellow
+buttercups.  
+~
+A
+12 25
+A
+6 3
+#18008
+rat snake food snakefood~
+the rat~
+#YThe rat scurries arout the cage, whiskers and tail twitching.#N~
+~
+19 0 0 0 ao
+3 0 0 0 0 0
+1 10 0
+E
+snakefood rat food snake~
+Placed here to keep the snake(s) well fed and content (so they don't
+ogle the paying customers) the rats run in circles around the cage.
+They know they are doomed.  They would need a ratman superhero to
+rescue them.  These rats are just your standard rats ... gray, white,
+and pink with a green striped tail.
+~
+#18009
+statue werewolf bronze~
+a lifelike statue~
+#YA bronze statue of a wolf is so lifelike you want to touch it.#N~
+~
+12 1 0 0 0
+1 0 0 0 0 0
+1 1 1
+E
+bronze statue wolf werewolf~
+This canine has really sharp teeth!  And there is a look of
+intelligence about his face that makes you wonder if there is something
+more to this particular wolf than 4 paws and a lot of fur.  His
+features have an almost human cast to them ... A small plaque shines 
+at the foot of the statue. 
+~
+E
+plaque~
+It reads:
+ 
+                    #wNightwolf#N
+
+~
+#18010
+statue granite pennyroyal~
+a statue of Pennyroyal~
+A large granite statue of the fearless warrior Pennyroyal stands
+guard.~
+~
+12 1 0 0 0
+1 0 0 0 0 0
+1 1 1
+E
+statue granite pennyroyal~
+One of the fearless warriors who led the charges to keep Elysium a land
+of peace and harmony alas, Pennyroyal was also one of the first to fall
+to the dreaded rl monster.  He stands here, immortalized in pink
+granite for you to admire and revere.
+~
+#18011
+statue marble gutless~
+a statue of the immortal Gutless~
+An immense white marble statue of the immortal Gutless shines.~
+~
+12 1 0 0 0
+1 0 0 0 0 0
+1 1 1
+E
+gutless marble white statue~
+Patron saint of the #bElysium#N clan, the immortal Gutless has been
+further immortalized in this immense statue of white marble, brought to
+this site by grateful clansmen. 
+~
+#18012
+chessboard~
+a heavy black and white marble chessboard~
+A heavy black and white marble chessboard waits for you to make a
+move.~
+~
+12 1 0 0 0
+1 0 0 0 0 0
+15 150 150
+E
+chessboard~
+This chessboard was "borrowed" from some upside down tower currently
+inhabited by monsters.  It is large and made of black and white marble,
+which nicely matches the black and white chess pieces. 
+~
+#18013
+bag small demon~
+a small bag made from the belly of some beast~
+An evil little bag used to be the belly of an evil little beast.~
+~
+15 1 0 c af
+20 0 -1 0 0 0
+1 10 0
+E
+bag~
+It is no wonder that the leather used to make this bag is
+unrecognizable. The entire bag used to be the belly of a small,
+hideously evil beast.  It feels right at home in the hands of a demon,
+and warms to his touch. 
+~
+#18014
+pickled frog lips jar glass~
+a clear glass jar of pickled frog lips~
+You can see pickled frog lips clearly through the glass of this jar.~
+~
+12 1 0 0 ao
+1 0 0 0 0 0
+2 5 0
+E
+pickled frog lips jar glass~
+These frog lips were "harvested" in a swamp infested with evil
+creatures. It is said they possess great power when used in combination
+with the right incantations and the right aspect of the moon. 
+~
+#18015
+beak vulture hook hooked~
+the hooked beak of a vulture~
+The hooked beak of a very large vulture has been severed from the
+bird.~
+~
+5 5 0 0 ano
+5 3 4 3 0 0
+9 10 0
+E
+beak vulture hook hooked~
+The vulture's beak and talons are awesome weapons for the vulture. 
+Perhaps some of the fearless attack strength of the vulture is still
+contained in this small piece of one. 
+~
+A
+18 2
+A
+19 2
+#18016
+sleeves wizard velvet black~
+wizard sleeves~
+Long, black velvet sleeves come to a point below your hand.~
+~
+9 50 abcdfghjklnops g ai
+10 50 0 0 0 0
+1 5000 0
+E
+wizard sleeves~
+The wizard's tailor has created long black velvet sleeves, soft and
+light as a summer's breeze.  They are black inside and out, and end in
+a long tapered point well below the wearer's hand.  This makes for a
+very dramatic effect when the mage's arms are outstretched.  Of course,
+effect is much of what magic is all about!
+~
+A
+12 35
+#18017
+helmet minotaur horned bronze~
+a bronze minotaur-horned helmet~
+A bronze helmet with 4 sharp minotaur horns spiraling out of it just
+might poke you.~
+~
+9 40 abcdefgijklms 0 ae
+8 40 0 0 0 0
+3 300 0
+E
+minotaur horned helmet bronze~
+Four very long (about 18" or 45cm) horns were "harvested" from at least
+two very (hopefully!) dead minotaurs, then attached to heavy bronze to
+form this helmet that is half armor half weapon.  The horns are quite
+sharp, and spiral out from the head.  The wearer must be very cautious
+lest they become entangled in overhead trees, etc. 
+~
+#18018
+broad leather belt~
+a broad leather belt~
+A tiger's eye winks out at you from a broad leather belt.~
+~
+9 10 0 0 al
+4 10 0 0 0 0
+1 1000 0
+E
+belt leather~
+A wide, tough leather belt has been fashioned from the hide of a
+dinosaur. The skin itself is a beautiful bright gold, and in the center
+of the belt is a huge tiger's eye jewel. 
+~
+E
+tigers eye jewel~
+The jewel in the center of the belt seems to be winking at you.
+~
+A
+12 10
+#18019
+book wand~
+a heavy leather-bound book of spells~
+A thick book bound in deep brown leather lies here, collecting dust.~
+~
+2 10 cdhkops 0 ao
+40 1 67 -1 0 0
+25 3000 1
+E
+book~
+The very large, heavy book looks very old.  Its bindings are cracking
+with age, and although you can tell it was leather, it's not at all
+clear what kind of leather it is. 
+~
+#18020
+wizard walking boots skin lizard~
+well-made wizards walking boots~
+Made from the skin of a rare lizard, these boots reek of evil.~
+~
+9 45 abcdfghjklnops 0 ag
+10 45 0 0 0 0
+4 400 0
+E
+wizard walking boots~
+The bejubula lizard is rare indeed.  In fact, they have been hunted
+almost to extinction.  The lizard is uniquely beautiful when very
+young, and has a sweet, innocent air about it.  It has a gentle,
+nurturing nature, and is born with a large portion of innate magical
+ability.  They are hunted down by ruthless evil hunters (primarily
+drow), and their skin is made into a variety of leather objects.  Both
+the evil of their early death and the magic of their life is retained
+by the leather made from their skins.
+~
+A
+12 30
+A
+13 25
+#18021
+voodoo voo doo doll wand~
+a voodoo doll~
+#YA #Mvo#wo#Mdoo#Y mage has created a small doll from soft wax.#N~
+~
+3 20 cdnop c ao
+95 5 5 17 0 0
+1 100 0
+E
+voo doo doll voodoo wand~
+The small, anatomically correct doll has been carefully formed from
+soft wax and dressed in cleverly fashioned gold armor.  In the right
+hands, with the addition of some hair or nail clippings, this doll
+might have some awesome powers. 
+~
+#18022
+toad shriveled feet~
+some shriveled toad feet~
+Some poor toad is obviously stumping around without his feet.~
+~
+13 50 0 0 a
+0 0 0 0 0 0
+1 500 0
+E
+toad feet~
+From deep in some mysterious swamp, these toad feet have been brought
+to the faire to be used in some dark magic. 
+~
+#18023
+baseball cloth cap~
+a small cloth cap with #bElysium#N on the crown~
+A cloth cap with #bElysium#G on the crown is worn brim-backwards.~
+~
+9 10 0 0 ae
+8 10 0 0 0 0
+1 10 1
+E
+cloth cap baseball~
+This linen cap has a most unusual construction.  The crown has been
+formed of six sections of strong white linen, but there is a small gap
+at the back which is closed by a leather strap-and-hook gadget.  There
+is a large "bill", or brim, which covers just the front of the cap and
+is meant to shade the eyes.  Above this brim, the words "#bElysium#N"
+have been neatly stitched in bright blue letters.
+~
+#18024
+helmet green forest large~
+a large forest green helmet~
+This large forest green helmet will protect a #yTroll#G ranger's head.~
+~
+9 75 abcefgijkmns 0 ae
+20 75 0 0 0 0
+3 400 0
+E
+helmet green forest large~
+Since #bElysium#N's #yTrollish#N rangers have taken to replenishing the
+forest by pretending to be trees themselves, they've discovered a need
+for some protection from the elements (including flying birds and
+dragons). These helmets provide protection from acorns that the ferrets
+love to pelt them with as well as the overhead bird bombs. 
+~
+A
+3 -3
+A
+4 -3
+#18025
+hat soft dark green velvet rose~
+a soft dark green velvet hat with big red rose~
+A soft dark green velvet hat with a big red rose waits for the right
+face.~
+~
+9 5 0 0 ae
+8 5 0 0 0 0
+1 10000 0
+E
+hat soft dark green velvet rose~
+An expensive hat, to be sure, but one that makes the wearer beautiful.
+It is a green so dark as to be almost black, with a wide brim that
+shapes itself to frame your face.  It has been decorated with a large
+red rose at one side and a wide black ribbon. 
+~
+A
+6 2
+#18026
+violet ribbon~
+#ma violet ribbon#N~
+A pretty violet ribbon has been dropped.~
+~
+11 1 0 0 abcmo
+1 0 0 0 0 0
+1 10 0
+E
+ribbon violet~
+A pretty violet ribbon would make a nice souvenir of the faire.  This
+ribbon is the exact color of wood violets in the early morning. 
+~
+A
+6 1
+#18027
+deep purple ribbon~
+#Ma deep purple ribbon#N~
+A deep purple ribbon might make you look royal!~
+~
+11 1 0 0 abcmo
+1 0 0 0 0 0
+1 10 0
+E
+ribbon deep purple~
+A deep purple ribbon might be just the thing to take home as a souvenir
+of this lovely faire!  It is a very dark purple, just about the color
+of the small dragon you met on the path on the way up.  Perhaps you
+could use it to bribe her should she get testy when you go home! 
+~
+A
+6 1
+#18028
+buttercup yellow ribbon~
+#ya buttercup yellow ribbon#N~
+A ribbon yellow as buttercups would rather be worn than lying here.~
+~
+11 1 0 0 abcmo
+1 0 0 0 0 0
+1 10 0
+E
+ribbon yellow buttercup~
+The ribbon maker made this ribbon especially to please that elusive
+princess, Buttercup.  She seems to have once again disappeared.  With
+the favor of a royal princess, the ribbon maker would sell lots of this
+color! 
+~
+A
+6 1
+#18029
+gold ribbon~
+#Ya gold ribbon#N~
+A gold ribbon is quite a prize!~
+~
+11 1 0 0 abcmo
+1 0 0 0 0 0
+1 10 0
+E
+ribbon gold~
+Although it is bought and not won, this gold ribbon is still pretty
+impressive.  You could, of course, always SAY that it was won on the
+battlefield! 
+~
+A
+6 1
+#18030
+leaf green ribbon~
+#ga ribbon the color of new leaves#N~
+A new sprout of leaf green blows across the floor.~
+~
+11 1 0 0 abcmo
+1 0 0 0 0 0
+1 10 0
+E
+ribbon green leaf~
+Light green - the color the gnomish folk prefer - should be a big
+seller at this faire with it's many gnomish visitors. 
+~
+A
+6 1
+#18031
+forest green ribbon~
+#Ga forest green ribbon#N~
+Rangers like this deep forest green ribbon.~
+~
+11 1 0 0 abcmo
+1 0 0 0 0 0
+1 10 0
+E
+ribbon forest green~
+Do you know any rangers?  This forest green ribbon was just meant for
+them!  The deep forest green is very nice with ranger uniforms! 
+~
+A
+6 1
+#18032
+raspberry berry red ribbon~
+#ra raspberry red ribbon#N~
+Raspberry juice must have been used to stain this ribbon.~
+~
+11 1 0 0 abcmo
+1 0 0 0 0 0
+1 10 0
+E
+ribbon raspberry red~
+A cheerful bright red ribbon was designed to attract the eye of the
+faire-going peasant.  Stuck in a life of dull browns and tans and
+greens, this raspberry red ribbon would liven up their clothing. 
+~
+A
+6 1
+#18033
+crimson ribbon~
+#Ra crimson ribbon#N~
+A deep crimson red ribbon looks like a trail of blood.~
+~
+11 1 0 0 abcmo
+1 0 0 0 0 0
+1 10 0
+E
+ribbon red crimson~
+The deep crimson of this ribbon is for lovers to share.  It is the
+color of a true heart's blood. 
+~
+A
+6 1
+#18034
+bright white ribbon~
+#wa white ribbon#N~
+A bright white ribbon is for chastity and weddings.~
+~
+11 1 0 0 abcmo
+1 0 0 0 0 0
+1 10 0
+E
+ribbon white bright~
+This glaringly white ribbon could adorn a wedding dress.  With all the
+activity of a faire, it will probably not stay pure white for very
+long. Perhaps that should make it all that much more prized. 
+~
+A
+6 1
+#18035
+black ribbon~
+#Wa ribbon for mourning#N~
+Black is the color of night and mourning.~
+~
+11 1 0 0 abcmo
+1 0 0 0 0 0
+1 10 0
+E
+ribbon black~
+Some knights will forfeit their lives in the jousts today.  Old
+rivalries will be solved in a permanent fashion, and widows and
+servants of the recently passed will adorn themselves with black
+ribbons. 
+~
+A
+6 1
+#18036
+Elysium blue bright ribbon~
+#ban Elysium blue ribbon#N~
+A ribbon the deep blue of a cloudless summer day awaits you.~
+~
+11 1 0 0 abcmo
+1 0 0 0 0 0
+1 10 0
+E
+ribbon elysium blue~
+On a cloudless summer day, the sky at its zenith is a deep, fathomless
+blue.  That precise color is the color of this ribbon.  It is the
+#bElysium#N color. 
+~
+A
+6 1
+#18037
+deep blue navy ribbon~
+#Ba deep blue ribbon#N~
+Deep blue, navy blue, off to roam the seas blue, this ribbon waits for
+you.~
+~
+11 1 0 0 abcemo
+1 0 0 0 0 0
+1 10 0
+E
+ribbon deep blue navy~
+This very dark blue is the color of sailor's uniforms, of early night.
+It is darker than first-prize blue, quieter than sky blue. 
+~
+A
+6 1
+#18038
+aqua ribbon~
+#can aqua ribbon#N~
+The aqua ribbon curls up on the ground, waiting to be worn.~
+~
+11 1 0 0 abcemo
+1 0 0 0 0 0
+1 10 0
+E
+ribbon aqua~
+The cheerful aqua ribbon is the color of a calm sea, or an aquatic
+elf's eyes.
+~
+A
+6 1
+#18039
+turquoise ribbon~
+#Ca turquoise ribbon#N~
+A deep turquoise ribbon would look pretty in your hair.~
+~
+11 1 0 0 abcemo
+1 0 0 0 0 0
+1 10 0
+E
+ribbon turquoise~
+An unusually dark turquoise ribbon is the ribbon seller's personal
+favorite.  He sells quite a few to young lasses to braid into their
+hair, and there was even one knight who wished it braided into his
+horse's tail. Well, you know what they say about knights and their
+horses! 
+~
+A
+6 1
+#18040
+powdered bat dust wings spoonful~
+a spoonful of powdered bat wings~
+A small pile of gray dust should be swept up.~
+~
+10 15 0 0 ao
+25 45 -1 -1 -1 0
+1 380 1
+E
+dust spoonful bat wings powdered wing~
+A small amount of this sticky powder is all that is left of what used to
+be the wings of a healthy vampire bat.  The bat is enchanted and fed
+some powerful drugs over a period of several months.  His final feeding
+is from an elven virgin (male or female).  His wings are then cut from
+his body while he is still alive, carefully burned on an altar of
+obsidian, then ground into this powder.
+~
+#18041
+lizard tongue~
+a lizard's tongue~
+The lizard's tongue looks like a shriveled black wand.~
+~
+13 99 0 0 ao
+0 0 0 0 0 0
+1 50000 0
+E
+lizard tongue~
+What possible use could anyone have for the long forked tongue from a
+lizard?  This one looks to have left it's original owner long ago, for
+it has become dry and brittle and black. 
+~
+#18042
+swampfire reeds torch~
+a torch made from swampfire~
+Dry reeds have been tied together and dipped in magic.~
+~
+1 1 0 a ao
+0 0 48 0 0 0
+3 40 0
+E
+swampfire reeds torch~
+The magic of a fire in the wet green swamplands has been captured in
+this very utilitarian torch.  Light it to find your way through dark
+caves or deep night. 
+~
+#18043
+gypsy violin~
+a gypsy violin~
+Amazing how innocent the violin looks when it isn't held.~
+~
+3 15 abcdefhijklmnops a ao
+80 5 5 79 0 0
+2 10000 0
+E
+violin gypsy~
+In the right hands, this small violin can make you laugh or cry,
+weaving powerful spells with its music. 
+~
+#18044
+dangling gold earrings~
+a pair of dangling #Ygold#N earrings~
+A pair of earrings form two gold circles on the floor.~
+~
+9 80 0 0 ae
+10 80 0 0 0 0
+1 5000 0
+E
+earrings gold dangling~
+A pair of bright golden earrings formed like circles will catch any
+light available and shine.  These earrings are about 2" (5cm) in
+diameter and quite thick. 
+~
+#18045
+dead cockroach~
+a very dead cockroach~
+The cockroach sleeps on its back, six legs sticking up in the air.
+~
+~
+13 99 0 0 ao
+0 0 0 0 0 0
+1 50000 0
+E
+very dead cockroach~
+This very ugly very dead cockroach has no real purpose except to
+provide a little ugliness, should you find the need.  They are in
+unfortunately plentiful supply. 
+~
+#18046
+long voodoo pin~
+a very long very sharp pin~
+Watch out! don't step on the long, sharp pin!~
+~
+5 15 0 0 ano
+15 3 4 12 0 0
+3 40000 1
+E
+voodoo long sharp pin~
+This long pin was made to skewer a hat to a head or to stick in a wax
+doll.  You could also stick it in a dead cockroach to mount it on your
+wall, should you be so perverse.  It is probably posioned. 
+~
+A
+18 1
+A
+19 3
+#18047
+horn ale~
+a horn~
+The horn of ale lies on it side, spilling out its contents.~
+~
+17 1 0 0 ado
+10 10 3 0 0 0
+1 10 0
+E
+horn ale~
+This is a long, slightly curved, hollowed out horn from a war cow that
+unfortunately met its maker during the War Against the Evil Horde.  It
+has been filled with a delicious cold ale for you to drink.  There is a
+long leather strap for you to sling it across your back so that you
+may refill it later with the beverage of your choice. 
+~
+#18048
+wizardly wizard tunic~
+a wizardly tunic~
+A black velvet tunic, strategically padded, has ties to attach
+sleeves.~
+~
+9 50 abcdhklnops g ad
+20 50 0 0 0 0
+1 5000 0
+E
+wizard wizardly tunic~
+A heavy velvet was used to make this thickly padded tunic.  The tunic
+is decorated with gold embroidery and mithril buttons.  It is designed
+to be worn with a variety of different sleeves, although this wizard
+only has one set...Have you seen them?
+~
+A
+3 2
+A
+4 2
+A
+12 50
+#18050
+captive evil blackhearted~
+A blackhearted captive~
+#YA blackhearted captive faces the dragon with arrogant bravado.#G~
+~
+19 0 0 0 ao
+3 0 0 0 0 0
+1 10 0
+E
+captive evil blackhearted~
+One of the many captives who made up the Evil Horde, this one is
+waiting his turn to be dragon food.  He is truly an evil minotaur, so
+evil that you can feel it in the air around him.  He is tall, with a
+broad frame covered with heavy muscles, and he snarls at you as you
+pass, revealing long, sharp white teeth.
+~
+#18051
+ebony steel dagger~
+a steel dagger with an ebony handle~
+Light gleams dully off a sharp steel blade.~
+~
+5 85 abdefhijlmnop 0 ano
+85 6 10 11 0 0
+8 8050 0
+E
+ebony steel dagger~
+The ebony black handle of this steel dagger was chosen for its color,
+black being less likely to show bloodstains.  The steel point is kept
+very sharp despite its frequent use.
+~
+A
+18 9
+A
+19 5
+#18052
+spiderweb sleeves spider web~
+long spiderweb sleeves~
+Sleeves sewn from fabric woven by the Queen Spider make a gauzy pile.~
+~
+9 105 abcdfghjklnops gh aio
+12 105 0 0 0 0
+1 10000 0
+E
+spider spiderweb web sleeves~
+The cloth for these sleeves was woven by the queen spider in gratitude
+to a mage who protected her while she was busy laying her thousands of
+eggs.  The tailor who stitched the sleeves found the cloth difficult to
+cut and sew, but the result was a remarkable pair of sleeves that are
+extremely strong, very magical, and very beautiful.
+~
+A
+12 50
+#18053
+merlins sword mystery~
+Merlins sword~
+A sword cloaked in mystery waits for a magic hand to wield it.~
+~
+5 60 abcdfghjklnops 0 ano
+60 6 7 3 0 0
+8 8000 0
+E
+sword merlins mystery~
+It is said this ancient sword has been passed down from archmage to
+archmage since first created deep in the mists of time.  It was forged
+for the fabled Merlin, magician to King Arthur.  It is a small sword,
+with a curved blade that owes its sharpness to magic rather than the
+grindstone.
+~
+A
+12 50
+#18054
+ring ophiuchus serpent~
+the Ring of Ophiuchus (hissing)~
+A faint hissing noise appears to be coming from a circle of silver.~
+~
+9 90 0 0 ab
+20 90 0 0 0 0
+1 250 0
+E
+ring ophiuchus serpent~
+A miniature snake formed of beautifully wrought silver winds around 
+your finger.  The head coils up slightly from the ring, and the 
+body of the serpent splits to form the circle of the ring.
+~
+A
+12 80
+A
+24 3
+#18055
+chain serpent ophiuchus necklace~
+the Serpent Neckchain of Ophiuchus (hissing)~
+The Serpent of the 13th house will chain itself to your neck.~
+~
+9 90 0 0 ac
+15 90 0 0 0 0
+1 250 0
+E
+chain serpent necklace~
+A strong silver chain crosses over your back from shoulder to shoulder,
+serving to anchor the front of this silver necklace.  At each shoulder,
+a silver serpent's tail coils into the end of the chain then curves
+gracefully towards the middle.  The two tails join into the head of the
+serpent, which points down towards earth.
+~
+A
+12 80
+#18056
+many-colored skirt~
+a skirt of many colors~
+A full skirt of many colors and textures has been cast aside.~
+~
+9 30 0 0 af
+6 30 0 0 0 0
+1 250 0
+E
+skirt many-colored~
+Made of many colors and many fabrics, one can sense that this skirt has
+travelled further, seen more than most will in a lifetime.  The colors
+and textures give the skirt life.
+~
+#18057
+belt chain waistchain~
+a wood and brass linked waist chain~
+Circles of wood and brass link together to form a chain.~
+~
+9 30 0 0 al
+5 30 0 0 0 0
+1 250 0
+E
+wood and brass linked chain~
+Circles of alternating ebony and shiny brass connect to form a simple
+length of chain to be used as a belt.
+~
+A
+13 15
+#18058
+blouse colors~
+a colorful blouse~
+Many patterns and colors form the gypsy queen's blouse.~
+~
+9 30 0 0 ad
+10 30 0 0 0 0
+1 250 0
+E
+blouse colorful~
+The blouse has been sewn of soft, old fabric.  The original fabric was
+clearly quite bright, but time and sunshine have muted the colors to
+softer shades.  The blouse is loosely gathered at the neck and wrists,
+tied with a ribbon.
+~
+#99999
+$~

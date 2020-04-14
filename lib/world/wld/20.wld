@@ -1,0 +1,293 @@
+#2000
+The Hallway of Learning~
+   This is the beginning of the Hallway of Learning. If you are new to mudding
+and new to Elite, you should walk through these halls. You will be taught the
+basics on survival and also you will be given some equipment to help you on the
+way. There will be §RSIGNS§N along the hallways. Read them. There is sign right
+here. Read it with: look sign 
+~
+20 8 0
+D0
+~
+~
+0 0 2001
+D1
+You see the reading room
+~
+~
+0 0 3000
+D2
+~
+~
+0 -1 2099
+E
+sign~
+        _____________________________________________________________________
+       / Welcome to EliteMud.                                               /
+      / Within these halls, much knowledge will be revealed.               /
+     / When you have finished with one room, just continue north to go on./
+    / If there is something you have missed or want to look back upon,   /
+   / just go back south, or come back here later.  If there is anything /
+  / you don't understand, feel free to ask other players here.         /
+ / Now go forth north to meet your fate, adventurer!                  /
+(____________________________________________________________________(
+~
+S
+#2001
+The Hallway of Movement~
+   This is where the art of movement is taught. If you master that already,
+feel free to go on. To move around in the world of Elite, there are some
+commands to use. You should already know the basics. There are six directions
+to go. North, south, east, west, up and down. You can abbreviate those commands
+to n, s, e, w etc. To know where you are able to go from one place you can use
+the command EXITS. In Elite as in the real world, you cannot always walk to all
+the places. There are water, hills and air. Those must be crossed with other
+means. Doors and other obstacles may block your way too. There is a sign here. 
+~
+20 8 0
+D0
+~
+~
+0 0 2002
+D2
+~
+~
+0 0 2000
+E
+sign~
+ +---------------------------------------------------------+
+ | Summary of commands involving movement:                 |
+ |                                                         |
+ | North South East West Up Down Enter Leave               |
+ | Look Exits                                              |
+ | Lock Unlock Open Close                                  |
+ |                                                         |     
+ | (Walking around is tiresom business)                    |
+ | Sleep Wake Rest Sit Stand                               |
+ +---------------------------------------------------------+
+~
+S
+#2002
+The Hallway of Scores~
+   To keep track of your character here in Elite, there are some scores to show
+you the characters statisticts. The most important is the DISPLAY command. It
+should show you your Hp, Mn and Mv. Hp stands for Hit points and is a way to
+value your health. Try to keep it positive and as high as possible, since
+failure will mean death. Mn stands for mana, your mental power. This is most
+important for spell casters but all will have use for it. Mv stands for
+movement, your endurance in other words. Everything involving movement will tax
+your movement, so rest now and then when it gets too low. There is a sign here.
+
+~
+20 8 0
+D0
+~
+~
+0 0 2003
+D2
+~
+~
+0 0 2001
+E
+sign~
+ _______________________________________________________
+( Informatic commands:                                  )
+(                                                       )
+( Score Stat Levels Skills Spells Practice              )
+( Who Whois Where Time Date Toggle Weather              )
+( Help News Credit Wizlist Immlist Policy Info          )
+(_______________________________________________________)
+~
+S
+#2003
+The Hallway of Communication~
+   The main reason for playing a mud is the social contact it offers. There are
+many more better games for any home computer, but seldom can you play with
+people from all round the globe. To make the communication easier there are
+many commands. Be sure you know how to use them. There is a large sign here. 
+~
+20 8 0
+D0
+~
+~
+0 0 2004
+D2
+~
+~
+0 0 2002
+E
+sign~
+...............................................................................
+ Communication with other players:                              
+
+ Say     ( All in room will hear. Use ' instead of typing say. For ex: 'Hello )
+ Tell    ( To any other player in game - Very private indeed. )
+ Yell    ( All in your specific area will hear )
+ Newbie  ( All with this channel switched on will hear)
+ Chat    ( All with this social line on will hear.  Can use . as abbr. Ex: .HI)
+ Gossip  ( Like chat )
+ Auction ( Another channel for selling/buying stuff )
+ Gtell   ( Group-tell.  All in your 'group' will hear )
+ Ask
+ Whisper
+
+ Socials are commands only for social entertainment.
+ Smile Cry Laugh Grin   etc
+
+ To get a complete list, use the commands socials.
+...............................................................................
+~
+S
+#2004
+The Hallway of Refreshment~
+   Walking around in this world makes your character both hungry and thirsty.
+So have some refreshments before going on. There is a small sign here. 
+~
+20 8 0
+D0
+~
+~
+0 0 2005
+D2
+~
+~
+0 0 2003
+E
+sign~
+  ________________________________________ 
+ < Eat, drink and be happy:               >
+ <                                        >
+ < Get Examine Taste Sip Pour Drop        >
+ < Eat Drink Inventory                    >
+ <________________________________________>
+~
+S
+#2005
+The Hallway of Equipment~
+   Many dangers will fall upon you on your visits here on Elite. To prepare for
+the tasks ahead you need to equip yourself with things that will help you. Take
+whatever you need here and prepare yourself. There is a battered sign here. 
+~
+20 8 0
+D0
+~
+~
+0 0 2006
+D2
+~
+~
+0 0 2004
+E
+sign~
+ ** ** ** ** ** ** ** ** ** ** ** ** ** ** **
+ * To get ready:                            *
+ *                                          *
+ * Get Drop Grab Wear Wield Remove          * 
+ * Equipment Inventory Give Put             *
+ * Sacrifice Donate                         * 
+ ** ** ** ** ** ** ** ** ** ** ** ** ** ** **
+~
+S
+#2006
+The Hallway of Battle~
+   There are many foul creatures on the earth of this Land. You must use both
+strength and courage to prevail. Why don't you practice little here in the art
+of battle. There is a sign here. 
+~
+20 8 0
+D0
+~
+~
+0 0 2007
+D2
+~
+~
+0 0 2005
+E
+sign~
+ 
+ ---===========)**** ****(============---
+  Only through practice can you master:
+
+  Kill Flee Assist Consider
+
+ ---===========)**** ****(============---   
+~
+S
+#2007
+The Hallway of Light~
+   Throughout the Land, not all places will be as light as this. Where evil
+resides there are often darkness. Always bring light with you where ever you
+go. The light in your heart may not always be enough. There is a glowing sign
+here. 
+~
+20 8 0
+D0
+~
+~
+0 0 2008
+D2
+~
+~
+0 0 2006
+E
+sign~
+
+ \ /  To brighten up your day:
+ -O- 
+ / \  Get Hold Remove
+~
+S
+#2008
+The Hallway of Darkness~
+   It is well that you brought light, for this place is else dark. There is
+nothing here to see though, just go on. 
+~
+20 9 0
+D0
+~
+~
+0 0 2009
+D2
+~
+~
+0 0 2007
+S
+#2009
+The Hallway of Ending and New Beginning~
+   You have now been taught the basics of this game. There are however lots
+more to learn. Let's hope you learn them on your travels and will have use for
+them. By using the HELP command you should be able to get more info. Ask
+others, for in asking there is wisdom. Through the portal to the north you will
+get back to the Temple. Rest well and ask for the way to your guild, so that
+you may practice your skills. Journey then below the temple. Be strong,
+adventurer and good luck. There is a sign here. 
+~
+20 8 0
+D0
+~
+~
+0 0 3001
+D2
+~
+~
+0 0 2008
+E
+sign~
+ You can get a simple map of central Midgaard by typing:
+ > help midgaard
+~
+S
+#2099
+The Library~
+This is the Midgaard library.  You should be very quiet in here in order not
+to disturb the others.
+~
+20 16540 0
+D0
+~
+~
+0 -1 2000
+S
+#99999
+$~

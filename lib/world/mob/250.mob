@@ -1,0 +1,81 @@
+#25001
+tornado~
+the Tornado~
+THE tornado is here, and crushes you!
+~
+~
+15 4 100 134218792 0 S
+72 -16 -30 2d100+1100
+410 500 100 3d20+50   -1
+-1
+-1
+0 650000 8 8 0
+#25002
+squid giant~
+A giant squid~
+A giant squid is here entangling you with hundreds of tentacles!
+~
+It has hundreds of tentacles that end in cruel suckers and vicius barbs. As
+you look at it you see that it has no other thoughts than just to kill you 
+an eat you raw.
+~
+15 4 100 33555464 -400 S
+60 -10 -23 1d500+930
+410 500 50 4d10+20
+405 500 50 2d20+20  -1
+-1
+-1
+0 450000 8 8 0
+#25003
+moby dick whale~
+Moby Dick~
+Moby Dick, the famous white whale bubbles around here.
+~
+~
+15 4 2404 1024 400 S
+62 -11 -25 1d100+2200
+408 500 50 4d10+25
+410 500 50 5d10+15  -1
+-1
+-1
+0 500000 8 8 1
+A
+%15 emote blows a cascade of water into the air.
+~
+#25004
+francis drake sea dragon sir~
+Sir Franics the Sea Drake~
+Sir Francis Drake, the Sea Dragon swims around in the water here.
+~
+The drake looks as elegant and beautiful as any other dragon you have seen.
+It whitish blue scales glitter in the sun, and its big yellow eyes looks at you
+with an undying hunger.
+~
+18 4 2660 1064 -300 S
+65 -13 -26 1d300+975
+60 0 30 1d0+80
+407 500 30 3d30+30
+408 500 40 4d15+23   -1
+-1
+-1
+0 480000 8 8 0
+A
+%15 growl
+~
+#25005
+megaladon~
+a Megaladon~
+A Megaladon, a giant shark from the deeps is hunting prey here.
+~
+The megaladon must be a distant relative to the white shark, but four or five
+times as big! As you look into its wide open mouth you see countless rows of
+nine inch teeth, ready to be stained by your blood.
+~
+15 4 100 33554472 -400 S
+68 -14 -28 2d150+1020
+410 500 100 3d20+50   -1
+-1
+-1
+0 510000 8 8 0
+#99999
+$~

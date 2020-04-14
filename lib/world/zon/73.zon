@@ -1,0 +1,177 @@
+#73
+Lizardman Hometown~
+7399 30 1
+*
+* Organised by ascending room number
+*
+* Useful numbers; 30 rooms, 11 mob types, 7 object types, no keys 
+* full repop;            max   equipment
+* 13 lizardmen           20    long sword        ml 0   1d8
+* 11 lizardwomen         20    none
+* 11 lizardmen children  25    none
+*  7 hunters             10    lng swd/ shield   ml 18  ac5
+*  5 fishermen            8    trident and net   ml 18  2d8+2+2 ml 18  ac5
+*  1 mage                 1    glowing globe     ml 30  ac-10
+*  3 apprentices          3    none
+*  2 guards               4    halberd           ml 25  3d8
+*  1 chieftain            1    bastard sword     ml 30  3d8 +2 +2 BL AE
+*  2 crocodiles           6    none
+*  1 monster              1    none
+*
+* doors 6/8 10/12 11/13 16/18 19/27 23/24 27/28 (added by Nymph)
+*
+* room 7306
+M 0 7300 20 7306    * lizardman
+E 1 7300 100 16     * wield long sword
+D 0 7306 1 1        * close door east to 7308
+*
+*room 7307
+M 0 7300 20 7307    * lizardman
+E 1 7300 100 16     * wield a long sword
+*
+*room 7308
+M 0 7300 20 7308    * lizardman
+E 1 7300 100 16     * wield a long sword
+M 0 7301 20 7308    * lizardwoman
+M 0 7302 25 7308    * lizardman child
+D 0 7308 3 1        * close door west to 7306
+*
+*room 7309
+M 0 7300 20 7309    * lizardman
+E 1 7300 100 16     * wield longsword
+M 0 7301 20 7309    * lizardwoman
+*
+*room 7310
+D 0 7310 3 1        * close door west to 7312
+*
+*room 7311
+D 0 7311 1 1        * close door east to 7313
+*
+*room 7312
+M 0 7303 10 7312     * lizardman hunter
+E 1 7300 100 16      * wield long sword
+E 1 7301 50 11       * wear shield
+D 0 7312 1 1         * close door east to 7310
+*
+*room 7313
+M 0 7304 5 7313      * lizardman fisherman
+E 1 7303 50 16       * wield trident
+E 1 7302 50 11       * wear net as shield
+M 0 7301 20 7313     * lizardwoman
+M 0 7302 25 7313     * lizardchild
+D 0 7313 3 1         * close door west to 7311
+*
+*room 7314
+M 0 7300 20 7314     * lizardman
+E 1 7300 100 16      * wield longsword
+M 0 7303 10 7314     * lizardman hunter
+E 1 7300 100 16      * wield longsword
+E 1 7301 50 11       * wear shield
+*
+*room 7316
+M 0 7300 20 7316     * lizardman
+E 1 7300 100 16      * wield longsword
+D 0 7316 1 1         * close east door to 7318
+*
+*room 7317
+M 0 7305 1 7317      * lizardman mage
+E 1 7304 5 0         * magic globe
+M 0 7306 3 7317      * lizardman apprentice mage
+M 0 7306 3 7317      * ditto
+M 0 7306 3 7317      * ditto
+*
+*room 7318
+M 0 7300 20 7318     * lizardman
+E 1 7300 100 16      * wield longsword
+M 0 7300 20 7318     * lizardman
+E 1 7300 100 16      * wield longsword
+M 0 7303 10 7318     * lizardman hunter
+E 1 7300 100 16      * wield long sword
+E 1 7301 50 11       * wear shield
+M 0 7303 10 7318     * lizardman hunter
+E 1 7300 100 16      * wield long sword
+E 1 7301 50 11       * wear shield
+M 0 7304 5 7318      * lizardman fisherman
+E 1 7303 50 16       * wield trident
+E 1 7302 50 11       * wear net as shield
+M 0 7301 20 7318     * lizardwoman
+M 0 7302 25 7318     * lizardchild
+M 0 7301 20 7318     * lizardwoman
+M 0 7302 25 7318     * lizardchild
+D 0 7318 3 1         * close west door to 7316
+*
+*room 7319
+M 0 7301 20 7319     * lizardwoman
+M 0 7302 25 7319     * lizardchild
+M 0 7301 20 7319     * lizardwoman
+M 0 7302 25 7319     * lizardchild
+M 0 7302 25 7319     * lizardchild
+M 0 7300 20 7319     * lizardman
+E 1 7300 100 16      * wield longsword
+M 0 7303 10 7319     * lizardman hunter
+E 1 7300 100 16      * wield long sword
+E 1 7301 50 11       * wear shield
+D 0 7319 2 1         * close door south to 7327
+*
+*room 7320
+M 0 7309 6 7320      * crocodile
+M 0 7309 6 7320      * crocodile
+*
+*room 7322
+M 0 7301 20 7322     * lizardwoman
+M 0 7300 20 7322     * lizardman unarmed
+M 0 7300 20 7322     * lizardman unarmed
+*
+*room 7323
+M 0 7301 20 7323     * lizardwoman
+M 0 7302 25 7323     * lizardchild
+M 0 7302 25 7323     * lizardchild
+D 0 7323 2 1         * close door south to 7324
+*
+*room 7324
+M 0 7310 1 7324      * monster
+D 0 7324 3 1         * close door WEST to 7323
+*
+*room 7326
+M 0 7304 5 7326      * lizardman fisherman
+E 1 7303 50 16       * wield trident
+E 1 7302 50 11       * wear net as shield
+M 0 7304 5 7326      * lizardman fisherman
+E 1 7303 50 16       * wield trident
+E 1 7302 50 11       * wear net as shield
+*
+*room 7327
+M 0 7308 1 7327      * lizardman chieftain
+E 1 7305 5 16        * wield sword
+M 0 7307 4 7327      * lizardmen guard
+E 1 7306 100 16      * wield halberd
+M 0 7307 3 7327      * lizardman guard
+E 1 7306 100 16      * wield halberd
+D 0 7327 0 1         * close door north to 7319
+D 0 7327 2 1	     * close door south to 7328  (added by Nymph)
+*
+*room 7328    added by Nymph
+D 0 7328 0 1	     * close door north to 7327
+*
+*room 7329    random mob distribution room
+M 0 7300 20 7329     * lizardman
+E 1 7300 100 16      * wield longsword
+M 0 7300 20 7329     * lizardman
+E 1 7300 100 16      * wield longsword
+M 0 7303 10 7329     * lizardman hunter
+E 1 7300 100 16      * wield long sword
+E 1 7301 50 11       * wear shield
+M 0 7303 10 7329     * lizardman hunter
+E 1 7300 100 16      * wield long sword
+E 1 7301 50 11       * wear shield
+M 0 7304 5 7329      * lizardman fisherman
+E 1 7303 50 16       * wield trident
+E 1 7302 50 11       * wear net as shield
+M 0 7301 20 7329     * lizardwoman
+M 0 7302 25 7329     * lizardchild
+M 0 7301 20 7329     * lizardwoman
+M 0 7302 25 7329     * lizardchild
+*
+S
+#99999
+$~

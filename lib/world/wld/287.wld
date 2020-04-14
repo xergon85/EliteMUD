@@ -1,0 +1,229 @@
+#28700
+The Pub~
+   Through the smoke and noise, you can see what appears to be a seedy
+tavern.  The bar, while well-stocked, looks to be in some disrepair,
+burn marks and scuffs abound.  Several tables, which appear to have been
+broken and fixed many times, fill the center of the room, and booths
+with high walls ensure privacy for those looking to transact the
+occasional shady deal.  Behind the bar hangs a sign: 
+
+                       #yAll alcohol must be paid for 
+                   Water is self-serve... the management#N
+~
+287 deuyz 0
+D1
+~
+~
+0 -1 28701
+D2
+~
+~
+0 -1 28703
+S
+#28701
+The Guild Hall~
+   Here is the gathering place of the guild.  The long hall is filled with
+benches enough to accommodate a small army.  At the end of the hall is a
+tall chair made entirely of bones, several of which you can not
+identify... those you can sending shivers through your body.  Above the
+chair lies a simple plaque:  
+ 
+                          #yDisce doce#N
+ 
+~
+287 duyz 0
+D1
+~
+~
+0 -1 28702
+D2
+~
+~
+0 -1 28704
+D3
+~
+~
+0 -1 28700
+E
+plaque~
+In English:
+ 
+                      #yTo Learn and Teach#N
+~
+S
+#28702
+The Grill~
+   A fantastic smell greets you as you enter the room. The grill is 
+filled with tables.  At one end is a counter upon which a variety of 
+food is laid out ready for you. It looks delicious! 
+Your mouth is watering.
+~
+287 deuyz 0
+D2
+~
+~
+0 -1 28705
+D3
+~
+~
+0 -1 28701S
+#28703
+The Guild Donation Room~
+   Most of what can be found here is second-hand equipment.  It has been
+used hard and then given away to someone who might need it.  That
+someone is you.  While the majority of it is common, and therefore 
+worth little, you might get lucky and find something really valuable.  
+You might want to look at the advice board before you change your kit.  
+~
+287 duyz 0
+D0
+~
+~
+0 -1 28700
+D1
+~
+~
+0 -1 28704
+D2
+~
+~
+0 -1 28706
+S
+#28704
+The Entrance to the Four Winds~
+   What was once a grand tavern has fallen to disrepair.  When Midgaard was
+new and prosperous, The Four Winds was the finest inn in all the lands,
+the only one allowed to build upon the temple complex itself.  When the
+creatures and beasts invaded the kingdom, it fell on hard times, until
+what had become a sleazy brothel and bar was finally boarded up,
+forgotten by all.  Not so anymore!  Now it has been reopened, and is
+slowly becoming grand again.  No longer a tavern, the four stone
+guardians watch the comings and goings of the guild members of the
+Adventurer's Guild.
+~
+287 duyz 0
+D0
+Before you is a statue, dedicated to the North Wind.  Lord of the
+storms, he is both the guardian of sailors and the harbinger of doom.
+~
+~
+0 -1 28701
+D1
+Before you is a statue in homage to the East Wind.  Lord of the tides,
+he is a fickle guardian, protecting when he sees fit, leaving as he
+chooses.
+~
+~
+0 -1 28705
+D2
+Before you is the South Wind, cast in stone.  His visage is kind and
+gentle, but a deeper look shows an iciness and violence that leaves you
+cold.
+~
+~
+0 -1 28707
+D3
+Before you, a statue dedicated to the West Wind rises majestically.
+Most favored of the Winds, he is constant and kind, driving storms away
+and guiding sailors' home.
+~
+~
+0 -1 28703
+D5
+~
+~
+0 -1 3000
+S
+#28705
+The Board Room~
+   This quiet room is dedicated to the study and research it takes to
+survive in the violent world around us.  Scrolls and tomes litter the
+tables.  Many have been left sitting open, as foolish recruits often
+race off to try a new technique without finishing the lesson.  Will 
+you be so foolish?  Will your body feed some fell beast?  Look to the 
+boards for the keys to survival!
+~
+287 douyz 0
+D0
+~
+~
+0 -1 28702
+D2
+~
+~
+0 -1 28708
+D3
+~
+~
+0 -1 28704
+S
+#28706
+The Mad Prophet's Chamber~
+   Here lives a madman.  A man whose mind was torn apart by the forces of
+Magic, and the responsibility of controlling it.  He has spent millennia
+recovering from the damage done to his mind, and has once again decided
+to try and help mankind.  By spending his life dedicated to helping the
+weak he hopes to make amends for his sins.  Wise in the way of the
+world, his mad ravings contain secrets you would do well to learn.
+~
+287 deuyz 0
+D0
+~
+~
+0 -1 28703
+D1
+~
+~
+0 -1 28707
+S
+#28707
+The Tavern Commons~
+   Here sleeping space has been provided for those in need of a rest.  The
+bunks are uncomfortable, the room chilly, and the bedding sparse.  But
+then... what do you want for free?  The guild sponsors hope to one day
+improve the conditions of the Four Winds, but they have only so much
+money. 
+~
+287 dtuyz 0
+D0
+~
+~
+0 -1 28704
+D1
+~
+~
+0 -1 28708
+D3
+~
+~
+0 -1 28706
+S
+#28708
+The Overseers Office~
+   Here is where the Overseers can be found.  While they may often be out
+helping a recruit, they return here to settle disputes, give sage
+advice, and generally avoid everyone but their guild.  In the corner you
+see a trap door heading down.  A small sign on it reads: 
+       
+                #g One Way Passage to The Zoo#N
+~
+287 dijuyz 0
+D0
+~
+door
+~
+2 28717 28705
+D3
+~
+door
+~
+2 28717 28707
+D5
+~
+trapdoor
+~
+1 -1 23702
+S
+#99999
+$~
+

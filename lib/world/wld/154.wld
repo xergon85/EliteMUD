@@ -1,0 +1,2717 @@
+#15400
+On the Pier~
+   The weatherbeaten old house just to your south has clearly seen
+better days.  The windows and doors have been boarded up as if to
+protect the house from the battering winds and rain of a hurricane.  Or
+perhaps to keep whatever is inside ... inside.  You can dive down into
+the water from here, or head south into the house.
+~
+154 cruy 0
+D2
+A very large door marks the entrance to a creepy old house.
+~
+~
+1 -1 15401
+D5
+The deep green water of the mighty ocean looks warm and inviting.
+~
+~
+0 -1 15465
+S
+#15401
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 hruy 0
+D0
+~
+~
+1 -1 15400
+D1
+~
+~
+0 -1 15402
+D2
+~
+~
+0 -1 15405
+D4
+~
+~
+0 -1 15417
+D5
+~
+door~
+263 15400 15449
+S
+#15402
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15414
+D1
+~
+door~
+7 15401 15403
+D2
+~
+~
+0 -1 15406
+D3
+~
+~
+0 -1 15401
+D4
+~
+~
+0 -1 15418
+D5
+~
+~
+0 -1 15450
+S
+#15403
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15415
+D1
+~
+~
+0 -1 15404
+D2
+~
+~
+0 -1 15407
+D3
+~
+~
+7 15401 15402
+S
+#15404
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15416
+D2
+~
+~
+0 -1 15408
+D3
+~
+~
+0 -1 15403
+S
+#15405
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15401
+D1
+~
+door~
+3 -1 15406
+D2
+~
+~
+0 -1 15409
+D4
+~
+~
+0 -1 15421
+S
+#15406
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15402
+D1
+~
+door~
+3 -1 15407
+D2
+~
+~
+0 -1 15410
+D3
+~
+~
+3 -1 15405
+D5
+~
+door~
+3 -1 15454
+S
+#15407
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15403
+D1
+~
+~
+0 -1 15408
+D2
+~
+door~
+3 -1 15411
+D3
+~
+~
+3 -1 15406
+D4
+~
+~
+0 -1 15423
+S
+#15408
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 gruy 0
+D0
+~
+~
+0 -1 15404
+D2
+~
+~
+0 -1 15412
+D3
+~
+~
+0 -1 15407
+D5
+~
+door~
+3 -1 15456
+S
+#15409
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15405
+D1
+~
+door~
+3 -1 15410
+D2
+~
+~
+0 -1 15413
+D4
+~
+~
+0 -1 15425
+D5
+~
+~
+0 -1 15457
+S
+#15410
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 hruy 0
+D0
+~
+~
+0 -1 15406
+D1
+~
+door~
+7 15402 15411
+D2
+~
+~
+0 -1 15414
+D3
+~
+~
+3 -1 15409
+D4
+~
+~
+0 -1 15426
+S
+#15411
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+3 -1 15407
+D1
+~
+~
+0 -1 15412
+D2
+~
+~
+0 -1 15415
+D3
+~
+~
+7 15402 15410
+D4
+~
+~
+0 -1 15427
+S
+#15412
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15408
+D2
+~
+door~
+3 -1 15416
+D3
+~
+~
+0 -1 15411
+D4
+~
+~
+0 -1 15428
+S
+#15413
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15409
+D1
+~
+~
+0 -1 15414
+D2
+~
+~
+0 -1 15401
+D5
+~
+~
+0 -1 15461
+S
+#15414
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15410
+D1
+~
+~
+0 -1 15415
+D2
+~
+~
+0 -1 15402
+D3
+~
+~
+0 -1 15413
+D5
+~
+~
+0 -1 15462
+S
+#15415
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15411
+D1
+~
+door~
+7 15403 15416
+D2
+~
+~
+0 -1 15403
+D3
+~
+~
+0 -1 15414
+D5
+~
+~
+0 -1 15463
+S
+#15416
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+3 -1 15412
+D2
+~
+~
+0 -1 15404
+D3
+~
+~
+7 15403 15415
+S
+#15417
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 gruy 0
+D0
+~
+~
+0 -1 15429
+D1
+~
+~
+0 -1 15418
+D2
+~
+~
+0 -1 15421
+D4
+~
+~
+0 -1 15433
+D5
+~
+~
+0 -1 15401
+S
+#15418
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15430
+D1
+~
+door~
+7 15404 15419
+D2
+~
+~
+0 -1 15422
+D3
+~
+~
+0 -1 15417
+D5
+~
+~
+0 -1 15402
+S
+#15419
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15431
+D1
+~
+~
+0 -1 15420
+D2
+~
+door~
+7 15405 15423
+D3
+~
+~
+7 15404 15418
+S
+#15420
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15432
+D2
+~
+~
+0 -1 15424
+D3
+~
+~
+0 -1 15419
+S
+#15421
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15417
+D1
+~
+~
+0 -1 15422
+D2
+~
+~
+0 -1 15425
+D4
+~
+door~
+3 -1 15437
+D5
+~
+~
+0 -1 15405
+S
+#15422
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15418
+D1
+~
+~
+0 -1 15423
+D2
+~
+~
+0 -1 15426
+D3
+~
+~
+0 -1 15421
+D4
+~
+~
+0 -1 15438
+S
+#15423
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+7 15405 15419
+D1
+~
+~
+0 -1 15424
+D2
+~
+~
+0 -1 15427
+D3
+~
+~
+0 -1 15422
+D5
+~
+~
+0 -1 15407
+S
+#15424
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15420
+D2
+~
+~
+0 -1 15428
+D3
+~
+~
+0 -1 15423
+S
+#15425
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15421
+D1
+~
+~
+0 -1 15426
+D2
+~
+~
+0 -1 15429
+D5
+~
+~
+0 -1 15409
+S
+#15426
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15422
+D1
+~
+~
+0 -1 15427
+D2
+~
+~
+0 -1 15430
+D3
+~
+~
+0 -1 15425
+D4
+~
+~
+0 -1 15442
+D5
+~
+~
+0 -1 15410
+S
+#15427
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 gruy 0
+D0
+~
+~
+0 -1 15423
+D1
+~
+~
+0 -1 15428
+D2
+~
+~
+0 -1 15431
+D3
+~
+~
+0 -1 15426
+D5
+~
+~
+0 -1 15411
+S
+#15428
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 gruy 0
+D0
+~
+~
+0 -1 15424
+D2
+~
+~
+0 -1 15432
+D3
+~
+~
+0 -1 15427
+D5
+~
+~
+0 -1 15412
+S
+#15429
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15425
+D1
+~
+~
+0 -1 15430
+D2
+~
+~
+0 -1 15417
+D4
+~
+door~
+3 -1 15445
+S
+#15430
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15426
+D1
+~
+~
+0 -1 15431
+D2
+~
+~
+0 -1 15418
+D3
+~
+~
+0 -1 15429
+S
+#15431
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15427
+D1
+~
+~
+0 -1 15432
+D2
+~
+~
+0 -1 15419
+D3
+~
+~
+0 -1 15430
+D4
+~
+~
+0 -1 15447
+S
+#15432
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 mruy 0
+D0
+~
+~
+0 -1 15428
+D2
+~
+~
+0 -1 15420
+D3
+~
+~
+0 -1 15431
+S
+#15433
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 hruy 0
+D0
+~
+~
+0 -1 15445
+D1
+~
+~
+0 -1 15434
+D2
+~
+~
+0 -1 15437
+D5
+~
+~
+0 -1 15417
+S
+#15434
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15446
+D1
+~
+door~
+3 -1 15435
+D2
+~
+~
+0 -1 15438
+D3
+~
+~
+0 -1 15433
+D4
+~
+~
+0 -1 15450
+S
+#15435
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 gruy 0
+D0
+~
+~
+0 -1 15447
+D1
+~
+~
+0 -1 15436
+D2
+~
+door~
+295 15406 15439
+D3
+~
+~
+3 -1 15434
+S
+#15436
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+door~
+3 -1 15448
+D2
+~
+~
+0 -1 15440
+D3
+~
+~
+0 -1 15435
+D4
+~
+~
+0 -1 15452
+S
+#15437
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15433
+D1
+~
+~
+0 -1 15438
+D2
+~
+door~
+7 15407 15441
+D4
+~
+~
+0 -1 15453
+D5
+~
+~
+3 -1 15421
+S
+#15438
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15434
+D1
+~
+~
+0 -1 15439
+D2
+~
+~
+0 -1 15442
+D3
+~
+~
+0 -1 15437
+D5
+~
+~
+0 -1 15422
+S
+#15439
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+295 15406 15435
+D1
+~
+~
+0 -1 15440
+D2
+~
+~
+0 -1 15443
+D3
+~
+~
+0 -1 15438
+S
+#15440
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15436
+D2
+~
+~
+0 -1 15444
+D3
+~
+~
+0 -1 15439
+S
+#15441
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 gruy 0
+D0
+~
+~
+7 15407 15437
+D1
+~
+~
+0 -1 15442
+D2
+~
+~
+0 -1 15445
+D4
+~
+~
+0 -1 15457
+S
+#15442
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15438
+D1
+~
+~
+0 -1 15443
+D2
+~
+~
+0 -1 15446
+D3
+~
+~
+0 -1 15441
+D5
+~
+~
+0 -1 15426
+S
+#15443
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15439
+D1
+~
+door~
+3 -1 15444
+D2
+~
+~
+0 -1 15447
+D3
+~
+~
+0 -1 15442
+D4
+~
+~
+0 -1 15459
+S
+#15444
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15440
+D2
+~
+~
+0 -1 15448
+D3
+~
+~
+3 -1 15443
+S
+#15445
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 hruy 0
+D0
+~
+~
+0 -1 15441
+D1
+~
+~
+0 -1 15446
+D2
+~
+~
+0 -1 15433
+D5
+~
+~
+3 -1 15429
+S
+#15446
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15442
+D1
+~
+~
+0 -1 15447
+D2
+~
+~
+0 -1 15434
+D3
+~
+~
+0 -1 15445
+S
+#15447
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15443
+D1
+~
+~
+0 -1 15448
+D2
+~
+~
+0 -1 15435
+D3
+~
+~
+0 -1 15446
+D4
+~
+~
+0 -1 15463
+D5
+~
+~
+0 -1 15431
+S
+#15448
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15444
+D2
+~
+~
+3 -1 15436
+D3
+~
+~
+0 -1 15447
+S
+#15449
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15461
+D1
+~
+~
+0 -1 15450
+D2
+~
+door~
+3 -1 15453
+D4
+~
+~
+263 15400 15401
+S
+#15450
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15462
+D1
+~
+door~
+263 15408 15451
+D2
+~
+~
+0 -1 15454
+D3
+~
+~
+0 -1 15449
+D4
+~
+~
+0 -1 15402
+D5
+~
+~
+0 -1 15434
+S
+#15451
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15463
+D1
+~
+door~
+3 -1 15452
+D2
+~
+~
+0 -1 15455
+D3
+~
+~
+263 15408 15450
+S
+#15452
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15464
+D2
+~
+~
+0 -1 15456
+D3
+~
+~
+3 -1 15451
+D5
+~
+~
+0 -1 15436
+S
+#15453
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+3 -1 15449
+D1
+~
+door~
+295 15409 15454
+D2
+~
+door~
+3 -1 15457
+D5
+~
+~
+0 -1 15437
+S
+#15454
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ghruy 0
+D0
+~
+~
+0 -1 15450
+D1
+~
+door~
+7 15410 15455
+D2
+~
+~
+0 -1 15458
+D3
+~
+~
+295 15409 15453
+D4
+~
+~
+3 -1 15406
+S
+#15455
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 gruy 0
+D0
+~
+~
+0 -1 15451
+D1
+~
+~
+0 -1 15456
+D2
+~
+~
+0 -1 15459
+D3
+~
+~
+7 15410 15454
+S
+#15456
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 gruy 0
+D0
+~
+~
+0 -1 15452
+D2
+~
+~
+0 -1 15460
+D3
+~
+~
+0 -1 15455
+D4
+~
+~
+3 -1 15408
+S
+#15457
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 hruy 0
+D0
+~
+~
+3 -1 15453
+D1
+~
+~
+0 -1 15458
+D2
+~
+~
+0 -1 15461
+D4
+~
+~
+0 -1 15409
+D5
+~
+~
+0 -1 15441
+S
+#15458
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15454
+D1
+~
+~
+0 -1 15459
+D2
+~
+~
+0 -1 15462
+D3
+~
+~
+0 -1 15457
+S
+#15459
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 hruy 0
+D0
+~
+~
+0 -1 15455
+D1
+~
+door~
+3 -1 15460
+D2
+~
+door~
+3 -1 15463
+D3
+~
+~
+0 -1 15458
+D5
+~
+~
+0 -1 15443
+S
+#15460
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15456
+D2
+~
+~
+0 -1 15464
+D3
+~
+~
+3 -1 15459
+S
+#15461
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15457
+D1
+~
+~
+0 -1 15462
+D2
+~
+~
+0 -1 15449
+D4
+~
+~
+0 -1 15413
+S
+#15462
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15458
+D1
+~
+~
+0 -1 15463
+D2
+~
+~
+0 -1 15450
+D3
+~
+~
+0 -1 15461
+D4
+~
+~
+0 -1 15414
+S
+#15463
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+3 -1 15459
+D1
+~
+~
+0 -1 15464
+D2
+~
+~
+0 -1 15451
+D3
+~
+~
+0 -1 15462
+D4
+~
+~
+0 -1 15415
+D5
+~
+~
+0 -1 15447
+S
+#15464
+The House~
+   You are wandering around a decrepit old house.  There are creaky     
+stairs all over the place, and unexpected slides and broken floorboards.
+The rooms all look vaguely alike.  Most feature a picture of one of the 
+people who used to live here, but they are all so covered over with dust 
+you can't make out what - or who - is in the picture.
+~
+154 ruy 0
+D0
+~
+~
+0 -1 15460
+D2
+~
+~
+0 -1 15452
+D3
+~
+~
+0 -1 15463
+S
+#15465
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a
+pleasant enough place to be.  The water is warm, and you are surrounded
+by a wild variety of sea life, mostly friendly. 
+~
+154 hruy 8
+D0
+~
+~
+0 -1 15471
+D1
+~
+~
+0 -1 15466
+D2
+~
+~
+0 -1 15468
+D3
+~
+~
+0 -1 15467
+D4
+~
+~
+0 -1 15474
+D5
+~
+~
+0 -1 15483
+S
+#15466
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 ruy 8
+D0
+~
+~
+0 -1 15472
+D1
+~
+~
+0 -1 15467
+D2
+~
+~
+0 -1 15469
+D3
+~
+~
+0 -1 15465
+D4
+~
+~
+0 -1 15475
+D5
+~
+~
+0 -1 15484
+S
+#15467
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 hmruy 8
+D0
+~
+~
+0 -1 15473
+D1
+~
+~
+0 -1 15465
+D2
+~
+~
+0 -1 15470
+D3
+~
+~
+0 -1 15466
+D4
+~
+~
+0 -1 15476
+D5
+~
+~
+0 -1 15485
+S
+#15468
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 hruy 8
+D0
+~
+~
+0 -1 15465
+D1
+~
+~
+0 -1 15469
+D2
+~
+~
+0 -1 15471
+D3
+~
+~
+0 -1 15470
+D4
+~
+~
+0 -1 15477
+D5
+~
+~
+0 -1 15486
+S
+#15469
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 ruy 8
+D0
+~
+~
+0 -1 15466
+D1
+~
+~
+0 -1 15470
+D2
+~
+~
+0 -1 15472
+D3
+~
+~
+0 -1 15468
+D4
+~
+~
+0 -1 15478
+D5
+~
+~
+0 -1 15487
+S
+#15470
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 ruy 8
+D0
+~
+~
+0 -1 15467
+D1
+~
+~
+0 -1 15468
+D2
+~
+~
+0 -1 15473
+D3
+~
+~
+0 -1 15469
+D4
+~
+~
+0 -1 15479
+D5
+~
+~
+0 -1 15488
+S
+#15471
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 gruy 8
+D0
+~
+~
+0 -1 15468
+D1
+~
+~
+0 -1 15472
+D2
+~
+~
+0 -1 15465
+D3
+~
+~
+0 -1 15473
+D4
+~
+~
+0 -1 15480
+D5
+~
+~
+0 -1 15489
+S
+#15472
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 ruy 8
+D0
+~
+~
+0 -1 15469
+D1
+~
+~
+0 -1 15473
+D2
+~
+~
+0 -1 15466
+D3
+~
+~
+0 -1 15471
+D4
+~
+~
+0 -1 15481
+D5
+~
+~
+0 -1 15490
+S
+#15473
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+         
+~
+154 gruy 8
+D0
+~
+~
+0 -1 15470
+D1
+~
+~
+0 -1 15471
+D2
+~
+~
+0 -1 15467
+D3
+~
+~
+0 -1 15472
+D4
+~
+~
+0 -1 15482
+D5
+~
+~
+0 -1 15491
+S
+#15474
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 mruy 8
+D0
+~
+~
+0 -1 15480
+D1
+~
+~
+0 -1 15475
+D2
+~
+~
+0 -1 15477
+D3
+~
+~
+0 -1 15476
+D4
+~
+~
+0 -1 15483
+D5
+~
+~
+0 -1 15465
+S
+#15475
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+        
+~
+154 gruy 8
+D0
+~
+~
+0 -1 15481
+D1
+~
+~
+0 -1 15476
+D2
+~
+~
+0 -1 15478
+D3
+~
+~
+0 -1 15474
+D4
+~
+~
+0 -1 15484
+D5
+~
+~
+0 -1 15466
+S
+#15476
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 ghruy 8
+D0
+~
+~
+0 -1 15482
+D1
+~
+~
+0 -1 15474
+D2
+~
+~
+0 -1 15479
+D3
+~
+~
+0 -1 15475
+D4
+~
+~
+0 -1 15485
+D5
+~
+~
+0 -1 15467
+S
+#15477
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 ruy 8
+D0
+~
+~
+0 -1 15474
+D1
+~
+~
+0 -1 15478
+D2
+~
+~
+0 -1 15480
+D3
+~
+~
+0 -1 15479
+D4
+~
+~
+0 -1 15486
+D5
+~
+~
+0 -1 15468
+S
+#15478
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 gruy 8
+D0
+~
+~
+0 -1 15475
+D1
+~
+~
+0 -1 15479
+D2
+~
+~
+0 -1 15481
+D3
+~
+~
+0 -1 15477
+D4
+~
+~
+0 -1 15487
+D5
+~
+~
+0 -1 15469
+S
+#15479
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 gruy 8
+D0
+~
+~
+0 -1 15476
+D1
+~
+~
+0 -1 15477
+D2
+~
+~
+0 -1 15482
+D3
+~
+~
+0 -1 15478
+D4
+~
+~
+0 -1 15488
+D5
+~
+~
+0 -1 15470
+S
+#15480
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 ruy 8
+D0
+~
+~
+0 -1 15477
+D1
+~
+~
+0 -1 15481
+D2
+~
+~
+0 -1 15474
+D3
+~
+~
+0 -1 15482
+D4
+~
+~
+0 -1 15489
+D5
+~
+~
+0 -1 15471
+S
+#15481
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 ruy 8
+D0
+~
+~
+0 -1 15478
+D1
+~
+~
+0 -1 15482
+D2
+~
+~
+0 -1 15475
+D3
+~
+~
+0 -1 15480
+D4
+~
+~
+0 -1 15490
+D5
+~
+~
+0 -1 15472
+S
+#15482
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 gmruy 8
+D0
+~
+~
+0 -1 15479
+D1
+~
+~
+0 -1 15480
+D2
+~
+~
+0 -1 15476
+D3
+~
+~
+0 -1 15481
+D4
+~
+~
+0 -1 15491
+D5
+~
+~
+0 -1 15473
+S
+#15483
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 ruy 8
+D0
+~
+~
+0 -1 15489
+D1
+~
+~
+0 -1 15484
+D2
+~
+~
+0 -1 15486
+D3
+~
+~
+0 -1 15485
+D4
+~
+~
+0 -1 15465
+D5
+~
+~
+0 -1 15474
+S
+#15484
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 ruy 8
+D0
+~
+~
+0 -1 15490
+D1
+~
+~
+0 -1 15485
+D2
+~
+~
+0 -1 15487
+D3
+~
+~
+0 -1 15483
+D4
+~
+~
+0 -1 15466
+D5
+~
+~
+0 -1 15475
+S
+#15485
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 ruy 8
+D0
+~
+~
+0 -1 15491
+D1
+~
+~
+0 -1 15483
+D2
+~
+~
+0 -1 15488
+D3
+~
+~
+0 -1 15484
+D4
+~
+~
+0 -1 15467
+D5
+~
+~
+0 -1 15476
+S
+#15486
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 hruy 8
+D0
+~
+~
+0 -1 15483
+D1
+~
+~
+0 -1 15487
+D2
+~
+~
+0 -1 15489
+D3
+~
+~
+0 -1 15488
+D4
+~
+~
+0 -1 15468
+D5
+~
+~
+0 -1 15477
+S
+#15487
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 ruy 8
+D0
+~
+~
+0 -1 15484
+D1
+~
+~
+0 -1 15488
+D2
+~
+~
+0 -1 15490
+D3
+~
+~
+0 -1 15486
+D4
+~
+~
+0 -1 15492
+D5
+~
+~
+0 -1 15478
+S
+#15488
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 ghruy 8
+D0
+~
+~
+0 -1 15485
+D1
+~
+~
+0 -1 15486
+D2
+~
+~
+0 -1 15491
+D3
+~
+~
+0 -1 15487
+D4
+~
+~
+0 -1 15470
+D5
+~
+~
+0 -1 15479
+S
+#15489
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 ruy 8
+D0
+~
+~
+0 -1 15486
+D1
+~
+~
+0 -1 15490
+D2
+~
+~
+0 -1 15483
+D3
+~
+~
+0 -1 15491
+D4
+~
+~
+0 -1 15471
+D5
+~
+~
+0 -1 15480
+S
+#15490
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 ruy 8
+D0
+~
+~
+0 -1 15487
+D1
+~
+~
+0 -1 15491
+D2
+~
+~
+0 -1 15484
+D3
+~
+~
+0 -1 15489
+D4
+~
+~
+0 -1 15472
+D5
+~
+~
+0 -1 15481
+S
+#15491
+Under the Sea~
+   Murky green, salty water surrounds you on all sides.  The water is
+disorienting, making it difficult to remember which direction is up, or
+even which direction you were going.  If you have gills, it is a 
+pleasant enough place to be.  The water is warm, and you are surrounded 
+by a wild variety of sea life, mostly friendly.          
+~
+154 ruy 8
+D0
+~
+~
+0 -1 15488
+D1
+~
+~
+0 -1 15489
+D2
+~
+~
+0 -1 15485
+D3
+~
+~
+0 -1 15490
+D4
+~
+~
+0 -1 15473
+D5
+~
+~
+0 -1 15482
+S
+#15492
+A Small Cave Away from the Waves~
+   A small rocky ledge is all you can see of this cavern, although you
+can tell from the way it echoes the lapping waves that it is quite
+large.  Only the small ledge where you stand appears to be above water
+however, and the only way out is back into the water, yet you feel safe
+here, as if somehow you have arrived.
+~
+154 cruy 8
+D5
+It's wet!
+~
+~
+0 -1 15487
+S
+#99999
+$~

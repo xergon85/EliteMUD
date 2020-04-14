@@ -1,0 +1,10 @@
+>greet_prog 100~
+  if(isplayer(ch) && !isimmort(ch))
+   {	
+    echoat(ch, "\nThe Minotaur Sergeant's hand goes to the hilt of his sword as he is very annoyed by your entrance.\n");
+    do(mob, "charge " + name(ch));
+    do(mob, "kill " + name(ch));
+    }
+
+~
+|

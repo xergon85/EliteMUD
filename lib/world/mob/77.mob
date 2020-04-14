@@ -1,0 +1,169 @@
+#7700
+killer rabbit bunny~
+the killer rabbit~
+A cute little bunny hops around this place.
+~
+The little bunny looks soft and fluffy with long pointy ears, you'd 
+like to take it in your arms and hug it tenderly.
+~
+3 4 bg krD 0 S
+109 -60 -75 85d85+1
+408 500 100 25d25+100 -1
+322 100 -1
+-1
+0 1 8 8 0
+#7701
+knight ni~
+the knight of Ni~
+The knights who say "Ni!" are standing here.
+~
+We are now no longer the Knights who say "Ni!"
+We are now the Knights who say "ekky-ekky-ekky-ekky-z'Bang,
+zoom-Boing, z'nourrrwringmm".
+Therefore we must give you a test.
+Firstly, you must find....
+                  ANOTHER SHRUBBERY!!!!
+THEN...Then, when you have found the shrubbery, you must place
+it here, beside this shrubbery, only slightly higher, so we get
+the two-level effect with a little path running down the middle.
+Then, when you have found the shrubbery, you must cut down the
+mightiest tree in the forest...
+Wiiiiiiithh....   A HERRING!
+~
+3 4 bgm krD 0 S
+109 -60 -75 50d50+1
+400 500 100 20d20+100 -1
+322 100 -1
+-1
+0 1 8 8 1
+A
+%%25 say Ni!;%5 say Ekky-ekky-ekky-ekky-z'Bang, zooom-boing, z'nourrrwringmm!;%5 say Then, when you have found the shrubbery, you must cut down the mightiest tree in the forest...Wiiiithh....A HERRING!~
+#7702
+knight ni~
+the knight of Ni~
+The knights who say "Ni!" are standing here.
+~
+We are the keepers of the sacred words: Ni, Ping, and Nee-womm!
+The knights who say "Ni" demand.... a sacrifice!
+Ni!  Ni!  Ni!  Ni!  Ni!  Ni!  Ni!
+We shall say "Ni!" to you... if you do not appease us.
+We want......
+                    A SHRUBBERY!!!!
+Ni!   Ni!!  Ni!  Ni!
+You must return here with a shrubbery... or else you will never
+pass through this wood... alive.
+One that looks nice.
+And not too expensive.
+Noowwww.... GO!
+~
+3 4 bgm krD 0 S
+109 -60 -75 50d50+1
+400 500 100 20d20+100 -1
+322 100 -1
+-1
+0 1 8 8 1
+A
+%%50 say Ni!;%5 say Ping!;%5 say Nee-womm!;%10 say We want...    A SHRUBBERY!!!!!~
+#7703
+brother maynard~
+Brother Maynard~
+Brother Maynard is standing here.
+~
+Armaments, chapter two, versus nine to twenty-one.
+"And Saint Atila raised the hand grenade up high,
+saying, 'Oh, Lord, bless this thy hand grenade that with it thou
+mayest blow thy enemies to tiny bits, in thy mercy.' And the Lord
+did grin, and people did feast upon the lambs, and sloths, and carp, 
+and anchovies, and orangutans, and breakfast cereals, and fruits bats,
+and large ..."
+"And the Lord spake, saying, 'First shalt thou take out the Holy Pin.
+Then, shalt thou count to three, no more, no less. Three shall be the
+number thou count, and the number of the counting shalt be three.
+Four shalt thou not count, nor either count thou two, excepting that
+thou then proceed to three. Five is right out. Once the number three,
+being the third number, be reached, then lobbest thou thy Holy Hand
+Grenade of Antioch towards thou foe, who being naughty in my sight,
+shall snuff it.'"
+Amen.
+~
+3 4 bg krD 0 S
+109 -60 -75 75d75+1
+408 500 100 25d25+100 -1
+322 100 -1
+-1
+0 1 8 8 1
+A
+%%30 say And Saint Atila raised the hand grenade up on high, saying, "Oh Lord, bless this thy hand grenade that with it thou mayest blow thy enemies to tiny bits, in thy mercy.";%30 say And the Lord did grin, and people did feast upon the lambs, and sloth
+
+s, and carp, and anchovies, and orangutans, and breakfast cereals, and fruit bats, and large ...;%5 say Amen.~
+#7704
+roger shrubber~
+Roger the Shrubber~
+Roger the Shrubber is here, selling shrubberies.
+~
+Shrubberies are my trade, I am a shrubber.
+My name is Roger the Shrubber.
+I arrange, design, and sell shrubberies.
+~
+3 4 bg krD 0 S
+109 -60 -75 75d75+1
+408 500 100 25d25+100 -1
+322 100 -1
+-1
+0 1 8 8 1
+#7705
+keeper bridge~
+the keeper of the Bridge of Death~
+The keeper of the Bridge of Death stands here.
+~
+Stop!
+Who would cross the Bridge of Death must answer me these questions
+three, 'ere the other side he see.
+~
+3 4 bg krD 0 S
+109 -60 -75 75d75+1
+408 500 100 25d25+100 -1
+322 100 -1
+-1
+0 1 8 8 1
+#7706
+tim enchanter~
+Tim the Enchanter~
+Tim the Enchanter appears in front of you out of thin air.
+~
+To the north lies a cave -- the cave of Kyre Banorg -- wherein,
+carved in mystic runes upon the very living rock, the last words
+of Ulfin Bedweer of Regett proclaim the last resting place of
+the most Holy Grail.
+Follow! But follow only if ye be men of valor, for the entrance
+to this cave is guarded by a creature so foul, so cruel that no
+man yet has fought with it and lived! Bones of four fifty men lie
+strewn about his lair. So, brave knights, if you do doubt your
+courage or your strength, come no further, for death awaits you
+all with nasty big pointy teeth.
+~
+3 4 bg krD 0 S
+109 -60 -75 75d75+1
+408 500 100 25d25+100 -1
+322 100 -1
+-1
+0 1 8 8 0
+A
+%%25 emote points at a rock in the near distance that sudden explodes in a big blast!;%15 emote raises his staff as a big burst of flames blows from the end of his staff.;%10 steps out of a big explosion just in front of you.~
+#7707
+mightiest tree forest~
+the mightiest tree in the forest~
+#GThe mightiest tree in the forest.#N
+~
+The tree looks very old and,
+offcourse very mighty.
+~
+0 3 b 0 0 S
+109 20 -30 1d1+13000
+400 500 100 0d0+0 -1
+304 0
+372 0 -1
+-1
+0 1 8 8 0
+#99999
+$~

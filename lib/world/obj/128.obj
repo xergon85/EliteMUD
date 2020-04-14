@@ -1,0 +1,451 @@
+#12800
+amulet crimson fist~
+a crimson amulet~
+You notice a small crimson amulet in the shape of a gauntleted fist.~
+~
+18 30 0 go ac
+0 0 0 0 0 120
+2 1500 0
+E
+amulet crimson fist~
+The amulet is intricately carved, and enamelled in deep crimson. Some 
+slight scratches along the edges of the tiny fist suggest that maybe 
+it has a special use, other than for ornament.
+~
+A
+5 2
+A
+17 -10
+B e
+#12801
+platemail crimson~
+a crimson platemail~
+A pure crimson platemail looks very sturdy.~
+~
+9 45 abcdefgijklmos agko ad
+20 45 0 0 0 0
+25 6000 0
+E
+platemail crimson~
+Its made of thick plates of the finest steel, enamelled the colour of 
+blood. The crimson enamel appears to glow in the dim light, perhaps 
+this platemail is magical?
+~
+A
+13 40
+A
+18 -1
+A
+19 2
+#12802
+mailshirt crimson~
+a crimson mailshirt~
+A mailshirt made from crimson links glitters like diamonds.~
+~
+9 46 abcefgijkmos agko ad
+18 46 0 0 0 0
+20 4000 0
+E
+mailshirt crimson~
+You cannot work out what metal the mailshirt is made from. The links 
+are finely crafted from some reddish metal, which appears to glow 
+crimson in the poor light.
+~
+A
+13 20
+A
+18 1
+A
+14 50
+#12803
+gauntlets crimson pair plated~
+a pair of crimson gauntlets~
+You see a pair of crimson gauntlets, gleaming like fresh blood.~
+~
+9 47 abcdefgijklmos agko ah
+7 47 0 0 0 0
+12 3000 0
+E
+gauntlets crimson pair~
+The gauntlets are cleverly constructed from small plates of enamelled 
+steel, so that they resemble the armoured plates of a lobster. The 
+thick enamel appears to glow.
+~
+A
+1 2
+A
+18 3
+A
+19 3
+#12804
+backplate crimson~
+a crimson backplate~
+You notice a thick protective backplate, enamelled in crimson.~
+~
+9 48 abcdefgijklmos agko ak
+12 48 0 0 0 0
+25 4300 0
+E
+backplate crimson~
+The backplate is a thick slab of solid steel the colour of blood.
+~
+A
+2 -1
+A
+14 -40
+A
+13 20
+#12805
+legplates crimson~
+a pair of crimson legplates~
+A pair of crimson legplates lie in a heap on the ground.~
+~
+9 49 abcdefgijklmos agko af
+9 49 0 0 0 0
+15 4200 0
+E
+legplates crimson~
+The legplates are ingeniously constructed from thick plates of enamelled 
+steel, with strange shaped sections of even thicker plate to protect the 
+vulnerable knee joint.
+~
+A
+2 -1
+A
+14 -10
+A
+13 20
+A
+19 1
+#12806
+footplates crimson pair~
+a pair of crimson footplates~
+A pair of crimson footplates stand to attention.~
+~
+9 50 abcdefgijklmos agko ag
+10 50 0 0 0 0
+16 3200 0
+E
+footplates crimson~
+Overlapping scales of crimson steel make the footplates excellent 
+protective footwear, although unfortunately cumbersome to wear.
+~
+A
+18 -1
+A
+13 10
+A
+19 1
+#12807
+helmet crimson~
+a crimson helmet~
+An ornate crimson helmet stares at you from across the room.~
+~
+9 51 abcdefgijklmos agko ae
+11 51 0 0 0 0
+20 4200 0
+E
+helmet crimson~
+The helmet is made from enamelled steel, edged in gold. Narrow eye 
+slits give you a poor view of the outside world, but at least you 
+are well protected.
+~
+A
+18 -1
+A
+13 50
+A
+19 1
+#12808
+crimson fist war banner~
+the war banner of the Crimson Fists~
+A tall war banner flaps gently in the breeze.~
+~
+4 52 abcdefgijklmos agko ao
+40 5 5 28 0 0
+40 8400 0
+E
+banner crimson fist war standard~
+The is the war standard carried into battle by Knight Captain Sir 
+Stephen, Bannerman of the Crimson Fists. In battle victory can be 
+balanced on a knife edge, the fickle heart of men deciding the 
+outcome. The banner is a focus of courage for all the Crimson Fist 
+Knights, and so long as it stands, they will fight on.
+~
+A
+6 4
+A
+14 -30
+A
+18 8
+#12809
+crimson armplates~
+a pair of crimson armplates~
+A pair of sturdy crimson armplates have been left here.~
+~
+9 53 abcdefgijklmos agko ai
+9 53 0 0 0 0
+21 5200 0
+E
+crimson armplates~
+They are cleverly jointed at the elbow so as to allow maximum 
+protection without impeding movement. The thick steel plating is 
+enamelled a deep crimson - the same shade as fresh blood.
+~
+A
+1 4
+A
+19 2
+A
+18 1
+#12810
+crimson fist pendant~
+A Crimson Fist pendant~
+A small pendant in the shape of a gauntleted fist has been placed here.~
+~
+9 54 abcdefgijklmos agko ac
+12 54 0 0 0 0
+3 3100 0
+E
+crimson fist pendant~
+It seems to be a tiny crimson gem, carved in the shape of a gauntleted 
+fist attached to a delicate gold chain.
+~
+A
+13 20
+A
+24 5
+#12811
+crimson fist primarch signet ring~
+The Primarch's Signet Ring~
+You notice a large gold signet ring with a crimson emblem.~
+~
+9 55 abcdefgijklmos agko ab
+10 55 0 0 0 0
+1 1032 0
+E
+crimson ring signet primarch fist~
+The signet belongs to the Primarch of the Crimson fists. Its made of a 
+thick band of gold, and set in the face is a ruby carved in the shape 
+of a clenched fist.
+~
+A
+18 1
+A
+19 1
+A
+13 15
+#12812
+crimson fist mace~
+the Crimson Fist~
+A huge crimson mace stands in the corner, daring you to pick it up.~
+~
+5 56 abcdefgijklmnos agko an
+56 8 6 6 0 0
+16 5325 0
+E
+crimson fist mace~
+This HUGE crimson mace is shaped like a gauntleted fist, and is the same 
+colour as fresh blood. Only the strongest hand could ever lift it.
+~
+A
+18 6
+A
+19 7
+A
+1 -1
+#12813
+hammer war chaplains crimson fist~
+a Chaplain's War Hammer~
+A vicious looking war hammer looks ready for a fight.~
+~
+5 57 acdefgijklmos agko an
+57 5 9 7 0 0
+8 3210 0
+E
+hammer war chaplains crimson fist~
+The hammer has a large silver-steel head and a long leather bound 
+handle. On one side of the head is a small emblem of the Crimson 
+Fists.
+~
+A
+18 6
+A
+19 7
+#12814
+ruby emblem crimson fist~
+a carved and polished ruby~
+A tiny ruby glitters on the floor.~
+~
+1 38 0 ano ao
+0 0 1 0 0 0
+2 12425 0
+E
+ruby emblem crimson fist~
+Its carved into the shape of a crimson fist, perhaps it is a memento 
+of past glories, and loyal comrades.
+~
+A
+24 5
+#12815
+shield crimson painted practice wooden~
+a crimson painted practice shield~
+This battered wooden shield has been painted a garish crimson colour.~
+~
+9 58 abcefgijklms n aj
+12 58 0 0 0 0
+21 325 0
+E
+shield crimson painted practice wooden~
+It looks very well used - the paint is chipped and scarred. However it 
+still seems sturdy enough to grant you protection from your enemies.
+~
+A
+5 2
+A
+13 20
+#12816
+sword training plain practice blunted~
+a training sword~
+A plain iron sword has been purposely blunted and placed on the ground.~
+~
+5 59 abcefgijklmns 0 an
+59 5 10 7 0 0
+15 232 0
+E
+sword training plain practice blunted~
+Its very blunt, and unlikely to harm anyone save by shear brute strength.
+~
+A
+18 5
+A
+19 3
+#12817
+greatsword gravins engraved~
+a deeply engraved greatsword~
+A huge greatsword hangs on iron hooks on one wall.~
+~
+5 60 abcefgijklms bgko anq
+60 2 1 3 0 0
+32 5242 0
+E
+greatswords gravins engraved~
+Its so long and heavy that its virtually unusable with any great skill. 
+These swords were once very popular among knights who would simply swing 
+the sword around, hitting anything that came into range. The greatsword 
+is deeply engraved with magical runes, but the leather grip is beginning 
+to dry out, suggesting that this sword is no longer in regular use.
+~
+A
+18 2
+A
+19 40
+#12818
+platemail crimson~
+a crimson platemail~
+A pure crimson platemail looks very sturdy.~
+~
+9 45 abcdefgijklmos ko ad
+16 45 0 0 0 0
+25 6000 0
+E
+platemail crimson~
+Its made of thick plates of the finest steel, enamelled the colour of 
+blood. The crimson enamel appears to glow in the dim light.
+~
+#12819
+gauntlets crimson pair plated~
+a pair of crimson gauntlets~
+You see a pair of crimson gauntlets, gleaming like fresh blood.~
+~
+9 47 abcdefgijklmos ko ah
+9 47 0 0 0 0
+12 3000 0
+E
+gauntlets crimson pair~
+The gauntlets are cleverly constructed from small plates of enamelled 
+steel, so that they resemble the armoured plates of a lobster. 
+~
+#12820
+backplate crimson~
+a crimson backplate~
+You notice a thick protective backplate, enamelled in crimson.~
+~
+9 48 abcdefgijklmos ko ak
+9 48 0 0 0 0
+25 4300 0
+E
+backplate crimson~
+The backplate is a thick slab of solid steel the colour of blood.
+~
+#12821
+legplates crimson~
+a pair of crimson legplates~
+A pair of crimson legplates lie in a heap on the ground.~
+~
+9 49 abcdefgijklmos ko af
+11 49 0 0 0 0
+15 4200 0
+E
+legplates crimson~
+The legplates are ingeniously constructed from thick plates of enamelled 
+steel, with strange shaped sections of even thicker plate to protect the 
+vulnerable knee joint.
+~
+#12822
+helmet crimson~
+a crimson helmet~
+An ornate crimson helmet stares at you from across the room.~
+~
+9 51 abcdefgijklmos ko ae
+12 51 0 0 0 0
+20 4200 0
+E
+helmet crimson~
+The helmet is made from enamelled steel, edged in gold. Narrow eye 
+slits give you a poor view of the outside world, but at least you 
+are well protected.
+~
+#12823
+crimson armplates~
+a pair of crimson armplates~
+A pair of sturdy crimson armplates have been left here.~
+~
+9 53 abcdefgijklmos ko ai
+10 53 0 0 0 0
+21 5200 0
+E
+crimson armplates~
+They are cleverly jointed at the elbow so as to allow maximum 
+protection without impeding movement. The thick steel plating is 
+enamelled a deep crimson - the same shade as fresh blood.
+~
+#12824
+footplates crimson pair~
+a pair of crimson footplates~
+A pair of crimson footplates stand to attention.~
+~
+9 50 abcdefgijklmos ko ag
+10 50 0 0 0 0
+16 3200 0
+E
+footplates crimson~
+Overlapping scales of crimson steel make the footplates excellent 
+protective footwear, although unfortunately cumbersome to wear.
+~
+#12825
+portal gateway gate~
+portal~
+A huge portal stands at the end of the room, ready to take the Knights to battle.~
+~
+26 1 0 mnpt 0
+-1 0 -1 -1 -1 10
+1 100000 0
+E
+portal gateway gate~
+When they ride to war, the Crimson Fist Knights pass through this portal, 
+which carries them outside their secret citadel. They return by magical
+means, recalling to their chapel when their work is done.
+~
+#99999
+$~

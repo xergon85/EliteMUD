@@ -1,0 +1,29 @@
+#286
+Clans~
+28699 1 0
+*
+*** SHAMHNA CLAN HOUSE (122)
+O 0 35 100 28600        Guard Statue Guarding SHAMHNA
+O 0 33 100 28602        Shamhna Board
+O 0 16 100 28627        Extra Board for Leadership
+O 0 11 100 28611        Extra Guard for Leadership
+O 0 28600 100 28610     Fountain
+O 0 3034 100 28622      ATM
+O 0 28601 100 28601     Blood Fountain
+M 0 28601 1 28613       Mob with Actions
+*
+M 0 28600 1 28612       Shopkeeper
+G 1 28602 100           Skullbowl w/ alcohol
+G 1 28603 100           Skull
+G 1 28604 100           Corpse
+G 1 28605 100           Human Flesh
+G 1 28606 100           recall
+G 1 28607 100           fly
+G 1 28608 100           invis
+G 1 28609 100           clan recall
+G 1 28610 100           identify
+G 1 28611 100           Skullbowl w/ wine
+S
+#99999
+$~
+

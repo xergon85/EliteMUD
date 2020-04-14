@@ -1,0 +1,4086 @@
+#6400
+The Path To The Dwarven Village~
+   A long narrow path slopes along in the foothills that lead to the
+huge ore rich mountains of the dwarven kingdom.  To the north (up and
+down several hills) lies a big purple mountain where the dwarven miners
+live and work.  To the south and west lies fertile land farmed by
+halfling and gnome farmers.
+~
+64 0 2
+D0
+The narrow path continues over hill and vale.
+~
+~
+0 -1 6401
+D2
+The path south looks more promising.
+~
+~
+0 -1 6515
+S
+#6401
+Wandering through Meadows~
+    A narrow path wanders through rolling meadows that, in spring and
+summer are filled with colorful flowers.  The land appears very fertile.
+Neat hedgerows and stiles mark boundaries between different fields.
+There is no sign of habitation, however, just the unending path leading
+east around a small pond and south through more hills.  A small cart
+track heads west.
+~
+64 0 2
+D1
+The narrow path continues over hill and through dale.
+~
+~
+0 -1 6402
+D2
+The narrow path winds its way endlessly off in the distance.
+~
+~
+0 -1 6400
+D3
+A small, rutted cart track heads west towards what looks like a lush
+field of hops.
+~
+~
+0 -1 6516
+S
+#6402
+Halfway between Here and There~
+   On a narrow path between neatly arranged, neatly bordered fields, the
+large purple mountains loom eerily at some distance to the north, and
+the sparse forest equidistant to the south.  The farmland surrounding
+the path is almost too peaceful.  The path heads north to the mountains,
+or west around a small pond.
+~
+64 0 4
+D0
+The path looks steep up ahead.  Do you have your boots with the cleats?
+~
+~
+0 -1 6403
+D3
+The path bends west around a small lovely pond, known locally as the
+"Gnome Swimming Hole".  Whether this refers to the size of the pond or
+the usual inhabitant of the pool is anybody's guess.
+~
+~
+0 -1 6401
+S
+#6403
+Nearing the Dwarf Mountains~
+   Although not their official name, the deep purple mountains to the
+north are known as the Dwarf Mountains since the Dwarven Kingdom lies
+within their boundaries.  There is nothing remotely dwarfish about them,
+however, and the path rises steeply in that direction, through
+increasingly rocky foothills.  To the south it wanders over softly
+rolling hills through well-ordered farmland.
+~
+64 0 4
+D0
+Directly in front of you lies the biggest, purplest mountain you've ever
+seen in your short miserable life.
+~
+~
+0 -1 6404
+D2
+The path south leads gradually down around a cold, small pond.
+~
+~
+0 -1 6402
+S
+#6404
+The Path At The Base Of The Mountain~
+   The path has arrived at the foot of a large, rugged mountain.  To the
+south it rolls along through the foothills, but to the north lies a
+steady, hard climb.  It's steep and, at the base of the mountain,
+covered with forest so thick and dark there are no low bushes or scrub.
+Creepy!
+~
+64 0 4
+D0
+The mountain grows steep as you move north.  To get much further you may
+need sturdy boots or climbing gear of some sort.
+~
+~
+0 -1 6405
+D2
+The path towards town looks inviting.
+~
+~
+0 -1 6403
+S
+#6405
+The Path on Dwarf Mountain~
+   The narrow path winds around huge boulders and clumps of trees.  The
+forest thins out as the path climbs, and at this altitude you see pine
+and fir, and some thick grasses.  The forest scent is refreshing,
+invigorating, although there is occasionally a hint of a very strong
+stench that is reminiscent of, incredibly, old socks and dirty
+underwear.
+~
+64 0 5
+D0
+There really isn't much of a NORTH from here, it's mostly an UP that you
+see.
+~
+~
+0 -1 6406
+D2
+Down and south sure looks easier than NORTH and UP.
+~
+~
+0 -1 6404
+S
+#6406
+The Path At The Middle Of The Mountain~
+   Halfway up (or down) the dwarfs' mountain, it's been a long hard
+climb whether you are headed up or you are on your way down, and even
+the most well-muscled of hikers will find that their calves ache at this
+point.  The view out over the scrub is not exciting.  In the far
+distance, when the fog is clear, you can see the thatched and tarred
+rooftops of a small town.
+~
+64 0 5
+D0
+The climb up appears to be nearing a plateau with some kind of activity.
+~
+~
+0 -1 6407
+D2
+The path down the mountain looks long and treacherous, filled with huge
+boulders and potential landslides.  Who knows what is hiding behind
+those rocks?
+~
+~
+0 -1 6405
+S
+#6407
+Very Near the Mines~
+   The narrow path widens here a bit, and up ahead, to the north and
+even underfoot there are loud rumbling sounds.  The ground around you is
+rocky and uneven.  The path heads down and south steeply from here.
+The mountain to both east and west is too steep to climb.
+~
+64 0 5
+D0
+Craning your neck back and still precariously maintaining your balance,
+you can make out that this path will fork up ahead, where it appears to
+have been cut into the mountain itself.
+~
+~
+0 -1 6408
+D2
+It would actually be hard to climb down the mountain without falling,
+perhaps fatally injuring yourself.
+~
+~
+0 -1 6406
+S
+#6408
+Up the Mountain, Down the Mine~
+   Vegetation is sparse around you, having been replaced by boulders and
+rocks, large and small.  The path, still narrow, has become hard and
+uneven under your feet, twisting as needed around boulders.  There are
+no footprints to be seen, although the occasional animal dropping
+reassures you that there is life here ... somewhere.  To the east and
+west you see huge heavy wooden doors, banded with iron and locked with
+large locks.  The doors lead into the mountain.
+~
+64 0 5
+D1
+The path up the mountain takes a curve eastwards past a massive door
+before continuing its climb.
+~
+~
+0 -1 6434
+D2
+The long path down the mountain, out of the dwarves' kingdom begins here.
+~
+~
+0 -1 6407
+D3
+A small path leads up to a heavy door not far away.
+~
+~
+0 -1 6409
+S
+#6409
+The Entrance To The Mountain~
+   A heavy wooden door reinforced with wide iron bands closes off the
+entrance to the inner secrets of the mountain.  The door is made of
+enormous wooden planks, and there is just enough of a crack between two
+of them for the odd noises from within to seep through.  There is no
+leak of light, however, so it would be wise to bring a torch or some
+other light source along.  Perhaps you could light up the end of one of
+those long wooden sticks you've seen lying around.
+~
+64 0 5
+D1
+At the other end of a small, dwarf-made plateau, you can see a large,
+rusty wooden door into the mountain.
+~
+~
+0 -1 6408
+D3
+A HUGE wooden door leads the way underground, into the mountain.
+~
+door
+~
+1 -1 6410
+S
+#6410
+Just Inside the Kingdom's Borders~
+   To the east, a heavy wooden door serves as the well-guarded entrance
+to the kingdom of the dwarves.  Here, just inside the gate, a small path
+leads north and west, where it ends abruptly in a small wooden door.  It
+is difficult to see much of the kingdom inside the mountain, for
+everything is covered with a heavy layer of soot and grime.  The gateway
+away from the kingdom is rarely open for long.  It might be a good idea
+to leave while it is still open.
+~
+64 ad 0
+D0
+A narrow, torchlit tunnel leads north.
+~
+~
+0 -1 6413
+D1
+A heavy, iron-banded door leads out of the mountain.
+~
+door
+~
+1 -1 6409
+D3
+A narrow wooden door has no apparent purpose.  A closet perhaps?
+~
+door
+~
+1 -1 6411
+S
+#6411
+Into the Belly of the Mountain~
+   A long rope ladder leads down from here into the belly of the
+mountain, where ore rich in iron is picked, dug, and axed from the
+earth.  The tunnel is a tight vertical path that goes down and down and
+down.  You can only hope that the rope is not frayed, for should it
+break the fall would surely kill you.  To the east lies a small wooden door.
+~
+64 acd 5
+D1
+Through a small wooden door the Great Dwarven Underground continues.
+~
+door
+~
+1 -1 6410
+D5
+A ladder made of slightly frayed rope leads down into darkness.
+~
+~
+0 -1 6412
+S
+#6412
+Bottom of the Rope Ladder~
+   A flimsy rope ladder stretches up into endless darkness above.  Even
+the strongest of lanterns could not penetrate the dark for any great
+distance.  Besides the lack of natural light, your fingers tell you that
+every surface here is coated with the same thick layer of
+light-absorbing grime that exists elsewhere.  Points of light are
+visible, but due to the extreme dark, it is impossible to gauge their
+distance.  Some are stationary, some are bobbing along like some kind of
+monster firefly.  Perhaps they ARE monster fireflies.  How would you
+know?
+~
+64 ad 4
+D1
+It's very very very dark, but you get the sense that you are in an
+ENORMOUS cavern.
+~
+~
+0 -1 6474
+D4
+A narrow, frayed rope ladder leads up.
+~
+~
+0 -1 6411
+S
+#6413
+The Path~
+   The small dark path runs north and south through this part of the
+kingdom.  The "path" is actually, of course, a wide tunnel running
+inside a mountain.  The tunnel is only about 4' (a bit over a meter)
+high, a comfortable height for a dwarf, but too small for many who would
+try to steal their treasures!  The tunnel walls are covered with a heavy
+layer of soot and grime which soaks up the torchlight..  The tunnel
+leads northwards towards what look like some shops, and south to the
+gate.
+~
+64 ad 3
+D0
+Torches affixed to dark tunnel walls do little to show the way.
+~
+~
+0 -1 6415
+D2
+The mine entrance lies just to the south.
+~
+~
+0 -1 6410
+S
+#6414
+The Path~
+   A solid little path connects the entrance to the mines with some
+shops and what amounts to a small underground village.  The path north
+is dimly lit.  The path to the south is dark.
+~
+64 d 3
+D0
+The sparse torchlight lets you see only that there seems to be some
+activity in this direction.
+~
+~
+0 -1 6415
+D2
+The sparse torchlight reveals only that the tunnel continues south.
+~
+~
+0 -1 6413
+S
+#6415
+Lanterns on the Walls!~
+   The curved and uneven cavern walls are studded here with lanterns,
+one every several feet.  "No need to waste the fuel oil.  You can only
+go one way.", you can almost hear some frugal minemaster say.  In truth,
+there isn't much to see, although you have hit a fork in the path.  To
+the west lies a small shop known as Hide and Tooth.  The path continues
+on north and south.
+~
+64 d 3
+D0
+In the slightly increased lantern light, you can see the lengthy and
+fairly straight path continues further north.
+~
+~
+0 -1 6417
+D2
+Dwarven Main Street continues north and south.
+~
+~
+0 -1 6414
+D3
+In the slightly increased light provided by the hanging lanterns, you
+can make out the door to a small shop.
+~
+door
+~
+1 -1 6416
+S
+#6416
+The Hide & Tooth Shop~
+   The dwarfs have quite a talent for working with metal.  Their
+favorite, of course is gold, but that's not the best for armor.  The
+Hide & Tooth shopkeeper will trade some of the finest armor ever made by
+Dwarven hands for a little gold metal from you.  This shop is small and
+not particularly well-lit, but all of the metal armaments have been well
+polished and gleam softly in the dim light.  Doors lead north and east from
+here.
+~
+64 d 3
+D0
+The door to Granite Head's Bakery is frequently open.
+~
+door
+~
+1 -1 6418
+D1
+Through an often-open doorway you can see very little except a dark,
+sooty tunnel in the mine.
+~
+door
+~
+1 -1 6415
+S
+#6417
+Between Granite Head and Hide-a-Tooth~
+   The rocky little path keeps on in its straight line from the
+entrance.  To the west, Granite Head grinds out yet another batch of
+hardtack for the miners.    The path continues straight north and south
+from this point, having no trees or small bushes to curve around down
+here below the surface.  From the distance, to the north, comes the loud
+belly laugh of a very drunken dwarf, the sounds of gaming, and some very
+loud snores.  The door west is usually kept closed.
+~
+64 d 3
+D0
+With the aid of the Glob-provided lanterns, you can see a medical center
+just to the north.
+~
+~
+0 -1 6419
+D2
+With the aid of the Glob, Inc. provided lanterns, you can see the
+entrance to Hide-and-Tooth just south of here.
+~
+~
+0 -1 6415
+D3
+Interesting and occasionally inviting smells waft towards you from the
+bakery to the west.
+~
+door
+~
+1 -1 6418
+S
+#6418
+Granite Head's Bakery~
+   Hard as little rocks, Granite Head's hardtack does credit to his name
+and to the long line of miner bakers from whence he has sprung.
+Outsiders tend to find Granite's baked goods a trifle gritty, but he
+swears a little extra fiber is good for you!  The doors east and south are
+frequently kept open.
+~
+64 d 3
+D1
+Through a narrow little door you can see the "street" where it is
+perpetual nighttime.
+~
+door
+~
+1 -1 6417
+D2
+A small door is frequently open between Granite's shop and
+Hide-and-Tooth.
+~
+door
+~
+1 -1 6416
+S
+#6419
+By the Medical Center~
+   Brighter lights and a medicinal scent draw your attention to the
+entranceway to the west.  There is no sign by the door, but the dwarves
+seem to know what the room contains.  The tunnel path continues north
+for a short distance and south for as far as you can see (which is not
+very far).
+~
+64 d 3
+D0
+The long, straight tunnel curves abruptly.
+~
+~
+0 -1 6424
+D2
+Bright lantern light (courtesy Glob, Inc) illuminates the entrances to
+some small shops.
+~
+~
+0 -1 6417
+D3
+A small archway leads into a medical center.  You know it's a medical
+center even without the sign that says "Medical Center".  You can tell
+by that hospital scent oozing out from the entrance.
+~
+~
+0 -1 6420
+S
+#6420
+The Healer is [IN]~
+   A small entryway has been carved into the rock here between the main
+path through the Dwarven village and the infirmary.  There are many
+places to sit while waiting to see the healer, but they are usually
+empty.  The room is bleak, with the usual dark walls enlivened only with
+a picture of the King and Queen taken at their wedding.
+~
+64 dc 5
+D1
+Your escape route lies this way, towards the dimly lit hall.
+~
+~
+0 -1 6419
+D3
+Through another archway you can spot the gleaming tools of the doctor's
+trade.
+~
+~
+0 -1 6421
+E
+picture~
+   A charcoal sketch of the wedding shows Their Majesties side by side,
+holding hands.
+~
+E
+king~
+One supposes this is a somewhat idealized view of the king, shown here
+as somewhat tall, muscular, slender, and quite handsome but at the same
+time showing a great deal of wisdom.
+~
+E
+queen~
+Oh the beauty of a dwarf woman.  Silky golden beard, short and
+barrel-like in shape with strongly carved features.  It is no wonder she
+captured her King's heart.
+~
+S
+#6421
+The Doctor's Office~
+   Unlike most rooms in this great underground kingdom, the walls in
+this one have been smoothed and whitewashed.  In one corner
+stands a set of steel shelves which hold an odd assortment of medical
+equipment as well as jars of pills, vile looking liquids and salves.
+~
+64 d 3
+D0
+The large hospital room continues it's whitewashed way to the north.
+~
+~
+0 -1 6422
+D1
+The entrance to the Medical Center lies east.
+~
+~
+0 -1 6420
+S
+#6422
+The Small Hospital~
+   A short row of white-painted iron cots neatly made up with crisp
+white linen serves as the miner's hospital.  Despite the not-infrequent
+mining injuries, the hospital is rarely used.  The miners are much more
+comfortable in their bunk rooms.
+~
+64 d 3
+D2
+The gleaming white hospital room continues to the south.
+~
+~
+0 -1 6421
+D3
+A small dark room lies just west of here, through a narrow door.
+~
+door
+~
+1 -1 6423
+S
+#6423
+Dwarven Doctor's Domicile~
+   A small hard bed sits in one corner of this small bedroom.  Dr Druzil
+sleeps here to be near his patients ... or perhaps just to have a room
+to himself.  The room is remarkably clean, although somewhat marred by
+soot.  A small closed chest sitting at the end of the bed holds the
+doctor's belongings.  The only exit from the room is to the east.
+~
+64 d 3
+D1
+A small narrow door was obviously made for a small narrow dwarf.
+~
+door
+~
+1 -1 6422
+S
+#6424
+North of the Shops~
+   The straight little path takes a crooked little jog between the
+healer and the brewery and ale shop.  Although the tunnel is dimly lit
+by the irregularly placed lanterns, standing still with your eyes closed
+you can easily place where you are by the different scents surrounding
+you.  Baking bread to the south, medicinal alcohol is west, and the good
+stuff is east, although the ale-scent is almost overpowered by the
+stench of socks and worse.
+~
+64 d 3
+D1
+The strong scent of brew and cigar smoke is overpowering.
+~
+~
+0 -1 6425
+D2
+Despite the paucity of lighting, the path seems much clearer to the
+south than to the east.
+~
+~
+0 -1 6419
+S
+#6425
+A Path by a Brewery~
+   The straight little path from the entrance becomes crooked right
+here, as it bends past the brewery.  Strong ale is like mothers' milk
+for the dwarves, and most were weaned on it.  The scent alone coming
+from the north is enough to make your head swim, but the scent from the
+barracks to the east is not much better, simply different.  The lanterns
+continue along the walls here at odd, irregular intervals.
+~
+64 d 3
+D0
+Through a wide, short door you can see a huge wooden vat, large enough
+to drown anyone's sorrows ... or anyone.
+~
+~
+0 -1 6426
+D1
+Clouds of blue smoke obscure your view north.  Could Clara be nearby?
+~
+~
+0 -1 6428
+D3
+The narrow tunnel bends sharply just west of here.
+~
+~
+0 -1 6424
+S
+#6426
+The Brewery & Ale Warehouse~
+   An enormous cavern has been turned over to the dual purposes of
+brewing fine ale for the miners and storing large quantities of it in
+case of "emergencies" (such as a cave-in, one supposes, or invasion by
+giants).  Along the walls, huge wooden cases store brown glass bottles
+with famous labels, such as "Stone Sweat", "Peeble Lager" and "Rockham's
+Finest".  In the center is a HUGE vat, large enough to drown in.
+~
+64 d 3
+D2
+The path outside might lead you to a bar, where you would actually be
+able to purchase some of this mighty stuff.
+~
+~
+0 -1 6425
+D5
+You could drop into the vat ... but it really is not a good idea.
+Besides angering the dwarves beyond redemption, you are likely to drown.
+~
+~
+0 -1 6469
+S
+#6427
+Thick Smoke~
+   Thick dark gray smoke curls lazily in the glow of eight large
+lanterns.  A large stone bar has been carved from the very rock of
+the mountain and polished through generations of use by these miners.
+Several small circular tables are scattered about.  The room has a warm,
+friendly, bar-feeling.
+~
+64 d 3
+D2
+Through the murk, you see moving lanterns.  Maybe.  Just how much have
+you had to drink?
+~
+~
+0 -1 6428
+S
+#6428
+A Smoky Corridor~
+   A thick plume of dark gray pipe smoke pours from the entrance to the
+off-duty bar just north of here.  A row of irregularly spaced torches in
+carved holders on the walls provide enough light for you to venture
+either east or west, if the bar does not entice you in.  
+~
+64 d 3
+D0
+The heavy blue cloud smells a lot like pipe smoke.  But it obscures
+everything to the north.
+~
+~
+0 -1 6427
+D1
+The corridor ends abruptly in a "Y" east of here.
+~
+~
+0 -1 6429
+D3
+Slightly clearer air but with a slightly more intoxicating smell leads
+you west.
+~
+~
+0 -1 6425
+S
+#6429
+The Entrance to the Barracks~
+   Standing here between the guards' rooms and the miners' rooms it's
+difficult to tell which stench is the more powerful.  Granite Head's
+hardtack seems to produce a lot of gas in some of the miners, but then
+the guards aren't able to handle the large quantities of ale they
+consume.  The guards' barracks are south, the miners' bunk rooms are
+north, and the small tunnel path heads west.
+~
+64 d 3
+D0
+A short passageway leads to the miners' sleeping quarters.
+~
+~
+0 -1 6432
+D2
+A short passageway leads to the guards' sleeping quarters.
+~
+door
+~
+1 -1 6430
+D3
+The air seems fairly laden with alcohol.
+~
+~
+0 -1 6428
+S
+#6430
+At Ease, Dwarf!~
+   An off-duty warrior (or guard) dwarf heads first for his special
+brew, then relaxes here with his buddies, swapping totally unbelievable
+war stories, each more outrageous than the last.  The room smells of
+stale ale and old socks, with a layer of the underground closed-in mine
+smell that permeates everything, everywhere.   The dwarfs do not seem to
+notice it, however.  The sleeping room for the guards is south, and the
+path through the kingdom-in-the-mountain continues outside the door to
+the north.
+~
+64 d 3
+D0
+The smell wafting in from the hall to the north is no less pungent than
+the smell of socks from the south, but it is considerably more
+alcoholic.
+~
+door
+~
+1 -1 6429
+D2
+Don't wake the sleeping guards.  They've earned their rest.
+~
+~
+0 -1 6431
+S
+#6431
+Bed Rows~
+   Two long straight rows of cots march, one down each side of the room.
+They are close enough that, in the early morning, the guards have to
+remember to just get out of the RIGHT side of the bed so that they don't
+run into the guy in the bed on their left ... Dwarves not being overly
+neat, there is an ankle thick layer of old socks and underwear littering
+the floor, and the stench is enough to knock you over.
+~
+64 d 3
+D0
+Escape the underwear! Hurry north!
+~
+~
+0 -1 6430
+E
+underwear~
+Well, since you asked, there's a wide variety of it littering the floor,
+all of it unspeakably dirty.  There are longjohns and shortjohns, boxers
+and briefs and even a thong or two.
+~
+S
+#6432
+Sleeping Quarters Entrance~
+   An unusually sharp bend in the tunnel leads to a large open space
+filled with narrow, short straw pallets covered with soft gray blankets.
+The mining company purchases these blankets from Stanneg's Knitting
+Guild, and they are unexpectedly fine, given the otherwise shoddy
+atmosphere in the cavern.  The sleeping quarters extend further to the
+west.
+~
+64 d 3
+D1
+The vastness of the sleeping quarters extends east for a long distance.
+~
+~
+0 -1 6433
+D2
+A short hallway leads to the guards' room.  The stench of unwashed socks
+knocks you flat.  Or almost.
+~
+~
+0 -1 6429
+S
+#6433
+Sleeping Quarters~
+   Straw pallets covered with soft gray blankets are strewn with
+haphazard abandon around this large cavern.  A few miners lie sleeping,
+one snoring loudly.  The room continues west, however there are enough
+spare pallets to provide you with a place to rest, should you wish to.
+~
+64 ht 3
+D3
+The long dormitory room extends to the west for a long distance.
+~
+~
+0 -1 6432
+S
+#6434
+The Mine Entrance - East~
+   Thick slabs of wood braced with heavy iron bands form the small door
+leading into the mountain.  It is a heavy heavy door, and the iron
+hinges are badly rusted.  Perhaps this entrance into the mountain is
+unused.  Or perhaps the cunning dwarves would like you to think it
+unused!
+~
+64 d 3
+D0
+A trail up the mountain appears to have been firmly stomped into
+existence.
+~
+~
+0 -1 6436
+D1
+Large slabs of wood and rusty iron hinges mark this, the "other"
+entrance to the Dwarven Mining Kingdom.
+~
+door
+~
+1 -1 6435
+D3
+Across a small clearing you can see another door into the side of the
+mountain.  This one appears more well-used.
+~
+~
+0 -1 6408
+S
+#6435
+Gloom~
+   As the door swings shut, closing off your escape to fresh air, you
+begin to understand the dwarves' reputation for crankiness.  A single
+torch fails to relieve the gloom.  The interior of the mine is dark,
+sooty, gloomy.  The air is stale and the ground beneath your feet is
+hard, which IS preferable to suddenly disappearing .... !  The door does
+not respond to your best efforts to re-open it.  The only exit is down a
+sliding hole into absolute darkness.
+~
+64 chu 5
+D3
+A heavy door shuts off your escape into the open mountain air.  It
+appears to be firmly rusted shut.
+~
+door
+~
+295 -1 3001
+D5
+Descent into darkness.  The words ring in your ears like a mining theme
+song.
+~
+~
+0 -1 6485
+S
+#6436
+A Widening Trail~
+   A trail has been firmly stomped into existence here.  Although
+winding, it appears to lead generally northwest from the mine entrance.
+The path is wide and firm beneath your feet.
+#G  A small grey sign has a big black arrow pointing east.#N
+~
+64 0 3
+D0
+The path ahead appears to take a sudden bend, as if in violent aversion
+to the large rock standing in its way.
+~
+~
+0 -1 6437
+D1
+~
+~
+0 -1 6563
+D2
+The path in this direction ends in a small area well-trodden by small
+feet.
+~
+~
+0 -1 6434
+E
+sign~
+The sign reads,
+                          Steel Mill
+                    Official Business Only
+~
+S
+#6437
+Gently Descending~
+   A firm wide path slowly descends northward atop a rocky plateau.
+There is little around you in the way of vegetation, although some dry
+grasses do fill in the empty spaces between rocks.  The path continues
+south for a spell, and bends to the east around a rocky outcropping.
+~
+64 0 4
+D1
+Mountain trails tend to be rather twisty little creatures, due to the
+rather large obstacles Mother Nature throws into their paths.  This one
+is no exception.
+~
+~
+0 -1 6438
+D2
+The well-stomped way south leads to some openings into the mountain.
+What could be inside?  Duh ...
+~
+~
+0 -1 6436
+S
+#6438
+Choices~
+   A wide path, firmly stomped into the hard packed dirt, leads from the
+west around a suspiciously enormous outcropping of rock to this spot and
+on, gradually descending in a slow curve leading north.  A faint trail
+disappears into the bushes east of the main path.
+~
+64 0 4
+D0
+A twisty little path seems prepared to become a twisty big path to the
+north.
+~
+~
+0 -1 6442
+D1
+Hmm ... is this another Alice trick?  Scurry under some bushes and find
+yourself hurtling down through an endless rabbit hole?  Then again,
+faint heart ne'er won Fair Fortune ...
+~
+~
+0 -1 6439
+D3
+Twist and Shout around some big boulders.
+~
+~
+0 -1 6437
+S
+#6439
+A Dead End at a Ledge~
+   From this ledge you can see a lovely hidden valley that is green,
+blooming, perfect.  But ... there appears to be no way to get there from
+here.  A thicket of thorns is growing to the west, and the only other
+apparent way to leave the ledge is to take a mighty (dangerous) leap
+down.
+~
+64 0 4
+D3
+That thicket and the trail leading beneath it looks thick with thorns.
+~
+thicket~
+2112 -1 6438
+D5
+It's a l-o-n-g way down to the valley below, but there appears to be a
+small ledge not too far down.
+~
+~
+0 -1 6440
+S
+#6440
+Precariously Perched~
+   A narrow ledge on the face of the side of the mountain doesn't feel
+like a very safe place to be, although the view east of the valley is
+lovely.  There is an old, small shack standing west of here.
+   The view is magnificent but the fall will kill you.
+~
+64 y 5
+D3
+Falling apart, filthy, full of vermin (4 footed, not 2-footed), this
+shack is certainly not inviting YOU to visit.
+~
+door
+~
+7 6502 6441
+D4
+Brought your climbing gear?  You're going to need it.  One misstep 
+and ... SPLAT!!! (need I say more?)
+~
+~
+0 -1 6439
+D5
+It looks like a leap into endless nothingness.  Death is certainly yours
+if you step off this ledge.
+~
+~
+0 -1 6493
+S
+#6441
+A Shack~
+   Nothing seems to quite fit properly inside this small wooden shack.
+The unpainted planks have gaps wide enough to slide a hand through.  The
+floor consists of the same ancient planks, dirty, full of splinters and
+rotting.
+~
+64 dy 0
+D1
+Relief from the fetid, dusty, musty air of this falling-down shack lies
+just out that door to the east.
+~
+door
+~
+7 6502 6440
+D3
+~
+planks~
+1 -1 6599
+S
+#6442
+Twisty Path~
+   Squirming around huge boulders that look like some giants' toy, the
+path slowly slopes down to the northeast, returning to higher, rockier
+areas westward.
+~
+64 0 4
+D1
+The path eastward appears ready to level out, as if tired of its
+imitation of a steep ramp over a moat wide as the sea.  Aching muscles
+lead you to hope.
+~
+~
+0 -1 6443
+D2
+The way south leads south as always, and steeply down as well.
+~
+~
+0 -1 6438
+S
+#6443
+Softening Ways~
+   The wide path has been pounded into softness here, and the dirt
+cushions your footsteps.  The soft dirt has kept the imprint of many
+footsteps, and one cannot help but notice that some are quite large.
+Despite the fear engendered at the sight of such large footsteps, the
+softness of the silt beneath your feet gives you an almost irresistable
+urge to remove your combat boots and let it trickle between your toes.
+~
+64 0 4
+D0
+A long, softly meandering path leads north.
+~
+~
+0 -1 6444
+D3
+Rocky and barren, the mountain path winds it's way west.
+~
+~
+0 -1 6442
+S
+#6444
+Slope-y Valley~
+   A beautifully green valley stretches out before you.  It is a fantasy
+valley - just like ones from storybooks, although everything appears to
+be rather large scale.  Perhaps it is simply perspective.
+~
+64 0 4
+D0
+Daisies as big as your face don't bother you as much as daisies WITH
+faces do.  And tulips shouldn't have two lips, either ... OR teeth, for
+that matter.
+~
+~
+0 -1 6445
+D2
+The soft dirt path with its very large footprints gently rises to the
+entrance to the lovely, verdant valley.
+~
+~
+0 -1 6443
+S
+#6445
+The LARGE Valley~
+   You have entered a vast valley, bordered on all sides by massive,
+craggy mountains.  The flowers and grasses surrounding you have
+gradually grown to giant proportions.  A blade of grass is as wide as
+your palm, and the daisies are as big as your face.  And their smile is
+twice as wide.
+~
+64 0 4
+D1
+The path makes a sudden, violent wrench eastwards to stop suddenly at a
+giant of a tree.  Mother of all trees.  Or Father of all trees?  Ok,
+Genderless Parent of all trees.
+~
+~
+0 -1 6446
+D2
+Softly padded with well-ground dirt, this path will protect even the
+most tender of feet.  It will take you at a very gradual pace up to the
+valley entrance.
+~
+~
+0 -1 6443
+S
+#6446
+Massive Tree~
+   The upper branches of this tree are lost in clouds, and its roots
+must reach through the crust of the earth.  It is so massive at its
+base, it would take you a day to circumnavigate it.  The bark is thick
+and deeply ridged.
+~
+64 0 4
+D0
+Off in the far distance, past some fearsome looking tiger lilies, you
+can see what looks like a longhouse.
+~
+~
+0 -1 6448
+D1
+A small shack, just the size for a small family of dwarves, lies to the
+east of the tree.
+~
+door
+~
+1 -1 6447
+D3
+The path makes a sudden violent wrench south.  Beyond the path lies an
+impenetrable field of corn, the tassels of the mighty ears floating far
+above your head.
+~
+door
+~
+1 -1 6445
+D4
+Yes, you CAN climb this tree.  You made it up the mountain, didn't you?
+But do you really want to?  There is no telling whether there is
+anything more up there than a very disgruntled giant, missing his golden
+harp.
+~
+~
+0 -1 6497
+S
+#6447
+A Small Miners Shack~
+   Most of the miners live where they work, in the mines, but a few
+are adventurous enough to live "outside", in spite of the constant
+threat from giants.  Unpainted wood forms the four walls of the small
+shack, and the floor is simply the rocky dirt native to these mountains.
+In one corner, mice play silly games in the straw of the miner's bed. On
+the opposite side of the shack, a small basin sits under a very old,
+cracked mirror.  Next to the basin sits a Dwarven Beard Comb, pride and
+joy of the dwarf who lives here.
+~
+64 d 0
+D3
+Through a bare window you can make out the bark of an enormous tree.
+~
+door
+~
+1 -1 6446
+S
+#6448
+Between Tree and House~
+   You are wandering through a meadow filled with gigantic flowers,
+weeds, and wildlife.  The path, fortunately, is quite wide.  (Some of
+the plants could be intimidating to the faint of heart.)  To the north,
+you have a splendid view of a very large house surrounded by a tall gray
+wall.
+~
+64 0 4
+D0
+The broad pathway north stops abruptly just ahead at a very very tall
+very very gray wall topped with spikes.  Although you can't be certain,
+it would appear that some of the spikes have been topped with heads ...
+(Is that Cousin Henry?  There, third one from the left ... ?)
+~
+~
+0 -1 6449
+D2
+Ahead to the south stands the most magnificent tree you have ever seen.
+~
+~
+0 -1 6446
+S
+#6449
+A Very Tall Gray Wall~
+   A very very very tall, very gray wall soars meters and meters above
+your head.  To your left as you face the wall, a giant shack appears to
+have been abandoned.  With your back to the wall, a broad, soft path
+stretches out between enormous flowering plants.
+~
+64 0 4
+D0
+The way north is normally heavily guarded and locked, although from the
+stern look of the solid gray walls, you are uncertain as to whether the
+gate is to keep the world out, or to keep the inhabitants IN.
+~
+gate
+~
+7 6503 6451
+D2
+A long, wide path of soft dirt leads up to a magnificent tree.
+~
+~
+0 -1 6448
+D3
+The door to the little guard shack has a window.  You could knock at the
+door ... or perhaps just peek in the window.
+~
+door
+~
+1 -1 6450
+E
+window~
+The window to the guard shack is too dirty to see through.
+~
+S
+#6450
+A Guard House~
+   A small structure provides shelter to the guards who grumpily spend
+their days guarding the entrance to the castle.  Although they would be
+fierce warriors, they are not very good guards, and you can see from
+looking around they spend most of their time drinking ale, playing
+darts and ogling pinups.
+~
+64 dh 0
+D1
+Looking east you see a giant gate, normally well locked.
+~
+door
+~
+1 -1 6449
+E
+pinup poster~
+"Brunhilda - 9 feet and 325 pounds of Giantish Glory"
+~
+S
+#6451
+Longhouse~
+   Inside a small clearing surrounded by a very large grey stone wall
+stands a large house made of rough hewn logs.  The house looks to be
+several stories tall, although there are only two rows of windows.
+Three huge steps lead up to a massive green door.
+~
+64 0 4
+D2
+A very large gate provides passage through a very large, very gray wall.
+~
+gate
+~
+7 6503 6449
+D4
+Three massive ledges - steps, really, lead up to a huge deep green door.
+~
+door~
+1 -1 6452
+D5
+A set of shallow, rickety steps and a double-gated wooden door evidently
+provide access to the longhouse cellar.
+~
+~
+1 -1 6462
+S
+#6452
+Beyond the Green Door~
+   Massive posts support a ceiling that towers 50 feet (16 m) above you.
+Steep steps, each 2 feet high (60cm) lead up to a gallery overlooking
+the room on three sides.  Large muddy footprints lead into the room to
+the west.
+~
+64 d 0
+D0
+Following the footprints with your eyes leads you to look north, where
+you see a HUGE table surrounded by benches, and a floor covered with
+bones.
+~
+~
+0 -1 6454
+D4
+The wooden steps leading up are bare of carpet, varnish, polish or any
+kind of paint.  In places, the nails holding them together appear to be
+popping out of the aging wood.
+~
+~
+0 -1 6453
+D5
+Climb down or fall down the large steps out this green door and you will
+find yourself in the muddy yard of the longhouse.
+~
+door~
+1 -1 6451
+S
+#6453
+Stairs~
+   Giant stairs in a giant house.  Each step comes up near your waist.
+Going down the stairs is not so difficult, but climbing?  You are very
+visible both to the giant men busy getting drunk below and to the giant
+women, busy abusing them above.
+~
+64 cd 5
+D4
+Up several more steps there appears to be a landing.
+~
+~
+0 -1 6457
+D5
+You'll have to watch out for the nails popping up from these
+poorly-maintained steps.  They are very LARGE nails, and rusty.  There
+may also be a few places where the steps have rotted through, but if
+they are thick enough to support a giant's weight, they should surely
+hold yours.
+~
+~
+0 -1 6452
+S
+#6454
+The Long Table~
+   A rough table fills this room from one end to the next.  The tabletop
+is about 6 feet off the rough stone floor.  Two simple benches run up
+each side of the table.  The top of each bench is about 3 feet off the
+ground.  The muddy footprints are all over the floor here, as are the
+bones of recent and not-so-recent meals, and the occasional bit of
+broken glass.
+~
+64 d 0
+D0
+The table and benches fill the room, which feels vast to a person of
+your small stature.
+~
+~
+0 -1 6455
+D2
+The entranceway lies to the south, providing you with an escape route.
+~
+~
+0 -1 6452
+S
+#6455
+In the Middle of a Long Hall~
+   The enormous table stretches north and south with the room.  On top
+of the table are several glass and brass mugs of a size proportionate to
+the table and your surroundings.  Several of the mugs are filled with a
+strong, sweet-smelling brew, and the remains of a very untidily-eaten
+meal remain on the table.  The bones remaining from the meal are surely
+larger than your own.
+~
+64 d 0
+D0
+The huge main room of the giant's home continues both north and south
+for quite some distance.  Further than you could quickly run.
+~
+~
+0 -1 6456
+D2
+The huge main room of the giants' home continues both north and south
+for quite some distance.  Further than you could quickly run.
+~
+~
+0 -1 6454
+S
+#6456
+The Head of the Table~
+   At this end of the enormous table rests the hall's only chair.
+Its proportions match those of the table, the benches and the muddy
+footprints leading up to it.  Above, the gallery circles the room.  Who
+would be watching from there?
+~
+64 d 0
+D2
+The bewilderingly huge room lies mostly south of here.   The entrance to
+the room seems a vast vast distance away.
+~
+~
+0 -1 6455
+D4
+A large gallery rings the massive hall of the stronghold, and from the 
+railing several giant women watch and chat with the giants.
+~
+~
+0 -1 -1
+S
+#6457
+The Gallery East~
+   Through the thick wooden rails forming the wall to the west you can
+take in the splendors of the giants' stronghold.  Or you could if there
+were any to be seen.  The wall, a low railing for the giants, keeps
+giant children and pets from falling to the floor below, but the rails
+are too widely spaced to serve the same purpose for you, and falling
+would likely mean instant death.
+~
+64 d 0
+D3
+The gallery surrounds the drinking room below on three sides, and from
+here the women and children can keep an eye on their men.  
+~
+~
+0 -1 6458
+D5
+Take the stairs down to the main hall below.
+~
+~
+0 -1 6453
+S
+#6458 
+The Gallery North~
+   The dwarfs fondly remember A Time Before Giants, but it has been many
+generations.  Very old pictures of the original giants to inhabit these
+mountains fill the Southern wall.  One of the pictures portrays Glog in
+his favorite sport of dwarf-tossing.  Glog was a champion at the sport
+and once tossed a dwarf so far he was never again found.  Or perhaps he
+simply had the sense not to return.
+~
+64 d 0
+D0
+A very solid door leads north into what must be sleeping quarters for
+the giants - or for some of them, at least.
+~
+door
+~
+1 -1 6460
+D1
+ From this, central part of the gallery, you can walk to the east and
+west sides of the gallery.  I'd watch out for creaky floorboards,
+though.  You wouldn't want to fall through the floor or call attention
+to your presence.
+~
+~
+0 -1 6457
+D3
+ From this, central part of the gallery, you can walk to the east and
+west sides of the gallery.  I'd watch out for creaky floorboards,
+though.  You wouldn't want to fall through the floor or call attention
+to your presence.
+~
+~
+0 -1 6459
+D5
+YOU could fit through the small trees which form the guard rail of this
+gallery, but slipping through would mean instant death as you fell
+*SPLAT!!* on the table below.  The giants would probably not even look
+up, just continue eating the dinner that literally fell into their laps.
+~
+~
+0 -1 6493
+S
+#6459
+The Gallery West~
+   The west wall is lined with crudely drawn pictures of the giants'
+clan and family ancestors.  The eastern wall continues to be a railing
+made from trunks of mature beech trees.  Although spaced widely enough
+apart for giant children and pets, you might find yourself slipping
+between the rails to your death.
+~
+64 d 0
+D1
+After you have finished amusing yourself with the giants' picture
+gallery, checked out the drunks below, and surveyed the floor for
+missing and/or creaking floorboards, you can head east towards the
+stairs.
+~
+~
+0 -1 6458
+D5
+YOU could fit through the small trees which form the guard rail of this
+gallery, but slipping through would mean instant death as you fell
+*SPLAT!!* on the table below.  The giants would probably not even look
+up, just continue eating the dinner that literally fell into their laps.
+~
+~
+0 -1 6493
+S
+#6460
+A Giant Bedroom~
+   Although most of these giants simply drink themselves silly every
+night then fall asleep where they fall, occasionally a giantess will
+drag her husband away from his mates.  Pale yellow walls give this
+bedroom a feeling of cheery sunlight.  An enormous chest of drawers sits
+under the western window, and a bed as big as a football field sits in
+the middle of the room.
+~
+64 d 0
+D0
+The bed is so enormous that it looks like you might actually fit beneath
+it!  But there is no telling what you might find there.  This is not a
+particularly well-kept household.
+~
+~
+0 -1 6494
+D2
+Just outside the heavy door is a large, very open area ending in a guard
+rail that, from its height, looks very much like prison bars to you.
+~
+door
+~
+1 -1 6458
+D3
+Incongruous in this household of rotting planks and popping nails, the
+door leading west is brightly, cheerfully painted.  Clearly something
+well-cherished lies in that direction.
+~
+door
+~
+1 -1 6461
+S
+#6461
+The Playroom~
+   A ball whose diameter is half your height rolls lazily across the
+floor towards you, and a doll that looks much like you (without it's
+head, though) lies discarded under a child's bed.  This, clearly, is the
+nursery for young giants.  The only exit is back to the parents'
+bedroom, east.
+~
+64 d 0
+D1
+A bright green door covered with painted flowers must go somewhere
+interesting.
+~
+door~
+0 -1 6460
+S
+#6462
+Grog Storage~
+   Cool, dim and slightly musty, this room is filled with huge oaken
+barrels.  They are unlabeled (pointless since the giants don't read),
+but from the scent near the tap of one of the barrels you can tell they
+are filled with very potent brew, most probably dwarven.  Axes, scythes
+and other odds and ends fill the remaining spaces.
+~
+64 ad 0
+D1
+One of the many barrels seems set apart.  A close inspection shows it to
+be less sturdily built than the other barrels.
+~
+stave~
+1 -1 6463
+D4
+A set of wide shallow steps lead up past a loose double door into the
+yard of the longhouse.
+~
+door
+~
+1 -1 6451
+S
+#6463
+Inside a Barrel~
+   Sweet, strong-smelling oak forms a circular wall around you.  If you
+lift your arms to shoulder-height and stretch, you can touch the walls
+with the tips of your middle fingers.  The barrel is slightly damp, but
+empty.  What looks like a loose stave in the barrel leads west.  The
+base of the barrel sounds hollow.
+~
+64 ad 0
+D3
+If you push hard on the loose stave in the barrel you might be able to
+force it open.
+~
+stave door~
+1 -1 6462
+D5
+The bottom of the barrel sounds hollow under your feet.  As you run your
+fingers around it in the darkness, you find a spot where your fingertips
+can easily slip beneath the wood.
+~
+bottom door~
+1 -1 6472
+S
+#6464
+The Crawl Space~
+   The small narrow tunnel extends to the east.  Perhaps formed from
+some ancient lava flow, the tunnel is unidirectional.  You could not
+back up.  There seems to be some light far to the east.
+~
+64 a 4
+D1
+Rough, narrow, uncomfortable it may be, but it is your only choice at
+the moment.
+~
+~
+0 -1 6465
+S
+#6465
+The Crawl Space Ends~
+   The narrow tunnel stretches east (only) ending abruptly at a steep
+drop into a large, brightly lit cavern.  There is little you can see of
+the cavern due to its enormous size and your awkward position.  The only
+direction you can go from here is down, and it is a long drop.
+~
+64 ad 4
+D5
+Looking down makes you dizzy and weak at the knees.  There doesn't
+appear to be anything soft to land on, either.
+
+                          #wGot wings?#N
+
+~
+~
+2112 -1 6466
+S
+#6466
+Dwarven Throne~
+   You have stumbled into a brightly lit cavern that glitters with gold
+and precious jewels.  The roof of the cavern is very high above you,
+making every footfall and every utterance echo hollowly.  The cavern
+extends far to the east, and ends at a boulder to the near west.  Far
+above you see a small hole in the cavern wall.
+~
+64 dh 4
+D1
+Wow!  Looks like the mighty (and mighty secret) Royal Dwarven
+Throneroom!
+~
+~
+0 -1 6467
+D4
+Looking up ... WAY up ... you see a small hole in the cavern wall.
+~
+~
+0 -1 -1
+S
+#6467
+The Royal Thrones of Dwarvendom~
+   Two large seats have been cut from the stone and carefully polished,
+then gilded with a thin layer of gold.  From the loving detail in the
+seats, it's possible to tell that each was individually crafted to fit a
+specific royal bottom.  They are, indeed, the Royal Dwarven Thrones.
+~
+64 d 4
+D3
+The glittering Royal Receiving Room extends west, ending at a cavern
+wall.  You can't help but wonder at the apparent lack of convenient
+entrances and exits.  Apparently these royals do not like to be
+disturbed by their subjects.
+~
+~
+0 -1 6466
+D5
+Sure enough, the seat may be pried loose if you are strong enough to
+budge the stone, and there is a short flight of stairs (everything here
+is short) leading down.
+~
+seat~
+1 -1 6470
+E
+throne thrones seat~
+One of the royal seats looks a bit loose.
+~
+S
+#6468
+Ale Storage~
+   Casks of all sizes have been lovingly stacked here from floor to
+ceiling.  Oaken casks and barrels of strange and enchanted woods store
+the wonderful (to dwarves, anyway) ale and the stronger grog.  The
+dwarves sell this ale at a great price to the Giants who live further up
+the mountain in their longhouse, then (or so it is rumored), steal it
+back to sell once again.
+~
+64 ad 4
+D1
+A thick wooden door opens the way east.
+~
+door~
+1 -1 6470
+S
+#6469
+Death by Drowning~
+   Even though you thought you knew how to swim, the heady fumes of the
+powerful dwarven liquor cloud your thought processes.  Fortunately,
+although you forget how to swim and therefore drown, you die happy.
+~
+64 bc 0
+D4
+If you can see this, you must be immortal.
+~
+~
+0 -1 6426
+S
+#6470
+Under the Royal Seat~
+   A small escape tunnel has been carved out under the Royal Seat, and
+supplies have been stashed here in case of emergencies.  Additional
+supplies must lie behind the door marked "Storage".  The tunnel leads up
+and east from here, and directly above you a royal bottom comes to rest
+on a royal throne.
+~
+64 ad 4
+D1
+Pretty dark.  Reflected light from this barely-illuminated area reveals
+a small tunnel carved out of the mountain rock.
+~
+~
+0 -1 6471
+D3
+A short wooden door in the wall to the west has a sign brightly painted
+on it.
+~
+door~
+1 -1 6468
+D4
+Stretching up you may be able to enter the Royal Throne Room.  Or not.
+~
+seat
+~
+1 -1 6467
+E
+sign~
+Unfortunately the sign is written in some obscure dwarven tongue.  
+
+Fortunately, you  paid attention in your "Ancient Languages of the
+Underground Races Class".
+
+It reads, "No Admittance by Royal Decree.  This means YOU."
+~
+S
+#6471
+Rising (or Falling) Tunnel~
+   A steeply rising tunnel leads east, the dirt floor for once soft
+beneath your feet.  You can barely hear your footfalls on this surface.
+The tunnel is narrow, and from both ends comes the distinctive odor of
+dwarven-made spirits.
+~
+64 ad 4
+D4
+It really is too dark to see anything of significance, but from the way
+sound echoes off the walls, it would appear that the tunnel is about to
+end.
+~
+~
+0 -1 6472
+D5
+A small landing slightly down-tunnel from here is barely lit by the
+light of a single torch.
+~
+~
+0 -1 6470
+S
+#6472
+Rising (or Falling) Tunnel~
+   This narrow tunnel is much steeper than most others in the mines,
+with the obvious exception of the straight vertical tubes in the rock.
+This one is narrow and, of course, dark.  Up, in the distance, you hear
+the deep rumble of giant voices.
+~
+64 ad 4
+D4
+A large circle of wood ends this portion of this tunnel.  If it weren't
+covering the tunnel entrance, you could easily climb through the hole,
+which is quite large (and quite redolent of something very alcoholic).
+~
+bottom base~
+1 -1 6463
+D5
+Slide down the tunnel into darkness.
+~
+~
+0 -1 6471
+S
+#6473
+Fissure in the Rock~
+   From the top of this wide crack in the rock you peer down into
+darkness.  A pebble slipping, falling down between the edges of rock
+hits the rock below with a soft thud followed by the sound of the pebble
+rolling off another ledge and hitting an underwater stream with a small
+splash!  The fissure is narrow enough for you to step over it easily and
+head either east or west, or, if you are a fairy or an elf (and NOT a
+troll), you can probably fit through it without getting stuck.
+~
+64 ad 5
+D1
+The large open (and fairly dark) cavern appears to run east and west at
+this point, although the light of a single torch barely pierces the
+immediate gloom.
+~
+~
+0 -1 6485
+D3
+The large open (and fairly dark) cavern appears to run east and west at
+this point, although the light of a single torch barely pierces the
+immediate gloom.
+~
+~
+0 -1 6474
+D5
+IF you fit down this narrow crack in the rock, and IF you are a) very
+brave or b) very stupid, you can investigate the mine further by heading
+down at this point.
+~
+~
+0 -1 6475
+S
+#6474
+Inside the Mines~
+   Here the floor of the cave is hard and smooth beneath your feet, and
+the tunnel is quite wide.  Standing in the center of the path, lifting
+both arms, you cannot touch either side or the roof of the cave.  From
+the echoing sound of your voice, the underground cavern is quite large.
+The cavern continues east and west, and there is a tunnel leading down.
+~
+64 ad 4
+D0
+Although you cannot see anything except the occasional bobbing light,
+you can sense that this cavern stretches for a great distance in all
+directions.
+~
+~
+0 -1 6495
+D1
+Although you cannot see anything except the occasional bobbing light,
+you can sense that this cavern stretches for a great distance in all
+directions.
+~
+~
+0 -1 6473
+D2
+Although you cannot see anything except the occasional bobbing light,
+you can sense that this cavern stretches for a great distance in all
+directions.
+~
+~
+0 -1 6474
+D3
+Although you cannot see anything except the occasional bobbing light,
+you can sense that this cavern stretches for a great distance in all
+directions.
+~
+~
+0 -1 6412
+D5
+The unlit tunnel beckons you into the vast dark underground world.
+~
+~
+0 -1 6476
+S
+#6475
+Tumbling Down a Rocky Slope~
+   The narrow fissure directly overhead is visible only when another
+explorer steps across the crack.  This area you are in is entirely
+tilted, angling steeply down to the west along a rocky, dusty incline.
+Loud noises indicate the presence all around you of miners going about
+their daily business of mining.
+~
+64 ad 4
+D4
+The fissure is too narrow and too high above you for you to be 
+able to return that way.
+~
+~
+0 -1 -1
+D5
+Your feeble light barely pierces the eternal underground gloom.
+~
+~
+0 -1 6477
+S
+#6476
+Down the Tunnel~
+   A long narrow path slopes down from a large cavern.  Deep gouges in
+the sides of the tunnel give evidence of the mining activites of the
+dwarves.  There are no torches left in sconces.  A miner's lamp is a
+critical part of his equipment.  The tunnel branches downwards in a
+southerly direction towards an intersection, up towards a large cavern,
+while another downward-leading arm heads west.
+~
+64 ad 4
+D2
+This part of the path SMELLS steep, but still simply smells of cave,
+dwarves, and old candlewax.
+~
+~
+0 -1 6477
+D3
+A branch off the main tunnel leads you west, but still heading down.
+~
+~
+0 -1 6480
+D4
+Your feeble nightvision is insufficient to illuminate the dark bowels of
+the cave.
+~
+~
+0 -1 6474
+D5
+This part of the path SMELLS steep, but still simply smells of cave,
+dwarves, and old candlewax.
+~
+~
+0 -1 6477
+S
+#6477
+Intersection~
+   A gradually sloping path enters this part of the cave from the east,
+and continues sloping slowly down to the west.  This small open cavern
+glitters slightly with what must be fool's gold, reminding you of rumors
+of a secret vein of gold hidden deep in the iron mine.  A round tube has
+been cut straight up through the rock and continues straight down an
+unknown distance.  The tube overhead is unreachable, however, and the
+only paths upwards follow more gradual inclines.
+~
+64 ad 4
+D0
+A branch of this cavern appears to head up to the north from here.
+~
+~
+0 -1 6476
+D1
+An abandoned torch sputters and dies, revealing a gradual upwards slope
+across (what else, after all?) rocky terrain.
+~
+~
+0 -1 6475
+D3
+You can see nothing but blackness.
+~
+~
+0 -1 6481
+D4
+If you are strong and agile, you could climb this narrow tube upwards,
+bracing your feet against one side and your back against the other.
+~
+~
+0 -1 6495
+D5
+If you are strong and agile (and are wearing LOTS of leather around your
+tender parts), you could climb down this narrow shaft, your back against
+one side, your feet against the other.
+~
+~
+0 -1 6479
+S
+#6478
+The Lair of the Cave Dragon~
+   Scorch marks incongruously mark the walls of this large, rounded
+cavern.  There is no evidence of mining activity in the cavern.  The
+gravel and cave dust covering the floor of the cavern is marked by
+prints from some very large animal.  A rough path leads in from the west
+and slopes steeply down and out.
+~
+64 adj 4
+D3
+The stalactite and stalagmite "teeth" have closed quite firmly behind
+you, shutting you into the mouth of this cave.
+~
+teeth
+~
+295 -1 3001
+D5
+The floor of the cave looks quite solid, although somewhat strewn with
+heavy boulders.
+~
+boulder
+~
+1 -1 6482
+S
+#6479
+A Vertical Tube~
+   A long vertical tube carved out of solid rock continues up and down,
+just wide enough for you to brace yourself and ease your way to wherever
+it is you think you wish to go.  Tall stalagmites interlaced with
+stalactites look remarkably like dragons' teeth, and encourage
+adventurers to hasten on their way up or down. 
+
+#YA thin wisp of smoke curls out at you from the east.#N
+~
+64 ad 5
+D1
+A strange configuration of gleaming white stalactites and softly
+yellowed stalagmites meet, barring the way.
+~
+teeth~
+1 -1 6478
+D4
+A vertical tube has been cut through several layers of cavernous
+mountain.  Strong, short, stocky dwarves easily clamber up and down
+through the different levels of the mine by way of this unique passage.
+~
+~
+0 -1 6477
+D5
+A vertical tube has been cut through several layers of cavernous
+mountain.  Strong, short, stocky dwarves easily clamber up and down
+through the different levels of the mine by way of this unique passage.
+~
+~
+0 -1 6482
+E
+wisp smoke~
+The thin wisp of smoke drifts easily between cracks too small for any
+corporeal adventurer.  It likes to think of itself as a true adventurer,
+unlike those with more substance.  The smoke smells vaguely of sulphur
+and warm fire.  The smell is not totally repulsive, but neither is it a
+pheromone-enhanced perfume.  Will you, like Winnie the Pooh, go see
+where it came from?  or track where it's going to?
+The wisp of smoke is in excellent condition.
+~
+S
+#6480
+Deep Down~
+   Inky blackness barely penetrable by the brightest of lanterns is the
+normal lot of miners.  The dwarves claim the dark is restful to their
+eyes.  The darkness is thicker at your feet and above you, indicating
+possible exits in those directions.
+~
+64 ad 5
+D3
+Inky blackness is, unfortunately for you, impenetrable by either your
+feeble lantern OR your feeble cats' eyes.
+~
+~
+0 -1 6476
+D4
+Inky blackness is, unfortunately for you, impenetrable by either your
+feeble lantern OR your feeble cats' eyes.
+~
+~
+0 -1 6481
+D5
+Inky blackness is, unfortunately for you, impenetrable by either your
+feeble lantern OR your feeble cats' eyes.
+~
+~
+0 -1 6484
+S
+#6481
+The Mine Shaft~
+   A simple ladder has been stretched the length of this deep hole in
+the earth.  The darkness prevents you from seeing just how deep into the
+earth the ladder extends.  The shaft at this end is quite wide, and you
+could easily use the ladder to explore the depths of the cave.
+~
+64 ad 5
+D1
+Although you can see nothing, the normal sounds of mining - the clank of
+pick against rock, the rumble of rock-laden sacks on creaking pulleys,
+the grumbling of canaries and the singing of dwarves - reassures you
+that all is as it usually is here underground.
+~
+~
+0 -1 6477
+D5
+As far as you can reach, you can feel a thick rope ladder, sturdy enough
+to hold a rock-laden dwarf.
+~
+~
+0 -1 6480
+S
+#6482
+Staging Area~
+   You have reached a large-ish, fairly flat area from where ore is
+gathered then carried to the surface.  Strange devices firmly anchored
+to the wall reveal themselves as the remnants of a gnomish system of
+pulleys, long since abandoned in favor of simple brute strength.  
+   A steep passageway leading up and east has been heavily barred and
+covered with strange runes and warning signs.
+~
+64 ad 4
+D1
+The passageway east has been permanently closed off.
+~
+~
+295 -1 3001
+D3
+The cavern branches west.  This area is quite large - large enough to
+hold an optimistic amount of ore.
+~
+~
+0 -1 6484
+D4
+A long vertical hole in the rock is accessible by way of a heavy rope
+ladder.
+~
+~
+0 -1 6479
+D5
+A passageway sloping gradually down allows ore to be brought up from the
+lowest reaches of the mine.  The cart system devised by gnomes is no
+longer functioning, but the rails used by them remain in the stone.
+~
+~
+0 -1 6483
+E
+sign~
+Poorly lettered, its intent is still clearly, #rDanger!!#N
+~
+S
+#6483
+A DEAD End~
+   All that climbing down and NOW where are you.  It looks like you are
+going to have to just rest up a bit and start climbing back up again.
+Oh bother!  This end of the long vertical tube seems so pointless - a
+receptacle for rocks and small boulders that have probably all fallen or
+been tossed down from above.  The space is narrow, claustrophobic.
+~
+64 ad 4
+D1
+A somewhat gradual passageway leads up and east.
+~
+~
+0 -1 6482
+D4
+The remnants of a gnomish-built system of pulleys and levers begins with
+this long round tube.
+~
+~
+0 -1 6484
+D5
+One of the huge rocks is not quite as solidly in place as you would
+expect, given its size.
+~
+rock~
+1 -1 6489
+S
+#6484
+Deeper Down~
+   It is dark, and the air feels thick to your lungs.  From somewhere
+nearby you hear the incongruous song of a canary.  Well, of course you 
+know canaries are used by miners to reveal the presence of heavy gasses,
+but why would a canary sing in such a dark place?
+~
+64 adx 4
+D0
+Inky, mystical blackness greets your eyes in all directions.
+~
+~
+0 -1 -1
+D1
+This cavern extends eastward to an area used for staging the movement of
+ore to the surface.
+~
+~
+0 -1 6482
+D2
+Inky, mystical blackness greets your eyes in all directions.
+~
+~
+0 -1 -1
+D3
+Inky, mystical blackness greets your eyes in all directions.
+~
+~
+0 -1 -1
+D4
+Inky, mystical blackness greets your eyes in all directions.
+~
+~
+0 -1 6480
+D5
+Inky, mystical blackness greets your eyes in all directions.
+~
+~
+0 -1 6483
+S
+#6485
+Absolute Darkness~
+   It sure is DARK down here.  The mountain is quite huge, and this
+first part of the mine is bustling with the activity of dwarves bringing
+ore to the surface to transport to their mill.  You cannot see much.
+The dark of the cave is impenetrably thick, but you can see the small
+lanterns of many industrious miners bobbing back and forth, disappearing
+then reappearing like magic in the distance to the west.  Beneath your
+feet, a heavy rope ladder heads down.
+~
+64 ad 5
+D3
+Bobbing lanterns tell you you are not alone.
+~
+~
+0 -1 6473
+D4
+The entrance to the mine - the old entrance - lies up this way.
+~
+~
+0 -1 6435
+D5
+One of the mine's many subterranean passages starts here.
+~
+~
+0 -1 6486
+S
+#6486
+The Mine Shaft~
+   A sturdy rope ladder extends both up and down here from inky darkness
+in both directions.  There is a small flat space here where you might
+step off the ladder to stretch, but the only clear choices for moving
+out of here are up and down.
+~
+64 ad 5
+D1
+A branch of the mine heads east into murk.
+~
+~
+0 -1 6476
+D4
+A main line of the mine leads up towards the surface.
+~
+~
+0 -1 6485
+D5
+Mining seems to be a continual trip down ...
+~
+~
+2112 -1 6487
+S
+#6487
+The Mine Shaft~
+   Ever wonder what might happen if you met someone headed down a long
+stretch of ladder when you were headed up?  The hole in the inner
+mountain through which you move is tight at this point.  There is just
+room for one.
+~
+64 0 5
+D1
+Is that a miner's lantern you see to the east?  Or your fevered
+imagination?  Perhaps a firefly at closer range.
+~
+~
+0 -1 6481
+D4
+You can ascend closer to ground level from here.
+~
+~
+0 -1 6486
+D5
+The ladder continues down.  Your arms and legs ache from the long time
+spent on the ladder, but you have not many choices.
+~
+~
+0 -1 6488
+S
+#6488
+The Mine Shaft~
+   A very small opening in the wall would allow you to escape the
+ladder, but you would need to crawl along the rocky surface on your
+belly for an unknown distance.
+~
+64 i 5
+D1
+It looks very very narrow.  Like maybe once you got started it would be
+hard to wriggle back out.
+~
+~
+0 -1 6464
+D3
+The mine shaft continues down at a westwardly angle, abandoning the
+ladder for what appears to be an easier walk.
+~
+~
+0 -1 6477
+D5
+The mine shaft continues down at a westwardly angle, abandoning the
+ladder for what appears to be an easier walk.
+~
+~
+0 -1 6477
+S
+#6489
+A Gradual Decline~
+   The area between floor and ceiling gradually, thankfully, increases
+as you move slowly down and then up again, following a natural (?) gap
+in the rock.  You are all too conscious of the tons of rock and earth
+above you, and try not to pause to wonder why it does not collapse on
+top of you.  This particular gap in the rock runs nw-se, with se also
+being down.
+~
+64 0 5
+D4
+If you can shove that rock out of the way, you can probably make your
+way back up into the rest of the mine.
+~
+rock~
+1 -1 6483
+D5
+Slide down the rock, continuing west, to see what's there.
+~
+~
+0 -1 6490
+S
+#6490
+Under Several Gazillion Tons of Mountain~
+    The lower portion of this path, to the southeast, seems more used,
+less hidden, somehow, and the cavern walls seem to reflect back at you
+with a slightly yellow glitter.  Water runs through this small cavern,
+from west to east, a slow, slight trickle that may be safe for you to
+drink.  Or maybe not.
+~
+64 0 5
+D4
+An apparently easy climb up a gravelly slope.
+~
+~
+0 -1 6489
+D5
+Do you really want to descend further into the bowels of this huge
+purple mountain?
+
+Do you really think the dwarves would allow you to keep anything you
+found here?
+~
+~
+0 -1 6491
+S
+#6491
+Following the Stream~
+   A small stream trickles slowly westwards through this dark cavern.
+Incongruously, it makes you think of sunlight and fishing on sparkling
+spring mornings.  A close look into the water shows colorless fish,
+small, bony creatures moving slowly through the water.
+~
+64 0 5
+D1
+If you decide to follow the stream east, you will have to wade through
+it, because it gets wider and wider until it takes up much of the
+passageway.  It is very very cold, and filled with strange and very
+nasty looking life.  Still, you ARE an ADVENTURER! right?  And that's
+not the life for the faint of heart.
+~
+~
+0 -1 6492
+D4
+A gentle slope leads up to drier rock.  Better watch out.  This rock
+tends to be quite slippery.
+~
+~
+0 -1 6490
+S
+#6492
+All that Glitters~
+   The dwarves have hidden this new vein of ore very craftily - as well
+they might, since it is not iron ore this time, but gold.  It looks like
+a recent strike - it has just begun to be mined.  When word goes out of
+a gold strike in the dwarven kingdom, the dwarves will have to fight for
+their kingdom and to keep intruders out of their mountain.  The only
+non-magical way out of the gold strike is to the west.
+~
+64 0 5
+D3
+The wide stream is filled with very cold water.  That coldness has made
+the critters who inhabit it a bit ... cold-blooded ... 
+~
+~
+0 -1 6491
+S
+#6493
+Stepping off into Darkness~
+   The problem with adventurers like you is you just don't watch!  You
+were warned about stepping off, but did you read the room description?
+No-o-o!!  You just had to walk off the edge and discover death for
+yourself, didn't you?
+~
+64 bc 0
+D4
+~
+~
+0 -1 6440
+S
+#6494
+Under the Giant Bed (Sock Graveyard)~
+   Achoo!!!  Clearly nobody has cleared out under here for aeons!  A
+giant wooden sandal (for a RIGHT foot) lies lost next to an enormous,
+thick white sock that looks quite athletic.  A silky stocking (with a
+small run going from toe to heel) has wound itself around a thin black
+sock while a bit further off lie a mismatched pair of boot socks.
+~
+64 c 5
+D0
+Heading north, south or east will take you out of this sneezy place,
+back into the giants line of vision.
+~
+~
+0 -1 6460
+D1
+Heading north, south or east will take you out of this sneezy place,
+back into the giants line of vision.
+~
+~
+0 -1 6460
+D2
+Heading north, south or east will take you out of this sneezy place,
+back into the giants line of vision.
+~
+~
+0 -1 6460
+S
+#6495
+A Vertical Tube~
+   Pulleys of gnomish origin once provided the miners here with an
+easier means of bringing their precious ore to the surface of the mine.
+The dwarves who commissioned the device were desperate to keep the
+secrets of their mine and equally desperate to keep the gnomes in case
+the marvellous creation should stop working.  The gnomes were, sadly,
+kept underground until they perished from lack of sunlight.  Their
+wonderful contraption has long since fallen into disrepair.
+~
+64 ad 5
+D2
+The large underground cavern continues south of here.  At least, your
+feeble light detects no wall in that direction.
+~
+~
+0 -1 6474
+D5
+Although a tight fit, you might be able to climb down this tube by
+grasping what remains of the pulley structure.  Then again, I'm not too
+sure how firmly those pulleys are embedded into the rock.
+~
+~
+0 -1 6496
+S
+#6496
+A Tight Squeeze~
+   Originally designed for a small wooden basket carrying iron ore, this
+smooth vertical tube is a tight fit.  Which maybe is fortunate ... if
+one of the pulleys you are clinging to so desperately were to pull loose
+from the wall, you could perhaps brace yourself.  This would be a nice
+time to discover Santa's magic, as the vertical tube you are in is much
+the size of a chimney.
+~
+64 ad 5
+D4
+You could try climbing up.  No telling what you would find there.
+There's hardly enough room for you to tilt your head upwards to look,
+and if you did, it's all black anyway.
+~
+~
+0 -1 6495
+D5
+It's just as dark going down as it is going up.  No telling WHAT is down
+there.  You feel like you are just a few inches from Hell.
+~
+~
+0 -1 6477
+S
+#6497
+Climbing THE tree~
+   It's a good think you have all that experience climbing mountains,
+because climbing this enormous tree is not unlike climbing a mountain
+made of wood.  The tree soars far above you, way past
+Jack-the-Giant-Killer's giant, on to parts unexplored.
+~
+64 0 5
+D4
+Looking up, all you see is TREE, endlessly up and up.
+~
+~
+0 -1 6498
+D5
+The base of the tree is far below you already, but still closer than the
+nearest branch.
+~
+~
+0 -1 6446
+S
+#6498
+Climbing THE tree~
+   Well, the tree spent a few thousand years growing.  Surely you didn't
+expect to climb it in just a few seconds, did you?  It's a long,
+laborious, tedious climb.  Waay down below you lies, of course, the
+earth.  Above there seems to be a tangle of bright silk and ropes and,
+incredibly, a huge wicker basket.
+~
+64 0 5
+D4
+~
+~
+0 -1 6499
+D5
+~
+~
+0 -1 6497
+S
+#6499
+Gnomish Picnic Basket~
+   "Official Gnomish Spy Balloon" are the brightly colored words painted
+on the side of this enormous, brightly colored hot air balloon.
+Ostensibly investigating the disappearance of a small party of gnomes
+hired by the dwarves some hundred years ago or so, the gnomes in this
+basket are clearly having a very nice picnic.
+~
+64 eh 5
+D5
+Down the tree? *shudder*
+~
+~
+0 -1 6498
+S
+#6500
+On the Outskirts of the Hobbit Habitation~
+   A broad path neatly bordered with short, well-trimmed bushes runs
+north and south from here.  To the east and west of you, fields of
+sweetly scented tobacco remind you of the little hobbit village to the
+south.
+~
+64 0 0
+D0
+The broad path stretches endlessly north and up from here.
+~
+~
+0 -1 6501
+D2
+Just up ahead you can see a well.  Just the thing for filling your
+canteen.
+~
+~
+0 -1 3809 
+S
+#6501
+Achoo!~
+   Surrounded by tobacco, you may have a faint memory of the Tobacco
+Wars some years past, when the Hobbits refused to sell to the dwarves at
+their usual price.  Reason?  The dwarves were trying to trade low
+quality steel plows and hoes for their farming.  The road continues
+north for a spell then turns east around a tobacco field.  To the south
+you can see the outskirts of the hobbit habitat.
+~
+64 0 0
+D0
+The path continues, winding around tobacco fields.
+~
+~
+0 -1 6502
+D2
+To the south you can see the outskirts of the hobbit habitat.
+~
+~
+0 -1 6500
+S
+#6502
+Around the Tobacco Field~
+   The hobbit road twists west and north here, making its way around a
+field of tobacco south to the village and north towards some big Purple
+Mountains, the dwarven mining kingdom if rumor is to be believed.
+~
+64 0 0
+D2
+Far off in the distance you can make out what looks like a small well.
+~
+~
+0 -1 6501
+D3
+The path west wraps around a field of tobacco and continues in the same
+direction the sun travels.
+~
+~
+0 -1 6503
+S
+#6503
+Fertile Farmland~
+All around you lie fertile, well cultivated fields.  To the south you
+can see endless stretches of tall, broad-leaved tobacco plants, growing
+a rich dark green.  To the north of this east-west track, densely
+planted rows of corn block your path.  The silken tassels on their ears
+wave slightly in the light breeze.
+~
+64 0 0
+D1
+Up ahead the path takes a sharp turn around the corner of a tobacco
+field.
+~
+~
+0 -1 6502
+D3
+Up ahead, the path takes a sharp turn around the corner of a corn field.
+~
+~
+0 -1 6504
+S
+#6504
+Corn and Green Fields~
+   Surrounded by green fields and the occasional crow, it is amazing how
+quiet it is here in the country.  You are in a very large flat valley.
+To the north you can see gently rolling foothills leading slowly to
+steep mountains.  South, east and west of you lie flat, fertile valley
+rimmed by mountains so far away they seem unreal.  The path extends
+north and east from here.
+#G  A large sign stands in front of the cornfield to the west.#N
+~
+64 0 0
+D0
+The path northwards gradually begins to rise and fall.
+~
+~
+0 -1 6505
+D1
+Past tobacco patch and cornfield, the broad cart track heads east.
+~
+~
+0 -1 6503
+E
+sign~
+The sign has no words, just a big picture of a corn stalk with a red
+circle around it and a line running diagonally from one side of the
+circle to the other.
+~
+S
+#6505
+Fertile Farm Fields~
+   A path broad enough for a heavy cart leads north and south from here
+in between well tended fields.  Widely scattered farmhouses dot the
+fertile valley.  In one field, an old plough has been left to rust,
+while in another, at some distance to the north, you see a farmer at
+work.  
+~
+64 0 0
+D0
+The path rolls on through fertile farmland.
+~
+~
+0 -1 6506
+D2
+The path rolls on through fertile farmland.
+~
+~
+0 -1 6504
+S
+#6506
+Fields of Corn~
+   The densely planted rows of corn generally keep you to the broad cart
+track, however a small path separating two fields of corn leads
+westwards from here.  The cart track runs north and south in apparently
+endlessly rolling fields of flawlessly fertile farmland.
+#G  A small bright yellow sign shows a big red hand pointing west.#N
+~
+64 0 0
+D0
+The cart track leads off over rolling hills northwards.
+~
+~
+0 -1 6512
+D2
+Fertile fields surround you.
+~
+~
+0 -1 6505
+D3
+A very narrow path leads between two fields of corn.
+~
+~
+0 -1 6507
+E
+sign hand~
+Well worn lettering on the sign reads,
+ 
+#g   Gnomish Pscientific Agricultural Research Center.
+#y              Hands off the corn!!!
+~
+S
+#6507
+The Kennel~
+   In a small clearing in the middle of the densely planted corn, you
+can see a small wooden one room house.  From the prints in the dirt
+around the house you can see that at least one dog lives here.  Since it
+seems an odd thing to guard, you might surmise that either there is an
+unusual threat (to corn) nearby or this is very special (and unusual)
+corn.  A very narrow path runs east and west from here.
+~
+64 0 0
+D1
+The narrow path intersects with a wider cart track to the east.
+~
+~
+0 -1 6506
+D3
+The path is too narrow for you to see much, but you might catch a
+glimpse of a small farmhouse.
+~
+~
+0 -1 6508
+S
+#6508
+The Pscientific Agricultural Research Center (PARC)~
+   A small cluster of buildings lies at the end of a short narrow path
+through densely planted fields of corn.  At the center of the cluster is
+a large building topped with a glowing, translucent dome.  Gnomes
+dressed in white lab coats are scurrying hither and thither.  You can
+head for the hills (east), the dome (west) or one of the small
+outbuildings (north and south).
+~
+64 0 0
+D0
+An anonymous, whitewashed building lies north.
+~
+door
+~
+1 -1 6510
+D1
+The path will take you back through the corn field.
+~
+door
+~
+1 -1 6507
+D2
+One of the many small whitewashed buildings lies south.
+~
+door
+~
+1 -1 6511 
+D3
+The Dome!
+~
+door glass
+~
+1 -1 6509
+S
+#6509
+Inside the GnomeDome~
+   Brilliant sunlight surrounds you, streaming from an unseen source.
+Long rows of dirt separated by narrow stone paths have been planted with
+flowers, fruits and vegetables both mundane and arcane.  As the lab
+gnomes walk the rows, flowers blossom brightly and vines stretch out
+towards them as if looking for an affectionate touch.
+~
+64 0 0
+D0
+The enormous greenhouse extends to the north for some distance.
+~
+~
+0 -1 6532
+D1
+A thick glass door bearing a small "Remember to shut me, please" sign
+marks the way out.
+~
+door
+~
+1 -1 6508
+S
+#6510
+The Toolshed~
+   A small dark shack is filled with small, ordinary gardening
+implements.  There are hoes, rakes, shovels, spades, buckets, leather
+gardening gloves made to fit small gnomish hands, and other implements
+you may not recognize.  All are made of finest dwarven steel.
+~
+64 0 0
+D2
+Through cracks in the old wooden door you can see the garden.
+~
+door
+~
+1 -1 6508
+S
+#6511
+The Root Cellar~
+   Steps lead sharply down to cool earthy darkness.  You are surrounded
+by thick glass jars preserving peaches, peas, pomegranates, powders,
+potions, pigs feet, and other, less identifiable items.  Roots of all
+sorts - feathery white tendrils and thick-as-a-trolls-arm-feelers - grow
+through the earthen walls of the cellar, reaching towards the gnomish
+preserves.
+~
+64 0 0
+D0
+~
+door
+~
+1 -1 6508
+S
+#6512
+A Dividing Point~
+   The fields of corn abruptly disappear as you head northward through
+the rolling hills.  To the south, thick fields of corn flank the path.
+Further south you can see the broad green leaves of hobbit tobacco.
+~
+64 0 0
+D0
+Fallow fields fill your view to the north.
+~
+~
+0 -1 6513
+D2
+The gnomish farm research station lies just south of here.
+~
+~
+0 -1 6506 
+S
+#6513
+On the Right Path~
+   The broad path here shows evidence of considerable travel.  In the
+distance to the east you can see spiraling smoke and an oddly metallic
+scent.  An occasional scream is quickly and quenched.  South of you the
+path rolls into fertile fields and a large, flat valley.  To the north
+loom the purple mountains of the Dwarves.
+~
+64 0 0
+D0
+~
+~
+0 -1 6514
+D2
+~
+~
+0 -1 6512
+S
+#6514
+Onward and Upward (or Downward)~
+   A broad, well-traveled cart track leads northwards towards the base
+of some spooky purple mountains.  To the south the path flattens and
+gradually smooths.  To the west and east, the land gradually rises and
+the valley ends with a wall of mountains.
+~
+64 0 0
+D0
+~
+~
+0 -1 6515
+D2
+~
+~
+0 -1 6513
+S
+#6515
+Sloping through the Hills~
+   A broad dirt path rolls along north and south through gentle fertile
+foothills and the northern end of a huge valley.  The hills are covered
+with deep velvet green grasses, too thick to push your way through.   
+~
+64 0 0
+D0
+Roll up north towards the nearby mountains.
+~
+~
+0 -1 6400
+D2
+Roll south towards the flatter valley.
+~
+~
+0 -1 6514
+S
+#6516
+A Deeply-Rutted Cart Track~
+   A narrow dirt track runs east and west through verdant fields of
+grass towards a field thick with tall vines to the west, and a narrow
+path through the farmland to the east.
+~
+64 0 0
+D1
+There appears to be a fork in the track to the east.
+~
+~
+0 -1 6401
+D3
+The track continues through a field of hops.
+~
+~
+0 -1 6517
+S
+#6517
+A Field of Hops~
+   Tall vines fill the fields to the right and left of you.  You may
+recognize the vines as hops.  The vines appear to be quite healthy and
+thick, crowding the edge of the path and extending for as far as you can
+see north and south.  The track continues both east and west from here.
+~
+64 0 0
+D1
+The cart track continues east through green fields lying fallow.
+~
+~
+0 -1 6516
+D3
+The ground slowly rises eastwards towards a small plateau.
+~
+~
+0 -1 6518
+S
+#6518
+Foothills~
+   From the slow rise of the cart track as it heads westwards you can
+tell you have entered the foothills of the Dwarven Mountains.  The
+fields around you appear well-tended, planted with hops, grains and
+other crops that you don't recognize.  The track west continues to rise,
+slowly descending into a fertile valley to the east.
+~
+64 0 0
+D1
+Following the cart track west would be an easy, peaceful descent through
+green and golden farmland.
+~
+~
+0 -1 6517
+D3
+As the cart track rises slowly towards a plateau, you see the crops
+change, adapting to the cooler mountain air.
+~
+~
+0 -1 6519
+S
+#6519
+The Plateau~
+   By the neatly laid out, well tended fields around you, you realize
+you have entered the heart of Gnomish farmland.  Mountain raspberries
+and strawberries abound, the red berries and lush green leaves giving
+the fields a Christmassy appearance.  West of here, across a few
+fields, you see a small neat farmhouse with a big red barn.  To the
+east, the cart track slowly descends through fertile farmlands.
+~
+64 0 0
+D1
+Down a gradual slope, through lovely green and gold fields, the cart
+track appears to run on endlessly.
+~
+~
+0 -1 6518
+D3
+Up ahead you can see a small farmhouse, a large barn and a HUGE fence.
+~
+~
+0 -1 6520
+S
+#6520
+The Gate~
+   A very tall gate bars the path west.  The gate is made of heavy
+planks of wood, with a steel latch about a third of the way up.  The
+gate is very large and must be very heavy, but the hinges at one side
+appear to be high quality, well-oiled steel.
+~
+64 c 0
+D1
+A cart track leads through fields of raspberries and strawberries.
+~
+~
+0 -1 6519
+D3
+A very heavy, very solid gate was designed to keep you out of the farm
+... or to keep the farmers in.  Which one?  It does not appear to lock.
+~
+gate~
+1 -1 6521
+S
+#6521
+The Gnome Home~
+   A small whitewashed house sits just south of the track, the door
+covered with paintings of small hands in all colors and varying sizes.
+Well washed windows flank the door, one on each side, and a small brick
+chimney sitting atop the house pours woodsmoke into the sky.  Everything
+is on a small scale, suited for a human child of perhaps 8.
+~
+64 0 0
+D1
+A narrow cart track runs east and west.  To the east lies an enormous
+gate and fields of berries.
+~
+gate~
+1 -1 6520
+D2
+The door to the house has a big brass knob.
+~
+door~
+0 -1 6522
+D3
+The cart track continues for a short ways, ending in a very large barn,
+painted a bright red.
+~
+~
+0 -1 6526
+S
+#6522
+Inside the Gnome Farmhouse (GnomeHome)~
+   A warm cheery fire (perfect for storytelling) burns in a huge red
+brick fireplace.  In front of the fireplace, over the shiny wooden
+floor, sits a thick braided rug.  In one corner, on some shelves firmly
+attached to the wall, there are sets of carding combs and a large jar
+labeled "yak fur shampoo".  Huge baskets of yak hair in all colors sit
+around the room.
+~
+64 0 0
+D0
+The entrance to this little house is the door in the north wall of the
+house.
+~
+door~
+1 -1 6521
+D2
+An open archway leads south to a kitchen.  Wonderful smells are coming
+from that kitchen.
+~
+~
+0 -1 6523
+S
+#6523
+Cookie Kitchen~
+   The large warm kitchen is a favorite room for the gnomes.  Here they
+cook up their wild experiments and their wildberry cookies.  There is an
+oven large enough to cook a yak, a big sink for washing dishes, and a
+small cool pantry to keep fresh produce.  To the north lies their living
+room / storytelling room.  Rooms lie both east and west of here.
+~
+64 d 0
+D0
+Through the open archway to the north you can see the gnomes' living
+room and the door to the Great Outdoors.
+~
+~
+0 -1 6522
+D1
+A small door leads into another part of the house.
+~
+door
+~
+1 -1 6524
+D3
+Strange smells and noises come from the door west.
+~
+door
+~
+1 -1 6525
+S
+#6524
+Rows of Beds~
+   Rows of small beds line the walls in this room.  Unlike the others,
+this room is painted a cool soft dark blue, the color of night.  Small
+gnomes creep in here to sleep no matter what time of day.  The colors
+help to calm their active imaginations enough for them to sleep.  Their
+intense curiosity, constant wonder and industriousness often keep them
+awake.
+~
+64 d 0
+D3
+The lovely smells of a kitchen float in from the west.
+~
+door~
+1 -1 6523
+S
+#6525
+Gnome Playroom~
+   A large, open room, lined with glass-paned windows, this room is the
+Official Gnomish Playroom / Thinktank.  Large comfortable chairs and a
+long, low worktable fill the room.  Books on the arcane and unusual as
+well as the ordinary ("Jorge's Book of Bad Jokes") line the walls.  A
+few scorch marks and oddly colored stains show the results of
+experiments that did not quite work out.
+~
+64 d 0
+D1
+A small door leads to the kitchen area of the house.
+~
+door~
+1 -1 6523
+S     
+#6526
+The Big Red Barn~
+   One of the biggest barns you have EVER seen sits at the western end
+of the cart track.  Huge double doors stand wide open allowing you to
+peer inside.  The front of the barn has been heavily decorated with
+abstract but pleasing designs in bright colors.  The barn lies to the
+west, the farmhouse to the east.
+~
+64 c 0
+D1
+Down a deeply rutted cart track you can see a beautiful but smallish
+white farmhouse.
+~
+~
+0 -1 6521
+D3
+You can easily walk through the open barn doors into the vast, dim
+interior of the barn.
+~
+door~
+0 -1 6527
+S
+#6527
+Inside the Big Red Yak Barn~
+   This vast space, dimly lit by windows high up under the overhanging
+eaves of the barn, serves as winter housing and grain storage for the
+small herd of yaks that provides part of the farm's livelihood.  The
+yaks enjoy the adventure of travel up into the mountains, and they are
+able to carry some of the heavier equipment needed on a long journey.
+ 
+#GA large ring lies recessed in the ground.#N
+~
+64 d 0
+D0
+Large doors lead out to green pasture.
+~
+doors~
+1 -1 6528
+D1
+Large doors lead to a rutted cart track heading east.
+~
+door~
+1 -1 6526
+D2
+Large doors lead out to green pasture.
+~
+doors~
+1 -1 6529
+D3
+Large doors lead out to green pasture.
+~
+doors~
+1 -1 6530
+D5
+A trap door conceals a large storage area used to hide the gnomes'
+treasures from mountain bandits.  The ladder down has been removed,
+however, so there is no way to safely descend. 
+~
+trapdoor~
+1 -1 6531
+S
+#6528
+Green Pastures Filled with Yaks~
+    Deep, lushly green pastures roll on for as far as you can see,
+providing plenty of forage for the farm's small herd of yaks.  The yaks
+always know their way home to the barn, though, when they want their
+horns polished or their hair trimmed or combed.
+~
+64 0 1
+D0
+As far as you can see, the lush pasture continues.
+~
+~
+0 -1 6528
+D1
+As far as you can see, the lush pasture continues.
+~
+~
+0 -1 6528
+D2
+A big red barn looks back at you
+~
+door~
+1 -1 6527
+D3 
+As far as you can see, the lush pasture continues.
+~
+~
+0 -1 6528
+S
+#6529
+Green Pastures Filled with Yaks~
+    Deep, lushly green pastures roll on for as far as you can see,
+providing plenty of forage for the farm's small herd of yaks.  The yaks
+always know their way home to the barn, though, when they want their
+horns polished or their hair trimmed or combed.
+~
+64 0 1
+D0
+A big red barn stares back at you.
+~
+door~
+1 -1 6527
+D1
+As far as you can see, the lush pasture continues.
+~
+~
+0 -1 6528
+D2
+As far as you can see, the lush pasture continues.
+~
+~
+0 -1 6528
+D3 
+As far as you can see, the lush pasture continues.
+~
+~
+0 -1 6528
+S
+#6530
+Green Pastures Filled with Yaks~
+    Deep, lushly green pastures roll on for as far as you can see,
+providing plenty of forage for the farm's small herd of yaks.  The yaks
+always know their way home to the barn, though, when they want their
+horns polished or their hair trimmed or combed.
+~
+64 0 1
+D0
+As far as you can see, the lush pasture continues.
+~
+~
+0 -1 6528
+D1
+A big red barn sits squarely east of you.
+~
+door~
+1 -1 6527
+D2
+As far as you can see, the lush pasture continues.
+~
+~
+0 -1 6528
+D3 
+As far as you can see, the lush pasture continues.
+~
+~
+0 -1 1793
+S
+#6531
+Gnomish Treasure~
+   Your last thoughts as you fall into the pit filled with
+upward-pointing yak horns had probably best be kept to yourself.
+~
+64 bc 0
+D4
+If you are a REAL goddess, you'll just head right back up.
+~
+trapdoor~
+1 -1 6527
+S
+#6532
+The GnomeDome~
+   For as far as the human eye can see, the magical dome over the
+agricultural research station provides shelter from the weather and
+privacy from curious eyes.  All around you, small, pointy eared gnomes
+with charmingly ugly little faces tend flowers and plants of many odd
+varieties.  There appears to be a door leading west.
+~
+64 c 4
+D2
+The magnificent greenhouse continues south of here.
+~
+~
+0 -1 6509 
+D3
+A small wooden door leads west.~
+door wooden~
+0 -1 6533
+S
+#6533
+Sunflowers~
+   You need some sort of eye covering here, for the light is quite
+bright and the heat intense.  Hundreds, maybe even thousands of shining
+sunflower faces are turned in your direction, and seem to follow you
+wherever you go.
+~
+64 0 2
+D1
+A small (gnome-sized) wooden door painted white reflects the sunlight
+back at you.
+~
+~
+0 -1 6532
+D3
+Fields of bright, hot sunflowers line both sides of this path.  Doesn't
+look comfortable.
+~
+~
+0 -1 6534
+S
+#6534
+Sunflower Path~
+   Walking a long a narrow gap in a field of sunflowers, the heat and
+light of the plants beats down upon you like an iron club fresh from the
+forge.  The gnomes must all have green thumbs, for these sunflowers are
+thriving here.
+~
+64 0 2
+D1
+The narrow area between the two fields of sunflowers shines brightly in
+their light.~
+~
+0 -1 6533
+D2
+The bright light of the sunflowers dims in the distance.~
+~
+0 -1 6536
+D3
+The narrow area between the two fields of sunflowers shines brightly in
+their light.~
+~
+0 -1 6535
+S
+#6535
+Sunflower Path~
+   The radiant light from both huge fields of sunflowers leaves no place
+of shade or shadow.  The sunflowers lift their dark faces to the sun,
+bright yellow petals waving with pleasure.  The path between the fields
+continues westward for a small distance, coming to a stop at a tall
+fence.
+~
+64 0 2
+D1
+The bright faces of the sunflowers compete with the sun.~
+~
+0 -1 6534
+D3
+The bright fields of sunflowers stop abruptly by a tall fence.~
+~
+0 -1 6537
+S
+#6536
+Shade Trees~
+   Low, leafy trees spread long branches, inviting you to find shadows
+and cool comfort beneath them.  Remnants of cookies and ham sandwiches
+beneath some of the trees, and a long rope hanging from one of them hint
+that you may have stumbled on a picnic spot.  The path south is blocked
+by a stream.
+~
+64 c 4
+D0
+Bright fields of sunflowers warm you in their heat.~
+~
+0 -1 6534
+D4
+Just how strong are you?  The rope leads up ... up ... up ...~
+~
+0 -1 6538
+S
+#6537
+The Fence~
+   From north and south of you come the heat and light of a million
+sunflowers.  It is always summer in the sunflower field, the cycle of
+birth and death appears to have stopped here.  To the west is a very
+very tall, white painted fence.  A knothole in the fence is just about
+at the level of your eye.
+~
+64 c 4
+D1
+Bright fields of sunshine extend for some distance, terminating in an
+enormous structure made of some clear substance.~
+~
+0 -1 6535
+E
+knothole~
+You can see nothing but dark and cold with no sunshine.
+~
+S
+#6538
+Up a Swaying Rope~
+   The thick rope rises up and up and up to where it is tied to a sturdy
+branch in what, to a gnome, is a very tall tree.  As you climb the rope
+it gently swings to and fro over a narrow but apparently deep stream.
+Are you about to get a dunking ?
+~
+64 0 0
+D4
+Leafy green branches reach for the sky and so does your rope.~
+~
+0 -1 -1
+D5
+The rope is swaying rapidly, and the ground beneath you is replaced by
+water and again by ground in such rapid succession you may be sick to
+your stomach.~
+~
+0 -1 6540
+S  
+#6539
+Up a Swaying Rope~
+   The thick rope rises up and up and up to where it is tied to a sturdy
+branch in what, to a gnome, is a very tall tree.  As you climb the rope
+it gently swings to and fro over a narrow but apparently deep stream.
+Are you about to get a dunking ?
+~
+64 0 0
+D4
+Leafy green branches reach for the sky and so does your rope.~
+~
+0 -1 6539
+D5
+The rope is swaying rapidly, and the ground beneath you is replaced by
+water and again by ground in such rapid succession you may be sick to
+your stomach.~
+~
+0 -1 6536
+S
+#6540
+Intense Vegetation~
+   A narrow, deep cold stream runs east to west here in a rather lazy
+fashion.  It is just a bit too wide to jump over.  A long rope dangles
+down from a tree overhead, and to the south, thick vines, thorny bushes
+and intense vegetation appear to block your path.
+~
+64 0 0
+D2
+Intense vegetation and thick, thorny vines block the path south.~
+vegetation vines vine thorns~
+0 -1 -1
+D4
+A thick rope dangles just over your head.~
+~
+0 -1 6539
+S
+#6541
+Following a road in the mountains~
+   The mountain road whindles as it leads you through the mountainous
+terrain. Make sure you do not slip, a fall would be very disastrous.
+There seems to be a slight opening in the mountains east of here,
+perhaps it is a little valley. Why don't you have a look ?
+~
+64 0 5
+D1
+The mountain opens up.
+~
+~
+0 -1 6542
+D2
+A little road trails off.
+~
+~
+0 -1 6563
+S
+#6542
+A little field in the mountains~
+   You have reached a little field placed in the middle of the
+mountains.  This looks like a place in harmony. No risk of avalanches.
+The grass is green and even a few birds chirp happily in the
+surrounding. There is nothing wrong with this picture except the
+enormous chasm that opens up the mountain on the east side of the
+field. Perhaps you should stay here where you are in guaranteed safety.
+~
+64 eht 2
+D2
+A little house stands on the very verge of falling into the chasm.
+~
+~
+0 -1 6543
+D3
+A little road trails off.
+~
+~
+0 -1 6541
+S
+#6543
+A house at a chasm~
+   Standing directly on the very verge of falling into a huge chasm is a
+little house. It looks a bit shabby but it still stands there. This is a
+bit strange as two heavy ropes lead away from the house over the chasm
+to the other side.
+~
+64 0 2
+D0
+A little clearing looks rather inviting.
+~
+~
+0 -1 6542
+E
+chasm~
+ You now see how very large the chasm is. Very large. And there seems to
+be a very strange wind blowing in the chasm. Even if you grew wings it
+would not be possible to pass it in that manner. Just forget it.
+~
+E
+rope~
+ It leads to another similar house on the other side of the chasm.
+Perhaps those ropes can be used to take you over to the other side.
+~
+S
+#6544
+Standing in a basket inside a wooden house~
+   Ah, The house is a start on a ropeway over the chasm.
+The powerful ropes that go over the chasm will, probably, take you over
+safe. But you have to work for it. Incorporated in the bottom of the
+basket you are standing in is a treadmill. Walk in the opposite
+direction you came and the basket will take you over the chasm. Neat and
+simple.  The door has closed behind you, so start walking.
+~
+64 diuA 0
+D3
+You are not going this way, especially if you try.
+~
+~
+0 -1 6545
+E
+basket~
+ The basket is woven tightly together by the same kind of rope as the
+rope that carries you. How the rope weaver was able to get the treadmill
+into the floor is beyond your ability to comprehend.
+~
+E
+treadmill~
+ Fascinating. Start walking or you will hang here forever...
+~
+S
+#6545
+Hanging in a basket over a chasm~
+   The basket is swaying considerably, mostly due to the fact that you
+are or were walking around in it and only a little part due to the fact
+that a terrible storm roars just a few feet away from you. It seems that
+the basket is protected in some kind of safe pocket. You are still not
+over so keep on walking or the wind just might get closer...
+~
+64 Aiu 10
+D3
+Where you came from and where you are not going.
+~
+~
+0 -1 6546
+E
+wind pocket~
+ There has got to be some kind of magic involved  in this, the wind
+roars and your little carriage is almost totally unaffected. Perhaps
+this is used as some kind of limitation to how many and what kind of
+guests that should be allowed to pass over.
+~
+E
+chasm~
+ Hmmmmm...
+It is deep, so very deep. But was not there something gleaming down
+there?
+
+Hmmmmm...
+~
+E
+darkness gleaming gleam~
+ Darkness should not be gleaming. There is definitely something wrong
+with this place. That depth need to be further investigated but where
+can one descent safely. Not here for sure. Maybe a long ladder would
+help...
+~
+S
+#6546
+Hanging in a basket over a chasm~
+   The basket is swaying considerably, mostly due to the fact that you
+are or were walking around in it and only a little part due to the fact
+that a terrible storm roars just a few feet away from you. It seems that
+the basket is protected in some kind of safe pocket. You are still not
+over so keep on walking or the wind just might get closer...
+~
+64 Aiu 10
+D3
+Where you came from and where you are not going.
+~
+~
+0 -1 6547
+E
+wind pocket~
+ There has got to be some kind of magic involved in this, the wind roars
+and your little carriage is almost totally unaffected. Perhaps this is
+used as some kind of limitation to how many and what kind of guests that
+should be allowed to pass over.
+~
+E
+chasm~
+ Hmmmmm...
+It is deep, so very deep. But was not there something gleaming down
+there?
+
+Hmmmmm...
+~
+E
+darkness gleaming gleam~
+ Darkness should not be gleaming. There is definitely something wrong
+with this place. That depth needs to be further investigated but where
+can one descend safely? Not here for sure. Maybe a long ladder would
+help...
+~
+S
+#6547
+Hanging in a basket over a chasm~
+   The basket is swaying considerably, mostly due to the fact that you
+are or were walking around in it and only a little part due to the fact
+that a terrible storm roars just a few feet away from you. It seems that
+the basket is protected in some kind of safe pocket. You are still not
+over so keep on walking or the wind just might get closer...
+~
+64 Aiu 10
+D3
+Where you came from and where you are not going.
+~
+~
+0 -1 6552
+E
+wind pocket~
+ There has got to be some kind of magic involved in this, the wind roars
+and your little carriage is almost totally unaffected. Perhaps this is
+used as some kind of limitation to how many and what kind of guests that
+should be allowed to pass over.
+~
+E
+chasm~
+ Hmmmmm...
+It is deep, so very deep. But was not there something gleaming down
+there?
+
+Hmmmmm...
+~
+E
+darkness gleaming gleam~
+ Darkness should not be gleaming. There is definitely something wrong
+with this place. That depth needs to be further investigated but where
+can one descend safely? Not here for sure. Maybe a long ladder would
+help...
+~
+S
+#6548
+Hanging in a basket over a chasm~
+   The basket is swaying considerably, mostly due to the fact that you
+are or were walking around in it and only a little part due to the fact
+that a terrible storm roars just a few feet away from you. It seems that
+the basket is protected in some kind of safe pocket. You are still not
+over so keep on walking or the wind just might get closer...
+~
+64 Aiu 10
+D1
+Where you came from and where you are not going.
+~
+~
+0 -1 6549
+E
+wind pocket~
+ There has got to be some kind of magic involved in this, the wind roars
+and your little carriage is almost totally unaffected. Perhaps this is
+used as some kind of limitation to how many and what kind of guests that
+should be allowed to pass over.
+~
+E
+chasm~
+ Hmmmmm...
+It is deep, so very deep. But was not there something gleaming down
+there?
+
+Hmmmmm...
+~
+E
+darkness gleaming gleam~
+ Darkness should not be gleaming. There is definitely something wrong
+with this place. That depth needs to be further investigated but where
+can one descend safely? Not here for sure. Maybe a long ladder would
+help...
+~
+S
+#6549
+Hanging in a basket over a chasm~
+   The basket is swaying considerably, mostly due to the fact that you
+are or were walking around in it and only a little part due to the fact
+that a terrible storm roars just a few feet away from you. It seems that
+the basket is protected in some kind of safe pocket. You are still not
+over so keep on walking or the wind just might get closer...
+~
+64 Aiu 5
+D1
+Where you came from and where you are not going.
+~
+~
+0 -1 6550
+E
+wind pocket~
+ There has got to be some kind of magic involved in this, the wind roars
+and your little carriage is almost totally unaffected. Perhaps this is
+used as some kind of limitation to how many and what kind of guests that
+should be allowed to pass over.
+~
+E
+chasm~
+ Hmmmmm...
+It is deep, so very deep. But was not there something gleaming down
+there?
+
+Hmmmmm...
+~
+E
+darkness gleaming gleam~
+ Darkness should not be gleaming. There is definitely something wrong
+with this place. That depth needs to be further investigated but where
+can one descend safely? Not here for sure. Maybe a long ladder would
+help...
+~
+S
+#6550
+Hanging in a basket over a chasm~
+   The basket is swaying considerably, mostly due to the fact that you
+are or were walking around in it and only a little part due to the fact
+that a terrible storm roars just a few feet away from you. It seems that
+the basket is protected in some kind of safe pocket. You are still not
+over so keep on walking or the wind just might get closer...
+~
+64 Aiu 5
+D1
+Where you came from and where you are not going.
+~
+~
+0 -1 6553
+E
+wind pocket~
+ There has got to be some kind of magic involved in this, the wind roars
+and your little carriage is almost totally unaffected. Perhaps this is
+used as some kind of limitation to how many and what kind of guests that
+should be allowed to pass over.
+~
+E
+chasm~
+ Hmmmmm...
+It is deep, so very deep. But was not there something gleaming down
+there?
+
+Hmmmmm...
+~
+E
+darkness gleaming gleam~
+ Darkness should not be gleaming. There is definitely something wrong
+with this place. That depth needs to be further investigated but where
+can one descend safely? Not here for sure. Maybe a long ladder would
+help...
+~
+S
+#6551
+Standing in a basket inside a wooden house~
+   Ah, The house is a start on a ropeway over the chasm.
+The powerful ropes that go over the chasm will, probably, take you over
+safe. But you have to work for it. Incorporated in the bottom of the
+basket you are standing in is a treadmill. Walk in the opposite
+direction you came and the basket will take you over the chasm.
+Neat and simple.  The door has closed behind you so you better
+start walking.
+~
+64 cAiu 0
+D1
+You are not going this way, especially if you try.
+~
+~
+0 -1 6548
+E
+basket~
+ The basket is woven tightly together by the same kind of rope as the
+rope that carries you. How the rope weaver was able to get the treadmill
+into the floor is beyond your ability to comprehend.
+~
+E
+treadmill~
+ Fascinating. Start walking or you will hang here forever...
+~
+S
+#6552
+Back in a house at the chasm edge~
+   The basket comes in inside a house again. Easy as it completely lacks
+the walls towards the chasm. How does it manage to stand, mysterious.
+Well now you have two options:   Either jump 'ashore' or start walking
+on another trip. You have paid for unlimited travel as long as you
+ticket lasts so why not take another spin?
+~
+64 cAiu 0
+D0
+You have to walk this way to get out on the ropeway again.
+~
+~
+0 -1 6548
+D5
+A relative safety on the ground.
+~
+~
+0 -1 6554
+E
+wall~
+ One gone - three to go. When will this shabby pile of rubble called
+house fall down? The world is full of unanswered questions. You did not
+even know that I was watching, did you ? ....   Mooaahaahaaaaaaaaaaa !!!
+~
+S
+#6553
+Back in a house at the chasm edge~
+   The basket comes in inside a house again. Easy as it completely lacks
+the walls towards the chasm. How does it manage to stand, mysterious.
+Well now you have two options either jump 'ashore' or start walking on
+another trip. You have paid for unlimited travel as long as your ticket
+lasts so why not take another spin.
+~
+64 cAiu 0
+D2
+You have to walk this way to get out on the ropeway again.
+~
+~
+0 -1 6545
+D5
+Relative safety on the ground.
+~
+~
+0 -1 6543
+E
+wall~
+ One gone - three to go. When will this shabby pile of rubble called
+house fall down? The world is full of unanswered questions. You did not
+even know that I was watching, did you ? ....   Mooaahaahaaaaaaaaaaa !!!
+~
+S
+#6554
+A house at a chasm~
+   You are standing next to a house on the very edge of a huge chasm. It
+looks really shabby but it stands, even though two strong ropes seem to
+drag it into the open mountain. Around the house is a little grassy
+field stuffed in between the huge mountains. A small path trails of east
+through the grass.
+~
+64 0 2
+D1
+A small path trails off towards the mountains.
+~
+~
+0 -1 6555
+S
+#6555
+A grassy field in the mountains~
+   You have reached a little field in the mountains, but it does not
+look as harmonious as one could think or hope. The grass has some
+greyish stuff on it that stains your feet when you touch it and on one
+of the sides of the field a huge chasm opens up apparently tearing a
+house apart.  A little path leads up into the mountains and west to the
+house.
+~
+64 0 2
+D3
+A little house awaits your arrival to fall into the chasm.
+~
+~
+0 -1 6554
+D4
+A winding path takes you up, up and up.
+~
+~
+0 -1 6556
+S
+#6556
+On a mountain path~
+   The path whindles up and down, up and down, but it looks used. You see
+the fine grain dust that covers the path. There have to be some places
+that this path connects. Keep walking in either direction and you just
+might get there. Below you a little field opens up on the mountainside
+while the path continues north into a more mountainous terrain.
+~
+64 0 5
+D0
+A little path takes you through the mountains.
+~
+~
+0 -1 6557
+D5
+A small field in the mountains awaits your presence.
+~
+~
+0 -1 6555
+S
+#6557
+On a mountain path~
+   The path winds up and down, up and down, but it looks used. You see
+the fine grain dust that covers the path. There have to be some places
+that this path connects. Keep walking in either direction and you just
+might get there. The path seems as endless as the mountainside you have
+beside you. More mountainous terrain awaits you south and east.
+~
+64 0 5
+D1
+A little path takes you through the mountains.
+~
+~
+0 -1 6558
+D2
+A little path takes you through the mountains.
+~
+~
+0 -1 6556
+S
+#6558
+On a mountain path~
+   The path winds up and down, up and down, but it looks used. You see
+the fine grain dust that cover the path. There have to be some places
+that this path connects. Keep walking in either direction and you just
+might get there. The path seems as endless as the mountainside you have
+beside you. More mountainous terrain await you west and north.
+~
+64 0 5
+D0
+A little path takes you to the mountain.
+~
+~
+0 -1 6559
+D3
+A little path takes you through the mountains.
+~
+~
+0 -1 6557
+S
+#6559
+On a mountain path~
+   The whindling mountain path ends here or starts here depending on if
+you came travelling down or from the south, shifting over into a set of
+stairs. The stairs look really clean, either it is used a lot or
+someone sacrifices a good deal of work and time to keep it clean.
+~
+64 0 5
+D2
+A little path takes you through the mountains.
+~
+~
+0 -1 6558
+D4
+A loooooooong stairwell.
+~
+~
+0 -1 6560
+S
+#6560
+A long stairwell in the mountains~
+   The steps are somewhat low to make climbing them easy. It is clearly
+noticeably that you are in dwarven territory. The well tidied steps go
+up and down from here. Below you the lower end of the stairs is visible.
+~
+64 0 5
+D4
+An even loooooooonger stairwell.
+~
+~
+0 -1 6561
+D5
+A loooooooong stairwell ends.
+~
+~
+0 -1 6559
+S
+#6561
+A long stairwell in the mountains~
+   The steps are somewhat low to make climbing them easy. It is clearly
+noticeably that you are in dwarven territory. The well tidied steps go
+up and down from here. Above you the upper end awaits your arrival.
+~
+64 0 5
+D4
+A loooooooong stairwell ends.
+~
+~
+0 -1 6562
+D5
+An even loooooooonger stairwell.
+~
+~
+0 -1 6560
+S
+#6562
+Top of some mountain stairs~
+   A fine little road surrounded by some bushes leads you between the top
+of some stairs cut out directly from the mountain and something east of
+here engulfed in some terrible greyish fog.
+~
+64 0 5
+D1
+A big grey road goes towards the grey entrance of some huge grey
+complex.
+~
+~
+0 -1 13110
+D5
+A loooooooong stairwell.
+~
+~
+0 -1 6561
+S
+#6563
+Following a road in the mountains~
+   The mountain road winds as it leads you through the mountainous
+terrain. Make sure you do not slip a fall would be very disastrous. The
+road goes north and west. Pick one or enjoy the view and the fresh air.
+~
+64 0 5
+D0
+You see little road trail off.
+~
+~
+0 -1 6541
+D3
+A little bushed road leads away.
+~
+~
+0 -1 6436
+E
+view~
+ Marvellous stone and sky make for a magnificent panorama for you to
+enjoy.
+~
+S
+#6564
+Chute for walking guards~
+   Takes them in to places between mill entrance and chasm 6554-6562~
+64 0 0
+D0
+~
+~
+0 -1 6554
+D1
+~
+~
+0 -1 6557
+D2
+~
+~
+0 -1 6560
+D3
+~
+~
+0 -1 6562
+S
+#6570
+The Start of the Old Trail up the Mountains~
+   You are standing at the base of the Moria mountains. A half cleared
+trail leads up the mountains to the north. To the south a trail leads
+back to Midgaard. Far to the west you can see the river flowing into the
+mountain and to the east you see the large forest of Namir. A large sign
+has been placed on a pole here.
+~
+64 c 4
+D0
+~
+~
+0 -1 6571
+D2
+~
+~
+0 -1 23013
+E
+sign pole~
+The sign reads
+North, Old Trail to the Dwarven mines.
+South, Trail to the city of Midgaard.
+~
+S
+#6571
+Old Trail up the Mountain~
+   You are on a half cleared mountain trail. You are walking between
+high cliffs and large rocks. The trail makes its way upward to the north
+and to the south it goes down to the base of the mountain.
+~
+64 0 5
+D0
+~
+~
+0 -1 6572
+D2
+~
+~
+0 -1 6570
+S
+#6572
+Old Trail up the Mountain~
+   You are walking on a old trail up the mountain. Large rocks and
+cliffs surround you on both sides. The trail continues up to the north 
+and down to the south.
+~
+64 0 5
+D0
+~
+~
+0 -1 6573
+D2
+~
+~
+0 -1 6571
+S
+#6573
+Old Trail up the Mountain~
+   You have almost reached the top of the mountain. To the south you see
+the forest of Namir. If you look very closely to the south-west you can
+see the city of Midgaard. The trail continues up to the north and down
+to the south.
+~
+64 l 5
+D0
+~
+~
+0 -1 6574
+D1
+~
+~
+0 -1 27800
+D2
+~
+~
+0 -1 6572
+S
+#6574
+Old Trail up the Mountain~
+   You are walking on a trail going up the mountain. Further ahead the
+trail makes a turn around a large cliff. If you walk north you will go
+around this rock and if you walk south you will go down the mountain to
+its base.
+~
+64 0 5
+D0
+~
+~
+0 -1 9800
+D2
+~
+~
+0 -1 6573
+S
+#6599
+The Hidden Room~
+   In a small, dark space lit only by a cheery magical fire, a troop of
+gnomes swap tales in a storytelling contest.  The smokeless fire has
+burned the same logs for many long years, and the outside world seems
+far away.  There is a magical quality about this room, and it seems easy
+to forget that there IS a world outside this one.
+~
+64 0 5
+D1
+The rough-hewn planks seem to fit together poorly.
+~
+planks~
+1 -1 6441
+E
+contest storytelling gnomes lost~
+Many years ago, the group left their yak farm on the plateau to help
+their friends the dwarves.  Iron ore production was down, and the gnomes
+relied on the fine plow-heads made by the dwarves, so there was a bit of
+self-interest as well.  Once the gnomes had created and installed a
+system of pulleys to help harvest the ore, they retreated to this small
+cottage for a story-telling competition, the prize to be possession of
+an enormous jar of cookies.  They have been here ever since.  No gnome
+can resist the lure of a good story.
+~
+S
+#99999
+$~

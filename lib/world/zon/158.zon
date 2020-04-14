@@ -1,0 +1,39 @@
+#158
+Kurrelgyres PK Arena~
+15899 100 2
+* zone file by amok
+* The three numbers above. One is the end of the zone. This is
+* often set to 15899 to get around any possible problems caused
+* by adding new rooms.
+* The second number is the reset time - 100zone ticks is approx
+* 40 regular ticks - about 1hr i think..its hard to tell.
+* The final number is most important - the reset mode:
+* It can be set to 0 - zone does not reset
+*                  1 - zone only resets when empty
+*                  2 - zone always resets when timer reaches reset time.
+*
+ O 0 3082 100 15849 * Loads the Arena Board in to the specators gallery
+*
+D 0 15801 1 1			* Middle Level Of the Arena - South Close East
+D 0 15802 3 1			* Middle Level of the Arena - South Close West
+D 0 15804 3 1			* Middle Level of the Arena - Central Close East
+D 0 15805 0 1			* Middle Level of the Arena - SouthWest Corner Close North
+D 0 15805 1 1			* Middle Level of the Arena - SouthWest Corner Close East
+D 0 15806 1 1			* Middle Level of the Arena - Central Edge Close West
+D 0 15806 3 1			* Middle Level of the Arena - Central Edge Close East
+D 0 15807 0 1			* Middle Level of the Arena - Central Close North
+D 0 15809 0 1			* Middle Level of the Arena - NorthEast Corner Close South
+D 0 15809 1 1			* Middle Level of the Arena - Central Close East
+D 0 15810 0 1			* Middle Level of the Arena - Central Edge Close North
+D 0 15812 3 1			* Middle Level of the Arena - North Close West
+D 0 15813 1 1			* Middle Level of the Arena - North Close East
+D 0 15814 2 1			* Middle Level of the Arena - North Close South
+D 0 15814 3 1			* Middle Level of the Arena - North Close West
+D 0 15808 2 1			* Middle Level of the Arena - Central Edge Close South
+D 0 15815 1 1			* Middle Level of the Arena - NorthWest Corner Close East
+D 0 15827 0 1			* Arena Catacombs - North Close North
+D 0 15847 0 1			* A Hidden Alcove on the Middle Level Close North
+*
+S
+#99999
+$~

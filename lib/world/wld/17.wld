@@ -1,0 +1,1828 @@
+#1701
+Entrance to Gnome Village~
+   You stand on a dusty path that leads east and west. To the east you 
+hear the sounds of a small village.  A large forest stands to the north,
+and to the south you see a large field.
+~
+17 4 2
+D1 
+~
+~
+0 -1 1702
+D3
+~
+~
+0 -1 557
+S
+#1702
+A Dusty Path~
+   This is a path leading into the village. It continues east and west 
+and there is a small gnome tavern to the north. 
+~
+17 0 1
+D0
+You see a small house. 
+~
+~
+0 -1 1709
+D1
+You see a road. 
+~
+~
+0 -1 1703
+D3
+You see a path. 
+~
+~
+0 -1 1701
+S
+#1703
+A Small Square~
+   This little square is the center of the gnome village. At the center
+of the square you see a small fountain filled with water. Roads run 
+north and south, an old dusty path leads out of the village to the east.
+~
+17 0 1
+D0
+You see a road. 
+~
+~
+0 -1 1705
+D1
+You see a path. 
+~
+~
+0 -1 1704
+D2
+You see a road. 
+~
+~
+0 -1 1707
+D3
+You see a road. 
+~
+~
+0 -1 1702
+S
+#1704
+A Dusty Path~
+   You are on a dusty path on the far side of the village. Houses are 
+to the north and south, while the path continues east. There is a sign 
+here. 
+~
+17 0 1
+D0
+You see a house. 
+~
+~
+0 -1 1712
+D1
+You see a path. 
+~
+~
+0 -1 1759
+D2
+You see a house. 
+~
+~
+0 -1 1713
+D3
+You see a road. 
+~
+~
+0 -1 1703
+S
+#1705
+A Road in the Village~
+   This road runs north and south through the center of the village. 
+There are a few people moving around, but not many. To the west lies 
+the gnome bakery. 
+~
+17 0 1
+D0
+You see a road. 
+~
+~
+0 -1 1706
+D1
+You see a house. 
+~
+~
+0 -1 1711
+D2
+You see a road. 
+~
+~
+0 -1 1703
+D3
+You see a house. 
+~
+~
+0 -1 1710
+S
+#1706
+A Road in the Village~
+   This road runs north and south through the center of the village. 
+There are a few people moving around, but not many. To the west you 
+see the gnome post office.
+~
+17 0 1
+D0
+You see a road. 
+~
+~
+0 -1 1726
+D2
+You see a road. 
+~
+~
+0 -1 1705
+D3
+You see the Post office.
+~
+~
+0 -1 1792
+S
+#1707
+A Road in the Village~
+   This road runs north and south through the center of the village. 
+There are a few people moving around, but not many. To the east you 
+can see the gnome magic shop and to the west you can see the gnome 
+general store. 
+~
+17 0 1
+D0
+You see a road. 
+~
+~
+0 -1 1703
+D1
+You see a shop
+~
+~
+0 -1 1791
+D2
+You see a road. 
+~
+~
+0 -1 1708
+D3
+You see a shop. 
+~
+~
+0 -1 1714
+S
+#1708
+A Road in the Village~
+   This road runs north and south through the center of the village. 
+There are a few people moving around, but not many. To the east you see 
+the gnome armor shop and to the west you see the gnome weapon shop. 
+~
+17 0 1
+D0
+You see a road. 
+~
+~
+0 -1 1707
+D1
+You see a shop. 
+~
+~
+0 -1 1716
+D2
+You see a small path. 
+~
+~
+0 -1 1717
+D3
+You see a shop. 
+~
+~
+0 -1 1715
+S
+#1709
+A Small Gnome Tavern~
+   This is a small gnome tavern the walls are made from quality wood. 
+You can see the expert workmanship that went into making it, but it 
+lacks creativity. Along the walls stand large tables filled with 
+people eating and drinking. In the north-east corner you see the 
+bartender washing some glasses. It is an old gnome not taller than 4 
+feet.  Behind him stairs lead up to the private rooms on the second 
+floor. 
+~
+17 d 0
+D2
+You see a path. 
+~
+~
+0 -1 1702
+D4
+The way up is solidly blocked by the bar gnome, who frowns to see you
+staring at the stairs.
+~
+~
+0 -1 -1
+S
+#1710
+The Bakery~
+   You are standing inside the small bakery. A sweet scent of freshly
+baked bread fills the room. The bread is arranged in fine order on the 
+shelves, and seems to be of the best quality. 
+~
+17 d 0
+D1
+You see a path. 
+~
+~
+0 -1 1705
+S
+#1711
+A Small Gnome House~
+   This is a small suburban house made from quality wood. You 
+can see the expert workmanship that went into making it, but it 
+lacks creativity. 
+~
+17 d 0
+D3
+You see a path. 
+~
+~
+0 -1 1705
+S
+#1712
+A Small Gnome House~
+   This is a small suburban house made from quality wood. You 
+can see the expert workmanship that went into making it, but it 
+lacks creativity. 
+~
+17 d 0
+D2
+You see a path. 
+~
+~
+0 -1 1704
+S
+#1713
+A Small Gnome House~
+   This is a small suburban house made from quality wood. You 
+can see the expert workmanship that went into making it, but it 
+lacks creativity. 
+~
+17 d 0
+D0
+You see a path. 
+~
+~
+0 -1 1704
+S
+#1714
+A Gnome General Store~
+   You are in one of the several shops of this fine town. The wares 
+look fine. Lots of odd stuff can be seen all around in the shop. 
+~
+17 d 0
+D1
+You see a road. 
+~
+~
+0 -1 1707
+S
+#1715
+A Gnome Weapon Shop~
+   You are in one of the several shops of this fine town. The wares 
+look fine. Lots of odd weapons can be seen all around in the shop.
+~
+17 d 0
+D1
+You see a road. 
+~
+~
+0 -1 1708
+S
+#1716
+A Gnome Armor Shop~
+   You are in one of the several shops of this fine town. The wares 
+look fine. Lots of odd armors can be seen all around in the shop. 
+~
+17 d 0
+D3
+You see a road. 
+~
+~
+0 -1 1708
+S
+#1717
+Path by a Stream~
+   You are on a small path leading north and west that is surrounded 
+on the other two sides by a small stream. The water looks mighty cold. 
+~
+17 4 2
+D0
+You see a road. 
+~
+~
+0 -1 1708
+D2
+You see the stream. 
+~
+~
+0 -1 1720
+D3
+You see a small path. 
+~
+~
+0 -1 1718
+E
+stream~
+The stream is pretty small, but it looks too cold to swim.
+~
+S
+#1718
+Path by a Stream~
+   You are on a small east-west path. The path shows new grass, as if 
+nognome has walked on it recently. A river is to the south, and a small
+hut is to the west. 
+~
+17 0 2
+D1
+You see a small path. 
+~
+~
+0 -1 1717
+D2
+You see the stream. 
+~
+~
+0 -1 1721
+D3
+You see a small hut that is starting to fall apart. 
+~
+~
+0 -1 1719
+E
+stream~
+The stream is pretty small, but it looks too cold to swim.
+~
+E
+hut~
+The hut looks well built, but it seems to have taken some damage.
+~
+S
+#1719
+A Small Hut~
+   The hut is a mess! Blood has stained the grass walls into a dark rich
+crimson color. Torn clothes and trash lie all around, and you think you 
+see a skeleton in the corner. 
+~
+17 d 0
+D1
+You see a small path. 
+~
+~
+0 -1 1718
+E
+skeleton~
+The skeleton still has a little flesh clinging to it and it is 
+definitely humanoid.  The skull has been cracked open, but it is 
+otherwise undamaged, except by time.
+~
+S
+#1720
+On the Stream~
+   The stream is cold and frigid, yet it supports plenty of life 
+beneath its surface. The current trickles west and there is a 
+field to the south. 
+~
+17 0 7
+D0
+You see a small path. 
+~
+~
+0 -1 1717
+D2
+You see a grassy field. 
+~
+~
+0 -1 1722
+D3
+You see a small stream. 
+~
+~
+0 -1 1721
+S
+#1721
+On the Stream~
+   The current here flows from the east, but a logjam blocks you from
+continuing onward. 
+~
+17 0 7
+D0
+You see a small path. 
+~
+~
+0 -1 1718
+D1
+You see a small stream. 
+~
+~
+0 -1 1720
+D2
+The pool created by the logjam has spread south.
+~
+~
+0 -1 1772
+S
+#1722
+The Field of Mice Dreams~
+   This is a large green field of waist high grass. You feel something 
+scurry over your feet. There is a cave to the east. 
+~
+17 0 2
+D0
+You see a small stream. 
+~
+~
+0 -1 1720
+D1
+You see a dark mysterious cave. 
+~
+~
+0 -1 1723
+D2
+The island is bounded by a cold stream to the south.
+~
+~
+0 -1 1773
+S
+#1723
+The Dark Cave~
+   The cave gleams as your light reflects off of it. As you squint your 
+eyes and try to look ahead, you think you see something move. 
+~
+17 1 3
+D0
+~
+~
+0 -1 1724
+D3
+You see a grassy field. 
+~
+~
+0 -1 1722
+S
+#1724
+Darker Cave~
+   The cave gets even darker as your terror grows stronger. You fear 
+for your life as something emerges out of the shadows. 
+~
+17 1 3
+D2
+~
+~
+0 -1 1723
+S
+#1726
+A Dusty Path~
+   You are on a well traveled path that leads in many directions. To 
+the north is a large house, to the west is a fortress and to the east 
+lies the fields of training. 
+~
+17 4 1
+D0
+You see a large white house. 
+~
+~
+0 -1 1758
+D1
+You see a large grass field.
+~
+~
+0 -1 1764
+D2
+You see a road. 
+~
+~
+0 -1 1706
+D3
+You see the gateway to a large fortress. 
+~
+~
+0 -1 1727
+E
+fortress~
+The fortress is a large gnome stronghold to defend the city.
+~
+S
+#1727
+The Iron Gateway~
+   You stand at the entrance to the gnome fortress. The place seems to 
+be well fortified. 
+~
+17 0 1
+D1
+You see a small path. 
+~
+~
+0 -1 1726
+D3
+You see a long hallway. 
+~
+~
+0 -1 1728
+S
+#1728
+A Long Hallway~
+   You are now inside the fortress; you are lucky that the guards
+haven't killed you. As you glance around, you notice that the walls and 
+floors are spotlessly clean. The barracks are to the north and a 
+storage room is to the south. 
+~
+17 d 0
+D0
+You see the barracks. 
+~
+~
+0 -1 1730
+D1
+You see the gateway. 
+~
+~
+0 -1 1727
+D2
+You see a storage room. 
+~
+~
+0 -1 1732
+D3
+You see a long hallway. 
+~
+~
+0 -1 1729
+S
+#1729
+A Long Hallway~
+   You are now inside the fortress; you are lucky that the guards
+haven't killed you. As you glance around, you notice that the walls 
+and floors are spotlessly clean. A mess hall is to the south. 
+~
+17 d 0
+D1
+You see a long hallway. 
+~
+~
+0 -1 1728
+D2
+You see the mess hall. 
+~
+~
+0 -1 1734
+D3
+You see a small room. 
+~
+~
+0 -1 1735
+S
+#1730
+The Barracks~
+   You now stand in the sleeping quarters of the gnome guards. Every 
+bed is made perfectly, and not a single article of clothing is on 
+the floor. There is a small storage room to the east. 
+~
+17 d 0
+D1
+You see a small storage room. 
+~
+~
+0 -1 1731
+D2
+You see a long hallway. 
+~
+~
+0 -1 1728
+S
+#1731
+A Small Storage Room~
+   This is where the gnomes store all their spare clothing and armor. 
+There is not much here, but you might come up with something. 
+~
+17 d 0
+D3
+You see the barracks. 
+~
+~
+0 -1 1730
+S
+#1732
+A Small Storage Room~
+   This is where the gnomes store all their spare weapons. A door leads 
+off to the east. 
+~
+17 d 0
+D0
+You see a long hallway. 
+~
+~
+0 -1 1728
+D1
+You see a small room. 
+~
+~
+0 -1 1733
+S
+#1733
+A Small Storage Room~
+   This is yet another room for storing gnome stuff. Maps and battle 
+plans are stored in neat stacks on the shelves. 
+~
+17 d 0
+D3
+You see a small room. 
+~
+~
+0 -1 1732
+S
+#1734
+The Mess Hall~
+   You are in the room where the guards come to get their grub. The 
+benches and tables are neatly cleaned and straightened, while shiny 
+plates line the walls. 
+~
+17 d 0
+D0
+You see a long hallway. 
+~
+~
+0 -1 1729
+S
+#1735
+A Small Room~
+   This is a small plain room. Its only interesting feature is a ladder 
+down. 
+~
+17 d 0
+D1
+You see a long hallway. 
+~
+~
+0 -1 1729
+D5
+You see darkness. 
+~
+~
+0 -1 1736
+S
+#1736
+A Small Unused Room~
+   You stand in a small room in an unused section of the fortress. The 
+whole room is coated with dust and cobwebs. The ladder leads back up, 
+and a rusty door is to the east. 
+~
+17 d 1
+D1
+You see a rusty door. 
+~
+rusty door~
+1 1700 1737
+D4
+You see a small room. 
+~
+~
+0 -1 1735
+S
+#1737
+Dark Hallway~
+   You find yourself in a very old section of the fortress. You must be 
+the first person to pass through here in years. The hallway continues 
+south and a door leads off to the east. 
+~
+17 d 2
+D1
+~
+~
+0 -1 1738
+D2
+~
+~
+0 -1 1739
+D3
+You see a rusty door. 
+~
+door~
+2 1700 1736
+S
+#1738
+Torture Chamber~
+   This is a room that was once used to extract lies out of helpless 
+victims. The machines look unused, but could still work. 
+~
+17 d 2
+D3
+~
+~
+0 -1 1737
+E
+machine~
+The machine consists of a large rack with winches on each end.  You can 
+almost feel them pulling your arms out of their sockets.
+~
+S
+#1739
+Dark Hallway~
+   The hall continues in a north-south direction. The floor is coated 
+with some kind of molded slime. Doors lead east and west. 
+~
+17 d 2
+D0
+~
+~
+0 -1 1737
+D1
+~
+~
+0 -1 1742
+D2
+~
+~
+0 -1 1740
+D3
+~
+~
+0 -1 1741
+S
+#1740
+Dark Hallway~
+   The hall continues in a north-south direction. The floor is coated 
+with some kind of molded slime. Doors lead east and west. 
+~
+17 d 2
+D0
+~
+~
+0 -1 1739
+D1
+~
+~
+0 -1 1744
+D2
+~
+~
+0 -1 1743
+D3
+~
+~
+0 -1 1745
+S
+#1741
+Prison Cell~
+   You are in a dark and nasty prison cell. Bodies lying on the floor 
+give off an unbearable stench. 
+~
+17 d 2
+D1
+~
+~
+0 -1 1739
+S
+#1742
+Prison Cell~
+   You are in a dark and nasty prison cell. Bodies lying on the floor 
+give off an unbearable stench. 
+~
+17 d 2
+D3
+~
+~
+0 -1 1739
+S
+#1743
+Prison Cell~
+   You are in a dark and nasty prison cell. Bodies lying on the floor 
+give off an unbearable stench. 
+~
+17 d 2
+D0
+~
+~
+0 -1 1740
+S
+#1744
+Prison Cell~
+   You are in a dark and nasty prison cell. Bodies lying on the floor 
+give off an unbearable stench. 
+~
+17 d 2
+D3
+~
+~
+0 -1 1740
+S
+#1745
+End of the Dark Hallway~
+   You have reached the end of the dark hallway and maybe the end of 
+your puny life. Something lumbers its way out of the shadows. 
+~
+17 d 2
+D1
+~
+~
+0 -1 1740
+D3
+You see a decaying door. 
+~
+door~
+2 1701 1746
+S
+#1746
+A Ladder~
+   You have come into a vertical tunnel with a ladder. 
+~
+17 9 3
+D1
+You see a decaying door. 
+~
+door~
+1 1701 1745
+D5
+~
+~
+0 -1 1747
+S
+#1747
+Lair~
+   You have entered a new lair in the fortress. Anything could be 
+lurking around the corner. 
+~
+17 d 2
+D2
+~
+~
+0 -1 1748
+D4
+~
+~
+0 -1 1746
+S
+#1748
+A Damp Hallway~
+   You are wandering in a dark, damp, twisting hallway. The temperature 
+seems to be greater here, as well as your fear. 
+~
+17 d 2
+D0
+~
+~
+0 -1 1747
+D1
+~
+~
+0 -1 1749
+D3
+~
+~
+0 -1 1751
+S
+#1749
+A Damp Hallway~
+   You are wandering in a dark, damp, twisting hallway. The temperature 
+seems to be greater here, as well as your fear. 
+~
+17 d 2
+D2
+~
+~
+0 -1 1750
+D3
+~
+~
+0 -1 1748
+S
+#1750
+A Damp Hallway~
+   You are wandering in a dark, damp, twisting hallway. The temperature 
+seems to be greater here, as well as your fear. 
+~
+17 d 2
+D0
+~
+~
+0 -1 1749
+D2
+~
+~
+0 -1 1755
+S
+#1751
+A Damp Hallway~
+   You are wandering in a dark, damp, twisting hallway. The temperature 
+seems to be greater here, as well as your fear. 
+~
+17 d 2
+D1
+~
+~
+0 -1 1748
+D2
+~
+~
+0 -1 1752
+S
+#1752
+A Damp Hallway~
+   You are wandering in a dark, damp, twisting hallway. The temperature 
+seems to be greater here, as well as your fear. 
+~
+17 d 2
+D0
+~
+~
+0 -1 1751
+D2
+~
+~
+0 -1 1753
+S
+#1753
+A Damp Hallway~
+   You are wandering in a dark, damp, twisting hallway. The temperature 
+seems to be greater here, as well as your fear. 
+~
+17 d 2
+D0
+~
+~
+0 -1 1752
+D1
+~
+~
+0 -1 1754
+S
+#1754
+A Damp Hallway~
+   You are wandering in a dark, damp, twisting hallway. The temperature 
+seems to be greater here, as well as your fear. 
+~
+17 d 2
+D0
+~
+~
+0 -1 1756
+D1
+~
+~
+0 -1 1755
+D3
+~
+~
+0 -1 1753
+S
+#1755
+A Damp Hallway~
+   You are wandering in a dark, damp, twisting hallway. The temperature 
+seems to be greater here, as well as your fear. 
+~
+17 d 2
+D0
+~
+~
+0 -1 1750
+D3
+~
+~
+0 -1 1754
+S
+#1756
+The End of the Hallway~
+   You make your way out of the hallway, just to find yourself in 
+greater danger. Before you looms the source of the great heat. 
+~
+17 d 2
+D1
+~
+~
+0 -1 1757
+D2
+~
+~
+0 -1 1754
+S
+#1757
+The Altar~
+   You finally reach the end of the maze. There is a great altar here 
+in the shape of a bat. A passageway leads off to the west. 
+~
+17 d 2
+D3
+~
+~
+0 -1 1756
+S
+#1758
+The Chief's House~
+   You enter into a large and luxurious house. The floor is coated with 
+carpets and the walls are covered in paintings. You feel privileged 
+just to be stepping inside. 
+~
+17 d 0
+D2
+You see a path. 
+~
+~
+0 -1 1726
+S
+#1759
+The Unused Path~
+   You are now on a fairly unused path that leads east out of the 
+village. You wonder what could be out this way. 
+~
+17 4 1
+D1
+You see a path. 
+~
+~
+0 -1 1760
+D3
+You see a path. 
+~
+~
+0 -1 1704
+S
+#1760
+The Overgrown Path~
+   As the path continues on, the grass grows higher. You can't imagine 
+what could possibly be out this way. 
+~
+17 0 2
+D1
+You see a clearing. 
+~
+~
+0 -1 1761
+D3
+You see a path. 
+~
+~
+0 -1 1759
+S
+#1761
+The Clearing~
+   Your progress is suddenly stopped by mountains on all sides. The 
+path leads back to the west, and there appears to be an old mine 
+shaft to the north. 
+~
+17 0 2
+D0
+You see a mine shaft. 
+~
+~
+0 -1 1662
+D3
+You see a path. 
+~
+~
+0 -1 1760
+S
+#1762
+Cleric's Inner Sanctum~
+   This is the inner sanctum. A picture of the devine Garnak, is 
+hanging on the wall, just above the altar which is set against 
+the western wall. 
+~
+17 cd 0
+D2
+~
+~
+0 -1 1763
+S
+#1763
+Entrance to Cleric's Guild~
+   The entrance hall is a small modest room, reflecting the true nature 
+of the Clerics. The exit leads east to the field of training. A small 
+entrance to the practice yard is in the northern wall. 
+~
+17 cd 0
+D0
+~
+~
+0 -1 1762
+D2
+~
+~
+0 -1 1765
+S
+#1764
+The Field of Training~
+   You stand in a large grass field. To the south you see a stone house 
+with a large sign with a sword hanging over the entrance and to the 
+east a similar house but with a ancient tome on the sign. The field 
+continues to the north. 
+~
+17 0 0
+D0 
+~
+~
+0 -1 1765
+D1
+You see the magic guild.
+~
+~
+0 -1 1766
+D2
+You see the warrior guild.
+~
+~
+0 -1 1770
+D3
+~
+~
+0 -1 1726
+S
+#1765
+The Field of Training~
+   You stand in a large grass field. To the north you see a stone 
+temple and to the east you see an abandoned stone house. The field 
+continues to the south. 
+~
+17 d 0
+D0 
+You see the Cleric Guild.
+~
+~
+0 -1 1763
+D2
+~
+~
+0 -1 1764
+D3
+You see the Thief Guild.
+~
+~
+0 -1 1768
+S
+#1766
+Entrance to Mage's Guild~
+   The entrance hall is a small, poor lighted room. 
+~
+17 cd 0
+D3
+You see the field of traning. 
+~
+~
+0 -1 1764
+D1
+You see the mages labratory.
+~
+~
+0 -1 1767
+S
+#1767
+Mage's Laboratory~
+   This is the Magical Experiments Laboratory. Dark smoke-stained 
+stones arch over numerous huge oaken tables, most of these cluttered 
+with strange-looking pipes and flasks. The floor is covered with 
+half-erased pentagrams and even weirder symbols, and a blackboard in 
+a dark corner has only been partially cleaned, some painful-looking 
+letters faintly visible. 
+~
+17 cd 0
+D3
+~
+~
+0 -1 1766
+S
+#1768
+Entrance Hall to the Guild of Thieves~
+   The entrance hall to the thieves' and assassins' guild. A place 
+where you can lose both your life and your money, if you are not 
+careful. To the east lies the field of training and if you go down 
+you enter the thieves secret yard. 
+~
+17 cd 0
+D1
+~
+~
+0 -1 1765
+D5
+~
+~
+0 -1 1769
+S
+#1769
+The Secret Yard~
+   The secret practice yard of thieves and assassins. Up is the 
+entrance the the guild.
+~
+17 cd 0
+D4
+~
+~
+0 -1 1768
+S
+#1770
+Entrance Hall to the Guild of Swordsmen~
+   The entrance hall to the Guild of Swordsmen. A place where one has 
+to be careful not to say something wrong (or right). To the east is 
+the practice yard and to the north is the field of training. 
+~
+17 cd 0
+D0
+You see the field of training. 
+~
+~
+0 -1 1764
+D2
+~
+~
+0 -1 1771
+S
+#1771
+The Tournament and Practice Yard~
+   The practice yard of the fighters. To the north is the entrance. 
+~
+17 cd 0
+D0
+~
+~
+0 -1 1770
+S
+#1772
+Log Jam~
+   Ice cold water has pooled up here, blocked by a log jam.  Not the
+work of beavers, you see, because there is still room for the water to
+seep through between logs.  Still, it has slowed the rushing current
+enough for the water to rise up to your waist (if you're a fairy, you're
+probably drowning).
+~
+17 0 6
+D0
+Cold water leads to a narrow embankment.
+~
+~
+0 -1 1721
+D1
+Upstream the water becomes more shallow.
+~
+~
+0 -1 1773
+S
+#1773
+MidStream~
+   Standing in a bit of cold water moving slowly at you from the east,
+where you can see a waterfall in the far distance, it might occur to you
+that getting OUT of the water would be good for your health.  Your
+choices are then north to a small island run rampant with mice, or south
+east towards a beach area.
+~
+17 0 6
+D0
+A small troop of mice seem to be ... chortling!
+~
+~
+0 -1 1722
+D1
+This is the upstream direction of the water ... 
+~
+~
+0 -1 1774
+D2
+The stream is wide at this point, but you can see a beach area southeast
+of here.
+~
+~
+0 -1 1777
+D3
+The stream pools up in front of some logs to the west of here.
+~
+~
+0 -1 1772
+S
+#1774
+MidStream~
+   The cold rushing waters of a mountain fed stream are remarkably clear
+all around you.  The streambed is rocky and uncomfortable beneath your
+feet, but the rapidly moving water at least ensures it is not too
+slippery.  To the east you can hear a waterfall.  To the south a tall
+cliff looms over you.  Not a good time for an earthquake!
+~
+17 0 6
+D1
+In the near distance you can hear the sounds of a waterfall.
+~
+~
+0 -1 1775
+D2
+Beyond just a bit more stream lies a sunny gnomish picnic beach.
+~
+~
+0 -1 1778
+D3
+Downstream
+~
+~
+0 -1 1773
+S
+#1775
+Nearing the Falls~
+   There's just something about falling water that enchants the soul of
+even the most severely cranky gnome.  You can hear the pounding of water
+hitting rock just to the east of here, and in the daytime the sight is
+quite awesome.  You are wide awake no matter what the time of day or
+night, of course, because you are standing in rapidly moving, frigid
+water.
+~
+17 0 6
+D1
+A steep cliff combines with snowmelt to make an impressive waterfall.
+~
+~
+0 -1 1776
+D3
+The small stream moves rapidly westwards, swerving around a small
+island.
+~
+~
+0 -1 1774
+S
+#1776
+Waterfalls~
+   From high above you a narrow but steady stream of water falls in a
+frothy gush down to clean rocks where you stand.  The water falls
+thinly, but with a great deal of force due to the height of the cliff
+from which it falls.
+~
+17 0 6
+D3
+It would be definitely safer for you to head downstream from here.
+Besides, it's your only choice.
+~
+~
+0 -1 1775
+S
+#1777
+At a Wide Spot in a Stream~
+   The water is barely deep enough here to drown in standing up, but it
+is quite cold and so you understand why the gnomes cross in boats rather
+than simply wading through.  To the north you can see a small island
+filled with mice and old Trollish loincloths.  To the southeast lie the
+Gnomish Picnic Grounds.
+~
+17 0 6
+D0
+The stream really is quite wide at this point.~
+~
+0 -1 1773
+D1
+Just up ahead and slightly south lies a beach.
+~
+~
+0 -1 1778
+S
+#1778
+By the Beach~
+   The water is shallower here, and a trifle warmer.  The ground beneath
+your feet has changed from rocky to a sandy-silt, soft enough to make
+you want to take off your shoes and dig in your toes, and soft enough to
+make walking across it pull at your calf muscles.  The beach is south of
+here, full of small changing tents and the normal detritus of picnics
+long past.
+~
+17 0 6
+D0
+The stream gets much deeper to the north.
+~
+~
+0 -1 1774
+D2
+The Gnomish Picnic Grounds beckon.
+~
+~
+0 -1 1779
+D3
+stream
+~
+~
+0 -1 1777
+S
+#1779
+Beach Blanket Babylon~
+   Gaily striped tents strongly resembling tiny circus tents dot this
+tiny beach.  Blankets in more subdued colors are stretched here and
+there for a gnomish family picnic and barbecue.  The area is protected
+by the tall cliff to the south, the only really open area being the
+inviting (if freezing) stream to the north.
+~
+17 0 2
+D0
+A shallow embankment leads to a cold stream, suitable for wading.
+~
+~
+0 -1 1778
+D4
+As you look more closely at the steep cliff behind you, you note that it
+IS climbable.
+~
+~
+0 -1 1780
+S
+#1780
+Steep cliff~
+   Rocky and so steep it would give a mountain goat second thoughts
+about climbing, the narrow path makes its way up the treacherous slope,
+it's only saving grace being the many rocky outcroppings you may grasp
+to keep yourself from falling down.   W-a-y-y-y down.
+~
+17 0 5
+D1
+The path up the cliff face heads east around some rocks.
+~
+~
+0 -1 1781
+D5
+The
+~
+~
+0 -1 1779
+S
+#1781
+Path up a Steep Cliff~
+   Here and there this rocky cliff is impossibly dotted with small scrub
+brush growing out of cracks in the rock face.  You know that eventually
+the hardy vegetation will crumble the mighty cliff, widening cracks and
+leaving it vulnerable to the ravages of time and weather.  For now, you
+simply wonder if it is hardy enough to bear your weight.
+~
+17 0 5
+D3
+The path down is fraught with danger, but still possible.  The path up
+is almost sheer rock.~
+~
+0 -1 1780
+D4
+The footholds in the rock lead you up the face of the cliff.
+~
+~
+0 -1 1782
+S
+#1782
+Clinging to the Cliff~
+   In places, the rock is quite brittle, crumbling to gravel beneath
+your searching boot, and in others it is so smooth that your hands are
+unable to find a place to hold.  Your muscles should ache, but the
+adrenalin rushing through your veins is keeping you from feeling the
+pain.  You have two choices from here.  Up ...  or down.
+~
+17 0 5
+D4
+There is a last sheer stretch of rock before you come to the top of this
+cliff.~
+~
+0 -1 1783
+D5
+It is a L-O-N-G way down from here.  But then, it is a long way up as
+well.  Neither direction looks safe.  But if you were looking for
+safety, why would you be here?~
+~
+0 -1 1781
+S
+#1783
+Just Down from a Cliff Top~
+   Grab the edge of the ledge above you and pull yourself up and over,
+onto the edge of the cliff.  Even if you thought you were on your way
+down, the safe thing to do is climb up and over and find another way
+back.  It's a L-O-N-G way down from here, and the beach at the bottom of
+the cliff may be soft, but nothing would be soft enough to keep you from
+certain death if you fell.   
+~
+17 0 5
+D4
+That's it! Just an arm's reach from here.~
+~
+0 -1 1784
+D5
+It's a LONG way down from here.~
+~
+0 -1 1782
+S
+#1784
+On Top of a High Cliff, Looking Down~
+   The view from here is breathtaking.  To the north, across a small
+stream and down a steep cliff you can see a tiny village of gnomes.  To
+the very distant north you see the thick forests of the magic elf
+kingdom of Tynstri.  
+~
+17 c 2
+D1
+a narrow well-beaten path~
+~
+0 -1 1785
+D5
+whoa !  now that's DOWN~
+~
+0 -1 1783
+S
+#1785
+A Narrow Well-Beaten Path~
+   A narrow dirt path has been beaten into the wild grasses of this
+rolling plateau.  It stretches raggedly in an east-west direction,
+seemingly meandering without purpose.
+~
+17 0 2
+D1
+The narrow path continues along.~
+~
+0 -1 1786
+D3
+The narrow little path stops abruptly at a clifftop.~
+~
+0 -1 1784
+S
+#1786
+A Narrow Well-Beaten Path~
+   At this "Y" intersection in the path, the main track of the path
+heads eastwards, while a small trail of trampled grasses would seem to
+lead to the southwest.  The shape of the intersection may help to remind
+you of the name of those beasties you see in the distance.
+~
+17 0 2
+D1
+The well beaten path continues east for a stretch.~
+~
+0 -1 1787
+D2
+A small narrow path has been recently trampled into existence by some
+very heavy animal.~
+~
+0 -1 1794
+D3
+The well beaten path continues west for a stretch.~
+~
+0 -1 1785
+S
+#1787
+Drop It!~
+   Someone must have taught the beasties well not to leave their
+droppings in their barn, for they have left them all over this trail.
+Careful where you put your foot, or you'll not be welcome anywhere you
+go (except a yak convention, of course).
+~
+17 0 2
+D2
+The path wends south.~
+~
+0 -1 1788
+D3
+The path continues in its monotonous way.~
+~
+0 -1 1786
+S
+#1788
+An Intersection in the Meadow~
+   What looks like the main path curves here from east to north, and
+then curves again.  To the south, the grasses have been recently
+trampled into submission, so if you follow this particular trail you are
+bound to run into something that runs around on 4 cloven hooves.
+~
+17 0 2
+D0
+A well beaten if somewhat quirky path runs north of here.~
+~
+0 -1 1787
+D1
+A well beaten if somewhat quirky path runs east of here.~
+~
+0 -1 1789
+D2
+A recently trampled dent in the meadow grasses leads south.~
+~
+0 -1 1798
+S
+#1789
+A Very Curvy Path~
+   This path seems to wander unnecessarily through the thick meadow
+grasses on the high plateau.  You have little opportunity to admire the
+beautiful purple mountains to the northeast because you need to keep
+watching for the long pointed yaks and their leavings.  This path twists
+west and south at this point.
+~
+17 0 2
+D2
+The path curves around to the south.~
+~
+0 -1 1790
+D3
+The path curves towards where the sun sets.~
+~
+0 -1 1788
+S
+#1790
+A Very Curvy Path~
+   The curvy meadow path twists through tall, thick meadow grasses.
+Whatever the yaks eat, it apparently isn't this grass.  They have the
+look of their vegetarian kindred, but you wonder if, perhaps, they eat
+people instead.  The certainly have the built in weaponry to kill
+anything they please.  Those horns are really wicked.  
+~
+17 0 2
+D0
+The path curves around to the north.~
+~
+0 -1 1789
+D1
+The path curves around to the east.~
+~
+0 -1 1793
+S
+#1791
+A Gnome Magic Shop~
+   You are in one of the several shops of this fine town. The wares 
+look fine. Lots of odd magic devices can be seen all around in the 
+shop. 
+~
+17 d 0
+D3
+You see a road. 
+~
+~
+0 -1 1707
+S
+#1792
+The Post Office~
+   You are in the post office in Gnome village. Piles of assorted mail
+lay untouched in the corners, collecting cobwebs. Several large crates 
+have been pried open by curious customs agents, and are now stacked 
+along the west wall, hiding plenty of 'WANTED' posters. There is a sign
+posted on the wall here. 
+~
+17 d 1
+D
+~
+~
+0 -1 1706
+E
+sign~
+**********************************************************
+*                                                        *
+*    Mail Instructions :                                 *
+*                                                        *
+*      To send a note to someone :                       *
+*         MAIL <playername>                              *
+*                                                        *
+*      To see if you have any mail :                     *
+*         CHECK                                          *
+*                                                        *
+*      To get the Postmaster to give you your mail :     *
+*         RECEIVE                                        *
+*                                                        *
+*         Stamps cost 350 coins per letter               *
+*         Type 'HELP MAIL' for more info                 *
+**********************************************************
+~
+E
+cobwebs~
+They seem to cover everything here, even the Postmaster himself.
+~
+E
+crates opened large~
+As you know, it is illegal to send contraband items through the 
+Midgaard mail. The custom's agents use this as a great excuse to seize
+liquor, rare spices, pornography, and just about anything they might 
+find useful or profitable.
+~
+E
+posters poster wall wanted~
+Faces of various known Player Killers and Player Thieves can barely be
+seen behind the crates on the west wall. Some of them look quite 
+familar, sorta like that guy who you saw in the Reception a minute ago.
+But then again, they are rather hard to see past the crates.
+~
+S
+#1793
+Nearby the Big Red Barn~
+   You are standing near the edge of a wide rolling meadow that
+stretches out to the north and west for quite a long distance.  Here and
+there the meadow is dotted by the wide curling horns of the yak, raised
+here by the gnomes.  The gnomes treat them almost as pets, and the yaks
+in turn protect the physically weak gnomes.
+~
+17 0 2
+D1
+A short path through yak-filled meadows leads to a big red barn.~
+~
+0 -1 6530
+D3
+A curvy little path through the meadow grasses begins here.~
+~
+0 -1 1790
+S
+#1794
+Off the Beaten Path~
+   The little yak path gets even littler here, as the grass seems to
+spring up behind you as you walk through it, following whatever went
+before you.  The main path lies north of here, this little tributary
+runs east.
+~
+17 0 2
+D0
+A slightly wider path is just this way.  Looking further you see the
+beautiful mountains to the northeast.~
+~
+0 -1 1786
+D3
+Large hoofprints lead west.~
+~
+0 -1 1795
+S
+#1795
+Off the Beaten Path~
+   Whatever wandered off in this direction apparently kept on going
+south, for the track of the large animal head from east to south through
+here.  Although the grass is tall here, unless you are a very young
+gnome or halfling, you can see over them to the many yaks peacefully
+filling their bellies and the beautiful mountains to the north.   
+~
+17 0 2
+D1
+He came from thataway.~
+~
+0 -1 1794
+D2
+He's headed thisaway.~
+~
+0 -1 1796
+S
+#1796
+Where Many Hooves Converge~
+   Two narrow, recently beaten paths converge at this point, one coming
+from the north, the other from the east, and both seem to be headed
+west.  If you are tracking something, then, that would seem to be the
+way to go.     
+~
+17 0 2
+D0
+Something large ventured from that direction.  In the words of Pooh
+(hunting Heffalumps), "You see where he's going to and I'll see where he
+came from!~
+~
+0 -1 1795
+D1
+Something large ventured from that direction.  In the words of Pooh
+(hunting Heffalumps), "You see where he's going to and I'll see where he
+came from!~
+~
+0 -1 1799
+D3
+In the Presence of The Yak~
+~
+0 -1 1797
+S
+#1797
+YakkityYak (Don't Look Back!)~
+   THE yak tends to hang out here.  His yak harem brings him presents of
+the most delicate of meadow flowers, and the gnomes weave them into
+garlands to wear about his mighty neck or decorate his serious horns.
+Should he become hungry, they are a delicate appetizer, a "starter" to a
+more interesting meal of ... say ... adventurer?  
+~
+17 0 2
+D1
+Looking back~
+~
+0 -1 1796
+S
+#1798
+Off the Beaten Path~
+   A faint trail leads off the main path just north of here.  At this
+point it twists to the west.  You are standing in a meadow lushly
+planted with thick, tall grasses, some of them flowering in many
+different colors.  This trail continues west.
+~
+17 0 2
+D0
+The main path is north of here.~
+~
+0 -1 1788
+D3
+The little path wanders west.~
+~
+0 -1 1799
+S
+#1799
+Off the Beaten Path~
+   A very narrow path has been recently trod by a heavy, wide animal
+headed east from where you are standing.  The tracks at your feet are
+fresh, the trampled meadow grasses still bleeding grassjuice.  Above the
+grasses, knee high for a human at this point, you can see a large number
+of yaks wandering about the meadow.
+~
+17 0 2
+D1
+Backtrack the hoofprints this way.~
+~
+0 -1 1798
+D3
+Whatever made this little trail (and for some reason a yak springs to
+mind), it was headed west.~
+~
+0 -1 1796
+S
+#99999
+$~

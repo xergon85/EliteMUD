@@ -1,0 +1,127 @@
+#3801
+hobbit~
+a hobbit~
+A hobbit is strolling around here.
+~
+A short, fat hobbit is strolling along here, talking to himself.
+~
+1 4 gh 0 100 A 10 1
+#3802
+hobbit~
+a hobbit~
+A fat hobbit is here, gathering tobacco.
+~
+A short fat hobbit is here, gathering tobacco. He seems to like his work.
+~
+1 4 bh 0 100 A 12 1
+#3803
+bilbo hobbit~
+Bilbo~
+Bilbo Baggings is here, daydreaming.
+~
+Bilbo stands here, daydreaming about long gone adventures.
+~
+1 4 g 0 100 A 15 1
+#3804
+frodo hobbit~
+Frodo~
+Frodo is standing here, smoking his pipe.
+~
+Frodo seems to be a nice hobbit with his big belly and hairy feet.
+~
+1 4 gh 0 100 A 15 1
+#3805
+sam hobbit~
+Sam~
+Sam, Frodo's gardener is here mowing the lawn.
+~
+Sam seems to be a kind hobbit. He is short and fat and shouldn't be that hard
+to squash.
+~
+1 4 gh 0 100 A 15 1
+#3806
+merry hobbit~
+Merry~
+Merry is standing here, looking almost as mean as his cousin Pippin.
+~
+Merry is standing here. He's a tall and muscular hobbit and he DOES look mean.
+If you are going to fight a hobbit, don't fight this guy.
+~
+1 4 g 0 100 A 17 1
+#3807
+pippin hobbit~
+Pippin~
+Pippin is standing here, looking almost as mean as his cousin Merry.
+~
+Pippin is a tall muscular hobbit who just LOVES to fight. Challange him if you
+want to but I wouldn't reccomend it.
+~
+1 4 g 0 100 A 16 1
+#3808
+bogo hobbit~
+Bogo~
+Bogo is standing here with a bottle to his mouth as usual.
+~
+Bogo the hobbit drunk is here, drinking as usual. He doesn't look too tough. 
+Maybe you should put an end to his misery.
+~
+1 4 gh 0 100 A 13 1
+#3809
+rosa female hobbit~
+Rosa~
+Rosa is here, looking for her beloved Sam.
+~
+Rosa, Sam's wife-to-be is standing here, wondering where Sam is.
+~
+1 4 gh 0 100 A 14 2
+#3810
+took hobbit~
+Took~
+Took is standing here, mumbling some magic words.
+~
+Took, an old experienced hobbit is standing here. This hobbit saw adventures 
+before you were even born. Some hobbits say he knows his way around magic but
+of course, that is just rumours.
+~
+1 1 g b 100 S
+20 12 0 1d40+380
+400 500 50 2d6+10
+10 0 15 1d0+75
+22 0 10 1d0+75
+48 0 15 1d0+75
+52 0 10 1d0+65 -1
+-1
+-1
+300 12000 8 8 1
+#3811
+mayor hobbit~
+Hobbit Mayor~
+The hobbit mayor is here, looking busy.
+~
+The mayor of the hobbits is here, trying hard to look busy. He is a tough built
+hobbit, although he seems to be kind. He controls the hobbit village with a
+firm but fair hand.
+~
+1 4 g 0 300 S
+20 10 -2 4d40+400
+400 500 100 2d10+10 -1
+-1
+-1
+300 12000 8 8 1
+#3812
+karo dog~
+Karo~
+Karo, the mayor's loyal watchdog is here.
+~
+Karo, the hobbit mayor's loyal watchdog is here, looking confused. This dog
+appears to have a problem with both his IQ and his weight. However, he is big
+and you have the feeling that he bites hard.
+~
+4 4 b 0 -200 S
+10 17 2 2d8+130
+408 500 100 1d4+8 -1
+-1
+-1
+0 2133 8 8 1
+#99999
+$~

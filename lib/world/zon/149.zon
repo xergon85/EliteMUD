@@ -1,0 +1,105 @@
+#149
+The Gauntlet~
+14999 241 2
+
+
+*zonen har (minst) 2x15 rooms
+*alla mobs poppar i parallell rum och vandrar in i det riktiga rummet
+*riktigt rum är nosweep   startrum är NoT NoScry etc...
+*alla mobs har TRACK  (vilket gör att om man tar nyckeln och hoppar till
+*nästa kommer mobsen efter)
+
+*Parallell korridorer sätts upp för att anpassas till quests...
+*Dessa blir tomma  och har  locked  / closed  / nodoor
+*dessa rum blir summonOK  men NoTele och NoQuit
+
+
+*1. 3 Furys
+M 0 14900 1 14926       flaming fury 1
+M 0 14901 1 14926       flaming fury 2
+M 0 14902 1 14926       flaming fury 3
+E 1 14911 100 17        *HELD Key to next level
+
+*2. Crimson Lord
+M 0 14903 1 14927       Man shifting in red
+E 1 14912 100 17        *HELD Key to next level
+
+*3. Raphael, Gabriel, Uriel, Michael
+M 0 14904 1 14928       Zeppo
+M 0 14905 1 14928       Groucho
+M 0 14906 1 14928       Harpo
+M 0 14907 1 14928       GloriaGloriaGloria
+E 1 14913 100 17        *HELD Key to next level
+
+*4. Mchoro Mhaeren, Lord of the Dead
+M 0 14908 1 14929       McLarry
+M 0 14909 1 14929       The Wall
+E 1 14914 100 1         *HELD(as light) Key to next level
+
+*5. Henrietta Hennapy, Master Ranger
+M 0 14910 1 14930       Henry
+M 0 14911 1 14930       Morgan
+E 1 14915 100 17        *HELD Key to next level
+
+*6. Shadow Dragon, Ruby Dragon, AquamarineD ragon
+M 0 14912 1 14931       Evil Dragon
+M 0 14913 1 14931       Good Dragon
+M 0 14914 1 14931       Neutral Dragon
+E 1 14916 100 17        *HELD Key to next level
+
+*7. Minax, Blackthorne, Mondain, Guardian, Exodus
+M 0 14915 1 14932       First member of the pentagon.
+M 0 14916 1 14932       Second
+M 0 14917 1 14932       Third
+M 0 14918 1 14932       Fourth
+M 0 14919 1 14932       Fifth
+E 1 14917 100 17        *HELD Key to next level
+
+*8. Vampire Dragonlord, Genial Dragonlord
+M 0 14921 1 14933       The Genious
+M 0 14920 1 14933       The Vamp
+E 1 14918 100 3         *HEAD Key to next level
+
+*9. Polaris, Cepheus, Orcus
+M 0 14922 1 14934       Pilates
+M 0 14923 1 14934       StepUpppp
+M 0 14924 1 14934       ChiTai
+E 1 14919 100 17        *HELD Key to next level
+
+*10. War, Death, Pestilence, Famine
+M 0 14925 1 14935       1  The fabolous Four
+M 0 14926 1 14935       2  The fabolous Four
+M 0 14927 1 14935       3  The fabolous Four
+M 0 14928 1 14935       4  The fabolous Four
+E 1 14920 100 17        *HELD Key to next level
+
+*11. Unicorn, Grand Mistress, Dagga
+M 0 14929 1 14936       Holy TRIad
+M 0 14930 1 14936       Holy TRIad
+M 0 14931 1 14936       Holy TRIad
+E 1 14921 100 17        *HELD Key to next level
+
+*12. Avatar, Champion Dethguard
+M 0 14932 1 14937       Robin
+M 0 14933 1 14937       Bruce
+E 1 14922 100 17        *HELD Key to next level
+
+*13. Hades, Satan, Baelzubel
+M 0 14934 1 14938       Slafs
+M 0 14935 1 14938       Stomp
+M 0 14936 1 14938       Schlurp
+E 1 14923 100 17        *HELD Key to next level
+
+*14. Dragonlady, Mistress of the dead, Mistress of disgust.
+M 0 14937 1 14939       Arti
+M 0 14938 1 14939       Divine
+M 0 14939 1 14939       AntiMass
+E 1 14924 100 17        *HELD Key to next level
+
+*15. FET SLUTMOB!
+M 0 14940 1 14940       THE BLOB = THE BADASS!!!
+E 1 14925 99 17        THE REWARD TO A TRUE MASTER
+
+S
+#99999
+$~

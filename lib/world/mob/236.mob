@@ -1,0 +1,161 @@
+#23601
+Troll King~
+Troll King~
+A large imposing troll stands before you.
+~
+Before you stands a very large; a very ugly; troll.  He gives off an 
+odor that is typical of these ugly brutes.
+~
+8 4 2658 553649320 -600 S
+85 -24 -38 1d85+1300
+400 500 100 1d42+43 -1
+321 75 331 50 -1
+-1
+3000 760000 8 8 1
+#23602
+Troll Captain~
+Troll Captain~
+The Captain of the Troll Guard looks menacingly about him.
+~
+A competant, but ugly, troll stands before you decked out in 
+an odd assortment of armor pillaged from his different victims.
+~
+8 4 6756 587465896 -500 S 
+81 -22 -35 1d81+1240
+400 500 100 1d40+41 -1
+321 75 331 50 -1
+-1
+3000 685000 8 8 1
+#23603
+Troll Queen~
+Troll Queen~
+A regal looking female troll stands before you.
+~
+A regal looking female troll stands here looking regal in her "beauty".
+It takes a  troll to understand it.
+~
+8 4 2662 553649312 -500 S
+80 -22 -35 1d80+1225
+400 500 100 1d40+41 -1
+321 75 331 50 -1
+-1
+3000 670000 8 8 2
+#23604
+Troll Guard~
+Troll Guard~
+A troll stands here guarding something.
+~
+You see an average everyday troll guard standing here ready to pound
+you into the ground with his sledgehammer fists.
+~
+8 4 6242 587203584 -600 S
+75 -19 -32 1d75+1200
+410 500 100 1d37+38
+-1
+-1
+-1
+2750 595000 8 8 1
+#23605
+Male Troll~
+Troll~
+An ordinary, under-the-bridge type troll looks suspiciously at you.
+~
+This looks like a common, average, everday, find under the bridge, troll
+you see almost under every bridge being crossed by billy goats.
+~
+8 4 6244 553649152 -500 S
+70 -16 -29 1d70+1010
+410 500 100 1d35+36
+-1
+-1
+-1
+2500 526666 8 8 1
+#23606
+Female Troll~
+Troll~
+A female troll overwhelms you with her bad breath.
+~
+This is a comon troll that you see almost any where.  She looks like
+she can be a tad dangerous.
+~
+8 4 6244 553649152 -550 S
+65 -14 -26 1d65+1000
+410 500 100 1d32+33
+-1
+-1
+-1
+2500 470000 8 8 2
+#23607
+Ogre Chief~
+Ogre Chief~
+A large ogre stands before you cracking his knuckles.
+~
+A rather large (and rather dumb) ogre stands before you.  The way he
+besides nuts, in those rather large hands of his.
+~
+8 4 7776 50332832 -650 S
+65 -14 -26 1d65+1000
+410 500 100 1d32+33
+-1
+-1
+-1
+2500 470000 8 8 1
+#23608
+Male Ogre~
+Huge Ogre~
+A huge ogre stands before you.
+~
+~
+8 4 6756 50332672 -600 S
+60 -11 -24 1d60+920
+410 500 100 1d30+31
+-1
+-1
+-1
+2000 420000 8 8 1
+#23609
+Female Ogre~
+Ogre~
+An ogre stands before you.
+~
+~
+8 4 2788 17040384 -500 S
+60 -10 -21 1d60+920
+410 500 100 1d28+29
+-1
+-1
+-1
+2000 390000 8 8 1
+#23610
+Snotling Child Ogre~
+A Snotling~
+A snotling childish ogre wipes his nose on you.  Ewww!
+~
+The little snotling is remarkably dirty, even for an ogre!  He
+seems to be playing some childish game using bones.
+~
+8 4 84 16778272 -350 S
+50 -6 -18 1d50+800
+410 500 100 1d25+26
+-1
+-1
+-1
+2000 313333 8 8 1
+#23611
+Snotling Child Troll~
+A Snotling~
+A snotling childish troll plays here.
+~
+Snotling trolls look a lot like adult trolls ... big, meaty, mean,
+with low foreheads and a "Make my day" kind of aggressive stance.
+~
+8 4 116 16778272 -350 S
+60 -11 -24 1d60+920
+410 500 100 1d30+31
+-1
+-1
+-1
+2000 420000 8 8 1
+#99999
+$~
+

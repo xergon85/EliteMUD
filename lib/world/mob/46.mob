@@ -1,0 +1,221 @@
+#4601
+elf elven child m4601~
+the elven child~
+An elven child is here playing around.
+~
+The elven child looks very friendly.
+~
+1 0 hce 0 500 A 32 1
+#4602
+elf elven man m4602~
+the elf~
+An elf is here busy with his work.
+~
+The elven man seems to have lived for many thousands of years. He has long
+dark hair and his ears are pointy.
+~
+1 0 mg r 300 A 45 1
+#4603
+elf elven woman m4603~
+the elven woman~
+An elven woman is strolling around here.
+~
+The elven woman is very beautiful. She carries a basket with mushrooms and
+she seems to be looking for someone.
+~
+1 0 c 0 400 A 36 2
+#4604
+elf guard elven m4604~
+the elven guard~
+An elven guard is standing here patrolling the area.
+~
+The elven guard is armed with a long sword and a bow. He is very tall and
+seems to know everybody passing by.
+~
+1 0 fimlb r 100 A 55 1
+#4605
+orc scout m4605~
+the orcish scout~
+An orcish scout is here searching for footprints.
+~
+The orcish scout is quite small. His skin is dark green and he is armoured
+with a black mail shirt and a horned helmet.
+~
+0 4 jkfgm st -400 A 28 1
+#4606
+elven smith m4606~
+the elven smith~
+An elven smith is here working with a sword.
+~
+The elven smith is a very tall elf that has a scar cross his face. He looks
+very determined with his work and he is covered with dust and sweat.
+~
+1 4 bmif hf 500 A 60 1
+#4607
+innkeeper keeper m4607~
+the innkeeper~
+The Innkeeper is standing here serving a meal to some elves.
+~
+The Innkeeper is a quite young elf with dark hair and silvery eyes. He is
+carrying some jugs of beer and is clad with a leather vest and some
+marvelous green pants.
+~
+1 0 cmif 0 300 A 55 1
+#4608
+cook elven m4608~
+the elven cook~
+The elven cook is preparing some meals here.
+~
+The elven cook is young and seems quite inexperienced. He is about six
+feet tall and is dressed in white.
+~
+1 0 hl f 400 A 40 1
+#4609
+waitress elven m4609~
+the elven waitress~
+A waitress is hurrying her way through the halls.
+~
+The waitress is VERY beautiful as she is clad in a silver shining dress.
+She seems to have here mind somewhere else as she carries a meal to the
+elven court.
+~
+1 0 ch 0 500 A 38 2
+#4610
+royal guard elven m4610~
+the royal elven guard~
+A royal elven guard is standing on his post watching for perils.
+~
+The royal elven guard looks very proud where he stands. He is clad in
+shining armour and wields a silver longsword.
+~
+1 4 bfgilm fh 350 S
+70 -20 -38 4d100+750
+400 500 90 4d13+5
+318 500 10 0d0 -1
+-1
+-1
+1000 600000 8 8 1
+#4611
+ancient old one m4611~
+the ancient One~
+An ancient old elf is here telling stories of the past.
+~
+He looks like a very old elf.
+~
+4 1 ebl ah 200 S
+80 -20 -34 1d1+2000
+400 500 90 3d10+30
+4 0 5 1d0+95
+90 0 5 1d0+100 -1
+-1
+1001 20
+1002 20
+1003 20
+1004 20 -1
+10000 2000000 6 6 1
+#4612
+monster prisoner creature m4612~
+the monster~
+A monster of hideous proportions is chained to the wall.
+~
+The monster is about four feet tall and is covered in old rags. He seems to
+observe you as you look at him.
+~
+6 4 bf aftzk -500 A 50 0
+#4613
+beast monster horned m4613~
+the two-horned beast~
+A two-horned beast screams as he jumps up behind you.
+~
+The two-horned beast is 20 feet tall and is doesn't smell as anything you
+have met before. He has no clothes but his skin seems very tough.
+~
+12 4 bflg zkt -800 S
+95 -40 -50 10d100+2000
+400 500 95 3d30+10 
+363 500 5 1d10 -1
+-1
+-1
+20000 1900000 5 8 0
+#4614
+queen galadriel woman m4614~
+Queen Galadriel~
+The most beautiful woman you have ever seen is sitting here.
+~
+As you look on the elven queen Galadriel you feel that your nerves become
+less tense. everything else in the world disappears for a moment as your
+thoughts flicker away. She is clad in linen and she wears a golden crown
+on her head.
+~
+1 1 blm h 1000 S
+89 -30 -40 10d50+2500
+400 500 60 1d30+30
+33 0 5 3d0+100
+28 0 10 2d0+95
+26 0 15 1d0+90 
+90 0 5 1d0+100
+105 0 5 3d0+20 -1
+-1
+-1
+25000 1500000 6 6 2
+#4615
+king elf celeborn m4615~
+Celeborn, the King of the Elves~
+The king of the elves is resting here.
+~
+The king of the elves, Celeborn, is very handsome but yet his
+face looks grim. He is clad in a shining mail and a long sword 
+is placed beside him.
+~
+1 4 bimf r 800 S
+80 -30 -40 0d0+3000
+400 500 86 5d10+50
+36 0 5 2d1
+75 0 5 2d1 -1
+322 100 -1
+-1
+10000 1200000 6 6 1
+#4616
+elf listener~
+The young elf~
+A young elf is sitting here enchanted by the stories of the elder.
+~
+The young elf seems to be far away over the shores in his minds. He is
+clad in a leather jerkin.
+~
+1 4 bchlm 0 400 A 39 1
+#4617
+elf steward m4617~
+the elven steward~
+An elf is here looking over the boats.
+~
+The elven steward is tall, dark-haired and is clad in a grey cloak. He
+looks quite busy mending a golden rudder from a ship.
+~
+1 4 lbg r 300 A 60 1
+#4618
+elf guard elven m4618~
+the elven guard~
+An elven guard is standing here patrolling the area.
+~
+The elven guard is armed with a long sword and a bow. He is very tall and
+seems to know everybody passing by.
+~
+1 0 fimlb r 100 A 55 1
+#4619
+royal guard elven m4619~
+the royal elven guard~
+A royal elven guard is standing on his post watching for perils.
+~
+The royal elven guard looks very proud where he stands. He is clad in
+shining armour and wields a silver longsword.
+~
+1 4 bfgilm fh 350 S
+70 -20 -38 4d100+750
+400 500 90 4d13+5
+318 500 10 0d0 -1
+-1
+-1
+1000 600000 8 8 1
+#99999
+$~

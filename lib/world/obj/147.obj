@@ -1,0 +1,1170 @@
+#14701
+ticket key~
+a slightly torn ticket~
+A slightly used ticket lies discarded on the floor~
+~
+18 0 0 b ao
+14714 0 0 0 0 100
+1 0 0
+E
+ticket key~
+The ticket does not seem to have been used for a very long time. Any
+text that originally was on it is now unreadable.
+~
+#14702
+star dressing room key~
+a dressing room key~
+A small key with a huge star on it gleams softly.~
+~
+18 0 0 0 ao
+14773 0 0 0 0 100
+1 0 0
+E
+dressing room~
+The key must belong to the only star around and consequently go to his
+room.~
+E
+star~
+Inscribed on the star is a name. Hulio.~
+#14703
+dust key wine~
+a key that smells of fruit~
+Someone must have dropped the most ordinary key looks here~
+~
+18 0 0 0 ao
+14730 0 0 0 0 100
+2 0 0
+E
+dust key wine~
+The key looks like any other key, keyish. The only thing that separates
+it from others is that it smells somewhat fruity.~
+#14704
+key chilling frosty~
+a key covered with frost~
+A frosty key spreads chilling streaks on the ground~
+~
+18 0 0 0 ao
+14793 0 0 0 0 100
+1 0 0
+E
+frost chilling key~
+The key chills your hand as you hold it. Wonder why?~
+#14705
+necklace shiny chain key~
+a shining necklace~
+A shiny little chain lies discarded on the ground~
+~
+18 0 0 jl aco
+14795 0 0 0 0 100
+12 10000 0
+E
+necklace shiny chain key~
+On the glowing chain is attached a key in a little triangular holder. It
+seems like the key is softly humming to itself. The holder has some odd
+insignia engraved upon it.~
+E
+insignia~
+The insignia shows an ever-vigilant eye watches from its glowing
+red-orange background. Three of the sides is a little longer that the
+other three just like you would get if you cut the corners off a
+equilateral triangle. The eye looks at you strangely - calling...~
+E
+eye~
+As an extremely secret, extremely evil society, Glob Inc has tentacles
+that have threaded their way into the hearts of societies around the
+world. New members are given this medallion or some other piece of body
+wear bearing the Glob insignia. They are told that it is a gift and a
+means for them to identify themselves to others. But they all experience
+the feeling of being watched as well, for ever and ever afterwards.
+~
+E
+glob~
+Little is known about this society. Perhaps it is best not to know
+too much. Just for your own sake, as they are already watching you.~
+B j
+#14706
+key something crude lodge~
+a crude key~
+A crude key seems to fit a mountain lodge door somewhere.~
+~
+18 0 0 eu abo
+14794 0 0 0 0 100
+10 0 12000
+E
+lodge key something crude~
+The key feels bad in your hand. There must be some really mean forces
+that control the door to which this key leads.~
+#14710
+short guard jacket~
+a door guard jacket~
+A short jacket with thick lining looks empty.~
+~
+9 30 abefhijmnp 0 ad
+10 30 0 0 0 0
+12 1000 0
+E
+short guard jacket~
+The jacket is big and fluffy and unless you got a very shaved head and
+stands in front of a door, it will look stupid on you.~
+A
+3 -4
+A
+18 1
+A
+21 3
+#14711
+fur long coat~
+a long furry coat~
+A large heap of fur lies tossed away.~
+~
+11 30 dn go ak
+30 0 0 0 0 0
+23 2000 100
+E
+fur long coat~
+Stroking your hand over the fur you can feel its smoothness. The coat
+must have belonged to a great hunter, because the fur is not of any
+common sort.~
+A
+17 -10
+A
+13 20
+A
+14 10
+A
+21 5
+#14712
+captains harness~
+a guard captain's harness~
+A big metal ball with large holes wobbles a bit on the floor.~
+~
+9 40 acdefiklmos aw ad
+14 40 0 0 0 0
+48 3000 0
+E
+harness~
+The harness is fully polished up and you can make faces in it that you
+would have to pay a fortune at the amusement park to access.~
+A
+17 5
+A
+24 5
+A
+2 -2
+A
+12 25
+#14713
+stave remembrance stick~
+stave of remembrance~
+A stick long since forgotten has elapsed someone's grasp.~
+~
+4 20 cdhklops 0 ao
+80 5 5 42 0 0
+5 2000 0
+E
+stave remembrance~
+How much you stare at the stave does not make a difference you still
+does not remember how its looks when you put it away again.~
+#14714
+colorful umbrella~
+a very tiny umbrella~
+A tiny umbrella with wet handle is in your way all the time.~
+~
+5 1 e hin an
+1 1 2 12 0 0
+1 1 1
+E
+colorful umbrella~
+The umbrella seems to be in suitable size for the tiniest of fairy
+children or perhaps for a humanized mouse. It has got sharp ends which
+you find rather uncomfortable for an umbrella. But then again who knows
+what turns fairies on...~
+A
+18 3
+A
+19 1
+#14715
+drink white fluid glass milk~
+a white glass~
+someone placed a glass stained by a whiteish fluid on the ground~
+~
+17 0 0 0 ano
+2 2 10 0 0 0
+1 15 1
+E
+drink white fluid milk glass~
+You will not find out what it is until you actually drink it, but by
+looking and smelling at the white fluid you discover no poisons. Actually
+you feel certain that having a drink of this is good for you.~
+#14716
+cocktail food drink glass drink~
+a wide glass~
+a wide glass perfect for a cocktail is dropped here~
+~
+17 0 0 a ano
+4 4 8 0 0 0
+1 40 0
+E
+cocktail food drink glass drink~
+The cocktail is a local speciality with extra everything in it. Bits of
+fruit and juices mixed up with alcohol and a shimmering umbrella on top
+makes this drink something worth sipping on for a while.~
+#14717
+beer tankard~
+a huge tankard~
+a large tankard stands discarded on the ground~
+~
+17 5 0 0 ano
+10 10 1 0 0 0
+5 50 0
+E
+beer tankard~
+The tankard is robust and used more than once for the delicious beer of
+Ma Globs Dancing Parlor. There is even a MGDP insignia on it showing it
+off as property of the parlor. So do not even dare to take it outside the
+door because the revenge will come down hard, as truly as the headache.~
+E
+insignia MGDP~
+The insignia reads MGDP for Ma Globs Dancing Parlor.~
+A
+18 2
+A
+19 1
+A
+3 -2
+A
+4 -2
+#14718
+odd fruit~
+an odd fruit~
+some kind of fruit you never seen before has rolled down on the ground~
+~
+19 0 0 0 ano
+10 0 0 0 0 0
+1 37 0
+E
+odd fruit~
+The fruit in your hands is of a brand you have never seen before. It
+smells good and feels soft and well balanced in your hand. Try it out and
+let the tastes fill your mouth.~
+#14719
+celery green~
+a piece of green celery~
+a piece of green celery is dropped here for everyone to step on~
+~
+19 0 0 0 ano
+4 0 0 0 0 0
+1 17 0
+E
+celery green~
+The celery looks like celery do the most. The taste is most surely the
+same too. No surprices here. Try buying a drink to flush it down.~
+#14720
+book reservations~
+A huge book of reservations~
+Someone must have hid the Dancing Parlors table reservation book here.~
+~
+9 20 k g aj
+3 20 0 0 0 0
+100 1000 0
+E
+book reservations reservation~
+The Ma Glob Dancing Parlor Restaurants Reservation Book. As the name
+implies, a very heavy book and most probably a book they don't want to
+have misplaced. Unfortunately you cannot open it as it is locked with
+magic.
+~
+A
+14 -20
+A
+1 -1
+#14721
+deck cards~
+a deck of cards~
+Fifty-two pieces of sturdy paper lie scattered before you~
+~
+12 2 0 t ano
+2 0 0 0 0 0
+2 1500 0
+E
+deck cards~
+Perfect for the poker evening. A deck of cards. Now you will need a few
+markers and some beer and you have the full event.~
+E
+paper card~
+All the cards have small figures on them while just some have a picture
+of some old king, queen or their valiant warriors. Others just have oddly
+shaped dots on them.~
+A
+6 3
+A
+14 -10
+#14722
+spatula stick~
+a very thin yard long wooden stick~
+Yard long, half a foot wide and only a few millimeters thick wooden item~
+~
+5 30 bfhjnp f an
+30 4 4 2 0 0
+3 200 0
+E
+spatula~
+The Chemin de Fer spatula is one of its kinds. No other game could come
+up with a item as useful(less) as this one. Being carved out in a single
+piece of wood it is very flexible, but still very durable and does its
+work of moving cards with excellence.~
+A
+2 2
+A
+18 4
+A
+19 -2
+#14723
+roulette scraper~
+a long scraper~
+Someone dropped a roulette scraper here.~
+~
+5 35 bcjks b ao
+35 6 3 11 0 0
+10 1000 0
+E
+roulette scraper~
+The scraper is in fact only a long stick with a trans-axial disk in the
+end so that the croupier with a minimum effort can collect tokens from
+the table. And of course send tokens over if someone should win.~
+A
+18 -1
+A
+19 5
+A
+5 1
+#14724
+game token~
+a small token~
+A small game token must have slipped someone's pocket.~
+~
+13 1 0 a ao
+0 0 0 0 0 0
+1 5000 0
+E
+game token~
+The game tokens belong to the gambling tables of Ma Globs Dancing Parlor
+and only there. Taking them anywhere else will render them useless not to
+say offensive to the owner of that establishment.~
+A
+4 -4
+#14725
+dart darts pointy~
+a very pointy dart~
+A nice dart seems to be very out of place.~
+~
+5 50 abdefhijklmnp au aop
+50 6 6 8 0 0
+2 300 0
+E
+dart~
+As you weight the dart in your hand you can feel how well balanced it is.
+It would be very easy to hit a dartboard with this arrow and think of
+the damage you could create with it on a soft target...~
+A
+18 4
+A
+19 6
+A
+2 2
+A
+14 -40
+#14726
+sad face~
+the mimicry of a saddened face~
+A very sad face looks back at you.~
+~
+9 40 0 k ae
+8 40 0 0 0 0
+40 1 0
+E
+sad face~
+The long state of sadness has hardened the surface of the wallflowers
+face into this weird headwear.~
+A
+9 5
+A
+6 -2
+A
+13 20
+A
+1 1
+#14727
+drumsticks wooden drumstick~
+a robust wooden stick~
+a thick drumstick lays discarded on the ground~
+~
+5 40 abcefghijklmns b an
+40 6 3 7 0 0
+13 100 0
+E
+stick drumstick drumsticks wooden~
+You almost feel the need of raging amok in a drum solo when you look at
+this fine piece of craftsmanship.~
+A
+18 4
+A
+19 5
+A
+1 2
+A
+17 5
+B z
+#14728
+drumsticks wooden~
+a pair of wooden drumsticks~
+someone left two foot long sticks of wood on the ground~
+~
+4 45 abcdefhijklmnops bg ao
+36 4 4 23 0 0
+7 100 0
+E
+stick wooden drumstick~
+You almost feel the need of running amok in a totally wicked drum solo
+when you look at this fine piece of music craftsmanship.~
+A
+5 2
+#14729
+golden horn trumpet~
+a trumpet~
+a shimmering tube curls up as it gets a wider opening~
+~
+3 45 abcdefhijklmnops b ao
+80 2 1 96 0 0
+17 4000 0
+E
+horn golden trumpet~
+The shiny golden trumpet is a excellent piece of metal-smithing and would
+most likely get a fair price at any dealer. In the hands of a skilled
+bard the sound would make a audience notice you, no doubt about it.~
+#14730
+guitar~
+a plain guitar~
+A guitar that has seen its best days lies forgotten on the ground.~
+~
+4 45 abcdefhijklmnops 0 ajo
+99 99 4 7 0 0
+6 150 0
+E
+guitar~
+The guitar is a must at any party and it seems like this one have been at
+them all. The wooden boards are eroded and one string is missing but
+still it can get YOU the attraction of whoever you want and more.~
+A
+17 -10
+A
+6 3
+A
+14 -10
+#14731
+bag sand~
+a small bag of sand~
+a cloth bag filled with sand has been dropped here~
+~
+3 60 cdhkmops h ao
+35 1 1 79 0 0
+16 10 0
+E
+bag sand~
+The bag is filled with sand and would most certainly make a interesting
+impact if dropped from appropriate height.~
+#14732
+piano keys with wire in-between~
+two piano keys connected with some thread from a piano~
+two keys with a string attached seems slumped away~
+~
+5 50 abcdefghijlmnop cefjl ano
+50 6 6 3 0 0
+3 100 0
+E
+thread string keys~
+A classic in the society of secret killings. To pieces of wood with the
+ends of metal wire wrapped around each of them. There is a need for great
+skill to be able to use this properly but in the hands of a professional
+death would be very quick.~
+E
+key~
+These keys do not seem to fit anywhere but to a piano.~
+A
+18 5
+A
+19 5
+#14733
+ring small diamond~
+a ring with a very small diamond~
+a small ring with a even smaller something gleaming on it~
+~
+9 40 0 w ab
+10 40 0 0 0 0
+1 1500 0
+E
+ring diamond~
+It sure is small and all that. But that is so far away from importance as
+you can get. This is a gift of love.~
+E
+text~
+To My Honey - Forever - Bunny.~
+A
+12 20
+A
+4 2
+A
+3 2
+#14734
+nice jacket~
+a nice jacket~
+a rather nice jacket is dumped in on the ground~
+~
+15 35 0 it adk
+5 1 -1 0 0 0
+5 500 0
+E
+jacket~
+The jacket looks to be a rental. Nobody else would care to make those
+perfect folds on the arms and of course there is a nametag in the neck.
+~
+E
+name tag nametag~
+Property of WCO rentals.
+~
+A
+6 2
+A
+17 -12
+A
+13 20
+#14735
+Hulio Fan-club Pin~
+a Hulio Fan-club Pin~
+A pin must have come loose from a passing member.~
+~
+9 50 0 ao ac
+12 50 0 0 0 0
+1 100 0
+E
+pin fan club~
+This must be a member pin of the Hulio Fan Club. To apply just mail the
+fan club or visit your local fan club office. It is rather pretty too.~
+A
+9 -5
+A
+2 2
+A
+18 2
+A
+3 -2
+#14736
+tablecloth cloth~
+a well organized tablecloth~
+a piece of cloth formerly used a table cover lies neatly folded here~
+~
+11 45 dhlnp 0 ak
+45 0 0 0 0 0
+8 1000 0
+E
+tablecloth cloth~
+~
+A
+17 -12
+A
+12 10
+A
+0 0
+#14737
+white cloth~
+a folded white cloth~
+a spotless white cloth lies folded into a heap~
+~
+9 40 dhilnp 0 ai
+8 40 0 0 0 0
+4 100 0
+E
+white cloth~
+The cloth really is a towel, gently folded to wrap around your arm to add
+that extra touch to a very skilled waiter. A little insignia
+is visible on the towel side.~
+E
+insignia MGDP~
+The insignia reads MGDP for Ma Globs Dancing Parlor.~
+A
+20 10
+A
+6 4
+#14738
+fork~
+a fork~
+Someone has tossed a fork on the floor.~
+~
+5 3 b 0 ano
+3 3 3 12 0 0
+1 100 0
+E
+fork~
+The piece of cutlery most people prefer(and the only some people can use)
+It is made out of a silvery metal and feels a bit heavy in your hand.
+~
+A
+19 3
+#14739
+knife~
+a knife~
+Someone has tossed a knife on the floor.~
+~
+5 3 b 0 ano
+3 3 3 3 0 0
+1 100 0
+E
+knife~
+The piece of cutlery least people prefer(still the only one some people
+can not live without and some can not live with) It is made out of a
+silvery metal and feels a bit heavy in your hand.~
+A
+18 3
+#14740
+spoon~
+a spoon~
+Someone has tossed a spoon on the floor.~
+~
+5 3 0 0 ano
+3 3 3 7 0 0
+1 100 0
+E
+spoon~
+The piece of very useful cutlery. Try the soup without one and you'll see
+It is made out of a silvery metal and feels a bit heavy in your hand.
+~
+A
+5 2
+A
+2 2
+#14741
+wide open shirt~
+Hulio's wide open shirt~
+Someone has torn off Hulios flowered shirt and dropped it here.~
+~
+11 30 0 a adk
+30 0 0 0 0 0
+3 2300 0
+E
+shirt open wide~
+Hulio's wide shirt screams of coloured flowers and smells of perfumes de
+homme. No one but Hulio himself (or a wannabe) would use it willingly.~
+A
+17 -10
+A
+2 2
+A
+6 3
+#14742
+whistle~
+a small whistle~
+A small whistle lie discarded on the ground.~
+~
+11 25 0 hjn abcho
+25 0 0 0 0 0
+3 0 0
+E
+whistle~
+This is just not any whistle. This is the real curse of the dance floor.
+It is a Jenka Dance Leader whistle. Nobody around can resist the charms
+of the dance leader to join in for a round or five of Jenka.~
+A
+14 50
+A
+9 -10
+A
+19 -3
+B jk
+#14743
+stiff body surface~
+a very stiff body surface~
+it looks like someone carved out a human and only left the front shell~
+~
+9 50 acefgijklmos 0 ad
+20 50 0 0 0 0
+50 0 0
+E
+stiff body surface~
+The surface of a tango dancer who is capable of keeping his
+plastic smile on in any situation must be a good protection towards most
+things. It is not a pretty sight but it works...~
+A
+14 50
+A
+2 -2
+A
+5 2
+A
+21 25
+#14744
+sacky trousers cloth leggings~
+a pair of sacky trousers~
+A heap of cloth used for leggings is placed here.~
+~
+15 40 0 0 af
+50 1 -1 0 0 0
+10 1000 0
+E
+sacky trousers cloth leggings~
+The latest of fashions for youngster shakers. Trousers that hardly even
+stay up and that are 5 sizes too big(that includes the price). If you
+snitch up the legs and add some suspenders you get yourself a nice bag.~
+A
+17 -8
+A
+9 -8
+A
+14 -8
+A
+14 -8
+#14745
+fat flesh tire~
+a fleshform tire~
+An oozing piece of fat is shivering in a corner.~
+~
+19 45 aceiklms gj al
+60 0 0 0 0 0
+80 1 0
+E
+fat tire flesh food meat~
+You automatically turn away from this disgusting sight. AND you do not
+put your fingers in it without washing before and after and after and
+after.
+~
+A
+13 50
+A
+14 -50
+A
+17 -14
+A
+2 -2
+#14746
+hairy chest~
+a hairy chest~
+the hairy chest of a Hulio wannabe seems to have lost its owner~
+~
+11 55 abcdefhijklnops fg ad
+55 0 0 0 0 0
+35 0 0
+E
+hairy chest~
+The hairy chest of a Hulio wannabe has apparently been glued on the
+pretenders own chest (could explain the hair on both sides). Now it is up
+to you if you want to carry on the unfulfilled destiny of the imposter.~
+A
+17 -10
+A
+9 10
+A
+6 3
+A
+13 30
+#14747
+chest hair curler~
+a chest hair curler~
+an iron stick surrounded by a bad smell slowly scorches the floor~
+~
+3 35 cks abu ao
+55 5 5 5 0 0
+5 555 0
+E
+iron curler~
+The red hot iron hair curler is only for someone who is willing to pay
+the price of scorched fingers unless the person handling it is really
+skilled. The danger for the unaware is pretty obvious to as you see a
+faint streak of smoke coming from something that got stuck on it.~
+A
+20 15
+A
+5 1
+#14748
+gold golden chain necklace~
+a HUGE golden necklace~
+A heavy golden chain gleams invitingly for your eyes.~
+~
+9 43 abcdefhijklmnops b ac
+13 43 0 0 0 0
+40 4000 0
+E
+golden necklace gold chain~
+You feel the sudden urge to say 'YO !' but you suppress it. The links are
+seamless and are made out of solid metal. Worth a fair price at any
+dealer you would guess, but you would have to cut some as its not yours.
+~
+A
+6 3
+A
+5 1
+A
+13 40
+A
+18 2
+#14749
+yellow elastic waterproof gloves~
+a pair of elastic gloves~
+a pair of bright yellow tight gloves lies in a small pool of water~
+~
+22 40 hnp w ah
+0 0 0 0 0 0
+4 100 0
+E
+yellow elastic gloves waterproof~
+The pair of yellow gloves are of the waterproof kind and of course of
+one-size-fits-all manufacturing. There is no excuse. Go home and do your
+dishes. They are waiting for YOU !!!~
+A
+2 2
+A
+6 -2
+A
+17 -9
+A
+13 -10
+#14750
+uncle juan T-shirt~
+a Uncle-Juan's T-shirt~
+Someone has thrown away a rather used T-shirt smelling of tacos and
+burrito sauce~
+~
+9 35 cks at ad
+7 35 0 0 0 0
+10 10 10
+E
+uncle juan t-shirt~
+Uncle Juan in Midgaard has most definitely sponsored this T-shirt and
+it looks like the last owner was a real fan. Stains and spots of sauce
+almost cover the front side. The smell is not making you hungry.~
+E
+stains spots sauce~
+Ketchup, mustard, dip, cheese, dried in meat of some sort, dressing and
+almost anything you can find in a taco-bar is present. Perhaps you should
+try to suck on the shirt to attain nutrition from all food groups at
+once.
+~
+#14751
+dirty towel~
+a very dirty towel~
+a very dirty and thereby colorful towel is dropped here~
+~
+3 55 cdhklnps b ao
+55 3 3 10 0 0
+21 3 0
+E
+dirty towel~
+Someone did NOT clean this towel. At least not this century. Must accept
+that the quality of the fabric must be very good to withstand such
+treatment for so long but now it is to late to recover anything from it.
+~
+B l
+#14752
+cradle cold~
+This cradle should not be moved around - GIVE IT BACK !!!~
+A huge very cold cradle stands in front of you~
+~
+15 0 0 bhn 0
+150 9 14704 0 0 0
+1 1 1
+E
+cradle cold~
+The cradle seems to be a part of the cold store. Even the strongest would
+not be able to remove it from here. But with the right key you would be
+able to open in and take a peek inside.~
+#14753
+duck inner loin~
+a piece of duck inner loin~
+a rather small piece of meat is discarded here~
+~
+19 0 0 0 ao
+15 0 0 0 0 0
+2 150 0
+E
+duck loin inner meat~
+The meat is raw but put in the hands of a expert at Ma Globs Dancing
+Parlor your most delicate food fantasies would be able to come true.~
+#14754
+ancient bottle wine~
+a bottle of ancient wine~
+A very dusty bottle is carefully placed before you.~
+~
+10 45 0 g ao
+99 61 3 0 0 0
+2 2000 0
+E
+wine bottle ancient~
+No bottle of wine you have ever seen before has been this old. The cork
+is in place so if it have been handled fairly the wine should still be
+drinkable. No dust in the world is going to change that. The label tells
+a bit about when and where the product was made.~
+E
+label~
+Wish-ful distilleries.
+From the fair slopes of Tynstri comes this sweet wine
+   as a blessing to body and soul.
+~
+#14755
+broken bottle~
+a broken bottle~
+A little bit more than just a bottleneck lies scattered at you feet.~
+~
+5 15 bfhjlnp f ano
+15 5 4 3 0 0
+0 0 0
+E
+broken bottle~
+No text. No label. Just a bottleneck with very sharp edges.~
+A
+18 2
+A
+19 4
+A
+3 -3
+A
+4 -1
+#14756
+magazine~
+a magazine~
+a tabloid magazine is all read out~
+~
+13 0 aeim g ano
+0 0 0 0 0 0
+3 2 0
+E
+tabloid magazine~
+And YES I only read them for the interesting articles. Don't you ever
+believe anything else you hear.~
+E
+articles~
+You read these too?  Very interesting I can assure you.~
+A
+3 -2
+A
+4 -2
+#14757
+blue sizzling box~
+a small sizzling box~
+a faint sparkle can be heard from a blue box in the corner~
+~
+3 45 cdhklnps bg ao
+80 5 5 30 0 0
+38 600 0
+E
+box blue sizzling~
+The box is very heavy for its size. Clear blue, as your find suitable as
+there are small blue streaks going between two metal pegs on top of the
+box. There is also a little marker next to the pegs saying 'That Way'.~
+#14758
+dragon blue scales~
+a clear blue dragon scale shield~
+Someone has sewn together blue dragon scales and then dropped them here~
+~
+9 50 abcefijkms 0 ajo
+10 50 0 0 0 0
+45 4000 0
+E
+blue dragon scales~
+Someone have gone a lot of trouble sawing all these clear blue scales
+together. Collecting them would have a rather dangerous job too as not to
+many dragons let people gather them. The shield feels a bit heavy but on
+the other hand it delivers quite a bit of protection.~
+A
+20 15
+#14759
+dragon blue scales~
+a clear blue dragon scale armor~
+Someone has sewn together blue dragon scales and then dropped them here.~
+~
+9 50 acfjkms b ad
+17 50 0 0 0 0
+88 5000 0
+E
+blue dragon scale~
+The scales form a rather uncomfortable protection as there is no soft
+leather on the inside which is common practice for heavier armor, but if
+you are in a hurry and up against a dragon, those things are rather
+minor.
+~
+A
+20 25
+A
+24 5
+A
+5 1
+A
+2 -2
+#14760
+evil grin BOB~
+the evil grin of BOB~
+The never fading grin of a very evil man mocks you from the ground.~
+~
+9 55 bp acejl ae
+12 55 0 0 0 0
+1 1 1
+E
+bob evil grin~
+Bobs face is not a very nice sight, but preserved in the correct way it
+can be used to scare the calmest people. But then only the most evil of
+evil would even think the idea of strapping on someone else's face.~
+A
+9 10
+A
+19 2
+A
+6 -4
+A
+3 2
+#14761
+boots evading BOB~
+a pair of soft boots~
+A soft pair of boots evades you every time you reach for them.~
+~
+4 50 dfhlnop aejlpB ago
+109 2 2 2 0 0
+20 5000 0
+E
+boots evading bob~
+These fair leather boots are so very soft that you almost cannot feel the
+ground below. A good guess would be that if you want to make the maximum
+distance between you and your opponents this is the right tool.
+~
+A
+17 -13
+A
+2 4
+#14762
+BOB lodge membership ring~
+a lodge membership ring~
+A lodge ring rolls around on the ground radiating darkness from within.~
+~
+9 50 0 jlp ab
+12 50 0 0 0 0
+1 10000 0
+E
+membership ring lodge bob~
+This ring seems to be the membership sign of some odd group of people.
+Hidden away out in the darkest corner of the forest they grow silently in
+power and one day they just might let you come to visit, one last time...
+~
+A
+20 10
+A
+1 2
+A
+19 2
+#14763
+Ma Globs laundry Wet Dress~
+a soaking wet evening dress~
+It looks like someone dropped a piece of laundry here.~
+~
+17 60 dhlnp gjlntv ad
+60 60 14 -1 0 0
+12 40000 10000
+E
+wet dress~
+Lifting the soaking cloth up in the air you see that it is a dress.
+Trying to squeeze the water out of it you notice very quickly that it
+just keep coming more and more. Now why would Ma Glob(the previous owner)
+walk around in dress that never would dry up ? Guess it's a bit to late
+to ask.
+~
+E
+water~
+If you press water out of the dress it is drinkable at your own risk.~
+A
+14 -100
+A
+17 -90
+A
+2 -2
+A
+22 22
+#14764
+extra boosting metal bottle~
+a little metal bottle~
+a little bottle stands forgotten giving away a smoky smell~
+~
+17 20 0 hpt ao
+10 6 5 0 0 0
+2 100 0
+E
+metal bottle boosting extra~
+There should a little drop of joy left in there if you just try real hard
+you might get it out. Otherwise it seems it's your turn to get a refill.
+~
+A
+1 2
+A
+6 2
+#14765
+colorful umbrella~
+a very tiny but colorful umbrella~
+A tiny umbrella with wet handle in your way all the time.~
+~
+4 1 0 a ao
+20 1 1 35 0 0
+1 1 1
+E
+colourful umbrella~
+The umbrella seems to be in suitable size for the tiniest of fairy
+children or perhaps for a humanized mouse. It has got sharp ends which
+you find rather uncomfortable for a umbrella. But then again who knows
+what turn fairies on...
+~
+#14766
+fountain crystal~
+sparkling crystal fountain brutally stolen from Ma Globs office~
+A huge single crystal fountain sparkling from a light within~
+~
+23 0 0 achnxz 0
+99999 99999 6 0 0 0
+9999 0 0
+E
+crystal fountain~
+The huge single crystal fountain stands firmly in front of you. It looks
+very inviting to just reach in and take one of the glasses standing on
+small protrusions on the fountain. Candles also fill up the small
+cavities of the ever steaming fountain of refreshment.
+~
+#14767
+full white chef suit~
+a full white chef suit~
+a bunch of white clothes has been dropped in little pool of flour~
+~
+11 45 adhklnop bg ad
+45 0 0 0 0 0
+23 2000 0
+E
+full white suit chef~
+The chef suit is astonishingly white and without stains. Either the
+chefs have some sort of trick or the suit itself is self cleaning. The
+cloth is folded twice over the chest allowing for the button to hold up.
+~
+A
+17 -15
+A
+6 3
+A
+12 30
+A
+23 15
+#14768
+Ma14768~
+small alcove~
+two small alcoves leading into what seems to be nothingness~
+~
+26 110 abcdefghijklmnops fhjklpvz 0
+14703 0 -1 110 110 -1
+9999 0 0
+E
+alcove~
+The alcove is only for the guards that protects the Office. Only they
+know the secret commands that allows entry. Respect that and you will
+live just a tiny winy bit longer before they try to charge you.
+~
+#99999
+$~

@@ -1,0 +1,959 @@
+M
+ 328
+$N makes a feeble attempt to parry your killing attack.~
+§RYou try to parry $n's attack but fail.  You are dead.§N~
+$n smashes through $N's parry, head, body and everything else.~
+$N parries your attack.~
+§GYou parry $n's attack.§N~
+$N parries $n's attack.~
+§Y$N parries your attack, escaping some damage.§N~
+§GYou parry $n's attack, escaping most of the damage.§N~
+$N parries $n's attack, escaping some damage.~
+M
+ 318
+$N tries to dodge your attack. That was the last thing $E did.~
+You try to dodge $n's attack but everything is suddenly black.~
+$N tries to dodge $n's killing attack, but fails.~
+$N dodges your attack.~
+You dodge $n's attack.~
+$N gracefully dodges $n's attack.~
+$N dodges your attack, receiving less damage.~
+You dodge $n's attack, avoiding damage to your head.~
+$N dodges $n's attack, avoiding damage to $S head.~
+M
+ 338
+$N tumbles right into your killing attack. Stupid one.~
+You tumble away... into death.~
+$N tries to tumble away from $n's attack, but fails and dies.~
+$N tumbles away from your attack.~
+You tumble away from $n's attack.~
+$N tumbles. $n misses $M.~
+$N tumbles. You nearly miss $M.~
+You almost tumbled away from $n's attack.~
+$N tumbles, but gets hit by $n anyway.~
+M
+ 363
+~
+~
+~
+You throw some sand into $N's eyes.~
+$n throws something in your eyes. You can't see.~
+$n throws some sand into $N's eyes.~
+You try to throw some sand into $N's eyes, but miss.~
+$n tries to throw some sand into your eyes, but misses.~
+$n tries to throw some sand into $N's eyes, but misses.~
+M
+ 363
+#bNotify Mokky: Code 363g~
+#bNotify Mokky: Code 363h~
+#bNotify Mokky: Code 363i~
+You bite $N's leg.~
+$n bites you hard on the leg.  Arrrgh!~
+$n bites $N's leg real hard.~
+You bite at $N's leg, but $M wriggles free.~
+$n bites at your leg, but you wriggle free.~
+$n bites at $N's leg, but $M wriggles free.~
+M
+ 363
+#bNotify Mokky: Code 363m~
+#bNotify Mokky: Code 363n~
+#bNotify Mokky: Code 363o~
+You twist $N's nose.~
+$n twists your nose extremely hard.~
+$n twists $N's nose wickedly.~
+You try to twist $N's nose, but $M pulls back just in time.~
+$n tries to twist your nose, but you pull back just in time.~
+$n tries to twist $N's nose, but $M pulls back just in time.~
+M
+ 384
+You rip $N's head off.~
+$n rips your head off.~
+$n rips $N's head off.~
+You claw $N's eyes.~
+$n claws your eyes out.~
+$n claws $N's eyes out.~
+You claw $N's eyes.~
+$n claws your eyes out.~
+$n claws $N's eyes out.~
+M
+ 385
+You pounce on $N and proceed to rip $M apart.~
+The last thing you see is $n pouncing on you.~
+$n pounces on $N and proceeds to rip $M apart.~
+You pounce on $N.~
+$n pounces on you.~
+$n pounces on $N.~
+You pounce on $N.~
+$n pounces on you.~
+$n pounces on $N.~
+M
+ 377
+Your tail lash snaps $N in half.~
+The last thing you see is a huge tail.~
+$n's tail snaps $N in half.~
+You lash $N with your tail.~
+$n lashes you with $s tail.~
+$n lashes $N with $s tail.~
+You lash $N with your tail.~
+$n lashes you with $s tail.~
+$n lashes $N with $s tail.~
+M
+ 373
+Your uppercut sends $N sprawling into death.~
+$n uppercuts you.  You hear you neck break.~
+$n uppercuts $N, killing $M instantly.~
+Your jab misses $N.~
+$n misses you with $s jab.~
+$n misses $N with $s jab.~
+You hook $N.~
+$n hooks you.~
+$n hooks $N.~
+M
+ 321
+You fly-kick $N's head off.~
+$n hops up in the air and kicks you hard on the head.  The darkness...~
+$n fly-kicks $N, sending $S head flying.~
+Your roundkick misses $N.~
+$n's roundkick missed you. Phew!~
+$n tries to roundkick $N but misses.~
+You side-kick $N in the guts.~
+$n side-kicks you in the guts.~
+$n side-kicks $N in the guts.  Ouch!~
+M
+ 363
+#bNotify Mokky: Code 363r~
+#bNotify Mokky: Code 363s~
+#bNotify Mokky: Code 363t~
+You poke $N in the eyes, getting an anguished scream.~
+$n pokes $s fingers in your eyes.  Aaaaaah!~
+$n pokes $N in the eyes.~
+You try to poke $N in the eyes, but miss.~
+$n tries to poke you in the  eyes, but misses.~
+$n tries to poke $N in the eyes, but misses.~
+M
+ 373
+Your power punch decimates $N completely.~
+$n punches you very hard on the nose, breaking bone and brain.~
+$n punches $N, sending $M reeling to the ground. K.O.~
+Your left punch misses $N.~
+$n misses you with $s wild swing.~
+$n misses $N with $s wild swing.~
+You punch $N in the stomach.~
+$n punches you in the stomach.~
+$n punches $N in the stomach.~
+M
+ 321
+You round-kick $N's head off.~
+$n hops up and round-kicks you hard.  The void...~
+$n round-kicks $N, sending $S head bouncing.~
+Your fly-kick misses $N.~
+$n's fly-kick missed you.~
+$n misses $N with $e fly-kick.~
+You drop-kick $N.~
+$n drop-kicks you.~
+$n drop-kicks $N.~
+M
+ 5
+You burned $N to death!~
+You have been burned to death by $n!~
+$n has burned $N to death!~
+You miss $N with your burning hands.~
+$n reaches for you with burning hands, but misses!~
+$n tries to burn $N, but $E escapes!~
+You burn $N with your hot little hands!~
+You cry out in pain as $n grabs you with burning hands!~
+$N cries out as $n burns $M!~
+M
+ 6
+Your lightning bolt kills $N!~
+You are electrocuted to death by a lightning bolt sent by $n!~
+The dead body of $N sizzles in the heat from a lightning bolt sent by $n!~
+Your lightning bolt scorches the ground in front of $N, a misser!~
+The ground before you is scorched as $n misses you with lightning!~
+$N jumps backwards in time to avoid lightning sent by $n!~
+You hit $N with your lightning, bullseye!~
+You are hit by lightning sent by $n, OUCH!~
+$N screams in pain as lightning from $n penetrates $M!~
+M
+ 8
+You chill $N. Remember to put flowers on $S grave...~
+You feel chilled by $n and then you feel no more -- R.I.P.~
+$n touches $N, who slumps to the ground as a dead lump. Rather chilly, isn't it?~
+The atmosphere turns chilly as you miss $N!~
+You dodge $n and $s chill touch!~
+$n tries unsuccessfully to chill $N!~
+You chill $N!~
+You feel your life flowing away as $n chills you!~
+$n chills $N, who suddenly seems less lively!~
+M
+ 23
+$N falls down hitting $S head hard. Hehe.~
+The earth trembles and shivers.  You fall and hit your head hard.~
+$N falls down hitting $S head hard.~
+#bNotify Mokky: Code 23a~
+The ground shakes gently.~
+#bNotify Mokky: Code 23b~
+$N falls down.~
+You fall down getting bruises and small wounds.~
+$N falls down.~
+M
+ 37
+$N dies while looking rather shocked!~
+$n shocks you.  Unfortunately your heart can't stand it...~
+$n reveals with a shock that $N has left $S body!~
+$N rather shockingly evades your grasp!~
+You nimbly dodge a shocking grasp from $n!~
+$N shockingly evades the grasp of $n!~
+You get a good hold of the shocked $N!~
+You get a shock as $n gets too close to you!~
+$N looks shocked as $n grasps at $M!~
+M
+ 10
+YOU KILLED $N!!! -- don't you feel ashamed...~
+Your head is filled with all the colors of the rainbow before it bursts!~
+$n makes $N into a colorful corpse!~
+Your spray of color misses $N -- what a dull world...~
+$n unsuccessfully tries to add color to your life!~
+$n splashes color everywhere, except on $N.~
+Your own private rainbow hits $N in the face -- WOWIE!!~
+A sudden burst of colors sends you reeling!~
+$n throws colors at $N who in vain tries to escape!~
+M
+ 25
+$N crumples as you kill $M by draining $S energy!~
+As $n drains all of your energy, you look forward to the peace of the graveyard...~
+$n drains the energy of $N, who becomes a lifeless cocoon!~
+You need more draining lessons...~
+Luckily for you $n slept during draining lessons!~
+$n fails to drain $N -- what a waste of energy!~
+You drain $N of some of $S energy!~
+You feel less energetic as $n drains you!~
+$n drains $N -- what a waste of energy!~
+M
+ 26
+Your fireball hits $N with full force, causing an immediate death!~
+As you burst into flames of death, $n grins evilly...~
+The heat of a fireball from $n turns $N into a charred corpse!~
+Your fireball blooms a few feet before $N who claps $S hands in wonder.~
+$n aims a fireball at you but it blooms a few feet before you; you clap your hands at the show.~
+A fireball from $n misses $N -- what great fireworks around here!!~
+You throw a fireball at $N and have the satisfaction of seeing $M enveloped in flames!~
+You are enveloped in flames from a fireball sent by $n -- OUCH!!~
+$n smirks as $s fireball explodes into the face of $N!~
+M
+ 27
+You maliciously harm $N to death.~
+A harming force wracks your body, killing you.~
+$N screams as $S body is torn apart from within.~
+$N doesn't seem harmed in any way.~
+$n's spell doesn't harm you at all!~
+$N doesn't seem to be harmed at all by $n's spell!~
+You have the satisfaction of hearing $N scream in agony.~
+You scream in agony as a harmful force renders your body useless.~
+$N screams in agony.~
+M
+ 30
+Your lightning bolt shatters $N to pieces!~
+You feel enlightened by the lightning bolt $n sends, and then all is darkness -- R.I.P.~
+$N receives the full blast of a lightning bolt from $n ... and is no more.~
+Your aim goes from bad to worse, and your lightning bolt misses $N!~
+$n has bad aim, and the lightning bolt misses you!~
+$n fails in hitting $N with a lightning bolt!~
+The lightning bolt hits $N with full impact!~
+YOU'RE HIT!  A lightning bolt from $n has reached its goal!~
+$N wavers under the impact of the lightning bolt sent by $n!~
+M
+ 32
+Bright blue bolts of energy tear away the remaining life of $N!~
+You only have time to notice $n uttering strange sounds before everything is dark!~
+Magical blue bolts sent by $n blow $N into a bloody pulp!~
+Your magical bolts penetrate the air miles above $N.~
+You don't even have to duck as $n sends a magical bolt way over your head.~
+$n tries in vain to correct the course of the magic energy meant to hit $N.~
+You watch with self pride as your magic missile hits $N!~
+You stagger as a magic missile from $n hits you!~
+$n throws a magical bolt at $N who staggers under the assault!~
+M
+ 48
+Your arc fire sets $N aflame.  Hehe.~
+$n sends a reddish flame right into your head.  And it burns, burns, burns!~
+$n sends a reddish flame shooting at $N, burning hair, head, and life.~
+Your arc fire misses $N.~
+$n sends a reddish flame just above your head.~
+$n shoots a reddish flame, just missing $N.~
+Your arc fire fries $N.~
+$n sends a small reddish flame your way, burning you.~
+$n sends a small reddish burning flame at $N.~
+M
+ 52
+You send war and chaos at $N, killing $M.~
+War and chaos suddenly surrounds you, giving you no mercy.~
+A chaotic small cloud surrounds $n, leaving a corpse behind.~
+Nothing seems to happen to $N.~
+#bNotify Mokky: Code 52a~
+#bNotify Mokky: Code 52b~
+Your blazing warcloud surrounds $N.~
+A small blazing cloud of chaos surrounds you.~
+A small chaotic cloud surrounds $N.  You hear shrieks within.~
+M
+ 63
+Your sphere of energy surrounds $N briefly, leaving nothing after it.~
+A sphere of energy surrounds you.  Ack! The pain ... and darkness.~
+A sphere of energy surrounds $N briefly, leaving nothing after it.~
+Your sphere vanishes as fast as it came.~
+A sphere of light surrounds you briefly.~
+A sphere of light surrounds $N briefly.~
+Your sphere of energy surrounds $N, barbecuing $M.~
+A sphere of energy surrounds you.  Ack! The pain!~
+A sphere of energy surrounds $N, frying and blazing.~
+M
+ 72
+You shoot small stars of energy at $N.~
+$n shoots small stars at you.  Small, but hot.~
+$n shoots small stars at $N.~
+You miss $N with your flaring stars.~
+Small flaring stars flies about you.~
+$n shoot stars at $N, but not a single one hits.~
+You shoot small stars of energy at $N.~
+$n shoots small stars at you.  Small, but hot.~
+$n shoots small stars at $N.~
+M
+ 73
+$N screams silently as your spectre touches $M, then dies.~
+You scream silently as an unseen hand grabs you.~
+$N screams silently, as if nuts.~
+Nothing seems to happen.~
+$n's spectre touch does you no harm.~
+$N is unaffected by $n's spectre touch.~
+$N screams silently as your spectre touches $M.~
+You scream silently as an unseen hand grabs you.~
+$N screams silently, as if nuts.~
+M
+ 76
+You point at $N, killing instantly.~
+$n points at you.  You die without knowing what hit you.~
+$n points at $N.  $N dies in agony.~
+Nothing seems to happen to $N.~
+$n points at you. How rude!~
+$N is unharmed, although $n's deathstrike blasts around $M~
+You point at $N, making $M scream in agony.~
+$n points at you.  You scream in agony.~
+$n points at $N.  $N screams in agony.~
+M
+ 77
+The ice storm freezes $N and then blasts $M into pieces.~
+You are frozen by an unnatural ice storm.~
+The ice storm freezes $N and then blasts $M into pieces.~
+Your small ice storm doesn't seem to bother $N.~
+A chilly wind blows at you.~
+#bNotify Mokky: Code 77a~
+$N shudders in your ice storm.~
+An unnatural ice storm blasts at you.~
+$N is surrounded by an unnatural ice storm.~
+M
+ 86
+Your mind blade severs $N's brain.~
+Your head hurt suddenly.  So much...~
+$N screams in agony... but is soon silent.~
+Nothing happens to $N.~
+$n's mind blade passes harmlessly through you.~
+$n's mind blade passes harmlessly through $N.~
+Your mind blade cuts deep into $N.~
+Your head hurt all of the sudden.~
+$N holds $S head and screams.~
+M
+ 87
+Your rimefang blasts at $N, through $M and leaves little.~
+A giant icicle shoots at you, spreading your guts everywhere.~
+A gigantic icicle blasts at $N, leaving little behind it.~
+Your rimefang misses $N.~
+An icicle shoots at you, but misses.~
+An icicle from nowhere flies at $N, but missing $M.~
+Your rimefang cuts into $N.~
+An icicle hits you in the chest.~
+An icicle shoots at $N, hitting $M hard.~
+M
+ 88
+$N is caught is your maelstrom.~
+Chaotic energy crackles around you, at you, in you...~
+Chaotic energy crackles around $N, at $M, in $M.~
+$N isn't bothered by your maelstrom.~
+Chaotic energy crackles around you.~
+Chaotic energy crackles around $N.~
+$N is caught is your maelstrom.~
+Chaotic energy crackles at you.~
+Chaotic energy crackles at $N.~
+M
+ 90
+$N is caught in your singularity and is now as big as a cherry.~
+The ground suddenly tugs at you, sucking you in.~
+$N seems to implode.~
+Nothing happens to $N.~
+Apart from a sudden heavy pull, nothing happens.~
+$N is unaffected by $n's manipulation of the forces of gravity.~
+Your singularity draws $N in, damaging $M.~
+You are drawn to the ground, as if falling.~
+$N falls awkwardly to the ground, moaning.~
+M
+ 319
+You throw $o at $N hitting $S head causing $S brains to fall out!~
+You get $n's $o thrown at you splitting your skull... RIP!~
+$n throws $o at $N splashing $S brains.~
+You miss $N with you $o.~
+$n throws $o at you, which luckily misses.~
+$n throws $o at $N but misses.~
+You throw $o at $N.~
+$n throws $o at you.~
+$n throws $o at $N.~
+M
+ 319
+You throw $o at $N hitting $S head causing $S brains to fall out!~
+You get $n's $o thrown at you splitting your skull... RIP!~
+$n throws $o at $N splashing $S brains.~
+You miss $N with you $o.~
+$n throws $o at you, which luckily misses.~
+$n throws $o at $N but misses.~
+You throw $o at $N.~
+$n throws $o at you.~
+$n throws $o at $N.~
+M
+ 322
+You CRITICALLY hit $N, instantly slaying $M.~
+$n CRITICALLY hits you, instantly turning your lights off.~
+$n CRITICALLY hits $N, instantly slaying $M.~
+You aim at $N's weak point, but misses.~
+$n lunges at you but misses.~
+$n lunges at $N but misses.~
+$N screams in pain as you critically hit $M.~
+You cry out in pain as $n critically hits you.~
+$N cries out in pain as $n critically hits $M.~
+M
+ 323
+Your kick at $N's kidneys made $M die.~
+$n kills you by kicking your kidneys in!~
+$N dies from $n's last kick in $S kidneys!~
+Your beautiful full-circle kick misses $N by a mile.~
+$n makes a nice ballet step which plants a foot a mile above your head.~
+$n makes a nice ballet step which plants a foot a mile above $N's head.~
+Your boots need polishing again -- blood all over...~
+$n wipes $s boots in your face!~
+$n wipes $s boots in the face of $N!~
+M
+ 323
+Your kick at $N's face splits $S head open -- YUMMY!~
+$n aims a kick at your face. It splits your head in two!~
+$n neatly kicks $N's head into pieces -- YUMMY!~
+You miss your kick at $N's groin, much to $S relief...~
+$n misses a kick at your groin, you breathe lighter now...~
+$n misses a kick at $N's groin, much to $N's relief...~
+Your kick hits $N in the solar plexus!~
+You're hit in solar plexus, wow, this is breathtaking!!~
+$n kicks $N in solar plexus, $N is rendered breathless!~
+M
+ 495
+Poisonous darts shoot out from a concealed trap, killing you instantly!~
+#bNotify Mokky: Code 49a~
+Poisonous darts shoot out from a concealed trap killing $N instantly!~
+Poisonous darts shoot from a concealed trap, just missing you!~
+#bNotify Mokky: Code 49b~
+Poisonous darts shoot from a concealed trap, just missing $N.~
+A dart shoots out, piercing you!~
+#bNotify Mokky: Code 49c~
+A dart shoots out piercing $N, and causing $M to cry out in pain.~
+M
+ 495
+Deadly gas erupts from a concealed vent, killing you instantly!~
+#bNotify Mokky: Code 495a~
+Deadly gas erupts from a concealed vent, killing $N instantly!~
+#bNotify Mokky: Code 495b~
+#bNotify Mokky: Code 495c~
+#bNotify Mokky: Code 495d~
+Poisonous gas shoots out of a hidden vent, choking you!~
+#bNotify Mokky: Code 495e~
+Poisonous gas shoots out of a hidden vent, choking $N.~
+M
+ 496
+Small explosions cover you with agonizing fire, and you die.~
+#bNotify Mokky: Code 496a~
+$N is assaulted by a thousand tiny explosions, and collapses dead.~
+You are assaulted my hundreds of tiny explosions, but are not hurt!~
+#bNotify Mokky: Code 496b~
+$N is assaulted by hundreds of tiny explosions, but is unhurt!~
+You feel like your are being stabbed by a hundred needles!~
+#bNotify Mokky: Code 496c~
+$N hops around the room, as if $E is being stabbed!~
+M
+ 497
+Your muscles spasm for the last time as your lungs burst and you drown.~
+#bNotify Mokky: Code 497a~
+$N twitches one last time as $E runs out of air and drowns.~
+You lungs strain, but you do not drown.~
+#bNotify Mokky: Code 497c~
+$N's lungs strain, but $E does not drown!~
+Your lungs ache as you suffer from lack of air.~
+#bNotify Mokky: Code 497e~
+$N looks like $E is having difficulty breathing underwater!~
+M
+ 498
+You fall down and break your neck.~
+#bNotify Mokky: Code 498a~
+$N falls down with a sickening thud.~
+#bNotify Mokky: Code 498b~
+#bNotify Mokky: Code 498c~
+#bNotify Mokky: Code 498d~
+You fall. Ouch it hurts.~
+#bNotify Mokky: Code 498e~
+$N falls down.~
+M
+ 499
+You can only lie still as the last heartbeat ebbs...~
+#bNotify Mokky: Code 499a~
+$N suffers from blood lack, and the lack of a beating heart...~
+You lie on the ground suffering from bleeding wounds...~
+#bNotify Mokky: Code 499c~
+$N lies immobile on the ground...~
+You lie on the ground suffering from bleeding wounds...~
+#bNotify Mokky: Code 499e~
+$N lies immobile on the ground, suffering...~
+M
+ 56
+You breath fire, frying $N to ashes.~
+You are burned to ash as $n breathes fire on you.~
+$n makes $N to ash.~
+Your firebreath has little effect on $N.~
+$n breathes fire at you, but you luckily avoid it.~
+$N avoids $n's firebreath.~
+You breath fire, frying $N.~
+$n breathes fire, burning you.~
+$N is turned to ash, as $n breaths fire on $M.~
+M
+ 57
+You exhale nauseous gas, choking $N to death.~
+You die choking on the gas $n breathes on you.~
+$N chokes to death by $n's gas breath.~
+Your gas breath doesn't bother $N.~
+$n breathes gas at you, but wave it away.~
+$N avoids $n's gas breath.~
+You breath choking gas at $N.~
+$n breaths choking gas at you.~
+$N is choking in $n's gas breath.~
+M
+ 58
+You freeze $N to death with your icy breath.~
+You are turned to ice as $n breathes on you.~
+$n breathes frost, turning $N to ice.~
+Your frost breath has little effect on $N.~
+$n breathes frost at you, but you avoid it.~
+$N avoids $n's frost breath.~
+Your freeze $N with your breath.~
+$n breathes frost at you.  Brrrr.~
+$N is partly made ice, as $n breathes frost.~
+M
+ 59
+You breath acid, corroding $N to nothing.~
+You are corroded to nothing, as $n breathes acid on you.~
+$n corrodes $N to nothing.~
+Your acid breath has little effect on $N.~
+$n breathes acid at you, but it doesn't bother you.~
+$N don't seem too bothered by $n's acid breath.~
+You breath acid at $N.~
+$n corrodes you, breathing acid.~
+$N is corroded as $n breathes acid.~
+M
+ 60
+You breathe lightning, electrifying $N to death.~
+You are killed by $n's lightning breath.~
+$n kills $N with lightning breath.~
+Your lightning breath doesn't seem to harm $N.~
+$n breathes lightning at you, but you avoid it.~
+SN avoids $n's lightning breath.~
+You breathe lightning, electrifying $N.~
+$n hits you with lightning breath.~
+$N is hit by $n's lightning breath.~
+M
+ 315
+$N makes a strange sound, but $E is suddenly very silent as you place $p #yin $S back.~
+Suddenly $n stabs you in the back, R.I.P.~
+$n places $p #Nin the back of $N, resulting in some strange noises, a lot of blood, and a corpse.~
+$N quickly avoids your backstab and you nearly cut your own finger!~
+$n tries to backstab you, but you avoid $s!~
+$n tries to backstab $N but nearly cuts $s own finger!~
+$N makes a strange sound as you place $p #Rin $S back!~
+Suddenly, $n stabs you in the back!~
+$n places $p #Nin the back of $N, resulting in some strange noises and some blood!~
+M
+ 324
+$N doesn't recover from your bash! -- $E is dead.~
+As $n bashes at you, you give up living and die...~
+$N dies after $n has bashed $M!~
+As $N avoids your bash, you topple over and fall to the ground!~
+You dodge a bash from $n who loses $s balance and falls!~
+$N avoids being bashed by $n who loses $s balance and falls!~
+Your bash at $N sends $M sprawling!~
+$n sends you sprawling with a powerful bash!~
+$n sends $N sprawling with a powerful bash!~
+M
+ 22
+$N is dissolved by your goodness.~
+$n dissolves you, you regret having been so evil, and die...~
+$n completely dissolves $N!~
+$N is unaffected by your goodness!~
+$n thinks that $e is really good, and tries to dispel you.~
+$N laughs at $n as $e tries to dispel $M!~
+$N shivers and suffers from $s evilness!~
+$n makes your soul hurt and suffer!~
+$n makes $N's evil spirit shiver and suffer!~
+M
+ 33
+Poison burns intensely in your veins, you shiver, you die.~
+Your poison is too much for $N and $M dies.~
+$N has a few cramps and dies suffering.~
+$N seems resistant to your poison!~
+$n's poison has no effect on you!~
+$n's poison has no effect on $N.~
+You feel burning poison in your blood, and suffer.~
+You feel burning poison in your blood, and suffer.~
+$N looks really sick, and shivers uncomfortably.~
+M
+ 400
+You hit $N hard -- too hard it seems.~
+You get hit with such force that your soul is rendered useless.~
+$n kills $N with $s hit.~
+You miss $N by miles with your hit.~
+$n tries to hit you but misses.~
+$n clumsily misses $N with $s hit.~
+#bNotify Mokky: Code 400a~
+#bNotify Mokky: Code 400b~
+#bNotify Mokky: Code 400c~
+M
+ 401
+You pound the life juices out of $N!~
+$n pounds you until you look like a potato -- mashed and dead.~
+$n pounds $N wickedly, spreading $S life juices all over the place.~
+You miss $N and almost lose the little balance you have left.~
+$n misses you with $s slow pound.~
+$n misses $N with $s slow pound.~
+#bNotify Mokky: Code 401a~
+#bNotify Mokky: Code 401b~
+#bNotify Mokky: Code 401c~
+M
+ 402
+You pierce $N where it hurts most, spilling $S blood and life.~
+$n pierces you where it hurt most, killing you.~
+$n pierces $N, spilling $S blood and life.~
+Your badly aimed pierce misses $N.~
+$n misses you with $s slow pierce.~
+$n misses $N with $s badly aimed pierce.~
+#bNotify Mokky: Code 402a~
+#bNotify Mokky: Code 402b~
+#bNotify Mokky: Code 402c~
+M
+ 403
+You disembowel $N with your slash, spreading $S guts all over the place.~
+$n disembowels you with a cruel slash.  You can't keep your guts in.~
+$n disembowels $N with a powerful slash, sending some guts your way.~
+Your slash misses $N and you nearly cut off your own leg.~
+$n waves $s weapon like a feather duster, missing you entirely.~
+$n misses $N with a slash, nearly hitting you.~
+#bNotify Mokky: Code 403a~
+#bNotify Mokky: Code 403b~
+#bNotify Mokky: Code 403c~
+M
+ 404
+You destroy $N with your mighty blast, leaving a charred corpse.~
+You feel wounded -- too wounded -- you die...~
+$N lies suffering on the ground until no blood is left in $S body.~
+You blast at $N, but miss.~
+$n blasts at you, but misses.~
+$n's blast flies just wide of $N.~
+$n sends a furious blast at you, killing you instantly.~
+You lie on the ground suffering from your terrible wounds...~
+$N lies helplessly on the ground and suffers...~
+
+M
+ 405
+You whip $N, ripping out $S throat.~
+$n whips at you, ripping out your throat.~
+$n whips $N, ripping $S throat out.~
+Your whipping is slow and too badly aimed, missing $N.~
+$n tries to whip you but misses.~
+$n misses $s attempt to whip $N.~
+#bNotify Mokky: Code 405a~
+#bNotify Mokky: Code 405b~
+#bNotify Mokky: Code 405c~
+M
+ 406
+You pierce $N where it hurts most, spilling $S blood and life.~
+$n pierces you where it hurt most, killing you.~
+$n pierces $N, spilling $S blood and life.~
+Your badly aimed pierce misses $N.~
+$n misses you with $s slow pierce.~
+$n misses $N with $s badly aimed pierce.~
+#bNotify Mokky: Code 406a~
+#bNotify Mokky: Code 406b~
+#bNotify Mokky: Code 406c~
+M
+ 407
+You tear away $N face, body and life.~
+$n claws at your face.  Ahhh darkness.~
+$n claws at $N, sending pieces flying.~
+You try to claw at $N but misses.~
+$n misses you with $s sharp claws.~
+$n misses $N with $s deadly claws.~
+#bNotify Mokky: Code 407a~
+#bNotify Mokky: Code 407b~
+#bNotify Mokky: Code 407c~
+M
+ 408
+You snap your teeth at $N's neck, breaking it.~
+$n lunges at you and snaps $s teeth into your throat.~
+$n bites off $N's head.~
+You bite empty air as you miss $N.~
+$n snaps $s teeth after you, but misses.~
+$n tries to bite $N hard, but misses.~
+#bNotify Mokky: Code 408a~
+#bNotify Mokky: Code 408b~
+#bNotify Mokky: Code 408c~
+M
+ 409
+Your sting is too much for $N.  $E is dead.~
+$n stings you hard, sending you to death.~
+$n stings $N wickedly, killing $M.~
+Your badly aimed sting misses $N.~
+$n tries to sting you but misses.~
+$n misses $N with a sting.~
+#bNotify Mokky: Code 409a~
+#bNotify Mokky: Code 409b~
+#bNotify Mokky: Code 409c~
+M
+ 410
+You crush $N, sending parts everywhere.~
+$n crushes your head, brain, and anything else you might have.~
+$n crushes $N into bits and pieces.~
+You try to crush $N but miss.~
+$n is trying to crush you with a blow, but misses.~
+$n misses $N with a crushing blow.~
+#bNotify Mokky: Code 410a~
+#bNotify Mokky: Code 410b~
+#bNotify Mokky: Code 410c~
+M
+ 50
+You heal $N to perfect health.~
+A tingling sensation fills your body as $n completely heals you.~
+$n seem to have completely healed $N.~
+You heal yourself to perfect health.~
+A tingling sensation fills your body as you heal yourself.~
+$n seems to have healed $mself.~
+You heal some of $N's wounds.~
+A tingling sensation fills your body as $n heals you.~
+$n heals $N.~
+M
+ 15
+$N is now in perfect health after you have healed $M.~
+You feel in excellent health after $n's healing.~
+$N is completely healed by $n.~
+You are now in perfect health after healing yourself.~
+You feel better after your healing.~
+$n seems to have healed $mself.~
+$N seems to feel better now.~
+You feel better.~
+$N seems to feel better.~
+M
+ 16
+$N is now in perfect health after you have healed $M.~
+You feel in excellent health after $n's healing.~
+$N is completely healed by $n.~
+You are now in perfect health after healing yourself.~
+You feel better after your healing.~
+$n seems to have healed $mself.~
+$N seems to feel better now.~
+You feel better.~
+$N seems to feel better.~
+M
+ 28
+You have healed $N.~
+You have been healed by $n.~
+$N has been totally healed by $n.~
+You heal yourself.  Feels good.~
+You heal yourself.~
+$n heals $mself.~
+You heal $N.~
+$n has healed you.~
+$n heals $N.~
+M
+ 54
+You have animated $N.~
+You have been animated.~
+$n has animated $N.~
+You failed to animate the dead.~
+$n mumbles some words, but nothing happens.~
+$n mumbles some words, but nothing happens.~
+#~
+#~
+#~
+M
+ 65
+$N has come to your call through a wisp of red smoke.~
+You have been summoned.~
+$N arrives in a puff of reddish smoke.~
+You failed the summoning.~
+#bNotify Mokky: Code 65a~
+#bNotify Mokky: Code 65b~
+#bNotify Mokky: Code 65c~
+The summoning is partially successful.~
+The summoning is partially successful.~
+M
+ 79
+Your mental assault on $N destroys $S mind.~
+You scream in agony as $n destroys your mind!~
+You see $N scream in agony as $n destroys $S mind!~
+Your fail to find $N's psyche.~
+$n fails to warp your fragile little mind.~
+$n fails to damage the mind of $N~
+You grin wickedly as $N writhes in agony!~
+You clutch your head as $n attacks your mind!~
+$n assaults $N's mind who screams in agony!~
+M
+ 94
+Your phase knife strikes a vital area, and $N falls to the ground -- dead!~
+$n's phase knife cuts you, a bright light is the last thing you see.~
+$n's phase knife slices a vital area of $N, resulting in a quick death.~
+Your knife has not solidified enough, and passes through $N without harm.~
+$n's knife passes through you harmlessly. you are confused.~
+$N laughs at $n's measly attempt to stab $S with a nonexistent knife.~
+You create a knife from nothingness, and hurl it at $N!~
+A translucent blade buries itself in you chest, leaving quite a hole.~
+$n conjures a knife from thin air, and hurls it into $N's chest.~
+M
+ 95
+$N goes up in flames when hit by your flame ray!~
+You are enveloped in flames as you are hit by $n's flame ray!~
+$N goes up in flames when hit by $n's flame ray!~
+Your flame ray misses $N.~
+$n shoots a flame ray at you and misses.~
+$n's flame ray shoots off into the distance, missing $N.~
+$N catches on fire from your flame ray!~
+You start on fire from $n's flame ray!~
+$N catches on fire from $n's flame ray!~
+M
+ 96
+Your psychic scream drops $N to the floor, dead and unmoving.~
+A piercing sound fills your head, and the world goes black.~
+$n hurls a shrill scream, bursting the blood vessels in $N's head, resulting in death.~
+Your psychic scream leaves $N untouched.~
+$n hurls a loud shriek your way, nothing more.~
+$n's psychic scream leaves $N unharmed.~
+Your piercing scream invades the mind of $N, dropping your victim to $S knees.~
+Your ears ring with pain as $n drills a shrill scream into your mind.~
+$N covers $S ears as $n unleashes a piercing psychic scream.~
+M
+ 97
+You crush $N with your force projection, leaving behind a twisted mass of flesh and splintered bone.~
+Your chest grows tight, and your ribs crack one by one, liquefying your innards as you die.~
+$n crushes $N with $s force projection, leaving behind a twisted mass of flesh and splintered bone.~
+Your projection of force does no harm to $N.~
+$n's attempt at force projection falls pathetically short.~
+$n's projection of force leaves $N unaffected.~
+Your projection of force thrashes $N like a rag doll.~
+You feel immense pressure squeezing at your body.~
+A dense pillar of pure force lifts $N of $S feet.~
+M
+ 98
+Your explosives erupt around $N, causing your victim to burst into a pyre of flaming death.~
+Explosives from $N shatter your body, roasting your flesh. Your last memory is utter and complete pain.~
+$N erupts into a pyre of flames, and falls to the ground, dead and smoldering.~
+Your explosives sputter and die, leaving $N unharmed.~
+Explosives scatter at your feet, sputter, and die -- much to $n's dismay.~
+$n's explosives detonate with a muted piffle, causing no harm to $N.~
+Flames erupt from your fingers and envelop $N.~
+You are enveloped in hundreds of small but powerful explosives sent from $n.~
+$N suddenly erupts in a barrage of explosives shot forth from $n's fingers.~
+M
+ 99
+You laugh with glee as you consume $N in your imaginary flames.~
+You franticly roll around on the ground, burned to a crisp by $n's flames.~
+$n laughs as $e watches $N's failed attempts to put out an imaginary fire.~
+You snicker as $N laughs at your pitiful attempt at illusionary flames.~
+You laugh at $n's pitiful attempt at illusionary flames.~
+$N laughs at $n's pitiful attempt to make illusionary flames.~
+You smile as $N gets nicely burned by your flames.~
+You manage to put out $n's flames as you roll around on the ground.~
+$n smiles as $N gets burned by $s flames.~
+M
+ 100
+You drain the last of $N's life, and are left with a withered corpse.~
+$n has taken the last of your life, and everything turns black...~
+$n drains the last of $N's life, leaving a shriveled corpse.~
+$N smirks at you as $e prevents your weak attempt to drain $S life.~
+You evade $n's attempt at stealing your life essence.~
+$N snickers as $n's attempt to drain life fails.~
+$N gapes at you with a look of terror as you drain $S life.~
+You feel immobile, as your life is drawn from your body, and into $n's hands.~
+$N screams as $n yanks the essence of life from flesh.~
+M
+ 101
+Your shadow knife slices $N in the neck, resulting in a gush of blood and death.~
+$n's shadow knife strikes you in the throat! A spray of red is the last thing you see.~
+$n's shadow knife strikes $N in the throat, and once the spray of blood subsides, you see a corpse.~
+Your shadow knife misses $N by a few meters.~
+A shadow knife thrown by $n lands at your feet harmlessly.~
+$n's shadow lands at the feet of $N, resulting in no harm done.~
+You command a shadow, and it spears $N, spraying frothy red blood.~
+A shadow bounds from the ground, and spears you.~
+$n orders a shadow to strike $N. It looks painful!~
+M
+ 103
+Your expression changes to a grin as your dragon breath consumes $N.~
+You cry out in agony as you are totally consumed by $n's dragon breath.~
+You watch in awe as $N is consumed by $n's dragon breath.~
+Your dragon breath comes out in a pitiful puff.~
+You laugh at $n's puff of dragon breath.~
+You stifle a laugh as $n breaths out a puff of dragon breath.~
+Your dragon breath consumes $N causing $M to scream in pain.~
+You are consumed by $n's dragon breath and scream in pain.~
+You hear $N scream as $S is consumed by $n's dragon breath.~
+M
+ 104
+You instill a bit too much horror in $N, who is now scared to death.~
+A tight pain accompanies the feeling of terror in your heart. Things look bleak as you die.~
+$n scares $N to death!~
+Your attempt to strike fear in the heart of $N fails.~
+A feeling of fear creeps up on you, and is gone before you notice.~
+$n tries to horrify $N, and fails.~
+You inflict terror on poor $N, who begins screaming.~
+An overwhelming flood of fear clouds your judgement.~
+$n induces a feeling of despair and horror in $N, whose knees rattle uncontrollably.~
+M
+ 105
+You summon a mighty blast of elements that utterly destroys $N.~
+The last thing you see before your death is a flurry of the elements.~
+$n summons the elements which consume $N.~
+Your calls to the elements fails.~
+You watch as $n's attempt to summon the elements fails miserably.~
+$n fails to summon the elements.~
+You strike $N with a great blast of the elements.~
+You are struck by a wave of elemental energy that leaves you staggering.~
+$n summons a wave of elements that leaves $N staggering in pain.~
+M
+ 106
+You underestimate your power, and confuse $N enough to cause $S to decapitate $Mself.~
+You think about how this evil mind of yours is too controlling, and decide to remove it.~
+$n confuses $N enough to force $M to think keeping $S head attached is a bad thing.~
+Your attempt to unleash $N's mind fails, and $E stays focused.~
+$n's attempt to distract you from you objective fails.~
+$n tries to cause the mind of $N to wander, and fails.~
+You force $N's mind to wander, losing concentration.~
+You think about how much you enjoy fishing. French crullers are delic..wait, you are fighting!~
+$n wreaks havoc in $N's mind, who loses concentration and begins to babble.~
+M
+ 107
+Your phantasmal servant pummels $N into oblivion!~
+A phantasmal killer controlled by $n beats you mercilessly until you are dead.~
+A phantasmal killer summoned by $n pounds $N to death.~
+$n calls for a phantasmal killer and is unsuccessful.~
+$n's pleas for a phantasmal killer go unheard. You are very lucky.~
+A call to a phantasmal killer goes unheard.~
+You conjure a psychotic friend to unleash $s wrath upon $N.~
+A psychotic fiend pops out from nowhere and begins to beat you!~
+$n calls an evil scoundrel, who unleashes $s fury on $N.~
+$~

@@ -1,0 +1,753 @@
+#9900
+orange o99~
+an orange~
+An orange lies on the ground here.~
+~
+19 1 0 0 a
+8 0 0 0 0 0
+1 8 8
+E
+orange~
+   You wonder how it got here, seeing how oranges are non-migratory.
+~
+#9901
+bale wheat o99~
+a bale of wheat~
+There is a bale of wheat here.~
+~
+19 5 0 0 a
+24 0 0 0 0 0
+100 1000 1000
+E
+bale wheat~
+   It doesn't look appetizing to you, but
+a horse might enjoy this...
+~
+#9902
+zither o99~
+a big zither~
+A HUGE zither made of gold rests in the corner~
+~
+3 40 abcdefhijklmnops bg ao
+40 10 10 71 0 0
+20 12000 2000
+E
+zither~
+   Someone truly huge with big fingers might be able to play this.  You
+can't.
+~
+A
+12 90
+#9903
+barrel perfume~
+a barrel of perfume~
+You can smell a barrel on the other side of the room from here.~
+~
+8 1 0 0 a
+0 0 0 0 0 0
+15 12000 2000
+E
+barrel perfume~
+   Smells good...the label reads:
+   "Somewhere between GPA and MUD there lies...
+		OBSESSION"
+~
+#9904
+statue~
+a statue~
+There is a statue of Aglandiir here, made of solid gold.~
+~
+8 40 0 0 a
+0 0 0 0 0 0
+30 15000 1000
+E
+statue~
+   He's a pretty striking chap, for a dragon.
+~
+#9905
+Halberd~
+a halberd~
+A runed halberd lies on the ground here.~
+~
+5 35 abcefgijklms g an
+0 3 12 3 0 0
+8 8000 1000
+E
+halberd~
+   The runes glow with a bright light, making you
+think that this might be a pretty decent weapon.
+~
+A
+18 2
+A
+19 6
+#9906
+potion protection dun vial~
+a potion of protection~
+A vial of a dun fluid is here.~
+~
+10 25 0 g a
+20 36 1 3 0 0
+1 9000 1000
+E
+potion protection dun vial~
+   Looks thick, and brownish-grey (dun).  Ick!
+~
+#9907
+crown~
+a dragon's crown~
+Aglandiir's crown sits here, radiating a shield.~
+~
+8 35 0 b ae
+0 0 0 0 0 0
+50 25000 2000
+E
+crown~
+   The shield repulses you, making you wonder how
+you're going to get your hands on this huge, valuble
+chunk of gold...
+~
+#9908
+apple~
+an apple~
+A scrawny red apple sits here.~
+~
+19 1 0 0 a
+4 0 0 0 0 0
+1 5 2
+E
+apple~
+   Its not wormy...yet.
+~
+#9909
+bread loaf~
+a loaf of bread~
+A fresh loaf of Ry bread lies here.~
+~
+19 1 0 0 a
+12 0 0 0 0 0
+1 10 5
+E
+bread loaf~
+   Mmmm...Ry!
+~
+#9910
+melon~
+a melon~
+A melon sits here, discarded evidently.~
+~
+19 1 0 0 a
+8 0 0 0 0 0
+3 8 3
+E
+melon~
+   Wow!  Look at the size of that melon!
+~
+#9911
+knife~
+a knife~
+An exquisitely crafted knife rests here.~
+~
+5 35 cfj 0 ano
+0 4 6 11 0 0
+8 1000 200
+E
+knife~
+   The craftsmanship...it takes your breath away!  This knife...it had
+to have been forged by the legendary smith Gabadiel.  It must be worth a
+fortune!
+~
+A
+18 4
+A
+19 4
+A
+2 2
+#9912
+sword long~
+a long sword~
+A superb long sword sticks in the earth.~
+~
+5 25 abefijmn g ano
+0 3 7 3 0 0
+15 30000 2000
+E
+sword long~
+   This sword is light, but the heft is perfectly balanced.  Such an
+incredible weapon can only have be crafted by the legendary smith
+Gabadiel, and as such be worth a fortune!
+~
+A
+18 3
+A
+19 3
+#9913
+sword short~
+a short sword~
+A short sword lies here...a work of art!~
+~
+5 35 abefijmn 0 ano
+35 5 5 3 0 0
+10 30000 1000
+E
+sword short~
+   It brings tears to your eyes.  This must have been Gabadiel the
+smith's masterpiece, his final work.  Simply invaluble.
+~
+A
+18 4
+A
+2 3
+#9914
+corpse~
+a dismembered and burnt corpse~
+A dismembered and burnt corpse lies on the ground here.~
+~
+15 1 0 0 0
+240 5 -1 0 0 0
+1 1 1
+E
+corpse~
+   It's still smouldering a little; the culprits can't be far off!
+~
+#9915
+scimitar~
+a scimitar~
+A scimitar as long as your arm lies here.~
+~
+5 25 cfj 0 an
+0 3 6 3 0 0
+10 1500 200
+E
+scimitar~
+   This weapon really isn't of too high a quality.
+~
+#9916
+crate~
+a crate~
+A crate is stacked here.~
+~
+15 1 0 0 a
+200 5 0 0 0 0
+50 100 20
+E
+crate~
+   It's a standard wooden crate.
+~
+#9917
+hunting knife~
+a hunting knife~
+a hunting knife lies here, unwanted~
+~
+5 15 bfj 0 an
+0 3 5 11 0 0
+6 800 100
+E
+hunting knife~
+   This is the type of weapon you would use to bag some deer or rabbits,
+but not the type you'd take into battle...
+~
+A
+19 3
+#9918
+vest leather~
+a leather vest~
+A nice leather vest lies here.~
+~
+9 15 0 g ad
+8 0 0 0 0 0
+6 500 500
+E
+vest leather~
+   The seams are delicately sewn with a enruned thread...
+~
+A
+13 30
+#9919
+glass~
+a glass~
+A glass of beer sits forgotten here.~
+~
+17 1 0 0 ao
+1 1 1 0 0 0
+2 5 1
+E
+Beer glass~
+   A nice glass filled with homebrew.  There doesn't seem to be too much
+stuff floating in it.
+~
+#9920
+glass~
+a glass~
+A big glass of mead sits here, cool and frosty.~
+~
+17 1 0 0 ao
+1 1 3 0 0 0
+2 8 3
+E
+Mead glass~
+   Looks good.  Looks warm.  Doesn't matter, it still looks good.
+~
+#9921
+shot~
+a shot~
+A shot of whiskey is sitting here.~
+~
+17 1 0 0 ao
+1 1 5 0 0 0
+1 10 5
+E
+Whiskey shot~
+   Whew!  Looks like potent stuff!
+~
+#9922
+bag~
+a bag~
+A small bag.~
+~
+15 1 0 0 a
+50 0 0 0 0 0
+2 20 5
+E
+bag~
+   This is a standard bag.
+~
+#9923
+candle~
+a candle~
+A candle lies here, unlit.~
+~
+1 1 0 0 ao
+0 0 4 0 0 0
+1 5 1
+E
+candle~
+   A home-made candle, how quaint!
+~
+#9924
+nail~
+a nail~
+A penny nail lies in the dust.~
+~
+5 1 0 0 an
+0 1 1 11 0 0
+1 5 1
+E
+nail~
+   Its a common iron nail, used for carpentry work.
+~
+#9925
+pot~
+a pot~
+A cast-iron pot sits on the ground.~
+~
+15 1 0 0 a
+10 0 0 0 0 0
+10 100 20
+E
+pot~
+   It's a nice pot.  You could use it, if you ever settled down.
+~
+#9926
+rusty sword~
+a rusty sword~
+A fairly poorly balanced sword is not well hidden.~
+~
+5 40 0 0 ano
+40 5 5 3 0 0
+16 400 0
+E
+sword~
+Clearly Gabadiel's work, and just as clearly not his best.
+~
+#9927
+silver sword~
+a silver sword~
+Gabadiel crafted this sword of purest silver.~
+~
+5 40 0 0 ano
+40 5 6 3 0 0
+16 400 0
+E
+sword~
+Clearly Gabadiel's work, and just as clearly not his best.
+~
+#9928
+letter parchment~
+a letter~
+A piece of foolscap soft as cloth has some faded writing.~
+~
+18 1 0 0 a
+9928 0 0 0 0 255
+1 1 1
+E
+letter parchment~
+The writing is faded and spidery, clearly scrawled in haste, however you
+can just barely make out a few words.
+
+         #r    I will ... survive the assault but they will not ... 
+             my treasure ... hidden securely ... tree 
+
+
+~
+#9929
+amulet~
+an amulet shaped like a sword~
+A silver amulet is attached to a silver chain.~
+~
+18 1 0 0 a
+9929 0 0 0 0 255
+1 1 1
+E
+amulet~
+The amulet is engraved with the emblem of a sword and a large "G".
+Clearly the work of the master craftsman, Gabadiel.
+~
+#9930
+corpse~
+a corpse~
+What appears to be a burnt log turns out to be a charred corpse.~
+~
+12 0 0 0 0
+0 0 0 0 0 0
+1 1 1
+E
+corpse~
+Alas, apparently this still smouldering body was quite recently alive
+and well.  Who could have done this dastardly deed?
+~
+#9931
+strongbox box iron~
+a strongbox~
+Faintly, in the shadows, you can see a large box bound in iron.~
+~
+15 1 0 0 0
+50 15 9929 0 0 0
+1 1 1
+E
+box strongbox iron~
+A large box of some dark wood is bound with strong straps of iron and
+locked with a HUGE padlock.  Clearly there is something very valuable
+hidden away here.
+~
+#9932
+tub copper bath~
+a large copper tub~
+Steam rises from a large copper tub sitting in front of the fireplace.~
+~
+23 0 0 0 0
+999 999 15 0 0 0
+0 99 0
+E
+tub copper~
+An enormous copper bathing tub has been filled two-thirds of the way up
+with steaming hot water.  The tub is large enough to bathe even Duwick,
+an IMMENSE man who frequently rents a room at this inn.
+~
+#9933
+troll shirt proud~
+a #yProud to be a Troll#N shirt~
+A large smelly shirt says, "#YProud to be #yTrollish#Y!!#G"~
+~
+9 33 0 0 ad
+15 1 0 0 0 0
+1 1 1
+E
+shirt troll proud~
+A large shirt has a loud sign on it.  The writing says ...
+ 
+                    #YProud to be a #yTroll#Y!!!#N
+ 
+~
+A
+13 8
+#9934
+cookie choco chocolate~
+a chocolate cookie~
+A dark, not-too-sweet chocolate cookie would melt in your mouth.~
+~
+19 1 0 z ao
+1 0 0 0 0 0
+1 1 1
+E
+choco cookie chocolate~
+Deep dark chocolate cookies are Aunt Tabitha's favorites to make, and
+Kithy's favorites to eat.  They are just the right size for his little
+hands to hold and to cram into his little-boy mouth.
+^~
+#9935
+cookie jar cookiejar~
+a very large ceramic cookie jar~
+A ceramic jar shaped like a large-bellied gnome is filled with cookies.~
+~
+15 1 0 h 0
+50 5 0 0 0 0
+1 1 1
+E
+cookie jar cookiejar~
+Grasp the ears to lift off the head, and inside you will see dozens of
+cookies of all varieties.  There are chocolate ones, peanut butter
+cookies, sugar cookies, oatmeal cookies and many many more.  It's a
+magical jar that is never empty, full of cookies that are never stale.
+~
+#9936
+strawberry~
+a ripe sweet wild strawberry~
+A small deep red strawberry promises to have intense and sweet flavor.~
+~
+19 1 0 0 ao
+1 0 0 0 0 0
+1 1 1
+E
+strawberry~
+The Stanneg mountains are primarily known for the mithril mines that
+once played such an important role in the local economy, and for the
+dullness of the town of Stanneg itself.  The sweet wild strawberries
+that grow on the hillsides are an unexpected treat.
+~
+#9937
+beach blanket~
+a soft cotton blanket for the beach~
+A soft cotton blanket in faded blue is perfect for the beach.~
+~
+11 1 0 0 ak
+1 0 0 0 0 0
+1 0 0
+E
+blanket~
+The deep blue satin blanket binding may be frayed, and the pattern may
+be faded out of this pale blue blanket, but it is thick and soft and
+perfect for catching rays at the beach.
+~
+#9938
+beach towel~
+a large fluffy beach towel~
+A large lemon yellow beachtowel lies soft and warm in the sun.~
+~
+11 1 0 0 ak
+1 0 0 0 0 0
+1 0 0
+E
+towel~
+A soft fluffy towel can be used to dry you off after you've been
+swimming, brush the sand from your body, or wrap around you for warmth.
+How versatile!
+~
+#9939
+chair rocking wooden~
+a large wooden rocking chair~
+A large wooden rocking chair creaks slowly back and forth on its own.~
+~
+12 1 0 h 0
+1 0 0 0 0 0
+1 1 1
+E
+rocking chair~
+Built to last in the heyday of Stanneg, this is a very solid, very large
+rocking chair built, perhaps, for one of the Troll mothers who came to
+mine the mithril.  It will be here long after you are gone.
+~
+#9940
+stump~
+the stump~
+A blackened stump is all that remains of a once large tree.~
+~
+15 1 0 0 0
+50 15 9928 0 0 0
+1 1 1
+E
+stump~
+About waist high (to an adult human), the stump is black and sooty, and
+it is difficult to tell what kind of tree this once was.
+~
+#9941
+towel~
+a large fluffy towel~
+A large soft blue towel has been neatly folded and left.~
+~
+11 1 0 0 ak
+1 0 0 0 0 0
+1 0 0
+E
+towel~
+A soft fluffy towel can be used to dry you off after you've bathed,
+or wrapped around you if you have unexpected visitors. 
+~
+#9942
+shirt trollish~
+a #rKiss me! #gI'm #yTrollish#N!! shirt~
+A very large shirt says, "#rKiss me! #gI'm #yTrollish#Y!!!#G"~
+~
+9 1 0 0 ad
+6 1 0 0 0 0
+1 1 1
+E
+shirt trollish~
+An shirt with writing on it.  The writing says ...
+ 
+                    #rKiss me! #gI'm #yTrollish#Y!!!#N
+ 
+~
+A
+1 1
+#9943
+badge office~
+the High Sheriff's Badge of Office~
+The High Sheriff of Stanneg by the Mountains lost his Badge of Office.~
+~
+9 5 0 0 ac
+5 5 0 0 0 0
+1 1 1
+E
+badge office~
+A very ornate mithril badge has been suspended from a long silver 
+chain.  The front of the badge has been inscribed with the Insignia of
+the Great Council of Stanneg.  On the back, someone has scratched in
+very tiny letters:
+ 
+                    #YTroll Power#N
+ 
+~
+#9944
+gauntlets~
+a pair of #yTroll Power#N!!! gauntlets~
+A pair of very large gauntlets are engraved with "#yTroll POWER#Y!!#G"~
+~
+9 35 0 0 ah
+4 35 0 0 0 0
+1 1 1
+E
+gauntlets troll power~
+Troll gauntlets have been inscribed wit hthe magic words ...
+ 
+                    #yTroll POWER#N!!!#N
+ 
+~
+A
+1 4
+#9945
+magic cape nellys stanneg~
+Nelly's #rm#ya#gg#ci#bc#N cape~
+A swirl of glitter dazzles the eye.~
+~
+9 25 abcdfghijklmnops 0 ak
+10 25 0 0 0 0
+1 1000 1
+E
+cape magic nellys~
+Nelly's magic cape flows along darkly behind her.  Although it would be
+hiplength on a human, on Nelly, the cape just covers her ankles.  As she
+walks, the cape flutters near her feet.  The cape is a deep purple,
+covered with a swirly pattern made up of the letter "S" repeated in all
+sizes in all directions.
+~
+#9946
+sneaky boots kithys~
+Kithy's #Rsn#rea#wky #rbo#Rots#N~
+Kithy's sneaky boots sneaked away from him!~
+~
+9 30 dhjlmop 0 ag
+8 30 0 0 0 0
+1 100 0
+E
+sneaky boots kithys~
+Kithy has a special friend in the mountains that nobdy knows about,
+especially his Aunt Tabitha (with whom he lives).  She is a witch with a
+fondness for little boys!  and for his last birthday, she added a
+special enchantment to these very quiet boots.  Kithy ALWAYS shares his
+cookies with her.
+~
+A
+13 15
+B s
+#9947
+blanket angora stanneg~
+a hand knit angora blanket~
+Granny Higglebottom hand knit a soft dark gray blanket of angora wool.~
+~
+9 1 0 0 ak
+2 1 0 0 0 0
+1 5000 0
+E
+blanket~
+The little goats that roam the mountain hillsides are prized for their
+soft angora wool.  Granny Higglebottom washes, spins, dyes and knits the
+wool into beautiful blankets and sweaters to sell to the tourist trade.
+This blanket is very thick and warm in the winter, but soft and cozy to
+the touch.  It has been dyed soft mottled shades of a heathery gray.
+~
+#9948
+helmet mining~
+a mining helmet~
+A dusty mining helmet has a glowing crystal to light your way.~
+~
+9 30 abdfijmn a ae
+8 30 0 0 0 0
+1 100 1
+E
+helmet mining~
+Mithril is mined from deep within the mountains, and miners need both 
+protection from falling rock and a strong source of light.  This handy 
+helmet provides both.  The helmet still carries a price tag stuck to the
+back.
+~
+E
+price tag~
+It says, #y116 gold#N.
+~
+A
+13 25
+B k
+#9949
+gold coins~
+a small stash of gold~
+A small stash of gold is partially hidden from your eyes.~
+~
+20 1 0 0 a
+216 0 0 0 0 0
+1 8500 0
+#9950
+gold coins~
+a large horde of gold~
+A large horde of gold has been stashed away here.~
+~
+20 1 0 0 a
+15000 0 0 0 0 0
+1 15876 0
+#9951
+bed iron bedstead o99~
+a huge cast iron bedstead~
+A feather mattress makes the huge cast iron bed look comfy.~
+~
+12 1 0 h 0
+1 0 0 0 0 0
+1 1 1
+E
+bed~
+Covered with sheets yellowing with age, a few hard pillows, and a down
+comforter, this bed may not be the most comfortable place to spend the
+night, but it is pure luxury compared to miner's accomodations in the
+hills.
+~
+#9952
+cape o99~
+#wFurball#N's heavy woolen cape~
+A thick gray cape knitted from Angora wool lies in a swirl.~
+~
+9 20 0 k ac
+15 0 0 0 0 0
+1 1 1
+E
+cape~
+Soft grays of many hues are knitted together in this long cape.  The
+wool is thick enough to prevent a winter chill and provide some
+protection from the blows of a life spent on the hunt.  It is soft
+enough to provide comfort sleeping on a hard rocky cave floor, and soft
+enough to be crunched into a small corner of a backpack.
+~
+A
+13 20
+A
+5 3
+#99999
+$~

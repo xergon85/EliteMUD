@@ -1,0 +1,960 @@
+#28100
+#cOutside the #N#CT#ch#wrill #N#CK#ci#wll #N#CK#cu#wlt#N~
+   You are standing outside a stone structure looking in, how sad. 
+Do you think you have what it takes to get past the animated stone 
+monk of the Kult?  If you belong here you have no fears otherwise.  
+Well step forward and see.  Don't worry you can only die once.  On 
+the other hand how slowly you die is completely up to us.  You note 
+that most women are permitted to exit and enter, but one can only 
+guess if it is at their leisure.
+~
+281 duz 0
+D1
+~
+~
+0 -1 3061
+D2
+~
+~
+0 -1 28129
+D3
+~
+~
+0 -1 28101
+S
+#28101
+#cEntrance Hallway#N~
+   You are in the main hallway of the Kult.  Mounted on walls and
+in cases all around you see prizes won in battle, like the broken
+#Cspear#N of the Avatar and the shattered pitch #Cfork#N of Satan, 
+won when the clan went hunting in Hell.  You also see the skins and 
+skulls of many monsters slain in the hunt.  Tiamat is here stuffed 
+like a teddy #Cbear#N, she doesn't look so tough now does she?
+~
+281 duz 0
+D0
+~
+door~
+1 -1 28104
+D1
+~
+~
+0 -1 28100
+D2
+~
+door~
+1 -1 28108
+D3
+~
+~
+0 -1 28102
+D4
+~
+~
+0 -1 28110
+D5
+~
+~
+0 -1 28126
+E
+tiamat Tiamat dragon teddy bear~
+The hide of the Queen of the Dragons is here, stuffed.  Even in death 
+you can tell she was a fearsome foe when she was alive.
+~
+E
+fork pitch satan~
+The pitch fork of the former ruler of hell.  With the paladins dead 
+we had to kill satan too, less he got out of control.
+~
+E
+spear spears avatar~
+This is the spear of the Holy Avatar.  No longer holy now that he is 
+dead. Call us sinners huh?  See what he got?
+~
+S
+#28102
+#cHallway in the Fort#N~
+   One word - amazing.  You have to keep your hands locked at your 
+sides in fear that you might break something and have to pay for it.  
+That Aftershock bottle looks mighty expensive.
+~
+281 duz 0
+D0
+~
+door~
+1 -1 28105
+D1
+~
+~
+0 -1 28101
+D2
+~
+door~
+1 -1 28107
+D3
+~
+~
+0 -1 28103
+D4
+~
+~
+0 -1 28109
+D5
+~
+~
+0 -1 28115
+S
+#28103
+#cGoof off Room#N~
+   What's that bud?  You don't feel like killing anything?  Well
+maybe you are one of those punks that like to chat a lot.  Or maybe 
+you are one of those slow levelers that bring down the clan average 
+*slap*. Oh well if you haven't been kicked out on your rear by now 
+you must have some good points, eh?  If you have nothing better to do 
+come here and relax, goof, chill, talk yer butt off, play come 
+#Cdarts#N.  No one really cares.  But don't expect any privacy here.  
+And one more thing, KEEP YOUR SMELLY FEET OFF THE FURNITURE.  Hey 
+this stuff costs ya know, and you pay for it right out of your dues.  
+If you get bored, catch up on the clan bulletin board, which is 
+tacked up on a wall here.
+~
+281 dtuz 0
+D0
+~
+~
+0 -1 28106
+D1
+~
+~
+0 -1 28102
+D4
+~
+door~
+11 -1 28138
+D5
+~
+~
+0 -1 28136
+E
+dartboard~
+Can you hit the bullseye?
+~
+E
+dart darts~
+Careful!  You can take someone's eye out with this thing.
+~
+S
+#28104
+#cPrivacy Corner#N~
+   Hmmm, you aren't smooth enough to have your own damn room?  But 
+you want to talk in private, huh?  Well come in here and close the 
+damn door, it is not like anyone cares what the hell you are talking 
+about anyways.
+~
+281 djuz 0
+D2
+~
+door~
+1 -1 28101
+S
+#28105
+#cChambers of the Council#N~
+   You enter a high-pillared regal chamber with ornately carved
+marble statues of members past and present.  Long red drapes hang 
+from arches around which the heads of various Klan kills are hung 
+on display. In the center of this chamber is a small, round oak 
+table where the councillors gather on a periodic basis to carry 
+out their ruling.
+~
+281 duz 0
+D0
+When you try to look over the shoulder of the guard you see a room.
+A very black room.
+~
+~
+0 -1 28127
+D2
+~
+door~
+1 -1 28102
+S
+#28106
+#cLibrary#N~
+   This is where the clan keeps all of their combat gear.  You
+never know when the need to kill someone might arise.  All around you 
+see various types of armor and weapons stacked on the #Cshelves#N.  
+Some brand new and some old, you can tell from the dried blood 
+splattered on some of the items.  If you have extra equipment for 
+clan members leave it here.  Don't expect too much thanks it is 
+expected of everyone to help out, you watch their backs and they will 
+watch yours.  And please, no crap items.  Clan members deserve the 
+finest.
+~
+281 duz 0
+D2
+~
+~
+0 -1 28103
+E
+shelf shelves~
+There are rows of shelves on the walls, please stack your gear
+neatly.
+~
+S
+#28107
+#cHall of Nails#N~
+   As you peer through the door you see a room filled wall to wall 
+with massive speakers thumping to a righteous groove.  Colored lights
+pierce through the smoke like daggers allowing you to catch a glimpse 
+of some fine young vixens dancing like sluts.  As you try to enter, a
+talking piece of clay asks if you're in TKK.  An enormous bouncer in 
+a purple suit looms behind him.  Unless you're in TKK you better get 
+the hell out while you still can!  Only members are allowed to jam in 
+the Hall of Nails.
+~
+281 duz 1
+D0
+~
+door~
+1 -1 28102
+S
+#28108
+#cMacking Room#N~
+   No personal room?  Have someone's pants you want to get into ready 
+and waiting?  Think you are smooth enough to get some?  Come here and 
+have some fun.  Try and think with your head, no not that one.  The 
+other one, dummy.  When you bring a partner here to do whatever try 
+not to get any stains on the #Cbed#N, and keep the noise down.  
+Sheesh!
+~
+281 douz 0
+D0
+~
+door~
+1 -1 28101
+E
+bed~
+You see a lovely queen sized bed here with silk sheets and fluffy
+down pillows.
+~
+S
+#28109
+#cOrdo Dominus#N~
+   You follow the dark stairs up into the west tower of the fort.  
+This semi-circular chamber has a huge tapestry on the east wall 
+depicting various heroes of the Klan's past in bloody scenes of 
+violence.  There is a small discolored brain on the floor to the 
+south. Three chambers surround this room.  From here, the chambers of 
+the Ordo Dominus, the ruling council of the Kult.  You had better not 
+tally here unless one of them is expecting you...
+~
+281 duz 0
+D0
+~
+door~
+11 -1 28125
+D1
+~
+door~
+11 -1 28121
+D2
+As you approach the discarded cerebral matter, you find yourself
+disoriented.  You have reached...
+~
+door~
+11 -1 28113
+D3
+~
+door~
+11 -1 28122
+D4
+~
+door~
+11 -1 28133
+D5
+~
+~
+0 -1 28102
+S
+#28110
+#cClan Shrine#N~
+   This is a chapel to the clan gods.  Come here if you want to
+pray to them.  Of course nothing much will happen of you do, they 
+hate suck ups.  Hey they are more likey to strike you down than help 
+you. Besides, Zumdahl is always off sweet talking Clara anyways.  I 
+doubt they have time for mortals but leave a little something on the 
+#Caltar#N anyways and maybe you'll get lucky.
+~
+281 duz 0
+D0
+~
+portal door~
+9 -1 28112
+D1
+~
+door~
+9 -1 28111
+D2
+~
+door~
+11 -1 28114
+D3
+~
+door~
+11 -1 28118
+D4
+~
+door~
+11 -1 28119
+D5
+~
+~
+0 -1 28101
+E
+portal north~
+A whirling vortex of blood pulsates and shimmers before you.
+~
+E
+alter altar zumdahl zum clara~
+This is an altar devoted to #bZumdahl#N#W the god of smoothness and 
+his lady #cClara#N#W the goddess of sex.#N
+~
+S
+#28111
+#cThe Ancient Spectre Ruins#N~
+   A grey mist surrounds the ancient spectre ruins of Harad.  Amid 
+the ancient ruins of a once mighty castle rises a huge black throne.  
+A black throne, carved with figures of ancient creatures and runes or 
+power, towers in front of you with a powerful malice.  In this throne 
+he rests after great deeds and weaves new diabolical plans.  Tombs of 
+great kings and sorcerers long forgotten, raped by time and weather, 
+rest here for eternity.  Scattered on the ground lies great 
+treasures, items and weapons gathered from vast regions of the world 
+and places that do not exist in the mind of the mortal anymore.
+~
+281 duz 0
+D3
+~
+door~
+9 -1 28110
+S
+#28112
+#cDur's Garden of Dreams#N~
+   The portal leaves no residue upon you as you step through into
+this grove located somewhere within the Abyss.  This is HIS home 
+where HE resides and allows none to view without his permission.  
+Propped up against a corpse lies a writhing soul-rack, an evil device 
+whose purpose you would rather not contemplate.  Etched into the 
+bleeding rocks are the blasphemous symbols of the Ancient Ones whose 
+power flows through this entire area.  Massive demonic forms stand 
+around the grove, a sign of power to ward off the presence of the 
+pure and vigilant.  You only hope the portal of blood to the south 
+holds open long enough for you to flee back through...
+~
+281 duz 0
+D2
+~
+door~
+1 -1 28110
+E
+portal north~
+A whirling vortex of blood pulsates and shimmers before you.
+~
+S
+#28113
+#cGouki's Twisted Realm#N~
+   Impossibly, as you drift here in the utter darkness, you hear that 
+you are being assaulted by flashes of unreal color.  The odor here 
+feels strange, and you taste a bizarre sound emanating from all 
+around.  As you strain to see exactly when you are, you can't imagine 
+how anyone  can function in such a state.  You get the impression 
+there is a strange apparatus floating just out of the corner of your 
+smell.  It tastes like it was constructed so that a person could 
+suspend himself from it upside down rather comfortably. You realize 
+this must be is Gouki's perch. This is Gouki's Realm.
+~
+281 duz 0
+D0
+~
+door~
+11 -1 28109
+S
+#28114
+#cAegeus' Crib#N~
+   This is where Aegeus plans all of his greatest deeds and misdeeds.  
+Quite frankly this room is a mess.  It looks like gear was just 
+dropped where it was taken off.  There is a sign posted on the wall 
+and you also see the only really neat thing in here, his computer 
+desk.  There is a vast collection of ready to use weapons on the 
+walls, books on how to kill people in a number of ways.  You know you 
+will be in trouble if he comes and catches you here if you dont' have 
+permission.  You notice a large box of #Ccondoms#N in plain view.  
+You also see posters of Malcom X and Dr. Martin Luther King.  You 
+can't make up your mind about this man, Aegeus.  Is he a saint or a 
+devil?
+~
+281 djuz 0
+D0
+~
+door~
+11 -1 28110
+E
+condoms box condom~
+   A box of 100 condoms with half almost gone.  "Trojans ribbed for 
+her pleasure - Cherry flavored."
+~
+S
+#28115
+#cHalls of Terror#N~
+   Your last footsteps echo around you for sometime as you finally
+reach the bottom of the steps.  A black mist swirls around you 
+obscuring your view of this dark place.  You have entered the lower 
+levels where the Klan's secrets may be found, only members of 
+exceptional merit are permitted to reside in this place...
+~
+281 duz 0
+D0
+~
+door~
+11 -1 28123
+D1
+~
+door~
+11 -1 28117
+D2
+~
+door~
+11 -1 28124
+D3
+~
+~
+0 -1 28116
+D4
+~
+~
+0 -1 28102
+D5
+~
+door~
+11 -1 28132
+S
+#28116
+#cThe Hall of Silk Drapes#N~
+   You enter a long elegant hall with a high-arched roof.  It's 
+supported with huge creamy marbled pillars shot through with green 
+veins. The whole place is decorated with flowing drapes of silk and 
+other luxurious materials.  Only the pampered may grace these halls.
+~
+281 duz 0
+D0
+~
+door~
+11 -1 28134
+D1
+~
+~
+0 -1 28115
+D5
+~
+~
+11 -1 28135
+S
+#28117
+#cThe Bridge of Spaceball One#N~
+   You have stepped through a portal to the bridge of Spaceball One.
+You are surrounded by idiots trying to capture Lone Starr and his pal,
+Barf.  You don't give much for their chances however, since none of
+these idiots know how to handle the ships weapon systems. To make
+things even worse, #cMicroft #Njust jammed the radar - with
+#mstrawberry#N jam! An instant later Lone Starr's ship enters
+hyperspace and shoots off towards the stars.  There is a beaming
+chamber to the north.  
+#YColonel Sanders wanders around aimlessly,trying to look important.#N
+#YDark Helmet orders 'Ludicrous speed now!'#N
+~
+281 dtuz 0
+S
+#28118
+#cClub Momar#N~
+   Chicks seem to dig this room.  The bar at the north end of the 
+room always has two to three girls waiting for a young man (or woman) 
+to pick them up and bring em down to the Mackin' Room. (After a few 
+shots they look much cuter).  So why don't ya have a couple brewskies 
+on the house and chill out a while.  The DJ is playing the same damn 
+song over and over... wait... maybe not, it's just The Smiths.  Do me 
+a favor and turn off those stupid disco lights on yer way in.  Oh 
+yeah if ya gotta puke, stumble down the hall  and knock on Gouki's 
+door he will probably be doin the same.
+~
+281 duz 0
+D1
+~
+door~
+11 -1 28110
+S
+#28119
+#cSmiley's Stink Machine#N~
+   Your nose practically leaps from your face and takes off as you 
+stand just outside the door.  You think, "My god, what is that 
+smell?!"  Now that you ventured inside, your fears materialize.  You 
+can almost see the foul #yodor#N rising from the floor, which you can 
+only assume is somewhere beneath your feet, hidden by the mountains 
+of clutter.  There is some furniture, but what you couldn't begin to 
+decipher.  You start to feel faint and your lungs #rexplode#N with 
+#rfiery#N pain.  You look frantically for a way out of this room, 
+longing for the #cfresh#N,#w sweet air#N. "You should have brought a 
+gas mask," someone snickers from behind you.
+~
+281 djuz 0
+D5
+~
+door~
+11 -1 28110
+S
+#28120
+#cThe Terrorist's Hide Out#N~
+   #WYou walk down the steps into a #Mdark #Wcellar filled with 
+strange objects.  To the #Cleft #Wyou notice a list of #Cnames #Wof 
+people who have been killed, all with #rchecks #Wnext to them.  To 
+the #Cright #Wyou notice a wall full of #Cweapons#w.  All over the 
+#Cfloor #ware papers with recipies for #Mdestruction#W.  The only way 
+out is the way you came in. Don't be #mSPOTTED #wbecause you might be 
+next on his list if he finds out.#N
+~
+281 drtuz 0
+D4
+~
+door~
+11 -1 28126
+S
+#28121
+#cChe's Bathroom#N~
+   As you fumble around in the darkness you accidently hit the 
+lightswitch. The scene before you almost strikes you down. Used 
+underwear and dirty paper covers the wall and floor. The bathtub is 
+filled with a black stinking liquid that makes your nostrils burn. 
+The sink is filled with dead bugs that float on a sea of yellowish 
+water As you feel sick you cautiously approach the toilet. You slowly 
+open the lid...
+
+Che flies in from below.
+
+He says "Hey, get the #RHell#N out of my room!!
+
+Che suddenly circles around you and stabs you in the back.
+§N~
+281 duz 0
+D3
+~
+door~
+11 -1 28109
+S
+#28122
+#cThe #wTemple #cof #RDrakken#N~
+   You leave the canopy of Yavin 4's #Gjungle #Ncanopy and enter a
+gigantic ebony temple which once was dedicated to the #MDark lord of 
+the sith#N, Exar Kun.  The temple is now under the control of Drakken 
+and he uses it to send aid to the #CRebel Alliance#N from the 
+EliteMUD #GGUERILLAs#N.  In a corner of the temple there is a crate 
+full of #Rheavy blaster pistols#N.  On the walls are posters of 
+Drakken's idols such as Eldridge Cleaver, Timothy Leary, and Abby 
+Hoffman.
+§N~
+281 duz 0
+D1
+~
+door~
+11 -1 28109
+S
+#28123
+#cEdge of Forever#N~
+   You are standing on the edge of forever, at the end of the
+universe.  The land on which you stand was once a thriving sea-shore,
+teeming with life on all levels.  As you stroll, you habitually 
+adjust your eyesight, still searching for the last vestiges of any 
+other life. You remember a time when all one had to do was glance in 
+any direction, with any level of vision, to see myriad patterns of 
+birth and rebirth. All that could be found now was fast decaying 
+remains, as even the smallest organism collapsed back into its 
+constituent atoms.  Perhaps it was only a matter of time until even 
+the atoms themselves devolved into their own form of death, leaving 
+nothing but the ultimate building blocks of the universe once more.
+   Stretching your senses to the limit, you observe the death throes
+of a star, hoping to see once more the energy of a nova, but seeing 
+only the collapse of the complex inter-atomic forces.  Casting your 
+eyes about you, you can see the same happening to your home; the 
+planet which nurtured and supported your race through billions of 
+years of evolution. It was as though the universe was tired of its 
+own existence, and is finally opting for the darkness.
+~
+281 duz 0
+D2
+~
+door~
+11 -1 28115
+S
+#28124
+#cDanzig's Domain#N~
+   A chill runs down your spine as you hear the rumblings of White
+Zombie's "Soul Crusher" as you enter the domain of the legendary 
+warrior Danzig, he who has stalked the lands of Elite since the time 
+of Apollo and the Shadowblade.  On the far wall you see the symbol of 
+the great horned skull, Danzig's personal seal, as well as the mark 
+of those who he now pledges his ever-faithful allegence, the 
+#CT#ch#wrill #CK#ci#wll #CK#cu#wlt#N. There are weapons of death and 
+destruction strewn about the room, as well as a great banquet table 
+in the center filled with tankards of ale and spirits.  Danzig's 
+concubines pay no attention to you as they scurry around you to 
+prepare for their Master's return.  You had better hope that Danzig 
+is expecting you...for your next breath may be your last....
+§N~
+281 duz 0
+D0
+~
+door~
+11 -1 28115
+S
+#28125
+#cDade's Abyss#N~
+   A strange bluish mist seeps along the floor covering your
+feet entirely. All around the room scamper strange mobs, each
+disfigured in some odd way, a Warg walks around blindly uttering 
+strange words, not attacking, a minor demon flies by petting a 
+rabbit. On the far right wall, you see an odd picture that seems to 
+be morphing itself.. at one time it looks like Dade, at other times 
+it looks like Krygian. Two beedy #Rred#N eyes stare at you from 
+within a strange, glowing gate on the back wall.. a portal of some 
+sort you guess. You walk a bit closer to examine those eyes.. only to 
+uncover a dark, cloaked wizard grin with his hellstaff pointed 
+straight at you, and the message "#CF#cE#wAR #CT#cK#wK#N" in your 
+mind!
+§N~
+281 duz 0
+D2
+~
+door~
+11 -1 28109
+S
+#28126
+#cBeatdown Palace#N~
+   As you enter this place of hate, you feel as if something is 
+watching you.  You glance at the wall and see a #Cpicture#N.  The 
+eyes seem #rred#N and move along with you.  On the floor, a 
+#Mmedallion#N symbolizing a man being chopped in half.  You better 
+hope you have some juice left in your can of whupass or else you'll 
+end up like the skeleton over there.
+§N~
+281 duz 0
+D0
+~
+door~
+11 -1 28137
+D3
+~
+door~
+11 -1 28128
+D4
+~
+~
+0 -1 28101
+D5
+~
+door~
+11 -1 28120
+E
+skeleton~
+You see what you believe to be a skeleton of a human, its eyes seemed 
+to have been gouged out and it's massively decapitated.
+~
+E
+picture~
+On the wall hangs a picture of a massive being with blood dripping 
+from its eyes, and sweat hanging from its chin.
+~
+E
+medallion~
+A man has felt the wraith of a chainsaw in full motion.
+~
+S
+#28127
+#cThe Last Chamber#N~
+   You are standing in the middle of a small room without any windows. 
+This is where the Council of the Kult come up with new plots against 
+the other clans of Elite. Since the guard let you enter here, you must 
+be one of them. Remember that the secrets that you discover here NEVER 
+shall leave this chamber.
+~
+281 duzoC 0
+D2
+~
+~
+0 -1 28105
+S
+#28128
+#cThe Cave Of Kyre Banorg#N~
+   You find yourself at the mouth of the Cave Of Kyre Banorg. 
+Wherein, carved in mystic runes upon the very living rock, the last 
+words of Ulfin Bedweer of Regett proclaim the last resting place of 
+the most Holy Grail. The bones of four and fifty men lie strewn about 
+a small #rrabbit#N. Yet as you approach the voice of TimTheEnchanter 
+whispers "Look, that rabbit's got a viscious streak a mile wide, it's 
+a killer. He's got huge, sharp-- he can leap about-- look at the 
+bones".
+§N~
+281 duz 0
+D1
+~
+door~
+11 -1 28126
+E
+rabbit~
+Well, that's no ordinary rabbit. That's the most foul, cruel, and
+bad-tempered rodent you ever set eyes on.
+~
+E
+rune runes~
+It reads, 'Here may be found the last words of Joseph of Aramathea. 
+He who is valiant and pure of spirit may find the Holy Grail in the 
+Castle of uuggggggh'.
+~
+S
+#28129
+#cInside the Cave#N~
+   As you push into the opened mouth of the cave thoughts dart 
+through your mind, and you find it hard to remember why you came here 
+in the first place.  Fewer corpses litter the floor, perhaps the 
+danger has passed, or perhaps fewer people made it this far into the 
+depths.  Your senses prickle and you are snapped back into reality... 
+was that a voice you heard around the corner?
+§N~
+281 druz 0
+D0
+~
+~
+0 -1 28100
+D2
+~
+~
+0 -1 28131
+S
+#28130
+#cAround the Sharp Corner#N~
+   Rounding the corner, you come face to face with a living 
+nightmare. Hacked and maimed bodies have been tossed around the room 
+like children's toys.  Although most of the corpses have been long 
+dead, a single body still twitches in it's death throughs.  Who are 
+whatever caused this carnage can not be far from here.  Tearing your 
+vision away from the carnage you see that the cave punges deeper into 
+the earth.
+§N~
+281 druz 0
+D1
+~
+~
+0 -1 28131
+S
+#28131
+#cDeep Within the Cave#N~
+   Leaving the carnage of the death scene behind you, you stride 
+boldly on.  The stone walls of this terrible place seem close in and 
+trap all that would venture into its depths.  Shadows play on the 
+irregular surface of the cave and you realize that your enemy could 
+be lurking in ambush anywhere.  Legs are heavy with fear and palms 
+sweat making the grasp on your weapon difficult to maintain.  Maybe 
+talking things over isn't such a bad idea after all.
+§N~
+281 druz 0
+D0
+~
+~
+0 -1 28129
+D3
+~
+~
+0 -1 28130
+S
+#28132
+#cThe Darkest of Dungeons#N~
+   You enter the dungeon in search of #BDarklord#N. Rumor has it he
+has claimed the life of yet another young soul. You look under his
+bed, but find only torn magazines and food wrappers. Wondering where
+he could possibly be, you check in the closet. It is full of jackets
+from his favorite band, the #CT#ch#wrill #CK#ci#wll #CK#cu#wlt#N. You
+wonder if such an awesome jacket will fit on yourself. You take down
+the jacket from a rusty coat-hanger and start to try it on. Before
+you can even get 1 sleeve in, you feel the rusty hanger enter your
+body, rupturing your spleen and slicing your intestines. It looks
+like that coat wasn't your style after all.
+~
+281 jduz 0
+D4
+~
+door~
+11 -1 28115
+S
+#28133
+#cRush's Perch#N~
+   You enter the spacious room which is well decorated. A large oak
+desk is in the middle of the room, with an oak chair. On the desk there
+is some literature, together with a bunch of lilies. The lilies
+provide aromatic smell which graces the room. At the end of the room
+is a comfortable looking bed, with a soft pillow and silk sheets. There
+is a violin at the corner of the room, it is carved with some nice
+pattern. On the wall there is a shelf, her favourite clothes are lined
+here. The music box stands on the shelf, playing some sweet music.
+~
+281 djuz 0
+D5
+~
+door~
+11 -1 28109
+S
+#28134
+#cZOiD's Den#N~
+   You step in to a spareingly lit room.  As you look around you notices 
+heaps of old computer parts lying around among some other crap.  In the 
+Corner is a small computer cabinet and a huge stereo pumpin out sound at 
+an alarming decibel.  On the floor you notice some strange clotheing, 
+apair of PVC pants ,a leather trench coat, a few spiked collars and some 
+handcuffs.  You also notice a pair of G strings haning over a chair with 
+the name Cissi scratched down on the washing label.
+~
+281 duz 0
+D2
+~
+door~
+11 -1 28116
+S
+#28135
+#cThe Ancient Tomb of Acrisius#N~
+   This small piece of Enoch has survived over the years through
+someones care and protection.  As you look about the room a strange
+feeling of safety permeates you, and relaxes you, making you feel 
+totally at home.  The walls are made of sandstone and have strange 
+script written on them in some forgotten language.  Off to one side 
+of the room there is a black marble coffin which seems to exude a 
+strange aura of death.  The ceiling is a mural depicting a fight 
+between a man of great bueaty and some horrid beast whose flesh seems 
+to drip off of him.  In the center of there room there is a small 
+table with some items lying on it.
+~
+281 duz 0
+D4
+~
+door~
+11 -1 28116
+S
+#28136
+#CH#ce#wllfires #gPit of #rBlood #b (and the occasional nap)#N~
+   Upon entering this room, you are amazed to find that despite its name 
+there is not one single drop of #rblood#N anywhere in sight. In the 
+center of the room against the back wall you see a towering canopy bed 
+with beautiful #wwhite #Nsilk curtains encompassing it. Atop the bed are 
+dozens of satin pillows embroidered with themes from around the globe. 
+Upon closer examination, you realize that each tells a similar story. 
+One of a great conqueror who has left his mark upon all fronts. The 
+images of #rdeath #Nand #gdestruction #Nchill you to the bone. Stepping 
+back from the bed, you look around the rest of the room. On the right 
+wall stands a tall oak dresser with a mirror framed in brass and etched 
+with the most eye-bending pattern you have ever seen. On top of the 
+dresser you find not jewelry and combs, but an assortment of the most 
+finely crafted daggers. Upon picking one up with a fine detail of 
+serpents clutching the handle and rubies inlaid for their eyes, you hear 
+a strange sound behind you. Quickly you turn to find that there is 
+nothing there. Shaking now, you place the dagger back on the dresser 
+and turn towards the window across the room. Looking out on the fields 
+to the north of Midgaard, you breathe a sigh of relief and finally 
+begin to relax. Suddenly and without warning, a figure springs forth 
+from the shadows and places an enchanted mithiril dagger a mere 
+millimeter from your lower spine. Before you can scream, he places his 
+hand over your mouth and whispers in your ear, "Fool. Always watch 
+your back." Smiling, he sheathes the dagger in a silent fluid motion 
+and beckons you near. Knowing you are friend has kept you alive this 
+day.
+~
+281 Cdtuz 0
+S
+#28137
+#CThe Bohemian #CB#ca#wchelor's#C place of escape#N~
+   Negligence, bohemia, immatureness, you name it. The sucker living
+in this once beautiful room's a real lazy slackbum. There're paintings
+on the walls, expensive ones too but in each there's a dart or two. 
+On the floor lie comfortable although rather dirty clothes (who the 
+fuck's gonna wash em anyway). A cosy divan is located in front of the
+fireplace, or well you can guess there's a divan underneath all the...
+hum... stuff. On one of the walls a "wise" saying is nailed.
+
+        Tomorrow you will have no idea what you did today,
+        so why worry about what the fuck you do?
+
+Oh my god, he must've written that himself don't you think? The smirk
+on your face keeps growing when you realize that under the divan the
+owner's located. You wonder how the hell you could miss that snoring.
+#cBaltazar#N for sure don't look very good after yesterday's party.
+Because you know, #cBalt#N don't really have the physique that it
+takes to party with the #CK#cu#wlt#N.
+~
+281 duz 0
+D2
+~
+door~
+11 -1 28126
+S
+#28138
+#cStarlet's #gJ#Gu#gn#Gg#gl#Ge #cDomain#N~
+   You wonder if you still are inside the clanhouse or if you
+in some magical way have been transported into a weird jungle.
+#GVines#N climb all over the walls, reaching for the cracked ceiling
+where you can see the #ystars#N shine through. Pillows are scattered
+all over the floor, adding a comfortable touch. You can see the tip
+of a #wtail#N sticking out from a specially huge pillow-pile.
+~
+281 duzj 0
+D5
+The Goof-off room is down.
+~
+door~
+11 -1 28103
+E
+star stars~
+Though you could have sworn it was in the middle of the 
+day when you entered this room, you can see the #enight 
+sky#N through the broken ceiling. You stare at the 
+stars for a while and suddenly one blinks at you. 
+
+Go on, make a wish!
+~
+E
+jungle vines~
+It's just like a piece of Miqi'erke has moved into the 
+room! Starlet can not live with her kind in the jungle, 
+so the jungle has to live with her. A sacrifice the 
+#Gnature#N is willing to make, for its more than amazing 
+daughter.
+~
+E
+tail~
+It reminds you of someone... You start to remove pillow 
+after pillow and when you have removed a few you can see 
+that there is a wicked little #cfeline#N lying under 
+them. You must have waken her up cause she blinks a few 
+times and then opens her big #ggreen#N eyes and stares 
+back at you. You can only pray to the gods that she is 
+in a good mood.
+~
+E
+night sky~
+It's #edark#N and filled with #ystars#N. Beautiful.
+~
+E
+feline starlet someone~
+She is bizarre, but still interesting. A combination 
+of a woman and a cat. #wWhite fur#N covers her slender 
+body and the only colourful spot is her eyes, which are 
+#gemerald green#N. Starlet looks a lot like the ancient 
+mother of all Rit'i, Yuraq.
+~
+S
+#99999
+$~
+

@@ -1,0 +1,2204 @@
+#6400
+dwarf dwarven guard miner~
+the dwarf guard~
+A dwarven guard shifts from foot to foot, bored.
+~
+Perhaps the smartly golden yellow uniform laden with gold braid and
+bright ribbons of honor is a point of pride with the guard, or perhaps
+he simply takes his job quite seriously.  In either case, the uniform is
+spotless, the beard neatly combed and braided, the boots spit-shined.
+~
+1 4 b 0 1000 S
+21 9 -1 1d1+310
+400 500 100 1d10+11
+-1 -1
+40 66 7 66 4 100 38 33 301 90 302 90 303 90 300 90
+-1
+441 30999 8 8 1
+A
+%%10 em snaps to attention.
+;%5 em eyes you suspiciously.~
+R
+-1 -1 -1 -1 10
+#6401
+Hagbard dwarf dwarven worker miner~
+Hagbard the Helpless~
+Fortunately for Hagbard the Helpless, Hermann the homely heals him.
+~
+Hagbard the Helpless is not really helpless at all, of course, but he is
+frequently hurt by the many hazards the miners face on a daily basis.
+Somehow, fate has a way of finding him when there is a cave-in, noxious
+gasses fill the tunnels or a boulder decides to roll off in search of a
+dwarf to crush.
+~
+1 0 b 0 -100 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 32 100 -1
+625 64332 8 8 1
+A
+%%10 em tugs at your sleeve, looking piteous.
+~
+#6402
+dwarf angel mining~
+a little dwarf guardian angel~
+An angel servant of Kwazihuatl makes the world glow before your very
+eyes.
+~
+Mining is a hard and dangerous job.  Who needs a guardian angel more than
+those who seek to rip the flesh from Mother Earth?  This little angel is
+never seen, but he has the thick beard, thick calloused fingers and
+stocky build of a veteran miner.  He wears the mark of Kwazihuatl, god of
+dwarf miners.
+~
+1 0 gim stp 1000 S
+35 2 -9 1d1+523
+400 500 100 1d17+18
+-1 -1 -1
+1225 141666 8 8 0
+A
+%%cast 3 miner~
+#6403
+holgarth storekeeper~
+Holgarth~
+Holgarth the Singing #wShopkeeper#Y waits for you to make up your mind.
+~
+Holgarth likes to sing, especially in the interior caverns of the
+mountain, where the acoustics are often unpredictable.  Since his last
+aria deep underground was abruptly ended by the loud rumble of a
+cave-in, his king has asked that he restrict his songs to soft croons.
+~
+1 4 abl dk 1000 S
+109 -50 -100 1d1+30000
+400 500 100 1d54+54 -1
+-1
+-1
+250000 500000 8 8 1
+A
+%%5 hum~
+#6404
+baker~
+Granite Head the baker~
+Granite Head is known for bread hard as the iron dug from the mountain.
+~
+Granite Head is a tall, strong dwarf wearing a large white apron.  He is
+well-dusted with white flour, spices and ground rock.  As he is the only
+baker in the area, the miners rely on him for their daily meals.  He
+also furnishes the bar with their small list of edible fare.
+~
+1 4 b dk 900 S
+109 -50 -100 1d1+30000
+400 500 100 1d54+54 -1
+-1
+-1
+50000 500000 8 8 1
+#6405
+lizard~
+the giant lizard~
+A giant cave lizard is foraging for food along the cavern floor.
+~
+Godzilla?  No, just an overgrown cave lizard.  He thrives on the many
+insects and small animals that dwell here under the mountain.  His cool,
+dark green skin looks firm and spiky in places, and you can see the
+muscles rippling beneath.  His long forked tongue whips out to sample
+the air.
+~
+0 0 g d 100 S
+21 9 -1 1d1+310
+408 500 100 1d10+11
+-1 -1 -1
+441 27999 8 8 1
+#6406
+giant~
+the giant~
+A giant is wandering around the mountainside, looking for food.
+~
+The giant is about 18 feet tall, with arms of steel, and looks in
+excellent physical condition.  It takes a lot to keep that small
+mountain of muscle and flesh in peak condition, and so he's not too
+picky about what (or who) he eats.
+~
+8 4 gl 0 600 S
+22 9 -2 1d1+325
+410 500 100 1d11+12
+-1 -1 -1
+484 37333 8 8 1
+#6407
+dwarven dwarf miner mineworker worker~
+the dwarven mineworker~
+A dwarven mineworker whistles while he works.
+~
+The mineworker is quite tired, but he enjoys the whistle of breath
+through his mustache, and the way the whistle echoes throughout the
+cavern.
+~
+9 4 bl 0 500 S
+24 8 -3 1d1+354
+400 500 100 1d12+13
+-1 -1 -1
+576 55001 8 8 1
+#6408
+dwarven mineleader dwarf mine leader miner~
+the mine leader~
+The mine leader can out-dwarf any of his mineworkers.
+~
+Out-dwarf?  He can out-drink the most bottomless of them.  With a dull
+pick-axe and a played-out vein of ore he can outproduce the swiftest.
+And when he combs out his luxuriant blond beard, you can see it's the
+longest.  No wonder he's the leader!
+~
+9 4 bl 0 700 S
+19 10 0 1d1+281
+400 500 100 1d9+10
+-1 -1 -1
+361 16665 8 8 1
+#6409
+doctor dwarf healer~
+The healer~
+Amazingly, this dwarf is as barecheeked as a newborn (non-dwarf) babe.
+~
+Very unusual - most likely unique among dwarves, this dwarf is smooth
+cheeked and recently shaven.  He looks at you with an air of fatherly
+concern, and when he fingers his beard-trimming shears you note the
+twinkle in his merry brown eyes.
+~
+9 2 bl dh 999 S
+22 9 -2 1d1+325
+400 500 100 1d11+12
+-1 -1 -1
+484 33333 8 8 1
+A
+%%5 say Open wide!
+;%5 say Take a deep breath!
+;%5 say That beard is going to have to go, I'm afraid.
+;%5 say Tsk! Tsk!
+~
+#6410
+ill dwarf miner~
+the deathly ill dwarf~
+Hope what this dwarf's got isn't catching, whatever it is!
+~
+With his pasty skin and wispy beard, it's clear this miner is not well.
+Most dwarves would rather suffer their many illnesses than risk a visit
+to this doctor, known for his large sets of beard-trimming shears and
+razors.
+~
+9 4 b 0 500 S
+19 10 0 1d1+281
+400 500 100 1d9+10
+-1 -1 -1
+361 21665 8 8 1
+A
+%%10 sneeze;
+%14 cough
+~
+#6411
+ypeels miner sleepy dwarf~
+a sleepy miner~
+Yawning loudly, the miner wonders why you're in his dream.
+~
+With no daylight and no moonlight, time loses meaning and the miners
+often sleep unusual hours.  This one has been asleep for about an hour,
+and is convinced you are part of his nightmare.  Beware!
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 25832 4 4 1
+A
+%%10 yawn;
+%5 snore
+~
+#6412
+dwarf sick miner~
+The dwarf near Death~
+Miraculously, the dwarf in the pool of blood on the floor still lives.
+~
+Bleeding profusely from his many wounds, the dwarf awaits the doctor's
+healing touch.  He must be desperate to be here, because the doctor is
+known for his (*cringe*) shaving gear.
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 25832 8 8 1
+A
+%%10 bleed~
+#6413
+offduty guard miner~
+the offduty guard~
+The guard sits with his feet propped up on the table in front of him.
+~
+Bored by his companion's lies, yet secretly wanting to believe them, the
+guard shares some lies of his own.  It's all part of a long-standing
+game they play, seeing who can tell the most outrageous but unprovably
+false tales.
+~
+1 0 b k 0 S
+24 8 -3 1d1+454
+400 500 100 2d6+13
+-1 -1 -1
+576 50001 8 8 1
+#6414
+offduty guard miner~
+the offduty guard~
+An offduty guard sits back, swapping lies with his buddies.
+~
+Ale in hand, calculating look in his eye, the offduty guard tells his
+buddies about all the giants he has killed, wenches he has seduced, and
+secret veins of gold he has discovered.
+~
+1 4 b 0 100 S
+24 8 -3 1d1+354
+400 500 100 1d12+13
+-1 -1 -1
+576 50001 8 8 1
+A
+%%8 say And then there was this mountain troll ... got 'im with me axe, I
+did!
+;%5 say Caught this little giant boy red handed, up to his ears in the
+ale!
+;%5 say 'ave you 'eard what they're usin' fer labor down at the mill?!
+~
+#6415
+guard miner~
+the mine guard~
+Glaring out at you from under his helmet, the guard looks fierce!
+~
+Clearly you've wandered into a part of the mine where you shouldn't be.
+There were no "VERBOTEN!" signs, nothing that actually SAID "off
+limits", but from the look on this guard's face, you'd better go back
+the way you came - and fast!
+~
+1 0 b k 0 S
+24 8 -3 1d1+354
+400 500 100 1d12+13
+-1 -1 -1
+576 50001 8 8 1
+A
+%%8 grumble
+;%5 say I coulda been a sergeant by now if'n I'd worked guard duty up at
+the mill.
+~
+#6416
+guard miner~
+the mining guard~
+The guard looks menacing in the full glory of his heavy chainmail.
+~
+Dwarven chainmail protects the bulging biceps and massive thigh muscles
+of the mining guard.  It's not clear what he's guarding against, or who,
+but his size and his uniform are pretty awesome.
+~
+1 0 b k 0 S
+24 8 -3 1d1+354
+400 500 100 1d12+13
+-1 -1 -1
+576 50001 8 8 1
+A
+%%8 spit
+~
+#6417
+giant snake sssnake~
+the giant snake~
+The giant sssnake looksss about for a ledge from which to hang.
+~
+Hisssss!  Thissss sssnake can ssssee in the dark, ssssso watch out!  It
+lookssss much to large to ssssettle for mere mice, indeed, it looksss
+large enough to swallow a dwarf, whole.
+~
+0 0 bf 0 4294966296 S
+23 8 -2 1d1+339
+400 500 100 1d11+12
+-1 -1 -1
+529 41667 8 8 1
+A
+%%8 em hissssssses.
+;%6 em looks you over, looking for a nice juicy bare spot on your skin to
+sink
+his fangs.
+~
+#6418
+queen Gwandolyn dwarven dwarf~
+Queen Gwandolyn the Dragonslayer~
+Queen Gwandolyn idly picks at her nose-wart, making it bleed.
+~
+In truth, even the dragons could not abide Gwandolyn's rather nasty
+temper.  They didn't bother to toast her, but they would much rather
+not live near this perpetually cranky dwarf.  The mining dwarves
+remain mellow, however, drenched in their marvelous ale.
+~
+1 0 b k 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 64332 8 8 2
+A
+%%1 slides her right pinky into her nose in a booger-mining expedition.;
+;%8 wink
+;%8 flirt king
+~
+#6419
+king Kwathoum wide-bottom~
+King Kwathoum~
+King Kwathoum the wide-bottomed wipes drops of ale from his beard.
+~
+King Kwathoum the Wide-Bottomed son of Raktwein the Orc-Hunter is fairly
+diminutive for a dwarf.  Far below the normal stature for his race, he
+barely reaches shoulder height on his queen.  The dominant feature of
+this little dwarf is his truly immense nose.  Point of pride for
+Kwathoum, it looms out over his long, luxuriously golden beard which,
+itself, curls merrily down towards his knees.
+~
+1 0 b k 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 64332 8 8 1
+A
+%%6 tango queen;%8 daydream~
+#6420
+sleep sleeping sleeper miner~
+the sleeping miner~
+A miner sleeps sprawled out over his pallet on the mine floor.
+~
+Impervious to rumblings deep in the belly of the mountain, loud snores
+from other sleeping dwarves, and the odd, awe-full, noisome smells of
+many unwashed bodies (and socks), the miner is so-o-o tired that he
+sleeps deeply, dreaming, perhaps, of finding the hidden vein of gold in
+this mountain.
+~
+1 0 b k 0 S
+22 9 -2 1d1+325
+400 500 100 1d11+12
+-1 -1 -1
+484 40333 4 4 1
+#6421
+egil dragon sleeping~
+The grand old dragon~
+Let sleeping dragons lie.  (Old Dwarven Saying)
+~
+Egil is a very very old dragon, centuries old, older than most other
+dragons in this world.  He is the source and the keeper of dragon tales,
+dragon history.  He is revered by other dragons.  The dwarves both fear
+and respect him, and leave him in peace.  He is their totem, their
+cave-god, lord of all beneath the surface of the earth.
+~
+18 0 bf kB 0 S
+100 -32 -45 1d1+2459
+405 500 100 1d50+51
+-1 -1 -1
+10000 184545 4 4 1
+A
+%%10 snore
+~
+#6422
+shy lfuhsab dwarf miner~
+The dwarf~
+One dwarf is hiding behind a metal fern wreathed in blue smoke.
+~
+To enhance the ambiance in this little hole-in-the-(rock)-wall bar, the
+management has spread about many plants.  Without sunshine, real plants
+would die, so metal plants have taken their place.  This dwarf is
+uncomfortable in the bar (nobody knows his name), and is shyly hiding
+behind the metal fern.
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 26832 8 8 1
+A
+%%8 blush~
+#6423
+yzeens dwarf miner~
+the miner~
+A bright red nose and droopy eyes warn you to stay clear of this miner.
+~
+Wiping his painfully red nose on the rough woolen sleeve of his tunic,
+the miner wonders idly if he is allergic to the mine dust, the smoke
+from his pipe, or simply life.  He is strong and in good spirits,
+though, and not a dwarf to trifle with!
+~
+1 0 b k 0 S
+22 9 -2 1d1+325
+400 500 100 1d11+12
+-1 -1 -1
+484 36333 8 8 1
+A
+%%10 sneeze
+;%8 em rubs a nice clean hankerchief against his reddened, dripping nose.
+~
+#6424
+yppah dwarf gronlgrg gr#<oe>nlgrg~
+Gr#<oe>nlgrg~
+Singing, Gr#<oe>nlgrg works at separating rock from mountain.
+~
+His fellow dwarves duck and work up quick excuses when they see
+Gr#<oe>nlgrg coming.  His persistent cheeriness, smiles and ready
+laughter are like a dull pickaxe scraping along smooth rock to the
+others.  It is hard for even a dwarf to be mean spirited to
+Gr#<oe>nlgrg, mostly because he is impervious to such behavior.
+~
+1 0 b k 0 S
+22 9 -2 1d1+325
+400 500 100 1d11+12
+-1 -1 -1
+484 40333 8 8 1
+A
+%%8 sing
+~
+#6425
+yepdo dwarf miner~
+a dwarf~
+The dwarf sits in the dark, wondering why he can't see.
+~
+While he's not very clever for a dwarf, still, his lack of brilliance
+generally doesn't lead him into trouble.  Indeed, he has a fool's own
+luck, just not the intelligence to take advantage of it.
+~
+1 0 b k 0 S
+21 9 -1 1d1+310
+400 500 100 1d10+11
+-1 -1 -1
+441 30999 8 8 1
+A
+%%8 twitch~
+#6426
+miner dwarf~
+the miner~
+The mighty dwarf enjoys reaping iron ore from the heart of the mountain.
+~
+Putting his massive back into each swing of his pickaxe, the hardworking
+dwarf gets into a steady rhythm reminiscent of a heartbeat as he chips
+away at the heart of the mountain.  As with his brethren, this dwarf was
+born to the life, born to carve out his domain beneath the surface of
+the earth.
+~
+1 0 g k 0 S
+22 9 -2 1d1+325
+400 500 100 1d11+12
+-1 -1 -1
+484 40333 8 8 1
+#6427
+miner handsome dwarf~
+the handsome dwarf~
+The very handsome dwarf spends a moment to stroke his beard.
+~
+He is average height for a dwarf, about 4', or about 1.25 m (as
+the European dwarves would measure him).  His hair is lushly thick and
+the golden color of the ale he loves.  His body hair is also thick, so
+much that his eyebrows seem to join over his nose, forming a single
+ridge of hair.  His beard is likewise thick and long, and full of odd
+objects, insects and bugs that have yet to be combed away.
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 26832 8 8 1
+A
+%%7 admire handsome;
+%5 holdhand handsome
+~
+#6428
+giant Thorvald~
+Thorvald~
+Thorvald yawns, accidently swallowing a small bird.
+~
+Thorvald doesn't notice.  He's a bit tired, and a bit hungover, and not
+too bright, in any case.  The bird was flying nearby and got sucked in
+by Thorvald's mighty yawn.  Thorvald may notice a bit of a fluttering in
+his stomach.  But probably not.
+~
+8 0 b k 0 S
+24 8 -3 1d1+354
+410 500 100 1d12+13
+-1 -1 -1
+576 50001 8 8 1
+A
+%%5 say chirp!~
+#6429
+Hermann cod~
+Hermann the Homely~
+Hermann the Homely has helped Hagbard heal his wounds.
+~
+Hermann would have liked to be THE healer, but a relative of Gwandolyn
+the queen was given the post.  He is a kind dwarf with a gentle, if
+exceedingly homely face.  The dwarves believe that the devil sickness is
+frightened away by Hermann's homeliness.  Perhaps it is so.
+~
+8 0 b k 0 S
+23 8 -2 1d1+339
+410 500 100 1d11+12
+-1 -1 -1
+529 41667 8 8 1
+#6430
+death~
+Death~
+Death haunts the subterranean regions of the mine.
+~
+A miner's life is often cut short by the many things that may go wrong,
+from poisonous gas, to a cave in, a slip of the axe or the fire of an
+awakened cave-dragon.  Death is always with them, hidden in the dark
+underground passages.
+~
+2 0 b bkhbD 0 S
+26 7 -4 1d1+384
+400 500 100 1d13+14
+-1 -1 -1
+676 77666 8 8 1
+A
+%%5 em looks you over craftily, measuring the days you have left to your
+ pathetic life.
+;%8 em tells you, "I hear Harold the Undertaker has a good deal on now.
+Maybe you should take advantage of it and save your family some money."
+;%8 em silently sharpens his scythe, waiting for your hourglass to empty.
+~
+#6431
+Magnus giant~
+Magnus~
+Magnus the Merciless flexes his magnificent muscles.
+~
+Magnus the Merciless crushes all before him.  Standing tall, even for a
+giant, he spends some months out of each year lifting huge iron bars at
+the dwarven steel mill.  Besides the plentiful food, the mill gives him
+an opportunity to develop and tone his beautiful musculature.
+~
+8 0 b k 0 S
+23 8 -2 1d1+339
+410 500 100 1d11+12
+-1 -1 -1
+529 41667 8 8 1
+A
+%%5 em admires his magnificent biceps.
+;%5 flex
+;%5 sing magnus
+~
+#6432
+Gr#<oe>tben grotben giant~
+Gr#<oe>tben the Grotty~
+Dragging his leg, Gr#<oe>tben tries to finish his meal while on patrol.
+~
+Grog, greasy pig meat, grainy wholemeal bread, Gr#<oe>tben gobbles it
+all down while gimping along on patrol.  Gr#<oe>tben is on the lookout
+for grog-thieves and other greedy souls.
+~
+8 0 b k 0 S
+24 8 -3 1d1+354
+410 500 100 1d12+13
+-1 -1 -1
+576 50001 8 8 1
+A
+%%1 yell #rFee #cFie #gFoobar #mFumble#W
+;%8 em picks a small nit out of his body hair and sticks it in his
+sandwich.
+~
+#6433
+Uzhumer ypmurg dwarf~
+Uzhumer the Cranky~
+Uzhumer the Cranky growls, "Get back where you belong, dirtwalker."
+~
+Uzhumer the Unhumorous ... Uzhumer the Cranky ... Uzhumer who would eat
+iron ore before he would say thing remotely cheerful.  A dwarf of middle
+years, his thick, wildly wavy black hair has grown a small halo of gray.
+His face is deeply lined, all lines pointing down of course, from his
+perpetual glower.  Still, he is a good friend for those who can endure
+his eternal pessimism.
+~
+9 0 b k 0 S
+24 8 -3 1d1+354
+400 500 100 1d12+13
+-1 -1 -1
+576 50001 8 8 1
+A
+%%5 grumble
+;%4 say What do you think you're looking at?
+;%5 say Get back where you belong, dirtwalker.
+;%5 glare
+;%3 raspberry
+~
+#6434
+gnome Nell~
+Commander Nell~
+Cmdr Nell, Chief of Gnomish Spy Operations, hunts for her cookie stash.
+~
+Nell is a very commanding little gnome (other gnomes call her bossy).
+She takes her job as Chief of Gnomish Spy Operations (GSO) and Overseer
+of Ballooning (OB) very seriously.  She and Kith are on a mission to
+Discover the Lost Gnomes.  A small party of gnomes left GnomeHome some
+(few hundred) years ago never to be seen again.  They were to assist
+(for a princely fee) the dwarves in their mining operations, about which
+they had an intense (and intensely gnomish) curiosity.
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 20832 8 8 2
+A
+%%5 say  WHO FORGOT THE COOKIES???~
+#6435
+gnome Kith~
+Kith~
+Kith's in charge of Watching Over Nell, who often thinks she's Xena.
+~
+Kith is one of the Sensible Gnomes (yes, there are a few, mostly from a
+Sensible Gnome village just northeast of Midgaard).  It is his duty to
+see that when Nell starts playing Warrior Princess, she comes to no
+harm.  He is also actively searching for The Lost Gnomes, who left the
+yak farm where they were brought up to seek adventure in the wide world,
+and to Help the Dwarves.
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 20832 8 8 1
+#6436
+gnome Martha~
+Martha~
+Martha, Junior Gnomish Spy, waits for her turn with the spyglass.
+~
+ From their landing place high in a Giant Tree, the gnomes can see much
+of the mountain.  They have brought a spyglass, and Martha is itching to
+get her delicate gnomish fingers on it.  The gnome who discovers the
+Lost Gnomes will be famous in Gnomish History.  Martha is small and
+delicate, even for a gnome.  Her skin is smooth, soft, the color of
+aging parchment.  She is the youngest of the Gnomish Spy Group.
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 20832 8 8 2
+A
+%%3drop stick
+;%3 rem stick
+;%1 get stick
+%5 say Lemme see! Lemme see! Have you found them??~
+#6437
+Bint gnome~
+Bint~
+Bint listens, enraptured, as her friends frighten her with stories.
+~
+Bint sits in the dark at the back of the small hut, listening in
+fascination as her friends weave tales of horror and mystery, brave
+adventures of derring-do and narrow escapes through rifts in the fabric
+of time.  She has long since forgotten WHY she is hidden away here.
+~
+1 0 b k 0 S
+22 9 -2 1d1+325
+400 500 100 1d11+12
+-1 -1 -1
+484 39333 8 8 2
+A
+%%5em munches away on a chocolate cookie.~
+#6438
+Ernie~
+Ernie~
+Ernie became lost in his own story, a tale of 4 gnomes underground.
+~
+Ernie, Magnificent Storyteller, is part of the famous Legend of the
+Lost Gnomes.  He is a gnome of many years, and his fair hair now grows
+in small wisps atop his head.  His clothing is covered in several years
+of accumulated dust.  His current tale, one of the adventures of 4
+gnomes living under a great mountain, is one of his best.  Then again,
+it's also all quite true.
+~
+1 0 b k 0 S
+22 9 -2 1d1+325
+400 500 100 1d11+12
+-1 -1 -1
+484 39333 8 8 1
+A
+%%8 say ... and then, one of the dwarves told them the Legend of the
+Great
+Cookie Jar ...
+~
+#6439
+Genna gnome lost~
+Genna~
+Genna looks hungrily at the cookie jar, which holds the remaining stash.
+~
+Genna agreed to a Gnomish Story Swap as a prelude to a Gnomish Cookie
+Feast, but the Story Swap, although fascinating, is taking
+f-o-r-e-v-e-r, and she is #rhungry#N!  She is a very chubby little
+gnome, covered with a hundred years or so of accumulated dust (which she
+doesn't notice nor, if she did, would she mind).  Her turn at
+storytelling is next, and she is thinking of a story involving 4 little
+gnomes who perish of hunger in the middle of a storytelling fest!
+~
+1 0 b k 0 S
+22 9 -2 1d1+325
+400 500 100 1d11+12
+-1 -1 -1
+484 38333 8 8 2
+A
+%%5 em blushes as her stomach growls loudly.
+~
+#6440
+Squish lost gnome~
+Squish~
+Squish shivers in fear at the tale of gnomish ghosts haunting.
+~
+The stories are deliciously scary, spooky and frightening.  Squish
+likes best stories about ancient, evil gnomes coming back as ghosts,
+haunting the living.  Although, truth be told, he's never known a truly
+evil gnome, he's fully prepared to believe they exist.  Squish was
+but a lad of 173 when his expedition left on a Great Adventure in the
+Underground Land of the Dwarves.  He fully expects to be part of a Great
+Gnomish Legend himself one day!
+~
+1 0 b k 0 S
+22 9 -2 1d1+325
+400 500 100 1d11+12
+-1 -1 -1
+484 38333 8 8 1
+A
+%%8 em shivers, moving a little closer to the other gnomes.
+~
+#6441
+termite~
+a giant termite~
+A giant termite flies at you spitting acid, fangs ready for your throat.
+~
+This is a termite like you've never seen before!  Termites should be
+small and easily quashed.  This one is as big as you are, with the
+armature and weaponry of the fierce insect that he is.  Got any bug
+spray?
+~
+1 0 bf k 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 64332 8 8 2
+A
+%%5 say I never met a tree I didn't like ... to bite!
+~
+#6442
+Hrugnar giant~
+Hrugnar the Hairy~
+Hrugnar swallows his potent grog more easily than his buddies' tales.
+~
+After all, Hrugnar has spun some of the same tales himself.  Hrugnar is
+a larger than average, well respected giant, with shoulder-length thick
+blond hair that he wears tied back with a dragon-leather thong.  He
+loves to go stomping with his fellow giants, and brags about the many
+dragons he has slain.
+~
+1 0 b k 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 64332 8 8 1
+A
+%%5em picks a really big louse out of his beard and flicks it away.
+~
+#6443
+Olaf giant~
+Olaf the Besotted~
+Olaf shouts up to Astrid, "C'mon, sugar-pie, I won't be gone long!"
+~
+Olaf is large, even for a giant, with a big, hairy barrel chest, a large
+grog-belly, and thighs like tree trunks.  He loves to go out stompin
+with his friends, which basically means getting roaring drunk and
+creating as much havoc as possible in Stanneg, Tynstri and any of the
+other small villages they stumble into.  Astrid tries hard to make a
+good husband and a good provider out of him, but the raw material she
+has to work with is lacking a LOT.
+~
+1 0 b k 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 58332 8 8 1
+A
+%%5 belch
+;%8 say Awww, Astrid, angel-face, I've just #wgotta#N go stompin' with
+the guys!
+~
+#6444
+Lodur lefty~
+Lodur~
+Lodur the Left Handed looks for someone to loot.
+~
+Lodur the sLy, "Lefty Lodur" as the wanted posters call him.  A very
+sinister looking man, he hides among the large lilies of the valley,
+preying on lone travelers, leering at them from behind large lilies,
+lunging out at them, looting them, then leaving them leaking blood.
+~
+1 0 b k 0 S
+24 8 -3 1d1+354
+400 500 100 1d12+13
+-1 -1 -1
+576 54001 8 8 1
+A
+%%8 em deftly slips his hand into your backpack and grabs some gold.
+~
+#6445
+Astrid~
+Astrid~
+Astrid yells down to Olaf, "Don't you sugar-pie me, you little worm!"
+~
+Well, I suppose only another giant could call Olaf "little".  Astrid is
+a small, feminine giantess with lush curves in all the right places (at
+least, Olaf thinks so).  Her pale blond hair is kept firmly braided and
+wound around her head like a coronet.  Her eyes are the deep blue of a
+summer sky, as Olaf tells her when he's been out stomping.
+~
+1 0 b k 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 65332 8 8 2
+A
+%%5 em yells down to Olaf, "You get up off your lazy hairy bottom, Olaf
+ and get up here and DO something about that boy of yours!"
+;%5 em yells down at the "boys", "You just take yourselves off to the
+ Stubbies Steel Mill and find yourselves an #whonest#W job and stop
+ all that #wstompin!#N
+;%8 em yells to Olaf, "You stomp any more dirt in here and #wI'll stomp
+ all over you, I will!!#N"
+~
+#6446
+Gullveig giant girl~
+Gullveig~
+Gullveig has looked EVERYWHERE for her Nelly doll, so it must be hiding.
+~
+Gullveig looks much like a younger version of her mother, Astrid.  She
+is small, fair, with long blond braids that end, usually, in a dirty
+ribbon.  Her deep blue eyes look out at you with interest from a face
+with very regular features, cool creamy-white skin and a very determined
+expression.  She radiates confidence in herself and her abilities to
+make the world grant her desires.
+~
+1 0 g k 0 S
+24 8 -3 1d1+354
+400 500 100 1d12+13
+-1 -1 -1
+576 50001 8 8 2
+A
+%%5em says, "Nelly!  Where are you Nelly?  C'mere Nelly!"
+;%5 pout
+;%5 sulk
+~
+#6447
+Nelly doll~
+the Nelly doll~
+The Nelly doll looks furtively out from under Astrid's bed.
+~
+The doll is, indeed, hiding from Gullveig.  And she hopes fervently that
+Gullveig will NEVER find her.  Indeed, she's been working hard on a
+"forgetting" spell so Gullveig will forget she ever HAD a Nelly doll.
+Nelly is dressed as the real Nelly does for her Mind Bogglingly
+Magnificent Mindslayer act.  Her rainbow cape hides many magic
+treasures.  Although she is a doll, she is (hopefully WAS) the toy of a
+giant girl, and so she is quite as large as an average human, larger
+than Nelly the Gnome. Nelly's  brief flame of fame led every little girl
+to want a Nelly doll.
+~
+1 0 b k 0 S
+26 7 -4 1d1+384
+400 500 100 1d13+14
+-1 -1 -1
+676 66666 8 8 2
+A
+%%5 em peeks nervously out from under the quilt on the bed.
+;%5 em tells one of the Lost Argyles to stay lost.
+~
+#6448
+guard Gunnar giant~
+Gunnar the guard~
+It's not clear whether Gunnar is guarding the gate or his grog.
+~
+Gunnar's favorite position is rocking back on the back two legs of his
+chair, feet propped up on the desk, grog in hand, staring up at his
+favorite pinup girl (Helga).  The road sees little activity beyond the
+occasional lost tourist (quickly dispatched for a snack) or a small
+expedition of giants out for a good stomp.  This suits Gunnar's
+personality quite well.
+~
+1 0 b k 0 S
+24 8 -3 1d1+354
+400 500 100 1d12+13
+-1 -1 -1
+576 50001 8 8 1
+A
+%%5 em gulps down another tankard of grog.
+;%5 spit
+;%5 sing
+~
+#6449
+Ymer~
+Ymer the Stout~
+Ymer the Stout lumbers about trying to stay upright after the grogfest.
+~
+Of course there is always something to celebrate, and this time Ymer
+really tyed one on.  He's not too sure how much grog he swallowed,
+although he has a vague memory of heading down to the cellar for another
+barrel and being startled there by a tiny person wearing spectacles.
+Not that gnomes or dwarves are unknown to him, but they rarely make it
+into the stronghold without being eaten.
+~
+1 0 b k 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 58332 8 8 1
+A
+%%5 hiccup
+;%5 em puts his head in his hands and moans.~
+#6450
+Gunhild~
+Gunhild~
+Redhaired Gunhild stays busy sweeping the gallery floor.
+~
+Gunhild's deep red hair tells you something about her temper.  The giant
+children are rather naughty about leaving their things over the floor,
+and Gunhild sweeps them right off the floor, through the railing that
+runs around the U shaped floor and onto the heads of the giants below.
+This is very distressing to the children.  The giants, when they are in
+the hall below, don't seem to notice.
+~
+1 0 b k 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 58332 8 8 2
+A
+%%8 em shakes her broom at you threateningly.
+;%8 mutters, "Children should be kept outside, where they belong!"
+;%15 spank Stanley
+~
+#6451
+Stanley~
+Stanley~
+Stanley shouts "Stop!", seeing small sweets slide slowly away.
+~
+Stanley is a small (for a giant) and very nasty little boy.  His mother
+Astrid is constantly attempting to placate him with sweets, but he
+continues to whine.  He is a VERY fat little boy, with rotten teeth and
+breath (from all the sweets) and a tendency to throw very loud temper
+tantrums.  His father is very proud of Stanley's lungs.  If Gunhild
+continues to sweep Stanley's sweets off the floor, and if Astrid
+succeeds in keeping Olaf home, then Olaf will undoubtedly get to hear a
+LOT more of his son's powerful voice.
+~
+1 0 b k 0 S
+24 8 -3 1d1+354
+400 500 100 1d12+13
+-1 -1 -1
+576 50001 8 8 1
+A
+%%2 fart;%10 tantrum;%3 innocent~
+#6452
+Ulfar~
+Ulfar the Unwashed~
+Idly polishing his mighty war-axe, Ulfar glares down at you.
+~
+Ulfar is one of the mightiest of the giants who live at this stronghold.
+He is probably the only one who combines both intelligence and size.
+Unfortunately he also believes bathing is a conspiracy foisted by
+smaller races upon the mighty, and he steadfastly refuses to
+participate.  Of course, the other giants are not big fans of bathing
+either, but they occasionally DO swim - or at least fall into large
+bodies of water.
+~
+1 0 b k 0 S
+26 7 -4 1d1+384
+400 500 100 1d13+14
+-1 -1 -1
+676 66666 8 8 1
+A
+%%5 em idly picks at his lice.~
+#6453
+rugrat~
+the rugrat~
+All whiskers and long tail, the rugrat watches the world walk by.
+~
+All grey and brown fur (and dust), the rugrats love to roll around in
+the dust beneath the bed, playing with the small toys that they filch
+from Stanley.  They are clever little rugrats, blending into the carpet
+when they need to hide, but sneaking out when nobody is looking to
+steal candy and small treasures.
+~
+1 0 b k 0 S
+24 8 -3 1d1+354
+400 500 100 1d12+13
+-1 -1 -1
+576 50001 8 8 1
+A
+%%3 rub~
+#6454
+argyle argy sock~
+Argyle the Sock~
+Argyle the Sock isn't really lost, he's just on vacation.
+~
+Let's face it.  Being a sock is NOT the World's Best Job!  You encase
+something whose odor is the source of endless jokes, and you become
+yourself, seeped in that odor.  You are constantly trod upon in the hot
+humid darkness inside a shoe.  You never get to SEE anything beyond the
+inside of a drawer, but have to rely on the shoe's description of the
+world.  Once used, you're flung aside to be tramped on until you are
+thrown into a large vat of water and drowned, only to go through the
+entire cycle again.  Argy and his brother have escaped this terrible
+fate by the simple strategem of separating.  Only one of them had to
+hide.
+~
+1 0 b k 0 S
+24 8 -3 1d1+354
+408 500 100 1d12+13
+-1 -1 -1
+576 50001 8 8 1
+A
+%%10 twitch~
+#6455
+dog hound wardog~
+the wardog~
+The vicious wardog is dreaming of tearing prey limb from limb.
+~
+One of Ulfar's favorites, the dog (Ulfar calls him "Dog") stands half
+again as tall as a normal human (if there is such a thing).  Ulfar says
+if he had a half dozen dogs like this one, the giants would Rule the
+World instead of just using it for their plaything.
+~
+1 0 bf k 0 S
+30 5 -6 1d1+445
+400 500 100 1d15+16
+-1 -1 -1
+900 99999 4 4 1
+A
+%%2 growl~
+#6456
+bnarkl dwarf spy~
+Bnarkl the UDS~
+Bnarkl silently observes, making mental notes of all he sees.
+~
+Bnarkl is the Ultimate Dwarven Spy, sent to keep an eye on the giants
+via the fake barrel of grog in the cellar of their stronghold. Bnarkl's
+beard and mustache are well-trimmed and well-waxed.  He is slender for a
+dwarf, but as a spy, he is continually needing to get out of "tight
+spots". He is not sure why he was told to spy on the giants, but he
+reports back on their grog supplies and occasionally makes a small hole
+in one of the kegs.  The giants (like everyone else) buy their ale from
+the dwarves.
+~
+1 0 b k 0 S
+26 7 -4 1d1+384
+400 500 100 1d13+14
+-1 -1 -1
+676 66666 8 8 1
+A
+%%4 peer;%5 pace~
+#6457
+Biff brewmaster~
+Biff~
+Brewmaster Biff glares sternly at you. "You can buy your ale next door."
+~
+Ooops!  You've stepped into the private (and very busy) domain of Master
+BrewMaster Biff the Fat.  Gnomish hops and a secret, ancient dwarven
+recipe are used to brew the best and most potent ale known to dwarf (or
+gnome or man).  Grog, a byproduct of the process and considered by the
+dwarves to be not-worth-bothering-with, is sold to the giants who live
+northeast of here.
+~
+1 0 b k 0 S
+24 8 -3 1d1+354
+400 500 100 1d12+13
+-1 -1 -1
+576 54001 8 8 1
+A
+%%5 glare;%5 threaten~
+#6458
+gnomish gnome farmer~
+the farmer~
+The farmer polishes the twirly horn of his favorite yak.
+~
+A small group of communal gnomes farms the rich pastures near the
+dwarven mountains.  They provide the dwarves with flour, hops, and
+advice on the steel mill machinery, and the dwarves give them the finest
+ploughs and steel wool (for polishing the yak horns) that exist in this
+world.
+~
+1 0 0 k 0 S
+19 10 0 1d1+281
+400 500 100 1d9+10
+-1 -1 -1
+361 18665 8 8 1
+A
+%%8 praise yak;%5 admire yak~
+#6459
+yak~
+the yak~
+The magnificently hairy yak likes to yak it up with fellow yaks.
+~
+At 2 m. (6'6") high at the shoulder, covered with thick, meaty muscles
+and thick, wildly growing hair, with two long, curving horns that stick
+w-a-y out in front of him, the yak believes himself to be a very sexy
+beast.  With a small horde of awestruck gnomes to cater to his every
+whim, brush his hair till it shines, feed him raspberries and celery,
+and polish his rainbow horns, life seems pretty fine to the yak and his
+herd.
+~
+1 0 0 k 0 S
+20 10 -1 1d1+295
+408 500 100 1d10+11
+-1 -1 -1
+400 22832 8 8 1
+A
+%%7 twitch~
+#6460
+Brunhilde giant B~
+Brunhilde~
+Brunhilde leans on the railing, trading insults with the giants below.
+~
+Giant courtship rituals are bizarre, aren't they?  Brunhilde ("B" to her
+friends) is a large giantess, with broad shoulders, strong arms, and a
+will of iron.  Her carrot-red hair falls in two long braids down to her
+waist.  She has been flirting with many of the male giants for years
+now in this fashion, but life near Astrid and Olaf has convinced her
+never to marry.
+~
+1 0 b k 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 65332 8 8 2
+A
+%%3 flirt;%5 chuckle
+;%5 say Ha! Not all of you is so giant, Ulfar!
+;%5 say I've seen more hair on a chicken, Bjarke!~
+#6461
+Bjarke giant~
+Bjarke~
+Bjarke thumps his friend hard on his back, nearly toppling him.
+~
+A giant of great good cheer, Bjarke is the result of a life with no
+fear.  He is a giant among giants, tall and powerful with rippling
+muscles and a constitution strong as the iron the dwarves labor so hard
+to reap from their beloved underground.  Because he has known no fear,
+and even misfortune has never dared cross his path, Bjarke is easy-going
+and rarely cranky.  Given his size, it might be a good idea to keep him
+that way.
+~
+1 0 b k 0 S
+26 7 -4 1d1+384
+410 500 100 1d13+14
+-1 -1 -1
+676 66666 8 8 1
+A
+%%8 guffaw
+%3 em laughs heartily.~
+#6462
+Jilly gnome~
+Jilly~
+Jilly rolls out the cookie dough to cut into fantastical shapes.
+~
+Cook(ie Baker) Jilly loves baking pepparkakor cookies for the little
+(and not-so-little) gnomes at Christmastime - and most other times.  The
+little gnomes help her cut out the gingerbread-gnomes and trees and
+snowflakes and yaks and moons and stars and anything else they can
+imagine.  Once baked, the ones that are not immediately gobbled are
+decorated with Jilly's special white icing.
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 20832 8 8 2
+#6463
+Thobias~
+Thobias~
+Thobias pauses in the path, puffing on his briar pipe.
+~
+Tobias has been busily negotiating the sale of the tobacco the dwarves
+love so much in exchange for some fine ale brewed especially for the
+halflings.  He is a middle-sized halfling of middle years, round and
+chubby, with a special vest and jacket to hold his travelling pipes.
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 20832 8 8 1
+#6464
+gnomish sleeper gnome~
+the sleeping gnome~
+Shhh! Don't wake the sleepers!  They've had a long day.
+~
+A farmer's day is long and hard, even if you're a gnomish yak farmer.
+During the long spring and summer, crops are planted to feed the yaks
+through the winter.  The farm is mostly self-sufficient, so food and
+material for clothing must be grown and then canned or processed.
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 50 1d10+11
+38 0 50 1d0+99
+-1 -1 -1
+400 25832 4 4 1
+A
+%%4 snore~
+#6465
+Razzl~
+Razzl~
+Razzl grabs a basket and heads off towards the berry fields.
+~
+Razzl is a small, neatly turned out gnome, with a bright pink dress, a
+long white apron and wide-brimmed straw hat trimmed with a bright pink
+ribbon.  Razzl is headed off to pick strawberries, which Jilly will use
+to make jam.  Yum!  Extra strawberries will go to the yaks, who actually
+purr when fed strawberries and cream.
+~
+1 0 g k 0 S
+21 9 -1 1d1+310
+400 500 100 1d10+11
+-1 -1 -1
+441 29999 8 8 2
+#6466
+Dazzl~
+Dazzl~
+Dazzl trudges off to pick raspberries, well-stained basket in hand.
+~
+Dazzl would rather be skinny dipping in the creek, but the yaks and the
+gnomes both thrive on the raspberries, so she's off to fill her basket
+before it gets dark.  Dazzl, Razzl's twin sister, is about average
+height for a gnome, which is to say, not so very tall.  She has a bounce
+in her step (when she's not headed for the raspberry patch) and a
+twinkle in her eye.
+~
+1 0 g k 0 S
+21 9 -1 1d1+310
+400 500 100 1d10+11
+-1 -1 -1
+441 28999 8 8 2
+#6467
+Znugl~
+Znugl~
+Znugl barks playfully, announcing your arrival.
+~
+Znugl is one of the many yak herding dogs kept and trained by the yak
+farming gnomes.  She is about mid-thigh height for an adult gnome, but
+due to her training she believes strongly she is the head yak,
+responsible for keeping the rest of the yaks in order. She is a
+cheerful, playful, noisy part of the farm.
+~
+1 0 0 k 0 S
+19 10 0 1d1+281
+408 500 100 1d9+10
+-1 -1 -1
+361 22665 8 8 2
+A
+%%9 bark~
+#6468
+gnome explorer~
+The explorer~
+The Gnomish explorer is out to discover the world.  Wherever it is.
+~
+Having packed up all that he can into his small backpack, dressed warmly
+in yak's wool trousers and vest, with a small leather cap, the explorer
+has set out to discover the world.  Not many travellers make it to his
+off-the-beaten-track yak farm, but enough to stir his innate gnomish
+curiosity.  The bespectacled gnome walks boldly, hoping to go Where No
+Gnome has Gone Before.
+~
+1 0 0 k 0 S
+23 8 -2 1d1+339
+400 500 100 1d11+12
+-1 -1 -1
+529 41667 8 8 1
+#6469
+runner Thialfi~
+Thialfi~
+Thialfi races past you in a blur of motion.
+~
+A young blond lad with a passion for goat meat, Thialfi is the fastest
+man alive.  He has a runner's build, lean with long legs. Thialfi and
+his sister Roskva were presents to Thor, when Thor was a guest at their
+cottage.  Thialfi disobeyed Thor, and it was a narrow thing, whether he
+would be killed on the spot or not.  Thor has a rather nasty temper!
+~
+1 0 0 k 0 S
+25 8 -2 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 58332 8 8 1
+#6470
+Gupfo~
+Gupfo~
+Gupfo gathers the gardening gnomes, giving good instructions.
+~
+Gupfo is Chief of Gnomish Gardeners, in charge of Growing Green things.
+Needless to say, he especially loves glossy eggplant, geraniums,
+greengage pears and giant squash.
+~
+1 0 0 k 0 S
+23 8 -2 1d1+339
+400 500 100 1d11+12
+-1 -1 -1
+529 41667 8 8 1
+A
+%%8 daydream
+;%1 say Geeeee ...~
+#6471
+farmer gnomish gnome~
+the farmer~
+Farming the fertile plateau fascinates the gnomish farmer.
+~
+Well, most EVERYTHING fascinates the curious gnomes.  The farmer has
+been hardened by the active life of waking at dawn, working with the
+land and with his small herd of yaks and other farm animals.  His skin
+is dark from the sun and quite tough and leathery.
+~
+1 0 0 k 0 S
+21 9 -1 1d1+310
+400 500 100 1d10+11
+-1 -1 -1
+441 24999 8 8 1
+A
+%%5 say Fine field of fenugreek there!~
+#6472
+chicken~
+the chicken~
+The chicken flaps her wings wildly, as if she is about to lay an egg.
+~
+This is an ordinary, dumber-than-celery chicken with dirty white
+feathers.  Her life has been spared thus far, although she has yet to
+produce her first egg.
+~
+1 0 0 k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 20832 8 8 2
+#6473
+rooster~
+the rooster~
+The rooster struts, master of all he surveys.
+~
+Or at least, master of all the hens he surveys.  Which is all he really
+cares about.  And since he is the only rooster around, it's likely he
+will remain Chief Rooster.  Unless he becomes Chief Fried Chicken some
+evening when one of the War Gnomes gets tired of his boasting.
+~
+1 0 g k 0 S
+21 9 -1 1d1+310
+400 500 100 1d10+11
+-1 -1 -1
+441 24999 8 8 1
+A
+%%5 strut~
+#6474
+miner~
+the miner~
+The miner is looking forward to spending some of his gold on ale.
+~
+Back and arms rippling with muscles from years of heavy labor under the
+crust of the earth, encrusted himself, head to toe, with a bit of that
+earth, this miner is looking forward to a night drinking ale and talking
+with his buddies.
+~
+1 0 g k 0 S
+23 8 -2 1d1+339
+400 500 100 1d11+12
+-1 -1 -1
+529 44667 8 8 1
+#6475
+sleeping guard~
+the sleeping guard~
+Shhh! This guard was out on patrol all night and must sleep now!
+~
+Well, okay, it's hard to say when you're underground whether you are up
+all day or all night.  The dwarf comes from a family which proudly
+traces their ancestry back to Ratootl the Big-Eared Goblin Muncher.  He
+definitely has the ears.
+~
+1 0 g k 0 S
+23 8 -2 2d20+425
+400 500 100 1d11+12
+-1 -1 -1
+529 44667 4 4 1
+#6476
+guard~
+the dwarf guard~
+The guard struggles to get the cave-grit off his boots before sleep.
+~
+The Chief Officer Dwarf has a fetish for well-shined boots, so the
+dwarves try to at least get most of the dust from their boots before
+they sleep.  No polishing materials are provided, so they simply rely on
+the ready supply of discarded socks and underwear littering the floor.
+~
+1 0 g k 0 S
+23 8 -2 1d1+339
+400 500 100 1d11+12
+-1 -1 -1
+529 41667 8 8 1
+#6477
+Scruffy wardog dog~
+Scruffy~
+Scruffy the vicious wardog is out looking for a wild adventure.
+~
+And if she gets caught by Ulfar she'll be dog-stew in no time.  Scruffy
+sneaked out the green door when Gr#<oe>tben left to go on patrol, and
+she has no intention of going back soon.  Tail high, sniffing the
+breeze, she's one happy wardog.
+~
+1 0 g k 0 S
+23 8 -2 1d1+339
+408 500 100 1d11+12
+-1 -1 -1
+529 41667 8 8 2
+A
+%%5 em lifts up her chin and sniffs delicately at the air.;%5 em looks
+around for some nice dead animal to roll in.~
+#6478
+Brandy wardog dog~
+Brandy~
+Brandy the escapee wardog races along the road, head and tail held high.
+~
+Brandy escaped the giants' stronghold where Ulfar was trying hard to
+turn her into a vicious war dog.  With tail held high and waving like a
+war banner, she sniffs delightedly at all the wonderful scents.
+~
+1 0 g k 0 S
+23 8 -2 1d1+339
+408 500 100 1d11+12
+-1 -1 -1
+529 41667 8 8 2
+A
+%%5 growl~
+#6479
+corndog dog~
+The corndog~
+The corndog snaps at you as you brush past the corn.
+~
+The corndog is a deep, golden brown and kind of chubby from a life of
+determined indolence.  He is extremely large, about as tall as the
+average adult male gnome, and his size alone generally is enough
+deterrent to keep hands (and beaks) off the corn.
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 26832 8 8 1
+A
+%%5 bark
+;%5 growl
+;%5 say Stay out of the corn!
+;%5 emote is a Dog of the Corn.~
+#6480
+lab tech gnome~
+the lab tech~
+The lab tech hurries about taking samples and making notes.
+~
+The lab technician's longish pointed ears poke out from his wispy brown
+hair.  He wears a dirty white cotton lab coat with plenty of pockets to
+hold his notepads and pens and samples of plants.  The lab tech is
+putting himself through College of Gnome by his work here at PARC.
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 26832 8 8 1
+#6481
+wentworth crazy~
+Crazy Wentworth~
+Crazy Wentworth wildly waves a smoking beaker in your direction.
+~
+You may have no concrete idea what is in the beaker that Crazy
+Wentworth, the mad scientist is waving about, but you should know enough
+to stay out of his way.  Wentworth has gone off the deep end ... too
+many hours here and too many samples of some of his new fungi.
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 26832 8 8 1
+#6482
+farmer gnome gnomish~
+the farmer~
+The #ggnome#Y farmer tenderly cares for his sunshine loving plants.
+~
+The farmer's face is weathered a deep brown but is amazingly free of
+lines.  The warm radiant heat and the healthy joy of the sunflowers have
+given him a relaxed strength beyond what one might expect of a small
+gnome.
+~
+1 0 0 k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 26832 8 8 1
+A
+%%3 em smiles brightly at the plant.;%3 say Good morning, Sunshine!~
+#6483
+sunflower plant sun~
+the sunflower~
+The sunflower lifts its face to the sun, reflecting radiance onto you.
+~
+Bright yellow petals fringe the huge deep brown face of the giant
+sunflower plant.  The sunflower absorbs massive amounts of the sun's
+rays and reflects them back out at the world.
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+408 500 100 1d10+11
+-1 -1 -1
+400 27832 8 8 1
+#6484
+dragon onyx~
+the onyx dragon~
+#GThe sculptor captured this dragon in a moment of hot fury.#N
+~
+This sculpture is so lifelike you can almost feel the heat of the
+dragonflame shooting from the dragon's mouth.  The dragon is reared up
+high, front paws clawing the air, long dragontail forming a sinuous
+curve behind.
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 28832 8 8 1
+#6485
+viking giant boy~
+the giant boy~
+Late at night the giant boys sneak ale from dwarf storage.
+~
+Once their folks are asleep (in their beds or in their grog), the boys
+sneak out and follow the secret passageway down to where King Kwathoum
+keeps his Private Reserve.
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 26832 8 8 1
+A
+%%5 burp~
+#6486
+j noble lady~
+Lady J~
+Lady J from the court of King Welmar is touring the countryside.
+~
+In a fancy coach, accompanied by a retinue of servants, Lady J. has
+decided to take a rest from the intrigues of court life and enjoy a
+visit to the country.  At least, that is what people back at court were
+told.  But many rumors are afloat about her ... Where is she headed?  A
+secret rendez-vous with someone?  Who?
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 20832 8 8 2
+#6487
+guard court Reginald~
+Reginald~
+Reginald's rings flash in the light as he drums his fingers restlessly.
+~
+All the nobles of the Court of Welmar travel with an escort, of course.
+While he is a well-loved ruler, still every kingdom has its malcontents
+and there are assassins known to be lurking along well-travelled routes.
+The guards are chosen to match in height and build, and they are all
+about 6' tall and quite muscular.  The ladies are all quite fond of
+them, but they are only fond of each other.
+~
+1 0 b 0 0 S
+30 5 -6 1d1+445
+400 500 100 1d15+16
+-1 -1 -1
+900 120999 8 8 1
+A
+%%5 em drums a little beat with his fingers.~
+#6488
+dresser~
+Lady J's personal dresser~
+Lady J's personal dresser is as neat as a pin.
+~
+Brought along to take care of Lady J's priceless silk dresses and keep
+her jewelery in order, the dresser works long, hard hours, but takes
+immense pride in her lady's appearance. Lady J counts on her dresser to
+handle the small details of matching slippers to gloves, packing and
+unpacking.
+~
+1 1 b 0 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 58332 8 8 1
+A
+%%5 frown~
+#6489
+servant~
+the servant~
+King Welmar always sends Lady J off with a large staff of servants.
+~
+Anxious that Lady J be cared for as she would if she had remained at
+court, good King Welmar insists that she bring a number of the castle
+staff with her when she travels.  This small gnome will server several
+purposes during the trip, from brushing the dirt from a walkway before
+Lady J steps on it to running ahead to find an inn for the night.
+~
+1 0 b 0 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 58332 8 8 1
+#6490
+chef~
+Lady J's private chef~
+Lady J's private chef sharpens his knife as he looks for local edibles.
+~
+"Eet must be fresh!  Fresh for ze lady!" screams the chef, who has
+dreams of being famous one day.  He forces the guards to stop frequently
+so that he may gather fresh herbs in fields that they pass, or orders
+them to kill some innocent animal for fresh meat.  He is a small, hefty
+man with a large girth, missing teeth, and very bad breath.
+~
+1 1 b 0 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 58332 8 8 1
+A
+%%5 em hopes nobody is looking as he sneaks another one of Jilly's
+cookies out of his pack.~
+#6491
+juggler~
+a juggler~
+A juggler lightly tosses apples into the air.
+~
+The juggler's empty hat lies on the ground in front of him, ready for
+your tossed coins.  He is a light and agile fellow, quick witted as well
+as quick fingered.
+~
+1 0 0 rst 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 58332 8 8 1
+A
+%%5 beg
+;%5 say A few coins in the hat, may your piglets all be fat!
+;%5 say Tis good luck to give in to that urge to drop some pennies in.~
+#6492
+tobacco trader halfling~
+the halfling trader~
+The halfling trader heads off to turn his wagon of tobacco into gold.
+~
+Hobbit tobacco is known the world over.  This halfling has a full wagon
+of well aged, golden tobacco.  He will sell it or trade it to the
+dwarves for fine metal work, to the gnomes for perhaps some fresh yak
+butter and he will probably try to avoid the giant settlement.
+~
+1 1 0 0 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 58332 8 8 1
+A
+%%5 say What'll it be, friend?  A little hobbit tobacco to ease your
+ day?
+;%8 em lovingly rubs his briar pipe.
+;%8 puffs away at his small pipe, filling the air with a sweet tobacco
+scent.
+~
+#6493
+assassin~
+the assassin~
+The assassin waits in hiding for a wealthy member of the court to pass.
+~
+The long track connecting the kingdom of King Welmar with the Kingdom of
+the Dwarves is one of few well formed paths in this world, and so it is
+a good bet that if she waits long enough, a clever assassin may capture
+a bit of the wealth that travels this road.
+~
+1 1 f frst -1000 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 20832 8 8 1
+A
+%%8 em eyes you quietly from his hiding place in the shadows.
+;%8 em looks you over, wondering how much loot you are carrying.
+~
+#6494
+root~
+a hairy root~
+A hairy root gropes for you in the dark.
+~
+Growing from who-knows-what kind of plant, this root is sentient, and it
+senses some nice juicy prey ... YOU!  Small fingerlike projections cover
+its tentacles and they are reaching for you ...
+~
+0 0 bfl y -1000 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 58332 8 8 1
+A
+%%5 grope~
+#6495
+myconoid~
+a myconoid~
+The myconoid fungi love the damp, dark mustiness of the cellar.
+~
+You've seen this fungi growing in cellars and dark, damp places all over
+the world.  They are gross, fuzzy little beings, making disgusting
+little noises and smelling vaguely of laundry that someone forgot to
+hang out to dry.
+~
+0 0 bc y -500 S
+23 8 -2 1d1+339
+400 500 100 1d11+12
+-1 -1 -1
+529 51667 8 8 0
+#6496
+goat~
+a mountain goat~
+The long horned mountain goat jumps nimbly over rocks.
+~
+This goat is one of a small herd that is still looking for the sweet
+meadow grass on the other side of a bridge.  For this reason they seem
+always to be hopping around, on the move.
+~
+0 0 b r 0 S
+25 7 -3 1d1+369
+408 500 100 1d12+13
+-1 -1 -1
+625 58332 8 8 0
+A
+%%5 em hops about from rock to rock.
+;%5 em gently headbutts you, prodding you with his small horns.
+~
+#6497
+trader halfling~
+a halfling trader~
+Carrying a burden of dwarven-made pots and shovels, the trader is weary.
+~
+The halfling trader always dreads this part of his journey, although he
+is by nature cheerful.  At least during the uphill journey his burden is
+light ... tobacco, yak butter and milk, corn and other food supplies.
+The metal products from the dwarven kingdom are quite heavy though, and
+the burden is difficult.
+~
+1 0 0 A 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 58332 8 8 1
+#6498
+viking giant boy~
+the giant boy~
+The giant boy swallows ale a barrel at a time.
+~
+Once their folks are asleep (in their beds or in their grog), the boys
+sneak out and follow the secret passageway down to where King Kwathoum
+keeps his Private Reserve.
+~
+1 0 b k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 27832 8 8 1
+A
+%%10 beer
+;%5 dizzy~
+#6499
+louse~
+the little louse~
+The little louse hops from giant to giant to dog to ... YOU!
+~
+The giants who live here bathe somewhat irregularly and their unwashed
+bodies offer a generous home to the lice that inhabit them.  Since the
+giants are frequently drunk and the lice feed off of them, the lice are
+a pretty laid back group of insects.
+~
+0 0 b f -1000 S
+1 20 9 1d1+28
+408 500 100 1d6+1
+-1 -1 -1
+1 267 8 8 1
+A
+%%8 hop
+;%3 bite
+;%5 em sinks his pointy little snout into your flesh and sucks out a nice
+satisfying meal of blood.
+~
+#6500
+guard court George soldier~
+George~
+George is a brave soldier in the service of King Welmar.
+~
+All the nobles of the Court of Welmar travel with an escort, of course.
+While he is a well-loved ruler, still every kingdom has its malcontents
+and there are assassins known to be lurking along well-travelled routes.
+The guards are chosen to match in height and build, and they are all
+about 6' tall and quite muscular.  The ladies are all quite fond of
+them, but they are only fond of each other.
+~
+1 0 b 0 0 S
+28 6 -5 1d1+414
+400 500 100 1d14+15
+-1 -1 -1
+784 83334 8 8 1
+#6501
+guard court Paul~
+Paul~
+Paul, a guard of the Court of Welmar, searches for danger.
+~
+All the nobles of the Court of Welmar travel with an escort, of course.
+While he is a well-loved ruler, still every kingdom has its malcontents
+and there are assassins known to be lurking along well-travelled routes.
+The guards are chosen to match in height and build, and they are all
+about 6' tall and quite muscular.  The ladies are all quite fond of
+them, but they are only fond of each other.
+~
+1 0 b 0 0 S
+28 6 -5 1d1+414
+400 500 100 1d14+15
+-1 -1 -1
+784 83334 8 8 1
+#6502
+guard court John~
+John~
+John wears the colors of the Court of Welmar.
+~
+All the nobles of the Court of Welmar travel with an escort, of course.
+While he is a well-loved ruler, still every kingdom has its malcontents
+and there are assassins known to be lurking along well-travelled routes.
+The guards are chosen to match in height and build, and they are all
+about 6' tall and quite muscular.  The ladies are all quite fond of
+them, but they are only fond of each other.
+~
+1 0 b 0 0 S
+28 6 -5 1d1+414
+400 500 100 1d14+15
+-1 -1 -1
+784 83334 8 8 1
+A
+%%3 airguitar
+~
+#6503
+twins tina gina~
+the twins~
+In the corner, Gina and Tina are making raspberry-blueberry ice cream.
+~
+Gina and Tina are twins.  It is their job to turn cream from the
+contented yaks into ice cream.  They add fresh raspberries and
+blueberries - the ones that Razzl and Dazzl collect.  Yummmy!
+~
+1 0 b 0 0 S
+21 9 -1 1d1+310
+400 500 100 1d10+11
+-1 -1 -1
+441 34999 8 8 2
+A
+%%8 em stick their fingers into the ice cream for a taste test.
+;%5 say Do you want some ice cream? It'll be ready real soon!
+;%8 say Have you met our cousin, the Brat Boy?
+;%8 giggle
+~
+#6504
+Gloria dwarf mother~
+Gloria~
+The anxious mother wonder if you have seen her brat son.
+~
+ As a dwarven mother with a daredevil son, Gloria is a constant nerve
+wreck and with those kind of stunt her son pulls, one can not but agree
+with her worries. Apart from that she looks like a nice woman with a well
+cared for beard. A good sample of the mountains female dwarfs.
+~
+9 4 bl yDk 700 S
+90 -27 -40 1d500+3024
+400 500 85 1d40+40
+96 0 3 1d0+80
+28 0 12 2d0+90
+-1
+-1
+-1
+7000 1084545 8 8 2
+A
+%%10 say Have you seen my son?
+;%10 south
+;%10 north
+;%10 emote seems worried.
+;%10 emote sighs slightly.
+;%10 emote looks around looking for her son.
+~
+#6505
+Brat dwarf boy daredevil~
+Da Brat-Boy~
+Young and without fright a little boy dances around madly.
+~
+ The little boy dances around you like a wild. He even tries to climb
+anything close to while doing so. He must be completely out of his mind
+or just very persistent in NOT going to bed as his mother would suggest.
+Not so strange when you are young and has a lot of extra energy.
+~
+9 3 bl sDrk 0 S
+70 -27 -45 1d2500+459
+400 500 32 1d50+31
+402 500 32 1d50+31
+407 500 32 1d50+31
+323 0 4 0d0+100
+-1
+323 100 321 100 373 100 363 100 327 100 326 100 310 100
+-1
+-1
+10 884545 8 8 1
+A
+%%10 emote does a little pirouette on the ropes.
+;%10 south
+;%10 north
+;%10 west
+;%10 east
+;%10 emote sings out 'Nananananana Nananananana  Brat-Boy!'
+;%10 emote jumps between the ropes.
+;%10 emote teases you for being such a coward.
+~
+R
+70 70 70 70 50
+#6506
+gnome ropeweaver shopkeeper fritz~
+the ropeweaver~
+A little gnome dangles his legs over the edge of the chasm.
+~
+ The small gnome looks rather old, or old compared to other gnomes at
+least, never seen a young gnome come to think about it. Maybe they are
+born old. He holds a small pipe in one of his very callous hands. He must
+have worked a lot with his hands to achieve that status. Maybe what is
+inside his little house will explain how they became so used.
+~
+9 4 b k 0 S
+100 -32 -45 3d5000+2459
+404 500 100 1d50+51
+-1
+-1
+314 100
+-1
+100 784545 6 6 1
+A
+%%10 emote whistles innocently.
+;%10 emote dangles his legs over the chasm edge.
+;%10 emote wonders how his twin brother is doing.
+;%10 emote takes a little puff on his pipe.
+;%10 emote asks you 'Are you ready for a new experience?'
+~
+R
+ -1 -1 -1 -1 50
+#6507
+gnome ropeweaver shopkeeper fritz~
+the ropeweaver~
+A little gnome dangles his legs over the edge of the chasm.
+~
+ The small gnome looks rather old, or old compared to other gnomes at
+least, never seen a young gnome come to think about it. Maybe they are
+born old. He holds a small pipe in one of his very callous hands. He must
+have worked a lot with his hands to achieve that status. Maybe what is
+inside his little house will explain how they became so used.
+~
+9 4 b k 0 S
+100 -32 -45 3d5000+2459
+404 500 100 1d50+51
+-1
+-1
+314 100
+-1
+100 784545 6 6 1
+A
+%%10 emote whistles innocently.
+;%10 emote dangles his legs over the chasm edge.
+;%10 emote wonders how his twin brother is doing.
+;%10 emote takes a little puff on his pipe.
+;%10 emote asks you 'Are you ready for a new experience?'
+~
+R
+ -1 -1 -1 -1 50
+#6508
+guard~
+Mill Guard~
+A big brute of a Mill guard is patrolling the premises and found YOU...
+~
+ If the ordinary dwarf is stocky compared with human standards he
+still would look like a thin thread compared with this hunk of a dwarf.
+Worth noticing is that he does not hold any rank implying that his
+superiors would be worse. The guards are under strict orders to remove
+(in any way possible) any trespassers and nothing will make these highly
+trained guards disobey. Guess the punishment for disobedience is worse
+than anything you can muster up.
+~
+9 4 fijklmg yDzhk -950 S
+109 -32 -50 3d500+4532
+401 500 36 1d64+25
+403 500 35 1d54+35
+345 0 5 0d0+0
+4 0 5 1d0+90
+88 0 5 1d0+90
+28 0 10 2d0+100
+19 0 4 2d0+100
+-1
+373 100 345 100 330 100 318 100 317 100 339 100
+-1
+7 100 38 100 40 100 104 75 25 75 324 40 329 40 302 40 345 40 358 40
+-1
+4881 1492602 8 8 1
+A
+%%10 say Look what I found!;
+%10 say Let us share your presence with the surrounding, in small pieces.
+;%10 say Oh my! What am I going to do with you.
+~
+#6509
+guard~
+Mill Stair Guard~
+A compact mill guard awaits YOU where he stands.
+~
+ If the ordinary dwarf is stocky compared with human standards he
+still would look like a thin thread compared with this hunk of a dwarf.
+Worth noticing is that he does not hold any rank implying that his
+superiors would be worse. The guards are under strict orders to remove
+(in any way possible) any trespassers and nothing will make these highly
+trained guards disobey. Guess the punishment for disobedience is worse
+than anything you can muster up.
+~
+9 4 filmg yDzhk -850 S
+109 -32 -50 3d500+3532
+401 500 36 1d54+25
+403 500 35 1d54+35
+345 0 5 0d0+0
+4 0 5 1d0+90
+88 0 5 1d0+90
+28 0 10 2d0+100
+19 0 4 2d0+100
+-1
+373 100 345 100 330 100 318 100 317 100 339 100
+-1
+7 100 38 100 40 100 104 75 25 75 324 40 329 40 302 40 345 40 358 40
+-1
+4881 1482602 8 8 1
+A
+%%10 say Thank -YOU- for showing up - I waited here all day.
+;%10 say Time for you to walk your final two yards. Down.
+;%10 say Hello and very much Good bye!!!
+~
+#6510
+guard~
+Mill Stair Guard~
+A compact mill guard awaits YOU where he stands.
+~
+ If the ordinary dwarf is stocky compared with human standards he
+still would look like a thin thread compared with this hunk of a dwarf.
+Worth noticing is that he does not hold any rank implying that his
+superiors would be worse. The guards are under strict orders to remove
+(in any way possible) any trespassers and nothing will make these highly
+trained guards disobey. Guess the punishment for disobedience is worse
+than anything you can muster up.
+~
+9 4 fklmg dfyDzhk -600 S
+109 -32 -50 3d500+3532
+401 500 36 1d54+25
+403 500 35 1d54+25
+345 0 5 0d0+0
+4 0 5 1d0+90
+88 0 5 1d0+90
+28 0 10 2d0+100
+19 0 4 2d0+100
+-1
+373 100 345 100 330 100 318 100 317 100 339 100
+-1
+7 100 38 100 40 100 104 75 25 75 324 40 329 40 302 40 345 40 358 40
+-1
+4881 1442602 8 8 1
+A
+%%10 say Thank -YOU- for showing up - I waited here all day.
+;%10 say I am going to remove you from this place - Bit by bit.
+;%10 say Hello and very much Good bye!!!
+~
+#6511
+guard~
+Mill Stair Guard~
+A compact mill guard awaits YOU where he stands.
+~
+ If the ordinary dwarf is stocky compared with human standards he
+still would look like a thin thread compared with this hunk of a dwarf.
+Worth noticing is that he does not hold any rank implying that his
+superiors would be worse. The guards are under strict orders to remove
+(in any way possible) any trespassers and nothing will make these highly
+trained guards to disobey. Guess the punishment for disobedience is
+worse than anything you can muster up.
+~
+9 4 fjlmg yDzhk 349 S
+109 -36 -50 3d500+3532
+401 500 36 1d64+25
+403 500 35 1d64+25
+345 0 5 0d0+0
+4 0 5 1d0+90
+88 0 5 1d0+90
+28 0 10 2d0+100
+19 0 4 2d0+100
+-1
+373 100 345 100 330 100 318 100 317 100 339 100
+-1
+7 100 38 100 40 100 104 75 25 75 324 40 329 40 302 40 345 40 358 40
+-1
+4881 1442602 8 8 1
+A
+%%10 say Thank -YOU- for showing up - I waited here all day.
+;%10 say You know, you really are too good for this place.
+;%10 say Hello and very much Good bye!!!
+~
+#6512
+janitor dwarf~
+Dwarven iron mill janitor~
+The dwarven mill janitor worker obidiently cleans the steps around him.
+~
+ Well a dwarf is a dwarf is a dwarf is a dwarf is a .... *sigh*
+This one is no different than the rest of them, short and stocky with a
+big beard worn clearly visible no matter what happens. He glares at you
+angrily for walking on his newly clean surrounding.
+~
+9 4 hgb syDk -300 S
+90 -25 -40 2d500+2591
+401 500 90 1d41+22
+68 0 5 2d0+90
+19 0 5 2d0+100
+-1
+328 100 321 100
+-1
+7 100 38 100 40 100 324 29 310 100
+-1
+4046 837228 8 8 1
+A
+%%10 emote cleans away a bit of dirt.
+;%10 up
+;%10 down
+;%10 emote shoves a lot of dust out of sight.
+;%10 emote ignores you as long as you do not dirty things up.
+;%3 emote is going to tell his friend he saw you.Pray its not a guard.
+~
+#6513
+wraith~
+the invisible wraith~
+You just can not see the wraith.
+~
+A disturbance in the air alerts you to the fact that you are not alone.
+It's difficult to describe the feeling, a combination of the microhairs
+all over your body springing to alert, the hard hammering of your heart
+and a sudden queasiness in your stomach.
+~
+1 0 fg spt -100 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1
+625 68332 8 8 0
+R
+ -1 -1 -1 -1 50
+#99999
+$~
+

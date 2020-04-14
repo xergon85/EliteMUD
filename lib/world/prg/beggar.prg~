@@ -1,0 +1,35 @@
+>greet_prog 50~
+if !isnpc(ch) {
+ do(mob, "beg " + name(ch)); 
+ do(mob, "say Spare some gold?");
+}
+~
+>bribe_prog 10000~
+do(mob, "dance " + name(ch));
+do(mob, "french " + name(ch));
+~
+>bribe_prog 1000~
+do(mob, "say Oh my GOD!  Thank you! Thank you!");
+do(mob, "french " + name(ch));
+~
+>bribe_prog 100~
+do(mob, "say Wow!  Thank you! Thank you!");
+~
+>bribe_prog 1~
+do(mob, "thank " + name(ch));
+~
+>fight_prog 20~
+do(mob, "say Help!  Please somebody help me!");
+if number(0,1)
+ do(mob, "say Ouch!");
+else
+ do(mob, "say I'm bleeding");
+~
+>death_prog 50~
+if number(0,1)
+ echoaround(mob, mob, full_name(mob) + " says 'Now I go to a better place'");
+else
+ echoaround(mob, mob, full_name(mob) + " says 'Forgive me IO for I have sinned'");
+~
+|
+

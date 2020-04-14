@@ -1,0 +1,67 @@
+#28600
+shopkeeper grim edgar shamhna~
+Grim Edgar~
+#rGrim #MEdgar #rthe one-eyed tavernkeeper#N is standing behind the bar.
+~
+It is the good old Edgar, our tavernkeeper. His tall body is dressed 
+in a long, black robe. He's got only one eye left, and a long scar across 
+his cheek symbolizes his killer experience, and you get the impression 
+that though he is a friendly clannie, you'd better not insult him when 
+you get drunk. Tired from numeruous wars this mighty warrior retired from 
+the battlefields and opened the clan's bar. Friendly he greets all 
+Shamhna members as they approach the tavern. He knows each member's 
+favorite drink so there is no need to order anything, simply give him a 
+sign and he will serve it. Besides food and drinks Edgar also has some 
+other useful items to sell.
+~
+1 0 be dhk 0 S 
+109 -40 -200 1d900+30000
+400 500 100 100d100+99 -1
+-1
+-1
+0 10 8 8 1
+A
+%%5 say The weak will parrish!;
+%5 say Want some booze?;
+%5 say Let me tell you some of my war tales son.;
+%5 say Wanna hear the latest gossip dude?;
+%5 say #MS#rha#Mm#rhn#Ma #rrules!#N;
+%5 say Hey! I heared you made another slaughter in the PK zone guys. Keep on rocking!;
+%5 say #rDeath before Dishonour!#N;
+%5 peer;
+%5 stretch;
+%5 burp;
+%5 yawn;
+%5 mumble;
+%5 grumble~
+#28601
+morella shamhna vamp~
+Morella~
+#MMorella #rthe curvy vamp#N, watches you expectingly.
+~
+Morella is a redheaded, sexy vamp with green, serpentine eyes. Her
+perfect body is dressed in tight, semi-transparent clothes which show 
+more then they actually cover. Black fishnet stockings perfectly fit on 
+her long legs that stand on red, 4 inch high heels. Morella is the 
+prettiest of all girls from the mansion and knows all the means by which 
+to make the warriors of Shamhna feel comfortable when they return from 
+the battles.
+~
+1 0 be dhk 0 S 
+109 -40 -200 1d900+30000
+400 500 100 100d100+99 -1
+-1
+-1
+0 10 8 8 2
+A
+%%5 say Hi hon, long time no see!;
+%5 say Feeling tired sweety?;
+%5 say Could you light my ciggarette?;
+%5 say What can I do for you?;
+%5 wiggle;
+%5 lick;
+%5 purr;
+%5 smile~
+#99999
+$~
+

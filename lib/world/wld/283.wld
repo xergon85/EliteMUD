@@ -1,0 +1,570 @@
+#28300
+#bThe Gateway to Elysium#N~
+   An iron gate is to the north. An inscription on the marble arch
+above the gate says: 
+
+         "The realm of peace, Elysium. Only those 
+            pure of heart may enter this land." 
+
+~
+283 cuz 1
+D0
+Through the solid iron bars you see a marble walkway. 
+~
+gate~
+9 -1 28301
+D2
+An arch leads back to the road here.
+§N~
+~
+0 -1 3052
+S
+#28301
+#bThe Great Fields of Elysium#N~
+  A tree lined marble walkway leads to a pillared temple. The walkway
+is about 100 yards long. The trees and lawn are well kept and shaped by
+master gardeners. A pool of water is nearby. All about you on the lawn
+near the walkway are strewn armor, weapons, and shields of all kinds.
+They are old and rusted as if the owners entered this land, cast them
+off, and never returned to claim them. Off in the distance you see
+horses grazing peacefully in  the lush green grass. You also see the
+glint of what appears to be a sparkling chariot, racing across the open
+fields of grass.
+~
+283 ctuz 1
+D0
+The Great Hall is to the north. 
+~
+~
+0 -1 28302
+D2
+Through the solid bars you see the miserable outside world.
+§N~
+gate~
+9 -1 28300
+S
+#28302
+#bThe Great Hall of Zeus#N~
+   This mammoth marble pillared hall is a breathtaking masterpiece in
+architecture. You are humbled by its sheer size and volume. The
+ceiling arches three floors above you, and is covered with paintings of
+epic battles and valiant deeds. The chandeliers are made from diamonds
+and silver, and their light gives the hall a mystical aura. Every sound
+you make is echoed throughout this massive structure. The walls and
+floors are made of the same beautiful blue marble as the columns. In
+its center is a huge statue of the God of Storms, Zeus. Plush red
+carpets cover the floors, and statues of some of #bElysiums#N' lost and
+fallen clansmen line the walls. A broad, plush red carpeted stairway
+curves gracefully up either side of the hall, leading to the personal
+rooms on the upper floors. Beautifully crafted mahogany double doors
+are set into each of the north, west, and east walls. The main
+entrance, to the south, is formed by two enormous intricately carved
+mahogany doors, flanked by two huge blue marble columns.
+~
+283 deuz 0
+D0
+Bronze Portals to the Elysium Bar. 
+~
+portal door~
+1 -1 28303
+D1
+A small reinforced wooden door. 
+~
+wooden door~
+1 -1 28307
+D2
+The marble walkway leads south. 
+~
+~
+0 -1 28301
+D3
+An arched entryway leads to the Board Room. 
+~
+~
+0 -1 28306
+D4
+Marble stairs lead upwards, curving around the Hall of Zeus. 
+~
+~
+0 -1 28309
+D5
+Marble stairs lead down to the Armory of Aries. 
+~
+~
+0 -1 28304
+E
+statue statues~
+Statues of some of #bElysiums#N' lost and fallen clansmen stand against
+the walls. Some that you recognize are Gutless, Pennyroyal, Creb,
+Rakshar, Haegar and Eris. Feel free to take a closer look if you like.
+~
+E
+gutless~
+A statue of Gutless, #bElysiums#N' founding immortal, stands here
+oozing entrails.
+~
+E
+pennyroyal~
+A statue of Pennyroyal, one of #bElysiums#N' founding fathers,
+stands here looking menacing.
+~
+E
+creb~
+A statue of Creb, one of #bElysiums#N' founding fathers, stands here
+insulting the world.
+~
+E
+rakshar~
+A statue of the Ferret Lord Rakshar stands here squeaking at you.
+~
+E
+haegar~
+A statue of Haegar, one of #bElysiums#N' greatest heroes, stands here
+as inspiration to all.
+~
+E
+eris~
+A statue of Eris, #bElysiums#N' most beautiful immortal, stands here
+smiling.
+~
+S
+#28303
+#bThe Elysium Bar#N~
+   You are standing at the most grandiose bar you have ever seen.  The
+smell in the air gives you a euphoria that far surpasses anything you
+have encountered in your short, miserable life. As you scan the bar,
+you see a hardy group of warriors laughing and enjoying themselves with
+great vigor. As you get a closer look, you notice a glow of valor and
+dignity that is not seen on mere mortals. You quickly realize that they
+are your fellow ELYSIUM clansmen. In this bar, the drinks are always on
+the house, CLAN house that is! 
+~
+283 duz 0
+D0
+A mysteriously shimmering light illuminates a golden door.
+~
+golden gold door light
+~
+1 -1 18065
+D2
+Bronze Portals to the Great Hall of Zeus 
+~
+portal door~
+1 -1 28302
+S
+#28304
+#bThe Armory of Legends#N~
+   This large room is filled with the instruments of war. 
+~
+283 duz 0
+D4
+Marble stairs lead up to the Great Hall of Zeus. 
+~
+~
+0 -1 28302
+S
+#28305
+#bThe Rose Garden#N~
+     You are standing in the middle of the most beautiful rose garden
+you've ever seen. There are beautifully arranged roses of every color
+and variety covering the entire roof of the clan house. There are
+marble walkways stretching off in every direction, meandering around
+the garden. Large hedges and bushes are everywhere, giving visitors
+many quiet little private areas. The garden is magically protected
+against the harsher elements, so no matter what the weather outside,
+there's never more than a light breeze or gentle rainfall.
+~
+283 deuz 0
+D5
+Marble stairs lead down to the Hall of Myths. 
+~
+~
+0 -1 28311
+S
+#28306
+#bThe Arena#N~
+   This is an enormous room housing the clan arena. A huge battlefield
+surrounded by large braziers dominates the room. Comfortable padded
+seating runs along each wall, providing enough space for the entire
+clan, as  well as numerous guests. 
+~
+283 ruz 0
+D1
+An archway leads to the Great Hall of Zeus. 
+~
+~
+0 -1 28302
+S
+#28307
+#bPath of Heroes#N~
+   You come from the Great Hall of Zeus into this vast circular room
+with pillars all around it.  In between each pillar you see statues of
+great heroes and displays of weapons and armor of great value and
+distinction.  You also see 3 doors at ground level and, and a spiral
+staircase going up and down, each going into the domain of a great
+champion resurrected from the past.
+~
+283 duz 0
+D0
+~
+leo~
+11 -1 28316
+D2
+~
+hambone~
+11 -1 28317
+D3
+A small reinforced wooden door. 
+~
+wooden door~
+1 -1 28302
+D4
+~
+roro~
+11 -1 28320
+S
+#28308
+Empty~
+No description.
+~
+283 duz 0
+S
+#28309
+#bHall of Zeus#N~
+   You start the trek up the marvelous stairs going up the sides of
+the hall.  As you climb higher, you take your time to look at the
+pictures and artifacts of heroes past.  You finally reach a walkway
+with 4 doors, each going into the personal domain of a great hero of
+Elysium. You then decide to see how far you have climbed and notice
+that you are only to about Zeus's waist, even after all the climbing!
+You almost faint thinking about climbing higher to reach the rooms of
+more great heroes and also the beautiful Rose Garden that is famous
+throughout ELITE.
+~
+283 duz 0
+D0
+~
+door flyn~
+11 -1 28314
+D1
+~
+portal greco~
+11 -1 28321
+D2
+~
+door annie~
+11 -1 28319
+D3
+~
+door foetus~
+11 -1 28315
+D4
+~
+~
+0 -1 28311
+D5
+~
+~
+0 -1 28302
+S
+#28310
+#bDarquon's #rRed Room#N~
+     You've walk through a set of large gilded double doors to enter a
+large, lavishly furnished room, dimly lit with a dull red light.  On
+the south side of the room is a large, red velvet #ccouch#N, and a bar
+made of black marble is set against the wall, complete with padded
+stools. In each corner is a large ivory #cpillar#N, with the #cvisage#N
+of Darquon carved into each one, facing into the center of the room.
+As you walk across the marble tiles, you are greeted by the wail of a
+jazz band, which seems to originate from nowhere.  Across from the
+couch are a couple easy chairs made out of red suede and a glass coffee
+table, upon which sits a crumpled leisure suit and sunglasses.  On the
+other side of the room is a large king-sized futon mattress, which is
+set on an elevated portion of the floor, next to which stands a large
+marble hot tub, bubbling over with hot steam and suds.  On the edge of
+the tub is a small framed #cpicture#N of an attractive young woman.
+The only thing that seems to be missing is the hazy shade of cigarette
+#csmoke#N.  Yes, this is truly the decadent room of a
+demon-turned-avatar.
+~
+283 duz 0
+D0
+~
+darquon~
+11 -1 28311
+E
+couch sofa~
+Ain't no couch.  Ain't no sofa.  It's a looooove seat.  Awwe
+yeah, baby.
+~
+E
+pillar~
+These massive marble pillars seem to serve no other purpose than to
+glorify the excess within this room.
+~
+E
+visage~
+Each set of eyes seems to follow you around the room, each face
+frozen in an insane cackle.
+~
+E
+picture~
+The nameplate says, "Melody."  She appears to be wearing a wedding
+band.
+~
+E
+smoke~
+You see no smoke here, which is odd.  Rumor has it, Darquon's new
+squeeze made him quit.
+~
+S
+#28311
+#bThe Hall of Zeus#N~
+     There are three doors leading from this hall.  To the east is 
+Wolvendar, NightWolf's chamber. To the south is the Darquon's #rRed
+Room#N.  To the west is the chamber of the Myth Tynstar. 
+~
+283 duz 0
+D1
+A door to Wolvendar. 
+~
+door wolvendar~
+11 -1 28313
+D2
+A door to Darquon. 
+~
+door darquon~
+11 -1 28310
+D3
+A door to the Chamber of the Myth Tynstar. 
+~
+door tynstar~
+11 -1 28312
+D4
+Marble stairs lead up to the Rose Garden. 
+~
+~
+0 -1 28305
+D5
+Marble stairs lead down.
+~
+~
+0 -1 28309
+S
+#28312
+#bThe Chamber of the Myth Tynstar#N~
+     You enter a room with plush couches, carpets from around the
+world, and other rare and wonderful furnishings. It is a very
+comfortable place to crash for a good peaceful nap or just relax.
+Tynstar invites you to stay for a while and shrug off the pressures of
+the MUD world. 
+~
+283 duz 0
+D1
+The Hall of Zeus. 
+~
+door tynstar~
+11 -1 28311
+S
+#28313
+#bWolvendar#N~
+   You are in a small clearing in a dark forest. It is surrounded by
+massive #Gtrees#N many feet in diameter and many hundreds of feet tall.
+Many of the trees have intricate #Gcarvings#N in them, giving the area
+a mystical feel.  There is a light layer of fog over the ground, giving
+the area a foreboding feeling. You notice that some of the shrubbery is
+formed into the semblance of comfortable looking furniture. Directly
+opposite the door is a large altar to Gaea, the Mother Earth, whom
+NightWolf worships above all others.  This place has a strong calming
+effect on all who come here, as if the very trees themselves ensure the
+peace. Many small woodland #Ycreatures#N wander in and out of the
+clearing, as well as the occasional stag. Things can be heard moving in
+the trees beyond sight, and every once in awhile a pair of softly
+glowing red or gold eyes can be seen looking out into the clearing and
+then away. A large pitch black #Bwolf#N sits and silently watches the
+clearing from between two trees, implying that leaving this clearing
+any way other than the way you came in is an extremely bad idea. 
+~
+283 duz 0
+D3
+The Hall of Zeus. 
+~
+wolvendar door~
+11 -1 28311
+E
+carving carvings~
+There are many carvings on the trees surrounding this clearing. The
+carvings depict a great many things, ranging from small woodland
+creatures to famous heroes of the past to strange abstract designs that
+almost have a life of their own. The most impressive of these carvings
+is a very detailed life size carving of a radiantly beautiful young
+woman. She looks vaguely familiar...
+~
+E
+woman~
+This is the most beautiful carving you've ever seen. The wood is
+polished smooth as glass, and the wood is burned in just the right
+places to give the carving a life of it's own. The woman is simply
+striking. Her dark hair falls gently down over her shoulders and her
+eyes stare intently back at you. Her body is beautifully proportioned,
+softly curving back to become one with the tree. You can do nothing but
+stand in awe of the sheer beauty of this woman. It must have taken many
+many long months of work to create such a work.
+~
+E
+wolf~
+This is the largest wolf you've ever seen. As he sits there calmly
+watching you, you guess his height to be at least 3 feet. His beautiful
+black coat shines in the gentle light of this place, and his eyes shine
+with a soft red glow. It's hard to tell, but it seems as if a look of
+adoration spreads across this wolves face whenever he looks at
+NightWolf. While he remains gentle and calm, you feel that this wolf
+would have no problem dispatching a Hell Hound. And you know he's not
+alone.
+~
+E
+creatures~
+Small squirrels, ferrets, and Fuzzy Bunnies, as well as numerous
+other woodland creatures, are constantly wandering in and out of the
+clearing. They are completely comfortable here, and will even come
+up to you and let you pet them. They know they are completely safe here 
+under the watchful gaze of NightWolf and his lupine companions.
+~
+S
+#28314
+#bFlyn's Royal Chamber#N~
+     You find yourself in a large room, with a giant window covering
+the west wall, overlooking the forest of Haon-dor. Suits of glowing
+golden elven plate armor line the north wall, seemingly illuminating
+the entire room. A large throne made of gold sits in front of the
+statues of armor, decorated with lion heads carved into the armrests. A
+comfortable looking couch made of leather sits neatly against the east
+wall. Tapestries with pictures of Elven heroes of old decorate the
+room, along with other little odds and ends of furniture. You feel very
+safe and comfortable here, and are welcome to stay as long as you wish.
+~
+283 deuz 0
+D2
+The Hall of Zeus. 
+~
+flyn door~
+11 -1 28309
+D1
+Annie's Arboretum
+~
+annie~
+11 -1 28319
+S
+#28315
+#bFoetus and Nehemia's Dream House#N~
+   As you walk into this seemingly small room, you are amazed by
+its actual size. You are standing in a nice sized two-story house.
+Tastefully decorated and tidy, excepting the strewn about computer 
+hardware, disks, and CDs, and the frightening number of wires creating 
+some sort of networked abomination of the occupants computers. You feel
+the deep desire to rent a room in this wonderful place, or at least
+hangout with us for awhile.
+~
+283 duz 0
+D1
+~
+door foetus~
+11 -1 28309
+S
+#28316
+#bThe Lion's Den#N~
+   As you walk in the room, you are startled by the richness that
+appears in front of you.  Besides the tremendous wealth that lies in
+front of you, your eyes are attracted to the golden superior statue of
+the Mighty Leo in the center of the room.  You are overwhelmed with joy
+as you touch the statue of the superior Leo because you know that this
+is the closest you will ever get to him.  As you look around the room,
+you notice there are many women's bras and underwear lying about.
+Seems like Leo is a pretty busy guy at night.  If you are dying to see
+your superhero, leave your name and number, and Leo will be with you
+shortly.
+~
+283 duz 0
+D2
+~
+leo~
+11 -1 28307
+S
+#28317
+#bHouse of Hambone#N~
+   Welcome to the House of Hambone.  As you walk into this luxurious
+place you are amazed by the sheer opulence.  Rare artifacts and
+antiques adorn this room.  As you scan the room you see the richly
+decorated walls with an occasional stuffed orc or goblin head that fell
+victim to Hambone's swift blade.  Relics from past battles are evident,
+a whole treasure trove of mighty armor and weapons are polished and are
+on display.  Over on a table is a decanter of fine brandy and a large
+crystal snifter.  Come! Get a drink, sit by the fire and relax in a
+comfortable chair until the host arrives.
+~
+283 duz 0
+D0
+~
+hambone~
+11 -1 28307
+S
+#28318
+Empty~
+No Description.
+~
+283 duz 0
+S
+#28319
+#bAnnie's #gArboretum#N~
+   A soft grass green carpet covers the floor of this small, cozy room.
+The walls and ceiling are both painted a soft eggshell blue, deeper
+near the floor and paling almost to white in the center of the slightly
+domed ceiling.  Young trees of all shapes and sizes sit in huge pots
+scattered about the room, waiting to be repatriated to their forests.
+From her comfy bed next to the outside wall, Annie can gaze out at the
+stars, but she is more likely to be found chatting with some visiting
+elves, resting on gigantic floor cushions or tending her trees.
+~
+283 djtuvz 0
+D0
+~
+annie~
+11 -1 28309
+D3
+Flyn's Royal Chamber
+~
+elfking~
+11 -1 28314
+S
+#28320
+#bRoro's Lair#N~
+     As you enter the room, you are blinded by many shining objects
+scattered all over the room.  Once your eyes adjust you see that this
+is a cave filled with treasure and a big hole in the roof where the sun
+is coming down and reflecting off all the rubies, diamonds and
+emeralds.  Even though it is a Dragon's lair, you notice that for some
+strange reason, there is a desk and a leather couch off to one side.
+This is Roro's place to relax, chat and think for various things.
+~
+283 duz 0
+D5
+~
+door roro~
+11 -1 28307
+S
+#28321
+#bGreco's Field of Sunshine#N~
+You step through the portal into sunshine and flowers.  The sky is a deep, cloudless blue.  The sun is drenching the earth with warmth and light.  Large oaks sprinkle the gently rolling meadow, providing shade and a resting place for the many songbirds.  A hollow in one of the oaks conceals a library containing every Marvel comic ever published, and the grass seems particularly soft under that tree.
+
+#GA black and white marble chessboard waits in the shade.#N
+#YA streak of blue and red across the sky just might be one of the heroes.#N
+~
+283 duz 0
+D3
+~
+portal greco~
+11 -1 28309
+S
+#99999
+$~
+

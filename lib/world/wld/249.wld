@@ -1,0 +1,1406 @@
+#24901
+On the beach~
+  You are standing on the very western part of the beach. A rocky slope is 
+to the west, making traveling there impossible. To the south you see the 
+great Ocean.
+~
+249 0 2
+D1
+The beach continues to the east.
+~
+~
+0 -1 24902
+D2
+You see the shore to the south.
+~
+~
+0 -1 24909
+S
+#24902
+On the beach~
+  You are standing on the sunny beach of Na-Palm. The soft white sand seems
+to get inside all of your clothes. The beach continues to the west and the 
+east. You see the shore to the south.
+~
+249 0 2
+D1 
+The beach continues to the east.
+~
+~
+0 -1 24903
+D2
+You see the shore to the south.
+~
+~
+0 -1 24910
+D3
+The beach continues to the west.
+~
+~
+0 -1 24901
+S
+#24903
+On the beach~
+  You are standing on the sunny beach of Na-Palm. The soft white sand seems 
+to get inside all of your clothes. The beach continues to the west and the
+east. You see the shore to the south.
+~
+249 0 2
+D1 
+The beach continues to the east.
+~
+~
+0 -1 24904
+D2
+You see the shore to the south.
+~
+~
+0 -1 24911
+D3
+The beach continues to the west.
+~
+~
+0 -1 24902
+S
+#24904
+On the beach~
+  You are standing on the sunny beach of Na-Palm. The soft white sand seems
+to get inside all of your clothes. The beach continues to the west and the
+east. You see the shore to the south.
+~
+249 0 2
+D1 
+The beach continues to the east.
+~
+~
+0 -1 24905
+D2
+You see the shore to the south.
+~
+~
+0 -1 24912
+D3
+The beach continues to the west.
+~
+~
+0 -1 24903
+S
+#24905
+On the beach~
+  You are standing on the sunny beach of Na-Palm. The soft white sand seems 
+to get inside all of your clothes. The beach continues to the west and the 
+east. You see the shore to the south.
+~
+249 0 2
+D1 
+The beach continues to the east.
+~
+~
+0 -1 24906
+D2
+You see the shore to the south.
+~
+~
+0 -1 24913
+D3
+The beach continues to the west.
+~
+~
+0 -1 24904
+S
+#24906
+On the beach~
+  You are standing on the sunny beach of Na-Palm. The soft white sand seem
+to get inside all of your clothes. The beach continues to the west and the
+east. You see the shore to the south. To the north you see a small path
+leading up from the beach.
+~
+249 0 2
+D0
+~
+~
+0 -1 24949
+D1 
+The beach continues to the east.
+~
+~
+0 -1 24907
+D2
+You see the shore to the south.
+~
+~
+0 -1 24914
+D3
+The beach continues to the west.
+~
+~
+0 -1 24905
+S
+#24907
+On the beach~
+  You are standing on the sunny beach of Na-Palm. The soft white sand seems
+to get inside all of your clothes. The beach continues to the west and the 
+east. You see the shore to the south.
+~
+249 0 2
+D1 
+The beach continues to the east.
+~
+~
+0 -1 24908
+D2
+You see the shore to the south.
+~
+~
+0 -1 24915
+D3
+The beach continues to the west.
+~
+~
+0 -1 24906
+S
+#24908
+On the beach~
+  You are standing by a big rock providing shelter from the sun. To the south
+you see the shore and the beach continues to the west.
+~
+249 0 2
+D2 
+You see the shore to the south.
+~
+~
+0 -1 24916
+D3
+The beach continues to the west.
+~
+~
+0 -1 24907
+S
+#24909
+On the shore~
+  You are standing on the shore of the beach. You see the big waves rolling
+in from the Mindorian Ocean, along with some flotsam from long forgotten
+galleys.
+~
+249 0 2
+D0
+~
+~
+0 -1 24901
+D1
+~
+~
+0 -1 24910
+D2
+You see the Mindorian Ocean to the south.
+~
+~
+0 -1 24917
+S
+#24910
+On the shore~
+  You are standing on the shore of the beach. Some kids have built the King's
+Castle in the sand here.
+~
+249 0 2
+D0
+~
+~
+0 -1 24902
+D1
+~
+~
+0 -1 24911
+D2
+You see the Mindorian Ocean to the south.
+~
+~
+0 -1 24918
+D3
+~
+~
+0 -1 24909
+S
+#24911
+On the shore~
+  You are standing on the shore of the beach. As you look to the horizon to
+the south you see a small black dot. Maybe it's one of those golden katamarans
+from the far south that your father talked about when you were young.
+~
+249 0 2
+D0
+~
+~
+0 -1 24903
+D1
+~
+~
+0 -1 24912
+D2
+You see the Mindorian Ocean to the south.
+~
+~
+0 -1 24919
+D3
+~
+~
+0 -1 24910
+S
+#24912
+On the wooden path to the pier~
+  You are standing on the wooden path to the pier. All around you kids are 
+playing beach volleyball and is throwing jelly-fishes at each other. To the 
+east you see Captain Kidd's shop and to the south you see the pier.
+~
+249 0 2
+D0
+~
+~
+0 -1 24904
+D1
+You see Captain Kidd's shop to the east.
+~
+~
+0 -1 24913
+D2
+You see the pier to the south.
+~
+~
+0 -1 24920
+D3
+~
+~
+0 -1 24911
+S
+#24913
+Captain Kidd's Beach Shop~
+  You are at Captain Kidd's Beach Shop. Stacks of stranded goods lies here on
+the white sand, things that the Captain seems to have found on the beach and
+sells to stupid adventurers. 
+~
+249 0 2
+D0
+~
+~
+0 -1 24905
+D1
+~
+~
+0 -1 24914
+D2
+You see the Mindorian Ocean to the south.
+~
+~
+0 -1 24921
+D3
+~
+~
+0 -1 24912
+S
+#24914
+On the shore~
+  You are standing on the shore of the beach. You see the big waves rolling in
+from the Ocean to the south. A smashed barrel lies here, half buried in the 
+sand.
+~
+249 0 2
+D0
+~
+~
+0 -1 24906
+D1
+~
+~
+0 -1 24915
+D2
+You see the Mindorian Ocean to the south.
+~
+~
+0 -1 24921
+D3
+You see Captain Kidd's shop to the west.
+~
+~
+0 -1 24913
+S
+#24915
+On the shore~
+  You are standing on the shore of the beach. The wind from the south carries
+scents of far away places.
+~
+249 0 2
+D0
+~
+~
+0 -1 24907
+D1
+~
+~
+0 -1 24916
+D2
+To the south you see the Mindorian Ocean.
+~ 
+~         
+0 -1 24923
+D3
+You see the Captains beach shop to the west.
+~
+~
+0 -1 24914
+S
+#24916
+On the shore~
+  You are standing on the shore of the beach. Dead jelly-fishes litter the 
+ground here, dying of the burning sun.
+~
+249 0 2
+D0
+~
+~
+0 -1 24908
+D2
+You see the Mindorian Ocean to the south.
+~
+~
+0 -1 24924
+D3
+~
+~
+0 -1 24915
+S
+#24917
+In the shallow water~
+  You are standing knee-deep in the shallow water of the Mindorian Ocean. You
+see small red fishes swimming around your boots, gasping at the sudden change
+of their environment.
+~
+249 c 6
+D0
+You see the shore to the north.
+~
+~
+0 -1 24909
+D1
+~
+~
+0 -1 24918
+D2
+~
+~
+0 -1 24925
+S
+#24918
+In the shallow water~
+  You are standing knee-deep in the shallow water of the Mindorian Ocean. The
+ground here is filled with wreckage from long sunken canoes.
+~
+249 c 6
+D0
+You see the shore to the north.
+~
+~
+0 -1 24910
+D1
+~
+~
+0 -1 24919
+D2
+~
+~
+0 -1 24926
+D3
+~
+~
+0 -1 24917
+S
+#24919
+In the shallow water~
+  You are standing knee-deep in the shallow water of the Mindorian Ocean. To 
+the south you see the great sea and to the east you see the pier.
+~
+249 c 6
+D0
+You see the shore to the north. 
+~
+~
+0 -1 24911
+D1
+You see the pier to the east.
+~
+~
+0 -1 24920
+D2
+The Ocean is to the south.
+~ 
+~
+0 -1 24927
+D3
+~
+~
+0 -1 24918
+S
+#24920
+The pier~
+  You are standing on the pier. The southern wind blows in your face, carrying
+mystic scents and sounds from exotic places. The pier is build of black
+granite, carried here by primates from a much more violent age.
+~
+249 c 2
+D0
+~
+~
+0 -1 24912
+D1
+~
+~
+0 -1 24921
+D2
+~
+~
+0 -1 24928
+D3 
+~
+~
+0 -1 24919
+S
+#24921
+In the shallow water~
+  You are standing knee-deep in the shallow water of the Mindorian Ocean. You
+see a big wave rolling in, its getting closer ... To the north you see Captain
+Kidd's beach shop.
+~
+249 c 6
+D0
+Captain Kidd's beach shop lies to the north.
+~
+~
+0 -1 24913
+D1
+~
+~
+0 -1 24922
+D2
+You see the Great Sea to the south. The wave it rolling straight at you. ARGH!
+~
+~
+0 -1 24929
+D3
+You see the pier to the west.
+~
+~
+0 -2 24920
+S
+#24922
+In the shallow water~
+  You are standing knee-deep in the shallow water of the Mindorian Ocean. You
+see a human skeleton partly covered in the sand. It must be Gregor, that ugly
+mage apprentice that tried to walk on water. Guess he didn't make it.
+~
+249 c 6
+D0
+You see the shore to the north.
+~
+~
+0 -1 24914
+D1
+~
+~
+0 -1 24923
+D2
+The great sea lies out there.
+~
+~
+0 -1 24930
+D3
+~
+~
+0 -1 24921
+S
+#24923
+In the shallow water~
+  You are standing knee-deep in the shallow water of the Mindorian Ocean. To
+the south you see big wave rolling in from the Ocean. 
+~
+249 c 6
+D0
+You see the shore to the north.
+~
+~
+0 -1 24915
+D1
+~
+~
+0 -1 24924
+D2
+The great sea lies to the south.
+~
+~
+0 -1 24931
+D3
+~
+~
+0 -1 24922
+S
+#24924
+In the shallow water~
+  You are standing knee-deep in the shallow water of the Mindorian Ocean. The
+southern wind ruffles your hair and has a scent of silt.
+~
+249 c 6
+D0
+You see the shore to the north.
+~
+~
+0 -1 24916
+D2
+The great sea lies to the south.
+~
+~
+0 -1 24932
+D3
+~
+~
+0 -1 24923
+S
+#24925
+On deeper water~
+  You are on the Mindorian Ocean. The water is dark and greenish blue so you
+can't see the ground here. You hear the faint sound of the waves breaking 
+against the beach to the north.
+~
+249 0 6
+D0
+You see Na-Palm beach to the north.
+~
+~
+0 -1 24917
+D1
+~
+~
+0 -1 24926
+D2
+You see the horizon to the south.
+~
+~
+0 -1 24933
+S
+#24926
+On deeper water~
+  You are on the Mindorian Ocean. The water is dark and greenish blue so you
+can't see the ground here. You hear the faint sound of the waves breaking 
+against the beach to the north.
+~
+249 0 6
+D0
+You see Na-Palm beach to the north.
+~
+~
+0 -1 24918
+D1
+~
+~
+0 -1 24927
+D2
+You see the horizon to the south.
+~
+~
+0 -1 24934
+D3
+~
+~
+0 -1 24925
+S 
+#24927
+On deeper water~
+  You are on the Mindorian Ocean. The water is dark and greenish blue so you
+can't see the ground here. You hear the faint sound of the waves breaking 
+against the beach to the north.
+~
+249 0 6
+D0
+You see Na-Palm beach to the north.
+~
+~
+0 -1 24919
+D1
+~
+~
+0 -1 24928
+D2
+You see the horizon to the south.
+~
+~
+0 -1 24935
+D3
+~
+~
+0 -1 24926
+S
+#24928
+On deeper water~
+  You are on the Mindorian Ocean. The water is dark and greenish blue so you
+can't see the ground here. You hear the faint sound of the waves breaking 
+against the beach to the north.
+~
+249 0 6
+D0
+You see Na-Palm beach to the north.
+~
+~
+0 -1 24920
+D1
+~
+~
+0 -1 24929
+D2
+You see the horizon to the south.
+~
+~
+0 -1 24936
+D3
+~
+~
+0 -1 24927
+S
+#24929
+On deeper water~
+  You are on the Mindorian Ocean. The water is dark and greenish blue so you
+can't see the ground here. You hear the faint sound of the waves breaking 
+against the beach to the north.
+~
+249 0 6
+D0
+You see Na-Palm beach to the north.
+~
+~
+0 -1 24921
+D1
+~
+~
+0 -1 24930
+D2
+You see the horizon to the south.
+~
+~
+0 -1 24937
+D3
+~
+~
+0 -1 24928
+S
+#24930
+On deeper water~
+  You are on the Mindorian Ocean. The water is dark and greenish blue so you
+can't see the ground here. You hear the faint sound of the waves breaking 
+against the beach to the north.
+~
+249 0 6
+D0
+You see Na-Palm beach to the north.
+~
+~
+0 -1 24922
+D1
+~
+~
+0 -1 24931
+D2
+You see the horizon to the south.
+~
+~
+0 -1 24938
+D3
+~
+~
+0 -1 24929
+S 
+#24931
+On deeper water~
+  You are on the Mindorian Ocean. The water is dark and greenish blue so you
+can't see the ground here. You hear the faint sound of the waves breaking 
+against the beach to the north.
+~
+249 0 6
+D0
+You see Na-Palm beach to the north.
+~
+~
+0 -1 24923
+D1
+~
+~
+0 -1 24932
+D2
+You see the horizon to the south.
+~
+~
+0 -1 24939
+D3
+~
+~
+0 -1 24930
+S
+#24932
+On deeper water~
+  You are on the Mindorian Ocean. The water is dark and greenish blue so you
+can't see the ground here. You hear the faint sound of the waves breaking 
+against the beach to the north.
+~
+249 0 6
+D0
+You see Na-Palm beach to the north.
+~
+~
+0 -1 24924
+D2
+You see the horizon to the south.
+~
+~
+0 -1 24940
+D3
+~
+~
+0 -1 24931
+S
+#24933
+On the high seas~
+ You are on the Mindorian Ocean. The water looks so beautiful, glistening and
+ever-changing, so dark and yet so transparent. A strong wind is blowing from
+the south, filled with salt water. To the north you see barely see the Na-Palm
+beach.
+~
+249 0 7
+D0
+You can barely see the Na-Palm beach to the north.
+~
+~
+0 -1 24925
+D1
+~
+~
+0 -1 24934
+D2
+~
+~
+0 -1 24941
+S
+#24934
+On the high seas~
+ You are on the Mindorian Ocean. The water looks so beautiful, glistening and
+ever-changing, so dark and yet so transparent. A strong wind is blowing from
+the south, filled with salt water. To the north you see barely see the Na-Palm
+beach.
+~
+249 0 7
+D0
+You can barely see the Na-Palm beach to the north.
+~
+~
+0 -1 24926
+D1
+~
+~
+0 -1 24935
+D2
+~
+~
+0 -1 24942
+D3
+~
+~
+0 -1 24933
+S
+#24935
+On the high seas~
+ You are on the Mindorian Ocean. The water looks so beautiful, glistening and
+ever-changing, so dark and yet so transparent. A strong wind is blowing from
+the south, filled with salt water. To the north you see barely see the Na-Palm
+beach.
+~
+249 0 7
+D0
+You can barely see the Na-Palm beach to the north.
+~
+~
+0 -1 24927
+D1
+~
+~
+0 -1 24936
+D2
+~
+~
+0 -1 24943
+D3
+~
+~
+0 -1 24934
+S
+#24936
+On the high seas~
+ You are on the Mindorian Ocean. The water looks so beautiful, glistening and
+ever-changing, so dark and yet so transparent. A strong wind is blowing from
+the south, filled with salt water. To the north you see barely see the Na-Palm
+beach.
+~
+249 0 7
+D0
+You can barely see the Na-Palm beach to the north.
+~
+~
+0 -1 24928
+D1
+~
+~
+0 -1 24937
+D2
+~
+~
+0 -1 24944
+D3
+~
+~
+0 -1 24935
+S
+#24937
+On the high seas~
+ You are on the Mindorian Ocean. The water looks so beautiful, glistening and
+ever-changing, so dark and yet so transparent. A strong wind is blowing from
+the south, filled with salt water. To the north you see barely see the Na-Palm
+beach.
+~
+249 0 7
+D0
+You can barely see the Na-Palm beach to the north.
+~
+~
+0 -1 24929
+D1
+~
+~
+0 -1 24938
+D2
+~
+~
+0 -1 24945
+D3
+~
+~
+0 -1 24936
+S
+#24938
+On the high seas~
+ You are on the Mindorian Ocean. The water looks so beautiful, glistening and
+ever-changing, so dark and yet so transparent. A strong wind is blowing from
+the south, filled with salt water. To the north you see barely see the Na-Palm
+beach.
+~
+249 0 7
+D0
+You can barely see the Na-Palm beach to the north.
+~
+~
+0 -1 24930
+D1
+~
+~
+0 -1 24939
+D2
+~
+~
+0 -1 24946
+D3
+~
+~
+0 -1 24937
+S
+#24939
+On the high seas~
+ You are on the Mindorian Ocean. The water looks so beautiful, glistening and
+ever-changing, so dark and yet so transparent. A strong wind is blowing from
+the south, filled with salt water. To the north you see barely see the Na-Palm
+beach.
+~
+249 0 7
+D0
+You can barely see the Na-Palm beach to the north.
+~
+~
+0 -1 24931
+D1
+~
+~
+0 -1 24940
+D2
+~
+~
+0 -1 24947
+D3
+~
+~
+0 -1 24938
+S
+#24940
+On the high seas~
+ You are on the Mindorian Ocean. The water looks so beautiful, glistening and
+ever-changing, so dark and yet so transparent. A strong wind is blowing from
+the south, filled with salt water. To the north you see barely see the Na-Palm
+beach.
+~
+249 0 7
+D0
+You can barely see the Na-Palm beach to the north.
+~
+~
+0 -1 24932
+D2
+~
+~
+0 -1 24948
+D3
+~
+~
+0 -1 24939
+S
+#24941
+On the high seas~
+ You are on the Mindorian Ocean. The dark water swirls around your boat and
+tosses it like a leaf in the wind. To the north you see a faint outline of a
+coastline. 
+~
+249 0 7
+D0
+You see a coastline to the north. 
+~
+~
+0 -1 24933
+D1
+~
+~
+0 -1 24942
+D2
+~
+~
+0 -1 25001
+S
+#24942
+On the high seas~
+ You are on the Mindorian Ocean. The dark water swirls around your boat and
+tosses it like a leaf in the wind. To the north you see a faint outline of a
+coastline. 
+~
+249 0 7
+D0
+You see a coastline to the north. 
+~
+~
+0 -1 24934
+D1
+~
+~
+0 -1 24943
+D2
+~
+~
+0 -1 25002
+D3
+~
+~
+0 -1 24941
+S
+#24943
+On the high seas~
+ You are on the Mindorian Ocean. The dark water swirls around your boat and
+tosses it like a leaf in the wind. To the north you see a faint outline of a
+coastline. 
+~
+249 0 7
+D0
+You see a coastline to the north. 
+~
+~
+0 -1 24935
+D1
+~
+~
+0 -1 24944
+D2
+~
+~
+0 -1 25003
+D3
+~
+~
+0 -1 24942
+S
+#24944
+On the high seas~
+ You are on the Mindorian Ocean. The dark water swirls around your boat and
+tosses it like a leaf in the wind. To the north you see a faint outline of a
+coastline. 
+~
+249 0 7
+D0
+You see a coastline to the north. 
+~
+~
+0 -1 24936
+D1
+~
+~
+0 -1 24945
+D2
+~
+~
+0 -1 25003
+D3
+~
+~
+0 -1 24943
+S
+#24945
+On the high seas~
+ You are on the Mindorian Ocean. The dark water swirls around your boat and
+tosses it like a leaf in the wind. To the north you see a faint outline of a
+coastline. 
+~
+249 0 7
+D0
+You see a coastline to the north. 
+~
+~
+0 -1 24937
+D1
+~
+~
+0 -1 24946
+D2
+~
+~
+0 -1 25005
+D3
+~
+~
+0 -1 24944
+S
+#24946
+On the high seas~
+ You are on the Mindorian Ocean. The dark water swirls around your boat and
+tosses it like a leaf in the wind. To the north you see a faint outline of a
+coastline. 
+~
+249 0 7
+D0
+You see a coastline to the north. 
+~
+~
+0 -1 24938
+D1
+~
+~
+0 -1 24947
+D2
+~
+~
+0 -1 25006
+D3
+~
+~
+0 -1 24945
+S
+#24947
+On the high seas~
+ You are on the Mindorian Ocean. The dark water swirls around your boat and
+tosses it like a leaf in the wind. To the north you see a faint outline of a
+coastline. 
+~
+249 0 7
+D0
+You see a coastline to the north. 
+~
+~
+0 -1 24939
+D1
+~
+~
+0 -1 24948
+D2
+~
+~
+0 -1 25007
+D3
+~
+~
+0 -1 24946
+S
+#24948
+On the high seas~
+ You are on the Mindorian Ocean. The dark water swirls around your boat and
+tosses it like a leaf in the wind. To the north you see a faint outline of a
+coastline. 
+~
+249 0 7
+D0
+You see a coastline to the north. 
+~
+~
+0 -1 24940
+D2
+~
+~
+0 -1 25008
+D3
+~
+~
+0 -1 24947
+S
+#24949
+On the sandy path~
+  You are on a sandy path that leads to Na-Palm beach to the south.
+~
+249 c 2
+D0
+~
+~
+0 -1 24950
+D2
+~
+~
+0 -1 24906
+S
+#24950
+On the sandy path~
+  You are standing on a sandy path that leads down to the sunny Na-Palm beach.
+To the north you see the road that leads to Midgaard, the capital of this land.
+~
+249 0 2
+D0
+~
+~
+0 -1 24951
+D2
+~
+~
+0 -1 24949
+S
+#24951
+On the road through the plains~
+  You are on a road through the plains. To the west and east of here young
+saplings grows in small groups. To the north the road can take you to the city
+of Midgaard. The road turns into a small sandy path to the south.
+~
+249 0 2
+D0
+~
+~
+0 -1 24952
+D2
+~
+~
+0 -1 24950
+S
+#24952
+On the road through the plains~
+  You are on a road through the green plains south of Midgaard. All around you
+the grass looks healthy and so green you almost think its artificial. The road
+continues to the south.
+~
+249 0 2
+D0
+~
+~
+0 -1 24953
+D2
+~
+~
+0 -1 24951
+S
+#24953
+On a bend on the road~
+  You are standing on a road through the green, nice plains. To the north you
+see a big black rock. It is quite out of place from the otherwise so friendly
+and peaceful atmosphere. The road bends to the west from here.
+~
+249 0 2
+D2
+~
+~
+0 -1 24952
+D3
+~
+~
+0 -1 24954
+S
+#24954
+On the road through the plains~
+  You are on the green plains south of Midgaard. The road bends to the east
+here and far to the north you see the citywalls of Midgaard. Out of the 
+corner of your eye you notice an ancient marker stone hidden in the 
+undergrowth.
+~
+249 0 2 
+D0
+~
+~
+0 -1 24955
+D1
+~
+~
+0 -1 24953
+D3
+A narrow overgrown trail leads west.
+~
+~
+0 -1 24960
+E
+ancient marker stone~
+   You brush aside the bushes, and look at the marker. Its weathered 
+surface indicate that it is very old, and the writing upon it is worn 
+and difficult to read. An arrow points west, and above is the name 
+'Delray'. Odd, the City of Delray disappeared centuries ago, presumed 
+destroyed in a magical accident.
+~
+S
+#24955
+On the road through the plains~
+  You are standing on a road through the plains. To the east you see a black
+rock, eroded by the strong wind from the south. To the north you see the
+citywalls of Midgaard and to the northeast is the graveyard.
+~
+249 0 2
+D0
+~
+~
+0 -1 24956  
+D2
+~
+~
+0 -1 24954
+S
+#24956
+On the road through the plains~
+  You are on a road through the plains just south of Midgaard. To the east you
+see the west fence of the haunted graveyard. You see the white citywall to the
+north.
+~
+249 0 2
+D0
+~
+~
+0 -1 24957
+D2
+~
+~
+0 -1 24955
+S
+#24957
+City Entrance~
+   You stand on the outskirts of a large city - Midgaard; the capital of this  
+land. To the north you see the big gate in the white city wall. To the east
+you see the west fence of the haunted graveyard. To the south you see the 
+southern plains of this continent.
+~
+249 c 2
+D0
+~
+~
+0 -1 24958
+D2
+~
+~
+0 -1 24956
+S
+#24958
+Outside the South Gate of Midgaard~
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate. To the south the
+plains stretch out in the distance.
+~
+249 0 2
+D0
+You see the city gate.
+~
+gate~
+1 3133 24959
+D2
+You see the plains to the south.
+~
+~
+0 -1 24957
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to 
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+S
+#24959
+Inside the South Gate of Midgaard~
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate. To the north you see
+the Emerald Avenue. 
+~
+249 0 0
+D0
+You see Emerald Avenue to the north.
+~
+~
+0 -1 3128
+D2
+You see the gate.
+~
+gate~
+1 3133 24958
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+S
+#24960
+Overgrown trail~
+   You can barely make out the overgrown trail beneath your feet. 
+Occasional stones poke up through the ground, their shape indicating 
+that this was once a paved highway. It takes you a while to work out 
+that the trail turns here.
+~
+249 0 2 
+D1 
+~
+~
+0 -1 24954
+D0
+~
+~
+0 -1 24961
+S
+#24961
+A turn in the trail~
+   Spurts of dust kick up behind your feet as you shuffle your way 
+through the dusty undergrowth. The road twists again here, you can go 
+south or west.
+~
+249 0 2
+D2
+~
+~
+0 -1 24960
+D3
+~
+~
+0 -1 12500
+S
+#99999
+$~
+ 

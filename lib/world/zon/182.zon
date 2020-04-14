@@ -1,0 +1,351 @@
+#182
+Fortress of the Storm Dragons~
+18297 230 1
+*
+* Organised by ascending room number
+*
+* Useful numbers; 98 rooms, 34 mob types, 42 object types, 3 keys 
+* full repop;            max   equipment
+* 5 Adventurers           10    rope,boots and kitbag
+* 2 Wyverns                2
+* 6 Squires               10    leather armour and short sword
+* 6 Knights               10    chainmail, shield and sword
+* 1 King's Champion        1    Silvery chanmail, The Shield, Holy Sword
+* 1 Mountain Lion          2
+* 1 Salamander             1    Firestone and leggings
+* 1 Giant Snake            1
+* 8 Eggs                  15
+*13 Attendents            20
+* 4 hatchlings            12
+* 6 young wyrms           10
+* 6 wyrms                 10
+* 5 Elder Wyrms            8
+* 2 Drake                  3
+* 1 Great Drake            2
+* 1 Grand Drake            1
+* 1 Garrion                1    key, Garrions's horn
+* 1 Gomorra                1    Gomorra's ring of invisibility
+* 1 Mithembra              1	  dragon's eye, cloak and dagger
+* 1 Skar                   1
+* 1 Dragonstorm	         1
+* 1 Demandred              1    sword, gauntlets, armour and key
+* 1 Lagg                   1
+* 1 Kamthra                1    staff, light and gloves
+* 1 Hercules               1    armbands, eye, sword and chains
+* 1 Zharradan              1    dagger, staff, gauntlets and key
+* 4 Immortal statues       8
+* 9 sentinel hatchlings   10 
+* 2 sentinel elder wyrms   2 
+* 2 vanquished souls       2
+* 1 bone beast             1
+* 2 male tortured elves    2
+* 2 female tortured elves  2
+*
+* doors 48/52-key 18200 54/82-key 18239 59/60-key 18240 
+*
+* room 18200
+M 0 18200 10 18200    * Adventurer
+E 1 18206 10 13       * wear rope around waist
+E 1 18207 100 8       * wear boots on feet
+E 1 18208 100 12      * wear kitbag around body
+P 1 18209 100 18208   * put iron rations in kitbag
+*
+* room 18202
+M 0 18200 10 18202    * Adventurer
+E 1 18206 10 13       * wear rope around waist
+E 1 18207 100 8       * wear boots on feet
+E 1 18208 100 12      * wear kitbag around body
+P 1 18209 100 18208   * put iron rations in kitbag
+*
+* room 18203
+M 0 18201 10 18203    * Squire
+E 1 18210 25 5        * wear leather armour
+E 1 18211 100 16      * wield short sword
+M 0 18203 10 18203    * Knight
+E 1 18212 25 11       * wear shiny shield
+E 1 18213 100 16      * wield sword
+E 1 18214 100 5       * wear burnished chainmail
+M 0 18201 10 18203    * Squire
+E 1 18210 25 5        * wear leather armour
+E 1 18211 100 16      * wield short sword
+M 0 18203 10 18203    * Knight
+E 1 18212 25 11       * wear shiny shield
+E 1 18213 100 16      * wield sword
+E 1 18214 100 5       * wear burnished chainmail
+M 0 18206 1 18203     * Champion
+E 1 18215 5 11        * wear The Shield
+E 1 18216 100 5       * wear silvery chainmail
+E 1 18217 100 16      * wield Holy Sword
+O 0 18205 2 18203     * flaming twig
+O 0 18245 100 18203   * sign
+*
+* room 18205
+M 0 18204 2 18205     * mountain lion
+*
+* room 18207
+M 0 18201 10 18207    * Squire
+E 1 18210 25 5        * wear leather armour
+E 1 18211 100 16      * wield short sword
+M 0 18203 10 18207    * Knight
+E 1 18212 25 11       * wear shiny shield
+E 1 18213 100 16      * wield sword
+E 1 18214 100 5       * wear burnished chainmail
+*
+* room 18210
+M 0 18200 10 18210    * Adventurer
+E 1 18206 10 13       * wear rope around waist
+E 1 18207 100 8       * wear boots on feet
+E 1 18208 100 12      * wear kitbag around body
+P 1 18209 100 18208   * put iron rations in kitbag
+*
+* room 18212
+M 0 18201 10 18212    * Squire
+E 1 18210 25 5        * wear leather armour
+E 1 18211 100 16      * wield short sword
+*
+* room 18213
+M 0 18203 10 18213    * Knight
+E 1 18212 25 11       * wear shiny shield
+E 1 18213 100 16      * wield sword
+E 1 18214 100 5       * wear burnished chainmail
+*
+* room 18220
+M 0 18207 1 18220     * Salamander
+E 1 18218 5 17        * hold firestone
+E 1 18219 20 7        * wear 'leggings'
+*
+*room 18224
+M 0 18202 2 18224     * wyvern
+M 0 18202 2 18224     * wyvern
+*
+* room 18227
+M 0 18205 1 18227     * giant snake
+*
+* room 18234
+M 0 18211 10 18234     * wyrm
+*
+* room 18235
+M 0 18210 10 18235    * Young wyrm
+*
+* room 18236
+M 0 18217 1 18236     * Skar
+E 1 18203 100 1       * great drakes ring
+E 1 18244 20 6        * skar's bandana
+M 0 18233 10 18236    * sentinel hatchling
+M 0 18208 15 18236    * egg
+M 0 18208 15 18236    * egg
+M 0 18208 15 18236    * egg
+M 0 18208 15 18236    * egg
+M 0 18226 20 18236    * attendant
+M 0 18226 20 18236    * attendant
+*
+* room 18237
+M 0 18233 10 18237    * sentinel hatchling
+M 0 18208 15 18237    * egg
+M 0 18208 15 18237    * egg
+M 0 18208 15 18237    * egg
+M 0 18208 15 18237    * egg
+M 0 18226 20 18237    * attendant
+M 0 18226 20 18237    * attendant
+*
+* room 18239
+M 0 18212 8 18239     * elder wyrm
+O 0 18221 4 18239     * scratching post
+*
+* room 18240
+M 0 18209 12 18240    * hatchling
+M 0 18209 12 18240    * hatchling
+M 0 18210 10 18240    * Young Wyrm
+M 0 18210 10 18240    * Young Wyrm
+M 0 18211 10 18240    * Wyrm
+M 0 18211 10 18240    * wyrm
+M 0 18212 8 18240     * Elder Wyrm 
+*
+* room 18241
+M 0 18226 20 18241    * attendant
+M 0 18226 20 18241    * attendant
+M 0 18226 20 18241    * attendant
+*
+* room 18242
+M 0 18233 10 18242    * sentinel hatchling
+M 0 18233 10 18242    * sentinel hatchling 
+O 0 18220 4 18242     * chamber pot
+*
+* room 18244
+M 0 18215 1 18244     * Garrion
+E 1 18201 100 1       * drakes ring
+G 1 18200 100 1       * key in inventory
+E 1 18242 100 16      * wield lance
+E 1 18241 10 17       * hold horn
+*
+* room 18247
+M 0 18213 3 18247     * A drake
+E 1 18201 100 1       * drakes ring
+*
+* room 18248
+D 0 18248 3 2         * close and lock door west to 18252
+*
+* room 18250
+M 0 18232 1 18250     * Mithembra
+E 1 18201 100 1       * drakes ring
+E 1 18225 10 0        * hold dragon's eye
+E 1 18226 100 12      * wear velvet cloak
+E 1 18227 20 16       * wield wicked dagger
+* room 18252
+D 0 18252 1 2         * close and lock door east to 18248
+*
+* room 18254
+M 0 18220 1 18254     * Demandred
+E 1 18202 100 1       * grand drakes ring
+E 1 18239 100 17      * hold key
+E 1 18222 10 16       * wield sword
+E 1 18223 20 9        * wear gauntlets
+E 1 18224 20 5        * wear battle armour
+*
+D 0 18254 1 2         * close and lock door east to 18282
+*
+* room 18255
+M 0 18218 1 18255     * Dragonstorm (sentinel)
+E 1 18203 100 1       * great drakes ring
+*
+* room 18258
+M 0 18221 1 18258     * Lagg
+E 1 18202 100 1       * grand drakes ring
+E 1 18243 20 11       * Lagg's Shield
+*
+* room 18259
+M 0 18224 1 18259     * Zharradan
+E 1 18204 100 1       * high drakes ring
+G 1 18240 100         * give key
+E 1 18236 10 17       * hold dragon staff
+E 1 18237 100 16      * wield dagger
+E 1 18238 20 9        * wear gloves
+*
+D 0 18259 5 2         * close and lock door down to 18260
+*
+* room 18260
+M 0 18229 2 18260     * Male tortured elf
+M 0 18229 2 18260     * Male tortured elf
+M 0 18230 2 18260     * Female tortured elf
+M 0 18230 2 18260     * Female tortured elf
+
+D 0 18260 4 2         * close and lock door up to 18259
+*
+* room 18261
+M 0 18223 1 18261     * Hercules
+E 1 18204 100 1       * high drakes ring
+E 1 18231 10 10       * wear armbands
+E 1 18232 20 17       * hold chains
+E 1 18233 100 16      * wield dragon's tooth
+E 1 18234 20 0        * hold the eye of hercules
+*
+M 0 18233 10 18261    * sentinel hatchling
+M 0 18233 10 18261    * sentinel hatchling
+M 0 18233 10 18261    * sentinel hatchling
+M 0 18233 10 18261    * sentinel hatchling
+M 0 18233 10 18261    * sentinel hatchling
+*
+M 0 18231 2 18261     * Sentinel elder wyrm
+M 0 18231 2 18261     * Sentinel elder wyrm
+*
+* room 18262
+M 0 18227 2 18262     * vanquished soul
+M 0 18227 2 18262     * vanquished soul
+M 0 18228 1 18262     * bone beast
+*
+* room 18264
+M 0 18222 1 18264     * Kamthra
+E 1 18204 100 1       * high drakes ring
+E 1 18228 10 0        * Hold light
+E 1 18229 20 16       * wield staff
+E 1 18230 20 9        * wear gloves
+E 1 18246 4 3         * torc (Froboz robe)
+*
+* room 18265
+M 0 18213 3 18265     * drake
+E 1 18201 100 1       * drakes ring
+*
+* room 18266
+M 0 18212 8 18266     * elder wyrm
+*
+* room 18267
+M 0 18210 10 18267    * young wyrm
+M 0 18226 20 18267    * attendant
+*
+* room 18268
+M 0 18211 10 18268    * wyrm
+M 0 18226 20 18268    * attendant
+*
+* room 18269
+M 0 18214 1 18269     * Gomorra
+E 1 18201 100 1       * drakes ring
+E 1 18235 20 2        * ring of invisibility
+*
+* room 18270
+M 0 18212 8 18270     * elder wyrm
+*
+* room 18272
+M 0 18225 8 18272     * Immortal statue
+*
+* room 18273
+M 0 18225 8 18273     * Immortal statue
+*
+* room 18274
+M 0 18225 8 18274     * Immortal statue
+*
+* room 18275
+M 0 18225 8 18275     * Immortal statue
+*
+* room 18277
+M 0 18219 1 18277     * grand drake
+E 1 18202 100 1       * grand drakes ring
+* room 18282
+D 0 18282 3 2         * close and lock door west to 18254
+*
+* room 18297 Mob chute 1 - target volcano
+M 0 18200 10 18296    * Adventurer
+E 1 18206 10 13       * wear rope around waist
+E 1 18207 100 8       * wear boots on feet
+E 1 18208 100 12      * wear kitbag around body
+P 1 18209 100 18208   * put iron rations in kitbag
+M 0 18200 10 18296    * Adventurer
+E 1 18206 10 13       * wear rope around waist
+E 1 18207 100 8       * wear boots on feet
+E 1 18208 100 12      * wear kitbag around body
+P 1 18209 100 18208   * put iron rations in kitbag
+M 0 18201 10 18296    * Squire
+E 1 18210 25 5        * wear leather armour
+E 1 18211 100 16      * wield short sword
+M 0 18203 10 18296    * Knight
+E 1 18212 25 11       * wear shiny shield
+E 1 18213 100 16      * wield sword
+E 1 18214 100 5       * wear burnished chainmail
+M 0 18201 10 18296    * Squire
+E 1 18210 25 5        * wear leather armour
+E 1 18211 100 16      * wield short sword
+M 0 18203 10 18296    * Knight
+E 1 18212 25 11       * wear shiny shield
+E 1 18213 100 16      * wield sword
+E 1 18214 100 5       * wear burnished chainmail
+*
+* room 18298 Mob chute 2 target fortress
+M 0 18209 12 18297    * hatchling
+M 0 18209 12 18297    * hatchling
+M 0 18210 10 18297    * Young wyrm
+M 0 18210 10 18297    * YOung Wyrm
+M 0 18211 10 18297    * Wyrm
+M 0 18211 10 18297    * wyrm
+M 0 18212 8 18297     * Elder Wyrm
+M 0 18212 8 18297     * Elder Wyrm
+M 0 18213 3 18297     * drake
+E 1 18201 100 1       * drakes ring
+M 0 18216 2 18297     * great drake
+E 1 18202 100 1       * great drakes ring
+M 0 18226 20 18297    * attendant
+M 0 18226 20 18297    * attendant
+M 0 18226 20 18297    * attendant
+M 0 18226 20 18297    * attendant
+S
+#99999
+$~
+

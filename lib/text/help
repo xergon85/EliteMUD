@@ -1,0 +1,24 @@
+             §W----§Y****§R<<<<  §GE L I T E  M U D  6.3  §R>>>>§Y****§W----
+
+*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*
+§rMovement:§N                          | §rCommunication:§w
+NORTH SOUTH EAST WEST UP DOWN§N      | §w(') SAY GTELL SHOUT YELL TELL ASK WHISPER
+LOOK EXITS ENTER LEAVE (DIS)MOUNT§N  | §w(:) EMOTE GOSSIP CHAT AUCTION MAIL CHECK
+SLEEP WAKE REST SIT STAND§N          | §wRECEIVE
+(LOCK UNLOCK OPEN CLOSE)§N           |
+*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*
+§rObjects:§N                           | §rInformation:§w
+GET DROP SACRIFICE DONATE WEAR GIVE§N| §wSCORE STAT WHO NEWS TIME DATE FINGER
+GRAB INVENTORY EQUIPMENT REMOVE PUT§N| §wWHERE CONSIDER LEVELS WIZLIST IMMLIST
+EXAMINE EAT DRINK TASTE SIP POUR§N   | §wCREDITS TOGGLE INFO WEATHER POLICY§N
+*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*
+§rCombat:§N                            | §rUtility:§w
+KILL WIELD FLEE ASSIST KICK BASH§N   | §w! BUG IDEA TYPO QUIT SAVE BRIEF COMPACT
+RESCUE BERZERK TRACK THROW§N         | §wTITLE NOSUMMON COMMANDS SOCIALS DISPLAY
+BACKSTAB CIRCLE DISARM PROTECT§N     | §wALIAS WIMP§N
+*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*
+§wFurther information available by §rHELP <keyword>§w, keyword being a command or
+(for example) one of the following:
+
+              §rSOCIAL SHOPS INNS ALIAS SPEEDWALK LINK MIDGAARD§N
+*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-*

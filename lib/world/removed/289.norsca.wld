@@ -1,0 +1,363 @@
+#28900
+Lodge of Donation~
+   This is where the unselfish members of the Norsca comunity put
+equipment that they wish to share, feel free to poke around and don't
+be afraid to repay the kindness of your fellows.
+~
+289 cduz 0
+D1
+~
+~
+0 -1 28901
+S
+#28901
+Path by the sea~
+   Fish hang on racks to dry in the sun and a longship is pulled up
+on the beach here, you can see a storage to the west and you hear
+loud voises from the east. A crossroad is to the south.
+~
+289 uz 1
+D1
+~
+~
+0 -1 28902
+D2
+~
+~
+0 -1 28909
+D3
+~
+~
+0 -1 28900
+E
+longship ship long~
+A huge viking longship is stranded on the beach here.
+~
+S
+#28902
+Grand Meeting Lodge~
+   This is where the Norsca counsil have their meetings, a huge oak
+table is placed in the middle of the room and a fireplace gives the
+room all the light and warmth it needs to be real comfortble.
+~
+289 duz 0
+D3
+~
+~
+0 -1 28901
+E
+huge oak table~
+There is a huge bitmark in the table, by the lack of teeths in the
+inprint you guess that its argons.
+~
+S
+#28903
+Rapps Small Cabin~
+   You have entered a small cabin. On the wooden walls there are
+several pieces of weaponry and armoury.  On the western wall there is
+a shelf, on which several books stands. In the very middle of the
+Cabin there is a fireplace, infront of which there is a  bearskin on
+the dirt floor.  In the back of the room, there is a long table, with
+twelve seats.  At the end of the table there is on chair, slightly
+fancier then the rest. This is Rapps chair. It is here he dwells when
+eating with his friends and talking about past times and former
+glory!
+~
+289 djuz 0
+D2
+~
+~
+0 -1 28907
+S
+#28904
+Perns Hut~
+   A small oak table is standing in the center of this hut, a
+comfortable chair is standing behind it. Sevral shields is hanging on
+the walls, you wounder why Pern is collecting them. A huge bearskin
+is laying  on the ground.
+~
+289 djuz 0
+D2
+~
+~
+0 -1 28908
+S
+#28905
+Orms House~
+This is a small hut, It looks like Orm hasnt moved in yet.
+~
+289 djuz 0
+D2
+~
+~
+0 -1 28910
+S
+#28906
+Tokes Hut~
+   After walking through the door you step into a huge stone hut, which
+belongs to Toke.  As you stand in the doorway, you see two sofas against 
+the wall in the northwest corner of the hut, and a rather big bed with 
+silk sheets and a blanket directly to the right. A stove has been built 
+in the northeast corner. A large mirror is located on the west wall, 
+close to the door.  The floor is made of thick boards, and two fireplaces 
+are strategically placed near the bed and the sofas. The hut is clean and 
+orderly- nowhere can you see traces of a vikings presence.
+~
+289 djuz 0
+D2
+~
+door~
+11 -1 28911
+E
+blanket~
+The blanket is rather big and made of wool. It is black on one side and
+white on the other. It seems very warm and comfortable.
+~
+E
+door~
+The door is made of oak and has a note on it that states, "Do not 
+disturb".
+~
+E
+mirror~
+When you look into the mirror you cannot see your own reflection.
+Instead, you see a beautiful landscape and feel as if you are standing
+in it.  You are obviously standing in a clearing in a dense forest. You 
+can see mountains rise in the distance before you. There is a small river
+flowing through the clearing, dividing it into two parts. In the middle 
+of the clearing, you see a crumbled stone bridge. It seems impossible to 
+get to the other side without the bridge. There is a huge oak tree beside 
+you, which throws dense shadows underneath it. A ten foot high rock is 
+about fifteen feet behind you.  You can also see five paths leading away 
+from the clearing- four of them are leading away from this side of the 
+river, and the fifth from the other side. One of the paths seems to lead 
+towards the mountains, the other three lead into the dense forest.
+Completely breathtaken from the beauty that stands before your eyes, you
+can hear birds sing loudly around you in the sunshine. The grass grows
+high around you. Never in your wildest dreams could you imagine such a 
+place of beauty.
+~
+S
+#28907
+End of the western path~
+   The western path ends here, you can either visit Rapp who lives in
+the house to the north or go east towards the crossroad in the middle
+of the village.
+~
+289 uz 1
+D0
+~
+~
+0 -1 28903
+D1
+~
+~
+0 -1 28908
+D2
+~
+~
+0 -1 28912
+S
+#28908
+The western path~
+   This path lead between the homes of Pern, to the north, and Argon,
+to the south. You can see the crossroads to the east and the end of
+the path further to the west.
+~
+289 uz 1
+D0
+~
+~
+0 -1 28904
+D1
+~
+~
+0 -1 28909
+D2
+~
+~
+0 -1 28913
+D3
+~
+~
+0 -1 28907
+S
+#28909
+The Crossroad.~
+   This crossroad form the center of the village, it is surrounded by
+houses and small paths lead in all directions. There is a huge pit in
+the middle of the crossroad, thats where the Norsc's settle old
+grudges. Beware, entering the pit might be the last thing you do.
+~
+289 uz 1
+D0
+~
+~
+0 -1 28901
+D1
+~
+~
+0 -1 28910
+D2
+~
+~
+0 -1 28916
+D3
+~
+~
+0 -1 28908
+D5
+The Pit in the middle of the crossroad is the Norsca duel ground.
+~
+~
+0 -1 28918
+E
+pit~
+The pit is where the Norsca settles their grudges.
+~
+S
+#28910
+The eastern path~
+   You find yourself on a path leading east and west. Orms house is
+to the north, the crossroad is to the west and you can see the end of
+this path to the east.
+~
+289 uz 1
+D0
+~
+~
+0 -1 28905
+D1
+~
+~
+0 -1 28911
+D2
+~
+~
+0 -1 28914
+D3
+~
+~
+0 -1 28909
+S
+#28911
+End of the eastern path~
+   This is the end of the eastern path. The smell of food and mead
+comes from the lodge to the north, Tokes home. The path lead back to
+the west, toward the crossroad in the middle of the village.
+~
+289 uz 1
+D0
+~
+~
+0 -1 28906
+D3
+~
+~
+0 -1 28910
+S
+#28913
+Argons Home~
+   This is where the Norsc go to selebrate, something that often
+occurs, or simply just to have a meal. Large longtables edged by oak
+benches fill the lodge and there is a huge cauldron hanging over a
+small fire in the middle of the room. Huge barrels in the southeast
+corned bubbles merrily.
+~
+289 djuz 0
+D0
+~
+~
+0 -1 28908
+S
+#28914
+Alys and Bearskins House~
+   You find yourself standing in a dusky house. The first think that
+hits you is the mixed scent of weaponpolish amd herbs. As you look
+around you notice that the east wall is dominated by a weaponrack
+filled with unsual weapons from all over the world. Above the rack
+you see animal-hides, war-trophies and Celtic idols, witch decorates
+the rest of the wall. You guess this part of the house is Bearskins.
+As you come close to the west side of the room, you notice that the
+sent from the herbs increases. You see a shelf - a big shel, which
+that careless Akys as filled with a messy pile of herbs, jars
+pouches, strange ingredients, books...you name it...A gnarled wooden
+staff is leaning towards the shelf, it is decorated with feathers and
+some mystical pouches are attached to it. Above the staff a scroll is
+nailed to the wall.
+~
+289 djuz 1
+D0
+~
+~
+0 -1 28910
+S
+#28915
+Feasting Lodge~
+   This is where the Norsc go to selebrate, something that often
+occurs, or simply just to have a meal. Large longtables edged by oak
+benches fill the lodge and there is a huge cauldron hanging over a
+small fire in the middle of the room. Huge barrels in the southeast
+corned bubbles merrily
+~
+289 duz 0
+D1
+~
+~
+0 -1 28916
+S
+#28916
+Just inside the entrance~
+   You are now just inside the pallisade, the small Norse camp has a
+plain and common atmosphere, you can hear people snoaring from the
+lodge to the east and you can smell food from the lodge to the west.
+Up ahead you can see a crossing with a huge pit in the middle and to
+the south is the gate to this camp.
+~
+289 uz 1
+D0
+~
+~
+0 -1 28909
+D1
+~
+~
+0 -1 28917
+D2
+~
+~
+0 -1 23007
+D3
+~
+~
+0 -1 28915
+S
+#28917
+Sleeping Lodge~
+   This is where the brave Norsc's go to sleep it of, tend their
+wounds and equipment. Straw madrasses and thick blankets cover the
+floor and a small fire edged by stones glows in the middle of the
+room.
+~
+289 cdetuz 0
+D3
+~
+~
+0 -1 28916
+S
+#28918
+The Pit~
+   You find yourself on the bottom of the pit, there is no turning
+back now. Dried blood and broken teeth cover the ground, the whole
+pit stinks of violent death. If you ended up here by misstake you
+would better leave, before someone with an old grudge find you here.
+~
+289 urz 1
+D4
+~
+~
+0 -1 28909
+S
+#99999
+$~
+

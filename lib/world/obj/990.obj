@@ -1,0 +1,880 @@
+#99000
+dagger fang quest_eq~
+A long curved fang <OLD>~
+The gleaming white curved fang of a giant snake.~
+~
+5 50 0 gny ano
+0 9 4 11 0 0
+0 0 0
+A
+19 10
+A
+23 10
+#99001
+diamond tablet thin quest_eq~
+a diamond tablet~
+A thin tablet made from a sparkling diamond.~
+~
+2 20 0 agiy a
+50 36 80 75 0 0
+1 1 1
+#99002
+roller blades rollerblades quest_eq~
+A pair of rollerblades~
+A black and purple pair of rollerblades~
+~
+9 20 0 bgny ago
+15 0 0 0 0 0
+5 12 1
+A
+14 50
+A
+13 25
+#99003
+tattoo tattoos rune magical quest_eq~
+Magical Rune Tattoos <OLD>~
+These magical rune tattoos twist and writhe making your head ache.~
+~
+9 40 0 abeghy aio
+12 0 0 0 0 0
+0 0 1
+A
+22 10
+A
+18 2
+#99004
+wyrm wyrmslayer sword slayer quest_eq~
+the wyrmslayer <OLD>~
+A sword covered in the blood of many dragons lies here.~
+~
+5 100 0 abgiy ano
+0 9 9 3 0 0
+15 0 0
+A
+18 6
+A
+19 15
+#99005
+bag holding quest_eq~
+a bag of holding~
+A small bag lies here.~
+~
+15 0 0 aby ao
+400 1 -1 0 0 0
+0 5 0
+#99006
+heart seeker heartseeker dagger quest_eq~
+the heartseeker <OLD>~
+A dagger covered in blood lies here.~
+~
+5 100 0 by ano
+0 7 8 11 0 0
+1 0 1
+A
+18 10
+A
+19 10
+#99007
+hex hexagonal string necklace quest_eq~
+a small hexagonal necklace <OLD>~
+A dark hexagonal object on a string lies here.~
+~
+9 30 0 y ac
+20 0 0 0 0 0
+6 0 1
+A
+4 -1
+A
+3 1
+#99008
+skin shark sha gren sha-gren quest_eq~
+a Sha-Gren skin <OLD>~
+The skin of a great shark lays in a crumpled heap.~
+~
+9 50 0 biy ak
+15 0 0 0 0 0
+0 0 0
+A
+19 2
+#99009
+mukluk boots boot quest_eq~
+a Mukluk~
+a small pair of mukluk boots lie here.~
+~
+9 60 0 bcy ag
+15 0 0 0 0 0
+8 15 0
+A
+13 30
+A
+19 2
+#99010
+aura light alcmene rod quest_eq~
+Aura of Alcmene <OLD>~
+a small powerful rod from the goddess Alcmene lies here.~
+~
+1 100 0 afiy ao
+0 0 -1 0 0 0
+10 0 0
+A
+18 3
+A
+19 4
+#99011
+dagger slayer quest_eq~
+a rabbit slayer <OLD>~
+A small dull-looking dagger lies here.~
+~
+5 23 0 gy ano
+0 3 6 11 0 0
+1 0 1
+A
+2 3
+A
+19 4
+#99012
+shield crystal quest_eq~
+the crystal shield <OLD>~
+A shield of pure crystal lies here.~
+~
+9 30 0 ay aj
+16 0 0 0 0 0
+10 0 1
+A
+1 2
+#99013
+hammer adamant quest_eq~
+an adamant hammer~
+A hammer of adamant lies here.~
+~
+5 24 0 by an
+0 4 8 7 0 0
+12 0 1
+A
+19 5
+#99014
+helmet diamond quest_eq~
+a diamond helmet <OLD>~
+A helmet of pure diamond lies here.~
+~
+9 30 0 ay ae
+12 0 0 0 0 0
+8 0 1
+A
+18 4
+#99015
+wings quest_eq~
+a pair of real wings <OLD>~
+A pair of real wings is sitting here.~
+~
+9 25 0 gy ak
+0 0 0 0 0 0
+0 0 0
+B B
+#99016
+ring invis invisibility quest_eq~
+a ring of invisibility~
+A plain metal ring has been left here.~
+~
+11 25 0 gy ab
+1 0 0 0 0 0
+10 0 0
+B b
+#99017
+amulet quest_eq~
+an amulet~
+A weird shaped amulet lies on the ground.~
+~
+9 45 0 gy ac
+0 0 0 0 0 0
+2 0 0
+B D
+#99018
+morning star quest_eq~
+an morning star~
+An morning star with nasty spikes lies here.~
+~
+5 24 0 by an
+0 6 6 8 0 0
+12 15 0
+A
+19 6
+A
+18 6
+#99019
+Rigel's Ultimate Slayer quest_eq~
+Rigel's slayer <OLD>~
+You can see Rigels slayer floating in the air. WOW.~
+~
+5 35 0 bgy an
+0 7 7 6 0 0
+10 0 0
+E
+rigel's slayer~
+When you look at this..weapon (you find i hard to do so) you find that it ise of
+inscription made by some metal strings of a kind you have never seen.
+ This weapon, wich is a kind morning star, is probably the most deadly 
+weapon you have ever seen, since it also (how you don't have a clue) VERY sharp.
+~
+E
+text inscription~
+The inscription says: THE SECRET OF THIS MUD IS: (Look on the other side)
+~
+E
+next other otherside~
+FOR ASTONISHING INFORMATION LOOK ON THE OTHER SIDE !!!
+~
+A
+18 5
+A
+19 5
+#99020
+rigel's breast breastplate crystalplate quest_eq~
+Rigel's crystal breastplate. <OLD>~
+A breastplate made of gold and crystal levitates here.~
+~
+9 90 0 y ad
+50 90 0 0 0 0
+18 0 1
+E
+crystalplate breastplate plate beast rigel's~
+ This magnificant breastplate is shimmering and vibrating as you watch it.
+ It seems to be made mostly of some soft crystal and with some golden symbols
+cut into it.
+ This is probably the best Armor you have ever seen.
+~
+A
+12 50
+A
+13 75
+A
+19 2
+A
+24 20
+#99021
+Rigel's arm armplates quest_eq~
+Rigel's impressive crystal armplates. <OLD>~
+ Some VERY impressive armplates levitates here.~
+~
+9 80 0 y ai
+12 80 0 0 0 0
+18 0 1
+E
+Rigel's arm armplates~
+WOW!!! You have never seen such impressive armplates before. They seem to be mad
+into them.
+~
+A
+1 2
+A
+13 100
+A
+18 1
+A
+19 1
+#99022
+Rigel's leg legplates quest_eq~
+Rigel's mindblowing legplates <OLD>~
+Some EXTREMELY mindblowing legplates levitates here.~
+~
+9 60 0 y af
+10 80 0 0 0 0
+18 0 1
+E
+rigel's leg legplates mindblowing~
+ This is probably some of the most impressive and mindblowing leg protections
+you have ever seen in your entire life (wich will be short if rigel see you any
+of his items). They seem to be made of some kind of soft,indestructable crystal.
+ You feel one extreme need to wear this beautiful leg armor as you with envy 
+look at them....
+~
+A
+14 100
+A
+18 2
+A
+19 1
+#99023
+Rigel's bogus shoe shoes quest_eq~
+Rigel's weird shoes <OLD>~
+Some extremely weird shoes levitates here.~
+~
+9 60 0 y ag
+20 80 0 0 0 0
+18 0 1
+E
+rigel's weird shoe shoes~
+ As you look at the shoes you start to feel an mindblowing headache. Perhaps
+ the reason to the headache is that whoever made the shoes has atleast 10-15
+more dimensions than your 3.... So for your own good: STOP STARING AT THE SHOES
+OK !?!?!?!
+~
+A
+2 3
+A
+5 3
+A
+14 50
+#99024
+light sabre green quest_eq~
+a green Light Sabre~
+a green light sabre lies here.~
+~
+1 90 0 abkly ao
+0 0 -1 0 0 0
+0 20 0
+A
+18 8
+#99025
+light sabre blue quest_eq~
+a blue Light Sabre~
+a blue light sabre lies here.~
+~
+1 90 0 abjky ao
+0 0 -1 0 0 0
+0 30 0
+A
+18 5
+A
+19 5
+#99026
+light sabre red quest_eq~
+a red Light Sabre~
+a red light sabre lies here.~
+~
+1 90 0 abjly ao
+0 0 -1 0 0 0
+0 20 0
+A
+19 8
+#99027
+cue quest_eq~
+A golden pool cue~
+A golden pool cue lies here glowing with a strange orange glow.~
+~
+5 35 0 ay an
+0 4 5 6 0 0
+15 50 0
+E
+cue~
+A golden pool cue glows with a strange orange glow.
+~
+A
+1 3
+A
+17 -50
+#99028
+aura alcmene quest_eq~
+an Aura of Alcmene~
+A sparkling aura is trying to hide near your foot.~
+~
+1 100 0 afgy ao
+0 0 -1 0 0 0
+1 28 0
+A
+17 -25
+#99029
+mirror amaterasu quest_eq~
+the Mirror of Amaterasu~
+An ornately crafted silver mirror looks at you reflectively.~
+~
+1 100 0 agy ao
+0 0 -1 0 0 0
+1 30 0
+A
+12 100
+A
+12 50
+#99030
+ring mind mist shielding cloudy quest_eq~
+a ring of mind shielding~
+A cloudy ring filled with swirling mist immediately catches your attention.~
+~
+9 80 0 agy ab
+30 80 0 0 0 0
+1 25 0
+A
+18 1
+A
+19 1
+A
+24 8
+#99031
+ring jade glittering quest_eq~
+a glittering jade ring~
+A beautiful jade ring glitters across the room.~
+~
+9 40 0 agy ab
+15 40 0 0 0 0
+1 15 0
+A
+18 2
+A
+19 2
+A
+13 25
+#99032
+ring iridium quest_eq~
+an iridium ring~
+A tiny ring made of iridium twinkles at you.~
+~
+9 30 0 agy ab
+15 30 0 0 0 0
+1 15 0
+A
+4 2
+A
+3 2
+A
+12 75
+A
+24 5
+#99033
+necklace hexagonal glass quest_eq~
+a small hexagonal necklace~
+An intricate necklace made from little glass hexagons looks interesting.~
+~
+9 40 0 agy ac
+20 30 0 0 0 0
+1 20 0
+A
+13 40
+#99034
+cape emerald green quest_eq~
+a flashy green emerald cape~
+A stunning cape, covered with emerald almost blinds you with its radiance.~
+~
+9 90 0 agy ac
+20 90 0 0 0 0
+1 25 0
+A
+12 100
+#99035
+inix shell armour armor quest_eq~
+an inix shell armour~
+You imagine that large inix shell would make good armour.~
+~
+9 60 0 agy ad
+40 60 0 0 0 0
+1 25 0
+A
+13 75
+A
+13 75
+#99036
+rigels rigel crystal breastplate quest_eq~
+Rigel's crystal breastplate~
+A magnificent crystal breastplate hovers in the centre of the room.~
+~
+9 90 0 agy ad
+50 90 0 0 0 0
+1 35 0
+A
+13 80
+A
+12 100
+A
+24 20
+A
+19 2
+#99037
+diamond helmet quest_eq~
+a diamond helmet~
+A helmet looks like it has been carved from a single diamond.~
+~
+9 30 0 agy ae
+12 30 0 0 0 0
+1 20 0
+A
+18 4
+A
+19 2
+#99038
+crystal visor quest_eq~
+the Crystal Visor~
+An incredibly clear visor sits almost at your feet.~
+~
+9 90 0 afgy ae
+30 90 0 0 0 0
+1 35 0
+A
+13 100
+A
+12 75
+A
+12 75
+#99039
+rigels rigel mindblowing crystal legplates quest_eq~
+Rigel's mindblowing crystal legplates~
+Some mindblowing legplates hover before you.~
+~
+9 90 0 afgy af
+20 90 0 0 0 0
+1 30 0
+A
+18 2
+A
+19 1
+A
+14 50
+#99040
+silver knight spurs pair quest_eq~
+a pair of silver knight spurs~
+Some glittering spurs are waiting for someone worthy to take them.~
+~
+9 70 0 agy ag
+12 70 0 0 0 0
+1 15 0
+A
+18 4
+A
+19 2
+#99041
+rigels rigel wierd shoes quest_eq~
+Rigel's wierd shoes~
+Some wierd shoes catch your eye.~
+~
+9 90 0 agy ag
+20 90 0 0 0 0
+1 30 0
+A
+12 50
+A
+14 100
+A
+19 3
+#99042
+minstrels minstrel gloves quest_eq~
+a minstrel's gloves~
+A wandering minstrel appears to have left his gloves behind.~
+~
+9 50 0 agy ah
+12 50 0 0 0 0
+1 20 0
+A
+18 3
+A
+19 3
+A
+12 40
+#99043
+gauntlets pair authority quest_eq~
+gauntlets of authority~
+A huge pair of gauntlets ORDER you to pick them up and wear them.~
+~
+9 90 0 agy ah
+15 90 0 0 0 0
+1 25 0
+A
+18 5
+A
+19 5
+A
+13 50
+#99044
+wings pair real quest_eq~
+a pair of real wings~
+A pair of lovely wings flutter gently on the ground.~
+~
+9 45 0 agy ai
+12 45 0 0 0 0
+1 10 0
+A
+12 50
+B B
+#99045
+magical rune tattoos quest_eq~
+Magical Rune tattoos~
+You feel the urge to wear these tattoos proudly.~
+~
+9 40 0 agy ai
+12 40 0 0 0 0
+1 15 0
+A
+18 4
+A
+19 1
+#99046
+rigels rigel impressive crystal armplates quest_eq~
+Rigel's impressive crystal armplates~
+An impressive pair of crystal armplates float before your eyes.~
+~
+9 90 0 agy ai
+20 90 0 0 0 0
+1 35 0
+A
+18 1
+A
+19 2
+A
+13 100
+#99047
+crystal shield quest_eq~
+the Crystal shield~
+A shield carved from a single crystal would offer excellent protection.~
+~
+9 30 0 agy aj
+16 30 0 0 0 0
+1 17 0
+A
+13 50
+A
+12 50
+#99048
+sha gren shagren skin quest_eq~
+a Sha-Gren skin~
+A thick Sha-Gren skin lies in a heap on the floor.~
+~
+9 55 0 agy ak
+20 55 0 0 0 0
+1 20 0
+A
+19 2
+A
+13 30
+#99049
+smooth black leather cape quest_eq~
+a smooth black leather cape~
+A shiny smooth black cape lies at your feet.~
+~
+9 1 0 agy ak
+8 1 0 0 0 0
+1 10 0
+A
+18 3
+#99050
+jia sha jiasha quest_eq~
+Jia-Sha~
+You see Jia-Sha on the ground! Better grab it quick!~
+~
+9 100 0 agy ak
+25 100 0 0 0 0
+1 28 0
+A
+12 100
+A
+24 10
+#99051
+mithril battle girth quest_eq~
+a mithril battle girth~
+A wide girth made from mithril longs to go into battle once more.~
+~
+9 70 0 agy al
+20 70 0 0 0 0
+1 25 0
+A
+18 2
+A
+19 2
+#99052
+demonic tattoo quest_eq~
+a demonic tattoo~
+A demonic tattoo has it's eye on your wrist.~
+~
+9 75 0 agjy am
+12 75 0 0 0 0
+1 25 0
+A
+19 5
+#99053
+jade bracers pair quest_eq~
+a pair of jade bracers~
+A pair of ornately carved jade bracers have been placed here carefully.~
+~
+9 65 0 agy am
+15 40 0 0 0 0
+1 35 0
+A
+18 3
+A
+19 3
+A
+13 50
+#99054
+axe soul reaver quest_eq~
+the Soul-Reaver~
+A evil axe glares at you from across the room.~
+~
+5 100 0 aegy an
+100 9 9 3 0 0
+8 30 0
+A
+18 12
+A
+19 15
+#99055
+wyrmslayer wyrm quest_eq~
+the Wyrmslayer~
+A HUGE sword itches to slay evil.~
+~
+5 100 0 aigy an
+100 9 9 3 0 0
+8 30 0
+A
+18 12
+A
+19 15
+#99056
+sunblade quest_eq~
+the Sunblade~
+A fabulous blade shines like the sun.~
+~
+5 40 0 aguy an
+40 7 7 3 0 0
+1 25 0
+A
+18 7
+A
+19 8
+#99057
+rabbit slayer quest_eq~
+a rabbit slayer~
+This weapon looks made for killing rabbits.~
+~
+5 35 0 agy an
+35 5 6 11 0 0
+8 15 0
+A
+18 5
+A
+19 6
+#99058
+long curved fang quest_eq~
+a long curved fang~
+A long fang gleams dangerously.~
+~
+5 50 0 agy an
+50 4 9 11 0 0
+1 15 0
+A
+18 10
+A
+19 10
+#99059
+heartseeker heart seeker quest_eq~
+the Heartseeker~
+A long bladed heartseeker lusts for blood!~
+~
+5 100 0 agy an
+100 6 10 11 0 0
+1 40 0
+A
+18 12
+A
+19 12
+#99060
+chessboard quest_eq~
+a chessboard~
+A heavy marble chessboard lies here.~
+~
+9 3 0 y ajo
+8 0 0 0 0 0
+10 5 0
+A
+3 1
+A
+4 1
+A
+12 25
+#99061
+poison dagger quest_eq~
+a poisoned dagger~
+An dagger lies here, in a pool of green liquid.~
+~
+5 15 0 y an
+0 5 5 11 0 0
+0 10 0
+A
+19 3
+A
+18 3
+#99062
+girdle quest_eq power~
+a girdle of power~
+A girdle lies here collecting dust.~
+~
+9 35 0 gy al
+18 0 0 0 0 0
+3 20 0
+A
+24 25
+#99063
+flail barbed iron quest_eq~
+an iron barbed flail~
+A rusty iron flail with wicked barbs on it tears at the ground.~
+tear~
+5 1 0 by an
+0 5 3 5 0 0
+14 5 0
+A
+18 3
+A
+19 3
+#99064
+bear teddy teddybear quest_eq~
+a teddybear called Qualen~
+A battered but cuddly-looking teddybear lies here.~
+~
+9 1 0 y aj
+6 0 0 0 0 0
+4 3 0
+E
+bear teddy teddybear~
+On a collar around it's head stands:
+"Hello! My name is Qualen.  Cuddle me and I'll love you always."
+~
+A
+6 4
+Proc(social_object)
+#99097
+token oedit~
+an Oedit token~
+A tiny token is worth exactly #RONE#N oedit.~
+~
+12 1 0 aynh a
+1 0 0 0 0 0
+1 1 0
+E
+token oedit~
+This token can be exchanged for an item oedit of your choice. You need
+to own the item you want oedited, and take it (along with this token) to
+a level 113 Immortal.
+
+You can change the following things for you item:
+
+Its name
+Its list of keywords
+Its description (as seen lying on the ground)
+
+You cannot change any of the items stats. Items which cause offense will
+not be permitted. This token #RCANNOT#N be exchanged for quest points, 
+only an oedit.
+~
+#99098
+crown pk champion~
+EliteMUD's PK Championship Crown~
+A priceless crown lies here, for EliteMD's greatest PKer~
+~
+9 100 0 gzy 17
+40 0 0 0 0 0
+10 0 0
+A
+13 100
+A
+18 5
+A
+19 5
+A
+24 20
+B BD
+#99099
+portal~
+#Mportal#N~
+#MA test portal#N~
+~
+26 1 0 0 0
+-1 0 -1 -1 -1 -1
+0 0 0
+#99999
+$~
+

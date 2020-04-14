@@ -1,0 +1,1105 @@
+#7500
+Cavernous Gate~
+   As you enter the area you notice a giant boulder blocking your path.
+Upon closer inspection it seems that there is a large iron gate in the
+center of the boulder which leads to the area beyond. The only other
+exit appears to be back south the way you came.
+~
+75 ac 4
+D0
+You see a large iron gate with hand rings for opening. The rings
+appear to be as big as a human head.
+~
+gate door~
+1 -1 7501
+D2
+The path leads back the way you came.
+~
+~
+0 -1 580
+S
+#7501
+Beyond the Gate~
+   The room here is remarkably clean for the inside of a cave. Dim torch
+light lines the walls as if someone has been through here recently. More
+torches line the walls to the east and the gate is back to the south.
+~
+75 d 4
+D2
+You see a large iron gate with hand rings for opening.
+~
+door gate~
+1 -1 7500
+D1
+The dimly lit hall stretches onward.
+~
+~
+0 -1 7502
+S
+#7502
+Inside South Gate~
+   The room here is well lit by torches as well but the only occupants
+you see are the small spiders and rats which pass before you from time
+to time. There is a large sculpture of some being who you have never
+seen before sitting in the corner of the room. From here it appears you
+can go north or east but the rooms beyond no longer have a source of
+light to guide you.
+~
+
+75 d 4
+D0
+The passage leads of into the darkness.
+~
+~
+0 -1 7503
+D1
+The passage leads into the darkness.
+~
+~
+0 -1 7514
+D3
+A passage leads into the darkness.
+~
+~
+0 -1 7501
+E
+sculpture statue~
+the statue has the eyes of a demon and they seem to burn right through
+anyone who looks at it.
+~
+S
+#7503
+Cave West Passage~
+   The passage is covered in the bones of some humanoid figure or maybe
+several you cant really tell. There is a small humming noise coming from
+the north but you cant make out exactly where. The passage also leads
+south into the darkness.
+~
+75 ad 4
+D0
+The passage leads off into the darkness.
+~
+~
+0 -1 7504
+D2
+The passage leads off into the darkness.
+~
+~
+0 -1 7502
+
+S
+#7504
+Middle West Passage~
+   The room contains a weapons rack along the west wall but anything
+here is far too old to be of any use or already broken. There is an oak
+door in the east wall which is usually closed. The passage also
+continues up some 40 feet above.
+~
+75 ad 4
+D0
+A rocky cliff ledge can be barely made out some 40 feet up.
+~
+~
+0 -1 7507
+D1
+There is an oak door here.
+~
+oak door~
+1 -1 7505
+D2
+A passage leads into the darkness.
+~
+~
+0 -1 7503
+S
+#7505
+Alchemist's Study~
+   It is almost immediately apparent that this room belongs to the
+alchemist. Broken potion bottles lay everywhere here and there seems to
+be a small chest in the northwest corner of the room. There is an oak
+door to the west here and strangely enough a window in the north wall.
+~
+75 adn 4
+D3
+There is an oak door here.
+~
+oak door~
+
+1 -1 7504
+D0
+You see a small window.
+~
+small window~
+2 7500 7506
+S
+#7506
+Beast Lair~
+   The room here is covered in some type of some strange animal
+droppings.  From the size of the claw marks in the floor a very large
+animal. If its not here count yourself lucky and take the exit to the
+south.
+~
+75 adu 4
+D2
+You see a small window.
+~
+small window~
+2 7500 7505
+S
+#7507
+Cliff Edge~
+
+   From where you stand now you can see that the room is really only a
+small ledge. Tracks here show that the ledge is used quite often though.
+The ledge continues to the west and the passage leads down to the south 
+as well.
+~
+75 ad 5
+D3
+The small ledge continues to the west.
+~
+~
+0 -1 7508
+D2
+The rocky cliff leads into the darkness below.
+~
+~
+0 -1 7504
+S
+#7508
+Upper Cavern~
+   The room you see has obviously had a lot of work put into it. Someone
+has hand carved out of the rocks a set of stairs. The stairs lead up
+to the north into the darkness and there is a passage to the east 
+here as well.
+~
+75 ad 5
+D0
+A set of stairs leads off into the darkness.
+~
+~
+0 -1 7509
+D1
+A small ledge continues to the east.
+~
+~
+0 -1 7507
+S
+
+#7509
+Northeast Balcony~
+   Upon exiting the stairway you come upon a large stone balcony. There
+seems to be several pictures here placed on the north wall of strange
+creatures. The balcony continues to the west and there is a red colored
+door to the east.
+~
+75 ad 5
+D3
+The balcony leads off into the darkness.
+~
+~
+0 -1 7511
+D1
+You see a red door to the east here.
+~
+door red~
+1 -1 7510
+
+D2
+A passage leads into the darkness.
+~
+~
+0 -1 7508
+E
+door red~
+there is a strange language on the door but you can make out the word
+danger.
+~
+E
+picture~
+along all the pictures you see a name followed by another name in large
+letters and discover this is sort of a record of kills by the person in
+large letters.
+~
+S
+#7510
+Beyond the Red Door~
+   Apparently the construction crew forgot to finish this room. As you
+enter you notice the floor is missing. You drop some 75 feet to the cave
+bottom below. Miraculously you notice that only your legs are broken and
+you are going to survive. Unfortunately you discover you have landed in
+a lake of quicksand though and you sink to the bottom and die.
+~
+75 bcd 5
+D3
+~
+~
+1 -1 7509
+S
+#7511
+Northwest Balcony~
+   Nothing seems out of the ordinary in this room. The stone balcony
+continues to the east and the west from here. There is also another
+large sculpture in this room that resembles the one you seen before.
+~
+75 ad 5
+D1
+The balcony continues off into the darkness.
+~
+~
+0 -1 7509
+D3
+The balcony continues off into the darkness.
+~
+
+~
+0 -1 7512
+S
+#7512
+Balcony End~
+   From here the balcony leads off north into the darkness and the
+passage leads to the east as well. One major difference though is that
+the stone floor no longer exists but is now made of marble instead.
+There is some more strange writing on the wall here as well.
+~
+75 ad 5
+D1
+The balcony continues off into the darkness.
+~
+~
+0 -1 7511
+D0
+The passage disappears into the darkness.
+~
+~
+0 -1 7513
+E
+writing~
+You have entered the home of Atrolicus master giant. Turn back while you
+still can.
+~
+S
+#7513
+Forbidden Passage~
+   As you enter the room you see a very large statue of a knight. It is
+wearing full platemail and carrying a massive shield. You notice some
+small writing on its shield. There is also a passage to the south here.
+~
+75 acd 5
+D2
+The passage disappears into the darkness.
+~
+~
+0 -1 7512
+D4
+You hear a faint humming coming from this direction.
+~
+gate door~
+2 7501 7530
+E
+statue shield knight~
+
+What is beyond this door above is a great evil. I have set up a gate to
+keep it out and my diamond sword is the only thing that can take it
+down. To pass you must get it.
+~
+S
+
+#7514
+South Wall~
+   The room here is about 50 feet from one end to the other. There is
+only a small walkway big enough for one person at a time here and the
+floor is covered with stalagmites. The passage runs east and west into
+the darkness but better watch your step.
+~
+75 adi 5
+D3
+The passage leads into the darkness.
+~
+~
+0 -1 7502
+D1
+The passage leads into the darkness.
+~
+~
+0 -1 7515
+S
+#7515
+Southeast Corner of Passage~
+   The most distinguishable feature as you enter this room is the small
+lake in the center. The water of the lake is crystal clear and appears
+to be running off to the north. There is also a passage to the west here
+as well.
+~
+75 ad 4
+D3
+The passage leads into the darkness.
+~
+~
+0 -1 7514
+D0
+You notice a light off in this direction.
+~
+~
+0 -1 7516
+S
+#7516
+Garden Area~
+   As you enter you see many types of plants here which most you dont
+recognize. The area is very bright as too get the needed light for the
+plants and yet you can seem to find a light source. The lake continues
+through the garden to the east here and there is a passage to the south
+as well.
+~
+75 d 4
+D2
+There is a passage that leads off into the darkness.
+~
+~
+0 -1 7515
+D1
+All you can see is plants this direction.
+~
+~
+0 -1 7517
+S
+#7517
+Middle Garden~
+   As you enter the area you finally discover what was making the
+humming noise. There are millions of bees all over the area. The garden
+and the lake lead to the east and the west here.
+~
+75 cdx 4
+D1
+The garden leads off to the east.
+~
+~
+0 -1 7518
+D3
+The garden leads off to the west.
+~
+~
+0 -1 7516
+S
+#7518
+Garden End~
+   You finally come to the end of the garden and meet up with a large
+stone wall. The lake seems to have entirely disappeared from sight
+however.  The garden leads to the west here.
+~
+75 d 4
+D3
+Large plants are everywhere in sight.
+~
+~
+0 -1 7517
+D1
+You see a large stone wall.
+~
+stone wall~
+1 -1 7519
+S
+#7519
+Secret Chamber~
+   The entire room is decorated with medals of honor and trophies to
+match.  The lake as you have now discovered went here and flows through
+a narrow opening in the ground. The hall continues through the stone
+wall to the west or to the north as well.
+~
+75 ad 4
+D3
+You see a large stone wall.
+~
+stone wall~
+1 -1 7518
+D0
+The hall leads off into the darkness.
+~
+~
+0 -1 7520
+S
+#7520
+Court Beginning~
+   As you enter you notice a red carpet running down the center of the
+hall and disappearing to the north. There are two large golden statues
+here on either side of the passage. Both statues appear to be great
+warriors decorated for battle. The passage also leads to the south as
+well.
+~
+
+75 ad 4
+D2
+The passage disappears into the darkness.
+~
+~
+0 -1 7519
+D0
+The red carpet runs off to the north.
+~
+~
+0 -1 7521
+S
+#7521
+Banquet Hall~
+   There is a large table in this room that stretches from end to end.
+It appears to be set up for a great feast and looks like about 30 people
+will be attending. The walla are covered with brightly colored
+tapestries and most have the name Atrolicus on them. The red carpet runs
+out the door to the north and south here.
+~
+75 d 4
+D0
+The red carpet runs out the door to the north.
+~
+~
+0 -1 7522
+D2
+The red carpet runs out the door to the south.
+~
+~
+0 -1 7519
+S
+#7522
+Court End~
+   The red carpet comes to an end here and the two large golden statues
+are present here as well. There is a set of large double doors to the
+north with a symbol of a lightning bolt across them. The passage leads
+to the south as well.
+~
+75 ad 4
+D0
+A set of large double doors lies ahead.
+~
+doors large double door~
+1 -1 7523
+D2
+
+The red capet runs to the south here.
+~
+~
+
+0 -1 7521
+S
+#7523
+Main Barracks~
+   The area here appears to be some type of training grounds. There are
+remains of broken weapons and armor laying on the floor and huge targets
+lining the walls at the opposite end of the room. There appears to be a
+large crystal door on the west wall and a large diamond door to the east
+here.
+~
+75 ad 4
+D3
+A large crystal door is here.
+~
+door crystal~
+1 -1 7524
+D1
+A large diamond door is here.
+~
+diamond door~
+1 -1 7526
+D2
+A set of large double doors lies ahead.
+~
+doors large double door~
+1 -1 7522
+S
+#7524
+Southwest Corner of Barracks~
+This room appears to be some sort of sleeping quarters. Several large
+mats are placed on the floor here and all appear to have been used
+recently. There is a large wooden door to the north and a large crystal
+door to the east here as well.
+~
+75 ad 4
+D0
+A large wooden door is here.
+~
+wooden door~
+1 -1 7525
+D1
+A large crystal door is here.
+~
+crystal door~
+1 -1 7523
+S
+#7525
+Northwest Corner of Barracks~
+   The room here contains a large weapons rack with a vast assortment of
+different weapons. Some appear to be too large and heavy to use however
+there may be something to your approval here. The passage to the south
+appears to be the only exit here.
+~
+75 ad 4
+D2
+A large wooden door is here.
+~
+wooden door~
+1 -1 7524
+S
+#7526
+Southeast Corner of Barracks~
+   The room here appears to be the sleeping quarters of several large
+figures. Mats lie on the floor which appear to have been used recently
+and some half eaten bread is laying in the corner of the room. There is
+a large diamond door to the west here and a passage that leads north as
+well.
+~
+75 ad 4
+D3
+A large diamond door is here.
+~
+diamond door~
+1 -1 7523
+D0
+A passage leads off into the darkness.
+~
+~
+0 -1 7527
+S
+#7527
+Northeast Corner of Barracks~
+   As you enter the room the first thing you notice is an extremly large
+map on the east wall. The map has about 20 large red X marks on it in
+various assorted places. There is also a very large table in the center
+of the room and exits to the south and west here as well.
+~
+75 ad 4
+D2
+A passage leads off into the darkness.
+~
+~
+0 -1 7526
+D3
+A passage leads off into the darkness.
+~
+~
+0 -1 7528
+S
+#7528
+Inner Sanctum~
+   Along the north wall is a huge waterfall that empties into a large
+light green colored pool in the center of the room. Along the west wall
+sits a huge golden throne surrounded by two huge golden statues of
+dragons.  There is a passage to the east here and you seem to see a
+small grate in the center of the pool here as well. 
+~
+75 adu 4
+D1
+A passage leads into the darkness.
+~
+~
+0 -1 7527
+D5
+A small grate lies beneath the water.
+~
+grate small~
+2 7502 7529
+S
+#7529
+Pool Cavern~
+   There is a large chest directly in the center of this room on a small
+ledge. The water surrounds the ledge but so far you don't see anything 
+in the water that looks threatening. The only exit you see is up through
+the grate.
+~
+75 adu 6
+D4
+A small grate is here.
+~
+grate small~
+2 7502 7528
+
+S
+#7530
+Beyond Balcony~
+   The room here has been carefully constructed just like the previous
+rooms on the balcony. There is a large diamond hand railing running
+along the room and dissapearing to the north. The only other exit
+appears to be down the stairs.
+~
+75 ad 5
+D0
+A passage leads into the darkness.
+~
+~
+0 -1 7531
+D5
+You hear a faint humming coming from this direction.
+~
+gate door~
+2 7501 7513
+S
+#7531
+Southeast Hallway~
+   The room here is of the same construction as the other however very
+poorly cared for. Creatures of various kinds wander the halls here
+although none seem to dangerous. A passage leads to the south and to the
+east here.
+~
+75 ad 5
+D2
+A passage leads into the darkness.
+~
+~
+0 -1 7530
+D1
+A passage leads into the darkness.
+~
+~
+0 -1 7532
+S
+#7532
+South Wall~
+   This room appears to be used as a bathroom for the current occupants.
+There is a chamber pot set in the corner and the smell is almost enough
+to kill you. The passage leads to the north and west here.
+~
+75 d 5
+D3
+A passage leads into the darkness.
+~
+~
+0 -1 7531
+D0
+A passage leads into the darkness.
+~
+~
+0 -1 7533
+S
+#7533
+East Wall~
+   The room is made entirely of polished brown stone. Rows of pillars
+support the ceiling approximately 12 feet overhead. There is a passage
+to the north and south and a door to the east here as well.
+~
+75 ad 5
+D0
+A passage leads off into the darkness.
+~
+~
+0 -1 7535
+D2
+A passage leads off into the darkness.
+~
+~
+0 -1 7532
+D1
+You see a large iron door here.
+~
+iron door~
+1 -1 7534
+S
+#7534
+Private Chamber~
+   This small room is lit by a hanging lamp of dull metal. It contains a
+bed,chair,and small table. A large iron door to the west appears to be
+the only exit.
+~
+75 ad 5
+D3
+A large iron door is here.
+~
+iron door~
+1 -1 7533
+S
+
+#7535
+Room of Battle~
+   As you walk in you see many colorful paintings of great battles in
+the realm of Elite. What is most interesting is that the paintings of
+battles are actually alive. There is a passage to the south and to the
+west here as well.
+~
+75 ad 5
+
+D2
+A passage leads into the darkness.
+~
+~
+0 -1 7533
+D3
+A passage leads into the darkness.
+~
+~
+0 -1 7536
+E
+paintings painting~
+As you peer closer you recognize the great gods of elite such as
+Helm, IO, Phobos, and Kaleen doing battle with the forces of evil.
+~
+S
+#7536
+North Hall~
+   This large chamber is empty and bare. The polished stones of its
+floor are exceptionally smooth and close fitted. Each sound here causes
+a very alarming echo throughout. There is a passage to the east and west
+here as well as a large golden door to the north.
+~
+75 ad 5
+D0
+You see a large golden door here.
+~
+golden door~
+1 -1 7537
+D1
+A passage leads into the darkness.
+~
+~
+0 -1 7535
+D3
+A passage leads into the darkness.
+~
+~
+0 -1 7538
+S
+#7537
+Lost and Found~
+   This large chamber was once an extensive library. Charred books and
+scraps of burnt or torn scrolls lie everywhere. A large golden door to
+the south appears to be the only exit here.
+~
+75 ad 5
+D2
+
+A large golden door is here.
+~
+golden door~
+1 -1 7536
+S
+#7538
+North Corridor~
+   This plain room is unfurnished except for a thick carpet on the
+floor.  It's walls are solid stone blocks, closely set and polished.
+There is a passage to the east and west here.
+
+~
+75 ad 5
+D1
+A passage leads off into the darkness.
+~
+~
+0 -1 7536
+D3
+A passage leads off into the darkness.
+~
+~
+0 -1 7539
+S
+#7539
+Display Room~
+   The room is covered wall to wall with gruesome looking weapons of
+death.  Unfortunately most of the items have been locked in cases and it
+does not look like they have kept well. There is a passage to the east
+and west here as well.
+~
+75 ad 5
+D1
+A passage leads off into the darkness.
+~
+~
+0 -1 7538
+D3
+A passage leads off into the darkness.
+~
+~
+0 -1 7540
+S
+#7540
+West Wall~
+   This room is obviously one of great importance. It is decorated with
+tapestries with scenes of great battles from long ago. There are exits
+to the north and south as well as a passage to the east here.
+~
+75 ad 5
+D1
+A passage leads into the darkness.
+~
+~
+0 -1 7539
+D0
+A passage leads into the darkness.
+~
+~
+0 -1 7541
+D2
+A passage leads into the darkness.
+~
+~
+0 -1 7542
+S
+#7541
+Northwest Corner Passage~
+   Strange runes cover the walls of the entire room. A set of marble
+stairs dissapear up into the darkness in the northwest corner of the
+room. You also see a passage that wanders off to the south as well.
+~
+75 ad 5
+D2
+A passage leads into the darkness.
+~
+~
+0 -1 7540
+D4
+Stairs lead up into the darkness.
+~
+~
+0 -1 7545
+S
+#7542
+Southwest Corner Passage~
+   The room is made up entirely of black stone and covered with strange
+runic symbols. There is a large onyx black door to the west and a
+passage that leads to the north here. You notice a very large sign
+hanging on the door as well.
+~
+75 ad 5
+D0
+A passage leads into the darkness.
+~
+~
+0 -1 7540
+D3
+
+A large black onyx door is here.
+~
+black onyx door~
+1 -1 7543
+E
+sign~
+Holding Cells Keep Out!
+~
+S
+#7543
+Ruined Passage~
+   The room here although rather large is barely passable. The ceiling
+has collapsed slightly due to age and now parts of it lie here. There is
+a passage to the south and to the east here.
+~
+75 adi 5
+D1
+A large black onyx door is here.
+~
+black onyx door~
+1 -1 7542
+D2
+A passage leads into the darkness.
+~
+~
+0 -1 7544
+S
+#7544
+Holding Cell~
+   The room is covered in debris from one corner to the other here. You
+notice some rusted and broken chains sticking out of the wall and
+realize that this used to be where the captives were held. The only
+visible exit appears to be to the north.
+~
+75 ad 5
+D0
+A passage leads into the darkness.
+~
+~
+0 -1 7543
+S
+#7545
+Stairs End~
+   As you reach the top of the staircase you notice something strange.
+It appears you are no longer walking on solid ground but the floor has
+vanished completely. Fortunately the walls remain to guide you and you
+can see a passage to the east and stairs leading down here.
+~
+75 ad 9
+D5
+A staircase leads down into the darkness.
+~
+
+~
+0 -1 7541
+D1
+A passage leads into the darkness.
+~
+~
+0 -1 7546
+S
+#7546
+Main Hall~
+   The room here is decorated in tapestries depicting many great
+battles. A  faint trail of blood runs along the floor and dissapears to
+the north.  Another passage leads to the west here as well.
+~
+75 ad 9
+D0
+A passage leads into the darkness.
+~
+~
+0 -1 7547
+D3
+A passage leads into the darkness.
+~
+
+~
+0 -1 7545
+S
+#7547
+Trophy Room~
+   As you enter you see one of the most disgusting sites you have seen
+in your life. This is not your typical trophy room but is displaying the
+heads of all the unfortunate victims that have come this way. Exits lead
+to the north and south here, better pick one while you still have your
+head.
+~
+75 ad 9
+D0
+A passage leads into the darkness.
+~
+~
+0 -1 7548
+D2
+A passage leads into the darkness.
+~
+~
+0 -1 7546
+E
+head~
+A head stares back at you with a gaze as cold as ice. You would swear
+you heard it murmur run!
+~
+S
+#7548
+Room of Dead~
+   Skeletons lie all over the ground here and you can hear the crunch as
+you walk on them. There are exits in all four directions here. You can
+hear screams of horror and pain echo all through this room.
+~
+75 adg 9
+D0
+A passage leads into the darkness.
+~
+~
+0 -1 7553
+D2
+A passage leads into the darkness.
+~
+~
+0 -1 7547
+D1
+A passage leads into the darkness.
+~
+~
+0 -1 7551
+D3
+A passage leads into the darkness.
+~
+~
+
+0 -1 7549
+S
+#7549
+Window In South Wall~
+   The small room here is dirty and dusty as if unused for ages. A small
+window displays the outer lands of elite as best can be seen. The
+passage leads to the east and west here.
+~
+75 ad 9
+D1
+A passage leads into the darkness.
+~
+~
+0 -1 7548
+D3
+A passage leads into the darkness.
+~
+~
+0 -1 7550
+S
+#7550
+Corridor End~
+   This appears to be the remains of an old mages laboratory. Items are
+scattered here and there and there is a burnt sigil in the floor. The
+only you exit you see is a passage to the east.
+~
+75 ad 9
+D1
+A passage leads into the darkness.
+~
+~
+0 -1 7549
+S
+#7551
+Supply Room~
+   This room appears to be a supply room for many different types of
+objects. Most you have no idea what they are and others are worn out
+beyond repair but there may be a few things you can use here. A passage
+leads to the east and to the west here.
+~
+75 ad 9
+D1
+A passage leads into the darkness.
+~
+~
+0 -1 7552
+D3
+A passage leads into the darkness.
+~
+~
+0 -1 7548
+S
+#7552
+Corridor's End~
+   The room here appears to be very empty of anything at all. The only
+things you notice is a small lamp hanging near the wall and a small
+plaque directly beneath it. The only exit appears to be to the west
+here.
+~
+75 d 9
+D3
+A passage leads into the darkness.
+~
+~
+0 -1 7551
+E
+plaque~
+This zone was created by Rasputen. I hope you all enjoy it very much.
+~
+S
+#7553
+Altar of Power~
+   As you enter the room you see a large glowing altar in the center of
+the room. Placed upon the altar is a glowing sword with blue colored
+runes burnt into the blade and glowing brightly. The only exit appears
+to be a passage to the south.
+~
+75 adu 9
+D2
+A passage leads into the darkness.
+~
+~
+0 -1 7548
+D0
+~
+altar~
+
+1 -1 7554
+E
+sword~
+To get that which you seek the altar is the key.
+~
+S
+#7554
+Hidden Room~
+   As you enter you realize you have found the remains of the giants
+treasure hoard. There is a large chest in the north corner of the room
+here as well. The only visible exit is to the south.
+~
+75 aduc 9
+D2
+A passage leads into the darkness.
+~
+altar
+~
+1 -1 7553
+S
+#99999
+$~

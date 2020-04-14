@@ -1,0 +1,26 @@
+#27500
+shopkeeper reina~
+Reina~
+Reina, the Divine Cafe Proprietor, stands behind the counter.
+~
+While conducting some research on the Elder Gods of Elite, The 
+Institution of Global Research and Development at the Academy 
+accidentally summoned Reina, last in the long line of Concubines of IO 
+the Overgod. The Institution members thought that such a mighty Goddess 
+must be of enormous help to them in their studies. Unfortunately, it 
+turned out the only help she was capable of giving them was serving 
+tea...
+~
+1 0 be dhk 0 S 
+109 -40 -200 1d900+30000
+400 500 100 100d100+99 -1
+-1
+-1
+0 10 8 8 2
+A
+%%5 say Tea, anyone?;
+%5 emote scratches her chin and chuckles merrily;
+%5 emote looks around the room, seeing if anyone wants tea.~
+#99999
+$~
+

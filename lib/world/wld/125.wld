@@ -1,0 +1,1916 @@
+#12500
+Clifftops~
+   The trail comes to an abrupt end at an impressive range of cliffs, 
+which look out over a wide ocean.  There was once a city here, according
+to rumor, but no longer.  You think it might be possible to make your 
+way down to the waters edge.
+~
+125 c 2
+D1
+You see a trail through the forest.
+~
+~
+0 -1 24961
+D5
+A narrow pathway leads down the cliff face.
+~
+~
+0 -1 12501
+S
+#12501
+Crumbling Pathway~
+As you edge carefully along the pathway it begins to crumble, chunks of 
+stone dropping into the sea below you.  There doesn't seem to be a way 
+back anymore, so the only way is to continue downwards.
+~
+125 c 4
+D4
+The path has started to crumble behind you, you can't go back this way. 
+~
+~
+0 -1 -1
+D5
+The pathway ahead looks more dangerous than you first thought, but the 
+safety of a ledge is not far ahead of you.
+~
+~
+0 -1 12502
+S
+#12502
+In a whirlpool~
+   The ledge falls away beneath your feet and you fall into the water, 
+as you try to swim for shore you become caught in a whirlpool which 
+pulls at you insistently.  You don't think you can keep your head above 
+the water any longer.  You could try diving down to clear the current - 
+better take a deep breath.
+~
+125 c 2
+D4
+You can't see anything, the whirlpool is dragging you underwater.
+~
+~
+0 -1 -1
+D5
+You can make out the shapes on the sea floor, they don't  look like 
+natural formations.
+~
+~
+0 -1 12503
+S
+#12503
+Entrance to the city of Delray~
+   Although you are standing on the bottom of the ocean, you appear not 
+to have drowned.  You stand before the grand city of Delray, sunk 
+beneath the ocean nearly half a century ago by a powerful magician in 
+order to save its inhabitants from invasion.  Although four hundred 
+years have passed above, the inhabitants live on beneath the sea, 
+oblivious to the passing of time, and the rays and dogfish swimming down 
+the streets. The city lies to the north and the palace gate, encrusted 
+with coral and colourful seaweeds, stand proudly to the east. 
+~
+125 d 1
+D0
+Looking north you see a thriving city, its halfling citizens hurrying 
+about their business.  Streets and shops, taverns and houses, all look 
+familiar to you, but not the fish swimming down the main street, 
+seaweeds and corals growing over the buildings.  Without doubt this is 
+the strangest sight you have ever seen.  Surprisingly the halflings do 
+not even seem to notice the sea creatures with whom they share their 
+city.
+~
+~
+0 -1 12536
+D1
+The palace  gate stand proudly  before you, the  brasswork is tarnished 
+and  the shape  disguised by  growths of  coral, but  they look to be in 
+working order.
+~
+gate rotten palace~
+1 -1 12507
+D4
+The ocean  surface  glitters  above you and the  whirlpool is off to the 
+south. You can now surface clear of the current and swim to shore.
+~
+~
+0 -1 12504
+E
+gate palace~
+Beneath the brightly coloured coral, and flowing fronds of seaweed you 
+can just make out a silver five-pointed star, the symbol of the city of 
+Delray.
+~
+S
+#12504
+Treading water~
+   You  float on  the  ocean  surface at the  base of the  cliffs. It 
+looks possible to climb back up to the top from here - though it won't be 
+easy.  Or you could swim back down to the city and take another look 
+around.
+~
+125 c 2
+D4
+There looks to be a route back up the cliffs.
+~
+~
+0 -1 12505
+D5
+You see the city of Delray below you.
+~
+~
+0 -1 12503
+S
+#12505
+Halfway up the cliffs~
+   You cling dangerously to the cliff face, high above the rocks. You 
+don't think you could survive the fall so don't look down!
+~
+125 c 2
+D4
+You can see the clifftops above you.
+~
+~
+0 -1 12500
+D5
+It would be suicide to try and climb back down this way.
+~
+~
+0 -1 12506
+S
+#12506
+SPLAT!~
+   You were right...suicidal.
+~
+125 bc 2
+D4
+You are staring at the sky through dead eyes.
+~
+~
+0 -1 12505
+S
+#12507
+Palace Hallway~
+   You stand in the hallway of the grand palace of Delray. The ceiling 
+glitters above you in the light from peculiar looking lanterns in niches
+in the walls. The floor  is tiled, but there is a layer of sandy-silt 
+everywhere which wafts around your feet as you move.
+~
+125 d 0
+D1
+You see that the hallway opens out to the east.
+~
+~
+0 -1 12508
+D3
+You see the Palace gate.
+~
+gate palace~
+1 -1 12503
+E
+lanterns lantern niches niche~
+They must be magical - how else could they burn below the ocean..?
+~
+S
+#12508
+Intersection in the Palace~
+   A fantastic high domed ceiling and crystal chandelier catch your eye 
+upon entering this room, an intersection of a north-south passage and 
+hallways leading east and west.  The chandelier glows with a magical 
+fire, and the symbol of the kingdom of Delray is inlaid into the floor, 
+a shining silver five-pointed star.  Small brightly patterned fish flit 
+about the chandelier making it appear even more outlandishly coloured, 
+and a small squadron of tiny crabs scuttle eastwards.
+~
+125 d 0
+D0
+A dim passage leads north.
+~
+~
+0 -1 12509
+D1
+A hallway leads east.
+~
+~
+0 -1 12510
+D2
+A dim passage leads south.
+~
+~
+0 -1 12519
+D3
+A hallway leads west
+~
+~
+0 -1 12507
+S
+#12509
+North-South Passage~
+   The passage seems dim after the brightness of the intersection, but 
+it is lit with the same strange lanterns as the entrance hallway. Some 
+of the niches contain small idols and statues which appear to be images 
+of the heros of Delray.
+~
+125 d 0
+D0
+You see an intersection to the north.
+~
+~
+0 -1 12526
+D2
+You see an intersection to the south.
+~
+~
+0 -1 12508
+S
+#12510
+West-end of the Great Hall~
+   You find yourself at the west end of a spectacular hall. The vaulted 
+ceiling is covered by fantastic paintings, which seem to represent the 
+gods, smiling benevolently over the city.  The hall is lit as bright as 
+daylight, although you can see no lanterns.  To the north there is a set 
+of ornate double doors, and opposite these, to the south, you see a 
+guard room.  The hall continues to the east, and to the west is a 
+hallway leading towards an intersection.
+~
+125 d 0
+D0
+You see a pair of ornate doors leading to the kings private apartments.
+~
+doors double ornate~
+1 -1 12511
+D1
+The Great Hall continues to the east.
+~
+~
+0 -1 12517
+D2
+You see a small guardroom.
+~
+~
+0 -1 12520
+D3
+A short hallway leads to the intersection.
+~
+~
+0 -1 12508
+S
+#12511
+Private stairs~
+   You stand at the entrance to the kings private apartments. The floor 
+is carpeted in a rich red, although a thin layer of sand covers 
+everything.  The Great Hall is to the south, while the kings apartments 
+are situated on the next floor, atop the magnificent gilded staircase 
+ahead of you.
+~
+125 d 0
+D2
+You see the ornate doors to the south.
+~
+doors ornate~
+1 -1 12510
+D4
+The golden staircase winds upwards to the kings private apartments.
+~
+~
+0 -1 12512
+S
+#12512
+Ornate Landing~
+   Although richly decorated, the landing feels very private, you 
+imagine that the king does not receive visitors here in his private 
+apartments, but elsewhere.  There is a set of doors to the north, or 
+you can return to the great hall downstairs and leave the king's family 
+in peace.
+~
+125 d 0
+D0
+A set of double doors lead north, both doors have a small silver star upon them.
+~
+doors bedroom~
+1 -1 12514
+D5
+You see the staircase leading down.
+~
+~
+0 -1 12511
+S
+#12513
+Dressing Room~
+   This is where the queen prepares herself for her public appearances. 
+Wardrobes line the walls, filled with formal gowns, and there are rows 
+of drawers filled with jewelry and other accessories. 
+~
+125 d 0
+D1
+An archway leads into the king and queens' bedroom.
+~
+~
+0 -1 12514
+S
+#12514
+Bedroom~
+   This is everything you would expect from the bedroom of a king, and 
+more besides.  The room is dominated by a huge four-poster bed made from 
+some dark wood and polished to a deep glow.  All the furniture is made 
+in the same style decorated with gold and fanciful paintings of strange 
+beasts.  Even the most simple and functional item is made to look like a 
+work of art.  You feel sure you will never see such luxury again.
+~
+125 d 0
+D1
+There is a small door leading east.
+~
+nursery door~
+1 -1 12515
+D2
+A pair of double doors lead south.
+~
+doors bedroom~
+1 -1 12512
+D3
+An archway leads west into the queens dressing room.
+~
+~
+0 -1 12513
+S
+#12515
+Nursery~
+   This room is home to the heirs to the kingdom of Delray.  The King 
+and Queen were blessed with twin boys, their tiny cots sit one on either 
+side of this room.  Beautifully crafted toys, made of wood and precious 
+metals can be found all over the place.  The tragedy of the saving of 
+the city is that since the population hasn't aged since, the young 
+princes will be babies forever.
+~
+125 d 0
+D3
+A small door leads west.
+~
+door nursery~
+1 -1 12514
+E
+toys~
+They look like the kind of toys that young boys would like, miniature 
+halfling soldiers and orcs, finely crafted and painted.  The orcs look a 
+bit chewed, clearly the young princes have mastered the art of war.
+~
+S
+#12516
+Council Chamber~
+   This is where the king consults with his advisors on matters of 
+national security.  Since the nation has been secure for four-hundred 
+years, this room is not used very often.  A round table in the centre of 
+the room is surrounded by five  chairs.  The table is inlaid with the 
+symbol of Delray.  On one wall is a large map, which shows the kingdom 
+of Delray in its full glory.  You recognise enough to realise that 
+Delray was once a very large kingdom.  Small markers on the map seem to 
+represent military units - blue ones representing the halfling forces 
+surrounded by a sea of red invaders from the Moria mountains.
+~
+125 d 0
+D2
+A small door leads south.
+~
+door small~
+1 -1 12517
+S
+#12517
+East-end of the Great Hall~
+   This is the true centre to the lost kingdom of Delray.  A huge golden 
+throne stands upon a dais at the east end of the Hall.  The high vaulted 
+ceiling shimmers with bright light from an unknown source, the gods 
+painted upon it smile approvingly down at the throne.  A smaller throne 
+also stands on the dais - clearly meant for the queen - and a third 
+ornate chair sits near the bottom of the steps where the kings first 
+advisor traditionally sits.
+~
+125 d 0
+D0
+A small door, inlaid with the national symbol, leads north.
+~
+door small~
+1 -1 12516
+D1
+The throne truly is magnificent. 
+~
+throne secret~
+2 -1 12522
+D3
+The Great Hall continues west.
+~
+~
+0 -1 12510
+E
+throne~
+The throne is made from wood and covered entirely in gold leaf.  The top 
+of the throne is crafted such that a silver five-pointed star set with 
+sapphires floats above the head of someone sitting upon it.
+~
+S
+#12518
+Ruined Hall~
+   This rooms appears to be some kind of audience chamber, though not 
+used for quite some time.  Silt fills the corners of the room and there 
+is lots of rubble from the collapse of the corridor.
+~
+125 ad 0
+D2
+The southern end of the hall is filled with  rubble from the collapsed 
+corridor.
+~
+rubble corridor~
+39 -1 12527
+S
+#12519
+North-South Passage~
+   The passage seems dim after the brightness of the intersection, but 
+it is lit with the same strange lanterns as the entrance hallway. Some 
+of the niches contain small idols and statues which appear to be images 
+of the heros of Delray.
+~
+125 d 0
+D0
+You see an intersection to the north.
+~
+~
+0 -1 12508
+D2
+You see an intersection to the south.
+~
+~
+0 -1 12526
+S
+#12520
+Guard Room~
+   This room is where the palace guards rest off duty.  There are racks 
+of weapons along  the  wall and several breastplates left on a bench. 
+Although the palace guards are generally only for display, rather than 
+war, the weapons look razor sharp and the guards look like they know how
+to use them.
+~
+125 d 0
+D0
+The Great Hall lies to the north.
+~
+~
+0 -1 12510
+S
+#12521
+Deep Cavern~
+   You are in a massive underground chamber far below the palace.  This 
+chamber must have been broken open when the city was sunk beneath the 
+waves.  Seaweed clings to the walls, fish large and small swim in and 
+out of the gloom.
+~
+125 ad 0
+D1
+The cavern continues east.
+~
+~
+0 -1 12522
+D2
+The cavern continues south.
+~
+~
+0 -1 12524
+D4
+There is an opening behind the seaweed above your head.
+~
+seaweed~
+1 -1 12520
+E
+seaweed~
+As you brush the seaweed you notice a hole behind it.
+~
+S
+#12522
+Deep Cavern~
+   You are in a massive underground chamber far below the palace.  This 
+chamber must have been broken open when the city was sunk beneath the 
+waves.  Seaweed clings to the walls, fish large and small swim in and 
+out of the gloom.
+~
+125 ad 0
+D2
+The cavern continues to the south.
+~
+~
+0 -1 12523
+D3
+The cavern continues to the west.
+~
+~
+0 -1 12521
+D4
+There is an opening behind the seaweed above your head.
+~
+seaweed~
+1 -1 12517
+E
+seaweed~
+As you brush the seaweed you notice a hole behind it.
+~
+S
+#12523
+Deep Cavern~
+   You are in a massive underground chamber far below the palace.  This 
+chamber must have been broken open when the city was sunk beneath the 
+waves.  Seaweed clings to the walls, fish large and small swim in and 
+out of the gloom.
+~
+125 ad 0
+D0
+The cavern continues to the north.
+~
+~
+0 -1 12522
+D3
+The cavern continues to the west.
+~
+~
+0 -1 12524
+D5
+There is a cave below you.
+~
+~
+0 -1 12531
+S
+#12524
+Deep Cavern~
+   You are in a massive underground chamber far below the palace.  This 
+chamber must have been broken open when the city was sunk beneath the 
+waves.  Seaweed clings to the walls, fish large and small swim in and 
+out of the gloom.
+~
+125 ad 0
+D0
+The cavern continues to the north.
+~
+~
+0 -1 12521
+D1
+The cavern continues to the east.
+~
+~
+0 -1 12523
+D3
+There appears to be a hole behind the seaweed to the west.
+~
+seaweed~
+1 -1 12525
+E
+seaweed~
+As you brush the seaweed you notice a hole behind it.
+~
+S
+#12525
+Twisting Passage~
+   The corridor winds downwards and to the south and the water is 
+becoming a little cloudy.  Small statuettes rest in niches along the 
+passage walls, but they become more sinister in appearance as you 
+progress.  The walls are covered with a think layer of weed, and sand 
+swirls around your feet as you walk.
+~
+125 d 0
+D2
+The passage becomes narrower to the south.
+~
+~
+0 -1 12530
+D3
+You see an intersection to the west.
+~
+~
+0 -1 12526
+S
+#12526
+Intersection in the Palace~
+   You stand at an intersection in the palace.  A passage leads north 
+and south and another leads east and west. To the west the passage seems 
+very gloomy, while the eastern passages quickly twists out of view.
+~
+125 d 0
+D0
+A dim passage leads north.
+~
+~
+0 -1 12519
+D1
+A hallway leads east.
+~
+~
+0 -1 12525
+D2
+A dim passage leads south.
+~
+~
+0 -1 12509
+D3
+A hallway leads west.
+~
+~
+0 -1 12527
+S
+#12527
+Collapsed Corridor~
+   The reason for the gloom soon becomes obvious, just after the 
+corridor turns to the north it has collapsed, blocking the way 
+completely.  This appears to have happened quite some time ago -  
+seaweed and coral have grown over the rubble that blocks the way.
+~
+125 d 0
+D0
+The corridor has collapsed to the north, rubble blocking the way.
+~
+rubble corridor~
+39 -1 12518
+D1
+You see an intersection to the east.
+~
+~
+0 -1 12526
+S
+#12528
+Malaig's secret store~
+   This is where Malaig keeps his private things, tomes of lore and 
+magical objects adorn the room.  The room seems disorganised, but then 
+no-one ever enters save Malaig himself.  There are prototypes here also 
+for several conjured creatures, fully functional and looking very 
+fierce, despite being only a couple of inches high - they jabber and nip 
+at your feet, but are unable to hurt you.
+~
+125 d 0
+D1
+The rear of the fireplace lies to the east.
+~
+fireplace secret~
+263 12501 12529
+S
+#12529
+Malaig's Chambers~
+   This is the room of the Kings first advisor, and saviour of the city, 
+the magician Malaig.  When the hobgoblin and kobold hordes overran the 
+outlying regions of the kingdom  Malaig coordinated all the magical 
+defences, but to no avail. Fierce creatures were created to hunt kobolds 
+and hobgoblins, but the sheer numbers drove the halflings back to the 
+city gates of Delray.  Malaig's last gamble was to move the entire city 
+to where it could not be reached - beneath the ocean.  There is a large 
+desk on one side of the room and a rug covered in mystical symbols lies 
+on the floor. A fire burns in the fireplace and there is also what 
+appears to be a steel locker against the south wall.
+~
+125 d 0
+D1
+A wooden door leads east.
+~
+door wooden~
+7 12500 12530
+D2
+There appears to be a steel locker against the south wall
+~
+locker steel~
+1 -1 12532
+D3
+A fire burns in the fireplace, despite the fact that you are hundreds of 
+feet  below the  ocean.  You can place your hands right into the flames, 
+but they give no heat - they must only be an illusion.
+~
+fireplace secret~
+7 12501 12528
+D5
+This rug must have been  specially made,  Malaig must use it for some of 
+his conjurations.
+~
+trapdoor rug~
+1 -1 12533
+E
+Locker~
+There is a tiny name tag on it. It says 'D.Jones'.
+~
+E
+Rug~
+This rug must have been  specially made,  Malaig must use it for some of 
+his conjurations.  There looks to be a trapdoor beneath it.
+~
+E
+Fireplace~
+A fire burns in the fireplace, despite the fact that you are hundreds of 
+feet  below the  ocean.  You can place your hands right into the flames, 
+but they give no heat - they must only be an illusion.  There is a 
+square hole at the back of the fireplace, perhaps it is a keyhole?
+~
+S
+#12530
+Narrow Hallway~
+   The hallway gets darker and narrower the further you go.  It ends 
+abruptly at a wooden door that has mystical symbols carved into it.
+~
+125 d 0
+D0
+A twisting passage lies to the north.
+~
+~
+0 -1 12525
+D3
+~
+door wooden~
+7 12500 12529
+E
+door symbols wooden~
+There is a humanoid face carved in the door, it looks very realistic, 
+its eyes almost glow with power.  All kinds of mystical symbols are 
+carved around it, their exact meaning is unknown, but you recognise that 
+they are used as wards...to keep out demons.
+~
+S
+#12531
+Lair of the Wyrm~
+   This is the home of one of Malaigs creations.  The Kingdoms finest 
+magician expended great energy creating monsters to destroy the 
+invaders, and only one of these monsters survived the invasion and the 
+saving of the city.  Now it lives beneath the palace - keeping the lower 
+caverns free from intruders.
+~
+125 ad 0
+D4
+The huge cavern is above you.
+~
+~
+0 -1 12523
+S
+#12532
+Davey Jones' Locker~
+   The door closes behind you and spikes pierce you from all directions. 
+You're dead!
+~
+125 bdc 0
+D0
+~
+locker steel~
+1 -1 12529
+S
+#12533
+Gaol Entrance~
+This is the entrance to Malaig's private gaol, where prisoners of war 
+are held for Malaig to experiment upon them.  The single cell lies to 
+the east, and wooden steps lead back up to Malaig's chamber.
+~
+125 d 0
+D1
+The cell look quite spacious as you peer through the bars, though hardly 
+comfortable,  especially  with the  prospect of  becoming one of Malaig's 
+experimental subjects.
+~
+cell iron door~
+1 12502 12534
+D4
+Wooden steps lead upward to Malaig's room.
+~
+trapdoor~
+1 -1 12529
+S
+#12534
+Western end of cell~
+   The cell is almost bare, save a couple of wooden framed beds, and 
+some threadbare blankets. 
+~
+125 d 0
+D1
+The cell extends further to the east.
+~
+~
+0 -1 12535
+D3
+The gaolers room lies to the west.
+~
+cell iron door~
+1 12502 12533
+S
+#12535
+Eastern end of cell~
+   A couple more beds fill this end of the cell together with a few  
+pieces of battered armor. 
+~
+125 d 0
+D3
+The cell extends further to the west.
+~
+~
+0 -1 12534
+S
+#12536
+Main Street~
+   This wide and busy avenue runs north from the Palace of Delray, to 
+Jubilee Square. The familiar bustle of everyday city life is all around 
+you. People walking up and down, greeting each other in a cheerful 
+fashion, and generally going about their business. They do not seem to 
+have even noticed that they are underwater, and that the cracks in the 
+paving stones are filled with coral, and that limpets and anenomes 
+cover the walls of the buildings. You almost stand on a flatfish, which 
+skitters out of the sand at your feet, and heads off down an alley. 
+How strange!
+~
+125 d 0
+D0
+Main Street continues north.
+~
+~
+0 -1 12539
+D2
+You see the front of the Palace of Delray, home of the king and his 
+advisor, Malaig.
+~
+~
+0 -1 12503
+S
+#12537
+The Temple of Hrorn~
+   This is the only temple in Delray - its inhabitants are not exactly 
+big on religion, however they are all devout believers in Hrorn the 
+Trickster. It is said that if anything can go wrong it will, and if 
+nothing can go wrong, then Hrorn will make it. In short they see the 
+funny side of everything, and then get on with life, probably for this 
+reason noone seems to mind that a family of terrapins is living in the 
+altar, and that a huge barnacle has attached itself to the statue of 
+Hrorn in a rather amusing place.
+~
+125 d 0
+D1
+Steps lead down to the east and out of the temple.
+~
+~
+0 -1 12538
+D5
+Steps lead down to the east and out of the temple.
+~
+~
+0 -1 12538
+E
+statue~
+The huge statue of Hrorn towers above you, the expression on its 
+divine face can only be described as amused. A massive barnacle has 
+attached itself to the face of the statue such that is resembles a large 
+wart on the face of a witch. Undoubtedly Hrorn sees the funny side.
+~
+E
+altar~
+A small family of terrapins has hade it their home, and they happily swim 
+in and out of the small recess in the back. 
+~
+S
+#12538
+Before the Temple of Hrorn~
+   You stand just to the east of a marvelous temple, contructed from 
+blue flecked marble and raised up on a small hill where it gazes out 
+over the city. You can climb the steps up to the west and enter the 
+temple, or you can make your way back to Main Street.
+~
+125 d 0
+D1
+Main street lies to the east.
+~
+~
+0 -1 12539
+D3
+You see steps leading up to a magnificent temple.
+~
+~
+0 -1 12537
+D4
+You see steps leading up to a magnificent temple.
+~
+~
+0 -1 12537
+S
+#12539
+Main Street~
+   You have arrived a junction in Main Street. To the west you can make 
+out the shape of a large temple, with shoals of fish idly circling the 
+marble columns. Main Street leads south towards an impressive looking 
+palace. To the north the street opens out into a large square, while 
+to the east is a dark narrow alleyway.
+~
+125 d 0
+D0
+You can see Jubilee Square to the north.
+~
+~
+0 -1 12564
+D1
+A dark alley leads east.
+~
+~
+0 -1 12540
+D2
+Main Street continues south towards the palace.
+~
+~
+0 -1 12536
+D3
+You see a stylish temple in the distance.
+~
+~
+0 -1 12538
+S
+#12540
+Dark Alley~
+   You pick your way carefully down a narrow alleyway, cluttered with 
+junk and debris. Crates and boxes have been stacked haphazardly, and 
+been subsequently covered with a layer of sediment. A quick search 
+reveals that the boxes contain building materials, and tools, and a 
+whole family of seahorses who are less than impressed by your intrusion.
+~
+125 d 0
+D1
+The alley continues east.
+~
+~
+0 -1 12541
+D3
+You see Main Street to the west.
+~
+~
+0 -1 12539
+S
+#12541
+Dark Alley~
+   There are more abandoned crates here, although someone has made
+an attempt to clear a way through to the building to the south. From 
+the sounds you can hear, you assume that it is an Inn. The alley 
+continues east, but you can see that it does not continue very far.
+To the west you can make out the bustle of Main Street.
+~
+125 d 0
+D1
+Looks like it might be a dead end.
+~
+~
+0 -1 12543
+D2
+You hear sounds of merriment.
+~
+~
+0 -1 12542
+D3
+A dark alley leads west.
+~
+~
+0 -1 12540
+S
+#12542
+Scruffy Inn~
+   Your not quite sure if this Inn is for real, or perhaps a parody of 
+dockside Inns you have known. The wooden floor is covered with a layer 
+of sandy silt, and the bar is decorated with all kinds of seafarers 
+memorabilia - bits of rope, various anchors and several lobster pots.
+~
+125 d 0
+D0
+You see a dark alley.
+~
+~
+0 -1 12541
+S
+#12543
+The End of the Alley~
+   The alley comes to an abrupt end at a high stone wall. There is more 
+junk piled up against the wall, which you assume encloses the city, but 
+it is not piled high enough for you to climb over the wall. The ground 
+under your feet is covered with a layer of sandy silt, though you 
+notice a grate outlined by the sand.
+~
+125 d 0
+D3
+A narrow alley leads west.
+~
+~
+0 -1 12541
+D5
+It looks like the entrance to a sewer.
+~
+grate~
+1 -1 12544
+S
+#12544
+Entrance to the Sewer~
+   You've crawled through lots of sewers on your adventures, and this 
+must be one of the cleanest you've ever seen. No bad smells, no 
+festering rubbish, in fact it seems to be a haven to many shy creatures 
+who have made it their home. The sewer continues east, or you can climb 
+out of the grate above you to street level.
+~
+125 d 0
+D1
+You can see that the sewer leads east.
+~
+~
+0 -1 12545
+D4
+You can see the end of an alley.
+~
+grate~
+1 -1 12543
+S
+#12545
+End of the Sewer~
+   The sewer ends here, presumably you are just beyond the walls of the 
+city. From here the sewer drains down a narrow grating into what appears 
+to be a system of narrow caves. The grate sparkles with magic, and as 
+you get closer a face appears above it, and stares right at you.
+~
+125 d 0
+D3
+The sewer continues east.
+~
+~
+0 -1 12544
+D5
+A narrow grate leads down into the darkness.
+~
+grate warning~
+1 -1 12546
+E
+face magic magical warning beacon grate~
+The face that appears above the grate is that of a halfling. He looks 
+incredibly wise and powerful. He turns towards you and begins to speak.
+
+#yThe Magical Warning Beacon says, 'Danger! Do not proceed! This point#N
+#ymarks the boundary of effect of Malaig's barrier around the city.#N
+#yOnce past this point you will need to protect yourself from the sea#N
+#yby your own means.'#N
+
+
+~
+S
+#12546
+Cramped Tunnel~
+   There is barely enough room to turn around in this narrow tunnel, 
+clearly noone ever comes down here to clean it out. Thick dark weeds 
+grow around the inside of the tunnel, long fronds reaching out to 
+entangle your weapons and limbs. You could climb up to the safety of 
+the old sewer, or with a little effort you can continue along the 
+tunnel, which leads east.
+~
+125 d 8
+D1
+The cramped tunnel continues east.
+~
+~
+0 -1 12547
+D4
+The safety of the sewer is above you.
+~
+grate warning~
+1 -1 12545
+S
+#12547
+Cramped Tunnel~
+   You are forced to continue on your hands and knees, pressing onwards 
+through the thick seaweed that grows here in profusion. You can't see 
+very far ahead, but by the feel of the currents swirling around you, 
+you conclude that the tunnel heads downwards from here or to the west.
+~
+125 d 8
+D3
+The cramped tunnel continues west.
+~
+~
+0 -1 12546
+D5
+You sense from the currents here that you can continue downwards.
+~
+~
+0 -1 12548
+S
+#12548
+Murky Tunnel~
+   You fight your way through the seaweed, which claws at your limbs and 
+possessions. The water here is murky, and coupled with the dense seaweed 
+this makes it impossible to see what lies ahead. You can just make 
+out that the tunnel continues west, although the flow of water in this 
+area is upwards.
+~
+125 d 8
+D3
+You can't see a thing through the dense seaweed.
+~
+~
+0 -1 12549
+D4
+You can't see a thing through the dense seaweed.
+~
+~
+0 -1 12547
+S
+#12549
+Twisting Tunnel~
+   Feeling your way through the thick, clinging seaweed, you manage to 
+figure out that the tunnel leads south from here, and also east. The 
+fronds and tendrils twist themselves around your hands and feet, you'll 
+have to disentangle them before you can continue.
+~
+125 d 8
+D1
+You can't see a thing through the dense seaweed.
+~
+~
+0 -1 12548
+D2
+You can't see a thing through the dense seaweed.
+~
+~
+0 -1 12550
+S
+#12550
+Twisting Tunnel~
+   You continue along the narrow twisting tunnel on your hands and 
+knees. Surely it must get wider soon? The seaweed lashes at you 
+furiously and the water is clouded by some inky black substance, 
+making it difficult to see further ahead. You eventually decide that 
+the tunnel heads east and north from here.
+~
+125 d 8
+D0
+You can't make anything out through the flailing seaweed.
+~
+~
+0 -1 12549
+D1
+You can't make anything out through the flailing seaweed.
+~
+~
+0 -1 12551
+S
+#12551
+Twisting Tunnel~
+   The inky blackness grows darker here, and to the east. Strong 
+currents swirl around you, making it difficult to continue. The 
+twisting and turning tunnel leads east and west from here.
+~
+125 d 8
+D1
+You can't make anything out through the murky water.
+~
+~
+0 -1 12552
+D3
+You can't make anything out through the murky water.
+~
+~
+0 -1 12550
+D4
+There appears to be some kind of secret entrance concealed 
+behind the seaweed.
+~
+seaweed secret~
+1 -1 12553
+S
+#12552
+Underwater Cave~
+   The tunnel suddenly widens out into a large cave, lined with 
+colourful seaweeds and corals, and crowded with thousands of tiny 
+fish. The brightly patterned fish seems to flash as your light 
+touches them through the gloom. At the far end of the cave is a 
+recess from which the inky blackness emanates. There is only one
+exit - back the way you came.
+~
+125 d 8
+D3
+A narrow twisting tunnel leads west.
+~
+~
+0 -1 12551
+S
+#12553
+Basement~
+   You find yourself in what appears to be a large cellar. Boxes and 
+crates were once carefully stacked around the walls, although they have 
+become rotten, and many have broken open, damaged by the salty seawater. 
+The floor also looks very unsafe here, but the cellar extends further 
+to the east and looks a little safer there. A trapdoor lined with 
+seaweed lies in the centre of the cellar.
+~
+125 d 8
+D1
+The cellar extends further to the east.
+~
+~
+0 -1 12554
+D5
+A trapdoor covered in a thick layer of seaweed leads downwards into 
+the darkness.
+~
+trapdoor seaweed secret~
+1 -1 12551
+E
+boxes crates rotten~
+Looks like this place was used for storage. There are casks of lamp oil 
+and boxes of building materials, and stoneworking tools. Nothing useful 
+though unfortunately.
+~
+S
+#12554
+East End of the Basement~
+   The eddy currents caused by your movement swirl the silt all around 
+you, making it difficult to see very far. There are more broken crates 
+at this end of the cellar, but again they don't hold anything usable. 
+You can make out some stairs leading upwards and a door to the north.
+~
+125 d 8
+D0
+A small wooden door bars the way north.
+~
+door wooden small~
+1 -1 12555
+D3
+The cellar extends further to the west.
+~
+~
+0 -1 12553
+D4
+A set of rickety wooden steps lead upwards.
+~
+~
+0 -1 12556
+E
+door wooden small~
+Its a strange little door, with a wide slot at the bottom. A sliding 
+section indicates that the bottom section of the door once slid open, 
+but it appears now to be sealed.
+~
+S
+#12555
+A Small Room~
+   There is barely room to stand in this tiny room, which was clearly 
+used at some time to store coal. Your movement stirs up a thick cloud of 
+coal dust, making it impossible to see around the room. By feeling your 
+way you discover a trapdoor in the ceiling, where the coal was once 
+loaded, but it is impossible to open it.
+~
+125 d 8
+D2
+A narrow dorrway lies to the south.
+~
+door wooden small~
+1 -1 12554
+E
+trapdoor~
+Its firmly wedged shut from the outside.
+~
+S
+#12556
+Outside~
+   You stand on the seabed, next to a stone structure, which stretches 
+upwards and out of sight in the murky water. Broken wooden supports 
+slick out of the seabed all around you, as if this area were once 
+enclosed by wooden walls. Swirling clouds of sandy silt obscure your 
+view, but feeling around you discover that you are surrounded on all 
+sides by coral-encrusted rocky outcrops. Some steps lead downwards into 
+a gloomy looking cellar, and the tower to the west looks interesting.
+~
+125 d 8
+D3
+You see a tower stretching upwards beyond your sight, there is a door 
+in the base of the tower.
+~
+door~
+1 -1 12557
+D5
+Steps lead down into the darkness.
+~
+~
+0 -1 12554
+E
+tower~
+It seems to be in very good condition, although thousands of small 
+sea creatures, and wildly coloured varieties of plant life have made 
+the coarse dark stone their home. From what you can see, the tower 
+is round, and very tall. There is a door in the base inlaid with 
+writing.
+~
+E
+door writing plaque~
+An inscription on a bronze plaque on the door tells you that this is 
+the last great work of the halfling architect Tepan. Unfortunately the 
+cost of making the signal tower escalated enormously during 
+construction and Tepan was bankrupt long before its completion. It 
+therefore became known as Tepan's Folly. 
+~
+S
+#12557
+Inside Tepan's Folly~
+   The inside of the tower is smaller that you might have thought from 
+the outside, clearly the walls are very thick. A rotten wooden door lies 
+to the north, and a thin iron spiral staircase winds around the wall and 
+up to the next level. There is a ventilation grating about halfway up 
+the wall, but it appears dark.
+~
+125 d 8
+D0
+There is a door to the north, on the door is written 'Wardroom'.
+~
+door~
+1 -1 12558
+D1
+You can just make out a set of stairs outside the Folly.
+~
+door~
+1 -1 12556
+D4
+A thin iron staircase spirals upwards.
+~
+~
+0 -1 12559
+E
+ventilation grating~
+The grating is blocked by silt and sand and you are unable to see 
+anything through it. Perhaps you are still below the level of the sea 
+floor?
+~
+S
+#12558
+Ward Room~
+   This is where the keepers of Tepan's Folly rested while off duty. The 
+Folly was manned constantly during the war with the kobolds and orcs, 
+in order to give advance warning of any attacks. You see a few scattered 
+pieces of broken armour on the floor, but nothing useful. There is a 
+large chest on the far side of the room.
+~
+125 d 8
+D2
+You can see the ground floor of Tepan's Folly.
+~
+door~
+1 -1 12557
+E
+chest~
+It looks like it was used for storing signalling torches, but it is 
+empty now.
+~
+S
+#12559
+Climbing the Stairway~
+   Flakes of rust fall from the iron stairway as you climb, giving the 
+water around your feet an orange hue. Narrow windows give a view to the 
+outside, but theres not much to see - the water is still too murky for 
+you to see very far.
+~
+125 d 8
+D4
+The stairs continue upwards.
+~
+~
+0 -1 12560
+D5
+The stairs continue downwards.
+~
+~
+0 -1 12557
+E
+window windows~
+The water outside is still very cloudy, you think that you are not very 
+much higher than the level of the natural sea floor.
+~
+S
+#12560
+Climbing the Stairway~
+   The water is clearer here, giving you a great view out of the narrow 
+window slits of The Folly. Looking down you can see the water becomes 
+clouded with sandy silt, above you the water becomes ever clearer, and 
+you can make out a brief flash of sunlight.
+~
+125 d 8
+D4
+The iron stairway continues upwards. 
+~
+~
+0 -1 12561
+D5
+The iron stairway leads downwards.
+~
+~
+0 -1 12559
+E
+window windows slit slit~
+The water is clear enough for you to see as far as the city walls, 
+which are just below the level of the window slit. Over the walls you 
+can just make out a large temple in the distance, and a large open 
+square full of hurrying people.
+~
+S
+#12561
+Climbing the Stairway~
+   You are now quite a distance up the Folly, and the narrow iron
+staircase stretches a long way down, and much further up too. The 
+water here is a lovely clear blue and you can see for miles through 
+the narrow windows. Hundreds of tiny fish flit excitedly around you 
+and the walls are covered with beautiful multicoloured corals.
+~
+125 d 8
+D4
+The iron stairway continues upwards.
+~
+~
+0 -1 12562
+D5
+The iron stairway continues downwards.
+~
+~
+0 -1 12560
+E
+window windows slit slits narrow~
+You can see the whole City of Delray stretched out before you 
+like a relief map. The people hurrying through the streets and 
+squares are as small as ants, and even the palace looks like a 
+carefully crafted model.
+~
+S
+#12562
+Top of The Folly~
+   The top of Tepan's Folly is actually above sea level! Waves crash 
+against the windows, but they are well constructed, and have survived 
+the centuries intact.The centre of the room is dominated by a large 
+altar, once used for lighting signal fires during the war. A narrow 
+ladder leads up to a small trapdoor in the ceiling.
+~
+125 d 5
+D4
+A narrow ladder leads upwards.
+~
+trapdoor trap~
+1 -1 12563
+D5
+The iron stairway leads downwards.
+~
+~
+0 -1 12561
+S
+#12563
+The Roof of The Folly~
+   You are instantly stung by spray from the ocean, but stout railings 
+make it easy to keep your footing. Your first instinct is to climb down 
+the ladder and back inside, but it might be possible to swim back to 
+the mainland from here.
+~
+125 d 0
+D5
+A narrow ladder leads down.
+~
+trapdoor trap~
+1 -1 12562
+S
+#12564
+South-West Corner of Jubilee Square~
+   You stand at the southwest corner of a large bustling square. All 
+around you the citizens of Delray go about their daily business, 
+apparently unaware of the fact that the city is several hundred feet 
+below the ocean. Coral grows haphazardly over the buildings and long 
+fronds of seaweed grow from between the paving slabs on the ground.
+~
+125 d 0
+D0
+Jubilee square extends further to the north.
+~
+~
+0 -1 12569
+D1
+Jubilee square extends further to the east.
+~
+~
+0 -1 12565
+D2
+A wide street leads south towards the palace.
+~
+~
+0 -1 12539
+S
+#12565
+South-East Corner of Jubilee Square~
+   Sand swirls around your feet as you walk around the square. Just to 
+the east you can see a tiny shop, although it appears to be selling 
+mainly junk. The square extends further to the north, and in the 
+distance you think you can make you some kind of monument.
+~
+125 d 0
+D0
+Jubilee square extends further to the north.
+~
+~
+0 -1 12570
+D1
+You see a little junk shop to the east.
+~
+~
+0 -1 12566
+D3
+Jubilee square extends further to the west.
+~
+~
+0 -1 12564
+S
+#12566
+Jakat's Junk Shop~
+   You stop short upon entering the Jakat's Junk Shop. There is no room 
+for you to move at all, the piles of collected bric-a-brac slope 
+outwards from all four corners, threatening to bury you. Glancing around 
+you notice a halfling, apparently trapped in the heap of assorted junk. 
+On closer inspection however you realise that this is the proprietor, 
+wonder if he has anything worth buying?
+~
+125 d 0
+D3
+You can go outside to Jubilee Square.
+~
+~
+0 -1 12565
+S
+#12567
+End of Kingdom Road~
+   Kingdom Road ends rather surprisingly at a vertical cliff. You 
+imagine that before the sinking it was a busy highway, encouraging trade 
+with distant Stanneg in the mountains. Strong currents swirl around 
+you, making it difficult to keep your footing. You have no option but 
+to return along Kingdom Road to the centre of Delray.
+~
+125 d 0
+D1
+A wide paved road heads east.
+~
+~
+0 -1 12568
+S
+#12568
+Kingdom Road~
+   The Kingdom Road leads west from Jubilee Square towards Draconia and
+the mining town of Stanneg in the Mountains. Of course its not been used
+since Delray was sunk beneath the ocean, but it might be worth 
+investigating where it leads. You are not along on the Kingdom Road - a 
+swirl of colorful fish dance around your head, and silky seaweeds 
+entangle themselves about your legs.
+~
+125 d 0
+D1
+You see a large open square to the east.
+~
+~
+0 -1 12569
+D3
+Kingdom Road continues west.
+~
+~
+0 -1 12567
+S
+#12569
+North-West Corner of Jubilee Square~
+   Two wide paved roads leave the square from the northwest corner, one 
+leading north and the other making its way west. In the heyday of the 
+Kingdom of Delray, these roads lead to other great trading nations, the 
+mining town of Stanneg in the mountains, and Rome and Tynstri in the 
+north. Noone appears to walk these roads now, seaweeds have grown up 
+between the huge paving slabs and hundreds of tiny fish flit about. 
+~
+125 d 0
+D0
+The North Road leads, well, north.
+~
+~
+0 -1 12578
+D1
+Jubilee Square extends further to the east.
+~
+~
+0 -1 12570
+D2
+Jubilee Square extends further to the south.
+~
+~
+0 -1 12564
+D3
+The Kingdom Road leads west.
+~
+~
+0 -1 12568
+S
+#12570
+North-East Corner of Jubilee Square~
+   The north side of Jubilee square is slightly less busy than the 
+south. A few citizens wander around with barely a glance at the strange 
+sights that make you stare in amazement. Your attention is immediately 
+drawn to a large monument just to the north, although the gates just 
+visible to the east might also be worth investigating.
+~
+125 d 0
+D0
+You can see a large statue just to the north.
+~
+~
+0 -1 12579
+D1
+A wide street heads east.
+~
+~
+0 -1 12571
+D2
+Jubilee Square extends further to the south.
+~
+~
+0 -1 12565
+D3
+Jubilee Square extends further to the west.
+~
+~
+0 -1 12569
+S
+#12571
+Jubilee Street~
+   Large sprawling single storey hobbit homes lie both to the north and 
+south. The little doorways look very secure - it seems likely that 
+waking up with a family of crabs in your bed, or a shark in your privvy 
+is not even slightly amusing. It seems unlikely that any of the 
+inhabitants will allow you into their homes, hobbits are very private 
+folk. A strip of sandy earth down the centre of the street is filled 
+with growing fronds of seaweed and decorative outcrops of coral. Jubilee 
+Street opens onto a large square to the west, and continues east.
+~
+125 d 0
+D0
+You can see a hobbit home sprawling out to the north.
+~
+~
+807 -1 12571
+D1
+Jubilee Street continues east.
+~
+~
+0 -1 12572
+D2
+You can see a hobbit home sprawling out to the south.
+~
+~
+807 -1 12571
+D3
+Jubilee Square lies to the west.
+~
+~
+0 -1 12570
+S
+#12572
+Jubilee Street~
+   Jubilee Street passes between large sprawling single storey hobbit 
+habitations to the north and south. Hobbits are notoriously private 
+creatures, so it seems unlikely you will find any of these homes 
+unlocked. A wide strip of earth down the centre of the street contains 
+tall seaweed and narrow fluted spires of pink and red coral. Thousands 
+of tiny fish flit about the seaweed, making the whole centre of the 
+street seem alive.
+~
+125 d 0
+D0
+You can see a hobbit home sprawling out to the north.
+~
+~
+807 -1 12572
+D1
+Jubilee Street continues east.
+~
+~
+0 -1 12573
+D3
+Jubilee Street continues west.
+~
+~
+0 -1 12571
+D2
+You can see a hobbit home sprawling out to the south.
+~
+~
+807 -1 12572
+S
+#12573
+Jubilee Gates~
+   Jubilee Street ends before a pair of tall silvery gates. Someone has
+attached a large sign to the gates, which might be worth reading. 
+Peering through the narrow bars of the gate you see that the water 
+shimmers strangely as if the ocean currents cannot pass beyond the gate.
+~
+125 d 0
+D1
+A tall pair of silvery gates stand to the east.
+~
+gates silvery~
+1 -1 12574
+D3
+Jubilee Street leads west.
+~
+~
+0 -1 12572
+E
+sign notice warning~
+
+
+
+            #B +----------------------------------+
+            #B |                                 #B |
+            #B |          #RW A R N I N G          #B |
+            #B |                                  #B  |
+            #B |  #YThese gates marks the boundary #B   |
+            #B | #Yof Delray's protection from the #B |
+            #B |   #Ysea. You will need your own   #B |
+            #B |     #Yprotection from here on.    #B |
+            #B |                   #Y-Malaig       #B |
+            #B +----------------------------------+#N
+
+
+~
+S
+#12574
+Coral Trail~
+   Pillars and outcrops of delicate coral stand all around you forming 
+an impassable barrier to the south and east. The walls and gates of 
+Delray just to the west are covered by the fine pinkish corals, 
+although there seems to be a route through to the north.
+~
+125 d 8
+D0
+A narrow trail leads through the delicate coral.
+~
+~
+0 -1 12575
+D3
+A tall pair of silvery gates stand to the west.
+~
+gates silvery~
+1 -1 12573
+S
+#12575
+Coral Trail~
+   Pillars and outcrops of delicate coral stand all around you forming 
+an impassable barrier to the south and east. The walls and gates of 
+Delray just to the west are covered by the fine pinkish corals, 
+although there seems to be a route through to the east and south.
+~
+125 d 8
+D1
+A narrow trail leads through the delicate coral.
+~
+~
+0 -1 12576
+D2
+A narrow trail leads through the delicate coral.
+~
+~
+0 -1 12574
+E
+coral pillar pillars~
+The coral really is quite beautiful, shimmering in a thousand colours, 
+and teeming with life. Little polyps feed if the drifting plankton, 
+and fish of all sizes feed off the crustaceans and each other!
+~
+S
+#12576
+Coral Trail~
+   Tall delicate spirals, and broad outcrops of pink and white coral 
+glitter all around you. The swirling sand, and the bright fish 
+flitting this way and that obscure your view, although you can see 
+a trail through the coral spires to the east and west.
+~
+125 d 8
+D1
+A narrow trail winds through the coral.
+~
+~
+0 -1 12577
+D3
+A narrow trail winds through the coral.
+~
+~
+0 -1 12575
+E
+coral pillar pillars~
+The coral really is quite beautiful, shimmering in a thousand colours, 
+and teeming with life. Little polyps feed if the drifting plankton, 
+and fish of all sizes feed off the crustaceans and each other!
+~
+S
+#12577
+Before The Folly~
+   The pathway through the coral comes to a dead end. The living 
+barriers to the north and south butt up against a huge tower, which 
+stretches up towards the ocean surface. You wouldn't want to damage 
+the coral by clambering all over it, so there is no way you can 
+continue. There appears to be a tiny window in the tower, just 
+above the level of the sandy sea bottom.
+~
+125 d 8
+D3
+There is a clear pathway through the coral leading west.
+~
+~
+0 -1 12576
+E
+window slit grate~
+You swish the sand away from the tiny window with one hand, nearly 
+choking as it swirls up about your face. When it finally clears you 
+peer through the window and into the tower. It appears to be mostly 
+empty, with a few items of damaged armour left strewn about. A rusted 
+iron stairway winds it's way up the centre of the tower until it 
+disappears from sight. Staring down the tower you think you can make 
+out a tiny wooden door far below.
+~
+E
+tower~
+Despite searching all around, you are unable to find any sign of a way 
+in. You can't seem to figure out where the entrance could be.
+~
+S
+#12578
+North Road~
+   A wide paved road leads north out of the city of Delray. Also called 
+the Marching Road, this was the main route by which Delray's legions 
+went to war against the Morian hordes. You think you can make out a tall 
+gate to the north, while to the south the road opens into a wide square.
+Fronds of seaweed try and wrap themselves around your legs.
+~
+125 d 0
+D0
+The Marching Road leads north.
+~
+~
+0 -1 12581
+D2
+The road opens into a wide square.
+~
+~
+0 -1 12569
+S
+#12579
+Victory Monument~
+   This towering statue commemorates a great victory for the Kingdom 
+forces, over the evil hoardes of orcs and kobolds from the Moria 
+mountains. It consists of a proud halfling soldier, wounded and in 
+battered armour, standing over the corpses of several mean looking 
+orcs. The base of the statue is decorated with hundreds of silvery
+symbols of the city of Delray.
+~
+125 d 0
+D2
+Jubilee Square lies just to the south.
+~
+~
+0 -1 12570
+D5
+Carefully examining the base of the statue, you notice a tiny release 
+lever concealed near the corner.
+~
+crawlspace~
+1 -1 12580
+E
+base~
+The base bears many six-pointed stars of silver - the symbol of the
+City and Kingdom of Delray. A tiny trapdoor set in the base leads 
+into a crawlspace beneath the monument.
+~
+S
+#12580
+Crawlspace~
+   This tiny recess beneath the statue is a hiding place for local 
+priests in the event that Delray is invaded. It is no surprise to you 
+that if a halfling has to crawl in here, you are forced to wriggle on 
+your belly like a snake. You hope that you can turn around though, 
+otherwise you might become stuck in here forever.
+~
+125 d 0
+D4
+You can crawl upwards out of this tiny hole.
+~
+crawlspace~
+1 -1 12579
+S
+#12581
+North Arch~
+   The North Road passes beneath a huge arch, blocked by a pair of tall 
+bronze studded gates. Looking above the arch the water shimmers 
+strangely, as if the ocean currents cannot pass over the barrier. 
+Hoards of tiny fiddler crabs scuttle in and out of small holes in the 
+city wall where they have made their homes. If you can't get past the 
+gate, then the only way to go is south.
+~
+125 d 0
+D0
+The gates just won't budge!
+~
+~
+807 -1 12581
+D2
+The wide North Road leads south.
+~
+~
+0 -1 12578
+E
+gate gates arch~
+No matter how hard you push, there is no way to shift the massive gates. 
+Their centuries under the sea have not weakened them in the slightest - 
+they must be magically sealed.
+~
+S
+#99999
+$~

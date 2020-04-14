@@ -1,0 +1,133 @@
+#94
+Galaxy~
+9499 150 2
+M 0 9401 3 9413      Load poor mudders
+M 0 9401 3 9422
+M 0 9401 3 9423     
+*
+M 0 9402 6 9404      load stars
+M 0 9402 6 9408
+M 0 9402 6 9412
+M 0 9402 6 9421
+M 0 9402 6 9433
+M 0 9402 6 9455
+*
+M 0 9403 3 9410      load young nebulas
+M 0 9403 3 9418
+M 0 9403 3 9422
+*
+M 0 9404 10 9422       comets with tail's
+E 1 9401 10 16
+M 0 9404 10 9408       comets with tail's
+E 1 9401 10 16
+M 1 9401 10 9413
+E 1 9401 10 16
+M 0 9404 10 9405       comets with tail's
+E 1 9401 10 16
+M 0 9404 10 9417       comets with tail's
+E 1 9401 10 16
+*
+M 0 9405 4 9404         load red supergiants
+M 0 9405 4 9408
+M 0 9405 4 9409
+M 0 9405 4 9413
+*
+M 0 9406 3 9406         load white dwarfs
+M 0 9406 3 9414
+M 0 9406 3 9422
+*
+M 0 9407 1 9410         load horsehead nebula
+*
+M 0 9408 1 9430         load Andromeda
+E 1 9428 5 17           give chains
+*
+M 0 9409 1 9432         load hercules
+E 1 9402 3 10           give him arm plates.
+*
+M 0 9410 1 9417         load pegasus
+*
+M 0 9411 1 9428         load Orion
+E 1 9404 3 13           load belt
+*
+M 0 9412 7 9426         Load Pleiades
+M 0 9412 7 9426
+M 0 9412 7 9426
+M 0 9412 7 9426
+M 0 9412 7 9426
+M 0 9412 7 9426
+M 0 9412 7 9426
+*
+M 0 9413 1 9463        head of draco
+G 1 9405 5             ugly skull             
+*
+M 0 9414 2 9458        load baby Draco       
+M 0 9414 2 9460
+*
+M 0 9415 1 9442         Load Aries
+G 1 9424 100              Give him spring key
+D 1 9439 4 2            Lock door only if key is resetted
+D 1 9454 5 2
+E 1 9406 6 3            give him fleece
+*
+M 0 9416 1 9443         load taurus
+E 1 9407 3 8            give him hoof
+*
+M 0 9417 1 9444         load gemini            
+*
+M 0 9418 1 9444         load hidden gemini
+E 1 9408 3 6            give him mask
+*
+M 0 9419 1 9445         Load Cancer
+G 1 9425 100              Give him key
+D 1 9454 4 2            Lock door only if key is resetted
+D 1 9455 5 2
+E 1 9409 3 5               give him shell of cancer
+*
+M 0 9420 1 9446          load leo
+E 1 9410 3 12            give him skin of leo
+*
+M 0 9421 1 9447          load virgo  
+E 1 9411 5 14            give him bracelet
+*
+M 0 9422 1 9448         Load Libra
+G 1 9426 100              Give key
+D 1 9459 1 2            Lock door only if key is resetted
+D 1 9460 3 2
+G 1 9412 3              give scales
+E 1 9413 3 11         
+*
+M 0 9423 1 9449         load scorpio
+E 1 9414 3 16           give him sting of scorpio
+*
+M 0 9424 1 9450         load sagitarus
+E 1 9415 3 17           arrow
+E 1 9416 3 16           bow
+*
+M 0 9425 1 9451         Load Capricon
+G 1 9427 100              Give key
+D 1 9463 2 2            Lock door only if ...
+D 1 9464 0 2 
+E 1 9417 3 9
+*
+M 0 9426 1 9452         load aquarius
+E 1 9418 8 17           give him the vessel
+*
+M 0 9427 1 9453         load pisces mermaid
+E 1 9419 3 7            give him tail
+*
+M 0 9428 1 9453         load pisces fish
+*
+M 0 9429 1 9470         ursa major
+*
+M 0 9430 1 9465         load queen
+E 1 9420 5 1            give her ring of dignity 
+*
+M 0 9431 1 9467         load king 
+E 1 9421 5 0            give him scepter of might
+*
+M 0 9432 1 9471         load Polaris
+E 1 9422 5 2            give him ring of the universe
+E 1 9423 5 16           give him dipper.
+S
+#99999
+$~

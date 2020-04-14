@@ -1,0 +1,196 @@
+#28300
+sandwich sprout annies~
+Annie's avocado and alfalfa sprout sandwich~
+Annie has made some avocado and alfalfa sprout sandwiches to eat.~
+~
+19 1 0 n ao
+24 0 0 0 0 0
+0 20 20
+E
+sandwich sprout annies~
+Thick, moist slices of Annie's homemade bread have been spread with a
+ripe avocado and some crunchy sprouts.  Thinly sliced tomatoes,
+cucumbers, mushrooms and some unidentifiable green stuff complete the
+sandwich.  
+~
+#28301
+sandwich ham~
+a thickly sliced ham sandwich~
+Thick slices of ham rest between hand cut slices of homemade bread.~
+~
+19 1 0 n ao
+24 0 0 0 0 0
+0 20 20
+E
+ham sandwich~
+Everything you ever loved about a ham sandwich is here in this one.
+Enjoy!
+~
+#28302
+moussaka~
+a large square of moussaka~
+Hot and juicy, smelling of eggplant and lamb, a large square of moussaka
+tempts you.~
+~
+19 1 0 n ao
+24 0 0 0 0 0
+0 20 20
+E
+moussaka~
+An Elysium house specialty, this moussaka will fill you up and give you
+energy for fighting for many hours to come.
+~
+#28303
+U-235 local speciality~
+a glowing U-235 glass~
+Tynstar's special drink, U-235, sits here smokin'.~
+~
+17 1 0 a ado
+10 10 8 0 0 0
+1 50 0
+E
+U-235~
+Smoke slowly spirals from the strange, greenish liquid in this glass.
+Tynstar's not telling exactly what's in it, just that it's responsible
+for his glow.
+~
+#28304
+fudge~
+a large square of milk chocolate fudge~
+A dark brown square smells like chocolate.~
+~
+19 1 0 n ao
+24 0 0 0 0 0
+0 20 20
+E
+fudge chocolate~
+A large thick square of fudge has been made from chocolate and sugar
+cooked til they melt together.  Mouth watering ... !
+~
+#28305
+meatballs meatball~
+two lovely meatballs swimming in sauce~
+A small plate tempts you with two large juicy meatballs.~
+~
+19 1 0 n ao
+24 0 0 0 0 0
+0 20 10
+E
+meatballs~
+Elysium warriors discovered this lovely dish on one of their campaigns
+far from home.  Dinner for many of them is now often meatballs and fried
+potatoes or a meatball sandwich.
+~
+#28306
+milk~
+a cold glass~
+A tall, cold glass of milk is covered with cool drops of condensation.~
+~
+17 1 0 0 ado
+10 10 10 0 0 0
+1 30 0
+E
+milk~
+It does a body good.
+~
+#28307
+retsina~
+a bottle of retsina~
+Add some water to this retsina to watch it cloud.~
+~
+17 1 0 0 ado
+10 10 8 0 0 0
+1 80 0
+E
+retsina~
+Another prize brought back from campaigns far away, this retsina has a
+faint taste of licorice.
+~
+#28308
+Irish whiskey shot~
+a shot of Irish~
+This strong Irish whiskey is a favorite of the elves.~
+~
+17 1 0 0 ado
+10 10 5 0 0 0
+1 50 0
+E
+Irish whiskey~
+Golden in the bottle, golden fire as you swallow it.  Potent as an elf
+king.
+~
+#28309
+beer tall cold one~
+a tall cold one~
+A tall cold glass of beer looks very refreshing to a hot and sweaty
+warrior.~
+~
+17 1 0 0 ado
+10 10 1 0 0 0
+1 10 0
+E
+beer tall cold one~
+A tall cold, frothy glass of beer is the drink of choice for many of
+the Elysium clan.
+~
+#28310
+forget-me-not flower scroll recall~
+a forget-me-not flower~
+The soft blue petals of the forget-me-not are the color of the sky on a
+summer morning.~
+~
+2 0 0 0 ao
+40 42 16 16 0 0
+1 900 1
+E
+forget-me-not flower scroll~
+Jellie gives Flyn one of these flowers every morning so he'll always
+have a safe way home.
+~
+#28311
+scroll encyclopedia book~
+an encyclopedia~
+The Encyclopedia of Strange and Unusual Items looks like it might be
+good reading - for the sleep-deprived.~
+~
+2 1 0 0 a
+30 53 -1 -1 0 0
+5 2200 0
+E
+book encyclopedia~
+This heavy tome contains information about just about everything you
+are likely to run into in Tynstri.
+~
+#28312
+powdered bat dust wings spoonful~
+a spoonful of powdered bat wings~
+A small pile of gray dust should be swept up.~
+~
+10 15 0 0 ao
+25 45 -1 -1 -1 0
+1 380 1
+E
+dust spoonful bat wings powdered wing~
+A small amount of this sticky powder is all that is left of what used to
+be the wings of a healthy vampire bat.  The bat is enchanted and fed
+some powerful drugs over a period of several months.  His final feeding
+is from an elven virgin (male or female).  His wings are then cut from
+his body while he is still alive, carefully burned on an altar of
+obsidian, then ground into this powder.
+~
+#28313
+truesight clear potion romeobj~
+a clear potion of truesight~
+There is a beaker of truesight, lying discarded.~
+~
+10 1 0 0 a
+90 18 19 20 0 0
+8 1000 100
+E
+potion~
+The label reads,
+
+       #wSometimes clarity of vision is a curse, not a blessing.#N
+~
+#99999
+$~

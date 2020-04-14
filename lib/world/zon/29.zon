@@ -1,0 +1,92 @@
+#29
+The Library~
+2999 1 0
+*
+*********************************************************************** 
+* HOW TO SET UP THE BOOKS AND LIBRARY CARDS *
+* 
+* The following zone commands are needed for each portal:
+*
+* L 0 <room #> <portal #> <destination>
+* A 1 <room #> 1 <key #>
+*
+* When adding a new portal (book), just specify the zone commands as
+* indicated, and either assign an existing key or make a new one.
+* The same key can be used for several portals, just as the same 
+* portal can be used with several keys.  New books can (and should)
+* be made as needed.
+*
+* If a new key (library card) is made, remember to add it to the
+* inventory of the librarian as well as to her shop file.
+*
+* Any questions, mail Kaleen (kaleen@artemisian.org).
+*
+***********************************************************************
+* 
+* HOW THIS FILE IS ORGANIZED *
+*
+* Mobs
+* Circulation and her inventory - This is where the library cards go!
+* Books (Portals) Arranged by Room
+*
+***********************************************************************
+*
+* MOBS *
+*
+M 0 2900 4 2900 * a librarian
+M 0 2900 4 2911 * a librarian
+M 0 2900 4 2916 * a librarian
+M 0 2900 4 2927 * a librarian
+M 0 2901 1 2915 * the student
+M 0 2902 1 2906 * little boy
+M 0 2903 1 2914 * head librarian
+*
+***********************************************************************
+*
+* CIRCULATION LIBRARIAN AND LIBRARY CARDS*
+* REMEMBER: If you add library cards here, also add them to the .shp!
+*
+M 0 2904 1 2912 * load her up!
+G 1 2902 100 	* Children's card (ml 1)
+G 1 2903 100	* Young Adult's card (ml 25)
+G 1 2904 100	* Adult's card (ml 50)
+G 1 2905 100	* Scholar's card (ml 80)
+*
+***********************************************************************
+*
+* BOOKS (Portals) - Arranged by room *
+*
+* New Arrivals (2909) - Max of FOUR at any time!!!
+* L 0 2909 2906 12700	* Were-home/Adult
+* A 1 2909 1 2904   	*
+* L 0 2909 2907 20800 	* School of the Mind/Adult
+* A 1 2909 1 2904  	*
+* L 0 2909 2908 21201	* Jungle and Miqi'erke/Adult
+* A 1 2909 1 2904	*
+*
+* Children's Books (2906)
+L 0 2906 2910 11000	* Nursery Rhymes/Children's
+A 1 2906 1 2902		*
+*
+L 0 2906 2912 11210 *Fables/Children's
+A 1 2906 1 2902
+*
+* Young Adults (2900)
+* 
+* Reference (2911)
+*
+* History/Rare Books (2908)
+*
+L 0 2908 2911 11200 * History of the Kai Clan/Children's
+A 1 2908 1 2902
+*
+* Mythology (2915)
+*
+* The Classics (2929)
+*
+* Adult Fiction (2926)
+*
+***********************************************************************
+S
+#99999
+$~

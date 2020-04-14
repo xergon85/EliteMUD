@@ -1,0 +1,7044 @@
+#17500
+Gate of The Haunted House~
+   You are in front of a six by twenty foot gate.  To the north is the
+entryway.
+~
+175 1 1
+D0
+A gate leading into the house
+~
+gate huge~
+1 -1 17501
+S
+#17501
+Entryway~
+   You have entered the entryway of the haunted house.  You can hear
+creepy sounds and wails coming from somewhere deep within the keep
+itself.  The place gives you the feeling that the walls themselves are
+alive.  You see a door to the north that appears to go deeper into the
+house.  There is also the gate to the south.
+~
+175 524313 0
+D0
+Hallway
+~
+~
+0 -1 17502
+D2
+A gate leading outside
+~
+gate huge~
+1 -1 17500
+S
+#17502
+Hallway~
+   From here you can see the dining room to the west and a long hallway
+to the north.
+~
+175 9 1
+D0
+Hallway
+~
+~
+0 -1 17504
+D2
+Hallway
+~
+~
+0 -1 17501
+D3
+An archway leading into the formal dining room.
+~
+~
+0 -1 17503
+S
+#17503
+Formal Dinning Room~
+   You have entered the formal dining room.  If you listen carefully
+you swear you can hear the screams of the cook who use to cook for this
+keep.  There appears to be an exit in the northwest portion of the room.
+~
+175 9 0
+D0
+Swinging doors that appear to lead to the preparing room
+~
+~
+0 -1 17512
+D1
+Archway leading to a hallway
+~
+~
+0 -1 17502
+S
+#17504
+Hallway~
+   From this vantage point, you are able to see that the hallway bends
+to the east some twenty feet ahead. There is also a curtain that 
+allows entry into a room to the east.  To the north is the base of what
+appear to be stairs.
+~
+175 9 0
+D0
+Base of Stairs
+~
+~
+0 -1 17509
+D1
+You see a curtain that seems to glow.
+~
+~
+0 -1 17505
+D2
+Hallway
+~
+~
+0 -1 17502
+E
+curtain~
+This curtain grabs your eyes.  It seems that it is made of some far out
+trippy colors that seem to make you want to sleep.  Some how you
+manage to shake it off, but you get the feeling that you better leave
+this room fast.
+~
+S
+#17505
+Northwest Living Room~
+   From this corner you see something to the east of here.  To the south
+is some sort of table.
+~
+175 9 0
+D1
+Northeast Living Room
+~
+~
+0 -1 17508
+D2
+Southwest Living Room
+~
+~
+0 -1 17506
+D3
+Curtain leading to the Hallway
+~
+~
+0 -1 17504
+S
+#17506
+Southwest Living Room~
+   As you enter this room the first thing that catches you eye is an
+awesome pool table.  To the east you see a faint glow.
+~
+175 8 0
+D0
+Northwest Living Room
+~
+~
+0 -1 17505
+D1
+Southeast Living Room
+~
+~
+0 -1 17507
+E
+pool table awesome~
+   The pool table is made of the finest wood and the greenest felt
+you have ever seen on a table in your life.  The table itself is 12x4.
+To the left of the table on the wall you see some of the nicest sticks
+you ever could use to play with.
+~
+S
+#17507
+Southeast Living Room~
+   The second you enter this room you feel the weariness of a day's
+journey begin to fade quickly.  In the southeast corner, there is a huge
+Fireplace giving off a nice glow.  Spread out around the room are pillows,
+cushions, and chairs of all sizes, meant for many different races and
+species.  You feel like you would be safe here from the cold
+winter nights.  Further to the north are some shelves and cabinets.
+~
+175 524312 0
+D0
+Northeast Living Room
+~
+~
+0 -1 17508
+D3
+Southwest Living Room
+~
+~
+0 -1 17506
+E
+glow fire heat light~
+The blaze comes up about 2 feet over the edge and seems to glow in a
+mixture of every color in the spectrum and probably some you can't see.
+~
+E
+fireplace rock lifegiver~
+As you gaze into the firepit you notice that it is made of some of the
+oldest but strongest stones that you have ever seen.  This could be the
+firepit of the gods except for the fact that you are on the mortal
+plane.  The pit is eight feet in diameter and four feet in depth, and it
+gives off a nice amount off light and heat.
+~
+S
+#17508
+Northeast Living Room~
+   This section of the room looks to be set aside for the intellectual.
+There are numerous shelves lining the walls with books, scrolls, and
+parchments.  In the center of the room is a table that has been placed
+in an angle comfortable for reading.  On the north wall there appears to
+be a cabinet.  A relaxing room is to the south, and to the west you see
+the entry room.
+~
+175 16408 0
+D2
+Southeast Living Room
+~
+~
+0 -1 17507
+D3
+Northwest Living Room
+~
+~
+0 -1 17505
+S
+#17509
+Base of the Stairs~
+   You are at the base of stairs leading up to the second floor.  The
+hallway continues to the north.
+
+~
+175 9 0
+D0
+Hallway
+~
+~
+0 -1 17513
+D2
+Hallway
+~
+~
+0 -1 17504
+D4
+Stairs
+~
+~
+0 -1 17510
+S
+#17510
+Stairs~
+   You are on the stairs.
+~
+175 9 0
+D4
+The landing
+~
+~
+0 -1 17523
+D5
+Base of the Stairs
+~
+~
+0 -1 17509
+S
+#17511
+Cooking Area~
+   You are in the area used for cooking the food.  There are bones and
+scraps all over the floor and the smell of death is in the air.  You
+feel that at any moment something should jump out at you.  There is a
+steel door to the north that leads to the cook's room.  To the south
+appears to be a room where they prepare all of the meals to make them
+look pretty.  There is a wooden door to the east.
+~
+175 9 0
+D0
+A steel door to the cooks room
+~
+steel door~
+1 -1 17521
+D1
+Wooden door to a Hallway
+~
+wooden door~
+1 -1 17513
+D2
+Archway to preparing Area
+~
+~
+0 -1 17512
+S
+#17512
+The Preparing Area~
+   You have entered a room with all sorts of meals in the last stages of
+preparation.  In the center of the room is a long table with all sorts
+of delights.  To the north is the main cooking area and the formal
+dining room is to the south.
+~
+175 8 0
+D0
+Archway to the cooking area.
+~
+~
+0 -1 17511
+D2
+Swinging doors to the formal dinning room.
+~
+~
+0 -1 17503
+S
+#17513
+Hallway~
+   You have traversed twenty feet into the house.  The hallway continues
+to the north.  There's a bamboo door to the east and wooden door to the
+west.
+~
+175 9 0
+D0
+Hallway
+~
+~
+0 -1 17516
+D1
+Bamboo door to the bathroom
+~
+bamboo door~
+1 -1 17514
+D2
+Base of stairs
+~
+~
+0 -1 17509
+D3
+Wooden door to cooking area
+~
+wooden door~
+1 -1 17511
+S
+#17514
+Bathroom~
+   You can see the tub in the eastern corner of the room. There's also a
+sink in the northwest corner. To the north is a door to the den.
+~
+175 8 0
+D0
+Door to the den
+~
+door~
+1 -1 17519
+D3
+Bamboo door to the hallway
+~
+bamboo door~
+1 0 17513
+S
+#17515
+Walk in Closet~
+   This closet appears to be where the family kept games clothes and
+other useless items.
+~
+175 8 0
+D3
+~
+wood door~
+0 0 17519
+S
+#17516
+Hallway~
+   The hallway bends to the east.
+~
+175 9 0
+D1
+Hallway
+~
+~
+0 -1 17517
+D2
+Hallway
+~
+~
+0 -1 17513
+S
+#17517
+Hallway~
+   To the north is a landing that appears to lead down. To the east is a
+bamboo door that leads to the den.
+~
+175 9 0
+D0
+Landing
+~
+~
+0 -1 17518
+D1
+Bamboo door to den
+~
+bambo door~
+1 -1 17519
+D3
+Hallway
+~
+~
+0 -1 17516
+S
+#17518
+The Landing~
+   There is a big black spiraling staircase going down from here.  It
+appears to be strong and sturdy, but looks like it goes down for quite a
+ways.
+~
+175 9 0
+D2
+Hallway
+~
+~
+0 -1 17517
+D5
+On the spiral staircase
+~
+~
+0 -1 17520
+S
+#17519
+Den~
+   This is where you can all get together and have a good time.  There's
+a couch and a TV for your enjoment.  If you are really lucky there might
+be cookies in here too.  To the south is a wooden door to the bathroom,
+and a bamboo door is to the east.
+~
+175 8 0
+D1
+~
+bamboo door~
+0 0 17515
+D2
+Wood door to walk in closet
+~
+wood door~
+1 -1 17514
+D3
+Bamboo door to hallway
+~
+bamboo door~
+1 0 17517
+S
+#17520
+The Spiral Staircase~
+   You are on the first part of a staircase. As you look down it appears
+to go on forever.
+~
+175 9 0
+D4
+The landing
+~
+~
+0 -1 17518
+D5
+More Stairs
+~
+~
+0 -1 17659
+S
+#17521
+The Cook's Room~
+   There are a bed and a few cabinets thrown haphazardly around the
+room.  To the north is a private exit for the cook.  To the south is a
+steel door to the kitchen, and to the west is a bamboo door to his
+private bathroom.
+~
+175 9 0
+D2
+Steel door to the cooking area.
+~
+steel door~
+1 -1 17511
+D3
+Bamboo door to the bathroom
+~
+bamboo door~
+1 -1 17522
+S
+#17522
+Bathroom~
+   This is a very smelly and disgusting bathroom.  It looks like it has
+never been cleaned.  Things seem to be growing from every corner of the
+room.
+~
+175 9 0
+D1
+Bamboo doors to cooks room.
+~
+bamboo door~
+1 0 17521
+S
+#17523
+The Landing~
+   You are on the landing of the second floor.  To the south is a
+hallway that appears to bend to the west.
+~
+175 9 0
+D2
+Archway to a hallway.
+~
+~
+0 -1 17524
+D5
+To the stairs.
+~
+~
+0 -1 17510
+S
+#17524
+Hallway~
+   You are at the beginning of a long hallway that leads to the west.
+To the south is a wooden door to a spare bedroom.
+~
+175 9 0
+D0
+Archway to the landing.
+~
+~
+0 -1 17523
+D2
+Wood door to spare bedroom
+~
+wood door spare~
+1 -1 17525
+D3
+Hallway
+~
+~
+0 -1 17526
+S
+#17525
+The Spare Bedroom~
+   You have entered the average typical spare bedroom.  In the middle of
+the room is a bed made all proper and looks like it has not been slept
+in, in ages.  On the west wall is a closet and a small unlit lantern
+hanging from the ceiling.
+~
+175 9 0
+D0
+Wood door to hallway.
+~
+~
+0 -1 17524
+S
+#17526
+Hallway~
+Continues to the west
+~
+175 9 0
+D1
+Hallway
+~
+~
+0 -1 17524
+D3
+Hallway
+~
+~
+0 -1 17527
+S
+#17527
+Hallway~
+   As you enter this part of the hallway you can see a walk-in closet
+made of some of the finest maple to the south.  The hallway continues to
+the west and back to the east.
+~
+175 9 0
+D1
+Hallway
+~
+~
+0 -1 17526
+D2
+Maple Doors to a walk in closet.
+~
+maple door closet~
+1 -1 17528
+D3
+Archway to crossway
+~
+~
+0 -1 17530
+S
+#17528
+North End of the Walk-in Closet~
+   This room appears to be used for linens, vacuum cleaners, and brooms.
+It appears to be quite large and continues to the south.
+~
+175 9 0
+D0
+Maple door to the hallway.
+~
+maple door closet~
+1 -1 17527
+D2
+South end of the closet
+~
+~
+0 -1 17529
+S
+#17529
+South End of the Walk-in Closet~
+   The back end of this room appears to serve as a sewing room.  Pins
+and needles and yards of fabric cover the walls.  Sewing paraphenelia of
+all sorts fill several bags and boxes which have been stacked along the
+walls.
+~
+175 9 0
+D0
+North end of walk in closet.
+~
+~
+0 -1 17528
+S
+#17530
+Crossway~
+   From this room you can go north towards the master bedroom or west
+towards another bedroom.  To the south is a bamboo door that leads to a
+bathroom.
+~
+175 9 0
+D0
+Hallway
+~
+~
+0 -1 17539
+D1
+Hallway
+~
+~
+0 -1 17527
+D2
+Bamboo door to the bathroom
+~
+bamboo door~
+1 -1 17531
+D3
+Hallway
+~
+~
+0 -1 17532
+S
+#17531
+Bathroom~
+   There is a shower in the southeast corner and a sink in the opposite
+one.  There is also table with a chamber pot here.
+~
+175 8 0
+D0
+Bamboo door to crossway
+~
+bamboo door~
+1 -1 17530
+S
+#17532
+Hallway~
+   To the west you see the end of the hallway and what appears to be a
+door.  To the east is a crossway.
+~
+175 9 0
+D1
+Archway to the crossway.
+~
+~
+0 -1 17530
+D3
+Western end of hallway.
+~
+~
+0 -1 17533
+S
+#17533
+The Western End of the Hallway~
+   As you can see, the hallway in this direction has come to an end.
+There is a wooden door to the south that leads to the teenager's room.
+Of course, you can go back to the east if you want to.
+~
+175 9 0
+D1
+Hallway
+~
+~
+0 -1 17532
+D2
+Wood door to teenager's room.
+~
+wooden door~
+1 -1 17534
+S
+#17534
+The Northwest Corner of the Teenager's Room~
+   As you enter this room you can tell at once it is lived in by a messy
+person.  Thrown into a corner are clothes and what appears to be a
+basketball, but who knows with kids.  To the south is the bed area and
+to the east is what appears to be a reading and study area.
+~
+175 524296 0
+D0
+~
+wooden door~
+1 0 17533
+D1
+Northeast corner of teenager's room.
+~
+~
+0 -1 17536
+D2
+The Southwest Corner of the Teenager's Room.
+~
+~
+0 -1 17535
+S
+#17535
+The Southwest Corner of the Teenager's Room~
+   You see a big king-sized bed that looks extremely comfortable.  The
+room is dark and well-suited for sleeping.  To the west is an area for
+the young whelp to work out and practice his skills in, and to the north
+is the dirty entrance.
+~
+175 524296 0
+D0
+Northwest corner of teenager's room
+~
+~
+0 -1 17534
+D1
+Southeast corner of teenager's room
+~
+~
+0 -1 17537
+S
+#17536
+The Northeast Corner of the Teenager's Room~
+   As you enter you see a desk in the corner and a bookshelf on the
+north wall.  On the west wall is a large map of the known world.  To the
+south is an area for working out and practicing skills, and to the west
+is the dirty entryway.
+~
+175 524296 0
+D2
+Southeast corner of teenager's room.
+~
+~
+0 -1 17537
+D3
+Northwest corner of teenager's room.
+~
+~
+0 -1 17534
+S
+#17537
+The Southeast Corner of the Teenager's Room~
+   You see weapons of all sorts hanging from the south wall. Stacked
+against the east wall are different types of weights.  There is a bench
+in the middle of the room where one could work out.  To the east is a
+bamboo door that opens into a large closet.  To the west is the sleeping
+area and the study can be found to the north.
+~
+175 524296 0
+D0
+Northeast corner of teenager's room.
+~
+~
+0 -1 17536
+D1
+Wooden door to the walk in closet.
+~
+wood wooden door~
+1 -1 17538
+D3
+~
+~
+0 0 17535
+S
+#17538
+A Walk-in Closet~
+   This appears to be where the whelp stores clothes and various tidbits
+that he doesn't want his parents to find.  A mirror covers the east wall
+of this large closet.
+~
+175 9 0
+D3
+Wooden door leading to the workout room.
+~
+wood wooden door~
+1 -1 17537
+S
+#17539
+A Hallway~
+   You can see the master bedroom up a few feet north and to the west.
+There is a small string hanging from the ceiling. To the south is a
+crossway.
+~
+175 9 0
+D0
+A Hallway
+~
+~
+0 -1 17540
+D2
+Archway to the crossways.
+~
+~
+0 -1 17530
+D4
+~
+trapdoor hidden~
+2 -1 17559
+E
+string~
+As you look closely to the string you notice it is connected to a locked
+door that goes up to the attic.
+~
+S
+#17540
+A Hallway~
+   To the west you see a door made of the finest cherry.  To the north
+and south, the hallway continues.
+~
+175 9 0
+D0
+A Hallway
+~
+~
+0 -1 17552
+D2
+A Hallway
+~
+~
+0 -1 17539
+D3
+A fine cherry door to the master bedroom.
+~
+fine cherry door~
+1 -1 17541
+S
+#17541
+Master Bedroom, NE Corner~
+   As you enter this room you know at once that it is a master bedroom. 
+In the corner of the room is a stone table and a bowl -- This seems to
+be a place to leave your keys.  There are some hooks on the wall as
+well.  To the north is a bamboo door leading to a bathroom.  To the
+south is the bed and the west leads to a sitting area.
+~
+175 8 0
+D0
+Bamboo door leading to a bathroom.
+~
+bamboo bathroom door~
+1 -1 17547
+D1
+A fine cherry door leading to the hallway
+~
+fin cherry door~
+1 -1 17540
+D2
+Master bedroom, SE corner
+~
+~
+0 -1 17542
+D3
+Master bedroom, NW corner
+~
+~
+0 -1 17544
+E
+chani bowl fine~
+This bowl has some keys in the bottom.  It appears to be from the 5th
+dynasty.  It has to be valued at well over 3 million gold coins!  It
+draws your attention and you wonder if you could steal it with no-one
+knowing?
+~
+E
+stone table~
+It appears to be a stone table about 4 feet above the ground.  The table
+is made of fine polished marble.  On the top of the table there is a
+fine bowl made of some kind of china.
+~
+S
+#17542
+Master Bedroom, SE corner~
+   There is a huge bed in this corner.  Next to the bed is a end table.
+There is a bathrobe hanging off the end of the bed.  The north leads to
+the entryway and to the west is some sort of peaceful area that gives
+off a feeling of life.
+~
+175 524296 0
+D0
+Master bedroom, NE corner
+~
+~
+0 -1 17541
+D3
+Master bedroom, SW corner
+~
+~
+0 -1 17543
+E
+robe bathrobe~
+a simple Green robe.
+~
+E
+end table~
+A table made of maple stands on the left side of the bed.  It has a
+glass of water and a book resting on it.
+~
+E
+huge bed~
+The bed is a handmade oak four post bed.  It is six by seven feet,
+standing four feet off the ground.  Silk is draped from the center of
+the bed, creating a cozy curtain around it.
+~
+S
+#17543
+Master Bedroom, SW Corner~
+   You are awestruck when you walk in to this section of the room.  It
+has been given entirely up to the earth goddess.  There are vines and
+flowers and miniature trees growing everywhere.  You feel love and
+energy flowing into your veins.  You are sure you feel a small part of
+the Earth Mother herself in you.  You know for sure that no harm could
+come to you in this room.  To the west is a sliding glass door leading
+to a private deck for this room.  To the north is a reading area and to
+the east is the bed.
+~
+175 524316 0
+D0
+Master bedroom, NW corner
+~
+~
+0 -1 17544
+D1
+Master bedroom. SE corner
+~
+~
+0 -1 17542
+D3
+Sliding glass door to deck
+~
+sliding glass door~
+1 -1 17549
+S
+#17544
+Master Bedroom, NW Corner~
+   There are several bookshelves in the room filled with books.  To the
+north is an oak door leading to a walk-in closet.  To the south is a
+spot filled with several different plants.  The sliding glass door to
+the west leads out onto a deck overlooking the garden.  To the east is
+the entryway and the door to the bathroom.
+~
+175 24 0
+D0
+Oak door to closet
+~
+oak door closet~
+1 -1 17545
+D1
+Master bedroom, NE corner
+~
+~
+0 -1 17541
+D2
+Master bedroom, SW corner.
+~
+~
+0 -1 17543
+D3
+Sliding glass door to the deck.
+~
+sliding glass door~
+1 -1 17550
+S
+#17545
+South End of Closet~
+   The walls have hooks and rods all over with clothing hung upon them.
+On the floor you can see a nice shoe shelf filled with what appears to
+be at least 200 pairs of shoes. To the north is a small vanity table.
+~
+175 9 0
+D0
+North end of closet
+~
+~
+0 -1 17546
+D2
+Oak door to master bedroom, NW corner
+~
+oak door~
+1 -1 17544
+S
+#17546
+North End of Closet~
+   There is a small vanity table against the north wall.  The table
+seems to have everything you could ever need or want to make yourself
+pretty.
+~
+175 9 0
+D2
+Front of closet
+~
+~
+0 -1 17545
+S
+#17547
+South End of Bathroom~
+   At this end of the bathroom you can see a toilet, sink and shower. To
+the north is a Jacuzzi and a door to the hallway.
+~
+175 8 0
+D0
+North end of bathroom
+~
+~
+0 -1 17548
+D2
+Bamboo door leading to master bedroom, NE corner
+~
+bamboo bathroom door~
+1 -1 17541
+S
+#17548
+North End of Bathroom~
+   In this end of the bathroom is a relaxing Jacuzzi.  There is also a
+sauna in the northwestern corner of the room.  To the east is a bamboo
+door leading to the hallway.  The shower is to the east.
+~
+175 8 0
+D1
+Bamboo door to the hallway
+~
+bamboo door~
+1 -1 17551
+D2
+Front end of the bathroom
+~
+~
+0 -1 17547
+S
+#17549
+The Deck~
+   The deck overlooks a beautiful garden.  To the north is another part
+of the deck, and the east leads back into the bedroom.
+~
+175 4 0
+D0
+Deck
+~
+~
+0 -1 17550
+D1
+Sliding glass door to bedroom
+~
+sliding glass door~
+1 -1 17543
+S
+#17550
+The Deck~
+   The deck overlooks a beautiful garden.  To the south is another part
+of the deck, and the east leads back into the bedroom.
+~
+175 4 0
+D1
+Sliding glass door to bedroom
+~
+sliding glass door~
+1 -1 17544
+D2
+Deck
+~
+~
+0 -1 17549
+S
+#17551
+A Hallway~
+   You are in the northernmost end of the hallway.  To the west is a
+bamboo door leading to the bathroom that connects to the master bedroom.
+To the east is a bamboo door to another deck, and to the south is the
+hallway.
+~
+175 9 0
+D1
+Bamboo door to deck
+~
+bamboo door~
+1 -1 17558
+D2
+A Hallway
+~
+~
+0 -1 17552
+D3
+Bamboo door to bathroom
+~
+bamboo door~
+1 -1 17548
+S
+#17552
+A Hallway~
+   To the east is a bedroom with a bamboo door.  To the north is the end
+of the north hallway.  The hallway continues back towards the south.
+~
+175 9 0
+D0
+A Hallway
+~
+~
+0 -1 17551
+D1
+Bamboo door to a bedroom.
+~
+bamboo door~
+1 -1 17553
+D2
+A Hallway
+~
+~
+0 -1 17540
+S
+#17553
+Bedroom, NW Corner~
+   As you enter the door of the bedroom, to the north you can see a
+sliding glass door leading to the deck.  To the south is the bed. To the
+east is a reading area.
+~
+175 8 0
+D0
+Sliding glass door to the deck.
+~
+glass sliding door~
+1 -1 17558
+D1
+Bedroom, NE corner.
+~
+~
+0 -1 17556
+D2
+Bedroom, SW corner.
+~
+~
+0 -1 17554
+D3
+Bamboo door to hallway.
+~
+bamboo door~
+1 -1 17552
+S
+#17554
+Bedroom, SW Corner~
+   You can tell by the bed that this is not a spare bedroom, but it
+isn't the master bedroom either.  To the east is an area for clothes and
+such. To the north is the entryway.
+~
+175 8 0
+D0
+Bedroom, NW corner.
+~
+~
+0 -1 17553
+D1
+Bedroom, SE corner.
+~
+~
+0 -1 17555
+S
+#17555
+Bedroom, SE Corner~
+   This area as been converted into a junkyard of clothes.  To the north
+is a study area and the bed is to the west.
+~
+175 8 0
+D0
+Bedroom, NE corner.
+~
+~
+0 -1 17556
+D3
+Bedroom, SW corner.
+~
+~
+0 -1 17554
+S
+#17556
+Bedroom, NE Corner~
+   You have entered a nice study area.  There are bookshelves with the
+latest published books.  There is a nice couch and chair in the corner.
+To the north is a sliding glass door leading to a deck. There's a messy
+corner of clothes to the south and an entryway to the west.
+~
+175 8 0
+D0
+Sliding glass door to the deck.
+~
+sliding door~
+0 -1 17557
+D2
+Bedroom, SE corner.
+~
+~
+0 -1 17555
+D3
+Bedroom, NW corner.
+~
+~
+0 -1 17553
+S
+#17557
+Deck~
+   This deck overlooks the lake.  You can't trust your eyes, but you
+swear you can see mountains to the far north.  To the south is a sliding
+glass door that leads to the bedroom.
+~
+175 524288 0
+D2
+Sliding glass door to bedroom.
+~
+sliding glass door~
+1 -1 17556
+D3
+Deck
+~
+~
+0 -1 17558
+S
+#17558
+Deck~
+   This deck overlooks the lake.  You can't trust your eyes, but you
+swear you can see mountains to the far north.  To the south is a sliding
+glass door that leads to the bedroom.
+~
+175 524288 0
+D1
+Deck
+~
+~
+0 -1 17557
+D2
+Sliding glass door to bedroom.
+~
+sliding glass door~
+1 -1 17553
+D3
+~
+bamboo door~
+1 0 17551
+S
+#17559
+Landing~
+   You have just entered a maze.  You're screwed because you can't get
+back out the way you just came from.  The only way to go from here is
+east.
+~
+175 9 0
+D1
+A Hallway
+~
+~
+0 -1 17560
+S
+#17560
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17561
+D3
+Landing
+~
+~
+0 -1 17559
+S
+#17561
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17562
+D3
+A Hallway
+~
+~
+0 -1 17560
+S
+#17562
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17563
+D3
+A Hallway
+~
+~
+0 -1 17561
+S
+#17563
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D2
+A Hallway
+~
+~
+0 -1 17562
+D3
+A Hallway
+~
+~
+0 -1 17564
+S
+#17564
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17563
+D3
+A Hallway
+~
+~
+0 -1 17565
+S
+#17565
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17564
+D3
+A Hallway
+~
+~
+0 -1 17566
+S
+#17566
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17567
+D1
+A Hallway
+~
+~
+0 -1 17565
+S
+#17567
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17568
+D2
+A Hallway
+~
+~
+0 -1 17566
+S
+#17568
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17569
+D1
+A Hallway
+~
+~
+0 -1 17570
+D2
+A Hallway
+~
+~
+0 -1 17567
+S
+#17569
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D2
+A Hallway
+~
+~
+0 -1 17568
+S
+#17570
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17571
+D3
+A Hallway
+~
+~
+0 -1 17568
+S
+#17571
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17572
+D3
+A Hallway
+~
+~
+0 -1 17570
+S
+#17572
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D2
+A Hallway
+~
+~
+0 -1 17573
+D3
+A Hallway
+~
+~
+0 -1 17571
+S
+#17573
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17572
+D2
+A Hallway
+~
+~
+0 -1 17576
+D3
+A Hallway
+~
+~
+0 -1 17574
+S
+#17574
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17573
+D3
+A Hallway
+~
+~
+0 -1 17575
+S
+#17575
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17574
+S
+#17576
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17573
+D2
+A Hallway
+~
+~
+0 -1 17577
+S
+#17577
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17576
+D1
+A Hallway
+~
+~
+0 -1 17578
+S
+#17578
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17579
+D3
+HAllway
+~
+~
+0 -1 17577
+S
+#17579
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17580
+D3
+A Hallway
+~
+~
+0 -1 17578
+S
+#17580
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+Halway
+~
+~
+0 -1 17581
+D3
+A Hallway
+~
+~
+0 -1 17579
+S
+#17581
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17582
+D2
+A Hallway
+~
+~
+0 -1 17580
+S
+#17582
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D2
+A Hallway
+~
+~
+0 -1 17581
+D3
+A Hallway
+~
+~
+0 -1 17583
+S
+#17583
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17582
+D3
+A Hallway
+~
+~
+0 -1 17584
+S
+#17584
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17588
+D1
+A Hallway
+~
+~
+0 -1 17583
+D2
+A Hallway
+~
+~
+0 -1 17585
+S
+#17585
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17584
+D1
+A Hallway
+~
+~
+0 -1 17586
+S
+#17586
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17587
+D3
+A Hallway
+~
+~
+0 -1 17585
+S
+#17587
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D3
+A Hallway
+~
+~
+0 -1 17586
+S
+#17588
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17589
+D2
+~
+~
+0 0 17584
+S
+#17589
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17590
+D3
+A Hallway
+~
+~
+0 -1 17588
+S
+#17590
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17591
+D3
+A Hallway
+~
+~
+0 -1 17589
+S
+#17591
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D2
+A Hallway
+~
+~
+0 -1 17592
+D3
+A Hallway
+~
+~
+0 -1 17590
+S
+#17592
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17591
+D2
+A Hallway
+~
+~
+0 -1 17593
+S
+#17593
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17592
+D1
+A Hallway
+~
+~
+0 -1 17594
+S
+#17594
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17595
+D3
+A Hallway
+~
+~
+0 -1 17593
+S
+#17595
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17596
+D2
+A Hallway
+~
+~
+0 -1 17594
+S
+#17596
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D2
+A Hallway
+~
+~
+0 -1 17595
+D3
+A Hallway
+~
+~
+0 -1 17597
+S
+#17597
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17596
+D3
+A Hallway
+~
+~
+0 -1 17598
+S
+#17598
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17599
+D1
+A Hallway
+~
+~
+0 -1 17597
+S
+#17599
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17600
+D2
+A Hallway
+~
+~
+0 -1 17598
+S
+#17600
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17601
+D2
+A Hallway
+~
+~
+0 -1 17599
+S
+#17601
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17605
+D1
+A Hallway
+~
+~
+0 -1 17602
+D3
+A Hallway
+~
+~
+0 -1 17600
+S
+#17602
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D2
+A Hallway
+~
+~
+0 -1 17603
+D3
+A Hallway
+~
+~
+0 -1 17601
+S
+#17603
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17602
+D3
+A Hallway
+~
+~
+0 -1 17604
+S
+#17604
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17603
+S
+#17605
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D2
+A Hallway
+~
+~
+0 -1 17601
+D3
+~
+~
+0 0 17606
+S
+#17606
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17605
+D3
+A Hallway
+~
+~
+0 -1 17607
+S
+#17607
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17606
+D2
+A Hallway
+~
+~
+0 -1 17608
+S
+#17608
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17607
+D2
+A Hallway
+~
+~
+0 -1 17609
+S
+#17609
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17608
+D3
+A Hallway
+~
+~
+0 -1 17610
+S
+#17610
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17609
+D3
+A Hallway
+~
+~
+0 -1 17611
+S
+#17611
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17610
+D3
+A Hallway
+~
+~
+0 -1 17612
+S
+#17612
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17613
+D1
+A Hallway
+~
+~
+0 -1 17611
+S
+#17613
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D2
+A Hallway
+~
+~
+0 -1 17612
+D3
+A Hallway
+~
+~
+0 -1 17614
+S
+#17614
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17615
+D1
+A Hallway
+~
+~
+0 -1 17613
+S
+#17615
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17616
+D2
+A Hallway
+~
+~
+0 -1 17614
+S
+#17616
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17617
+D3
+A Hallway
+~
+~
+0 -1 17615
+S
+#17617
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17620
+D2
+A Hallway
+~
+~
+0 -1 17618
+D3
+A Hallway
+~
+~
+0 -1 17616
+S
+#17618
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17617
+D1
+A Hallway
+~
+~
+0 -1 17619
+S
+#17619
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17657
+D3
+A Hallway
+~
+~
+0 -1 17618
+S
+#17620
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17621
+D3
+A Hallway
+~
+~
+0 -1 17617
+S
+#17621
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17622
+D2
+A Hallway
+~
+~
+0 -1 17620
+S
+#17622
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17623
+D2
+A Hallway
+~
+~
+0 -1 17621
+D3
+A Hallway
+~
+~
+0 -1 17629
+S
+#17623
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17624
+D3
+A Hallway
+~
+~
+0 -1 17622
+S
+#17624
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17625
+D3
+A Hallway
+~
+~
+0 -1 17623
+S
+#17625
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17626
+D2
+A Hallway
+~
+~
+0 -1 17627
+D3
+A Hallway
+~
+~
+0 -1 17624
+S
+#17626
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D3
+A Hallway
+~
+~
+0 -1 17625
+S
+#17627
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17625
+D1
+A Hallway
+~
+~
+0 -1 17628
+S
+#17628
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D3
+A Hallway
+~
+~
+0 -1 17627
+S
+#17629
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17622
+D3
+A Hallway
+~
+~
+0 -1 17630
+S
+#17630
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17629
+D3
+A Hallway
+~
+~
+0 -1 17631
+S
+#17631
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17635
+D1
+A Hallway
+~
+~
+0 -1 17630
+D2
+A Hallway
+~
+~
+0 -1 17632
+S
+#17632
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17631
+D1
+A Hallway
+~
+~
+0 -1 17633
+S
+#17633
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17634
+D3
+A Hallway
+~
+~
+0 -1 17632
+S
+#17634
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D3
+A Hallway
+~
+~
+0 -1 17633
+S
+#17635
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17636
+D2
+A Hallway
+~
+~
+0 -1 17631
+S
+#17636
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17637
+D2
+A Hallway
+~
+~
+0 -1 17635
+S
+#17637
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17638
+D1
+A Hallway
+~
+~
+0 -1 17641
+D3
+A Hallway
+~
+~
+0 -1 17636
+S
+#17638
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17639
+D2
+A Hallway
+~
+~
+0 -1 17637
+D3
+A Hallway
+~
+~
+0 -1 17640
+S
+#17639
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D3
+A Hallway
+~
+~
+0 -1 17638
+S
+#17640
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17638
+S
+#17641
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17642
+D3
+A Hallway
+~
+~
+0 -1 17637
+S
+#17642
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17643
+D3
+A Hallway
+~
+~
+0 -1 17641
+S
+#17643
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17644
+D2
+A Hallway
+~
+~
+0 -1 17642
+S
+#17644
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D2
+A Hallway
+~
+~
+0 -1 17645
+D3
+A Hallway
+~
+~
+0 -1 17643
+S
+#17645
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17644
+D2
+A Hallway
+~
+~
+0 -1 17646
+S
+#17646
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17645
+D1
+A Hallway
+~
+~
+0 -1 17650
+D3
+A Hallway
+~
+~
+0 -1 17647
+S
+#17647
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17646
+D3
+A Hallway
+~
+~
+0 -1 17648
+S
+#17648
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17647
+D3
+A Hallway
+~
+~
+0 -1 17649
+S
+#17649
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17648
+S
+#17650
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17651
+D3
+A Hallway
+~
+~
+0 -1 17646
+S
+#17651
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17652
+D3
+A Hallway
+~
+~
+0 -1 17650
+S
+#17652
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D2
+A Hallway
+~
+~
+0 -1 17651
+D3
+A Hallway
+~
+~
+0 -1 17653
+S
+#17653
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17654
+D1
+A Hallway
+~
+~
+0 -1 17652
+S
+#17654
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17655
+D2
+A Hallway
+~
+~
+0 -1 17653
+S
+#17655
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D1
+A Hallway
+~
+~
+0 -1 17656
+D3
+A Hallway
+~
+~
+0 -1 17654
+S
+#17656
+End Game~
+   You have made it this far.  The only thing left to do is to fight
+whatever may be here.  This could be monsters or it could be players --
+who knows.  Good luck!
+~
+175 131081 0
+D3
+A Hallway
+~
+~
+0 -1 17655
+S
+#17657
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D0
+A Hallway
+~
+~
+0 -1 17658
+D3
+A Hallway
+~
+~
+0 -1 17619
+S
+#17658
+A Hallway~
+   You are in a long hallway.
+~
+175 131081 0
+D2
+A Hallway
+~
+~
+0 -1 17657
+S
+#17659
+Stairs~
+   You have climbed down for what seems like hours, and you can see the
+landing just a hundred feet below.
+~
+175 9 0
+D4
+On the stairs.
+~
+~
+0 -1 17520
+D5
+The landing.
+~
+~
+0 -1 17660
+S
+#17660
+The Landing~
+   You have finally gotten to the bottom of the spiral staircase.  You
+notice two doorways here.  There's an archway to the north that leads to
+the blue command post, and to the south is the archway to the Red
+command post.
+~
+175 9 0
+D0
+Archway to blue command post.
+~
+~
+0 -1 17832
+D2
+Archway to red command post.
+~
+~
+0 -1 17666
+D4
+The stairs.
+~
+~
+0 -1 17659
+S
+#17661
+Red Bunker West~
+   This is the last stand on the west side.  To the north is a hallway
+leading to the grassy battlefield.  In the center of the room is a grate
+leading down into a tunnel.
+~
+175 655368 0
+D0
+A Hallway
+~
+~
+0 -1 17680
+D5
+Grate to tunnel.
+~
+grate~
+1 -1 17662
+S
+#17662
+Tunnel~
+   This tunnel leads east towards the command post.
+~
+175 264 0
+D1
+Tunnel
+~
+~
+0 -1 17663
+D4
+Grate to west bunker.
+~
+grate~
+1 -1 17661
+S
+#17663
+Tunnel~
+   On your way to the command post you see that there is another tunnel
+to the north.  It must lead to the field by way of a secret entrance. To
+the east the tunnel continues and to the west is the west bunker.
+~
+175 264 0
+D0
+Tunnel
+~
+~
+0 -1 17678
+D1
+Tunnel
+~
+~
+0 -1 17664
+D3
+Tunnel
+~
+~
+0 -1 17662
+S
+#17664
+Tunnel~
+   You are in a tunnel.
+~
+175 264 0
+D1
+Tunnel
+~
+~
+0 -1 17665
+D3
+Tunnel
+~
+~
+0 -1 17663
+S
+#17665
+Tunnel~
+   You have entered the eastern end of this section of tunnel.  To the
+west is the west bunker.  As you look up you can see the ladder leading
+to the grate that leads to the command post.
+~
+175 264 0
+D3
+Tunnel
+~
+~
+0 -1 17664
+D4
+Grate to command post.
+~
+grate~
+1 -1 17666
+S
+#17666
+Red Command Post~
+   This is the hub of the war.  From here you can send your soldiers out
+in many different ways to guard your post or fight your foes.  You can
+send them to the grassy field to the north or down through the grate to
+the west bunker.  You could even send them up to the catwalk towards the
+east bunker.
+~
+175 655368 0
+D0
+Archway to the hallway.
+~
+~
+0 -1 17676
+D4
+Ladder to the catwalk
+~
+~
+0 -1 17667
+D5
+Grate to tunnel
+~
+grate~
+1 -1 17665
+S
+#17667
+Catwalk~
+   From here you can see a huge grassy battlefield to the north.  The
+east bunker is off to the east about twenty feet away.
+~
+175 131072 0
+D1
+Catwalk
+~
+~
+0 -1 17666
+D5
+Ladder to the red command post.
+~
+~
+0 -1 17666
+S
+#17668
+Catwalk~
+   You are on a catwalk.~
+175 131072 0
+D1
+~
+~
+0 0 17669
+D3
+~
+~
+0 0 17667
+S
+#17669
+Catwalk~
+   The builders of the command area thought of many different ways to
+get out.  Towards one end is a ramp that leads north to the grassy
+field.  They have also continued the catwalk.  To the east is the roof
+of the east bunker.
+~
+175 131072 0
+D0
+Ramp.
+~
+~
+0 -1 17674
+D1
+East Bunker.
+~
+~
+0 -1 17670
+D3
+Catwalk.
+~
+~
+0 -1 17668
+S
+#17670
+Roof of the East Bunker~
+   You can see the eastern section of the grassy field from here.  The
+only way to leave other than going back west is to go down the ladder to
+the east bunker.
+~
+175 131072 0
+D3
+Catwalk.
+~
+~
+0 -1 17669
+D5
+Ladder to the east bunker.
+~
+~
+0 -1 17671
+S
+#17671
+Red Bunker East~
+   This is the last stand on the east side.  To the north is a hallway
+leading to the grassy battle field.  In the center of the room is a
+ladder leading to the roof.
+~
+175 655368 0
+D0
+A Hallway
+~
+~
+0 -1 17672
+D4
+Ladder to the roof
+~
+~
+0 -1 17670
+S
+#17672
+A Hallway~
+   To the north you can see a closed gate that leads to the grassy
+battlefield.  To the south you can see a bunker.
+~
+175 131080 0
+D0
+Archway to entry way.
+~
+~
+0 -1 17673
+D2
+Archway to red bunker east.
+~
+~
+0 -1 17671
+S
+#17673
+East Entryway~
+   There is a massive stone gate to the north.  This is the last stand
+before you enter the great battlefield.  To the south is a hallway that
+leads to the east bunker.
+~
+175 131080 0
+D0
+Gate to grassy field.
+~
+gate stone~
+1 -1 17682
+D2
+Archway to hallway.
+~
+~
+0 -1 17672
+S
+#17674
+Ramp~
+   The ramp continues to the north, leading to a tower. To the south is
+the catwalk.
+~
+175 131072 0
+D0
+Ramp to the tower.
+~
+~
+0 -1 17675
+D2
+Ramp to the catwalk.
+~
+~
+0 -1 17669
+S
+#17675
+Tower~
+   The tower is the only way to get to the grassy battlefield from the
+ramp.  There is a solid trapdoor leading down to the grassy battlefield,
+and a ramp leads to the south.
+~
+175 655368 0
+D2
+Archway to ramp.
+~
+~
+0 -1 17674
+D5
+Solid stone trapdoor leading to the grassy field.
+~
+solid stone trapdoor~
+1 -1 17685
+S
+#17676
+A Hallway~
+   You are in a long hallway.~
+175 131080 0
+D0
+Archway to tower.
+~
+~
+0 -1 17677
+D2
+Archway to the command post.
+~
+~
+0 -1 17666
+S
+#17677
+Tower~
+   The tower is the only way to get to the grassy battlefield from the
+ramp.  There is a solid trapdoor leading down to the grassy battlefield,
+and a ramp leads to the south.
+~
+175 655368 0
+D2
+Archway to hallway.
+~
+~
+0 -1 17676
+D5
+Solid stone trapdoor to grassy field.
+~
+solid stone trapdoor~
+1 -1 17689
+S
+#17678
+Tunnel~
+   This is a tight fit, and only one person is going to fit at a time.
+To the north is a drain.
+~
+175 131336 0
+D0
+Tunnel to drain.
+~
+~
+0 -1 17679
+D2
+Tunnel.
+~
+~
+0 -1 17663
+S
+#17679
+Under The Drain ~
+   You are in about three feet of murky water.  As you look around you
+notice that the room is circular.  As you look up you notice that there
+is a trapdoor leading to the grassy field.
+~
+175 131336 0
+D2
+Tunnel.
+~
+~
+0 -1 17678
+D4
+Ladder leading to the grassy battle field.
+~
+trapdoor drain~
+1 -1 17693
+S
+#17680
+A Hallway~
+   To the north you see that the hallway leads to a gate to the grassy
+field.  To the south is an archway to the west bunker.
+~
+175 131080 0
+D0
+Archway to the entryway.
+~
+~
+0 -1 17681
+D2
+Archway to the west bunker.
+~
+~
+0 -1 17661
+S
+#17681
+West Entryway~
+   There is a solid stone gate to the north guarding this hallway, which
+leads to the grassy battlefield.  To the south is the hallway leading
+back to the west bunker.
+~
+175 131080 0
+D0
+Massive solid stone gate to the grassy field.
+~
+stone massive solid gate~
+1 -1 17696
+D2
+Archway to hallway.
+~
+~
+0 -1 17680
+S
+#17682
+Grassy Battlefield~
+   This is the south end of the grassy field.  To the south is a stone
+gate guarding the east bunker.  To the north is just grassy field.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17697
+D1
+Grassy battlefield.
+~
+~
+0 -1 17696
+D2
+Solid stone gate leading to east bunker.
+~
+solid stone gate~
+2 -1 17673
+D3
+Grassy battlefield.
+~
+~
+0 -1 17683
+S
+#17683
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17698
+D1
+Grassy battlefield.
+~
+~
+0 -1 17682
+D3
+Grassy battlefield.
+~
+~
+0 -1 17684
+S
+#17684
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17699
+D1
+Grassy battlefield.
+~
+~
+0 -1 17683
+D3
+Grassy battlefield.
+~
+~
+0 -1 17685
+S
+#17685
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 0
+D1
+Grassy battlefield.
+~
+~
+0 -1 17684
+D3
+Grassy battlefield.
+~
+~
+0 -1 17686
+D4
+~
+solid~
+2 -1 17675
+S
+#17686
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17701
+D1
+Grassy battlefield.
+~
+~
+0 -1 17685
+D3
+Grassy battefield.
+~
+~
+0 -1 17687
+S
+#17687
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17702
+D1
+Grassy battlefield.
+~
+~
+0 -1 17686
+D3
+Grassy Battlefield
+~
+~
+0 -1 17688
+S
+#17688
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17703
+D1
+Grassy battlefield.
+~
+~
+0 -1 17687
+D3
+Grassy battlefield.
+~
+~
+0 -1 17689
+S
+#17689
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17704
+D1
+Grassy battlefield.
+~
+~
+0 -1 17688
+D3
+Grassy battlefield.
+~
+~
+0 -1 17690
+D4
+~
+solid~
+2 -1 17677
+S
+#17690
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield
+~
+~
+0 -1 17705
+D1
+Grassy battlefield.
+~
+~
+0 -1 17689
+D3
+Grassy battlefield.
+~
+~
+0 -1 17691
+S
+#17691
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17706
+D1
+Grassy battlefield.
+~
+~
+0 -1 17690
+D3
+Grassy battlefield.
+~
+~
+0 -1 17692
+S
+#17692
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17707
+D1
+Grassy battlefield.
+~
+~
+0 -1 17691
+D3
+Grassy battlefield.
+~
+~
+0 -1 17693
+S
+#17693
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17708
+D1
+Grassy battlefield.
+~
+~
+0 -1 17692
+D3
+Grassy battlefield.
+~
+~
+0 -1 17694
+D5
+~
+trapdoor~
+2 -1 17679
+S
+#17694
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17709
+D1
+Grassy battlefield.
+~
+~
+0 -1 17693
+D3
+Grassy battlefield.
+~
+~
+0 -1 17695
+S
+#17695
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17710
+D1
+Grassy battlefield.
+~
+~
+0 -1 17694
+D3
+
+Grassy battlefield.
+~
+~
+0 -1 17696
+S
+#17696
+Grassy Battlefield~
+   This is the south end of the grassy field.  To the south is a stone
+gate that guards the west bunker.  To the north is just grassy field.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17711
+D1
+Grassy battlefield.
+~
+~
+0 -1 17695
+D2
+Solid stone gate leading to east bunker.
+~
+solid stone gate~
+1 -1 17681
+D3
+Grassy battlefield.
+~
+~
+0 -1 17686
+S
+#17697
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17712
+D1
+Grassy battlefield.
+~
+~
+0 -1 17711
+D2
+Grassy battlefield.
+~
+~
+0 -1 17682
+D3
+Grassy battlefield.
+~
+~
+0 -1 17698
+S
+#17698
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17713
+D1
+Grassy battlefield.
+~
+~
+0 -1 17697
+D2
+Grassy battlefield.
+~
+~
+0 -1 17683
+D3
+Grassy battlefield.
+~
+~
+0 -1 17699
+S
+#17699
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17714
+D1
+Grassy battlefield.
+~
+~
+0 -1 17698
+D2
+Grassy battlefield.
+~
+~
+0 -1 17684
+D3
+Grassy battlefield.
+~
+~
+0 -1 0
+S
+#17700
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17715
+D1
+Grassy battlefield.
+~
+~
+0 -1 0
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17701
+S
+#17701
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17716
+D1
+Grassy battlefield.
+~
+~
+0 -1 17700
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17702
+S
+#17702
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17717
+D1
+Grassy battlefield.
+~
+~
+0 -1 17701
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17703
+S
+#17703
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 0
+D1
+Grassy battlefield.
+~
+~
+0 -1 17702
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17704
+S
+#17704
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17719
+D1
+Grassy battlefield.
+~
+~
+0 -1 17703
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17705
+S
+#17705
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17720
+D1
+Grassy battlefield.
+~
+~
+0 -1 17704
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17706
+S
+#17706
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17721
+D1
+Grassy battlefield.
+~
+~
+0 -1 17705
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17707
+S
+#17707
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17722
+D1
+Grassy battlefield.
+~
+~
+0 -1 17706
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17708
+S
+#17708
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17723
+D1
+Grassy battlefield.
+~
+~
+0 -1 17707
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17709
+S
+#17709
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17724
+D1
+Grassy battlefield.
+~
+~
+0 -1 17708
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17710
+S
+#17710
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17725
+D1
+Grassy battlefield.
+~
+~
+0 -1 17709
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17711
+S
+#17711
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17726
+D1
+Grassy battlefield.
+~
+~
+0 -1 17710
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 0
+S
+#17712
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17727
+D1
+Grassy battlefield.
+~
+~
+0 -1 17726
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17713
+S
+#17713
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17728
+D1
+Grassy battlefield.
+~
+~
+0 -1 17712
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17714
+S
+#17714
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17729
+D1
+Grassy battlefield.
+~
+~
+0 -1 17713
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17715
+S
+#17715
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17730
+D1
+Grassy battlefield.
+~
+~
+0 -1 17714
+D2
+Grassy battlefield.
+~
+~
+0 -1 17700
+D3
+Grassy battlefield.
+~
+~
+0 -1 17716
+S
+#17716
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17731
+D1
+Grassy battlefield.
+~
+~
+0 -1 17715
+D2
+Grassy battlefield.
+~
+~
+0 -1 17701
+D3
+Grassy battlefield.
+~
+~
+0 -1 17717
+S
+#17717
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17732
+D1
+Grassy battlefield.
+~
+~
+0 -1 17716
+D2
+Grassy battlefield.
+~
+~
+0 -1 17702
+D3
+Grassy battlefield.
+~
+~
+0 -1 17719
+S
+#17719
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17734
+D1
+Grassy battlefield.
+~
+~
+0 -1 0
+D2
+Grassy battlefield.
+~
+~
+0 -1 17704
+D3
+Grassy battlefield.
+~
+~
+0 -1 17720
+S
+#17720
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17735
+D1
+Grassy battlefield.
+~
+~
+0 -1 17719
+D2
+Grassy battlefield.
+~
+~
+0 -1 17705
+D3
+Grassy battlefield.
+~
+~
+0 -1 17721
+S
+#17721
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17736
+D1
+Grassy battlefield.
+~
+~
+0 -1 17719
+D2
+Grassy battlefield.
+~
+~
+0 -1 17706
+D3
+Grassy battlefield.
+~
+~
+0 -1 17722
+S
+#17722
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17737
+D1
+Grassy battlefield.
+~
+~
+0 -1 17721
+D2
+Grassy battlefield.
+~
+~
+0 -1 17707
+D3
+Grassy battlefield.
+~
+~
+0 -1 17723
+S
+#17723
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17738
+D1
+Grassy battlefield.
+~
+~
+0 -1 17722
+D2
+Grassy battlefield.
+~
+~
+0 -1 17708
+D3
+Grassy battlefield.
+~
+~
+0 -1 17724
+S
+#17724
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17739
+D1
+Grassy battlefield.
+~
+~
+0 -1 17723
+D2
+Grassy battlefield.
+~
+~
+0 -1 17709
+D3
+Grassy battlefield.
+~
+~
+0 -1 17725
+S
+#17725
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17740
+D1
+Grassy battlefield.
+~
+~
+0 -1 17724
+D2
+Grassy battlefield.
+~
+~
+0 -1 17710
+D3
+Grassy battlefield.
+~
+~
+0 -1 17726
+S
+#17726
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17741
+D1
+Grassy battlefield.
+~
+~
+0 -1 17725
+D2
+Grassy battlefield.
+~
+~
+0 -1 17711
+D3
+Grassy battlefield.
+~
+~
+0 -1 17712
+S
+#17727
+Grassy Battlefield~
+   To the north at last is a safe haven. 
+~
+175 131072 2
+D0
+Safe Haven.
+~
+~
+0 -1 17742
+D1
+Grassy battlefield.
+~
+~
+0 -1 17741
+D2
+Grassy battlefield.
+~
+~
+0 -1 17712
+D3
+Grassy battlefield.
+~
+~
+0 -1 17728
+S
+#17728
+Grassy Battlefield~
+   To the north at last is a safe haven. 
+~
+175 131072 2
+D0
+Safe Haven.
+~
+~
+0 -1 17743
+D1
+Grassy battlefield.
+~
+~
+0 -1 17727
+D2
+Grassy battlefield.
+~
+~
+0 -1 17713
+D3
+Grassy battlefield.
+~
+~
+0 -1 17729
+S
+#17729
+Grassy Battlefield~
+   To the north at last is a safe haven. 
+~
+175 131072 2
+D0
+Safe Haven.
+~
+~
+0 -1 17744
+D1
+Grassy battlefield.
+~
+~
+0 -1 17728
+D2
+Grassy battlefield.
+~
+~
+0 -1 17714
+D3
+Grassy battlefield.
+~
+~
+0 -1 17730
+S
+#17730
+Grassy Battlefield~
+   To the north at last is a safe haven. 
+~
+175 131072 2
+D0
+Safe Haven.
+~
+~
+0 -1 17745
+D1
+Grassy battlefield.
+~
+~
+0 -1 17729
+D2
+Grassy battlefield.
+~
+~
+0 -1 17715
+D3
+Grassy battlefield.
+~
+~
+0 -1 17731
+S
+#17731
+Grassy Battlefield~
+   To the north at last is a safe haven. 
+~
+175 131072 2
+D0
+Safe Haven.
+~
+~
+0 -1 17746
+D1
+Grassy battlefield.
+~
+~
+0 -1 17730
+D2
+Grassy battlefield.
+~
+~
+0 -1 17716
+D3
+Grassy battlefield.
+~
+~
+0 -1 17732
+S
+#17732
+Grassy Battlefield~
+   To the north at last is a safe haven. 
+~
+175 131072 2
+D0
+Safe Haven.
+~
+~
+0 -1 17747
+D1
+Grassy battlefield.
+~
+~
+0 -1 17731
+D2
+Grassy battlefield.
+~
+~
+0 -1 17717
+D3
+Grassy battlefield.
+~
+~
+0 -1 17733
+S
+#17733
+Grassy Battlefield~
+   To the north at last is a safe haven. 
+~
+175 131072 2
+D0
+Safe Haven.
+~
+~
+0 -1 17748
+D1
+Grassy battlefield.
+~
+~
+0 -1 17732
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17734
+S
+#17734
+Grassy Battlefield~
+   To the north at last is a safe haven. 
+~
+175 131072 2
+D0
+Safe Haven.
+~
+~
+0 -1 17749
+D1
+Grassy battlefield.
+~
+~
+0 -1 17733
+D2
+Grassy battlefield.
+~
+~
+0 -1 17719
+D3
+Grassy battlefield.
+~
+~
+0 -1 17735
+S
+#17735
+Grassy Battlefield~
+   To the north at last is a safe haven. 
+~
+175 131072 2
+D0
+Safe Haven.
+~
+~
+0 -1 17750
+D1
+Grassy battlefield.
+~
+~
+0 -1 17734
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17736
+S
+#17736
+Grassy Battlefield~
+   To the north at last is a safe haven. 
+~
+175 131072 2
+D0
+Safe Haven.
+~
+~
+0 -1 17751
+D1
+Grassy battlefield.
+~
+~
+0 -1 17735
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17737
+S
+#17737
+Grassy Battlefield~
+   To the north at last is a safe haven. 
+~
+175 131072 2
+D0
+Safe Haven.
+~
+~
+0 -1 17752
+D1
+Grassy battlefield.
+~
+~
+0 -1 17736
+D2
+Grassy battlefield.
+~
+~
+0 -1 17722
+D3
+Grassy battlefield.
+~
+~
+0 -1 17738
+S
+#17738
+Grassy Battlefield~
+   To the north at last is a safe haven. 
+~
+175 131072 2
+D0
+Safe Haven.
+~
+~
+0 -1 17753
+D1
+Grassy battlefield.
+~
+~
+0 -1 17737
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17739
+S
+#17739
+Grassy Battlefield~
+   To the north at last is a safe haven. 
+~
+175 131072 2
+D0
+Safe Haven.
+~
+~
+0 -1 17754
+D1
+Grassy battlefield.
+~
+~
+0 -1 17738
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17740
+S
+#17740
+Grassy Battlefield~
+   To the north at last is a safe haven. 
+~
+175 131072 2
+D0
+Safe Haven.
+~
+~
+0 -1 17755
+D1
+Grassy battlefield.
+~
+~
+0 -1 17739
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17741
+S
+#17741
+Grassy Battlefield~
+   To the north at last is a safe haven. 
+~
+175 131072 2
+D0
+Safe Haven.
+~
+~
+0 -1 17756
+D1
+Grassy battlefield.
+~
+~
+0 -1 17740
+D2
+Grassy battlefield.
+~
+~
+0 -1 0
+D3
+Grassy battlefield.
+~
+~
+0 -1 17727
+S
+#17742
+Safe Haven~
+   To the north you can see the grassy battlefield of the blue team. To
+the south is the grassy battlefield of the red team.  Here in this safe
+haven you may rest, grow strong, and know you are safe.
+~
+175 524308 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17757
+D1
+Safe Haven.
+~
+~
+0 -1 17756
+D2
+Grassy battlefield.
+~
+~
+0 -1 17727
+D3
+Safe Haven.
+~
+~
+0 -1 17743
+S
+#17743
+Safe Haven~
+   To the north you can see the grassy battlefield of the blue team. To
+the south is the grassy battlefield of the red team.  Here in this safe
+haven you may rest, grow strong, and know you are safe.
+~
+175 524308 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17758
+D1
+Safe Haven.
+~
+~
+0 -1 17742
+D2
+Grassy battlefield.
+~
+~
+0 -1 17728
+D3
+Safe Haven.
+~
+~
+0 -1 17744
+S
+#17744
+Safe Haven~
+   To the north you can see the grassy battlefield of the blue team. To
+the south is the grassy battlefield of the red team.  Here in this safe
+haven you may rest, grow strong, and know you are safe.
+~
+175 524308 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17759
+D1
+Safe Haven.
+~
+~
+0 -1 17743
+D2
+Grassy battlefield.
+~
+~
+0 -1 17729
+D3
+Safe Haven.
+~
+~
+0 -1 17745
+S
+#17745
+Safe Haven~
+   To the north you can see the grassy battlefield of the blue team. To
+the south is the grassy battlefield of the red team.  Here in this safe
+haven you may rest, grow strong, and know you are safe.
+~
+175 524308 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17760
+D1
+Safe Haven.
+~
+~
+0 -1 17744
+D2
+Grassy battlefield.
+~
+~
+0 -1 17730
+D3
+Safe Haven.
+~
+~
+0 -1 17746
+S
+#17746
+Safe Haven ~
+   To the north you can see the grassy battlefield of the blue team. To
+the south is the grassy battlefield of the red team.  Here in this safe
+haven you may rest, grow strong, and know you are safe.
+~
+175 524308 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17761
+D1
+Safe Haven.
+~
+~
+0 -1 17745
+D2
+Grassy battlefield.
+~
+~
+0 -1 17731
+D3
+Safe Haven.
+~
+~
+0 -1 17747
+S
+#17747
+Safe Haven~
+   To the north you can see the grassy battlefield of the blue team. To
+the south is the grassy battlefield of the red team.  Here in this safe
+haven you may rest, grow strong, and know you are safe.
+~
+175 524308 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17762
+D1
+Safe Haven.
+~
+~
+0 -1 17746
+D2
+Grassy battlefield.
+~
+~
+0 -1 17732
+D3
+Safe Haven.
+~
+~
+0 -1 17748
+S
+#17748
+Safe Haven~
+   To the north you can see the grassy battlefield of the blue team. To
+the south is the grassy battlefield of the red team.  Here in this safe
+haven you may rest, grow strong, and know you are safe.
+~
+175 524308 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17763
+D1
+Safe Haven.
+~
+~
+0 -1 17747
+D2
+Grassy battlefield.
+~
+~
+0 -1 17733
+D3
+Safe Haven.
+~
+~
+0 -1 17749
+S
+#17749
+Safe Haven~
+   To the north you can see the grassy battlefield of the blue team. To
+the south is the grassy battlefield of the red team.  Here in this safe
+haven you may rest, grow strong, and know you are safe.
+~
+175 524308 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17764
+D1
+Safe Haven.
+~
+~
+0 -1 17748
+D2
+Grassy battlefield.
+~
+~
+0 -1 17734
+D3
+Safe Haven.
+~
+~
+0 -1 17750
+S
+#17750
+Safe Haven~
+   To the north you can see the grassy battlefield of the blue team. To
+the south is the grassy battlefield of the red team.  Here in this safe
+haven you may rest, grow strong, and know you are safe.
+~
+175 524308 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17765
+D1
+Safe Haven.
+~
+~
+0 -1 17749
+D2
+Grassy battlefield.
+~
+~
+0 -1 17735
+D3
+Safe Haven.
+~
+~
+0 -1 17751
+S
+#17751
+Safe Haven~
+   To the north you can see the grassy battlefield of the blue team. To
+the south is the grassy battlefield of the red team.  Here in this safe
+haven you may rest, grow strong, and know you are safe.
+~
+175 524308 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17766
+D1
+Safe Haven.
+~
+~
+0 -1 17750
+D2
+Grassy battlefield.
+~
+~
+0 -1 17736
+D3
+Safe Haven.
+~
+~
+0 -1 17752
+S
+#17752
+Safe Haven~
+   To the north you can see the grassy battlefield of the blue team. To
+the south is the grassy battlefield of the red team.  Here in this safe
+haven you may rest, grow strong, and know you are safe.
+~
+175 524308 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17767
+D1
+Safe Haven.
+~
+~
+0 -1 17751
+D2
+Grassy battlefield.
+~
+~
+0 -1 17737
+D3
+Safe Haven.
+~
+~
+0 -1 17753
+S
+#17753
+Safe Haven~
+   To the north you can see the grassy battlefield of the blue team. To
+the south is the grassy battlefield of the red team.  Here in this safe
+haven you may rest, grow strong, and know you are safe.
+~
+175 524308 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17768
+D1
+Safe Haven.
+~
+~
+0 -1 17752
+D2
+Grassy battlefield.
+~
+~
+0 -1 17738
+D3
+Safe Haven.
+~
+~
+0 -1 17754
+S
+#17754
+Safe Haven~
+   To the north you can see the grassy battlefield of the blue team. To
+the south is the grassy battlefield of the red team.  Here in this safe
+haven you may rest, grow strong, and know you are safe.
+~
+175 524308 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17769
+D1
+Safe Haven.
+~
+~
+0 -1 17753
+D2
+Grassy battlefield.
+~
+~
+0 -1 17739
+D3
+Safe Haven.
+~
+~
+0 -1 17755
+S
+#17755
+Safe Haven~
+   To the north you can see the grassy battlefield of the blue team. To
+the south is the grassy battlefield of the red team.  Here in this safe
+haven you may rest, grow strong, and know you are safe.
+~
+175 524308 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17770
+D1
+Safe Haven.
+~
+~
+0 -1 17754
+D2
+Grassy battlefield.
+~
+~
+0 -1 17740
+D3
+Safe Haven.
+~
+~
+0 -1 17756
+S
+#17756
+Safe Haven~
+   To the north you can see the grassy battlefield of the blue team. To
+the south is the grassy battlefield of the red team.  Here in this safe
+haven you may rest, grow strong, and know you are safe.
+~
+175 524308 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17771
+D1
+Safe Haven.
+~
+~
+0 -1 17755
+D2
+Grassy battlefield.
+~
+~
+0 -1 17741
+D3
+Safe Haven.
+~
+~
+0 -1 17742
+S
+#17757
+Grassy Battlefield~
+   To the south is the safe haven.  To the north is the blue team's
+command post.
+~
+175 131072 0
+D0
+Grassy battlefield.
+~
+~
+0 -1 17772
+D1
+Grassy battlefield.
+~
+~
+0 -1 17771
+D2
+Safe Haven.
+~
+~
+0 -1 17742
+D3
+Grassy battlefield.
+~
+~
+0 -1 17758
+S
+#17758
+Grassy Battlefield~
+   To the south is the safe haven.  To the north is the blue team's
+command post.
+~
+175 131072 0
+D0
+Grassy battlefield.
+~
+~
+0 -1 17773
+D1
+Grassy battlefield.
+~
+~
+0 -1 17757
+D2
+Safe Haven.
+~
+~
+0 -1 17743
+D3
+Grassy battlefield.
+~
+~
+0 -1 17759
+S
+#17759
+Grassy Battlefield~
+   To the south is the safe haven.  To the north is the blue team's
+command post.
+~
+175 131072 0
+D0
+Grassy battlefield.
+~
+~
+0 -1 17774
+D1
+Grassy battlefield.
+~
+~
+0 -1 17758
+D2
+Safe Haven.
+~
+~
+0 -1 17744
+D3
+Grassy battlefield.
+~
+~
+0 -1 17760
+S
+#17760
+Grassy Battlefield~
+   To the south is the safe haven.  To the north is the blue team's
+command post.
+~
+175 131072 0
+D0
+Grassy battlefield.
+~
+~
+0 -1 17775
+D1
+Grassy battlefield.
+~
+~
+0 -1 17759
+D2
+Safe Haven.
+~
+~
+0 -1 17745
+D3
+Grassy battlefield.
+~
+~
+0 -1 17761
+S
+#17761
+Grassy Battlefield~
+   To the south is the safe haven.  To the north is the blue team's
+command post.
+~
+175 131072 0
+D0
+Grassy battlefield.
+~
+~
+0 -1 17776
+D1
+Grassy battlefield.
+~
+~
+0 -1 17760
+D2
+Safe Haven.
+~
+~
+0 -1 17746
+D3
+Grassy battlefield.
+~
+~
+0 -1 17762
+S
+#17762
+Grassy Battlefield~
+   To the south is the safe haven.  To the north is the blue team's
+command post.
+~
+175 131072 0
+D0
+Grassy battlefield.
+~
+~
+0 -1 17777
+D1
+Grassy battlefield.
+~
+~
+0 -1 17761
+D2
+Safe Haven.
+~
+~
+0 -1 17747
+D3
+Grassy battlefield.
+~
+~
+0 -1 17763
+S
+#17763
+Grassy Battlefield~
+   To the south is the safe haven.  To the north is the blue team's
+command post.
+~
+175 131072 0
+D0
+Grassy battlefield.
+~
+~
+0 -1 17778
+D1
+Grassy battlefield.
+~
+~
+0 -1 17762
+D2
+Safe Haven.
+~
+~
+0 -1 17748
+D3
+Grassy battlefield.
+~
+~
+0 -1 17764
+S
+#17764
+Grassy Battlefield~
+   To the south is the safe haven.  To the north is the blue team's
+command post.
+~
+175 131072 0
+D0
+Grassy battlefield.
+~
+~
+0 -1 17779
+D1
+Grassy battlefield.
+~
+~
+0 -1 17763
+D2
+Safe Haven.
+~
+~
+0 -1 17749
+D3
+Grassy battlefield.
+~
+~
+0 -1 17765
+S
+#17765
+Grassy Battlefield~
+   To the south is the safe haven.  To the north is the blue team's
+command post.
+~
+175 131072 0
+D0
+Grassy battlefield.
+~
+~
+0 -1 17780
+D1
+Grassy battlefield.
+~
+~
+0 -1 17764
+D2
+Safe Haven.
+~
+~
+0 -1 17750
+D3
+Grassy battlefield.
+~
+~
+0 -1 17766
+S
+#17766
+Grassy Battlefield~
+   To the south is the safe haven.  To the north is the blue team's
+command post.
+~
+175 131072 0
+D0
+Grassy battlefield.
+~
+~
+0 -1 17781
+D1
+Grassy battlefield.
+~
+~
+0 -1 17765
+D2
+Safe Haven.
+~
+~
+0 -1 17751
+D3
+Grassy battlefield.
+~
+~
+0 -1 17767
+S
+#17767
+Grassy Battlefield~
+   To the south is the safe haven.  To the north is the blue team's
+command post.
+~
+175 131072 0
+D0
+Grassy battlefield.
+~
+~
+0 -1 17782
+D1
+Grassy battlefield.
+~
+~
+0 -1 17766
+D2
+Safe Haven.
+~
+~
+0 -1 17752
+D3
+Grassy battlefield.
+~
+~
+0 -1 17768
+S
+#17768
+Grassy Battlefield~
+   To the south is the safe haven.  To the north is the blue team's
+command post.
+~
+175 131072 0
+D0
+Grassy battlefield.
+~
+~
+0 -1 17783
+D1
+Grassy battlefield.
+~
+~
+0 -1 17767
+D2
+Safe Haven.
+~
+~
+0 -1 17753
+D3
+Grassy battlefield.
+~
+~
+0 -1 17769
+S
+#17769
+Grassy Battlefield~
+   To the south is the safe haven.  To the north is the blue team's
+command post.
+~
+175 131072 0
+D0
+Grassy battlefield.
+~
+~
+0 -1 17784
+D1
+Grassy battlefield.
+~
+~
+0 -1 17768
+D2
+Safe Haven.
+~
+~
+0 -1 17754
+D3
+Grassy battlefield.
+~
+~
+0 -1 17770
+S
+#17770
+Grassy Battlefield~
+   To the south is the safe haven.  To the north is the blue team's
+command post.
+~
+175 131072 0
+D0
+Grassy battlefield.
+~
+~
+0 -1 17785
+D1
+Grassy battlefield.
+~
+~
+0 -1 17769
+D2
+Safe Haven.
+~
+~
+0 -1 17755
+D3
+Grassy battlefield.
+~
+~
+0 -1 17771
+S
+#17771
+Grassy Battlefield~
+   To the south is the safe haven.  To the north is the blue team's
+command post.
+~
+175 131072 0
+D0
+Grassy battlefield.
+~
+~
+0 -1 17786
+D1
+Grassy battlefield.
+~
+~
+0 -1 17770
+D2
+Safe Haven.
+~
+~
+0 -1 17756
+D3
+Grassy battlefield.
+~
+~
+0 -1 17757
+S
+#17772
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17787
+D1
+Grassy battlefield.
+~
+~
+0 -1 17786
+D2
+Grassy battlefield.
+~
+~
+0 -1 17757
+D3
+Grassy battlefield.
+~
+~
+0 -1 17773
+S
+#17773
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17788
+D1
+Grassy battlefield.
+~
+~
+0 -1 17772
+D2
+Grassy battlefield.
+~
+~
+0 -1 17758
+D3
+Grassy battlefield.
+~
+~
+0 -1 17774
+S
+#17774
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17789
+D1
+Grassy battlefield.
+~
+~
+0 -1 17773
+D2
+Grassy battlefield.
+~
+~
+0 -1 17759
+D3
+Grassy battlefield.
+~
+~
+0 -1 17775
+S
+#17775
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17790
+D1
+Grassy battlefield.
+~
+~
+0 -1 17774
+D2
+Grassy battlefield.
+~
+~
+0 -1 17760
+D3
+Grassy battlefield.
+~
+~
+0 -1 17776
+S
+#17776
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17791
+D1
+Grassy battlefield.
+~
+~
+0 -1 17775
+D2
+Grassy battlefield.
+~
+~
+0 -1 17761
+D3
+Grassy battlefield.
+~
+~
+0 -1 17777
+S
+#17777
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17792
+D1
+Grassy battlefield.
+~
+~
+0 -1 17776
+D2
+Grassy battlefield.
+~
+~
+0 -1 17762
+D3
+Grassy battlefield.
+~
+~
+0 -1 17778
+S
+#17778
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17793
+D1
+Grassy battlefield.
+~
+~
+0 -1 17777
+D2
+Grassy battlefield.
+~
+~
+0 -1 17763
+D3
+Grassy battlefield.
+~
+~
+0 -1 17779
+S
+#17779
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17794
+D1
+Grassy battlefield.
+~
+~
+0 -1 17778
+D2
+Grassy battlefield.
+~
+~
+0 -1 17764
+D3
+Grassy battlefield.
+~
+~
+0 -1 17780
+S
+#17780
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17795
+D1
+Grassy battlefield.
+~
+~
+0 -1 17779
+D2
+Grassy battlefield.
+~
+~
+0 -1 17765
+D3
+Grassy battlefield.
+~
+~
+0 -1 17781
+S
+#17781
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17796
+D1
+Grassy battlefield.
+~
+~
+0 -1 17780
+D2
+Grassy battlefield.
+~
+~
+0 -1 17766
+D3
+Grassy battlefield.
+~
+~
+0 -1 17782
+S
+#17782
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17797
+D1
+Grassy battlefield.
+~
+~
+0 -1 17781
+D2
+Grassy battlefield.
+~
+~
+0 -1 17767
+D3
+Grassy battlefield.
+~
+~
+0 -1 17783
+S
+#17783
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17798
+D1
+Grassy battlefield.
+~
+~
+0 -1 17782
+D2
+Grassy battlefield.
+~
+~
+0 -1 17768
+D3
+Grassy battlefield.
+~
+~
+0 -1 17784
+S
+#17784
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17799
+D1
+Grassy battlefield.
+~
+~
+0 -1 17783
+D2
+Grassy battlefield.
+~
+~
+0 -1 17769
+D3
+Grassy battlefield.
+~
+~
+0 -1 17785
+S
+#17785
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17800
+D1
+Grassy battlefield.
+~
+~
+0 -1 17784
+D2
+Grassy battlefield.
+~
+~
+0 -1 17770
+D3
+Grassy battlefield.
+~
+~
+0 -1 17786
+S
+#17786
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17801
+D1
+Grassy battlefield.
+~
+~
+0 -1 17785
+D2
+Grassy battlefield.
+~
+~
+0 -1 17771
+D3
+Grassy battlefield.
+~
+~
+0 -1 17772
+S
+#17787
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17802
+D1
+Grassy battlefield.
+~
+~
+0 -1 17801
+D2
+Grassy battlefield.
+~
+~
+0 -1 17772
+D3
+Grassy battlefield.
+~
+~
+0 -1 17788
+S
+#17788
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17803
+D1
+Grassy battlefield.
+~
+~
+0 -1 17787
+D2
+Grassy battlefield.
+~
+~
+0 -1 17773
+D3
+Grassy battlefield.
+~
+~
+0 -1 17789
+S
+#17789
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17804
+D1
+Grassy battlefield.
+~
+~
+0 -1 17788
+D2
+Grassy battlefield.
+~
+~
+0 -1 17774
+D3
+Grassy battlefield.
+~
+~
+0 -1 17790
+S
+#17790
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17805
+D1
+Grassy battlefield.
+~
+~
+0 -1 17789
+D2
+Grassy battlefield.
+~
+~
+0 -1 17775
+D3
+Grassy battlefield.
+~
+~
+0 -1 17791
+S
+#17791
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17806
+D1
+Grassy battlefield.
+~
+~
+0 -1 17790
+D2
+Grassy battlefield.
+~
+~
+0 -1 17776
+D3
+Grassy battlefield.
+~
+~
+0 -1 17792
+S
+#17792
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17807
+D1
+Grassy battlefield.
+~
+~
+0 -1 17791
+D2
+Grassy battlefield.
+~
+~
+0 -1 17777
+D3
+Grassy battlefield.
+~
+~
+0 -1 17793
+S
+#17793
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17808
+D1
+Grassy battlefield.
+~
+~
+0 -1 17792
+D2
+Grassy battlefield.
+~
+~
+0 -1 17778
+D3
+Grassy battlefield.
+~
+~
+0 -1 17794
+S
+#17794
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17809
+D1
+Grassy battlefield.
+~
+~
+0 -1 17793
+D2
+Grassy battlefield.
+~
+~
+0 -1 17779
+D3
+Grassy battlefield.
+~
+~
+0 -1 17795
+S
+#17795
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17810
+D1
+Grassy battlefield.
+~
+~
+0 -1 17794
+D2
+Grassy battlefield.
+~
+~
+0 -1 17780
+D3
+Grassy battlefield.
+~
+~
+0 -1 17796
+S
+#17796
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17811
+D1
+Grassy battlefield.
+~
+~
+0 -1 17795
+D2
+Grassy battlefield.
+~
+~
+0 -1 17781
+D3
+Grassy battlefield.
+~
+~
+0 -1 17797
+S
+#17797
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17812
+D1
+Grassy battlefield.
+~
+~
+0 -1 17796
+D2
+Grassy battlefield.
+~
+~
+0 -1 17782
+D3
+Grassy battlefield.
+~
+~
+0 -1 17798
+S
+#17798
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17813
+D1
+Grassy battlefield.
+~
+~
+0 -1 17797
+D2
+Grassy battlefield.
+~
+~
+0 -1 17783
+D3
+Grassy battlefield.
+~
+~
+0 -1 17799
+S
+#17799
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17814
+D1
+Grassy battlefield.
+~
+~
+0 -1 17798
+D2
+Grassy battlefield.
+~
+~
+0 -1 17784
+D3
+Grassy battlefield.
+~
+~
+0 -1 17800
+S
+#17800
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17815
+D1
+Grassy battlefield.
+~
+~
+0 -1 17799
+D2
+Grassy battlefield.
+~
+~
+0 -1 17785
+D3
+Grassy battlefield.
+~
+~
+0 -1 17801
+S
+#17801
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D0
+Grassy battlefield.
+~
+~
+0 -1 17816
+D1
+Grassy battlefield.
+~
+~
+0 -1 17800
+D2
+Grassy battlefield.
+~
+~
+0 -1 17786
+D3
+Grassy battlefield.
+~
+~
+0 -1 17787
+S
+#17802
+Grassy Battlefield~
+   You have managed to make it to the red force's side.  To the north is
+a solid stone gate guarding the east bunker.
+~
+175 131072 2
+D0
+Stone gate to east bunker
+~
+stone solid gate~
+2 -1 17817
+D1
+Grassy battlefield.
+~
+~
+0 -1 17816
+D2
+Grassy battlefield.
+~
+~
+0 -1 17787
+D3
+Grassy battlefield.
+~
+~
+0 -1 17803
+S
+#17803
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D1
+Grassy battlefield.
+~
+~
+0 -1 17802
+D2
+Grassy battlefield
+~
+~
+0 -1 17788
+D3
+Grassy battlefield.
+~
+~
+0 -1 17804
+S
+#17804
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D1
+Grassy battlefield.
+~
+~
+0 -1 17803
+D2
+Grassy battlefield
+~
+~
+0 -1 17789
+D3
+Grassy battlefield.
+~
+~
+0 -1 17805
+S
+#17805
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D1
+Grassy battlefield.
+~
+~
+0 -1 17804
+D2
+Grassy battlefield
+~
+~
+0 -1 17790
+D3
+Grassy battlefield.
+~
+~
+0 -1 17806
+D4
+~
+stone~
+2 -1 17819
+S
+#17806
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D1
+Grassy battlefield.
+~
+~
+0 -1 17805
+D2
+Grassy battlefield
+~
+~
+0 -1 17791
+D3
+Grassy battlefield.
+~
+~
+0 -1 17807
+S
+#17807
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D1
+Grassy battlefield.
+~
+~
+0 -1 17806
+D2
+Grassy battlefield
+~
+~
+0 -1 17792
+D3
+Grassy battlefield.
+~
+~
+0 -1 17808
+S
+#17808
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D1
+Grassy battlefield.
+~
+~
+0 -1 17807
+D2
+Grassy battlefield
+~
+~
+0 -1 17793
+D3
+Grassy battlefield.
+~
+~
+0 -1 17809
+S
+#17809
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D1
+Grassy battlefield.
+~
+~
+0 -1 17808
+D2
+Grassy battlefield
+~
+~
+0 -1 17794
+D3
+Grassy battlefield.
+~
+~
+0 -1 17810
+D4
+~
+stone~
+2 -1 17821
+S
+#17810
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D1
+Grassy battlefield.
+~
+~
+0 -1 17809
+D2
+Grassy battlefield
+~
+~
+0 -1 17795
+D3
+Grassy battlefield.
+~
+~
+0 -1 17811
+S
+#17811
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D1
+Grassy battlefield.
+~
+~
+0 -1 17810
+D2
+Grassy battlefield
+~
+~
+0 -1 17796
+D3
+Grassy battlefield.
+~
+~
+0 -1 17812
+S
+#17812
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D1
+Grassy battlefield.
+~
+~
+0 -1 17811
+D2
+Grassy battlefield
+~
+~
+0 -1 17797
+D3
+Grassy battlefield.
+~
+~
+0 -1 17813
+S
+#17813
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D1
+Grassy battlefield.
+~
+~
+0 -1 17812
+D2
+Grassy battlefield
+~
+~
+0 -1 17798
+D3
+Grassy battlefield.
+~
+~
+0 -1 17814
+D5
+~
+grate~
+2 -1 17823
+S
+#17814
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D1
+Grassy battlefield.
+~
+~
+0 -1 17813
+D2
+Grassy battlefield
+~
+~
+0 -1 17799
+D3
+Grassy battlefield.
+~
+~
+0 -1 17815
+S
+#17815
+Grassy Battlefield~
+   You are in a grassy battlefield that extends in every direction.
+~
+175 131072 2
+D1
+Grassy battlefield.
+~
+~
+0 -1 17814
+D2
+Grassy battlefield
+~
+~
+0 -1 17800
+D3
+Grassy battlefield.
+~
+~
+0 -1 17816
+S
+#17816
+Grassy Battlefield~
+   To the north is the blue team's west bunker, which is blocked by a
+solid stone gate.  To the south, west, and east is the grassy
+battlefield.
+~
+175 131072 2
+D0
+Solid stone gate to west bunker.
+~
+solid stone gate~
+1 -1 17825
+D1
+Grassy battlefield.
+~
+~
+0 -1 17815
+D2
+Grassy battlefield
+~
+~
+0 -1 17801
+D3
+Grassy battlefield.
+~
+~
+0 -1 17802
+S
+#17817
+Entryway~
+   You have entered the last room before the grassy battlefield.  To the
+north is a solid stone gate leading to the field.  The route to the
+south leads back to the bunker.
+~
+175 655368 0
+D0
+Archway to a hallway.
+~
+~
+0 -1 17818
+D2
+Solid stone gate to the grassy battlefield.
+~
+solid stone gate~
+1 -1 17802
+S
+#17818
+A Hallway~
+   You have entered a long hallway.  At the south end is a stone gate to
+and to the north is the east bunker.
+~
+175 655368 0
+D0
+Archway to the east bunker.
+~
+~
+0 -1 17827
+D2
+Archway to the entryway.
+~
+~
+0 -1 17817
+S
+#17819
+Tower~
+   The ramp has lead you to a tall tower guarding the catwalk.  There is
+a stone trapdoor leading down to the grassy battlefield.
+~
+175 655368 0
+D0
+Ramp.
+~
+~
+0 -1 17820
+D5
+Stone trapdoor to grassy battlefield.
+~
+stone trapdoor~
+1 -1 17805
+S
+#17820
+Ramp~
+   The ramp continues to the north and leads to the catwalk.  Of course
+to the south is the tower.
+~
+175 655360 0
+D0
+Ramp to the catwalk.
+~
+~
+0 -1 17829
+D2
+Ramp to the tower.
+~
+~
+0 -1 17819
+S
+#17821
+Tower~
+   The hallway has lead you to a tall tower guarding the command post.
+There is a stone trapdoor leading down to the grassy battlefield.
+~
+175 655368 0
+D0
+Archway to the hallway.
+~
+~
+0 -1 17822
+D5
+Stone trapdoor to grassy battlefield.
+~
+stone trapdoor~
+1 -1 17809
+S
+#17822
+A Hallway~
+   To the north is the blue command post. To the south is the tower.
+~
+175 655368 0
+D0
+Archway to command post.
+~
+~
+0 -1 17832
+D2
+A Hallway to tower.
+~
+~
+0 -1 17821
+S
+#17823
+Under The Drain~
+   You can see a ladder that leads up to the grassy battlefield, but it
+seems to be blocked by a steel grate.  To the north is a tunnel.
+~
+175 131336 0
+D0
+Tunnel
+~
+~
+0 -1 17824
+D4
+Grate to grassy battlefield.
+~
+grate~
+1 -1 17813
+S
+#17824
+Tunnel~
+   You are in a narrow tunnel.
+~
+175 131336 0
+D0
+Tunnel
+~
+~
+0 -1 17835
+D2
+Under the drain.
+~
+~
+0 -1 17823
+S
+#17825
+Entryway~
+   To the south is a solid stone gate guarding the west bunker from the
+grassy battlefield.  To the south is a hallway leading back to the
+bunker.
+~
+175 655368 0
+D0
+Archway to hallway.
+~
+~
+0 -1 17826
+D2
+Gate to the grassy battlefield.
+~
+stone solid gate~
+1 -1 17816
+S
+#17826
+A Hallway~
+   To the south is the bunker and to the north is the gate guarding the 
+bunker from the battlefield and the forces of the red team.
+~
+175 655368 0
+D0
+Archway to the west bunker.
+~
+~
+0 -1 17837
+D2
+Archway to the gate.
+~
+~
+0 -1 17825
+S
+#17827
+Blue Bunker East~
+   You are in the east bunker.  To the south is a hallway leading to the
+gates.  As you scan the room you see a ladder leading to the roof.
+~
+175 655368 0
+D2
+Archway to hallway.
+~
+~
+0 -1 17818
+D4
+Ladder to the roof.
+~
+~
+0 -1 17828
+S
+#17828
+Roof of Bunker~
+   To the west you see a catwalk leading to the roof of the command
+post.  There is a ladder leading back down to the bunker. To the far
+south you can see the red bunker.
+~
+175 655616 0
+D3
+Catwalk leading to a open chamber.
+~
+~
+0 -1 17829
+D5
+Ladder to the bunker.
+~
+~
+0 -1 17827
+S
+#17829
+Chamber~
+   The catwalk widens out just enough to allow two people across at
+time.  The catwalk goes to the east, west, and south.
+~
+175 131584 0
+D1
+Catwalk.
+~
+~
+0 -1 17828
+D2
+Catwalk.
+~
+~
+0 -1 17820
+D3
+Tunnel.
+~
+~
+0 -1 17830
+S
+#17830
+Catwalk ~
+   You are on a narrow catwalk.
+~
+175 131328 0
+D1
+Catwalk.
+~
+~
+0 -1 17829
+D3
+Catwalk to the roof of the command post.
+~
+~
+0 -1 17831
+S
+#17831
+Roof of Command Post~
+   You are on the roof of the command post.  To the south you have a
+clear view of the entire battlefield.  To the east is the catwalk and
+a ladder leads down to the command post.
+~
+175 131328 0
+D1
+Catwalk.
+~
+~
+0 -1 17830
+D5
+Ladder to the command post.
+~
+~
+0 -1 17832
+S
+#17832
+Blue Command Post~
+   This is the hub of the war.  From here you can send your soldiers out
+in many different ways to guard your post or fight your foes.  You can
+send them to the grassy field to the south or down through the grate to
+the west bunker. You could even send them up onto the catwalk to the
+east bunker.
+~
+175 655368 0
+D2
+Archway to the hallway.
+~
+~
+0 -1 17822
+D4
+Ladder to the roof
+~
+~
+0 -1 17831
+D5
+Grate to tunnel
+~
+grate~
+1 -1 17833
+S
+#17833
+Tunnel~
+   This tunnel leads west towards the west bunker.
+~
+175 265 0
+D3
+Tunnel
+~
+~
+0 -1 17834
+D4
+Grate to command post.
+~
+grate~
+1 -1 17832
+S
+#17834
+Tunnel~
+   To the west you can see a chamber that widens out.
+~
+175 265 0
+D1
+Tunnel
+~
+~
+0 -1 17833
+D3
+Tunnel to the chamber.
+~
+~
+0 -1 17835
+S
+#17835
+Chamber~
+   This chamber is just big enough to allow two people through at a
+time.  To the south, the tunnel continues to the grassy battlefield.
+The tunnel also continues to the west and east.
+~
+175 131337 0
+D1
+Tunnel.
+~
+~
+0 -1 17834
+D2
+Tunnel.
+~
+~
+0 -1 17824
+D3
+Tunnel.
+~
+~
+0 -1 17836
+S
+#17836
+Tunnel~
+   You have come to the end of the tunnel.  There is a ladder leading to
+the west bunker.
+~
+175 131337 0
+D1
+Tunnel.
+~
+~
+0 -1 17835
+D4
+Ladder to the west bunker.
+~
+grate~
+1 -1 17837
+S
+#17837
+Blue Bunker West~
+   You are in the west bunker.  To the south is a hallway leading to the
+gates.  As you scan the room you see a ladder leading to the tunnel.
+~
+175 655368 0
+D2
+Archway to hallway.
+~
+~
+0 -1 17826
+D5
+Ladder to the tunnel.
+~
+~
+0 -1 17836
+S
+#99999
+$~
+

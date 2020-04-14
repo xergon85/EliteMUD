@@ -1,0 +1,1688 @@
+#12200
+The Outskirts of the Battlefield~
+   The trees thin out, allowing you to see a huge field, marked with 
+the signs of an ancient battlefield. No natural sounds can be heard at
+all, except for the constant whining noise of the wind, blowing over 
+the field. To the north lies the path out of here, to the south lies 
+the history of an ancient battlefield.
+~
+122 0 3
+D0
+The tree line
+~
+~
+0 -1 12279
+D2
+The Ancient Battlefield
+~
+~
+0 -1 12204
+S
+#12201
+Monument of the Fallen~
+   Here, a large monument has been erected to honor those who fell
+beneath the evil they were fighting. Peace fills you, but at the same
+time a cold evil seeps in to you, chilling your bones and flesh.
+The monument shows a priest, holding a fallen soldier in his arms,
+while giving the last blessing...praying for his soul. The only exit
+is to the east.
+~
+122 t 2
+D1
+The Ancient Battlefield
+~
+~
+0 -1 12206
+E
+monument~
+A large monument erected to honor those who fell and willing gave up
+their life to prevent evil from winning. You wonder if there were any
+winners. On a gilded plaque by the bottom of the monument, hundreds of
+names have been carved. Gorak Ironfist, Lord Captain Dreilim, Ischii
+the sneaky one, Geyrn...So many...so many...
+~
+S
+#12202
+The Ancient Battlefield~
+   The ground here is heavily damaged. Magic and catapults come to your
+mind. Metal glimmers everywhere, and you wonder how much mother nature
+has managed to hide during all this time. As you look around, you see
+the field stretch out in all directions.
+~
+122 0 4
+D0
+The Ancient Battlefield
+~
+~
+0 -1 12214
+D1
+The Ancient Battlefield
+~
+~
+0 -1 12203
+D2
+The Ancient Battlefield
+~
+~
+0 -1 12206
+D3
+The Ancient Battlefield
+~
+~
+0 -1 12205
+S
+#12203
+The Ancient Battlefield~
+   Damaged terrain, burned trees...After the war, only destruction
+remains. You think, will this ever 'heal', and at once doubt fills you.
+The memories will always remain. Around you, the field stretches out.
+~
+122 0 4
+D0
+The Ancient Battlefield
+~
+~
+0 -1 12215
+D1
+The Ancient Battlefield
+~
+~
+0 -1 12204
+D2
+The Ancient Battlefield
+~
+~
+0 -1 12207
+D3
+The Ancient Battlefield
+~
+~
+0 -1 12202
+S
+#12204
+The Ancient Battlefield~
+   A battlefield, with the scars of a long done battle. A very fierce
+battle. By judging the damage, the remains, you come to the conclusion
+that this battlefield, must have held one of the most vicious battles
+in history. These scars will always remain. The field stretches out
+around you like a carpet of destruction.
+~
+122 0 4
+D0
+The Outskirts of the Battlefield
+~
+~
+0 -1 12200
+D1
+The Ancient Battlefield
+~
+~
+0 -1 12205
+D2
+The Ancient Battlefield
+~
+~
+0 -1 12208
+D3
+The Ancient Battlefield
+~
+~
+0 -1 12203
+S
+#12205
+The Ancient Battlefield~
+   The savage scars of great fierce battles mark the ground, and the
+surrounding area. Metal glimmers everywhere, arrowheads, swordtips...
+even some bones can be seen, half buried by time itself. But not even
+time will be able to cover it all. The field goes on in all directions.
+~
+122 0 4
+D0
+The Ancient Battlefield
+~
+~
+0 -1 12217
+D1
+The Ancient Battlefield
+~
+~
+0 -1 12202
+D2
+The Ancient Battlefield
+~
+~
+0 -1 12209
+D3
+The Ancient Battlefield
+~
+~
+0 -1 12204
+S
+#12206
+The Ancient Battlefield~
+   The savage scars of great fierce battles mark the ground, and the
+surrounding area. Metal glimmers everywhere, arrowheads, swordtips...
+even some bones can be seen, half buried by time itself. But not even
+time will be able to cover it all. The field goes on in all directions.
+~
+122 0 4
+D0
+The Ancient Battlefield
+~
+~
+0 -1 12212
+D1
+The Ancient Battlefield
+~
+~
+0 -1 12207
+D2
+The Ancient Battlefield
+~
+~
+0 -1 12210
+D3
+Monument of the Fallen
+~
+~
+0 -1 12201
+S
+#12207
+The Ancient Battlefield~
+   The ground here is heavily damaged. Magic and catapults come to your
+mind. Metal glimmers everywhere, and you wonder how much mother nature
+has managed to hide during all this time. As you look around, you see
+the field stretch out in all directions.
+~
+122 0 4
+D0
+The Ancient Battlefield
+~
+~
+0 -1 12202
+D1
+The Ancient Battlefield
+~
+~
+0 -1 12208
+D2
+The Ancient Battlefield
+~
+~
+0 -1 12211
+D3
+The Ancient Battlefield
+~
+~
+0 -1 12206
+S
+#12208
+The Ancient Battlefield~
+   Damaged terrain, burned trees...After the war, only destruction
+remains. You think, will this ever 'heal', and at once doubt fills you.
+The memories will always remain. Around you, the field stretches out.
+~
+122 0 4
+D0
+The Ancient Battlefield
+~
+~
+0 -1 12204
+D1
+The Ancient Battlefield
+~
+~
+0 -1 12209
+D2
+The Ancient Battlefield
+~
+~
+0 -1 12212
+D3
+The Ancient Battlefield
+~
+~
+0 -1 12207
+S
+#12209
+The Ancient Battlefield~
+   A battlefield, with the scars of a long done battle. A very fierce
+battle. By judging the damage, the remains, you come to the conclusion
+that this battlefield, must have held one of the most vicious battles
+in history. These scars will always remain. The field stretches out
+around you like a carpet of destruction.
+~
+122 0 4
+D0
+The Ancient Battlefield
+~
+~
+0 -1 12205
+D2
+The Ancient Battlefield
+~
+~
+0 -1 12213
+D3
+The Ancient Battlefield
+~
+~
+0 -1 12208
+S
+#12210
+The Ancient Battlefield~
+   A battlefield, with the scars of a long done battle. A very fierce
+battle. By judging the damage, the remains, you come to the conclusion
+that this battlefield, must have held one of the most vicious battles
+in history. These scars will always remain. The field stretches out
+around you like a carpet of destruction.
+~
+122 0 4
+D0
+The Ancient Battlefield
+~
+~
+0 -1 12206
+D1
+The Ancient Battlefield
+~
+~
+0 -1 12211
+D2
+The Ancient Battlefield
+~
+~
+0 -1 12214
+D3
+The Ancient Battlefield
+~
+~
+0 -1 12213
+S
+#12211
+The Ancient Battlefield~
+   The savage scars of great fierce battles mark the ground, and the
+surrounding area. Metal glimmers everywhere, arrowheads, swordtips...
+even some bones can be seen, half buried by time itself. But not even
+time will be able to cover it all. The field goes on in all directions.
+~
+122 0 4
+D0
+The Ancient Battlefield
+~
+~
+0 -1 12207
+D1
+The Ancient Battlefield
+~
+~
+0 -1 12212
+D2
+The Ancient Battlefield
+~
+~
+0 -1 12215
+D3
+The Ancient Battlefield
+~
+~
+0 -1 12210
+S
+#12212
+The Ancient Battlefield~
+   The ground here is heavily damaged. Magic and catapults come to your
+mind. Metal glimmers everywhere, and you wonder how much mother nature
+has managed to hide during all this time. As you look around, you see
+the field stretch out in all directions.
+~
+122 0 4
+D0
+The Ancient Battlefield
+~
+~
+0 -1 12208
+D1
+The Ancient Battlefield
+~
+~
+0 -1 12213
+D2
+The Ancient Battlefield
+~
+~
+0 -1 12216
+D3
+The Ancient Battlefield
+~
+~
+0 -1 12211
+S
+#12213
+The Ancient Battlefield~
+   Damaged terrain, burned trees...After the war, only destruction
+remains. You think, will this ever 'heal', and at once doubt fills you.
+The memories will always remain. Around you, the field stretches out.
+~
+122 0 4
+D0
+The Ancient Battlefield
+~
+~
+0 -1 12209
+D1
+The Ancient Battlefield
+~
+~
+0 -1 12210
+D2
+The Ancient Battlefield
+~
+~
+0 -1 12217
+D3
+The Ancient Battlefield
+~
+~
+0 -1 12212
+S
+#12214
+The Ancient Battlefield~
+   Damaged terrain, burned trees...After the war, only destruction
+remains. You think, will this ever 'heal', and at once doubt fills you.
+The memories will always remain. Around you, the field stretches out.
+~
+122 0 4
+D0
+The Ancient Battlefield
+~
+~
+0 -1 12210
+D1
+The Ancient Battlefield
+~
+~
+0 -1 12215
+D2
+The Ancient Battlefield
+~
+~
+0 -1 12202
+D3
+The Ancient Battlefield
+~
+~
+0 -1 12217
+S
+#12215
+The Ancient Battlefield~
+   A battlefield, with the scars of a long done battle. A very fierce
+battle. By judging the damage, the remains, you come to the conclusion
+that this battlefield, must have held one of the most vicious battles
+in history. These scars will always remain. The field stretches out
+around you like a carpet of destruction.
+~
+122 0 4
+D0
+The Ancient Battlefield
+~
+~
+0 -1 12211
+D1
+The Ancient Battlefield
+~
+~
+0 -1 12216
+D2
+The Ancient Battlefield
+~
+~
+0 -1 12203
+D3
+The Ancient Battlefield
+~
+~
+0 -1 12214
+S
+#12216
+The Ancient Battlefield~
+   The savage scars of great fierce battles mark the ground, and the
+surrounding area. Metal glimmers everywhere, arrowheads, swordtips...
+even some bones can be seen, half buried by time itself. But not even
+time will be able to cover it all. The field goes on in all directions.
+~
+122 0 4
+D0
+The Ancient Battlefield
+~
+~
+0 -1 12212
+D1
+The Ancient Battlefield
+~
+~
+0 -1 12217
+D2
+Entrance to the Mausoleum
+~
+~
+0 -1 12218
+D3
+The Ancient Battlefield
+~
+~
+0 -1 12215
+S
+#12217
+The Ancient Battlefield~
+   The ground here is heavily damaged. Magic and catapults come to your
+mind. Metal glimmers everywhere, and you wonder how much mother nature
+has managed to hide during all this time. As you look around, you see
+the field stretch out in all directions.
+~
+122 0 4
+D0
+The Ancient Battlefield
+~
+~
+0 -1 12213
+D1
+The Ancient Battlefield
+~
+~
+0 -1 12214
+D2
+The Ancient Battlefield
+~
+~
+0 -1 12205
+D3
+The Ancient Battlefield
+~
+~
+0 -1 12216
+S
+#12218
+Entrance to the Mausoleum~
+   Here, is a pair of huge doors. One of the doors hangs slightly from
+one of its hinges. You wonder what tremendous force could have wrecked
+theese doors. The mausoleum looks old, very old as it stands among the
+shattered remains of a once truly beautiful forrest. Behind you, to
+the north, lies the main part of the battlefield, and to the south,
+lies the secrets of the temple.
+~
+122 0 3
+D0
+The Ancient Battlefield
+~
+~
+0 -1 12216
+D2
+Ruined Hallway
+~
+gate gates door doors
+~
+1 0 12268
+S
+#12219
+North Wing Entrance~
+   Here is a magnificently decorated chamber. The walls are covered
+with great illustrations of all kinds of things. Great beings, holy
+relics...Although, one common factor can be found. They all tell of the
+the fierce northerners, the cold wintery winds of the north, snowy high
+mountainpasses. A hall goes to the north, and to the south you see a
+huge chamber, glowing with a pale illuminating light. A stairway leads
+down into the dark.
+~
+122 d 1
+D0
+Ruined Hallway
+~
+~
+0 -1 12268
+D2
+The Altar of Purification
+~
+~
+0 -1 12221
+D5
+Shrine of the North
+~
+~
+0 -1 12240
+S
+#12220
+West Wing Entrance~
+   Here is a magnificently decorated chamber. The walls are covered
+with great illustrations of all kinds of things. Great beings, holy
+relics...Although, one common factor can be found. Everything concerns
+forrests, and lakes. You can't help the feeling of spring washing over
+you. You even think you can smell life begin to bloom. To the East a
+pale light shines in through a huge archway, and a stairway can be 
+found leading downwards.
+~
+122 d 1
+D1
+The Altar of Purification
+~
+~
+0 -1 12221
+D5
+Shrine of the West
+~
+~
+0 -1 12249
+S
+#12221
+The Altar of Purification~
+   This chamber is huge. Large colored windows in the ceiling let a 
+pale light illumine the chamber. A large and incredibly beautiful altar
+has been erected in the middle of the room. As you near it, a peace
+fills you, making you feel safe and...clean. Huge archways can be found
+in every direction.
+~
+122 d 1
+D0
+North Wing Entrance
+~
+~
+0 -1 12219
+D1
+East Wing Entrance
+~
+~
+0 -1 12222
+D2
+South Wing Entrance
+~
+~
+0 -1 12223
+D3
+West Wing Entrance
+~
+~
+0 -1 12220
+S
+#12222
+East Wing Entrance~
+   Here is a magnificently decorated chamber. The walls are covered
+with great illustrations of all kinds of things. Great beings, holy
+relics...Although, one common factor can be found. Everything is about
+the autumn, the falling of leaves. The cold setting in. Everything
+preparing for the cold of the winter. To the west lies a huge chamber,
+and some stairs lead down into the darkness.
+~
+122 d 1
+D3
+The Altar of Purification
+~
+~
+0 -1 12221
+D5
+Shrine of the East
+~
+~
+0 -1 12250
+S
+#12223
+South Wing Entrance~
+   Here is a magnificently decorated chamber. The walls are covered
+with great illustrations of all kinds of things. Great beings, holy
+relics...Although, one common factor can be found. Everything tells of
+the warmth of the summer, the rising of the sun. Life will be reborn,
+everything walks again. To the north, an altar has been erected, also,
+some stairs are leading down from here.
+~
+122 d 1
+D0
+The Altar of Purification
+~
+~
+0 -1 12221
+D5
+Shrine of the South
+~
+~
+0 -1 12259
+S
+#12224
+Zombie Spawning Room~
+   No access!
+~
+122 du 1
+D4
+The Ancient Battlefield
+~
+~
+0 -1 12202
+S
+#12225
+Zombie Spawning Room~
+   No access!
+~
+122 du 1
+D4
+The Ancient Battlefield
+~
+~
+0 -1 12204
+S
+#12226
+Zombie Spawning Room~
+   No access!
+~
+122 du 1
+D4
+The Ancient Battlefield
+~
+~
+0 -1 12207
+S
+#12227
+Zombie Spawning Room~
+   No access!
+~
+122 du 1
+D4
+The Ancient Battlefield
+~
+~
+0 -1 12209
+S
+#12228
+Zombie Spawning Room~
+   No access!
+~
+122 du 1
+D4
+The Ancient Battlefield
+~
+~
+0 -1 12210
+S
+#12229
+Zombie Spawning Room~
+   No access!
+~
+122 du 1
+D4
+The Ancient Battlefield
+~
+~
+0 -1 12212
+S
+#12230
+Zombie Spawning Room~
+   No access!
+~
+122 du 1
+D4
+The Ancient Battlefield
+~
+~
+0 -1 12215
+S
+#12231
+Zombie Spawning Room~
+   No access!
+~
+122 du 1
+D4
+The Ancient Battlefield
+~
+~
+0 -1 12217
+S
+#12232
+The Tomb of Sir Durhne~
+   This is the tomb of Sir Durhne, one of the good forces most 
+brilliant swordsmen. The stories tell of him, wielding a shortsword
+in each hand, while 'dancing' the blades with his enemies. The tomb
+itself, is very plain. No carvings except his name on a small gilded
+plaque. The only exit lies to the south.
+~
+122 d 1
+D2
+A crossing in the Catacombs
+~
+~
+0 -1 12234
+S
+#12233
+A Ruined Tomb~
+   Chaos fills this room. You see the remains of the tomb spread out
+all over the room. Parts lie everywhere, but...who would have done such
+a thing? You dig some after the nameplate, and find it well concealed
+beneath the rubble. But when you try to read the name, you can't help
+but fail. The name's been destroyed by someone. The hall can be found
+just to the east of here.
+~
+122 d 1
+D1
+A crossing in the Catacombs
+~
+~
+0 -1 12234
+S
+#12234
+A crossing in the Catacombs~
+   A large and pretty dark room, with exits in all directions. A large
+holy symbol has been placed in the middle of the crossing, glowing with
+a faint light. Inscribed on the symbol are the words 'Peace favor those
+who fell beneath the shadow'.
+~
+122 d 1
+D0
+The Tomb of Sir Durhne
+~
+~
+0 -1 12232
+D1
+The Tomb of Lady Nemia
+~
+~
+0 -1 12235
+D2
+A passage in the Catacombs
+~
+~
+0 -1 12236
+D3
+A Ruined Tomb
+~
+~
+0 -1 12233
+S
+#12235
+The Tomb of Lady Nemia~
+   A large, heavily marked glass chest lies in the middle of this room.
+Within it, you can see a beautiful woman, lying on a bed of large green
+leaves. She's dressed in a white robe, with her arms folded over her
+chest. There's a silvery plaque on the far side of the chest. On it,
+the words 'Lady Nemia, her sacrifice will never be forgotten'. The exit
+lies to the west.
+~
+122 dh 1
+D3
+A Crossing in the Catacombs
+~
+~
+0 -1 12234
+S
+#12236
+A Passage in the Catacombs~
+   A dark and musty catacomb moving from the north to the south,
+binding together the tombs of the fallen. You can see a holy symbol
+standing in the crossway both to the north and to the south of here.
+~
+122 d 1
+D0
+A Crossing in the Catacombs
+~
+~
+0 -1 12234
+D2
+A Crossing in the Catacombs
+~
+~
+0 -1 12238
+S
+#12237
+A Nameless Hero's Grave~
+   A simple tomb, a simple final resting place. You wonder who might
+be resting here, but fail to find anything that might reveal that.
+No plaque, no sign...Nothing that can tell the story of the fallen
+resting in here. There's a crossing to the east.
+~
+122 d 1
+D1
+A Crossing in the Catacombs
+~
+~
+0 -1 12238
+S
+#12238
+A Crossing in the Catacombs~
+   A large and pretty dark room, with exits in all directions. A large
+holy symbol has been placed in the middle of the crossing, glowing with
+a faint light. Inscribed on the symbol are the words 'Peace favor those
+who fell beneath the shadow'.
+~
+122 d 1
+D0
+A Passage in the Catacombs
+~
+~
+0 -1 12236
+D1
+The Tomb of Gaffyn the Bold
+~
+~
+0 -1 12239
+D2
+Shrine of the North
+~
+~
+0 -1 12240
+D3
+A Nameless Hero's Grave
+~
+~
+0 -1 12237
+S
+#12239
+The Tomb of Gaffyn the Bold~
+   This chamber, is being dominated by a huge chest of what seems to be
+dark black marble stone. It's magnificent. Cut out on one of it's
+sides, are the words 'Gaffyn the Bold, The Northerner. His deeds turned
+the winds in our favor'. A large crossing can be seen to the west.
+~
+122 d 1
+D3
+A Crossing in the Catacombs
+~
+~
+0 -1 12238
+S
+#12240
+Shrine of the North~
+   In here a small altar has been placed, surrounded by hundreds of
+burning candles, making the shadows dance on the walls. The altar
+is small and very simple, seemingly made out of white oak. There's a
+stairway going up here, and a long hall can be seen going to the north.
+~
+122 d 1
+D0
+A Crossing in the Catacombs
+~
+~
+0 -1 12238
+D4
+North Wing Entrance
+~
+~
+0 -1 12219
+S
+#12241
+The Tomb of Ahania, the Berzerker~
+   This is a very grim looking chamber. It resembles a cave, with very
+rough walls. You wonder what the meaning is behind this. In the middle
+of the room, a tall piedestal has been placed with an urn standing on
+top of it. On the piedestal a small plaque with the words 'Ahania,
+consumed with fire. Struck down with thunder'. There's a long hallway
+just to the east of here.
+~
+122 d 1
+D1
+A Crossing in the Catacombs
+~
+~
+0 -1 12243
+S
+#12242
+The Tomb of Sir Wyneh~
+   In this chamber, a large stone coffin has been placed in the middle
+of the floor. The lid lies on the floor right next to it, broken in
+two. Inside the coffin, there's nothing. On a small gilded plaque, the
+words 'Sir Wyneh, Destroyer of darkness' have been inscribed. To the
+south a crossing can be seen.
+~
+122 d 1
+D2
+A Crossing in the Catacombs
+~
+~
+0 -1 12243
+S
+#12243
+A crossing in the Catacombs~
+   A large and pretty dark room, with exits in all directions. A large
+holy symbol has been placed in the middle of the crossing, glowing with
+a faint light. Inscribed on the symbol are the words 'May the Eternal
+Light, guide our fallen to their final rest.'
+~
+122 d 1
+D0
+The Tomb of Sir Wyneh
+~
+~
+0 -1 12242
+D1
+A Passage in the Catacombs
+~
+~
+0 -1 12245
+D2
+A Nameless Hero's Grave
+~
+~
+0 -1 12244
+D3
+The Tomb of Ahania the Berzerker
+~
+~
+0 -1 12241
+S
+#12244
+A Nameless Hero's Grave~
+   A simple tomb, a simple final resting place. You wonder who might
+be resting here, but fail to find anything that might reveal that.
+No plaque, no sign...Nothing that can tell the story of the fallen
+resting in here. There's a crossing to the north.
+~
+122 d 1
+D0
+A Crossing in the Catacombs
+~
+~
+0 -1 12243
+S
+#12245
+A Passage in the Catacombs~
+   A dark and musty catacomb moving from the east to the west,
+binding together the tombs of the fallen. You can see a holy symbol
+standing in the crossway both to the east and to the west of here.
+~
+122 d 1
+D1
+A Crossing in the Catacombs
+~
+~
+0 -1 12247
+D3
+A Crossing in the Catacombs
+~
+~
+0 -1 12243
+S
+#12246
+The Tomb of Lord Konrad~
+   A very well decorated chamber, full of tapestries decorating the
+cold stone walls. Small lanterns are dangling from the ceiling,
+spreading a soft light all over the room. A heavily decorated coffin
+dominates the chamber. On the far wall, a large sign with the words
+'Lord Konrad, sacrificed his life and eternal soul for our success.
+He will never be forgotten', written upon it. To the south, you see a
+crossing, and a large holy symbol glowing faintly.
+~
+122 d 1
+D2
+A Crossing in the Catacombs
+~
+~
+0 -1 12247
+S
+#12247
+A crossing in the Catacombs~
+   A large and pretty dark room, with exits in all directions. A large
+holy symbol has been placed in the middle of the crossing, glowing with
+a faint light. Inscribed on the symbol are the words 'May the Eternal
+Light, guide our fallen to their final rest.'
+~
+122 d 1
+D0
+The Tomb of Lord Konrad
+~
+~
+0 -1 12246
+D1
+Shrine of the North
+~
+~
+0 -1 12249
+D2
+The Tomb of Lady Irinah
+~
+~
+0 -1 12248
+D3
+A Passage in the Catacombs
+~
+~
+0 -1 12245
+S
+#12248
+   The Tomb of Lady Irinah~
+A chamber completely decorated with velvet cloth. Very soft, and not a
+single sound can be heard. You feel very relaxed in here, as if nothing
+could trouble you here, but then you notice a skeleton lying in a
+corner. A large coffin is leaning against the far wall, glowing with
+a soft blue light. On it, the words 'Lady Irinah, She found her peace,
+may she never be disturbed' cut into it. To the north the crossing can
+be found.
+~
+122 dot 1
+D0
+A Crossing in the Catacombs
+~
+~
+0 -1 12247
+S
+#12249
+Shrine of the West~
+   In here a small altar has been placed, surrounded by hundreds of
+burning candles, making the shadows dance on the walls. The altar
+is small and very simple, seemingly made out of white oak. There's a
+stairway going up here, and a long hall can be seen going to the west.
+~
+122 d 1
+D3
+A Crossing in the Catacombs
+~
+~
+0 -1 12247
+D4
+West Wing Entrance
+~
+~
+0 -1 12220
+S
+#12250
+Shrine of the East~
+   In here a small altar has been placed, surrounded by hundreds of
+burning candles, making the shadows dance on the walls. The altar
+is small and very simple, seemingly made out of white oak. There's a
+stairway going up here, and a long hall can be seen going to the east.
+~
+122 d 1
+D1
+A Crossing in the Catacombs
+~
+~
+0 -1 12252
+D4
+East Wing Entrance
+~
+~
+0 -1 12222
+S
+#12251
+The Tomb of Den'Drelich, the Windrider~
+   A large spacious chamber, but something strikes you odd. There's no
+coffin, no final resting place. Other than that, the walls are very
+smooth, and they almost glimmer in the faint light from the torches
+that line the walls. Then you see something shining along the far wall.
+A large metal ring, and then it strikes you. The whole floor is one
+big trapdoor. You wonder, WHAT could be down there? To the south, the
+crossing can be found.
+~
+122 d 1
+D2
+A Crossing in the Catacombs
+~
+~
+0 -1 12252
+D5
+Chamber of the Winds
+~
+trapdoor
+~
+1 0 12269
+S
+#12252
+A crossing in the Catacombs~
+   A large and pretty dark room, with exits in all directions. A large
+holy symbol has been placed in the middle of the crossing, glowing with
+a faint light. Inscribed on the symbol are the words 'May the Blessing
+of the Creator protect our fallen comrades'
+~
+122 d 1
+D0
+The Tomb of Den'Drelich, the Windrider
+~
+~
+0 -1 12251
+D1
+A Passage in the Catacombs
+~
+~
+0 -1 12254
+D2
+A Ruined Tomb
+~
+~
+0 -1 12253
+D3
+Shrine of the East
+~
+~
+0 -1 12250
+S
+#12253
+A Ruined Tomb~
+   Chaos fills this room. You see the remains of the tomb spread out
+all over the room. Parts lie everywhere, but...who would have done such
+a thing? You dig some after the nameplate, and find it well concealed
+beneath the rubble. But it's only a small part of the name that can be
+read. '...rgehn, the Fiery La...', nothing else is readable. The hall
+can be found just to the north of here.
+~
+122 d 1
+D0
+A Crossing in the Catacombs
+~
+~
+0 -1 12252
+S
+#12254
+A Passage in the Catacombs~
+   A dark and musty catacomb moving from the east to the west,
+binding together the tombs of the fallen. You can see a holy symbol
+standing in the crossway both to the east and to the west of here.
+~
+122 d 1
+D1
+A Crossing in the Catacombs
+~
+~
+0 -1 12256
+D3
+A Crossing in the Catacombs
+~
+~
+0 -1 12252
+S
+#12255
+The Tomb of Mistress Silfane~
+   A very bright chamber, with large mirrors placed along the walls.
+In the middle of the room, a large mirror has been placed, and within
+it, you see the reflection of a beautiful woman. She's...glowing with
+magic and strength, and you wonder if she really is dead. Then it
+strikes you, you have no reflection in this mirror. Along the frame of
+the mirror some words have been carved in, 'Silfane, Mistress of the
+mirrors. Her light blessed us, her light blinded the evil'. To the
+south lies a crossing.
+~
+122 d 1
+D2
+A Crossing in the Catacombs
+~
+~
+0 -1 12256
+S
+#12256
+A crossing in the Catacombs~
+   A large and pretty dark room, with exits in all directions. A large
+holy symbol has been placed in the middle of the crossing, glowing with
+a faint light. Inscribed on the symbol are the words 'May the Blessing
+of the Creator protect our fallen comrades'
+~
+122 d 1
+D0
+The Tomb of Mistress Silfana
+~
+~
+0 -1 12255
+D1
+The Tomb of Sir Heilon
+~
+~
+0 -1 12258
+D2
+A Nameless Hero's Grave
+~
+~
+0 -1 12257
+D3
+A Passage in the Catacombs
+~
+~
+0 -1 12254
+S
+#12257
+A Nameless Hero's Grave~
+   A simple tomb, a simple final resting place. You wonder who might
+be resting here, but fail to find anything that might reveal that.
+No plaque, no sign...Nothing that can tell the story of the fallen
+resting in here. There's a crossing to the north.
+~
+122 d 1
+D0
+A Crossing in the Catacombs
+~
+~
+0 -1 12256
+S
+#12258
+The Tomb of Sir Heilon~
+   In here, the first thing you see, is a large throne with a very old
+skeleton sitting upon it. It must have been like this for years and
+years. By judging the skeleton, you come to the conclusion that the
+'owner' was a very tall, and propably very thin man. On a dusty plaque
+behind the throne on the far wall, you see the words 'Final resting
+place of Sir Heilon. His blade cut the darkness in two'. To the west a
+long hallway continues.
+~
+122 d 1
+D3
+A Crossing in the Catacombs
+~
+~
+0 -1 12256
+S
+#12259
+Shrine of the South~
+   In here a small altar has been placed, surrounded by hundreds of
+burning candles, making the shadows dance on the walls. The altar
+is small and very simple, seemingly made out of white oak. There's a
+stairway going up here, and a long hall can be seen going to the south.
+~
+122 d 1
+D2
+A Crossing in the Catacombs
+~
+~
+0 -1 12261
+D4
+South Wing Entrance
+~
+~
+0 -1 12223
+S
+#12260
+The Tomb of Captain Paplaus II~
+   A small chamber, with a small coffin in the middle of the room.
+A very simple room, and a very simple coffin. On the coffin a few words
+have been cut in. 'Captain paplaus II, although small, his heart was
+braver and stronger than most. He defied evil in our darkest hours'.
+To the east a crossing can be seen.
+~
+122 d 1
+D1
+A Crossing in the Catacombs
+~
+~
+0 -1 12261
+S
+#12261
+A crossing in the Catacombs~
+   A large and pretty dark room, with exits in all directions. A large
+holy symbol has been placed in the middle of the crossing, glowing with
+a faint light. Inscribed on the symbol are the words 'May the Light
+shelter those who gave their lives for us'.
+~
+122 d 1
+D0
+Shrine of the South
+~
+~
+0 -1 12259
+D1
+The Tomb of Nioshi, the nimble one
+~
+~
+0 -1 12262
+D2
+A Passage in the Catacombs
+~
+~
+0 -1 12263
+D3
+The Tomb of Captain Paplaus II
+~
+~
+0 -1 12260
+S
+#12262
+The Tomb of Nioshi, the nimble one~
+   A really small burial chamber, and the ceiling is so low you almost
+hit your head. In the middle of the room, a tiny transparent coffin has
+been placed. Within it, you see a small female body. You can't be sure,
+but it seems to be a young gnomish girl. On the glass, some words have
+been painted, 'Nioshi, avoided the dark with her tricks and quick
+ways'. To the west the crossing can be seen.
+~
+122 d 1
+D3
+A Crossing in the Catacombs
+~
+~
+0 -1 12261
+S
+#12263
+A Passage in the Catacombs~
+   A dark and musty catacomb moving from the north to the south,
+binding together the tombs of the fallen. You can see a holy symbol
+standing in the crossway both to the north and to the south of here.
+~
+122 d 1
+D0
+A Crossing in the Catacombs
+~
+~
+0 -1 12261
+D2
+A Crossing in the Catacombs
+~
+~
+0 -1 12265
+S
+#12264
+The Tomb of Worsh'ach, the Battlemage~
+   The very grim looking burial chamber of Worsh'ach, the Battlemage.
+According to a small sign above his coffin, he repelled every single
+flow of dark magic that was hurled against the forces of good. But 
+finally, a poisoned arrow got through and killed him. To the east,
+a crossing can be found.
+~
+122 d 1
+D1
+A Crossing in the Catacombs
+~
+~
+0 -1 12265
+S
+#12265
+A crossing in the Catacombs~
+   A large and pretty dark room, with exits in all directions. A large
+holy symbol has been placed in the middle of the crossing, glowing with
+a faint light. Inscribed on the symbol are the words 'May the Light
+shelter those who gave their lives for us'.
+~
+122 d 1
+D0
+A Passage in the Catacombs
+~
+~
+0 -1 12263
+D1
+The Tomb of Ungir Brimstone
+~
+~
+0 -1 12266
+D2
+A Ruined Tomb
+~
+~
+0 -1 12267
+D3
+The Tomb of Worsh'ach, the Battlemage
+~
+~
+0 -1 12264
+S
+#12266
+The Tomb of Ungir Brimstone~
+   Upon entering this chamber, you are struck by the magnificent walls.
+Carvings everywhere, extremely beautiful..almost alive. A heavily
+decorated coffin has been placed along the northern wall. A flowing
+scripts marks the words 'Ungir Brimstone, Master of the blades. He
+forged the light and combined it with steel'. To the west lies the exit
+out of this chamber.
+~
+122 d 1
+D3
+A Crossing in the Catacombs
+~
+~
+0 -1 12265
+S
+#12267
+A Ruined Tomb~
+   Chaos fills this room. You see the remains of the tomb spread out
+all over the room. Parts lie everywhere, but...who would have done such
+a thing? You dig some after the nameplate, and find it well concealed
+beneath the rubble. But when you try to read the name, you get a shock.
+On the plate a name has been carved in a rigid script, 'Lord Gaheen,
+our latest recruit...' then it becomes to hard to read. A long hallway
+can be seen stretch out to the north.
+~
+122 d 1
+D0
+A Crossing in the Catacombs
+~
+~
+0 -1 12265
+S
+#12268
+   A Ruined Hallway~
+Everything in here is in a shambles. Tapestries have been torn to
+pieces. Chairs and tables have been destroyed. Pieces litter the
+floor. To the north a pair of huge doors can be seen. They look like
+they've been through some heavy beating, since one of the doors is
+hanging from one of it's hinges. To the south a hall is leading into a
+large chamber.
+~
+122 d 1
+D0
+Entrance to the Mausoleum
+~
+gate gates doors
+~
+1 0 12218
+D2
+North Wing Entrance
+~
+~
+0 -1 12219
+S
+#12269
+Chamber of the Winds~
+   Here is a huge chamber, with a heavy wind somehow caught inside it.
+From time to time, you almost get swept off your feet by the strong 
+wind chasing through this chamber. Above you is a large trapdoor, and
+a small ladder leads up to it. Then something glimmering catches your
+eye. In the faint light from the torches that line the walls, you see
+thousands of gems, embedded in the walls.
+~
+122 d 1
+D4
+The Tomb of Den'Drelich, the Windrider
+~
+trapdoor
+~
+1 0 12251
+S
+#12270
+A moldy ladder~
+   Standing on a rickety and very moldy ladder, you gaze down into the
+pitch black darkness below you. You wonder quietly to yourself what
+possibly could be down there. No sounds, no movement at all. Then you
+feel a slight breeze caressing your cheek. Maybe there's something down
+there after all.
+~
+122 acd 5
+D4
+Sloping tunnel
+~
+trapdoor stone slab
+~
+1 0 9971
+D5
+Cavern entrance
+~
+~
+0 -1 12271
+S
+#12271
+Cavern entrance~
+   A small chamber, if it possibly could be called that, with a small
+tunnel leading into the darkness to the east. You look up and wonder
+if you should head back up the ladder, or walk into the black to the
+east. It's cold down here and as you feel a small breeze touching your
+skin, shivers run down your back.
+~
+122 ad 4
+D1
+Rocky tunnel
+~
+~
+0 -1 12272
+D4
+A moldy ladder
+~
+~
+0 -1 12270
+S
+#12272
+Rocky tunnel~
+   A small tunnel, with very rocky walls. You have to dodge, crawl and
+God knows what to get past some passages. To the west a faint light can
+be seen, illuminating what seems to be a ladder. To the south, the tunnel
+goes on.
+~
+122 ad 4
+D2
+Rocky tunnel
+~
+~
+0 -1 12273
+D3
+Cavern entrance
+~
+~
+0 -1 12271
+S
+#12273
+Rocky tunnel~
+   A small tunnel, with very rocky walls. You have to dodge, crawl and
+God knows what to get past some passages. To the north a small tunnel
+goes on and to the south, sharp looking rocks form a dangerous looking
+passage through the dark.
+~
+122 ad 4
+D0
+Rocky tunnel
+~
+~
+0 -1 12272
+D2
+Rocky tunnel
+~
+~
+0 -1 12274
+S
+#12274
+Rocky tunnel~
+   A small tunnel, with very rocky walls. You have to dodge, crawl and
+God knows what to get past some passages. Southwards, a small tunnel can
+be seen through the dim light. North you see sharp looking rocks forming
+a tunnel.
+~
+122 ad 4
+D0
+Rocky tunnel
+~
+~
+0 -1 12273
+D2
+Rocky tunnel
+~
+~
+0 -1 12275
+S
+#12275
+Rocky tunnel~
+   A small tunnel, with very rocky walls. You have to dodge, crawl and
+God knows what to get past some passages. To the east you see a large
+chamber bathing in an eerie light. To the north it is pitch black, but
+you know the rocky tunnel is there. Hoping, it will lead out.
+~
+122 ad 4
+D0
+Rocky tunnel
+~
+~
+0 -1 12274
+D1
+Eerie cave
+~
+~
+0 -1 12276
+S
+#12276
+Eerie cave~
+   A large cave, illuminated in a faintly ghastly glow. Looking up,
+you see small holes leading up to the surface. Letting a little light in
+to the cave. Watching the walls, you notice they are covered with some
+strange looking moss that almost seems to absorb the little light there
+is. To the west, a dark tunnel goes on. And to the south, you see a
+tunnel heading into the mist. By one of the walls, you see a large crack
+leading downwards into the unknown darkness.
+~
+122 d 4
+D2
+Foggy deadend
+~
+~
+0 -1 12277
+D3
+Rocky tunnel
+~
+~
+0 -1 12275
+D5
+Bottomless hole
+~
+~
+0 -1 12280
+S
+#12277
+Foggy deadend~
+   Entering this cave, you come to what seems to be a deadend. Wandering
+around in the heavy mist that clouds this chamber, you come to the
+conclusion, there's nothing here. But, strangely as it seems, you still
+feel a slight breeze coming from someplace..someplace beyond the mist to
+the south. To the north of you, there's a huge cavern filled with a
+ghastly pale light.
+~
+122 d 4
+D0
+Eerie cave
+~
+~
+0 -1 12276
+>ttrans 20 12278~
+Walking in the mist, you stumble on a rock and fall face first into the
+ground. Upon standing up again, you see..The fog has lifted and you are
+no more in the caves.
+
+~
+S
+#12278
+The other side~
+   Strange as it seems, but a large wall of trees surround you. You look
+around you, trying to find a way out. A small, almost tiny breach in the
+wooden wall can be seen to the south. You wonder amusedly to yourself,
+where you are and what happened to the caves you entered through.
+~
+122 0 3
+D2
+The tree line
+~
+~
+0 -1 12279
+S
+#12279
+The tree line~
+   Following the thin path surrounded by the trees, you finally come to
+what seems to be an end to the path. Far ahead of you to the south, you
+see light as the trees open up to a world unknown. To the south, the path
+goes on into the woods.
+~
+122 0 3
+D0
+The other side
+~
+~
+0 -1 12278
+D2
+The Outskirts of the Battlefield
+~
+~
+0 -1 12200
+S
+#12280
+Bottomless hole~
+   Flailing blindly with your arms, you pummel rapidly downwards through
+the dark. A scream leaves your lips as terror overwhelms you. And you
+fall forever and ever. And you never stop screaming..never..
+~
+122 bc 3
+D4
+The edge of the cliff from which you jumped, willingly.
+~
+~
+0 -1 12276
+S
+#99999
+$~

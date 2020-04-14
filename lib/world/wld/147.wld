@@ -1,0 +1,2164 @@
+#14701 Chute I~
+takes Ma and some janitors to different subareas of the zone.
+~
+147 u 0
+D0
+games
+~
+~
+0 -1 14740
+D1
+Entrance
+~
+~
+0 -1 14712
+D2
+Kitchen
+~
+~
+0 -1 14788
+D3
+DanceHall
+~
+~
+0 -1 14757
+D5
+Restaurant
+~
+~
+0 -1 14735
+S
+#14702 Chute II~
+takes the crows in from above the chimney.
+~
+147 u 0
+D5
+~
+~
+0 -1 14798
+S
+#14703 Chute III~
+takes the extra guards into Ma's Office
+~
+147 u 1
+D0
+~
+~
+0 -1 14795
+D2
+~
+~
+0 -1 14795
+S
+#14704 Chute IV~
+takes in some more querers.
+~
+147 u 0
+D0
+~
+~
+0 -1 14711
+D3
+~
+~
+0 -1 14710
+S
+#14710 In Line~
+   This is Wrong place to be. Because if you are here then you are not
+inside and that's the Right place to be at. It is a bit cold here, could
+be, it is much warmer inside. The preferred direction from here is south
+towards the entrance but of course you can always wimp out and go north
+towards home too.
+~
+147 0 1
+D0
+The safety boredom of Stanneg. The Stanneg Inn is visible north of the
+main road.
+~
+~
+0 -1 9955
+D2
+The queue continue south.
+~
+~
+0 -1 14711
+E
+inside~
+You peek in through a window. You really want to be further ahead in the
+line because it looks very comfy in there.
+~
+S
+#14711 Outside the Entrance~
+   You are standing outside a large but friendly door. You can feel
+warmth welcoming you in. So, open the door, go in and shake some. you
+will enjoy it. Above your head is a large sign reading 'Ma Glob's
+Dancing Parlor'. North of here there usually is a line trying to get in.
+West is the door.
+~
+147 0 1
+D0
+~
+~
+0 -1 14710
+D3
+The door is heavy oaken on very rigid, but it seems its hinges are well
+greased because there isn't a sound slipping away as the guards open it.
+~
+oaken door~
+1 -1 14712
+E
+sign~
+It has large letters, built up by pulsating colors. Strange magic must
+have been used to create that sign. Maybe that tells you something about
+the owner.
+~
+S
+#14712 Entrance~
+   Inside! East is outside. The warmth of the establishment is really
+surrounding you. You really do not want to leave again. Let's head west
+through the hallway by the bar and seek pleasure at the dance floor. If
+you want to you can leave your clothes at the wardrobe north of here. Or
+you can just stand here and soak in the atmosphere. South, there is a
+ticket office, but you don't really need a ticket.
+~
+147 dc 0
+D0
+~
+~
+0 -1 14713
+D1
+A sip of fresh air slips in through the oaken door.
+~
+oaken door~
+1 -1 14711
+D2
+The ticket office does not look very used. But its not empty because the
+lights are on in there.
+~
+door~
+1 14701 14715
+D3
+The hallway continues.
+~
+~
+0 -1 14716
+E
+window~
+You cant see through the curtain but the light in there is definitely on.
+~
+S
+#14713 Wardrobe~
+   As any other classy establishment Ma Glob's Dancing Parlor offers you
+a safe place for your clothing. A small sign hangs from the roof and
+there ought to be some guards here. If there are not they will probably
+be here very soon. Robes and furs hang on hooks in abundance, but if you
+do not have a ticket, you will not get any of it. There is a guard
+quarters west of here and the entrance is southbound.
+~
+147 d 0
+D2
+~
+~
+0 -1 14712
+D3
+~
+~
+0 -1 14714
+E
+sign~
+Please, leave your winter clothing here. It will be guarded. Glob Inc.
+~
+S
+#14714 Guard Headquarters~
+   This is the room for the local guard force. So you'd better get out
+of here before they get angry. The walls are covered with wanted posters
+and awards for the outstanding heroism by some of the guards. In the
+center stands the Chief of Guards desk covered with papers and forms.
+Organization takes its tribute. Only way out (and you'd better take it)
+is east into the wardrobe.
+~
+147 dv 0
+D1
+~
+~
+0 -1 14713
+E
+poster~
+The face of a big gruff man looks at you. Hmm, isn't that a member of
+your clan. You are absolutely sure you have seen it somewhere else.
+There is another notice here too.
+~
+E
+notice~
+Ah. this one you recognize. It is Duwick. The well known criminal and
+leader of a gang of bandits living in the Haon-Dor forest.
+~
+E
+award~
+'For astonishing bravery in the line of duty.'
+'Champion of free form wrestling'
+'District fencing master'
+Looks like Ma Glob has hired competent people for her security.
+~
+S
+#14715 Ticket Office~
+   The ticket service is long gone. Nowadays people dance with whoever
+they like too, whenever they feel like it. The woman in charge of the
+ticket sales has almost been bored to death, which is obvious looking
+at the pedantically cleaned and organized room. Everything is order,
+even the tablecloth fibres.
+~
+147 d 0
+D0
+~
+door~
+1 14701 14712
+E
+table cloth~
+################################################################
+################################################################
+################################################################
+################################################################
+Perfectly. Gosh! She must have been really bored.
+~
+S
+#14716 Hallway~
+   A hallway leads deeper into Ma Glob's Dancing Parlor, or does it? It
+sure looks like those you-must-make-a-quick-stop-at-the-bar paths.
+Alternatives are few. Either push on towards the west to see if you can
+reach the continuing hallway, go east to see if you come back to the
+entrance or accept your fate and head south to the bar. It is a nice
+looking bar.
+~
+147 d 0
+D1
+~
+~
+0 -1 14712
+D2
+The Bar looks very inviting.
+~
+~
+0 -1 14717
+D3
+The Hallway goes on and on and on and on and on and....
+~
+~
+0 -1 14722
+E
+bar~
+Just a little beer wouldn't hurt, would it ?
+~
+S
+#14717 East Side of the Bar~
+   This sure is a nice bar to hang around in. You feel instinctively
+that this is a place you surely could recommend. You can press yourself
+west along the bar, head north to the hallway or sneak east to come out
+behind the disk south of you. South of you there is a large disk of
+black marble covered with filled or partially filled glasses with our
+without tiny umbrellas and beyond that a huge mirror and shelves with
+any liquor or beverage imaginable.
+~
+147 d 0
+D0
+~
+~
+0 -1 14716
+D2
+~
+~
+0 -1 14718
+D3
+~
+~
+0 -1 14719
+E
+umbrella~
+It's pink and green and really gets into your eyes. Ouch !
+~
+E
+marble disk~
+Single slab of marble. It must weigh several tons. But it sure looks
+nice in this place. And it's perfectly clean, too.
+~
+E
+mirror~
+You see someone really mean in it.
+~
+E
+liquor beverage~
+Think of one. Its there !!!
+Don't forget to order it too.
+[The last message was sponsored by the Dancing Parlor itself]
+~
+S
+#14718 Behind the Bar~
+   Here you get a nice view of the bar north of you. South you see a
+large bar and another nice locale where you could hang around for a
+long time. In the center of the view south there is a very dangerous
+looking person staring directly at you. Around you on shelves there is
+most anything in fluid form you have heard of and most probably a lot
+more. Only visible way out of here is east or west into the bar area.
+~
+147 du 0
+D1
+~
+~
+0 -1 14717
+D2
+It sure is an ugly mirror.
+~
+mirror~
+1 -1 -1
+D3
+~
+~
+0 -1 14720
+E
+mirror person~
+The person in the mirror glares back at you, just as hard as you do.
+Someone really need to teach that one some manners. Perhaps you should
+offer some deconstructive field surgery with your BIG club.
+~
+E
+liquor beverage~
+Think of one. Its there !!!
+Don't forget to order it too. It is very price worthy.
+[This message was sponsored by the Dancing Parlor]
+~
+S
+#14719 Center part of the Bar~
+   This sure is a nice bar to hang around in. You feel instinctively
+that this is a place you surely could recommend. You can press yourself
+west or east along the disk. South of you there is a large disk of black
+marble covered with filled or partially filled glasses with or without
+tiny umbrellas and beyond that a huge mirror and shelves with any liquor
+or beverage imaginable. There should be some snacks around here too.
+~
+147 d 0
+D1
+~
+~
+0 -1 14717
+D3
+~
+~
+0 -1 14720
+E
+umbrella~
+It's pink and green and really gets into your eyes. Ouch !
+~
+E
+liquor beverage~
+Think of one. Its there !!!
+Don't forget to order it too. Today, a special offer for YOU !
+[This message was sponsored by the Dancing Parlor]
+~
+E
+sign~
+Bartenders only distribute refreshments from behind the bar.
+~
+S
+#14720 West Side of the Bar~
+   This sure is a nice bar to hang around in. You feel instinctively
+that this is a place you surely could recommend. You can press yourself
+east along the disk, head north to the hallway or sneak west to come out
+behind the disk south of you. South of you there is a large disk of
+black marble covered with filled or partially filled glasses with our
+without tiny umbrellas and beyond that a huge mirror and shelves with
+any liquor or beverage imaginable.
+~
+147 d 0
+D0
+~
+~
+0 -1 14721
+D1
+~
+~
+0 -1 14719
+D2
+~
+~
+0 -1 14718
+E
+liquor beverage~
+Think of one. Its there !!!
+Don't forget to order it too.
+Yummie! Yummie! Yummie!
+ - Abstainers are no gainers !!!
+[This message was sponsored by the Dancing Parlor]
+~
+E
+umbrella~
+It's pink and green and really gets into your eyes. Ouch !
+~
+S
+#14721 Hallway~
+   A hallway lead deeper into Ma Glob's Dancing Parlor, or does it? It
+sure looks like those you-must-make-a-quick-stop-at-the-bar paths.
+Alternatives are few. Either push on towards the west to see if you can
+reach the continuing hallway, go east to see if you come back to the
+entrance or accept your fate and head south to the bar. It is a nice
+looking bar.
+~
+147 d 0
+D1
+The Hallway goes on and on and on and on and on and....
+~
+~
+0 -1 14722
+D2
+The Bar looks very inviting.
+~
+~
+0 -1 14720
+D3
+The Hallway goes on and on and on and on and on and....
+~
+~
+0 -1 14730
+E
+bar~
+Just a little beer wouldn't hurt, would it ?
+~
+S
+#14722 Hallway~
+   A hallway lead deeper into Ma Glob's Dancing Parlor, or does it? It
+sure looks like those you-must-make-a-quick-stop-at-the-bar paths.
+Alternatives are few. Either push on towards the west to see if you can
+reach the continuing hallway, go east to see if you come back to the
+entrance or accept your fate and head south to the bar. It is a nice
+looking bar.
+~
+147 d 0
+D1
+The Hallway goes on and on and on and on and on and....
+~
+~
+0 -1 14721
+D2
+~
+~
+0 -1 14717
+D3
+The Bar looks very inviting.
+~
+~
+0 -1 14716
+E
+bar~
+Just a little beer wouldn't hurt, would it ?
+~
+S
+#14730 Head Waiters Pulpit~
+   A large shiny mahogany pulpit dominates the crossing in between the
+entrance with its pub, the gaming area up north, the large inviting
+dance floor to the west and the most famous part of the Dancing Parlor
+(oddly enough) south of here, the not too big restaurant with its
+exclusive cuisine.
+~
+147 dc 0
+D0
+A little sign above the north exit reads 'Casino'.
+~
+~
+0 -1 14741
+D1
+You see a long Hallway.
+~
+~
+0 -1 14721
+D2
+~
+~
+0 -1 14731
+D3
+~
+~
+0 -1 14753
+E
+pulpit~
+A small booklet lays on top of the shiny black mahogany pulpit showing
+off who has and who has not got a table reservation this evening. It
+looks like you are not on the list. Guess you must be here solely for
+the dance.
+~
+E
+booklet list~
+ Table reservations and awaited guests :
+King Welmar with escort
+Queen Galadriel with guests
+Prince Aglandiir
+The Gnomish Chieftain with company
+Midori and secret guest (private box)
+The world team (courtesy of the establishment)
+
+Auntie Tabitha as always
+~
+S
+#14731 Restaurant~
+   Two small tables stand here with a small white tablecloth covering
+them and a silver candelabra in the center of each one. On one of the
+tables well folded serviettes lie used on the plates. Apparently the
+rude customers have left without dessert or the nice people just took a
+turn on the dance floor to make room for more. The restaurant continues
+in all directions.
+~
+147 d 0
+D0
+The Head Waiters pulpit it there and the rest of the establishment.
+~
+~
+0 -1 14730
+D1
+One larger table fills out the eastern part of the restaurant.
+~
+~
+0 -1 14737
+D2
+~
+~
+0 -1 14736
+D3
+~
+~
+0 -1 14732
+E
+napkin serviette~
+The little napkins have the initials MGDP on them.
+~
+E
+MGDP~
+Ma Glob's Dancing Parlor.
+~
+S
+#14732 Restaurant~
+   Two small tables stand here with a small white tablecloth covering
+them and a silver candelabra in the center of each one. Both tables have
+just been presented with a very nice 'prelude'. One table got a few
+slices of raw spiced salmon and four kinds of salad while the other
+received large crushed crabs in their own shells. You drool at the sight
+of it. Even though it looks really delicious, it's not for you. The
+restaurant continues in all directions, but north where a "fence"
+protects the dance floor.
+~
+147 d 0
+D1
+~
+~
+0 -1 14731
+D2
+~
+~
+0 -1 14735
+D3
+~
+~
+0 -1 14733
+E
+fence~
+Don't want stuffed dinner guests tumbling out in the middle of the dance
+floor, do we ?
+~
+E
+salmon salad~
+Now this is a very very compliicated recipe.
+Take raw salmon (or greaved) place it on fresh, newly rinced and cleansed
+leaves of salad.
+Thats it.
+One could of course add some newly crushed black pepper and a drop of
+limejuice on top as well just for the taste of it.
+~
+E
+crab~
+Making crab ready for eating is really rather simple.
+Clean it. Clean it again and then clean it.
+Boil it in very salted water (1 litre and 1/2 dl salt each)
+Let it be in the boiling water under the lid for aprox 20 mins.
+When done cool it down quickly, preferably in its own juices.
+this could be ashieved by puting the whole pan in a larger one filled
+with cold water.
+Open it along the natural line on the crab underside.
+Take up the meat and spice it or mix it with whatever yuo feel like.
+I like to chop it fine and then fry it up with a little oil and finely
+grained bread. After which I put it all back into its shell and serve
+still a little warm. It brings out more of their delicious tastes.
+~
+S
+#14733 A small fountain~
+   A huge single crystal fountain stands firmly on the black marble
+floor, here in between the northern dance floor and the rest of the
+restaurant to the east. Wine glasses and illuminating candles stand
+alternatively on small protrusions, inviting you to grab a glass and
+drink yourself unthirsty. Auntie Tabitha has her own small table
+standing here too, with a great view over the stage, but it's unused at
+the moment.
+~
+147 dc 0
+D0
+~
+~
+0 -1 14756
+D1
+~
+~
+0 -1 14732
+E
+black marble floor~
+Considering the size of the fountain, you understand why the floor is
+stone here and not wooden as in the rest of the restaurant.
+~
+E
+table~
+   As a regular (and with some heavy bribes) Auntie Tabitha has managed
+to get her personal table in the exclusive restaurant overlooking the
+dance floor, where she can see the youngsters amuse themselves and maybe
+even get a glimpse of her favourite, Hulio. She hopes that one day
+Stanneg will once again revive and be full of people.
+~
+E
+stage~
+Now, where is that Hulio everybody is talking about ?
+~
+S
+#14734 Dimly lit part of the Restaurant~
+   One small two-person table stands here, a bit out of the way of
+the sometimes disturbing activities in the rest of the restaurant, east
+of here. This is the perfect place for a little tete-a-tete. The usual
+candelabra is replaced with 3 small candles to give a more calm,
+smoothing light. The walls also have a better sound suppressing cloth
+cover.
+~
+147 adjo 0
+D1
+~
+~
+0 -1 14735
+E
+light candle~
+The flame shivers by the small gust of wind you create as you come
+close. Perhaps you should be a bit more careful playing with fire.
+~
+S
+#14735 Restaurant~
+   Two small tables stand here with a small white tablecloth covering
+them and a silver candelabra in the center of each one. The main course
+seems to have been recently provided. At one table they seem to have
+ordered filled grilled wild boar, fresh from the Haon-Dor forest with
+vegetables and a nice bottle of red, while the others got some kind of
+arroz-de-marisco, a soup with all the delights from the sea together
+with a marvelous green wine.
+~
+147 d 0
+D0
+~
+~
+0 -1 14732
+D1
+~
+~
+0 -1 14736
+D2
+~
+~
+0 -1 14738
+D3
+~
+~
+0 -1 14734
+E
+roast grilled boar~
+Roast of wild boar. (courtesy of the ancient master Hagdahl)
+One large piece of meat.
+Fat
+Juniper berries
+Onions
+Pepper
+Carnations
+Laurel leaves
+Salt
+Vinegar
+Butter
+Cream
+
+The best meat for a roast you will get from a one year old. Clean the
+meat and put it together with a little water in a pot over the fire.
+Remove any foam or slags that appear on the surface, after a while you
+can add the spices and the vinegar, but be sparesome with the salt as the
+off boiling of water might cause to salty water.
+When the meat is tender bring the meat up and start to fry the meat
+softly in butter and cream. Do not forget to pour the sauce over it
+frequently. The frying time is for a 'standard' leg around 4-5 hours.
+So be prepared to stand in the good smell of the roast for several
+hours..... The meat can also be marinated a few days before to get that
+extra taste experience.
+~
+E
+arroz marisco~
+The Arroz-de-marisco is just what it sounds like.
+Rice and seafood, preferably in a tomato tasting environment.
+Choose your favourite seafood. I prefer a mix of shrimp, crab, lobster
+(lot of lobster), some small pieces of squid and maybe even some plain
+fish meat (be careful not to get small bones in the soup as they have a
+tendency to find that wrong spot in yuor mouth). Take a large pot. Put
+all the seafood in it. The ones with longest boiling time goes in first.
+It is ok to boil with the shell on as it gives to the taste, just make
+sure to clean properly. Boil the rice separately until its almost done
+then pour everything over into the fish bowl. Let the rice soak in the
+tastes and add the spices you want and the tomato paste. Perhaps some
+pepper and a laurel leave. I like to spice little as I prefer the taste
+of the components as they were. Perhaps add a little sugar to increase
+the experienced taste (but not to much).
+Serve hot together with newly baked bread and a lot of serviettes.
+Delicious !
+~
+E
+red~
+The red wine seems to be a rather heavy one. The grapes are grown on the
+slopes of some Japanese mountain/volcano which add an extra touch to it.
+~
+E
+green~
+A perfect choice. This light semi-sparkling wine goes very well together
+with the chosen seafood.
+~
+E
+wine~
+Connoisseur, my well trained butt ! There happens to be a lot of
+different kinds available... Try a red or a green one.
+~
+S
+#14736 Restaurant~
+   Two small tables stand here with a small white tablecloth covering
+them and a silver candelabra in the center of each one. Mmmmmm, you
+smell dessert. It is impossible to tell what it is, but just by the
+aroma you feel that this is really really good. The head chef, Miss
+Bean, seems to have done it again! The restaurant continues in all
+directions but south.
+~
+147 d 0
+D0
+~
+~
+0 -1 14731
+D1
+~
+~
+0 -1 14737
+D3
+~
+~
+0 -1 14735
+E
+dessert~
+Oh, you will have to ask Miss Bean about her creations.
+~
+S
+#14737 Restaurant~
+   One large oak table fills this part of the restaurant. A perfect spot
+for that big family dinner. And that seems to be in progress right now.
+A multitude of small plates cover the table, all with a different
+content. It is good that there is a large chandelier hanging from the
+roof, because there is no room for any light source on the table. Ma
+Glob provides a plenitude of food as always. The restaurant extends only
+to the west.
+~
+147 d 0
+D3
+~
+~
+0 -1 14731
+E
+plates dinner content~
+It seems they have almost ordered everything of the menu. Of course in
+very small amounts because its a very extensive menu.
+~
+S
+#14738 Swinging doors~
+   In the wooden wall south of here are two doors leading to the
+kitchen. No locks seem to be present but you have to take the right one
+to ensure that you won't collide with any of the staff that most
+frequently pass through - if you want to pass safely. North of here is
+the nice little well-renowned restaurant of Ma Glob's Dancing Parlor.
+~
+147 dc 0
+D0
+~
+~
+0 -1 14735
+D2
+~
+swinging doors~
+1 -1 14780
+S
+#14740 Boule-o-Drome Display~
+  Posted here are the plans for a full scale 147 lane Boule-o-Drome !!!
+Gigantic in size, almost as big as the famous New Spartan football
+field. It is Ma itself that has put up these drawings here. Why?, you
+ask. Nobody knows and Ma Glob is not the kind of entity you can force
+to open up on something Ma won't talk about. The only visible exit is
+west towards the blackjack table.
+~
+147 d 0
+D3
+~
+~
+0 -1 14741
+E
+drawings plan plans~
+   After some time you figure out that the drawings show a never built
+sporting (if you call Boule sport) facility. It was to be placed next to
+the Japanese stone gardens to amuse the people living close to it.
+   Unfortunately some committee in charge of the land decided to build
+some other arena on the spot, uncaring of the local inhabitants hopes
+and decisions. Nowadays many people travel to use the already built
+facility and the people living in the Japanese Stone Gardens only
+managed to create a Chinese Stone Garden outside the sporting centre.
+~
+E
+Boule drome boule-o-drome~
+The dream goes on. Some day IT WILL BE BUILT !!!
+It will be glorious and the now risen sport facility will wither in
+comparison to the marvelous creation of the Stone garden people.
+~
+E
+japanese stone garden~
+The Japanese Stone Garden is the home of the Mountainmen and Women.
+~
+E
+Chinese~
+The Chinese Stone Garden is now being viewed from the Japanese.
+~
+E
+mountainmen mountain men women~
+The mountain people are not here. They have gone back to their stones.
+~
+S
+#14741 Black Jack Table~
+   A high half circular black jack table stands here, apparently the
+center of the card games here. There are no chairs here but the table
+seems to be used anyway. Ask around. They might set up a game just for
+you. The gaming area continues both east and west and the to the south
+you see the Grand Master Waiter's Pulpit.
+~
+147 d 0
+D1
+~
+~
+0 -1 14740
+D2
+~
+~
+0 -1 14730
+D3
+~
+~
+0 -1 14742
+E
+table black jack~
+There are 6 positions for players on the green cloth covering the table.
+~
+S
+#14742 Chemin-de-Fer Table~
+   This seems to be a more sophisticated part of the gaming area. A
+small table covered in green cloth stands surrounded by 5 chairs. On the
+table a small box of cards is placed, obviously the center of attention
+during the game. The gaming area continues both east and west.
+~
+147 d 0
+D1
+~
+~
+0 -1 14741
+D3
+~
+~
+0 -1 14743
+E
+table~
+One dealer and four players. The games do not get full. The rules are
+pretty much the same as dice but for cards and a bit more sophisticated.
+~
+S
+#14743 Roulette Table~
+   The roulette department in not surprisingly dominated by a large
+sized roulette table. It looks like any other table of its kind. Most
+likely it looks that way inside too. The gaming area continues both east
+and west and south you can head towards the dance floor for a little
+swing-about.
+~
+147 d 0
+D1
+~
+~
+0 -1 14742
+D2
+~
+~
+0 -1 14746
+D3
+~
+~
+0 -1 14744
+E
+roulette table~
+All the segments supposed to be there are there. Black-Red. Odd-Even.
+0 up to, well a lot and if you are lucky your number will be present on
+the wheel when the ball is tossed.
+~
+S
+#14744 Darts~
+   Here at the end of the gaming part of the Parlor the establishment
+has put up 3 dartboards on the wall for their local throwing addicts
+and other customers. The dartboards are the ordinary 83 sector and you
+easily notice the absence of marking in the wall. Everyone using these
+are real good throwers. Only way out is the way you came in, back east.
+~
+147 dc 0
+D1
+~
+~
+0 -1 14743
+E
+dartboard dartboards~
+First one down from 301 to exactly 0 wins. Maximum score is received
+from that little little zone where the 20 point field triples.
+~
+E
+wall~
+No marks what so ever. Either these players are really good or the wall
+is regenerative. Perhaps it's both.
+~
+S
+#14745 Next to the Stage~
+   There are stairs here leading up to the stage. A big yellow sign with
+black letters reads 'Restricted Area' and 'Stage Personnel only'. There
+should be a guard here, but sometimes he has more important things to
+do. East of here are some panels and benches, from where you can reach
+the dance floor.
+~
+147 dc 0
+D1
+~
+~
+0 -1 14746
+D4
+~
+~
+0 -1 14764
+S
+#14746 Panels~
+   The panels are classic, every establishment has one. Here people,
+not dancing, gather to do what people who do not dance do. Its not a
+very uplifting place as so many hearts have unknowingly been broken
+here. A small bench is placed next to the panel so that the girls can
+sit and chat with each other while they wait for Mr Right. The dance
+floor of dreams is so close to the south, but still so far away.
+~
+147 dhc 0
+D0
+~
+~
+0 -1 14743
+D1
+~
+~
+0 -1 14747
+D2
+~
+~
+0 -1 14751
+D3
+~
+~
+0 -1 14745
+E
+bench~
+The bench is unfortunately very well used.
+~
+S
+#14747 Panels~
+   The panels are classic, every establishment has one. Here people,
+not dancing, gather to do what people that do not dance do. This is the
+boys' corner. The smell of old beer is a bit dominant and over the years
+it has become impossible to remove it. A small bench, perfect for those
+lies about your latest conquest, stands next to the panel. Left the girls
+hang out.
+~
+147 d 0
+D3
+~
+~
+0 -1 14746
+E
+bench~
+The bench is unfortunately very well used and a bit dirty too. It looks
+like someone carved in a crude message in the wood.
+~
+E
+message wood~
+Raff was here.
+~
+S
+#14750 Dance floor~
+   This generic type of dance floor is perfect for tango, waltz, any odd
+youngster shake or that wonderful pair dance where you embrace each
+other and just stand there, slightly swaying back and forth, totally
+ignorant of any music. West and south of here you can peek over the edge
+of the stage, but you can only swirl eastwardly.
+~
+147 d 0
+D1
+~
+~
+0 -1 14751
+E
+stage~
+You see a well polished scene, a perfect place for musicians.
+Perhaps you should sneak up for a look if you find a place to climb.
+~
+S
+#14751 Dance floor~
+    This generic type of dance floor is perfect for tango, waltz, any
+odd youngster shake or that wonderful pair dance where you embrace each
+other and just stand there, slightly swaying back and forth, totally
+ignorant of any music. The dance floor continues in all directions
+except north where the games are.
+~
+147 d 0
+D0
+~
+~
+0 -1 14746
+D1
+~
+~
+0 -1 14752
+D2
+~
+~
+0 -1 14757
+D3
+~
+~
+0 -1 14750
+S
+#14752 Dance floor~
+   This generic type of dance floor is perfect for tango, waltz, any odd
+youngster shake or that wonderful pair dance where you embrace each other
+and just stand there, slightly swaying back and forth, totally ignorant
+of any music. The dance floor continues in all directions.
+~
+147 d 0
+D0
+~
+~
+0 -1 14752
+D1
+~
+~
+0 -1 14752
+D2
+~
+~
+0 -1 14753
+D3
+~
+~
+0 -1 14751
+S
+#14753 Dance floor~
+   This generic type of dance floor is perfect for tango, waltz, any odd
+youngster shake or that wonderful pair dance where you embrace each other
+and just stand there, slightly swaying back and forth, totally ignorant
+of any music. The dance floor continues in all directions but
+east where you can see the Pulpit of the Grand Master Waiter.
+~
+147 d 0
+D0
+~
+~
+0 -1 14752
+D1
+~
+~
+0 -1 14730
+D2
+~
+~
+0 -1 14754
+D3
+~
+~
+0 -1 14757
+S
+#14754 Dance floor~
+   This generic type of dance floor is perfect for tango, waltz, any odd
+youngster shake or that wonderful pair dance where you embrace each other
+and just stand there, slightly swaying back and forth, totally ignorant
+of any music. The dance floor continues in all directions.
+~
+147 d 0
+D0
+~
+~
+0 -1 14753
+D1
+~
+~
+0 -1 14754
+D2
+~
+~
+0 -1 14755
+D3
+~
+~
+0 -1 14755
+S
+#14755 Dance floor~
+   This generic type of dance floor is perfect for tango, waltz, any odd
+youngster shake or that wonderful pair dance where you embrace each other
+and just stand there, slightly swaying back and forth, totally ignorant
+of any music. The dance floor continues in all directions
+~
+147 d 0
+D0
+~
+~
+0 -1 14757
+D1
+~
+~
+0 -1 14754
+D2
+~
+~
+0 -1 14754
+D3
+~
+~
+0 -1 14756
+S
+#14756 Dance floor~
+   This generic type of dance floor is perfect for tango, waltz, any odd
+youngster shake or that wonderful pair dance where you embrace each other
+and just stand there, slightly swaying back and forth, totally ignorant
+of any music. West and north of here you can peek over the edge of the
+stage, but you can only swirl eastward while the restaurant offers
+refreshment to the south.
+~
+147 d 0
+D1
+~
+~
+0 -1 14755
+D2
+~
+~
+0 -1 14733
+E
+stage~
+You see a well polished scene, a perfect place for musicians.
+Perhaps you should sneak up for a look if you find a place to climb.~
+S
+#14757 Dance floor~
+   This generic type of dance floor is perfect for tango, waltz, any odd
+youngster shake or that wonderful pair dance where you embrace each other
+and just stand there, slightly swaying back and forth, totally ignorant
+of any music. Here in the midst of the dance floor young girls often
+gather in trance to worship the marvelous mushy singer extreme, Hulio.
+~
+147 d 0
+D0
+~
+~
+0 -1 14751
+D1
+~
+~
+0 -1 14753
+D2
+~
+~
+0 -1 14755
+
+E
+mushy singer hulio~
+Where is he ?  He usually is out there on the catwalk of the stage.
+~
+S
+#14760 Hulio's part of the Stage~
+   Standing on the polished wooden floor you have a great view over the
+dance floor and the restaurant and you can guess that they can see you,
+too. No wonder this is Hulio's favourite part of the stage. A place
+where he can be adored and where he can get eye contact with whomever he
+wants to.
+~
+147 d 0
+D3
+~
+~
+0 -1 14761
+E
+restaurant~
+Oh it sure looks inviting.
+You feel thirsty.
+You feel hungry.
+~
+E
+view~
+There are loads of people in the Dancing Parlor and restaurant and they
+are all looking at YOU !!!
+Make your and their day - Sing a song for everyone.
+~
+S
+#14761 On the Catwalk~
+   The catwalk is an extension of the stage, so that some performers can
+be even more the center of attention. Stretching east-west, the polished
+wooden floor gleams in the lighting of the place.
+~
+147 d 0
+D1
+~
+~
+0 -1 14760
+D3
+~
+~
+0 -1 14762
+S
+#14762 Center of the Stage~
+   Slightly highlighted by the stage lighting, the center of the stage
+is for musicians to take a step up to, to make solos. It has been used a
+lot but is still in a very good condition. East of here the catwalk
+protrudes and in all other directions the wooden floor of the stage
+continues. There is a tiny prompt box here too, next to the stage edge.
+~
+147 d 0
+D0
+~
+~
+0 -1 14764
+D1
+~
+~
+0 -1 14761
+D2
+~
+~
+0 -1 14763
+D3
+~
+~
+0 -1 14766
+D5
+The prompt box has not been used in a very long time, but did you not
+hear a sound from down there ?
+~
+box~
+1 -1 14776
+S
+#14763 South-East Corner of the Stage~
+   Standing on the wooden stage you have a good view over the dance
+floor and the slightly elevated part of the dancing parlor where the
+wonderful cuisine created by Miss Bean and her staff is being served
+to her guests. From here you can reach the center of the stage to the
+north and the rear part to the west.
+~
+147 d 0
+D0
+~
+~
+0 -1 14762
+D3
+~
+~
+0 -1 14767
+S
+#14764
+North-East Corner of the Stage~
+   Standing on the wooden stage you have a good view over the dance
+floor and the usually so crowded gambling part of the dancing parlor.
+The floor squeaks a bit as you move over it. A good guess is that the
+stairs going up from the gaming area to where you are standing are
+causing this. The stage continues west and south from here.
+~
+147 d 0
+D2
+~
+~
+0 -1 14762
+D3
+~
+~
+0 -1 14765
+D5
+~
+~
+0 -1 14745
+S
+#14765
+Mad Drummer Corner~
+   This corner usually is abandoned by the other musicians. This is a
+well made stage so it is not shabby or badly lit. The problem is the
+drummer that hangs around here. Well, he usually runs around banging
+anything he can find extracting the finest drumming ever heard, but
+others just fear for their lives in his vicinity. The stage continues
+east and south as well as north behind the curtain.
+~
+147 d 0
+D0
+~
+~
+0 -1 14772
+D1
+~
+~
+0 -1 14764
+D2
+~
+~
+0 -1 14766
+S
+#14766 Center part of the back Stage~
+   The center part of the stage closest to the back wall is not really
+that exhilarating. The back wall is covered in a fine cloth of good
+quality. The floor is as the rest of the stage, polished hardwood. You
+imagine that it would be perfect for a brass section of a big band to be
+placed here. The stage continues in all directions except westwards.
+~
+147 d 0
+D0
+~
+~
+0 -1 14765
+D1
+~
+~
+0 -1 14762
+D2
+~
+~
+0 -1 14767
+S
+#14767 South-West part of the Stage~
+   This part of the stage is a bit in the background of the rest. The
+surroundings are still in the same excellent shape as the rest of the
+stage but here you can more or less do your own thing. And you notice
+that the sound conditions here are very good. The stage continues north
+and east as well as south behind the curtains.
+~
+147 d 0
+D0
+~
+~
+0 -1 14766
+D1
+~
+~
+0 -1 14763
+D2
+~
+~
+0 -1 14768
+S
+#14768 Behind the Curtain~
+   Standing on the stage but out of view, you are almost surrounded by
+ropes that go up and down here. They must be here to allow the curtain to
+open and close before and after the shows. The only exit seems to be
+north out on the stage, but if you really try you just might be able to
+climb the ropes.
+~
+147 d 0
+D0
+~
+~
+0 -1 14767
+D4
+~
+~
+0 -1 14769
+E
+ropes~
+It looks climbable but for your own sake you had better fly to make it
+up there safely.
+~
+S
+#14769 Above the Stage~
+   From here you have a nice view of the stage, but only that. The
+lighting does not spread well up here. It could be the dust or just that
+it is very narrow. You dare not go down again so the only thing is to
+climb north. Be careful, you do not want to disturb anyone, do you ?
+~
+147 ajdp 0
+D0
+~
+~
+0 -1 14770
+S
+#14770
+Above the Centre Stage~
+   The view from here is even more marvelous compared with the views
+from the sides. You can almost see yourself in the polished floor. Huuu,
+it is far down. Perhaps you should get out of this place before
+something happens, like you get a sandbag on your head and you fall
+down. That would be sooo embarrassing. You can crawl either north or
+south from here.
+~
+147 avjdp 0
+D0
+~
+~
+0 -1 14771
+D2
+~
+~
+0 -1 14769
+S
+#14771 Above the Stage~
+   From here you have a nice view of the stage, but only that. The
+lighting does not spread well up here. It could be the dust or just that
+it is very narrow. You hardly dare to go down again so for you the thing
+is to climb south. Be careful, do not want to disturb anyone, do you ?
+~
+147 ajdp 0
+D2
+~
+~
+0 -1 14770
+D5
+~
+~
+0 -1 14772
+S
+#14772 Behind the Curtain~
+   Standing on the stage but out of view you are almost surrounded by
+ropes that go up and down here. They must be here to allow curtain to
+open and close before and after the shows but the controls seems to be
+located south of the stage. You can walk south out on the stage, west
+into a backstage corridor or if you really want to you just might be
+able to climb up the ropes.
+~
+147 dc 0
+D2
+~
+~
+0 -1 14765
+D3
+The Mad Drummers part of the stage. Better be careful out there.
+~
+~
+0 -1 14773
+D4
+You really need to fly to access that part, whatever you might think.
+~
+~
+0 -1 14771
+S
+#14773 Corridor behind the Stage~
+   This very unglamorous corridor leads east-west and there seems to be
+only one door on the side of it. On the other hand this door has a big
+golden star encrusted upon it. The scent of flowers and perfumes slips
+out through the door. The rest of the corridor is filled with old props
+and a dust ball or three.
+~
+147 d 0
+D0
+The golden star on the door reveals that beyond lies the Star dressing
+room and the star must be Hulio. The smell points in that direction to.
+~
+star door~
+2 14702 14775
+D1
+~
+~
+0 -1 14772
+D3
+~
+~
+0 -1 14774
+E
+star~
+The golden star on the door reveals that beyond lies the Star dressing
+room and the star must be Hulio. The smell points in that direction too.
+~
+S
+#14774 End of the Corridor~
+   The corridor ends abruptly in a heavy ironclad door. There is a sign
+on one of the iron bars that is fixed across the door. There are boxes
+and casks places upon each other here. A typical dumping place for gear
+no longer wanted that still no one dares to throw away.
+~
+147 d 0
+D1
+~
+~
+0 -1 14773
+D3
+The ironclad door is very well bolted and most probably can not be
+opened. Perhaps with the right key it would or maybe not even then.
+The sign looks serious and worth reading.
+~
+iron ironclad door~
+295 -1 3001
+E
+sign~
+The sign reads : This entrance has been closed since too many were
+found sneaking in without paying. It will not be opened again.
+Ma Glob.
+~
+S
+#14775 Star Dressing Room~
+   Perfumed candles fill the room together with fresh flowers making you
+almost stunned (or ill). This is Hulio's room. Hulio the BIG star. Love
+letters are placed carefully on the makeup table among the small caskets
+and makeup gadgets that must be Hulio's. There is not much else in the
+room, but the table, its chair and a large rocking chair filled with
+fluffy pillows.
+~
+147 du 0
+D2
+~
+star door~
+2 14702 14773
+E
+names~
+Looking quickly through the love letters you spot the following names.
+Petunia, Auntie Tabitha, Jellie, Clara, Rosy, Nushi(!) and all the
+Pleiades.
+~
+E
+Love letter~
+Oh he has received a lot of letters. Let's see if we can spot some names,
+because you do not want to read others' mail do you ?
+~
+E
+flowers flower~
+All flowers look freshly cut and delivered. Hulio has a lot of fans.
+~
+E
+Jellie~
+
+Dearest Hulio,
+
+I fell madly in love with you the first time I heard you sing. I will
+never forget. I was only 14, but I knew there could only ever be one
+man for me. I long for the day we may meet, and you too may realize
+that we were fated to be together.
+
+Your adoring loving fan,
+
+Jellie
+~
+S
+#14776 In the Prompt-Box~
+   The prompt box has been rearranged into a home for the slightly mad
+Suss-Ana. Apparently she has not been out of it for a very long time.
+There are bits or pieces of most anything in here. Nothing of value to
+anyone else, but nice if you like it that way.
+~
+147 du 0
+D4
+Up to the stage again.
+~
+box~
+1 -1 14762
+S
+#14780 North-East part of the Kitchen~
+   A wonderful smell fills the whole room. This kitchen is famous for
+the delicate meals being created here. Some of them are in fact placed
+on a little table next to the door. These must be the ones waiting for
+the serving personnel. The smell is indescribably good and if you
+weren't that well mannered you would stick a finger in a sauce cup just
+for one little tiny bit of taste. North of here are the swing doors to
+the diner and east is a small staircase.
+~
+147 d 0
+D0
+~
+swinging doors~
+1 -1 14738
+D1
+~
+~
+0 -1 14781
+D2
+~
+~
+0 -1 14784
+D3
+~
+~
+0 -1 14789
+E
+sauce cup~
+It looks so tasty you had better leave before you make a scene.
+~
+E
+table meals~
+You see three small plates standing here waiting to be taken in.
+~
+S
+#14781 Staircase~
+   A small spiral staircase leads down into darkness. The air coming
+from below is tainted with the smell of dry fruits and spices. West of
+here is the kitchen in all its glamour, down there is soft darkness...
+~
+147 d 0
+D3
+~
+~
+0 -1 14780
+D5
+The smell is soft and welcoming. What is down there in the darkness ?
+~
+~
+0 -1 14782
+S
+#14782 Wine cellar~
+   Wine, wine and more wine, even some spilled on the dirt floor. The
+room is rather big and it is filled to the brim with wines of all brands,
+red, white, green and pink, there even ought to be a some champagne
+around here somewhere.
+~
+147 ad 0
+D1
+~
+dust wine~
+2 14703 14783
+D4
+~
+~
+0 -1 14781
+E
+red white green pink wine~
+Any wine from any district and grape is covered in here.
+~
+S
+#14783 Inner parts of the Wine cellar~
+   Think Vintage, think gooooood vintage. This is Ma's special corner of
+the wine cellar where she keeps the really good wines that she likes to
+enjoy with her own special guests. Dust covers all the bottles and it
+makes you sneeze.
+~
+147 aud 0
+D3
+~
+dust wine~
+2 14703 14782
+E
+wine good~
+These wines are not for your wallet. Not that any of the bottles have
+price tags but they are very exclusive. Try to get invited to dinner !
+~
+S
+#14784 At a Huge Frying board~
+   You are standing next to a large flat horizontal hot metal surface
+covered with large steaks, bacon, one tiny meatball and one or two eggs.
+The smoke stings your eyes but it's hard to move away because it smells
+so good. Droool! It is quite hot here too, but it seems to be even
+hotter at the oven, south.
+~
+147 d 0
+D0
+~
+~
+0 -1 14780
+D2
+A huge oven takes up most of the corner.
+~
+~
+0 -1 14785
+D3
+~
+~
+0 -1 14788
+D4
+~
+~
+0 -1 14797
+E
+frying board metal~
+The frying board is well used. The usage is one of the secrets of good
+cooking. Never overclean boards and kettles unnecessarily. The sauces
+and tastes remaining in the metal pores add a extra spice to the dish.
+~
+E
+meatball~
+Small but very very delicious.
+~
+S
+#14785 Next to a big Oven~
+   There is an ancient oven here warming up the entire corner. Guess it
+pretty much accounts for all the heat in here. There must be room for a
+full sized person in there, but temperature inside must be totally
+scorching. If you really want to, you can still try to crawl in through
+the oven door.
+~
+147 d 0
+D0
+~
+~
+0 -1 14784
+D1
+The oven door looks very easy to open and to close. There is room in
+there for some really big roasts.
+Your eyebrows twist. Sure is hot in there. You really wanna go in ?
+~
+ovendoor oven~
+1 -1 14786
+D3
+~
+~
+0 -1 14787
+S
+#14786 Inside a overheated Oven~
+It's hot in here.
+It's very Hot.
+The oven door slams close behind you.
+Oops...
+Its Very Hot Indeed !
+You burn yourself.
+You BURN !!!
+You incinerate.
+You become dust.
+Your ashes blow out through the oven fan.
+Sorry.
+Death Traps are no Fun.
+( But how often do you usually crawl into hot ovens ??? )
+~
+147 dbu 0
+D3
+TOO LATE !!!
+~
+~
+0 -1 14785
+S
+#14787 South end of the Kitchen~
+   A table here is full of empty plates, even the wall is covered with
+clean pots. This must be where the dishes start their short life of
+glory. East of here is a large oven and north there seems to be a table
+full of pastries. The kitchen also continues towards the west.
+~
+147 d 0
+D0
+~
+~
+0 -1 14788
+D1
+~
+~
+0 -1 14785
+D3
+~
+~
+0 -1 14792
+E
+table~
+The table is filled with clean stuff from the sink.
+~
+S
+#14788 Kitchen Center~
+   Missy Bean's fabulous dessert table stands in front of you, filled
+with the most astonishing cakes and bakeries. Lucky as you are, you can
+see two nice recipes here too. But don't eat the wonderful,
+mind-boggling and sure GOOD tasting desserts, they are only for paying
+customers and you didn't pay, did you ? From here the kitchen stretches
+out in all directions, all equally nice.
+~
+147 d 0
+D0
+~
+~
+0 -1 14789
+D1
+~
+~
+0 -1 14784
+D2
+~
+~
+0 -1 14787
+D3
+~
+~
+0 -1 14791
+E
+cake cakes bakery bakeries dessert~
+Your belly hurts. This is too good. Why didn't you pay ?
+Currently there seems to be a milk&rum-cake and a rhubarbcake in the
+making. Oh!, the recipies are here too. Have a peek ! 
+~
+E
+table~
+The table is big, wooden and covered with flour and Ms Bean's creations.
+~
+E
+milk rum~
+This is really a Nicaraguan dessert, but it is served in just about
+every Cuban restaurant in Miami. It is one of the most delicious cakes
+ever invented.
+
+1 1/2 cups cake flour
+1 teaspoon baking powder
+1 cup plus 1 teaspoon sugar
+1/2 cup butter, softened
+5 large eggs
+1 teaspoon vanilla extract
+11/3 cups of milk
+1 cup sweetened condensed milk
+1 cup evaporated milk
+1 tablespoon light rum
+1 cup heavy cream.
+--
+Preheat oven to 350 degreesF. Sift together the cake flour and baking
+powder. In a large mixing bowl, cream the 1 cup sugar and the butter
+with a mixer until well blended. Add the eggs and 1/2 teaspoon
+vanilla extract, and beat until foamy. With a rubber spatula, gently fold
+in the flour mixture in increments, alternating with 1/3 cup milk, until
+the batter is smooth.
+
+Pour cake batter into a lightly greased cake pan or baking dish, 7 by 11
+by 2 inches, and bake for 30 minutes, or until a toothpick inserted in
+the center comes out clean and the top springs back when pressed. Allow
+cake to cool in the pan on a wire rack for 20 minutes, then invert onto a
+serving platter. Pierce the cake with a fork in many places, and allow it
+to cool completely.
+
+In a medium mixing bowl, whisk together the condensed milk, evaporated
+milk, 1 cup milk and rum until well blended. Pour syrup evenly over the
+cake a little at a time, until it is saturated; you may not need the
+entire amount. Refrigerate, covered in plastic wrap, for at least 3
+hours.
+
+In a large mixing bowl with a mixer, whisk the heavy cream until it
+begins to thicken. Add 1 teaspoon sugar and 1/2 teaspoon vanilla
+extract, and continue whisking until stiff peaks form. Using a spatula,
+spread the cream over the top and sides of the cake. Serve, cut into
+squares.
+~
+E
+Rhubarb rhubarbcake recipe recipies~
+450 g  fresh rhubarbs
+3 dl sugar
+150g almond paste
+5 eg
+4dl white flower
+butter
+suger pearls
+
+Whip eggs and sugar to a white and fluffy mass.
+Tears the almond paste into the fluff together with the flower
+and make it smooth.
+Pour it all into a buttered and breaded form.
+Cut up the rhubarbs in inchlong pieces
+Push them into the mass - desity as you please.
+Spread peraled suger over it.
+Last thing before baking it in the oven for 40-45 minutes at 175 degreeC
+is to cover the whole cake with a thin layer of butter.
+
+Serv either hot or cold with whipped cream and a glass of port.
+
+Yummie !!!
+~
+S
+#14789 North wall of the Kitchen~
+   A table here is full of almost ready plates. The wall is covered with
+spices and other strange additives to make that so famous taste of Ma
+Glob's establishment. This is somewhat calm place in the kitchen as the
+food 'rests' before its final presentation to the guest. To the west is
+a not so peaceful place, the washup. South is the dessert table and east
+of here you are going towards the exit into the restaurant.
+~
+147 d 0
+D1
+~
+~
+0 -1 14780
+D2
+~
+~
+0 -1 14788
+D3
+~
+~
+0 -1 14790
+E
+table meals food~
+You see several plates standing here to 'soak' just a few moments before
+being served. This is a must if you want the tastes to mix perfectly.
+~
+S
+#14790 North end of the Sink~
+   A lot of good food leads to loads of dirty dishes and they all seem
+to end up here. There should be some people here washing, arms deep in
+the rising foam, but if there aren't you sure well can expect the
+unwashed plates to load up. This is a classy joint so the cleaning of
+plates must be rigorous. The sink continues to the south and the rest of
+the kitchen to the east.
+~
+147 d 0
+D1
+~
+~
+0 -1 14789
+D2
+~
+~
+0 -1 14791
+E
+sink~
+The sink is HUGE, wet, foamy and unfortunately inhabited.
+~
+S
+#14791 South end of the Sink~
+   A large faucet is here flushing the soap off the newly washed plates
+that are being supplied from the northern part of the sink. There are
+high heaps of warm dry and clean plates here, waiting for someone to
+take them to their appropriate table. East of here you see the most
+wonderful table you have ever seen and south there seems to some kind of
+crossjoint in the kitchen.
+~
+147 d 0
+D0
+~
+~
+0 -1 14790
+D1
+~
+~
+0 -1 14788
+D2
+~
+~
+0 -1 14792
+E
+sink~
+The sink is HUGE, wet, foamy and unfortunately inhabited.
+~
+E
+faucet~
+Water is splashing out of the faucet from what seems to be a never-ending
+supply. The water is needed as there sure are a lot of dishes waiting.
+~
+S
+#14792 South-West corner of the Kitchen~
+   The southeast corner seems to be some kind of cross path as the sink
+is north, the clean empty dishes are to the east and there are two doors
+leading south and west. The western door is covered with moisture.
+~
+147 d 0
+D0
+~
+~
+0 -1 14791
+D1
+~
+~
+0 -1 14787
+D2
+A little sign on the door tells you who has a break and when.
+~
+door~
+1 -1 14794
+D3
+The door is cold, wet and looks a bit heavy.
+~
+frosty door moist~
+1 14704 14793
+S
+#14793 Cold Store~
+   This is where all non-vegetables are kept. A cool and chilly place,
+you had better make sure the door does not close behind you. Up and
+down the walls you see cold meat, goat, pork and even duck. In one
+corner there is even a large box with ice and fish lying waiting for you
+to order some IN the restaurant. The door which you have kept open seems
+to be the only exit.
+~
+147 du 0
+D1
+The kitchen sure is warmer.
+~
+frosty door moist~
+1 14704 14792
+E
+meat~
+It is fresh with just a thin layer of frost on it.
+~
+E
+duck~
+The duck is newly killed and gutted. Some might think that it is
+inappropriate to serve duck, but it tastes just too good to leave be.
+~
+S
+#14794
+Personnel Resting Lounge~
+   A very plain room. Some small diorama paintings, a few sofas and a
+not so small tables with goodies from the restaurant. This could be why
+Ma manages to keep her staff even though she offers rather minimum
+wages. The earnings are not really that good in Stanneg, but the food
+sure is. All the customers as well as the staff are very satisfied.
+~
+147 dc 0
+D0
+~
+door~
+1 -1 14792
+D1
+The Office of Ma Glob does not draw that much attention.
+~
+door office~
+295 14705 14795
+E
+diorama painting~
+The diorama shows a beautiful sunset over some Caribbean islands. One of
+the islands even has a volcano that is giving off a faint string of
+smoke. All of the islands have palm trees flowing softly in the wind.
+~
+E
+sofa sofas~
+Very soft cloth and you could really sink down here and get some good
+rest. That is if the staff would allow you to.
+~
+E
+table~
+A wooden table painted brown stands centrally. It is covered with mostly
+leftovers (not served) from the kitchen and the smell is marvelous.
+~
+S
+#14795 The Office of Ma Glob~
+   This is a very nice office. A bit simple perhaps, but knowing Ma she
+likes it that way. The room has a soft sound suppressing cloth
+wallcovering with a seaweed design printed on it. A large desk with a
+huge chair stands in the room's center. That must be where Ma or some
+trusted assistant does the paperwork. East behind the desk there is an
+odd gate with a huge something upon it. West goes back to the restroom.
+~
+147 du 0
+D1
+Sure is big that gate. A good guess it is securely locked, too.
+Perhaps the Glob family treasure is in there?
+~
+odd gate~
+295 14706 14796
+D3
+The resting lounge is there for you.
+~
+door~
+2 14705 14794
+E
+desk chair~
+This must be where the finances are straightened up for the Parlor.
+~
+E
+wall cloth seaweed~
+The wallcloth gives you a feeling of being underwater. This is not very
+usual for a office, but then again the Globs are not that common either.
+~
+E
+something~
+Well it is huge...
+~
+E
+huge~
+The huge something looks a little like a mountain lodge or maybe not.
+~
+E
+lodge mountain~
+It is definitely something...
+~
+E
+picture~
+The whole family of Globs are lined up on it.
+~
+E
+s so sou sout south n no nor nort north~
+A small alcove is the hidingplace for the officeguards.
+Only they know the technique to enter and exit. Consider it an extra
+precaution from your generous host Ma Glob.
+~
+S
+#14796
+Red Velvet Room~
+   What is this !!! A room in twilight, filled with high hanging
+draperies. There is something very odd about this. You really get the
+feeling that you should not be here... wherever here might be. The door
+out that you need is west of here. Well at least you came in that way.
+~
+147 cduv 0
+D3
+The view is slightly blurred, but at least is light out there.
+~
+~
+0 -1 3001
+E
+red draperies curtain~
+The room is filled with them. At least as far as you can see. There are
+voices in a far distance, but trying to wander in among the red cloth
+would surely get you lost, very lost.
+~
+S
+#14797 Up the Fan~
+The smoke here makes you cough, but used to rough conditions as the
+seasoned mudder you are, you persevere. The way the smoke is irritating
+you, you almost think it is alive. But that just cannot be true, can it?
+The wide chimney allows you to continue both up and down, at least from
+here.
+~
+147 djc 0
+D4
+The smoke clears away and you can just maybe see the clear sky.
+~
+~
+0 -1 14798
+D5
+An odd face with two eggs as eyes, a meatball as nose and some bacon as
+lips looks back up to you as they slowly fry on the frying board.
+~
+~
+0 -1 14784
+S
+#14798 Top of the Chimney~
+   Kraa - Kraa - Kraa !!! The crows circle you as you place yourself in
+their huge nest. If it wasn't for the constant assaults from the flying
+(and of course out of reach) crow, the view of the surrounding Stanneg
+would be marvelous. The mythical forest and the mountains of the dragon
+prince to the west and the ancient city of Rome to the north fill your
+view. You can almost notice the outskirts of Midgaard somewhere southeast
+of here. Better climb down now, before the crows bring more kin.
+~
+147 hj 4
+D5
+Cannot see much as the smoke from the chimney gets in your eyes.
+~
+~
+0 -1 14797
+E
+Rome city~
+The closest town to Stanneg is the ancient city of Rome. Here you can
+find gladiators and chariot drivers, judges and executioners and of
+course the great Caesar.
+~
+E
+Mountains mountain~
+Those are the mountains where the Dragon Prince Aglandiir resides.
+~
+E
+forest~
+The Haon-Dor forest.
+~
+E
+nest~
+You have stuck your upper body right through the crows nest. No wonder
+some of them might be angry at you. The nest looks very used.
+~
+E
+Stanneg~
+The old mining town has seen better days, but one day new ore will be
+found.
+~
+S
+#99999
+$~

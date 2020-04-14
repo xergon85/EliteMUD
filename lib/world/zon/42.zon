@@ -1,0 +1,126 @@
+#42
+Moria lv 4-5~
+4257 90 2
+D 1 4247 3 2            lock crypt door
+D 1 4248 1 2           lock crypt door
+M 0 4200 20 4200    a Black orc at guard post
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4200 20 4200    a Black orc at guard post
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4200 20 4200    a Black orc at guard post
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4200 20 4200    a Black orc at guard post
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4200 20 4204    a Black orc at tunnel turn
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4200 20 4209    a Black orc in large cave
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4200 20 4209    a Black orc in large cave
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4201 8 4209    a Black orc leader at large cave
+E 1 4200 28 16        eq scimitar
+E 1 4204 28 5          eq mail
+E 1 4205 8 11          eq shield
+M 0 4201 8 4212    a Black orc leader at tunnel turn
+E 1 4200 28 16        eq scimitar
+E 1 4204 28 5          eq mail
+E 1 4205 8 11          eq shield
+M 0 4201 8 4221    a Black orc leader at huge cave
+E 1 4200 28 16        eq scimitar
+E 1 4204 28 5          eq mail
+E 1 4205 8 11          eq shield
+M 0 4201 8 4221    a Black orc leader at huge cave
+E 1 4200 28 16        eq scimitar
+E 1 4204 28 5          eq mail
+E 1 4205 8 11          eq shield
+D 1 4209 1 2           locks huge black door form 4209
+D 1 4210 3 2           locks huge black door from 4210
+M 0 4202 1 4221    a Black orc chief at huge cave
+G 1 4207 100               give huge black key 
+E 1 4202 20 16        eq spear
+E 1 4203 10 5          eq plate
+E 1 4205 40 11          eq shield
+E 1 4206 10 3            eq Amulet
+M 0 4200 20 4219    a Black orc at huge cave
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4200 20 4219    a Black orc at huge cave
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4200 20 4220    a Black orc at huge cave
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4200 20 4220    a Black orc at huge cave
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4200 20 4223    a Black orc at the staircase
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4200 20 4223    a Black orc at the staircase
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4201 8 4223    a Black orc leader at the staircase
+E 1 4200 28 16        eq scimitar
+E 1 4204 28 5          eq mail
+E 1 4205 8 11          eq shield
+M 0 4201 8 4223    a Black orc leader at the staircase
+E 1 4200 28 16        eq scimitar
+E 1 4204 28 5          eq mail
+E 1 4205 8 11          eq shield
+M 0 4200 20 4225    a Black orc at the cave entrance
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4200 20 4225    a Black orc at the cave entrance
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4200 20 4230    a Black orc at huge near the boulder
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4200 20 4230    a Black orc at huge near the boulder
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+D 0 4230 5 1            close boulder
+D 0 4255 4 1            close boulder
+M 0 4200 20 4235    a Black orc at near the abyss
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4200 20 4235    a Black orc at near the abyss
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4200 20 4244    a Black orc at near the abyss
+E 1 4200 20 16        eq scimitar
+E 1 4204 20 5          eq mail
+M 0 4201 8 4236    a Black orc leader at near the bridge
+E 1 4200 28 16        eq scimitar
+E 1 4204 28 5          eq mail
+E 1 4205 8 11          eq shield
+M 0 4201 8 4236    a Black orc leader at near the bridge
+E 1 4200 28 16        eq scimitar
+E 1 4204 28 5          eq mail
+E 1 4205 8 11          eq shield
+D 0 4249 5 1           close chest
+D 0 4250 4 1            close chest
+M 0 4205 1 4254       a octopussy in water
+M 0 4203 1 4240       a Balrog at bridge
+E 1 4217 3 3            Balrog with glob amulet
+G 1 4208 2              give him crypt key
+E 1 4211 5 17           eq flaming sword
+E 1 4212 5 16           eq whip
+M 0 4204 1 4251       gollum..
+O 0 4216 100 4256        puts the jar behind bookshelf..
+P 1 4213 5 4216        put ring in jar
+D 0 4251 3 1              close bookshelf
+D 0 4256 1 1              close bookshelf
+O 0 4215 20 4249        put coins in crypt
+O 0 4209 12 4250         put mithril plate chest
+O 0 4210 12 4250         put mithril axe chest
+S
+#99999
+$~

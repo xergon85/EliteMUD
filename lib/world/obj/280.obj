@@ -1,0 +1,208 @@
+#28000
+board bulletin dragoon~
+a Dragoon of Phos clan bulletin board~
+The Dragoons of Phos clan bulletin board is mounted on a wall here.~
+~
+13 0 0 128 0
+0 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board. Use LOOK BOARD and READ <ITEM#>.
+~
+#28001
+board bulletin dragoon~
+The Fistandantilus & XeNos sign~
+~
+~
+13 0 0 hp 0
+0 0 0 0 0 0
+0 0 0
+E
+sign~
+The Fistandantilus & XeNos sign is mounted on a wall here.
+This is a Memo Board. Use LOOK board and READ <ITEM#>.
+~
+#28002
+fountain milk~
+the large fountain~
+A small white fountain is standing here, gurgling happily. ~
+~
+23 0 0 ghm 0
+999999 999999 10 0 0 0
+9999 0 0
+#28003
+fountain lemonade~
+the large fountain~
+~
+~
+23 0 0 ghmp 0
+999999 999999 6 0 0 0
+9999 0 0
+E
+fountain lemonade~
+A large fountain carved from blue-streaked marble is here, bubbling
+merrily. It is a well-crafted fountain, carved from a single piece
+of marble. It seems to be enchanted in some manner.
+~
+#28004
+dragoon dragoons gate~
+a statue~
+An immense flaming gate stands here, flanked by equally impressive
+statues of Kurrelgyre and Ix.~
+~
+12 114 0 abght 0
+28000 a 114 2 1 116
+0 0 0
+Proc(guard_object)
+#28005
+chest locker shelf dragoon~
+shelf~
+~
+~
+15 0 0 hpt 0
+1000 0 0 0 0 0
+0 0 0
+E
+chest locker shelf dragoon~
+#MA deep shelf, carved with hundreds of dragons, lies at your feet.#N
+~
+#28006
+secretary~
+mercedes the secretary~
+~
+~
+12 114 0 ghpt 0
+28012 ac 114 9 109 116
+0 0 0
+E
+chick babe fox secretary mercedes~
+Mercedes is a stunning women. This buxom blonde is a long legged
+seducer that boasts a stellar 36-24-36 figure at 5'5'' with bold green
+eyes. As you star into those eyes you are lost and almost forget that
+you are here to see XeNos and Fistandantilus. She gestures to the chairs
+and the sign, and calmly states you may use either or both.
+~
+Proc(guard_object)
+#28008
+milk bota endless bottle~
+#MEndless #Wbottle of #CMilk#N~
+A small container witch looks to hold a large amount of milk seems to
+be laying on the ground.~
+~
+17 1 0 0 alo
+80 0 10 0 0 0
+20 50 0
+#28009
+potion fly wing~
+#MWing #Wof #CPhos#N~
+A small wing floats in the air here.~
+~
+10 0 0 g ao
+30 45 -1 -1 0 0
+1 2000 50
+#28010
+potion seeinvis eyes~
+#MEyes #Wof a #CDragoon#N~
+A small pair of eyes have been carelessly left here.~
+~
+10 0 0 g ao
+12 19 -1 -1 0 0
+1 400 10
+#28011
+scroll identify knowledge~
+#MScroll #Wof #CKnowledge#N~
+A scroll has carelessly been left here.~
+~
+2 1 0 g ao
+12 53 -1 -1 0 0
+1 2500 10
+#28012
+portal safety scroll~
+a #MPortal #Wto #CSafety#N~
+The soft blue petals are the color of the sky on a summer morning just
+before it opens into a portal.~
+~
+2 0 0 0 ao
+40 42 16 16 0 0
+1 800 1
+#28013
+scroll clan crecall flight~
+#MFlight #Wof a #CDragoon#N~
+A scroll has carelessly been left here.~
+~
+2 1 0 g ao
+12 109 -1 -1 0 0
+4 1500 10
+#28014
+food bits dragoon~
+#MBits #Wof #CDragoon#N~
+Some yummy #MBits #Wof #CDragoon#G look a bit crumbly.~
+~
+19 1 0 0 ao
+12 0 0 0 0 0
+1 30 0
+E
+cookie phos~
+Before being mashed up in someone's pocket, these used to be very tasty
+#MDragoon#G cookies!
+~
+#28015
+saddlebag dragoon phos~
+the #MDragoon#W's #CSaddlebag#N~
+#GA saddlebag belonging to a great member of #MDragoons #Wof #CPhos#G lies here.#G~
+~
+15 1 0 0 ako
+250 0 -1 0 0 0
+9 750 50
+#28016
+shield potion~
+#MShield #Wof #CDragoon#G~
+A #MShield #Wof #CDragoon#G lies here.~
+~
+10 20 0 j a
+40 67 11 4 0 0
+5 10000 100
+#28017
+vial lifeforce~
+#MLifeforce #Wof a #CDragoon#N~
+The essence of a #MDragoon#G lies here.~
+~
+10 5 0 64 1
+15 15 -1 -1 0 0
+14 2000 2000
+#28018
+swordfish shining phos dopclan~
+#Na #yShining #MSwordfish #Wof #CPhos#N~
+Here lies a #yShining #MSwordfish #Wof #CPhos#G.~
+~
+5 90 bfj g an
+0 10 5 11 0 0
+9 60000 5000
+E
+swordfish shining phos dopclan~
+When you look upon this item you realize it isnt a normal
+#MSwordfish#N. It appears this is a magnificent weapon 
+forged by #MKurrelgyre#N himself. You can see the great force
+that was put into this weapon. It has a magical glow that lets
+you know this weapon will never fail while being wielded by
+a #MDragoon #Wof #CPhos#N in battle.
+~
+A
+18 10
+A
+19 10
+#28019
+heart glowing amulet dopclan~
+a #yGlowing #MHeart #wof #CPhos#N~
+The #yGlowing #MHeart #wof #CPhos#G lies here.~
+~
+9 20 0 bfk ac
+15 0 0 0 0 0
+5 0 10000
+A
+13 20
+A
+5 3
+#99999
+$~

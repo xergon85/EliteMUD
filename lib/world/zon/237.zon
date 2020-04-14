@@ -1,0 +1,163 @@
+#237
+The Newbie Zoo~
+23799 10 2
+* Christine 
+M 0 23701 1 23758
+G 1 23707 30 
+E 1 23709 70 5
+E 1 23729 70 7
+* Danno
+M 0 23702 1 23739
+G 1 23707 30
+E 1 23709 70 5
+E 1 23729 70 7
+* Katu + banana from Africa!
+M 0 23703 1 23760
+G 1 23724 10
+* female siamangs
+M 0 23704 2 23754
+M 0 23704 2 23759
+* male siamang
+M 0 23705 1 23759
+* baby siamang
+M 0 23706 2 23754
+M 0 23706 2 23759
+* young siamang
+M 0 23707 1 23754
+* komodo dragon + dragon tooth necklace
+M 0 23708 1 23745
+G 1 23701 70
+* gila monster
+M 0 23709 1 23733
+* matamata + shell
+M 0 23710 1 23732
+G 1 23732 70
+* peacock + feather
+M 0 23711 2 23743
+G 1 23708 70 23711
+* kiwi
+M 0 23712 1 23737
+* young pygmy marmoset
+M 0 23713 1 23721
+* female pygmy marmoset
+M 0 23714 1 23721
+* male pygmy marmoset
+M 0 23715 1 23721
+* male golden lion tamarin
+M 0 23716 1 23729
+* female tamarin + sleeves
+M 0 23717 1 23729
+G 1 23730 100 
+* lion + paws
+M 0 23718 1 23736
+G 1 23711 60
+* tiger + paws
+M 0 23719 1 23728
+G 1 23712 60 
+* Zoo Director + belt
+M 0 23720 1 23725
+E 1 23713 10 13
+* groundskeeper
+M 0 23721 2 23705
+G 1 23706 100
+E 1 23704 100 16
+* groundskeeper 
+M 0 23721 2 23746
+G 1 23706 100
+E 1 23735 100 16
+* groundskeepers
+M 0 23722 2 23702
+M 0 23722 2 23750
+* Sisaly + maps and guides
+M 0 23723 1 23708
+G 1 23720 99
+G 1 23721 99
+G 1 23723 99
+* Souvenir Salesman + his junk
+M 0 23724 1 23726
+G 1 23725 99
+G 1 23726 99
+G 1 23727 99
+* Souvenir Salesman + his junk
+M 0 23735 1 23752
+G 1 23725 99
+G 1 23726 99
+G 1 23727 99
+* Snack Shop Lady(s)
+M 0 23725 2 23724
+M 0 23725 2 23753
+* little boy
+M 0 23726 4 23707
+* little boy + cap
+M 0 23726 4 23727
+E 1 23702 40 6
+* little girl + bracelet
+M 0 23727 2 23748
+E 1 23728 40 14
+* mom
+M 0 23728 1 23739
+* dad
+M 0 23729 1 23739
+* titi monkey + banana
+M 0 23730 2 23757
+G 1 23703 99
+* Tucker + cape
+M 0 23731 1 23756
+E 1 23731 55 12
+* Darwin + maps and guides
+M 0 23732 1 23749
+G 1 23720 100
+G 1 23721 100
+G 1 23723 100
+* Instructor
+M 0 23733 1 23717
+* Medic
+M 0 23734 1 23719
+* penguin escapee
+M 0 23736 1 23703
+* food
+O 0 23714 99 23724
+O 0 23714 99 23753
+O 0 23715 99 23724
+O 0 23715 99 23753
+O 0 23716 99 23724
+O 0 23716 99 23753
+* fountain
+O 0 23722 100 23704
+* newbie board
+O 0 3087 100 23711
+* sign
+O 0 23733 100 23701
+O 0 23734 100 23701  blocker
+* doors
+D 0 23721 1 1
+D 0 23722 3 1
+D 0 23728 2 1
+D 0 23729 1 1
+D 0 23730 3 1
+D 0 23732 2 1
+D 0 23733 2 1
+D 0 23735 1 1
+D 0 23735 0 1
+D 0 23736 3 1
+D 0 23737 2 1
+D 0 23739 0 1
+D 0 23740 0 1
+D 0 23740 2 1
+D 0 23743 0 1
+D 0 23745 0 1
+D 0 23754 1 1
+D 0 23755 1 1
+D 0 23755 3 1
+D 0 23756 3 1
+D 0 23757 1 1
+D 0 23758 1 1
+D 0 23758 2 1
+D 0 23758 3 1
+D 0 23759 3 1
+D 0 23760 0 1
+S
+#99999
+$~
+
+

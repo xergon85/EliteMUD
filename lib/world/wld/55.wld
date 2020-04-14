@@ -1,0 +1,2047 @@
+#5500
+Ambush!~
+   Rocky terrain surrounds this darkened part of the caverns.  The sound
+of dripping water echoes throughout.  There are a few boulders piled here,
+and footprints are marked in the dust on the ground.  The tunnel continues
+to the north.
+~
+55 acd 2
+D0
+The cavern leads off to the north.
+~
+~
+0 -1 5501
+S
+#5501
+Near the Boulders~
+   The tunnel is smaller here, in part due to what looks like some caved
+in rubble.  Boulders litter the exits south and north, but you are certain
+that you can squeeze through.
+~
+55 ad 2
+D2
+The boulders to the south almost block the way.
+~
+~
+0 -1 5500
+D0
+The boulders to the north almost block the way.
+~
+~
+0 -1 5502
+S
+#5502
+The Dark Tunnels~
+   The floor here is covered with a thin layer of slime, with powdery
+cobwebs stuck everywhere.  Boulders almost block off the way back south,
+but the way west is clear.
+~
+55 ad 2
+D2
+There are boulders almost blocking this way.
+~
+~
+0 -1 5501
+D3
+You hear footsteps to the west.
+~
+~
+0 -1 5503
+S
+#5503
+The Dark Tunnel~
+   The tunnels are very dark, and it is hard to see anything clearly.  The
+walls glisten with a strange black light, shining through the sticky
+cobwebs that cling to them.  The tunnel leads east and west.
+~
+55 ad 2
+D1
+You can see boulders to the east.
+~
+~
+0 -1 5502
+D3
+The strange black light beckons you.
+~
+~
+0 -1 5504
+S
+#5504
+A bend in the Dark Tunnel~
+   The tunnel is a little wider here, and the walls are rather smooth.
+They glisten with a strange black light, and are covered in white cobwebs.
+The tunnel leads to the north and to the east.
+~
+55 ad 2
+D0
+You can hear cries north of here.
+~
+~
+0 -1 5505
+D1
+The tunnel east is dark.
+~
+~
+0 -1 5503
+S
+#5505
+A bend in the Dark Tunnel~
+  The tunnel is very refined here, and there are signs that it was made by
+hand, and not by nature.  The walls glow with an eerie black light.  Fresh 
+air blows in from the south, while eerie cries echo from the west.
+~
+55 ad 2
+D2
+Fresh air blows in from the south.
+~
+~
+0 -1 5504
+D3
+You think you see a guard post.
+~
+~
+0 -1 5506
+S
+#5506
+East of the Slave Camp~
+   A small wooden guard post has been set up in this part of the tunnels.
+A few chairs, made out of an odd-looking black wood, rest on the floor.
+The tunnel is a t-section, leading off to what appears to be a niche in
+the north.  The tunnels lead east, into the darkness, and west, into the
+Drow slave camp.
+~
+55 ad 2
+D0
+You see a small cave north of here.
+~
+~
+0 -1 5525
+D1
+You see the eerie black tunnels east of here.
+~
+~
+0 -1 5505
+D3
+The drow slave camp echoes with the cries of tortured prisoners.
+~
+~
+0 -1 5507
+S
+#5507
+Entrance to the Slave Camp~
+   You are standing at the entrance ledge to a large cavern.  There are
+several hewn pockets that have been blocked off, and in each you can hear
+the echoes of people being tortured.  You think you see movement around
+the area, but it is hard to tell.  Small, booted footprints mark the dust
+where you stand.  There are exits in all directions - out, to the east, or
+further into the slave camp.
+~
+55 ad 2
+D0
+You see a small slave pen north of here.
+~
+~
+0 -1 5508
+D1
+You can leave the slave camp this way.
+~
+~
+0 -1 5506
+D2
+You can climb south into the caverns.
+~
+~
+0 -1 5509
+D3
+You can climb west into the caverns.
+~
+~
+0 -1 5511
+S
+#5508
+A slave pen~
+   This cave has been converted into a slave pen, and from the dried
+stains of blood that splatter the walls, you guess that it's been a slave
+pen for many years now.  The walls have shackles rivetted into them, and
+there are signs that the drow used to make people dig into the walls, in
+search of jewels.  The only exit is to the south.
+~
+55 ad 2
+D2
+The caverns lead out.
+~
+~
+0 -1 5507
+S
+#5509
+The slave caverns~
+   This is the south-east corner of the large slave cavern.  It appears
+that there is another such cavern far to the north-west.  The ground is
+very muddy and the walls are sticky and slimy.  The air here is so musty
+that you have problems breathing, and you wonder how anyone could live in
+this environment... but maybe that is what the drow have in mind.
+~
+55 ad 2 
+D0
+The north-east corner of the cavern.
+~
+~
+0 -1 5507
+D3
+The south-west corner of the cavern.
+~
+~
+0 -1 5510
+S
+#5510
+Near the Boulders~
+   This is the south-west corner of the slave caverns.  You are wading
+around in blood and grit, and the smell of infection hangs heavy in the
+air.  It looks like there was a cave-in here, and a few boulders have
+piled up to the south.
+~
+55 ad 2
+D0
+The north-west corner of the cavern.
+~
+~
+0 -1 5511
+D1
+The south-east corner of the cavern.
+~
+~
+0 -1 5509
+D2
+There is a path past the boulder!
+~
+boulder~
+2 -1 5516
+S
+#5511 
+A tunnel in the slave cavern~
+   You are standing in the north-west part of the slave cavern.  This area
+is a small tunnel-like area that connects the two parts of the slave
+cavern.  To the west you can see the deeper section of the caverns, and
+there are exits to the east and south.
+~
+55 ad 2
+D1
+You can see the north-east part of the slave-cavern.
+~
+~
+0 -1 5507
+D2
+You can see the south-west part of the slave-cavern.
+~
+~
+0 -1 5510
+D3
+The deeper part of the slave-cavern is in this direction.
+~
+~
+0 -1 5512
+S
+#5512
+The deeper slave cavern~
+   The cavern you are standing in is the deeper part of the slave pens.
+This is where the most suffering goes on.  The ground is litterered with
+bones and debris, all splattered with blood.  It is even darker here than
+anywhere else in the caverns, except for the occasional gleam of eyes
+staring out of the darkness.
+~
+55 ad 2
+D0
+The cavern leads off to the north.
+~
+~
+0 -1 5513
+D1
+This is the exit from the deep section.
+~
+~
+0 -1 5511
+D3
+The cavern leads off to the west.
+~
+~
+0 -1 5515
+S
+#5513
+Deep within the slave pens~
+  The room here smells of musty sweat and blood.  You can only dread what
+will happen to you if the drow capture you.
+~
+55 ad 2
+D2
+You can see the way out south of here.
+~
+~
+0 -1 5512
+D3
+The deepest part of the pens is to the west.
+~
+~
+0 -1 5514
+S
+#5514
+Deep within the slave pens~
+  You are so deep within the slave pens that you can no longer hear the
+sound of dripping water or smell fresh air.  Dried blood decorates the
+walls.
+~
+55 ad 2
+D1
+The way out is to the east.
+~
+~
+0 -1 5513
+D2
+You see glinting metal south of here.
+~
+~
+0 -1 5515
+S
+#5515
+The room of shackles~
+  You are now very deep within the tunnels that make up the drow slave
+pens.  The dark elves themselves rarely venture as far as you have for
+fear of being killed by their own slaves.  The walls are almost completly
+covered with metallic shackles, each with a prisoner or bones in its iron
+grip.
+~
+55 ad 2
+D0
+The farthest part of the slave pens is to the north.
+~
+~
+0 -1 5514
+D1
+The way out is to the east.
+~
+~
+0 -1 5512
+S
+#5516
+Past the boulders~
+   It doesn't look like there is a tunnel here from the other side of this
+boulder.  The cries from the slave pen can be heard from the north, but to
+the south, all is quiet.  You wonder what manner of creature would ever
+want to hide here.  You can squeeze north through the boulder, or go south
+into the darker tunnels.
+~
+55 ad 2
+D0
+The slave pens are past the boulder.
+~
+boulder~
+2 -1 5510
+D2
+The tunnels are covered in cobwebs.
+~
+~
+0 -1 5517
+S
+#5517
+The silent tunnels~
+   It is almost completely quiet in these tunnels.  Compared to the slave
+pens that came before them, they at first seem soothing and comforting,
+but tunnels that are soothing and comforting almost always have the sounds
+of dripping water and  underground life.  They also don't normally glow
+with that eerie black light, and have cobwebs covering them.  The green
+slime that is crawling along the walls is also unnerving.  You can travel
+north, out towards a large boulder, or west, furthur into these mysterious
+tunnels. 
+~
+55 ad 2
+D0
+There is a boulder north of here.
+~
+~
+0 -1 5516
+D3
+You can travel furthur into the tunnels west.
+~ 
+~
+0 -1 5518
+S
+#5518
+Near the web bridge~
+   You are standing on a small ledge deep within the tunnels.  A white,
+glistening web stretches out to the west, and you think you see it connect
+to the other side of the chasm beneath you.  
+~
+55 ad 2
+D1
+The tunnels are dark to the east.
+~
+~
+0 -1 5517
+D3
+The web bridge stretches across to the west.
+~
+~
+0 -1 5519
+S
+#5519
+On the web bridge~
+   You are in the middle of a bright white bridge made entirely of strong,
+sticky strands of web.  Beneath you is a large chasm that seems to go to
+eternity.  To the east is a large cavernous opening where the web is
+attached, and it looks like you can also climb off the web to the south.
+The web is shaking slightly as though someone other than you is on it.
+~
+55 ad 2
+D1
+The east side of the web bridge.
+~
+~
+0 -1 5518
+D2
+The south side of the web bridge.
+~
+~
+0 -1 5520
+S
+#5520
+Near the web bridge~
+   You are standing on a small ledge deep within the tunnels.  A white,
+glistening web stretches out to the north, and you think you see it
+connect to the other side of the chasm beneath you.  The tunnel to the
+south seems to lead into a cavern of some sort.
+~
+55 ad 2
+D0
+You can climb onto the web bridge this way.
+~
+~
+0 -1 5519
+D2
+You can enter into a dark cavern this way.
+~
+~
+0 -1 5521
+S
+#5521
+The entrance to the spider cave~
+   There is no other name for it, this must be the spider cave.  Arachnids
+are crawling all over the place, and webs cover the walls.  You have to
+push past hanging cobwebs and dead insects (and animals) to get into and
+out of the cave.  To the north you can see what looks like a large web.
+To the south and east you hear more spiders.
+~
+55 ad 2
+D0
+The bridge is to the north.
+~
+~
+0 -1 5520
+D1
+You hear spiders to the east.
+~
+~
+0 -1 5524
+D2
+You hear spiders and screams to the south.
+~
+~
+0 -1 5522
+S
+#5522
+The spider cave~
+  There are spiders everywhere!  What this place needs is a good fireball,
+and you'd do it, do, if it wasn't for all the flammable webbing that would
+turn these caves into a blazing inferno.  Some of the bundles in the web
+are almost mansized, implying great size on the part of the spiders.
+~
+55 ad 2
+D0
+The cave goes to the north.
+~
+~
+0 -1 5521
+D1
+The cave goes to the east.
+~
+~
+0 -1 5523
+S
+#5523
+Deep within the spider cave~
+   There is a small pile of pundles wrapped in webbing that surround this
+place.  The webs themselves seem as strong as iron, but there are teeth
+marks in the bundles.  Spiders crawl all over the place, getting into all
+of your possessions.
+~
+55 ad 2
+D0
+The cavern goes to the north.
+~
+~
+0 -1 5524
+D3
+The cavern goes to the west.
+~
+~
+0 -1 5522
+S
+#5524
+A lair~
+  This is obviously a lair of some large creature.  There is a massive
+nest that has been built of webbing and bone, and you can see the
+occasional finger sticking out of it.  It looks like there might be some
+eggs in the nest.  The walls are covered with web and the floor crunches
+with dead spiders with every step you take.  You can go on to the west or
+to the south.
+~
+55 ad 2
+D2
+The cavern goes to the south.
+~
+~
+0 -1 5523
+D3
+The cavern leaves to the west.
+~
+~
+0 -1 5521
+S
+#5525
+A small niche~
+  You are standing in a small niche in the caverns.  To the south is the
+way out.  It appears that there is nothing of interest in this sticky,
+slimy niche, but perhaps you should take a closer look at those boulders
+at your feet.
+~
+55 acd 2
+D2
+This is the way out of the niche.
+~
+~
+0 -1 5506
+D5
+The boulders block the way down from here.
+~
+boulder boulders~
+2 -1 5526
+E
+boulder boulders~
+The boulders look like they block a passageway down into the caverns.
+~
+S
+#5526
+A tunnel leading down~
+  The tunnel continues down.  You can squeeze through boulders above or
+below.
+~
+55 ad 2
+D4
+There are boulders blocking the way up.
+~
+boulder boulders~
+2 -1 5525
+D5
+There are boulders blocking the way down.
+~
+boulder boulders~
+2 -1 5527
+S
+#5527
+At the bottom of the tunnel~
+  You are at the bottom of a long tunnel.  A massive cavern looms to the
+north, and it looks like there is a street in front of you.  A cave-in of
+boulders blocks the passage above you.
+~
+55 acd 2
+D0
+There is a street north of here.
+~
+~
+0 -1 5528
+D4
+Boulders block the way up.
+~
+boulder boulders~
+2 -1 5526
+S
+#5528
+The entrance to Shaalziran'dar~
+   You have heard of this city in legends told throughout Midgaard, but
+never in all of your short life did you think you would see this terror.
+A terror it is, the stuff of nightmares.  Huge buildings loom in the
+softly illuminated darkness, carved with magic from the very black rock of
+the caverns.  This is perhaps one of the deadliest of the drow cities, as
+it is not burdened by struggle between rival houses.  House Azzinoden
+destroyed all of its foes centuries ago with ruthless precision.  Stories
+such as this one give you reason never to make a foe of a drow.  The
+street you are on goes to the west and the east.
+~
+55 d 1
+D2
+There is a niche to the south.
+~
+~
+0 -1 5527
+D1
+The street goes to the east.
+~
+~
+0 -1 5529
+D3
+The street goes to the west.
+~
+~
+0 -1 5537
+S
+#5529
+The corner by the Academy~
+   The Academy of Swordplay is a large, imposing construction, ripped from
+the walls of the cavern into the shape of a diabolical building.  It
+towers over this part of the street on the east side.  The building itself
+glows with a soft, eerie light, illuminating the street outside.  The
+street goes north and west, or you can foolishly travel east, into the
+Academy.
+~
+55 d 1
+D0
+The street goes to the north.
+~
+~
+0 -1 5544
+D1
+The Academy of Swordplay is to the east.
+~
+~
+0 -1 5530
+D3
+The street leads to the west.
+~
+~
+0 -1 5528
+S
+#5530
+The Academy of Swordplay~
+   This is the entrance room to the Academy of Swordplay.  All dark elves
+attend this Academy in their youth, whether they like it or not.  Here,
+they are taught how to kill people, a talent they will hone throughout
+their entire lives.  Those who do not, die.  There is an exit to the west,
+or you can walk into the Academy.
+~
+55 d 1
+D3
+You can wisely leave the Academy.
+~
+~
+0 -1 5529
+D2
+You can foolishly enter the Academy.
+~
+~
+0 -1 5531
+S
+#5531
+The corridor in the Academy~
+   The Academy has the job of teaching drow how to fight.  You are inside
+the building, built out of black wood and magically hewn rock, outside the
+first room of training.  A sign on the wall here translates into
+"Brutality", one of the many virtues a drow must master to be a successful
+citizen.  Those who do not become what the others practice on in class.  A
+training room is south of here, and the softly glowing black wooden floor
+stretches towards the east and north.
+~
+55 d 1
+D0
+You can wisely leave.
+~
+~
+0 -1 5530
+D1
+The wooden floors go east.
+~
+~
+0 -1 5533
+D2
+The Chamber of Brutality is south of here.
+~
+~
+0 -1 5532
+S
+#5532
+The Chamber of Brutality~
+  This is the Chamber of Brutality, where dark elves learn the art of
+pain.  The walls are stained a horrid black-red color, a nasty blend of
+the natural black rock and wood and the unnaturally spilled drow blood.
+A weapons rack lines the wall, as does a torture rack.  Both seem to have
+seen extensive use in training the drow to be warriors.
+~
+55 d 1
+D0
+The corridor is north of here.
+~
+~
+0 -1 5531
+S
+#5533
+The corridor in the Academy~
+   The black wood covers the floor here in long, carefully carved rows.
+The walls are made of a solid black rock that glows with a disturbing soft
+light.  The corridor goes east and west, or you can go south, into a large
+room.  A sign over the room is translated as "Swiftness."
+~
+55 d 1
+D1
+The corridor goes furthur east.
+~
+~
+0 -1 5535
+D2
+You can enter the Chamber of Swiftness.
+~
+~
+0 -1 5534
+D3
+You can go west, down the corridor.
+~
+~
+0 -1 5531
+S
+#5534
+The Chamber of Swiftness~
+  This is a large room carved out of black rock, with strange looking
+black wood lining the walls and floor.  The room glows with an eerie
+light.  There are several strange constructions that appear to be some
+kind of spring loaded mechanisms.  There are also shackles hanging on the
+walls that appear well used.  The artifacts in this room don't lend too
+much insight into how the drow test their swiftness, but the ample supply
+of blood that stains the walls and floor can only convey an image that
+belongs in nightmares.
+~
+55 d 1
+D0
+You can go back to the corridor.
+~
+~
+0 -1 5533
+S
+#5535
+The end of the corridor~
+   The corridor ends here.  The wall is more natural here, as if the
+Academy ends right where the cliff face begins.  You can go west, down the
+corridor, or south, into a chamber marked with the word "Style".
+~
+55 d 1
+D2
+The Chamber of Style is south of here.
+~
+~
+0 -1 5536
+D3
+The corridor goes west.
+~
+~
+0 -1 5533
+S
+#5536
+The Chamber of Style~
+   This is a large chamber with several ropes and pullies stretches across
+the black wooden floor, hooked up at several points on the walls.  Blood
+stains most of the equipment here.  Shackles hang from the walls with
+blood still wet in the manacles.  This is the chamber where drow learn to
+fight with finesse and style, to both impress and terrify their enemies.
+There are intricately drawn diagrams on the walls explaining points of
+warfare to the students in a very gruesome manner, and there is little
+your disturbed mind finds stylish about it.
+~
+55 d 1
+D0
+You can leave the chamber.
+~
+~
+0 -1 5535
+S
+#5537
+A road in the Drow city~
+   You are standing in a road in the drow city.  The road is carved right
+out of the rock, but the artistic flair of the drow is visible in the
+beautiful mosaic that they insist on putting down.  A small house stands
+to the west, while the road leads off to the north and east.
+~
+55 d 1
+D0
+The road leads north.
+~
+~
+0 -1 5539
+D1
+The road leads east.
+~
+~
+0 -1 5528
+D3
+There is a small house to the west.
+~
+~
+0 -1 5538
+S
+#5538
+A drow weaponshop~
+   This house is carved from black granite rock and decorated with eerie
+black woodwork.  The entire structure glows faintly with the odd purple
+whiteish glow that lights up the entire city.  A mural of a spider
+decorates the wall.  There is a weapons rack on the wall.
+~
+55 d 1
+D1
+The road is outside the house.
+~
+~
+0 -1 5537
+S
+#5539
+A road in the drow city~
+  The road leads north and south.  The entire street is decorated with an
+intricate, glowing mosaic.  You can see a large stone structure, a natural
+piece of beauty, blocking off the area east of the street.  A small house
+stands to the west, and furthur in the distance, you can see a looming
+palace.
+~
+55 d 1
+D0
+The road leads furthur north.
+~
+~
+0 -1 5541
+D2
+The road leads to the south.
+~
+~
+0 -1 5537
+D3
+You see a small building to the east.
+~
+~
+0 -1 5540
+S
+#5540
+A drow armoury~
+   This small house is built into a massive stalagmite, with wooden
+supports constructed from the dark elven wood.  The rock seems to embrace
+the structure, like a massive spider embracing its kill.  The building
+itself is warm inside, and in the back, you can see some pieces of armour.
+~
+55 d 1
+D1
+You can leave the armoury.
+~
+~
+0 -1 5539
+S
+#5541
+The fork in the road~
+   The road in the drow city forks here.  You can travel to the east,
+towards a small cluster of buildings, or to the west, towards the palace.
+You can see the palace clearly from here as it looms over the entire city,
+as if it, too, were watching.
+~
+55 d 1
+D1
+You can go to the east.
+~
+~
+0 -1 5542
+D2
+You can go to the south.
+~
+~
+0 -1 5539
+D3
+You can travel east, towards the palace.
+~
+~
+0 -1 5556
+S
+#5542
+The north road of the drow city~
+   This is the northern road in the city, leading east and west on the far
+side of the stalagmite.  A small building peeks out to the north.  You can
+make out the massive, nightmarish structure of the palace to the west, and
+you can see the northern district of the city to the east.
+~
+55 d 1
+D0
+There is a small shop with goods in it to the north.
+~
+~
+0 -1 5543
+D1
+The road towards the entertainment district leads east.
+~
+~
+0 -1 5546
+D3
+The road towards the palace leads west.
+~
+~
+0 -1 5541
+S
+#5543
+The drow general goods store~
+   This large building is lined with black wooden shelves, filled with a
+variety of bottles, jars, and bags.  The rock walls glow with an eerie
+light, and you can see spiders crawling throughout a sack that has food in
+it.
+~
+55 d 1
+D2
+You can leave the general store.
+~
+~
+0 -1 5542
+S
+#5544
+The east road~
+   The east road leads north and south.  It's called the east road because
+it is on the east side of a huge, monstrous stalagmite.  The road leads to
+the south, towards what looks like a large barracks, and to the north,
+towards two large buildings.  To the east is a small building that glows
+softly with an eerie green light.
+~
+55 d 1
+D0
+The road leads towards the entertainment district.
+~
+~
+0 -1 5546
+D1
+There is a softly glowing building to the east.
+~
+~
+0 -1 5545
+D2
+The road towards the military academy is south of here.
+~
+~
+0 -1 5529
+S
+#5545
+The home of Retelzin~
+   Releyzin, the drow magician, makes his home here.  He is a little less
+psychopathic then most dark elves, and will occasionally deal with people
+who are not drow.  His house is a most bizarre structure, with dead people
+hanging from the walls, victims of his failed experiments.  The only exit
+is to the west.
+~
+55 d 1
+D3
+The way out of Retelzin's house.
+~
+~
+0 -1 5544
+S
+#5546
+The north side~
+  You are on the north side of the city.  The road leads off towards the
+west, where you can barely make out what appears to be a massive, black
+granite palace.  A large building is visible to the south, as are two to
+the north.  Cries of pain and pleasure shoot from the north.  A small
+landslide can be seen to the east.  The road itself is very beautiful, and
+is decorated by a marvelous mosaic.
+~
+55 d 1
+D0
+The entrance to the entertainment district.
+~
+~
+0 -1 5547
+D1
+A landslide is to the east.
+~
+~
+0 -1 5579
+D2
+The road to the south leads to the academy.
+~
+~
+0 -1 5544
+D3
+The road to the west leads to the palace.
+~
+~
+0 -1 5542
+S
+#5547
+The end of the mosaic road~
+   The road ends here.  The mosaic also stops, in a fascinating climactic
+scene.  If you like, you can go south of here, back into the main part of
+the city, but these buildings seem more interesting.  To the north, you
+can see several torture devices, and to the east, you hear water bubbling.
+~
+55 0 0
+D0
+The torture house is north of here.
+~
+~
+0 -1 5552
+D1
+The pleasure house is east of here.
+~
+~
+0 -1 5548
+D2
+The main city is south of here.
+~
+~
+0 -1 5546
+S
+#5548
+The drow bath house~
+   Drow are a highly refined race, and enjoy the finer pleasures of life. 
+This structure of blackwood and granite rock is very warm, and you can
+hear water bubbling within.  Towels hang on onyx outcrops on the walls,
+and steam wafts out above through air ducts.  You can leave to the west,
+or go furthur into the bath house.
+~
+55 d 1
+D0
+There is bubbling to the north.
+~
+~
+0 -1 5549
+D1
+There is bubbling to the east.
+~
+~
+0 -1 5551
+D3
+It is cooler to the west.
+~
+~
+0 -1 5547
+S
+#5549
+The drow bath chamber~
+   This room is very warm, and the eerie black-rock walls glisten when the
+strange light refracts through the many water droplets.  In the center of
+the room is a carefully carved granite bathtub, large enough for many drow
+to bathe together.  An onyx clothes rack stands next to the bath, with
+many silky black garments hanging from it.
+~
+55 d 1
+D1
+It feels cooler to the east.
+~
+~
+0 -1 5550
+D2
+It feels cooler to the south.
+~
+~
+0 -1 5548
+S
+#5550
+The drow massage parlour~
+   This room is shielded from the rest of the bath house by black silk
+curtains.  Several wooden beds with soft sheets have been set up, with
+short stools resting next to them.  A small onyx clothes rack has been set
+up in this room, and many drow dresses and shirts hang from it.
+~
+55 d 1
+D2
+It is warmer to the south.
+~
+~
+0 -1 5551
+D3
+It is warmer to the west.
+~
+~
+0 -1 5549
+S
+#5551
+The drow bath chamber~
+   This chamber has several large above-ground baths make of a softly
+glowing purplish-black rock.  They are filled with bubbling water, heated
+by some unknown source.  It is very warm in here, and many rock benches
+have been placed for people to sit and sweat in the heat.  Silky clothes
+hang from the wall, adding weight to the knowledge that the drow have very
+little in the way of a nudity taboo.
+~
+55 d 1
+D0
+It feels cooler to the north.
+~
+~
+0 -1 5550
+D3
+It feels cooler to the west.
+~
+~
+0 -1 5548
+S
+#5552
+Entrance to the drow torture chamber~
+   This room is slightly less illuminated than the rest of the drow city,
+but still glows with the eerie purplish light that keeps the city lit.  A
+rack is set up on the far wall, and several carving tools rest on a shelf.
+The room is surprisingly clean for a torture chamber, and not a drop of
+blood stains the equipment.  Everything is kept tidy, neat, and almost
+clinical.  You can make out more torture devices to the north and west.
+~
+55 d 1
+D0
+Heat wafts from the north.
+~
+~
+0 -1 5553
+D2
+You can leave to the south.
+~
+~
+0 -1 5547
+D3
+You hear cries to the west.
+~
+~
+0 -1 5555
+S
+#5553
+The branding room~
+   A large steel stove generates the heat that warms this disturbing room.
+A shelf on the wall has some branding irons hanging from it, all of them
+glowing slightly red from recent use.  The smell of burnt flesh is very
+heavy in here.  Darksteel shackles line the walls, some with bones still
+smoldering in them.
+~
+55 d 1
+D2
+You can run out to the south.
+~
+~
+0 -1 5552
+D3
+It seems quieter to the west.
+~
+~
+0 -1 5554
+S
+#5554
+The spider pit~
+   You are standing in a very large chamber, lined with arena seating.
+Green smoke wafts out of a large, gaping pit in the center of the room.
+You hear a wretched clicking noise coming from the pit.  Blood stains the
+edges of the abyss, and cobwebs dangle from the ceiling above it.
+~
+55 d 1
+D1
+It is warm to the east.
+~
+~
+0 -1 5553
+D2
+It is quiet to the south.
+~
+~
+0 -1 5555
+S
+#5555
+The Room of Death~
+   Even in a building dedicated to pain, eventually some drow cross the
+path of the Matron Mother in a less than biblical sense.  Those who do,
+end up here to die.  A few iron maidens, tastefully cleaned and polished,
+stand in the corner, and the ceiling is covered with hanging nooses.  A
+few have skeletons in them.  The floor has red carpetting covering it, to
+conceal any damage done should someone be executed messily.
+~
+55 d 1
+D0
+It seems quiet to the north.
+~
+~
+0 -1 5554
+D1
+You can flee to the east.
+~
+~
+0 -1 5552
+S
+#5556
+The entrance to the Matron Mother's palace~
+   You are standing next to the massive palace that is the home of the
+Matron Mother.  House Azzinoden dwells here, and oversees the city with
+ruthless efficiency.  The palace is huge, its large purplish-black rock
+structure towering over the drow city.  You can see that one of its
+spires reaches right to the cavern ceiling.
+~
+55 cd 0
+D1
+The street leads away from the palace.
+~
+~
+0 -1 5541
+D3
+You can enter the palace.
+~
+~
+0 -1 5557
+S
+#5557
+Inside the palace~
+   You are in a corridor inside the drow palace.  It is quieter inside
+here than it was in the city.  The floors have a thin leather carpetting
+of some strange black beast covering them, and the walls are painted with
+scenes you have only seen in your nightmares.  The corridor goes to the
+north and the south, or you can leave the palace to the east.
+~
+55 d 0
+D0
+You can go north along the corridor.
+~
+~
+0 -1 5570
+D1
+You can wisely flee the palace.
+~
+~
+0 -1 5556
+D2
+You can travel to the south.
+~
+~
+0 -1 5558
+S
+#5558
+A corridor in the palace~
+   You are standing in a corridor in the drow palace.  The walls are
+carved right out of the mountainside, and glisten strangely in the purple
+light that illuminates the castle.  The corridor leads to the north and
+west, or you can enter the chamber to the south.
+~
+55 d 0
+D0
+The corridor leads north.
+~
+~
+0 -1 5557
+D2
+A small room is south of here.
+~
+~
+0 -1 5559
+D3
+The corridor goes to the west.
+~
+~
+0 -1 5560
+S
+#5559
+A small guard chamber~
+   This small room is a little off the main hallway in the drow palace.
+It has a few portraits on the wall of dark elven heroes and deities, and
+the walls are covered in an exquisitely painful spider mural.  Seats have
+been set up for guards to sit on when they are off duty, and a table sits
+in the middle with a few bottles of dark elven wine resting on it.
+~
+55 d 0
+D0
+The corridor is north of here.
+~
+~
+0 -1 5558
+S
+#5560
+The hallway~
+   The hallway continues to the west and to the east.  You can also see a
+small room sitting off to the south, behind a silky black curtain.
+~
+55 d 0
+D1
+The hallway goes east.
+~
+~
+0 -1 5558
+D2
+There is a room beyond the southern curtain.
+~
+~
+0 -1 5561
+D3
+The corridor goes west.
+~
+~
+0 -1 5562
+S
+#5561
+A small side-room~
+   You brush past a silky black curtain and find a small side room.  This
+room is warm and nicely scented with drow perfume, and a few barriers are
+set up so that the dark elves can change clothes when they choose.  A
+variety of drow clothes hang from them.  
+~
+55 d 0
+D0
+You can leave the changing room.
+~
+~
+0 -1 5560
+S
+#5562
+A corner in the hallway~
+   The hallway turns towards the north here.  To the west you see a small
+study, and you think you can hear voices in the room to the south.  These
+hallways are surprisingly well illumunated, a tribute to drow magical
+talent.
+~
+55 d 0
+D0
+The hallway continues to the north.
+~
+~
+0 -1 5565
+D1
+The hallway continues to the east.
+~
+~
+0 -1 5560
+D2
+You can see a small room south of here.
+~
+~
+0 -1 5563
+D3
+You can see a small study west of here.
+~
+~
+0 -1 5564
+S
+#5563
+A small chamber~
+  This small room is off the main corridor.  The floor has a mosaic
+imprinted in it, depicting a large spider ripping a pathetic elf to
+shreds.
+~
+55 d 0
+D0
+You can leave this chamber.
+~
+~
+0 -1 5562
+S
+#5564
+A small study~
+   Shelves line the walls of this study.  This is one of the few drow
+rooms that is actually bright, and a few candles can actually be seen in
+here.  A desk is on the far side of the room, and papers clutter it.  A
+bed has been set up in this room in case a drow studies past the many days
+that they can stay awake.  The short black skirt and blouse on the unmade
+bed show that someone has been studying here.
+~
+55 d 0
+D1
+You can leave the study.
+~
+~
+0 -1 5562
+S
+#5565
+The hallway in the drow palace~
+   You are standing in a long hallway in the drow palace.  The hallway
+continues to the north and south.  You can see a spiral staircase to the
+east, and to the west is a small study.
+~
+55 d 0
+D0
+You see the corridor turn to the north.
+~
+~
+0 -1 5567
+D1
+You see stairs to the east.
+~
+~
+0 -1 5571
+D2
+You see the corridor turn to the south.
+~
+~
+0 -1 5562
+D3
+You see a small study west of here.
+~
+~
+0 -1 5566
+S
+#5566
+A small drow study~
+   This small room is sheltered from the rest of the palace.  It is quiet
+here, and a cool breeze blows through air ducts in the ceiling.  The walls
+are carved right into the mountain, and have been magically polished so
+that they glow with a purple light.  A desk decorates the middle of the
+room, with a bookshelf behind it.
+~
+55 d 0
+D1
+You can leave the study.
+~
+~
+0 -1 5565
+S
+#5567
+The north bend~
+   You are at a bend in the corridor.  The walls are decorated with
+sadistic black murals.  You can see a small room west of here.
+~
+55 d 0
+D1
+You see the corridor continuing to the east.
+~
+~
+0 -1 5569
+D2
+You can see the corridor going south.
+~
+~
+0 -1 5565
+D3
+You see a small room to the west.
+~
+~
+0 -1 5568
+S
+#5568
+A practice room~
+   This room has several swords lining the walls.  A mural depicting
+Lolth, the Queen of Evil, marks the western wall here.  A sparring
+construction has been set up for drow to do battle with.  Several sharp
+objects stick out of it.
+~
+55 d 0
+D1
+You can go back into the corridor.
+~
+~
+0 -1 5567
+S
+#5569
+The corridor in the drow palace~
+   This is the northern corridor in the drow palace.  It leads off to the
+west and east.  You seem to be standing on some sort of mosaic on the
+floor that depicts Lolth doing battle with a hidiously ugly elven lord.
+~
+55 d 0
+D1
+The corridor goes east.
+~
+~
+0 -1 5570
+D3
+The corridor goes west.
+~
+~
+0 -1 5567
+S
+#5570
+A bend in the corridor~
+   The hallway turns here.  You can follow the mosaic pattern to the west,
+or you can go to the south, where the exit is.
+~
+55 d 0
+D2
+The exit from the palace is south of here.
+~
+~
+0 -1 5557
+D3
+The corridor goes west.
+~
+~
+0 -1 5569
+S
+#5571
+The spiral staircase~
+   A spiral staircase, carved with magic from a single piece of onyx,
+glows brightly.  You can probably climb up, if you choose to fight back
+the wave of terror that sweeps over you just thinking about it.  Spiders
+have built webs that surround the area around the staircase, and scamper
+everywhere.
+~
+55 d 0
+D4
+You can climb the staircase up.
+~
+~
+0 -1 5575
+D3
+The hallway in the palace is out to the west.
+~
+~
+0 -1 5565
+S
+#5572
+An ivory staircase~
+   You find yourself standing at the base of a magnificent ivory
+staircase.  The stairs spiral up into a softly glowing chamber above you.
+The ivory itself is a strange substance, with swirls and spirals making up
+the individual steps.  There are rooms east and west of here, or you
+can follow the landing and return to the north.
+~
+55 d 0
+D4
+The room above glows softly.
+~
+~
+0 -1 5578
+D0
+The landing goes back to the north.
+~
+~
+0 -1 5575
+D1
+You see a small chamber to the east.
+~
+~
+0 -1 5574
+D3
+You see a chamber through the curtains to the west.
+~
+~
+0 -1 5573
+S
+#5573
+Mercurien's Bedroom~
+   This room is dimly lit by candlelight.  A large, plush bed with black
+silk sheets fills the room, with little space for anything more than a
+small desk and a closet.  The sheets are pulled back a little, and fine
+noble-looking clothes are cast around on the bed.  A screen is set up, and
+also has clothes hanging from it.  You are not sure, but you think you
+might be able to see a figure behind the screen.
+~
+55 d 0
+D1
+You can go back out into the hallway.
+~
+~
+0 -1 5572
+S
+#5574
+Balazar's Chambers~
+   You have entered a room that is rather spartan at first glance.  The
+only object of note dominates the room, a massive mosaic mural on the far
+wall, depicting a black dragon crawling up a huge unicorn's spire.  The
+room has a bed, a desk, and a closet.  It is otherwise empty.
+~
+55 d 0
+D3
+You can leave this room.
+~
+~
+0 -1 5572
+S
+#5575
+At the top of the spiral staircase~
+   You've made it to the top of the spiral staircase.  Cobwebs obscure the
+view of what is below.  Atop the banister are two identical statuettes of
+spiders, with an intricate spider design leading down the banisters.  You
+see a room to the west and a room to the east, and the landing continues
+south.
+~
+55 d 0
+D1
+You see a room east of here.
+~
+~
+0 -1 5577
+D2
+The landing goes south.
+~
+~
+0 -1 5572
+D3
+You see a room east of here.
+~
+~
+0 -1 5576
+D5
+The stairs go down.
+~
+~
+0 -1 5571
+S
+#5576
+Arziana's Chambers~
+   This room has a large carpet in the middle of the floor, with a plush
+bed against the far wall.  The bed is neatly made.  A closet stands next
+to the bed, with a few swords leaning against it.  Tapestries, depicting
+great magical battles, line the walls.
+~
+55 d 0
+D1
+You can leave Arziana's room.
+~
+~
+0 -1 5575
+S
+#5577
+Tashken's Room~
+   You brush past a silken curtain into a chamber carved into the
+mountain.  The floor is lined with blackened wood, and silks hang from the
+ceiling.  Gold and silver plates everything, and decorative swords and
+tapestries add to the extravegance here.  A large, four poster bed marks
+the center of the room, with a spiral rug at the end.  His desk is
+cluttered with paperwork and notes.
+~
+55 d 0
+D3
+You can go back outto the landing.
+~
+~
+0 -1 5575
+E
+notes paperwork note desk~
+And now, for a zoner's plug.
+
+This zone was written for EliteMud by Nymph.  Work on the zone began
+years before it was written, in the form of AD&D games played... yes,
+these are MY drow!  What you are exploring is a part of my own campaign,
+translated into mud format.  I actually sat down and started writing the
+zone on April 16th, 1997.  The zone was completed on April 21st, 1997.
+~
+S
+#5578
+The private chambers of the Matron Mother~
+   Kazlyn, the wicked queen of the drow, resides here.  Her highly
+decorative and plush bed takes up much of the room, and the silken
+blankets from it are scattered around the floor.  Blood stains the bed,
+and a corpse is slumped over it - presumably a lover that didn't live
+up to her demands.  Mirrors line the walls and ceiling, and an mosaic of
+amazing beauty decorates the floor.  Spiders crawl everywhere.
+~
+55 d 0
+D5
+You can climb down the stairs to the landing.
+~
+~
+0 -1 5572
+S
+#5579
+The cave-in~
+   There is a cave in here that blocks off any travel.  You would probably
+be wiser to turn back, anyway.  It looks like the cave-in crushed a house
+here.
+~
+55 d 4
+D3
+You can leave this mess.
+~
+~
+0 -1 5546
+D5
+Hmm, you can squeeze into a hole down from here.
+~
+boulder boulders~
+2 -1 5580
+E
+boulder boulders cave house~
+It looks like you can move the boulders!
+~
+S
+#5580
+The entrance to the Gauntlet~
+   You have stumbled across the drow test of tests known only as the
+Gauntlet.  Here, the drow test their mettle against the evil denizens of
+this tunnel.  Those rare few who live are regarded as heroes of their
+race.
+~
+55 acd 4
+D4
+You can get the hell out of here....
+~
+boulder boulders~
+2 -1 5579
+D1
+The gauntlet beckons you furthur in...
+~
+~
+0 -1 5581
+S
+#5581
+A path in the Gauntlet~
+   You hear things moving all around you.  The earth shakes slightly.  You
+can hear rushing water in the distance, but cannot tell where.  The cavern
+here is raw granite, not carved or made by drow.  The evil here is a
+completely natural evil.
+~
+55 ad 4
+D1
+The path continues.
+~
+~
+0 -1 5582
+D3
+The path goes back.
+~
+~
+0 -1 5580
+S
+#5582
+At the top of a cliff face.~
+  You find yourself standing atop a large cliff.  It is quite a ways down,
+but you think you can climb safely.  There is also a rope ladder that has
+been attached south of here, and it looks like you can go down that way,
+too. To the east, you see a cave, and you are sure you can jump into it.
+~
+55 ad 4
+D1
+There is a cliff over there, with some movement.  You can jump it.
+~
+~
+0 -1 5583
+D2
+The rope ladder will not support you if you climb south onto it.
+~
+~
+0 -1 5584
+D3
+You can go back the way you came.
+~
+~
+0 -1 5581
+D5
+The climb down looks safe.
+~
+~
+0 -1 5585
+S
+#5583
+The Drider's Cave~
+   You seem to have stumbled across the lair of what must be a very large
+and powerful drider.  You'd best leave before he returns and takes offense
+at your presence here.
+~
+55 ad 4
+D3
+You can wisely run out of this room
+~
+~
+0 -1 5582
+S
+#5584
+The rope ladder breaks!~
+   You climb onto the rope ladder and start to travel down it, but it does
+not support your weight, and breaks.  You feel your spells failing as you
+plummet and get caught up in the rope, and you realize your life is not
+going to be very fulfilling.  Suddenly, a gargoyle swoops in to attack!
+#YA gargoyle flies in, looking for someone stupid to kill.#N
+
+A gargoyle easily circles around you.
+#rSuddenly a gargoyle stabs you in the back!#N
+#RThat really did HURT!#N
+#rYou scream in pain as a gargoyle critically hits you!
+#rA gargoyle ANNIHILATES you with his wicked bite!
+#RThat really did HURT!#N
+You're stunned, but will probably regain consciousness again.
+You are dead!  Moron...
+~
+55 bd 4
+D0
+The exit.
+~
+~
+0 -1 5582
+S
+#5585
+Climbing down the cliff~
+   You wisely chose to climb down the cliff, and it has ample handholds.
+In fact, you can see where someone was here before you.  There are several
+crossbow bolts driven into various places on the cliff, and you think you
+can climb down safely!
+~
+55 ad 4
+D4
+You can climb back up, you think.
+~
+~
+0 -1 5582
+D5
+You can safely climb down.
+~
+~
+0 -1 5586
+S
+#5586
+The bottom of the cliff~
+   You are at the bottom of a large underground cliff.  Water splashes up
+to the ledge from the east.  You look up, and it looks like you can
+actually climb up there.  A cave looms in the west.
+~
+55 ad 4
+D4
+You can climb back up.
+~
+~
+0 -1 5585
+D1
+The river is rushing to the east, but you can wade through it.
+~
+~
+0 -1 5588
+D3
+There is a cave to the west.
+~
+~
+0 -1 5587
+S
+#5587
+Inside the cave~
+  This cave is cool and quiet, hidden away from the rushing river outside
+and the treacherous cliff.  It looks like there is blood on the ground, as
+though someone passed this way recently.
+~
+55 ad 4
+D1
+The way out is east.
+~
+~
+0 -1 5586
+S
+#5588
+The river of death~
+  This river is known as the river of death, so named for all the lives it
+has claimed.  It actually seems rather safe to you, and you wonder what
+all the fuss is about.  You hear water rushing east of here, or you can
+dive underwater.  There is land to the west.
+~
+55 ad 6
+D1
+You see a violent whirlpool to the east.  It is ripping a drow apart.
+~
+~
+0 -1 5590
+D3
+You can swim back to the ledge.
+~
+~
+0 -1 5586
+D5
+You can dive underwater.
+~
+~
+0 -1 5589
+S
+#5589
+Underwater~
+   You are swimming under the river of death.  How long can you hold your
+breath under here you do not know, but you'd better keep doing it.  The
+water is fairly clear.  You can swim east, or try to surface up.
+~
+55 ad 6
+D1
+You can swim to the east.
+~
+~
+0 -1 5591
+D4
+You can surface.
+~
+~
+0 -1 5588
+S
+#5590
+A violent whirlpool~
+   You swim right into the middle of a violent whirlpool.  Blood
+splatters all over you as a drow is ripped into shreds, and you quickly
+join him as your body is pulled apart into little pieces.  Several hungry
+fish descend upon your flesh, and rip you to bits.  You are quite dead.
+~
+55 bcd 6
+D1
+The exit.
+~
+~
+0 -1 5592
+D3
+The exit.
+~
+~
+0 -1 5588
+D5
+The exit.
+~
+~
+0 -1 5591
+S
+#5591
+Under the whirlpool~
+   You are swimming along undernearth a nasty whirlpool.  You're glad you
+are on this end, because it looks like someone is being torn apart above
+you.  You can swim up into it, if you like, or you can follow the river
+floor east or west.
+~
+55 ad 6
+D1
+You can swim east.
+~
+~
+0 -1 5593
+D3
+You can swim west.
+~
+~
+0 -1 5589
+D4
+You can be an idiot and swim right into the whirlpool.
+~
+~
+0 -1 5590
+S
+#5592
+At the end of the river~
+   You've made it to the end of the river here.  Dry land is east.  The
+water is still deep beneath you, and you can dive underneath if you wish,
+or you can swim back west into what appears to be a raging whirlpool.
+~
+55 ad 6
+D1
+Dry land is east, and it looks inviting.
+~
+~
+0 -1 5594
+D3
+You can swim right into the whirlpool and suffer the fate you deserve.
+~
+~
+0 -1 5590
+D5
+You can dive underwater.
+~
+~
+0 -1 5593
+S
+#5593
+Underwater~
+   You are underwater.  The water is cold, but clear.  You think you can
+swim up from here, or west.
+~
+55 ad 6
+D3
+You can swim west.
+~
+~
+0 -1 5591
+D4
+You can surface.
+~
+~
+0 -1 5592
+S
+#5594
+Dry land~
+   You are on relatively dry land.  A raging river rushes west of here,
+and you can see a whirlpool in the distance in it.  East is a large
+cavern, or you can venture north, into the deeper tunnels.
+~
+55 ad 4
+D0
+The tunnels lead north.
+~
+~
+0 -1 5596
+D1
+You see a cave with signs of life in it.
+~
+~
+0 -1 5595
+D3
+You can dive into the river.
+~
+~
+0 -1 5592
+S
+#5595
+Inside the lair of the Umber Hulk~
+   This cave has been torn out of the very rock.  Something simply waded
+in, made the space it wanted, and left.  There is a massive nest of bones
+in the middle of the room.  You hear a strange clicking sound.  Safety, or
+as safe as the Gauntlet gets, is west.
+~
+55 ad 4
+D3
+You can flee the cave.
+~
+~
+0 -1 5594
+S
+#5596
+The tunnel leading north~
+   The tunnel leads north, towards what smells like fresh air.  You might
+be almost out of this mess!  The tunnels also leeds south, deeper into the
+Gauntlet.  You can hear some noises to the west, and when you glance in
+that direction, you think you see pixies and fairies frolicking around a
+circle of mushrooms.  You hear music playing.
+~
+55 ad 4
+D0
+You can walk north, towards fresh air.
+~
+~
+0 -1 5598
+D3
+Do you REALLY think there would be FAIRIES frolicking here?
+~
+~
+0 -1 5597
+D2
+You can walk back into the Gauntlet.
+~
+~
+0 -1 5594
+S
+#5597
+You're stupid if you thought this was a real frolicking..~
+   You wander into the fairies' circle and they invite you to frolick with
+them.  For some reason, you feel compelled to join, and you dance and
+frolick and strip naked.  The fairies fade away, and so does their magic,
+and you find yourself sitting stark naked in the middle of a circle of
+bloodthirsty, ravenous driders.  They tear you to bits, and you die a very
+unglorious death.  The end.
+~
+55 bd 4
+D1
+The exit.
+~
+~
+0 -1 5596
+S
+#5598
+A pitfall~
+   You fall into the bottom of a pit!  It looks like you can actually
+climb back up, but you didn't expect the fall.  Fresh air blows in from
+the north, and your journey through the Gauntlet looks complete.
+~
+55 ad 4
+D0
+You can walk north to freedom.
+~
+~
+0 -1 5599
+D4
+You can climb back up the pit, but you couldn't climb back down again.
+~
+~
+0 -1 5596
+S
+#5599
+The end of the Gauntlet~
+   You can see the exit of the caves a short distance to the north.  It
+isn't far now.  The tunnels also go deeper into the caves to the south,
+but that fresh air that is blowing in is terribly refreshing.  A few runes
+are carved into the ground here, and they translate into a drow proverb.
+It says, "So you did it once.  Bet you'll die the second time..."
+~
+55 d 4
+D2
+You can wander back into the caves.
+~
+~
+0 -1 5598
+S
+$~
+

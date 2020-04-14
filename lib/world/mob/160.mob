@@ -1,0 +1,625 @@
+#16000
+guardian shadow~
+a shadow guardian~
+A shadow guardian screams a challenge and attacks.
+~
+It seems to be made of nothing more than darkness ...
+~
+10 4 100 1066 0 S
+29 6 -6 3d50+400
+407 500 100 3d6+6     -1
+-1
+-1
+0 90000 8 8 0
+#16001
+adventurer lost~
+a lost adventurer~
+An emaciated adventurer is here looking lost and hopeless.
+~
+He looks haggard and sickly; no doubt he's been lost here for quite 
+some time.
+~
+1 4 134 0 400 S
+15 13 -1 2d50+150
+400 500 100 3d4+2     -1
+-1
+-1
+500 8000 8 8 1
+A
+%%10 sigh~
+#16002
+dewey human~
+Dewey~
+Dewey the Human SpellStudent
+~
+Dewey says 'pardon me, have you seen a god on lately?'
+~
+1 4 148 0 400 S
+15 14 1 2d50+150
+400 500 100 3d4+2     -1
+-1
+-1
+500 8000 8 8 1
+A
+%%15 say pardon me, have you seen a god on lately?~
+#16003
+golem huge~
+the golem~
+A huge diamond golem is standing guard here.
+~
+It looks quite strong.
+~
+12 4 66 536872104 500 S
+35 2 -8 3d50+400
+401 500 100 3d8+8     -1
+-1
+-1
+0 150000 8 8 0
+#16004
+mage young~
+a mage~
+A young mage wanders about, oblivious to all.
+~
+He seems to be contemplating life, love and the mysteries of the universe.
+Then again, he may just have a headache.
+~
+1 1 196 40 450 S
+30 7 -4 6d50+250
+400 500 80 3d6+6
+5 0 5 1d0+75
+26 0 5 1d0+50
+37 0 5 1d0+75
+52 0 5 1d0+60     -1
+-1
+-1
+500 100000 8 8 1
+#16005
+midori bartender~
+Midori the bartender~
+Midori is here levitating drinks to his customers.
+~
+He looks rather harmless, but then again so does a sleeping dragon.
+~
+1 1 70 40 550 S
+40 3 -8 6d50+450
+400 500 70 3d8+8
+30 0 10 1d0+75
+52 0 10 1d0+85
+26 0 10 1d0+65     -1
+-1
+-1
+1500 200000 8 8 1
+A
+%%20 say Have you heard about the strange hole in the forest.;
+%20 say I have heard that the hole is the entrance way to Hell it self.~
+#16006
+willy slick~
+Slick Willy~
+Slick Willy the wizard is here counting his earnings.
+~
+Slick Willy smiles and shows you his pasty white thighs.
+~
+1 1 70 40 450 S
+45 -2 -13 6d50+450
+400 500 70 3d8+10
+26 0 10 1d0+85
+30 0 10 1d0+75
+52 0 10 1d0+95     -1
+-1
+-1
+6000 260000 8 8 1
+A
+%%15 smile~
+#16007
+emerald cook~
+Emerald~
+Emerald the cook is here stirring a large pot of something.
+~
+~
+1 4 66 0 300 S
+35 2 -8 4d50+400
+400 500 100 1d12+15     -1
+-1
+-1
+500 140000 8 8 1
+A
+%%20 say You have to wait for the dinner, as all others have to!~
+#16008
+assistant cook~
+The cook's assistant~
+The cook's assistant is here assisting the cook.
+~
+~
+1 4 194 0 250 S
+30 6 -5 3d50+300
+400 500 100 3d8+4     -1
+-1
+-1
+400 100000 8 8 2
+#16009
+prisoner~
+The prisoner~
+A prisoner is chained to the wall here.
+~
+Though his clothes are all in rags, you can see that at one time they must
+have been fine garments. A metal muzzle has been fitted over the poor
+wretch's mouth, whether to keep him from screaming, or to silence his spell
+casting you cannot tell.
+
+He looks quite mad, no doubt he's been mistreated horribly.
+~
+1 4 230 0 100 S
+10 16 6 2d50+100
+400 500 100 1d6+4     -1
+-1
+-1
+0 3000 8 8 1
+A
+%%15 say Please help me!, my father will reward you.~
+#16010
+jailor~
+the Jailor~
+The Jailor is here enjoying a comfortable nap.
+~
+He looks rather dirty.
+~
+1 4 66 8 100 S
+30 6 -6 3d50+350
+400 500 100 3d6+8     -1
+-1
+-1
+1000 100000 8 8 1
+A
+%%20 snore~
+#16011
+broom~
+a broom~
+A straw broom is here leaning against the wall.
+~
+The broom screams 'Take that you lout!'
+~
+11 4 102 8 50 S
+25 6 -5 3d50+250
+401 500 100 3d6+6     -1
+-1
+-1
+0 60000 8 8 0
+#16012
+hands pair~
+a pair of disembodied hands~
+A pair of disembodied hands floats in the air here.
+~
+The hands twitch with anticipation of strangling someone.
+~
+2 4 96 168 0 S
+25 6 -7 3d50+200
+407 500 100 3d6+6     -1
+-1
+-1
+0 75000 8 8 0
+#16013
+eyes pair~
+a pair of disembodied eyes~
+A pair of disembodied eyes floats here glaring at you.
+~
+The eyes smolder with hatred.
+~
+2 1 96 168 0 S
+25 6 -7 2d100+150
+400 500 80 3d6+4
+26 0 20 1d0+50     -1
+-1
+-1
+0 75000 8 8 0
+#16014
+mage visiting~
+the mage~
+A visiting mage is here snoring away in peaceful slumber.
+~
+He looks quite sleepy.
+~
+1 1 198 8 250 S
+32 5 -8 3d50+350
+400 500 80 3d6+6
+26 0 10 1d0+75
+30 0 10 1d0+75     -1
+-1
+-1
+2000 100000 4 8 1
+A
+%%20 snore~
+#16015
+apprentice mage young magic user~
+a young apprentice magic user~
+A young apprentice magic user is here doing magical studies.
+~
+She looks quite intent on her studies.
+~
+1 1 194 0 400 S
+25 8 -5 3d50+250
+400 500 80 3d6+4
+48 0 10 1d0+60
+30 0 10 1d0+50     -1
+-1
+-1
+500 60000 8 8 2
+#16016
+apprentice mage young~
+a young apprentice~
+A young apprentice is here mumbling words of magic to himself.
+~
+He looks to be oblivious to all but the spell he is memorizing.
+~
+1 1 194 0 380 S
+25 8 -6 3d50+250
+400 500 80 3d6+4
+48 0 10 1d0+60
+30 0 10 1d0+50     -1
+-1
+-1
+500 60000 8 8 1
+#16017
+apprentice mage young~
+a young apprentice~
+A young apprentice is sleeping here.
+~
+He seems to be dreaming.
+~
+1 1 194 0 380 S
+25 8 -6 3d50+250
+400 500 80 3d6+4
+48 0 10 1d0+60
+30 0 10 1d0+50     -1
+-1
+-1
+500 60000 4 8 1
+#16018
+apprentice mage young~
+A young apprentice~
+A young apprentice is here teasing a cornered kitten.
+~
+He looks like a mischievous youth.
+~
+1 1 194 0 380 S
+25 8 -6 3d50+250
+400 500 80 3d6+4
+48 0 10 1d0+60
+30 0 10 1d0+50     -1
+-1
+-1
+500 60000 8 8 1
+#16019
+kitten small~
+a small kitten~
+A small kitten is here meowing in terror.
+~
+The little ball of fur looks very unhappy.  Singed fur and a few minor burn
+mark its mottled coat.
+~
+3 1 194 0 350 S
+3 19 5 2d20+40
+408 500 100 1d6+1     -1
+-1
+-1
+0 800 8 8 0
+#16020
+student~
+a student~
+A student of spells is here looking quite bored.
+~
+The student yawns.
+~
+1 1 194 0 350 S
+30 6 -7 3d50+350
+400 500 70 3d6+6
+48 0 10 1d0+75
+30 0 10 1d0+65
+39 0 10 2d0+75     -1
+-1
+-1
+750 100000 8 8 1
+#16021
+instructor~
+an instructor of magic~
+The instructor screams at your interruption and attacks you.
+~
+He looks quite angry at your interruption.
+~
+1 1 98 8 300 S
+40 2 -15 4d50+500
+400 500 60 3d8+8
+48 0 10 1d0+85
+30 0 10 1d0+75
+77 0 10 1d0+75
+52 0 10 1d0+95     -1
+-1
+-1
+1000 200000 8 8 1
+#16022
+student~
+a student of spells~
+A student of spells is here trying to master invisibility.
+~
+He blinks in and out of existence, trying to master the spell.
+~
+1 1 194 10 350 S
+30 6 -7 3d50+350
+400 500 70 3d6+6
+48 0 10 1d0+75
+30 0 10 1d0+65
+39 0 10 2d0+75     -1
+-1
+-1
+750 100000 8 8 1
+#16023
+teacher~
+a spell teacher~
+A spell teacher screams at your interruption and attacks.
+~
+~
+1 1 98 8 300 S
+40 2 -15 4d50+500
+400 500 60 3d8+8
+48 0 10 1d0+85
+30 0 10 1d0+75
+77 0 10 1d0+75
+52 0 10 1d0+95     -1
+-1
+-1
+1000 200000 8 8 1
+#16024
+student~
+a student of spells~
+A student of spells has fallen asleep at her desk here.
+~
+She looks to have collapsed from sheer boredom.
+~
+1 1 194 10 350 S
+30 6 -7 3d50+350
+400 500 70 3d6+6
+48 0 10 1d0+75
+30 0 10 1d0+65
+39 0 10 2d0+75     -1
+-1
+-1
+750 100000 8 8 1
+#16025
+wizard old~
+a wizard~
+An old wizard is here making a speech
+~
+~
+1 1 194 8 400 S
+50 -2 -14 2d100+550
+400 500 70 3d8+15
+77 0 10 1d0+75
+72 0 10 1d0+75
+30 0 10 1d0+95    -1
+-1
+-1
+5000 300000 8 8 1
+A
+%%20 say The key to be a succesful mage is wisdom.;
+%20 say Times change quickly and you need to be prepared.~
+#16026
+mage young~
+a young mage~
+A young mage is here learning hand to hand combat.
+~
+~
+1 1 194 8 300 S
+30 6 -6 3d50+300
+400 500 90 3d8+6
+30 0 10 1d0+75    -1
+-1
+-1
+500 100000 8 8 1
+#16027
+mistress battle~
+the battle mistress~
+The battle mistress is here teaching the fine uses of a dagger.
+~
+She looks quite rugged. In fact, she more resembles a warrior than a magic
+user.
+~
+1 1 98 8 200 S
+50 0 -15 2d100+500
+400 500 100 3d8+20    -1
+-1
+-1
+3000 300000 8 8 2
+A
+%%20 say Try to fight like MEN, ok again.~
+#16028
+teacher~
+a spell teacher~
+A spell teacher is here relaxing.
+~
+~
+1 1 98 8 300 S
+40 2 -15 4d50+500
+400 500 60 3d8+8
+48 0 10 1d0+85
+30 0 10 1d0+75
+77 0 10 1d0+75
+52 0 10 1d0+95     -1
+-1
+-1
+1000 200000 8 8 1
+#16029
+wizard aged~
+an aged wizard~
+An aged wizard is sleeping here.
+~
+~
+1 1 226 8 350 S
+50 -3 -13 3d100+500
+400 500 70 3d8+16 
+77 0 10 1d0+75
+72 0 10 1d0+75
+30 0 10 1d0+95    -1
+-1
+-1
+3000 300000 4 8 1
+A
+%%20 snore~
+#16030
+scribe~
+a scribe~
+A scribe is here working on some manuscripts.
+~
+~
+1 4 198 8 400 S
+40 3 -8 2d100+400
+400 500 70 3d8+10
+30 0 10 1d0+75
+48 0 10 1d0+85
+77 0 10 1d0+75  -1
+-1
+-1
+1000 200000 8 8 1
+#16031
+scribe~
+a scribe~
+A scribe is here working diligently on some translations.
+~
+She's quite cute.  Too bad her only interest seems to be the words of
+lore she is translating.
+~
+1 1 198 8 400 S
+40 3 -8 2d100+400
+400 500 70 3d8+10
+30 0 10 1d0+75
+48 0 10 1d0+85
+77 0 10 1d0+75  -1
+-1
+-1
+1000 200000 8 8 2
+A
+%%20 say Artsre is Talon?;
+%20 think~
+#16032
+master scribe~
+the master scribe~
+The master scribe is here looking a little upset.
+~
+He seems to be so old, his skin has become nothing but a giant wrinkle.
+The master scribe screams 'How dare you interrupt my important work???'
+~
+1 1 100 8 100 S
+50 0 -13 4d100+500
+400 500 70 3d8+10
+30 0 10 1d0+95
+48 0 10 1d0+95
+77 0 10 1d0+95  -1
+-1
+-1
+4000 350000 8 8 1
+#16033
+assistant scribe~
+the scribe's assistant~
+The scribe's assistant is here folding parchments.
+~
+~
+1 1 194 8 100 S
+35 4 -8 1d100+350
+400 500 70 3d8+6
+30 0 10 1d0+65
+48 0 10 1d0+75
+77 0 10 1d0+65  -1
+-1
+-1
+500 150000 8 8 1
+#16034
+enchanter~
+the Enchanter~
+The Enchanter is here placing a dweomer upon well made sword.
+~
+~
+1 1 98 8 300 S
+60 -7 -17 2d100+900
+400 500 70 3d10+20
+77 0 10 1d0+85
+88 0 10 1d0+85
+30 0 10 1d0+95 -1
+-1
+-1
+5000 500000 8 8 1
+#16035
+sword~
+a dancing sword~
+A well crafted sword lies on the work table here.
+~
+It looks quite sharp.
+~
+2 4 98 128 0 S
+40 2 -11 1d100+300
+403 500 100 3d10+10 -1
+-1
+-1
+0 200000 8 8 0
+#16036
+alchemist mad~
+the Mad Alchemist~
+The Mad Alchemist babbles something incomprehensible and attacks.
+~
+He looks like he's been quaffing too many potions. His eyes dart around
+wildly, and he starts to drool.
+
+The Mad Alchemist throws back his head and cackles with insane glee!
+~
+1 1 102 8 150 S
+60 -6 -19 2d100+800
+400 500 70 3d10+20
+77 0 10 1d0+85
+88 0 10 1d0+85
+30 0 10 1d0+95 -1
+-1
+-1
+10000 500000 8 8 1
+#16037
+summoner master~
+the master summoner~
+The master summoner is here holding gateways open to other planes.
+~
+~
+1 1 2226 8 200 S
+60 -6 -18 2d100+800
+400 500 70 3d10+20
+30 0 10 1d0+95
+77 0 10 1d0+75
+88 0 10 1d0+75 -1
+-1
+-1
+5000 500000 8 8 1
+#16038
+charmer master~
+the master charmer~
+The master charmer utters the words, 'enimerauoy'.
+~
+The master charmer sizes you up, always looking for a new pet.
+~
+9 1 34 8 -400 S
+60 -6 -18 2d100+800
+400 500 70 3d10+20
+88 0 10 1d0+75
+77 0 10 1d0+75
+30 0 10 1d0+95 -1
+-1
+-1
+5000 500000 8 8 1
+#16039
+golem~
+a wooden golem~
+A wooden golem stands a silent vigil here, guarding the stairs.
+~
+He looks flammable.
+~
+12 4 98 536871048 100 S
+35 2 -10 1d100+400
+401 500 100 3d8+6 -1
+-1
+-1
+0 150000 8 8 0
+#99999
+$~

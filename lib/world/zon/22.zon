@@ -1,0 +1,177 @@
+#22
+Draconians~
+2299 100 1
+*
+D 0 2204 3 1  Close oak door to corridor
+D 0 2206 1 1
+*
+D 0 2204 1 1  Close door to nursery
+D 0 2205 3 1 
+*
+D 0 2205 1 2  lock stone door
+D 0 2223 3 2 
+*
+D 0 2206 5 1  Close trapdoor at storageroom
+D 0 2208 4 1         
+*
+D 0 2208 2 2  Lock door at hydra : key = grey
+D 0 2209 0 2 
+*
+O 1 2243 5 2209   Put Golden wand in treasury
+O 1 2244 5 2209   Put Silver staff in treasury
+O 1 7210 10 2209   Put money in treasury
+*
+D 0 2209 3 2
+D 0 2218 1 2  lock ruby door at treasury : key = ruby
+*
+D 0 2232 1 1  close coffin
+D 0 2222 3 1 
+*
+D 0 2202 5 2 lock trapdoor from foyer
+D 0 2236 4 1 close trapdoor from tunnel
+*
+D 0 2243 0 2 lock door to Tiamat
+D 0 2231 2 2 
+*
+D 0 2211 1 1 close door to concubines
+D 0 2212 3 1
+*
+D 0 2213 1 2 lock black door
+D 0 2214 3 2 
+*
+D 0 2213 3 2 lock white door
+D 0 2215 1 2 
+*
+D 0 2229 1 2 lock door to ancient
+D 0 2230 3 2 
+*
+D 0 2226 5 1 close trapdoor at red dragon
+D 0 2227 4 1 
+*
+D 0 2201 0 2 close stell gate
+D 0 2202 2 2 
+*
+M 0 2200 10 2201       Dragon Hatchling      
+G 1 2231 5               Give steel key
+M 0 2200 10 2239       Dragon Hatchling      
+M 0 2200 10 2241              *
+M 0 2200 10 2202              *
+M 0 2200 10 2203              *
+M 0 2200 10 2203              *
+M 0 2200 10 2205              *
+M 0 2200 10 2205              *
+M 0 2200 10 2205              *             
+M 0 2200 10 2207              *  
+M 0 2200 10 2206              *
+*
+M 0 2201 8 2203     load draconian    
+E 1 2200 20 16       wield jagged spear
+M 0 2201 8 2204             *
+E 1 2200 20 16              *
+M 0 2201 8 2204             *
+E 1 2200 20 16              *
+M 0 2201 8 2204             *
+E 1 2200 20 16              *
+M 0 2201 8 2210             *
+E 1 2200 20 16              *
+*
+M 0 2227 3 2207    human slave           
+M 0 2227 3 2217
+M 0 2227 3 2217
+*
+M 0 2226 1 2208    Hydra 
+E 1 2234 5 17      load grey key
+*
+M 0 2207 6 2210    Draconian Bodyguard
+E 1 2286 20 16        equip with copper hammer
+M 0 2207 6 2211            *
+E 1 2286 20 16              *
+M 0 2207 6 2211            *
+E 1 2260 20 16         equip golden scimitar
+M 0 2207 6 2216
+E 1 2260 20 16
+M 0 2207 6 2216
+E 1 2286 20 16
+M 0 2207 6 2216
+E 1 2286 20 16
+*
+M 0 2206 5 2212              concubine       
+E 1 2201 20 16             silver dagger
+M 0 2206 5 2212                   *
+G 1 2233 5                give white key
+E 1 2201 10 16                    *
+M 0 2206 5 2212                   *
+G 1 2240 5                give black key
+E 1 2201 10 16                    *
+M 0 2206 5 2212                   *
+E 1 2201 10 16                    *
+*
+M 0 2203 1 2214             The mage
+E 1 2261 7 3                  Diamond Brooch
+E 1 2223 7 12                    Stone Club
+E 1 2250 7 17                     Black staff 
+E 1 2230 7 1                    copper ring
+G 1 2251 7 
+*
+M 0 2242 3 2210         Draconian Fool
+M 0 2242 3 2216
+M 0 2242 3 2216
+*
+M 0 2204 1 2215              The Cleric        
+E 1 2237 5 17                 Give him stone key 
+E 1 2220 7 3                     holy symbol
+E 1 2211 7 14                       platinum bracelet
+E 1 2210 7 13                        white silk belt
+G 1 2270 5                              runed scroll
+G 1 2252 5                            Magneta potion
+*
+M 0 2205 1 2216               The king
+G 1 2232 4                      ruby key
+E 1 2222 7 16                   emerald sword  
+E 1 2276 7 12                   fur cloak
+E 1 2242 7 11                   crested shield    
+E 1 2254 7 9                    spiked gauntlets
+*
+M 0 2243 1 2217               The queen
+E 1 2204 7 13                   black silk belt                 
+E 1 2201 7 16                   silver dagger
+*
+M 0 2241 1 2217               Phase dragon
+*
+M 0 2240 8 2218              Draconian zombie
+M 0 2240 8 2218
+M 0 2240 8 2219
+M 0 2240 8 2219
+M 0 2240 8 2232
+M 0 2240 8 2233
+M 0 2240 8 2234
+M 0 2240 8 2236
+*
+M 0 2223 1 2220         Load White dragon
+E 1 2203 7 15             equip with dragon bracelet
+E 1 2246 7 5              equip with dragon scale
+*
+M 0 2222 1 2221         Black Dragon  
+E 1 2280 7 7               dragon scale leggings
+*
+M 0 2202 1 2222          The dragon master
+E 1 2202 7 16              dragon's tooth dagger 
+E 1 2281 7 10              dragon sleeves
+E 1 2271 7 9               dragon gloves 
+*
+M 0 2221 1 2226          The red dragon
+G 1 2299 5                  Give him the golden key.
+E 1 2275 5 6                  helm of dragon kind
+E 1 2245 5 17                   dragon staff
+*
+M 0 2225 1 2230             The ancient green dragon
+G 1 2241 5 
+G 1 2285 5 
+E 1 2261 5 3
+*
+M 0 2220 1 2231   load Tiamat
+E 1 2221 5 17
+E 1 2224 5 1
+S
+#99999
+$~

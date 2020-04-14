@@ -1,0 +1,575 @@
+#18200
+key garrion garrion's sdzone~
+a plain key~
+A simple key with a few teeth lies here.~
+~
+18 0 0 0 a
+2 0 0 0 0 200
+1 1 1
+#18201
+ring dragon drake~
+a Drakes ring~
+An ornate ring in the shape of a dragon biting its tail.~
+~
+9 110 0 g ab
+0 0 0 0 0 0
+1 1 1
+A
+24 50
+#18202
+ring grand drake sdzone~
+a Grand Drakes ring~
+A ring in the shape of a dragon biting its tail.~
+~
+9 110 0 g ab
+0 0 0 0 0 0
+1 1 1
+A
+24 70
+#18203
+ring great drake sdzone~
+a great drakes ring~
+An ornate ring in the shape of a dragon biting its tail.~
+~
+9 110 0 g ab
+0 0 0 0 0 0
+1 1 1
+A
+24 80
+#18204
+ring high drake sdzone~
+a High Drakes ring~
+An ornate ring in the shape of a dragon biting its tail.~
+~
+9 110 0 g ab
+0 0 0 0 0 0
+1 1 1
+A
+24 85
+#18205
+twig flaming sdzone~
+a flaming twig~
+A long twig burns brightly on the floor.~
+whip~
+5 1 0 agu ano
+1 1 1 2 0 0
+8 100 1
+#18206
+rope climbing sdzone~
+A climbing rope~
+a neatly coiled climbing rope is lying on the floor.~
+~
+9 25 0 0 al
+8 25 0 0 0 0
+8 50 1
+#18207
+boots climbing sdzone~
+a pair of climbing boots~
+A well-used but well cared-for pair of leather climbing boots, complete with crampons, are sitting here.~
+~
+9 25 0 0 ag
+8 25 0 0 0 0
+10 500 1
+A
+18 1
+A
+14 25
+#18208
+bag kitbag scruffy sdzone~
+a scruffy kitbag~
+A scruffy kitbag with a leather shoulder strap has been dumped on the floor here.~
+~
+15 0 0 0 ak
+100 1 -1 0 0 0
+5 25 1
+#18209
+rations iron food sdzone~
+some iron rations~
+Some strips of a brown, 'barely edible', food-stuff are collecting dirt on the floor here.~
+~
+19 0 0 0 a
+12 0 0 0 0 0
+1 10 1
+#18210
+armour armor leather sdzone~
+leather armour~
+A set of leather body armour has been left in a heap.~
+~
+9 30 0 0 ad
+8 30 0 0 0 0
+30 50 1
+#18211
+sword short sdzone~
+a short sword~
+A rather amateurish attempt at a short sword lies by your feet.~
+slash~
+5 30 0 0 ano
+30 4 5 3 0 0
+10 400 25
+A
+18 2
+A
+19 2
+#18212
+shield sdzone~
+a shiny shield~
+The highly polished shield of a knight is starting to gather dust.~
+~
+9 40 0 0 aj
+10 40 0 0 0 0
+15 250 1
+#18213
+sword gleaming sdzone~
+a gleaming sword~
+The gleaming sword of a knight is trying to avoid the dirt.~
+slash~
+5 40 0 0 ano
+40 5 6 3 0 0
+12 500 50
+A
+18 4
+A
+19 4
+#18214
+chainmail mail burnished sdzone~
+burnished chainmail~
+A set of burnished chainmail has been left to rust here.~
+~
+9 40 0 0 ad
+15 40 0 0 0 0
+50 500 50
+#18215
+shield champion champion's sdzone~
+The Shield~
+The King's Champion's Shield dazzles you!~
+~
+9 60 abcefgijkmos agko aj
+10 60 0 0 0 0
+15 1000 100
+A
+13 40
+#18216
+chainmail silvery mail sdzone~
+a silvery chainmail~
+A large set of silvery chainmail has been piled up here.~
+~
+9 60 abcegijkmos agko ad
+25 60 0 0 0 0
+75 1000 100
+#18217
+sword gleaming sdzone~
+a gleaming sword~
+The Champion's Gleaming Sword, twists with a life of its own, trying to avoid the dirt here.~
+slash~
+5 60 abcegijkmos agko ano
+60 6 9 3 0 0
+12 1000 100
+A
+18 5
+A
+19 5
+#18218
+firestone sdzone stone~
+a red glowing stone~
+A red stone, blazing with an internal fire, casts a malevolent red glow.~
+~
+3 65 0 agjo ao
+75 3 3 26 0 0
+2 1000 100
+A
+20 20
+#18219
+leggings salamander sdzone~
+the Salamander's leggings~
+A strange orange coloured material in the form of a long skirt that tapers rapidly as the feet are reached has been left here.~
+~
+9 65 0 0 af
+10 65 0 0 0 0
+20 500 50
+A
+20 10
+A
+14 -50
+#18220
+pot chamberpot helmet sdzone~
+a chamber pot~
+A chamber pot has been abandoned here. It looks unused!~
+~
+9 80 0 0 ae
+18 80 0 0 0 0
+10 1000 100
+#18221
+post scratching sdzone~
+a scratching post~
+A post with large green scales glued to it has been left here.~
+~
+9 1 0 0 a
+0 1 0 0 0 0
+50 5000 5000
+E
+scales scale~
+If you could get the scales off you could make some awesome armour!
+~
+#18222
+sword demandred demandred's sdzone~
+A Huge sword~
+A huge sword has been left, without a scabbard, on the ground.~
+slash~
+5 95 bfj ak ano
+95 6 10 3 0 0
+15 2000 200
+E
+huge sword demandred~
+The single word 'Demandred' is written is large golden lettering
+along the blade of this sword.
+~
+A
+18 6
+A
+19 15
+#18223
+gauntlets golden demandred demandred's sdzone~
+A pair of golden gauntlets~
+An amazingly intricate and strong pair gauntlets have been left 
+unattended here.~
+~
+9 95 bfj ak ah
+8 95 0 0 0 0
+5 2000 200
+E
+golden gauntlets demandred~
+A small tag sewn into the textile inner of each gauntlet says simply,
+'Demandred'.
+~
+A
+18 4
+A
+19 4
+#18224
+armour armor battlearmour demandred's sdzone~
+A set of battlearmour~
+Someone has, rather carelessly, left his battlearmour here.~
+~
+9 95 bfg ak ad
+45 95 0 0 0 0
+100 5000 500
+E
+armour armor battlearmour demandred radiant~
+As you heft this armour you notice an inscription on the the breast.
+'Per Ardua Ad Draconis'
+~
+A
+13 75
+#18225
+eye dragon mithembra's sdzone~
+a dragons' eye~
+A large jewel made into a glowing eye casts shadows all around.~
+~
+1 25 0 agk ao
+0 0 200 0 0 0
+1 1000 100
+B C
+#18226
+cloak velvet black mithembra's sdzone~
+A sumptuous black velvet cloak~
+A beautiful black velvet cloak has been thrown onto the ground.~
+~
+9 50 0 gk ak
+12 50 0 0 0 0
+15 1000 50
+E
+cloak velvet sumptuous mithembra~
+'Mithembra' has been neatly stitched in white cotton into the
+inside of this truly beatiful cloak.
+~
+A
+13 40
+B d
+#18227
+dagger wicked mithembra's sdzone~
+a wicked looking dagger~
+A wickedly sharp dagger is half hidden on the ground.~
+pierce~
+5 90 0 0 ano
+90 7 8 11 0 0
+5 1000 100
+A
+18 8
+A
+19 8
+#18228
+glow diffuse light kamthra's sdzone~
+a diffuse glow~
+A strange diffuse glowing light is coming from somewhere around here.~
+~
+1 100 0 agk ao
+0 0 -1 0 0 0
+1 2500 250
+A
+12 75
+#18229
+staff golden glowing kamthra's sdzone~
+a golden staff~
+A low level pulsating golden glow comes from a long oaken staff.~
+crush~
+5 100 0 agk ano
+100 6 10 6 0 0
+12 5000 500
+A
+18 8
+A
+19 8
+A
+12 100
+#18230
+gloves supple white kamthra sdzone~
+A pair of white gloves~
+A supple pair of lightweight white gloves are hovering just above the ground here.~
+~
+9 100 0 agk ah
+10 100 0 0 0 0
+2 1000 100
+E
+gloves white supple kamthra~
+'Kamthra' is written in fine black lettering on these white, flexible,
+gloves.
+~
+A
+2 2
+A
+14 100
+#18231
+armband metallic armbands hercules sdzone~
+a pair of metallic armbands~
+A sturdy pair of armbands with some spikes down their sides have been left here.~
+~
+9 100 0 agk ai
+10 100 0 0 0 0
+20 1000 100
+E
+armband armbands metallic hercules~
+A fine strand of metal has been twisted to spell the word 'Hercules'
+and soldered around the edge of these heavy metallic bands.
+~
+A
+19 2
+A
+24 5
+#18232
+chains hercules chain iron heavy sdzone~
+some heavy iron chain~
+A short length of a heavy iron chain is slowly rusting on the ground.~
+pound~
+5 95 0 agk ano
+95 7 10 7 0 0
+20 1000 100
+A
+18 4
+A
+19 2
+A
+24 5
+#18233
+tooth dragon dragon's hercules sdzone~
+a long tooth~
+The long and very sharp canine tooth of a dragon lies here.~
+pierce~
+5 95 0 agk ano
+95 10 5 11 0 0
+8 1000 100
+A
+18 8
+A
+19 10
+A
+24 2
+#18234
+eye hercules sdzone~
+an eye~
+What appears to be an eye levitates before you, turning this way and that way, looking for something.~
+~
+1 95 0 agk ao
+0 0 200 0 0 0
+1 1000 100
+A
+24 5
+#18235
+ring invisibility gomorra's sdzone~
+A simple ring~
+A simple band of beaten gold has been fashioned into a ring.~
+~
+9 90 0 ag ab
+20 90 0 0 0 0
+1 1000 100
+E
+ring band invisibility gold gomorra~
+An inscription inside the ring reads, 'This ring belons to Gomorra'.
+^~
+B b
+#18236
+dragons staff sdzone~
+an oaken staff~
+An ancient looking oaken staff. It seems very powerful, you had better be careful where you point it.~
+~
+4 100 bcdfghjklnops gj ao
+109 7 7 103 0 0
+12 5000 500
+A
+18 7
+A
+19 7
+A
+24 5
+#18237
+dagger deadly zharradan's sdzone~
+A Black and Deadly Dagger~
+A Black and Deadly Dagger, still dripping blood, lies here.~
+pierce~
+5 95 abdefghijlmnop cgj ano
+95 6 8 11 0 0
+10 5000 500
+E
+dagger deadly black~
+As you study this dagger a palpable feeling of dread fills you. A name
+appears in your mind, Zharradan.......
+~
+A
+18 8
+A
+19 10
+#18238
+gauntlets bloodstained light mithril sdzone~
+a pair of light mithril gauntlets~
+A pair of mithril gauntlets are oozing blood onto the floor here.~
+~
+9 95 abcdefghijlmnop cgj ah
+10 95 0 0 0 0
+15 2000 200
+E
+gauntlets light mithril zharradan~
+Crawling red lines shift infront of you, spelling out the name of
+the gauntlets' owner, 'Zharradan, High Drake of the Storm Dragons'.
+~
+A
+19 5
+A
+13 50
+#18239
+key golden demandred's sdzone~
+a golden key~
+A small golden key, stamped with the image of a dragon, lies here.~
+~
+18 0 0 0 a
+2 0 0 0 0 200
+1 1 1
+#18240
+key red zharradan's sdzone~
+a blood red key~
+A blood red key, stamped with the image of a dragon, lies here.~
+~
+18 0 0 0 a
+2 0 0 0 0 200
+1 1 1
+#18241
+horn silvery garrion garrions sdzone~
+A silvery horn~
+A silvery horn of unusual contruction has been lovingly placed here.~
+~
+4 30 0 g ao
+50 20 20 23 0 0
+8 2000 0
+E
+horn garrion garrion's silvery~
+A maze of twisted tubes flares to a large bell. Stamped on the bell in small
+letters is the name, 'Garrion'. Youput it to your lips. The sound it produces 
+is shattering!
+~
+#18242
+lance garrion garrion's sdzone~
+A knights' lance~
+A large lance has been dropped here~
+pierce~
+5 90 abcegijm gk ano
+90 6 8 11 0 0
+16 2000 0
+E
+lance garrion garrion's~
+A huge lance once belonging to a now deceased knight has been pressed into
+service under a new owner. It's unblemished surface gleams in the light. At
+the hilt a small inscription reads, 'Dragon Seeker'. Next to it in glowing
+letters the legend 'Garrion, Knight Slayer' has been added.
+~
+A
+18 7
+A
+19 10
+#18243
+shield multicolored multicoloured lagg lagg's sdzone~
+A multicoloured shield~
+A huge shield with a swirling riot of colours dancing across its surface
+has been dropped here.~
+~
+9 50 0 ag aj
+12 50 0 0 0 0
+16 2000 0
+E
+shield lagg colour colours color colors~
+You find it hard to focus on the shield as it ripples and dances with a
+swirl of patterns and colours. You eyes start to hurt! A quick peek at 
+the back tells you the owner id called Lagg.
+~
+A
+20 5
+A
+21 5
+A
+22 5
+A
+23 5
+#18244
+bandana headband skar skar's sdzone~
+A plain bandana~
+An innocuous strip of cloth flutters in the breeze.~
+~
+9 90 abcd bg ae
+25 90 0 0 0 0
+2 1000 0
+E
+bandana skar plain~
+Sewn into the bandana is a name tag which reads, 'Skar'
+~
+B kC
+#18245
+sign sdzone~
+A Large Sign~
+A Large Sign with big crude letters scrawled on it has been hammered
+into the ground here.~
+~
+16 0 0 0 0
+1 0 0 0 0 0
+100000 0 0
+E
+sign writing~
+Thar Be Dragons... --->
+~
+#18246
+torc dragon sdzone~
+An intricate torc~
+A gleaming torc fashioned in the shape of a dragon lies here.~
+~
+11 90 0 0 ac
+90 0 0 0 0 0
+5 1500 250
+E
+torc dragon~
+A lump of metal has been lovingly teased and pulled with great skill
+and craftmanship to make this marvelous torc. The fine strands paint
+a picture of a long and thin dragon with the head and tail side by
+side at the front. The eyes gleam with a dull red glow.
+~
+A
+17 -6
+A
+24 20
+#99999
+$~

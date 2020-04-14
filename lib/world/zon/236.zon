@@ -1,0 +1,212 @@
+#236
+Troll Caves~
+23691 120 2
+*
+* Troll caves are a level 60(group)-80+(solo) zone with some
+*   initial puzzles with doors to solve.  It includes a baby
+*   maze, a pair of keys needed and a secret door or 2. This
+*   area is designed to fill a need for alignment  balancing 
+*   and tough mob for those levels around the 70-90th level.
+*   Written by DT Baur for EliteMud and GreyMud.
+* 
+* O <if> <object to load> <room to load it>
+* G <if> <object to load> <Max number in game> - loads on last mob's inv
+* E <if> <obj to load> <max in game> <Eq position on last mob>
+* P <if> <obj to load> <Max in game> <container VNUM>
+*
+* Load the Initial guard areas
+M 0 23605 20 23604      ** First Guard post
+E 1 23608 50 13
+M 0 23605 20 23604
+E 1 23608 50 13
+M 0 23605 20 23607      ** NW Cut Corridor
+E 1 23608 50 13
+M 0 23605 20 23608
+E 1 23608 50 13
+M 0 23605 20 23609
+E 1 23608 50 13
+M 0 23605 20 23612
+E 1 23608 50 13
+M 0 23605 20 23628      ** Long Middle Cut corridor
+E 1 23608 50 13
+M 0 23605 20 23629
+E 1 23608 50 13
+M 0 23605 20 23630
+E 1 23608 50 13
+M 0 23605 20 23632
+E 1 23608 50 13
+M 0 23605 20 23636
+E 1 23608 50 13
+* Load Ogre room
+M 0 23609 7 23621    ** SW corner
+M 0 23609 7 23621
+M 0 23609 7 23621
+M 0 23610 12 23621
+M 0 23610 12 23621
+M 0 23610 12 23621
+M 0 23608 3 23622    ** SE corner
+M 0 23609 7 23622
+M 0 23609 7 23622
+M 0 23610 12 23622
+M 0 23610 12 23622
+M 0 23610 12 23622
+M 0 23607 1 23623    ** NE corner
+M 0 23609 7 23623
+M 0 23610 12 23623
+M 0 23610 12 23623
+M 0 23610 12 23623
+M 0 23608 3 23624    ** NW corner
+M 0 23608 3 23624
+M 0 23609 7 23624
+M 0 23610 12 23624
+M 0 23610 12 23624
+M 0 23610 12 23624
+* Load trollup Room
+M 0 23606 13 23632 ** NW corner
+E 1 23608 50 13       Load in their clothes
+M 0 23606 13 23632   
+E 1 23608 50 13       Load in their clothes
+M 0 23611 25 23632   
+M 0 23611 25 23632 
+M 0 23611 25 23632 
+M 0 23606 13 23633 ** SW corner
+E 1 23608 50 13       Load in their clothes
+M 0 23606 13 23633   
+E 1 23608 50 13       Load in their clothes
+M 0 23611 25 23633   
+M 0 23611 25 23633 
+M 0 23611 25 23633 
+M 0 23606 13 23634 ** SE corner
+E 1 23608 50 13       Load in their clothes
+M 0 23606 13 23634   
+E 1 23608 50 13       Load in their clothes
+M 0 23611 25 23634   
+M 0 23611 25 23634 
+M 0 23611 25 23634 
+M 0 23606 13 23635  ** NE corner
+M 0 23606 13 23635   
+E 1 23608 50 13       Load in their clothes
+M 0 23606 13 23635   
+E 1 23608 50 13       Load in their clothes
+M 0 23611 25 23635   
+M 0 23611 25 23635 
+M 0 23611 25 23635 
+* Load throne room
+M 0 23601 1 23650  ** King (Unique)
+E 1 23601 5 17        Give key to King
+E 1 23605 5 0         Give Reboot only belt to king
+E 1 23608 50 13       Load in his clothes
+M 0 23604 18 23642 ** Guards in Throne room
+E 1 23608 50 13       Load in their clothes
+E 1 23607 30 11       Give the guard a shield
+E 1 23606 30 16       Give the guard a weapon
+M 0 23604 18 23645 
+E 1 23608 50 13       Load in their clothes
+E 1 23607 30 11       Give the guard a shield
+E 1 23606 30 16       Give the guard a weapon
+M 0 23604 18 23644   
+E 1 23608 50 13       Load in their clothes
+E 1 23607 30 11       Give the guard a shield
+E 1 23606 30 16       Give the guard a weapon
+M 0 23605 20 23643 ** Load in normal trolls
+E 1 23608 50 13       Load in their clothes
+M 0 23605 20 23643   
+E 1 23608 50 13       Load in their clothes
+M 0 23605 20 23646   
+E 1 23608 50 13       Load in their clothes
+M 0 23605 20 23646   
+E 1 23608 50 13       Load in their clothes
+M 0 23605 20 23641   
+E 1 23608 50 13       Load in their clothes
+M 0 23604 18 23640 ** Guards outside Throne room
+E 1 23608 50 13       Load in their clothes
+M 0 23604 18 23640   
+E 1 23608 50 13       Load in their clothes
+M 0 23604 18 23640   
+E 1 23608 50 13       Load in their clothes
+M 0 23604 18 23638 ** Guards in room
+E 1 23608 50 13       Load in their clothes
+M 0 23604 18 23638   
+E 1 23608 50 13       Load in their clothes
+* Load Guard Barracks
+M 0 23604 18 23614 ** Guard
+E 1 23608 50 13       Load in their clothes
+M 0 23604 18 23615 ** Guard
+E 1 23608 50 13       Load in their clothes
+E 1 23607 30 11       Give the guard a shield
+M 0 23602 25 23650 ** Captain of the guards (Unique)
+G 1 23602 5           Give key to captain
+E 1 23608 50 13       Load in his clothes
+M 0 23604 18 23650 ** Guards by door
+E 1 23608 50 13       Load in their clothes
+E 1 23606 30 16       Give the guard a weapon
+M 0 23604 18 23650
+E 1 23608 50 13       Load in their clothes
+E 1 23607 30 11       Give the guard a shield
+* Load maze area
+M 0 23611 25 23670 ** Snotling Trolls playing in the maze
+M 0 23611 25 23671
+M 0 23611 25 23672
+M 0 23611 25 23673
+M 0 23611 25 23674
+M 0 23611 25 23675
+M 0 23611 25 23676
+M 0 23611 25 23677
+M 0 23611 25 23678
+M 0 23611 25 23679
+M 0 23611 25 23680
+M 0 23611 25 23681
+* Load King's residential area
+M 0 23603 1 23685  **  Queen and Retinue
+E 1 23608 50 13
+M 0 23606 13 23685
+E 1 23608 50 13
+M 0 23606 13 23685
+E 1 23608 50 13
+M 0 23606 13 23685
+E 1 23608 50 13
+M 0 23606 13 23685
+E 1 23608 50 13
+* Load Lower guards
+M 0 23604 18 23650 ** Guards in front of the treasure room
+E 1 23608 50 13       Load in their clothes
+E 1 23607 30 11       Give the guard a shield
+E 1 23606 30 16       Give the guard a weapon
+M 0 23604 18 23650
+E 1 23608 50 13       Load in their clothes
+E 1 23607 30 11       Give the guard a shield
+E 1 23606 30 16       Give the guard a weapon
+M 0 23604 18 23658 ** Guards in the storage room
+E 1 23608 50 13       Load in their clothes
+E 1 23607 30 11       Give the guard a shield
+M 0 23604 18 23660
+E 1 23608 50 13       Load in their clothes
+E 1 23606 30 16       Give the guard a weapon
+M 0 23604 18 23661 ** Guards in SW Cut Corridor
+E 1 23608 50 13       Load in their clothes
+E 1 23606 30 16       Give the guard a weapon
+M 0 23604 18 23669
+E 1 23608 50 13       Load in their clothes
+E 1 23607 30 11       Give the guard a shield
+M 0 23605 20 23662  ** Male trolls in SW Cut Corridor
+M 0 23605 20 23667
+M 0 23605 20 23668
+* Load Treasure Rooms
+* Doors
+D 0 23650 3 2        ** treasury room entrance (closed and locked)
+D 0 23651 1 2
+D 0 23654 2 2        ** treasury room vault (closed and locked)
+D 0 23655 0 2
+D 0 23663 3 1        ** Secret door (closed)
+D 0 23664 1 1
+D 0 23683 3 2        ** Kings room to maze (closed and locked)
+D 0 23682 1 2
+D 0 23691 4 2        ** Kings room to court (closed and locked)
+D 0 23648 5 2
+D 0 23649 4 2        ** Guard barracks room (closed and locked)
+D 0 23617 0 2
+D 0 23666 4 1        ** Trollop room (closed)
+D 0 23635 5 1
+S
+#99999
+$~

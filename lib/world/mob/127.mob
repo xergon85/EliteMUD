@@ -1,0 +1,639 @@
+#12700
+werewolf wolf were~
+the powerful werewolf~
+A powerful werewolf strides purposefully down the street.
+~
+Humanoid in shape, but with facial features resembling those of a 
+wolf, the werewolf is obviously very strong and quick. He walks around 
+with an air of superiority, master of all he surveys.
+~
+12 4 gjl kry -350 S
+65 -14 -26 1d1+1098
+407 500 100 1d32+33 -1
+-1 
+-1 
+4225 320000 8 8 1
+A
+%%10 growl;
+%10 emote glances in your direction.;
+%10 emote flexes his muscles.;
+%10 emote looks directly at you.~
+#12701
+wereboar boar were~
+the mighty wereboar~
+A wereboar struts about self-importantly.
+~
+The wereboar is very heavily built, with wide shoulders and arms roped 
+with thick muscle. He doesnt look particularly intelligent, but then its 
+likely he prefers violence to chess.
+~
+12 4 gjl kry -350 S
+65 -14 -26 1d1+1098
+407 500 100 1d32+33 -1
+-1
+-1 
+4225 320000 8 8 1
+A
+%%10 grimace;
+%10 emote snorts.;
+%10 emote cracks his knuckles.;
+%10 emote stares at you accusingly.~
+#12702
+werecat cat were~
+a stealthy werecat~
+A werecat picks his way nimbly across the street.
+~
+At a first glance he looks like a human, but a closer look shows that 
+the short hair on his head is really fur, and his eyes are slitted. He 
+moves very gracefully, almost gliding across the street. Occasionally he 
+clicks his claws together - a kind of nervous twitch.
+~
+3 4 gjl kry -350 S
+63 -13 -25 1d1+1051
+408 500 100 1d31+32 -1
+-1
+-1 
+3969 332222 8 8 1
+A
+%%10 emote blinks.;
+%10 emote clicks his claws together.;
+%10 emote glances at you.~
+#12703
+wererat rat were~
+a devious wererat~
+A devious wererat skulks around here.
+~
+With his beady eyes and twitchy nose, this humanoid creature resembles a
+rat. Glancing suspiciously around he dry-washes his hands nervously. He 
+certainly looks an untrustworthy individual - I'd check my pockets if I 
+were you.
+~
+1 4 cghj kry -400 S
+62 -12 -24 1d1+1028
+407 500 100 1d31+32 -1
+-1
+-1 
+3844 330000 8 8 1
+A
+%%10 emote twitches nervously.;
+%10 emote blinks uncertainly.;
+%10 emote dry-washes his hands.~
+#12704
+weretiger tiger were~
+a mighty weretiger~
+A mighty weretiger stalks confidently down the street.
+~
+He looks born to rule, with a calm penetrating gaze, and a powerful
+build. He is well dressed, and moves confidently, his eyes scanning the
+whole street. His eyes are slitted, and a very pale yellow, his hair is
+a light reddish colour, with darker stripes. 
+~
+3 4 gjl kry -300 S
+67 -15 -27 1d1+1147
+408 500 100 1d33+34 -1
+-1
+-1 
+4489 350000 8 8 1
+A
+%%10 emote brushes a speck of dirt from his coat.;
+%10 emote pauses to look at you.;
+%10 emote clears his throat.~
+#12705
+werewolf wolf were~
+the snarling werewolf~
+A powerful werewolf snarls at you.
+~
+Can you believe it? You travel all this way to take a look round his 
+home and he's not pleased to see you? Some people have no manners. It'd 
+probably be best to go now, before he starts some trouble.
+~
+12 4 gjl kry -200 S
+66 -14 -26 1d1+1122
+407 500 100 1d33+34 -1
+-1
+-1 
+4356 350787 8 8 1
+A
+%%10 emote snarls.;
+%10 emote glares at you.;
+%10 emote growls threateningly at you.~
+#12706
+wereboar boar were~
+the grumbling wereboar~
+A wereboar mumbles unitelligibly at you.
+~
+He's certainly well built, but you can tell that he's not exactly the 
+sharpest tool in the box. He looks at you suspicously, and looking into 
+his eyes you can tell that he's trying to figure out why you don't look 
+like the other wereboars. You better leave before he figures it out.
+~
+12 4 gjl kry -300 S
+64 -13 -25 1d1+1074
+407 500 100 1d32+33 -1
+-1
+-1 
+4096 368444 8 8 1
+A
+%%10 emote looks blankly at you.;
+%10 mumbles to himself.~
+#12707
+werecat cat were~
+the prowling werecat~
+A werecat blinks as he looks at you.
+~
+He blinks at you, and rubs his eyes as if he has just awakened. You 
+better not have disturbed him! Like a domestic cat he likes to sleep, 
+but unlike a his domesticated cousins, he is likely to rip your arms 
+off if you've upset him.
+~
+12 4 gjl kry -200 S
+64 -13 -25 1d1+1074
+407 500 100 1d32+33 -1
+-1
+-1 
+4096 350000 8 8 1
+A
+%%10 emote blinks.;
+%10 emote yawns.;
+%10 emote stretches.~
+#12708
+wererat rat were~
+a sneaky wererat~
+A sneaky wererat regards you suspiciously from across the street.
+~
+He's a devious fellow, theres no doubt, I'd keep an eye on my gold if I 
+were you. His beady little eyes size you up, weighing and measuring, I 
+bet he could tell you your entire inventory.
+~
+12 4 gjl kry -300 S
+63 -13 -25 1d1+1051
+407 500 100 1d31+32 -1
+-1
+-1 
+3969 350000 8 8 1
+A
+%%10 emote glances at you.;
+%10 emote tries to take a look at your inventory.;
+%10 emote sniffs.~
+#12709
+weretiger tiger were~
+a proud weretiger~
+A proud weretiger surveys the room.
+~
+He stands head and shoulders above everone else, gazing 
+impassively around him. His calm face gives away his 
+confidence at being able to handle anything life throws 
+at him.
+~
+12 4 gjl kry -200 S
+66 -14 -26 1d1+1122
+407 500 100 1d33+34 -1
+-1
+-1 
+4356 360000 8 8 1
+A
+%%10 emote gazes impassively around the room.;
+%10 emote flexes his muscles.;
+%10 emote looks at you and dismisses you as a threat.~
+#12710
+weretiger priest high were tiger~
+the High Priest of the weretigers~
+The High Priest of the weretigers is here, mumbling canticles.
+~
+He's dressed in long white flowing robes, with a purple trim. He's 
+obviously deeply religious, he murmurs his prayers to his totem, the 
+tiger, almost constantly.
+~
+12 4 bgjl hkry -50 S 
+69 -17 -30 2d100+1200
+407 500 50 2d30+40
+6 0 20 1d0+90
+28 0 30 2d0+80 -1
+-1
+-1
+2000 480000 8 8 1
+A
+%%10 emote murmers a brief prayer.;
+%10 emote genuflects before the altar.;
+%10 emote straightens his robe.~
+#12711
+werewolf shaman were wolf~
+the Wolf Shaman~
+The Shaman of the Werewolves is chanting here.
+~
+Unlike his kinsfolk, who are a bizarre mixture of wolf and man, the 
+Shaman has a wolf's head and a mans body. His shapeshifting skills have 
+been honed by his meditations to such a degree that he can metamorphose 
+different parts of himself, almost at will. He wears a ragged collection 
+of robes and amulets, and carries a small rod with a golden wolfshead.
+~
+12 4 gjl hkry -50 S 
+70 -18 -30 3d100+1300
+407 500 85 2d40+45
+65 0 15 2d0+90 -1
+-1
+-1
+1500 490000 8 8 1
+A
+%%10 emote chants.;
+%10 emote shakes his fist at you angrily.;
+%10 emote rattles his sceptre at you.~
+#12712
+wererat priest rat were~
+The wererat priest~
+The Priest of the Wererats is checking the collection plate.
+~
+He doesn't look very reputable, but then neither do the rest of the 
+wererats. He keeps looking in the collection plate, and you cant help 
+noticing that he occasionally removes some of the coins and places 
+them in his own pocket.
+~
+12 4 bgjl hkry -50 S 
+66 -15 -29 2d100+1000
+407 500 80 2d30+30
+23 0 20 1d0+80 -1
+-1
+-1
+1200 390001 8 8 1
+A
+%%10 emote checks that noone is watching.;
+%10 emote peers into the collection plate.;
+%20 get coins plate~
+#12713
+werecat priest cat were~
+the Priest of the Werecats~
+The Priest of the Werecats is watching over his people.
+~
+With his slightly pointed ears, and short hair, he looks very handsome. 
+His slitted yellow eyes glance at you as you enter, and watch you as you 
+move around. Clearly he doesnt trust you around his flock.
+~
+12 4 bgjl hkry -50 S 
+68 -16 -30 2d100+1100
+407 500 80 2d35+50
+28 0 20 2d0+90 -1
+-1
+-1
+1800 410000 8 8 1
+A
+%%10 emote watches you suspiciously.;
+%10 emote glances around the room.~
+#12714
+wereboar priest boar were~
+the High Priest of the wereboars~
+The High Priest of the wereboars is trying to count his congregation.
+~
+Dressed in long flowing robes, he looks fairly respectable, but as he 
+surveys his temple, you get the impression that he's trying (in vain) to 
+count the people there. 
+~
+12 4 bgjl hkry -50 S 
+69 -17 -29 3d100+1300
+407 500 80 2d35+50
+17 0 20 1d0+80 -1
+-1
+-1
+1900 460000 8 8 1
+A
+%%10 emote looks puzzled.;
+%10 emote grunts something at you.~
+#12715
+korgan huntsmaster wolf were werewolf~
+Huntsmaster Korgan~
+The Huntsmaster of the werefolk suddenly appears from behind you.
+~
+Korgan is the hero that all the werefolk (not just the wolves) wish to 
+emulate. He truly is a magnificent sight as he towers over you. His arms 
+are banded with thick muscle, and his fur is tinged silver-grey. His 
+teeth are as large as your fingers, and his eyes glow with power.
+~
+12 4 gjl hkryz -200 S 
+75 -19 -33 5d100+2000
+407 500 100 3d50+85 -1
+-1
+-1
+3000 600000 8 8 1
+A
+%%10 emote growls.;
+%10 emote lunges threateningly in your direction.;
+%10 emote lunges into the undergrowth, slicing an unfortunate rabbit in two.~
+#12716
+werewolf hunting were wolf~
+the hunting werewolf~
+A werewolf is hunting here.
+~
+Metamorphosed into lupine form, the werewolf looks like a powerful 
+timber wolf. Standing as high as your waist, his hackles rise as he 
+looks at you. He bares his teeth in warning, and a low growl begins 
+in his throat, I think he just found his lunch - You!
+~
+12 4 gjl krsty -50 S
+68 -15 -27 1d1+1172
+407 500 100 1d34+35 -1
+313 100 -1
+-1 
+4624 450000 8 8 1
+A
+%%10 emote growls at you.;
+%95 hide~
+#12717
+weretiger hunting were tiger~
+the hunting weretiger~
+A weretiger is here, looking for a snack.
+~
+It's a bit late for eating out - but the hunting garden is always open, 
+and thanks to the hard work of Huntsmaster Korgan, well stocked. 
+~
+12 4 gjl krsty -50 S
+69 -16 -28 1d1+1198
+407 500 100 1d34+35 -1
+313 100 -1
+-1 
+4761 444000 8 8 1
+A
+%%10 emote growls at you.;
+%95 hide~
+#12718
+wererat hunting were rat~
+the hunting wererat~
+A wererat tries to sneak up on you.
+~
+His sharp little teeth glint in the dim light of the hunting garden, and 
+he stares at you with piercing black eyes. He's too small to eat you 
+whole, but that doesn't mean he won't try to eat bits of you!
+~
+12 4 gjl krsty -50 S
+66 -14 -26 1d1+1122
+407 500 100 1d33+34 -1
+313 100 -1
+-1 
+4356 410000 8 8 1
+A
+%%10 emote looks at you and licks his lips.;
+%95 hide~
+#12719
+werecat hunting were cat~
+the hunting werecat~
+A werecat stalks carefully through the bushes.
+~
+He's incredibly graceful, as he moves towards you through the 
+undergrowth. Hmm...wait a second, while you admiring his style - he's 
+got his eye on your leg, and he looks very hungry.
+~
+12 4 gjl krsty -50 S
+67 -15 -27 1d1+1147
+407 500 100 1d33+34 -1
+313 100 -1
+-1 
+4489 430000 8 8 1
+A
+%%10 emote growls.;
+%95 hide~
+#12720
+wereboar hunting were boar~
+the hunting wereboar~
+A wereboar munches happily on a severed limb.
+~
+He's very heavily built, this wereboar, and so clearly needs alot of 
+food to keep him going. He may be a bit 'thinking impaired' but he seems 
+to have dismembered his lunch very efficiently.
+~
+12 4 gjl krsty -50 S
+66 -14 -26 1d1+1122
+407 500 100 1d33+34 -1
+313 100 -1
+-1 
+4356 460000 8 8 1
+A
+%%10 emote burps.;
+%95 hide~
+#12721
+weretiger were tiger high seat~
+the High Seat~
+The High Seat leads the werefolk.
+~
+Each of the weretigers take it in turns to take up the office of High 
+Seat. Each lasts for a single month, after which another takes his 
+place. Being the leader of all the werefolk is a heavy burden, and the 
+strain shows in his dulled eyes, and slumping shoulders. Still, he seems 
+proud to serve.
+~
+12 4 bgjl dhkryz -50 S 
+72 -17 -30 5d100+2000
+407 500 90 2d50+60
+2 0 10 1d0+80 -1
+-1
+-1
+3000 650000 8 8 1
+A
+%%10 emote looks very tired.;
+%10 emote peers wearily around the House.~
+#12722
+weretiger were tiger seat assent~
+The Seat of Assent~
+The Seat of Assent is counting votes.
+~
+The Seat of Assent is an official post, which is rotated through the 
+were tigers on a monthly basis. His job is to count the votes in favour 
+of any motion put before the Werehome House of Lords.
+~
+12 4 bgjl dhkryz -50 S 
+72 -17 -30 5d100+2000
+407 500 100 2d50+55 -1
+-1
+-1
+3000 575000 8 8 1
+A
+%%10 emote peers around the House.;
+%10 emote carefully re-checks his counting.~
+#12723
+weretiger were tiger seat rejection~
+The Seat of Rejection~
+The Seat of Rejection is counting votes.
+~
+Every month a different weretiger holds the post of Seat of Rejection. 
+When a motion is put before the House of Lords, he counts to number of 
+votes against, and relays this information to the High Seat.
+~
+12 4 bgjl dhkryz -50 S 
+72 -17 -30 5d100+2000
+407 500 100 3d50+55 -1
+-1
+-1
+3000 575000 8 8 1
+A
+%%10 emote stands on the tips of his toes, to get a better view.;
+%10 emote carefully counts the votes.~
+#12724
+birt wererat lord were rat~
+Lord Birt~
+The Lord of the wererats is gloating over his collection of junk.
+~
+Lord Birt is the sneakiest, most lightfingered, and most devious of all 
+the wererats. No wonder then, that he is also their leader and most 
+admired hero. While you look at him he stares back, he's already made 
+a note of everything in your inventory, and is probably about to help 
+himself to it.
+~
+12 4 bgjl dhkryz -50 S
+72 -17 -30 1d1+1279
+407 500 100 1d36+37 -1
+-1
+-1 
+5184 490000 8 8 1
+A
+%%10 emote tries to slip his hand into your pocket.;
+%10 emote rubs his hands together with glee.~
+#12725
+dorlan wereboar lord were boar~
+Lord Dorlan~
+Lord Dorlan is struggling with some paperwork.
+~
+He's not the sharpest tool in the box (if you know what I mean) but 
+sadly for the wereboars, he's the sharpest tool in their box. However, 
+you would be wise not to underestimate him. He's very heavily built, 
+with a jutting pugnacious jaw, and fists like cured hams.
+~
+12 4 bgjl dhkryz -50 S
+75 -19 -31 1d1+1366
+407 500 100 1d37+38 -1
+-1
+-1 
+5625 520000 8 8 1
+A
+%%10 emote growls.;
+%10 emote glares at you.~
+#12726
+kralian werecat lord were cat~
+Lord Kralian~
+Lord Kralian looks after all his people.
+~
+The werecats were the last of the werefolk to arrive at werehome, and 
+though is was a long time ago by human standards, the long-lived 
+werecats remember Lord Kralian's role in bringing them to their home. 
+Old he might be, but he moves with the agility of a cat, and his 
+reactions are like lightning.
+~
+12 4 bgjl dhkryz -50 S
+73 -18 -30 1d1+1307
+407 500 100 1d36+37 -1
+-1
+-1 
+5329 550000 8 8 1
+A
+%%10 emote yawns.;
+%10 emote flexes his muscles.~
+#12727
+xamon werewolf lord were wolf~
+Lord Xamon~
+The mightiest of all the werefolk towers over you.
+~
+Lord Xamon is the largest werewolf you have ever seen, you barely stand 
+as high as his chest. His deeds outstrip even those of Huntsmaster 
+Korgan - it's said he once killed a huge golden dragon with his bare 
+hands. The same hands that are poised to rip out your throat.
+~
+12 4 bgjl ghkryz -50 S
+80 -22 -34 1d1+1526
+407 500 100 1d40+41 -1
+-1
+-1 
+6400 630000 8 8 1
+A
+%%10 emote ROARS!~
+#12728
+loremaster weretiger were tiger~
+The Loremaster~
+An ancient weretiger waits to pass on his wisdom.
+~
+Once a proud weretiger, the loremaster has done it all, seen the outside 
+and fought dragons and demons, and spent years studying the ancient lore 
+of the werefolk. You can feel his wisdom as you look into his eyes, 
+and a sense of calm descends upon you.
+~
+12 4 beg dhkD 100 S
+109 -36 -50 1d1+6132
+407 500 100 1d54+65 -1
+-1
+-1 
+11881 1342602 8 8 1
+A
+%%10 emote gazes around impassively.;
+%10 use staff;
+%10 emote looks into your eyes. You feel calm all of a sudden.~
+#12729
+aaron shopkeeper expedition werewolf were wolf~
+the expedition shopkeeper~
+A burly werewolf will sell you everything you could need for an 
+expedition.
+~
+He's pretty well built, and has quite a few scars, showing that he knows 
+what he's talking about when he tries to sell you adventuring equipment.
+~
+12 4 beg ghkD 0 S
+70 -16 -28 1d1+1224
+407 500 100 1d35+36 -1
+-1
+-1 
+4900 532413 8 8 1
+A
+%%10 say You'll not survive out in the big world without one of these.;
+%10 emote shows you a leaping scroll.;
+%10 say You want a real adventure? Try one of these!~
+#12730
+prisoner filthy human~
+a filthy human prisoner~
+A ragged and filthy prisoner cowers before you.
+~
+He's not been well looked after, his eyes are wide with terror and lack 
+of food has turned him into a shadow of a human being. He's covered in 
+his own filth as he cringes on the ground in front of you, begging for 
+his life.
+~
+1 4 gh lr 100 S
+50 -6 -17 1d1+781
+400 500 100 1d25+26 -1
+-1
+-1 
+2500 275000 8 8 1
+A
+%%10 emote begs for his life.;
+%10 emote tries to hide under a bush.;
+%10 emote prays to the gods for mercy.~
+#12731
+prisoner bloody elven elf~
+a ragged elven prisoner~
+A ragged elf looks beaten and bruised.
+~
+He looks like he's been put through a mill, his arms are covered with 
+weeping sores and his clothes are dirty and torn.
+~
+1 4 gh 0 100 S
+50 -6 -17 1d1+781
+400 500 100 1d25+26 -1
+-1
+-1 
+2500 270000 8 8 1
+A
+%%10 emote cowers before you.;
+%10 emote weeps piteously.~
+#12732
+prisoner dwarven dwarf~
+a filthy dwarven prisoner~
+A dwarf tries in vain to hide under a bush.
+~
+His eyes are dull, and is beard is patchy and matted with blood and 
+filth. He has a hunted look, and constantly scans the area, as he 
+scrabbles at the ground, trying to hide.
+~
+1 4 gh 0 100 S
+50 -6 -17 1d1+781
+400 500 100 1d25+26 -1
+-1
+-1 
+2500 270000 8 8 1
+A
+%%10 emote scrabbles at the ground, making his fingers bleed.;
+%10 emote cringes in fear.~
+#99999
+$~

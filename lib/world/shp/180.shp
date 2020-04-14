@@ -1,0 +1,139 @@
+#18000~
+18014
+18021
+18022
+18040
+18041
+18042
+18045
+18046
+-1
+1.1
+.9
+1
+3
+5
+9
+10
+-1
+%s Sorry dude, I'm all out of that.~
+%s Hey, man, who you tryin' to fool?  You don't have that!~
+%s Nah ... I don't want that.~
+%s Hey! I'd love to have it but my pockets are empty.  Donate it!~
+%s You can't afford it.~
+%s Here, man.  I'll just take %d coins for that.~
+%s Okay.  Here's %d coins.~
+1
+1
+18042
+0
+18061
+0
+12
+12
+24
+#18001~
+18047
+-1
+1
+1
+-1
+%s Sorry, luscious, the ale barrel is dry.~
+%s You don't have that to sell!~
+%s Hunh?  What's that?~
+%s The other ale wench ran off with our gold.~
+%s Are you trying to cheat me?~
+%s Here ya go, darlin'!  That'll just be 25 gold coins.~
+%s Hunh?~
+1
+1
+18024
+0
+18065
+0
+12
+12
+24
+#18002~
+18026
+18028
+18030
+18032
+18034
+18036
+18038
+-1
+1.1
+.9
+-1
+%s Sorry but those sold out early.~
+%s Uhm ... you don't seem to have that.~
+%s I only sell ribbons.  I don't buy things.~
+%s My pockets are empty and I'm deep in debt.~
+%s You can't afford my fine ribbons, cheap as they are!~
+%s Wear it with pleasure!  I'll just take %d coins for that.~
+%s No!!!~
+1
+1
+18015
+0
+18020
+0
+12
+12
+24
+#18003~
+18023
+18024
+18025
+-1
+1.2
+.5
+9
+-1
+%s I don't have any more of those.  Sorry!  Ask for a reboot!~
+%s You don't have that!~
+%s I don't buy that stuff!  Try the #MVoo#WDo#M #Rchild.~
+%s I'd love to buy it but I'm broke.~
+%s I bet you'd like to have it!  Come back with more gold, birdbrain.~
+%s Here you go.  That'll just be %d gold coins.~
+%s Hope I can sell this!  Here's %d gold for it.~
+1
+1
+18040
+0
+18056
+0
+12
+12
+24
+#18004~
+18027
+18029
+18031
+18033
+18035
+18037
+18039
+-1
+1.1
+.9
+-1
+%s Sorry but those sold out early.~
+%s Uhm ... you don't seem to have that.~
+%s I only sell ribbons.  I don't buy things.~
+%s My pockets are empty and I'm deep in debt.~
+%s You can't afford my fine ribbons, cheap as they are!~
+%s Wear it with pleasure!  I'll just take %d coins for that.~
+%s No!!!~
+1
+1
+18096
+0
+18066
+0
+12
+12
+24
+#999999
+$~

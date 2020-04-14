@@ -1,0 +1,65 @@
+#2900
+librarian library~
+a librarian~
+A librarian wanders through the stacks.
+~
+The librarian wears her long hair back in a tight bun, apparently in
+the style common to all female librarians.  She smiles quietly as she
+goes about her business, glaring at any troublemakers and noisy
+patrons.
+~
+1 4 g h 0 A 109 2
+A
+%%20 emote holds her finger to her pursed lips and hisses, 'Shhhh!'~
+#2901
+student girl~
+a student~
+A young girl sits quietly, studying for an exam.
+~
+The young girl must be a student.  She sits quietly with her books,
+studying as if her life (or at least her grades) depended on it.  She
+appears to be oblivious to anything going on around her.
+~
+1 4 bg h 0 A 109 2
+A
+%%20 emote flips through the pages of her book.~
+#2902
+boy little~
+a little boy~
+A little boy stares in awe at the life-like pictures in his book.
+~
+The wide-eyed fellow smiles with glee as he flips through his
+favorite picture book.  He learned the joys of literature at an early
+age, and hopefully he will continue to make use of the library as he
+grows older.
+~
+1 4 bg h 0 A 109 1
+A
+%%10 giggle;%10 smile;%5 gasp~
+#2903
+librarian head~
+the Head Librarian~
+The head librarian monitors all activity in the library.
+~
+The head librarian loves her job.  She enjoys wandering through the
+stacks of books, sifting through the scrolls and papers, and watching
+the patrons wander through "her" library.
+~
+1 4 bg h 0 A 109 2
+A
+%%10 smile;%5 'Can I help you find anything?;%5 'This library has a
+wonderful collection.  We have something for everyone.~
+#2904
+circulation lady librarian head~
+the Head of Circulation~
+A pretty young lady sits behind the desk selling library cards.
+~
+This young lady is the person to see if you'd like to check out any
+books in the library.  She controls the circulation of books in the
+library, and sells the library cards needed to check the books out.
+~
+1 4 bg h 0 A 109 2
+A
+%%10 'Can I help you?~
+#99999
+$~

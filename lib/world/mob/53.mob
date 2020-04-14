@@ -1,0 +1,274 @@
+#5300
+asp snake~
+A horrible asp~
+A small, poisonous asp slithers over your feet.
+~
+The asp is a small, smooth-scaled snake the color of worn pottery.
+The poison bite of this snake has felled many a mighty pharoah.
+~
+1 4 96 1024 0 S
+35 3 -9 4d35+445
+408 500 100 3d8+10 -1
+-1
+-1
+0 141666 8 8 0
+#5301
+cobra snake~
+A hooded cobra snake~
+A cobra snake rears up and opens its fearsome hood.
+~
+The cobra snake waves back and forth before you, its hood displaying brilliant
+colors designed to serve notice to its prey that it is about to strike.
+~
+1 4 96 1024 0 S
+37 2 -10 4d37+469
+408 500 100 3d8+10 -1
+-1
+-1
+0 161666 8 8 0
+#5302
+mongoose~
+A wily little mongoose~
+A small mongoose slinks along the ground, hunting snakes.
+~
+The mongoose is a wily rodent, a quick hunter of nasty poisonous snakes.
+She sniffs you and appears to be looking for food in your hand.
+~
+1 4 64 1024 100 S
+41 -2 -15 4d41+517
+408 500 100 3d10+10 -1
+-1
+-1
+0 208332 8 8 2
+#5303
+pyramid watcher~
+A pyramid watcher~
+The pyramid watcher protects the tombs from intruders.
+~
+The pyramid watcher has made a pledge to destroy any would-be looters of
+the tombs of the pharoahs.  He is clad from head to foot in utilitarian
+sand-colored clothing.
+~
+1 4 34 1024 250 S
+38 1 -10 4d38+581
+400 500 100 3d8+10  -1
+-1
+-1
+500 200000 8 8 1
+#5304
+thief tomb~
+A tomb thief~
+A sneaky tomb thief moves about in search of treasure.
+~
+The thief brushes against you briefly, then slinks back into the shadows.
+~
+1 3 196 1024 -250 S
+40 2 -12 3d40+505
+400 500 100 3d8+15  -1
+-1
+-1
+350 196666 8 8 1
+#5305
+ali baba thief~
+Ali Baba~
+Ali Baba is here, hunting for the pharoah's tomb.
+~
+You see a tall, full-bearded man with a mischevious glint in his eye.  Ali Baba
+has made his life from stealing things from others, including many items stolen
+recently from under the nose of the hapless guardians of this pyramid.  Someday
+he might get caught, but not today...
+~
+1 3 68 1024 -300 S
+48 -5 -16 3d48+701
+400 500 100 3d8+18  -1
+-1
+-1
+1000 255000 8 8 1
+#5306
+magic carpet~
+The magic carpet~
+A small woven carpet lies under your feet.
+~
+The carpet is simply beautiful, made from intricately woven silken material.  
+It seems to rise up at the touch of your feet.  Wait, it is rising, a few feet
+above the ground!  In fact, it seems to be ALIVE!
+~
+0 4 2 1024 500 S
+39 1 -11 3d39+493
+400 500 100 3d8+15  -1
+-1
+-1
+0 185000 8 8 0
+#5307
+mummy corpse~
+A mummy~
+A mummy reaches for you, disturbed by your presence.
+~
+You only see the disfigured, rotting features of decaying human flesh,
+animated by the distempered spirit of a long-deceased person.
+~
+2 4 96 16777216 -600 S
+42 0 -13 4d42+529
+400 500 100 3d9+15 -1
+-1
+-1
+0 220000 8 8 0
+#5308
+sand man sandman~
+A sandman~
+A sandman rises up from the desert floor.
+~
+The sandman is exactly that -- some sort of strange being formed from the sands
+of the desert floor.  It seems quite large and strong and at home in the heat
+and sandy winds.
+~
+1 4 96 1024 0 S
+44 -2 -14 4d44+553
+400 500 100 3d8+15  -1
+-1
+-1
+0 243333 8 8 1
+#5309
+efreeti efreet~
+The efreeti~
+The efreeti stands here, sheathed in a column of fire.
+~
+The efreeti is a mighty being formed from living fire.  He gazes down at you 
+with disdain and scorn, arms folded across his mighty chest.
+~
+0 4 66 1064 -600 S
+50 -5 -17 4d50+625
+400 500 100 3d10+15  -1
+-1
+-1
+2500 278332 8 8 1
+#5310
+caryatid column~
+A caryatid~
+A sandstone column stands here, carved into a feminine figure.
+~
+The column has been carved into a set of four shapely women, each facing
+outward into the room.  The sandstone of the caryatid is smooth with age,
+but you can still make out a deadly stone sword in the hands of each figure.
+~
+0 4 2 1024 0 S
+54 -7 -20 4d54+673
+400 500 100 3d10+18  -1
+-1
+-1
+0 325000 8 8 2
+#5311
+djinn genie~
+The djinn~
+The djinn issues forth from the confines of a small lamp.
+~
+The djinn is a mighty being formed from the air itself and frequently
+imprisoned in a small lamp, used to do the bidding of those who find him.
+He smiles down at you congenially, arms folded across his blue-tinged 
+skin, and strokes his goatee.
+~
+0 4 2 1064 600 S
+58 -9 -22 3d58+721
+400 500 100 3d10+25  -1
+-1
+-1
+6000 370000 8 8 1
+#5312
+hieracosphinx sphinx~
+A hieracosphinx~
+A hieracosphinx looks at you cunningly.
+~
+The hieracosphinx are cunning, small, but nasty creatures, having the heads
+of birds, mighty wingspans, and a full set of four paws to rend their victims
+to pieces.  They tend to be quite jealous of the sharper wits of their older
+cousins.
+~
+3 4 96 1024 -200 S
+45 -3 -15 3d45+765
+400 500 100 3d8+16  -1
+-1
+-1
+750 275000 8 8 0
+#5313
+gynosphinx sphinx~
+A gynosphinx~
+A gynosphinx sits here, befuddled by a riddle.
+~
+The gynosphinx is a crafty but gentle creature, having the body of a
+beautiful dark-skinned woman from the waist up, a feathery set of wings
+and the hind legs of a mighty cat.  Right now she is confused, having 
+just heard a puzzling riddle from a cousin criosphinx.
+~
+3 4 2 1024 100 S
+49 -4 -17 1d49+713
+400 500 100 3d8+18  -1
+-1
+-1
+1000 266666 8 8 2
+#5314
+criosphinx sphinx~
+A criosphinx~
+A criosphinx calmly watches you.
+~
+The criosphinx is a calm and friendly creature, having the head of a ram atop
+the body of a well-furred feline with eagle-like wings.  He delights in riddles
+and in poking occasional fun at his easily confused lesser cousins.
+~
+3 4 2 1024 300 S
+53 -7 -20 4d53+861
+400 500 100 3d10+16  -1
+-1
+-1
+2500 313332 8 8 1
+#5315
+androsphinx sphinx~
+An androsphinx~
+A mighty androsphinx tosses its lion-like mane.
+~
+The mighty androsphinx is a huge creature, with the body of a lion whose
+face is quite man-like, perhaps even handsome, and a massive pair of feathered
+wings. Tales are told of pharoahs that were rendered permanently deaf by the 
+mighty roar of this sphinx.
+~
+3 4 2 1024 400 S
+57 -8 -23 3d57+809
+400 500 100 3d12+20  -1
+-1
+-1
+5000 360000 8 8 0
+#5316
+great sphinx~
+The great sphinx~
+A mighty sphinx rests here in the sand, dormant now for centuries.
+~
+The great sphinx appears to be indestructible!
+The great sphinx towers tens of feet above you, resting here in a state of 
+dormancy.  It has become almost indistinguishable from the sand that surrounds
+it, although you can still make out the features of the handsome face that once
+advised many rulers.
+~
+3 4 2 1024 500 S
+61 -15 -23 5d61+957
+400 500 100 3d14+20  -1
+-1
+-1
+10000 550000 8 8 0
+#5317
+ramses mummy~
+Ramses the Damned~
+You have awakened the mighty servant to the pharoahs, Ramses.
+~
+As your light spills over his face and body, you can see his features begin
+to fill out, swell, and harden, until an apparently healthy man stands before
+you, clad only in the raiments he was left in when he last slept.  His hair is
+a soft black, his skin a deep chocolate, and his tall frame is totally still, 
+his chest not even moving to breathe.
+~
+2 4 2 1024 150 S
+68 -15 -27 4d68+1041
+400 500 100 3d10+30  -1
+-1
+-1
+10000 570000 8 8 1
+#99999
+$~

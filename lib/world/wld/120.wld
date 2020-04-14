@@ -1,0 +1,4596 @@
+#12000
+End of the Clay Road~
+   The mighty clay road turns into lesser, but still well traveled
+roads here. You feel a surge run through your body as you look east
+into the lands that turned Rome into its mighty empire. 
+~
+120 0 1
+D1
+The Northern Road, linking Rome with Midgaard and other cities,
+beckons.
+~
+~
+0 -1 548
+D3
+The mighty clay road leads off in this direction. 
+~
+~
+0 -1 12001
+S
+#12001
+Clay Road~
+   You travel upon an East-West road wide enough for 30 men to march
+abreast. The road is heavy with traffic, both foot and wagons, yet
+it is hard and smooth and well drained.
+~
+120 0 1
+D1
+The broad clay road stretches eastward to unknown regions.
+~
+~
+0 -1 12000
+D3
+In the far distance you can see the twin spires of Rome's East Gate.
+~
+~
+0 -1 12002
+S
+#12002
+Clay Road~
+   In the distance, to the west, you eyes catch the splendors of a
+mighty city.  The road is congested with nobles and their huge
+retinues of servants traveling from country estates into the city for
+commerce, and with traders bringing treasures and goods for trade from
+exotic locations. 
+~
+120 0 1
+D1
+The clay road continues its straight path east as far as you can see.
+~
+~
+0 -1 12001
+D3
+The road ahead is lined with coffins and sarcophagi.
+~
+~
+0 -1 12003
+S
+#12003
+Clay Road~
+   On both sides of the road lie gravesites.  Large statues adorn
+the final resting places of famous and not so famous Romans who have
+passed over the river Styx.  To the northwest you can see a funeral
+procession with at least a dozen professional mourners.  If someone
+important has just died there will be lavish banquets and
+entertainments tomorrow, so hurry into the city!
+~
+120 0 1
+D1
+A wide, straight road goes east as far as you can see.
+~
+~
+0 -1 12002
+D3
+Far west you can see the spires of Rome's East Gate.
+~
+~
+0 -1 12004
+S
+#12004
+Clay Road East of Rome~
+   Burial within the limited confines of the city of Rome is not
+permitted, so the Romans have interred their dead in above-the-ground
+coffins called sarcophagi.  The sarcophagi are decorated with
+elaborately carved scenes from the person's life.
+~
+120 0 1
+D1
+A wide, hard packed clay road heads for the hills!
+~
+~
+0 -1 12003
+D3
+A wide, hard packed clay road heads for the city.
+~
+~
+0 -1 12005
+S
+#12005
+The Field of Mars~
+   On the northern side of the road stretches what is known as the
+Field of Mars, a training ground for the mighty Roman soldier.  The
+army is open to Roman citizens (males who own land) and is an
+opportunity for a man to bring glory and a regular salary home to his
+family.  Being soft is frowned upon even for non-combatants, and so
+this area is often used by non-soldiers to develop strong muscles and
+hard bodies.
+~
+120 0 1
+D0
+A narrow path through a lovely meadow starts here and heads north.
+~
+~
+0 -1 12026
+D1
+A broad clay road heads for parts unknown.
+~
+~
+0 -1 12004
+D3
+You see in the near distance, two tall spires that might be part of
+the
+gate to Rome.
+~
+~
+0 -1 12006
+S
+#12006
+Before Rome~
+   You travel upon an East-West road wide enough for 30 men to march
+abreast. When a victorious general returns to Rome to (modestly)
+receive honors due him, his army marches ahead of him down this grand
+road.  You can see that it is packed hard through heavy use. To the
+west stand the Gates of Rome inviting you to enter and partake of all
+the glory and splendor that is Rome. 
+~
+120 0 1
+D1
+A wide clay road lined with sarcophagi of all varieties heads away
+from
+Rome.
+~
+~
+0 -1 12005
+D3
+The Gates of Rome!
+~
+~
+0 -1 12007
+S
+#12007
+The East Gate of Rome~
+   You are standing inside of the eastern gate of Rome. There are two
+tall spires built into the city wall, from which the guards can see
+the whole eastern side of the city. To the east, there is a heavily
+used packed clay road that leads out of Rome. Another road leads
+westward into the city.  A third, small narrow walkway leads south. 
+~
+120 0 1
+D1
+A broad and well-traveled clay road leads east out of the city.
+~
+~
+0 -1 12006
+D2
+A narrow paved walkway leads south along the city wall past some
+shops.
+~
+~
+0 -1 12101
+D3
+via Petrus leads into the city. 
+~
+~
+0 -1 12008
+E
+spires towers~
+There are two tall spires on either side of the gate and are
+constantly manned by the city guards.  They are made of stone and stand
+about 40 feet tall. 
+~
+E
+gate~
+The gate is fabricated from iron and has been designed to keep
+intruders out of the city.
+~
+S
+#12008
+via Petrus~
+   The clay road has become a well-paved road made from stone brought
+in from the surrounding countryside.  Rome is a crowded, exciting city
+with a population close to a million.  You are surrounded by buildings
+of all types and sizes.  Just west of here there is an enormous white
+marble building.  Many citizens, freedmen and slaves are going in and
+out of the building.  To the east you see the East Gate of Rome, and
+south of here there is a small greengrocers.
+~
+120 0 1
+D1
+Going east you would need to leave Rome.  Why would you want to do
+that?
+~
+~
+0 -1 12007
+D2
+The dim cool innards of a green grocers
+~
+~
+0 -1 12009
+D3
+via Petrus continues into the heart of Rome.
+~
+~
+0 -1 12010
+S
+#12009
+The Green Grocers~
+   The produce sold at this little shop changes daily depending upon
+what has been brought in from the surrounding countryside or from
+further afield.  The citizens love lavish banquets and new and
+unusual things to eat.  The grocer, a former slave able to buy his
+freedom from his profits at the store, has managed to build up a large
+clientele for his goods.
+~
+120 0 1
+D0
+The magnificence of via Petrus is just out the door.
+~
+~
+0 -1 12008
+S
+#12010
+via Petrus~
+   You are surrounded by the noise, the odors and movement of the
+densely populated city of Rome.  Just west of you a constant
+procession of well-dressed Roman citizens and their slaves enter and
+leave the huge formal bathhouse.  To the south some stairs lead up into
+a small apartment building, and just east of here you can see the
+spires of the East Gate.
+~
+120 0 1
+D1
+At a short distance you see the East Gate of Rome.
+~
+~
+0 -1 12008
+D2
+A set of dark steps lead up into an apartment building.
+~
+~
+0 -1 12100
+D3
+via Petrus continues past a large white building.
+~
+~
+0 -1 12011 
+S
+#12011
+via Petrus by the Baths~
+You are standing before a grand set of marble steps leading up to an
+enormous building made of white stone.  Statues of lesser known Roman
+gods stand at several levels up the graceful shallow steps.  The
+street continues east to the gate, west through a large arch, and there
+is an entrance to the south to a small curio shop.
+~
+120 0 1
+D1
+The busy thoroughfare that is via Petrus is packed with citizens.
+~
+~
+0 -1 12010
+D2
+A dim and unusually dusty shop lies south of here.
+~
+~
+0 -1 12093
+D3
+via Petrus continues to a large commemorative arch.
+~
+~
+0 -1 12024
+D4
+Steps lead to the baths.
+~
+~
+0 -1 12023
+S
+#12012
+The Baths - Arched Entrance~
+   White stucco leads to a highly embellished green archway over a
+white marble floor.  This is the entryway to the largest bath-house in
+Rome, and the most elegant, although there are over a hundred others.
+This particular bath-house allows only men.
+~
+120 0 1
+D0
+An attended cloakroom is just to the north of you.
+~
+~
+0 -1 12013
+D5
+Broad marble steps lead down to a busy street.
+~
+~
+0 -1 12023
+S
+#12013
+The Baths - Cloakroom~
+   Romans disrobe down to their loincloths here, leaving their
+belongings either with a cloakroom attendant or one of their personal
+servants.  The latter is the wiser course for those who wish to keep
+all of their belongings!  The room is spacious and lovely.  To the east
+you will find the tepidarium, where you can begin to warm your body.
+~
+120 d 1
+D1
+The echoes of a large stone room and a faint wave of humidity head
+for
+you from the east.
+~
+~
+0 -1 12014
+D2
+Through an arched entryway you can see the busy street.
+~
+~
+0 -1 12012
+D3
+Men are emerging in small groups from the west, looking for their
+belongings.
+~
+~
+0 -1 12022
+S
+#12014
+The Baths - Tepidarium~
+   You have entered a warm room with a small pool of warm water.  In
+the center of the pool is a statue of a water sprite holding a large
+vessel of water.  Water is pouring from the vessel into the pool.
+The room's graceful domed ceiling is painted with bright colors.  From
+here you may go to the cloakroom to the south, the gymnasium to the
+north, or directly west to the caldarium, the hot room.
+~
+120 d 1
+D0
+The air coming in from the north is warmer and more humid.  It looks
+like another room with a pool.
+~
+~
+0 -1 12015
+D3
+Through the open archway you can see an attendant retrieving clothing
+for a noble patron.
+~
+~
+0 -1 12013
+S
+#12015
+The Baths - Warm Up~
+   The floor in this area is smooth, slick white marble squares, and
+feels cool to your bare feet.  The walls have been decorated with
+colorful mosaics depicting a graceful Apollo in various games.
+Around you attendants watch while senators and other politicians and
+nobles exercise their bodies, warming their muscles before bathing.
+~
+120 d 1
+D0
+Fresh air and the grunts of men playing active sports come to you
+from the open area north of here.
+~
+~
+0 -1 12017
+D2
+Another large room lies south.
+~
+~
+0 -1 12014
+D4
+Steep marble steps lead up to a library.
+~
+~
+0 -1 12016
+S
+#12016
+The Baths - Library~
+   The baths are a very social place.  This elegant bath house boasts
+a large library where citizens may research legal matters or read
+history, poetry, or other areas that might interest them.  The walls
+are lined with scrolls, and there are several comfortable places to sit
+while you read.  The only exit is down.
+~
+120 d 1
+D5
+At the bottom of a long flight of steps you hear the splash of water
+in the tepid pool and the sounds of men working out.
+~
+~
+0 -1 12015
+S
+#12017
+The Baths - Gymnasium East~
+   This exercise yard boasts an outdoor pool for bathing or swimming.
+In the northeastern corner of the yard you can see young citizens
+playfully wrestling, and to the west a game is being played with a
+leather ball.  In the northwestern corner some men are soaking up
+sunshine and becoming fashionably tanned.  The gymnasium continues to
+the west.  The tepidarium lies south of here.
+~
+120 0 1
+D2
+Splashes and the echoes of laughter come to you from the Warmup room.
+~
+~
+0 -1 12015
+D3
+The gymnasium continues westwards.
+~
+~
+0 -1 12018
+S
+#12018
+The Baths - Gymnasium West~
+   Shouts and laughter greet you as you walk onto the western half of
+the gymnasium yard.  A large group of citizens are playing a game
+involving a small leather ball.  In a sunny corner some older men
+appear to be playing dice.  When their bodies are very warm, they will
+enter the caldarium just south of here.
+~
+120 0 1
+D1
+The wide grassy field continues full of men playing games.
+~
+~
+0 -1 12017
+D2
+A cloud of steam rises from what must be a very warm pool of water.
+~
+~
+0 -1 12019
+S
+#12019
+The Baths - Getting Clean~
+   Long, warm benches are lined up here for bathers to use.
+Attendants are available for hire to give massages.  Warm oils are
+rubbed into the skin, then scraped off with strigils, or scrapers of
+various shapes and sizes.  The hot pool is south, the gymnasium is
+north of here.
+~
+120 d 1
+D0
+Open air, sunshine and laughter beckon you outdoors.
+~
+~
+0 -1 12018
+D2
+A Roman hot tub awaits you.
+~
+~
+0 -1 12020
+D3
+A cloud of steam drifts from the Lanconicum
+~
+~
+0 -1 12021
+S
+#12020
+The Baths - Caldarium~
+   You can feel the sweat oozing from your pores due to the heat and
+moisture of this room.  It is very tempting just to sink into the
+water and drift off to sleep.  You may wish to take advantage of the
+bathing attendants to become really clean.  They are armed with warm
+oil and scrapers (strigils).
+~
+120 d 1
+D0
+Several bath attendants are giving massages and cleaning warm flesh.
+~
+~
+0 -1 12019
+D2
+A cool pool will finish off your bath.
+~
+~
+0 -1 12022
+D3
+Steam clean your pores in the Laconicum
+~
+~
+0 -1 12021
+S
+#12021
+The Baths - Laconicum~
+   A cloud of thick steam envelops you as you enter the laconicum, a
+room primarily for invalids. Sneezes abound here, but it is difficult
+to tell where people are due to the thick steam.
+~
+120 d 1
+D1
+Several slaves are waiting to clean your body or massage it.
+~
+~
+0 -1 12019
+D2
+Take a cooling dip
+~
+~
+0 -1 12022
+S
+#12022
+The Baths - Frigidarium~
+   Cool down here!  There is an enormous swimming pool in the middle
+of an spacious open room.  This is the final stop before leaving the
+baths, unless you wish to visit in the library or take advantage of one
+of the servants to get your hair cut or other grooming services
+performed on your now clean body.  A lovely arch leads to the cloak
+room east of here.
+~
+120 d 1
+D0
+You can head for the steam room from here, although the idea is to
+heat up gradually, then cool off, not the reverse!
+~
+~
+0 -1 12021
+D1
+Through the arch you see someone stealing your clothing!  Stop!
+Thief!!
+~
+~
+0 -1 12013
+S
+#12023
+The Baths - Marble Steps~
+   A series of wide shallow steps lead up to a gloriously arched
+entranceway.  Whatever this building is, it is very busy.  There are
+many small groups of men climbing and descending these stairs.  The
+main street lies down the stairs, and the entrance to the building is
+up.
+~
+120 cd 1
+D4
+Climb the stairs a bit further to the north and you will find
+yourself standing in a magnificent arched entryway.
+~
+~
+0 -1 12012
+D5
+Descend the steps a bit to the busy street.
+~
+~
+0 -1 12011
+S
+#12024
+Triumphal Arch - Victory over Shaalziran'dar~
+   This magnificent arch stands in the middle of a small square,
+celebrating the Roman victory over the drow of Shaalziran'dar.  It
+was a hard fought battle, no captives taken on either side.  The Via
+Petrus continues west on the far side of the square.
+~
+120 d 1
+D1
+Just east of here a large number of citizens are entering and leaving
+a huge marble building.
+~
+~
+0 -1 12011
+D2
+Wonderful smells emanate from a little shop on the ground floor of an
+apartment building.
+~
+~
+0 -1 12025
+D3
+via Petrus continues in the direction of the setting sun.
+~
+~
+0 -1 12097
+S
+#12025
+The Bakery~
+   Long golden loaves of bread rest beside delicate, rich rolls and
+flat breads and crackers.  The aromas wafting from the kitchen are
+making your mouth water.  The only exit is to the south.
+~
+120 d 1
+D0
+A much smellier place, via Petrus lies just out the door to the
+north.
+~
+~
+0 -1 12024
+S
+#12026
+Opening of a large meadow~
+   The sparse trees give way completely here to a large open meadow
+filled with men of all ages dressed in mid-thigh length tunics, light
+weight metal armor and carrying small round shields.  A path leads
+south towards a large clay road, and to the east and west are small
+stands of trees.
+~
+120 c 1
+D0
+You can see a large open field with a lot of people exercising on it.
+~
+~
+0 -1 12027
+D2
+You can see an impressively built very wide clay road stretching east
+and west.
+~
+~
+0 -1 12005
+S
+#12027
+Field of Mars - SW~
+   The training field stretches far to the north and east of you.
+During the day, the gently rolling, grass covered meadow is teeming
+with soldiers running, stretching, and learning the arts of war.  To
+the south lies the road to the city of Rome (where all roads lead).
+To the west you can see peaceful farmland, part of some noble's
+estate.
+~
+120 0 1
+D0
+All around you you see men and women exercising.
+~
+~
+0 -1 12028
+D1
+All around you you see men and women exercising.
+~
+~
+0 -1 12030
+D2
+All around you you see men and women exercising.
+~
+~
+0 -1 12026
+S
+#12028
+Field of Mars - NW~
+   You are standing in the northwest corner of an enormous military
+training field.  Roman citizens are building strong, healthy bodies
+to survive the rigors of war, and being taught the arts of war.  For
+these soldiers, this includes digging canals, building roads and
+bridges and making camp.  To the north and west of you lies gently
+rolling farmland.  This particular area is part of a noble estate.  
+~
+120 0 1
+D1
+All around you you see men and women exercising.
+~
+~
+0 -1 12029
+D2
+All around you you see men and women exercising.
+~
+~
+0 -1 12027
+S
+#12029
+Field of Mars - NE~
+   You are standing in the northeast corner of the Field of Mars,
+where Romans keep fit and where the famous army is trained.  Although
+originally only land-owning citizens were allowed to serve, lately
+the ranks have been opened to poorer citizens and they have been
+joining in large numbers.  If they survive their 20 years of service,
+they will be given a small pension or a plot of land.
+~
+120 0 1
+D2
+All around you you see men and women exercising.
+~
+~
+0 -1 12030
+D3
+All around you you see men and women exercising.
+~
+~
+0 -1 12028
+D4
+Up a slight hill you see the white marble steps and graceful statues
+of a small temple.
+~
+~
+0 -1 12098
+S
+#12030
+Field of Mars - SE~
+   As you gaze across this vast plain that the Romans call the Field
+of Mars, you see large groups of men (human and otherwise) training
+for the rigors of war.  Here they are lifting weights, building up
+muscle mass.  They will have to carry their weapons, three days worth
+of supplies and the implements for road and bridge and camp building
+on their backs.  If they can't keep up, the penalties are harsh.
+~
+120 0 1
+D0
+All around you you see men and women exercising.
+~
+~
+0 -1 12029
+D3
+All around you you see men and women exercising.
+~
+~
+0 -1 12027
+S
+#12031
+Temple Steps - Venus~
+   You are midway up a short flight of steps leading to the temple to
+the goddess Venus.  White marble columns tower above you, before a
+narrow flat porch where ceremonies are held.
+~
+120 0 1
+D0
+A busy street lies north, down a short flight of steps
+~
+~
+0 -1 12097
+D1
+The shadowy cavern of an inner temple lies through a small doorway.
+~
+~
+0 -1 12032
+D3
+The Forum, center of life in Rome, is filled with activity.
+~
+~
+0 -1 12034
+S
+#12032
+Temple to Venus~
+   This single, large room is dedicated to the goddess of love and
+beauty, Venus.  Around the sides of the room, silver sconces hold
+torches which provide the meager light.  In the center of the temple
+stands a statue of the goddess in all her beauty. Around the feet of
+the goddess lie offerings of flowers and sweet wine.
+~
+120 d 1
+D3
+Through a narrow door you can see the steps of the temple.
+~
+~
+0 -1 12031
+S
+#12033
+The Forum - NE~
+   This enormous open area is the center of Roman political and civil
+life.  All around you throngs of people are purchasing exotic items
+from street vendors, politicians are politicking, tourists from the
+provinces are gawking, and people are going about their daily lives.
+The forum continues west and south from here, and a large avenue
+leads east towards the East Gate.
+~
+120 0 1
+D1
+via Petrus stretches as far as your eye can see to the east.
+~
+~
+0 -1 12097
+D2
+All kinds of vendors from all over the Empire seem to have gathered
+here.
+~
+~
+0 -1 12034
+D3
+A shrine to the goddess Vesta lies in the western section of the
+Forum.
+~
+~
+0 -1 12035
+S
+#12034
+The Forum - SE~
+   This part of the forum is bordered by the western wall of the
+temple of Venus and the large public building devoted to the courts
+to the south.  The forum continues west and north.
+~
+120 0 1
+D0
+Vendors, tourists, citizens busy about their business all hurry
+through
+the forum.
+~
+~
+0 -1 12033
+D1
+A short flight of steps leads up to the beautiful temple of Venus.
+~
+~
+0 -1 12031
+D3
+The large open square of the forum continues west.
+~
+~
+0 -1 12036
+S
+#12035
+The Forum - NW~
+   A small altar holds an eternal fire, tended by 6 priestesses known
+as the Vestal Virgins.  The altar honors Vesta, ancient goddess of
+the hearth.  The Vestals are chosen from the best Roman families, and
+will serve for 30 years.  They will protect the flame with their
+lives.  The Forum continues east and south of here.
+~
+120 0 1
+D0
+A broad but busy street lies to the north, lined with buildings of
+all shapes and sizes.
+~
+~
+0 -1 12037
+D1
+More Forum, with its vendors, tourists, senators and slaves ...
+~
+~
+0 -1 12033
+D2
+The large open forum continues, filled with all manner of people and
+activity.
+~
+~
+0 -1 12036
+D3
+In the far distance you can see the east gate of Rome.  via Phobia
+will take you there, if you dare.
+~
+~
+0 -1 12154
+S
+#12036
+The Forum - SW~
+   You are standing in the southwest corner of a huge open area in
+the heart of the city of Rome.  This is a popular meeting place, the
+center of "downtown", near the important temples, public buildings
+and baths.  The important shrine to the goddess Vesta is just north
+of here, and via Phobia continues to the west.
+~
+120 0 1
+D0
+Just north of here in the temple you spot the priestesses of Vesta.
+~
+~
+0 -1 12035
+D1
+The beautiful temple to Venus can be seen from here, past the crowds.
+~
+~
+0 -1 12034
+D2
+via Rodentia runs past the large Theater building.
+~
+~
+0 -1 12058
+S
+#12037
+Via Rodentia~
+   The broad thoroughfare Via Rodentia travels north from here
+towards two enormous buildings, and the road is packed tightly with
+people of all classes traveling to and from the entertainments.  To
+the east lies an enormous office building, the Basilica Melodia
+(named for Praetor Petyus's third wife).  On the west you can see the
+graceful white columns of the Temple to Vulcan.
+~
+120 0 1
+D0
+Although you can barely see the road for all the people, it appears
+well-paved and well-swept.
+~
+~
+0 -1 12038
+D2
+~
+~
+0 -1 12035
+D3
+White marble steps rise to the temple of Vulcan.
+~
+~
+0 -1 12157
+S
+#12038
+Via Rodentia~
+   To both the west of you stands an enormous building dedicated to
+entertainment.  The wall to the east is covered with posters showing
+men and beasts in mortal combat.  The words "Colosseum - Main Entrance"
+are carved in stone over an archway.  To the west, elegant marble steps
+lead up to an important temple.  via Rodentia continues in a straight
+path north and south.
+~
+120 0 1
+D0
+via Rodentia continues past the enormous racetrack, Circus Maximus.
+~
+~
+0 -1 12039
+D1
+From the huge building you hear cries of excitement and cries of
+pain.
+~
+~
+0 -1 12125
+D2
+The center of town is filled with vendors, citizens, soldiers home on
+leave from the ever expanding frontiers.
+~
+~
+0 -1 12035
+D3
+A huge statue to Mercury leads you to believe this building is one of
+his many temples.
+~
+~
+0 -1 12155
+S
+#12039
+Via Rodentia~
+   Enormous stone buildings lie to the east and west of your spot on
+this broad thoroughfare.  Both are supported by long rows of arched
+columns, which bear the enormous weight of many tons of stone and
+concrete.  From the west wafts the strong smell of horses, and there
+is an entrance to this racetrack just under the archway labeled
+"Circus Maximus" to the west.  To the east, under a sign reading
+"#rGladiators Only!!#N" you see a small tunnel ending in darkness.
+~
+120 0 1
+D0
+Ahead, the North Gate appears to be well guarded and closed.
+~
+~
+0 -1 12096
+D1
+A small dark tunnel smells of fear and death.
+~
+~
+0 -1 12126
+D2
+via Rodentia will take you swiftly back to the center of town.
+~
+~
+0 -1 12038
+D3
+The pounding of hooves and the smell of horse dung lure you to the
+entrance of the racetrack.
+~
+~
+0 -1 12060
+S
+#12040
+Via Rulia~
+   A small dark alleyway between buildings leads north to the actor's
+entrance to the stage and east to a broader road.  The alley is not
+paved, just hard packed dirt lies beneath your feet.
+~
+120 c 1
+D0
+Through a narrow archway you can see the theater stage.
+~
+~
+0 -1 12043
+D1
+The narrow little alley takes you to a broad thoroughfare.
+~
+~
+0 -1 12041
+S
+#12041
+Via Rulia~
+   This short narrow dark alley lies between the stage entrance for
+the theater to the west and a broader, better lit roadway to the west.
+The alley is bordered on the north and south by large brick buildings.
+~
+120 0 1
+D1
+The little alley ends on the broad via Rodentia.
+~
+~
+0 -1 12042
+D3
+The little alley ends at the actors' entrance to the theater.
+~
+~
+0 -1 12040
+S
+#12042
+Intersection of Via Rodentia and Via Rulia~
+   Just south of the grand public entrance to the theater lies a
+small alleyway which follows along the side of the theater building.
+A poor alley, it is unpaved and must be very muddy when it rains.
+The walls around you are covered with posters for the current comedy
+being presented at the theater.
+~
+120 0 1
+D0
+The large entryway to the Theater is just up ahead.
+~
+~
+0 -1 12057
+D1
+A huge and very well kept basilica looks open for business.
+~
+~
+0 -1 12116
+D2
+Through the South Gate of Rome you can see rolling hills.
+~
+~
+0 -1 12095
+D3
+A small dark alleyway leads to what looks like a small side entrance
+into the theater.
+~
+~
+0 -1 12041
+S
+#12043
+Stage Left~
+   A large groove at the front of the stage holds the curtain,
+brought up for scene changes and at the beginning and end of the
+plays in this theater.  Behind you, complex machinery raises and
+lowers the elaborate scenery.  Stage Right is north of here, and you
+can explore the backstage to the west, or leave the stage area
+through the door on the south.
+~
+120 0 1
+D0
+The stage continues north of you.
+~
+~
+0 -1 12044
+D2
+Through an archway you can see a little alleyway.
+~
+~
+0 -1 12040
+D3
+The backstage area is scary ... filled with all kinds of props!
+~
+~
+0 -1 12059
+S
+#12044
+Stage Right~
+   Don't look up!  High over your head the superstructure is crammed
+with machinery designed to hold gods swinging through the background
+of melodramas and lower heavy scenery onto the stage.  Below you a
+trap door provides access for monsters and ghouls to erupt from Hell
+amidst clouds of smoke and fire.
+~
+120 0 1
+D2
+The stage continues south of you.
+~
+~
+0 -1 12043
+D3
+The backstage area is scary ... filled with all kinds of props!
+~
+~
+0 -1 12059
+S
+#12045
+Front Row Seats~
+   This row of seats provides the best view in the house of the
+stage.  It is reserved for Senators, Consuls, the Praetor and other
+nobility, all of whom contribute heavily to the upkeep of the
+theater.
+~
+120 0 1
+D0
+You can see some of your friends sitting just to your right as you face
+the stage.
+~
+~
+0 -1 12046
+D1
+The hoi polloi sits behind you.  Ignore them.
+~
+~
+0 -1 12056
+D3
+The stage production is pretty wild, with actors popping up from
+beneath the floor, sets dropping down from the ceiling ...
+~
+~
+0 -1 -1
+D4
+The cheaper seats and noisier crowd ...
+~
+~
+0 -1 12047
+S
+#12046
+Senator's Seating~
+   Seated right in front of the stage, you feel a part of every
+production.  Unfortunately, sometimes Caesar likes to take the stage,
+and then there is no escaping unnoticed.
+~
+120 d 0
+D2
+Some of your friends are sitting to your left.
+~
+~
+0 -1 12045
+D4
+A few steps up, the poorer citizens and freedmen sit.
+~
+~ 
+0 -1 12049
+S
+#12047
+Middle Tier Seating - South~
+   Stone hard benches (made of stone) form rows leading up from the
+stage.  In your grandfathers' day, people stood to watch the plays,
+but a generous citizen (who wanted to achieve great political
+office!) donated this new theater with seating.
+~
+120 d 1
+D0
+Wherever you look, you see more hard benches.
+~
+~
+0 -1 12048
+D4
+Wherever you look, you see more hard benches.
+~
+~
+0 -1 12050
+D5
+Wherever you look, you see more hard benches.
+~
+~
+0 -1 12045
+S
+#12048
+Middle Tier Seating - Center~
+   You are right in the middle of the theater.  You are center stage
+and halfway between the nobles (ahead of you) and poorer Romans
+(higher up). The play is a farce you have seen many times before.
+~
+120 d 1
+D0
+Wherever you look, you see more hard benches.
+~
+~ 
+0 -1 12049
+D2
+Wherever you look, you see more hard benches.
+~
+~ 
+0 -1 12047
+D4
+Wherever you look, you see more hard benches.
+~
+~ 
+0 -1 12052
+S
+#12049
+Middle Tier Seating - North~
+   The theater is fairly enormous, but as Rome's population has
+swollen with not only citizens and slaves but merchants and traders
+and travelers, the theater seats are often crowded.  Rome has become
+quite wealthy from it's conquests, and the business of entertainment
+has become quite lucrative.
+~
+120 d 1
+D2
+Wherever you look, you see more hard benches.
+~
+~ 
+0 -1 12048
+D4
+Wherever you look, you see more hard benches.
+~
+~ 
+0 -1 12053
+D5
+Wherever you look, you see more hard benches.
+~
+~
+0 -1 12046
+S
+#12050
+Cheap Seats - By the wall~
+   One of the worst places to sit, high up with the women and slaves
+and the otherwise disenfranchised of Rome.  Still, the excellent
+engineering of this theater means you can hear every word of the
+silly farce.
+~
+120 d 1
+D0
+Wherever you look, you see more hard benches.
+~
+~
+0 -1 12051
+D2
+A small set of stairs begins under a dark red, strangely glowing sign
+that reads "#RExit#N".
+~
+door
+~
+0 -1 12041
+D5
+Wherever you look, you see more hard benches.
+~
+~
+0 -1 12047
+S
+#12051
+Cheap Seats - South Center~
+   No togas up here.  These benches are for the lower class and
+poorest of Romans.  Still, since there are public baths available to
+everybody, your nose isn't distracting you TOO much from the play.
+~
+120 d 1
+D0
+Wherever you look, you see more hard benches.
+~
+~ 
+0 -1 12052
+D2
+Wherever you look, you see more hard benches.
+~
+~
+0 -1 12050
+S
+#12052
+Cheap Seats - North Center~
+   Dead center above the stage, which is far, far below you.  You
+could probably hear the actors if it weren't for all the noise from
+the rabble around you.  This theater was built by Pompey and holds
+about 27,000 people.  It's pretty crowded today!
+~
+120 d 1
+D0
+Wherever you look, you see more hard benches.
+~
+~ 
+0 -1 12053
+D2
+Wherever you look, you see more hard benches.
+~
+~ 
+0 -1 12051
+D5
+Wherever you look, you see more hard benches.
+~
+~
+0 -1 12048
+S
+#12053
+Cheap seats - By the stairs~
+   Fortunately today's play is pretty simple.  You recognize all the
+familiar roles by the masks the actors wear.  A fight has broken out
+between two groups of spectators to one side of you, and on the
+other, a group has started throwing things at the actors.  Guess they
+don't like the play! 
+~
+120 d 1
+D0
+Wherever you look, you see more hard benches.
+~
+~
+0 -1 12054
+D2
+Wherever you look, you see more hard benches.
+~
+~
+0 -1 12052
+D5
+Wherever you look, you see more hard benches.
+~
+~
+0 -1 12049
+S
+#12054
+Stairs to Entrance~
+   A long dark winding set of stairs leads to the grand entrance to
+the theater.  To the south and west you see a vast semicircular sea
+of stone benches packed with a rowdy crowd out for a good time.
+~
+120 d 1
+D2
+Wherever you look, you see more hard benches.
+~
+~
+0 -1 12053
+D5
+Long dark winding stairs will take you to the grand entrance.
+~
+~
+0 -1 12055
+S
+#12055
+Bottom of the Stairs~
+   A long, gracefully winding staircase leads up to the cheaper
+seats.  The stairs are lit by an occasional torch, but are otherwise
+quite dark.
+~
+120 d 1
+D2
+The Theater Lobby is crowded with people buying tickets to see
+tonight's
+plays.
+~
+~
+0 -1 12056
+D4
+Noise of a rowdy crowd drifts down through the stairwell.
+~
+~
+0 -1 12054
+S
+#12056
+Theater Entrance~
+   The huge entrance lobby is lavishly decorated with murals showing
+scenes from the the theater's most popular plays.  Some of the
+riffraff loiters here, hoping to catch a glimpse of their favorite
+actors, but the actors actually have their own entrance down an
+alleyway south of here. 
+~
+120 cd 1
+D1
+The busy thoroughfare via Rodentia catches your attention to the
+east.
+~
+~
+0 -1 12057
+S
+#12057
+via Rodentia~
+   via Rodentia is a straight street running north-south from the
+south gate of Rome to the Forum, at the center of town, then north
+again to the north gate.  It is one of the two main streets of Rome,
+and as such is lined with important buildings such as the enormous
+theater to the west and the office building (basilica) to the east.
+The offices appear closed, but you may enter the theater.
+~
+120 0 1
+D0
+The lovely via Rodentia continues.
+~
+~
+0 -1 12058
+D1
+A broad path leads east from via Rodentia past large buildings towards
+the east wall of Rome.
+~
+~
+0 -1 12110
+D2
+via Rodentia intersects with a small alleyway just south of here,
+before reaching the grand South Gate.
+~
+~
+0 -1 12042
+D3
+A crowd of people is entering the graceful building to the west.
+~
+~
+0 -1 12056
+S
+#12058
+via Rodentia~
+   You are traveling along via Rodentia, south of the center of town
+(the Forum).  To the west lie the arched walls of the huge theater
+complex recently built.  The entrance is south of here.  The street
+on the east is blocked by a huge office building.  The street itself
+runs north and south.
+~
+120 0 1
+D0
+Looking north you can see the huge open square the marks the Forum.
+~
+~
+0 -1 12036
+D2
+Just south of here is the huge theater built by Pompey.
+~
+~
+0 -1 12057
+S
+#12059
+Backstage~
+   Behind the scenery you can see the marvelous machinery that makes
+a visit to the theater here so exciting.  Great piles of props are
+lying around, waiting for plays by Plautus and Terence or dramas
+translated from the Greek by Livius Andronicus.  The theater is
+competing for patronage with the spectacles at the Colosseum and the
+races at the circus, so the plays are getting more and more
+outrageous.
+~
+120 d 1
+D1
+The front of the stage is just east of here.
+~
+~
+0 -1 12044
+D4
+Climb over some props and you'll be onstage!
+~
+~
+0 -1 12043
+S
+#12060
+Circus Maximus - Entrance~
+   A break in the long series of columns reveals the entrance to
+Circus Maximus!  Posters announce the races for today - an exciting
+series of 24 races between Rome's favorite teams.  You know they are
+Rome's favorites by the graffiti which you've seen all along the
+outside walls of this huge arena.  The ticket booth is here.
+~
+120 d 1
+D1
+Looking east you can see people headed out of and into the city as
+well as joining you at the racetrack.
+~
+~
+0 -1 12039
+S
+#12061
+Waiting Area:  North~
+   This large, crowded area lies directly under the spectators' main
+entrance.  Chariots and the freedmen and slaves who maintain them and
+drive them mill about, waiting for their race to begin.  The area
+continues to the south.  The exit to the street is north.
+~
+120 c 1
+D0
+The broad avenue via Artemis runs east and west.
+~
+~
+0 -1 12069
+D2
+Horses and chariots await the call for their race, moving about
+restlessly.
+~
+~
+0 -1 12062
+S
+#12062
+Waiting Area:  South~
+   A large, noisy, crowded area is filled with charioteers
+impatiently waiting their turn to race around the track for the glory
+of their team (and a lot of gold).  Some of them have won great fame
+and riches successfully racing.  Some may find themselves on the
+gladiatorial fields if they do not win.  The entrance to the race is
+west.
+~
+120 0 1
+D3
+The thunder of horses and a massive cloud of dust rises from the
+racetrack.
+~
+~
+0 -1 12063
+S
+#12063
+The track: Start!~
+   The praetor has dropped the white flag, and the chariots are off
+and racing!  It was very foolish of you to wander onto the track, for
+only winning matters to these teams and you are likely to be
+trampled.
+~
+120 0 1
+D3
+You have no choice but to follow the horses around the track!
+~
+~
+0 -1 12064
+S
+#12064
+The track:  And they're off!~
+   You must hurry east around the thick spina running down the center
+of the track.  The ground is soft beneath your feet, marked with the
+hooves of the racing horses and the wheel tracks from the chariots.
+~
+120 0 1
+D3
+You can't see much but a cloud of dust and the back end of a horse.
+~
+~
+0 -1 12065
+S
+#12065
+The track: At the turn~
+   The chariots race as close to the central barrier as they dare
+here.  They must balance the risks of tipping over their chariot (and
+being killed by closely following horses) with losing time taking a
+slightly longer route further from the edge.
+~
+120 0 1
+D0
+More dust, more chariots, more horses!
+~
+~
+0 -1 12066
+S
+#12066
+The track:  On the final lap~
+   The many tiers of the circus surround you here, rising high.
+Rabid fans will make successful charioteers wealthy men, and the
+losers ... may find themselves with another career.  The home stretch
+is west.
+~
+120 0 1
+D1
+You can't see anything but you can hear the thunder of hooves behind
+you.
+~
+~
+0 -1 12067
+S
+#12067
+The track:  Home stretch~
+   The tall central spine of the track looms north of you, a grand
+wall dividing the track into a large, narrow oval.  Atop the wall a
+freedman counts laps for the spectators.  At the moment he is
+excitedly waving his arms at you.  Is it because you are in danger?
+or just interfering with the races?
+~
+120 0 1
+D1
+A great cloud of dust obscures the finish line ahead.
+~
+~
+0 -1 12068
+S
+#12068
+The track:  Safety ahead~
+   The loop of racetrack ends just west of here, although the
+chariots may head south for another lap.  The citizens take their
+entertainments seriously, though, and I wouldn't interfere with it if
+I were you!
+~
+120 0 1
+D1
+A massive cloud of dust obscures all views.
+~
+~
+0 -1 12061
+D2
+A massive cloud of dust obscures all views.
+~
+~
+0 -1 12063
+S
+#12069
+Chariot Drivers' Entrance~
+   Just to the east of here the busy via Rodentia leads to the north
+gate of Rome.  This street runs between the north wall and the side
+of a huge building.  You can tell by the cheers and the pounding of
+hooves and the track of horse dung along the street that this must be
+the racetrack, Circus Maximus.
+~
+120 0 1
+D1
+The street intersects ahead with via Rodentia.
+~
+~
+0 -1 12096
+D2
+Charioteers and horses enter the huge building through this entrance.
+~
+~
+0 -1 12061
+D3
+~
+~
+0 -1 12188
+S
+#12070
+Entrance to Racetrack Seating - South~
+   Crowds of Romans pour into the seating area of the circus.  Horse
+and chariot racing are great entertainment for all levels of Roman
+society.  There's always the chance one of the charioteers will be
+trampled or crushed as he goes around the bend, and of course you
+have to yell for your team.
+~
+120 0 1
+D0
+The entrance to the seating area continues, a bare room of white
+stone covered with a layer of dust from the racetrack.
+~
+~
+0 -1 12071
+D3
+Lavishly dressed men in togas fill the stone benches to the west.
+~
+~
+0 -1 12072
+D4
+Broad steps lead up to cheaper seats.
+~
+~
+0 -1 12084
+S
+#12071
+Entrance to Racetrack Seating - North~
+   The nobles and senators seats begin their circle around the
+racetrack just west of here, and there are stairs up to the plebeian
+seats, further up to the cheap seats, or you can head down to the
+street.  But why do that when you have just bought your ticket?
+~
+120 0 1
+D2
+The large anteroom continues south to more stairs and seating.
+~
+~
+0 -1 12070
+D3
+A row of white togas tells you this is citizen only seating.
+~
+~
+0 -1 12078
+D4
+Stairs lead steeply up to cheaper seats.
+~
+~
+0 -1 12081
+D5
+You can reach the street via a set of stone steps leading down.
+~
+~
+0 -1 12060
+S
+#12072
+Augustus Maximus~
+   You have quite bravely entered the box of Augustus Aurelius
+Maximus himself.  As you might guess from his deep green tunic,
+Augustus is the primary supporter of the green team.  Augustus and
+his friends frequently avail themselves of this box to watch and
+wager on the races.  The box leads west to other nobles' boxes, or
+east to the Circus'
+entrance.
+~
+120 0 0
+D1
+The main entrance to this area lies east of here through an archway.
+~
+~ 
+0 -1 12070
+D3
+Augustus' cousin Julius has his seat off to the west.
+~
+~
+0 -1 12073
+S
+#12073
+Julius Maximus~
+   This box is usually used by the famous senator Julius Homerus
+Maximus.  He backs the green team, one of the most popular of the
+Roman chariot teams.  He found their lead charioteer, Jose, when he
+was acting as proconsul in Spain.  If this team does not win, there may
+be riots in the streets. There are more boxes to the east and west, but
+you can have a good view of the races from here.
+~
+120 0 0
+D1
+Brother Augustus has his box just east of you.
+~
+~
+0 -1 12072
+D3
+Brother Gluteus and his entourage are just to your left.
+~
+~
+0 -1 12074
+S
+#12074
+Gluteus Maximus~
+    Soft cushions laid on top of hard stone benches cushion the
+tender bottoms of Gluteus' friends and family.  From the crumbs
+remaining on the flooring here you can see he enjoys his food very
+well!  You are so close to the racetrack you can nearly touch the
+horses as they fly past north of you.  Praetor Petyus's box is in the
+honored position to your left, your cousin Julius's box is to your
+right.
+~
+120 0 1
+D1
+A stretch of stone seats designated for the senators.
+~
+~
+0 -1 12073
+D3
+The rich appointments tell you this must be the box of the Praetor.
+~
+~
+0 -1 12075
+D4
+A broad set of steps leads up to cheaper seats.
+~
+~
+0 -1 12082
+S
+#12075
+The Praetor's Box~
+  The head of state for Rome has his own box here.  A wily politician,
+he is seen to support the popular green team.  From here he can easily
+see (and be seen by) the entire circus.  Boxes belonging to nobles lie
+north-east and southeast of here.  To the immediate south lie some
+steps to reach the upper levels.
+~
+120 0 1
+D0
+More of the Praetors friends are just north of here.
+~
+~
+0 -1 12193
+D2
+Gluteus Maximus has this set of well padded benches to the
+southeast.
+~
+~
+0 -1 12074
+D4
+Narrow steps lead up to cheaper seats.
+~
+~
+0 -1 12082
+S
+#12076
+A Noble's Box South of the Praetor's Stand~
+   You are in the box of a noble at one end of the long raceway.
+This is a wild and busy day at the circus, with 250,000 wildly
+enthusiastic racing fans cheering on their favorite.  Judging by the
+blue colors you see here, this noble favors the conservative party's
+team, the Blues (the Venetians).  The praetor's box is just north of
+here, and other nobles boxes lie to the west.  To the east there are
+some steps leading up to the plebeians and lower-status boxes.
+~
+120 0 0
+D1
+The nobles' seating continues.
+~
+~
+0 -1 12077
+D3
+Praetor Petyus is watching you! Watch out!
+~
+~
+0 -1 12193
+D4
+A steep flight of stone steps leads up.
+~
+~
+0 -1 12079
+S
+#12077
+Marcus Wallgrenus Boxus~
+   The famous Roman legal eagle Marcus Wallgrenus brings important
+clients here to entertain them with an afternoon at the raceway.  From
+here they have a clear view of the horses, who pound by almost within
+touching distance of them.  The citizens' seats continue east and west. 
+~
+120 0 1
+D1
+Off to your left, more of your friends and fellow citizens cheer on
+the politically correct teams.
+~
+~
+0 -1 12078
+D3
+Is the Praetor watching you?
+~
+~
+0 -1 12076
+S
+#12078
+Seating for Citizens~
+   A cloud of dust, the crack of whips and pounding of hooves and the
+group of small chariots fly by you.  It's a do-or-die race for the
+charioteers, who hope to win fame and fortune in the race.  For the
+nobles it's a chance to be seen at a popular sport rooting for the
+right  side.  Seating continues west, and the main entrance lies off
+to the east.  Climbing up these steps will take you to the cheaper
+seats.
+~
+120 0 1
+D1
+Through the arch you can see people hurrying to their seats.
+~
+~
+0 -1 12071
+D3
+To your right your friends and fellow citizens cheer on the
+politically correct teams.
+~
+~
+0 -1 12077
+D4
+A narrow flight of stone steps leads up.
+~
+~
+0 -1 12081
+S
+#12079
+Plebeian Seats~
+   The hard concrete benches don't affect the enthusiasm of the
+racing fans here.  These seats are usually packed with Rome's
+second-class citizens, the plebeians, cheering wildly for the Leeks
+(the green team) or the Venetians (the blue team).  You will see a
+lot of gold changing hands as people bet on their favorite team.
+~
+120 0 1
+D1
+More stone benches lie to your east, packed with Romans.
+~
+~
+0 -1 12080
+D3
+The wall of the two story Praetor's box lies west of you.
+~
+~
+0 -1 -1
+D4
+Narrow stone steps lead up to the cheap seats.
+~
+~
+0 -1 12090
+D5
+Narrow stone steps lead down to the citizens' seats.
+~
+~
+0 -1 12076
+S
+#12080
+Plebeian Seats~
+   The wealthy but not-quite-noble sit in these seats, cheering on
+the leeks, their favorite team.  These are the shop owners, freedmen,
+sons born of slaves or slaves who have bought their freedom.  More
+plebeian seats stretch east and west of here.
+~
+120 0 1
+D1
+Long straight lines of stone benches stretch both east and west.
+~
+~
+0 -1 12081
+D3
+Long straight lines of stone benches stretch both east and west.
+~
+~
+0 -1 12079
+S
+#12081
+Plebeian Seats~
+   The hard stone seats stretch endlessly west from here.  Vendors
+wander up and down, selling refreshments so that spectators need
+never leave their seats.  Far to the west and down you can see the
+elaborately columned box of the Praetor.
+~
+120 0 1
+D1
+A dark door is marked with the single word "#rExit#N" (glowing).
+~
+door
+~
+0 -1 12187
+D3
+The circus stretches west for over 550m (1800ft).
+~
+~
+0 -1 12080
+D4
+Cheaper seats lie up the narrow stone steps.
+~
+~
+0 -1 12088
+D5
+The citizens' seats (and the exit) are down this flight of steps.
+~
+~
+0 -1 12078
+S
+#12082
+Plebeian Seats - South Side~
+   Across the wide (180m / 600ft) racetrack you can see a vast sea of
+faces on all three levels of the circus.  You can push your way
+through the crowd east from here, or look for more seats up or down
+the narrow stone steps.
+~
+120 0 1
+D1
+More crowded seats!
+~
+~
+0 -1 12083
+D3
+A dark door is marked with the single word "#rExit#N" (glowing).
+~
+door
+~
+0 -1 12187
+D4
+Narrow stone steps lead up to more seats.
+~
+~
+0 -1 12092
+D5
+Narrow stone steps lead down to more seats.
+~
+~
+0 -1 12074
+S
+#12083
+Plebeian Seats - South Side~
+   If today's races don't come out as hoped, there may be a riot here
+at the Circus.  The racetrack is crowded in both directions - east
+and west, and you worry about being trampled if the wrong team wins.
+Or if the right one does.
+~
+120 0 1
+D1
+A large excited crowd sits and stands on long rows of stone benches.
+~
+~
+0 -1 12084
+D3
+A large excited crowd sits and stands on long rows of stone benches.
+~
+~
+0 -1 12082
+S
+#12084
+Plebeian Seats - South Side~
+   The heat of the day combined with the sweaty bodies of 250,000
+spectators at today's race and the wild excitement is enough to make
+anyone just a bit nauseous.  You can head down the short flight of
+steps to the exit, or up the same flight to sit under the slight
+awning at the back of the top tier of the circus.
+~
+120 0 1
+D3
+More seats!  More spectators!
+~
+~
+0 -1 12083
+D4
+Up the narrow steps lie the cheapest seats.
+~
+~
+0 -1 12085
+D5
+Down the narrow steps lies the way out of the circus.
+~
+~
+0 -1 12070
+S
+#12085
+The Third Tier~
+   Stairs leading down to the plebeians and nobles' sections lie at
+your right hand as you watch the race in front of you.  This section
+is reserved for slaves and women.  To the west there is a seemingly
+endless stretch of benches.  The circus can and often does seat
+250,000 screaming Romans.
+~
+120 0 1
+D0
+A sea of seats north and south of here.
+~
+~
+0 -1 12086
+D3
+A sea of seats north and south of here.
+~
+~
+0 -1 12092
+D5
+Narrow stone steps lead down.
+~
+~
+0 -1 12084
+S
+#12086
+The Third Tier~
+   The cleaning crew clearly hasn't made it up here for a long time.
+You are w-a-a-a-y above the racetrack.  At your back is the eastern
+wall of the enormous circus, to both your left and right are more
+seats, and if you wish to leave the steps down are right at your
+feet.
+~
+120 0 1
+D0
+The cheap seats continue. 
+~
+~
+0 -1 12087
+D2
+A dark door is marked with the single word "#rExit#N" (glowing).
+~
+door
+~
+0 -1 12038
+D3
+You see someone who looks an AWFULLY like your cousin Homerus, the
+one who spits when he talks. 
+~
+~
+0 -1 12085
+D5
+The steps look too steep to negotiate safely unless you are quite
+sober. 
+~
+~
+0 -1 12084
+S
+#12087
+The Third Tier~
+   You lean back against the eastern wall of the circus and hope not
+to be trampled by all the race goers.   The crowds are truly amazing.
+The races really pack 'em in, even more than the gladiators over at
+the Colosseum or the plays in the theater.
+~
+120 0 1
+D0
+A dark door is marked with the single word "#rExit#N" (glowing).
+~
+door
+~
+0 -1 12096
+D2
+A sea of seats. 
+~
+~
+0 -1 12086
+D3
+The mass of racing fans doesn't get any thinner.  Nor do the fans. 
+~
+~
+0 -1 12088
+D5
+A narrow flight of stone steps leads down.
+~
+~
+0 -1 12081
+S
+#12088
+The Third Tier~
+   This is where many of the common Roman citizens are seated during
+the games.  Like the other commoners' areas in the coliseum, it could
+use extensive renovation and cleaning. This area extends to the north
+and lots of noise can be heard coming from the south.  
+~
+120 0 1
+D2
+A rowdy crowd over thataway.
+~
+~
+0 -1 12087
+D3
+A rowdy crowd thisaway. 
+~
+~
+0 -1 12089
+D5
+Narrow steps lead down to more elegant seating.
+~ 
+~
+0 -1 12081
+S
+#12089
+The Third Tier~
+Facing the distant racetrack, down many levels from here, the
+northernmost wall of the circus is to your back, and vast numbers of
+stone benches stretch to your right and left.  The wall continues up
+high above your head.
+~
+120 0 1
+D1
+More seats! More excited fans!
+~
+~
+0 -1 12088
+D2
+More seats! More excited fans!
+~
+~
+0 -1 12090
+D3
+A dark door is marked with the single word "#rExit#N" (glowing).
+~
+door
+~
+0 -1 12187
+D5
+Narrow stone steps lead down to more seats.
+~
+~
+0 -1 12079
+S
+#12090
+The Third Tier~
+   With your back to the wall, you enjoy the feel of the cool stone
+and the small awning overhead that provides some shade.  While it's
+not the best view of the racetrack far below, it may be one of the
+more comfortable seats! 
+~
+120 0 1
+D0
+More crowds, more seats.
+~
+~
+0 -1 12089
+D2
+More crowds, more seats.
+~
+~
+0 -1 12091
+D5
+Narrow stone steps lead down to more seats.
+~
+~
+0 -1 12079
+S
+#12091
+The Third Tier~
+   This is where many of the common Roman citizens are seated during
+the games.  These are the cheapest seats in the house, as glare from
+the sun is usually a problem during the afternoon. Like the other
+common seating  areas, this place could stand extensive renovation
+and a thorough cleaning. This area extends to the north and east and
+a much more elegant seating area can be seen below.
+~
+120 0 1
+D0
+The crowd is just as rowdy to the north.
+~
+~
+0 -1 12090
+D1
+The crowd is just as rowdy to the east.
+~
+~
+0 -1 12092
+D5
+Down some narrow stone steps is a rowdy crowd.
+~
+~
+0 -1 12082
+S
+#12092
+The Third Tier~
+   Stairs leading down to the rows of the more privileged and
+prosperous are on your right as you watch the races, and long rows of
+concrete benches stretch to the west.  You can take the stairs down a
+level if you dare, or watch the races from here.  West of the stairs
+lies the wall of the Praetor's box.
+~
+120 0 1
+D0
+More seats lie beyond the steps.
+~
+~
+0 -1 12091
+D1
+More seats and more crowds
+~
+~
+0 -1 12085
+D5
+Narrow stone steps lead down to better seats.
+~
+~
+0 -1 12082
+S
+#12093
+A Dusty Old Shop~
+Odd artifacts from the far reaches of the empire line the dusty
+shelves of this small shop.  The proprietor is nowhere in evidence,
+but you don't wonder at this, for there seems little here that anyone
+would want to steal, let alone buy!  A dusty curtain hangs across the
+back wall.
+~
+120 d 1
+D0
+The busy via Petrus is just north of here.
+~
+~
+0 -1 12011
+D2
+A dusty curtain conceals ... what?
+~
+~
+0 -1 12094
+S
+#12094
+Behind the Dusty Curtain~
+Some sort of alchemical research is apparently the purpose for this
+room.  Jars of odd colors have contents that seems even more odd.
+Smoke rises slowly in an odd swirl from a pink glass pot sitting on
+the low table in the middle of the room.
+~
+120 d 1
+D0
+Through the dusty curtain you see a dim little shop.
+~
+~
+0 -1 12093
+S
+#12095
+The South Gate~
+   This is the southern gateway to the city of Rome. The bronze gate
+is closed but not locked. Looking through the bars, you see a heavily
+traveled road leading out of the city. The grand new amphitheater is
+just north west of here.
+~
+120 0 1
+D0
+via Rodentia runs straight north to the Forum.
+~
+~
+0 -1 12042
+D2
+A well paved road leads south through rolling farmland.
+~
+~
+0 -1 9984
+S
+#12096
+The Great North Gate~
+   This is the northern gateway to the city of Rome. The huge gate
+appears to be closed and locked against intrusion. A large road muddy
+road runs through the gate and into the countryside. via Rodentia
+runs south from here. 
+~
+120 0 1
+D2
+via Rodentia runs straight to the Forum, past banks and huge
+buildings dedicated to entertainments.
+~
+~
+0 -1 12039
+D3
+To the west you notice chariots and horses and small wiry men entering
+and leaving the building.
+~
+~
+0 -1 12069
+D3
+A number of horses and racing chariots appear to be entering the circus
+through a large archway just west of here.
+~
+~
+0 -1 12069
+S
+#12097
+via Petrus~
+   Via Petrus continues between the commemorative arch and the Forum.
+This wide main street leads straight from the east gate at one end of
+the city, through the central square, the Forum, and out the west
+gate.  It is intersected at several points by other streets both broad
+and narrow, and is lined with important-looking buildings.
+~
+120 0 1
+D1
+The street runs east through the Triumphal Arch.
+~
+~
+0 -1 12024
+D2
+Graceful columns lead into a white marble temple.
+~
+~
+0 -1 12031
+D3
+A broad open square is filled with people and lined with important
+buildings.
+~
+~
+0 -1 12033
+S
+#12098
+Temple of Mars~
+   A short flight of white marble steps leads up to the temple to the
+god of war, Mars.  There is a large shaded porch here where most of
+the ceremonies take place.  The temple is lavishly decorated with
+ornate columns and there is evidence of recent sacrifices to the god.
+Perhaps the Roman army is once again on the march.
+~
+120 0 1
+D0
+A set of doors twice the height of a man open into the inner sanctum.
+~
+~
+0 -1 12099
+D5
+Down a short flight of stairs you can see a large grassy field with
+many men and women exercising.
+~
+~
+0 -1 12029
+S
+#12099
+Temple of Mars~
+   The temple is dominated by an enormous statue of the god Mars.
+Smooth muscles show the Roman ideal of manhood.  He is surrounded by
+treasures won in his name or donated by citizens in his honor.  The 
+many priests at the temple will guard the treasure.
+~
+120 od 1
+D2
+The porch to the temple lies south of here.
+~
+~
+0 -1 12098
+S
+#12100
+Stairs~
+   Wide stone steps lead up to the upper stories of this building.
+Some graffiti mars the stucco walls, but the steps are clean.  From
+the slight indentations in the stone you can tell that the steps are
+well-used.  North of here you can see the busy via Petrus.
+~
+120 0 1
+D0
+~
+~
+0 -1 12010
+D4
+~
+~
+0 -1 12163
+E
+graffiti~
+#w    Go #GLeeks!!!#N
+~
+S
+#12101
+via Dulcia~
+   A small narrow pathway fits tightly between a large block of
+apartments and small shops and the eastern wall of the city. Rome has
+grown rapidly, thanks to its many conquests.  The little alley is
+busy with merchants and citizens, slaves and women all busy going
+somewhere.  The eastern gate of the city is just north of here, a
+small shop with a tantalizing smell is just west, the eastern wall
+of the city is to the east, and the street continues south.
+~
+120 0 1
+D0
+The grand gates of Rome lie just north, with a large number of people
+passing through in both directions.
+~
+~
+0 -1 12007
+D2
+The small dim alley continues south, where it meets via Vestia
+~
+~
+0 -1 12102
+D3
+Smells of sizzling meat waft out the open door of this hot food shop.
+~
+~
+0 -1 12103
+S
+#12102
+via Vestia~
+   via Dulcia meets via Vestia at the corner of this large building
+with shops on the ground floor.  To the north, at the northern end of
+this building you can see the eastern gate of Rome and the eastern
+wall frames via Dulcia in that direction.  To the west you see an
+endless sea of buildings and temples, typical of a big city.  The
+path south is blocked by a large building and to the immediate west
+there is yet another small shop, the first along via Vestia
+~
+120 0 1
+D0
+A small, narrow walkway leads north to the East Gate.
+~
+~
+0 -1 12101
+D3
+via Vestia continues past many small shops towards a tall elegant
+marble building.
+~
+~
+0 -1 12104
+S       
+#12103
+Hot Food~
+   Delicious roast meat smells lure you in to this small hot-food
+store.  You fight with a mass of Roman slaves for your place in line.
+Surely this is an indication that the food to be had here is as good as
+it smells!  The only exit you see is to the east, back to the street.
+~
+120 d 1
+D1
+The little walkway, via Dulcia, lies just outside the shop door.
+~
+~
+0 -1 12101
+S
+#12104
+via Vestia by the Image Works~
+   A broad path, busy with foot traffic and, after dark, small carts,
+via Vestia winds past busy little shops and small parks between the
+eastern wall of Rome and the theater you see in the far distance to
+the west.  Immediately north of you lies a small shop that looks
+rather interesting.
+~
+120 0 1
+D0
+Interesting smells and sights through this doorway ... You see a
+small sign saying "Image Works".
+~
+~
+0 -1 12105
+D1
+via Vestia ends just east of here, where it meets via Dulcia and the
+eastern wall of Rome.
+~
+~
+0 -1 12102
+D3
+via Vestia continues towards a small group of very large buildings.
+~
+~
+0 -1 12106
+S
+#12105
+Image Works~
+   Appearances may be deceiving, but appearance is important!  This
+small shop sells the necessities for keeping you looking like a
+citizen on the move up!  It is a small room lined with shelves which
+are, in turn, lined with jars of cosmetics and depilatories.  A pair of
+slaves has been set up in this shop by one of the wealthier Romans.
+They will soon be able to buy their freedom.  In the meantime they are
+making a tidy fortune from the vanity of their fellow Romans.
+~
+120 d 1
+D2
+via Vestia lies right out the door.
+~
+~
+0 -1 12104
+S
+#12106
+via Vestia by the Fuller~
+   This broad path gets a lot of traffic, leading as it does past
+shops and apartments, theaters and courts.  Just to the north on this
+part of the street lies the fuller's shop.  via Vestia continues east
+and west from here.
+~
+120 0 1
+D0
+Strong smells and a wave of heat flow from the small fuller's shop
+north of here.
+~
+~
+0 -1 12107
+D1
+Not far from here via Vestia runs into the Eastern Wall of the city.
+~
+~
+0 -1 12104
+D2
+A strongly unpleasant odor comes to you from the south.
+~
+~
+1 -1 12190
+D3
+Off in the distance there is a small cluster of large buildings.
+~
+~
+0 -1 12109
+S
+#12107
+A Fuller~
+   Keeping your toga white in a society that has yet to discover soap
+requires some doing.  The fuller is here to help you.  Using a
+special kind of clay known as "fuller's earth", many stains can be
+removed and you can once again wear clothes as sweet smelling as your
+body!  Fortunately for toga wearers, one size fits all.
+~
+120 d 1
+D2
+via Phobia beckons to you from the open doorway.
+~
+~
+0 -1 12106
+S
+#12108
+Jewelry Shop~
+   Beautiful rings, bracelets and cameos, necklaces and waist chains
+all glitter from the tables of this very exclusive little shops.
+Beautiful jewels from the far reaches of the republic have been
+brought here and fashioned into beautiful ornaments for the wealthy.
+The street lies south, past the burly guards.
+~
+120 d 1                                                                    
+D2                                                                                                                                                                                                                                                             
+
+                                                                                                                                                                                                                                                               
+
+                                                                                                                                                      
+The busy street is just outside the door.
+~
+~
+0 -1 12109
+S
+#12109
+via Vestia outside the Jewelry Shop~
+   This part of the street tends to be a bit crowded as there are
+usually strong guards by the Jeweler's' to the north.  It is a small
+shop, well kept.  The street continues east and west from here.
+~
+120 0 1
+D0
+A tiny jewel of a shop lies just north of here.
+~
+~
+0 -1 12108
+D1
+Off to the east in the distance you can see the great rise of the
+East Wall.
+~
+~
+0 -1 12106
+D3
+Not so far off lies the theater!
+~
+~
+0 -1 12110
+S
+#12110
+via Vestia~
+   You are surrounded by the large buildings and rapid pace of a
+large city.  Just south of you lies a large white marble building, at
+least two stories tall.  Directly to the west is the graceful theater
+building, and the path north on via Phobia leads past several shops
+to a lovely small temple devoted to Venus.
+~
+120 0 1
+D0
+via Phobia runs the short distance along the length of the building
+just to the east to the via Petrus.
+~
+~
+0 -1 12112
+D1
+via Vestia continues eastward to the eastern wall of Rome.
+~
+~
+0 -1 12109
+D2
+The steps of the great court building are just south of here.
+~
+~
+0 -1 12116
+D3
+The intersection of via Vestia with via Rodentia is a busy one.
+Directly across the busy street lies the theater!
+~
+~
+0 -1 12057
+S
+#12111
+Swords 'R  Us~
+   Welcome to the weapon shop of Titus Andronicus!! Rare halberds,
+whips, swords and other instruments of death are proudly displayed on
+the walls and in gleaming glass cases. More common weapons are
+stacked like wood on the floor.  
+~
+120 0 1
+D0
+You can spot some armor in this direction.
+~
+~
+0 -1 12113
+D3
+Across a short but busy street you can hear what sounds like a very wild
+party.
+~
+~
+0 -1 12112
+S
+#12112
+via Artemis~
+   This little road runs north and south between via Vestia and
+via Petrus, past small shops and temples.  Just east of here lies a
+small armory.  To the north you see the back of the temple to Venus,
+just west lies the temple to Bacchus (from which you hear a great
+deal of noise) and the via Vestia, a broad road, lies directly to the
+south.  
+~
+120 0 1
+D1
+The smell of leather, bronze and steel comes to you from the shop
+just east of here.
+~
+~
+0 -1 12111
+D2
+via Vestia
+~
+~
+0 -1 12110
+D3
+Loud sounds of parties and play come from the temple to the west.
+~
+~
+0 -1 12114
+S
+#12113
+Good as New Armor~
+   Good equipment is important for soldiers of the republic!  And
+with the ... er ... short lifespan of the gladiators, there seems to
+always be (slightly used) equipment available for sale here.  There
+IS a slight remaining smell of blood and sweat here that just won't
+quite come out of even some of the best pieces.  The street is right
+out the door to the west.
+~
+120 0 1
+D2
+Look sharp!
+~
+~
+0 -1 12111
+S
+#12114
+Wild and Crazy~
+   Up a short flight of steps, on a wide portico a celebration is
+going on.  Grapes from the last harvest and wine from the good years
+before that are brought in offering to the god of wine and fertility.
+Inside the temple (west from here) you hear moans and soft murmurs of
+what sounds like a group of Romans having an outrageously good time.
+Not in the mood to party?  The street is still just east of here.
+~
+120 0 1
+D1
+A quiet little paved street is just east of here.
+~
+~
+0 -1 12112
+D3
+Hmm ... 
+~
+~
+0 -1 12115
+S
+#12115
+Bacchus~
+   Bacchanalia, celebrations of wine, song and fertility, take place
+here on a regular basis.  Anything to keep the gods appeased.  The
+Romans will make that sacrifice! The party continues on the temple's
+portico east of here.
+~
+120 0 1
+D1
+Sounds of a party ... perhaps you should go see.
+~
+~
+0 -1 12114
+S
+#12116
+Courts - Grand Central Hallway~
+   Gleaming black and white marble squares make a formal pattern in
+floor of this grand hallway.  You are in the central hallway of one
+of the huge basilicas in Rome, an office building filled with courts
+and law offices and business offices of all sizes.  There are lovely
+archways both north and south, and the Grand Hallway continues east.
+Sounds of street traffic echo vaguely from the west.
+~
+120 0 1
+D0
+Through the archway you see an elegantly furnished office.
+~
+~
+0 -1 12119
+D1
+Light gleams off of highly polished marble floors.
+~
+~
+0 -1 12117
+D2
+An ornate arch appears to lead to an office of some sort.
+~
+~
+0 -1 12124
+D3
+The grand entranceway to the basilica features a porch and many steps
+down to the street.
+~
+~
+0 -1 12042
+S
+#12117
+A Statue of Jason~
+   You stand in the middle of a magnificent hallway, lined with white
+marble columns that stretch gracefully high above you.  In the center of
+the hallway is a statue of the architect's hero, Jason of the Greek
+Argonaut myth.  To the west the hallway continues, ending in the street
+via Rodentia.
+~
+120 0 1
+D0
+The hallway is lined with offices and courts.  One of them is just
+north of here, another to the south.
+~
+~
+0 -1 12120
+D1
+The black and white marble squares continue east and west.
+~
+~
+0 -1 12118
+D2
+The hallway is lined with offices and courts.  One of them is just
+north of here, another to the south.
+~
+~
+0 -1 12123
+D3
+The black and white marble squares continue east and west.
+~
+~
+0 -1 12116
+S
+#12118
+Grand Central Hallway~
+   You are standing at one end of a huge open central atrium in a
+large office building in Rome.  The ceiling soars two very tall
+stories above you, this end capped in a half dome.  Black and white
+marble squares stretch in dizzying array all the way to the entrance
+at the western end.  Just north of here lies one of many Roman
+courts.  To the south is a holding area.
+~
+120 0 1
+D0
+A grand courtroom lies just north of here.  You hope the judge is in
+a good mood!
+~
+~
+0 -1 12121
+D2
+A waiting room lies just to the south of here.
+~
+~
+0 -1 12122
+D3
+The beautiful lobby continues west.
+~
+~
+0 -1 12117
+E
+statue Jason~
+A marble statue of a young man in his prime, Jason bears navigational
+instruments in one hand.  His attention is very focused, and you suppose
+he must be concentrated on the dragon he soon will face.  He is
+surrounded by statues in niches set along the sides of the hallway.
+Each niche contains a statue to one of his companions on the voyage.
+You can see Hercules, Castor, Pollux, Orpheus and Theseus.
+~
+S
+#12119
+Courts - Law Office of Marcus Wallgrenus~
+   A massive polished ebony desk greets you as you walk into this
+luxuriously appointed office.  One wall is covered with shelves and
+small caskets holding scrolls.  A small scribe's desk sits to one side
+of the room, and two bronze and leather chairs invite you to sit while
+you consult with the lawyer, Marcus Wallgrenus.  The elegant archway
+south of here leads to the grand hallway of the basilica.
+~
+120 0 1
+D2
+~
+~
+0 -1 12116
+S
+#12120
+The Banker~
+   A large citizen in a pristine toga named Albertus Tellus Maximus
+will handle your monetary transactions for you.  The bank is large and
+luxuriously appointed with fine paintings and sculptures of gods of
+wealth and power.  You can feel confident that the banker will take
+good care of your money.
+~
+120 0 1
+D2
+The huge graceful lobby of the basilica lies to the south.
+~
+~
+0 -1 12117
+S
+#12121
+Courtroom~
+   You are standing in the courtroom where citizens bring their civil
+and criminal complaints.  Attached to the broad front panel of the
+judge's desk you see the great seal of the republic.  The courtroom
+exits to the south, but there may be another exit for the judge.
+~
+120 c 1
+D2
+An elegant archway leads to the central lobby of the building.
+~
+~
+0 -1 12118
+S
+#12122
+Waiting Area~
+   This beautiful space shows signs of a recent struggle.  This is
+where the defendants await their trial, guarded by minions of their
+accuser.  There are no state police, although there is a set of laws
+created by the senate and assembly.  If you want to bring a wrongdoer
+to justice, you will have to bring him there yourself!  The door to a
+very grand hallway lies to the north.
+~
+120 0 1
+D0
+The grand hallway is crowded with citizens going about their business.
+Directly across the hall you see the entrance to the courtroom.
+~
+~
+0 -1 12118
+S
+#12123
+Investment Advice~
+   An aura of tasteful wealth fills this room, the office of one
+Antonius Banderus (Quaestor Tony, Financial Advisor).  The seats
+are made of an exotic leather.  From the spots you think it might be
+leopard.  The walls are covered with beautiful murals depicting "the
+good life".  Antonius will, for a small fee, take your money and invest
+it so that you, to, may partake of the good life.  There is an archway
+north leading to a very grand hallway.
+~
+120 0 1
+D0
+~
+~
+0 -1 12117
+S
+#12124
+Law Offices~
+   The law offices of Antonius the Younger are tastefully decorated
+with a floor mosaic in aqua and ochre, an abstract design.  The walls
+are covered with murals depicting scenes from the life of Jupiter, and
+a small marble statue of Antonius the Elder sits on a pedestal in the
+corner, well dusted.
+~
+120 0 1
+D0
+A beautiful Grand Hallway links all of the expensive offices.
+~
+~
+0 -1 12116
+S
+#12125
+Colosseum Entrance - Patrons~
+   The grand entrance to the Colosseum is occupied by a small serious
+man who will take your gold and sell you a ticket.  The entrance is
+lit by daylight streaming in, and while you are waiting you read the
+posters advertising the day's events.  After you buy your ticket, you
+may activate the entrance, then enter the Colosseum.
+~
+120 c 1
+D3
+The busy street is just to the west.
+~
+~
+0 -1 12038
+S
+#12126
+Colosseum Entrance - Gladiators Only~
+   A small dark tunnel leads to the arena itself.  This is the
+gladiators' entrance, and the exit for those who are successful in
+the games.  Those who do not succeed are fed to the animals.  There is
+no exit from the arena without combat.  Curiosity seekers are eaten.
+The arena lies to the east, the exit to the street is west.  Choose
+wisely.  #wIf you are not at least level 20, you will probably die in
+here.#N
+~
+120 c 1
+D1
+Can't see much of anything at the end of the tunnel.
+~
+~
+0 -1 12128
+D3
+A wiser decision!
+~
+~
+0 -1 12039
+S
+#12127
+Martyrs~
+   A number of martyrs have been placed here, waiting to be
+executed.  It is a pitiful little room with a dirt floor, badly torn
+up in places.  Some of the martyrs sit around dejectedly, waiting
+to die.  Others stride about the room, glaring at nobody in
+particular.  The exit, if the door hasn't closed behind you, is to
+the east.
+~
+120 0 1
+D1
+A small wooden door lies between you and the questionable safety of
+the arena.
+~
+~
+1 -1 12128
+S
+#12128
+Colosseum Floor - NW~
+   The blood-colored sands shift beneath your feet, your footing is
+consequently insecure.  All around you are small doors, mostly
+unmarked. With your back to the corner, the arena stretches out to both
+your left and right, and the Colosseum seating rises up to the
+heavens.  Neither the gods, the spectators nor the other gladiators are
+likely to have mercy on you.
+~
+120 0 1
+D0
+A small nondescript wooden door appears to blend into the wall.
+~
+door
+~
+7 12101 12138
+D1
+The bloody sand continues.
+~
+~
+0 -1 12129
+D2
+The arena stretches out to the far wall.
+~
+~
+0 -1 12132
+D3
+A small nondescript wooden door appears to be built into the wall.
+~
+door
+~
+1 12101 12127
+S
+#12129
+Colosseum Floor - NE~
+   What are you DOING out here?  You have a death wish or something?
+This is the arena, the area where to-the-death battles take place.
+You are surrounded by a vast seating area filled with Romans waiting to
+watch you die.  They prefer slow and horrible, so perhaps you should
+find your way out of here quickly!  The arena continues to the west
+and south, and there are small doors to the north and east.
+~
+120 0 1
+D0
+A small wooden door is set into the wall.
+~
+door
+~
+1 12101 12139
+D1
+A small wooden door is set into the wall.
+~
+door
+~
+1 12101 12130
+D2
+The bloody arena continues south.
+~
+~
+0 -1 12133
+D3
+The bloody arena continues west.
+~
+~
+0 -1 12128
+S
+#12130
+Bear Pit~
+   A small tomb-like room has been set aside for the bears.  It is
+clear that they are NOT happy here despite the darkness that must
+remind them of winter caves.  The metal door and the walls are covered
+with claw marks.  The only exit seems to be through that door to the
+south.  The one that seems to be missing a doorknob.
+~
+120 0 1
+D3
+A small wooden door leads into the arena.
+~
+door wooden
+~
+3 -1 12129
+S
+#12131
+Wolves~
+   This area is where the wolves are kept prior to being unleashed to
+fight other animal or human gladiators.  It is a dark and airless
+place, your feeble light barely displaces the darkness.  You can feel
+the distress of the animals kept here.  It lingers in the air long
+after they've been set loose to prowl the arena.
+~
+120 0 1
+D1
+A small wooden door leads into the arena.  There is no knob on this
+side.
+~
+~
+3 -1 12132 
+S
+#12132
+Colosseum Floor - SW~
+   Large vats of incense sit in this and every corner of this round
+arena.  The heavy perfume will perhaps disguise the smell of blood
+and death that surrounds you.  The arena continues north and east, and
+at your back you see two small doors.
+~
+120 0 1
+D0
+The bloody arena continues.
+~
+~
+0 -1 12128
+D1
+Smoke rises in a lazy spiral from a vat of incense.
+~
+~
+0 -1 12133
+D2
+The wall of the arena shows marks of being caught in the combat, but
+you can still make out the outlines of a door.
+~
+door
+~
+7 12101 12135
+D3
+The wall of the arena shows evidence of the many battles that have been
+waged here.
+~
+door
+~
+7 12101 12131
+S
+#12133
+Colosseum Floor - SE~
+   The southeast wall of the arena curves around you, high over your
+head.  There is no convenient rail to jump over should you suddenly
+be threatened with goring by some minotaur.  Over your head, the a
+mosaic spells out your grand entrance words, "We who are about to die
+salute you!!".  Perhaps if you appear brave the crowd will be lenient
+should you be so unfortunate as to lose a contest ...  There are small
+unmarked doors.
+~
+120 0 0
+D0
+It seems the gladiators in the arena are looking at you and laughing.
+~
+~
+0 -1 12129
+D1
+~
+door
+~
+7 12101 12134
+D2
+~
+door
+~
+7 12101 12136
+D3
+The gladiators who are waiting to fight are snickering as they catch
+sight of you.
+~
+~
+0 -1 12132
+S
+#12134
+Minotaurs~
+   Imported especially from Minos for the delight of the blood
+thirsty Roman fans, the minotaurs in this holding pit have long,
+sharp horns, and they know how to use them.  Far more dangerous than
+the animals brought here to kill prisoners (and other hapless souls
+who get in their path), these minotaurs have the intelligence to
+fight a strong battle.
+~
+120 0 1
+D3
+There doesn't appear to be a doorknob on this side of the door.
+~
+door
+~
+3 -1 12133
+S
+#12135
+Prisoners~
+   Execution as entertainment.  These prisoners have nothing to lose.
+They know they are here to feed the lions, rhinoceri or whatever rare
+beast happens to be on display in the arena today.  I don't think
+this has put them in a very happy mood.  Better head back out north
+from here.
+~
+120 y 0
+D0
+A small plain wooden door has no doorknob on it on this side.  Hope
+you didn't close the door when you came in here.
+~
+~
+3 -1 12132
+D5
+The floor is made of well packed dirt and clay.
+~
+dirt
+~
+2113 -1 12137
+S
+#12136
+Tigers, Oh My!~
+   Gold and black striped tigers brought here from the far reaches of
+the empire pace restlessly back and forth, occasionally snarling with
+their displeasure at being so caged.  Their long claws have made deep
+indentations in the tall wooden post at the back of the cage.  Your
+only way out of here is the small wooden door leading north.
+~
+120 d 0
+D0
+A small plain wooden door has been built into the wall here.  It has no
+knob on this side, however.
+~
+~
+3 -1 12133
+S
+#12137
+Tunnel Out~
+   A long, dark tunnel has been dug from the hard packed clay floors
+of the prisoner's cell.  You can barely squeeze into it - those
+prisoners are much more underfed than you - and you don't know
+whether it has an ending in some place that you would like to be.  On
+the other hand, how could it be worse than the pit of death of the
+Arena?
+~
+120 c 1
+D4
+Dim light strains into the tunnel from this direction.  The floor above
+you is much too high to reach.
+~
+~
+1 -1 -1
+D5
+A strong stench has the unmistakable odor of raw sewage.
+~
+~
+0 -1 12159
+S
+#12138
+Lion Pit~
+   Like pampered pets, the lions are relatively well cared for.  The
+pit that is their home while they are waiting for lunch is fairly large
+but lit only by what faint daylight trickles in through a grilled
+opening in one wall.  A small door leads south to the arena, but it has
+no knob on this side.
+~
+120 0 1
+D2
+A small wooden door is set into the wall, but it has no knob on this
+side.
+~
+~
+3 -1 12128  
+S
+#12139
+Pacing Panthers~
+   Sleek black panthers have been brought back from the far reaches
+of the empire for the spectators' enjoyment.  The small holding area is
+more like a cell, airless and dark.  During summer months it is an
+oven, and during the winter it is damp and cold.  Just to the south you
+can hear the noises of the gladiators' arena.
+~
+120 0 1
+D2
+A small wooden door is set into the wall, but it has no knob on this
+side.
+~
+~
+3 -1 12129 
+S
+#12140
+Colosseum Seating~
+   Long, rough wooden benches stretch endlessly around you, providing
+seating for slaves and women.  You are far above the blood-soaked sand
+where gladiators bravely die and wild animals are brutally slaughtered.
+Seating continues to the north and south, or you may climb down into
+the marble benches beneath you.
+~
+120 0 1
+D0
+Wooden benches provide seating for the likes of you.
+~
+~
+0 -1 12149
+D2
+Wooden benches provide seating for the likes of you.
+~
+~
+0 -1 12141
+D5
+Marble benches make a smooth if not soft cushion for your bottom.
+~
+~
+0 -1 12148
+S
+#12141
+Colosseum Seating~
+   With your back to the southern wall of the arena, the gladiators and
+animals look like tiny dolls far below you.  The wooden bench is rough
+beneath you, and looks well weathered.  You are surrounded by the poor,
+who are loudly yelling for their favorite in the deathly fight going on
+below you.
+~
+120 0 0
+D0
+A sea of rough wooden benches has been set up for the likes of you.
+~
+~
+0 -1 12148
+D1
+A large dark door is marked with the single word "#rExit#N" (glowing).~
+door~
+1 -1 12033
+D3
+A sea of rough wooden benches has been set up for women and slaves.
+~
+~
+0 -1 12142
+D4
+Rough seating lies further up.
+~
+~
+0 -1 12140
+D5
+The marble benches below you are no softer than the wooden ones, but
+they are stronger and definitely more prestigious.
+~
+~
+0 -1 12146
+S
+#12142
+Colosseum Seating~
+   From your vantage point high against the southern wall of the
+Colosseum, the bloody battle far below you seems like those fantasies
+you see at the theater, and not at all real.  The wooden benches
+continue east and west of here, but you could climb down to the marble
+benches.
+~
+120 0 0
+D1
+~
+~
+0 -1 12141
+D3
+~
+~
+0 -1 12143
+D5
+~
+~
+0 -1 12147
+S
+#12143
+Colosseum Seating~
+   The Colosseum is a huge oval arena, providing entertainment for
+50,000 screaming fans.  In the hot summer heat, canvas awnings are
+rolled out to comfort even the women and the slaves as they watch
+criminals being put to death or gladiators earning fame and glory.
+If you don't like this vantage point, you can move north or east, or
+try your luck in the more expensive seats.
+~
+120 0 0
+D0
+~
+~
+0 -1 12151
+D1
+~
+~
+0 -1 12142
+D2
+A small sign over a large doorway says "EXIT".
+~
+~
+1 -1 12039
+D5
+~
+~
+0 -1 12147
+S
+#12144
+Colosseum Seating~
+   An endless sea of stone benches faces you.  There are no markers
+to tell you precisely where your seat lies, and you can only go by the
+glares of the other spectators to tell if you are in a section where
+YOU are not ALLOWED.  Somewhere below you a to-the-death battle is
+going on between man-and-man or man-and-beast.  If you don't find your
+proper seat soon, you will be in a battle of your own.
+~
+120 0 0
+D0
+~
+~
+0 -1 12150
+D1
+~
+~
+0 -1 12145
+D3
+~
+~
+0 -1 12147
+D4
+~
+~
+0 -1 12143
+D5
+~
+~
+0 -1 12151
+S
+#12145
+Colosseum Seating~
+   You are rapidly becoming lost in a seemingly endless circle of long
+marble, stone and wooden benches.  This Colosseum is vast in size and
+although you have seen many exits, you have yet to find your seat.
+~
+120 0 0
+D0
+~
+~
+0 -1 12150
+D1
+~
+~
+0 -1 12148
+D2
+~
+~
+0 -1 12146
+D3
+~
+~
+0 -1 12144
+D4
+~
+~
+0 -1 12149
+S
+#12146
+Colosseum Seating~
+   Games and displays at this Colosseum have nearly made the elephant
+in northern Africa, one of Rome's many provinces, extinct.  They have
+also made the current government of Rome very popular.  Marble bench
+(senatorial and noble) seating continues in most directions.
+~
+120 0 0
+D0
+Marble benches await the caress of your behind.~
+~
+0 -1 12145
+D1
+White marble benches surround the arena.~
+~
+0 -1 12148
+D2
+Patrician or plebeian, marble or wooden benches, the fans are just as
+loud.~
+~
+0 -1 12141
+D3
+~
+~
+0 -1 12147
+D4
+~
+~
+0 -1 12148
+D5
+~
+~
+0 -1 12147
+S
+#12147
+Colosseum Seating~
+   An endless sea of stone benches faces you.  There are no markers
+to tell you precisely where your seat lies, and you can only go by the
+glares of the other spectators to tell if you are in a section where
+YOU are not ALLOWED.  Somewhere below you a to-the-death battle is
+going on between man-and-man or man-and-beast.  If you don't find your
+proper seat soon, you will be in a battle of your own.
+~
+120 0 0
+D0
+~
+~
+0 -1 12144
+D1
+~
+~
+0 -1 12146
+D2
+~
+~
+0 -1 12142
+D3
+~
+~
+0 -1 12143
+D4
+~
+~
+0 -1 12142
+S
+#12148
+Colosseum Seating~
+   Halfway up the eastern side of the Colosseum, you can easily hear
+the gladiators' entering cry of, "Morituri te Salutant".  They look
+quite brave, they who are about to die.
+~
+120 0 0
+D0
+~
+~
+0 -1 12149
+D1
+~
+~
+0 -1 12140
+D2
+~
+~
+0 -1 12141
+D3
+~
+~
+0 -1 12145
+D4
+~
+~
+0 -1 12140
+D5
+~
+~
+0 -1 12146
+S
+#12149
+Colosseum Seating~
+   You are among the poorest of Rome's populace, so high up that your
+nose begins to bleed.  To your right, a vicious argument is breaking
+out over an unpaid wager.  Far below you, a small group of criminals is
+about to be torn apart by lions.
+~
+120 0 0
+D2
+~
+~
+0 -1 12140
+D3
+~
+~
+0 -1 12150
+D5
+~
+~
+0 -1 12145
+S
+#12150
+Colosseum Seating~
+   The scent of incense from the Colosseum floor does not quite reach
+this high, but the stench of blood and death does.  It excites those
+around you, making them somewhat more aggressive than they might
+otherwise be.
+~
+120 0 0
+D1
+~
+~
+0 -1 12149
+D2
+~
+~
+0 -1 12144
+D3
+~
+~
+0 -1 12151
+D5
+~
+~
+0 -1 12145
+S
+#12151
+Colosseum Seating~
+   High up against the western wall of the Colosseum, you are glad to
+miss the afternoon sun, which can be quite hot here despite the canvas
+awning which is unfurled in early afternoon.  Wooden benches encircle
+the Colosseum at this height, a haven for slaves and the poor.  There
+is a large sign if you look north.
+~
+120 0 0
+D0
+There is a large sign here which says, "EXIT".
+~
+~
+0 -1 12039
+D1
+~
+~
+0 -1 12150
+D2
+~
+~
+0-1 12143
+D5
+~
+~
+0 -1 12144
+S
+#12152
+Temple of Jupiter~
+   Beautifully kept white marble steps lead up to an ornate portico
+before an immense temple.  As you move towards the row of tall white
+pillars lining the front of the temple, you look up to see statues over
+the entrance move as if they were alive.
+~
+120 d 1
+D0
+via Phobia is a busy street.  You hear vendors hawking their wares,
+beggars begging, and all the noises of a big city.
+~
+~
+0 -1 12154
+D2
+Cool darkness prevents you from peering into the god's inner sanctum.
+~
+~
+0 -1 12153
+S
+#12153
+Temple of Jupiter~
+   The temple of Jupiter is dominated by an immense white marble statue
+of the king of the Gods.  Jupiter manages to look both noble and
+fierce, holding a thunderbolt in one hand with which to smite you, and
+a staff in the other.  Do NOT make him angry.  He is quite fierce.
+~
+120 d 0
+D0
+~
+~
+0 -1 12152
+S
+#12154
+via Phobia by Jupiter~
+   via Phobia begins at the Forum just east of here and continues in its
+broad path straight to the western gates of the city.  To the north you
+can see the white stone steps to the temple of Vulcan.  Just to the
+south lies the entrance to the temple to Jupiter.
+~
+120 0 0
+D0
+The wide marble steps provide entrance to the temple of Vulcan.
+~
+~
+0 -1 12157
+D2
+There seems to be some kind of sacrifice happening at the temple south
+of here.
+~
+~
+0 -1 12152 
+D1
+~
+~
+0 -1 12035
+D3
+~
+~
+0 -1 12175
+S
+#12155
+Temple of Mercury~
+   Signs of recent sacrifices to the cunning god of businessmen and
+thieves are strewn about the temple floor.  Public celebrations are
+held here, and once a year a huge banquet is held in his honor here.
+From here you can look west and down to the busy via Rodentia.  Nearby
+you hear the roar of crowds, thundering hooves, and the screams of the
+dying.  Rome is truly an exciting place to be.
+~
+120 d 0
+D1
+via Rodentia lies just east of here.
+~
+~
+0 -1 12038
+D3
+The mysteries of the inner temple lie just through that enormous
+archway.
+~
+~
+0 -1 12156
+S
+#12156
+Inside the Temple of Mercury~
+   An abundance of small, flat oil lamps does little to illuminate the
+vast darkness of the inside of this temple.  God of trade and thieves,
+the temple is supported by the wealthy businessmen of Rome, who give
+10% of their profits for the upkeep of the shrine.
+~
+120 d 0
+D1
+An uncomfortable amount of sunlight pours in through the open doorway.~
+~
+0 -1 12155
+S
+#12157
+Temple of Vulcan~
+   Broad marble steps lead up to a wide porch between tall marble
+columns.  On this raised platform you can see a large altar, with the
+remnants of recent sacrifices.  Through the open doors that tower
+above you you can the cool dim recesses of the temple itself.
+~
+120 d 0
+D1
+~
+~
+0 -1 12037
+D2
+Steps down from the temple lead both south and west, both to busy
+streets.
+~
+~
+0 -1 12154
+D3
+Steps down from the temple lead west to the busy via Rodentia.
+~
+~
+0 -1 12158
+S
+#12158
+Temple of Vulcan~
+  Stepping into the cool darkness of the interior temple you are
+immediately struck by an enormous statue of the god in all his glory.
+So lifelike you are tempted to touch it to see if it is really cool
+marble or warm flesh, but the mighty frown on the god makes you
+hesitate.
+~
+120 d 0
+D1
+The wide space flanked by tall columns lies just to the east, and is
+the only exit.
+~
+~
+0 -1 12157
+E
+statue~
+Vulcan is holding an iron hammer in his hands.  He looks prepared to
+use it.
+~
+S
+#12159
+The Sewers~
+   A disorienting maze of tunnels carry off excess rain water and sewage
+and dump them into the Tiber downstream from Rome.  The tunnels are
+large enough for all but giants to walk through standing upright, but
+only those forced to work or flee down here will be found here.  They
+are probably not in a good mood, being here.
+~
+120 dg 0
+D0
+It is very dark, unlit, and smells bad in all directions.
+~
+~
+0 -1 12162
+D1
+It is very dark, unlit, and smells bad in all directions.
+~
+~
+0 -1 12160
+D2
+It is very dark, unlit, and smells bad in all directions.
+~
+~
+0 -1 12161
+D4
+It is very dark, unlit, and smells bad in all directions.
+~
+~
+0 -1 12137
+S
+#12160
+The Sewers~
+   Little light trickles in here.  There are many entrances to the
+sewers, but the sewers are vast in size and have many turns and twists,
+foiling the light that would illuminate them.  If you failed to bring a
+light source with you, you may wander forever in darkness.
+~
+120 dg 0
+D0
+It is very dark, unlit, and smells bad in all directions.
+~
+~
+0 -1 12161
+D2
+It is very dark, unlit, and smells bad in all directions.
+~
+~
+0 -1 12162
+D3
+It is very dark, unlit, and smells bad in all directions.
+~
+~
+0 -1 12159
+S
+#12161
+The Sewers~
+   It is dark here, and the stench is enough to kill even those with a
+cast iron stomach.  What look like glowing eyes in the darkness may
+turn out to be just that ... eyes of some unbearable monster.  You are
+disoriented, not sure which way to turn.
+~
+120 dg 0
+D0
+It is very dark, unlit, and smells bad in all directions.
+~
+~
+0 -1 12159
+D1
+It is very dark, unlit, and smells bad in all directions.
+~
+~
+0 -1 12162
+D3
+It is very dark, unlit, and smells bad in all directions.
+~
+~
+0 -1 12160
+D4
+It is very dark, unlit, and smells bad in all directions.
+~
+~
+0 -1 12189
+S
+#12162
+The Sewers~
+   Endless twists and turns in the dark, unlit bowels of the city make
+you feel lost and confused.  The smell makes you retch.  The walls are
+rough brick, damp to the touch.  The floor is rough beneath your feet.
+~
+120 adg 0
+D0
+It is very dark, unlit, and smells bad in all directions.
+~
+~
+0 -1 12160
+D2
+It is very dark, unlit, and smells bad in all directions.
+~
+~
+0 -1 12159
+D3
+It is very dark, unlit, and smells bad in all directions.
+~
+~
+0 -1 12161
+D4
+It is very dark, unlit, and smells bad in all directions.
+~
+~
+0 -1 12190
+S
+#12163
+Stairway~
+   Wooden steps lead up to cheaper apartments and down towards the
+street.  The steps are dimly lit by window arches cut high up into the
+wall.  It would be easy to miss your step here and fall.  An elegant
+apartment takes up most of this level, starting east of here.
+~
+120 d 0
+D1
+A door leads east into an apartment, probably a wealthy one.
+~
+door~
+257 12102 12168
+D4
+The stairs go up.
+~
+~
+0 -1 12174
+D5
+The stairs go down.
+~
+~
+0 -1 12100 
+S
+#12164
+Cenaculum~
+   You have stumbled into the children's sleeping quarters in this
+large elegant apartment.  From the numbers and variety of toys, you can
+tell these are much pampered and well-loved children, well cared-for by
+their slaves.  The parents' room is just to the east.
+#YA small boy plays quietly here, hoping his parents think he's
+sleeping.
+#YThe little girl sleeps soundly through her parents' party.#N
+~
+120 0 0
+D1
+A larger, more furnished room lies to the east.
+~
+~
+0 -1 12165
+D2
+The apartment entranceway is the atrium, and is immediately south of
+here.
+~
+~
+0 -1 12168
+S
+#12165
+Cenaculum - Mater and Pater~
+   Beautiful mosaics decorate both walls and floor of this nobleman's
+apartment in town.  A bronze chair with a back and arm rests is
+evidence of the family's wealth.  The banquet rooms are just east of
+here.  The children are to the west, and the entrance room with the
+family's shrine is south.
+~
+120 d 0
+D1
+A large elegant room may be seen through a partially open door.
+~
+~
+1 -1 12166
+D2
+A large open room lies south of here.
+~
+~
+1 -1 12168
+D3
+Sounds of children playing come from the room just west of here.
+~
+~
+1 -1 12164
+S
+#12166
+Banquets~
+   This is the northern section of a huge area used for entertaining
+important guests.  Large platters of food are kept here and circulated
+by slaves among the guests.  The room is beautifully furnished with
+expensive tables and chairs.  It continues to the south, and there is a
+door to the west.
+~
+120 d 0
+D2
+The southern half of the room holds three large dining couches and some
+low tables.
+~
+~
+0 -1 12167
+D3
+A small arch-shaped door leads west.
+~
+door
+~
+0 -1 12165
+S
+#12167
+Banquet Couches~
+   Three lovely aqua couches sit at right angles to each other, forming
+a U shape around a low square table.  Each couch holds 3 diners, and
+slaves circulate to serve such delicacies as flamingo tongues and sow's
+udders.  You will frequently see a bard or jugglers here, providing
+entertainment for the guests.
+~
+120 d 0
+D0
+The large banquet room extends northward.
+~
+~
+0 -1 12166
+D3
+A wide archway shows you the apartment's entrance area and family
+shrine.
+~
+~
+0 -1 12168
+S
+#12168
+Atrium~
+   Murals of country life and bountiful harvests adorn the walls of
+this atrium.  Hanging brass oil lamps provide soft lighting during the
+evening and at night.  One corner holds the family shrine, dedicated to
+the household gods that guard the family's prosperity.
+~
+120 d 0
+D0
+Through a wide archway you can see living quarters for the family.
+~
+~
+0 -1 12165
+D1
+Looks (and smells) like a banquet.  The family must be entertaining.
+~
+~
+0 -1 12167
+D3
+Stairs provide access to the ground floor and the upper level
+apartments.
+~
+~
+7 12102 12163
+S
+#12169
+Small Apartment~
+   The entrance room of this tiny apartment is predictably small, but
+predictably has a small shrine in one corner devoted to the household's
+gods.  The bare wood walls of the apartment provide little protection
+against the heat of summer or the cold of winter.  The flat's little
+bedroom is east of here.
+~
+120 d 0
+D1
+The small bedroom is just through a louvered door.~
+bedroom~
+1 -1 12170
+D2
+A small wooden door leads to the outside world.~
+door~
+7 12101 12174
+S
+#12170
+Small Apartment~
+   The entire family sleeps in this tiny room on straw pallets on the
+floor.  There is a small wooden cabinet in one corner used to hold
+their few belongings.  There is a small balcony out the door to the
+east, and the atrium lies west.
+~
+120 d 0
+D1
+A large wooden shutter closes off the balcony.~
+balcony~
+1 -1 12171
+D3
+A louvered door separates the atrium from the sleeping quarters.~
+atrium~
+1 -1 12169
+S
+#12171
+Balcony of a Small Apartment~
+   From here you have an excellent view of via Vestia and the huge
+basilica just to the west.  The husband in this small family works in
+the courts as a bailiff, keeping the courtrooms peaceful despite some
+heated battles.
+~
+120 d 0
+D3
+~
+~
+1 -1 12170
+S
+#12172
+Balcony of a Small Apartment~
+   Tunics, loincloths and other, less identifiable pieces of clothing
+have been set out to dry in the sun on this balcony.  You may wish to
+stop to admire the view.  From here you can spot the east gate of Rome
+and the clay road stretching east.
+   #GA stack of laundry sits waiting to be hung out to dry.#N
+~
+120 0 0
+D3
+The main room (the only room) of this small poor apartment lies west.
+~
+~
+1 -1 12173
+E
+laundry~
+Sitting in a large straw basket, you can make out a large jumble of
+loincloths, tunics and other, less-identifiable pieces of cloth.  They
+are all damp, and waiting to be hung out on the balcony to dry in the
+hot sunshine.
+~
+S
+#12173
+Small Apartment~
+   The successful tutor who lives here recently bought his freedom.  A
+Greek who teaches diction to the sons of the mighty, he now lives in
+this tiny one room apartment over some shops in eastern Rome.  His
+balcony lies to the east, the apartment entrance is west.
+~
+120 d 0
+D1
+A small balcony is just to the east.~
+balcony~
+1 -1 12172
+D3
+The apartment door is usually kept locked against thieves, of whom
+there are many.~
+door~
+7 12100 12174
+S
+#12174
+Apartment Stairs~
+   The stone staircase ends here at two plain wooden doors, each with
+doorknob and keyhole.  There are two large potted palms here, and a
+small pot with a fern struggling to survive in the hot climate.  The
+doors are framed with thick wood, and there is a feeling of poverty
+about the landing.  One of the doors has a rather thick lintel over it.
+~
+120 d 0
+D0
+~
+~
+257 12101 12169
+D1
+~
+~
+257 12100 12173
+D5
+~
+~
+0 -1 12163
+E
+door~
+Over the top of the doorway, where you can barely see, there seems to be
+something hidden, something that glitters.
+~
+S
+#12175
+via Phobia~
+   via Phobia continues here in its straight path from Forum to Gate,
+past some lovely public gardens.  They look green and cool in the
+summer heat, and a bright sunny spot in the winter cold.  The entrance
+to the gardens is north.  Just to the south is a small dirty shop
+selling captives from foreign lands.
+~
+120 0 1
+D0
+Green plants and tall palms beckon to you.
+~
+~
+0 -1 12191
+D1
+~
+~
+0 -1 12154
+D2
+A dusty archway leads into a small shop.~
+archway~
+0 -1 12196
+D3
+~
+~
+0 -1 12176
+S
+#12176
+via Phobia~
+   A well-paved well-swept and well-trodden east-west street intersects
+here with a quieter, shadier one that leads north past the public
+gardens.  Off to the east you can see the forum, to the west lies the
+impressive west gate of Rome, and to the north at some distance lies an
+enormous building that you recognize as the racetrack.
+~
+120 0 1
+D0
+~
+~
+0 -1 12186
+D1
+~
+~
+0 -1 12175
+D3
+~
+~
+0 -1 12177
+S
+#12177
+via Phobia~
+   Strange sounds and smells emanate from the little store north of
+here.  The store is unmarked, and fairly dark.  From the lovely mosaics
+decorating the door, however, you can tell that the owner is quite
+wealthy.  What manner of business could lead to such wealth?  via Phobia
+continues in its straight course east and west.
+~
+120 0 0
+D0
+It's too dark to see anything, really.~
+~
+0 -1 12178
+D1
+A busy intersection near a park ...
+~
+~
+0 -1 12176
+D3
+You can see the western gate of the city to the west, down this very
+straight street.
+~
+~
+0 -1 12184
+S
+#12178
+Augurer~
+   You have entered a small office lined with scrolls, many in strange
+languages, many quite ancient.  Some you see locked away in a cabinet,
+marked "Sibyl".  Others you may examine.  This is the home of one of
+the 16 prophets of Rome, a very powerful group of men and not ones to
+offend!  They are the augurs.
+~
+120 0 0
+D1
+~
+~
+0 -1 12186
+D2
+~
+~
+0 -1 12177
+E
+augurs~
+The augurs examined the sky for flocks of birds, cloud shapes,
+lightning and other natural events, omens to tell them the future.
+~
+E
+sibyl~
+Sibyl was a prophetess who lived in caves in Cumae in early republican
+times.
+~
+S
+#12179
+Gladiator Training~
+   A very wealthy, very successful gladiator, Mattias has retired from
+the arena and opened a school to train men to follow in his footsteps.
+His large oak desk sits in a corner.  From the thick dust on it you can
+tell he is not often there.  The eastern wall displays a wild assortment
+of weapons and various trophies, including his wooden sword and crown
+won at great cost in the arena.  Training grounds lie north of here, and
+the busy street is back south.  
+~
+120 c 0
+D0
+The training area begins through the doorway to the north.  You are
+welcome to observe, but if you want lessons you will have to pay!
+~
+~
+0 -1 12182
+D2
+via Phobia is right outside the door.
+~
+~
+0 -1 12184
+S
+#12180
+Healer~
+   Although his apprentices assure you he has had much training and
+experience as a physician in Rome's glorious battles, nevertheless you
+eye the many instruments laid out on the table with fear.  A corner
+cabinet is filled with scrolls, and the sweet scent of herbs floats in
+through the window.
+~
+120 0 0
+D2
+If you decide to remain ill rather than trust your luck with the
+physician, the exit to the street is just south of here.
+~
+~
+0 -1 12185
+S
+#12181
+Gladiator Training~
+   An assortment of weapons lines one wall of this huge area devoted to
+training new gladiators.  You are in a large walled yard, not unlike
+the gladiators' arena.  Looking at the weapons and tiny shields, you
+wonder if you would survive even the training.
+~
+120 0 0
+D1
+The training yard stretches off to the west.
+~
+~
+0 -1 12182
+S
+#12182
+Gladiator Training~
+   The sand shifts softly beneath your feet, and you avert your eyes
+from the darker, slightly sticky patches where trainees have learned a
+valuable lesson.  You hope your lesson will be less bloody.  The huge
+training arena continues east and west, and the entrance to Mattias'
+office is south.
+~
+120 0 0
+D1
+~
+~
+0 -1 12183
+D2
+~
+~
+0 -1 12179
+D3
+~
+~
+0 -1 12181
+S
+#12183
+Gladiator Training~
+   The training arena is surrounded by a high white wall.  With the
+wall to your back, the arena seems to stretch endlessly westward,
+filled with desperate men with nothing to lose except their lives.
+Great riches and glory may be found in the Colosseum, although the cost
+may be quite high.
+~
+120 0 0
+D3
+The arena continues west.
+~
+~
+0 -1 12182
+S
+#12184
+via Phobia~
+   Just north of here lies a famous school for training gladiators.
+Becoming a gladiator is a great opportunity for some, and for some
+there is no choice.  via Phobia continues both east and west from here.
+~
+120 0 0
+D0
+Loud clangs and grunts are heard from the open doorway north of here.
+~
+~
+0 -1 12179
+D1
+Far off in the distance you can spot the Forum.
+~
+~
+0 -1 12177
+D3
+The west gate of Rome is quite close.
+~
+~
+0 -1 12185
+S
+#12185
+West Gate of Rome~
+   The west gate of Rome has been securely locked.  Through the widely
+spaced iron bars of the gate you can see the river Tiber flowing
+freely.
+~
+120 0 0
+D0
+The corner shop of this apartment / shop building looks busy, with 
+gladiators and others coming and going in large numbers.
+~
+~
+0 -1 12180
+D1
+via Phobia runs east and west throughout the heart of the city.
+~
+~
+0 -1 12184
+D3
+The gate is kept securely locked to prevent undesirables from entering
+the city.
+~
+gate
+~
+295 12103 12189
+S
+#12186
+via Ravena~
+   via Ravena runs north and south, intersecting with via Phobia by the
+gardens and via Aggripina to the north.  Just east are some public
+gardens which are lovely and soothing to walk through.
+~
+120 0 0
+D0
+~
+~
+0 -1 12187
+D1
+The public gardens offer a peaceful place to rest and relax.
+~
+~
+0 -1 12192
+D2
+via Ravena intersects with busy via Phobia just south of here.
+~
+~
+0 -1 12176
+S
+#12187
+via Ravena~
+   Just east of here you may walk through lovely green gardens, planted
+by some benevolent (and ambitious) Roman to show his wealth and his
+devotion to the welfare of Rome.  To the north, you will walk by the
+west end of a very large building which, from the smell, is probably a
+racetrack.
+~
+120 0 0
+D0
+~
+~
+0 -1 12188
+D1
+~
+~
+0 -1 12192
+D2
+~
+~
+0 -1 12186
+S
+#12188
+via Agrippina~
+   This short street lies between the high northern wall of the city
+and the even higher northern wall of Circus Maximus, the city's
+racetrack.  Both walls are covered with graffiti, most of which is
+devoted to the two racing teams, the Leeks and the Venetians.
+~
+120 0 0
+D1
+Horses and chariots are entering a large archway in the wall just east
+of here.
+~
+~
+0 -1 12069
+D2
+~
+~
+0 -1 12187
+S
+#12189
+Outside the West Gate~
+   The river Tiber flows swiftly just west of you, and to the east you
+can look through the gates of the western entrance of Rome at the many
+splendors of this large city.  A large tunnel is fairly dry at the
+moment, but from the odor emanating from it, you know its usual burden
+is sewage.
+~
+120 0 0
+D1
+Through the iron bars of the gate, the entrancing city of Rome beckons
+to you.  Hope you found the key.
+~
+gate~
+295 12103 12185
+D5
+~
+~
+0 -1  12161
+S
+#12190
+Public Bathrooms~
+   Public toilets smell much the same all over the world.  You eye
+the sponge-on-a-stick with distaste, and think about the clean sweet
+smell of the countryside outside of Rome.  The loud clatter of the
+street is north of here.
+~
+120 0 0
+D0
+Through the open door you can see the street.
+~
+~
+1 -1 12106
+D5
+A large grate covers the service entrance to the sewers.  Only slaves
+need go down there.  The smell is enough to kill.
+~
+~
+0 -1 12162
+S
+#12191
+Public Gardens~
+   You wander through lush green bushes, under tall palm trees that
+thrive in this warm climate.  The gardens are a wonderful place to
+rest, relax and think.
+~
+120 et 0
+D0
+Shaded pathways lead to other parts of the gardens.
+~
+~
+0 -1 12192
+D2
+When you have finished your lunch (or your rest), you may wish to
+wander Rome's busy streets.
+~
+~
+0 -1 12175
+D3
+When you have finished your lunch (or your rest), you may wish to
+wander Rome's busy streets.
+~
+~
+0 -1 12186
+S
+#12192
+Public Gardens~
+   Beautiful gardens thrive in the warm climate of Rome.  They are
+carefully tended by slaves of the citizen who had gave them to the
+city.  Plants are brought in from far distant provinces to add their
+beauty and scent to please the Romans.  The gardens continue south of
+here, and the quiet street via Ravena is just to the west.
+~
+120 0 0
+D2
+~
+~
+0 -1 12191
+D3
+~
+~
+0 -1 12187
+S
+#12193
+Praetor Petyus Enormous Gilded Box at the Racetrack~
+   The Praetor, with some generous "donations" from the Maximus family,
+oversaw the building of the enormously popular Circus Maximus racetrack.
+There is always a party in his box, although many of the guests are
+citizens eager to curry favor, laughing at his jokes.
+~
+120 0 0
+D1
+Some of the Praetor's best friends are sitting in the seats east.
+~
+~
+0 -1 12076
+D2
+The Praetor's area continues south.
+~
+~
+0 -1 12075
+S
+#12194
+Mob Chute #1~
+This is mob chute #1 and will only be seen by mobs and imms ... flagged
+for no_teleport.  This is also the holding pen for slaves sold by
+Maximus Maximus.  The slave shop MUST be numbered 1 LESS than this room.
+The slaves MUST be marked SENTINEL.
+~
+120 u 0
+D0
+via Vestia
+~
+~
+0 -1 12109
+D1
+via phobia by Jupiter
+~
+~
+0 -1 12154
+D2
+Baths
+~
+~
+0 -1 12018
+D3
+Clay road east
+~
+~
+0 -1 12000
+D4
+Circus
+~
+~
+0 -1 12087
+D5
+Colosseum
+~
+~
+0 -1 12148
+S
+#12195
+Spare Room~
+   ...
+~
+120 0 0
+S
+#12196
+Slave Shop~
+   This dusty little room off the via Phobia is where captives from
+Rome's glorious wars are sold.  If you need someone to comb your hair
+for you, teach your children, build your home or simply be your
+companion and give his life for you, Maximus Maximus will be happy to
+fill your requirements from his frequently replenished stock.  If you
+have wandered in here by mistake, the street is straight out the door to
+the north.
+#GA large sign has been hung on the wall in front of your eyes.#N
+~
+120 u 0
+D0
+~
+~
+0 -1 12175
+E
+sign wall~
+The sign reads:
+
+  Use 'List' to see the available slaves.
+  To buy yourself a slave, use:
+      'Buy <slave>'  or 'Buy <slave> <name>'
+
+  Instructions for having slaves:
+
+   You can order your slave with 
+                  'order <slave> <instructions>' 
+   If you have several slaves you may use 
+                  'order followers <instructions>'
+   If you abuse your slave, it will no longer regard you as its master.
+ 
+  
+ Regards,
+
+ Maximus Maximus
+~
+S
+#12197
+Cold Storage for Slaves~
+   This is the holding pen for slaves sold by Maximus Maximus.  The
+slave shop MUST be numbered 1 LESS than this room.  The slaves MUST be
+marked SENTINEL.
+~
+120 u 0
+S
+#12198
+Priest Chute #2 (Temples)~
+This is mob chute #2 and will only be seen by mobs and imms ... flagged
+for no_teleport.  This mob chute handles the priests and worshippers,
+one of whom has the sapphire ring.  
+~
+120 u 0
+D0
+Mars
+~
+~
+0 -1 12099
+D1
+Venus
+~
+~
+0 -1 12032
+D2
+Jupiter
+~
+~
+0 -1 12153
+D3
+Mercury
+~
+~
+0 -1 12156
+D4
+Vulcan
+~
+~
+0 -1 12158
+D5
+Bacchus
+~
+~
+0 -1 12115
+S
+#12199
+Mob Chute #3~
+This is mob chute #3 and will only be seen by mobs and imms ... flagged
+for no_teleport.
+~
+120 u 0
+D0
+Baths - Entrance
+~
+~
+0 -1 12012
+D1
+Theater - good seats
+~
+~
+0 -1 12045
+D2
+Circus
+~
+~
+0 -1 12082
+D3
+Colosseum
+~
+~
+0 -1 12146
+D4
+Streets West
+~
+~
+0 -1 12185
+D5
+Streets East
+~
+~
+0 -1 12007
+S
+#99999
+$~

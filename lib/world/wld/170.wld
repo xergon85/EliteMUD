@@ -1,0 +1,1249 @@
+#17001
+A Mountain Path~
+   You are on a mountain path which ascends a steep mountainside. The trail
+curves around the mountain so that you cannot really see what lies ahead. You
+do sense great power though coming from the area behind the mountain. 
+~
+170 0 5
+D4
+~
+~
+0 -1 17002
+D5
+~
+~
+0 -1 4002
+S
+#17002
+A Mountain Path~
+   You are on a small path going up the mountain.
+~
+170 0 5
+D4
+~
+~
+0 -1 17003
+D5
+~
+~
+0 -1 17001
+S
+#17003
+Mountainside Tombs~
+   There are a few stone heaps here and there, the tombs of those who did not
+last the arduous journey up the mountain. Curiously you notice a few uncovered
+bodies which don't seem to have died of exhaustion. The path curves east around
+the mountain. 
+~
+170 0 5
+D4
+~
+~
+0 -1 17004
+D5
+~
+~
+0 -1 17002
+E
+bodies body dead~
+They look as if their necks have been broken and their flesh, chewed.
+~
+E
+heaps stones tombs~
+You are sure glad that YOU aren't under one of those piles!  Many of the 
+tombstones have the same name on them, 'Rognab'.  He must come here a lot.
+~
+S
+#17004
+A Blind Curve on the Mountain Path.~
+   This looks like a normal mountain path, but it is NOT! This section of the
+path is inhabited by a huge (and of course, man-eating) Cyclops. The path makes
+its final ascent to an overlook. 
+~
+170 0 5
+D4
+~
+~
+0 -1 17005
+D5
+~
+~
+0 -1 17003
+S
+#17005
+Vista~
+   This is a stunning vista overlooking a canyon. There is a sign here that
+says: 	BEHOLD -- ELEMENTAL CANYON Fire leaps up from fire pits in the western
+part of the canyon. The sky looks funny, and the air seems hazy to the
+northwest. Electricity sparks intermittently in the northeast. To the east you
+see a strong, magic-looking river flowing through the canyon. Also to the east
+you spy a cave entrance leading into the canyon wall. The path descends to the
+north to another overlook. 
+~
+170 0 5
+D0
+~
+~
+0 -1 17006
+D5
+~
+~
+0 -1 17004
+S
+#17006
+The Overlook~
+   You see various elemental servants wandering around the canyon. The noise of
+humming coming from the canyon gets louder. The path makes a steep descent into
+the canyon here. 
+~
+170 0 5
+D2
+~
+~
+0 -1 17005
+D5
+~
+~
+0 -1 17007
+S
+#17007
+Entrance to Elemental Canyon~
+   You are awed by the sounds and sights of great powers at works here.
+Elemental servants bustle back and forth doing the bidding of the elemental
+rulers. You see a sort of cross roads to the north, and you can climb up to the
+overlook here. 
+~
+170 0 3
+D0
+~
+~
+0 -1 17009
+D4
+~
+~
+0 -1 17006
+S
+#17008
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon. Some seem to be
+going about their business, while others seem to have no business at all. In
+general, it is calm, yet there is always a incessant buzz of things going on
+about. The canyon continues north and east. 
+~
+170 0 3
+D0
+~
+~
+0 -1 17011
+D1
+~
+~
+0 -1 17009
+S
+#17009
+Elemental Gateway~
+   To the west a path dips and winds among some flowing fire pits. To the
+northeast a path goes toward the river. Beyond toward the northeast and
+northwest are outcrops which rise up from the canyon floor. To the east there
+is a cave mouth which leads into the canyon wall. And to the south the path
+leads up, away, and out of the canyon. Various pure and cross-breeds of
+elemental forms wander the canyon floor, which extends in a wide swath
+northwards. 
+~
+170 0 3
+D0
+~
+~
+0 -1 17012
+D1
+~
+~
+0 -1 17010
+D2
+~
+~
+0 -1 17007
+D3
+~
+~
+0 -1 17008
+S
+#17010
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon. Some seem to be
+going about their business, while others seem to have no business at all. In
+general, it is calm, yet there is always a incessant buzz of things going on
+about. The canyon floor extends north and west. There is a cave mouth set into
+the canyon wall to the east. 
+~
+170 0 3
+D0
+~
+~
+0 -1 17013
+D1
+~
+~
+0 -1 17020
+D3
+~
+~
+0 -1 17009
+S
+#17011
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon. Some seem to be
+going about their business, while others seem to have no business at all. In
+general, it is calm, yet there is always an incessant buzz of things going on
+about. The canyon floor extends off to the north, east, and south. 
+~
+170 0 3
+D0
+~
+~
+0 -1 17014
+D1
+~
+~
+0 -1 17012
+D2
+~
+~
+0 -1 17008
+S
+#17012
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon. Some seem to be
+going about their business, while others seem to have no business at all. In
+general, it is calm, yet there is always an incessant buzz of things going on
+about. The canyon floor extends in all directions. 
+~
+170 0 3
+D0
+~
+~
+0 -1 17015
+D1
+~
+~
+0 -1 17013
+D2
+~
+~
+0 -1 17009
+D3
+~
+~
+0 -1 17011
+S
+#17013
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon. Some seem to be
+going about their business, while others seem to have no business at all. In
+general, it is calm, yet there is always an incessant buzz of things going on
+about. The canyon floor extends north, south, and west. A path follows a stream
+to the east. 
+~
+170 0 3
+D0
+~
+~
+0 -1 17016
+D1
+~
+~
+0 -1 17028
+D2
+~
+~
+0 -1 17010
+D3
+~
+~
+0 -1 17012
+S
+#17014
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon. Some seem to be
+going about their business, while others seem to have no business at all. In
+general, it is calm, yet there is always an incessant buzz of things going on
+about. The canyon floor extends north, east, and south. To the west a garden is
+on fire. 
+~
+170 0 3
+D0
+~
+~
+0 -1 17017
+D1
+~
+~
+0 -1 17015
+D2
+~
+~
+0 -1 17011
+D3
+~
+~
+0 -1 17037
+S
+#17015
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon. Some seem to be
+going about their business, while others seem to have no business at all. In
+general, it is calm, yet there is always an incessant buzz of things going on
+about. The canyon floor extends in all directions. 
+~
+170 0 3
+D0
+~
+~
+0 -1 17018
+D1
+~
+~
+0 -1 17016
+D2
+~
+~
+0 -1 17012
+D3
+~
+~
+0 -1 17014
+S
+#17016
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon. Some seem to be
+going about their business, while others seem to have no business at all. In
+general, it is calm, yet there is always an incessant buzz of things going on
+about. The Canyon floor extends north, south and west. 
+~
+170 0 3
+D0
+~
+~
+0 -1 17019
+D2
+~
+~
+0 -1 17013
+D3
+~
+~
+0 -1 17015
+S
+#17017
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon. Some seem to be
+going about their business, while others seem to have no business at all. In
+general, it is calm, yet there is always an incessant buzz of things going on
+about. The canyon floor extends east and south. You can climb a rise in the
+canyon floor to the north. 
+~
+170 0 3
+D0
+~
+~
+0 -1 17053
+D1
+~
+~
+0 -1 17018
+D2
+~
+~
+0 -1 17014
+S
+#17018
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon. Some seem to be
+going about their business, while others seem to have no business at all. In
+general, it is calm, yet there is always an incessant buzz of things going on
+about. The canyon floor extends east, south, and west. 
+~
+170 0 3
+D1
+~
+~
+0 -1 17019
+D2
+~
+~
+0 -1 17015
+D3
+~
+~
+0 -1 17017
+S
+#17019
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon. Some seem to be
+going about their business, while others seem to have no business at all. In
+general, it is calm, yet there is always an incessant buzz of things going on
+about. The canyon floor extends south and west. You can climb a rise in the
+canyon floor to the north. 
+~
+170 0 3
+D0
+~
+~
+0 -1 17054
+D2
+~
+~
+0 -1 17016
+D3
+~
+~
+0 -1 17018
+S
+#17020
+Dark Cave~
+   You notice a path winding east among some huge boulders. You feel a powerful
+source of energy from that direction. 
+~
+170 ad 3
+D1
+~
+~
+0 -1 17021
+D3
+~
+~
+0 -1 17010
+S
+#17021
+Darker Caves~
+   You can barely see your way even with a light source. The rocks of the cave
+are even darker than the darkness. You hear a powerful humming all around you.
+Cave paths go south and east roughly, its hard to tell exactly when you can't
+see where you are going. 
+~
+170 ad 3
+D1
+~
+~
+0 -1 17022
+D2
+~
+~
+0 -1 17023
+D3
+~
+~
+0 -1 17020
+S
+#17022
+Darker Caves~
+   You can barely see your way even with a light source. The rocks of the cave
+are even darker than the darkness. You hear a powerful humming all around you.
+Cave paths go south and west roughly; it's hard to tell exactly when you can't
+see where you are going. 
+~
+170 ad 3
+D2
+~
+~
+0 -1 17024
+D3
+~
+~
+0 -1 17021
+S
+#17023
+Darker Caves~
+   You can barely see your way even with a light source. The rocks of the cave
+are even darker than the darkness. You hear a powerful humming all around you.
+Cave paths go north, south and east roughly; it's hard to tell exactly when you
+can't see where you are going. 
+~
+170 ad 3
+D0
+~
+~
+0 -1 17021
+D1
+~
+~
+0 -1 17024
+D2
+~
+~
+0 -1 17025
+S
+#17024
+Darker Caves~
+   You can barely see your way even with a light source. The rocks of the cave
+are even darker than the darkness. You hear a powerful humming all around you.
+Cave paths go north, south and west roughly, it's hard to tell exactly when you
+can't see where you are going. 
+~
+170 ad 3
+D0
+~
+~
+0 -1 17022
+D2
+~
+~
+0 -1 17026
+D3
+~
+~
+0 -1 17023
+S
+#17025
+Darkest Caves~
+   Your light doesn't even seem to work here. Even magical light sources seem
+only to illuminate about a foot ahead of you. You suddenly realize that the
+path has descended quite a bit but you didn't notice before because of the
+darkness. You sense a great presence a way off to the east. 
+~
+170 ad 3
+D0
+~
+~
+0 -1 17023
+D1
+~
+~
+0 -1 17026
+S
+#17026
+Darkest Caves~
+   Your light doesn't even seem to work here. Even magical light sources seem
+only to illuminate about a foot ahead of you. You suddenly realize that the
+path has descended quite a bit but you didn't notice before because of the
+darkness. You sense a great presence directly to the east. 
+~
+170 ad 3
+D0
+~
+~
+0 -1 17024
+D1
+~
+~
+0 -1 17027
+D3
+~
+~
+0 -1 17025
+S
+#17027
+Earth Chamber~
+   This is the abode of the Earth Ruler. He decides about earthquakes,
+landslides, and avalanches. The Earth Ruler sits upon a huge marble throne
+carved into the wall. 
+~
+170 ad 3
+D3
+~
+~
+0 -1 17026
+E
+marble throne~
+The ruler notices your stare, and doesn't like it one bit!  The whole 
+earth seems to shake with his emotion.
+~
+S
+#17028
+By the River~
+   The water in the river seems to bubble and froth with magic. Though it
+splashes playfully on you, it does not seem wet. The path leads north closer to
+the water. To the west you see a T-intersection. 
+~
+170 0 3
+D0
+~
+~
+0 -1 17029
+D3
+~
+~
+0 -1 17013
+S
+#17029
+In the River~
+   To continue you had to walk right in the river. Though you walk along in
+water up to your knees, you do not seem to get wet. A bay stretches out to the
+north and the river goes south. 
+~
+170 0 6
+D0
+~
+~
+0 -1 17030
+D2
+~
+~
+0 -1 17028
+S
+#17030
+Elemental Bay~
+   The water is crystal clear here and you can see the bottom of the bay 30
+feet below you. Then you realize you are walking on the water itself. Truly
+magical water indeed. Though you splash through the bay you do not get wet. 
+~
+170 0 6
+D0
+~
+~
+0 -1 17033
+D1
+~
+~
+0 -1 17031
+D2
+~
+~
+0 -1 17029
+S
+#17031
+Elemental Bay~
+   The water is crystal clear here and you can see the bottom of the bay 30
+feet below you. Then you realize you are walking on the water itself. Truly
+magical water indeed. Though you splash through the bay you do not get wet. 
+~
+170 0 6
+D0
+~
+~
+0 -1 17034
+D1
+~
+~
+0 -1 17032
+D3
+~
+~
+0 -1 17030
+S
+#17032
+Elemental Bay~
+   The water is crystal clear here and you can see the bottom of the bay 30
+feet below you. Then you realize you are walking on the water itself. Truly
+magical water indeed. Though you splash through the bay you do not get wet. 
+~
+170 0 6
+D0
+~
+~
+0 -1 17035
+D3
+~
+~
+0 -1 17031
+S
+#17033
+Elemental Bay~
+   The water is crystal clear here and you can see the bottom of the bay 30
+feet below you. Then you realize you are walking on the water itself. Truly
+magical water indeed. Though you splash through the bay you do not get wet. 
+~
+170 0 6
+D1
+~
+~
+0 -1 17034
+D2
+~
+~
+0 -1 17030
+S
+#17034
+Elemental Bay~
+   The water is crystal clear here and you can see the bottom of the bay 30
+feet below you. Then you realize you are walking on the water itself. Truly
+magical water indeed. Though you splash through the bay you do not get wet. 
+~
+170 0 6
+D1
+~
+~
+0 -1 17035
+D2
+~
+~
+0 -1 17031
+D3
+~
+~
+0 -1 17033
+S
+#17035
+Elemental Bay~
+   The water is crystal clear here and you can see the bottom of the bay 30
+feet below you. Then you realize you are walking on the water itself. Truly
+magical water indeed. Though you splash through the bay you do not get wet. 
+~
+170 0 6
+D2
+~
+~
+0 -1 17032
+D3
+~
+~
+0 -1 17034
+D5
+~
+~
+0 -1 17036
+S
+#17036
+Water Chamber~
+   This chamber was magically created here on the floor of the bay. It looks
+like it's been here for a long, long time. Though you are 'under water' there
+is no difficulty breathing normally, and oddly you do not feel the pressure of
+the water above you. 
+~
+170 d 6
+D4
+~
+~
+0 -1 17035
+S
+#17037
+A Fiery Pathway~
+   You tread carefully along a path which dips and turns among geysers of fire.
+Miniature volcanoes spew lava in rivers. The fire is hot but not altogether
+dangerous. The path extends east and south. 
+~
+170 0 5
+D1
+~
+~
+0 -1 17014
+D2
+~
+~
+0 -1 17038
+S
+#17038
+A Fiery Pathway~
+   You tread carefully along a path which dips and turns among pits of fire and
+beds of coals. A garden to the west glows with an everlasting fire. 
+~
+170 0 5
+D0
+~
+~
+0 -1 17037
+D3
+~
+~
+0 -1 17042
+S
+#17042
+The Burning Gardens~
+   Everywhere around you the landscape is afire; the rocks, the shrubs and even
+the air seems to be aflame. Curiously, the magical fire does not seem to
+consume its hosts. A path leads east among some fire pits. 
+~
+170 0 5
+D1
+~
+~
+0 -1 17038
+D3
+~
+~
+0 -1 17045
+S
+#17045
+The Fire Chamber~
+   The fire ruler sits upon a throne made of blue flame. Little flickers of
+flame dance to and fro for the entertainment of the ruler. 
+~
+170 0 3
+D1
+~
+~
+0 -1 17042
+S
+#17046
+Electric Pathway~
+   The pathway glows and hums because of the electricity pulsing through it. It
+seems almost soothing to your weary feet. To the north there is a sunken-in
+area. A path leads east also. 
+~
+170 0 3
+D0
+~
+~
+0 -1 17048
+D1
+~
+~
+0 -1 17053
+S
+#17047
+The Electric Playground~
+   Though there is a seemingly carefree atmosphere here, you sense that
+something much more important takes place near by. The electric playground
+extends north and east. 
+~
+170 0 4
+D0
+~
+~
+0 -1 17049
+D1
+~
+~
+0 -1 17048
+S
+#17048
+The Electric Playground~
+   Though there is a seemingly carefree atmosphere here, you sense that
+something much more important takes place near by. There is an electric path
+heading away south. The playground extends north and west. 
+~
+170 0 4
+D0
+~
+~
+0 -1 17050
+D2
+~
+~
+0 -1 17046
+D3
+~
+~
+0 -1 17047
+S
+#17049
+The Electric Playground~
+   Though there is a seemingly carefree atmosphere here, you sense that
+something much more important takes place near by. The playground continues
+south and east. 
+~
+170 0 4
+D1
+~
+~
+0 -1 17050
+D2
+~
+~
+0 -1 17047
+S
+#17050
+The Electric Playground~
+   Though there is a seemingly carefree atmosphere here, you sense that
+something much more important takes place near by. The playground is south and
+west. Something more important catches your eye to the east. 
+~
+170 0 4
+D1
+~
+~
+0 -1 17051
+D2
+~
+~
+0 -1 17048
+D3
+~
+~
+0 -1 17049
+S
+#17051
+Lightning Causeway~
+   Up a set of stairs carved into the hill you see intermittent flashes of
+lightning. A continuous hum also comes from that direction. To the west is the
+electric playground. 
+~
+170 0 4
+D3
+~
+~
+0 -1 17050
+D4
+~
+~
+0 -1 17052
+S
+#17052
+Lightning Chamber~
+   There is some sort of control panel here. Apparently the Lightning Ruler
+observes and controls electric forces from here. A set of steps carved into the
+hill lead down to a causeway. 
+~
+170 d 6
+D5
+~
+~
+0 -1 17051
+S
+#17053
+Mesa West~
+   An electric path starts to the west. The mesa continues to the east. Or you
+can climb down to the canyon floor to the south. 
+~
+170 0 4
+D1
+~
+~
+0 -1 17054
+D2
+~
+~
+0 -1 17017
+D3
+~
+~
+0 -1 17046
+S
+#17054
+Mesa East~
+   A path starts to the north. The mesa continues to the west. Or you can climb
+down to the canyon floor to the south. To the east you see a fading trail of
+hoof prints. 
+~
+170 0 4
+D0
+~
+~
+0 -1 17055
+D1
+~
+~
+0 -1 17061
+D2
+~
+~
+0 -1 17019
+D3
+~
+~
+0 -1 17053
+S
+#17055
+Floating in Air~
+   Last you knew, you were walking on the mesa. Abruptly the path dropped from
+beneath your feet much to quick for you to recover. Instead of plunging to your
+death, you seemingly miss the ground and begin walking on air. The space to the
+north and east seems just thin air, but you can walk there. The pathway you
+came from is to the south. 
+~
+170 0 4
+D0
+~
+~
+0 -1 17057
+D1
+~
+~
+0 -1 17056
+D2
+~
+~
+0 -1 17054
+S
+#17056
+Floating in Air~
+   You look down and see the ground 100 feet below you. The wind whispering in
+your ear seems to reassure you that this is fine. To the north a ways you spy a
+portal of sorts. To the west is more thin air. 
+~
+170 0 4
+D0
+~
+~
+0 -1 17058
+D3
+~
+~
+0 -1 17055
+S
+#17057
+Floating in Air~
+   You look down and see the ground 100 feet below you. The wind whispering in
+your ear seems to reassure you that this is fine. To the east a ways you spy a
+portal of sorts. To the south is more thin air. 
+~
+170 0 4
+D1
+~
+~
+0 -1 17058
+D2
+~
+~
+0 -1 17055
+S
+#17058
+Floating in Air~
+   You look down and see the ground 100 feet below you. The wind whispering in
+your ear seems to reassure you that this is fine. There is a portal hanging in
+midair here. It is to the east. You can float south or west if you'd like. 
+~
+170 0 4
+D1
+~
+~
+0 -1 17059
+D2
+~
+~
+0 -1 17056
+D3
+~
+~
+0 -1 17057
+E
+portal~
+Through the portal you see a tunnel.
+~
+S
+#17059
+Windy Tunnel~
+   A tunnel leads east. To the west you can enter a portal. The wind in this
+tunnel is quite fierce, it seems as if it's forced. 
+~
+170 0 4
+D1
+~
+~
+0 -1 17060
+D3
+~
+~
+0 -1 17058
+E
+portal~
+Through the portal you see nothing but sky.
+~
+S
+#17060
+Air Chamber~
+   Tiny tornadoes come and go and dance along the ground here. At the back of
+the chamber you notice a huge throne made of swirling clouds. A tunnel leads
+west. 
+~
+170 d 6
+D3
+~
+~
+0 -1 17059
+E
+throne clouds~
+Although the cloud throne appears solid enough to sit on, I wouldn't try 
+it if I were you!
+~
+S
+#17061
+Following the Tracks~
+   You find yourself walking along a path which leads towards a very noisy
+section behind the canyon. The tracks you are following are becoming more
+prominent. You think that maybe these tracks are fresh. Back to the west you
+see the path to the canyon. To the east, the path continues. 
+~
+170 0 4
+D1
+~
+~
+0 -1 17062
+D3
+~
+~
+0 -1 17054
+S
+#17062
+Following the Tracks~
+   You continue to follow the prints intently. So intently, that you run face
+first into a large sign. You gently rub your head and wonder how you could have
+been so blind. To the south, the path continues over a hill. Back to the west,
+the path leads to the canyon. 
+~
+170 0 4
+D2
+~
+~
+0 -1 17063
+D3
+~
+~
+0 -1 17061
+E
+sign large~
+The sign reads:
+
+Mahn-tor     8 strides
+
+
+~
+S
+#17063
+Overlooking the City~
+   You top the hill and gasp at the sight. Before you is the grand walls
+surrounding a massive city. Around the front gate you can see minotaur men and
+women hurrying inside to avoid the upcoming storm. South will take you to the
+gates of the city, and hopefully shelter from the harsh winds that have picked
+up. 
+~
+170 0 4
+D0
+~
+~
+0 -1 17062
+D1
+~
+~
+0 -1 17242
+D2
+~
+~
+0 -1 17064
+S
+#17064
+Near the Gates~
+   You stand only a few strides from the gates of the city. The guards standing
+there look fierce, but then again so do all minotaurs. Maybe you can outwit
+them and get inside. . . 
+~
+170 0 4
+D0
+~
+~
+0 -1 17063
+D2
+~
+~
+0 -1 17202
+S
+#17065
+Along the Southern Path~
+   You are heading along a southern leading path. To the south you can see a
+very large mountain. Beyond the mountain lies a vast canyon. Did you bring your
+hiking equipment? 
+~
+170 0 4
+D0
+~
+~
+0 -1 3502
+D2
+~
+~
+0 -1 17066
+S
+#17066
+Along the Southern Path~
+   You are heading along a southern leading path. To the south you can see a
+very large mountain. Beyond the mountain lies a vast canyon. Did you bring your
+hiking equipment? 
+~
+170 0 4
+D0
+~
+~
+0 -1 17065
+D2
+~
+~
+0 -1 17067
+S
+#17067
+Along the Southern Path~
+   You are heading along a southern leading path. To the south you can see a
+very large mountain. Beyond the mountain lies a vast canyon. Did you bring your
+hiking equipment? 
+~
+170 0 4
+D0
+~
+~
+0 -1 17066
+D2
+~
+~
+0 -1 17068
+S
+#17068
+Along the Southern Path~
+   You are heading along a southern leading path. To the south you can see a
+very large mountain. Beyond the mountain lies a vast canyon. Did you bring your
+hiking equipment? 
+~
+170 0 4
+D0
+~
+~
+0 -1 17067
+D2
+~
+~
+0 -1 17069
+S
+#17069
+Along the Southern Path~
+   You are heading along a southern leading path. To the south you can see a
+very large mountain. Beyond the mountain lies a vast canyon. Did you bring your
+hiking equipment? 
+~
+170 0 4
+D0
+~
+~
+0 -1 17068
+D2
+~
+~
+0 -1 17070
+S
+#17070
+Along the Southern Path~
+   You are heading along a southern leading path. To the south you can see a
+very large mountain. Beyond the mountain lies a vast canyon. Did you bring your
+hiking equipment? 
+~
+170 0 4
+D0
+~
+~
+0 -1 17069
+D2
+~
+~
+0 -1 17071
+S
+#17071
+Along the Southern Path~
+   You are heading along a southern leading path. To the south you can see a
+very large mountain. Beyond the mountain lies a vast canyon. Did you bring your
+hiking equipment? 
+~
+170 0 4
+D0
+~
+~
+0 -1 17070
+D2
+~
+~
+0 -1 17072
+S
+#17072
+Along the Southern Path~
+   You are heading along a southern leading path. To the south you can see a
+very large mountain. Beyond the mountain lies a vast canyon. Did you bring your
+hiking equipment? 
+~
+170 0 4
+D0
+~
+~
+0 -1 17071
+D2
+~
+~
+0 -1 17001
+S
+#99999
+$~

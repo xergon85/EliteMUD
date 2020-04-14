@@ -1,0 +1,709 @@
+#3200
+On the River~
+   The deep river flows east and west through a dense forest.  Over the
+ages, the river has cut through the bedrock to form a particularly deep
+channel for itself.  The banks of the river are very steep, and appear to
+be very slippery, so it would be quite impossible to leave the river and
+enter the forest.
+~
+32 l 7
+D1
+~
+~
+0 -1 3215
+D3
+The river continues in this direction. 
+~
+~
+0 -1 900
+S
+#3201
+On the River~
+   North of here you see the miserable buildings of the poor alley. The river
+flows west towards the bridge. The riverbanks are too steep to climb. 
+~
+32 0 7
+D1
+~
+~
+0 -1 3202
+D3
+~
+~
+0 -1 3229
+S
+#3202
+On the River~
+   North of here you see the dump. The river flows from east to west. The
+riverbanks are too steep to climb. 
+~
+32 0 7
+D1
+~
+~
+0 -1 3203
+D3
+~
+~
+0 -1 3201
+S
+#3203
+On the River~
+   The levee is directly north of here. The river flows in an east west
+direction. 
+~
+32 0 7
+D0
+~
+~
+0 -1 3049
+D1
+~
+~
+0 -1 3204
+D3
+~
+~
+0 -1 3202
+S
+#3204
+On the River~
+   You see the warehouse on the northern riverbank. East of here you see the
+city wall. The river flows west towards the levee. 
+~
+32 0 7
+D1
+~
+~
+0 -1 3205
+D3
+~
+~
+0 -1 3203
+S
+#3205
+On the River~
+   The river enters from a hole in the eastern city wall. The hole has been
+blocked by several vertically positioned iron bars set into the wall. 
+~
+32 l 7
+D1
+Beyond the bars you see the great plains. With a little effort you should be
+able to bend the bars aside.
+~
+~
+0 -1 3206
+D3
+~
+~
+0 -1 3204
+S
+#3206
+On the river south of turning point~
+   The river flows gently west through midgaard city wall, strong iron bars
+block the passage for everything except water. The river continues east.
+~
+32 0 7
+D1
+~
+~
+0 -1 3207
+D3
+~
+~
+0 -1 3205
+S
+#3207
+On the river south of turning point~
+   The river flows gently west. To the north you can see lots of people
+making their way through the turning point from or to the city of Midgaard.
+The river continues to the west and to the east.
+~
+32 l 7
+D1
+~
+~
+0 -1 3208
+D3
+~
+~
+0 -1 3206
+S
+#3208
+A turn in the river~
+   The river turns north here, making its way under a stone bridge. To the
+east you can see the large castle of king Welmar. The river flows west towards
+Midgaard.
+~
+32 0 7
+D0
+~
+~
+0 -1 3209
+D3
+~
+~
+0 -1 3207
+S
+#3209 
+Under the Stone bridge~
+   You are on the midgaard river under a stone bridge. On the west side of the 
+bridge a ladder leads up to the road. The river continues south and north.
+~
+32 0 7
+D0
+~
+~
+0 -1 3210
+D2
+~
+~
+0 -1 3208
+D4
+~
+~
+0 -1 15092
+S
+#3210
+On the Midgaard River in the Middle of the Plains~
+   You are on a river flowing southwards. Around you large plains stretch far
+on both sides. To the north you see a small wooden bridge across the river 
+and behind it you see the Moria Mountains and to the north-east you can see 
+the beginning of a large forest.
+~
+32 l 7
+D0
+~
+~
+0 -1 3211
+D2
+~
+~
+0 -1 3209
+S
+#3211
+On the Midgaard river at a old bridge~
+   You are on a river flowing southwards, a old bridge is spanning the river
+here. The river continues north and south and if you dare you can climb up
+onto the bridge.
+~
+32 0 7
+D0
+~
+~
+0 -1 3212
+D2
+~
+~
+0 -1 3210
+D4
+~
+~
+0 -1 23008
+S
+#3212
+On the Midgaard River in the Middle of the Plains~
+   You are on a river flowing southwards. Around you large plains stretch far
+on both sides. To the north you see that the river enters a cave in the Moria 
+Mountains and to the east you can see a large forest.
+~
+32 l 7
+D0
+~
+~
+0 -1 3213
+D1
+~
+~
+0 -1 23013
+D2
+~
+~
+0 -1 3211
+S
+#3213
+On the river in a dark cave~
+   You are on a river in a dark cave in the Moria Mountains the cave
+continues to the north and to the south you see some light. 
+~
+32 0 7
+D0
+~
+~
+0 -1 3214
+D2
+~
+~
+0 -1 3212
+S
+#3214
+At a turn in the river in a dark cave~
+   Here the river turns to the east. 
+~
+32 0 7
+D0
+~
+~
+0 -1 28500
+D1
+~
+~
+0 -1 5001
+D2
+~
+~
+0 -1 3213
+S
+#3215
+On the River~
+   The deep river flows east and west through a dense forest.  Over the
+ages, the river has cut through the bedrock to form a particularly deep
+channel for itself.  The banks of the river are very steep, and appear to
+be very slippery, so it would be quite impossible to leave the river and
+enter the forest.
+~
+32 0 7
+D1
+~
+~
+0 -1 3216
+D3
+~
+~
+0 -1 3200
+S
+#3216
+On the River~
+   The deep river flows east and west through a dense forest.  Over the    
+ages, the river has cut through the bedrock to form a particularly deep    
+channel for itself.  The banks of the river are very steep, and appear to  
+be very slippery, so it would be quite impossible to leave the river and   
+enter the forest.
+~
+32 0 7
+D1
+~
+~
+0 -1 3217
+D3
+~
+~
+0 -1 3215
+S
+#3217
+On the River~
+   The deep river flows east and west through a dense forest.  Over the    
+ages, the river has cut through the bedrock to form a particularly deep    
+channel for itself.  The banks of the river are very steep, and appear to  
+be very slippery, so it would be quite impossible to leave the river and   
+enter the forest.
+~
+32 0 7
+D1
+~
+~
+0 -1 3218
+D3
+~
+~
+0 -1 3216
+S
+#3218
+On the River~
+   The deep river flows east and west through a dense forest.  Over the    
+ages, the river has cut through the bedrock to form a particularly deep    
+channel for itself.  The banks of the river are very steep, and appear to  
+be very slippery, so it would be quite impossible to leave the river and   
+enter the forest.
+~
+32 0 7
+D1
+~
+~
+0 -1 3219
+D3
+~
+~
+0 -1 3217
+S
+#3219
+On the River~
+   The deep river flows east and west through a dense forest.  Over the    
+ages, the river has cut through the bedrock to form a particularly deep    
+channel for itself.  A small river branches off to the south, cutting a
+path through the forest in that direction.
+~
+32 0 7
+D1
+~
+~
+0 -1 3220
+D2
+~
+~
+0 -1 3230
+D3
+~
+~
+0 -1 3218
+S
+#3220
+On the River~
+   The deep river flows east and west through a dense forest.  Over the    
+ages, the river has cut through the bedrock to form a particularly deep    
+channel for itself.  The banks of the river are very steep, and appear to  
+be very slippery, so it would be quite impossible to leave the river and   
+enter the forest.
+~
+32 0 7
+D1
+~
+~
+0 -1 3221
+D3
+~
+~
+0 -1 3219
+S
+#3221
+On the River~
+   The deep river flows east and west through a dense forest.  Over the    
+ages, the river has cut through the bedrock to form a particularly deep    
+channel for itself.  The banks of the river are very steep, and appear to  
+be very slippery, so it would be quite impossible to leave the river and   
+enter the forest.
+~
+32 0 7
+D1
+~
+~
+0 -1 3222
+D3
+~
+~
+0 -1 3220
+S
+#3222
+On the River~
+   The deep river flows east and west through a dense forest.  Over the    
+ages, the river has cut through the bedrock to form a particularly deep    
+channel for itself.  The banks of the river are very steep, and appear to  
+be very slippery, so it would be quite impossible to leave the river and   
+enter the forest.
+~
+32 0 7
+D1
+~
+~
+0 -1 3223
+D3
+~
+~
+0 -1 3221
+S
+#3223
+On the River~
+   The deep river flows east and west through a dense forest.  Over the    
+ages, the river has cut through the bedrock to form a particularly deep    
+channel for itself.  The banks of the river are very steep, and appear to  
+be very slippery, so it would be quite impossible to leave the river and   
+enter the forest.
+~
+32 0 7
+D1
+~
+~
+0 -1 3224
+D3
+~
+~
+0 -1 3222
+S
+#3224
+On the River~
+   The deep river flows east and west through a dense forest.  Over the    
+ages, the river has cut through the bedrock to form a particularly deep    
+channel for itself.  The banks of the river are very steep, and appear to  
+be very slippery, so it would be quite impossible to leave the river and   
+enter the forest.
+~
+32 0 7
+D1
+~
+~
+0 -1 3225
+D3
+~
+~
+0 -1 3223
+S
+#3225
+On the River~
+   The lush forest on the north and south banks provide a scenic backdrop
+to your journey along the river.  A large tree has fallen across the river
+just east of here.  The river continues to the east and west, but the banks
+are too steep to climb out to the north and south.
+~
+32 0 7
+D1
+~
+~
+0 -1 3226
+D3
+~
+~
+0 -1 3224
+S
+#3226
+On the River under a Fallen Tree~
+   A large fallen tree bridges the gap between the northern and southern
+banks of the river.  The ground on either side of the river appears to be
+quite marshy, probably due to recent flooding.  The swiftly flowing river
+continues to the east and west, and you might be able to climb out onto
+the soggy ground to the north and south.
+~
+32 c 0
+D0
+~
+~
+0 -1 7302
+D1
+~
+~
+0 -1 3227
+D2
+~
+~
+0 -1 7303
+D3
+~
+~
+0 -1 3225
+D4
+The fallen tree is just out of reach.  Perhaps you can try climbing out of
+the river onto the north or south bank.
+~
+~
+0 -1 -1
+S
+#3227
+On the River~
+   The river picks up speed as it flows to the west outside the city.  The
+lush forest on the north and south banks provide a scenic backdrop to your
+journey along the river.  A large tree has fallen across the river just
+west of here, and not far to the east you can see a large stone bridge.
+~
+32 0 7
+D1
+~
+~
+0 -1 3228
+D3
+~
+~
+0 -1 3226
+S
+#3228
+Under the Bridge~
+   The river flows under a large bridge on its journey outside of the
+city.  The riverbank is too steep to climb out of the river, so you must
+maintain your present path along it.  A short distance to the west you can
+see the lush forest that surrounds Midgaard.  To the east, the river 
+wanders past several buildings.
+~
+32 0 7
+D1
+~
+~
+0 -1 3229
+D3
+~
+~
+0 -1 3227
+S
+#3229
+On the River~
+   The river flows past the buildings of Midgaard on its way west.  The
+steep riverbanks force you to stay in the river.  A large bridge has been
+built to the west, and the river continues past the rest of the city to
+the east.
+~
+32 0 7
+D1
+~
+~
+0 -1 3201
+D3
+~
+~
+0 -1 3228
+S
+#3230
+On the Xynarr River~
+   The deep brown waters of this river appear to be provided by an
+underground source.  A tremendous surge of water pushes up from below, its
+heat warming the murky river.  To the north is another river, and to the
+east and west is a vast forest, but the banks are too steep to venture into
+it. The Xynarr River continues on its way to the south. 
+~
+32 0 7
+D0
+~
+~
+0 -1 3219
+D2
+~
+~
+0 -1 3231
+S
+#3231
+On the Xynarr River~
+   The river widens considerably as it attempts to make its way through the
+forest.  As it travels south, the water picks up considerable speed, and
+much of the dirt that lines its route.  The resulting murky brown waters
+look quite treacherous.  A vast forest of pine lines the river, but the
+steep banks make it impossible to leave the river.
+~
+32 0 7
+D0
+~
+~
+0 -1 3230
+D2
+~
+~
+0 -1 3232
+S
+#3232
+On the Xynarr River~
+   The murky brown waters of the river make their way through the vast pine
+forest.  The river turns east here, deviating from its original southern
+route.  A vast forest of pine lines the river, but the steep banks make it 
+impossible to leave the river.
+~
+32 0 7
+D0
+~
+~
+0 -1 3231
+D1
+~
+~
+0 -1 3233
+S
+#3233
+On the Xynarr River~
+   As the brown waters continue through the forest, the river becomes wider
+and stronger.  The waters once again turn to the south, heading off to
+their destination.  A vast forest of pine lines the river, but the steep
+banks make it impossible to leave the river.
+~
+32 0 7
+D2
+~
+~
+0 -1 3234
+D3
+~
+~
+0 -1 3232
+S
+#3234
+On the Xynarr River~
+   The wide brown river cuts through the vast pine forest on its way to the
+south.  As it continues to its final destination, the river picks up speed,
+and a considerable amount of debris.  
+~
+32 0 7
+D0
+~
+~
+0 -1 3233
+D2
+~
+~
+0 -1 3236
+S
+#3235
+On the Xynarr River~
+   The river resumes its southern path through the forest, racing to its
+final destination.  As the deep brown waters rush through the woods, they
+pick up various bits of debris. 
+~
+32 0 7
+D1
+~
+~
+0 -1 3236
+D2
+~
+~
+0 -1 3238
+S
+#3236
+On the Xynarr River~
+   The river once again turns, this time to the west.  The deep brown
+waters rush through the forest, picking up speed as it continues on its
+way.  Several branches float past you, plucked from the steep banks of the
+river as it races to the west.
+~
+32 0 7
+D0
+~
+~
+0 -1 3234
+D3
+~
+~
+0 -1 3235
+S
+#3237
+On the Xynarr River~
+   The river resumes its southern path through the forest, racing to its
+final destination.  As the deep brown waters rush through the woods, they 
+pick up various bits of debris.
+~
+32 0 7
+D1
+~
+~
+0 -1 3238
+D2
+~
+~
+0 -1 3239
+S
+#3238
+On the Xynarr River~
+   As the river winds through the forest, it picks up considerable speed.
+The roaring waters race past the trees, taking pieces of them along as
+souvenirs.
+~
+32 0 7
+D0
+~
+~
+0 -1 3235
+D3
+~
+~
+0 -1 3237
+S
+#3239
+On the Xynarr River~
+   The churning brown waters of the river are moving at an incredible speed
+as they rush through the forest.  To the south, you see the gaping mouth of
+the river, where it meets a large body of water. 
+~
+32 0 7
+D0
+~
+~
+0 -1 3237
+D2
+~
+~
+0 -1 21100
+S
+#99999
+$~

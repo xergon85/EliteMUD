@@ -1,0 +1,114 @@
+#14200
+horn unicorn fairy~
+Horn of the Unicorn~
+A horn lies here, vibrating power.~
+~
+5 30 bcdfghklnops abgi ano
+28 4 6 6 0 0
+3 25000 5000
+A
+18 2
+A
+19 3
+#14201
+magic mushroom fairy~
+Magic Mushroom~
+A glowing mushroom is growing here.~
+~
+10 20 0 g ao
+20 67 0 0 0 0
+1 5000 100
+#14202
+cup holy grail fairy~
+the Holy Grail~
+A golden, jewel encrusted grail is sitting here, glowing.~
+~
+10 20 0 g ao
+20 36 0 0 0 0
+1 5000 100
+#14203
+key rose fairy~
+a rose-shaped key~
+A key that is shaped like a rose is here.~
+~
+18 0 0 mt ao
+2 0 0 0 0 80
+1 0 0
+#14204
+loincloth mystical mystic fairy^~
+a Mystical Loincloth~
+A strip of cloudy cloth levitates here.~
+~
+9 25 abcdfghklnops ag alo
+13 25 0 0 0 0
+5 25000 5000
+A
+1 1
+A
+5 1
+A
+12 25
+A
+24 5
+#14205
+rose diamond fairy~
+a diamond rose~
+A magnificent diamond rose lies here glinting light around the room.~
+~
+9 30 0 ag aeo
+12 20 0 0 0 0
+5 10000 5000
+A
+4 2
+A
+6 2
+#14206
+leggings luminous fairy~
+Luminous Leggings~
+A pair of leggings lie here, giving off light.~
+~
+9 30 cdghlnop abg afo
+10 30 0 0 0 0
+10 10000 5000
+A
+2 1
+A
+18 1
+A
+19 1
+#14207
+desk mahogany fairy~
+a mahogany desk~
+Oberon's mahogany desk sits here in the corner.~
+~
+15 0 0 0 0
+10 5 -1 0 0 0
+100 10000 0
+E
+desk mahogany~
+Oberon's desk looks amazingly well crafted. He must have had the best
+carpenter in all of Faerise to make it.
+~
+#14208
+scroll enchant enchantment weapon fairy~
+a scroll of weapon enchantment~
+A scroll that reads 'nopeaw tnahcne' lies here.~
+^                   ~
+2 5 0 ag ao
+80 24 -1 -1 0 0
+3 15000 0
+#14209
+fountain fairy~
+a large fountain~
+A cascading multi-tiered fountain splashes crystal-clear water here.~
+~
+23 0 abcdefghijklmnops h 0
+50000 50000 15 0 0 0
+20000 0 0
+E
+fountain~
+This fountain sprays beautiful mists of water in the air and has a small 
+cherub on the top.
+~
+#99999
+$~

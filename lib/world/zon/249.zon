@@ -1,0 +1,48 @@
+#249
+Na-Palm Beach~
+24999 60 2
+*
+*Created by Anubis alias Claes Soerensson
+*In the summer of 1995
+*
+*Mobiles
+M 0 24901 10 24901   Crabs
+M 0 24901 10 24903
+M 0 24901 10 24905
+M 0 24901 10 24907
+M 0 24901 10 24910
+M 0 24901 10 24912
+M 0 24902 2 24903    Fat man
+E 1 24901 15 7         shorts
+M 0 24902 2 24907    Fat man
+E 1 24901 15 7         shorts
+M 0 24903 1 24914    Mitch
+M 0 24904 2 24903    Fat woman
+E 1 24905 5 17        frisbee
+M 0 24904 2 24907    Fat woman
+M 0 24905 7 24905    Turtles
+M 0 24905 7 24916
+M 0 24905 7 24902
+M 0 24905 7 24911
+M 0 24906 1 24913    Captain Kidd
+G 1 24907 100            boat
+G 1 24908 100            icecream
+M 0 24907 2 24932    Orc surfers
+M 0 24907 2 24935
+M 0 24908 2 24927    Elf surfers
+M 0 24908 2 24930
+M 0 24909 2 24926    White sharks
+M 0 24909 2 24947
+M 0 24910 5 24904    Seagulls
+M 0 24910 5 24915
+M 0 24910 5 24929
+M 0 24910 5 24934
+* objects
+O 0 24902 5 24911    shark sign
+O 0 24903 5 24915    bottle
+P 1 24904 5 24903      paper
+O 0 24905 5 24901   frisbee
+O 0 24906 5 24920      important sign
+S
+#99999
+$~

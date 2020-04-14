@@ -1,0 +1,145 @@
+#53
+Great Pyramid~
+5399 140 1
+* 2-d maze for rooms 54 to 57 (sandstorm)
+R 0 5354 4
+R 0 5355 4
+R 0 5356 4
+R 0 5357 4
+* Close all the doors, and lock some of them
+D 0 5306 5 1     Close the stone atop the pyramid from above
+D 0 5308 4 1     from below
+D 0 5309 3 1     Close the door to the fire pool from the outside
+D 0 5310 1 1     from the inside
+D 0 5329 2 1     Close the stone into the ancient hall from the outside
+D 0 5330 0 1     from the inside
+D 0 5331 5 1     Close the stone into the tomb of Ramses from above
+D 0 5332 4 1     from below
+D 0 5343 5 1     Close the floor into the tomb of the pharoahs
+D 0 5344 4 1     Close the ceiling out of the tomb of the pharoahs
+D 0 5344 0 1     Close the tomb of the pharoahs from the outside
+D 0 5345 2 1     from the inside
+* it's a one-way door so we don't need to do it from the inside
+* Load some asps
+M 0 5300 6 5302
+M 0 5300 6 5305
+M 0 5300 6 5313
+M 0 5300 6 5340
+* Load some cobras
+M 0 5301 4 5303
+M 0 5301 4 5341
+* Load some mongooses (mongeese?)
+M 0 5302 3 5306
+M 0 5302 3 5316
+M 0 5302 3 5326
+* Load some pyramid watchers (thanks for the idea, Mahatma!)
+M 0 5303 6 5309
+E 1 5300 5 16           One gets an egyptian mace
+M 0 5303 6 5309
+E 1 5301 5 12           The other gets sand-colored robings
+M 0 5303 6 5337
+E 1 5300 5 16
+M 0 5303 6 5337
+E 1 5301 5 12
+M 0 5303 6 5340
+E 1 5300 5 16
+M 0 5303 6 5340
+E 1 5301 5 12
+* Load some tomb thieves
+M 0 5304 6 5325
+E 1 5302 7 16           Each wields an obsidian dagger
+M 0 5304 6 5326
+E 1 5302 7 16
+M 0 5304 6 5333
+E 1 5302 7 16
+M 0 5304 6 5334
+E 1 5302 7 16
+M 0 5304 6 5335
+E 1 5302 7 16
+M 0 5304 6 5342
+E 1 5302 7 16
+* Load Ali Baba
+M 0 5305 1 5343
+E 1 5303 5 6            He wears a cloth turban
+E 1 5302 7 16           And wields an obsidian dagger
+* Load the magic carpet (apologies to Disney and the makers of _Aladdin_)
+M 0 5306 1 5323
+* Load some mummies
+M 0 5307 4 5325
+E 1 5304 5 5            Each wears cloth wrappings
+G 1 5306 5              This one carries a jar of formaldehyde
+M 0 5307 4 5325
+E 1 5304 5 5
+G 1 5305 5              This one carries a bottle of embalming fluid
+M 0 5307 4 5337
+E 1 5304 5 5
+M 0 5307 4 5341
+E 1 5304 5 5
+* Load some sand men
+M 0 5308 4 5354
+M 0 5308 4 5355
+M 0 5308 4 5356
+M 0 5308 4 5357
+* Load the efreet
+M 0 5309 1 5311
+E 1 5307 5 0            He holds a ball of flame
+* Load the caryatids
+M 0 5310 2 5345
+E 1 5308 5 16           Each wields a stone scimitar
+M 0 5310 2 5345
+G 1 5309 5              Give the second one a stone key
+E 1 5308 5 16           Each wields a stone scimitar
+	      
+* Note: the second one was given the key to require that BOTH be killed
+* at some time for the key to be reloaded.  This way if players only kill the
+* second one, the first one will be loaded sans key on the next reset.
+* Of course, this won't really FORCE the previous players to kill both, but
+* it is more balanced than always fighting only the first caraytid.
+* And also the treasure of the pharoahs
+O 0 5310 100 5345 The stone sarcophagus
+P 0 5311 5 5310 Dust
+P 0 5312 5 5310 The scarab (key to the coffin lid in room #26)
+D 1 5326 3 2     LOCK the coffin lid from the outside
+D 1 5327 1 2     from the inside (note that this has no key#, locking you IN :)
+* Load the djinn (all the power in the world, and an itty bitty living space)
+M 0 5311 1 5323
+E 1 5313 5 17           He holds the lamp
+* Load some hieracosphinxes
+M 0 5312 3 5348
+M 0 5312 3 5349
+M 0 5312 3 5351
+* Load some gynosphinxes
+M 0 5313 2 5350
+M 0 5313 2 5350
+G 1 5314 5              Give the second one an ankh
+* Load some criosphinxes
+M 0 5314 2 5352
+M 0 5314 2 5352
+G 1 5315 5              Give the second one a book of riddles
+* Load the mighty androsphinx
+M 0 5315 1 5347
+E 1 5316 5 16             Give him a lion's paw
+* Load the great sphinx
+M 0 5316 1 5358
+E 1 5317 5 17           He holds the answer (key to room #59)
+D 1 5358 2 2     LOCK the entrance to the hole in the sand 
+* And also his treasure
+O 0 5318 5 5359 The treasure of the sphinx
+O 0 5324 5 5359 A sun wand
+O 0 5325 5 5359 A sandy ring
+O 0 5326 5 5359 A small golden sphinx
+O 0 5327 5 5359 Sphinxian leggings
+* Load Ramses (apologies to Anne Rice, hope I did ok with him)
+M 0 5317 1 5332
+G 1 5319 5              Pile of sand (money money)
+E 1 5322 5 6
+G 1 5321 5              as well as 2 small elixirs
+G 1 5321 5
+G 1 5320 1
+* Almost forgot, the 'diamond in the rough'
+O 0 5323 5 5319 Key to room #23, loaded in #19 (ROUGH crevasse)
+D 1 5322 2 2     LOCK the entrance to the vault of the lamp from the outside
+D 1 5323 0 2     from the inside
+S
+#99999
+$~

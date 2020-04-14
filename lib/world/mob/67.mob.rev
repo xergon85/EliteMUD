@@ -1,0 +1,1770 @@
+#6700
+closet monster m6700~
+The dark closet monster~
+A dark closet monster hides, waiting for some dummy to open the door.
+~
+A vague black shape, hiding in the back of the closet, glowing eyes
+peeking out at you from a half-opened closet door, the closet monster
+lurks.
+~
+1 3 bfjk bkrs -500 S 
+90 -30 -55 50d4+1500
+408 500 70 3d50+100
+86 0 25 1d0+75
+4 0 5 1d0+95 -1
+-1
+-1
+500 600000 8 8 0
+A
+%%90 close door;%5 cackle;%59 snarl;%1 curse~
+#6701
+under-the-bed monster m6701~
+Annie's under-the-bed monster~
+The under-the-bed monster has strong hands that GRAB you!!
+~
+Annie's under-the-bed monster is the stuff of nightmares.  He has long
+sharp teeth to tear your flesh and long, strong arms that whip out from
+under the bed, fast as lightning, to drag you underneath and EAT YOU
+UP!
+~
+1 3 bfjk bkrs -500 S 
+90 -25 -55 50d4+1500
+408 500 70 3d50+100
+86 0 25 1d0+75
+4 0 5 1d0+95 -1
+-1
+-1
+500 600000 8 8 0
+A
+%%30 emote suddenly #rsnakes#W out from under the bed and makes a fast 
+grab for your ankles !!!~
+#6702
+aarakocra~
+The aarakocra~
+The aarakocra soars swiftly by high above you.
+~
+Were you to stand next to him, you would see this bird-man is about the
+height of a 12 year old human, however his wingspan is nearly 4 times
+his height.  What makes this an especially dangerous bird is his
+ability to swoop suddenly and rapidly down at you from the sky.  From
+his powerful feet with the long, agile talons to his sharp beak, you
+can see he is an adversary worthy of the finest knight.
+~
+6 4 f kzB 0 S 
+85 -25 -40 50d10+1500
+407 500 50 2d20+80
+408 500 50 2d20+80 -1
+-1
+-1
+163 850000 8 8 1
+#6703
+gryphon~
+The gryphon~
+The gryphon flies at you, claws and fangs poised for attack!
+~
+A sleek and powerful cat, with claws as long as your fingers and
+powerful jaws lined with sharp teeth.  The gryphon has a pair of small
+but mighty wings giving her great mobility.  Her thick, dense fur is an
+excellent protection against attack, and her fearsome appearance is
+enough to scare off all but the most determined of predators.
+~
+6 0 f kzBD -100 S 
+80 -14 -35 50d4+900
+407 500 50 2d15+80
+408 500 50 2d15+80 -1
+-1
+-1
+163 450000 8 8 1
+#6704
+vulture~
+The wicked vulture~
+Circling above you, the vulture patiently waits to attack.
+~
+The vulture's feathers are black as night in a coal mine.  He circles
+lazily over the landscape, looking for the dead, but he is not averse
+to helping the death process along.  He has a beak which hooks sharply
+and he uses it to rip flesh from dying bodies.  He watches you with
+evilly glowing golden eyes.
+~
+6 0 f krB 0 S
+78 -21 -33 1d1+1459
+408 500 100 1d39+40
+-1 -1 -1 
+6084 640000 8 8 1
+#6705
+wyvern~
+The wyvern~
+The wyvern flickers his forked tongue at you menacingly. 
+~
+A tall, tough-skinned gray-green dragon with small, leathery wings, the
+wyvern is all sharp points.  His teeth are those of a carnivore who
+rips bites off his prey then swallows them whole.  There is a
+protective ridge of spines down his back and along his short tail.
+Even his wing tips end in sharp claws.  The wyvern snarls and attacks
+everything he sees.
+~
+18 0 f krB 0 S
+85 -24 -37 1d1+1709
+405 500 100 1d42+43
+-1 -1 -1 
+7225 760000 8 8 1
+#6706
+master ranger MrRanger~
+The Master Ranger~
+The Master Ranger ceaselessly roams the kingdom, fighting evil.
+~
+The Master Ranger is noble, fearless, shiningly strong and brave.  He
+is ruthless in his attempts to root out evil.  He is an elf of the
+forest, and dressed to blend in with his surroundings in deep green and
+chocolate suede over his tough mithril chainmail.  When he meets your
+eyes you fear he will see every wicked thought within you, and you
+quiver before his might.
+~
+1 4 film dhkrzD 0 S 
+109 -40 -55 20d10+7000
+400 500 80 14d4+60
+402 500 20 10d5+40
+-1
+317 100 327 100 328 100 318 100 359 100 321 100 322 100 323 10 -1
+-1
+500 1800000 8 8 1
+A
+%%2 flex;%2 say FEAR the Mighty Ranger's wrath!!~
+#6707
+elf forest-dweller~
+The forest dwelling elf~
+The elf nervously watches the sky as he hurries along.
+~
+With his quiver of arrows slung across his back and a bow in one hand,
+the elf looks ready for danger.  These are perilous times that try
+elves' patience!  Not only have the dragons taken up hunting elves for
+fun, but there seem to be a lot of other creatures who have taken up
+the same sport!  Of course, the elves, having good on their side, will
+win.  But at what cost?
+~
+1 0 0 kr +350 S
+80 -22 -34 1d1+1526
+400 500 100 1d40+41
+-1 -1 -1 
+6400 670000 8 8 1
+A
+%%1 wrestle~
+#6708
+elf woman female~
+The elven woman~
+The elf looks worriedly back at her home.
+~
+A dainty female elf, with long curly blond hair and an air of worry.
+She has had to leave her children alone while she goes to the healer's
+for some coltsfoot for her cough.
+~
+1 0 0 k +350 S
+85 -24 -37 1d1+1709
+400 500 100 1d42+43
+-1 -1 -1 
+7225 760000 8 8 2
+A
+%%1 headache~
+#6709
+ancient elder elf~
+The ancient elf~
+The wizened elf remembers dragon plagues of old.
+~
+The elder is old, even by elven standards.  He remembers well the days
+of the last infestation of dragons, and how so many of his friends died
+in that glorious battle.
+~
+1 1 0 hkr +500 S 
+85 -20 -35 10d10+700
+400 500 30 6d6+30
+65 0 02 1d0+90
+25 0 18 1d0+75
+75 0 5 2d0+80
+104 0 5 1d0+85
+100 0 40 1d0+75 -1
+-1
+-1
+1200 600000 8 8 1
+#6710
+Henrietta Hennapy elf herbalist~
+Henrietta Hennapy~
+Henrietta looks up at you from the pot she is stirring.
+~
+Henrietta Hennapy is a very very very ancient elf, source of much of
+the knowledge of magic of this generation of elves.  Bring her a couple
+of bat's wings and a dragon claw, a bit of pixie blood and she can make
+a potion that will make you nearly invulnerable - for a time, at least.
+~
+1 2 mbl dhkrD 750 S 
+100 -50 -50 2d40+20000
+400 500 30 3d20+90
+104 0 15 1d0+85
+76 0 10 1d0+85
+65 0 01 1d0+85
+97 0 24 1d0+85
+106 0 20 1d0+98 -1
+-1
+-1
+5067 900000 8 8 2
+A
+%%5 emote smiles indulgently at you.~
+#6711
+cat~
+The herbalist's cat~
+The charcoal black cat ignores your insignificant presence.
+~
+An exceptionally large cat, her coat shines with good health.  She is
+sleek and well muscled, evidence of nights spent on the prowl in the
+forest.  You have seen an abundance of birds in the forest, but all
+seem too large for a cat to kill.  But then, this is no ordinary cat.
+~
+3 1 bm dk 0 S
+65 -14 -26 1d1+1098
+408 500 100 1d32+33
+-1 -1 -1 
+4225 470000 8 8 2
+A
+%%5 purr~
+#6712
+apprentice Tamric~
+Tamric~
+Tamric rushes to do as Henrietta asks.
+~
+Tamric studied plants for many years with the Wiccan monks in the
+village below, but he became disturbed by the way they were beginning
+to "improve" on nature.  He begged Henrietta to allow him to study with
+her.  Tamric is a wiry elf of medium height.  His eyes are hazel,
+unusual for an elf, and his hair a tawny gold.
+~
+1 2 mb dhk 600 S 
+90 -12 -45 2d40+2800
+400 500 50 7d7+45
+105 0 25 1d0+80
+87 0 25 1d0+85 
+106 0 25 1d0+80 -1
+-1
+-1
+320 950000 8 8 1
+#6713
+dragon purple~
+The purple dragon~
+The gigantic purple dragon settles comfortably on the flimsy branch. 
+~
+The gigantic dragon is a lovely shade of purple - a deep red shade
+almost fuchsia.  His wings are huge but look very fragile - a gauzy web
+of prism-like colors.  There is a muted pattern of stars covering his
+huge body, discernible only by their faint glow.  Around his neck, the
+dragon wears a large heart-shaped locket.
+~
+18 4 0 krBD -250 S 
+88 -10 -40 10d10+7000
+404 500 20 30d2+100
+407 500 20 30d2+100
+105 0 10 1d0+70
+79 0 20 1d0+95
+56 0 15 1d0+80
+26 0 15 1d0+60 -1
+-1
+-1
+4628 1500000 8 8 1
+A
+%%5 bounce~
+#6714
+dragon topaz~
+The topaz dragon~
+The topaz dragon casually knocks over a small tree with his tail.
+~
+The glowing yellow topaz dragon is beautiful.  But clumsy.  He is a
+bit awkwardly proportioned for a dragon with an enormous tail and
+relatively small body.  His softly glowing yellow topaz skin contrasts
+brightly  with the sharp purple ridges rippling down his back and
+across his tail.  He has painted his claws a bright cherry red.
+~
+18 4 0 kB -300 S 
+85 -24 -37 10d8+2500
+404 500 20 30d2+100
+405 500 20 30d2+80
+105 0 8 1d0+60
+57 0 12 1d0+80
+94 0 20 1d0+80
+104 0 20 1d0+60
+-1
+-1
+-1
+6498 900000 8 8 1
+#6715
+dragon aquamarine~
+The small aquamarine dragon~
+A small aquamarine dragon darts at you, claws flying at your face.
+~
+This dragon is small, as dragons go, but very fierce.  She is a pale
+sea green with deep purple eyes and long dark eyelashes.  She has
+strong, leathery wings and is very agile when airborne.  She is, of
+course, a fire breather, but her long, sharp teeth and talons make this
+ability almost unnecessary.
+~
+18 4 fg rzB -400 S 
+85 -24 -40 8d10+2975
+407 500 10 30d2+100
+404 500 30 15d4+80
+104 0 15 1d0+75
+26 0 15 1d0+80
+48 0 15 1d0+99
+10 0 15 1d0+99
+-1
+-1
+-1
+7210 900000 8 8 2
+#6716
+dragon ice~
+The ice dragon~
+The ice dragon chills you with her stare.
+~
+Made of cold clear ice from an enchanted forest lake, the ice dragon
+has a heart as cold as her long, smooth body.  Her eyes are a clear ice
+blue, and she moves with agility for one of her size.  She stares at
+you as if to say, "Fear me, mortal."
+~
+18 4 l bdkrsB -400 S 
+90 -4 -42 10d10+2900
+404 500 40 20d5+100
+58 0 30 1d0+80
+77 0 15 1d0+70
+105 0 15 1d0+50
+-1
+-1
+-1
+4633 900000 8 8 2
+A
+%%2 emote freezes you with her stare.~
+#6717
+gold dragon~
+The bright gold dragon~
+The shining gold dragon dazzles your eyes.
+~
+A powerful dragon made of  gold and decorated with a king's ransom in
+precious gems.  The dragon moves smoothly on air and on land, and his
+graceful strength makes him a formidable adversary.  Like the other
+dragons infesting Tynstri, he has a fearsome first attack with fire.
+~
+18 4 l krB -500 S 
+90 -2 -37 10d10+2999
+404 500 40 20d5+50
+106 0 20 1d0+60
+104 0 20 1d0+60
+56 0 20 1d0+80
+-1
+-1
+-1
+6666 1100000 8 8 1
+A
+%%2 boast;%2 hum~
+#6718
+firedragon dragon fire~
+The firedragon~
+The bright red and orange dragon glows with the fire of his birth.
+~
+The firedragon glows with the heat of the fire whence he emerged.
+Great tongues of fire leap from his open maw, and small fires start
+with his every touch.  He moves among the trees, leaving death and
+destruction in his wake.
+~
+18 4 bfl dkrzB -500 S 
+80 -4 -40 2d40+3000
+404 500 40 20d5+50
+26 0 10 1d0+80
+48 0 10 1d0+85
+56 0 10 1d0+85
+105 0 10 1d0+65
+52 0 10 1d0+85
+10 0 10 1d0+85
+-1
+-1
+-1
+4618 900000 8 8 1
+#6719
+white dragon~
+The large white dragon~
+What you thought was a cloud turns out to be a large white dragon.
+~
+This enormous dragon is a pure white in color and at first you want to
+believe that it is a cloud come to life.  His outlines are obscured by
+the white smoke billowing from his flared nostrils, and a quick,
+darting tongue of flame burns the leaves off nearby trees.  The
+dragon's enormous tail is covered with long, dense white fur that
+belies the whiplike strength with which the dragon wields it.
+~
+18 4 l hrB 500 S 
+86 -3 -40 15d14+2900
+409 500 25 4d20+100
+407 500 15 20d4+100
+100 0 20 1d0+70
+105 0 10 1d0+50
+88  0 30 1d0+85
+-1
+-1
+-1
+3666 950000 8 8 1
+A
+%%2 bungy;%1 charge~
+#6720
+honor guard Honora~
+Honora~
+Honora watches you suspiciously, honor-bound to protect the throne.
+~
+Her long straight blond hair braided and secured to her head, Honora is
+proud of her position as part of the elf king's honor guard.  She looks
+at you from her serious blue eyes, watching you to be sure you don't
+try to steal or defile anything belonging to her king.
+~
+1 1 bfi dkrz 250 S
+75 -19 -31 1d1+1366
+400 500 100 1d37+38
+-1 -1 -1 
+5625 595000 8 8 2
+#6721
+guard honor petra~
+Petra~
+Petra stands immobile, staring stonily ahead of her.
+~
+Petra is an exceptionally strong elf, dressed in shining white armor.
+Her normal job is simply to oversee the small groups of young elves who
+come in awe to see the home of their king, but if the visitors are
+intent on theft or harm she is quite capable of defending the throne.
+~
+1 0 bfi dkrz 300 S
+78 -21 -33 1d1+1459
+400 500 100 1d39+40
+-1 -1 -1 
+6084 640000 8 8 2
+#6722
+Purity honor guard~
+Purity~
+Purity paces about the king's quarters, watching you suspiciously.
+~
+Purity has waist length honey golden blond hair with deep green eyes.
+Her ears are a trifle too round on top to be perfect.  She has a small,
+pointed chin and a wide smile with deep dimples on either side.  She is
+often reprimanded by the stricter members of her troop for humming to
+herself, but she is usually too cheerful to mind.
+~
+1 0 bfi dkrz 300 S
+75 -19 -31 1d1+1366
+400 500 100 1d37+38
+-1 -1 -1 
+5625 595000 8 8 2
+A
+%%5 say Wonder when he'll be back.~
+#6723
+Chastity honor guard~
+Chastity~
+Chastity idly polishes gold fixings and the throne.
+~
+Chastity has the face of an angel, with delicate, pale features, a
+sweet smile and nicely pointed ears.  Her fair, transparent skin
+readily reveals her slightest blush, and she is easily embarrassed.
+Her hair is an ice blond, so pale that in some light it looks white.
+In spite of her apparent fragility she is quite strong, and an awesome
+opponent.
+~
+1 1 bfi dkrz 300 S
+75 -19 -31 1d1+1366
+400 500 100 1d37+38
+-1 -1 -1 
+5625 595000 8 8 2
+#6724
+Patience honor guard~
+Patience~
+Patience would rather be out fighting dragons than waiting idly.
+~
+Patience would actually rather be doing anything than standing here
+shepherding little children through sightseeing tours.  She is very
+active and seems to be in constant motion.  Her hands are ever moving,
+readjusting her uniform, straightening the many objets d'art which
+clutter the throne room.
+~
+1 2 bfi dkrz 300 S
+75 -19 -31 1d1+1366
+400 500 100 1d37+38
+-1 -1 -1 
+5625 595000 8 8 2
+#6725
+Faith honor guard~
+Faith~
+Faith stands quietly by the throne, prepared for intruders.
+~
+Aptly named, Faith will stand faithfully at her post for a decade, if
+need be.  The only non-elf in the honor guard, Faith is half-elven and
+half-gnome, the result of what her mother thinks of as an "unfortunate
+incident" that happened on an adventure far away.  She is tiny for an
+elf, with bright red hair that she keeps hidden beneath the white
+helmet of her uniform.  Her green eyes look watchfully at you.
+~
+1 2 bfi dkrz 300 S
+75 -19 -31 1d1+1366
+400 500 100 1d37+38
+-1 -1 -1 
+5625 595000 8 8 2
+#6726
+ruby dragon~
+The ruby dragon~
+The blood red ruby dragon glows with a deep inner fire.
+~
+The same deep red as the heart of a ruby, this dragon glows with an
+inner fire.  Constantly flying the Tynstrian forests, gloatingly free of
+the dark cave of her birth, the dragon heartlessly turns elven homes to
+burnt coals.  She blows a long tongue of flame, filled with pleasure at
+the color and the warmth.  About her neck she wears a silver id chain.
+~
+18 4 l krzB -500 S 
+83 -3 -36 50d2+2900
+409 500 40 2d15+100
+104 0 15 1d0+60
+105 0 15 1d0+50
+56 0 15 1d0+75
+10 0 15 1d0+99
+-1
+-1
+-1
+2666 875000 8 8 2
+#6727
+rats rat~
+The tower rat~
+The tower rats squeak "eep!" as they skitter from under your feet.
+~
+Red eyes glowing in the dark, the small tower rat cowers at your
+approach, nose twitching as he catches your scent.  The rat has a long
+pinkish tail devoid of the black fur that covers the  rest of his body.
+His yellowing rodent teeth are always sharp.
+~
+0 0 bch krs -100 S
+36 2 -10 1d1+539
+400 500 100 1d18+19
+-1 -1 -1 
+1296 150000 8 8 1
+#6728
+emerald dragon~
+The emerald dragon~
+The deep green emerald dragon seems to blend in with the forest.
+~
+At first you think the sunlight on the leaves has made an unusually
+interesting pattern.  Then you realize that what is facing you is a
+dragon made of an enormous, glowing gemstone.  At 40' tall (over 6m) he
+towers over you, and glares greenly down at you as if you were a small
+snack.
+~
+18 4 l krB -500 S 
+84 -3 -39 25d4+2900
+402 500 15 2d10+100
+404 500 35 2d5+100
+105 0 25 1d0+70
+106 0 5 1d0+80
+10 0 20 1d0+85
+-1
+313 80 318 95 -1
+-1
+3500 900000 8 8 1
+#6729
+crystal dragon~
+The crystal dragon~
+The crystal dragon softly scorches you with a blast of steam.
+~
+A very young dragon, as dragons go, the crystal dragon is still trying
+out her wings (and her fire).  Sometimes when she means to burn a
+village, she only succeeds in helping light a fire in a fireplace.
+Other times she sneezes and starts a forest fire.  Very self-conscious
+(for a dragon), you will frequently see her polishing her crystalline
+scales.
+~
+18 4 0 bkrB -500 S 
+80 -2 -37 7d50+3300
+404 500 40 2d20+100
+104 0 40 1d0+40
+26 0 20 1d0+60 -1
+-1
+-1
+667 850000 8 8 2
+A
+%%05 emote carefully polishes her scales.; %5 fashion; %2 hum~
+#6730
+amethyst dragon~
+The amethyst dragon~
+The amethyst dragon unfurls her pale violet wings, stretching.
+~
+The amethyst dragon glows with the pale violet colors of early dawn.
+About 25' (8m) tall from the ends of her deep purple claws to the top
+of the rigid ruffle of points that extends from her small head, the
+amethyst dragon is small as dragons go.  Her eyes glow a dark crimson
+from their deeply placed sockets.  Her wings stretch 50' from pointed
+wing tip to pointed wing tip.
+~
+18 4 0 krB -500 S 
+88 -4 -40 7d30+2990
+405 500 50 2d40+60
+105 0 20 1d0+60
+107 0 20 1d0+60
+10 0 10 1d0+90
+-1
+-1
+-1
+2500 900000 8 8 2
+#6731
+shadow dragon~
+The shadow dragon~
+The shadow dragon is a vague threatening shape against the sky.
+~
+The shadow dragon is not often seen, but his awesome presence is often
+felt as clearly as one feels the imminence of rainfall.  He is the most
+massive of dragons.  His color is the dark gray of thunderclouds, and
+his breath is like lightning.  A king of dragons, he is usually content
+to wait for excitement to find him.  He has little taste for hunting.
+~
+18 4 l dsBz -500 S 
+100 -30 -47 3d50+7600
+404 500 40 2d40+100
+107 0 10 1d0+60
+105 0 10 1d0+70
+26 0 20 1d0+70
+86 0 20 1d0+85 -1
+-1
+-1
+6666 3000000 8 8 1
+#6732
+banshee~
+The banshee~
+Your mind screams with pain as the banshee wails.
+~
+Undead feminine spirit or strange, live woman?  When she begins to
+scream you realize in horror it is a banshee.  She is tall and slender
+with an athletic grace.  Her hair is a blue so dark it appears black,
+making her pallid face appear ghostly.  Her playful smile reveals
+sharply pointed teeth, and as she reaches out a thin pale hand to you,
+you recoil from the talons at the ends of each finger.
+~
+1 0 b kzA -400 S
+27 6 -5 1d1+399
+400 500 100 1d13+14
+-1 -1 -1 
+729 75000 8 8 2
+#6733
+dwarf woodcutter~
+The dwarven woodcutter~
+The dwarven woodcutter swings his axe with great strength and agility.
+~
+With all of the power of the dreaded ogre, but none of the height or
+the smell, this particular dwarf owes his overdeveloped muscles to his
+preoccupation with cutting down the forest of Tynstri. Cutting down
+forests is something he has done all his life.  Lately, however, he's
+been disturbed to notice the trees have started to bleed when cut.
+~
+1 3 c ks -300 S
+28 6 -5 1d1+414
+400 500 100 1d14+15
+-1 -1 -1 
+784 83333 8 8 1
+#6734
+adventurer elf~
+The elven adventurer~
+The tiny elf strides along the path to adventure.
+~
+He is a fairly tiny elf, but full of energy and determination.  He grew
+up during the famine which followed the last great dragon infestation,
+when so many elves died of starvation.  He has heard rumors that the
+dragons are once again breeding, and has set out upon an adventure to
+discover the truth.
+~
+1 0 0 r 250 S
+28 6 -5 1d1+414
+400 500 100 1d14+15
+-1 -1 -1 
+784 83333 8 8 1
+A
+%%2 emote sings as he walks along, "#yMacho, macho elf!  I wanna be a 
+macho elf! #W"~
+#6735
+dancing wood elf~
+The dancing wood elf~
+Wildly dancing, the wood elf barely notices your presence.
+~
+A jaunty little elf with skin the color of bright autumn maple leaves
+and hair a golden honey color, the elf has lost himself in his joyous
+dance.  It would be heartless of you to disturb him.
+~
+1 3 gc krs 100 S
+22 9 -2 1d1+325
+400 500 100 1d11+12
+-1 -1 -1 
+484 33333 8 8 1
+A
+%%3 dance; %3 tango elf~
+#6736
+wood elf drinking~
+The tipsy elf~
+The wood elf gives you a sly, slow, slightly tipsy wink.
+~
+Wood elves have a reputation for being carefree and merry making.  This
+elf is doing his best to earn that reputation.  He has filled his bota
+with a rich red wine purloined from the wine cellar in Tynstri, and he
+has been drinking freely from it for several hours now.
+~
+1 0 b k 75 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1 
+625 58333 8 8 1
+A
+%%2 stare; %2 snap;%5 hiccup;%1 wink~
+#6737
+wood elf listener~
+The young elf~
+The young wood elf listens raptly to the tales of long ago.
+~
+Dressed in ragged but colorful clothing, the young elf lives for now
+and for pleasure.  She is merry by nature, and devoted to pleasure.
+She is particularly enchanted by stories of old, of brave knights and
+wicked dragons, beautiful princesses and noble heroes.
+~
+1 0 b k 75 S
+26 7 -4 1d1+384
+400 500 100 1d13+14
+-1 -1 -1 
+676 66666 8 8 2
+#6738
+singing elf wood~
+The singing wood elf~
+The pretty wood elf's merry voice sings of good times and good friends.
+~
+The singer has cut short her pale blond hair and dyed it many colors
+with the carefully gathered flowers and barks of her forest elf kin.
+Using pine resins, she has formed it into interesting sworls and spikes
+about her head.  She sings loud and happy songs and can often be found
+trailing through the forest with a small following of admirers.
+~
+1 3 gc krs 100 S
+21 9 -1 1d1+310
+400 500 100 1d10+11
+-1 -1 -1 
+441 25000 8 8 2
+A
+%%3 airguitar~
+#6739
+storyteller wood elf~
+The storyteller~
+A long bearded elf tells of fierce battles with mighty dragons.
+~
+The old wood elf has a long thin beard that trails to his knees.  He
+tells a story to an enchanted audience.  The story recounts the days of
+the last dragon invasion, when an evil mage brought dragon eggs to the
+caverns beneath the lake in the Tynstri forest.  The mage believed he
+would be able to control dragons raised from hatchlings and thus have
+the enormous power of dragons at his command.
+~
+1 0 b k 100 S
+29 5 -6 1d1+429
+400 500 100 1d14+15
+-1 -1 -1 
+841 91666 8 8 1
+#6740
+gnome walker~
+The gnomish walker~
+The gnome scientist searches for the fabled Cave of the Dragons.
+~
+Only 4' tall (about 1m.), the gnome is not quite as stout as those of
+his race tend to be.  He is strong from his treks through the woods,
+looking for dragon droppings.  This particular scientist is on the
+trail of the dragon outlet.  He knows that dragons breed and raise
+their young deep below the surface of the earth.  He hopes to find the
+outlet to their cave and block it, ending the current scourge of
+dragons.
+~
+1 0 c dk 250 S
+33 3 -8 1d1+491
+400 500 100 1d16+17
+-1 -1 -1 
+1089 125000 8 8 1
+#6741
+goblin gobble-un~
+The ugly gobble-un~
+The gobble-un eyes you thinking, "Roasted or raw?"  He says, "Wanna PK?" 
+~
+Short, squat, bald and green, this branch of the goblin family went
+their own way some hundreds of years ago. Sometimes they shine up their
+pointy ears with walnut oil and pretend (to each other) to be elves.
+This particular gobble-un is HUNGRY for ADVENTURERS!  (like you)  He
+waits impatiently, eager for someone to foolishly accept his challenge
+and become his dinner.  Just remember ...The gobble-un 'll get you, ef
+you don't watch out!
+~
+1 0 c krs -500 S
+26 7 -4 1d1+384
+400 500 100 1d13+14
+-1 -1 -1 
+676 66666 8 8 1
+A
+%%1 drool;%1 grimace;%1 curse~
+#6742
+lynx~
+The lynx~
+The graceful lynx crouches in a tree, ready to pounce.
+~
+A beautiful tawny yellow coat covers this graceful cat from twitching
+nose and whiskers to the end of her very short tail.  She's usually to
+be found napping high in a tree during the daytime, safe from the
+wolves roaming the forest.  At night she is the consummate hunter,
+pulling down small deer and even dwarves.
+~
+3 0 0 krs 0 S
+31 4 -7 1d1+460
+408 500 100 1d15+16
+-1 -1 -1 
+961 108333 8 8 2
+#6743
+sasquatch woman female~
+The sasquatch woman~
+The large furry female looks warily at you before moving quietly away.
+~
+This sasquatch woman is smaller than her mate, who is foraging nearby
+in the forest.  She is about 2 metres (6'8") tall, and her dense black
+fur provides protection from the thorns and twigs of her environment.
+A peaceful creature, she means you no harm.
+~
+1 2 h kt 250 S
+24 8 -3 1d1+354
+400 500 100 1d12+13
+-1 -1 -1 
+576 50000 8 8 2
+#6744
+sasquatch man male~
+The sasquatch man~
+The sasquatch man hums quietly to himself as he moves about the forest.
+~
+Tall enough to be of the giant race, the sasquatch is nevertheless a
+separate species.  He has a large, very muscular body covered with a
+thin soft brown fur, which has begun to silver around his head and down
+his back.  He moves quietly about the forest.
+~
+1 2 h kt 250 S
+24 8 -3 1d1+354
+400 500 100 1d12+13
+-1 -1 -1 
+576 50000 8 8 1
+#6745
+wood sprite~
+The little wood sprite~
+The tiny wood sprite smothers a giggle so he can surprise you.
+~
+Eyes sparkling with mischief, the tiny wood sprite loves to tease.  He
+hides, invisible to normal folk, waiting for the unwary.  This
+particular wood sprite is dressed all in green so as to be all but
+invisible even to mages.
+~
+1 3 c bkrsB -150 S
+23 8 -2 1d1+339
+400 500 100 1d11+12
+-1 -1 -1 
+529 41666 8 8 1
+#6746
+alpha wolf female werewolf~
+The alpha female werewolf~
+Powerful and cunning, the she wolf bares her teeth to warn you off.
+~
+The female alpha wolf is sleek, strong and fast.  Moving, she is a gray
+blur against the landscape. Still, her deep gray fur glows with health
+and with the deep magic that makes her a shape shifter.
+~
+1 0 m kz 0 S
+27 6 -5 1d1+399
+400 500 100 1d13+14
+-1 -1 -1 
+729 75000 8 8 1
+A
+%%1 howl;%1 nose wolf;%1 lick wolf;%1nose werewolf;%1 lick werewolf~
+#6747
+alpha wolf male werewolf~
+The alpha male werewolf~
+Snarling low in his throat, the alpha male werewolf prepares to leap.
+~
+Ice blue eyes stare back at you unblinkingly from a silver gray face.
+You sense his pride in his leadership of the pack, and the strength of
+body and of mind that has made him the leader.  His thick silver-gray
+fur provides protection against both cold and sharp-toothed predators.
+~
+1 0 fm kz 0 S
+27 6 -5 1d1+399
+400 500 100 1d13+14
+-1 -1 -1 
+729 75000 8 8 1
+A
+%%1 howl;%1 nose wolf;%1 lick wolf;%1nose werewolf;%1 lick werewolf~
+#6748
+curious werewolf wolf~
+The curious werewolf~
+The sleek black wolf sniffs curiously at the air, intrigued.
+~
+This werewolf's thick fur is a deep, rich black, matching her dark
+eyes.  On moonless nights she moves quietly through the forest, unseen
+and unheard by normal souls.  Her keen senses pick up on slight
+variations in color, texture, noise and scent, and this world has an
+endless fascination for her.
+~
+1 0 c krz 0 S
+31 4 -7 1d1+460
+400 500 100 1d15+16
+-1 -1 -1 
+961 108333 8 8 2
+A
+%%1 emote sniffs curiously at you.;%1 nose wolf;%1nose werewolf;
+%1 lick werewolf~
+#6749
+ferocious werewolf wolf~
+The werewolf~
+The ferocious werewolf crouches low, preparing to SPRING at you.
+~
+The werewolf looks back at you hungrily, ready to rip out your throat
+for the pleasure of the kill.  His long front canines are quite sharp
+and capable of doing a great deal of damage to your tender skin.  Fight
+or flee?  He is too swift for you to outrun, but those same muscles
+will make him an awesome opponent.
+~
+1 0 0 kz 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1 
+625 58333 8 8 1
+A
+%%1 howl;%1 nose wolf;%1 lick wolf~
+#6750
+wolf cub werewolf~
+The werewolf cub~
+The werewolf cub snarls bravely at you, baring his mighty fangs.
+~
+Although younger and less powerful than the adults of his pack, the
+werewolf cub makes up for this with sheer outrageous courage.  He will
+attack any prey with the rest of his pack, no matter how much larger or
+stronger it is.
+~
+1 0 fm kz 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 1
+A
+%%1 howl;%1 nose wolf;%1 lick wolf;%1nose werewolf;%1 lick werewolf~
+#6751
+hunter wolf~
+The hunting wolf~
+The lean hungry wolf swifly but silently stalks her prey.
+~
+Injured in a fight with one of the tawny-coated lynxes that inhabit
+this forest, the wolf was left behind by her pack when they moved on to
+a less crowded area of the forest.  She has been hunting on her own
+ever since, not always successfully.  Her coat is shaggy and dull, and
+there is a mean, hungry look in her eyes.
+~
+1 0 fm rsz 0 S
+35 2 -9 1d1+523
+400 500 100 1d17+18
+-1 -1 -1 
+1225 141666 8 8 2
+A
+%%2 emote snarls viciously at you, baring long sharp teeth.;%2 howl~
+#6752
+lame wolf hobbling~
+The lame wolf~
+The three-legged werewolf snarls viciously at you.
+~
+One of the dangers of living near the dragon caves is the inevitability
+of occasional encounters with dragonkind.  While the large, mature
+dragons live mostly higher up in the trees and the young dragons live
+deep in the caves, during the migrations of the adolescent dragons some
+occasionally try their new skills out on the forest floor.  This poor
+werewolf was one of the casualties of a mis-directed blast of fire.
+~
+1 0 0 kz 0 S
+27 6 -5 1d1+399
+400 500 100 1d13+14
+-1 -1 -1 
+729 75000 8 8 2
+A
+%%1 howl;%1 nose wolf;%1 lick wolf;%1nose werewolf;%1 lick werewolf~
+#6753
+Baby Blue dragon~
+Baby Blue~
+The big baby blue dragon plays quietly with her toys.
+~
+Baby Blue is a lovely soft pastel shade of blue, with deeper blue wings
+ending in indigo wingtips.  Although still an infant, it's clear that
+she will be a very large dragon when full grown.  She lacks the
+go-for-the-throat attitude of her hatch mates, however, and may never
+take advantage of her size.
+~
+18 0 0 kB 100 S
+27 6 -5 1d1+399
+405 500 100 1d13+14
+-1 -1 -1 
+729 75000 8 8 2
+#6754
+Bubba dragon~
+Bubba~
+Bubba can't fly yet, but he can roll over you like a mighty rockfall.
+~
+One enormous dragon!  Not anywhere near his full growth yet, Bubba
+towers over all the other hatchlings from his clutch.  His dragon
+master tells him if he keeps eating the elf cook's cream puffs at the
+rate he's going he won't be able to fit out the exit tunnel of the
+cave.  Bubba's not sure that's such a big deal.  He's not sure he will
+ever be able to fly.  And there is something to be said for a life
+spent eating cream puffs!
+~
+18 2 c AD 0 S
+27 6 -5 1d1+399
+405 500 100 1d13+14
+-1 -1 -1 
+729 75000 8 8 1
+#6755
+cave bat~
+The cave bat~
+Is this hairy scary cave bat a vampire?  Hard to tell!
+~
+Hanging upside down from the ceiling of this small cave is an enormous
+bat.  The bat is so big its head is hanging down near your groin.  It
+has large leathery wings covered in a light fur, and you notice a
+slight drool coming from it's mouth.  You wonder what a bat this size
+would eat.  You hope it isn't you.
+~
+13 0 b kB 0 S
+33 3 -8 1d1+491
+408 500 100 1d16+17
+-1 -1 -1 
+1089 125000 8 8 0
+#6756
+Chucky mannequin doll~
+Chucky~
+The evil doll grins at you, saying, "I'm b-a-a-a-c-k!"
+~
+An evil drow mage once sent a truckload of these dolls to infest a
+small elven orphanage.  On one of his rare excursions outside the cave,
+Sneaker stole the dolls and brought them back to the dragon nursery.
+The Chucky dolls are wooden mannequins about the height of a small
+wolf.  They are very vicious, and very brutal when they don't get their
+own way.  Unfortunately for them, the dragons use the really nasty ones
+as target practice for their fireballs.  Nothing warms a dragon's heart
+like the sight of a Chucky doll going up in flames.
+~
+1 0 cf sk -300 S
+18 11 0 1d1+266
+400 500 100 1d9+10
+-1 -1 -1 
+324 12500 8 8 0
+#6757
+dragon ghost ghostly~
+The ghostly dragon~
+A faintly discernible image shimmers in the air beside you.
+~
+A chill blows over you, despite your enclosed surroundings.  You can
+feel it even in your bones.  The great dragon, last of his clan, swore
+as he died to haunt those who would destroy his kind.  He does indeed
+inspire a mind-numbing fear.
+~
+2 0 0 bA 0 S
+23 8 -2 1d1+339
+400 500 100 1d11+12
+-1 -1 -1 
+529 41666 8 8 1
+#6758
+dragon mummy~
+The mummified dragon~
+The dragon mummy wanders endlessly through dark and lonely caves.
+~
+Rather than being cremated, as is the custom for dragons who have
+passed on to the greater glory, this poor dragon's relatives wanted to
+keep his beautiful dragon body around for posterity.  They had it
+mummified and embalmed by the funeral home owned by Howard.  The staff
+boasted great experience, having embalmed most of those now buried
+under the Midgaard Chapel.  Unfortunately, the staff was corrupt, inept
+and downright evil.  The mummy is doomed to walk the caves of its
+birthplace until someone puts it (at least temporarily) out of its
+misery.
+~
+2 0 f kB -500 S
+29 5 -6 1d1+429
+400 500 100 1d14+15
+-1 -1 -1 
+841 91666 8 8 1
+#6759
+skeleton dragon~
+The dragon skeleton~
+The dragon skeleton creaks eerily as it wanders the caves.
+~
+What is it searching for in its endless wandering through the caves of
+its homeland?  Nobody seems to know, but the young dragons have learned
+to ignore it.  Except when it tries to climb in bed with them at night,
+of course.  *shiver*
+~
+2 0 0 dka -150 S
+23 8 -2 1d1+339
+400 500 100 1d11+12
+-1 -1 -1 
+529 41666 8 8 0
+#6760
+zombie dragon~
+The zombie dragon~
+The zombie dragon shuffles along, filling the cave with a ghostly
+smoke.
+~
+Zed the Zombie.  Not too frightening, is he?  Just because he is
+MASSIVELY larger than you, has a mouthful of glistening white teeth and
+could crush you with one swipe of his tail is no reason to panic!  (Or
+is it? :)
+~
+18 0 f kzA -300 S
+33 3 -8 1d1+491
+405 500 100 1d16+17
+-1 -1 -1 
+1089 125000 8 8 1
+#6761
+undead dragon GUD~
+The Great Undead Dragon~
+The GUD charges at you with a quiet roar of displeasure!
+~
+The Great Undead Dragon (known in the dragon nursery as the GUD) is
+doomed to walk the trail of the undead through the Great Dragon Crypt
+for all eternity, or at least as long as the cave stands.  Death has
+not improved his particularly nasty disposition, and he is likely to
+attack any and all who venture near him.
+~
+18 3 f yAD -400 S
+32 4 -7 1d1+476
+405 500 100 1d16+17
+-1 -1 -1 
+1024 116666 8 8 1
+#6762
+ghost lost newbie~
+The newbie ghost~
+"Have you seen my corpse?" asks the ghost of the lost newbie.
+~
+Wandering lost and bewildered, this poor adventurer never had a chance.
+He stumbled into a mature dragon when he was yet an infant in
+experience and alas, never found his corpse.  He is doomed to roam
+forevermore in these caves beneath the monastery.
+~
+1 0 0 bA 0 S
+21 9 -1 1d1+310
+400 500 100 1d10+11
+-1 -1 -1 
+441 25000 8 8 1
+#6763
+phantom~
+The Phantom of the Cavern~
+The Phantom of the Cavern's music weaves spells of great evil.
+~
+His dragon face mostly covered by a white plaster mask, the evil
+Phantom of the Cavern was once a lowly bard who wandered into these
+caves in search of the perfect set of stalactites with which to create
+a great cave organ.  Burned into insanity as a result of a brush with
+the crematorium, he has haunted these dark caves ever since.  He
+enchants with his music, but 'tis an evil enchantment.
+~
+1 3 0 yz -400 S
+34 3 -8 1d1+507
+400 500 100 1d17+18
+-1 -1 -1 
+1156 133333 8 8 1
+#6764
+skeleton dragon hero~
+The massive skeleton~
+The massive skeleton of an undead dragon hero moves slowly towards you.
+~
+The greatest of all the old time dragon heroes, this dragon died over a
+thousand years ago.  Does any body this massive ever completely die?
+Evidently this one has not, for it has been wandering the dragon caves
+for a millenium.
+~
+2 0 0 dka -150 S
+29 5 -6 1d1+429
+400 500 100 1d14+15
+-1 -1 -1 
+841 91666 8 8 1
+#6765
+teleporting mage ghost~
+The ghostly mage~
+The ghostly mage screams, "CAST 'TELEPORT' ME!!!"
+~
+Alas, this would-be great wizard teleported herself right into a nest
+of playful dragons.  They thought she would make a great toy and were
+very disappointed when she didn't last for very long.  She has her
+revenge, however.  She will be haunting these caves as long as they are
+here.
+~
+2 1 0 bdkzB 0 S
+24 8 -3 1d1+354
+400 500 100 1d12+13
+-1 -1 -1 
+576 50000 8 8 2
+A
+%%1 moan~
+#6766
+Daffodil daffy dragon~
+Daffodil~
+Daffy flaps her infant wings as hard as she can, creating a sandstorm.
+~
+Born a soft creamy yellow, Daffodil's color has deepened to the yellow
+of spring daffodils.  Nicknamed Daffy for the silly things she does,
+Daffy is still a favorite in the nursery.  Except, of course, when she
+whips up a strong wind with her wings!
+~
+1 0 0 krsA 0 S
+28 6 -5 1d1+414
+400 500 100 1d14+15
+-1 -1 -1 
+784 83333 8 8 2
+#6767
+dragon fourth forth 4th consort~
+The fourth consort~
+"Wanna PK?", yawns the dragon.
+~
+A virtual dragon database of information about the latest in armor and
+dragon enemies, this old guy knows it all.  Let him tell you about his
+masterful defeat of the master ranger, or the time he made the elf king
+flee.  For all his knowledge and for all his toys, the old coot has a
+strong aura of boredom surrounding him.
+~
+18 0 b kB -100 S
+109 -36 -50 1d1+3132
+405 500 100 1d54+55
+-1 -1 -1 
+11881 4400000 8 8 1
+#6768
+dragon consort~
+The queen's consort~
+The queen's consort idly shoots darts into a picture of the elf king.
+~
+The post sounded ideal, of course.  All this powerful knightly dragon
+had to do was kick back and look studly. His official duty is to
+protect the queen and provide adult supervision to the hatchlings, but
+in reality he spends his days gossiping with the other consorts while
+the hatchlings play wild games.
+~
+18 4 0 rBD 0 S
+109 -36 -50 1d1+3132
+405 500 100 1d54+55
+-1 -1 -1 
+11881 4400000 8 8 1
+#6769
+dragon master dm MrTeacher~
+The Dragon Master~
+#RThe Dragon Master tells you, "Interruptions are not allowed!"#N
+~
+The Dragon Master is attempting to teach the young dragons the
+rudimentary skills of dragonhood, that is, breathing fire, devastating
+villages, eating elves, and so forth.  He does not appreciate
+interruptions to his classes.  He is a short-tempered dragon who would
+rather be flying about the forest with his brethren.
+~
+18 0 0 krB 100 S
+30 5 -6 1d1+445
+405 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 1
+#6770
+dragon queen smd sexy mud~
+The DraGon QuEeN~
+The sexy mud dragon looks you over from under very thick (and very
+fake) lashes, wondering whether you are worth the bother of killing.
+~
+From the tip of her very beautiful (to a dragon) long tail to the end
+of her toothy smile, the DraGoN QuEeN is the image of female dragon
+beauty.  You may suspect that the tail has been artificially enhanced,
+that the teeth have been whitened and sharpened by one of the dragon
+mages, but the effect is nevertheless overpowering.  Male dragons are
+instantly hit with an uncontrollable desire to take her places and give
+her expensive toys.  One gift clearly was the lovely id bracelet she
+wears on one dainty dragon ankle.
+~
+18 1 b krB 0 S
+100 -32 -45 1d1+2459
+405 500 100 1d50+51
+-1 -1 -1 
+10000 1833333 8 8 2
+#6771
+studly dragon~
+The studly dragon~
+The very studly dragon struts around the cave, flexing his muscles.
+~
+The young dragon is very pleased with himself and his appearance.
+Certain that he has the shiniest and newest of dragon armor, that his
+muscles are the bulgiest, his teeth the pointiest, his spells the
+scariest and his breath the nastiest, his arrogance is matchless.  He
+is certain that of all the Queen's consorts, he is her secret heart's
+desire.
+~
+18 0 b kB -200 S
+19 10 0 1d1+281
+405 500 100 1d9+10
+-1 -1 -1 
+361 16666 8 8 1
+A
+%%5 flex;%2 emote admires himself in the mirror.;%3 emote flexes his  
+mighty biceps, showing off his sexy mud dragon tattoo.~
+#6772
+elf slave cook chef~
+The elf cook~
+Slaving away over a hot stove, the elven chef curses fate.
+~
+Chosen more by accident than for her extraordinary ability to make
+delicious meals from unusual ingredients, the elven chef is a true
+artist in the kitchen.  Tall and strong, she bullies the weaker dragons
+into fetching the ingredients that she needs from the surface world.
+Unfortunately for her, she is guarded by some of the stronger dragons.
+The DraGoN QueEn gets quite grumpy when she doesn't eat regularly.
+~
+1 0 b rk 150 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1 
+625 58333 8 8 2
+A
+%%2 wetfish;%2 taunt dragon;%2 wrestle;%2 headache~
+#6773
+Froggy dragon~
+Froggy~
+Froggy hops over to you, long dragon tongue shooting out to sample you.
+~
+Froggy was born a deep green frog color!  When Moonshine is mad at her,
+she calls her Toad.  The dragons are rarely mad at Froggy, though.  She
+hops happily around the caves going "Ribbit! Ribbit!" and pretending to
+be a frog.  You will notice the absence of flies in the cave ...
+~
+18 2 0 kB 0 S
+25 7 -3 1d1+369
+405 500 100 1d12+13
+-1 -1 -1 
+625 58333 8 8 2
+A
+%%2 hop~
+#6774
+gentle dragon~
+The gentle dragon~
+The tall dragon towers over you before gently flame-broiling you.
+~
+In truth, a dragon can be quite gentle when he is as powerful as this
+one.  Due to his size he must unfortunately eat quite often, but he
+tries very hard not to scare his dinner too badly.  It's bad for the
+digestion, of course, to eat something that was frightened to death.
+~
+18 4 0 krzB 250 S 
+109 -36 -50 4d50+1900
+400 500 70 7d7+70
+104 0 10 1d0+90
+106 0 20 1d0+90 -1
+-1
+-1
+3000 1500000 8 8 1
+#6775
+grumbly dragon~
+Grumbly~
+Grumbly glares, her eyebrowns drawn together in a perpetual frown.
+~
+"You'll never lure a nice meal to you if you are always in a bad mood,
+Grumbly,", the DraGoN QueEn admonishes Grumbly.  But it is in her
+nature to be unhappy with the world as it is, and to share her
+displeasure with her fellow dragons.  As a result, they tend to avoid
+her and she has that much more to grumble about.
+~
+18 0 0 krB -250 S
+23 8 -2 1d1+339
+405 500 100 1d11+12
+-1 -1 -1 
+529 41666 8 8 2
+A
+%%1 emote mutters softly under her breath about idiot adventurers.;%2
+emote grumbles unintelligibly to herself.;%1 emote grumbles, "Sunshine 
+is entirely too sunny, and Moonshine is entirely too full of himself."~
+#6776
+HotShot dragon~
+HotShot~
+HotShot shoots a small but very hot tongue of flame towards you!
+~
+Some dragons are just born talented.  HotShot made the old Dragon Queen
+cry with joy when she hatched.  HotShot blasted her way out of her
+shell with tiny shots of white-hot flame.  Her flame red color
+contrasts sharply with the soft pastels of her siblings and cousins
+here in the nursery.  The dragons have great hopes for her future even
+though she is as yet quite small.
+~
+18 1 0 krB 0 S
+19 10 0 1d1+281
+405 500 100 1d9+10
+-1 -1 -1 
+361 16666 8 8 2
+A
+%%2 gloat;%5 boast~
+#6777
+jackrabbit~
+The jackrabbit~
+The jackrabbit bounds rapidly away from you on long strong rabbit legs.
+~
+Measured from the tips of his very long upstanding ears to the tips of
+his very long feet, the jackrabbit would be near the height of that
+gnome who's been pacing through the woods.  But it is unlikely the
+jackrabbit will allow you close enough to measure him!
+~
+0 0 h krA 0 S
+22 9 -2 1d1+325
+400 500 100 1d11+12
+-1 -1 -1 
+484 33333 8 8 2
+A
+%%2 hop;%2 jump;%3 emote twitches his nose and whiskers.~
+#6778
+Dood dragon~
+Dood~
+Dood flexes his mighty tail and blows some mighty fire.
+~
+Dood dreams of days when he will fly with his mighty wings high above
+Tynstri, terrorizing the villagers, the monks and even the fish in the
+lake.  He will be the Ultimate dragon and elves will quake at the sound
+of his name!
+~
+18 1 0 krB 0 S
+33 3 -8 1d1+491
+405 500 100 1d16+17
+-1 -1 -1 
+1089 125000 8 8 1
+A
+%%1 say excellent!;%1 say Yo! doods and doodettes!;%1 say like totally, 
+man!; %1 say I love you man!; %1 embrace dragon; %1 say as if!; %1 say 
+Duh! my bad!; %2 say so that's how you get your jollies! picking on 
+poor little baby dragons!~
+#6779
+KaBoom! dragon~
+Kaboom!~
+"KaBoom!  KaBoom!", says the little dragon, as he detonates his toy.
+~
+KaBoom! got his nickname when some dwarven miners mistakenly thought
+that this particular cavern might make a good place to explore.  One of
+the adult dragons detonated them, and then there were no more miners.
+KaBoom! was very excited about the explosions and has been running
+around practicing that spell ever since.  Fortunately for you, he is
+still a little young to have perfected it.
+~
+18 0 c krB 0 S
+24 8 -3 1d1+354
+405 500 100 1d12+13
+-1 -1 -1 
+576 50000 8 8 1
+#6780
+Mole dragon~
+Mole~
+Soft and quiet, Mole sneaks up behind you and steals your weapons.
+~
+Stealth isn't normal for dragons.  Not at all.  Not a bit!  But with
+Mole it's second nature.  He is dark for a dragon - a deep brown gray
+that blends with unpainted cavern walls.  He moves quietly, learning to
+steal what other dragons take by force.
+~
+18 3 hf krsB -100 S
+33 3 -8 1d1+491
+405 500 100 1d16+17
+-1 -1 -1 
+1089 125000 8 8 1
+#6781
+Moonshine dragon~
+Moonshine~
+A dragon the color of moonshine eyes you with a calculating sparkle.
+~
+Moonshine's adventures easily eclipse those of his twin sister,
+Sunshine.  He is by far the more courageous of the pair and is liable
+to be found anywhere in the great underground series of caves, even
+(when he escapes from the Dragon Master) along the great Trail of the
+Undead  Dragons.
+~
+18 2 0 krB 0 S
+18 11 0 1d1+266
+405 500 100 1d9+10
+-1 -1 -1 
+324 12500 8 8 1
+#6782
+Oopsi dragon~
+Oopsi~
+Oopsi casually stumbles over nothing and comes crashing into you! OUCH!
+~
+To say she is a little clumsy would be an understatement.  Oopsi's
+problem isn't just that her feet are way too large for the rest of her
+body, it's the whole coordination thing.  Still, she is a dragon and
+should find someone like, say, you, easy enough to manage.
+~
+18 1 0 kA 100 S
+33 3 -8 1d1+491
+405 500 100 1d16+17
+-1 -1 -1 
+1089 125000 8 8 2
+#6783
+PinKy dragon~
+PinKy~
+Midget dragon PinKy looks anxiously for a place to hide.
+~
+A tiny pink dragon, PinKy has always been a little self-concious
+because of her size.  The older dragons tell her that magic does not
+require great strength, but she is still frightened of much of her
+world.  The elders despair of her ever being ready to leave the
+cavenest.
+~
+18 2 h kB 100 S
+34 3 -8 1d1+507
+405 500 100 1d17+18
+-1 -1 -1 
+1156 133333 8 8 2
+#6784
+Splat! dragon~
+Splat!~
+Splat! you go as Splat! hops up and down on top of you.
+~
+Splat! is a VERY hefty dragon who has yet to learn proper rules of
+dragon decorum.  Her favorite attack is to jump wildly up and down on
+top of her victim.  Due to her size and lack of serious prey in the
+dragon caves, this is actually quite effective!
+~
+18 2 0 kB 100 S
+34 3 -8 1d1+507
+405 500 100 1d17+18
+-1 -1 -1 
+1156 133333 8 8 2
+#6785
+Puff dragon~
+Puff!~
+Puff! casually blows a cloud of smoke your way.
+~
+Puff! has got this smoke blowing thing down very well!  He can blow
+rings and squares and small clouds at will.  The other young dragons,
+who are in truth a bit jealous, say it's because he gets all the
+choicest bits of adventurer to eat.
+~
+18 1 0 krB -100 S
+21 9 -1 1d1+310
+405 500 100 1d10+11
+-1 -1 -1 
+441 25000 8 8 1
+#6786
+ScreaMEr dragon~
+ScreaMEr~
+ScreaMEr lets out a string of dragon obscenities.
+~
+A bit spoiled, ScreaMEr tends to throw wild tantrums when she doesn't
+get her own way.  Sometimes she just stomps off screaming, "I'll never
+play with you again.  I HATE you!" and sometimes she attacks, claws
+flying.
+~
+18 3 h krB -100 S
+34 3 -8 1d1+507
+405 500 100 1d17+18
+-1 -1 -1 
+1156 133333 8 8 2
+#6787
+SmoKy dragon~
+SmoKy~
+SmoKy sees you and quickly disappears behind a cloud of smoke.
+~
+This beautifully pale gray dragon finds it easy to hide in a cloud of
+smoke, and at her age she is pretty good at creating the smoke.  SmoKy
+is a bit shy, but she is looking forward to heading out of the caves
+and into the forest soon.
+~
+18 1 h krB 0 S
+36 2 -10 1d1+539
+405 500 100 1d18+19
+-1 -1 -1 
+1296 150000 8 8 2
+A
+%%10 cast 'invisibility' SmoKy;%5 smoke;%5 pose;%5 crack;%10 vis~
+#6788
+Sneaker dragon~
+Sneaker~
+Sneaker sits down to enjoy the cookies he "found" in Puff's hidey-hole.
+~
+Sneaker is, unfortunately, a little sneak.  A very clever little sneak,
+at that!  He is quite good at discovering where his cousins have hidden
+their treasures, then "borrowing" the treasures.  Dragons being not
+known for their stealth (they are simply much too LARGE to move all
+that quietly), Sneaker's father has had some serious questions for the
+DraGoN QueEn about Sneaker's possible parentage.
+~
+18 3 c kB -140 S
+24 8 -3 1d1+354
+405 500 100 1d12+13
+-1 -1 -1 
+576 50000 8 8 1
+#6789
+Sunshine dragon~
+Sunshine~
+A bright yellow dragon glows at you, making you feel warm all over.
+~
+Sunshine is a sunny bright yellow dragon named not for her color or
+shine but for her disposition.  She and her twin, Moonshine, are the
+newest arrivals at the dragon breeding grounds in the great cavern
+under the monastery.
+~
+18 2 0 krB 200 S
+18 11 0 1d1+266
+405 500 100 1d9+10
+-1 -1 -1 
+324 12500 8 8 2
+#6790
+Swipe dragon~
+Swipe~
+Swipe stumbles by you and suddenly you are missing your backpack!
+~
+Swipe is in training to be the master thief.  Dragons do not usually
+have the dexterity needed to excel at this profession, but Swipe has
+developed the nimble fingers of an elf and a clever mind to use them.
+~
+18 3 c sB -150 S
+36 2 -10 1d1+539
+405 500 100 1d18+19
+-1 -1 -1 
+1296 150000 8 8 2
+#6791
+tarantula spider~
+The tarantula~
+With eight long furry legs, the tarantula skitters rapidly toward you.
+~
+Gold and brown are the colors of this rather beautiful spider.
+Beautiful but deadly, that is.  The body at the center of the eight
+long hairy legs is about the width of a human male's hand.  The legs
+are each about twice that size.  The tarantula is able to move rapidly
+and is not likely to attack you except in defense.
+~
+0 0 bcfg krA -200 S
+30 5 -6 1d1+445
+400 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 2
+#6792
+Tweaker dragon~
+Tweaker~
+Tweaker floats towards you, eyes twirling independently of each other.
+~
+Tweaker's soft minty green has an occasional yellowish cast due to some
+of the strange magical concoctions he quaffs.  This clutch of dragons
+was so numerous that some of the quieter hatchlings seem to fade into
+the cave walls, as if rendered invisible by their lack of importance.
+Tweaker's answer to this has been to lose himself in magic.  He does
+lose the feeling of invisibility with this indulgence.
+~
+18 1 0 bkA -50 S
+30 5 -6 1d1+445
+405 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 1
+#6793
+violet dragon~
+Violet~
+The soft pale purple dragon smells of violets and springtime.
+~
+Clearly a child of the ferocious great purple dragon who terrorizes the
+skies of this elven homeland, Violet has inherited his great heart as
+well as his lovely color.  The dragon master has had a difficult time
+with her, however, as she would much rather be picking (and munching)
+flowers than learning to burn.
+~
+18 0 0 kB 500 S
+23 8 -2 1d1+339
+405 500 100 1d11+12
+-1 -1 -1 
+529 41666 8 8 2
+#6794
+Wa-Z dragon~
+Wa-Z~
+Wa-Z is weakening the cavern walls with her wild wailing.
+~
+Not a quiet infant, Wa-Z lets the world know when she is not happy.
+She is not happy at the moment, and the strength of her cries is
+actually weakening the magic that keeps the cavern lit.  The cries
+resonate so loudly that the cavern rock is developping large cracks.
+~
+18 0 0 kB 0 S
+36 2 -10 1d1+539
+405 500 100 1d18+19
+-1 -1 -1 
+1296 150000 8 8 2
+#6795
+Whodeeny dragon~
+Whodeeny~
+Whodeeny trips about the cave looking for rabbits to pull from his hat.
+~
+Unfortunately for Whodeeny (the Mystical Mage to be!), all the rabbits
+which might be available to live in his hat have been made into rabbit
+stew by the elf cooks.  He had a stuffed rabbit when he was a little
+younger, but HotShot burnt it to a crisp a year ago.  It was a vile act
+of revenge.  Whodeeny hadn't really meant to make HotShot's tail turn
+pink.  It just happened.
+~
+18 1 c dB 0 S
+37 1 -10 1d1+555
+405 500 100 1d18+19
+-1 -1 -1 
+1369 161666 8 8 1
+#6796
+Whoosh! dragon~
+Whoosh!~
+With one mighty swoop of her wings, Whoosh! knocks you off your feet.
+~
+"Wings as Weapons" was this studious dragons favorite reading in dragon
+school.  She stole the dragon master's sole copy of the manual and
+studied it every night, sneaking over to the catacombs to practice
+flying.  The zombies weren't too happy at being knocked over all the
+time, but Whoosh! thought it was great fun.
+~
+18 1 0 zB 0 S
+37 1 -10 1d1+555
+405 500 100 1d18+19
+-1 -1 -1 
+1369 161666 8 8 2
+#6797
+Wuuda dragon~
+Wuuda~
+Wuuda looks at you curiously, wondering if she is allowed to eat you.
+~
+Wuuda is a powerful and rapidly growing young gray dragon.  She has
+specialized in martial arts and is proud of the rapidly hardening
+muscles in her legs and wings.  She will soon be leaving the cave to
+terrorize the forest above.
+~
+18 0 0 krB 0 S
+37 1 -10 1d1+555
+405 500 100 1d18+19
+-1 -1 -1 
+1369 161666 8 8 2
+#6798
+fighter dragon~
+The young dragon~
+"And I'll huff and I'll puff and I'll ...", boasts the young dragon.
+~
+A dragon in training is an awesome sight.  It takes a lot of practice
+to get the right amount of heat into your breath and to get the flame
+just the right length to do the most damage.  Then there are the "how
+to take care of your claws" practices and flying practice and "Wing
+Care" and spells.  For most young dragons it gets to be, well, a DRAG!
+but this little guy takes it quite seriously and works hard at being
+the best.
+~
+18 0 0 kB 100 S
+29 5 -6 1d1+429
+405 500 100 1d14+15
+-1 -1 -1 
+841 91666 8 8 1
+#6799
+ghost adventurer greedy~
+The greedy ghost~
+The greedy adventurer's ghost searches forevermore for the treasure.
+~
+An adventurer who went one step too far in her search for treasure.
+'nuff said.
+~
+1 0 b bkA -100 S
+35 2 -9 1d1+523
+400 500 100 1d17+18
+-1 -1 -1 
+1225 141666 8 8 2
+#99999
+$~

@@ -1,0 +1,127 @@
+#7300
+lizardman man lizard~
+the Lizardman~
+The Lizardman is standing here, eyeing you unblinkingly.
+~
+The Lizardman is tall, athletic and looks extremely strong. His
+jaws are well stocked with sharp incisors and his tail twitches
+from side to side as if seeking a target. 
+~
+1 0 2048 0 500 A 21 1
+A
+%%10 emote snaps a fly out of the air with his toungue.~
+#7301
+lizardwoman lizardman woman lizard~
+the Lizardwoman~
+The Lizardwoman is standing here, keeping an eye open for danger.
+~
+The Lizardwoman is strong and alert. She is keeping a wary
+lookout, intent on protecting her young. 
+~
+1 0 2048 0 500 A 15 2
+A
+%%15 emote cuffs an errant child gently around the head.~
+#7302
+lizardchild lizardman child lizard~
+the Lizardchild~
+The Lizardchild is playing soldiers here, guarding the settlement from intruders!
+~
+The Lizardchild is running around playing happily. It is quite
+small and not really a threat to anyone. 
+~
+1 0 2048 0 750 A 10 0
+A
+%%15 emote pokes you playfully in the leg with a wooden sword.~
+#7303
+lizardman hunter lizard~
+the Lizardman Hunter~
+The Lizardman Hunter is idling away some time waiting for the next sortie.
+~
+The Lizardman Hunter is impressive indeed. Rippling muscles and a
+well trained arm are backed by his heavy, club-like, tail. You
+realize that even unarmed he would be quite formidable. 
+~
+1 0 2048 0 450 A 25 1
+A
+%%5 emote suddenly springs at you! His tail flashes past your face only barely an inch from your nose!  He grins at you showing some very large teeth!~
+#7304
+lizardman fisherman man lizard~
+the Lizardman Fisherman~
+The Lizardman Fisherman is standing here talking to the world in general.
+~
+The Lizardman Fisherman is tall and strong. Hours of patiently
+waiting to strike, plucking his prey from the water have given him
+a steady, steely gaze. At the moment, however, he is describing
+the one that got away. It was this big!
+~
+1 0 2048 0 450 A 25 1
+A
+%%20 emote stretches his arms to their full extent and says, "It was this big!"~
+#7305
+lizardman mage lizard~
+the Lizardman Mage~
+The lizardman mage is standing here.
+~
+The mage looks surprisingly intelligent for a lizardman. You
+realize from his garb and manner that he really is a magician to
+be reckoned with. 
+~
+1 1 2050 bdhk 600 A 30 1
+A
+%%25 emote waves his fingers and lightning flashes between them. He smiles.;
+%10 emote mutters gently and rises off the ground for a few seconds.~
+#7306
+lizardman apprentice mage lizard~
+the Lizardman Apprentice Mage~
+The Lizardman Apprentice is standing quietly waiting for inspiration.
+~
+The Lizardman Apprentice is dressed in an outlandish robe. You
+feel that she may be trying just a little too hard to fit the
+part. 
+~
+1 1 2048 0 450 A 20 2
+A
+%%10 emote produces a small flame from in her hand then screams loudly and sucks her fingers.~
+#7307
+lizardman guard lizard~
+the Lizardman Guard~
+The Lizardman Guard is patiently standing to attention here.
+~
+The guard is large, even for a lizardman, and he is held rigidly
+to attention. 
+~
+1 0 2048 0 450 A 30 1
+#7308
+lizardman chief ruler king chieftain lizard~
+the Lizardman Chieftain~
+The Lizardman Chieftain is standing here surveying his domain.
+~
+The Lizardman Chieftain is surprisingly young. He stands tall and
+his eyes shine with a wisdom unexpected for his years. You feel
+that he is a good, just and compassionate soul, tempered with
+steel and possessing an unflinching will. 
+~
+1 0 2048 0 800 A 35 1
+#7309
+crocodile lizardman~
+a Crocodile~
+The Crocodile is lying here, waiting for prey.
+~
+The Crocodile is a dark green, scaly eating machine.
+~
+0 0 bfg 0 0 A 25 0
+#7310
+river monster lizardman huge thing lizard~
+a Monster~
+A Huge Monster rises from the water.
+~
+The thing is mottled green and brown and huge. It is hard to make
+it out as it rises and falls below the surface but it has a large
+squat head on a long neck and hundreds of teeth. You think that
+you see flippers too but it is hard to see in the spray being
+generated. 
+~
+0 0 bcfgl 0 0 A 35 0
+#99999
+$~
+

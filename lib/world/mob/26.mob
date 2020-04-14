@@ -1,0 +1,1216 @@
+#2600
+insects swarm bugs~
+the insects~
+You hear buzzing, and see a swarm of insects flying at you.
+~
+These insects are more of an annoyance than a threat.
+It is made up of hundreds of annoying insects.
+~
+0 0 f 0 -100 S
+7 16 7 2d11+105
+409 500 100 2d3+3 -1
+-1
+-1
+0 1500 8 8 0
+#2601
+bat~
+the bat~
+A black furry bat flies into your face.
+~
+You hear a high pitch screech. It is a black furry bat. This
+annoying creature usually travel in flocks, so WATCH OUT.
+~
+0 0 bf 0 -400 S
+10 15 6 4d15+115
+409 500 100 2d5+5 -1
+-1
+-1
+0 3000 8 8 0
+#2602
+shepherd man~
+the shepherd~
+A humble shepherd is here looking after his sheep.
+~
+The shepherd is a a patient old man, who has spent all his days looking after
+his sheep, and all his nights studying the virtue of Humility. Through the his
+wrinkled face though you can see his proud dignity and begin to sense that he
+was once a warrior.
+~
+1 0 g 0 700 S
+18 11 0 4d27+270
+400 500 100 2d7+3 -1
+-1
+-1
+400 12500 8 8 1
+#2603
+girl child~
+the girl~
+A smiling young girl is here.
+~
+The girl looks shyly at you. Even at this
+young age, she has learned enough of her
+culture to be humble. She jumps rope and
+look up at you expectantly.
+~
+1 0 g 0 600 S
+14 13 4 4d21+210
+400 500 100 1d10+2 -1
+-1
+-1
+0 6000 8 8 2
+#2604
+sheep~
+the sheep~
+A sheep peacefully eats grass.
+~
+Even the sheep in New Magincia seem to exude
+humbleness. The sheep has pure white fleece.
+~
+1 4 b 0 400 S
+13 13 4 4d20+195
+400 500 100 1d8+3 -1
+-1
+-1
+0 4267 8 8 0
+#2605
+katrina woman shepherd~
+Katrina the Shepherd~
+Katrina the Shepherd is her looking over the village.
+~
+Katrina was one of the Warriors of Destiny. She epitomizes the virtue of
+humility. After her great Enlightenment, she traveled back to her home and
+helped rebuild Magincia. She still is a great warrior and an able guardian
+of New Magincia.
+~
+1 4 cg 0 1000 S
+23 8 -4 4d35+345
+400 500 100 2d5+8 -1
+-1
+-1
+500 41667 8 8 2
+#2606
+rat~
+the giant rat~
+A rat is gnawing on a book.
+~
+This giant rat is smelly and fleas jump up from fur. The rats
+have been a great problem in the library because they eat and
+shred the books. This rat seems to be rabid, so beware of his
+teeth.
+~
+1 4 f 0 0 S
+18 11 0 4d27+270
+409 500 100 2d5+5 -1
+-1
+-1
+0 20833 8 8 0
+#2607
+spider~
+the giant spider~
+The giant spider sits on its web.
+~
+This scavenger has seemed to collected many things,
+including books, scrolls, and other scraps. His
+glistening teeth drip with poison.
+~
+1 4 bf 0 0 S
+20 10 -2 4d30+300
+409 500 100 2d6+8 -1
+-1
+-1
+0 20833 8 8 0
+#2608
+mage~
+the mage~
+A mage stands here reading a book.
+~
+The mage in his ever-increasing search for Honesty
+and Truth, has come to library to peruse the ancient
+tomes of knowledge. He glances at you, and returns
+to his study.
+~
+1 4 0 0 400 S
+25 9 -3 1d38+263
+400 500 75 2d6+6
+37 0 10 1d0+75
+63 0 5 1d0+75 -1
+-1
+-1
+800 29167 8 8 1
+#2609
+nystul librarian mage~
+Nystul the Librarian~
+Nystul the Librarian sits at his desk, writing some scrolls.
+~
+Nystul is the mentor, teacher, mage of the Lyceum.
+He is a shining example of Truth. His head is bowed
+over a book, but power radiates from him.
+~
+1 1 b 0 700 S
+33 5 -7 1d50+347
+400 500 70 3d5+15
+30 0 10 1d0+75
+67 0 5 2d0+75
+70 0 5 2d0+75 -1
+-1
+-1
+1500 112500 8 8 1
+#2610
+mariah mage~
+Mariah the Mage~
+Mariah walks around the stacks, busily looking for a book.
+~
+Mariah is another Warrior of Destiny. She joined
+the Avatar to add some magical punch during his
+Enlightenment. She seems serene in her total
+devotion to the virtue of Honesty.
+~
+1 1 0 0 600 S
+30 6 -6 1d45+315
+402 500 65 3d6+8
+30 0 10 1d0+75
+67 0 5 2d0+75
+70 0 5 2d0+75
+77 0 5 1d0+75 -1
+-1
+-1
+1500 75000 8 8 2
+A
+%10 say Where is that damn book!
+~
+#2611
+slime puddle mass~
+the slime~
+An ugly green mass sits on the ground in a puddle.
+~
+The slime is an amorphous goo. It seems pretty
+wimpy, but it has alot of friends. As you look
+at it you wonder who these things reproduce.
+~
+0 0 fh 0 -100 S
+28 6 -6 4d42+420
+400 500 100 2d7+10 -1
+-1
+-1
+0 83333 8 8 0
+#2612
+snake~
+the snake~
+The snake strikes.
+~
+The green snake tongue darts in and out tasting the air.
+It sense spilled beer, and the distinctive taste of human.
+~
+0 0 fh 0 0 S
+30 5 -7 4d45+450
+400 500 100 2d8+10 -1
+-1
+-1
+0 100000 8 8 0
+#2613
+horse smithy~
+Mr. Smithy~
+Mr. Smithy, the talking horse, is chewing hay.
+~
+This useless horse is a novelty, he can talk. Though
+his talk is often meaningless and he gives out irrelevant
+clues, his sleek body and his much practiced jaw muscles
+can be very dangerous.
+~
+7 0 b 0 500 S
+35 2 -10 4d53+525
+400 500 100 2d8+12 -1
+-1
+-1
+0 141667 8 8 1
+A
+%20 gibber; %10 snicker
+~
+#2614
+bard musician~
+the bard~
+A bard sits here strumming his mandolin.
+~
+The bard seems happy and content to play his
+mandolin. He is a seeker of compassion, but
+in the his spare time he sings and dances.
+~
+1 3 b 0 250 S
+34 4 -8 2d50+408
+400 500 80 3d6+10
+1 0 3 2d0+95
+4 0 2 3d0+75
+38 0 2 3d0+75
+67 0 3 2d0+95 -1
+-1
+-1
+1500 108333 8 8 1
+#2615
+beggar~
+the beggar~
+A beggar is here with his hand out.
+~
+He is more accustomed to receiving Compassion,
+than giving it. But help him out gov, give him
+a few coins.
+~
+1 0 c 0 0 S
+28 6 -6 4d42+420
+400 500 100 2d8+8 -1
+-1
+-1
+0 83333 8 8 1
+A
+%10 emote begs you for a dime or two -- or twenty!
+~
+#2616
+iolo bard musician~
+Iolo the Bard~
+Iolo sits here with a bottle in his hand, and a smile on his face.
+~
+Iolo is one of the first Warrior of Destiny. He seems to be a little
+bit tipsy from the party and you wonder why he has wandered down to
+the cellar. Anyway, in the spirit of the virtue Compassion that he
+embodies, he holds out a bottle for you.
+~
+1 3 b 0 700 S
+43 1 -13 2d65+516
+400 500 60 3d8+14
+1 0 3 2d0+95
+4 0 2 3d0+75
+15 0 10 2d0+95
+26 0 10 1d0+75
+30 0 10 1d0+75
+38 0 2 3d0+75
+67 0 3 2d0+95 -1
+-1
+-1
+4000 183333 8 8 1
+A
+%20 dizzy;%10 say hmm you twins or something?
+~
+#2617
+jester chuckles~
+Chuckles the Jester~
+Chuckles the Jester is juggling and entertaining here.
+~
+Chuckles the Jester is here mumbling, 'Spam Spam.' This annoying
+characteristic is Lord British's major entertainment. He is
+laughing and telling corny jokes. He seems to hold his dinner
+in his hands, and when he dance the bells on his hat jingle merrily.
+~
+1 4 b 0 700 S
+88 -20 -24 4d132+1320
+400 500 100 3d15+20 -1
+-1
+-1
+6000 733333 8 8 1
+A
+%10 chuckle;%10 cackle;%10 laugh;%10 emote yells, 'Spam Spam'
+~
+#2618
+townsman man~
+the townsman~
+A townsman is here downing drinks.
+~
+This townsman is here partying and having many drinks. Though
+he is also an ardent believer in Compassion, and a responsible
+citizen, he knows the value of a good party.
+~
+1 4 0 0 250 S
+35 2 -10 4d53+525
+400 500 100 2d8+14 -1
+-1
+-1
+500 141667 8 8 1
+#2619
+gwenno bard~
+Gwenno the Bard~
+Gwenno the Bard, Iolo's happy wife, wanders around with bow in hand.
+~
+You see a pretty woman, with finely sculptured musculature. She's seems
+to guard the party with her Infinity Bow, the best bow in the Ultima world.
+Her kindly eyes seem to emit pure Compassion, and as she wanders she helps
+the drunks up and leads them out the door.
+~
+1 3 0 0 700 S
+43 -1 -13 2d65+516
+400 500 60 3d8+15
+1 0 3 2d0+75
+4 0 2 3d0+95
+15 0 10 2d0+95
+26 0 10 1d0+75
+30 0 10 1d0+75
+38 0 2 3d0+75
+67 0 3 2d0+95 -1
+-1
+-1
+1500 183333 8 8 2
+A
+%10 sing;%10 say Hi folks, you seen the avatar?
+~
+#2620
+orc ape~
+the orc~
+A mutated ape carries a spear.
+~
+This orc is a disgusting animal, this ape-like monster
+scratches it armpits. It travels in herds and is a coward.
+~
+12 4 cfh k -250 S
+43 2 -14 4d65+645
+402 500 100 3d8+16 -1
+-1
+-1
+0 231667 8 8 1
+#2621
+troll~
+the troll~
+A stony troll swings his club.
+~
+This huge monster is immense and powerful. Over a chest and a
+head taller then you, his meaty arms swings a club at you.
+~
+16 4 f k -250 S
+44 2 -14 4d66+726
+402 500 100 3d10+12 -1
+-1
+-1
+0 243333 8 8 1
+#2622
+wisp ball~
+the wisp~
+A blue ball of light soars over to you and winks.
+~
+The wisp is constantly blinking. It wishes information
+exchange. It looks peaceful, but will defend itself.
+~
+14 2 c hkA 250 S
+45 -3 -15 3d68+607
+400 500 100 3d10+10
+-1
+-1
+-1
+0 210000 8 8 0
+#2623
+druid~
+the forest druid~
+A chanting druid walks the woods.
+~
+Dressed in long robes that obscure his face, the druid is softly chanting
+words and traveling through the woods. He is one that is secure in his
+sense of Justice, and enlightened in the ways of judging others. Through
+his communion with nature, he has gained power.
+~
+1 2 0 0 250 S
+47 -2 -14 3d71+635
+401 500 73 3d8+15
+6 0 5 1d0+50
+17 0 2 3d0+75
+23 0 5 1d0+75
+27 0 5 1d0+50
+28 0 5 2d0+95
+63 0 5 1d0+75 -1
+-1
+-1
+400 230000 8 8 1
+#2624
+druid~
+the city druid~
+A druid walks around a flame.
+~
+This druid seems to be entranced by the fire. She chants
+softly as she waves her hand and stares into the flame.
+She is one with the flame. When she looks at you her hard
+eyes, only judge, seeking Justice.
+~
+1 2 0 0 250 S
+47 -3 -15 3d71+635
+401 500 73 3d8+15
+6 0 5 1d0+50
+17 0 2 3d0+75
+23 0 5 1d0+75
+27 0 5 1d0+50
+28 0 5 2d0+95
+63 0 5 1d0+75 -1
+-1
+-1
+400 230000 8 8 2
+#2625
+judge~
+the judge~
+The judge sits here.
+~
+You cannot help but shiver as you see the Judge sit here silently.
+His eyes pierce into your soul, and he knows. He knows your faults.
+He knows your virtues. He knows if you've been bad or good....so be
+good. This ultimate purveyor of Justice, sends criminals to jail
+everyday, sometimes with his bare hands.
+~
+1 4 b 0 500 S
+50 -5 -17 4d75+750
+410 500 100 3d10+20 -1
+-1
+-1
+1000 313333 6 6 1
+#2626
+jaana druid~
+Jaana the Druid~
+Jaana the Druid is in deep meditation.
+~
+You meet the another Warrior of Destiny. She helped to lead the
+magical force to the Avatar. The Avatar's mentor in Justice, she
+has gone to the woods to drive life into a corner.
+~
+1 2 0 0 700 S
+53 -6 -18 3d80+716
+401 500 68 3d8+20
+6 0 5 1d0+50
+17 0 2 3d0+75
+23 0 5 1d0+75
+27 0 5 1d0+50
+28 0 10 2d0+95
+63 0 5 1d0+75 -1
+-1
+-1
+500 290000 8 8 2
+#2627
+prisoner~
+the dirty prisoner~
+The Prisoner grips the bars with his dirty hands.
+~
+The Prisoner seems to a be slimy character. He was a thief,
+and Justice was done to him. You glimpse light shining off
+of something black in his hands.
+~
+1 3 bh 0 -250 S
+38 2 -10 2d57+456
+400 500 100 2d8+15 -1
+-1
+-1
+0 141667 8 8 1
+#2628
+prisoner~
+the prisoner~
+The Prisoner is big and grins evilly at you.
+~
+This Prisoner was convicted of one of the most
+heinous crimes, MURDER. It took many guards and
+druids to restrain this beast.
+~
+1 3 bf k -500 S
+50 -4 -16 2d75+600
+400 500 100 3d10+15 -1
+-1
+-1
+0 241667 8 8 1
+#2629
+citizen yewsman~
+the citizen of yew~
+A citizen of Yew walks around.
+~
+Being the second largest city in Britannia, second
+only to Britain itself, this city employs and houses
+many people. This citizen of the city of Justice
+strolls the street, sure of his Virtue.
+~
+0 0 h 0 250 S
+42 -1 -13 4d63+630
+400 500 100 3d8+15 -1
+-1
+-1
+600 220000 8 8 1
+#2630
+bartender~
+the bartender~
+A bartender stands here in middle of a throng of people.
+~
+A smiling face asks you want you would like to drink.
+Well versed in compassion, he has heard and sympathized
+with many people how have gone to him for advice. His
+advice to you, is to kick back and enjoy a drink.
+~
+1 0 0 0 250 S
+37 1 -11 4d56+555
+400 500 100 2d10+12 -1
+-1
+-1
+1200 161667 8 8 1
+#2631
+owner bartender~
+the pub owner~
+The owner of the pub walks around to her customers.
+~
+The pub owner waves and smiles to you. She
+asks what you want to drink and eat.
+~
+1 0 b 0 250 S
+50 -5 -17 4d75+750
+400 500 100 3d10+15 -1
+-1
+-1
+2000 313333 8 8 2
+#2632
+ettin~
+the ettin~
+The ettin scratches its heads, and attacks.
+~
+With its two heads, it should make sense that this monster should
+have double the intelligence. But in fact it has half.
+~
+12 0 f k -300 S
+52 -6 -18 4d78+780
+400 500 100 3d12+12 -1
+-1
+-1
+0 336667 8 8 0
+#2633
+gremlin~
+the gremlin~
+This little creature sneaks around and steals your food.
+~
+He seems to be just a head with little hands and feet sticking
+out of it. It does not seem like these things could hurt you,
+but your money pouch seems much lighter.
+~
+12 3 ch ks -300 S
+48 -4 -16 2d72+576
+408 500 100 3d10+12 -1
+-1
+-1
+0 225000 8 8 0
+#2634
+headless~
+the headless~
+The headless creature seems to be heading right for you!
+~
+No one really understands how these things can sense,
+but as it unerringly reaches for you, you know it does.
+In any case these creatures are strong and endurable.
+~
+1 4 f k -300 S
+57 -9 -21 4d86+855
+407 500 100 4d10+15 -1
+-1
+-1
+0 390000 8 8 0
+#2635
+fighter~
+the fighter~
+A muscular fighter searches here.
+~
+This fighter is cleaning out the dungeons. In the
+peaceful time following the Avatar's success, there
+are few ways to show Valour.
+~
+1 4 0 0 250 S
+55 -8 -20 4d83+825
+403 500 100 4d10+15 -1
+-1
+-1
+1500 370000 8 8 1
+#2636
+geoffrey fighter~
+Geoffrey the Fighter~
+Geoffrey the Fighter leads this campaign.
+~
+The muscle power of the Warriors of Destiny, Geoffrey is
+immense. His board shoulders make you look like a mouse.
+He epitomizes Valour.
+~
+1 4 0 0 700 S
+63 -12 -25 4d95+945
+403 500 100 4d10+20 -1
+-1
+-1
+3000 450000 8 8 1
+#2637
+lord serpent simon~
+Lord Simon~
+Lord Simon of the Serpent Hold stares at your form.
+~
+His movements are liquid and art. As he makes a few practice
+swings, you HOPE that you are never on the receiving end of his
+immense sword. This is The Lord of Serpent Hold, courage itself
+solidified into a human form.
+~
+1 4 0 0 700 S
+63 -12 -25 4d95+945
+403 500 100 4d10+20 -1
+-1
+-1
+4000 450000 8 8 1
+#2638
+mimic~
+the mimic~
+A treasure chest is here, overflowing with gold.
+~
+The treasure chest reforms, and spits out a
+glob of poison. Beware adventurer of the Mimic.
+~
+12 1 f k -300 S
+58 6 -6 1d87+609
+402 500 100 3d10+20 -1
+-1
+-1
+0 410000 8 8 0
+#2639
+gazer eyeball~
+the gazer~
+A floating eyeball glares at you.
+~
+This creature is comprised of one main eyeball and several
+auxiliary eyeballs coming of the main. The eyeballs draw
+you in, making you forget who you are...
+~
+12 0 cf kz -300 S
+62 -11 -24 4d93+930
+404 500 100 3d10+20 -1
+-1
+-1
+0 440000 8 8 0
+#2640
+tinker~
+a tinker~
+A tinker is fiddling with one device or another.
+~
+The tinker has huge rippling muscles and a scarred skin.
+You realize that his great Sacrifice to his craft has led
+to his incredible strength and weaponskill. This is not
+one you wish to fight.
+~
+1 0 0 0 250 S
+65 -13 -26 4d98+975
+402 500 100 3d10+20 -1
+-1
+-1
+2000 470000 8 8 1
+#2641
+julia~
+Julia the Tinker~
+Julia the Tinker is here forging a sword.
+~
+Julia the Tinker provided some of the muscle power to the Avatar,
+during his Great Quest for enlightenment. She was a Warrior of
+Destiny and you see that not much has changed since those days.
+She represents Sacrifice in everything she does. She is the Keeper
+of Oral History, as well as a prominent weaponsmith.
+~
+1 4 b 0 700 S
+73 -17 -31 4d110+1095
+403 500 90 4d10+25
+26 0 10 1d0+75 -1
+-1
+-1
+4000 565000 8 8 2
+#2642
+lady~
+the Lady of Empath Abbey~
+The Lady of Empath Abbey stands here.
+~
+When you see her your heart almost stops, as you feel the intense
+waves of pure Love come from here body. Her love for you almost
+knocks you down. You cannot hurt this one.
+~
+1 1 0 0 500 S
+71 -14 -27 1d107+746
+402 500 54 3d10+25
+6 0 10 1d0+75
+28 0 5 2d0+75
+36 0 5 2d0+95
+70 0 2 2d0+95
+71 0 2 2d0+95
+75 0 2 2d0+95
+77 0 10 1d0+75
+87 0 10 1d0+75 -1
+-1
+-1
+2000 540000 8 8 2
+#2643
+sandtrap tentacle~
+the sandtrap~
+A tentacle reaches out of the sand, and latches onto your leg.
+~
+The sandtrap burrows around under the stand, and comes
+onto travellers hidden. No one is really sure what the
+Sandtrap looks like, but it is a dangerous foe.
+~
+12 0 cfh k -300 S
+68 -14 -27 4d102+1020
+405 500 100 5d10+15 -1
+-1
+-1
+0 503333 8 8 0
+#2644
+dragon~
+the dragon~
+A dragon is here lying on his heap of treasure.
+~
+The dragon looks like every other dragon you've seen, wings,
+tail, fire. Only this one doesn't have a dorky color attached
+to it. And doesn't talk about annoying C++ terms.
+~
+18 0 bcf k -300 S
+80 -20 -35 4d120+1300
+400 500 75 5d10+30
+26 0 25 1d0+100 -1
+-1
+-1
+10000 1340000 8 8 0
+#2645
+paladin~
+the paladin~
+A paladin practices his sword strokes here.
+~
+This paladin works hard to keep his Honor and the Honor of
+his people. Honor does not lead his life, Honor is his life.
+His shiny armour and equally shiny sword serves to remind you
+that he is among Brittannia's most powerful battalion.
+~
+1 4 0 0 250 S
+75 -17 -31 3d113+1013
+403 500 80 3d10+35
+1 0 5 2d0+95
+3 0 5 2d0+95
+28 0 5 2d0+75
+36 0 5 2d0+95 -1
+-1
+-1
+2000 520000 8 8 1
+#2646
+dupre paladin~
+Dupre the Paladin~
+Sitting here, Dupre the Paladin consults his maps.
+~
+Dupre the Paladin was constant companion of the Avatar and a
+Warrior of Destiny. He is a symbol of Honor. He is currently
+trying devise a plan of attack to get the dragon.
+~
+1 4 l k 700 S
+83 -22 -37 3d125+1121
+403 500 75 4d10+40
+1 0 5 2d0+95
+3 0 5 2d0+95
+28 0 10 2d0+75
+36 0 5 2d0+95 -1
+-1
+-1
+5000 526667 6 6 1
+#2647
+reaper~
+the reaper~
+The reaper strikes out with his tentacles.
+~
+The reaper is immobilized and attached to the ground.
+Even with this disadvantage his tentacles and magical
+powers more then make up for disadvantage.
+~
+12 1 bcf k -300 S
+85 -21 -36 1d128+893
+405 500 70 4d10+30
+37 0 10 1d0+100
+63 0 10 1d0+100
+73 0 10 1d0+100
+-1
+-1
+-1
+0 760000 8 8 1
+#2648
+gargoyle king draxthanum~
+Draxthanum the Gargoyle~
+The King of Gargoyles is here.
+~
+Draxthanum the Winged Gargoyle is here to observe the odd habits
+of humans and there combat tactics. He is red with wings, and is
+strong and his aura is overpowering.
+~
+13 0 c 134217728 500 S
+80 -20 -35 4d120+1200
+400 500 100 4d10+35 -1
+-1
+-1
+0 670000 8 8 0
+#2649
+ghost spirit~
+the spirit~
+The spirit of peaceful man floats around here.
+~
+This ghost seems peaceful, even though he is chained
+to the earth through some responsibility.
+~
+2 0 0 z 300 S
+79 -20 -34 1d119+1185
+400 500 80 4d10+25
+8 0 5 1d0+100
+73 0 15 1d0+100 -1
+-1
+-1
+0 655000 8 8 1
+#2650
+ghost spirit~
+the ghost~
+This ghost was an evil man in a past life.
+~
+In through its transparent face, you can see a
+grimace of evilness and swoops over to you.
+~
+1 4 cf kz -700 S
+84 -22 -37 1d126+1260
+400 500 100 4d10+30
+-1
+-1
+-1
+0 550000 8 8 1
+#2651
+skeleton~
+the skeleton~
+The skeleton walks around in tattered clothing.
+~
+The skeleton has rotting bits of flesh attached to its bones.
+It carries a rusty shield and sword. In fact the only thing
+completely clean on it is its white teeth, perhaps from its
+nightly meals of flesh and bone.
+~
+2 4 cf k -400 S
+83 -22 -37 4d125+1245
+403 500 100 4d10+35
+-1
+-1
+-1
+0 721667 8 8 0
+#2652
+demon demon~
+the demon~
+A demon unfurls his wings and swoops into you.
+~
+The most dangerous undead, and among the most dangerous of all
+monsters, this beast can use all magics, is strong and hardy.
+Right now he seems to be busy...killing you.
+~
+1 1 cf kA -700 S
+90 -24 -39 1d135+945
+404 500 52 6d10+30
+17 0 2 3d0+75
+70 0 2 2d0+95
+71 0 2 2d0+95
+73 0 20 1d0+100
+75 0 2 2d0+95
+87 0 10 1d0+75
+88 0 10 1d0+75 -1
+-1
+-1
+0 900000 8 8 0
+#2653
+mourner~
+the mourner~
+A mourner bows his head over the grave.
+~
+A mourner is in tears. She is crying over the grave of a loved
+one. She is expressing poignant Spirituality. This gives her
+strength to persevere.
+~
+1 0 0 h 250 S
+82 -21 -36 4d123+1230
+400 500 100 4d10+35 -1
+-1
+-1
+1000 703333 8 8 2
+#2654
+shamino ranger~
+Shamino the Ranger~
+Shamino the Ranger sits here, meditating.
+~
+The last Warrior of Destiny, Shamino sits here in a yoga
+position. The Enlightened smile on his face confirms that he
+indeed is one with the spirit of Spirituality.
+~
+1 4 0 0 700 S
+93 -27 -43 4d140+1395
+400 500 79 4d10+40
+1 0 2 2d0+95
+4 0 2 3d0+75
+6 0 10 1d0+75
+23 0 5 1d0+100
+28 0 2 2d0+75
+-1
+-1
+-1
+5000 950000 6 6 1
+#2655
+timelord~
+the Timelord~
+The Timelord is here in an aura of power.
+~
+The Hourglass that he holds in his hand actually controls the
+fickle powers of time. This being is so awe-inspiring that you
+fell an urge to prostrate yourself to him. But as all godly
+powers must be, he is truly and totally neutral.
+~
+1 4 bl hk 0 S
+93 -27 -43 4d140+1395
+410 500 75 5d10+35
+71 0 3 2d0+95
+75 0 3 2d0+95
+77 0 10 1d0+75
+80 0 4 2d0+95
+86 0 5 1d0+75 -1
+-1
+-1
+0 950000 8 8 1
+#2656
+guardian~
+the Guardian~
+The Guardian as far as you can tell is just a big red face.
+~
+First you hear a booming voice. 'You WILL join the Fellowship.'
+He is the latest, and some people say greatest of the Avatar's
+enemies. And now you have the joy of meeting him.
+~
+1 4 bcf bk -1000 S
+109 -42 -50 4d164+3270
+405 500 75 5d10+45
+71 0 3 2d0+95
+75 0 2 2d0+95
+76 0 5 1d0+75
+88 0 5 1d0+75
+90 0 10 1d0+75 -1
+-1
+-1
+50000 3500000 8 8 1
+A
+%10 say You WILL join the Fellowship!
+~
+#2657
+blackthorn~
+Blackthorn~
+Blackthorn wonders how he lost the throne.
+~
+Blackthorn was more misguided rather then evil. Though he was
+still a foe of Avatar that eventually was destroyed, during this
+era he still is corrupt and VERY, VERY dangerous.
+~
+1 4 bcf bk -1000 S
+107 -40 -50 4d161+2840
+405 500 75 4d12+50
+1 0 3 2d0+95
+75 0 2 2d0+95
+76 0 5 1d0+75
+88 0 5 1d0+75
+90 0 10 1d0+75 -1
+-1
+-1
+10000 3000000 8 8 1
+#2658
+exodus~
+Exodus~
+Exodus is here, reveling in his island fortress.
+~
+Exodus, the horrible progeny of Minax and Mondain is here. More
+powerful then his parents, he is also more dangerous. He was the
+last of the Triad that the Avatar destroyed.
+~
+1 4 bcf bk -1000 S
+104 -40 -45 4d156+2680
+405 500 75 5d10+40
+71 0 3 2d0+95
+75 0 2 2d0+95
+76 0 5 1d0+75
+88 0 5 1d0+75
+90 0 10 1d0+75 -1
+-1
+-1
+10000 2600000 8 8 1
+#2659
+minax~
+Minax~
+Minax is here conjuring up the evil spirits.
+~
+More powerful then her master and lover, Minax is as beautiful as
+she is dangerous. Bold enough to take on the forces of evil without
+the gem, she eventually proved to be their mistress. Without the
+Avatar the world would still be under her complete power.
+~
+1 4 bcf bk -1000 S
+101 -34 -44 4d152+2420
+405 500 75 4d10+50
+71 0 3 2d0+95
+75 0 2 2d0+95
+76 0 5 1d0+75
+88 0 5 1d0+75
+90 0 10 1d0+75 -1
+-1
+-1
+10000 2166667 8 8 2
+#2660
+mondain~
+Mondain~
+Mondain grips his evil gem and conjures magic to destroy you.
+~
+Mondain. the first of the Triad of Evil, was the first foe that
+the man, later to be known as the Avatar, was to face. Mondain
+had killed his father to gain the power of the dark gem that he
+wielded.
+~
+1 4 bcf bk -1000 S
+98 -28 -44 4d147+1960
+405 500 100 4d12+40 -1
+-1
+-1
+10000 1333333 8 8 1
+#2661
+sentri~
+Sentri~
+Sentri stoically stands here, protecting his Lord and castle from harm.
+~
+Sentri is a powerful man, whose only job is to protect the life
+of Lord British. In seeing this done he is completely armoured
+and wields a heavy blade.
+~
+1 4 bfilm k 700 S
+95 -27 -38 25d30+2000
+403 500 100 4d12+50 -1
+-1
+-1
+9500 2833333 8 8 1
+#2662
+batlin~
+Batlin~
+Batlin says, 'Join the Fellowship.'
+~
+Batlin is an evil man that goes around and corrupts the young. 
+He is though protected by the power of his god.
+~
+1 4 clm hk -700 S
+93 -26 -40 1d47+1489
+402 500 100 4d10+42
+-1
+-1
+-1
+5000 950000 8 8 1
+A
+%10 emote yells, 'Join the Fellowship!'
+~
+#2663
+avatar~
+the Avatar~
+The Avatar is here chatting to Lord British.
+~
+The Avatar is the symbol of courage and truth and love, and all
+that descends from it. He has mastered Compassion, Humility,
+Justice, Spirituality, Honesty, Sacrifice, Valor, and Honor. He
+truly is an inspiration to those who know him.
+~
+1 4 bfilm hk 1000 S
+103 -40 -48 4d155+2960
+403 500 77 4d10+50
+1 0 2 2d0+95
+28 0 15 2d0+75
+61 0 2 2d0+95
+67 0 2 2d0+95
+71 0 2 2d0+95 -1
+-1
+-1
+20000 2666667 8 8 1
+#2664
+lord british~
+Lord British~
+Lord British is healing the Avatar's wounds.
+~
+Lord British sits in his throne. When you see him, you know the
+meaning of true leadership. His charisma is almost tangible. On
+him you see the three crown jewels. These hold power both
+figuratively and truly.
+~
+1 2 bcfil hk 1000 S
+100 -30 -45 3d150+2600
+401 500 59 3d18+40
+1 0 2 2d0+95
+27 0 15 1d0+85
+28 0 20 2d0+70
+61 0 2 2d0+95
+71 0 2 2d0+95 -1
+-1
+-1
+50000 1833333 8 8 1
+#2665
+shark~
+the shark~
+The shark smells blood.
+~
+This fish can sense blood in the water and comes to kill you.
+~
+15 0 cf k -250 S
+70 -15 -29 4d105+1050
+408 500 100 5d10+20 -1
+-1
+-1
+0 526667 8 8 0
+#2666
+seahorse seahorse~
+A sea horse~
+The peaceful seahorse swims here.
+~
+The seahorse is an amazingly beautiful creature. Its swimming
+and diving please you.
+~
+1 4 0 0 250 S
+60 -10 -23 4d90+900
+400 500 100 4d10+20 -1
+-1
+-1
+0 420000 8 8 0
+#2667
+squid~
+the squid~
+The squid's tentacles reach for you.
+~
+The squid easily is double the boat in size. Its tentacles
+are huge and you fear as it grabs for you.
+~
+15 4 f k -250 S
+68 -14 -27 4d102+1020
+405 500 75 5d10+15
+408 500 25 5d10+15 -1
+-1
+-1
+0 503333 8 8 0
+#2668
+armourer~
+the armourer~
+The armourer stands here.~
+The armourer sells...armour.
+~
+1 4 bl dk 1000 S
+109 -100 -200 1d1+30000
+400 500 100 1d100+100 -1
+-1
+-1
+100000 50000 8 8 1
+#2669
+weaponseller~
+the weaponseller~
+The Weaponseller stands here.
+~
+The weaponseller sells... weapons.
+~
+1 0 bl dk 1000 S
+109 -100 -200 1d1+30000
+400 500 100 1d100+100 -1
+-1
+-1
+100000 50000 8 8 1
+#2670
+boatseller~
+the boatseller~
+The boatseller stands here.
+~
+The boatseller sells...boats.
+~
+1 0 bl dk 1000 S
+109 -100 -200 1d1+30000
+400 500 100 1d100+100 -1
+-1
+-1
+100000 50000 8 8 1
+#99999
+$~

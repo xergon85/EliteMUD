@@ -1,0 +1,891 @@
+#131
+Dwarf 'n Glob Iron Mill~
+13199 180 1
+*
+*Portals to transfer guards between pop-room 13105 and spcrooms.
+*
+*PORTALS
+* L 0 <room #> <portal #> <destination>   Load the portal object
+* A 1 <room #> 1 <key #>                  Attach the key
+*From AccountantOffice13147 back to Pop-room
+*L 0 13147 13106 13105           portal at As.Mill.Manager
+*A 1 13147 0 -1                   no key
+*
+*From AccountantOffice13145 back to Pop-room
+*L 0 13145 13107 13105           portal at Accountant
+*A 1 13145 0 -1                   no key
+*
+*From MasterSmithy room 13179 back to Pop-room
+*L 0 13179 13108 13105           portal at Master Smithy
+*A 1 13179 0 -1                   no key
+*
+*From pop-room 13105 to as mill manager    via
+*                                     getNOreimbObj13106asmillman
+*L 0 13105 13100 13147           portal TO As.Mill.Manager
+*A 1 13105 0 -1                   no key
+*
+*From pop-room 13105 to accountant    getNOreimbObj13107account
+*L 0 13105 13109 13145           portal TO Accountant
+*A 1 13105 0 -1                   no key
+*
+*From pop-room 13105 to Msmithy       getNOreimbObj13108Msmithy
+*L 0 13105 13199 13179           portal TO Master Smithy
+*A 1 13105 0 -1                   no key
+*From next to smithy13173 to Pop-room  getNOreimbObj13108Msmithy
+*L 0 13173 13147 13105           portal TO Master Smithy
+*A 1 13173 0 -1                   no key
+*
+* END OF Codereplacing GUARDMOVING PORTALS
+*
+*** DOORS ***
+*Vip Club - Sauna
+D 1 13106 0 1
+D 1 13107 2 1
+*Vip Club - Vip Lounge
+D 1 13106 4 1
+D 1 13148 5 1
+*In between - Prep Fac.
+D 1 13112 3 1
+D 1 13182 1 1
+*LargeGateW - Inside19
+D 1 13114 0 1
+D 1 13119 2 1
+*LargeGateE - Inside18
+D 1 13115 0 1
+D 1 13118 2 1
+*AIR PUMPS to grid
+D 1 13139 5 1
+D 1 13140 5 1
+D 1 13141 5 1
+D 1 13142 5 1
+*PR dep entry - display room
+D 1 13143 1 1
+D 1 13174 3 1
+*Accountant office - hallway
+D 1 13145 0 0
+D 1 13146 2 0
+*Accountant office - treasury
+D 1 13145 5 1
+D 1 13168 4 1
+*Manager assistant - hallway
+D 1 13147 2 0
+D 1 13146 0 0
+*Vip Lounge - hallway
+D 1 13148 0 0
+D 1 13149 2 0
+*Mill Manager - hallway
+D 1 13150 2 0
+D 1 13149 0 0
+*Mill Manager - closet
+D 1 13150 1 1
+D 1 13169 3 1
+*DropRoom - House of Blacksmiths
+D 1 13167 1 1
+D 1 13171 3 1
+*Smithy - Master Smithys
+D 1 13176 0 2
+D 1 13179 2 2
+*Upper - Lower Mixing Station
+D 1 13183 5 1
+D 1 13193 1 1
+*lower - upper limestone deposit
+D 1 13184 4 1
+D 1 13185 5 1
+*Upper dog trail - Furance troat
+D 1 13196 1 1
+D 1 13197 3 1
+*Furnace Troat - Agglomeration zone ONE WAY
+D 1 13197 5 2
+*Agglomeration Zone - Pro melting Zone ONE WAY
+D 1 13198 5 2
+*** END OF DOORS !!! ***
+*
+*#13101 Chute I
+* takes in
+M 0 13157 1 13101       odegra - A small dwarf
+E 1 13162 10 8            a mothers dream of wollen socks
+M 0 13106 6 13101       a feeder of giants
+E 1 13121 20 16           a grappling stick
+E 1 13196 100 11          Huge net
+M 0 13106 6 13101       a feeder of giants
+E 1 13121 20 16           a grappling stick
+E 1 13196 100 11          Huge net
+M 0 13105 4 13120       a terrified prisoner
+E 1 13122 40 15           some salt covered shackles
+E 1 13178 30 8            a pair of human wimpy boots
+M 0 13136 3 13101       The mill overseer
+E 1 13180 35 17           the whip of a mill overseer
+E 1 13119 90 5            a overseer vest
+M 0 13151 8 13101      Mill Guard
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+E 1 13118 20 16           a 7 foot hammer
+M 0 13151 8 13101      Mill Guard
+E 1 13114 20 16           a heavy iron spear
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+M 0 13151 8 13101      Mill Guard
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+E 1 13118 20 16           a 7 foot hammer
+M 0 13151 8 13101      Mill Guard
+E 1 13114 20 16           a heavy iron spear
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+M 0 13152 18 13101      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+M 0 13152 18 13101      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+M 0 13109 20 13101      a caravan giant
+E 1 13198 100 16          a golden metal bar
+M 0 13170 1 13101       A Moron giant mother
+
+*#13102 A little grassy clearing
+M 0 13109 20 13102      a caravan giant
+G 1 13131 40              a metal bar
+G 1 13131 40              a metal bar
+M 0 13109 20 13102      a caravan giant
+G 1 13131 40              a metal bar
+
+*#13103 Lesser used path of giants
+M 0 13109 20 13103      a caravan giant
+G 1 13131 40              a metal bar
+
+*#13104 Lesser used path of giants
+M 0 13109 20 13104      a caravan giant
+G 1 13131 40              a metal bar
+
+*#13105 Chute V
+* 1x moneydropper 50x 1000gold + 20x Guard#60 + 20x Guard#61
+* Waha the Butcher and one fido !
+*   DO not let any guard WALK out...
+M 0 13171 1 13105
+M 0 3062 5 13105
+M 0 13100 1 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105       a random 1000 gold for Elite guards
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+
+G 1 13189 100 13105       a random 1000 gold for Elite guards
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105       a random 1000 gold for Elite guards
+
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105
+G 1 13189 100 13105       a random 1000 gold for Elite guards
+
+M 0 13160 20 13105      The Elite Guard
+E 1 13197 100 11          Huge slab
+M 0 13160 20 13105      The Elite Guard
+E 1 13197 100 11          Huge slab
+M 0 13160 20 13105      The Elite Guard
+E 1 13197 100 11          Huge slab
+M 0 13160 20 13105      The Elite Guard
+E 1 13197 100 11          Huge slab
+M 0 13160 20 13105      The Elite Guard
+E 1 13197 100 11          Huge slab
+
+M 0 13160 20 13105      The Elite Guard
+E 1 13197 100 11          Huge slab
+
+M 0 13161 20 13105      The Elite Guard
+M 0 13161 20 13105      The Elite Guard
+M 0 13161 20 13105      The Elite Guard
+M 0 13161 20 13105      The Elite Guard
+M 0 13161 20 13105      The Elite Guard
+
+M 0 13161 20 13105      The Elite Guard
+
+*#13106 Rest and Dressing room
+M 0 13133 1 13106       Gretchen
+E 1 13172 100 16          a golf club
+
+*#13107 Sauna and Jacuzzi
+O 0 13174 100 13107       a iced cask
+P 0 13177 100 13174         a beerbottle
+P 1 13177 75 13174          a beerbottle
+P 1 13177 75 13174          a beerbottle
+P 1 13177 75 13174          a beerbottle
+O 0 13175 10 13107        a long brich tuft
+O 0 13176 10 13107        a short brich tuft
+
+*#13108 Dancefloor
+
+*#13109 Hotter than Hot !!!
+*DT
+
+*#13110 Road heading towards the Iron Mill
+M 0 13151 12 13110      Mill Guard
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+E 1 13118 20 16           a 7 foot hammer
+M 0 13151 12 13110      Mill Guard
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+E 1 13118 20 16           a 7 foot hammer
+M 0 13151 12 13110      Mill Guard
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+E 1 13118 20 16           a 7 foot hammer
+
+*#13111 At a large Sign
+M 0 13151 12 13111      Mill Guard
+E 1 13114 20 16           a heavy iron spear
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+M 0 13151 12 13111      Mill Guard
+E 1 13114 20 16           a heavy iron spear
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+M 0 13151 12 13111      Mill Guard
+E 1 13114 20 16           a heavy iron spear
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+
+*#13112 In between buildings
+M 0 13151 12 13112      Mill Guard
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+E 1 13118 20 16           a 7 foot hammer
+
+*#13113 In front of a large grey building
+M 0 13151 12 13113      Mill Guard
+E 1 13114 20 16           a heavy iron spear
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+
+*#13114 At a HUGE gate
+M 0 13151 12 13114      Mill Guard
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+E 1 13118 20 16           a 7 foot hammer
+
+*#13115 At a HUGE gate
+M 0 13151 12 13115      Mill Guard
+E 1 13114 20 16           a heavy iron spear
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+
+*#13116 End of a huge building
+M 0 13151 12 13116      Mill Guard
+E 1 13114 20 16           a heavy iron spear
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+
+*#13117 South wall inside the extraction house
+M 0 13152 12 13117      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+M 0 13152 12 13117      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+M 0 13154 12 13117      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13118 Inside the Main Extraction building
+M 0 13106 8 13118       a feeder of giants
+E 1 13121 20 16          a grappling stick
+E 1 13196 100 11         Huge net
+M 0 13106 8 13118       a feeder of giants
+E 1 13121 20 16          a grappling stick
+E 1 13196 100 11         Huge net
+M 0 13106 8 13118       a feeder of giants
+E 1 13121 20 16          a grappling stick
+E 1 13196 100 11         Huge net
+M 0 13153 12 13118      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+M 0 13153 12 13118      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13119 Inside the Main Extraction building
+M 0 13152 12 13119      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+M 0 13152 12 13119      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+M 0 13153 12 13119      Dwarven iron mill worker
+
+*#13120 Inside the Main Extraction building
+M 0 13105 4 13120       a terrified prisoner
+E 1 13122 40 15           some salt covered shackles
+E 1 13178 30 8            a pair of human wimpy boots
+M 0 13153 12 13120      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13121 Next to the blast furnace
+M 0 13152 12 13121      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+M 0 13153 12 13121      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13122 Southwest corner of the main extraction building
+M 0 13154 12 13122      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13123 Northwest corner of the main extraction building
+M 0 13154 12 13123      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13124 Smelt Outlet
+M 0 13152 12 13124      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13125 Next to the melt flow
+M 0 13152 12 13125      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+M 0 13172 5 13125      Mill Guard
+E 1 13114 10 16           a heavy iron spear
+E 1 13115 5 5            a harness of a dwarven mill guard
+E 1 13116 5 8            a pair of crude metal boots
+E 1 13117 5 6            a crude pike helm
+
+*#13126 Slag Scraper
+M 0 13152 12 13126      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13127 Slag Channel
+M 0 13154 12 13127      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13129 Next to the melt flow
+M 0 13152 12 13129      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+M 0 13172 5 13129      Mill Guard
+E 1 13114 10 16           a heavy iron spear
+E 1 13115 5 5            a harness of a dwarven mill guard
+E 1 13116 5 8            a pair of crude metal boots
+E 1 13117 5 6            a crude pike helm
+
+*#13130 Scrap corner
+O 0 13127 35 13130        a shovel
+M 0 13154 12 13130      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13131 The meltpath plunges down
+M 0 13172 5 13131      Mill Guard
+E 1 13114 10 16           a heavy iron spear
+E 1 13115 5 5            a harness of a dwarven mill guard
+E 1 13116 5 8            a pair of crude metal boots
+E 1 13117 5 6            a crude pike helm
+
+*#13132 East of the plunging path
+M 0 13152 12 13132      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13133 North of the plunging path
+M 0 13152 12 13133      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13134 Whindle of stairs
+M 0 13153 12 13134      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+M 0 13154 12 13134      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13135 Up on a shelf - SouthEast corner.
+L 0 13135 13191 13139     a Air Pump PORTAL to 13139
+A 1 13135 0 -1            attach NO_KEY and close portal
+M 0 13104 12 13135      a dwarven pumper
+M 0 13104 12 13135      a dwarven pumper
+M 0 13153 12 13135      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13136 Up on a shelf - SouthWest corner.
+L 0 13136 13192 13140     a Air Pump PORTAL to 13140
+A 1 13136 0 -1            attach NO_KEY and close portal
+M 0 13104 12 13136      a dwarven pumper
+M 0 13104 12 13136      a dwarven pumper
+M 0 13154 12 13136      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+M 0 13172 5 13136      Mill Guard
+E 1 13114 10 16           a heavy iron spear
+E 1 13115 5 5            a harness of a dwarven mill guard
+E 1 13116 5 8            a pair of crude metal boots
+E 1 13117 5 6            a crude pike helm
+
+*#13137 Up on a shelf - NorthWest corner.
+L 0 13137 13193 13141     a Air Pump PORTAL to 13141
+A 1 13137 0 -1            attach NO_KEY and close portal
+M 0 13104 12 13137      a dwarven pumper
+M 0 13104 12 13137      a dwarven pumper
+
+*#13138 Up on a shelf - NorthEast corner.
+L 0 13138 13194 13142     a Air Pump PORTAL to 13142
+A 1 13138 0 -1            attach NO_KEY and close portal
+M 0 13103 12 13138      a sweaty pumper
+E 1 13112 23 5            sweaty linen
+M 0 13103 12 13138      a sweaty pumper
+E 1 13112 23 5            sweaty linen
+
+*#13139 Inside an air pump
+M 0 13101 3 13139       The compressed air elemental
+E 1 13167 15 17           an air nozzle
+
+*#13140 Inside an air pump
+M 0 13101 3 13140       The compressed air elemental
+E 1 13167 15 17           an air nozzle
+
+*#13141 Inside an air pump
+M 0 13101 3 13141       The compressed air elemental
+E 1 13167 15 17           an air nozzle
+
+*#13142 Inside a air pump
+M 0 13102 1 13142       a air elemental Ruler
+E 1 13111 10 6            Krown of elemental king
+E 1 13184 20 17           a shimmering bag of air
+
+*#13143 Finance and Public Relations department
+M 0 13127 1 13143       An air filter elemental
+E 1 13149 15 11           a shimmering shield of air
+
+*#13144 Chart and display room
+
+*#13145 Accountant office
+O 0 13185 100 13145       The rather dull cabinet
+P 0 13186 100 13185         a bunch of economy papers
+M 0 13128 1 13145       The Mill Accountant
+E 1 13186 100 16          paper file to wield
+G 1 13151 34              a black box
+M 0 13129 1 13145       The mimic
+
+*#13146 Assistant secretary desk
+M 0 13126 1 13146       the Accountant and Assisting Manager Secretary
+
+*#13147 Manager assistant Room
+O 0 13185 100 13147       The rather dull cabinet
+P 0 13186 100 13185         a bunch of economy papers
+M 0 13130 1 13147       The Assistant Manager
+
+*#13148 VIP Lounge and coffee room
+O 0 13150 100 13148       a coffee pot
+O 0 13181 100 13148       a MGDP picknick basket
+O 0 13187 100 13148       a cup
+O 0 13187 100 13148       a cup
+O 0 13187 100 13148       a cup
+O 0 13187 100 13148       a cup
+
+*#13149 Managers secretary desk
+M 0 13132 1 13149       The Manager Secretary
+E 1 13173 25 16           a nail file
+E 1 13179 25 2            a loose nail
+
+*#13150 Mill Manager Office
+M 0 13131 1 13150       The Mill Manager
+G 1 13152 50              a distinguished cigar
+E 1 13152 50 17           a distinguished cigar
+M 0 13134 1 13150       a dancing little fire radiator
+
+*#13151 Below the stairs
+
+*#13152 Metal pool
+M 0 13144 2 13152       elemental for reheating of metal
+
+*#13153 Purging Station
+M 0 13167 1 13153       converter air elemental
+M 0 13108 4 13153       a summoner assistant
+E 1 13153 15 12           a summoners assistants robe
+E 1 13183 55 16           a paper scroll
+M 0 13108 4 13153       a summoner assistant
+E 1 13153 15 12           a summoners assistants robe
+E 1 13183 55 16           a paper scroll
+M 0 13149 2 13153       dwarven summoner
+E 1 13190 35 4            a little mill brooch
+E 1 13120 15 17           a conjurer rod
+E 1 13164 14 12           a summoners robe
+
+*#13154 Alloying pool
+M 0 13144 2 13154       elemental for reheating of metal
+M 0 13165 5 13154      Mill Guard
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+E 1 13118 20 16           a 7 foot hammer
+M 0 13165 5 13154      Mill Guard
+E 1 13114 20 16           a heavy iron spear
+E 1 13115 10 5            a harness of a dwarven mill guard
+E 1 13116 10 8            a pair of crude metal boots
+E 1 13117 10 6            a crude pike helm
+
+*#13155 Alloy Room
+O 1 13130 50 13155        metal alloy bar
+O 1 13130 50 13155        metal alloy bar
+M 0 13121 2 13155       Alloy flinger
+E 1 13130 35 16           metal alloy bar
+
+*#13156 Alloy Room
+O 1 13130 50 13156        metal alloy bar
+O 1 13130 50 13156        metal alloy bar
+M 0 13121 2 13156       Alloy flinger
+E 1 13130 35 16           metal alloy bar
+
+*#13157 Smelt splitter
+M 0 13113 1 13157       a metal flow direction changer
+E 1 13110 35 9            a pair of slightly charred handprotections
+E 1 13170 18 15           a slightly burned leather wristwear
+E 1 13170 18 14           a slightly burned leather wristwear
+M 0 13112 2 13157       The elemental enforcer
+E 1 13163 10 12           a elemental controller robe
+M 0 13149 2 13157       dwarven summoner
+E 1 13190 35 4            a little mill brooch
+E 1 13120 15 17           a conjurer rod
+E 1 13164 14 12           a summoners robe
+
+*#13158 Foundry
+M 0 13112 2 13158       The elemental enforcer
+E 1 13163 10 12           a elemental controller robe
+M 0 13145 3 13158       The Charmer
+M 0 13146 6 13158       Cooling water elemental
+M 0 13146 6 13158       Cooling water elemental
+M 0 13147 8 13158       a bar remover
+G 1 13131 40              a metal bar
+M 0 13147 8 13158       a bar remover
+G 1 13131 40              a metal bar
+M 0 13163 1 13158       an ice elemental
+
+*#13159 Foundry
+M 0 13145 3 13159       The Charmer
+M 0 13146 6 13159       Cooling water elemental
+M 0 13147 8 13159       a bar remover
+G 1 13131 40              a metal bar
+M 0 13147 8 13159       a bar remover
+G 1 13131 40              a metal bar
+
+*#13160 Foundry
+M 0 13145 3 13160       The Charmer
+M 0 13146 6 13160       Cooling water elemental
+M 0 13146 6 13160       Cooling water elemental
+M 0 13147 8 13160       a bar remover
+G 1 13131 40              a metal bar
+M 0 13147 8 13160       a bar remover
+G 1 13131 40              a metal bar
+
+*#13161 Bar Storage
+M 0 13147 8 13161       a bar remover
+G 1 13131 40              a metal bar
+M 0 13147 8 13161       a bar remover
+G 1 13131 40              a metal bar
+
+*#13162 Pick up room
+M 0 13111 1 13162       A dwarven bar receiver
+E 1 13113 100 6           a dwarven hardhat
+G 1 13131 40              a metal bar
+G 1 13131 40              a metal bar
+G 1 13131 40              a metal bar
+M 0 13109 20 13162      a caravan giant
+G 1 13131 40              a metal bar
+G 1 13131 40              a metal bar
+M 0 13109 20 13162      a caravan giant
+G 1 13131 40              a metal bar
+G 1 13131 40              a metal bar
+
+*#13163 Path of giants
+M 0 13109 20 13163      a caravan giant
+G 1 13131 40              a metal bar
+G 1 13131 40              a metal bar
+
+*#13164 Path of giants
+M 0 13109 20 13164      a caravan giant
+G 1 13131 40              a metal bar
+M 0 13110 2 13164       a moronic giant
+E 1 13169 25 3            a moron necklace
+G 1 13131 40              a metal bar
+M 0 13110 2 13164       a moronic giant
+E 1 13169 25 4            a moron necklace
+G 1 13131 40              a metal bar
+M 0 13164 1 13164       a ice giant
+G 1 13131 40              a metal bar
+G 1 13131 40              a metal bar
+G 1 13131 40              a metal bar
+G 1 13131 40              a metal bar
+
+*#13165 Path of giants
+M 0 13109 20 13165      a caravan giant
+G 1 13131 40              a metal bar
+M 0 13173 5 13165      Mill Guard
+E 1 13114 10 16           a heavy iron spear
+E 1 13115 5 5            a harness of a dwarven mill guard
+E 1 13116 5 8            a pair of crude metal boots
+E 1 13117 5 6            a crude pike helm
+
+*#13166 Path of giants
+M 0 13109 20 13166      a caravan giant
+G 1 13131 40              a metal bar
+M 0 13173 5 13166      Mill Guard
+E 1 13114 10 16           a heavy iron spear
+E 1 13115 5 5            a harness of a dwarven mill guard
+E 1 13116 5 8            a pair of crude metal boots
+E 1 13117 5 6            a crude pike helm
+
+*#13167 Drop room
+M 0 13109 20 13167      a caravan giant
+G 1 13131 40              a metal bar
+G 1 13131 40              a metal bar
+M 0 13109 20 13167      a caravan giant
+G 1 13131 40              a metal bar
+G 1 13131 40              a metal bar
+
+*#13168 Secret treasury
+O 0 13188 100 13168       a nice heap of fools gold
+O 0 3034 100 13168        ATM
+
+*#13169 Secret closet
+M 0 13124 20 13169      a closet skeleton
+M 0 13124 20 13169      a closet skeleton
+M 0 13124 20 13169      a closet skeleton
+
+*#13170 Inside the reheating furnace
+M 0 13166 1 13170       Furnace fire elemental
+*#13171 Entrance
+
+*#13172 Coal store
+M 0 13135 1 13172       carbon shoveller
+E 1 13127 45 16           a shovel
+G 1 13136 25              some coal powder
+
+*#13173 Blast reheater
+L 0 13173 13182 13170     a furnace reheater  PORTAL to 13170
+A 1 13173 0 -1            attach NO_KEY and close portal
+
+*#13174 Display room
+
+*#13175 Weaponry and Armoury Shoppe counter of the Blacksmiths
+M 0 13117 1 13175       The Blacksmith Shopkeeper
+G 1 13101 100             a little insignificant    KEY TO_SELL
+G 1 13102 100             a small                   KEY TO_SELL
+G 1 13148 100             a standard dwarven full plate TO_SELL
+
+M 0 13118 1 13175       The shopkeeper assistant
+E 1 13145 25 9            a pair of white cloth gloves
+M 0 13119 1 13175       The shopkeeper assistant assistant
+E 1 13146 25 5            a shopkeeper assistant assistant vest
+
+*#13176 Smithy's
+M 0 13115 1 13176       a blacksmith
+G 1 13131 40              a metal bar
+E 1 13138 4 16            a sledgehammer
+E 1 13139 4 17            a sledgehammer
+
+*#13177 Trash corner
+O 0 13141 100 13177       a huge bunch of scrap metal objects
+M 0 13114 1 13177       a trash sortering dwarf
+E 1 13118 100 16          7foot hammer
+
+*#13178 Polishing room
+M 0 13116 1 13178       a polisher
+E 1 13137 70 17           a polishing cloth
+E 1 13144 15 12           a polisher apron
+G 1 13195 25
+
+*#13179 Grand-Smiths room
+O 1 13159 100 13179       a huge plowbill
+M 0 13140 1 13179       GBH(dead)
+E 1 13171 6 16           GBHs massive forearms
+E 1 13140 6 10           GBHs armwraps of war
+M 0 13148 1 13179       The Master Smithy
+E 1 13154 4 11            a heavy shield
+E 1 13155 4 8             a pair of heavy boots
+E 1 13156 4 6             a heavy helm
+E 1 13157 4 7             a pair of heavy leg irons
+E 1 13158 4 10            a heavy arm irons
+E 1 13160 3 16            a Tubular Bell Banger
+E 1 13161 3 17            an axe called 'Deliverer of Insight'
+
+*#13180 Hardening room
+M 0 13158 4 13180       The killer dwarf
+M 0 13125 12 13180      The slave
+E 1 13143 100 6           a black blindfold
+M 0 13125 12 13180      The slave
+E 1 13143 100 6           a black blindfold
+M 0 13125 10 13180      The slave
+E 1 13143 100 6           a black blindfold
+
+*#13181 Test room
+O 0 13142 100 13181       The X-Rig
+M 0 13168 3 13181       The tester dwarf
+M 0 13169 7 13181       Test subjects
+M 0 13169 7 13181       Test subjects
+
+*#13182 Entry to Prep facility
+M 0 13155 12 13182      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13183 Upper mixing station
+M 0 13155 12 13183      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+M 0 13174 2 13183      Mill Guard
+E 1 13114 10 16           a heavy iron spear
+E 1 13115 5 5            a harness of a dwarven mill guard
+E 1 13116 5 8            a pair of crude metal boots
+E 1 13117 5 6            a crude pike helm
+
+*#13184 Limestone deposit
+M 0 13123 1 13184       limestone shoveller
+E 1 13127 45 16           a shovel
+E 1 13113 40 6            a dwarven hardhat
+
+*#13185 Upper Limestone deposit
+M 0 13155 12 13185      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13186 Coal store
+M 0 13122 1 13186       carbon shoveller
+E 1 13127 45 16           a shovel
+G 1 13136 50              some coal powder
+
+*#13187 Ore Store
+M 0 13120 2 13187       Ore shoveller
+E 1 13113 40 6            a dwarven hardhat
+E 1 13127 45 16           a shovel
+M 0 13155 12 13187      Dwarven iron mill worker
+E 1 13113 40 6            a dwarven hardhat
+
+*#13188 Ore Crushing Area [Enter at own risk]
+M 0 13150 12 13188      a giant
+E 1 13128 15 16           a giant crushing sledge
+E 1 13135 25 10           two giant shoulder pads
+M 0 13150 12 13188      a giant
+E 1 13128 15 16           a giant crushing sledge
+E 1 13135 25 10           two giant shoulder pads
+
+*#13189 Ore Crushing Area [Enter at own risk]
+M 0 13107 1 13189       a giant weasel
+E 1 13129 20 15           a weasel wrist band
+M 0 13150 12 13189      a giant
+E 1 13128 15 16           a giant crushing sledge
+E 1 13135 25 10           two giant shoulder pads
+
+*#13190 Ore Crushing Area [Enter at own risk]
+M 0 13150 12 13190      a giant
+E 1 13128 15 16           a giant crushing sledge
+E 1 13135 25 10           two giant shoulder pads
+M 0 13150 12 13190      a giant
+E 1 13128 15 16           a giant crushing sledge
+E 1 13135 25 10           two giant shoulder pads
+M 0 13162 1 13190       a large cyclops
+E 1 13166 35 4            a gigantic leather apron
+
+*#13191 Ore Crushing Area [Enter at own risk]
+M 0 13150 12 13191      a giant
+E 1 13128 15 16           a giant crushing sledge
+E 1 13135 25 10           two giant shoulder pads
+M 0 13150 12 13191      a giant
+E 1 13135 25 10           two giant shoulder pads
+E 1 13128 15 16           a giant crushing sledge
+
+*#13192 Crude Ore Deposit
+
+*#13193 Lower Mixing Station
+M 0 13138 1 13193       The front part of the mixing worm
+E 1 13124 10 16           a mixer tooth
+
+*#13194 Dog trail
+M 0 13139 1 13194       The rear end of the mixing worm
+E 1 13125 10 13           a enourmous ring muscle
+
+M 0 13156 10 13194      Dwarven iron mill worker
+E 1 13127 45 16           a shovel
+M 0 13156 10 13194      Dwarven iron mill worker
+E 1 13127 45 16           a shovel
+M 0 13137 5 13194       Runner dog
+E 1 13165 25 6            a dog facial cover
+E 1 13126 25 12           a carrier basket
+M 0 13137 5 13194       Runner dog
+E 1 13165 25 6            a dog facial cover
+E 1 13126 25 12           a carrier basket
+
+*#13195 Dog trail
+M 0 13137 5 13195      Runner dog
+E 1 13165 25 6            a dog facial cover
+E 1 13126 25 12           a carrier basket
+M 0 13156 10 13195      Dwarven iron mill worker
+M 0 13174 2 13195      Mill Guard
+E 1 13114 10 16           a heavy iron spear
+E 1 13115 5 5            a harness of a dwarven mill guard
+E 1 13116 5 8            a pair of crude metal boots
+E 1 13117 5 6            a crude pike helm
+
+*#13196 Upper part of the Dog trail
+M 0 13137 5 13196      Runner dog
+E 1 13126 25 12           a carrier basket
+E 1 13165 25 6            a dog facial cover
+M 0 13137 5 13196      Runner dog
+E 1 13165 25 6            a dog facial cover
+E 1 13126 25 12           a carrier basket
+M 0 13159 1 13196       a Chain Guard
+E 1 13115 30 5            a harness of a dwarven mill guard
+E 1 13116 30 8            a pair of crude metal boots
+E 1 13117 30 6            a crude pike helm
+E 1 13118 30 16           a 7 foot hammer
+
+*#13197 The Furnace Throat
+M 0 13141 1 13197       Preheating fire elemental
+E 1 13103 100 17          a warm stone block    KEY
+E 1 13132 25 13           a girdle of warmth
+
+*#13198 Agglomeration zone
+M 0 13142 1 13198       The major heating elemental
+E 1 13104 100 17          a piece of glowing ore KEY
+E 1 13133 20 12           a flaming aura
+
+*#13199 Pro Smelting Zone
+M 0 13143 1 13199       The Elemental of metal melting
+G 1 13105 100             a small pond of melt  KEY
+E 1 13134 10 17           a sphere of white heat
+S
+#99999
+$~

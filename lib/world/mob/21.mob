@@ -1,0 +1,107 @@
+#2101
+ogre gang member~
+a gang member~
+A member of the Ogres wanders about here.
+~
+He's lived a life of violence ever since he was little.
+~
+1 4 84 0 -100  S
+5 18 8 1d5+85
+400 500 100 1d6+2 -1
+-1
+-1
+20 666 8 8 1
+#2102
+troll gang member~
+a gang member~
+A member of the Trolls wanders about here.
+~
+He wants to rid the world of every last Ogre gang member.
+~
+1 4 84 0 100  S
+5 18 8 1d5+85
+400 500 100 1d6+2 -1
+-1
+-1
+21 666 8 8 1
+#2103
+gang leader~
+the gang leader~
+The gang leader is not pleased you found his hideout!
+~
+He's risen to be leader through brute force and cunning leadership.
+~
+1 4 98 0 0  S
+13 15 3 1d13+181
+400 500 100 1d6+6 -1
+-1
+-1
+200 4266 8 8 1
+#2104
+bruiser~
+a bruiser~
+A big, mean bruiser is looking for limbs to break.
+~
+He's 6'6" 245 pounds and enough muscle to bash your head in.
+~
+1 4 228 8 -333  S
+10 16 5 1d10+145
+400 500 100 1d6+5 -1
+-1
+-1
+150 2133 8 8 1
+#2105
+doll~
+a doll~
+A gang doll looks naughty and nice.
+~
+She's a beauty (ok in RELATIVE terms) but you better not touch!
+~
+1 4 212 0 0  S
+7 17 7 1d7+109
+400 500 100 1d6+3 -1
+-1
+-1
+100 1066 8 8 2
+#2106
+patrolman patrol man~
+a patrolman~
+A patrolman is trying to keep the peace.
+~
+He'd rather be at the local pub then out here with these nasty kids.
+~
+1 4 64 0 700  S
+8 17 6 1d8+121
+400 500 100 1d6+4 -1
+-1
+-1
+700 1332 8 8 1
+#2107
+vandal~
+a vandal~
+A vandal is spray painting pro-gang slogans on the wall here.
+~
+He has a wary eye and a fine hand for art.
+~
+1 4 128 0 -400  S
+10 16 5 1d10+145
+400 500 100 1d6+5 -1
+-1
+-1
+50 2133 8 8 1
+#2108
+dog pit bull pitbull~
+a pitbull~
+A vicious pitbull is foaming at the mouth in rabid anticipation.
+~
+You get a nice close look at him while he's tearing at your throat.
+His fangs are blood-stained from hearty meals of ... steak?!
+~
+4 4 98 0 -100  S
+5 18 8 1d5+85
+408 500 100 1d6+2 -1
+-1
+-1
+1 666 8 8 1
+#99999
+$~

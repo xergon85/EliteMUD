@@ -1,0 +1,637 @@
+#0
+bug~
+a bug~
+This object is BAD!  If you see it, there must be a bug in the game.
+Please
+report it immediately using the BUG command.~
+~
+13 0 0 0 0
+0 0 0 0 0 0
+0 0 0
+#7
+board leadership night tribe nt~
+a Night Tribe leadership bulletin board~
+The Night Tribe Council board is mounted here on the wall.~
+~
+13 0 0 128 0
+121 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#8
+board leadership academy midnight sun~
+a Midnight Sun leadership bulletin board~
+The Council discussion board isn't quite as large as the board 
+downstairs.~
+~
+13 0 0 128 0
+110 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#9
+statue academy~
+a statue~
+A statue of a mythical Wise Immortal is standing here.~
+~
+12 114 0 abght 0
+27515 a 110 7 1 116
+0 0 0
+Proc(guard_object)
+#10
+statue academy~
+a statue~
+A statue of a mythical Wise Immortal is standing here.~
+~
+12 114 0 abght 0
+27501 ad 110 2 1 116
+0 0 0
+Proc(guard_object)
+#11
+guards skeleton shamhna~
+the skeleton guards~
++Two Skeletons guard the gate with their spears crossed in
+front of it.~
+~
+12 114 0 abght 0
+28611 a 122 6 1 116
+0 0 0
+Proc(guard_object)
+#12
+minions demon~
+A demon statue~
+A marble statue of a two-headed demon stands here guarding the
+entrance.~
+~
+12 114 0 abght 0
+27900 c 113 2 1 116
+0 0 0
+Proc(guard_object)
+#13
+dragoon dragoons gate~
+a statue~
+An immense flaming gate stands here, flanked by equally impressive
+statues of Kurrelgyre and Ix.~
+~
+12 114 0 abght 0
+28000 a 114 2 1 116
+0 0 0
+Proc(guard_object)
+#14
+Monolith tri~
+A large monolith~
+A Large Monolith set with the TRI-clan symbol is here.~
+~
+12 114 0 abght 0
+27600 a 107 2 1 116
+0 0 0
+Proc(guard_object)
+#15
+board bulletin academy midnight sun~
+a Midnight Sun clan bulletin board~
+The large Academy notice board covers the whole wall.~
+~
+13 0 0 128 0
+110 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#16
+board bulletin leadership shamhna~
+the Shamhna leadership board~
+The Shamhna leadership board is etched into the wall.~
+~
+13 0 0 128 0
+122 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#17
+board bulletin elysium~
+a ELYSIUM clan bulletin board~
+The ELYSIUM clan bulletin board is mounted on a wall here.~
+~
+13 0 0 128 0
+118 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#18
+book wolves~
+the book of wolves~
+An old leather book is lying here.~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#19
+statue dragons storm sd~
+A Huge dragons statue~
+A Huge statue of a Storm dragon is guarding a cave entrance here.~
+~
+12 114 0 ght 0
+27800 a 112 2 1 116
+0 0 0
+Proc(guard_object)
+#20
+statue monk thrill kult tkk~
+a statue of a monk~
+An animated statue of a cloaked monk stands guard.~
+~
+12 114 0 ght 0
+28100 d 116 2 1 116
+0 0 0
+Proc(guard_object)
+#21
+statue clossus Rhodes~
+the statue of the Colossus of Rhodes~
+Before you stands the Colossus from Rhodes, rebuilt from the 
+ruins by the members of the clan Elysium to be their guardian~
+~
+12 114 0 ght 0
+28300 a 118 2 1 116
+0 0 0
+Proc(guard_object)
+#23
+knight templar blocker guard~
+#NA#R T#wemplar #RK#wnight#N~
+#NA #RT#wemplar #RK#wnight#G stands here.~
+~
+12 114 0 ght 0
+28800 ac 119 2 1 116
+0 0 0
+Proc(guard_object)
+#24
+statue night tribe nt~
+the statue of night tribe~
+The two demons are here guarding the passage.~
+~
+12 114 0 ght 0
+28500 a 121 2 1 116
+0 0 0
+Proc(guard_object)
+#25
+statue kai~
+a statue~
+There is a large statue of Alannon the Elven Hero.~
+~
+12 114 0 abght 0
+28204 a 117 2 1 116
+0 0 0
+Proc(guard_object)
+#27
+board bulletin tri~
+an TRI clan bulletin board~
+The TRI clan bulletin board is mounted on a wall here.~
+~
+13 0 0 128 0
+107 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#29
+board bulletin storm dragons sd~
+an Storm Dragon clan bulletin board~
+The Storm Dragon bulletin board is mounted on a wall here.~
+~
+13 0 0 128 0
+112 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#30
+board bulletin thrill kult tkk~
+a Thrill Kill Kult clan bulletin board~
+The Thrill Kill Kult clan bulletin board is mounted on a wall here.~
+~
+13 0 0 128 0
+116 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#31
+board bulletin kai~
+an Kai clan bulletin board~
+The Kai clan bulletin board is mounted on a wall here.~
+~
+13 0 0 128 0
+117 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#32
+board bulletin night tribe nt~
+a Night Tribe clan bulletin board~
+The Night Tribe clan bulletin board is mounted on a wall here.~
+~
+13 0 0 128 0
+121 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#33
+board bulletin shamhna~
+a Shamhna clan bulletin board~
+The Shamhna clan bulletin board is mounted on a wall here.~
+~
+13 0 0 128 0
+122 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#34
+board bulletin artemisians~
+an Artemisian clan bulletin board~
+The Artemisian clan bulletin board is mounted on a wall here.~
+~
+13 0 0 128 0
+120 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#35
+statue shamhna~
+the statue of shamhna~
+A werewolf statue is guarding the castle's entrance.~
+~
+12 114 0 ght 0
+28600 c 122 2 1 116
+0 0 0
+E
+statue werewolf~
+It's a large, imposing statue of a werewolf. It is made out of black 
+stone and is at least five times as tall as you are. Two red, shining 
+gems represent it' s eyes and the wide opened mouth, filled with 
+sharp teeth, expresses violence and cruelty. The werewolf' s arms are 
+lifted high above the head and it seems like they are going to grab 
+every illegals visitor, in attempt to sneak in the Castle of Shamhna.
+~
+Proc(guard_object)
+#36
+board bulletin order amber circle clockwork gnome~
+an Amber Circle clan bulletin board~
+A clockwork gnome is calling out important messages.~
+~
+13 0 0 128 0
+113 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#37
+statue achaeons invisible barrier~
+an invisible barrier~
+~
+~
+12 114 0 ght 0
+251 d 108 2 1 116
+0 0 0
+Proc(guard_object)
+#38
+board bulletin dragoon~
+a Dragoon of Phos clan bulletin board~
+The Dragoons of Phos clan bulletin board is mounted on a wall here.~
+~
+13 0 0 128 0
+114 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#39
+statue four winds statues~
+the four winds~
+Each exit is guarded by one of the four winds.~
+~
+12 114 0 ght 0
+28704 abcd 100 2 1 116
+0 0 0
+E
+northwind statue~
+Before you is a statue, dedicated to the North Wind.  Lord of the
+storms, he is both the guardian of sailors and the harbinger of doom.
+~
+E
+eastwind 2.statue~
+Before you is a statue in homage to the East Wind.  Lord of the
+tides,
+he is a fickle guardian, protecting when he sees fit, leaving as he
+chooses.
+~
+E
+Westwind statue 3.statue~
+Before you, a statue dedicated to the West Wind rises majestically.
+Most favored of the Winds, he is constant and kind, driving storms
+away
+and guiding sailors' home. 
+~
+E
+South statue 4.statue~
+Before you is the South Wind, cast in stone.  His visage is kind and
+gentle, but a deeper look shows an iciness and violence that leaves
+you
+cold.
+~
+Proc(guard_object)
+#40
+board bulletin elite~
+an Adventurer's Guild bulletin board~
+The Adventurer's Guild bulletin board is mounted on a wall here.~
+~
+13 0 0 128 0
+100 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#41
+statue artemisians~
+the statue of an Artemisian Amazon Warrior~
+An Amazon warrior weeps over the remains of her clan.~
+~
+12 114 0 ght 0
+28400 0 0 0 110 116
+0 0 0
+E
+statue artemisians amazon warrior~
+This deserted clanhouse was once the home of the Artemisians
+clan. For a time, no man was safe and the sisterhood ruled
+as far as the eye can see. But no more -- a great clan is
+gone but never forgotten.
+~
+Proc(guard_object)
+#42
+board fields anarchy express~
+#CThe #CF#ci#Nel#cd#Cs #Nof#C A#cn#Nar#cch#Cy Daily Express#N~
+#CThe #CF#ci#Nel#cd#Cs #Nof#C A#cn#Nar#cch#Cy #GDaily Express stands 
+here.~
+~
+13 0 0 128 0
+119 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#43
+statue mage dl~
+A evil mage~
+The statue of an evil mage stands here, guarding the magical fortress.~
+~
+12 114 0 abghtz 0
+28900 b 115 2 1 116
+0 0 0
+E
+mage statue~
+An ominous statue of the evil mage of legend, he is cloaked in robes of
+blue and green, while his glowing purple eyes seem to follow you as you
+walk by.
+~
+Proc(guard_object)
+#44
+board bulletin dark legion dl~
+a Dark Legion clan board~
+The Dark Legion clan bulletin board floats here in mid air.~
+~
+13 0 0 128 0
+115 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#45
+guard nt~
+a guard~
+A large guard is here blocking your way.~
+~
+12 114 0 abght 0
+28514 a 121 7 1 116
+0 0 0
+Proc(guard_object)
+#46
+shrubbery path kon~
+A beautiful shrubbery~
+A #Rcolourful #Ylittle #Gshrubbery#N, including path, open up westly.~
+~
+12 114 0 abght 0
+27701 acd 111 2 1 116
+0 0 0
+E
+shrubbery path~
+One of the nicest shrubberies,  perfectly aligned with a small but
+delicate path through it show you the way to the sacred grounds of the
+#RKnight #Ywho say #GNi#N (#Gni ni#N...) Clan.
+~
+Proc(guard_object)
+#47
+board bulletin wooden paper ni kon~
+#RKnights #Ywho say #GNi#N Clan board~
+A wooden board have a huge amount of pieces of paper nailed to it.~
+~
+13 0 0 128 0
+0 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#50
+handbook newbie hand book~
+a newbie handbook~
+A book has the words "#CDon't Panic#G" emblazoned on the cover.~
+~
+8 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+handbook hand book newbie~
+Welcome to EliteMUD. You have chosen to embark upon a great adventure
+and this guide has been written to help you get started. In order to
+make this Mud an enjoyable place for everybody, we ask that you read 
+and obey our simple rules - these can be viewed by typing POLICY. This
+guide should contain enough information to get you started, but if
+there is anything you do not understand, typing "help <topic>" should 
+explain things to you. If you discover errors in the help files, or 
+there are topics missing, contact an immortal (level 110+) and they 
+will assist you.
+
+This handbook contains information on a number of topics. Typing 
+"read <topic>" will list the information you require. Here is the list:
+
+Introduction
+Getting Started
+Finding Equipment
+Gaining Levels
+Clans
+~
+E
+Introduction~
+EliteMUD is a MUD unlike any other. Based on CircleMUD code, and running
+originally from Sweden, Elitemud was started in 1994 by IO and Rigel. The 
+game has run continuously since then, and passed through the hands of
+several implementors. The game currently runs from a site in America.
+
+There are 109 mortal levels, and a remort system that allows multiclassing
+up to 4th remort. Characters above level 109 are immortals, and are there
+to help make everyones EliteMUD experience more enjoyable. If you need
+immortal help, type "who 110-" to see a list of online immortals. You can
+see a list of all immortals by typing "wizlist". Their particular 
+responsibilities are listed in "immlist".
+
+All new players are automatically enrolled into the Adventurers Guild
+clan. This allows new players to get to know each other and help each
+other learn their way around. In addition, there are several Guildmasters
+who will help you when you are stuck. The Adventurers Guild is not
+a real clan, and you may resign and apply to a real clan anytime after
+level 10. See the later section on Clans.
+
+There is a dedicated communication channel for new players. Type 
+"newbie <your message>" and usually people will try to help you.
+
+Help may also be found on several webpages. Currently, the EliteMUD official
+webpage is at #Ghttp://orangeroad.tzo.com/~elitemud#N. 
+
+~
+E
+getting started~
+EliteMUD has 18 mortal races, and 17 classes to choose from. (Although 
+some races are available as quest rewards only.) All of the classes 
+practice at one of the standard four guilds: Warrior, Thief, Cleric, 
+and Mage. The Guilds are marked on the map of Midgaard which can be 
+viewed at any time by typing "help midgaard".
+
+At any time until level 10 you can type "recall" to return to the temple. 
+After level 10, you will have to purchase recall scrolls, or walk back 
+to the temple.
+
+Inside your guild, you can use practice sessions to improve your 
+skills and spells. To see a list of the things you can learn, and to
+see how many practice sessions you have left type "practice" when
+standing next to your guildmaster. The different skills and spells should
+be explained in the help files. Enter "help <skill>" to check what a
+skill does.
+
+If you are new to mudding, you should visit the Halls of Learning, which
+are located west, west, north from the recall point.
+~
+E
+finding equipment~
+There are four places in Midgaard where good equipment may be found.
+The donation room (east from temple), the Adventurers Guild donation 
+room (west, up, west), the Armory (two south, west, south), and the 
+Weaponsmith (two south, two east, north from temple).
+
+At any shop, you can type "list" to see what items are on offer, their
+minimum level, and the cost. When you start out, you will not have very
+much money, so the best places to start are probably the donation rooms.
+Although items in donation rooms have been freely given, it is considered
+impolite to take items you do not need, and shopkeepers will not permit 
+you to sell items you have obtained from a donation room.
+
+Equipment may also be aquired by killing mobiles (mobs) and taking any
+items from their corpse. You may also find gold this way. In addition, 
+you will receive gold as a reward from the gods if you sacrifice mob
+corpses (type "help sacrifice"). The quickest way to make gold is to kill
+mobs for their equipment and sell it in the shops. If on the other hand
+you prefer to help others you may donate items using the "donate" command, 
+which will usually transfer the item to the Midgaard donation room.
+
+(more...type: #Gread equipment2#N)
+~
+E
+equipment2~
+Good equipment makes levelling much easier. Every item of equipment that
+you can wear, will have an effect on your statistics. Typing "stats" will
+give you a listing of your current status. There are several values which
+are worth noting.
+
+Hitroll affects how likely you are to hit a mob. The higher your hitroll
+the more often you will strike your enemies.
+
+Damroll is a value added to your normal weapon damage when you strike a
+mob. The higher the damroll, the harder you hit.
+
+Thac0 stands for "To Hit Armour Class 0" and tells the mud how good you
+are at hitting armoured mobs. Your thac0 depends on your level and 
+your class and is not changed by any equipment you can wear.
+
+AC or armour class is a measure of how well protected you are. It starts
+from 100 and becomes lower with better equipment. A well equipped starting
+character can manage an armour class of around 0-10. A well equipped 
+high level character might have an armour class of around -350 and for a
+fourth remort, an armour class of better than -550 is not uncommon.
+
+Weapons: You can use two weapons at a time. Wield one, and then hold
+the second. You will receive the bonuses from holding the second weapon.
+Some low level weapons can be enchanted, which gives them +2HR and +2DR.
+Make sure both your weapons are enchanted when you start. 
+~
+E
+gaining levels~
+You can gain levels on EliteMUD by killing mobiles (mobs). When you type
+"score" you can see how much more experience you need to reach your next
+level. 
+
+Level advancement is automatic, once you have surpassed the experience
+requirement. WHen you level, you will gain additional hit points, mana
+and movement points, and occasionally your Thac0 and statistics (strength,
+constitution etc.) will increase.
+
+When starting out, try killing animals in the Newbie Zoo, which is sseeeees
+from the temple. Other good places for new players to go are the catacombs
+(down from the temple) and the north road (north from the temple). Typing
+"help areas" will show you the area help files for EliteMUD - if you cannot
+find zones by exploring, ask other players and they will help you find your
+way around.
+~
+E
+clans~
+The Clan system on EliteMUD allows groups of mudders with similar outlooks
+to come together and socialize - and help each other out. All new players
+start in a special clan called the Adventurers Guild. This allows players
+to become familiar with the workings of clans, meet other new people and
+make new friends. However, once you reach level 25 you will be ejected
+from the clan and will be forced to choose either to remain clanless, or
+join one of the other clans.
+
+Typing "clan" on its own will show you a list of available clan commands - 
+experiment with them to find out what they do!
+
+You can resign from Adventurers Guild and apply to another clan at any time
+after level 10. To see a list of other clans type "clan info".
+~
+#99999
+$~
+

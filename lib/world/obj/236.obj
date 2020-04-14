@@ -1,0 +1,124 @@
+#23601
+Troll king key~
+Troll king's key~
+A plain and rusty key found on the king lies here.~
+~
+18 40 0 mn ao
+1 0 0 0 0 160
+1 1 1
+#23602
+troll captain key~
+Troll Captain's key~
+A plain, but rusty key found on the troll captain lies here.~
+~
+18 40 0 mn ao
+1 0 0 0 0 160
+1 1 1
+#23603
+Troll Iron key~
+An iron key~
+An iron key hangs here on the wall.~
+~
+18 40 0 mn ao
+1 0 0 0 0 160
+1 1 1
+#23604
+troll guard key~
+guard's key~
+A key belonging to a guard is here.~
+~
+18 40 0 mn ao
+1 0 0 0 0 160
+1 1 1
+#23605
+troll belt~
+A troll belt~
+An ugly leather belt of some proportions lies here.~
+~
+9 40 0 aego alo
+12 0 0 0 0 0
+10 200 1
+A
+3 -2
+A
+19 1
+#23606
+troll club~
+A troll "club"~
+A small uprooted tree lays here.~
+~
+5 45 aceijklms 0 ano
+0 6 8 6 0 0
+50 1 1
+A
+19 15
+A
+14 -100
+A
+14 -100
+#23607
+troll armour suit shield~
+A Trollish "Shield"~
+A crumpled suit of armour with a handle lays here.~
+~
+9 45 acefijkmns ejn aj
+15 0 0 0 0 0
+30 200 1
+A
+14 -100
+#23608
+troll loincloth trollish leathery~
+Trollish loincloth~
+A pile of smelly, leathery material lays here.~
+~
+9 40 0 be al
+15 0 0 0 0 0
+12 1 1
+#23609
+ogre helm~
+An Ogre helm~
+A disgusting broken animal skull lays on the floor.~
+~
+9 40 efgjl ce ae
+10 0 0 0 0 0
+10 400 10
+A
+24 25
+#23610
+ogre ring~
+An adorned ring~
+An adorned ring with garnets lays here.~
+~
+4 65 dfhklnop g ab
+60 10 10 26 0 0
+2 2000 1
+A
+18 5
+A
+14 25
+#23611
+sack extemely large bodybag~
+An extremely large sack~
+A large pile of material lays here.~
+~
+15 50 0 g ao
+300 5 -1 0 0 0
+20 500 1
+#23612
+corpse body trash~
+A corpse~
+A humanoid corpse rots at your feet.~
+~
+13 1 0 hmn a
+0 0 0 0 0 0
+100 1 1
+#23613
+potion brown~
+A brown potion~
+A brown bottle lays corked on its side.~
+~
+10 40 0 eh a
+28 61 42 0 0 0
+2 500 1
+#99999
+$~

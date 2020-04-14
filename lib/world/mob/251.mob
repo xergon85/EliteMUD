@@ -1,0 +1,154 @@
+#25100
+deep one creature~
+A Deep One~
+The evil Deep One chants in a very odd, very wicked language.
+~
+The Deep One has found the fabled sunken continent of R'liagh, and joined
+with its fellow deep ones in continual prayers to invoke the most 
+evil of evil.  Resembling a human covered with fish scales and enhanced
+with gills, the sheer evil presence of this monster is enough to knock
+down your armor class by several points.
+~
+15 4 cfg 0 -900 S
+48 -5 -16 1d1+744
+400 500 100 1d24+25
+-1 -1 -1 
+2304 290001 8 8 0
+#25101
+deep one creature~
+A Deep One~
+The evil Deep One swims in an endless search for the sunken island R'liagh.
+~
+Fish scales cover the once-human body of the evil Deep One, faithful 
+subject of the evil god Cthulu.  Once this poor soul wandered solid
+ground. Increasingly evil, increasingly drawn to water, one day he murdered
+an entire town, then walked into the sea.
+~
+15 4 cfg 0 -500 S
+48 -5 -16 1d1+744
+400 500 100 1d24+25
+-1 -1 -1 
+2304 290001 8 8 0
+#25102
+Thraxx~
+A Thraxx~
+A Thraxx is trying to drag you down into the water with its four arms!
+~
+This thing is an amphibious creature with six eyes on its salamander-like head.
+It raises its four muscular arms and and claws you with suprising ferocity.
+~
+15 4 cfg fd -500 S
+49 -5 -17 1d1+763
+400 500 100 1d24+25
+-1 -1 -1 
+2401 301665 8 8 0
+#25103
+piranha pirana~
+A Piranha~
+Some Piranhas are searching for blood.
+~
+This fish has red scales with a dark pattern. Although the fish is 
+quite small the mouth is huge and has thousands of small teeth.
+Piranhas go through toothbrushes rather quickly.
+~
+15 4 fm dfkz -100 S
+23 9 0 1d23+301
+408 500 100 1d11+11 -1
+-1
+-1
+0 41666 8 8 1
+#25104
+Argundian Tiger~
+An Argundian Tiger~
+A big bad tiger is devouring you with his hungry eyes.
+~
+~
+3 4 b z 0 S
+42 -1 -13 2d20+600
+408 500 60 2d10+19
+407 500 40 2d10+17   -1
+-1
+-1
+0 220000 8 8 1
+A
+%1 look;
+%10 growl;
+%10 emote licks its mouth.
+~
+#25105
+parrot ara~
+A parrot~
+A parrot is sitting on the lower branches of a tree.
+~
+The parrot is talking constantly meaningless words that it has picked up from
+people travelling on the trail.
+~
+13 4 hl kB 500 S
+7 17 6 4d10+105
+408 500 100 1d10+2   -1
+-1
+-1
+0 2000 8 8 1
+A
+%15 say LAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGGGGGGGGGGGGGGGGGGGGG!;
+%10 say Summon please!;
+%15 say HELP!
+~
+#25106
+cannibal native~
+A Cannibal~
+A Cannibal rushes out from the bushes and attacks you!
+~
+The Cannibal stares back at you with crazed eyes. He is wearing only a
+loincloth of deerskin and has a feather from a horn-bird behind his left
+ear. 
+~
+1 4 cfgm fz -400 S
+47 -4 -16 1d1+726
+400 500 100 1d23+24
+-1 -1 -1 
+2209 278334 8 8 1
+#25107
+captain silver~
+Captain Silver~
+Captain Silver stands behind a desk and eyes you with his only eye.
+~
+He looks exactly as a pirate taken from an old pirate movie. He is wearing a
+dark blue coat and has a black pirate-hat on his head.
+~
+1 4 bg kzD 600 S
+109 -100 -200 1d1+30000
+400 500 100 1d100+100  -1
+-1
+-1
+0 5000 8 8 1
+#25108
+cannibal shaman~
+The Shaman~
+A shaman chants strange words.
+~
+He has some feathers in his hair, and he looks completely insane.
+~
+1 2 b d 700 S
+53 -6 -18 3d80+716
+401 500 68 3d8+20
+6 0 5 1d0+50
+17 0 2 3d0+75
+23 0 5 1d0+75
+27 0 5 1d0+50
+28 0 10 2d0+95
+63 0 5 1d0+75 -1
+-1
+-1
+500 290000 8 8 1
+A
+%%10 emote chants, "redro taht htiw seirf ekil uoy dluow".~
+#99999
+$~
+
+
+
+
+
+
+

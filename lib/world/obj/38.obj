@@ -1,0 +1,86 @@
+#3800
+leaf tobacco~
+A tobacco-leaf~
+A small but nice-smelling tobacco leaf is lying here.~
+~
+19 1 0 0 a
+8 0 0 1 0 0
+2 50 25
+#3801
+monocle~
+A small monocle~
+A small monocle is lying on the ground here.~
+~
+9 10 0 g ae
+2 0 0 0 0 0
+2 1500 250
+A
+4 1
+#3802
+black hat~
+A small black hat~
+A small black hat has been left here.~
+~
+9 10 0 0 ae
+2 0 0 0 0 0
+2 150 25
+#3803
+tiny axe~
+a tiny axe~
+A tiny axe has been left here.~
+~
+5 10 abeim 0 an
+0 2 6 3 0 0
+7 500 1000
+#3804
+medallion~
+a small medallion~
+A small medallion is lying on the ground.~
+~
+9 10 0 g ac
+2 0 0 0 0 0
+2 1500 250
+A
+3 1
+#3805
+pink potion~
+a pink potion~
+A pink potion is barely visible on the ground.~
+~
+10 10 0 g ao
+20 15 15 -1 0 0
+2 2500 250
+#3806
+small red wand~
+a small red wand~
+A small red wand have been left here.~
+~
+3 16 cdfhklnops g ao
+5 8 8 26 0 0
+4 1500 250
+#3807
+key~
+a tiny key~
+A tiny key is lying here. You hardly notice it.~
+~
+18 1 0 0 a
+2 0 0 0 0 100
+2 50 25
+#3808
+water well~
+a hobbit well~
+A small hobbit well is here.~
+~
+23 1 0 hz 0
+100 100 15 0 0 0
+1 1 1
+#3809
+key~
+a small key~
+A key to hobbit mayor's office lies here.~
+~
+18 1 0 0 a
+2 0 0 0 0 100
+1 1 1
+#99999
+$~

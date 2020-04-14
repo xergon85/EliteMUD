@@ -1,0 +1,24 @@
+>rand_prog  25~
+  do(mob, "kvack");
+~
+
+>rand_prog 40~
+  do(mob, "say I am very fond of ducks.");
+~
+
+>greet_prog 100~
+  do(mob, "shake " + name(ch));
+  do(mob, "giggle");
+~
+
+>speech_prog DUCK~
+  do(mob, "say Ducks are cool!");
+  do(mob, "wink" + name(ch));
+~
+
+>speech_prog "Ducks are cool!"~
+  do(mob, "agree " + name(ch));
+  do(mob, "use wand " + name(ch));
+  echoat(ch, "\n#RSlartiin tells you 'You are a good fellow!  Ducks rule!'#N");
+~
+|

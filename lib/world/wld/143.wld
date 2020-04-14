@@ -1,0 +1,2162 @@
+#14300
+Outside the Tower of Babel~
+   You stand before a high tower, which stretches so far up into the
+skies you can't see the top of it. It's very well built, and only true 
+craftsmen could have done this work. There is a great double-door leading
+into the tower, and there is some writing engraved on it. It says 'Unity 
+gives power - together we do miracles'.
+~
+143 0 11
+D0
+The way into the tower.
+~
+door double~
+3 -1 14301
+D1
+Desert sand stretches as far as the eye can see.
+~
+~
+0 -1 5039
+D2
+Desert sand stretches as far as the eye can see.
+~
+~
+0 -1 5039
+D3
+Desert sand stretches as far as the eye can see.
+~
+~
+0 -1 5039
+S
+#14301
+Bottom Floor of the Tower of Babel~
+   As you stand inside the tower, you realize that it's nothing but a 
+great staircase, built for one sole purpose - to reach Heaven. You
+wonder if the builders actually succeeded - there is no evidence that
+they didn't. Why not go up the stairs and have a look?
+~
+143 d 0
+D2
+The way back out of the tower.
+~
+door double~
+3 -1 14300
+D4
+The way up in the tower.
+~
+~
+0 -1 14302
+S
+#14302
+The Stairs in the Tower of Babel~
+   You have begun the journey to the top of the tower, and you are quite 
+excited, you might get to visit Heaven today. You wonder if such a thing
+is actually possible, but you reject your doubt and proceed forward.
+Such thoughts are not welcome in your mind at this moment - to you, 
+disappointment is not an option.
+~
+143 d 0
+D4
+The way up in the tower.
+~
+~
+0 -1 14303
+D5
+The way down back towards the ground level.
+~
+~
+0 -1 14301
+S
+#14303
+High Up in the Tower of Babel~
+   You notice the first signs of less well performed work here. The
+stairs are getting irregular, and the walls look like they can fall
+together any second. Did the builders get too eager to finish their
+work, or perhaps there is another reason why this area is so
+dilipidated...
+~
+143 d 0
+D4
+The way up in the tower.
+~
+~
+0 -1 14310
+D5
+The way back towards the ground level.
+~
+~
+0 -1 14302
+S
+#14304
+Hole in the Clouds~
+   You stand at a hole in the clouds. As you look around, you see a
+great number of more or less transparent shapes wandering about. The
+ground you stand on is nothing but clouds, and they feel just like you
+always thought they would feel to stand on; soft and cool. To the east
+and west, there are more clouds, and some distance to the north you see
+a desk of some sort, and all the transparent shapes seem to be heading
+that way.
+~
+143 0 2
+D5
+You look down the hole, and you see the Tower of Babel down there.
+~
+~
+0 -1 14312
+D0
+All the other beings seem to be heading this way.
+~
+~
+0 -1 14308
+D1
+More clouds, nothing very interesting.
+~
+~
+0 -1 14306
+D3
+More clouds, nothing very interesting.
+~
+~
+0 -1 14305
+E
+cloud clouds~
+The clouds are forming the text: 'This area was made by #rDevon #Nand
+#MSkarek#N for your personal pleasure.'~
+S
+#14305
+Southwest Corner of Clouds~
+   You wander about in this cloudy land, amazed by its beauty. The sky 
+is light blue, and the blazing sun shines upon you with its astonishing
+beauty, unhindered by the thin atmosphere. However, there is obviously
+not very much to do in this empty field of clouds, and you wouldn't
+want to stay here for too long, it might get boring.
+~
+143 0 2
+D0
+More clouds, nothing very interesting.
+~
+~
+0 -1 14307
+D1
+More clouds, nothing very interesting.
+~
+~
+0 -1 14304
+E
+cloud clouds~
+The clouds are forming the text: 'This area was made by #rDevon #Nand
+#MSkarek#N for your personal pleasure.'~
+S
+#14306
+Southeast Corner of Clouds~
+   You walk on the top of the clouds, looking around. You have serious
+doubts about this being Heaven, since there is so little to do here.
+You are starting to feel bored already, maybe you should try to find
+the real Heaven?
+~
+143 0 2
+D0
+More clouds, nothing very interesting.
+~
+~
+0 -1 14309
+D3
+More clouds, nothing very interesting.
+~
+~
+0 -1 14304
+E
+cloud clouds~
+The clouds are forming the text: 'This area was made by #rDevon #Nand
+#MSkarek#N for your personal pleasure.'~
+S
+#14307
+Northwest Corner of Clouds~
+   These clouds that you stand on seem to be a bit darker than the rest
+of the clouds. You guess it's thunderclouds, and you wonder above what
+part of Elite you are standing. You wish you could look down, you might
+see someone you know down there!
+~
+143 0 2
+D1
+More clouds, nothing very interesting.
+~
+~
+0 -1 14308
+D2
+More clouds, nothing very interesting.
+~
+~
+0 -1 14305
+E
+cloud clouds~
+The clouds are forming the text: 'This area was made by #rDevon #Nand
+#MSkarek#N for your personal pleasure.'~
+S
+#14308
+North Side of Clouds~
+   You are standing in the middle of a great crowd of transparent
+beings, all walking north. As you look in that direction you see an old,
+winged man in a white dress sitting at a desk. It seems like everyone
+else is here to speak with him.
+~
+143 0 2
+D0
+An old man, sitting at a desk.
+~
+~
+0 -1 14313
+D1
+More clouds, nothing very interesting.
+~
+~
+0 -1 14309
+D2
+More clouds, nothing very interesting.
+~
+~
+0 -1 14304
+D3
+More clouds, nothing very interesting.
+~
+~
+0 -1 14307
+E
+cloud clouds~
+The clouds are forming the text: 'This area was made by #rDevon #Nand
+#MSkarek#N for your personal pleasure.'~
+S
+#14309
+Northeast Corner of Clouds~
+   These clouds seem to be strangely fragile and light, and for a
+moment, you almost think that you are going to fall right through
+them. Luckily, they seem to be strong enough for your weight. You wonder
+what happened to these clouds.
+~
+143 0 2
+D2
+More clouds, nothing very interesting.
+~
+~
+0 -1 14306
+D3
+More clouds, nothing very interesting.
+~
+~
+0 -1 14308
+E
+cloud clouds~
+The clouds are forming the text: 'This area was made by #rDevon #Nand
+#MSkarek#N for your personal pleasure.'~
+S
+#14310
+Near the Top~
+   You have walked for quite a while now, but you must be close to the
+top, since you feel a wind coming from above. The signs of unfinished
+work are rather obvious here - unattached bricks lying around, unused
+cement on the stairs and tools lie untouched.
+~
+143 d 0
+D4
+You can only see the stairs, but you feel a fresh wind coming from this
+direction.
+~
+~
+0 -1 14311
+D5
+The way back down towards the ground level.
+~
+~
+0 -1 14303
+S
+#14311
+Top of the Tower of Babel~
+   This is the unfinished top of the Tower of Babel. For some reason,
+the workers never finished their work, and building material is spread
+everywhere. It seems like the workers just left their duties for no
+reason at all. It seems like the only way to reach all the way up now
+is to fly.
+~
+143 0 0
+D4
+You see the clouds, not far away...
+~
+~
+0 -1 14312
+D5
+The way back towards the ground level.
+~
+~
+0 -1 14310
+S
+#14312
+Floating in Air~
+   You are flying freely in the air, above the Tower of Babel, beneath
+the clouds of Heaven. The view over Elite is truly great from this
+height, but what really excites you is the welcoming hole in the clouds
+that you will be able to fly up through. Paradise is close!
+~
+143 pu 9
+D4
+The clouds of Heaven.
+~
+~
+0 -1 14304
+D5
+The Tower of Babel lies beneath you.
+~
+~
+0 -1 14311
+S
+#14313
+Information Desk~
+   You have arrived to Heaven's information desk. You see a winged old
+man in a plain white dress sitting at the desk. He is directing the
+souls of the dead to where they should go, depending on their
+alignment. Good souls gain access to Heaven, neutral people are
+reincarnated to be given another chance and evil people go straight
+to Hell. There is a small sign here.
+~
+143 0 2
+D1
+In this direction lies the reincarnation chamber.
+~
+~
+0 -1 14314
+D2
+Just clouds, nothing very interesting.
+~
+~
+0 -1 14308
+D3
+In this direction lies Heaven.
+~
+~
+0 -1 14318
+D5
+You are looking straight down the Hole to Hell.
+~
+~
+0 -1 14315
+E
+sign~
+The sign reads:
+#YGood #Nsouls, go west.
+#bNeutral #Nsouls, go east.
+#REvil#N souls, go to Hell, which is down.
+For further information, please ask the informant.
+~
+S
+#14314
+Before the Reincarnation Chamber~
+   You are standing before a plain wooden door. If you walk through this
+door, you will be given another chance to once again walk the world of
+Elite. The choice is yours.
+~
+143 c 0
+D1
+Just walk through the door, and you will be given life again.
+~
+door wooden~
+3 -1 3001
+D3
+The way back to the information desk.
+~
+~
+0 -1 14313
+S
+#14315
+Hole to Hell~
+   You are climbing down the Hole to Hell. Lost souls are desperatly
+hanging from the edge of this hole, but the hellish forces are slowly
+dragging them down, to eternal pain and damnation. You still have
+the power to withstand these forces, but unless you leave soon, you
+will fall prey to Satan too.
+~
+143 c 2
+D4
+You are looking at the way back to Heaven. That's a lot nicer than Hell.
+~
+~
+0 -1 14313
+D5
+You see nothing but darkness down this hole.
+~
+~
+0 -1 14316
+S
+#14316
+Path of Peril~
+   You are walking the path from which there is no return. Only
+damnation and pain awaits you, for all eternity. You are not alone,
+many other souls walk the same path as you, and it strikes you that
+their number is alarmingly great - are there really so many evil people
+in the world?
+~
+143 d 11
+D0
+You see the fiery portal to Hell in the distance.
+~
+~
+0 -1 14317
+S
+#14317
+The Portal to Hell~
+   You are standing before the great portal to Hell. It is truly great,
+as it stretches towards the reddish sky. Flames of fury engulf the
+hungry opening that swallows the souls of the damned like a black hole
+swallows stars and interstellar dust. And dust is what you are about to
+become, for as soon as you enter this portal, your soul will no longer
+be worth anything, and eternal pain is all that will be left.
+~
+143 d 11
+D0
+This is the way to Hell, you poor bastard. Of course, you deserve
+nothing better.
+~
+~
+0 -1 14010
+S
+#14318
+Dressing Place~
+   You stand at another desk, with another old man standing behind it.  
+White dresses, wings and halos are hanging on hooks all around the
+place. This is where the good souls get the outfit they will be wearing
+all eternity. You are entitled a set too, just ask the old man.
+~
+143 c 2
+D1
+You see a desk, with an old man sitting behind it.
+~
+~
+0 -1 14313
+D0
+Not far away, you see the gigantic gates to Heaven.
+~
+~
+0 -1 14319
+S
+#14319
+Gates to Heaven~
+   You stand before the great golden gates that block the way for all
+the evil souls that might try to infest Heavens realm of goodness.
+There are no walls attached to the gates since Heaven is a dimension of
+its own and cannot be surrounded by walls. The gates are at least
+thirty feet high, forged from a holy golden-like metal, and you realize
+that if you want to get past, you need the gatekeepers permission - or
+his key.
+~
+143 0 2
+D0
+You look through the gateway leading into the realm of goodness, the
+dimension known as Heaven.
+~
+gate heaven golden~
+295 14331 14320
+D2
+The old dresser is standing in this direction.
+~
+~
+0 -1 14318
+S
+#14320
+Entrance to the Garden of Eden~
+   You are standing in the most beautiful garden you have ever seen.
+Exotic trees and plants grow everywhere, filling the air with a
+wonderful aroma of life. Graceful deer walk among now peaceful predators
+like lions, wolves and tigers, none of which show the slightest will to
+disturb the peace by attacking a prey. The garden stretches out to the
+east and west, and just north of here lies the great Temple of God.
+~
+143 0 2
+D0
+In this direction lies the Temple of God.
+~
+~
+0 -1 14328
+D1
+You see a small brook, creating a pool some distance away.
+~
+~
+0 -1 14322
+D2
+This way leads back through the gates of Heaven.
+~
+gate heaven golden~
+295 14331 14319
+D3
+You see a great forest, with trees almost tall enough to touch the
+stars.
+~
+~
+0 -1 14321
+S
+#14321
+Southwest Corner of the Garden of Eden~
+   The vegetation is more dense here, and you get the feeling of walking
+through a forest, rather than a garden. Great trees tower above you,
+and you can hear the whispering sound of the wind gently sweeping
+through the treetops. This is a very silent place, where you can go if
+you want to be alone for a while. Others have got the same idea, and
+you occasionally meet an angel or a saint walking through the forest
+here. You can follow the path you are walking on either north or east.
+~
+143 0 3
+D0
+You see nothing but more trees.
+~
+~
+0 -1 14323
+D1
+You see nothing but more trees.
+~
+~
+0 -1 14320
+S
+#14322
+Southeast Corner of the Garden of Eden~
+   A small brook runs through the garden here, ending in a small pool,
+big enough to swim in. The source of the brook must be north of here,
+since that's where it comes from. The pool is filled with amazingly
+coloured fish, and many insects hover above the surface of the pool.
+This is a wonderful place to sit back and relax, letting all your
+problems slip away. Should you want to leave, you can walk along the
+brook north or you can go west.
+~
+143 t 2
+D0
+You see more of the Garden of Eden.
+~
+~
+0 -1 14324
+D3
+You see more of the Garden of Eden.
+~
+~
+0 -1 14320
+S
+#14323
+West Side of the Garden of Eden~
+   You are standing at the edge of the great forest, which lies just south
+of here. North of here lies a field, and even further north you can see
+some hills. To the west lies Michael's military camp. As an adventurer,
+why don't you join the army of God?
+~
+143 0 3
+D0
+You see a field stretching out below the sun.
+~
+~
+0 -1 14350
+D1
+You see the great Temple of God.
+~
+~
+0 -1 14330
+D2
+You see a great forest, with trees almost tall enough to touch the sky.
+~
+~
+0 -1 14321
+D3
+You see the path to Michael's military camp.
+~
+~
+0 -1 14360
+S
+#14324
+East Side of the Garden of Eden~
+   You are walking on a path alongside the small brook, which runs from
+the north to the south. When you look into the crystal clear water, you
+see tiny crabs and other exoskeletal creatures living down there. You
+also see some small fish, and an eel or two. You can follow the brook
+south, or walk up the stream north.
+~
+143 0 2
+D0
+You see a field stretching out below the sun.
+~
+~
+0 -1 14326
+D2
+You see the brook end up in a small pool.
+~
+~
+0 -1 14322
+D3
+You see the great Temple of God.
+~
+~
+0 -1 14332
+S
+#14325
+South Part of the Field~
+   You are standing at the south part of a field that's covered with
+the greenest grass you have ever seen. Of course, there are also a lot
+of flowers growing on this field, and you notice that many angels are
+lying in the grass, resting, talking or sleeping in the warmth of the
+sun. The animals are doing pretty much the same, or drinking from the
+brook that flows from the west to the east. How about joining them? Or,
+if the sun is too much for you, go to the Temple of God to the south.
+~
+143 0 2
+D0
+You see a field stretching out below the sun.
+~
+~
+0 -1 14352
+D1
+You see a field stretching out below the sun.
+~
+~
+0 -1 14326
+D2
+You see the Temple of God.
+~
+~
+0 -1 14334
+D3
+You see a field stretching out below the sun.
+~
+~
+0 -1 14350
+S
+#14326
+Southeast Part of the Field~
+   You are standing between the Garden of Eden and a grass-covered
+field. The small brook flows in from the west, turns, and continues
+south, out of sight. To the east lies Uriel's observatory, and to the
+southwest lies the Temple of God. You may go wherever you want.
+~
+143 0 2
+D0
+You see a field stretching out below the sun.
+~
+~
+0 -1 14371
+D1
+You see a path leading to Uriel's observatory.
+~
+~
+0 -1 14376
+D2
+You see the small brook running off into the Garden of Eden.
+~
+~
+0 -1 14324
+D3
+You see a field stretching out below the sun.
+~
+~
+0 -1 14325
+S
+#14327
+Southwest Part of the Temple of God~
+   You are standing in a great gallery. Paintings of various saints and
+heroes cover the walls, and sculptures fill the room. You recognize
+some famous faces, like Saint George, Sainte Lucia and Moses.
+~
+143 d 0
+D0
+The western exit lies in this direction.
+~
+~
+0 -1 14330
+D1
+The southern exit lies in this direction.
+~
+~
+0 -1 14328
+E
+painting sculpture~
+These works of art are really well-made! Almost like if they were created
+through magic...
+~
+E
+George~
+A most incredibly well-made painting of saint George, slaying the dragon
+and rescuing the princess of the land.
+~
+E
+Lucia~
+A most beautiful sculpture of sainte Lucia, with candles in her hair,
+carrying food to the christian captives in the roman prison.
+~
+E
+Moses~
+This is a painting of Moses when he divided the sea to let his people pass
+through and escape the egyptian army. You can almost feel the picture, it
+is so well-made.
+~
+E
+Devon~
+An incredibly realistic statue of Devon, one of the creators of this 
+realm. Devon might be an evil, red-skinned demon with four arms and
+yellow eyes, but he still deserves a place in this gallery, since it
+was his idea.
+~ 
+S
+#14328
+Southern Entrance to the Temple of God~
+   You have entered the holiest of christian temples, the High Temple
+of God. His presence is so strong here, that you can actually feel his
+mind watching you. God walks besides you, looks at you, reads your
+thoughts. God is so very much real in this place, and he wouldn't like
+it if anything happened to his sacred place.
+~
+143 d 0
+D0
+You see a great staircase in this direction.
+~
+~
+0 -1 14331
+D1
+You see the meditation chamber.
+~
+~
+0 -1 14329
+D2
+You see the Garden of Eden south of here.
+~
+~
+0 -1 14320
+D3
+You see the gallery in the next room.
+~
+~
+0 -1 14327
+S
+#14329
+Southeast Corner of the Temple of God~
+   You have walked into the meditation chamber. Not one sound can be
+heard in this completely silent room. This is a place where you should
+sit and bring peace to your mind. This is also a good place to finish
+that great invention you thought about your whole life, like the
+perpeteuum mobile. Exits are north and west.
+~
+143 do 0
+D0
+The eastern exit lies in this direction.
+~
+~
+0 -1 14332
+D3
+The southern exit lies in this direction.
+~
+~
+0 -1 14328
+S
+#14330
+Western Entrance to the Temple of God~
+   This temple is truly amazing. Each room is built like a church, with
+the ceiling twenty feet high. There are archways instead of doors, and
+the whole place echoes from voices discussing various matters. You
+think that this would be a nice place to live in.
+~
+143 d 0
+D0
+You see the wishing well north of here.
+~
+~
+0 -1 14333
+D1
+East of here is the grand staircase.
+~
+~
+0 -1 14331
+D2
+In this direction, you see the gallery.
+~
+~
+0 -1 14327
+D3
+West of here lies the Garden of Eden.
+~
+~
+0 -1 14323
+S
+#14331
+The Grand Staircase~
+   You are now standing in the grand staircase, middle floor. These
+stairs are really big, since all humanoid beings (except demons) are
+supposed to be able to walk here, and in large numbers. On the upper
+floor there are God's quarters, and on the lower floor is the library.
+Exits are in all directions.
+~
+143 d 0
+D0
+The northern exit lies in this direction.
+~
+~
+0 -1 14334
+D1
+The eastern exit lies in this direction.
+~
+~
+0 -1 14332
+D2
+The southern exit lies in this direction.
+~
+~
+0 -1 14328
+D3
+The western exit lies in this direction.
+~
+~
+0 -1 14330
+D4
+This is the way to God's quarters.
+~
+~
+0 -1 14373
+D5
+This is the way to the library.
+~
+~
+0 -1 14340
+S
+#14332
+Eastern Entrance to the Temple of God~
+   You are amazed of the skill with which this temple seem to have been
+built. The stones that the building consist of is not held together by
+mortar, nor by magic, but by the fact that the stones fit perfectly
+well together. Every single dent in a stone is compensated by an
+irregularity in the stone lying next to it. Exits are north, east,
+south and west.
+~
+143 d 0
+D0
+In this direction lies the living quarters.
+~
+~
+0 -1 14335
+D1
+You see the Garden of Eden in this direction.
+~
+~
+0 -1 14324
+D2
+The meditation chamber lies south of here.
+~
+~
+0 -1 14329
+D3
+You see the grand staircase.
+~
+~
+0 -1 14331
+S
+#14333
+Northwest Corner of the Temple of God~
+   You see a big well, a wishing well. Here can all true angels and
+saints wish whatever they want, and they will get it. Of course, you
+cannot make such a wish, since you are not a true angel. Too bad.
+~
+143 d 0
+D1
+In this direction lies the northern exit.
+~
+~
+0 -1 14334
+D2
+In this direction lies the western exit.
+~
+~
+0 -1 14330
+S
+#14334
+Northern Entrance to the Temple of God~
+   This place is not a room, but rather a set of pillars supporting a
+roof. This way you can sit back and look out over the beautiful field
+that lies north of the Temple of God. You have a really nice view from
+here, you can see the mountain far to the northwest and Raphael's
+village to the northeast. There are exits in most directions.
+~
+143 0 0
+D0
+You look out over the green field of Heaven.
+~
+~
+0 -1 14325
+D1
+This is the way to the living quarters.
+~
+~
+0 -1 14335
+D2
+South of here lies the grand staircase.
+~
+~
+0 -1 14331
+D3
+West of here lies the wishing well.
+~
+~
+0 -1 14333
+S
+#14335
+Northeast Corner of the Temple of God~
+   This is the living quarters of Heaven. All angels that do not have a
+special duty, like those in the army, have their personal belongings
+here. Of course, the angels don't own much, but most of them have a
+magical holographic image of people they love, people who haven't
+entered Heaven yet - or people who never will.
+~
+143 d 0
+D2
+You see the eastern exit south of here.
+~
+~
+0 -1 14332
+D3
+You see the northern exit west of here.
+~
+~
+0 -1 14334
+S
+#14336
+Southwest Corner of the Library~
+   This library really is huge. The bookshelves are filled with books
+with information about all different topics in the world. This is a
+source of knowledge many scientists would give their soul to get their
+hands on. Exits are north and east.
+~
+143 d 0
+D0
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14339
+D1
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14337
+E
+shelf bookshelf~
+Oh, just another shelf.
+~
+S
+#14337
+Southern Part of the Library~
+   This library really is huge. The bookshelves are filled with books
+with information about all different topics in the world. This is a
+source of knowledge many scientists would give their soul to get their
+hands on. Exits are north, east and west.
+~
+143 d 0
+D0
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14340
+D1
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14338
+D3
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14336
+E
+shelf bookshelf~
+Oh, just another shelf.
+~
+S
+#14338
+SE Corner of the Library~
+   This library really is huge. The bookshelves are filled with books
+with information about all different topics in the world. This is a
+source of knowledge many scientists would give their soul to get their
+hands on. Exits are north and west.
+~
+143 d 0
+D0
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14341
+D3
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14337
+E
+shelf bookshelf~
+Oh, just another shelf.
+~
+S
+#14339
+Western Part of the Library~
+   This library really is huge. The bookshelves are filled with books
+with information about all different topics in the world. This is a
+source of knowledge many scientists would give their soul to get their
+hands on. Exits are north, south and east.
+~
+143 d 0
+D0
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14342
+D1
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14340
+D2
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14336
+E
+shelf bookshelf~
+Oh, just another shelf.
+~
+S
+#14340
+In the Middle of the Library~
+   You are standing in the middle of the library. Huge shelves filled
+with books are everywhere, containing more knowledge than you could
+think of. An old librarian is sitting at a desk here, writing something
+on a piece of paper. You can go wherever you want, but the problem is,
+where should you go? The whole library looks the same.
+~
+143 d 0
+D0
+The place north of here seems to be a bit darker than the rest of the
+library...
+~
+~
+0 -1 14343
+D1
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14341
+D2
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14337
+D3
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14339
+D4
+The staircase leads up to the middle floor.
+~
+~
+0 -1 14331
+E
+shelf bookshelf~
+Oh, just another shelf.
+~
+S
+#14341
+Eastern Part of the Library~
+   This library really is huge. The bookshelves are filled with books
+with information about all different topics in the world. This is a
+source of knowledge many scientists would give their soul to get their
+hands on. Exits are north, west and south.
+~
+143 d 0
+D0
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14344
+D2
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14338
+D3
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14340
+E
+shelf bookshelf~
+Oh, just another shelf.
+~
+S
+#14342
+Northwest Corner of the Library~
+   This library really is huge. The bookshelves are filled with books
+with information about all different topics in the world. This is a
+source of knowledge many scientists would give their soul to get their
+hands on. The only exit is south, since the way east is blocked by a
+bookshelf.
+~
+143 d 0
+D2
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14339
+E
+shelf bookshelf~
+Oh, just another shelf.
+~
+S
+#14343
+Northern Part of the Library~
+   You are standing in the northern part of the library. It's a bit
+darker here, and the floor is covered with dust. It seems to be a while
+since anyone cleaned this place. As you look around, you notice that
+most books here have titles like 'The Art of Black Magic', 'Witchcraft'
+and other forbidden topics. You sense a strange feeling of evil
+radiating from the floor...
+~
+143 d 0
+D2
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14340
+D5
+You wonder where this trapdoor could lead?
+~
+trapdoor door trap~
+3 14302 14345
+E
+book~
+You read the titles:
+'101 Ways to Kill a Rat'
+'How to Create Great Pain Without Killing'
+'The Masochist's Handbook'
+'How to Become a Dentist'
+Truly disgusting literature!
+~
+S
+#14344
+Northeast Corner of the Library~
+   This library really is huge. The bookshelves are filled with books
+with information about all different topics in the world. This is a
+source of knowledge many scientists would give their soul to get their
+hands on. The only exit is south, since the way west is blocked by a
+bookshelf.
+~
+143 d 0
+D2
+More books, books enough to drive you crazy.
+~
+~
+0 -1 14341
+E
+shelf bookshelf~
+Oh, just another shelf.
+~
+S
+#14345
+Chambers of Torment~
+   You have entered a dark room, filled with a great sense of evil. The
+room is decorated with banners and paintings showing chaos, destruction
+and pain. This is humanity's final destiny, as a punishment for all the
+evil the humans have nourished. On the judgement day, the population of
+the world will suffer the ultimate effects of its actions: Death, War,
+Pestilence and Famine will be unleashed upon the face of the earth.
+Until then, the Four Horsemen of the Apocalypse will be locked away in
+these four rooms, Death to the north, War to the south, Pestilence to
+the west and Famine to the east, while they are growing stronger with
+every evil action performed by man. Until then, adventurer, until then.
+~
+143 adu 0
+D0
+The Chamber of Death lies in this direction.
+~
+door death black~
+295 14327 14346
+D1
+The Chamber of Famine lies in this direction.
+~
+door famine pale grey~
+295 14330 14349
+D2
+The Chamber of War lies in this direction.
+~
+door war blood red~
+295 14328 14348
+D3
+The Chamber of Pestilence lies in this direction.
+~
+door pestilience green~
+295 14329 14347
+D4
+Your way back.
+~
+trapdoor door trap~
+3 14302 14343
+E
+door death black famine pale grey war blood red pestilience green~
+All the four doors holding the Four Horsemen of the Apocalypse have a
+text engraved on them:
+#RAdventurer
+This is the realm of the Apocalypse. Those who enter here, shalt not
+return. Once within the reach of a horseman, thou canst not flee, nor
+use magic words to reach safety. Thou canst not communicate with
+others, so that they might aid thee in thy hopeless fight. So be
+warned, adventurer, and turn back, before thy doom captures thee.
+~
+S
+#14346
+The Chamber of Death~
+   You are standing in the unholy domain of Death, a dark chamber
+filled with a great sense of evil. In the faint light of the torches
+hanging on the walls you see paintings showing the strongest of the
+Four Horsemen of the Apocalypse ride through a richly populated world,
+harvesting the souls of thousands with his scythe in the same way a
+farmer harvests his wheat. You should get out of here while you still
+can, because Death is not the person to mess with.
+~
+143 dou 0
+D2
+This is the way back to the middle room.
+~
+door death black~
+295 14327 14345
+S
+#14347
+The Chamber of Pestilence~
+   You have entered the chamber of Pestilence, the most efficient of
+the Horsemen. The air reeks of disease and poison, and the floor is
+covered with the horribly deformed corpses of his victims. You notice
+that some of the people lying on the floor are still alive when one of
+them coughs up his entrails while tearing his eyes out. These are the
+new diseases that will turn mankind into a pile of rotten flesh on the
+judgement day.
+~
+143 dou 0
+D1
+This is the way back to the middle room.
+~
+door green pestilience~
+295 14329 14345
+S
+#14348
+The Chamber of War~
+   This is the home of War, the most brutal of the Horsemen. The walls
+are covered with blood and horrid weapons, and people are chained to
+these walls with shackles covered with spikes. Most of these people are
+crippled in one way or another, and all have been terribly tortured.
+The torturing tools take up most of the space in this room, and you
+wonder what sick mind could invent such horrible machines. You don't
+think you can stay in this room much longer before you throw up.
+~
+143 dou 0
+D0
+This is the way back to the middle room.
+~
+door blood red war~
+295 14328 14345
+S
+#14349
+The Chamber of Famine~
+   This is Famine's domain, the weakest of the Horsemen. People are
+chained to the walls here, untouched by violence and disease, but
+starved almost to death. Great amounts of bread and water are stored in
+this room, just out of reach for Famine's prisoners. As you reach for
+some of the food yourself, your hand passes right through it. It's all
+just an illusion!
+~
+143 dou 0
+D3
+This is the way back to the middle room.
+~
+door grey famine~
+295 14330 14345
+S
+#14350
+Southwest Part of Field~
+   You are standing northwest from the Temple of God, at a small brook
+that runs from the mountain northwards to the east. South of here is
+the great forest, with its giant trees stretching towards the skies.
+The sun is, as always, shining, so maybe you should go find some shade
+in the forest or in the temple?
+~
+143 0 2
+D0
+You see the great mountain lying in this direction.
+~
+~
+0 -1 14351
+D1
+You see the field stretching out in this direction.
+~
+~
+0 -1 14325
+D2
+In this direction lies the great forest.
+~
+~
+0 -1 14323
+S
+#14351
+Beginning of a Small Path~
+   You are standing at the beginning of a small path that leads north,
+toward the mountain. The small brook runs from the north to the south,
+just next to the path. If you feel like it, you could always follow the
+path to get to the source of the brook, you have heard that the view
+from the top of the mountain is very beautiful.
+~
+143 0 4
+D0
+You see the small path leading towards the big mountain up north.
+~
+~
+0 -1 14353
+D1
+You see the field stretching out below the sun.
+~
+~
+0 -1 14352
+D2
+You see the lower parts of the field south of here.
+~
+~
+0 -1 14350
+S
+#14352
+The Middle of the Great Field~
+   This is the center of the great field of Heaven, this big plain of
+grass and flowers. This place is utterly relaxing, with the warmth of
+the sun and the slight sound of the wind sweeping through the grass
+making you feel like just lying down and fall asleep. You wish nothing
+but not to be disturbed in this magic place.
+~
+143 0 2
+D0
+The field continiues this way.
+~
+~
+0 -1 14354
+D1
+You see the field stretching out below the sun.
+~
+~
+0 -1 14371
+D2
+You see the field with it's green grass, and a bit farther south lies the
+Temple of God.
+~
+~
+0 -1 14325
+D3
+The beginning to the path up the mountain is in this direction.
+~
+~
+0 -1 14351
+S
+#14353
+At the Waterfall~
+   You have followed the path to a waterfall, big enough to walk
+through if there was anything behind it, but not big enough to disturb
+the peace. The water flows off in different directions, but the terrain
+is too rough to allow anyone following most of the brooks. The path you
+have been walking on turns to the left here, since the mountain is too
+steep to climb at this location.
+~
+143 0 4
+D0
+You see the waterfall.
+~
+waterfall water fall~
+7 14308 14387
+D2
+You see the path you followed to get up here.
+~
+~
+0 -1 14351
+D3
+You see the path leading up the mountain.
+~
+~
+0 -1 14385
+S
+#14354
+Northern Part of the Field~
+   You are standing at the border between the great field and a small
+village which lies just north of here. To the west you see the hills,
+which you cannot reach from this direction since the terrain is too
+steep. As you look around, you see hurt and wounded angels all around
+you, some in armor, and all walking northwards, while fully healthy
+angels are walking south. Looks like the village is a healers' village.
+~
+143 0 2
+D0
+You see some small houses.
+~
+~
+0 -1 14355
+D2
+You see the great field stretching out below the sun.
+~
+~
+0 -1 14352
+S
+#14355
+Entrance to the Village of Healing~
+   This place is a small village, populated by priests and healers.
+This is the place the soldiers of God's army go to when they have got
+injured in battle. After all, the fight against evil never ends.
+Unfortunately, only angels are given free healing - and since you are
+really no angel, you'll have to find another way to mend your wounds.
+~
+143 c 1
+D1
+You see the town square.
+~
+~
+0 -1 14356
+D2
+You see the great field stretching out below the sun.
+~
+~
+0 -1 14354
+S
+#14356
+The Town Square~
+   You are now standing in the middle of the small village. You think
+of this as the town square, although it hardly lives up to that name.
+'Place with no houses' would be better, but then again, there is no
+place around here that's really crowded with either houses or people.
+To the north and south lie healers' huts, and some distance to the east
+lies Raphael's house, the third arch angel.
+~
+143 0 1
+D0
+A small hut.
+~
+door~
+3 -1 14359
+D1
+More open space.
+~
+~
+0 -1 14358
+D2
+A small hut.
+~
+door~
+3 -1 14357
+D3
+The town entrance.
+~
+~
+0 -1 14355
+S
+#14357
+A Small hut~
+   This is a healers' hut, which you if nothing else can tell from the
+furniture. A soft smell of various healing powders and flowers reaches
+your nose, and bandages and other tools of healing are lying all over
+the place. Except the slight mess, this place is really clean - not a
+single particle of dust anywhere. You guess the sick doesn't have to
+get any sicker in the healers' house.
+~
+143 0 0
+D0
+The way out.
+~
+door~
+3 -1 14356
+S
+#14358
+Eastern Part of the Town Square~
+   You see more huts all around you, of which most look just the same.
+Most, except a special house to the east. You realize that this must be
+the home of Raphael, the third arch angel. He is probably busy teaching
+his priests the art of healing, but why not paying him a visit anyway?
+He probably wouldn't mind.
+~
+143 0 1
+D0
+A small hut.
+~
+door~
+3 -1 14389
+D1
+Raphael's house.
+~
+door~
+3 -1 14391
+D2
+A small hut.
+~
+door~
+3 -1 14390
+D3
+The town square.
+~
+~
+0 -1 14356
+S
+#14359
+A Small Hut~
+   This is a healers' hut, which you if nothing else can tell from the
+furniture. A soft smell of various healing powders and flowers reaches
+your nose, and bandages and other tools of healing are lying all over
+the place. Except the slight mess, this place is really clean - not a
+single particle of dust anywhere. You guess the sick doesn't have to
+get any sicker in the healers' house.
+~
+143 0 0
+D2
+The way out.
+~
+door~
+3 -1 14356
+S
+#14360
+Entrance to Military Camp~
+   You are standing outside the military camp, where Michael trains
+God's army for the final assault on Hell. You hear sounds of training
+coming from the camp - swords slashing at shields, hand to hand battle,
+archers firing at their targets and much else. Maybe you should see how
+the soldiers are doing, they wouldn't mind.
+~
+143 c 2
+D1
+You see the edge of the great forest lying in this direction.
+~
+~
+0 -1 14323
+D3
+In this direction lies the training grounds.
+~
+~
+0 -1 14361
+S
+#14361
+Training Grounds~
+   You see angel soldiers fighting everywhere, mostly with melee
+weapons. Some are beginners, some are veterans, but all still need
+training to beat Hell's forces. To the north and south lie some tents,
+and to the west is more training going on.
+~
+143 0 2
+D0
+A small tent.
+~
+tent~
+3 -1 14392
+D1
+You see the Garden of Eden in this direction.
+~
+~
+0 -1 14360
+D2
+A small tent.
+~
+tent~
+3 -1 14366
+D3
+The training grounds.
+~
+~
+0 -1 14362
+S
+#14362
+Training Grounds~
+   You see angel soldiers fighting everywhere, mostly with melee
+weapons. Some are beginners, some are veterans, but all still need
+training to beat Hell's forces. To the west and south lie some tents,
+and to the north and east is more training going on.
+~
+143 0 2
+D0
+The training grounds.
+~
+~
+0 -1 14363
+D1
+The training grounds.
+~
+~
+0 -1 14361
+D2
+A small tent.
+~
+tent~
+3 -1 14367
+D3
+A small tent.
+~
+tent~
+3 -1 14368
+S
+#14363
+Training Grounds~
+   You see angel soldiers fighting everywhere, mostly with melee
+weapons. Some are beginners, some are veterans, but all still need
+training to beat Hell's forces. To the east and west lies some tents,
+to the south is more training going on, and to the north lie Michael's
+tent, the second of the arch angels.
+~
+143 0 2
+D0
+Michael's tent lies in this direction.
+~
+tent michael~
+3 -1 14364
+D1
+A small tent.
+~
+tent~
+3 -1 14370
+D2
+The training grounds.
+~
+~
+0 -1 14362
+D3
+A small tent.
+~
+tent~
+3 -1 14369
+S
+#14364
+Tactics Room~
+   This tent is really quite big, although it is made out of only two
+rooms. This is where Michael is trying to figure out a good strategy to
+wipe out Hell with minimum losses. In the middle of this room lies a
+strange map on a table - you might want to have a look at it.
+~
+143 d 0
+D0
+Michael's private quarters.
+~
+~
+0 -1 14365
+D2
+The training grounds.
+~
+tent michael~
+3 -1 14363
+E
+map~
+When you look at the map, you realize that it is made in five
+dimensions: length, width, depth, time and a space dimension you don't
+know any name of, enabling you to look at the map from all directions
+at the same time. The whole thing makes you seasick, and you look away.
+~
+S
+#14365
+Michael's Quarters~
+   This is where Michael, the second arch angel and leader of God's
+army, spends most of his spare time. Here he can meditate, rest, sleep
+or whatever he wants to do undisturbed. Actually, you are trespassing,
+and Michael is probably not too happy about that. Maybe you should
+leave, after all, Michael is quite dangerous when he gets mad.
+~
+143 d 0
+D2
+To the tactics room.
+~
+~
+0 -1 14364
+S
+#14366
+Soldier's Tent~
+   This is a rather small tent, designed to host a couple of soldiers
+and their personal belongings. This is where the soldiers can get some
+rest when they aren't training or on other duties. The tent is, for
+being a military tent, quite clean. It even smells fresh. Probably has
+something to do with its heavenly origins.
+~
+143 0 0
+D0
+The training grounds.
+~
+tent~
+3 -1 14361
+S
+#14367
+Soldier's Tent~
+   This is a rather small tent, designed to host a couple of soldiers
+and their personal belongings. This is where the soldiers can get some
+rest when they aren't training or on other duties. The tent is, for
+being a military tent, quite clean. It even smells fresh. Probably has
+something to do with its heavenly origins.
+~
+143 0 0
+D0
+The training grounds.
+~
+tent~
+3 -1 14362
+S
+#14368
+Soldier's Tent~
+   This is a rather small tent, designed to host a couple of soldiers
+and their personal belongings. This is where the soldiers can get some
+rest when they aren't training or on other duties. The tent is, for
+being a military tent, quite clean. It even smells fresh. Probably has
+something to do with its heavenly origins.
+~
+143 0 0
+D1
+The training grounds.
+~
+tent~
+3 -1 14362
+S
+#14369
+Soldier's Tent~
+   This is a rather small tent, designed to host a couple of soldiers
+and their personal belongings. This is where the soldiers can get some
+rest when they aren't training or on other duties. The tent is, for
+being a military tent, quite clean. It even smells fresh. Probably has
+something to do with its heavenly origins.
+~
+143 0 0
+D1
+The training grounds.
+~
+tent~
+3 -1 14363
+S
+#14370
+Soldier's Tent~
+   This is a rather small tent, designed to host a couple of soldiers
+and their personal belongings. This is where the soldiers can get some
+rest when they aren't training or on other duties. The tent is, for
+being a military tent, quite clean. It even smells fresh. Probably has
+something to do with its heavenly origins.
+~
+143 0 0
+D3
+The training grounds.
+~
+tent~
+3 -1 14363
+S
+#14371
+Eastern Part of the Great Field~
+   This is yet another part of the great, relaxing field of the
+Heavens. The sunshine, the animals, the grass - it all feels familiar
+by now. You realize that you are getting used to this place - maybe you
+should consider staying?
+~
+143 0 2
+D2
+The southeast part of the field.
+~
+~
+0 -1 14326
+D3
+The middle of the field.
+~
+~
+0 -1 14352
+S
+#14372
+Top of the Mountain~
+   This is where the small brook has its source - a rather large pond.
+As you look around, you notice that the view from up here is
+astonishing, you can look out over almost all of Heaven. Eagles and
+other big birds fly around up here, and you wish you could join them.
+The only exit is to the west.
+~
+143 0 5
+D3
+This is the way back down the mountain.
+~
+~
+0 -1 14386
+S
+#14373
+Top of Grand Staircase~
+   You are standing on the top floor in the Temple of God. The only
+exit except down is north, where you will find Gabriel, leader of the
+arch angels and God's messenger, and north of him you will find the
+throne room of God himself. Why don't you go on?
+~
+143 d 0
+D0
+This is the way to God's throne room.
+~
+~
+0 -1 14374
+D5
+This is the way down to the middle floor.
+~
+~
+0 -1 14331
+S
+#14374
+Gabriel's Office~
+   This is where Gabriel, the leader of the arch angels, does his work.
+As the messenger of God he has certain abilities, and so this room
+doesn't contain too much, except a desk and a bed. To the north is the
+door leading to the throne room, where God will welcome any visitors.
+You are welcome to enter this room whenever you like.
+~
+143 d 0
+D0
+God's throne room.
+~
+door~
+3 -1 14375
+D2
+The grand staircase.
+~
+~
+0 -1 14373
+S
+#14375
+God's Throne Room~
+   You are standing in a great room, almost completely empty except the
+great throne in the middle where God is sitting, looking down on you in
+all his divinity. The walls are covered with paintings and so is the
+ceiling. The sun shining through the windows gives this room an almost
+magical feeling - a feeling that of course is in no way incorrect.
+Powerful magic is always in motion here, for the Lord is always
+creating new material to beautify the universe.
+~
+143 0 0
+D2
+The way back.
+~
+door~
+3 -1 14374
+S
+#14376
+Entrance to Science Park~
+   This is the way to where all the really bright people gather
+scientific information. The angels needed someplace else than the
+library to experiment in - after all, books are flammable. The science
+park is a small village of well-built houses, designed to withstand the
+devastating powers of the chemical or physical discoveries of Heaven's
+scientists.
+~
+143 c 2
+D1
+The way to the science park
+~
+~
+0 -1 14378
+D3
+The way back to the Garden of Eden
+~
+~
+0 -1 14326
+S
+#14377
+Chemical Laboratory~
+   This room is filled with vials and bottles containing various
+chemicals, of which most are explosive. You notice that the walls and
+roof have been reinforced, and you also notice a distinct smell of
+gunpowder in the air. Better leave quick, before someone drops
+something and the whole place blows up.
+~
+143 d 0
+D0
+The way out of the laboratory
+~
+door~
+3 -1 14378
+S
+#14378
+Street Through the Science Park~
+   You stand on a perfectly clean street that runs through a village of
+sturdy, white houses. As you look around you see a lot of angels
+involved in discussions about things your limited understanding cannot
+comprehend. South of here there is a chemical laboratory, and east lies
+the physicist's quarters. The street continues north.
+~
+143 0 1
+D0
+The street continues this way.
+~
+~
+0 -1 14379
+D1
+A physicist's laboratory
+~
+door~
+3 -1 14384
+D2
+A chemical laboratory
+~
+door~
+1 -1 14377
+D3
+The way back to the Garden of Eden
+~
+~
+0 -1 14376
+S
+#14379
+Street Through the Science Park~
+   This part of the village is a testing site for inventions made to be
+used outdoors. As you look around, you see an angel walking with a
+funny machine that cuts the grass while pushed forward, a big metal
+barrel on wheels with steam coming out of it that incredibly enough
+moves forward without help and many other astonishing things that won't
+be available to Elite in many hundred years yet.
+~
+143 0 1
+D0
+The street continues this way.
+~
+~
+0 -1 14381
+D2
+The street continues this way.
+~
+~
+0 -1 14378
+S
+#14380
+Magic Laboratory~
+   This is where the angels research new spells. Strange symbols and
+pictures are written everywhere, and most of the angels in here are
+muttering mystic words of power, gathering energy for spells that you
+have never heard of. The air is charged with arcane powers, and you
+have a hunch that the whole place is going to blow - soon.
+~
+143 d 0
+D1
+The way out
+~
+door~
+3 -1 14381
+S
+#14381
+Street Through the Science Park~
+   This is the end of the street. To the west lies the magic
+laboratory, and you can feel the powerful magic radiating from the
+building. To the east lies Uriel's observatory, pointing at the stars.
+You have never seen such an instrument before, and you are filled with
+curiosity. Why don't you go and have a look at it?
+~
+143 0 1
+D1
+In this direction lies Uriel's observatory.
+~
+door~
+3 -1 14382
+D2
+The street continues this way.
+~
+~
+0 -1 14379
+D3
+The magic laboratory is in this direction
+~
+door~
+3 -1 14380
+S
+#14382
+Astrophysical Laboratory~
+   This laboratory is filled with maps over the stars in the sky,
+theories about the properties of the stars and planets and other
+information that can be of use when the angels try to figure out what
+secrets the universe holds. This particular section of the science park
+is overseen by Uriel, the fourth arch angel. His observatory lies east
+of here.
+~
+143 d 0
+D1
+Uriel's observatory lies in this direction.
+~
+~
+0 -1 14383
+D3
+The way out.
+~
+door~
+3 -1 14381
+S
+#14383
+Uriel's Observatory~
+   This is the great obervatory Uriel uses when he tries to get visual
+information about the stars. The giant telescope can focus on the most
+distant stars, and it can reveal many secrets about the nature of the
+universe. Except the telescope there is not much to see in this room -
+the real laboratory lies west of here, which is the only exit.
+~
+143 d 0
+D3
+The way back to the laboratory.
+~
+~
+0 -1 14382
+E
+telescope~
+The telescope is focused on a distant star, thousands of parsecs from
+here, in another galaxy. When you take a closer look, you see that one
+of the planets orbiting around the star has some very small buildings
+on it...
+~
+S
+#14384
+Physics Laboratory~
+   You look around in this laboratory, and you see lots of interesting
+machines. A perpeteuum mobile is in motion on a table, rays are
+refracted to fantastic pictures through strange lenses and blocks of
+solid lead hovers above the ground in a field of anti-gravitation
+generated by a surprisingly small and apparently simple machine.
+Everywhere there are fantastic inventions, none of which need magic to
+work. You now realize that Elite still lives in the stone age compared
+to Heaven.
+~
+143 d 0
+D3
+The way out.
+~
+door~
+3 -1 14378
+S
+#14385
+Following the Small Path~
+   The mountain is getting harder to climb and this is getting
+tiresome. You still have some distance to go before reaching the top of
+the mountain, and you wonder what you are doing here anyway. Of course,
+the nature surrounding you is as always beautiful, and maybe you should
+take a rest and just relax while engulfed in the peace that the
+mountain air offers your tired body.
+~
+143 0 5
+D1
+The path leads back down the mountain.
+~
+~
+0 -1 14353
+D4
+This is the way to the top of the mountain.
+~
+~
+0 -1 14386
+S
+#14386
+Almost at the Top of the Mountain~
+   You are near exhaustion and your body and mind are screaming for
+rest as you realize that you have only a few steps more to go to reach
+the top of the mountain you are climbing. Realizing this, you gather
+the last ounce of energy left in your body to drag yourself to the top.
+~
+143 0 5
+D1
+Finally! The top is within reach!
+~
+~
+0 -1 14372
+D5
+The way back down the mountain.
+~
+~
+0 -1 14385
+S
+#14387
+Behind the Waterfall~
+   You are standing in a small cave, with the waterfall just behind
+you. You have no idea what this place is, maybe you should explore it
+further. The cave continues north into the dark, where you can see
+absolutely nothing. You sense no evil, and you guess that since this is
+Heaven it should be quite safe to go exploring.
+~
+143 d 4
+D0
+It's really dark in this direction...
+~
+~
+0 -1 14388
+D2
+The way out of this cave leads you through the waterfall. You might get
+a bit wet, but if you can't take that, you are not much of an adventurer.
+~
+waterfall fall water~
+7 14308 14353
+S
+#14388
+Deep Inside a Small Cave~
+   There is a small pedestal here, with a text engraved on it. This is
+where you can find the holy grail, filled with blessed water. You see
+nothing but the pedestal in this room, and you guess that it was made
+for the sole purpose of holding the holy grail.
+~
+143 d 4
+D2
+You see the waterfall in this direction.
+~
+~
+0 -1 14387
+E
+pedestal~
+You read the text:
+Adventurer, whomever thou art, thou havest found the sacred cavern in
+which the holy grail is kept. When thou drinkest the water of this
+grail, thy body will renew and thy soul will be blessed, so use this
+blessed holiness with care and wisdom.
+~
+S
+#14389
+A Small Hut~
+   This is a healers' hut, which you if nothing else can tell from the
+furniture. A soft smell of various healing powders and flowers reaches
+your nose, and bandages and other tools of healing are lying all over
+the place. Except the slight mess, this place is really clean - not a
+single particle of dust anywhere. You guess the sick doesn't have to
+get any sicker in the healers' house.
+~
+143 0 0
+D2
+The way out.
+~
+door~
+3 -1 14358
+S
+#14390
+A Small Hut~
+   This is a healers' hut, which you if nothing else can tell from the
+furniture. A soft smell of various healing powders and flowers reaches
+your nose, and bandages and other tools of healing are lying all over
+the place. Except the slight mess, this place is really clean - not a
+single particle of dust anywhere. You guess the sick doesn't have to
+get any sicker in the healers' house.
+~
+143 0 0
+D0
+The way out.
+~
+door~
+3 -1 14358
+S
+#14391
+Raphael's House~
+   This is the place where Raphael teaches his priests and healers how
+to mend everything from mere flesh wounds to arms being blasted of by
+some fireball. Nothing is impossible if you know how to do it, and
+Raphael sure knows. His house is filled with tools of healing, and he
+has written several books about it. Too bad he only heals angels.
+~
+143 d 0
+D3
+The way out.
+~
+door~
+3 -1 14358
+S
+#14392
+Soldier's Tent~
+   This is a rather small tent, designed to host a couple of soldiers
+and their personal belongings. This is where the soldiers can get some
+rest when they aren't training or on other duties. The tent is, for
+being a military tent, quite clean. It even smells fresh. Probably has
+something to do with its heavenly origins.
+~
+143 0 0
+D2
+The training grounds.
+~
+tent~
+3 -1 14361
+S
+#99999
+$~

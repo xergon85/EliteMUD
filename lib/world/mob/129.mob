@@ -1,0 +1,521 @@
+#12900
+merkin gatherer~
+a merkin gatherer~
+A leathery-skinned merkin hunts around for something good to eat.
+~
+The merkin is wearing only a tattered leathery loincloth, and a
+yellow chord around his upper arm. His greenish slimy skin is 
+splattered with mud and his ears twitch eagerly as he concentrates
+on searching for worms and berries.
+~
+1 4 g sC 400 S
+31 2 -11 5d10+600
+400 500 100 3d6+17 -1
+-1
+-1
+10 180000 8 8 1
+#12901
+merkin gatherer maid maiden~
+a merkin gatherer~
+The lovely merkin maid scans the ground for snails and nuts.
+~
+She may be lovely by merkin standards, but she is pretty ugly 
+by any normal standards. She has dark greenish skin, and a wide
+flat nose. In an attempt to attract a mate, she has pierced
+her pointed leathery ears with half a dozen colourful feathers, 
+and she wears a copper band about her wrist.
+~
+1 4 g sC 300 S
+31 2 -11 5d10+600
+400 500 100 3d6+17 -1
+-1
+-1
+10 180000 8 8 2
+#12902
+merkin~
+a merkin~
+A leathery faced merkin stares blankly at you.
+~
+He has slitted yellow eyes (like a cat perhaps), that show 
+barely a glimmer of intelligence. It has been said that merkins 
+are really not much more advanced than primates, although they 
+have mastered the use of tools, and their building work is 
+fairly advanced.
+~
+1 4 g C 300 S
+31 2 -11 5d10+600
+400 500 100 3d6+17 -1
+-1
+-1
+10 180000 8 8 1
+#12903
+merkin~
+a merkin~
+A yellow-eyed merkin squints suspiciously at you.
+~
+He blinks uncertainly as you stare at him, the white inner-lids
+flashing across from either edge of his eyes as the green 
+leathery main eyelids close. His wide lip-less mouth hangs
+slightly open in slack-jawed wonder at your strange appearance.
+~
+1 4 g C 400 S
+31 2 -11 5d10+600
+400 500 100 3d6+17 -1
+-1
+-1
+10 180000 8 8 1
+#12904
+merkin maid female~
+a merkin~
+A female merkin stands shuffles warily through the village
+~
+A blanket with a hole cut in the centre serves to protect her from
+the elements, and she holds it around herself with her long three-
+fingered hands. The fingers are especially knobbly, with what look
+like little suckers on the tips. How strange!
+~
+1 4 g C 300 S
+31 2 -11 5d10+600
+400 500 100 3d6+17 -1
+-1
+-1
+10 180000 8 8 2
+#12905
+nurse merkin~
+a merkin nurse~
+A protective merkin stands between you and her spawnlings.
+~
+Most merkins have no real maternal instincts, but some may have 
+the irresistible urge to look after new spawnlings until they 
+mature. Any predator trying to lay their hands on the village
+sprogs and spawnlings will have to get by this fierce creature 
+first!
+~
+1 4 bgm dC 600 S
+32 0 -12 5d10+620
+400 500 90 3d6+18 
+17 0 10 1d0+95 -1
+-1
+-1
+10 200000 8 8 2
+#12906
+sprog merkin~
+a merkin sprog~
+A tiny merkin slops about in a pen of stagnant mud.
+~
+This is a merkin sprog - an adolescent of the species you 
+suppose. Its tail has all but disappeared, and its bulging eyes
+and long leathery ears are almost fully formed. It is still 
+too soon to determine gender, but in a few more weeks, this
+will be a fully grown merkin.
+~
+1 4 bg brC 800 S
+30 3 -10 5d10+500
+408 500 100 3d6+15 -1
+-1
+-1
+0 152000 8 8 0
+#12907
+spawnling merkin~
+a spawnling~
+A wriggling spawnling slithers around the hatching pond.
+~
+It looks a little bit like an over-large tadpole, but not very
+much. It is about eight inches long already, with deep dark 
+eyes, four paddle-like limbs, and a long flat tail, which it 
+uses to flounder around in the mucky water. 
+~
+1 4 bg rC 800 S
+30 4 -9 5d10+460
+409 500 100 3d6+13 -1
+-1
+-1
+0 120000 8 8 0
+#12908
+merkin lover~
+a merkin lover~
+The young merkin is in the mood for love.
+~
+Merkins can be hopeless romantics, and this fellow is the 
+perfect example. A row of bright feathers are looped through
+the holes along the lower edges of his ears, and he is even 
+wearing some bog-goblin teeth on a string around his neck.
+~
+1 4 g C 300 S
+31 2 -11 5d10+600
+400 500 100 3d6+17 -1
+-1
+-1
+30 180000 8 8 1
+#12909
+merkin lover maiden maid~
+a merkin lover~
+A lovely merkin-maiden waits to find a mate.
+~
+There comes a time in every merkin maidens life, when the urge
+to reproduce becomes too strong to resist. She plasters herself
+in the freshest marsh-mud, ties the most colourful feathers
+around her neck, and lurks along lovers lane for the most
+virile merkin mate.
+~
+1 4 g C 400 S
+31 2 -11 5d10+600
+400 500 100 3d6+17 -1
+-1
+-1
+30 180000 8 8 2
+#12910
+elder merkin~
+an elder merkin~
+An old merkin licks his lips and stares at you.
+~
+Having lived a good long time, this elder merkin has seen plenty
+of strange things, and earned a number of scars. His leathery
+yellow-green skin hangs in wrinkly folds around his belly and
+chinless face. His ears are ragged, but still sporting dozens
+of colourful metal loops and feathers, and his eyes are rheumy
+and pale.
+~
+1 4 bg dC -200 S
+33 0 -12 5d10+700
+401 500 100 3d6+19 
+1 0 10 2d0+100 -1
+-1
+-1
+170 200000 8 8 1
+#12911
+merkin chieftain~
+the merkin chieftain~
+A well-built merkin looks up as you wander into his home!
+~
+There is a stately calm about the way in which this merkin gazes
+at you, as if he had actually invited you into his home! This 
+merkin wears a brightly coloured loincloth, and a number of 
+animal teeth on a string around his neck. There are even some
+gold rings in his ears, and on his fingers.
+~
+1 4 bg drhC 0 S
+34 -2 -14 5d10+700
+410 500 100 3d4+20 -1
+-1
+-1
+1272 240000 8 8 1
+#12912
+merkin shaman~
+the merkin shaman~
+A filthy merkin prances around cackling insanely.
+~
+The shaman is completely naked, except for being daubed in dark
+and light patches of mud and sprinkled with dry moss. (Hey, he's
+a shaman, he's allowed to be weird.) He doesn't wear any feathers
+in his ears, but there are several acorns and oak leaves instead.
+~
+1 4 bg dhC 900 S
+33 1 -12 5d10+660
+407 500 60 3d5+13
+96 0 15 1d0+95
+94 0 20 1d0+95
+71 0 5 2d0+100 -1
+-1
+-1
+0 232000 8 8 1
+#12913
+young merkin~
+a young merkin~
+A young merkin stares at you in wide-eyed amazement.
+~
+The young merkin shifts uncertainly from one foot to the other
+as you stare at her - ready to waddle off on her stumpy little
+legs at the first sign of trouble.
+~
+1 4 g C 300 S
+31 2 -11 5d10+600
+400 500 100 3d6+17 -1
+-1
+-1
+2 180000 8 8 2
+#12914
+fierce merkin guard~
+a merkin guard~
+A well muscled merkin scowls at you and takes a firmer grip on his weapon.
+~
+Without any protective armour, the unwary adventurer might think that
+this pot-bellied, web-footed amphibian might be an easy target. But his
+arms are very powerful and sinewy - so you better watch out!
+~
+1 4 bgm C 0 S
+33 -1 -12 5d10+720
+406 500 100 3d6+19 -1
+-1
+-1
+50 200000 8 8 1
+#12915
+merkin hunter~
+a merkin~
+A merkin shuffles around, hunting something.
+~
+The merkin folk live on the edge of subsistence, so a great portion
+of their time is spent hunting for food (worms, berries, nuts and
+the like) to put into the village food supply.
+~
+1 4 g C 300 S
+31 2 -11 5d10+600
+400 500 100 3d6+17 -1
+-1
+-1
+10 180000 8 8 1
+#12916
+merkin hunter~
+a merkin~
+A merkin waddles around, minding her own business.
+~
+The merkin folk live on the edge of subsistence, so a great portion
+of their time is spent hunting for food (worms, berries, nuts and
+the like) to put into the village food supply.
+~
+1 4 g C 300 S
+31 2 -11 5d10+600
+400 500 100 3d6+17 -1
+-1
+-1
+10 180000 8 8 2
+#12917
+boggoblin bog goblin~
+a fierce bog-goblin~
+A filthy bog-goblin lurks about the marsh.
+~
+The bog-goblin is a peculiar breed of goblin, adapted for living
+in the damp watery environs of the marsh. They have dark red-rimmed
+eyes and dark green leathery skin, covered in coarse dark hair. Their
+yellowy teeth are pointed like fangs - ideal for rending flesh.
+~
+1 4 fg sC -600 S
+33 0 -12 5d10+700
+407 500 100 3d6+17 -1
+-1
+-1
+0 200000 8 8 1
+#12918
+boggoblin bog goblin~
+a wicked bog-goblin~
+A sly looking bog-goblin lunges at you from the mist.
+~
+The bog-goblin is a peculiar breed of goblin, adapted for living
+in the damp watery environs of the marsh. They have dark red-rimmed
+eyes and dark green leathery skin, covered in coarse dark hair. Their
+yellowy teeth are pointed like fangs - ideal for rending flesh.
+~
+1 4 bfg tC -600 S
+33 0 -12 5d10+720
+407 500 100 3d5+17 -1
+-1
+-1
+0 200000 8 8 1
+#12919
+boggoblin bog goblin king~
+the bog-goblin king~
+A mighty bog-goblin chews idly on a still-twitching creature.
+~
+The bog-goblin king is the most vile and repulsive of all the 
+bog-goblins. His throne was won by slaughtering anyone who did
+not grovel piteously before him, and now he spends his time
+eating and killing anything that annoys him.
+~
+1 4 blg dhC -900 S
+34 -2 -14 5d10+700
+407 500 100 3d5+20 -1
+-1
+-1
+1200 240000 8 8 1
+#12920
+judderman man~
+the judderman~
+A spindle-limbed man makes signs of warding with his long fingers.
+~
+Ancient legends speak of the Judderman, who walks the bog on winter
+nights, when there is a full moon. He is impossibly thin, with 
+limbs and fingers like oak twigs, and a long pointed nose. His 
+fingers dance as he weaves his magic summoning spells.
+~
+1 4 bg drhC 0 S
+35 -3 -16 5d10+700
+402 500 60 3d6+21 
+73 0 10 1d0+100 
+101 0 10 1d0+95
+79 0 15 1d0+95 
+34 0 5 2d0+100 -1
+-1
+-1
+4305 260000 8 8 1
+#12921
+truffla tree~
+the truffla tree~
+#GA tall lonely tree, with a fluffy blue foliage grows here.#Y
+~
+This is the last of the truffla trees, which once made a huge
+forest in this area. Their foliage was far too useful though, 
+and the poor trees were harvested to the brink of extinction.
+~
+1 4 bg hC 1000 S
+34 -2 -15 5d10+680
+401 500 70 2d6+19 
+17 0 10 1d0+100
+6 0 20 1d0+95 -1
+-1
+-1
+0 232000 8 8 1
+#12922
+leech~
+a leech~
+A long leech lingers here, looking for lunch.
+~
+It is not an especially big leech, but still a good foot long, 
+with hungry teeth at each end. It has no eyes, but by the way
+it is flailing around, it must know you are there.
+~
+1 4 g rC 0 S
+31 2 -11 5d10+600
+409 500 100 3d6+17 -1
+-1
+-1
+0 180000 8 8 1
+#12923
+greater stench beast~
+the greater stench beast~
+A formless cloud of stench wraps itself around you.
+~
+The stench beast has no corporeal form, but exists only as a dense
+foul-smelling cloud. The wounds it causes are very real however, 
+and nearby animal and bog-goblin corpses have had their skin
+flayed.
+~
+1 4 bfg rBC -900 S
+33 0 -12 5d10+700
+408 500 70 3d6+19
+100 0 15 1d0+95
+33 0 15 1d0+100 -1
+-1
+-1
+602 200000 8 8 1
+#12924
+witch~
+a witch~
+A wily witch whistles while walking within the weird woods.
+~
+Well, witches must find their ingredients somewhere, and where better
+for finding poisonous berries and strange little creatures than in
+a swamp. It is obvious when you think about it.
+~
+1 4 bg dhC 400 S
+33 -1 -13 5d10+620
+400 500 80 3d6+14
+95 0 10 1d0+95
+5 0 10 1d0+95 -1
+-1
+-1
+904 240000 8 8 2
+#12925
+pixie~
+a pixie~
+A little pixie flits about on gossamer wings.
+~
+He is only very tiny, as high as your boots and carrying the smallest
+dagger you have ever seen tucked into his belt. His clothes are brightly
+coloured, and his little wings make a high-pitched humming as he floats
+about.
+~
+1 4 bg hrBC 1000 S
+30 3 -10 5d10+450
+409 500 70 3d6+15
+8 0 20 1d0+95 
+99 0 10 1d0+95 -1
+-1
+-1
+1000 160000 8 8 1
+#12926
+pixie queen~
+the pixie queen~
+The pixie queen rests on a throne of dewdrops.
+~
+The pixie queen is the cutest little thing, with a perfect heart-shaped
+face, and an expression of such joy. In the pixie queens realm, there is
+only laughter and joy and it radiates from her suffusing this area.
+~
+1 4 bg hrBC 1000 S
+36 2 -12 5d10+550
+409 500 70 3d6+17 
+87 0 15 1d0+95
+67 0 5 2d0+100
+94 0 10 1d0+95 -1
+-1
+-1
+2000 200000 8 8 2
+#12927
+swamp hopper squat bird~
+a swamp hopper~
+A squat flightless bird hops about here.
+~
+This plump swamp hopper is a tasty treat for any hunting merkin, and
+as such is always on the lookout for predators. It has wide flat feet, 
+perfect for avoiding sinking into the mud of the swamp. Although unable
+to fly, he has short stubby wings which help to accelerate him over
+short distances, and away from attackers.
+~
+1 4 g C 0 S
+31 2 -11 5d10+480
+402 500 100 3d6+15 -1
+-1
+-1
+0 160000 8 8 0
+#12928
+bog otter~
+a bog otter~
+A slinky otter skims across the bog.
+~
+As you watch her, she cleans her bristly whiskers with her paws and
+glances around for a convenient escape route. She has eyes like
+pools of pure midnight and her coat is slick with swamp water.
+~
+1 4 g rC 0 S
+31 2 -11 5d10+600
+408 500 100 3d6+17 -1
+-1
+-1
+0 180000 8 8 1
+#12929
+shadow cat shadowcat~
+a shadowcat~
+A vicious shadowcat appears from the darkness and bites into you!
+~
+The shadowcat is an extremely rare and vicious predator. Every part
+of it is black, and his feet are softly padded so that he makes no 
+sound as he stalks his prey.
+~
+1 4 bfg drstC -600 S
+33 0 -12 5d10+700
+408 500 50 3d6+17
+407 500 50 3d6+19 -1
+-1
+-1
+0 200000 8 8 1
+#12930
+demon lord demonlord lesser~
+a lesser demonlord~
+A man-sized, but incredibly ugly demon dives into the attack!
+~
+Although he is only a lesser demonlord, he is still pretty
+tough, and pretty angry. Summoning demons is dangerous at the
+best of times - they are always angry, and the worst thing
+anyone could possibly do is break the circle of warding.
+~
+1 4 bfg dmrC -1000 S
+35 -2 -15 5d10+900
+403 500 55 3d6+23
+79 0 15 1d0+95
+56 0 15 1d0+95
+97 0 15 1d0+95 -1
+-1
+-1
+1505 240000 8 8 0
+#99999
+$~

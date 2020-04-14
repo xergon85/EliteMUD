@@ -1,0 +1,222 @@
+#3400
+cape bat~
+a black cape~
+A black cape with a red lining lies here.~
+~
+9 50 0 gj ac
+12 0 0 0 0 0
+2 10000 3500
+A
+14 100
+A
+5 2
+#3401
+bloodstone medallion~
+a bloodstone medallion~
+A medallion with a bloodstone setting lies here.~
+~
+9 50 0 gj ac
+10 0 0 0 0 0
+1 10000 3000
+A
+12 50
+A
+13 50
+#3402
+crystal scarab~
+a crystal scarab~
+A small crystal that glows with a soft light lies here.~
+~
+1 40 0 ag ao
+0 0 -1 0 0 0
+1 10000 5000
+A
+12 50
+#3403
+hourglass key~
+a small hourglass~
+A small hourglass sits here.~
+~
+18 40 0 ag ao
+0 0 0 0 0 240
+3 50 50
+#3404
+ivory sword longsword~
+an ivory hilted longsword~
+A ivory hilted longsword lies here.~
+~
+5 40 0 g an
+0 6 7 3 0 0
+15 12000 1500
+A
+18 2
+A
+19 2
+#3405
+green helmet~
+a green helmet~
+An olive green steel helmet lies here.~
+~
+9 40 0 g ae
+10 0 0 0 0 0
+8 10000 1500
+A
+13 40
+#3406
+combat boots~
+a pair of black combat boots~
+A pair of black combat boots sit here.~
+~
+9 40 aef g ag
+8 0 0 0 0 0
+4 10000 2000
+A
+2 -1
+#3407
+crystal band headband~
+a crystal headband~
+A black silk band with a crystal at its center lies here.~
+~
+9 60 0 fg ae
+12 0 0 0 0 0
+1 15000 6000
+A
+12 100
+#3408
+crystal quarterstaff staff~
+a crystal quarterstaff~
+A crystal quarterstaff lies here forgotten.~
+~
+5 60 0 fg an
+0 6 9 6 0 0
+10 10000 6000
+A
+18 4
+A
+19 6
+#3409
+crystal ball~
+a crystal ball~
+A crystal ball lies here.~
+~
+3 60 abdehjklnop afg ao
+70 5 5 80 0 0
+5 30000 6000
+#3410
+shadowsword sword~
+a dark shadowsword~
+A long thin shaddow is cast upon the floor at your feet.~
+~
+5 35 0 bgj an
+0 5 6 3 0 0
+12 3000 300
+A
+18 3
+A
+19 3
+#3411
+basher mace~
+the basher mace~
+The "Basher" lies here.~
+~
+5 26 0 gk an
+0 4 6 6 0 0
+15 10000 2000
+A
+18 4
+A
+19 4
+#3412
+shovel~
+a small shovel~
+A small shovel lies here.~
+~
+5 15 0 0 an
+0 4 4 7 0 0
+9 100 10
+#3413
+girdle~
+a girdle of power~
+A girdle lies here collecting dust.~
+~
+9 35 0 gy al
+10 0 0 0 0 0
+3 0 0
+A
+1 2
+A
+24 25
+#3414
+skeleton key~
+a skeleton key~
+A skeleton key lies here.~
+~
+18 1 0 f ao
+1 0 0 0 0 240
+1 10 10
+#3415
+rusty iron key~
+a rusty iron key~
+A rusty iron key lies here.~
+~
+18 1 0 0 ao
+1 0 0 0 0 240
+1 10 10
+#3416
+dark bronze key~
+a dark bronze key~
+A dark bronze key lies here.~
+~
+18 1 0 0 ao
+1 0 0 0 0 240
+1 10 10
+#3417
+key~
+an ordinary key~
+An ordinary key lies here.~
+~
+18 1 0 0 ao
+1 0 0 0 0 240
+1 10 10
+#3418
+black stone key~
+a black stone key~
+A black stone key lies here.~
+~
+18 1 0 0 ao
+1 0 0 0 0 240
+1 10 10
+#3419
+blue shield~
+a blue shield~
+A blue shield with a white phoenix painted on it lies here.~
+~
+9 35 0 g aj
+12 0 0 0 0 0
+25 5000 1500
+#3420
+broken sword~
+a broken sword~
+A broken sword lies here.~
+~
+5 10 0 0 an
+0 4 5 3 0 0
+10 100 10
+#3421
+violet potion~
+a violet potion~
+A violet potion sits here in a glass flask.~
+~
+10 30 0 g ao
+50 36 61 67 0 0
+6 10000 500
+#3422
+gate key~
+a gate key~
+A gate key lies here.~
+~
+18 1 0 0 ao
+0 0 0 0 0 240
+2 300 30
+#99999
+$~

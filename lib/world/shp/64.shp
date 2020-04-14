@@ -1,0 +1,109 @@
+#1
+6510
+6423
+3022
+6512
+6504
+6505
+3083
+-1
+1.9
+.3
+1
+15
+9
+5
+-1
+%s We don't have any in storage, sorry!~
+%s Check your possessions, you don't have that.~
+%s I don't care for those types of goods.~
+%s I can't afford something that great!~
+%s You can't afford it, and don't ask a God for the money!~
+%s That'll cost you %d coins, please.~
+%s You'll get %d coins for that.~
+1
+1
+6403
+0
+6416
+0
+23
+23
+28
+#2
+3000
+3003
+3010
+3011
+3031
+-1
+1.9
+0.2
+1
+15
+17
+19
+8
+-1
+%s Haven't got that on storage!~
+%s You don't seem to have that!~
+%s I don't buy those types, try another shop.~
+%s I cannot afford such a great treasure!~
+%s You can't afford that!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for that!~
+0
+1
+6404
+0
+6418
+0
+24
+24
+28
+#6506
+6444
+-1
+1.4
+1.0
+-1
+%s Now why should I bother to trade with that kind of junk ?~
+%s Sorry, not buying your story about losing it on the way over.~
+%s Now why should I bother with that kind of stuff ?~
+%s So I am out of money - Bad luck for you.~
+%s You are not getting anything here - Go jump the chasm !~
+%s Enjoy the ride...~
+%s I'll never see that money again... *sniff*~
+1
+1
+6506
+0
+6543
+0
+13
+13
+24
+#6507
+6445
+-1
+1.4
+1.0
+-1
+%s Now why should I bother with that kind of stuff ?~
+%s My brother warned me about you trying something, now show your goods~
+%s Now why should I bother to trade with that kind of junk ?~
+%s So I am out of money - Bad luck for you.~
+%s In a hurry to leave are we ?  - Better pay first.~
+%s Enjoy the ride...~
+%s I'll never see that money again... *sniff*~
+1
+1
+6507
+0
+6554
+0
+13
+13
+24
+#99999
+$~

@@ -1,0 +1,3455 @@
+#2600
+Entrance to Ultima~
+   The blue moongate casts a strange blue light upon a huge gate to the
+south. The gate is open and beyond it you see a simple village. Around the
+gate there are two pedestals. On the first pedestal, there is a magic
+scroll. On the second there is a plaque.
+~
+26 c 0
+D2
+There is a huge gate
+~
+gate~
+1 -1 2601
+D5
+~
+~
+0 -1 6078
+E
+magic scroll~
+An image flies out of the scroll and creates a huge image of a face
+approximately ten feet off the ground.  It says, "Welcome to Ultima,
+where adventure and excitement may be found for all people, and all
+levels.  Each of the planes increase in level. Have a nice day!"
+~
+E
+plaque~
+The plaque reads, "The Ultima Area was made for Merc 2.0 and converted
+to Elite 5.1,"
+~
+S
+#2601
+New Magincia Road~
+   This is the main road of New Magincia. The dirt path continues to
+the south and a huge gate lies to the north.
+~
+26 0 1
+D0
+There is a huge gate.
+~
+gate~
+1 -1 2600
+D2
+~
+~
+0 -1 2602
+S
+#2602
+New Magincia Road~
+   The path continues to the south and the north. You see the tracks
+of sheep here.
+~
+26 0 1
+D0
+The path continues to the north.
+~
+~
+0 -1 2601
+D2
+There is a shimmering light to the south.
+~
+~
+0 -1 2603
+S
+#2603
+The New Magincia Moongate~
+   You see another moongate here, exactly between the crossing of
+two paths.
+~
+26 c 1
+D0
+~
+~
+0 -1 2602
+D1
+~
+~
+0 -1 2613
+D2
+~
+~
+0 -1 2604
+D3
+~
+~
+0 -1 2608
+S
+#2604
+New Magincia Road~
+   The path continues to the south and north. On the east there seems
+to be administrative building.
+~
+26 0 1
+D0
+There is a shimmering light.
+~
+~
+0 -1 2603
+D1
+~
+door~
+1 -1 2614
+D2
+~
+~
+0 -1 2605
+S
+#2605
+New Magincia Road~
+   The dirt road path ends here in a grove. You can continue back to
+the north, and there is an old abandoned house to the west.
+~
+26 0 1
+D0
+~
+~
+0 -1 2604
+D3
+~
+door~
+1 -1 2610
+S
+#2606
+Stables~
+   This is the stables for the shepherd. There are many fine horses here.
+You can return to the barn to the south.
+~
+26 d 1
+D2
+The front part of the barn is to the south.
+~
+~
+0 -1 2607
+S
+#2607
+Barn~
+   This is your basic barn, with hay and stables to the north.
+~
+26 d 1
+D0
+You hear neighing, intermixed with a strange talking.
+~
+~
+0 -1 2606
+D2
+~
+door~
+1 -1 2608
+S
+#2608
+Humility Lane~
+   This is an even smaller dirt path that crosses New Maginica Road.
+To your north there is a barn, and to the south you see a condemned
+building, though you cannot enter this way. The west is blocked off
+by a herd of sheep.
+~
+26 0 1
+D0
+~
+door~
+1 -1 2607
+D1
+There is a shimmering light to the east.
+~
+~
+1 -1 2603
+S
+#2609
+Condemned House~
+   This place is wrecked, the rafters have fallen, and light shines
+through a large hole in the roof. You wonder what kinds of animals
+have taken up residence here.
+~
+26 d 1
+D2
+~
+~
+0 -1 2610
+S
+#2610
+Condemned House~
+   As you walk into the house, you realize that this house must not
+have been reconstructed yet from the ruin of Old Magincia. Faint
+intimations of foolish pride can still be seen through the wreckage.
+~
+26 d 1
+D0
+~
+~
+0 -1 2609
+D1
+~
+door~
+1 -1 2605
+S
+#2611
+Attic~
+   The attic is dark, and you smell some vestiges of bat guano.
+~
+26 d 1
+D5
+The rest of the house is down.
+~
+trapdoor~
+1 -1 2612
+S
+#2612
+House~
+   This is a small humble house. You do not see much here, though there
+is some faint squeaking.
+~
+26 d 1
+D2
+~
+door~
+1 -1 2613
+D4
+You see the faint outline of a trapdoor.
+~
+trapdoor~
+1 -1 2611
+S
+#2613
+Humility Lane~
+   This is a very small path. It ends here with a fence to the east. To
+the west is the Moongate, and to the north there is a small house.
+~
+26 0 1
+D0
+~
+door~
+1 -1 2612
+D3
+~
+door~
+1 -1 2603
+S
+#2614
+Entrance to the Office~
+   Though this room is small, it acts as a meeting place for Katrina
+and any other person that she has to meet. You can exit to the west
+or enter an office to the south.
+~
+26 d 1
+D2
+~
+~
+0 -1 2615
+D3
+~
+door~
+1 -1 2604
+S
+#2615
+Katrina's Office~
+   This office is very sparse... and humble. There are no decorations,
+in fact the room is bare except for a simple desk and its chair.
+~
+26 d 1
+D0
+~
+~
+0 -1 2614
+S
+#2616
+Library~
+   This is an amazingly HUGE library. Its musty smell and the collapsed
+bookshelf to your north tell you that it also must be ancient. In any
+case you can't get out of the Library so just pick a book and start
+reading. The stacks continue to the east and west.
+~
+26 d 0
+E
+book books shelves~
+These shelves deal with the fascinating letter A.  Among the more
+interesting books are, "Andersen's tips on Area Building."  "The
+Art of Spamming" and "Axes and You."
+~
+D1
+~
+~
+0 -1 2617
+D3
+~
+~
+0 -1 2636
+S
+#2617
+Library~
+   The Library continues here, with exits to the east and west.
+~
+26 d 0
+E
+book books shelves~
+These books are about the letters B and C.  Some titles are: 'Boom
+Boxes: How large will they become?' and 'Cutlery: The fine points
+of Killing' and of course the classic, 'Casret's Titles.'
+~
+D1
+~
+~
+0 -1 2618
+D3
+~
+~
+0 -1 2616
+S
+#2618
+Library~
+   The Library continues here, with exits to the east and west.
+~
+26 d 0
+E
+book books shelves~
+This shelf has books dealing with the 'D's'.  'Dracula, Blood Sucker
+or Beavis fan?' seems to be the most interesting book here.
+~
+D1
+~
+~
+0 -1 2619
+D3
+~
+~
+0 -1 2617
+S
+#2619
+Library~
+   The Library continues here, with exits to the east and south.
+~
+26 d 0
+E
+book books shelves~
+The 'E' section is here.  One book, "Howard Stern" doesn't seem to
+belong here.
+~
+D2
+~
+~
+0 -1 2620
+D3
+~
+~
+0 -1 2618
+S
+#2620
+Library~
+   The Library continues here, with exits to the north and west.
+~
+26 d 0
+E
+book books shelves~
+You find 'Fax Fun' and 'Farts: How to Blame it on the Dog.' in this
+section of the library.
+~
+D0
+~
+~
+0 -1 2619
+D3
+You see a big desk and a man.
+~
+~
+0 -1 2621
+S
+#2621
+Library Office~
+   A big desk dominates this room. All books must go through this
+office before getting taken out.
+~
+26 d 0
+D1
+~
+~
+0 -1 2620
+D3
+~
+~
+0 -1 2622
+S
+#2622
+Library~
+   The Library continues here, with exits to the west and east.
+~
+26 d 0
+E
+book books shelves~
+The books here start with 'G'.  'Grating Cheese with Julia Childs' and
+'Garamond: What kind of font is this anyway?' lie here.
+~
+D1
+You see a huge desk.
+~
+~
+0 -1 2621
+D3
+~
+~
+0 -1 2623
+S
+#2623
+Library~
+   The Library continues here, with exits to the east and south .
+~
+26 d 0
+E
+book books shelves~
+The books here comprise 'H' and 'I'.  'Hiya: The Women who Use it, and
+the Man who Uses the Women' and 'Icaza Loves Ya' are here in gaudy and
+annoying covers.
+~
+D2
+~
+~
+0 -1 2624
+D1
+~
+~
+0 -1 2622
+S
+#2624
+Library~
+   The Library continues here, with exits to the north and east.
+~
+26 d 0
+E
+book books shelves~
+These books start with the letter 'J'.  'Jokey Smurf's Greatest
+Explosions' and 'The Judge take on New York' seem to be the most
+popular books.
+~
+D0
+~
+~
+0 -1 2623
+D1
+~
+~
+0 -1 2625
+S
+#2625
+Library~
+   The Library continues here, with exits to the west and east.
+~
+26 d 0
+E
+book books shelves~
+Hmmm this is the 'K' section, and 'Kicking Vs. Bashing' is here.
+~
+D1
+~
+~
+0 -1 2626
+D3
+~
+~
+0 -1 2624
+S
+#2626
+Library~
+   The Library continues here, with exits to the west and east.
+~
+26 d 0
+E
+book books shelves~
+A book titled, 'Lick me, Lick you'  is here.
+~
+D1
+~
+~
+0 -1 2627
+D3
+~
+~
+0 -1 2625
+S
+#2627
+Library~
+   The Library continues here, with exits to the west and south.
+~
+26 d 0
+E
+book books shelves~
+'Mahatma Teaches French' and 'MC Echser: The Rap Star and Paradoxical
+Artist'.
+~
+D2
+~
+~
+0 -1 2629
+D3
+~
+~
+0 -1 2626
+S
+#2628
+The Library Moongate~
+   A blue moongate is here, lighting up the otherwise featureless room.
+~
+26 cd 0
+D0
+~
+shelf~
+1 -1 2632
+S
+#2629
+Library~
+   The Library continues here, with exits to the north and west.
+~
+26 d 0
+E
+book books shelves~
+Hmmm... This is the 'N' section... but 'Nothing' seems to be here.
+~
+D0
+~
+~
+0 -1 2627
+D3
+~
+~
+0 -1 2630
+S
+#2630
+Library~
+   The Library continues here, with exits to the east and west.
+~
+26 d 0
+E
+book books shelves~
+This is the 'OP' section.  You hear moaning behind those stacks, yup
+there on the floor is another P.
+~
+D1
+~
+~
+0 -1 2629
+D3
+~
+~
+0 -1 2631
+S
+#2631
+Library~
+   The Library continues here, with exits to the east and west.
+~
+26 d 0
+E
+book books shelves~
+'Quai Mackdaddy Monk and 'Rhinoplasty, or The Inebriation of Wild
+Animals' are here.
+~
+D1
+~
+~
+0 -1 2630
+D3
+~
+~
+0 -1 2632
+S
+#2632
+Library~
+   The Library continues here, with exits to the east and west..
+~
+26 d 0
+E
+book books shelves~
+'Secret Door: The Shelf' is on the shelf.
+~
+D1
+~
+~
+0 -1 2631
+D2
+Hinges on a shelf?
+~
+Shelf~
+1 -1 2628
+D3
+~
+~
+0 -1 2633
+S
+#2633
+Library~
+   The Library continues here, with exits to the east and north.
+~
+26 d 0
+E
+book books shelves~
+'Textile Farming' and 'Tempting Miss Daisy' is here.
+~
+D0
+~
+~
+0 -1 2634
+D1
+~
+~
+0 -1 2632
+S
+#2634
+Library~
+   The Library continues here, with exits to the south and north.
+~
+26 d 0
+E
+book books shelves~
+'Ultima: The Building of an Area' is here.
+~
+D0
+There is an odd chattering to the north.
+~
+~
+0 -1 2635
+D2
+~
+~
+0 -1 2633
+S
+#2635
+Web~
+   There is a Huge Web here, stretching from shelf to shelf... and
+stupid you wandered into it.
+~
+26 d 0
+D0
+~
+~
+0 -1 2636
+D2
+~
+~
+0 -1 2634
+S
+#2636
+Library~
+   The Library continues here, with exits to the south and east.
+~
+26 d 0
+E
+book books shelves~
+"Yaz: Grooming Tips" is here.
+~
+D1
+~
+~
+0 -1 2616
+D2
+There is a strange chattering noise to the south.
+~
+~
+0 -1 2635
+S
+#2637
+The Center of the Tavern~
+   The moongate has opened inside a huge party. There are bards and
+other townsmen. This must be Britain. There are people everywhere
+carrying their drinks and singing everywhere. The party continues to
+the north, east, south, and west.
+~
+26 d 0
+D0
+~
+~
+0 -1 2639
+D1
+~
+~
+0 -1 2642
+D2
+~
+~
+0 -1 2644
+D3
+~
+~
+0 -1 2641
+S
+#2638
+The Northwest Corner of the Tavern~
+   This is where the tavern entrance would be if it wasn't packed with
+humans trying to get in or get out. There is no chance of you leaving
+the tavern tonight. You leave east or the south.
+~
+26 d 0
+D1
+~
+~
+0 -1 2639
+D2
+~
+~
+0 -1 2641
+S
+#2639
+The North Wall of the Tavern~
+   Party-goers mingle here in front of the bar. They seem to be having
+a great time and wish for you to join them. You can continue on to the
+south, east or north.
+~
+26 d 0
+D1
+~
+~
+0 -1 2640
+D2
+~
+~
+0 -1 2637
+D3
+~
+~
+0 -1 2638
+S
+#2640
+The Northeast Corner of the Tavern~
+   Along this east wall of the tavern are all the tables for the meals.
+Outside the windows you see cobblestone streets.
+~
+26 d 0
+D2
+~
+~
+0 -1 2642
+D3
+~
+~
+0 -1 2639
+S
+#2641
+The West Wall of the Tavern~
+   The band has set up here, against the west wall. Many people dance
+to the music.
+~
+26 d 0
+D0
+~
+~
+0 -1 2638
+D1
+~
+~
+0 -1 2637
+D2
+~
+~
+0 -1 2643
+S
+#2642
+The East Wall of the Tavern~
+   The tables are set up here, and you see many couples and group just
+sitting and talking. They have drinks on their tables and smiles on
+their faces.
+~
+26 d 0
+D0
+~
+~
+0 -1 2640
+D2
+~
+~
+0 -1 2645
+D3
+~
+~
+0 -1 2637
+S
+#2643
+The Southwest Corner of the Tavern~
+   There are many people here, but there seems to be a slight stench
+coming from somewhere.
+~
+26 d 0
+D0
+~
+~
+0 -1 2641
+D1
+~
+~
+0 -1 2644
+D5
+~
+cellar~
+1 -1 2646
+S
+#2644
+The South Wall of the Tavern~
+   The South Wall windows overlook the sea. There seems to be an island
+far to the south, and boats just floating in the ports. The party-goers
+wander around here.
+~
+26 d 0
+D0
+~
+~
+0 -1 2637
+D1
+~
+~
+0 -1 2645
+D3
+~
+~
+0 -1 2643
+S
+#2645
+The Southeast Corner of the Tavern~
+   There are tables here that continue to the north. The party-goers
+just mingle and hit on each other.
+~
+26 d 0
+D0
+~
+~
+0 -1 2642
+D3
+~
+~
+0 -1 2644
+S
+#2646
+Cellar~
+   The stairway seems to lead down into the cellar. It stinks of wine,
+beer and snakes here.
+~
+26 cd 0
+D1
+~
+~
+0 -1 2647
+D2
+~
+~
+0 -1 2649
+D4
+~
+stairs~
+1 -1 2643
+S
+#2647
+Cellar~
+   There are huge wine casks against this wall. Most seem intact though
+one is eaten through, and the inside seems to have a gooey green
+substance.
+~
+26 ad 0
+D1
+There is the sound of singing in that corner.
+~
+~
+0 -1 2648
+D2
+There is a shimmering light to the south.
+~
+~
+0 -1 2650
+D3
+~
+~
+0 -1 2646
+S
+#2648
+Cellar~
+   There is a chair in corner, and plenty of empty bottles. There is
+also the evidence of that green substance here as well.
+~
+26 ad 0
+D2
+~
+~
+0 -1 2651
+D3
+~
+~
+0 -1 2647
+S
+#2649
+Cellar~
+   There is a slime trail here. There seems to be much broken glass
+down here.
+~
+26 ad 0
+D0
+~
+~
+0 -1 2646
+D1
+~
+~
+0 -1 2650
+D2
+~
+~
+0 -1 2652
+S
+#2650
+The Britain Moongate~
+   The place around the moongate, as always, seems clean and neat. The
+blue light of the moongate has become a comforting sight to you.
+~
+26 cd 0
+D0
+~
+~
+0 -1 2647
+D1
+~
+~
+0 -1 2651
+D2
+~
+~
+0 -1 2653
+D3
+~
+~
+0 -1 2649
+S
+#2651
+Cellar~
+   The walls are leaking here. You can hear the bang of feet and the
+shifting of chairs from above.
+~
+26 d 0
+D0
+~
+~
+0 -1 2648
+D2
+~
+~
+0 -1 2654
+D3
+~
+~
+0 -1 2650
+S
+#2652
+Cellar~
+   The damp walls of this corner bother you... Not because it's damp -
+because it's not water!
+~
+26 ad 0
+D0
+~
+~
+0 -1 2649
+D1
+~
+~
+0 -1 2653
+S
+#2653
+Cellar~
+   The smells and ventilation of this cellar are overpowering.
+~
+26 ad 0
+D0
+There is a shimmering light.
+~
+~
+0 -1 2650
+D1
+~
+~
+0 -1 2654
+D3
+~
+~
+0 -1 2652
+S
+#2654
+Cellar~
+   This corner of the cellar is the ugliest. From the smell in the corner
+it is obvious where the Drunks clear their guts.
+~
+26 ad 0
+D0
+~
+~
+0 -1 2651
+D3
+~
+~
+0 -1 2653
+S
+#2655
+The Yew Entrance~
+   To the south you see a large courthouse and a small part of Yew. Most
+of Yew is secretly hidden in the branches of the forest. To the north you
+see one of the most dangerous parts of this same forest.
+~
+26 c 3
+D0
+~
+~
+0 -1 2681
+D2
+~
+~
+0 -1 2656
+S
+#2656
+In Front of the Courthouse~
+   The immense Courthouse faces this street. All of Britannia's crime goes
+here to be tried. There is little crime anymore though, after the great
+enlightenment. There is also a pub to the west.
+~
+26 0 1
+D0
+~
+~
+0 -1 2655
+D1
+~
+~
+0 -1 2657
+D2
+The courthouse doors lie this way.
+~
+doors~
+1 -1 2663
+D3
+~
+~
+0 -1 2662
+S
+#2657
+Justice Row~
+   The cobblestone road leads into a clearing of the woods to the east and
+to a pub to the west. To your south you see a great Courthouse, but its
+entrance is on the east.
+~
+26 0 1
+D1
+~
+~
+0 -1 2658
+D3
+~
+~
+0 -1 2656
+S
+#2658
+Under the Stone Arch~
+   You stand under a large stone arch. To your east there is a bonfire.
+Around the bonfire are these same stone arches; they form a circle around
+the clearing.
+~
+26 0 3
+D1
+There are chanting druids and a large bonfire to the east.
+~
+~
+0 -1 2659
+D3
+~
+~
+0 -1 2657
+S
+#2659
+Bonfire~
+   The heat from the bonfire warms you even at the fringe of the ceremony.
+Here, Druids form a circle and chant the sacred mantra.
+~
+26 0 3
+D3
+~
+~
+0 -1 2658
+S
+#2660
+Pub~
+   You are in a happy little pub. There are many little tables and
+citizens are talking here.
+~
+26 d 1
+D1
+~
+~
+0 -1 2661
+S
+#2661
+Justice Row~
+There are some citizens strolling on the road. There is a Pub to the west.
+~
+26 0 1
+D1
+~
+~
+0 -1 2662
+D3
+~
+~
+0 -1 2660
+S
+#2662
+Justice Row~
+   Perhaps the only real street in a city where all the citizens are
+nestled in trees, it leads east to west.
+~
+26 0 1
+D1
+~
+~
+0 -1 2656
+D3
+~
+~
+0 -1 2661
+S
+#2663
+The Audience Room~
+   This is where people would sit to see the cases and wait for the Judge.
+To the North you see the actual Bench. All around are the pew-like seats.
+~
+26 d 1
+D0
+~
+doors~
+1 -1 2656
+D2
+~
+~
+0 -1 2664
+S
+#2664
+The Bench~
+   The Bench is one of the most imposing things you've seen. You have to
+crane your neck to even glimpse at the Judge. There are no lawyers, there
+is only justice. To the east and west there are the prisons.
+~
+26 d 1
+D0
+~
+~
+0 -1 2663
+D1
+~
+door~
+1 -1 2665
+D3
+~
+door~
+1 -1 2666
+S
+#2665
+Prison~
+   To the north you see a cell. Locks are unnecessary, because the
+prisoners are kept in their cells by magic.
+~
+26 d 1
+D0
+The prisoner looks at you and growls.
+~
+~
+0 -1 2668
+D3
+~
+door~
+1 -1 2664
+S
+#2666
+Prison~
+   To the north you see a cell. Locks are unnecessary, because the
+prisoners are kept in their cells by magic.
+~
+26 d 1
+D0
+The prisoner is a small man.
+~
+~
+0 -1 2667
+D1
+~
+door~
+1 -1 2664
+S
+#2667
+Prison Cell~
+   This is a cell where they keep dangerous prisoners.
+~
+26 d 1
+D2
+~
+~
+0 -1 2666
+S
+#2668
+Prison Cell~
+   This is a cell where they keep dangerous prisoners.
+~
+26 d 1
+D2
+~
+~
+0 -1 2665
+S
+#2669
+Yew Forest~
+   The Yew Forest stretches out in every direction. Gnarled yew
+trees stand all around, branches reaching down to snag you as you
+pass. The ground is mostly bare and the trees all look the same.
+The Druids can find their way through the forest, wonder how
+they do it? An arrow carved into a nearby tree points south.
+~
+26 ay 3
+D0
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+D1
+A trail winds its way between the trees.
+~
+~
+0 -1 2670
+D2
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+D3
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+E
+arrow~
+It is well known that druids will not deface the sacred trees, so
+this is most likely a hoax. There are some trail markings near the
+eastern path.
+~
+S
+#2670
+Yew Forest~
+   The Yew Forest stretches out in every direction. Gnarled yew
+trees stand all around, branches reaching down to snag you as you
+pass. The ground is mostly bare and the trees all look the same.
+The Druids can find their way through the forest, wonder how
+they do it? You can hear the sound of chanting coming from the
+north.
+~
+26 ay 3
+D0
+A trail winds its way between the trees.
+~
+~
+0 -1 2671
+D1
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+D2
+You can see the courthouse in the distance.
+~
+~
+0 -1 2682
+D3
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+S
+#2671
+Yew Forest~
+   The Yew Forest stretches out in every direction. Gnarled yew
+trees stand all around, branches reaching down to snag you as you
+pass. The ground is mostly bare and the trees all look the same.
+The Druids can find their way through the forest, wonder how
+they do it? There are muddy footprints all around here.
+~
+26 ay 3
+D0
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+D1
+A trail winds its way between the trees.
+~
+~
+0 -1 2672
+D2
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+D3
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+E
+muddy footprints~
+Most of them lead east.
+~
+S
+#2672
+Yew Forest~
+   The Yew Forest stretches out in every direction. Gnarled yew
+trees stand all around, branches reaching down to snag you as you
+pass. The ground is mostly bare and the trees all look the same.
+The Druids can find their way through the forest, wonder how
+they do it? You notice a faint glimmer of bluish light coming
+from the east.
+~
+26 ay 3
+D0
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+D1
+A faint bluish light comes from this direction.
+~
+~
+0 -1 2684
+D2
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+D3
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+S
+#2673
+Yew Forest~
+   The Yew Forest stretches out in every direction. Gnarled yew
+trees stand all around, branches reaching down to snag you as you
+pass. The ground is mostly bare and the trees all look the same.
+The Druids can find their way through the forest, wonder how
+they do it? Two leaves have been impaled on a sharp twig and placed
+carefully near the western trail.
+~
+26 ay 3
+D0
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+D1
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+D2
+A trail winds its way between the trees.
+~
+~
+0 -1 2674
+D3
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+E
+leaves sharp twig~
+A common trail sign - it means head south.
+~
+S
+#2674
+Yew Forest~
+   The Yew Forest stretches out in every direction. Gnarled yew
+trees stand all around, branches reaching down to snag you as you
+pass. The ground is mostly bare and the trees all look the same.
+The Druids can find their way through the forest, wonder how
+they do it? There are scuff marks near the foot of a tree to the
+east.
+~
+26 ay 3
+D0
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+D1
+A trail winds its way between the trees.
+~
+~
+0 -1 2675
+D2
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+D3
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+S
+#2675
+Yew Forest~
+   The Yew Forest stretches out in every direction. Gnarled yew
+trees stand all around, branches reaching down to snag you as you
+pass. The ground is mostly bare and the trees all look the same.
+The Druids can find their way through the forest, wonder how
+they do it? You can hear chanting sounds coming from all around.
+~
+26 ay 3
+D0
+The chanting seems loudest in this direction.
+~
+~
+0 -1 2676
+D1
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+D2
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+D3
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+S
+#2676
+Yew Forest~
+   The Yew Forest stretches out in every direction. Gnarled yew
+trees stand all around, branches reaching down to snag you as you
+pass. The ground is mostly bare and the trees all look the same.
+The Druids can find their way through the forest, wonder how
+they do it? The leaves on the ground to the east and south have
+been disturbed recently.
+~
+26 ay 3
+D0
+A trail winds its way between the trees.
+~
+~
+0 -1 2684
+D1
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+D2
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+D3
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+E
+leaves disturbed~
+Hmm...looks like they have been carefully arranged to draw attention
+away from the northern trail.
+~
+S
+#2677
+Yew Forest~
+   The Yew Forest stretches out in every direction. Gnarled yew
+trees stand all around, branches reaching down to snag you as you
+pass. The ground is mostly bare and the trees all look the same.
+The Druids can find their way through the forest, wonder how
+they do it? There is some faintly glowing moss on a tree to the
+east.
+~
+26 ay 3
+D0
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+D1
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+D2
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+D3
+A trail winds its way between the trees.
+~
+~
+0 -1 2678
+E
+faintly glowing moss~
+The moss refects a bluish light coming from the west. You wonder what
+the source of that light could be.
+~
+S
+#2678
+Yew Forest~
+   The Yew Forest stretches out in every direction. Gnarled yew
+trees stand all around, branches reaching down to snag you as you
+pass. The ground is mostly bare and the trees all look the same.
+The Druids can find their way through the forest, wonder how
+they do it? There is a broad footprint in the soft earth.
+~
+26 ay 3
+D0
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+D1
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+D2
+A trail winds its way between the trees.
+~
+~
+0 -1 2679
+D3
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+E
+footprint broad~
+The footprint leads south.
+~
+S
+#2679
+Yew Forest~
+   The Yew Forest stretches out in every direction. Gnarled yew
+trees stand all around, branches reaching down to snag you as you
+pass. The ground is mostly bare and the trees all look the same.
+The Druids can find their way through the forest, wonder how
+they do it? There is are bare patches on the trees to the north
+where someone has removed some of the mistletoe.
+~
+26 ay 3
+D0
+A trail winds its way between the trees.
+~
+~
+0 -1 2680
+D1
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+D2
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+D3
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+E
+mistletoe~
+Better not try eating it - its deadly poisonous, but the druids use it
+for some of their ceremonies.
+~
+S
+#2680
+Yew Forest~
+   The Yew Forest stretches out in every direction. Gnarled yew
+trees stand all around, branches reaching down to snag you as you
+pass. The ground is mostly bare and the trees all look the same.
+The Druids can find their way through the forest, wonder how
+they do it? A little triangle of twigs hangs from a nearby tree.
+~
+26 ay 3
+D0
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+D1
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+D2
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+D3
+A trail winds its way between the trees.
+~
+~
+0 -1 2684
+E
+triangle twigs~
+Its a druid symbol, probably a waysign for their brethren to help find
+their way through the forest. It sways in the breeze on a tree just to
+the west.
+~
+S
+#2681
+Yew Forest~
+   The Yew Forest stretches out in every direction. Gnarled yew
+trees stand all around, branches reaching down to snag you as you
+pass. The ground is mostly bare and the trees all look the same.
+The Druids can find their way through the forest, wonder how
+they do it?
+~
+26 ay 3
+D0
+A trail winds its way between the trees.
+~
+~
+0 -1 2673
+D1
+A trail winds its way between the trees.
+~
+~
+0 -1 2669
+D2
+A trail winds its way between the trees.
+~
+~
+0 -1 2677
+D3
+A trail winds its way between the trees.
+~
+~
+0 -1 2655
+S
+#2682
+Yew Forest~
+   The Yew Forest stretches out in every direction. Gnarled yew
+trees stand all around, branches reaching down to snag you as you
+pass. The ground is mostly bare and the trees all look the same.
+The Druids can find their way through the forest, wonder how
+they do it?
+~
+26 ay 3
+D0
+A trail winds its way between the trees.
+~
+~
+0 -1 2669
+D1
+A trail winds its way between the trees.
+~
+~
+0 -1 2673
+D2
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+D3
+A trail winds its way between the trees.
+~
+~
+0 -1 2677
+S
+#2683
+Yew Forest~
+   The Yew Forest stretches out in every direction. Gnarled yew
+trees stand all around, branches reaching down to snag you as you
+pass. The ground is mostly bare and the trees all look the same.
+The Druids can find their way through the forest, wonder how
+they do it?
+~
+26 ay 3
+D0
+A trail winds its way between the trees.
+~
+~
+0 -1 2673
+D1
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+D2
+A trail winds its way between the trees.
+~
+~
+0 -1 2677
+D3
+A trail winds its way between the trees.
+~
+~
+0 -1 2669
+S
+#2684
+The Yew Moongate~
+   All of a sudden it seems, the trees part and you find yourself before
+a blue glowing moongate. It hums with energy, waiting to take you to new
+worlds - but only if you have the key! Paths lead off in all directions
+through the woods.
+~
+26 cy 3
+D0
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+D1
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+D2
+A trail winds its way between the trees.
+~
+~
+0 -1 2683
+D3
+A trail winds its way between the trees.
+~
+~
+0 -1 2682
+S
+#2685
+Dungeon Entrance~
+   There is a huge maw of an entrance to one of the terrible Dungeons.
+After the Age of Enlightenment only 8 sources of evil still survive in the
+world.  These are the eight Dungeons. Now they are being cleaned out.
+~
+26 cd 3
+D4
+A cold draft pours out of the dungeon.
+~
+~
+0 -1 2687
+D5
+~
+~
+0 -1 2684
+S
+#2686
+The Dungeon~
+   These dungeon rooms all seem the same. There are signs of recent battles
+everywhere.
+~
+26 ad 0
+D0
+~
+~
+0 -1 2690
+S
+#2687
+The Dungeon~
+   These dungeon rooms all seem the same. There are signs of recent battles
+everywhere.
+~
+26 ad 0
+D0
+~
+~
+0 -1 2691
+D5
+~
+~
+0 -1 2685
+S
+#2688
+The Dungeon~
+   These dungeon rooms all seem the same. There are signs of recent battles
+everywhere.
+~
+26 ad 0
+D0
+~
+~
+0 -1 2692
+D1
+~
+~
+0 -1 2689
+S
+#2689
+The Dungeon~
+   These dungeon rooms all seem the same. There are signs of recent battles
+everywhere.
+~
+26 ad 0
+D3
+~
+~
+0 -1 2688
+S
+#2690
+The Dungeon~
+   These dungeon rooms all seem the same. There are signs of recent battles
+everywhere.
+~
+26 ad 0
+D0
+~
+~
+0 -1 2694
+D1
+~
+~
+0 -1 2691
+D2
+~
+~
+0 -1 2686
+S
+#2691
+The Dungeon~
+   These dungeon rooms all seem the same. There are signs of recent battles
+everywhere.
+~
+26 ad 0
+D0
+~
+~
+0 -1 2695
+D1
+~
+~
+0 -1 2692
+D2
+~
+~
+0 -1 2687
+D3
+~
+~
+0 -1 2690
+S
+#2692
+The Dungeon~
+   These dungeon rooms all seem the same. There are signs of recent battles
+everywhere.
+~
+26 ad 0
+D1
+~
+~
+0 -1 2693
+D2
+~
+~
+0 -1 2688
+D3
+~
+~
+0 -1 2691
+S
+#2693
+The Dungeon~
+   These dungeon rooms all seem the same. There are signs of recent battles
+everywhere.
+~
+26 ad 0
+D0
+~
+~
+0 -1 2697
+D3
+~
+~
+0 -1 2692
+S
+#2694
+The Dungeon~
+   These dungeon rooms all seem the same. There are signs of recent battles
+everywhere.
+~
+26 ad 0
+D0
+~
+~
+0 -1 2698
+D2
+~
+~
+0 -1 2690
+S
+#2695
+The Dungeon~
+   These dungeon rooms all seem the same. There are signs of recent battles
+everywhere.
+~
+26 ad 0
+D0
+~
+~
+0 -1 2699
+D1
+~
+~
+0 -1 2696
+D2
+~
+~
+0 -1 2691
+S
+#2696
+The Dungeon~
+   These dungeon rooms all seem the same. There are signs of recent battles
+everywhere.
+~
+26 ad 0
+D0
+~
+~
+0 -1 2700
+D3
+~
+~
+0 -1 2695
+S
+#2697
+The Dungeon~
+   These dungeon rooms all seem the same. There are signs of recent battles
+everywhere.
+~
+26 ad 0
+D2
+~
+~
+0 -1 2693
+S
+#2698
+The Dungeon~
+   These dungeon rooms all seem the same. There are signs of recent battles
+everywhere.
+~
+26 ad 0
+D2
+~
+~
+0 -1 2694
+S
+#2699
+The Dungeon~
+   These dungeon rooms all seem the same. There are signs of recent battles
+everywhere.
+~
+26 ad 0
+D2
+~
+~
+0 -1 2695
+S
+#2700
+The Dungeon~
+   These dungeon rooms all seem the same. There are signs of recent battles
+everywhere.
+~
+27 ad 0
+D1
+There is a shimmering light.
+~
+~
+0 -1 2701
+D2
+~
+~
+0 -1 2696
+S
+#2701
+The Dungeon Moongate~
+   You feel safe within the blue glow of the moongate.
+~
+27 cd 0
+D3
+~
+~
+0 -1 2700
+S
+#2702
+Minoc~
+   The moongate has led to the ocean side city of Minoc. To the north, there
+is the sea, and to the south there is the town of Minoc.
+~
+27 c 0
+D0
+~
+~
+0 -1 2715
+D2
+~
+~
+0 -1 2704
+S
+#2703
+The Armourer~
+   The Armourer buys and sells armour. His smithy is impressive with all
+of his greatest works hanging on the walls.
+~
+27 ad 0
+D1
+~
+door~
+1 -1 2704
+S
+#2704
+Minoc's Fountain~
+   This is the entrance of Minoc. To the east you see the weaponsmith, and
+to the west is the Armourer. To the south there seems to be a large road.
+~
+27 a 0
+D0
+~
+~
+0 -1 2702
+D1
+~
+door~
+1 -1 2705
+D2
+~
+~
+0 -1 2708
+D3
+~
+door~
+1 -1 2703
+S
+#2705
+The Weaponsmith~
+   The best Weaponsmith in the realm is here. His shop is full of hanging
+weapons.
+~
+27 ad 0
+D3
+~
+door~
+1 -1 2704
+S
+#2706
+The Boat seller~
+   This is the shop where you can purchase vehicles to cross the sea.
+~
+27 ad 0
+D1
+~
+door~
+1 -1 2707
+S
+#2707
+Sacrifice Street~
+   This Street goes from east to west. To the west is a shop and to the
+south is a home.
+~
+27 a 0
+D1
+~
+~
+0 -1 2708
+D2
+~
+door~
+1 -1 2711
+D3
+~
+door~
+1 -1 2706
+S
+#2708
+Sacrifice Street~
+   This street runs from east to west. To the west there is a shop, and to
+the east there is a forge.
+~
+27 a 0
+D0
+~
+~
+0 -1 2704
+D1
+~
+~
+0 -1 2709
+D3
+~
+~
+0 -1 2707
+S
+#2709
+Sacrifice Street~
+   This street runs from west to east. There is a home to the south and
+forge to the east.
+~
+27 a 0
+D1
+~
+door~
+1 -1 2710
+D2
+~
+door~
+1 -1 2712
+D3
+~
+~
+0 -1 2708
+S
+#2710
+Forge~
+   The heat of this place causes blisters to form. The rhythmic beat of
+hammer against the forge causes you to believe that someone is working
+here.
+~
+27 ad 0
+D3
+~
+door~
+1 -1 2709
+S
+#2711
+Residence~
+   This residence is very small. It befits the teaching of sacrifice
+without any item that is extra.
+~
+27 ad 0
+D0
+~
+door~
+1 -1 2707
+S
+#2712
+Residence~
+   This residence is very small. It befits the teaching of sacrifice
+without any item that is extra.
+~
+27 ad 0
+D0
+~
+door~
+1 -1 2709
+S
+#2713
+The Beach~
+   The beach ends here. You can go east or west.
+~
+27 a 0
+D3
+~
+~
+0 -1 2784
+D1
+~
+~
+0 -1 2714
+S
+#2714
+The Beach~
+   The beach extends from west to east, but the waves are too heavy here
+to enter the ocean.
+~
+27 a 0
+D1
+~
+~
+0 -1 2715
+D3
+~
+~
+0 -1 2713
+S
+#2715
+The Beach~
+   The beach here is perfect, glistening white sands, perfect sun. Too bad
+there is a monster infestation....
+~
+27 a 0
+D1
+~
+~
+0 -1 2716
+D2
+~
+~
+0 -1 2702
+D3
+~
+~
+0 -1 2714
+S
+#2716
+The Beach~
+   The beach seems so idyllic, too bad these monster keep showing up.
+~
+27 a 0
+D1
+~
+~
+0 -1 2717
+D3
+~
+~
+0 -1 2715
+S
+#2717
+The Beach~
+   The beach ends here.
+~
+27 a 0
+D3
+~
+~
+0 -1 2716
+S
+#2718
+The Whirlpool~
+   The whirlpool rages all around you, whipping the water to a fine
+spray which stings your eyes. Bits of wood bob helplessly in the
+currents, presumably some boat broken up by the torrent. The whirlpool
+looks the same in every direction - how could anyone find their way
+through this?
+~
+27 y 7
+D0
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2719
+D1
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2720
+D2
+A lagoon lies to the south.
+~
+~
+0 -1 2784
+D3
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2723
+S
+#2719
+The Whirlpool~
+   The whirlpool rages all around you, whipping the water to a fine
+spray which stings your eyes. Bits of wood bob helplessly in the
+currents, presumably some boat broken up by the torrent. The whirlpool
+looks the same in every direction - how could anyone find their way
+through this?
+~
+27 gy 8
+D0
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2720
+D1
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2723
+D2
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2718
+D3
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2784
+S
+#2720
+The Whirlpool~
+   The whirlpool rages all around you, whipping the water to a fine
+spray which stings your eyes. Bits of wood bob helplessly in the
+currents, presumably some boat broken up by the torrent. The whirlpool
+looks the same in every direction - how could anyone find their way
+through this? A pair of seagulls glide about above the surface.
+~
+27 y 7
+D0
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2719
+D1
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2721
+D2
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2719
+D3
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2718
+E
+seagulls seagull pair~
+They seem completely oblivious to the adverse conditions, they just
+keep circling, looking for some place to land. They appear to be
+making their way gradually east.
+~
+S
+#2721
+The Whirlpool~
+   The whirlpool rages all around you, whipping the water to a fine
+spray which stings your eyes. Bits of wood bob helplessly in the
+currents, presumably some boat broken up by the torrent. The whirlpool
+looks the same in every direction - how could anyone find their way
+through this? The water looks a little calmer to the south.
+~
+27 y 7
+D0
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2719
+D1
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2718
+D2
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2722
+D3
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2719
+S
+#2722
+The Whirlpool~
+   The whirlpool rages all around you, whipping the water to a fine
+spray which stings your eyes. Bits of wood bob helplessly in the
+currents, presumably some boat broken up by the torrent. The whirlpool
+looks the same in every direction - how could anyone find their way
+through this? A pair of seagulls glide about above the surface.
+~
+27 y 8
+D0
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2718
+D1
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2726
+D2
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2719
+D3
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2719
+E
+seagulls seagull pair~
+They seem completely oblivious to the adverse conditions, they just
+keep circling, looking for some place to land. They appear to be
+making their way gradually east.
+~
+S
+#2723
+The Whirlpool~
+   The whirlpool rages all around you, whipping the water to a fine
+spray which stings your eyes. Bits of wood bob helplessly in the
+currents, presumably some boat broken up by the torrent. The whirlpool
+looks the same in every direction - how could anyone find their way
+through this? A seagull glides lazily in the sky above.
+~
+27 y 7
+D0
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2719
+D1
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2718
+D2
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2724
+D3
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2719
+E
+seagulls seagull pair~
+He seem completely oblivious to the adverse conditions, and just
+keeps circling, looking for some place to land. He appears to be
+making his way gradually south.
+~
+S
+#2724
+The Whirlpool~
+   The whirlpool rages all around you, whipping the water to a fine
+spray which stings your eyes. Bits of wood bob helplessly in the
+currents, presumably some boat broken up by the torrent. The whirlpool
+looks the same in every direction - how could anyone find their way
+through this? An empty helmet floats about here.
+~
+27 y 8
+D0
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2718
+D1
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2725
+D2
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2719
+D3
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2719
+E
+helmet empty~
+Some weak-bellied adventurer being sick over the side of his boat
+no doubt. The helmet appears to be being carried east by the
+currents.
+~
+S
+#2725
+The Whirlpool~
+   The whirlpool rages all around you, whipping the water to a fine
+spray which stings your eyes. Bits of wood bob helplessly in the
+currents, presumably some boat broken up by the torrent. The whirlpool
+looks the same in every direction - how could anyone find their way
+through this? The water looks calmer to the south.
+~
+27 y 7
+D0
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2719
+D1
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2718
+D2
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2726
+D3
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2718
+S
+#2726
+The Whirlpool~
+   The whirlpool rages all around you, whipping the water to a fine
+spray which stings your eyes. Bits of wood bob helplessly in the
+currents, presumably some boat broken up by the torrent. The whirlpool
+looks the same in every direction - how could anyone find their way
+through this? Flashes of bluish light glint off the crests of the
+waves.
+~
+27 y 7
+D0
+The flashes of light appear to be coming from this direction!
+~
+~
+0 -1 2727
+D1
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2718
+D2
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2719
+D3
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2718
+S
+#2727
+The Minoc Moongate~
+   All around the whirlpool rages, but there is a calm about this
+place. The water is flat as a millpond, and faint light emanating
+from the moongate tinges everything blue.
+~
+27 cgyC 1
+D0
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2719
+D1
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2718
+D2
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2719
+D3
+Wind whips the spray up into your eyes - you can see nothing!
+~
+~
+0 -1 2718
+S
+#2728
+A Campfire~
+   This campfire sits in the middle of the camp. Many of the paladins
+stand by it looking at the desert beyond. Some just wander by. To the
+south is a small tent, to the north are more tents.
+~
+27 0 10
+D0
+~
+~
+0 -1 2738
+D1
+~
+~
+0 -1 2729
+D2
+~
+tent~
+1 -1 2732
+S
+#2729
+Between the Tents~
+   There is a grand tent to the south, entered into through the east.
+~
+27 0 10
+D1
+~
+~
+0 -1 2730
+D3
+~
+~
+0 -1 2728
+S
+#2730
+In front of the Grand Tent~
+   To the south, there is a huge tent. To the east lies a smaller tent.
+~
+27 0 10
+D1
+~
+tent~
+1 -1 2731
+D2
+~
+tent~
+1 -1 2734
+D3
+~
+~
+0 -1 2729
+S
+#2731
+A Small Tent~
+   The paladin's tent is very Spartan, as he has to live without much in
+order to develop his Honor.
+~
+27 d 10
+D3
+~
+tent~
+1 -1 2730
+S
+#2732
+A Small Tent~
+   The paladin's tent is very Spartan, as he has to live without much in
+order to develop his Honor.
+~
+27 d 10
+D0
+~
+tent~
+1 -1 2728
+S
+#2733
+The Treasure Tent~
+   There is a HUGE pile of treasure here. It is truly immense. It would
+make you easily a millionaire. If you could even take a tenth of it, you
+could buy your levels. But the treasure is surrounded by a shield. A
+shield that only the truly Honorable could get through. And if you were
+truly honorable you wouldn't take the treasure.
+~
+27 d 10
+D1
+~
+~
+0 -1 2734
+S
+#2734
+The Grand Tent~
+   This tent is absolutely huge. To the east is the map room. To the south
+there is Dupre. To the east is the treasure room.
+~
+27 d 10
+D0
+~
+tent~
+1 -1 2730
+D1
+~
+~
+0 -1 2735
+D2
+~
+~
+0 -1 2736
+D3
+~
+~
+0 -1 2733
+S
+#2735
+The Map Tent~
+   This room has many maps and scrolls all over the table. There may be
+one in particular that interests you.
+~
+27 d 10
+E
+scroll~
+The scroll reads as follows:
+
+Dear Lord British,
+   This is Dupre reporting about the paladin expedition.  We are in the
+process of clearing the desert of those annoying sandtraps.  Unfortunately
+one of my men had wandered into the dragon cave and was slain by that evil
+creature.  We need another knight, and also, the dragon had a moonstone.
+Thank you, my liege.
+                      Your Servant,
+                         Dupre
+~
+E
+map~
+The map has a rough drawing of the camp and to the north a small segment
+of the desert, and a drawing of a winged lizard near the very north.
+~
+D3
+~
+~
+0 -1 2734
+S
+#2736
+Dupre's Tent~
+   This is the commander tent. It is full of commander type things.
+~
+27 d 10
+D0
+~
+~
+0 -1 2734
+S
+#2737
+A Small Tent~
+   The paladin's tent is very Spartan, as he has to live without much in
+order to develop his Honor.
+~
+27 d 10
+D1
+~
+tent~
+1 -1 2738
+S
+#2738
+Desert Entrance~
+   You feel the hot desert wind blow sand into your face as you look at
+those dunes.
+~
+27 0 10
+D0
+~
+~
+0 -1 2741
+D1
+~
+tent~
+1 -1 2739
+D3
+~
+tent~
+1 -1 2737
+S
+#2739
+A Small Tent~
+   The paladin's tent is very Spartan, as he has to live without much in
+order to develop his Honor.
+~
+27 d 10
+D3
+~
+tent~
+1 -1 2738
+S
+#2740
+The Desert~
+   The desert in the northeast part of Britannia is a perfect example of
+its kind. Dry, ugly, and lots of sand.
+~
+27 0 10
+D0
+There is a shimmering light.
+~
+~
+0 -1 2744
+D1
+~
+~
+0 -1 2741
+S
+#2741
+The Desert~
+   The Desert is an ugly place. Sand whips into your eyes, making you
+unsure of where you are and what you see.
+~
+27 0 10
+D1
+~
+~
+0 -1 2742
+D2
+~
+~
+0 -1 2738
+D3
+~
+~
+0 -1 2740
+S
+#2742
+The Desert~
+   You trudge on. This desert seems endless.
+~
+27 0 10
+D0
+~
+~
+0 -1 2746
+D1
+There is a shimmering light.
+~
+~
+0 -1 2743
+D3
+~
+~
+0 -1 2741
+S
+#2743
+The Desert Moongate~
+  Your thirst seems to slacken as you see the comforting glow of the
+moongate.
+~
+27 c 10
+D3
+~
+~
+0 -1 2742
+S
+#2744
+The Desert Moongate~
+   Your thirst seems to slacken as you see the comforting glow of the
+moongate.
+~
+27 0 10
+D2
+~
+~
+0 -1 2740
+D4
+There is just blue.
+~
+moongate~
+39 -1 1
+S
+#2745
+The Desert~
+   There is a large cave to the north. Smoke pours out of it at regular
+intervals.
+~
+27 0 10
+D0
+The smoke obscures all vision.
+~
+~
+0 -1 2748
+D1
+~
+~
+0 -1 2746
+S
+#2746
+The Desert~
+   The sands blows into your ear and eyes.
+~
+27 0 10
+D1
+There is a shimmering light.
+~
+~
+0 -1 2747
+D2
+~
+~
+0 -1 2742
+D3
+~
+~
+0 -1 2745
+S
+#2747
+The Desert Moongate~
+   Your thirst seems to slacken as you see the comforting glow of the
+moongate.
+~
+27 0 10
+D3
+~
+~
+0 -1 2746
+D4
+There is just blue.
+~
+moongate~
+1830 -1 1
+S
+#2748
+The Dragon Cave~
+   The cave is smoky. There is a glint of gold.
+~
+27 ad 10
+D2
+~
+~
+0 -1 2745
+S
+#2749
+The Shrine of Spirituality~
+   In this room a huge ankh sits on a pedestal. The Shrine is the source
+of all magical power. The Timelord himself lives here. There is a moongate
+here also, and last of all there is a huge engraving taking up the west
+wall.
+~
+27 cd 2
+E
+engraving~
+Pilgrim,
+     You have reached the final step on your way to enlightenment.  In
+this last step you will be shown ultimate evil to your north, and ultimate
+good to your south.  This is the land of the undead.
+
+Both those whose goodness links them to the land, and those whose evilness
+was rejected dead are here.  To have true spirituality one must know both.
+Once you have been strengthened and forge through the evil, there is one
+final test before you prove yourself equal to the Avatar himself.  You
+must endure the test of time.
+~
+E
+ankh~
+Through your entire journey you have not understood the real symbol of the
+ankh.  Its true beauty only realizes itself to you now.  This knowledge
+transcends all that come before.
+~
+D0
+You peer into the blackness, and hear shrieks and sounds totally inhuman.
+~
+~
+0 -1 2754
+D2
+Peace infuses your body. The graveyard is a solemn and sobering place.
+~
+~
+0 -1 2757
+S
+#2750
+The Place of Ultimate Evil~
+   The ground itself seems malevolent. It sinks and engulfs you.
+~
+27 and 11
+D1
+~
+~
+0 -1 2751
+D2
+~
+~
+0 -1 2753
+S
+#2751
+The Place of Ultimate Evil~
+   The air sickens you. You choke on whatever flows through the air.
+~
+27 axgd 11
+D1
+~
+~
+0 -1 2752
+D2
+~
+~
+0 -1 2754
+D3
+~
+~
+0 -1 2750
+S
+#2752
+The Place of Ultimate Evil~
+   It is dark, there is no evidence of light except what you have with
+you. And this is swallowed by the darkness within 2 feet.
+~
+27 and 11
+D2
+~
+~
+0 -1 2755
+D3
+~
+~
+0 -1 2751
+S
+#2753
+The Place of Ultimate Evil~
+   Sounds are very weird in this place. Some sounds, like shrieks and
+blood-curdling shouts are amplified, and you hear them frequently. Others
+like your own voice, will not travel to beyond a inch from your face.
+~
+27 axd 11
+D0
+~
+~
+0 -1 2750
+D1
+~
+~
+0 -1 2754
+S
+#2754
+The Place of Ultimate Evil~
+   When you enter this place all of your senses are immediately blasted.
+You breath in that total evilness and feel dirty. You want to leave right
+now.
+~
+27 axgd 11
+D0
+~
+~
+0 -1 2751
+D1
+~
+~
+0 -1 2755
+D2
+~
+~
+0 -1 2749
+D3
+~
+~
+0 -1 2753
+S
+#2755
+The Place of Ultimate Evil~
+   You feel things all over your body. Sucking it and hurting it.
+~
+27 axd 11
+D0
+~
+~
+0 -1 2752
+D3
+~
+~
+0 -1 2754
+S
+#2756
+The Graveyard~
+   The graveyard background noises seem to soothe you. There is light and
+peace. Your own voice carries so well and softly that you seem to be
+telepathically communicating.
+~
+27 0 2
+D1
+~
+~
+0 -1 2757
+D2
+~
+~
+0 -1 2759
+S
+#2757
+The Graveyard~
+   When you walk into here you are immediately soothed. Nothing could be
+wrong with the world. All your senses are pleased.
+~
+27 0 2
+D0
+There is a shimmering light.
+~
+~
+0 -1 2749
+D1
+~
+~
+0 -1 2758
+D2
+~
+~
+0 -1 2760
+D3
+~
+~
+0 -1 2756
+S
+#2758
+The Graveyard~
+   You feel a light breath of air under your clothing. It massages you.
+~
+27 0 2
+D2
+~
+~
+0 -1 2761
+D3
+~
+~
+0 -1 2757
+S
+#2759
+The Graveyard~
+   The ground itself here seems to welcome your footsteps. It is springy
+and causes you little fatigue.
+~
+27 0 2
+D0
+~
+~
+0 -1 2756
+D1
+~
+~
+0 -1 2760
+S
+#2760
+The Graveyard~
+   The scent of the air refreshes you. It is sweet and lovely.
+~
+27 0 2
+D0
+~
+~
+0 -1 2757
+D1
+~
+~
+0 -1 2761
+D3
+~
+~
+0 -1 2759
+S
+#2761
+The Graveyard~
+   The light here is bright and lovely.
+~
+27 0 2
+D0
+~
+~
+0 -1 2758
+D3
+~
+~
+0 -1 2760
+S
+#2762
+Lord British's Castle Entrance~
+   This building is awe-inspiring, just smaller then Yaz's own. Anyway,
+Lord British's personal Jester is here to entertain you.
+~
+27 adD 0
+D0
+You see a fountain.
+~
+~
+0 -1 2763
+S
+#2763
+Castle Fountain~
+   A lovely fountain sits here. To the north you see a guard.
+~
+27 D 0
+D0
+~
+~
+0 -1 2765
+D2
+~
+~
+0 -1 2762
+S
+#2764
+A staircase~
+   There is a magical staircase going up. Beware, for those who go up
+shall not return down. The other exits except for the west are closed for
+construction.
+~
+27 dD 0
+D1
+~
+~
+0 -1 2765
+D4
+You see the altars of enlightenment.
+~
+~
+0 -1 2769
+S
+#2765
+Hallways~
+   This is the entrance for Lord British. Through the great doors to the
+north you can enter. Another hallways passes across this one.
+~
+27 dD 0
+D0
+~
+doors~
+1 -1 2767
+D1
+~
+~
+0 -1 2766
+D2
+~
+~
+0 -1 2763
+D3
+~
+~
+0 -1 2764
+S
+#2766
+Hallway~
+   This is a hallway that would regularly extend from west to east, but it
+is closed for reconstruction. There is a room to your north that can be
+entered.
+~
+27 dD 0
+D0
+~
+door~
+1 -1 2768
+D3
+~
+~
+0 -1 2765
+S
+#2767
+The Throne Room~
+   In the Throne Room there are the two most important figures in the
+world.  The Avatar and Lord British himself.
+~
+27 dD 0
+D2
+~
+doors~
+1 -1 2765
+S
+#2768
+Batlin's Room~
+   Batlin, the molester of animals, and the general jerk, lives here.
+~
+27 dD 0
+D2
+~
+door~
+1 -1 2766
+S
+#2769
+The Altar of Honesty~
+   You may gain true enlightenment here. There is a large plaque on the
+wall.  The path continues only if you use the mantra, to gain
+enlightenment.
+~
+27 d 0
+E
+plaque~
+Honesty is the scrupulous respect for truth, the willingness never to
+deceive oneself or another.
+~
+D0
+The Path Of Enlightenment leads on.
+~
+Path~
+39 2604 2770
+S
+#2770
+The Altar of Compassion~
+   You may gain true enlightenment here. There is a large plaque on the
+wall.  The path continues only if you use the mantra, to gain
+enlightenment.
+~
+27 d 0
+E
+plaque~
+Compassion is non-judgmental empathy for one's fellow creatures.  It is
+pure love.
+~
+D0
+The Path Of Enlightenment leads on.
+~
+Path~
+39 2600 2771
+S
+#2771
+The Altar of Valor~
+   You may gain true enlightenment here. There is a large plaque on the
+wall.  The path continues only if you use the mantra, to gain
+enlightenment.
+~
+27 d 0
+E
+plaque~
+Valor is the courage to take actions in support of one's convictions.
+~
+D0
+The Path Of Enlightenment leads on.
+~
+Path~
+39 2606 2772
+S
+#2772
+The Altar of Justice~
+   You may gain true enlightenment here. There is a large plaque on the
+wall.  The path continues only if you use the mantra, to gain
+enlightenment.
+~
+27 d 0
+E
+plaque~
+Justice is devotion to truth, tempered by love.
+~
+D0
+The Path Of Enlightenment leads on.
+~
+Path~
+39 2602 2773
+S
+#2773
+The Altar of Sacrifice~
+   You may gain true enlightenment here. There is a large plaque on the
+wall.  The path continues only if you use the mantra, to gain
+enlightenment.
+~
+27 d 0
+E
+plaque~
+Sacrifice is the courage to give of oneself in the name of love.
+~
+D0
+The Path Of Enlightenment leads on.
+~
+Path~
+39 2605 2774
+S
+#2774
+The Altar of Honour~
+   You may gain true enlightenment here. There is a large plaque on the
+wall.  The path continues only if you use the mantra, to gain
+enlightenment.
+~
+27 d 0
+E
+plaque~
+Honour is the courage to stand for truth, against any odds.
+~
+D0
+The Path Of Enlightenment leads on.
+~
+Path~
+39 2607 2775
+S
+#2775
+The Altar of Spirituality~
+   You may gain true enlightenment here. There is a large plaque on the
+wall.  The path continues only if you use the mantra, to gain
+enlightenment.
+~
+27 d 0
+E
+plaque~
+Spirituality is the concern with one's inner being and how one deals with
+truth, love, and courage.
+~
+D0
+The Path Of Enlightenment leads on.
+~
+Path~
+39 2603 2776
+S
+#2776
+The Altar of Humility~
+   You may gain true enlightenment here. There is a large plaque on the
+wall.  The path continues only if you use the mantra, to gain
+enlightenment.
+~
+27 d 0
+E
+plaque~
+Humility is perceiving one's place in the world, not according to one's
+own accomplishments, but according to the intrinsic value of all
+individuals.
+~
+D0
+The Path Of Enlightenment ends there.
+~
+Path~
+39 2601 2777
+S
+#2777
+The Enlightenment~
+   A voice booms out, "You are now eight part enlightened. To truly become
+an Avatar, though, you must experience what he has experienced. Go through
+the time warp and fight his enemies. Beware, only High Mortals should
+attempt this challenge."
+~
+27 d 0
+D4
+The Time Warp changes space, and fluxes its surroundings.
+~
+warp~
+39 2616 2778
+S
+#2778
+In the Warp~
+   This is a forest. You were sent very far back in time. Before there was
+a Britannia. Almost before there was a Lord British. This is the time of
+Mondain.  The first enemy that the Avatar met.
+~
+27 d 0
+D4
+The Time Warp leads you to another place.
+~
+warp~
+39 2616 2779
+S
+#2779
+In the Warp~
+   You are in a featureless room. You see the apprentice and lover of
+Mondain here. She does not seem happy to see you.
+~
+27 d 0
+D4
+The Time Warp zips to the future.
+~
+warp~
+39 2616 2780
+S
+#2780
+In the Warp~
+   You see the last of the Triad of Evil. With its destruction came the
+breaking of the world.
+~
+27 d 0
+D4
+The Time Warp continues on.
+~
+warp~
+39 2616 2781
+S
+#2781
+The Enlightenment~
+   A voice booms out, "You have now truly became Enlightened. You have
+fought and defeated the Avatar's enemy of the past. Now the time warp
+leads to the future. Only the truly courageous can survive the enemies
+there."
+~
+27 d 0
+D4
+The Time Warp changes space, and fluxes its surroundings.
+~
+warp~
+39 2616 2782
+S
+#2782
+In the Warp~
+   You seem to be in a castle. But there are torture devices here, and an
+angry King.
+~
+27 d 0
+D4
+The Time Warp sputters and crackles.
+~
+warp~
+39 2616 2783
+S
+#2783
+In the Warp~
+   You seem to be in a blue room. It appears to be only 2 dimensional as
+it sparkles. There is also a big red face here.
+~
+27 0 0
+S
+#2784
+The Lagoon~
+   The whirlpool-like ocean is to the north, and the beach is back to the
+east.
+~
+27 0 0
+D0
+The Ocean Roars.
+~
+~
+0 -1 2718
+D1
+The beach sparkles.
+~
+~
+0 -1 2713
+S
+#99999
+$~

@@ -1,0 +1,1699 @@
+#6600
+gateguard elf guard cityguard m6600~
+The gateguard~
+The Tynstri guard in his dazzling white uniform stands at attention.
+~
+The gateguards are chosen for their immense good looks as well as their
+strength and nobility of character.  Their ears come to a beautiful
+point on each side of their heads.  They are dressed in immaculate
+white uniforms decorated with gold braid at the shoulders and shiny
+gold buttons down the front.  Although apparently at their post for
+show, the guards are very capable of defending their fair city.
+~
+1 0 bm dkr 400 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1 
+625 58333 8 8 1
+A
+%%3 emote snaps his heels together and salutes you smartly.;%3 emote  
+stares stonily straight ahead, looking intent.;%1 boast;%2 flex;%2
+strut~
+#6601
+watcher elf guard m6601~
+The watcher~
+The watcher is an elf of exceptionally keen vision and powerful lungs.
+~
+The short, keen-eyed elf has chosen to spend his days and nights
+watching over the kingdom.  Many dangers threaten a kingdom of
+forest-dwellers, not the least of which is fire.  Recently, too, the
+kingdom has faced a plague of dragons, reputedly the worst in a
+millenia.  Gnomish scientists report they are growing deep in the
+bowels of the earth, and occasionally the dragons and their kin may be
+seen flying low over the green forests of Tynstri.
+~
+1 0 bm dkr 500 S
+35 2 -9 1d1+523
+400 500 100 1d17+18
+-1 -1 -1 
+1225 141666 8 8 1
+A
+%%5 emote stares moodily out at the forest.;%5 smile ;%5 emote 
+mutters, "These young elves know nothing about fighting dragons!"~
+#6602
+watcher elf guard~
+The watcher~
+The watcher stands his lonely vigil, alert to danger.
+~
+The watcher spends his days and nights watching the road leading to
+Tynstri, watching for danger.  At 983 years old, he is past his
+fighting prime, but still eager to defend his homeland.  The watcher 
+retains the keen vision of his youth, and is ready to alert the 
+villagers of any threat.  He is still strong and stands tall and 
+proud.
+~
+1 0 bm dkr 500 S
+35 2 -9 1d1+523
+400 500 100 1d17+18
+-1 -1 -1 
+1225 141666 8 8 1
+A
+%%5 Hey! You! What are you doing up here?;%5 Bah! Young elves have no 
+idea of the dangers the dragons bring!;%5 emote looks directly into 
+your eyes, then grabs the big horn and sounds a warning!~
+#6603
+mother vulture~
+The mother vulture~
+The mother vulture glares at you angrily, protecting her nest.
+~
+Vultures are very enormous birds and this one is no exception.  Shiny
+black feathers cover her huge wingspan, and her eyes glow with a
+fiercely protective maternal light.  Her strong talons and sharply
+hooked beak are usually used to rip small animals into tiny pieces to
+feed her nestlings, but she would take on a larger animal (you!) if
+need be.
+~
+6 0 b krB -200 S 
+40 6 -15 10d20+350
+408 500 100 3d6+50 -1
+302 100 -1
+-1
+158 150000 6 6 2
+A
+%%5 emote preens, carefully cleaning each feather with her beak.~
+#6604
+Lisette bartender elf shopkeeper~
+Lisette~
+The dainty bartending elf looks up and greets you by name.
+~
+Lisette looks almost too good to be true.  Her chestnut hair tumbles
+thickly down her back to her waist, and her eyes twinkle cheerfully at
+you from an expressive elven face.  She is a tiny, dainty elf and
+appears too fragile to manage the rowdy crowd in this bar.
+~
+1 0 bg dhk 250 S 
+109 -20 -200 1d900+30000
+400 500 100 100d100+99 -1
+-1
+-1
+0 10 8 8 2
+A
+%%5 emote carefully wipes down the bar with an old rag.;%5 chuckle;%5 
+bkiss bouncer~
+#6605
+bouncer elf~
+The bouncer~
+The bouncer looks strong enough to handle a whole band of drunken
+ogres.
+~
+The bouncer looks almost too muscle bound to be an elf.  At two meters
+(6'6") he has the height, but his broad chest and shoulders and
+muscular thighs tell you he has relatives from one of the other, more
+"meaty" races of this world.  Whatever his origin, he adores Lisette
+and allows no roughness in her bar.
+~
+1 0 bm dkr 100 S
+30 5 -6 1d1+445
+400 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 1
+A
+%%5 wink lisette;%5 emote looks around the room, watching out for 
+trouble.;%1 glare;%2 flex;%2 growl~
+#6606
+lizardman drinker~
+The lizardman~
+The lizardman is quietly drinking in a corner, ogling the bartender.
+~
+The lizardman comes here occasionally to have a drink and watch people
+come and go.  He is tall, with a longish tail that tends to whip back
+and forth when he is upset.  His leathery skin looks very thick, which
+could be why he is ignoring the glaring looks he gets from the
+bouncers.
+~
+18 3 b krD -150 S 
+28 9 -12 7d7+250
+405 500 55 4d6+4
+407 500 45 4d7+3 -1
+331 100 300 100 328 90 338 80 -1
+-1
+768 90000 8 8 1
+A
+%%1 stare lisette;%1 emote slyly ogles Lisette through half closed 
+lids.;%1 stare lisette; %1 drool Jemara~
+#6607
+fairy Jemara~
+Jemara~
+Jemara the Fairy Warrior sits at the bar, staring moodily at drink.
+~
+Jemara has been friends with Lisette for years, and is a frequent
+visitor at the bar.  A bit flighty, she's had trouble settling down
+with just one fairy.  She comes to Lisette to pour out her heart.
+Jemara has bright red hair that flows in thick waves down to her tiny
+waist.  She has quick, delicate movements, and seems to be in constant
+motion.
+~
+1 4 b B 0 S
+30 5 -6 1d1+445
+400 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 2
+A
+%%5 emote tosses her curls back over her shoulder.;%2 flirt bouncer;%5 
+wiggle;%7 wink bouncer~
+#6608
+Gamarr~
+Gamarr~
+Gamarr the half-elf carefully evaluates his cards, his face blank.
+~
+Gamarr is an infrequent visitor to the bar, but he is always up for a
+hand of poker with the other "boys" in the back room.   He wins more
+often than he loses.  Gamarr is tall, athletic and smooth.  He has an
+easy kind of charm that his fellow poker players trust.  Gamarr is the
+source of the elven girlie posters lining the walls, which tend to
+distract his opponents from their losses.  Gemarr is a cautious cheat.
+~
+1 3 bc ksr -100 S
+32 4 -7 1d1+476
+400 500 100 1d16+17
+-1 -1 -1 
+1024 116666 8 8 1
+A
+%%2 emote folds his cards into a neat stack and places them facedown on 
+the table.;%5 smoke~
+#6609
+rowland half-elf~
+Rowland~
+Rowland the half elf rocks back in his chair and leers at the pinups.
+~
+Rowland is a regular at the bar and in the backroom.  He whines loudly
+about being misunderstood at home, but is generally ignored here.
+Rowland is very large, very fat and very sloppy.  He spends a lot of
+money on beer at the bar, but he usually manages to spill at least one
+drink, and frequently causes fights.
+~
+1 0 b kr 0 S
+28 6 -5 1d1+414
+400 500 100 1d14+15
+-1 -1 -1 
+784 83333 8 8 1
+A
+%%5 snort; %5 whine~
+#6610
+poker player gambler~
+The gambler~
+The gambler throws down his cards in disgust.
+~
+The gambler has been coming here Saturday nights for years for a
+friendly game of cards.  He enjoys the mead that Lisette keeps flowing
+and the companionship of his buddies, to say nothing of the elven
+girlie pictures decorating the walls.  He never wins much, but he never
+loses much either.
+~
+1 0 be dk 250 S
+30 5 -6 1d1+445
+400 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 1
+A
+%%5 insult player;%2 stare~
+#6611
+Rictus~
+Rictus~
+Rictus grins at you with a smile so wide it would shame a shark.
+~
+Hair slicked carefully back and shoes polished to a mirror shine,
+Rictus is a very carefully dressed elf.  He has the widest smile you
+have ever seen, and his teeth gleam whitely in the light.  You sense
+somehow, in spite of the wide smile and well dressed air, that there is
+a deep core of evil inside him.  When you see the unwinking eye in the
+medallion at his neck, your worst fears are confirmed.
+~
+1 0 0 s -800 S
+50 -6 -17 1d1+781
+400 500 100 1d25+26
+-1 -1 -1 
+2500 313333 8 8 1
+A
+%%5 smile;%2 grin;%1 smirk~
+#6612
+recruit elf~
+The recruit~
+The eager recruit trains for the day he will be able to free the elves.
+~
+The Free the Elves movement has its headquarters right in Tynstri,
+where
+they recruit and train strong elves to infiltrate the assassin hideaway
+where their brethren have been imprisoned.  The path is hard to
+victory, but their cause is just!  This elf is quite young, but strong
+and fierce in his determination to prevail.
+~
+1 0 0 k 100 S
+30 5 -6 1d1+445
+400 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 1
+#6613
+radical elf~
+The wild-eyed elf~
+The wild-eyed radical elf rescues elf slaves from all over the world.
+~
+He cares for nothing except his cause, saving the kidnapped elves.
+Bands of assassin marauders have been seen in the forest near Tynstri.
+They capture unwary elves and sell them as slaves to the drow or keep
+them to cook in their kitchens.  The radical elf has dedicated his life
+to rescuing these poor unfortunates.  His hair is in a wild golden halo
+around his head and his eyes have the look of a fanatic, which he is.
+If you are not there to help him in his cause, then get out of his way.
+~
+1 0 b krz 500 S
+35 2 -9 1d1+523
+400 500 100 1d17+18
+-1 -1 -1 
+1225 141666 8 8 1
+#6614
+Rose shopkeeper~
+Rose~
+Rose knows she has a good nose for a bargain.
+~
+Rose prefers to think of her merchandise as "previously owned", and of
+herself as caring for Mother Nature by recycling clothing and armor no
+longer needed by the people who come to her shop.  A sharp-eyed elf of
+middle years, Rose will make alterations on the spot so that anything
+you buy will fit you.
+~
+1 0 b dhk 0 S 
+109 -40 -200 1d900+30000
+400 500 100 100d100+99 -1
+-1
+-1
+0 10 8 8 2
+#6615
+Flora shopkeeper~
+Flora~
+Flora hurries up to you, wide white apron around her ample waist.
+~
+Flora's long blond hair has slowly turned white over the years, and her
+soft clear skin has become as full of small wrinkles and lines as an
+old apple.  She has run the Flowers & Sweets shop here for long years.
+She enjoys helping people choose gifts, and she is able to keep an eye
+on her philandering elf, Seymour, from here.
+~
+1 0 b dhk 0 S 
+109 -40 -200 1d900+30000
+400 500 100 100d100+99 -1
+-1
+-1
+0 10 8 8 2
+#6616
+Elmer shopkeeper~
+Elmer~
+The dusty old elf peers at you over his glasses.
+~
+Elmer wanted to call his store "Elmer's Treasures" because that is what
+he thinks of each strange little item he sells here.  He delights in
+things - useful or no - which cannot be readily found anywhere else.
+Elmer is something of a one-of-a-kind himself!
+~
+1 0 b dhk 0 S 
+109 -40 -200 1d900+30000
+400 500 100 100d100+99 -1
+-1
+-1
+0 10 8 8 1
+A
+%%1 emote mutters abruptly, "Yes, yes, well, now WHAT was it you
+wanted?"~
+#6617
+Seymour shopkeeper~
+Seymour~
+Seymour looks at you nervously through his badly splotched glasses.
+~
+Seymour waits on his customers with badly shaking hands.  He is an elf
+of middle years, and lives a quiet life.  Caring for his plants and
+mixing concoctions have become the main focus of his life.  His blond
+hair has become liberally mixed with gray, and his elven slenderness is
+marred by a slight paunch around his middle.  Too many visits to his
+wife's sweets shop?  Perhaps.
+~
+1 0 b dhk 0 S 
+109 -40 -200 1d900+30000
+400 500 100 100d100+99 -1
+-1
+-1
+0 10 8 8 1
+A
+%%2 say Would you like to visit my special plant in the back room?~
+#6618
+Audrey assistant~
+Audrey~
+Audrey bats her baby blue eyes at you and gives you a toothy grin.
+~
+Audrey is very well cared for.  She never has a bad hair day.  Every
+blond hair is perfectly groomed.  Her fingernails are quite long,
+perfectly shaped and a different shade every day.  She wears frilly
+pink and white dresses to work.  You wonder what her function is at
+Seymour's greenhouse.
+~
+1 0 b k 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1 
+625 58333 8 8 2
+#6619
+AudreyII plant~
+AudreyII~
+The voracious, man-eating plant Audrey II, winks slyly at you and says,
+"C'mere cutie!"
+~
+AudreyII is the special pet of Seymour, although Seymour sometimes
+wonders who's the pet and who is the owner.  AudreyII grew from a tiny
+bulb which was a present from Brother Russ from the wiccan monastery on
+the hill.  She grew rapidly into the massive size you see now, filling
+entirely one corner of the room, her vine-like branches reaching out
+towards you.   "Aw, c'mon", AudreyII says entreatingly, "Come closer
+and give me a tickle!".  AudreyII leers at you, and there's a look on
+the blossom of the plant that somehow reminds you of a cat, watching
+and waiting for a mouse to fall into its clutches.
+~
+1 0 b 0 -300 S 
+40 7 -16 8d8+500
+408 500 70 4d4+15
+79 0 30 1d0+80 -1
+331 90 363 95 365 95 322 90 -1
+-1
+20 150000 8 8 2
+A
+%%5 emote says in her deep baritone voice, #y"Mmm ... hmmm !! You look 
+good enough to eat!"#N;%2 emote ogles you, leering.;%2 drool;%2 wink;%2 
+beckons to you, curling a leaf at you.;%2 say Is that a pistil in your 
+pocket or are you just happy to see me?;%3 emote slyly wraps a vine 
+around your waist and tugs you closer.~
+#6620
+myconoid mushroom~
+The ferocious fungus~
+The myconoid mushroom dislikes you on sight!
+~
+The mushroom is a bit cranky.  He is only happy in the dark damp closed
+in world he normally inhabits.  Sunlight and fresh air make him feel
+sick.  Seymour planted a few myconoids as an experiment many years ago,
+but he unfortunately forgot about them.
+~
+1 1 bcfg z 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1 
+625 58333 8 8 0
+A
+%%05 say The light! The light! Get rid of that light, you monster!~
+#6621
+Roland singer entertainer~
+Roland~
+Roland the roving bard sings epic tales of heroes of old.
+~
+A small elf of advancing years, Roland spent many years on the road,
+wandering from place to place, making a living by bringing news of
+lands far away in his song.  He sang of the glorious deeds of heroes of
+old and of heroes of today.  As age began to dim his sight and hearing,
+he came home to retire.  He works at Barns & Nibble as a favor to his
+cousin, bringing in more customers with his entertainment.
+~
+1 0 gb k 250 S
+42 -2 -13 1d1+639
+400 500 100 1d21+22
+-1 -1 -1 
+1764 220000 8 8 1
+#6622
+waiter shopkeeper~
+The waiter~
+The waiter is patiently waiting for your order.
+~
+Harry is working at Barns & Nibble while he is still a student, which
+he fears will be forever.  He likes the easy pace here.  People come in
+and sit and read books from the shelves, sip the cafe's special teas
+and chat with friends.  Harry dislikes the owner's cats, which always
+seem to trip him up, and he can't understand why they are allowed in
+here.
+~
+1 0 b dhk 0 S 
+109 -20 -200 1d900+30000
+400 500 100 100d100+99 -1
+-1
+-1
+0 10 8 8 1
+#6623
+cluecat cat~
+Cluecat~
+Cluecat's whiskers twitch as he watches you.
+~
+Cluecat's a very funny looking cat, with his tail ending in a strange
+little curve.  He is a orange tabby cat, big and fluffy.  He is very
+curious as well, even for a cat, and he has already used 8 of his 9
+lives as a result!  Cluecat's funny hooked tail looks just like a
+question mark.
+~
+3 0 bc dkr 0 S
+28 6 -5 1d1+414
+408 500 100 1d14+15
+-1 -1 -1 
+784 83333 8 8 1
+#6624
+bluecat cat~
+Bluecat~
+Bluecat follows Roland around when he is singing blues.
+~
+Bluecat is indeed a kind of smoky gray-blue, but he was named not for
+his color but for his love of blues music.  Ever since Roland has been
+singing at Barns & Nibble, Bluecat has been his disciple.  He twines in
+and out of Roland's legs as he walks.  He yowls when Roland sings
+something other than blues.    He purrs loudly and drools when Roland
+does sing blues.
+~
+3 0 b dkr 0 S
+29 5 -6 1d1+429
+408 500 100 1d14+15
+-1 -1 -1 
+841 91666 8 8 1
+A
+%%5 purr;%5 emote rubs himself against your legs.;
+%5 em howls to the music.~
+#6625
+Stewcat cat~
+Stewcat~
+Stewcat casually eyes you as you receive your food, ready grab a bite.
+~
+Although he is enormously fat, Stewcat seems always to be hungry.  He
+loves being at Barns & Nibble because he loves the food here, and
+appreciates all the fine elves who come in and buy some and eat it
+here.  If they aren't wary, he manages to steal some.  Very clever at
+sizing elves up, he manages to look pitiful enough that many patrons
+give him their food voluntarily.  And, of course, there are always the
+leftover crumbs people leave behind.  He is especially partial to fish
+& chips, and hopes you will remember that when you come back.
+~
+3 0 b kr 0 S
+30 5 -6 1d1+445
+408 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 1
+A
+%%5 emote whines pitifully, trying to look hungry.~
+#6626
+saleself shopkeeper~
+The travelling saleself~
+#cThe saleself whispers to you, "Hey, baby, how's your #rlove
+life#c?."#N
+~
+Although perfectly clean, there is something unwholesome about this
+elf.  Perhaps it is just the loud pink, bright orange, pea green and
+saffron of his overtunic.  Perhaps it is the strong smell of mint on
+his breath.   Or perhaps the arch look in his eyes as he seems to size
+you up.
+~
+1 3 bch s -400 S
+50 -6 -17 1d1+781
+400 500 100 1d25+26
+-1 -1 -1 
+2500 313333 8 8 1
+A
+%%10 say Say list, baby, see all I got to offer!~
+#6627
+horatio weaponsmith shopkeeper~
+Horatio~
+Horatio sharpens the weapons and recounts stories of his days of glory.
+~
+Horatio turned in his uniform when he married, and completed training
+as a weaponsmith.  He remembers how important it was to have a sharp,
+properly tempered weapon.  Being elven, he also recognizes the
+importance of magic in the weapons he sells.  Horatio's muscles bulge
+beneath his thin cotton tunic.  A red cotton headband keeps the sweat
+from his eyes.
+~
+1 0 b dhk 0 S 
+109 -40 -200 1d900+30000
+400 500 100 100d100+99 -1
+-1
+-1
+0 10 8 8 1
+A
+%%1 flex~
+#6628
+bunny punk~
+The punk bunny~
+The orange and magenta bunny wiggles his long, earring-bedecked ear.
+~
+"Whoa! Baby!" you think as you see the cute little bunny with the
+wildly-dyed fur.  Was this some kind of Easter prank or what?  Then you
+notice the row of tiny earrings piercing one long ear and the strange
+rhythm to his hop and you know you've just met your first funky punk
+bunny.
+~
+0 3 c r -100 S
+38 0 -11 1d1+572
+400 500 100 1d19+20
+-1 -1 -1 
+1444 173333 8 8 1
+A
+%%2 hop;%2 emote twitches one ear;%5 say Move it or lose it, baby;%5 
+say Hey, what's hoppening, baby?~
+#6629
+pickpocket elf~
+The sly pickpocket~
+The pickpocket's hand slides deftly into your pocket.
+~
+A slim young woman, dressed casually but neatly in a long tunic with
+many pockets.  Her hair is more of a golden brown than the usual blond
+of elves.  At first she appears very clumsy, as you notice she seems to
+collide with a large number of shoppers.  Then you notice that when she
+does, her hand dips quickly into a pocket, bag or backpack of her
+victim, and that even as she is profusely apologizing she is dropping
+something she has filched into one of her own many pockets.
+~
+1 3 0 dks -300 S
+60 -11 -23 1d1+983
+400 500 100 1d30+31
+-1 -1 -1 
+3600 420000 8 8 2
+#6630
+pickpocket elf~
+The shadowy elf~
+The gray-clad elf blends in with the shadows where he strolls.
+~
+The elf lost everything in a sudden blast of fire from a large purple
+dragon.  His family home of the past 500 years was turned to cinders.
+Down hearted, down trodden and destitute, he has taken to a life of
+crime not so much for the paltry amounts he is able to filch from
+passers by, but for the exultant feeling of control.
+~
+1 3 0 ks -300 S
+40 -1 -12 1d1+605
+400 500 100 1d20+21
+-1 -1 -1 
+1600 196666 8 8 1
+A
+%%2 emote looks at you craftily.~
+#6631
+bunny vampire~
+The vampire bunny~
+The adorable little bunny snarls at you, revealing long, pointy fangs.
+~
+"What a cute little cotton-tailed piece of fluff!" you think ... The
+little white bunny is right out of a child's storybook ... until he
+snarls and you see the long pointed fangs of a vampire bunny!  More
+like a nightmare!  Get out the garlic!
+~
+3 0 0 bdk -400 S
+50 -6 -17 1d1+781
+408 500 100 1d25+26
+-1 -1 -1 
+2500 313333 8 8 2
+A
+%%3 hop;%2 snarl~
+#6632
+assassin~
+The assassin kidnapper~
+The assassin is kidnapping elves to be Gontran's kitchen slaves.
+~
+Covered head to toe in a midnight-black cloak, it is impossible to
+determine any of the features of this assassin.   His movements are
+furtive as he slips quietly from cover to cover waiting for someone to
+walk through these woods alone.
+~
+1 3 f rs -300 S
+70 -16 -28 1d1+1224
+400 500 100 1d35+36
+-1 -1 -1 
+4900 526666 8 8 1
+#6633
+drow~
+a drow~
+The drow is looking for elves to enslave.
+~
+Born to the dark path, well-trained in fighting, in magic, and in
+cruelty, the drow travel in darkness to find and enslave others.  Some
+are sold, some are eaten and some are forced to work - perhaps as
+targets - back in the dark drow caves.  Being strong and long of life,
+the elves are much sought after as slaves.
+~
+1 3 f k -400 S
+72 -17 -30 1d1+1279
+400 500 100 1d36+37
+-1 -1 -1 
+5184 550000 8 8 1
+#6634
+vine thorn thorny~
+The thorny vine~
+The long, thick vine attempts to wrap itself around you.
+~
+The vine is about as thick as your little finger, with thorns as long
+as your thumbnail, and much much sharper.  It wraps itself around your
+arms, legs and neck as you push your way along the trail, as if it
+would prefer to keep you captive.  Local elves call this the "nightmare
+vine" because it is so hard to escape.
+~
+0 0 bf 0 0 S
+73 -18 -30 1d1+1307
+400 500 100 1d36+37
+-1 -1 -1 
+5329 565000 8 8 0
+#6635
+dryad nymph~
+The dryad~
+The beautiful dryad dances nimbly, enchanting you with her grace.
+~
+The dryad appears to float gracefully above the ground in her dance.  A
+young female elf, she has chosen to "bond" with the trees, and she and
+her companions spend their days caring for their clearing, planting it
+with magic.  As she dances, she sings, and the combined songs of all of
+the dryads in this clearing is so lovely that even the trees stop
+growing to listen.
+~
+1 1 g bdhka 1000 S
+57 -10 -21 1d1+925
+400 500 100 1d25+27
+-1 -1 -1 
+1929 325000 8 8 2
+#6636
+unicorn~
+The unicorn~
+The snowy white unicorn rests proudly beneath the huge tree.
+~
+The unicorn is a solitary, magical creature, enchanted with the magic
+of the maidens of the forest.  In size and form, he strongly resembles
+a noble white stallion, with the exception of the long golden horn
+sprouting from his forehead.   He is a very shy, wary creature and
+rarely seen by mortals such as you.
+~
+0 0 b h 1000 S 
+105 -40 -40 20d5+6000
+406 500 85 14d4+45
+96 0 7 1d0+75
+101 0 8 1d0+75 -1
+322 100 -1
+-1
+500 900000 8 8 1 
+#6637
+pookah~
+The pookah~
+This old nag looks like a safe and easy ride - if a bit slow.
+~
+The pookah loves to trick unwary travellers looking for an easy ride to
+get them off their feet.  He is a shape-changer, and can look like
+whatever he wants, but most often he will pretend to be a tired old
+horse.  When a tired old elf climbs on, he takes off quickly and gives
+them a merry, scary ride.
+~
+7 1 0 s 0 S
+75 -19 -31 1d1+1366
+408 500 100 1d37+38
+-1 -1 -1 
+5625 595000 8 8 1
+#6638
+pixie~
+The pixie~
+The pixie laughs at you, unseen, as he *pokes* and *tickles* you.
+~
+A tiny, distant relative of the elves, the pixies are like small
+children in their love of mischief.   The pixie loves to take you by
+surprise.  Some of the elder elves in Tynstri wanted to force the
+pixies
+to wear bells on their toes so there would be some warning before the
+pixies got up to their tricks, but the pixies just laughed and said,
+"Gotta catch us first!"
+~
+1 1 0 bdsB -10 S
+70 -16 -28 1d1+1224
+400 500 100 1d35+36
+-1 -1 -1 
+4900 526666 8 8 1
+A
+%%2 snicker;%2 cackle;%1 giggle;%3 smirk~
+#6639
+tree~
+The tree~
+The blossom-laden tree is filled with the spirit of Mother Earth
+herself.
+~
+Tree or female spirit?  The tree towers over all of the other trees in
+the glade.  The branches are thick and strong, with many small branches
+leading off each larger one.  The tree is covered with dark green
+leaves, large and soft, and large pink and white blossoms.  The
+fragrance from the blossoms is sweet, enticing.  The tree's bark is a
+deep brown, with deep vertical wavy ridges.  Touching the tree fills
+you with a sense of peace.
+~
+1 0 b khD 1000 S 
+95 -4 -55 30d50+2000
+400 500 30 8d8+40
+106 0 30 1d0+75
+66 0 10 1d0+90
+86 0 10 1d0+90
+76 0 03 1d0+90
+58 0 07 1d0+90
+71 0 10 2d0+90
+-1
+-1
+-1
+5000 900000 8 8 2
+#6640
+mudsucker fish~
+The mudsucker~
+This mudsucker swallows easy prey along the bottom of the lake.
+~
+The mudsucker is a sandy shade of brown, perfect for blending into her
+surroundings.  A long, rounded fish with strangely glowing golden eyes,
+the mudsucker moves slowly and as little as possible preferring instead
+to wait for her prey to swim close to her.  She opens her mouth as you
+swim by, perhaps hoping you will simply swim in?
+~
+15 0 0 0 0 S
+70 -16 -28 1d1+1224
+400 500 100 1d35+36
+-1 -1 -1 
+4900 450000 8 8 2
+A
+%%1 emote opens her many-toothed mouth wide, waiting for you to swim 
+into her maw.~
+R
+-1 -1 -1 -1 20
+#6641
+bullywug~
+The bullywug~
+The bullywug's bulging golden eyes focus suddenly on you!
+~
+The bullywug reminds you of a frog, except you've never seen a frog
+quite this big!  His skin is greenish - like a frog, and smooth except
+for the occasional wart.  His hind legs are long and strong and
+powerful.  His face gives no clue  to his thoughts - if indeed he has
+any.  Suddenly his huge rim of a mouth opens and a long, pink,
+snakelike tongue whips out and pulls an enormous insect into his maw.
+~
+1 0 0 k 0 S
+68 -15 -27 1d1+1172
+400 500 100 1d34+35
+-1 -1 -1 
+4624 503333 8 8 2
+A
+%%05 say Ribbit!;%05 emote whips another insect into her mouth with her 
+long pink tongue.~
+R
+-1 -1 -1 -1 20
+#6642
+stickleback~
+The stickleback~
+The stickleback will defend his nest to the death (yours).
+~
+This stickleback is not a huge fish, but what he lacks in size he makes
+up for in determination and intensity ... that and natural defenses.
+His back is covered with sharp thorny spines that look like they might
+hurt if you got too close.  His belly is a beautiful bright red, so you
+know he's guarding his nest.  Sticklebacks are known to fight fish
+several times their size - and win.  You hope he realizes that you are
+NOT a fish and NO threat to his babies!
+~
+0 0 f r 0 S
+73 -18 -30 1d1+1307
+400 500 100 1d36+37
+-1 -1 -1 
+5329 565000 8 8 1
+R
+-1 -1 -1 -1 20
+#6643
+mudskipper~
+The mudskipper~
+Mr. Mudskipper skips toward you, mouth open to take a big bite!
+~
+The mudskipper looks a little like a long, thick snake with tentacles.
+Comfortable in or out of water, he will merrily chase you wherever you
+go.  His grey/green color blends in well with the weeds at the bottom
+of this enormous lake, so watch out for him!
+~
+0 3 0 kr 0 S
+74 -18 -31 1d1+1336
+400 500 100 1d37+38
+-1 -1 -1 
+5476 580000 8 8 1
+R
+-1 -1 -1 -1 20
+#6644
+lamprey eel~
+The lamprey eel~
+The lamprey eel attaches itself to you like an extra arm. 
+~
+The lamprey looks like a long thick tube.  This one is about 40" long
+(100cm).  It has a large round mouth lined with sharp thorny teeth that
+it would like to use to attach itself to you.  "It is so much nicer if
+your food provides you with locomotion and all you have to do is hang
+on and suck", it thinks.
+~
+0 1 c g -250 S 
+78 -9 -27 4d20+1500
+408 500 70 2d50+60
+25 0 10 1d0+99
+100 0 20 1d0+95 -1
+-1
+-1
+450 600000 8 8 1
+A
+%%2 emote sucks out all your life juices as it eats your flesh.~
+R
+-1 -1 -1 -1 20
+#6645
+bass fish~
+The wide-mouthed bass~
+The large, wide-mouthed bass works his jaw up and down slowly. 
+~
+The silver green bass swims in and out of the shadows, silently opening
+and shutting its very large mouth, looking hungrily at you.  The bass
+is covered in thick green and silver scales, and he propels himself
+through the water by means of his powerful fins and his long, muscular
+body.
+~
+15 0 0 r -200 S
+79 -21 -33 1d1+1492
+400 500 100 1d39+40
+-1 -1 -1 
+6241 655000 8 8 1
+A
+%%2 emote practices to take his first bite out of you.~
+R
+-1 -1 -1 -1 20
+#6646
+catfish fish~
+The catfish~
+The catfish stares at you, unblinking, twirling his long wispy feelers.
+~
+The deep blue-green of this catfish tends to make him blend into the
+deep blue-green of the lake.  The long, trailing feelers on each side
+of his mouth give him the appearance of a wise, old elf, however he is
+neither wise nor old, but he IS hungry ...
+~
+15 0 0 0 0 S
+68 -15 -27 1d1+1172
+400 500 100 1d34+35
+-1 -1 -1 
+4624 503333 8 8 1
+R
+-1 -1 -1 -1 20
+#6647
+carp fish~
+The aged carp~
+The ancient carp is gobbling up everything in its path.
+~
+This old carp has been living on the bottom of the lake for over a
+century eating plants, insects, other fish and adventurers who look
+like fish.  He has a blunt nose and a small, thick-lipped mouth, with 2
+pairs of feelers dangling from his upper lip.   He has a wide, heavy
+body covered with large scales.  He is olive green on back and his
+sides are a dusky gold, his belly a bright yellow.
+~
+15 0 f 0 -100 S
+76 -20 -32 1d1+1396
+400 500 100 1d38+39
+-1 -1 -1 
+5776 540000 8 8 1
+R
+-1 -1 -1 -1 20
+#6648
+fiddler crab~
+The fiddler crab~
+The fiddler crab plays a jaunty tune on his fiddle, luring you closer.
+~
+The fiddler crab has two long sharp claws that he manipulates with
+amazing dexterity.  He plays happy songs on his fiddle, hoping you will
+be distracted by the music and dance right into his claws.
+~
+15 3 bf r 0 S 
+70 -13 -30 4d25+800
+400 500 70 7d8+30
+30 0 30 1d0+70 -1
+318 90 322 95 -1
+-1
+20 450000 8 8 1
+A
+%%5 emote breaks in to a wild song on his fiddle.~
+R
+-1 -1 -1 -1 20
+#6649
+novice monk~
+The novice monk~
+The novice monk shops for the wiccan monastery on the hill.
+~
+Dressed in a long, dark green woolen robe tied at the waist with a
+braided belt, the novice wanders from shop to shop looking for items
+needed by his brothers at the monastery.  He is an elf of medium
+height, his long blond hair tied back with a thong made from braided
+grasses.  His deep blue eyes look out at you with intelligence.
+~
+1 0 0 0 1000 S
+35 2 -9 1d1+523
+400 500 100 1d17+18
+-1 -1 -1 
+1225 141666 8 8 1
+A
+%%5 em peers about uncertainly.~
+#6650
+lake elf~
+The lake elf~
+The lake elf glides deftly through the water, rooting out evil.
+~
+He patrols this lake, protecting it from evil influences.  His
+silver-blue hair floats about his silver-green, slender body, and he
+seems to fade into his surroundings even as you look at him.  If you
+look closely at him, you see the gill slits on his ribs, which allow
+him to breathe easily underwater.
+~
+1 0 0 krb 1000 S 
+85 -24 -37 2d50+1400
+400 500 80 2d20+30
+27 0 20 1d0+95 -1
+312 80 363 80 327 80 339 75 -1
+-1
+450 750000 8 8 1
+A
+%%5 wetfish~
+R
+-1 -1 -1 -1 20
+#6651
+swanmay~
+The swanmay~
+The snowy white swanmay glides on the surface of the water.
+~
+The swanmay in her swan form is striking in her beauty and grace.  She
+is a pure white, and moves smoothly across the water.  You sense that
+she will not allow evil to intrude on the beauty of the lake, and in
+her human form she may be a fierce warrior.
+~
+6 1 b rB 0 S
+68 -15 -27 1d1+1172
+408 500 100 1d34+35
+-1 -1 -1 
+4624 503333 8 8 2
+R
+-1 -1 -1 -1 20
+#6652
+swordfish~
+The swordfish~
+The swordfish attacks you, brandishing his sword with great vigor!
+~
+This sword fish is much larger than you are!  It's 15' (4.6 meters)
+long and weighs about 1000 pounds (454 kg).  It is all muscle and grace
+in the water.  The front third of the fish is its sword, which could
+easily ram you through.  It is a flat sort of sword, but still quite
+sharp both at the point and on the edges.  You hope it is after the
+herring and not you!
+~
+15 4 bf rz 0 S
+82 -23 -35 1d1+1596
+400 500 100 1d41+42
+-1 -1 -1 
+6724 703333 8 8 1
+R
+-1 -1 -1 -1 20
+#6653
+nessie watermonster~
+Nessie~
+Her long graceful neck rising slowly up from the water, Nessie gazes
+down at your puny form far below her.
+~
+Having tired of being pursued in that *other* lake where she used to
+live, Nessie has settled here in Tynstri, where things magical are
+accepted.  She is an extremely large water monster, with a fairly small
+head on top of a long muscular neck.  Her body is large and graceful in
+the water.  She is shy for a monster, and would prefer not to be
+disturbed.
+~
+15 1 gh rs 1000 S
+84 -24 -36 1d1+1670
+400 500 100 1d42+43
+-1 -1 -1 
+7056 740000 8 8 2
+R
+-1 -1 -1 -1 20
+#6654
+scorpion water~
+The water scorpion~
+The water scorpion eyes you scornfully as she waits for tastier prey.
+~
+The water scorpion has strongly grasping foreclaws to hold her victim
+still while it is being eaten.  Her long curly tail enables her to
+breathe beneath the water, although it is unusual to see her actually
+*in* the water.  She is usually to be found on the bank, waiting for a
+lunch to swim by.
+~
+15 0 b 0 0 S
+71 -17 -29 1d1+1251
+400 500 100 1d35+36
+-1 -1 -1 
+5041 538333 8 8 2
+R
+-1 -1 -1 -1 20
+#6655
+strider skater bug~
+The water strider~
+The water strider zips across the surface of the water.
+~
+The water strider, or pond skater, has a long narrow body and six
+spidery legs. Unlike the other water bugs, it never ventures
+underwater. Its underside is covered with a water-repellent coat of
+hair that keeps it afloat. Its middle legs propel it across the
+surface, its hindlegs act as rudders and brakes, and its short forelegs
+are used exclusively for catching prey - like you!
+~
+15 0 0 0 0 S
+72 -17 -30 1d1+1279
+400 500 100 1d36+37
+-1 -1 -1 
+5184 550000 8 8 0
+R
+-1 -1 -1 -1 20
+#6656
+water bug giant~
+The giant water bug~
+The giant water bug paralyzes the fish with its poison, then eyes you!
+~
+This is the biggest water bug you have ever seen!  This waterbug is 40"
+(100 cm) long.   It has two retractable appendages that, when held
+together, form a breathing tube. It is  a strong flyer and formidable
+hunter. It will paralyze its prey (you) by injecting a poison through
+the beak, and in this manner it can overpower fish twice its own size.
+~
+15 0 0 rB 0 S
+74 -18 -31 1d1+1336
+400 500 100 1d37+38
+-1 -1 -1 
+5476 580000 8 8 1
+R
+-1 -1 -1 -1 20
+#6657
+oyster~
+The oyster~
+The huge oyster snaps its shell shut with a silent BANG!
+~
+The pearl inside this oyster must be ENORMOUS judging from the size of
+the grayish white deeply ridged shell.  As the huge bivalve opens its
+valve, the current formed by the rapidly moving hairs covering its
+gills draws you relentlessly towards it.  You wonder what it would feel
+like to be eaten by an oyster.
+~
+15 0 0 0 0 S
+71 -17 -29 1d1+1251
+400 500 100 1d35+36
+-1 -1 -1 
+5041 538333 8 8 1
+R
+-1 -1 -1 -1 20
+#6658
+yellow jacket bee bug~
+The yellow jacket~
+"Hey, you!" says the yellow jacket.  "Yeah, YOU!  With the ugly armor!"
+~
+The yellow jacket hornet, or wasp, likes living near to the monastery.
+It buzzes around the compost heap and enjoys scaring away silly
+adventurers who stumble into its part of the garden.  Very proud of its
+bright yellow and black striped jacket, it enjoys verbally abusing
+adventurers who drop by.
+~
+1 3 0 rB -150 S
+75 -19 -31 1d1+1366
+400 500 100 1d37+38
+-1 -1 -1 
+5625 595000 8 8 1
+A
+%%1 say Ha! You couldn't hit a fly if it landed on your nose!;%1 
+raspberry;%1 say even if you could hit me, idiot child, you're such a 
+wimp you'd be instant toast :P~
+#6659
+drider~
+The drider~
+The drider weaves his evil web between two plants.  You're trapped!
+~
+In the drider, the body of an elf who has gone over to the dark side
+has combined with the 8 long spindly legs of a spider into a kind of
+evil spiderelf creature.
+~
+1 1 fj krszAD -350 S
+78 -21 -33 1d1+1459
+400 500 100 1d39+40
+-1 -1 -1 
+6084 640000 8 8 1
+#6660
+thri-kreen bug mantis warrior~
+The thri-kreen~
+The mantis warrior looks hungrily at you.
+~
+The thri-kreen is roughly 7' (over 2m) tall at the shoulder, with six
+arms/legs and enormous black eyes that seem to twirl in their sockets.
+He is covered in a thick exoskeleton which rivals the hardest armor you
+have seen on your many travels.  He looks at you with keen interest, as
+if attempting to decide what to do with you.
+~
+1 4 0 0 0 S
+75 -19 -31 1d1+1366
+400 500 100 1d37+38
+-1 -1 -1 
+5625 595000 8 8 1
+#6661
+gargoyle~
+The monastery gargoyle~
+The monastery gargoyle glares menacingly at garden intruders.
+~
+The gargoyle is small and ugly beyond belief.  His golden-brown skin is
+covered with a sparse coating of dull black hair.  He has a wide,
+mobile mouth, but his grin has a strongly evil twitch to it.  His
+small, deepset gray eyes watch you suspiciously.
+~
+18 1 f B -250 S
+78 -21 -33 1d1+1459
+405 500 100 1d39+40
+-1 -1 -1 
+6084 640000 8 8 1
+#6662
+snapdragon~
+The snapdragon~
+The snapdragon *snaps!* at you!
+~
+The deep purple color of the snapdragon is almost enough to make you
+ignore the powerful jaws and bend over to sniff at it.  But you decide
+you like your nose and would rather keep it for now.  The snapdragon
+(antirrhinum majus) is, like all the plants in the monastery gardens,
+unusually large and fortunately for you, quite content to grow and look
+pretty.  At least, as long as you keep your nose outta his face!
+~
+18 0 f 0 0 S
+74 -18 -31 1d1+1336
+405 500 100 1d37+38
+-1 -1 -1 
+5476 580000 8 8 1
+A
+%%10 snap~
+#6663
+tiger lily~
+The tiger lily~
+The tiger lily roars beautifully.
+~
+The tiger lily (lilium lancifolium) purrs loudly in the sunshine.  She
+knows her beautifully spotted orange flowers make her the queen of this
+section of the gardens.  Besides, none of the other flowers have teeth
+quite as long or as sharp as hers.
+~
+0 0 b 0 0 S
+74 -18 -31 1d1+1336
+400 500 100 1d37+38
+-1 -1 -1 
+5476 580000 8 8 2
+#6664
+elf brother dionysos~
+Brother Dionysos~
+Brother Dionysos thoughtfully tastes the caraway wine.
+~
+Brother Dionysos tells you he's studying to be a wine taster.  He
+samples each of the monastery's many wines on a daily basis, often
+finishing late at night and actually er ... sleeping over his work.  He
+has volunteered for this duty saying piously that it's a difficult job,
+but someone has to do it.
+~
+1 2 0 0 250 S
+76 -20 -32 1d1+1396
+400 500 100 1d38+39
+-1 -1 -1 
+5776 610000 8 8 1
+#6665
+blond dryad strawberry nymph~
+The strawberry blond wood nymph~
+Strawberry blond hair flies in a blur as the dryad whirls, dancing.
+~
+This wood nymph has hair an unusual color of pale red.  She is normally
+the first to disappear when strangers find her part of the forest, but
+she becomes at times very absorbed with her feelings of communion with
+her tree and with the dance she performs to celebrate it.
+ ~
+1 2 b 0 1000 S
+60 -11 -23 1d1+983
+400 500 100 1d30+31
+-1 -1 -1 
+3600 420000 8 8 2
+#6666
+elf brother cleaning~
+The cleaning brother~
+The cleaning brother is scrubbing hard at the gray stone.
+~
+He looks busy.  With all the monks coming and going from dirt paths and
+gardening, the grey stone floor of the monastery gets quite dirty.  It
+is this monk's job to restore it to its natural cool gray color.
+~
+1 2 0 0 1000 S
+65 -14 -26 1d1+1098
+400 500 100 1d32+33
+-1 -1 -1 
+4225 470000 8 8 1
+#6667
+elf brother wine master~
+The wine master~
+The wine master turns the tap, pouring a bit of clear red wine. 
+~
+The wine master is constantly testing and adjusting the wines which are
+fermenting in this room.  Winemaking is more of an art - a magical art
+here at the monastery - than a science.  Wines are made from many of
+the fruit grown here at the monastery - not only the grapes.  The wine
+master is a short, stout elf who wears a leather jacket over his habit
+in the chill basement air.
+~
+1 2 b 0 1000 S
+66 -14 -26 1d1+1122
+400 500 100 1d33+34
+-1 -1 -1 
+4356 480000 8 8 1
+#6668
+elf brother russ~
+Brother Russ~
+Brother Russ mumbles, "Waxing moon, waning moon? How could I forget
+so soon?"
+~
+Brother Russ is a bit scatterbrained.  It is he who orders when
+planting should start for certain crops, and when harvest should occur.
+He instructs the young novices on the uses of herbs and their
+relationship to magic and rainbows.
+~
+1 2 l dhz 1000 S 
+70 0 -30 4d25+800
+400 500 70 6d7+35
+65 0 1 1d0+80
+100 0 19 1d0+60
+28 0 10 2d0+95 -1
+-1
+-1
+500 400000 8 8 1
+#6669
+elf brother john~
+Brother John~
+Brother John  quietly weeps.  Why are you weeping, Brother John?
+~
+Brother John is a tall, stooped elderly monk.  When he was very young,
+a great sorceress foretold of his pivotal role in the Great Dragon
+Plague that would nearly wipe Tynstri from the face of the world.  He
+has
+dedicated his life to living up to this prophecy and if he is
+occasionally sad, perhaps that is his right.
+~
+1 2 fil dhz 1000 S 
+85 -1 -35 4d27+800
+400 500 70 6d7+40
+88 0 10 1d0+85
+107 0 10 1d0+70
+28 0 10 2d0+99 -1
+-1
+-1
+364 450000 8 8 1
+#6670
+elf brother novice monk gardener~
+The gardener~
+The novice monk is chanting magical phrases as he weeds the garden.
+~
+The young elf joined the wiccan monastery drawn by its magic and the
+chance to work more closely with nature.  He has studied hard, and part
+of his studies includes his work in the garden, weeding.  He is
+practicing the spells he has been learning as he weeds.  As he is as
+yet imperfect at them, some of the results are unexpected.
+~
+1 2 0 0 1000 S
+65 -14 -26 1d1+1098
+400 500 100 1d32+33
+-1 -1 -1 
+4225 470000 8 8 1
+#6671
+dragonfly pest insect~
+The dragonfly~
+The dragonfly zooms swiftly from place to place, amazingly agile.
+~
+The dragonfly looks like a glowing lavendar broomhandle with 4 wings
+made of sheer silk.  The long narrow wings are placed two per side
+almost on top of each other.  This insect is much faster than his
+heavier cousins, the dragons.
+~
+18 4 0 B 0 S
+68 -15 -27 1d1+1172
+405 500 100 1d34+35
+-1 -1 -1 
+4624 503333 8 8 1
+#6672
+lightning bug insect lightningbug~
+The lightning bug~
+The lightning bug glows with a pale green light.
+~
+The lightning bug sheds just enough light to see when it's dark,
+turning its lantern on and off to conserve its energy.  Although
+normally a small, relatively harmless insect, the bug has been affected
+by the wiccan magic and may now be considered "armed and dangerous"!
+~
+0 1 0 rB 0 S
+68 -15 -27 1d1+1172
+400 500 100 1d34+35
+-1 -1 -1 
+4624 503333 8 8 1
+#6673
+garter snake~
+The garter snake~
+The little garter snake tries to blend into his surroundings.
+~
+The small garter snake is here looking for mice and other small
+rodents.  He slithers rapidly from plant to plant, hoping you won't
+notice him.
+~
+0 0 h rst 0 S
+60 -11 -23 1d1+983
+400 500 100 1d30+31
+-1 -1 -1 
+3600 420000 8 8 1
+#6674
+elf shopper~
+The elven woman~
+The elven woman hurries through her shopping.
+~
+This tall young elf reluctantly left her forest home to come in to town
+for some supplies - some special medicines from Seymour, some sweets
+for her youngest and a new hat for herself.   Coming to town forces her
+to mix with some non-elves, and she is not fond of that.
+~
+1 0 0 0 1000 S
+30 5 -6 1d1+445
+400 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 2
+#6675
+runner elf~
+The runner~
+Running in circles around the park, the lean, strong elf is keeping
+fit.
+~
+Dressed in short, soft dark green pants, the elf makes his circuit of
+the park over and over, around and around, building up his strength and
+stamina.  He chants a magical spell as he runs to help him keep up his
+pace.
+~
+1 0 b 0 1000 S
+45 -3 -15 1d1+691
+400 500 100 1d22+23
+-1 -1 -1 
+2025 255000 8 8 1
+#6676
+shadow~
+The shadow~
+The shadow slips silently along, spying for his master.
+~
+The shadow has been well trained in the art of espionage.  A former
+assassin, he will work for whomever pays him the most.  He is called
+the shadow because of his uncanny ability to move unseen among groups
+of elves.  For whom is he spying?  We may never know.
+~
+1 3 0 rs -100 S
+45 -3 -15 1d1+691
+400 500 100 1d22+23
+-1 -1 -1 
+2025 255000 8 8 1
+#6677
+fire ants bugs~
+The fire ants~
+Fire ants march towards you like an unstoppable red river.
+~
+The fire ants - hundreds of them - move together like one gigantic war
+machine.  They devour everything  that lies in their path.  When those
+in the front ranks are killed, the ones in the back merely march over
+them and continue on their way, killing all with their fiery sting.
+~
+0 0 f 0 -100 S
+42 -2 -13 1d1+639
+400 500 100 1d21+22
+-1 -1 -1 
+1764 220000 8 8 1
+#6678
+novice monk~
+The novice monk~
+The novice monk studies nature, determined to harness its power.
+~
+Young male elves dedicate their lives to learning the wiccan way.
+There is great power in the magic at the monastery, and they are bound
+only by the law to do no harm.  The monks work long hours in the
+gardens and on travels, gathering seeds and sprouts to bring back to
+their garden.
+~
+1 2 0 0 1000 S
+70 -16 -28 1d1+1224
+400 500 100 1d35+36
+-1 -1 -1 
+4900 526666 8 8 1
+#6679
+yeti~
+The yeti~
+The yeti watches you curiously.
+~
+Over 6' (2m) tall and 300 lbs (136 kg), the yeti has a very ferocious
+appearance.  He is covered with a matted, dirty white fur.  His
+enormous feet end in long, thick sharp claws.  The yeti has long,
+powerful arms which dangle down close to his knees and end in massive,
+meaty hands.  For all his strength, the yeti would prefer not to be
+seen.
+~
+1 3 0 s 0 S
+79 -21 -33 1d1+1492
+400 500 100 1d39+40
+-1 -1 -1 
+6241 655000 8 8 1
+#6680
+elf woman~
+The elven woman~
+Absorbed by her own thoughts, the elven woman seems not to notice you.
+~
+The elven woman seems abstracted.  Tiny by elf standards, she is only
+about 5' (1.6 meters) tall.  Her pale blond hair hangs in soft curls
+half-way down her back, and her ice blue eyes are weary.
+~
+1 0 0 0 1000 S
+35 2 -9 1d1+523
+400 500 100 1d17+18
+-1 -1 -1 
+1225 141666 8 8 2
+#6681
+elf man~
+The sturdy elf~
+The elf is making a rare trip into town to trade herbs for armor.
+~
+On a rare jaunt into town, this elven man has brought herbs and plants
+to trade with Seymour for cash to buy clothing and other items.  He is
+a serious looking elf, with golden blond hair, grey/green eyes and pale
+golden skin.
+~
+1 0 0 0 1000 S
+35 2 -9 1d1+523
+400 500 100 1d17+18
+-1 -1 -1 
+1225 141666 8 8 1
+#6682
+hawthorn tree~
+The hawthorn tree~
+#GThe hawthorn tree bends her weary branches toward you.#N
+~
+The hawthorn, also known as the Witches' Tree seems to watch you as you
+walk along the path.  Hawthorns were once believed to be the
+transformed bodies of witches, who had shapeshifted into tree form.  Is
+the tree moving of its own accord or is it the breeze?
+~
+1 2 b 0 0 S
+55 -8 -20 1d1+878
+400 500 100 1d27+28
+-1 -1 -1 
+3025 370000 8 8 2
+#6683
+dryad singing nymph~
+The dryad~
+The earth stops to listen while the forest nymph sings.
+~
+This dryad is quite tall, with waist length chestnut colored hair,
+emerald green eyes and fair, almost milk-white skin.  She sings
+accompanied by the soft notes of the lute which she plays.
+~
+1 2 b B 1000 S
+57 -10 -21 1d1+980
+400 500 100 1d27+25
+-1 -1 -1 
+1929 395000 8 8 2
+#6684
+trout fish~
+The brightly-striped trout~
+The rainbow-colored trout is easy to see in the quiet underwater
+colors.
+~
+The trout looks as if it were dipped in a rainbow.  Bright stripes of
+magenta, pink, deep rose, violet, blue, green and yellow adorn his
+short, agile body.  The trout looks good enough to eat!
+~
+0 0 0 r 0 S
+70 -16 -28 1d1+1224
+400 500 100 1d35+36
+-1 -1 -1 
+4900 526666 8 8 1
+R
+-1 -1 -1 -1 20
+#6685
+herring~
+The herring~
+The herring darts about the much larger fish.
+~
+Not a very large fish, this gray-green herring is about 18" (45cm)
+long.  He is doing his best to hide among the larger fish, who pay no
+attention to him.  Rumor has it that whole populations of arctic elves
+have lived on a combination of herring and milk.  Here's the herring.
+Got milk?
+~
+15 0 0 r 0 S
+65 -14 -26 1d1+1098
+400 500 100 1d32+33
+-1 -1 -1 
+4225 470000 8 8 1
+R
+-1 -1 -1 -1 20
+#6686
+elf chef cook~
+The magnificent chef~
+The chief chef of the monastery sharpens his carving knife.
+~
+You hope the rumors you have heard about the elven chef at the
+monastery are not true. This sturdily built elf has muscles that would
+look large on a minotaur.  What magic has made him this strong? It is
+no wonder that the assassins are attempting to kidnap him.
+~
+1 2 b 0 1000 S
+76 -20 -32 1d1+1396
+400 500 100 1d38+39
+-1 -1 -1 
+5776 610000 8 8 1
+#6687
+viper snake~
+The deadly viper~
+The small but deadly viper whips swiftly towards you.
+~
+This small snake has an evil look about him.  He moves so swiftly that
+you barely have time to run through your mental list of poisonous vs
+non-poisonous snakes before he attacks you.
+~
+0 3 0 s -100 S 
+65 -3 -25 6d10+500
+400 500 80 6d8+50
+402 500 10 5d8+20
+33 0 10 1d0+99 -1
+331 90 -1
+-1
+15 350000 8 8 1
+#6688
+monk serious elf~
+The serious monk~
+Chanting quietly to himself, the monk considers his vows seriously.
+~
+A serious student of nature and magic and the magic within nature, this
+monk spends his days faithfully carrying out his duties as a monk of
+the wiccan order.  He is tall and gaunt with a long narrow beard that
+reaches nearly to his waist.  His head is totally bald.  He wears no
+headcovering at all, preferring to feel the rain or sunshine that
+nature sends on the bare skin of his scalp.
+~
+1 0 0 0 1000 S
+72 -17 -30 1d1+1279
+400 500 100 1d36+37
+-1 -1 -1 
+5184 550000 8 8 1
+#6689
+dryad graceful~
+The graceful dryad~
+A graceful dryad is lost in communion with her tree.
+~
+This lovely dryad has hair of a deep green and her skin is a pale 
+spring leaf color.  Although she looks quite young, she is nearly of 
+an age with the ancient trees whom she worships.  She communes with
+the spirits of the trees and is fierce in their defense.
+~
+1 2 bm 0 1000 S
+60 -11 -23 1d1+983
+400 500 100 1d30+31
+-1 -1 -1 
+3600 420000 8 8 2
+#6690
+dryad singing nymph~
+A singing dryad~
+The dryad sings ancient elven songs of incredible power and beauty.
+~
+This tiny dryad has hair the color of the bark on a black walnut 
+tree and skin nearly as white as the first snow of winter.  There
+is such incredible beauty in her voice that, although the words 
+are in some ancient elven tongue, you know they are magic.
+~
+1 2 b B 1000 S
+57 -10 -21 1d1+1000
+400 500 100 1d38+39
+-1 -1 -1 
+1929 345000 8 8 2
+#6691
+Jasper dragon~
+Jasper~
+The crystalline dragon glares fiercely at you, protecting his family.
+~
+Jasper has declared this area to be HIS, mainly because his dear 
+Chaora has chosen to nest here.  There are many large eggs here ...
+eggs a bit larger than you are.  Although few will hatch, all are 
+precious to Jasper.
+~
+18 4 b krB 500 S 
+84 -30 -39 25d4+3200
+402 500 15 2d10+100
+404 500 35 2d5+100
+105 0 25 1d0+70
+106 0 5 1d0+85
+10 0 20 1d0+85
+-1
+313 80 318 95 -1
+-1
+3500 900000 8 8 1
+#6692
+Chaora dragon~
+Chaora~
+A beautiful violet dragon dressed in black lace waits for something.
+~
+Chaora was named after the beautiful mineral Chaorite.  A beautiful
+violet color, she is related to both the great purple dragon and 
+to Pinky.  Unhappy with life in the dragon caves, she has chosen to
+hatch her clutch right here in the trees.
+~
+18 4 b bkrB 500 S 
+80 -20 -37 7d50+3400
+404 500 40 2d20+100
+105 0 40 1d0+80
+26 0 20 1d0+60 -1
+-1
+-1
+667 850000 8 8 2
+A
+%%05 emote carefully polishes her scales.; %5 fashion; %2 hum~
+#6693
+Malachi dragon~
+Malachi~
+Malachi seems to be in constant motion, a swirl of green color.
+~
+Malachi has deep green, rough crocodile skin, with sworls of other
+greens.  He is constantly restless, unwilling to settle down.  He
+is large, but no larger than most dragons, which is to say, of course,
+QUITE large.  If he was willing to talk to you (which he is not), he
+could tell you about his extensive travels ...
+~
+18 4 b krB -500 S 
+88 -34 -40 7d30+3000
+405 500 50 2d40+80
+105 0 20 1d0+90
+107 0 20 1d0+90
+10 0 10 1d0+90
+-1
+-1
+-1
+2500 900000 8 8 1
+A
+%%5 land;%5 fly~
+#99999
+$~

@@ -1,0 +1,70 @@
+#142
+Fairy Village~
+14240 40 2
+*
+D 0 14222 5 2 *Lock trapdoor from inside Sanctuary
+D 0 14223 4 2 *Lock trapdoor from dark room
+*
+O 0 14207 100 14238 *Loads Oberon's Desk
+P 1 14208 5 14207 *Puts scroll of weapon enchantment in desk
+O 0 14209 100 14239 *Loads fountain
+*
+M 0 14202 1 14222 *Loads the Monk
+G 1 14203 5       *Gives him the rose key
+E 1 14202 1 17    *Holds the holy grail
+*
+M 0 14203 1 14224 *Loads Puck
+E 1 14201 5 17    *Holds the magic mushroom
+*
+M 0 14210 1 14237 *Loads Titania
+E 1 14204 5 13    *Equips Around Waist: Mystical Loincloth
+E 1 14205 5 6     *Equips on Head: Diamond Rose
+*
+M 0 14211 1 14237 *Loads Oberon
+E 1 14206 5 7     *Equips on Legs: Luminous Leggings
+E 1 14200 5 17    *Holds the Unicorn's Horn
+*
+M 0 14204 1 14223 *Loads Evil Fairy
+*
+M 0 14205 1 14231 *Loads Female Unicorn
+*
+M 0 14206 1 14231 *Loads Male Unicorn
+*
+M 0 14207 2 14211 *Loads Bee
+M 0 14207 2 14211 *    "
+*
+M 0 14208 1 14220 *Loads Giant Girl
+*
+M 0 14209 2 14238 *Loads Servant
+M 0 14209 2 14239 *    "
+*
+M 0 14200 13 14203 *Female Fairies
+M 0 14200 13 14207 *      |
+M 0 14200 13 14208 *      |
+M 0 14200 13 14209 *      |
+M 0 14200 13 14210 *      |
+M 0 14200 13 14213 *      |
+M 0 14200 13 14215 *      |
+M 0 14200 13 14217 *      |
+M 0 14200 13 14219 *      |
+M 0 14200 13 14224 *      |
+M 0 14200 13 14225 *      |
+M 0 14200 13 14226 *      |
+M 0 14200 13 14232 *      -
+M 0 14201 13 14203 * Male Fairies
+M 0 14201 13 14207 *      |
+M 0 14201 13 14208 *      |
+M 0 14201 13 14209 *      |
+M 0 14201 13 14210 *      |
+M 0 14201 13 14213 *      |
+M 0 14201 13 14215 *      |
+M 0 14201 13 14217 *      |
+M 0 14201 13 14219 *      |
+M 0 14201 13 14224 *      |
+M 0 14201 13 14225 *      |
+M 0 14201 13 14226 *      |
+M 0 14201 13 14232 *      -
+*
+S
+#99999
+$~

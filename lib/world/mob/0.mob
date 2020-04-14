@@ -1,0 +1,40 @@
+#0
+noname monster~
+Noname Monster~
+The Noname Monster is waiting here for nothing.
+~
+You see a dummy Monster.~
+0 0 0 0 0  S
+1 1 0 1d1+1
+400 500 100 1d1+1 -1
+-1
+-1
+15 20 9 9 0
+#1
+noname monster~
+Noname Monster~
+The Noname Monster is waiting here for nothing.
+~
+You see a dummy Monster.~
+0 0 0 0 0  S
+1 1 0 1d1+1
+400 500 100 1d1+1 -1
+-1
+-1
+15 20 9 9 0
+#2
+noname monster~
+Noname Monster~
+The Noname Monster is waiting here for nothing.
+~
+You see a dummy Monster.~
+0 0 2060 0 0  S
+1 1 0 1d1+20
+400 500 100 1d1+1 -1
+-1
+-1
+15 20 9 9 0
+#99999
+$~
+
+

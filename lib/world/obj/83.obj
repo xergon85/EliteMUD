@@ -1,0 +1,60 @@
+#8301
+spear long~
+a long spear~
+A strange spear lies here.~
+~
+5 45 abcefijm hj an
+0 3 15 2 0 0
+10 2000 500
+A
+19 5
+A
+2 2
+#8302
+horned helmet~
+a dark horned helmet~
+A wicked looking horned helmet lies here.~
+~
+9 50 0 hj ae
+12 0 0 0 0 0
+5 15000 10000
+E
+horns horn~
+These horns appear to be made of adamantite.~
+A
+19 1
+A
+3 -3
+#8303
+chain mail chainmail~
+A suit of chainmail~
+An old suit of chainmail lies here, corroded by the marsh.~
+~
+9 42 aceijm hj ad
+16 0 0 0 0 0
+20 2000 1000
+#8306
+scythe~
+A huge, wicked-looking scythe~
+An evil, wicked-looking scythe lies in the shadows.~
+~
+5 50 abefijm hj an
+0 5 10 1 0 0
+16 10000 2000
+A
+18 4
+A
+19 4
+#8307
+green potion~
+A murky green potion~
+A murky green potion lies here in the mud.~
+~
+10 1 0 ab a
+43 15 0 0 0 0
+1 600 600
+E
+potion~
+It looks really disgusting and doesn't smell very nice either.~
+#99999
+$~

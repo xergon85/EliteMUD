@@ -1,0 +1,97 @@
+#213
+The Village of Miqi'erke~
+21399 90 2
+*
+* Load the kittens and the nursemaid in the Nursery *
+*
+M 0 21300 1 21331 * grey kitten in Nursery
+G 1 21300 100     * ball of yarn
+M 0 21301 1 21331 * white kitten in Nursery
+M 0 21302 1 21331 * spotted kitten in Nursery
+M 0 21303 1 21331 * black kitten in Nursery
+G 1 21300 100     * ball of yarn
+M 0 21304 1 21331 * golden kitten in Nursery
+M 0 21305 1 21331 * striped kitten in Nursery
+M 0 21306 1 21331 * Nursemaid
+G 1 21301 25	  * essence of catnip
+O 0 21300 100 21331 * ball of yarn
+*
+*
+* Load the village mobs and their EQ *
+*
+M 0 21324 1 21324 * villager on his way to temple
+G 1 21302 20	  * catnip leaf
+M 0 21325 1 21300 * worshipper in temple
+M 0 21326 5 21347 * wandering villagers
+G 1 21302 20	  * catnip leaf
+M 0 21326 5 21332 * "
+M 0 21326 5 21323 * "
+M 0 21326 5 21349 * "
+E 1 21303 10 3	  * catnip charm
+M 0 21326 5 21339 * "
+*
+*
+* Load the shopkeepers and their objs *
+*
+M 0 21321 1 21321 * Mikuna in Mikuna'wasi (Food)
+G 1 21304 100	  * mouse sandwich
+G 1 21305 100	  * bird head stew
+G 1 21306 100	  * roasted frog legs
+M 0 21322 1 21323 * Miski in Miski'wasi (Sweets)
+G 1 21307 100	  * candied fairy wings
+G 1 21308 100	  * choc. rat tail
+G 1 21309 100	  * bug bar
+M 0 21323 1 21326 * Bibu in the Smiling Para'miqi (Drink)
+G 1 21310 100	  * catnip juice
+G 1 21311 100	  * guava juice
+G 1 21312 100	  * water
+*
+*
+* Load the Matriarchs and Patriarchs and their EQ *
+*
+M 0 21307 1 21332 * Oqe
+E 1 21313 10 5	  * a shadow
+M 0 21308 1 21335 * Yuraq
+E 1 21314 10 3	  * golden locket
+M 0 21309 1 21337 * Mikhu
+E 1 21315 10 12   * dark of night
+M 0 21310 1 21341 * Phuyu
+E 1 21316 10 8	  * boots of stealth
+M 0 21311 1 21348 * Rey
+E 1 21317 10 9	  * claws of power
+M 0 21312 1 21320 * Tigri
+E 1 21318 10 7	  * striped leggings
+*
+*
+* Load the Spiral of Life mobs and their EQ *
+*
+M 0 21313 1 21317 * Wawa
+M 0 21314 1 21319 * Erk'e
+E 1 21319 50 11   * stuffed mouse
+M 0 21315 1 21304 * Sipas
+M 0 21316 1 21301 * Warmi
+M 0 21317 1 21312 * Paya
+E 1 21320 20 17	  * staff of Paya
+M 0 21318 1 21307 * Qoyllor
+E 1 21321 20 12   * golden aura
+*
+*
+* Load the statues & their priest/priestess*
+*
+M 0 21319 1 21342 * Tuta in the Center of the Circle
+E 1 21323 10 1    * moonstone ring
+M 0 21327 1 21342 * Tuta's Priestess
+M 0 21320 1 21300 * Yanaquri in his Temple
+E 1 21322 10 16   * da'miqi
+M 0 21328 1 21300 * Yanaquri's Priest
+*
+*
+* Close the panel in the temple *
+*
+D 0 21315 1 1
+D 0 21316 3 1
+*
+*
+S
+#99999
+$~

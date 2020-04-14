@@ -1,0 +1,1946 @@
+#18000
+fanatic religious ranger E~
+A religious fanatic~
+#RThe religious ranger yells, "Repent or be swallowed by the whale!"#N
+~
+Disheveled and wild-eyed, this ranger looks a bit like he's come out
+the worse from an encounter with one of the wild pigs that roam the
+forests.  He is quite clear in speech, however, and very strong in his
+beliefs.  Normally, he will waste no time assisting you to see the
+Right Path, however today his focus appears to be a certain demon and
+his freak show.  There is a slight streak of dirt through his blue
+#bElysium#N Emblem of Heroism.
+~
+1 4 bg hD 900 S
+95 -30 -42 4d50+1500
+405 500 40 6d7+55
+406 500 20 8d9+33
+4 0 10 1d0+100
+17 0 10 1d0+100
+27 0 20 1d0+100  -1
+-1
+-1
+4523 800000 8 8 1
+A
+%%1 yell Repent ye thy evil ways before the demon locks thee away!!; 
+%5 accuse demon;
+%5 emote screams 'Beware! For the end is nigh!!';
+%1 emote drones 'Repent and you shall be forgiven!';
+%1 whine;
+%5 emote yells 'The final hour is close at hand!!';
+%5 accuse;
+%80 assist E~
+#18001
+elf Elfking mighty E~
+The Mighty Elfking~
+The Mighty Elfking dispenses justice with a shining hammer.
+~
+Cape billowing behind him, the mighty avatar Elfking strides through
+the faire, swinging his hammer threateningly at those who would
+misbehave.  He dispenses a rigid justice where it is needed.  Easily
+spotted by his well polished shiny gold armor, his beautifully made
+elven white gold crown, his mighty Hammer of Justice and the huge
+superhero cape floating behind him, the Elfking is revered by all,
+elves and non-elves alike.
+~
+1 0 bfgil dhkrs 1000 S
+109 -60 -45 8d50+8300
+401 500 80 9d7+55
+402 500 20 8d9+43 
+-1
+322 100 372 100 321 100 331 100 338 100 328 100 
+-1
+-1
+6099 2500000 8 8 1
+A
+%%80 ass E;%3 smile elfwench;%3 cuddle elfwench~
+#18002
+curly elven ranger E~
+The elven ranger~
+The curly headed elven ranger looks sternly at her pet purple dragon.
+~
+"Did you start that fire?", she asks Anastasia.  Anastasia averts her
+eyes, her color changing from deep purple to bright fuschia.  The
+ranger priestess has the huge job of overseeing the reforestation of 
+#bElysium#N after the recent wars.  There are many rangers hard at work, 
+but some (like her pet dragon) often seem to be more often a problem 
+than they are a help.
+~
+1 4 bgm k 800 S
+104 -40 -32 4d50+1500
+400 500 40 8d7+54
+406 500 20 8d9+40
+27 0 40 1d0+99 -1
+326 90 327 90 -1
+-1
+8000 900000 8 8 2
+A
+%%90 ass E;
+%5 sigh;
+%5 frown dragon;
+%4 em carefully plants a young tree.~
+#18003
+black wolf noble knightly werewolf E~
+A midnight black wolf~
+The noble midnight black wolf appears almost knightly.
+~
+There is a certain nobility to this black wolf who appears and
+disappears without warning, silenty on soft padded feet.  If you look
+closely, you will see the #bElysium#N insignia on his chest.
+~
+1 4 0 dkrsD 1000 S
+109 -40 -42 4d50+4000
+408 500 80 5d10+55
+407 500 20 8d9+20 -1
+-1
+-1
+8000 2900000 8 8 1
+A
+%%85 ass E;
+%5 lick elf;
+%5 lick troll;
+%4 yell *H-O-W-L*;
+%4 howl;
+%4 twitch~
+#18004
+royal bodyguard~
+The princess's bodyguard~
+The royal bodyguard searches anxiously for the princess.
+~
+Angry that she has once again managed to slip away from his protection,
+the princess's bodyguard is also terrified to face the wrath of the
+Elfking.  Don't be surprised if he stops you to ask about her.
+~
+1 4 g z 850 S 
+85 -37 -24 4d25+1450
+400 302 100 1d42+43
+-1
+-1
+-1
+3000 450000 8 8 1
+A
+%%2say Hey! Have you seen Her Royal Highness, Princess Buttercup?;
+%2say Tsk! Tsk! That naughty princess!~
+#18005
+princess elf E~
+The elven princess~
+Disguised as a peasant, the princess clutches her buttercups.
+~
+An elven princess finds it's wise sometimes to "disappear" from her
+bodyguards.  She wanders the faire in a peasant dress, embroidered with
+buttercups, looking a little too clean to be a real peasant. 
+~
+1 4 g hB 800 S
+90 -27 -40 5d10+1400
+401 500 100 1d45+46
+-1
+-1
+-1
+2500 600000 8 8 2
+A
+%%85 ass E~
+#18006
+knight bowing honor E~
+The honorable knight~
+A man of honor who follows THE code, the knight bows as he passes.
+~
+Tall and powerful as he is, the first thing that strikes you about this
+knight is his sense of honor.  You sense that for this knight, his
+heart knows only virtue, his blade defends the helpless, his might
+upholds the weak, his word speaks only truth and his #rwrath#N undoes
+the wicked ... he is a Knight sworn to valour!  (an #bElysium#N Knight,
+of course!)
+~
+1 4 g hz 1000 S
+100 -30 -36 4d35+2600
+400 403 100 4d8+70
+-1
+-1
+-1
+2000 1200000 8 8 1
+A
+%%85 ass E~
+#18007
+magician deft E~
+The deft magician~
+The deft magician amazes you with feats of prestidigitation!
+~
+Strikingly handsome blue eyes set off by pale blond hair hint at the
+immortal ancestry of this magician, although the slight points of his
+ears indicate some elven blood as well.  Truly god-like in appearance,
+he is also amazingly talented at his craft.  His long, strong, flexible
+fingers are no doubt part of the reason for this.
+~
+1 1 g hdk 800 S
+109 -42 -50 4d55+3500
+410 500 90 3d20+52
+105 0 10 1d0+95  
+-1
+-1
+-1
+2000 2000000 8 8 1
+A
+%%85 ass E~
+#18008
+elfwench wife~
+The Elfking's wife~
+Laughing, the elfwench looks around for her Elfking.
+~
+She laughs entirely too often to be pure elf, and is not at all likely
+to take life seriously.  In love with color, she has streaked her pale
+blond hair with a rainbow, and plaited it into bands around her head.
+When she turns her head, you catch a glimpse of a row of brightly 
+colored jewels along the rim of one ear.  She is devoted to her Elfking 
+and can usually be found in his company.
+~
+1 2 bgm dhkrs 1000 S
+105 -30 -50 6d50+3000
+410 500 50 10d5+60
+403 500 50 5d11+60
+-1
+327 90 318 95 322 95 321 95 -1
+-1
+1543 1000000 8 8 2
+A
+%%95 ass E;%5 flirt Elfking;%5 wiggle elfking~
+#18009
+red cheeked red-cheeked rosy troll ranger~
+The red-cheeked troll~
+The leader of the trollish rangers is a rosy cheeked lass.
+~
+Eager to protect and cherish her forest as she has been (painstakingly)
+taught, the ranger is busy digging new caves for homeless bears.  To
+instantly replace the trees that are gone, she's directing some of the
+other trolls to stand with arms outstretched and pretend they are
+trees.  So far, none of the birds have been fooled into landing on an
+arm or a head.
+~
+3 4 bgl zD 800 S 
+109 -67 -50 10d11+2600
+410 500 100 8d8+55
+-1
+-1
+-1
+845 2000000 8 8 2
+A
+%%95 ass E;
+%3em worries about all the little critters burned out of their homes.~
+#18010
+bigbird bird big enormous bright yellow~
+The enormous bird~
+The bright yellow bird towers over you, looking worried.
+~
+This bird must be at least 7' (over 2 metres) tall.  His long fluffy
+yellow wings end in hand-like appendages, each with an opposable thumb.
+His long thick round legs are bright orange with horizontal red
+stripes.  As you crane your head to look up you see he looks out at you
+from soft, sad, deep blue eyes, and you long to set him free.  You are
+a bit worried by his large orange beak, however.  He could probably do
+quite a bit of damage with that should he become angered.
+~
+6 0 bgl B 1000 S
+95 -27 -42 4d50+1400
+407 500 50 1d45+50
+408 500 50 1d55+50
+-1
+-1
+-1
+0 600000 8 8 1
+A
+%%2 pace;%2 frown~
+#18011
+peasant girl pretty~
+A pretty peasant~
+The pretty peasant girl came from a nearby farm to see the faire.
+~
+Much more exciting than market day!  The girl lost many of her family
+and village to the dreadful forces of evil.  She was saved by the great
+warriors of #bElysium#N, and has come to celebrate the victory and to
+see the treasures brought here from lands far away.
+~
+1 0 cg 0 0 S
+85 -24 -32 5d20+1300
+400 500 100 3d8+55
+-1
+-1
+-1
+5000 400000 8 8 2
+#18012
+troll ranger powerful~
+The troll ranger~
+The powerful troll ranger accidentally uproots a mighty oak.
+~
+Sometimes the troll rangers are more of a problem than they are a help.
+Asked to cull the sick and dying trees, they are as likely to pull the
+large healthy trees as the ones that are frail.  They are very very
+strong, however, and eager to defend the forest against its many
+predators.  They just aren't too sure what to do!
+~
+1 4 bg zD 500 S
+95 -27 -42 25d4+1300
+400 500 100 3d20+40
+-1
+-1
+-1
+5000 600000 8 8 2
+A
+%%2 say C'mere little birdie!~
+#18013
+elf ranger elven~
+The elven ranger~
+The elven ranger studies the damaged tree thoughtfully.
+~
+The elves feel a special kinship with this forest.  It is their natural
+home, and they are closely attuned to its special vibrations.  Many
+choose to live their lives in close harmony with a special grove.
+Others become rangers, roaming the forest ceaselessly.
+~
+1 4 bg dkz 500 S
+96 -28 -43 25d4+1350
+400 500 100 3d20+45
+-1
+-1
+-1
+6000 700000 8 8 1
+A
+%%3 em sings a soft enchantment, encouraging the flowers to bloom.~
+#18014
+cleaner dwarf trash collector janitor~
+The dwarven janitor~
+The #Rdwarven#Y cleaner follows behind the faire goers, cleaning up.
+~
+Small, powerful, with long hairy arms and a rather dense expression,
+the dwarf is cleaning up trash and looking for treasures as he does so.
+Sometimes people toss things that he can use.  He is quite poor.
+~
+9 0 cgh s 0 S
+65 -10 -16 10d20+1000
+400 500 100 3d8+40
+-1
+-1
+-1
+5000 420000 8 8 1
+A
+%%5em stumbles into you, mumbling, 'scuse me'.;%5 says Make way!~
+#18015
+tall lad peasant ribbon seller vendor shopkeeper~
+The ribbon seller~
+A tall peasant lad walks about shouting, "Ribbons! Get your ribbons!"
+~
+The tall peasant lad is carrying a large display of pretty ribbons and
+other small "fairings".  Ribbons are a lovely small luxury for the
+every day person, and the lad has them in many colors.  The ribbons are
+attached to several large horizontal slats which are in turn attached
+to a long pole.  As the lad wanders around the faire, his display goes
+before him, high up in the air like a flag.
+~
+1 0 bg dk 0 S
+95 -27 -42 25d4+1300
+400 500 100 3d20+40
+-1
+-1
+-1
+5000 600000 8 8 1
+A
+%%1 yell Pretty ribbons! #cR#mi#gb#yb#bo#rn#ws#R for your lady!~
+#18016
+juggler jugglers~
+The juggler~
+Flaming torches fly high into the air as the juggler performs.
+~
+A tall, lean human throws torches high into the air, deftly catching
+them as they fall.  There are so many flying so swiftly that it looks
+like a column of flame rises over the juggler's head.
+~
+1 0 bcg k 500 S
+90 -23 -37 5d20+1100
+404 500 100 1d40+55
+-1
+-1
+-1
+6545 600000 8 8 1
+#18017
+demon disguised E~
+The well-disguised demon~
+Tall and menacing, the demon slyly invites you into his tent.
+~
+Come my fine friends!  Come and see the most fascinating of nature's
+perversions!  Gathered for you from lands far and near!  Come into my
+tent and see the creatures safely locked away!
+~
+12 1 bg hkdrs -800 S
+108 -36 -50 5d40+2800
+410 500 40 5d8+70
+98 0 10 1d0+95
+106 0 10 1d0+90
+97 0 10 1d0+90
+86 0 10 1d0+90
+96 0 10 1d0+90
+104 0 10 1d0+90
+-1
+-1
+-1
+2000 1500000 8 8 1 
+A
+%%85 ass E;%8 em smiles slyly at you.;%6 em beckons you closer.~
+#18018
+chess player ranger E~
+The chess player~
+Sitting in deep shade, the #rFairy#Y ranger concentrates on chess.
+~
+This ranger has semi retired to a life fighting battles on the
+chessboard.  When the call to protect #bElysium#N is heard, however, he
+is in the front of the battle, fearlessly fighting evil.
+~
+1 4 bg hdkB 800 S
+109 -40 -45 4d50+3100 
+401 500 80 6d7+65 
+402 500 20 8d9+43 
+-1
+322 100 372 100 321 100 
+-1
+-1
+6099 1500000 8 8 1
+A
+%%85 ass E;%5em studies the chessboard thoughtfully.~
+#18019
+monk leonine E~
+The leonine monk~
+The monk with the thick mane of golden hair R-O-A-Rs at you.
+~
+You can tell from his shining armor that this is no ordinary monk.  His
+gloriously thick mane of hair barely fits beneath that helmet.  Perhaps
+the tight fit of the helmet is why he R-O-A-Rs so often.  Or maybe not.
+~
+3 2 g 0 900 S
+100 -30 -36 4d15+3600
+410 500 90 2d8+70
+98 0 5 1d0+95
+106 0 5 1d0+90
+-1
+-1
+-1
+2000 1200000 8 8 1 
+A
+%%85 ass E~
+#18020
+minotaur thief E~
+A minotaur thief~
+A powerful minotaur rests his shoulders against a tree, sizing you up.
+~
+Although a thief, his talents were well used by the forces of good
+during the recent battles.  The clan thief was easily able to slip
+behind enemy lines and steal battle plans as well as the wealth of the
+evil tribes attempting to plunder Elysium.
+~
+1 3 bgl rsz 800 S
+90 -25 -40 3d50+1300
+402 500 100 1d45+46
+-1
+326 85 327 95 328 95 312 80 317 80 318 80 331 90 363 90 365 90 372 100
+-1
+-1
+5372 600000 8 8 1
+A
+%%95 circle;%85 ass E~
+#18021
+Madame K gypsy fortune teller E~
+Madame K~
+Madame K knows all, sees all.  Let her tell you the future in your hand.
+~
+Long dark hair flows freely down her back.  Madame K looks at you from
+eyes dark with mystery and you are certain she knows all the secrets of
+your soul.
+~
+1 1 bg d 800 S
+90 -25 -40 3d50+1300
+406 500 80 1d45+46
+90 0 20 1d0+90
+-1
+-1
+-1
+5372 600000 8 8 2
+A
+%%85 ass E;%5 say Cross my palm with silver!;
+%5 say I only read #wCLEAN #ypalms.  Go wash your hands.~
+#18022
+troll ranger lover E~
+The troll ranger~
+The troll ranger jealously guards the entrance to Madame's.
+~
+Towering powerfully over most of Madame K's clients, this ranger eyes
+each one as he enters her wagon.  He glares at those he doesn't like,
+and many of her would-be customers are scared off.  He, in turn, is
+watched by some of the gypsy men who don't want him chasing off good
+customers!
+~
+1 4 bg 0 800 S
+95 -27 -42 25d4+1300
+400 500 100 3d20+40
+-1
+-1
+-1
+5000 600000 8 8 1
+A
+%%85 ass E;%5 glare troll;%5 glare minotaur;%5 glare half-elf;%5 glare~
+#18023
+immortal lord dragon ~
+the immortal dragon lord~
+The captive's terror fills the dragonlord with fierce delight.
+~
+Having lived in the Elysium Mountains longer than anyone can remember,
+the assumption is that this particular dragon is immortal.  Only fools
+still attempt to kill him.  It is said that once he was so enraged that
+his fire literally blew the top off of this mountain, and that his
+breath still warms the many hidden pools in the valley.
+~
+18 1 bg dkhrzB 900 S
+109 -200 -40 1d1+30000
+400 404 100 100d100+99
+-1
+317 100 321 100 322 100 323 100 326 100 327 100 329 100 
+331 100 338 100 339 100 345 100 365 100 373 100 -1
+-1
+1 3 8 8 1 
+A
+%%1 kill captive;%5 eat blackhearted;%5snarl captive~
+#18024
+troll trollish ale wench 18024~
+The trollish ale wench~
+#RThe #ytrollish #Rale wench asks you, "So what'll you 'ave, lovey?"#N
+~
+The wench eager to sell you ale also looks powerful enough to keep the
+entire crowd in line.  After much (forced) scrubbing, she no longer
+SMELLS trollish, but she has kept the size, power, and sheer stupendous
+ugliness of that race.  Oh! and you had better count your change.  I
+don't *think* she's very good at making change yet.
+~
+8 0 bg dkz 0 S
+100 -30 -45 8d60+2500
+401 500 50 3d18+50
+403 500 50 3d18+50
+-1
+-1
+-1
+800 1200000 8 8 2
+A
+%%5say 'ave a glass o' me best! Only 10 gold coins!;%5 pinch elf~
+#18025
+dragon feeder warrior~
+The dragon feeder~
+"Here's a tasty morsel for you" says the warrior, prodding a captive.
+~
+It's a tough job but somebody's gotta do it.  Elysium stands firmly on
+the side of #wgood#N, and evil must be firmly rooted out.  When the
+battles were raging and the supply of evil captives seemed endless,
+only the evil hearts were fed to the dragon, who obligingly purified
+them with his white hot flame.  Now, though, the forces of evil are on
+the run and the entire captive becomes the sacrifice.
+~
+1 4 bg 0 -100 S
+105 -30 -50 8d40+2500
+400 500 100 8d6+55
+-1
+-1
+-1
+12000 1200000 8 8 2
+#18026
+purple dragon small Anastasia~
+Anastasia~
+The small purple dragon hovers, gleefully awaiting the order to "Burn!"
+~
+Reluctantly employed by the guild of rangers, solely on the very strong
+recommendation of one of its members, Anastasia has the very important
+role of clearing away underbrush in preventive maintenance fires.
+Raised by elves in an experiment, she has retained all of the mischief
+of the dragons and the disdain for lower life forms common to both
+races.  She dearly loves her job and frequently practices starting
+fires when her elf would rather she did not!
+~
+18 1 bcg rsBD 0 S
+80 -21 -34 4d30+1200
+400 500 80 4d10+30
+103 0 20 1d0+100
+-1
+-1
+-1
+769 500000 8 8 2
+A
+%%2 emote shoots a small tongue of flame teasingly in your direction.;
+%5 emote swoops about the area, chucklin as she shoots small darts of
+flame.~
+#18027
+TRI warrior three-headed beast head~
+The warrior head~
+The massive warrior head stares moodily out through the bars.
+~
+One of three heads attached to the same massive body, this head in
+particular chooses to fight first and think later.  Quarrels between
+the other two heads are usually resolved by this one taking charge.
+~
+1 4 bg r 0 S
+70 -13 -25 4d25+1400
+402 500 100 5d10+30
+-1
+-1
+-1
+4300 526666 8 8 2
+A
+%%80 ass head;%5 bonk 2.head;%5 bonk 3.head~
+#18028
+TRI thief three-headed beast head~
+The thief head~
+The thief looks at you slyly, wondering what you are worth.
+~
+This head is stuck in the middle, between the warrior and the mage.
+His instincts urge him to do a sly stab in your back (so don't turn
+your back on him!) but the mage keeps insisting that spells are the
+answer!
+~
+1 3 bg r 0 S
+70 -13 -25 4d25+1200
+402 500 100 5d10+20
+-1
+363 100 330 100 322 95 -1
+-1
+4300 526666 8 8 1
+A
+%%80 ass head~
+#18029
+TRI mage three-headed beast head~
+The mage head~
+The mage head of the amazing three-headed monster spits in your face.
+~
+The mage has a thinly veiled contempt of the other two heads (and the
+rest of the world), but nevertheless will listen to the warrior  - at
+least some of the time.  He is a malcontent in part because he is
+always last to achieve a new level.
+~
+1 1 bg r 0 S
+70 -13 -25 4d25+1200
+402 500 60 5d10+20
+67 0 5 1d0+95
+36 0 5 1d0+95
+70 0 2 1d0+95
+57 0 8 1d0+95
+87 0 10 1d0+95
+4 0 10 1d0+95
+-1
+-1
+-1
+4300 326666 8 8 1
+A
+%%80 ass head~
+#18030
+maypole dancer red~
+The dancer~
+The dancing girl weaves her #rred#Y ribbon in with the white ones.
+~
+The maypole dance is a celebration of rebirth.  As the dancers wind in
+and out of each other in a complex spiral of steps, the ribbons are
+wound around the tall tree growing within the circle of stones.
+~
+1 0 bg 0 500 S
+95 -27 -42 25d4+1300
+400 500 100 3d20+40
+-1
+-1
+-1
+5000 600000 8 8 2
+#18031
+maypole dancer white~
+The dancer~
+#wWhitei#Y ribbons form a spiral pattern on the maypole as the boy
+dances.
+~
+At the end of the dance, the white and red ribbons will form a spiral
+on the maypole symbolizing the circle of life.  For a land badly hurt
+by long years of war, the rebirth is especially significant.
+~
+1 0 bg 0 500 S
+95 -27 -42 25d4+1300
+400 500 100 3d20+40
+-1
+-1
+-1
+5000 600000 8 8 1
+#18032
+captive feline dl dark legion~
+The feline captive~
+The feline #bc#ga#bp#gt#bi#gv#be#Y mews pitifully over her fate!
+~
+Captured in the final wave of fighting and sent here to feed the
+dragon, the feline raises her voice in a loud lament.  She wonders,
+miserably, if she *pounces* on the dragon in a last ditch effort to
+avoid being his dinner, if she has a chance to escape.  If she fails,
+surely they will do something horrible to her ... like feed her to
+mice, instead ...  On a tag on her collar you can see the emblem for
+#bD#ga#br#gk #bL#ge#bg#gi#bo#gn#N clan.
+~
+3 0 bg rs -1000 A 50 2
+#18033
+captive terrorist tkk~
+The terrorist~
+The captive #Cter#crorist whimpers at the lick of dragonfire.
+~
+This particular captive used to delight in terrorizing sweet little old
+lady gnomes.  Alas, he looks forlorn and pitiful, awaiting his turn to
+be dragon hors d'oeuvres.  A somewhat tattered #CT#cKK#N insignia is
+loosely attached to his outer cloak.
+~
+1 4 bg 0 -1000 A 40 1
+#18034 
+raspberry scented peasant malina~
+The raspberry scented peasant~
+Phew! one of the peasants has had too much raspberry brandy!
+~
+Perhaps, if you must be a peasant, it's better to be a bit drunk.  This
+particular peasant has been indulging deeply in a bottle of raspberry
+brandy and is a bit worse for wear as a result.  Actually, he reeks!
+On his dirty burlap tunic you see a faded emblem of the clan
+#MMalina#N.
+~
+1 0 bg 0 0 A 50 1
+A
+%%8 flirt wench;%5 em guzzles his ale.;%5pinch wench;%5 nudge wench~
+#18035
+dragoon goon Phos~
+The dragoon~
+The little dragoon sits by the side of the road, worshipping his sun.
+~
+Seated by the side of the path, the soldier dressed in #cblue#N and
+#mpurple#N watches his Phos set in the far distance, then waits for it
+to happen again.  Occasionally he eats the scraps of food kind souls
+leave for him, but mostly he is content to sit and wait for the sun to
+make an appearance.  He was a valiant warrior, but his mind has, sadly,
+gone.
+~
+1 4 bcg 0 0 A 55 1
+#18036
+squire troll~
+The troll squire~
+The #ytroll#Y squire easily carries the heavy armor to his knight.
+~
+Pitifully, he will never quite make it to knighthood.  His tiny troll
+brain just can't seem to hold all the rules and the few spells they are
+allowed to learn.  He is strong, however, and healthy, and the knight
+will have an excellent squire for many many years.
+~
+1 4 g zD 0 S
+85 -24 -37 5d40+1300
+402 500 100 3d8+65
+-1
+-1
+-1
+100 500000 8 8 1
+#18037
+child rainbow newbie~
+The rainbow child~
+The #rr#ya#gi#cn#mb#bo#rw#Y child looks about her in wonder.  "What's
+this?" she asks.
+~
+Dressed in all the colors of the rainbow (but mostly bronze), the child
+wanders the faire.  Her eyes are wide with wonder, and she asks about
+everything she sees.  Occasionally one of the older fairegoers will
+stop by and offer to help her.
+~
+1 0 g 0 0 A 10 2
+#18038
+hunter warrior woman Arts~
+The warrior woman~
+The woman #bhunter#Y stands aloof from the games of knights.
+~
+Although invited to participate in the Knight's games - the jousting,
+wrestling and other forms of hand to hand combat, the woman scoffed at
+them as "boys' games".  She chose instead to continue her work
+protecting the children and her own society of women.  She is secure in
+her knowledge of her own strength and feels no need to constantly prove
+herself.  On her tunic you see the emblem of the clan #bArtemisian#N.
+~
+1 4 g 0 0 S
+100 -30 -45 8d60+2500
+401 500 50 3d18+50
+403 500 50 3d18+50
+-1
+-1
+-1
+800 1200000 8 8 2
+#18039
+dragon storm stormy SD~
+The stormy dragon~
+No matter where he goes, the red dragon cannot escape his cloud.
+~
+A bright, vividly red dragon looks at you from stormy gray eyes.
+Everywhere he goes, he is followed by a storm cloud towering inches
+from his 5' high head.  If you look closely, you will see a #RStorm
+Dragon #Ninsignia tattooed on one wing.
+~
+1 0 g 0 0 A 50 1
+#18040
+hat seller hatseller vendor~
+The hat seller~
+#y"Fine 'ats for gents! Luvly 'ats for th'ladies" says the hat
+seller.#N
+~
+Nobody goes bareheaded in Elysium.  Whether it's protection from the
+elements, a little extra oomph! when attacking the (very very few)
+remaining bad guys, or just wanting to be really spiffy, everyone wants
+something on their head.
+~
+1 1 bg bdkhrzB 0 S
+109 -50 -45 4d50+3100 
+401 500 80 6d7+65 
+402 500 20 8d9+53 
+-1
+322 100 372 100 321 100 
+-1
+-1
+6099 1200000 8 8 2
+#18041
+tinker~
+The tinker~
+The tinker offers to turn your helmet into a cooking pot.
+~
+After all, you'll not be needing armor in this land of peace!  This
+tinker has travelled the length and breadth of the kingdom and seen the
+changes wrought first by war then the coming of peace.  He can fix
+almost anything metallic for you.
+~
+1 0 bg 0 700 S
+95 -40 -27 4d50+1500 
+405 500 40 6d7+55
+406 500 60 8d9+33
+-1
+-1
+-1
+4523 600000 8 8 1
+#18042
+voodoo child E~
+The voodoo child~
+The #Mvo#wo#Mdoo child#Y watches you from mysterious gray eyes.
+~
+Born and raised under the powerful aura of voodoo magic, the voodoo
+child is a child no longer.  He is an expert with the natural magic
+latent in forest, stream, animals.  Although it is a brutal magic, it
+has til now been aligned with the honor of Elysium.  Still, late on a
+moonless night you will hear the heartbeat of his drums and resolve to
+remain indoors.
+~
+1 4 bgl dkrz 800 S
+105 -40 -45 4d50+3100 
+401 500 60 6d7+55 
+402 500 20 8d9+33
+101 0 10 1d0+99
+107 0 10 1d0+99
+-1
+322 100 372 100 321 100 
+-1
+-1
+6099 1200000 8 8 1
+A
+%%85 ass E~
+#18043
+innocent warrior baby-faced baby E~
+The baby-faced warrior~
+Despite his baby-faced innocence, you #rfear#Y this #bElysium#Y
+warrior.
+~
+He has the innocent face of an unborn child, but his dagger strikes
+#rfear#N into the bravest of evil hearts.  He is an aged and
+well-experienced avatar warrior, having lived many lives and been
+gloriously victorious over evil in all of them.
+~
+1 4 g h 1000 S
+109 -60 -45 4d50+3500 
+401 500 80 6d7+55 
+402 500 20 8d9+33 
+-1
+322 100 372 100 321 100 
+-1
+-1
+6099 2400000 8 8 1
+A
+%%85 ass E~
+#18044
+man jack-in-the-box jack~
+Jack-in-the-box~
+An enormous man springs out at you.
+~
+Small wonder Jack chooses to hide in that box!  He is hideously ugly.
+Uglier than a troll!  He has a huge round white head, two blue dots for
+eyes and a long, pointy orange nose.  On his head he wears a tall,
+pointed yellow helmet that looks like it could hurt you if he chose to
+head-butt you.  Better steer clear of it!
+~
+1 0 bfg r -800 S
+95 -27 -42 25d4+1300
+400 500 100 3d20+40
+-1
+-1
+-1
+5000 600000 8 8 1
+#18045
+human singer Marilyn Manson~
+The evil singer~
+The strange human sings songs of deepest evil in a tuneless voice.
+~
+Long dirty brown hair hangs over a scrawny bare human male chest.  The
+lips sneering, leering at you are smeared with red well beyond their
+natural boundaries.  It is not until you look into the man's wildly
+painted eyes that you begin to be afraid for there is nothing, nothing
+inside them.
+~
+1 0 bfg sz -1000 S
+90 -25 -40 3d50+1300
+406 500 80 1d45+46
+107 0 20 1d0+99
+-1
+-1
+-1
+5356 500000 8 8 0
+#18046
+Sir Norbert Naughty knight~
+Sir Norbert~
+Sir Norbert the Naughty cheats at wrestling as at everything else.
+~
+To be fair, he really can't help himself, being three quarters drow.
+It's a way of life.  With his deep blue skin and close cropped white
+hair, he is able to pass in this festive crowd as an unusual elf kin.
+~
+1 4 g sz -1000 S
+95 -27 -42 25d4+1300
+400 500 100 3d20+40
+-1
+-1
+-1
+5000 600000 8 8 1
+#18047
+Methar knight~
+Methar~
+Methar and his steed Valiant have won most of the games today.
+~
+Methar is a tall, well-muscled minotaur, a veteran of the recent wars
+and well practiced at both hand to hand combat and the intricate moves
+required of a knight on horseback.  Methar's brown hair is well-mixed
+with gray and kept tied neatly.  His long drooping mustache is
+well-waxed.
+~
+1 4 bg z 750 S
+99 -30 -45 8d40+2000
+401 500 50 3d18+50
+403 500 50 3d18+50
+-1
+-1
+-1
+800 1200000 8 8 1
+A
+%%15 mount valiant;%80 ass valiant~
+#18048
+Valiant horse~
+Valiant~
+Valiant tosses his long white mane with pride.
+~
+Tall, nimble, powerful and intelligent - what more could one ask of a
+horse?  Valiant's coat is as pure a white as his heart, and more than
+once his quick thinking and actions have saved his owner from harm.
+~
+7 4 bcg D 500 S
+75 -17 -31 5d20+1150 
+400 500 100 3d10+45
+-1
+-1
+-1
+0 400000 8 8 1
+A
+%%80 ass methar~
+#18049
+purple people eater monster~
+The purple people eater~
+The furry three-toed flying purple people eater looks sadly out at you.
+~
+Clueless as to why he's been forced to live behind bars, the lonely
+purple people eater silently begs for release. At 9' (not quite 3m),
+his head rubs against the ceiling of the tent, mussing his fur.  This
+makes him quite upset.  All day long people walk by laughing and
+pointing at him.  He hasn't had a decent meal in ever so long!  Perhaps
+you would volunteer to be a snack?
+~
+18 1 bfg hs -1000 S
+100 -30 -36 4d15+3600
+410 500 40 2d8+70
+98 0 10 1d0+95
+106 0 10 1d0+90
+97 0 10 1d0+90
+86 0 10 1d0+80
+96 0 10 1d0+80
+104 0 10 1d0+80
+-1
+-1
+-1
+2000 600000 8 8 1 
+#18050
+peasant man~
+The peasant~
+The peasant looks in awe at the jugglers and all the performers here.
+~
+A rough peasant from a farm badly ravaged by the long wars, he hasn't
+seen the luxuries offered at the faire for many years.  Luxuries
+including soap  ... The peasant is weary, but well muscled and long on
+endurance from all of the labor involved in farming.
+~
+1 4 g 0 0 S
+80 -20 -30 5d40+1100
+400 500 100 3d8+56
+-1
+-1
+-1
+1000 470000 8 8 1
+#18051
+elysium warrior E~
+The Elysium warrior~
+The warrior wanders the faire, never entirely at ease with the peace.
+~
+The battles have gone on for so long and so viciously, that there is an
+expectation of imminent danger in the hearts of all of #bElysium#N's
+brave warriors.  Whether they fight with dirk or with hammer or with
+incantation, they are instantly ready to subdue evil.
+~
+1 4 g 0 1000 S
+85 -24 -37 5d40+1300
+400 500 100 3d8+65
+-1
+-1
+-1
+100 500000 8 8 2
+A
+%%50 ass E~
+#18052
+gypsy dancer~
+The gypsy dancer~
+Flying skirts and stomping feet fire the gypsy's dance.
+~
+The gypsy turns rapidly around and around, her skirts flying with her
+movement.  Her feet stomp in time to the wild rhythm of the violin and
+her fingers *click* *click* in a counter rhythm.  Her vivid red skirt,
+loose, low cut white blouse, wide leather belt and shiny black boots
+ensure she earns a few extra coins for her dancing.
+~
+1 1 bg drsB 0 S
+89 -25 -40 3d50+1300
+406 500 100 1d45+46
+-1
+-1
+-1
+5356 600000 8 8 2
+#18053
+gypsy violinist~
+The gypsy violinist~
+Magic fills the air when the gypsy plays upon his violin.
+~
+His hair is a wild dark cloud around his head as he brings music forth
+from the delicate violin tucked under his chin.  Somehow, the gypsy's
+whole body is involved when he plays and the music he brings to life is
+filled with an awesome power.
+~
+1 1 bg 0 500 S
+85 -21 -36 5d20+900
+400 500 70 4d10+30
+37 0 10 1d0+100
+63 0 10 1d0+100
+73 0 10 1d0+100
+-1
+-1
+-1
+1200 760000 8 8 1
+#18054
+dwarf dwarven silversmith~
+The dwarven silversmith~
+The dwarven silversmith urges his oxen up the road.
+~
+On his way to sell his well-crafted silver at the faire, the dwarf
+knows he is already late.  He is unconcerned, however.  He knows there
+will be an unquenchable demand in this new era of prosperity.
+~
+1 0 g 0 0 S
+90 -25 -40 3d50+1300
+406 500 100 1d45+46
+-1
+-1
+-1
+5356 500000 8 8 1
+#18055
+human pilgrim~
+The human pilgrim~
+Black-garbed and solemn-faced, the #whuman#Y pilgrim trudges along.
+~
+   Headed for the fabled home of peace, harmony and well being, the
+pilgrim is torn between hopes of a true reconciliation between the
+factions and philosophies that have torn this world apart and the fear
+that nothing real has changed, that one faction has simply grabbed the
+ascendancy, however momentary.
+~
+1 2 g 0 700 S
+92 -27 -42 3d50+1400
+406 500 60 1d50+46
+27 0 20 1d0+90
+28 0 20 2d0+100
+-1
+-1
+-1
+5356 600000 8 8 1
+#18056
+snake dominant head~
+The dominant snake head~
+#yThe dominant snake head points at you and screams, "MINE!"#N
+~
+A two-headed snake!  Each head has a tiny snake collar.  The one on
+this head says, "Squeezers".  Despite the name, you are more likely to
+be poisoned than squeezed to death.  Assuming the snake(s) can make up
+their mind(s) what to do with you at all!
+~
+16 0 bg z -900 S
+95 -27 -42 25d4+1300
+400 500 100 3d20+40
+-1
+-1
+-1
+5000 600000 8 8 2
+A
+%%05 kill rat;%05 eat rat;%90 ass snake~
+#18057
+snake non-dominant head~
+The non-dominant head~
+#yThe non-dominant snake says, "No! MINE!", and slithers towards you.#N
+~
+Ever seen a snake pout?  Not a pretty sight.  But when you are always
+the loser ... Each of the two snake heads forms a small triangle, and
+there are alternating teal and light turquoise bands down the length of
+the snake.
+~
+16 0 bg z -900 S
+95 -40 -27 4d50+1500
+405 500 40 6d7+55 
+406 500 60 8d9+33 
+-1
+-1
+-1
+4523 600000 8 8 1
+A
+%%03 kill rat;%90 ass snake~
+#18058
+rat snake food snakefood~
+The rat~
+The rat scurries arout the cage, whiskers and tail twitching.
+~
+Placed here to keep the snake(s) well fed and content (so they don't
+ogle the paying customers) the rats run in circles around the cage.
+They know they are doomed.  They would need a ratman superhero to
+rescue them.  These rats are just your standard rats ... gray, white,
+and pink with a green striped tail.
+~
+3 0 bg 0 -500 A 2 1
+#18059
+vampire gnome gnomish cod~
+The gnomish vampire~
+Child-sized himself, the vampire gnome lusts for children's blood.
+~
+It is unusual for the gnomish to be seduced into the dark side, but
+this is the exception.  When he smiles broadly, two long fangs reveal
+themselves.  During the recent wars this gnome left behind a trail of
+undead children.  Aside from the fangs and the #YChildren of Darkness#N
+tattoo, this gnome could easily pass for normal.
+~
+1 0 bg 0 -1000 A 50 1
+#18060
+bard~
+The bard~
+The bard will sing epic songs in your honor - for a price.
+~
+Although he does indeed carry news from one castle fortress to the
+next, news which he records in song and in rhyme, the bard is a very
+practical man.  For a small fee he will cheerfully invent some heroic
+deds for you and sing of them to your friends and foe.  Instant
+immortality!
+~
+1 0 g 0 500 S
+95 -30 -42 3d50+1400
+406 500 60 1d45+46
+65 0 1 1d0+100
+97 0 9 1d0+90
+25 0 15 1d0+95
+79 0 5 1d0+100
+101 0 10 1d0+95
+-1
+328 95 363 95 338 95 318 95 -1
+-1
+5356 600000 8 8 1
+A
+%%5 em sings, "Alas, my love, you do me wrong to cast me out so
+discourteously.  For I have loved you so long, delighting in your company."
+;%5 sings,
+"What ho! The Elfking he did go, a-hunting evil drow ..."~
+#18061
+General ham hammerin H Bone E~
+General H Bone~
+General H ("Hammerin'") Bone wields sword and magic with equal prowess.
+~
+   A tall and straight #rAvatar#N with slightly large head and feet,
+General H Bone was in charge of the Elven Armies during the recent War
+Against the Evil Hordes.  He is still revered by those elves with a
+military bent to their nature, as you will see from the many pictures
+of him hung in Elven dwellings.  General Bone has long straight blond
+hair tied neatly with a leather thong.  He doesn't put up with any
+nonsense!
+~
+1 4 fgi z 1000 S
+100 -30 -45 8d40+3500
+401 500 50 4d18+50
+403 500 50 4d18+50
+-1
+-1
+-1
+800 1200000 8 8 1
+A
+%%85 ass E~
+#18062
+bard joyous joy~
+The joyous bard~
+Songs of joy and wicked rhymes keep the bard (and you) smiling.
+~
+It is a long trek to the faire.  The bard is not a rich man, but he has
+discovered that people like to laugh and think of pleasant things.
+When they are happy, he prospers.  
+~
+1 0 g 0 800 S
+90 -23 -38 3d50+1200
+406 500 60 1d45+46
+79 0 10 1d0+100
+52 0 10 1d0+100
+17 0 10 1d0+100
+4 0 10 1d0+95
+-1
+-1
+-1
+5356 600000 8 8 1
+#18063
+elite warrior~
+The #:R#bE#yL#bI#yT#bE#N warrior~
+The #:R#bE#yL#bI#yT#bE#Y warrior #Wis lying there, stunned.
+~
+The warrior was hoping to win medals and gold for his clan, but he's
+not having a good day.  Hammered into his chest plate you see the
+insignia of the Elite clan.
+~
+1 0 b 0 0 A 50 1
+#18064
+fairy warrior wizard E ~
+The warrior wizard~
+The #rFairy#Y warrior wizard wreaks #bElysium#Y vengeance upon evil.
+~
+   For all his undoubted power, the wizard has yet a sort of sad, puppy
+dog look about him.  Perhaps he is remembering all of his fellow
+wizards who were lost during the war.  With soft gray eyes under the
+tall pointed wizard hat, it is no wonder he has many hopeful wizards
+following his footsteps.
+~
+1 1 gl hB 800 S
+109 -30 -36 4d15+2600
+410 500 40 2d8+70
+98 0 10 1d0+95
+106 0 10 1d0+90
+97 0 10 1d0+90
+86 0 10 1d0+90
+96 0 10 1d0+90
+104 0 10 1d0+90
+-1
+-1
+-1
+2000 1800000 8 8 1
+A
+%%85 ass E~
+#18065
+apprentice wizard E~
+The wizard's apprentice~
+The eager apprentice follows his idol in hopeful imitation.  
+~
+He has "borrowed" the wizard's hat, robe, boots and wand which are
+all, unfortunately, a trifle large on him.  "One day", he assures you
+(and himself), "I shall be a powerfully mighty extremely incredible
+wizard of wizards!"
+~
+1 1 g hB 800 S
+85 -21 -36 5d20+900
+400 500 70 4d10+30
+96 0 10 1d0+100
+106 0 15 1d0+50
+104 0 5 1d0+90
+-1
+-1
+-1
+0 500000 8 8 1
+A
+%%85ass E;%8 em stumbles and almost falls, but quickly rights himself.~
+#18066
+jouster eccentric crazy E~
+The crazed jouster~
+Despite his eccentric style, the #RDwarven#Y jouster is undefeated!
+~
+   Taking on battles he should have no hope of winning, yet this crazy
+#RDwarven#N jouster manages to win again and again.  After watching him
+for some hours you become convinced it is his sheer determination and
+belief in himself that is bringing him victory after victory.
+~
+1 4 gl r 800 S
+100 -30 -36 4d15+3600
+410 500 100 2d16+70
+-1
+312 100 314 100 318 100 322 90 328 90 345 90 -1
+-1
+2000 1200000 8 8 1
+A
+%%85 ass E~
+#18067
+Sir Enzen knight~
+Sir Enzen~
+Sir Enzen of the black heart prepares to lance the quintain.
+~
+Sir Enzen and his horse are both dressed entirely in black, and you
+wonder just how hot it gets in there on a summer's day.  not that
+spring or summer were overly present during the past year of terror.
+Despite his name, nobody has ever proven anything against Sir Enzen.
+He is a strong and fearless knight, as well as a wealthy one.
+~
+1 4 gl zD -800 S
+105 -33 -43 8d50+2500 
+401 500 80 6d7+55 
+402 500 20 8d9+33 
+-1
+322 100 372 100 321 100 
+-1
+-1
+6099 1200000 8 8 1
+#18068
+squire Timothy~
+Sir Enzen's squire~
+Sir Enzen's squire looks about nervously.
+~
+Unlike his master, Sir Enzen's squire Timothy is a nervous, weak lad, a
+disappointment to his sire and master alike.  Sir Enzen forces him to
+train constantly in hopes that he will thereby build muscles and
+courage.  He remains as you see him, however, weak and timid.
+~
+1 4 g 0 0 S
+80 -20 -30 5d40+1100
+400 500 100 3d9+56
+-1
+-1
+-1
+1000 480000 8 8 1
+#18069
+knight practicing~
+The knight~
+The knight makes a few practice swings with his heavy mithril sword.
+~
+Some of the knights are disappointed that the wars are over and they
+have lost their chance to pillage, rape, collect large amounts of war 
+booty and win fame and fortune for their name.  They look to these 
+meetings with other mighty warriors to keep their edge between wars.
+~
+1 4 g 0 800 S  
+90 -25 -40 3d50+1500
+406 500 100 1d45+46
+-1
+-1
+-1
+5356 500000 8 8 1
+#18070
+philosophical thief elf E ~
+The philosophical thief~
+Pushed out of the church into a life of crime, the thief has prospered.
+~
+The elf has taken nimbly to his life of crime.  It was not his first
+choice, but the Wiccan monks in Tynstri, where he was trained, shoved
+him out the door some years ago.  Not only was he guzzling the
+sacramental wine late at night, but he was selling it to some underage
+dragons who'd developed a taste for it.
+~
+1 3 gm rs 900 S
+90 -25 -40 3d50+1800
+406 500 100 1d45+46
+-1
+338 98 339 98 345 95 372 98 331 100 322 100 318 98 -1
+-1
+5356 500000 8 8 1
+A
+%%85 ass E;%90 circle~
+#18071
+troll ranger ferret E ~
+The ferret-faced troll~
+The #ytrollish#Y ranger has a ferret like cast to his features.
+~
+He also seems to be fading in and out of view.  Very strange.  Now you
+see him, now you don't.  Where does he fade off to?
+~
+1 4 g 0 900 S
+100 -30 -45 8d60+2500
+401 500 50 3d18+50
+403 500 50 3d18+50
+-1
+-1
+-1
+800 1600000 8 8 1
+A
+%%85 ass E~
+#18072
+stablelass stable lass groom~
+The stablelass~
+The stablelass carefully braids the horse's mane and tail.
+~
+The knights' horses are pampered more than their wives or children, who
+are fostered out to other families.  This stablelass will carefully
+comb the horses' coats free of burrs and then carefully braid mane and
+tail into elaborate designs.  On a day of celebration, she may braid in
+flowers or ribbons as well.
+~
+1 0 bg 0 0 S
+92 -26 -42 3d50+1300
+405 500 100 3d20+45
+-1
+-1
+-1
+5356 550000 8 8 2
+#18073
+servant ratman~
+The ratman servant~
+The ratman servant collects wood for a fire.
+~
+Fortunately, the large numbers of people have not been here over long,
+or there would be a true shortage of wood.  Although this servant has
+managed to find a few spare pieces of wood lying around ... small
+pieces of other clans' wagons that surely won't be missed!
+~
+1 0 g 0 0 S
+80 -20 -30 5d40+1100
+408 500 100 3d8+56
+-1
+-1
+-1
+1000 500000 8 8 1
+#18074
+black knight wicked Sir Eldar~
+Sir Eldar~
+Sir Eldar the Wicked Black Knight swings his heavy battle axe.
+~
+Sir Eldar is here, like the other knights both good and bad, to win
+some of the large cash prizes awarded in the knights games.  He will
+also sow a little dissent, make alliances with other families and size
+up those weak enough to be wiped out.
+~
+1 4 g z -1000 S
+105 -30 -30 6d40+3000
+402 500 100 3d15+70
+-1
+-1
+-1
+10000 1200000 8 8 1
+#18075
+squire bigglesworths~
+Sir Bigglesworth's squire~
+Sir Bigglesworth's squire grumpily polishes armor.  "Wax on. Wax off."
+~
+Noble boys are sent to live in other households to learn to be
+knights, and this young #bKai#N squire lives in the Bigglesworth
+household.  It is a rather loose knit place, and the squire finds he is
+expected to do a bit more than he would like. He has been set to polish
+the big knight's heavy armor, and it must be done precisely as required
+or he will have to do it all over again.
+~
+1 4 bg 0 0 A 50 1
+#18076
+stablelad lad stable~
+The stablelad~
+The stablelad is a "keeper of horses" but would rather roll in the hay.
+~
+This tall young minotaur is very excited to be able to help take care
+of the all important warhorses.  Many a joust is won or lost based on
+the knight's horse and many a copper coin finds its way into the stable
+lad who helps to care for a winning rider's mount.
+~
+1 0 bcg s -50 S
+80 -20 -30 5d40+1100
+400 500 100 3d8+56
+-1
+-1
+-1
+1000 450000 8 8 1
+#18077
+blacksmith john~
+John the Blacksmith~
+John the Blacksmith attaches a horseshoe to the great warhorse.
+~
+Being blacksmith to the mighty knights and nobles is an important and
+somewhat dangerous job.  If a shoe should come loose during a joust and
+cause one of the horses to go lame or simply cause the jouster to lose,
+it will not go well for the blacksmith!  On the other hand, John has no
+competition at the moment, and smithery is one of the necessities of
+this life.
+~
+9 0 bg z 0 S
+95 -27 -42 25d4+1300
+400 500 100 3d20+40
+-1
+-1
+-1
+5000 600000 8 8 2
+#18078
+blacksmith apprentice lad~
+The apprentice~
+The apprentice lad sorts the horseshoes and nails into buckets.
+~
+Apprenticed to the blacksmith at the age of 7, at 17 the lad is well on
+his way to being a fully fledged blacksmith in his own right.  His
+shoulders and biceps are large, and even his hands are well muscled.
+~
+9 0 bg z 0 S
+80 -20 -30 5d40+1100
+400 500 100 2d8+56
+-1
+-1
+-1
+1000 570000 8 8 1
+A
+%%1 mutter~
+#18079
+wild boar beast~
+The wild boar~
+The enormous boar comes charging at you from the underbrush.
+~
+Even the wild pigs suffered during the conflict, when their habitat was
+destroyed.  This boar is larger than most.  She sports two long sharp
+tusks, one on each side of a grin which features a full set of long,
+sharp teeth.  The boars charge first and think later.
+~
+1 4 bg zD -350 S
+75 -17 -31 5d20+1150 
+400 500 100 3d15+35
+-1
+-1
+-1
+0 420000 8 8 1
+A
+%%1roar~
+#18080
+dragon soaring~
+The soaring dragon~
+Soaring high overhead, the dragon smirks at the knights jousting.
+~
+Puny humans!  For that matter, puny elves! puny minotaurs! yes, even
+puny demons, wolves, trolls ... Only dragons can soar with the strength
+that he does.  And the silly fools down below are knocking each other
+down, slicing each other up.  They will soon be ready to fill a hungry
+dragon's
+pantry.
+~
+1 4 g B 0 S
+100 -30 -36 4d15+3600
+410 500 40 2d8+70
+98 0 10 1d0+95
+106 0 10 1d0+90
+97 0 10 1d0+90
+86 0 10 1d0+80
+96 0 10 1d0+80
+104 0 10 1d0+80
+-1
+-1
+-1
+2000 1600000 8 8 2
+A
+%%5 smirk~ 
+#18081
+minotaur peasant~
+The minotaur peasant~
+The minotaur peasant looks for someone on whom to sharpen his horn.
+~
+Nothing like a very large, combative minotaur who is feeling a might
+peckish to liven up a crowd already bent on having a good time.  Give
+him a couple of horns of ale, and WATCH OUT!
+~
+1 0 bg k 0 S
+95 -27 -42 25d4+1300
+400 500 100 3d20+40
+-1
+-1
+-1
+5000 600000 8 8 1
+#18082
+gypsy violinist~
+The gypsy violinist~
+The gypsy wields his violin like a weapon.
+~
+Which, of course, it is.  With his music, the gypsy can make you laugh
+or cry or *need* to dance yourself weary.  A thread of silver through
+his black hair and a few fine lines are all that show his age, and his
+dark eyes sparkle at you as he plays.
+~
+1 0 g 0 300 S
+90 -24 -37 5d40+1300
+409 500 85 6d9+45
+86 0 15 1d0+80
+-1
+-1
+-1
+100 500000 8 8 1
+#18083
+knight jouster Sir Bigglesworth Big~
+Sir Bigglesworth~
+Sir Bigglesworth runs at the quintain, but is unseated by the dummy.
+~
+Poor Sir Bigglesworth!  He needs to win this joust to pay his armourer
+bills.  That nasty troll will *kill* him if he doesn't get paid.  Sir
+B. needed extra armor to cover a slight extra paunch he developped
+from a bit too much celebratory beer.
+~
+1 4 g 0 700 S
+100 -30 -45 8d60+2500
+401 500 50 3d18+50
+403 500 50 3d18+50
+-1
+-1
+-1
+800 1200000 8 8 1
+#18084
+dark juan E 18084~
+Dark Juan~
+Dark Juan eyes you from his hiding place in the shadows.
+~
+Dark as the night and nasty as they come, you don't want to tangle with
+this dude.  He's 220 lbs (100 kilos) of lean mean fighting machine.
+More than a little crazed, you see the wicked gleam in his eye just
+before you feel his stiletto sink between your shoulder blades.
+~
+1 3 bfg 0 1000 S
+100 -30 -36 4d15+3600
+403 500 50 3d18+70
+402 500 50 3d18+65
+-1
+372 100 327 95 328 95 331 95 317 85 318 85 315 95 345 50 -1
+-1
+2000 1200000 8 8 1 
+A
+%%95 circle~
+#18085
+jack green~
+Jack o' the Green~
+All dressed in spring green, Jack o' the Green is chasing thunder away.
+~
+Jack o' the Green is the spirit of spring fertility, and in the
+mummers' play he will soundly pounce on Rounce-Robble-Hobble, the
+thunder, making sure the summer harvest is bountiful.
+~
+1 1 bg 0 1000 S
+100 -30 -36 4d15+3600
+403 500 100 2d8+70
+-1
+-1
+-1
+2000 2000000 8 8 1 
+#18086
+hag harvest~
+Hag o' the Harvest~
+The Wicked Hag o' the Harvest must be defeated or it will fail!
+~
+Cheered on by ale-drinking crowds, the patron of the harvest will
+defeat and slay the wicked Hag o' the Harvest, else the harvest will be
+plagued.  The mummer playing the Hag is booed and jeered.  She is a
+scrawny old thing, wearing straw and rags and a sheaf of wheat,
+symbolizing her role.
+~
+1 0 bg 0 -800 S
+100 -30 -36 4d15+3600
+410 500 40 2d8+70
+98 0 10 1d0+95
+106 0 10 1d0+90
+97 0 10 1d0+90
+86 0 10 1d0+90
+96 0 10 1d0+90
+104 0 10 1d0+90
+-1
+-1
+-1
+2000 1200000 8 8 2 
+#18087
+rounce robble hobble thunder~
+Rounce-Robble-Hobble~
+Rounce-Robble-Hobble makes loud and scary thunder noises.
+~
+Rounce-Robble-Hobble is the big, dark, frightening personnification of
+thunder, acted by a travelling mummer all dressed in dark gray clothing
+and face paint, with a streak of white lightning across his chest.  He
+must be defeated by Jack o' the Green for spring fertility to be safe!
+~
+1 4 bg z -800 S
+95 -27 -42 25d4+2300
+400 500 60 3d20+40
+6 0 20 1d0+100
+30 0 20 1d0+100
+-1
+-1
+-1
+5000 600000 8 8 1
+#18088
+court mage elfcourt elf E ~
+The mage to the elfcourt~
+A student of the occult, the elven mage is a member of the elfcourt.
+~
+The Cult of the Occult ... mysterious elven mages who form part of the
+magic of the Court of the Elfking.  This group specializes in arcane
+rites and lost spells.  It is rumored that they perform ritualistic
+sacrifices at the new moon, although this practice would be condemned
+by the Elfking.
+~
+1 1 g s 900 S
+100 -30 -36 4d15+3600
+410 500 40 2d8+70
+98 0 10 1d0+95
+106 0 10 1d0+90
+97 0 10 1d0+90
+86 0 10 1d0+90
+96 0 10 1d0+90
+104 0 10 1d0+90
+-1
+-1
+-1
+2000 700000 8 8 1 
+A
+%%85 ass E~
+#18089
+gnome gnomish rabble rouser~
+The gnomish rabble rouser~
+The #ggnomish#Y rabble rouser looks about for some #ggnomish#Y rabble.
+~
+Gnomes (pronounced guh - noamz) are not prone to think of themselves as
+rabble, so the heated oratory of the rabble rousers generally fall on
+other ears.  The gnomes are tired of being thought of as "those ugly
+little fellows who are always underfoot".  Their great intellect should
+be prized in such an economical package!
+~
+1 1 bgl dk 0 S
+95 -27 -42 25d4+1300
+400 500 80 3d20+40
+96 0 20 1d0+99
+-1
+-1
+-1
+5000 605000 8 8 1
+#18090
+Rocky steed warhorse stallion~
+Rocky~
+The great #bElysium#Y warhorse, Rocky, has a fondness for spaghetti.
+~
+And for other simple pleasures, like fresh water, fresh grass, pretty
+stablelasses to braid his beautiful dark brown mane... the good things
+in life.  He has earned them, having fought hard in the War Against the
+Evil Horde.  Adorned for battle, Rocky wears heavy armor himself and
+carries a hefty knight in full armor as well.  He is extremely strong,
+and crafty as well.
+~
+7 4 bgm 0 800 S
+85 -24 -37 5d40+1300
+408 500 100 4d8+65
+-1
+-1
+-1
+100 760000 8 8 1
+A
+%%5em neighs loudly.;%5 em nudges you, searching your pockets for 
+apples.~
+#18091
+steed warhorse stallion~
+The blond stallion~
+The mighty stallion flicks back his ears and stares you in the eye.
+~
+This enormous, well-muscled steed, has become a trifle temperamental.
+Perhaps the horrors of the war were too much for him.  At one point, he
+was transformed into a frog by an evil sorcerer with bad aim.  The
+mighty knight upon whose shoulders the spell was supposed to land fell
+to the ground, denting his armor and almost *splat*ting the horse/frog.
+So the stallion is a bit cranky.
+~
+7 4 bgm 0 500 S
+85 -24 -37 5d40+1300
+408 500 100 3d8+65
+-1
+-1
+-1
+100 500000 8 8 1
+A
+%%5 bite elf;%5 bite troll;%5 bite E;%5 bite half-elf~
+#18092
+chess player dwarf~
+The dwarven chess player~
+The dwarf calculates his next move on the chessboard.  Is he trapped?
+~
+The dwarf has been playing chess here in the shade with his old friend
+for a long time.  Of average size for a dwarf, his long dark hair is
+streaked with the gray of age and many battles.  A deep jagged scar
+runs from the outer corner of his left eye down to the middle of his
+jawline, marring the deep straight lines of age on his face.
+~
+1 4 bglm r 1000 S
+107 -35 -45 4d50+3100
+401 500 80 6d7+65
+402 500 20 7d9+43
+-1
+322 100 372 100 321 100 
+-1
+-1
+6099 1400000 8 8 1
+#18093
+captive evil blackhearted~
+A blackhearted captive~
+A blackhearted captive faces the dragon with arrogant bravado.
+~
+One of the many captives who made up the Evil Horde, this one is
+waiting his turn to be dragon food.  He is truly an evil minotaur, so
+evil that you can feel it in the air around him.  He is tall, with a
+broad frame covered with heavy muscles, and he snarls at you as you
+pass, revealing long, sharp white teeth.
+~
+1 4 bg krzD -1000 S
+100 -30 -36 4d15+3600
+400 403 100 3d8+70
+-1
+-1
+-1
+2000 1200000 8 8 1
+A
+%%5snarl dragon;%2 snarl~
+#18094
+lady knights~
+A knight's lady~
+The knight's lady looks around for her servants.
+~
+A tall, slender human woman, this lady decided to come with her knight
+on his venture to the games.  She wished to see the faire in all its
+marvels, and she wished to cheer her knight on in the games.  She is
+also well aware of the other pleasures available to him away from home,
+and is determined that he shall not sample them!
+~
+1 0 cg h 500 S
+95 -27 -42 25d4+1300
+400 500 100 3d20+40
+-1
+-1
+-1
+5000 600000 8 8 2
+A
+%%5fashion;%5 comb~
+#18095
+MoC minion chaos captive evil gnome gnomish mage~
+The evil gnomish mage~
+The evil gnome feeds off the chaos of fights between captives.
+~
+This evil little gnome pits captive against captive, amazed that they
+are ever gullible to his machinations.  This was his role in the past
+wars - instigator, inciter, builder of flames between groups.  The
+chaos this created in his world fed him as blood feeds a vampire.
+Tattooed across the little gnome's left buttock is the red and white
+insignia of the #RM#ri#Rn#ri#Ro#rn#Rs#W of #RC#rh#wa#ro#Rs#N.
+~
+1 1 bcg 0 -1000 A 50 1
+#18096
+ribbon seller vendor chubby lad shopkeeper~
+The ribbon seller~
+A chubby lad walks about shouting, "Ribbons! Get your ribbons!"
+~
+The chubby peasant lad is carrying a large display of pretty ribbons
+and other small "fairings".  Ribbons are a lovely small luxury for the
+every day person, and the lad has them in many colors.  The ribbons are
+attached to several large horizontal slats which are in turn attached
+to a long pole.  As the lad wanders around the faire, his display goes
+before him, high up in the air like a flag.
+~
+1 0 bg dk 300 S
+95 -27 -42 25d4+1300
+400 500 100 3d20+40
+-1
+-1
+-1
+5000 600000 8 8 1
+A
+%%1 yell Pretty ribbons! #CR#Mi#Gb#Yb#Bo#Rn#Ws#R for your lady!;
+%1 yell Pretty ribbons! #CR#Mi#Gb#Yb#Bo#Rn#Ws#R for your horse!~
+#18097
+radioactive assassin glow glowing~
+The glowing assassin~
+The #bElysium#Y assassin glows with a dangerous light.
+~
+This assassin has a faint glow to him.  The glow is native to a certain
+group of explorers who have spent too long in a part of the caves known
+as Sellafield.  They were long ago ensorcelled by a wicked wizard known
+as A Tom (named after his cat, they say), and those who spend too long
+there often glow.
+~
+1 4 g dkrs 800 S
+98 -37 -40 4d50+1500 
+405 500 40 6d7+55 
+406 500 20 8d9+33 
+27 0 30 1d0+99
+33 0 10 1d0+100
+-1
+-1
+-1
+4523 650000 8 8 1
+A
+%%85 ass E;%5 airguitar~
+#18098
+gypsy queen ~
+The Gypsy Queen~
+The fiercely independent gypsy moves majestically through the faire.
+~
+Named for the last tsarina of Russia, Alekxandra, the Queen of the
+Gypsies descends from an ancient line of gypsies.  Her long nearly black
+hair, pale as pale skin, and bright green eyes display a certain air of
+mysticism, sensuality, and the knowledge of ancient and dark secrets of
+ancestors past.
+~
+1 4 g dkrs 950 S
+98 -37 -40 4d50+1500 
+405 500 40 6d7+55 
+406 500 20 8d9+33 
+27 0 30 1d0+99
+33 0 10 1d0+100
+-1
+-1
+-1
+4523 650000 8 8 2
+A
+%%85 ass E;%1emote stares at you imperiously~
+#18099
+razputin~
+Razputin~
+The evil Razputin whispers wickedly into the ears of all who will
+listen.
+~
+Razputin is one source of evil not yet eradicated by the brave Elysium 
+warriors.  His is the quiet, sly evil of the whispering powermonger, the
+quick, sly stab to the heart from a monk with an innocent face.
+~
+12 1 bg hkdrs -1000 S
+108 -36 -50 5d40+2800
+410 500 40 5d8+70
+98 0 10 1d0+95
+106 0 10 1d0+90
+97 0 10 1d0+90
+86 0 10 1d0+90
+96 0 10 1d0+90
+104 0 10 1d0+90
+-1
+-1
+-1
+2000 1500000 8 8 1 
+A
+%%8 em smiles slyly at you.;%6 em beckons you closer.~
+#99999
+$~
+

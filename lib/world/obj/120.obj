@@ -1,0 +1,915 @@
+#12000
+ring pewter romeobj~
+a pewter ring~
+A ring hammered out of pewter gleams softly.~
+~
+9 1 0 fg ab
+2 1 0 0 0 0
+5 15000 2500
+E
+pewter ring~
+Soft gray pewter formed in a simple solid round band slides easily
+around any finger, magically adjusting its size.  On the inside,
+engraved very faintly, you see some words.
+~
+E
+words~
+                        ad infinitum an jellitum
+
+~
+A
+13 10
+A
+2 1
+#12001
+bronze belt romeobj~
+a bronze belt~
+This bronze belt will probably be overlooked since it is invisible.~
+~
+9 7 0 f al
+4 0 0 0 0 0
+5 1000 500
+E
+belt bronze~
+Hammered from bronze by dwarven metalsmiths, this belt is adequate
+protection for a new soldier.  Being invisible, it may lure an enemy to
+strike where it appears the soldier is unprotected.  Very cunning.
+~
+A
+1 -2
+A
+18 1
+#12002
+helmet roman combat romeobj~
+a Roman combat helmet~
+A Roman combat helmet has been put aside for later.~
+~
+9 7 aeim a ae
+8 0 0 0 0 0
+10 1200 800
+E
+helmet roman combat romeobj~
+The awkward looking bronze helmet has cheek guards which extend from ear
+to mouth.  It is awkward and heavy and uncomfortable to wear, but the
+wonderful crest of red feathers extending from the middle front back
+makes it well worth the discomfort.
+~
+A
+2 -2
+A
+18 1
+#12003
+medallion eye glob romeobj~
+the glowing eye medallion~
+An ever-vigilant eye watches from its glowing red-orange background.~
+~
+9 20 0 ajl ac
+15 20 0 0 0 0
+1 1000 200
+E
+medallion eye~
+An extremely secret, extremely evil society, Glob Inc has tentacles that
+have threaded their way into the heart of societies around the world.
+New members are given this medallion or some other piece of body wear
+bearing the Glob insignia.  They are told that it is a gift and a means
+for them to identify themselves to others.  But they all experience a
+feeling of being watched, ever afterwards.
+~
+E
+glob~
+Little is known about this society.  Perhaps it is best not to know too
+much.
+~
+A
+5 3
+A
+13 20
+#12004
+bulla romeobj~
+a bulla~
+A boy's small amulet has been lost.~
+~
+11 8 0 i ac
+0 0 0 0 0 0
+1 1500 200
+E
+bulla~
+A small pouch made of sheepskin contains magical herbs, charms and other
+less identifiable ingredients that will help you grow up strong and
+healthy.  By the time you are a man, of course, you won't need it any
+longer!
+^~
+A
+18 4
+A
+19 -3
+#12005
+hairpin romeobj~
+a jeweled hairpin~
+A beautifully jeweled hairpin is begging to be stolen.~
+~
+11 1 0 i ae
+0 0 0 0 0 0
+1 3000 500
+E
+hairpin~
+Diamonds and sapphires alternate on this lovely, large hairpin, meant to
+skewer some wealthy woman's hair to her lovely head.
+^ ~
+A
+1 -1
+A
+3 1
+#12006
+apple romeobj~
+an apple~
+A delicious looking apple shines redly without being waxed.~
+~
+19 1 0 0 a
+4 0 0 0 0 0
+1 5 5
+E
+apple~
+Fresh from one of the Elysium orchards, a bite into this apple leaves
+you feeling enchanted.  It is crisp and juicy and sweet, and quite
+filling.
+~
+#12007
+orange romeobj~
+an orange~
+A sun-ripened orange has been left here for you to eat.~
+~
+19 1 0 0 a
+6 0 0 0 0 0
+1 6 6
+E
+orange~
+Well, you know what an orange looks like, don't you? This is a perfect
+specimen of navel orange.  It is large, with a thick skin.  Inside is a
+mild, sweet, juicy fruit that will help keep you from getting scurvy.
+~
+#12008
+sandals romeobj~
+a pair of leather sandals~
+A pair of leather sandals is missing a pair of feet.~
+~
+9 1 0 0 ag
+2 0 0 0 0 0
+2 250 41
+E
+sandals leather~
+Plain brown sandals made from thick leather were hand cut and stitched
+to fit your feet.  The leather was softened by a process you'd rather
+not know about.  They are comfortable and afford a minor amount of
+protection for your feet.  Very minor.
+~
+#12010
+sausage romeobj~
+a sausage~
+A sausage loaded with peppers and onions makes your stomach revolt.~
+~
+19 1 0 0 a
+8 0 0 0 0 0
+1 11 11
+E
+sausage~
+A nice juicy sausage made of ferret meat is a favorite of Romans of all
+classes, which is probably why you will see so few ferrets in Rome
+today.
+~
+#12011
+bracelet silver gold romeobj~
+a silver and gold bracelet~
+Silver and gold spin in a never ending circle that will fit your wrist.~
+~
+9 7 0 0 am
+7 0 0 0 0 0
+14 1000 800
+E
+bracelet silver gold~
+Two thin circles of silver and gold twist together to form a perfect
+circle.  The bracelet was made by the mighty Froboz for a young slave
+who attracted him.  After many such gifts, the slave sold them all and
+bought his freedom.  Fortunately for him, Froboz took it all very
+philosophically.
+~
+A
+12 25
+A
+19 -2
+#12012
+sapphire ring romeobj~
+a #bsapphire#N ring~
+The blue of the #bsapphire#G is the same shade as an Elfking's eyes.~
+~
+11 9 0 0 ab
+0 0 0 0 0 0
+1 3500 550
+E
+sapphire ring~
+One of Marius's slaves has attached a large deep blue sapphire to a wide
+band of gold to make this very expensive-looking ring.  It is a ring
+favored by Roman priests for its protective qualities.
+~
+A
+18 2
+A
+17 -10
+#12013
+pendant jade romeobj~
+a jade pendant~
+A beautiful jade pendant was brought back from the far provinces.~
+~
+11 9 0 0 ac
+0 0 0 0 0 0
+30 1650 600
+E
+jade pendant~
+Dangling on a long gold chain is a large piece of deep green jade.
+Drinius bought it from Marius the jeweler for his wife, Drucilla, as a
+bride-present.  He had the jade inscribed for her to ward off great
+winged creatures that he swears exist only in her (rather too vivid)
+imagination.  The inscription?  That's a little too private to relate,
+but perhaps she will show it to you someday and translate.
+~
+A
+3 2
+A
+4 2
+#12014
+froboz robe romeobj~
+Froboz's robe~
+Froboz's robe makes a nice warm, soft pile of cloth.~
+~
+11 90 0 0 ac
+0 0 0 0 0 0
+5 1500 250
+E
+robe froboz~
+Dark as a moonless night, the mighty wizard Froboz created this robe of
+cloth conjured from a dream and the screams of a dying priest.  It will
+protect him from his less adept apprentices as well as keep him warm at
+night.
+~
+A
+17 -6
+A
+24 20
+#12015
+tempered sword romeobj~
+a tempered sword~
+A nasty looking tempered sword makes a good weapon for a warrior.~
+~
+5 5 0 0 an
+0 3 8 3 0 0
+16 5000 5000
+E
+sword~
+This finely tempered sword must have been brought back from the future.
+Why anyone in their right mind would want to wield it is beyond me.
+~
+A
+18 -2
+#12016
+quenched sword romeobj~
+a quenched sword~
+A very bloody, but quenched, sword has been left here.~
+~
+5 11 0 f ano
+0 3 5 3 0 0
+14 1000 400
+E
+sword quenched~
+Having slaked its thirst (for blood) in the bodies of Rome's conquered,
+this sword is thoroughly quenched.  Other than that it seems to be a
+perfectly nice, utilitarian sword.  If you put the point on the ground,
+the hilt would come about to your hip joint.  It is quite sharp, but a
+little heavy.  It will do more damage if you can find some nice
+enchanting wizard to make it glow.
+~
+#12017
+bracers moorish romeobj~
+a pair of Moorish bracers~
+A pair of Moorish bracers has been dropped.~
+~
+9 12 aeim a ai
+8 0 0 0 0 0
+15 2500 1000
+E
+bracers~
+Worn by the fierce warriors from the provinces in the north coast of
+Africa, these bracers are made of heavy leather with metal inlays.
+~
+A
+2 -2
+A
+19 2
+#12018
+plate breast roman combat romeobj~
+a Roman combat breast plate~
+A piece of military combat plate has been stolen from some Roman.~
+~
+9 15 aeim a ad
+8 0 0 0 0 0
+10 5000 950
+E
+plate breast roman combat~
+Designed to protect your chest, this heavy metal plate covers you from
+neck to navel, and bears the insignia of the City of Rome.  Designed to
+cover you from neck to navel, it is a bit uncomfortable to wear, but not
+nearly as uncomfortable as having your body split open by some barbarian
+spear.
+^ ~
+A
+2 1
+A
+18 -2
+#12019
+boots combat romeobj~
+a pair of Roman combat boots~
+A pair of combat boots have been abandoned by some Roman soldier.~
+~
+9 9 aeim a ag
+8 0 0 0 0 0
+5 870 900
+E
+boots combat~
+Don't try to go dancing in these!  Thick, heavy, klutzy, metal-clad
+leather boots provide wonderful protection for tender toes from the
+stomps of combat and falling rocks on trails, but they don't do much to
+make you graceful!
+~
+A
+1 2
+A
+19 -1
+#12020
+thunderbolt romeobj~
+Jupiter's Thunderbolt~
+Jupiter's Thunderbolt zzzzings into the ground at your feet.~
+~
+5 26 abefijmn b an
+40 4 6 6 0 0
+22 10000 2500
+E
+thunderbolt~
+Sizzling electric energy makes the thunderbolt glow with a light that
+makes you afraid to touch it, afraid you will be burned.  There appears
+to be no handle on the glowing yellow rod.  You can sense that this is
+indeed a powerful weapon for a god to wield.
+~
+A
+18 3
+A
+19 3
+B k
+#12021
+loincloth red romeobj~
+a red loincloth~
+A deep red loincloth makes a soft pile of cloth on the ground.~
+~
+9 23 abefijmn bk al
+15 0 0 0 0 0
+30 10000 2000
+E
+loincloth~
+Power seems woven into the very fabric of this loincloth, and you can
+sense that this would be a very good thing for a warrior to wear.
+~
+A
+1 2
+A
+2 2
+#12022
+crystal necklace romeobj~
+a crystal necklace~
+Sparkling crystals make a very bright necklace.~
+~
+11 31 0 b ac
+0 0 0 0 0 0
+3 5000 1200
+E
+necklace~
+According to legend this necklace once belonged to Venus.  Each facet of
+each crystal reflected her unearthly beauty.
+~
+A
+3 6
+A
+4 6
+#12023
+winged sandals romeobj~
+a pair of winged sandals~
+Mercury's winged sandals have landed.~
+~
+9 27 aeim al ag
+8 0 0 0 0 0
+14 7500 1300
+E
+sandals winged~
+Very ordinary leather sandals except for the wings ... It's a little
+hard to keep your balance while wearing these cause your center of
+gravity is a ways up from your means of locomotion ... 
+~
+A
+2 2
+A
+14 100
+#12024
+gray dark gray scroll romeobj~
+a dark gray scroll~
+Something has been written on dark gray parchment and rolled up.~
+~
+2 11 0 f ao
+20 3 15 15 0 0
+2 5000 2000
+E
+gray dark gray scroll~
+Scrawled in a dark reddish brown on a dark gray scroll you see a magical
+incantation.  At the end of the scroll is the single word Aesculpius.
+~
+#12025
+ornate scroll romeobj~
+an ornate scroll~
+An ornate scroll has been left here.~
+~
+2 13 0 0 ao
+18 4 20 10 0 0
+2 7000 3000
+E
+ornate~
+Inscribed in dark gold on ancient parchment, the words seem meaningless
+to you.  The scroll is fragile, crumbling in your hands, and unlikely to
+survive more than one use.
+~
+#12026
+plain scroll romeobj~
+a plain scroll~
+A plain scroll is lying on the ground.~
+~
+2 15 0 0 ao
+15 7 15 1 0 0
+2 8000 2200
+E
+scroll plain~
+Most of the scroll is in very high Latin and very incomprehensible to
+you, however at the end there are some words written in a much lower
+form of Latin.  You might understand these.
+ 
+#w          astlay esortray - eciteray onnay elfsay #N
+~
+#12027
+bag herbs romeobj~
+a bag of herbs~
+There is a small, sweet-smelling bag on the ground.~
+~
+3 13 0 b ao
+30 4 4 43 0 0
+5 15000 2000
+E
+bag herbs~
+As you peek inside this small pigskin pouch, you see some green and
+brown herbs, ground to a powder.  They smell sweet yet pungent, and are
+somehow soothing to your spirit.
+~
+#12028
+staff kodarta romeobj~
+a Kodarta staff~
+A Kodarta staff has been carelessly abandoned.~
+~
+4 13 0 0 ao
+17 3 3 15 0 0
+6 35000 4000
+E
+staff kodarta~
+Serpents twining around each other in a spiral have been carved deeply
+into this strong wooden staff.  The carving is very amateurish, however
+the staff is still appealing, and incites in you a desire to hold it and
+wave it about.
+~
+#12029
+wand prototype romeobj~
+a prototype wand~
+There is a prototype of a new magical wand lying here.~
+~
+3 13 0 fhj ao
+30 4 3 26 0 0
+26 20000 13000
+E
+wand prototype~
+Who knows what the great Froboz has been up to now?  This is a metal
+wand, hammered in bronze, with a hollow core.  You can hear something
+sloshing inside, but there doesn't appear to be any means of opening the
+wand.
+~
+A
+18 -3
+A
+24 8
+#12030
+blaze orange flask potion lotion romeobj~
+a disappearing lotion~
+There is a flask, containing a blaze orange lotion from Image Works.~
+~
+10 1 0 0 a
+9 29 15 -1 0 0
+8 1000 100
+E
+lotion~
+The label on this strange little flask reads as follows:
+
+#wTired of that hairy barbarian look?  Quaff this little lotion and
+watch your worries disappear!#N
+~
+#12031
+mace romeobj~
+an executioner's mace~
+An executioner's mace is lying here.~
+~
+5 1 0 h an
+0 5 1 7 0 0
+13 3000 18
+A
+2 -2
+A
+1 -2
+#12032
+entrance arena gate romeobj~
+the arena entrance~
+Drop your ticket in the entrance gate and enter the arena.~
+~
+26 1 0 nz 0
+12041 2 12102 -1 -1 -1
+1 1 0
+E
+entrance arena gate~
+A large gate looks like an entrance to the Colosseum.  There is a slot
+for your ticket and a two words written above it, 
+ 
+                    #rActivate Entrance#N
+
+~
+#12033
+ticket romeobj~
+an arena ticket~
+An admission ticket marked with the word "Colosseum" has been discarded
+here.~
+~
+18 1 0 0 ao
+12033 0 0 0 0 11
+1 1 0
+E
+ticket~
+A small scrap of paper has been marked with the words "Admit One" and
+"Colosseum".  It looks like an entrance ticket to entertainment in the
+arena.  Use it to activate the entrance and then go in to find your
+seat!
+~
+#12034
+vase flowerpot flower pot romeobj~
+a large flowerpot~
+A very large pot filled with flowers enhances the doorway.~
+~
+15 1 0 0 0
+500 0 -1 0 0 0
+0 0 0
+E
+pot~
+A large earthenware pot painted with scenes of gods dancing in lush
+gardens sits in front of an apartment doorway.  It has been planted with
+lush flowers, but the dirt seems not to have been smoothed down, and you
+can see a glint down in one corner.
+~
+#12035
+straw doormat mat romeobj~
+a straw doormat~
+A straw doormat, very bedraggled, lies in front of the door.~
+~
+15 1 0 0 0
+500 0 -1 0 0 0
+0 0 0
+E
+mat~
+A mat made of woven straw shows at least an attempt to keep the dirt
+from this pathetic little apartment at the top of the building.  It has
+seen better days, and for that matter will probably disintegrate into
+dust quite soon.
+~
+#12036
+lintel romeobj~
+the door lintel~
+~
+~
+15 1 0 0 0
+500 0 -1 0 0 0
+0 0 0
+E
+lintel door~
+The lintel stretches over top of the door, and seems like the perfect
+hiding place for keys, etc.
+~
+#12037
+entrance circus gate romeobj~
+Circus Maximus entrance~
+Drop your ticket in the entrance gate and enter the circus.~
+~
+26 1 0 nz 0
+12070 2 12038 -1 -1 -1
+1 1 0
+E
+entrance circus gate~
+A large gate looks like an entrance to the Circus.  There is a slot
+for your ticket and a two words written above it, 
+ 
+                    #rActivate Entrance#N
+
+~
+#12038
+ticket romeobj~
+an circus ticket~
+An admission ticket marked with the word "Circus" has been discarded
+here.~
+~
+18 1 0 0 ao
+12038 0 0 0 0 11
+1 1 0
+E
+ticket~
+A small scrap of paper has been marked with the words "Admit One" and
+"Circus".  It looks like an entrance ticket to entertainment in the
+arena.  Use it to activate the entrance and then go in to find your
+seat!
+~
+#12039
+entrance theater romeobj~
+the theater entrance~
+Drop your ticket in the entrance gate and enter the theater.~
+~
+26 1 0 nz 0
+12045 2 12040 -1 -1 -1
+1 1 0
+E
+entrance door~
+A large door looks like the entrance to the good seats.  There is a slot
+for your ticket and a two words written above it, 
+ 
+                    #rActivate Entrance#N
+
+~
+#12040
+theater ticket romeobj~
+a front-row seat ticket to the theater~
+An admission ticket marked with the word "Theater" has been discarded
+here.~
+~
+18 1 0 0 ao
+12039 0 0 0 0 11
+2 2 0
+E
+ticket~
+A small scrap of paper has been marked with the words "Admit One" and
+"Theater".  It looks like an entrance ticket to entertainment in the
+arena.  Use it to activate the entrance and then go in to find your
+seat!
+~
+#12041
+stairs romeobj~
+the cheap seats~
+Activate the stairs to get to the cheap seats.~
+~
+26 1 0 nz 0
+12055 2 12042 -1 -1 -1
+1 1 0
+E
+stairs~
+A small dark door blocks the stairs up to the cheap seats.
+ 
+                    #rActivate Stairs#N
+
+~
+#12042
+ticket romeobj~
+a theater ticket~
+An admission ticket marked with the word "Balcony" has been discarded.~
+~
+18 1 0 0 ao
+12041 0 0 0 0 11
+1 1 0
+E
+ticket~
+A small scrap of paper has been marked with the words "Admit One" and
+"Balcony".  It looks like an entrance ticket to entertainment in the
+theater.  Use it to activate the stairs up and then go in to find your
+seat!
+~
+#12043
+honeyed dormouse romeobj~
+a roasted honeyed dormouse~
+A delicious roast honeyed dormouse sits temptingly on a platter.~
+~
+19 1 0 0 a
+12 0 0 0 0 0
+1 5 11
+E
+dormouse~
+Freshly cooked, slightly crispy, this delicacy makes your mouth water.
+~
+#12044
+veggies vegetables romeobj~
+some nice fresh veggies~
+A small collection of veggies makes a colorful splash on the floor.~
+~
+19 1 0 0 a
+8 0 0 0 0 0
+1 11 11
+E
+veggies~
+A large collection of colorful vegetables fresh from the farms of
+Stanneg.  These veggies will be good fresh or thrown in a pot with some
+fresh ostrich tongue.
+~
+#12045
+burning wand flame romeobj~
+a flaming wand~
+Small jets of flame are shooting from this wand.~
+~
+3 13 0 0 ao
+5 3 3 5 0 0
+26 20000 13000
+E
+wand~
+This small wand looks almost too hot to hold.  It is made of flame, and
+liable to burn your hands if you try to grab it.  Still, it is likely to
+burn others just as badly, so perhaps it would make a good weapon after
+all.
+~
+A
+18 -3
+A
+24 8
+#12046
+fountain wine nymphs satyrs satyr nymph romeobj~
+a white marble fountain of wine~
+Nymphs and satyrs chase each other merrily around the fountain's base.~
+~
+23 0 0 hz 0
+999 999 2 0 0 0
+0 0 0
+E
+fountain~
+A large marble fountain features a carving of nymphs and satyrs chasing
+each other around the large round base.  It is clear what would happen
+should any of them ever be caught, and it is perhaps a lesson in wanting
+what you can't have.  The fountain is filled with blood red wine,
+spilling slowly from a vessel held by a rather athletic-looking pair in
+the middle of the fountain.
+~
+#12047
+chestnuts romeobj~
+hot roast chestnuts~
+Roasted over a charcoal fire, these chestnuts are delicious.~
+~
+19 1 0 0 a
+12 0 0 0 0 0
+1 5 11
+E
+chestnuts~
+A handful of chestnuts have been roasted over a charcoal fire til their
+shells are blackened and dry, split wide open.  They are filling and hot
+and very satisfying.
+~
+#12049
+toga romeobj~
+a clean white toga with a purple stripe~
+A long purple stripe marks this toga as belonging to someone important.~
+~
+9 60 0 0 ak
+10 60 0 0 0 0
+1 12000 0
+E
+toga~
+The consul's toga marks him as a citizen and a person of importance.
+Made of a circle of white cloth, it takes a while to learn to wrap it
+about the body, and leaves you with a length of cloth hanging over one
+arm.  Still, the prestige of being able to wear such a garment is
+certainly worth any little inconvenience.
+~
+B D
+#12050
+flamingo tongues romeobj~
+a plate of baked flamingo tongues~
+A hundred tiny tongues lie quietly on this plate.~
+~
+19 1 0 0 a
+12 0 0 0 0 0
+1 5 11
+E
+flamingo tongues~
+A delicacy affordable only to the most wealthy, this plate of flamingo
+tongues is healthy nutrition, if a bit unappetizing to most.
+~
+#12051
+whip slave romeobj~
+a small whip~
+A good slave owner rarely needs to use this small slave whip.~
+~
+5 15 0 cj ano
+15 2 4 2 0 0
+1 100 0
+E
+whip~
+It looks like, properly applied, it would hurt!  The whip is short, made
+of a soft dark leather, with a loop at the thick end to hold and a long
+fringe of leather strips at the other.  Designed to hurt without causing
+too much damage, it is an effective tool for handling recalcitrant
+slaves.
+^~
+#12052
+collar slave romeobj~
+a wide leather slave collar~
+A thick, wide, yet soft collar of leather has a large brass ring.~
+~
+9 10 0 j ac
+8 10 0 0 0 0
+1 1000 1
+E
+collar slave romeobj~
+Thick, soft leather with a series of small brass buckles forms a collar
+commonly used for captives.  A large brass ring is affixed to the
+collar, providing a connection point for a chain by which the captive
+may be led.  The collar's strength and width also provides some
+protection to that vulnerable point on the captive's body.  Two of these
+collars would provide a great deal of protection.
+~
+#12053
+truesight clear potion romeobj~
+a clear potion of truesight~
+There is a beaker of truesight, lying discarded.~
+~
+10 1 0 0 a
+90 18 19 20 0 0
+8 1000 100
+E
+potion~
+The label reads,
+ 
+       #wSometimes clarity of vision is a curse, not a blessing.#N
+~
+#12100
+rusted key romeobj~
+a rusted key~
+There is a rusted key here.~
+~
+18 1 0 m a
+1 0 0 0 0 120
+1 0 0
+#12101
+double key~
+a double sided key~
+A double sided key has been left.~
+~
+18 1 0 m a
+2 0 0 0 0 0
+10 0 0
+#12102
+diamond key romeobj~
+a diamond studded key~
+A diamond studded key is sitting on the ground.~
+~
+18 1 0 m a
+2 0 0 0 0 120
+30 0 0
+#12103
+pearl key~
+a key with a pearl handle~
+A key with a pearl handle is sitting on the ground.~
+~
+18 1 0 m a
+1 0 0 0 0 120
+10 0 0
+#12104
+aquamarine key romeobj~
+an aquamarine key~
+There is an aquamarine colored key here.~
+~
+18 1 0 m a
+1 0 0 0 0 120
+10 0 0
+#12105
+opal key~
+an opal key~
+An opal key has been left.~
+~
+18 1 0 m a
+2 0 0 0 0 120
+20 0 0
+#12106
+steel key romeobj~
+a steel key~
+A steel key is lying on the ground.~
+~
+18 1 0 m a
+1 0 0 0 0 120
+1 0 0
+#99999
+$~

@@ -1,0 +1,582 @@
+#27900
+The Amber Circle~
+   You're are standing outside the Amber Circle's stronghold. On either
+side you are flanked by a large tower. On the ground in front of you is a
+trench about one human hand deep. The trench has been dug into
+the ground, which has been inlaid with mithril. Placed in the mithril is
+the Amber, which is so important to the Circle. A translucent barrier of
+energy separates you from the interior of the clan house making the
+impressive clockwork Minotaur clan guardians pointless. Both obstacles
+recognize members of the circle and will let them pass.
+~
+279 uzd 0
+D0
+The stronghold of the Amber Circle lies this way.
+~
+~
+0 -1 27902
+D2
+The Forest lies to the south.
+~
+~
+0 -1 15091
+S
+#27901
+Circle of the Blade~
+   In this area the ground has a slight slope and the grass has grown
+long. In the center is a wooden platform shaped like a circle with a
+series of runes formed from amber. The platform serves as a combat ring
+where warriors of the circle test their skills. The platform's real purpose
+is a protection circle during summonings. Groups of warriors stand within
+the runes and are thus protected. One warrior will stay within the circle
+at all times during summonings, chanting hymns meant to restrain the power
+of any demons in the amber circle.
+~
+279 uzd 0
+D0
+A training lesson for fighters is in sessios.
+~
+~
+0 -1 27904
+D1
+A clockwork gnome is wandering around announcing bulletins.
+~
+~
+0 -1 27902
+D2
+A door blocks you from seeing inside the tower of fire.
+~
+~
+0 -1 27913
+S
+#27902
+Hear Ye! Hear Ye!~
+   This part of the stronghold's courtyard serves as a meeting ground for
+hunting parties. The clan message board, a clockwork gnome, is walking
+around calling out any important bulletins. An atm is set into an alcove
+in the tower of earth awaiting your banking needs.
+~
+279 uzd 0
+D0
+You see an enormous metal bowl resting on a platform.
+~
+~
+0 -1 27905
+D1
+A runic circle dominates the area to your west.
+~
+~
+0 -1 27903
+D2
+The world of midgaard lies this way.
+~
+~
+0 -1 27900
+D3
+You see two warriors practice blade routines within a circle of runes.
+~
+~
+0 -1 27901
+S
+#27903
+Circle of Spells~
+   The ground here is grassy and covered in the shade of a tall oak
+tree. An amber rune circle was placed here to allow magi and clerics a
+chance to practice their craft. The circle has been inscribed on a wood
+platform covered by pure gold and inlaid with Amber. It is often used
+by young casters practicing their new spells under the watchful eye of
+an archmagi or high cleric. During rituals a magi or cleric will sit
+here and chant hymns meant to undo any magic a deamon tries to cast.
+~
+279 uzd 0
+D0
+A group of spell casters sit here studying their book under the sky.
+~
+~
+0 -1 27906
+D2
+A door blocks you from seeing inside the tower of earth.
+~
+~
+0 -1 27914
+D3
+A clockwork gnome is wandering around announcing bulletins.
+~
+~
+0 -1 27902
+S
+#27904
+Blade and Bludgeon~
+   This is where many of the warriors practice their attack and defense
+routines. The ground is level providing stable footing and the grass has
+been trimmed. A few racks on either side of the area hold every type of
+weapon imaginable. Some of the warriors are reading books about attack
+and defense styles but most are practicing with the weapons instead. The
+area smells of sweat, blood, and determination. A small bucket rests on a
+nearby table along with a plate of bread, a dish of butter, and a bowl of
+jelly. A strange gnomish invention, powered by a small amber mana battery
+is turning three oblong, flat, blunt blades. The mechanism keeps the air
+moving so the fighters can cool off. Gnomes sure are useful.
+~
+279 uzd 0
+D0
+You see a green house used for growing food.
+~
+~
+0 -1 27907
+D1
+You see an enormous bowl resting on a platform.
+~
+~
+0 -1 27905
+D2
+You see two warrior fighting within a runic circle.
+~
+~
+0 -1 27901
+D3
+You see the tower of water.
+~
+~
+0 -1 27911
+S
+#27905
+Circle of Binding~
+   This area of the courtyard is probably the most important place within
+the stronghold. Five amber rune circles have been placed in small mithril
+trenches and all are inscribed with smaller runes of protection. Each is
+aligned with a different tower and attuned to one of the elemental
+powers. In the center a large mithril bowl sits upon a solid amber
+framework. The amber framework pierces the bowl in five places creating
+another set of runic circles. A pile of wood rests next to the bowl and
+has been prepared with spells so that no daemon may touch it. All these
+elements combined create a powerful summoning circle.
+~
+279 uzd 0
+D0
+The sights and smells of a feast in preparation great you warmly.
+~
+~
+0 -1 27908
+D1
+You see the more studious members of the clan hard at work.
+~
+~
+0 -1 27906
+D2
+A clockwork gnome is wandering around announcing bulletins.
+~
+~
+0 -1 27902
+D3
+Warriors and rouges are all gathered around practicing blade crafts.
+~
+~
+0 -1 27904
+S
+#27906
+Spell and scroll~
+   A few wooden tables rest in this flat grassy area of the courtyard. It
+is here, at these tables, that many of the clan's Magi study their craft.
+On the table tops are loafs of bread, dishes of butter, jars of jelly,
+and pitchers of water.  The area is also spotted with small trees forming
+shade to lounge in and maybe even take a nap. Most of the Magi seem to
+prefer the tables. You even see one warrior studying a book concerning
+the language used to cast spells. It is a very inviting place to sit,
+relax, and learn about the arcane arts.
+~
+279 uzd 0
+D0
+You see the smithy hard at work creating weapons for the circle.
+~
+~
+0 -1 27909
+D1
+You see the tower of air.
+~
+~
+0 -1 27912
+D2
+A group of young magi are practicing their spells under the watch of a
+powerful archmage.
+~
+~
+0 -1 27903
+D3
+The master binding circle lies this direction.
+~
+~
+0 -1 27905
+S
+#27907
+The Green House~
+   Everyone needs food to eat. The green house is the circle's solution to
+feeding the clan. The green house is a wooden building frame fitted with
+an odd green metal. Each piece of metal is inscribed with a rune meant to
+aid the growth of the vegetables, and fruits. A fairly large area has
+been fenced off and serves as a chicken coop. All the smells mingled
+together create a very relaxing aroma. A young girl is planting new
+tomato plants and a boy, who looks to be near her age, is walking around
+with a pail watering the plants. Together they grow and care for most of
+the food used to feed the clan.
+~
+279 uzd 0
+D1
+The sights and smells of a feast in preparation great you warmly.
+~
+~
+0 -1 27908
+D2
+Warriors and rouges are all gathered around practicing blade crafts.
+~
+~
+0 -1 27904
+S
+#27908
+Feasting Tables~
+   This is where the clan comes to sit and have meals together. Currently
+lunch is being prepared. Bread is being baked in a large stone oven next
+to a deer roasting on a spit. A semi-circle of fire hosts five huge pots
+full of soup. Vegetable beef, clam chowder,  beef stew, and more are all
+simmering in their pots waiting to be eaten. On the dining tables rest
+platters of bread, pitchers of milk and water, and great slabs of cheese.
+A few members of the clan are already sitting here waiting for the food
+to be ready. Eating is a very important affair in the stronghold of the
+Amber Circle.
+~
+279 uzd 0
+D0
+You see the Tower of Soul.
+~
+~
+0 -1 27910
+D1
+You see the smithy hard at work.
+~
+~
+0 -1 27909
+D2
+The Master Binding circle greets you.
+~
+~
+0 -1 27905
+D3
+You see vines of ivy twined around the greenhouse.
+~
+~
+0 -1 27907
+S
+#27909
+The Smithy~
+   To fight daemons you need good weapons and armor to protect you.  An
+excellent smith from a local village has agreed to work for the Circle in
+return for housing, food, and some spending money. The greatest payment
+he receives is the opportunity for his children to read, and learn
+from the books the circle possess. The smithy's anvil rests upon a broad
+tree trunk. Behind that lies his forge, and a wooden barrel filled with
+water stands between the two. Currently the smith is working on a new
+breastplate to put in the clan store room.
+~
+279 uzd 0
+D2
+You see the more studious members of the clan hard at work.
+~
+~
+0 -1 27906
+D3
+The sights and smells of a feast in preparation great you warmly.
+~
+~
+0 -1 27908
+S
+#27910
+Chambers of Healing~
+   This is the bottom room of the Tower of Soul. It is enchanted with
+powerful spells of regeneration to aid healing. Large comfortable couches
+line walls; and a fountain of fresh mead lies in the room's center. A
+spiral staircase twists its way up to the second floor.
+~
+279 uztd 0
+D2
+The sights and smells of a feast in preparation great you warmly.
+~
+~
+0 -1 27908
+D4
+The library is upstairs.
+~
+~
+0 -1 27915
+S
+#27911
+Storage Chamber~
+   This room is the bottom floor of the Tower of Water. It serves as a
+storage chamber for the less useful pieces of equipment the clan has come
+across. Extra tables, chairs, barrels, clothes, boots, swords, shields,
+and many other common, but useful, pieces of equipment are stored here.
+All the items are stored away in an organized manner either in cabinets,
+on shelves, on tables, or in whatever way works best. A staircase runs
+along the wall leading to the second floor.
+~
+279 uzd 0
+D1
+You see warriors and rogues practicing their blade craft.
+~
+~
+0 -1 27904
+S
+#27912
+Treasurery of Amber~
+   You have entered the Tower of Air. This is the clan's treasure chamber.
+Piles of gold litter the floor and pieces of magical equipment lay about
+as if they were common items. These are here to be used by anyone in the
+clan who might need them. Near the back of the room sit three enormous
+oak chests filled with precious amber. The center of the room has a rune
+carved into the floor. The rune creates a powerful gust of wind, strong
+enough to move you to the second floor through a round opening in the
+ceiling. That should be a fun ride.
+~
+279 uzd 0
+D3
+You see the more studious members of the Circle hard at work.
+~
+~
+0 -1 27906
+S
+#27913
+Chamber of the Blade~
+   Although the Circle promotes a closeness between all its members, no
+matter what their race might be, some distinctions are useful. This room,
+the bottom room in the Tower of Fire, serves as barracks for the more
+combat oriented members of the clan. Magi and clerics need a quiet place
+to rest and study their books. Warriors and rogues often stay up far into
+the night drinking and playing dice or card games. Though no one is here
+right now, a keg of fine dark ale rests in the corner waiting for the
+night to come. A bones alley seems to call you and your money with eager
+promises of fun. Despite the rooms rowdy nature every bed is neatly made
+and more than one has a book of lore resting on top of the sheets. A
+stiarcase lining the back wall leads to the second floor.
+~
+279 uzd 0
+D0
+You see warriors engaged in sparing matches.
+~
+~
+0 -1 27901
+S
+#27914
+Chamber of the Arcane~
+   The bottom floor of the Tower of Earth is the sleeping chamber of the
+clan's spell casters but serves. Rows of beds line the walls in neat rows
+In a small area at the back of the room a table has been placed for
+anyone who wants to study late at night. A staircase lining the back
+wall leads too the seond floor.
+~
+279 uzd 0
+D0
+You see young magi practicing their spells under the watchful eye of a
+powerful archmage.
+~
+~
+0 -1 27903
+S
+#27915
+The Library~
+   Reading and firsthand experience are the quickest ways to learn what
+you don't already know. Since firsthand experience can sometimes be very
+dangerous, reading is preferred by many. This library is the pinnacle of
+what a library is meant to be. Each shelf stands at about the height of
+an average troll, and is absolutely stuffed with books of all types. In
+the middle of the room is a spiral staircare leading to the different
+floors of the tower. Either side of the room hosts innumerable book
+shelves. Down the middle of the room is an area with tables instead of
+shelves. Surrounding the staircase are several podiums with books of
+particular importance to the clan in them. The first is named
+"#wMysteries of Amber.#N" The second is titled "#wEncyclopedia  Celestia,#N"
+it probably details the different known daemon and  angel orders. The
+others are blank.
+~
+279 uzd 0
+D4
+The Chamber of Amber is upstrairs.
+~
+~
+0 -1 27916
+D5
+The Chamber of Healing is downstairs.
+~
+~
+0 -1 27910
+E
+Mysteries of amber~
+The books is opened to a page concerned with the proper incantations for
+summoning an imp. You decide to flip through to see if anything catches
+you eye. The first things you notice of interest is a picture of a demon
+lord being summoned by the Circle. The demon is of a type you don't seem
+to remember. A caption at the pages bottle says it is the demon prince
+Gratt'z. The oppisite page lists a peculiar occurance at this summoning
+that had never occured before. It says that Grattz came into the circle
+his own free will to provide the Circle with information about his great
+rivals, Orcus, next plot. What made the summoning truly interesting is
+that the Amber did not actively restrain Gratt'z as it should have. The
+next twenty pages talk about the possible reason for this and the magic
+theories behind these ideas. The most notable theory is that since
+Gratt'z came into the circle of his own free will that the amber
+responded with like action by not restraining him. How interesting...
+~
+E
+Encyclopedia celestia~
+This book is worn and old though well cared for. It probably been read
+through by every member of the order at least once. It is opened to an
+entry on a group of Angels known as Star lords. They are rarely seen on
+the earthly plane since they are embodiements stars. Its also talks
+about a gypsy whose crystal ball can show a person the way to these
+beings if she can be found.
+~
+S
+#27916
+The Chamber of Amber~
+   This is the Chamber of Amber. In this room the Morphean Oracles and
+the High Seers perform the spells of summoning to "extract" information
+from extra-planar beings. In the very center of the room is a small amber
+circle. Surrounding it are ten more circles big enough for even a
+Half-ogre to sit cross-legged comfortably. Every stone in the walls has
+a rune carved into it as well. At the walls' base are rugs for other
+members of the clan to sit on. Along the walls are sconces, with candles
+enchanted to renew their wax. The light cast by the candles seems to
+dance along the edges of the amber cirles before being sucked in by the
+power of the runes. Numerous doors lead into private rooms of  different
+clan members. The northern door is guarded by a stone golem and a
+staircase at the room's back leads down into the library.
+~
+279 uzd 0
+D0
+This door leads to the Council Room.
+~
+door
+~
+1 -1 27926
+D1
+This door leads to Darth's private chambers.
+~
+door oak
+~
+1 -1 27927
+D2
+This heavy metal door leads to Malcalypse's chambers.
+~
+heavy metal door
+~
+1 -1 27929
+D3
+This door leads to Xorinthalasea's private chambers.
+~
+~
+1 -1 27928
+D5
+The clan library lies this way.
+~
+~
+0 -1 27915
+S
+#27926
+The Council Chambers~
+   This is the Council Chambers of the Amber Circle. The room contains a
+circular wooden table with a number of chairs around it. Each chair is
+distinctly different from the others. In the middle of the table is a
+glowing orb, It looks as if words are dancing across its surface. The
+walls have torches set in sconces. They flicker eternally, and change
+colors, thanks to a magical dweamoner.
+~
+279 uzod 0
+D2
+The flicker of candles reveals the Chamber of Amber.
+~
+door
+~
+1 -1 27916
+E
+chairs bowl pappasan~
+At what looks to be the head of the table rests two chairs. The first
+looks like a hovering #Wbowl#N. It has a very soft cushion in it and
+looks very comfy. The second chair is a dragon sized #Wpappasan#N with a
+mithril base. Other chairs rest around the table as well.
+~
+S
+#27927
+Darth's Chamber~
+   The air in this room is thick with the scent of incense. Candles line
+the walls casting a low light on the room's features. The center of the
+room is occupied by a low table with cushions laid out in front of them,
+which are ideal for kneeling. The table is covered in a plethora of
+trinkets and puzzles meant to train the mind & hone perceptions. A pile of
+books also rest on the table. A number of object dangle from the walls
+and ceiling, just barely illuminated by the candles. You see balls
+hanging from chains, hoops on hinges, and lots of other strange devices.
+Many of them have ropes tied to them and are set up so they can be moved.
+A complex system of pulleys run along the ceiling as well and the ropes
+all come together near a series of ten levers. Beneath the levers is a
+small metallic monkey with a red button on his forehead. In the corner
+you see what can only be Darth's bed. It isn't so much a bed as a pile of
+pillows blankets and other soft objects. The room seems to suit its
+owner well. The only exit is through an oak door to the west.
+~
+279 uzd 0
+D3
+~
+door oak
+~
+1 -1 27916
+S
+#27928
+A Dream of Marble.~
+   Black and white marble intertwine in the room, creating intricate
+patterns on the walls, ceiling and floor. Inlaid in the walls are golden
+words forming the history of someone that walked the long road of life,
+and tried to enjoy every second of it, in both sunshine and rain. An
+exquisite goldplated chandelier lights the room. The flames of the
+candles make the shadows dance in front of your eyes. The sweet scent of
+honeysuckle fills the room as a slight breeze sweeps the dust from an
+opened window to the far left. To the right is a very large fireplace. A
+wood pile lies to the side of it, ready to be put into the fire to give
+Xorinthalasea warmth. On the right is an oversized chair with books
+stacked all around, all with tattered covers that shows how lovingly
+they had been read through the ages. Two glasses of chardonnay have been
+set out on a table next to the chair. One for the host, Xorinthalasea.
+The second for you. The words "Welcome" come to your ear on the noon day
+breeze.
+~
+279 uzd 0
+D1
+~
+Door
+~
+1 -1 27916
+S
+#27929
+An Ancient Curse~
+   As you enter the lair of Malcalypse you suddenly feel at odds with
+your own soul.  All around you it seems as though something is trying to
+get into, or perhaps more accurately out of your very being.  The runes
+of this room represent the darker side of everyone’s soul.  Of the few
+that catch your eye one seems to represent Chaos and another an ancient
+Evil whose name no one dares to speak.  Upon closer inspection the wall
+furthest from the door seems to be completely covered in fresh blood.  A
+large dark amber circle, big enough for a dragon, hangs in the air with
+but a single pillow.  In one corner of the room you notice a treasure
+hoard and in another the remains of a bonfire.  Melted candles make a
+circle in the center of the room but the summoning circle is unlike any
+other in the house.  Why would anyone choose to actually live in this
+room?  What is Malcalypse trying to summon into this world?  Or is he
+attempting to keep something out?  In the corner is that the remains of
+dinner or a blood sacrifice?
+~
+279 juzd 0
+D0
+~
+heavy metal door
+~
+1 -1 27916
+S
+#99999
+$~

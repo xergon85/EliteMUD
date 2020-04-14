@@ -1,0 +1,1401 @@
+#23001
+The Trail In the Plains~
+   You are on a trail leading east. The wide landscape stretches far
+away in every direction. To the north you see big Mountains and to
+the south you see King Welmar's Castle.
+~
+230 c 2
+D0
+~
+~
+0 -1 23002
+D1
+~
+~
+0 -1 23006
+D2
+~
+~
+0 -1 23004
+D3
+The plains continue to the west. 
+~
+~
+0 -1 3500
+S
+#23002
+The Plains~
+   The wide plain stretches out in front of you, miles upon miles
+with nothing more than bushes and solitary flowers growing. It is
+almost like there is no apparent end of it.
+~
+230 0 3
+D0
+~
+~
+0 -1 23003
+D1
+~
+~
+0 -1 23002
+D2
+~
+~
+0 -1 23001
+D3
+~
+~
+0 -1 23002
+S
+#23003
+The Plains~
+   The wide plain stretches out in front of you, miles upon miles
+with nothing more than bushes and solitary flowers growing. It is
+almost like there is no apparent end of it.
+~
+230 0 3
+D0
+~
+~
+0 -1 23003
+D1
+~
+~
+0 -1 23002
+D2
+~
+~
+0 -1 23002
+D3
+~
+~
+0 -1 23003
+S
+#23004
+The Plains~
+   The wide plain stretches out in front of you, miles upon miles
+with nothing more than bushes and solitary flowers growing. It is
+almost like there is no apparent end of it.
+~
+230 0 3
+D0
+~
+~
+0 -1 23001
+D1
+~
+~
+0 -1 23005
+D2
+~
+~
+0 -1 23004
+D3
+~
+~
+0 -1 23004
+S
+#23005
+The Plains~
+   The wide plain stretches out in front of you, miles upon miles
+with nothing more than bushes and solitary flowers growing. It is
+almost like there is no apparent end of it.
+~
+230 0 3
+D0
+~
+~
+0 -1 23004
+D1
+~
+~
+0 -1 23005
+D2
+~
+~
+0 -1 23005
+D3
+~
+~
+0 -1 23004
+S
+#23006
+The Trail In the Plains~
+   You are on a trail leading east. The wide grassland stretches far
+away in every direction. To the north you see big Mountains and to
+the south you see King Welmar's Castle.
+~
+230 0 2
+D0
+~
+~
+0 -1 23003
+D1
+~
+~
+0 -1 23007
+D2
+~
+~
+0 -1 23005
+D3
+~
+~
+0 -1 23001
+S
+#23007
+The Trail In the Plains~
+   You are on a trail leading east. The wide grassland stretches far
+away in every direction. To the north you see big Mountains and to
+the south you see King Welmar's Castle. Further east you see a bridge
+over a river.
+~
+230 0 2
+D1
+~
+~
+0 -1 23008
+D3
+~
+~
+0 -1 23006
+S
+#23008
+An Old Bridge~
+   You are on a very old bridge. To the east you see a large forest,
+to the north you see big mountains and to the south you see King
+Welmar's Castle.  You can climb down on to the river on the side of
+the bridge.
+~
+230 0 2
+D1
+~
+~
+0 -1 23009
+D3
+~
+~
+0 -1 23007
+D5
+~
+~
+0 -1 3211
+S
+#23009
+The Trail In the Plains~
+   The trail makes a turn to the north following the river. To the
+north you see big Mountains. And to the east you see a large forest.
+~
+230 0 2
+D0
+~
+~
+0 -1 23010
+D3
+~
+~
+0 -1 23008
+S
+#23010
+A Trail Along The River~
+   You follow a trail leading northwards along the river. To the
+south you can see a bridge over the river. To the north you see big
+Mountains and to the east you see a large forest. 
+~
+230 0 2
+D0
+~
+~
+0 -1 23011
+D2
+~
+~
+0 -1 23009
+S
+#23011
+A Trail Along The River~
+   The trail forks into two branches, one to the north and the other
+to the east. A large stone is standing here. To the north you see big
+Mountains and to the east you see a large forest.
+~
+230 0 2
+D0
+~
+~
+0 -1 23012
+D1
+~
+~
+0 -1 23014
+D2
+~
+~
+0 -1 23010
+E
+sign stone~
+The stone got something written on it.
+To the north lies the Dwarven Village.
+To the south lies the City of Midgaard.
+To the east lies the Elven Forest of Namir, Gnome Village.
+~
+S
+#23012
+A Trail Along the River~
+   You follow a trail north. The moria mountains don't seem to be
+that far away anymore. To the east lies the forest of Namir and to
+the west you hear the rippling sound of a river.
+~
+230 0 2
+D0
+~
+~
+0 -1 23013
+D2
+~
+~
+0 -1 23011
+S
+#23013
+End of trail Along the River~
+   You follow a trail north. The Moria mountains don't seem to be
+that far away anymore. To the east lies the forest of Namir and to
+the west the rippling sound of a river subsides as the trail takes
+you away from the river.
+~
+230 0 2
+D0
+~
+~
+0 -1 9854
+D2
+~
+^~
+0 -1 23012
+D3
+~
+~
+0 -1 3212
+S
+#23014
+The Edge of the Forest~
+   You are standing on a trail, near the eastern edge of the large
+forest of Namir. To the west you see the trail leading back to the
+walled city of Midgaard, and to the east a trail is leading through
+the forest. 
+~
+230 c 2
+D1
+~
+~
+0 -1 23015
+D3
+~
+~
+0 -1 23011
+S
+#23015
+A trail through the forest~
+   You are on a trail winding through the forest. To the west lies
+the forest edge and to the east the trail continues deeper into the
+forest. As you look closer to the north you see a small path leading
+into the forest. And to the south you can leave the trail and go
+straight into the forest.
+~
+230 0 3
+D0
+~
+~
+0 -1 23019
+D1
+~
+~
+0 -1 23023
+D2
+~
+~
+0 -1 23016
+D3
+~
+~
+0 -1 23014
+S
+#23016
+In the Forest~
+   As you leave the trail you sense the tranquillity of the forest
+surround you.  Birds singing and animals can be heard making strange
+noises in the distance.  To the north you see a trail winding west
+and east through the forest and to the south you can continue deeper
+into the forest.
+~
+230 0 3
+D0
+~
+~
+0 -1 23015
+D2
+~
+~
+0 -1 23017
+S
+#23017
+At the Hills~
+   As you wander deeper into the forest you see some hills to the
+east.  When you get closer you discover a dark cave in one of them.
+To the north you can tread back into the forest and if you go to the
+west you move closer to the dark cave.
+~
+230 0 3
+D0
+~
+~
+0 -1 23016
+D3
+~
+~
+0 -1 23018
+S
+#23018
+Entrance to the Dark Cave~
+   You stand in front of a dark cave. A large sign have been struck
+deep into the ground here. To the east you can move away from the
+hills and to the west you can enter the dark cave.
+~
+230 l 3
+D0
+~
+~
+0 -1 23601
+D1
+~
+~
+0 -1 23017
+S
+#23019
+A small path in the forest~
+   You are on a small path leading through the forest. Large trees
+loom everywhere. To the south the trail continues through the forest
+and to the north the narrow path continues between the large trees.
+~
+230 0 3
+D0
+~
+~
+0 -1 23020
+D2
+~
+~
+0 -1 23015
+S
+#23020
+A turn in the small path~
+   You are on a small path leading south and east, trees standing
+close on all sides. As the forest is getting more dense the light
+that comes from above is dimming. To the south the path makes its way
+southward and to the east the path continues into the forest. 
+~
+230 0 3
+D1
+~
+~
+0 -1 23021
+D2
+~
+~
+0 -1 23019
+S
+#23021
+A small path in the forest~
+   You are on a small path leading east and west through the forest.
+Large trees looms close on every side. Its getting darker as the
+large trees almost block all light from above. The path continues to
+the east and to the west.
+~
+230 0 3
+D1
+~
+~
+0 -1 23026
+D2
+Here you can leave the path and go straight into the forest. 
+~
+~
+0 -1 23022
+D3
+~
+~
+0 -1 23020
+S
+#23022
+In the forest~
+   As you leave the trail you sense the tranquillity of the forest
+surround you.  Birds sing and animals are making strange noises in
+the distance. To the south you see a trail winding west and east
+through the forest.
+~
+230 0 3
+D0
+As you look closer to the north you see a small path in the distance. 
+~
+~
+0 -1 23021
+D2
+~
+~
+0 -1 23023
+S
+#23023
+A trail through the forest~
+   You are on a trail leading west and east through the forest. To
+the east, the forest gradually becomes more dense.
+~
+230 0 3
+D0
+This way you can leave the trail and go straight into the forest. 
+~
+~
+0 -1 23022
+D1
+~
+~
+0 -1 23030
+D2
+~
+~
+0 -1 23024
+D3
+~
+~
+0 -1 23015
+S
+#23024
+A narrow path in the forest~
+   You are on a narrow path leading through the forest. Large trees
+loom everywhere. To the north the trail continues through the forest
+and to the south the narrow path continues into the dark forest.
+~
+230 0 3
+D0
+~
+~
+0 -1 23023
+D2
+~
+~
+0 -1 23025
+S
+#23025
+A turn in the narrow path~
+   You are on a narrow path leading north and east, trees standing
+close on all sides. As the forest is getting more dense the light
+form above can't penetrate the canopies of the trees. To the north
+the path makes its way northward and to the east the path continues
+into the dark forest.
+~
+230 a 3
+D0
+~
+~
+0 -1 23024
+D1
+~
+~
+0 -1 23039
+S
+#23026
+A small path in the dark forest~
+   You are on a small path leading east and west through the dark
+forest. Large trees looms close on every side. The path continues to
+the east and the west.
+~
+230 a 3
+D1
+~
+~
+0 -1 23027
+D3
+~
+~
+0 -1 23021
+S
+#23027
+A small path in the dark forest~
+   You are on a small path leading east and west through the dark
+forest. Large trees looms close on every side. The path continues to
+the east and the west.
+~
+230 a 3
+D1
+~
+~
+0 -1 23028
+D3
+~
+~
+0 -1 23026
+S
+#23028
+A small path in the dark forest~
+   You are on a small path leading east and west through the dark
+forest. Large trees loom close on every side. The path branches 
+here, getting lighter to the east, but with a narrower trail 
+leading north between the trees.
+~
+230 a 3
+D0
+~
+~
+0 -1 23073
+D1
+~
+~
+0 -1 23029
+D3
+~
+~
+0 -1 23027
+S
+#23029
+A trail through the dense forest~
+   You are on a trail leading north and south between huge, ancient
+trees standing close on all side. To the west a small path leads into
+the shadows.
+~
+230 0 3
+D0
+~
+~
+0 -1 23035
+D2
+~
+~
+0 -1 23034
+D3
+~
+~
+0 -1 23028
+S
+#23030
+A trail through the dense forest~
+   You are on a trail leading west and east through the forest. The
+forest is becoming more dense, huge trees loom on all sides.
+~
+230 0 3
+D1
+~
+~
+0 -1 23031
+D3
+~
+~
+0 -1 23023
+S
+#23031
+A trail through the dense forest~
+   You are on a trail leading west and east through the forest. Here
+a well traveled trail from the south join up. A road sign is standing
+here pointing south.
+~
+230 0 3
+D1
+~
+~
+0 -1 23032
+D2
+~
+~
+0 -1 23041
+D3
+~
+~
+0 -1 23030
+E
+sign~
+To the south lies the splendid Elven City of ILLIR.
+If your intentions are evil continue on 
+your own risk. To the east lies the gnome
+village.
+~
+S
+#23032
+A trail through the dense forest~
+   You are on a trail leading west and east through the forest. The
+forest is becoming more dense, huge trees loom on all sides.
+~
+230 0 3
+D1
+~
+~
+0 -1 23033
+D3
+~
+~
+0 -1 23031
+S
+#23033
+A trail through the dense forest~
+   Here the east and west roaming trail makes a turn to the north. 
+From the east a small path joins with this trail.
+~
+230 0 3
+D0
+~
+~
+0 -1 23034
+D1
+~
+~
+0 -1 23045
+D3
+~
+~
+0 -1 23032
+S
+#23034
+A trail through the dense forest~
+   You are on a trail leading north and south through the forest. The
+forest is getting very dense, huge ancient trees looms over you form
+all sides.
+~
+230 0 3
+D0
+~
+~
+0 -1 23029
+D2
+~
+~
+0 -1 23033
+S
+#23035
+A trail through the dense forest~
+   You are on a trail leading north and south through the forest. The
+forest is getting very dense, huge ancient trees looms over you form
+all sides.
+~
+230 0 3
+D0
+~
+~
+0 -1 23036
+D2
+~
+~
+0 -1 23029
+S
+#23036
+A trail through the dense forest~
+   Here the north and south leading trail makes a turn to the east.
+The forest is very dense. Blocking almost all light. As you look east
+you see that the forest is getting less dense.
+~
+230 0 3
+D1
+~
+~
+0 -1 23037
+D2
+~
+~
+0 -1 23035
+S
+#23037
+A trail through the forest~
+   You are on a trail leading east and west through the forest. The
+forest is getting less dense to the east.
+~
+230 0 3
+D0
+~
+~
+0 -1 30058
+D1
+~
+~
+0 -1 23038
+D3
+~
+~
+0 -1 23036
+S
+#23038
+At the edge of the forest~
+   You are at the edge of the forest. To the north a dusty path
+continues toward the plains. And to the west you can enter the forest
+of Namir. 
+~
+230 0 3
+D0
+~
+~
+0 -1 1501
+D3
+~
+~
+0 -1 23037
+S
+#23039
+Narrow path in the dark forest~
+   You are on a narrow path leading east and west through the dark
+forest.  Large trees looms close on every side. The path continues to
+the east and the west. To the east you can see some light in the
+distance.
+~
+230 a 3
+D1
+~
+~
+0 -1 23040
+D3
+~
+~
+0 -1 23025
+S
+#23040
+On a well traveled trail~
+   You are on a well traveled trail leading north and both east and
+west. Trees stand close on all sides. A strange feeling comes over you.
+You feel like something or someone is watching you. Both to the west 
+and north, the path leads into the dark forest. To the east the path 
+makes its way through the trees next to the river. South there was 
+once a wooden bridge forged across a small river, but it is now long
+gone.
+~
+230 0 3
+D0
+~
+~
+0 -1 23041
+D1
+~
+~
+0 -1 23042
+D3
+~
+~
+0 -1 23039
+S
+#23041
+On a well traveled trail~
+   You are on a well traveled trail leading north and south. Trees
+stand close on both sides. A strange feeling comes over you, you feel
+like something or someone is watching you. 
+~
+230 0 3
+D0
+~
+~
+0 -1 23031
+D2
+~
+~
+0 -1 23040
+S
+#23042
+A path through the trees~
+   You are on a path leading west and east through the trees. This
+place doesn't seem to like your intrusion. As you start to move
+further east.  "SWISH!" Before you got time to react an arrow passes
+by your head one inch from your right ear. Maybe its time to run.
+~
+230 0 3
+D1
+~
+~
+0 -1 23043
+D3
+~
+~
+0 -1 23040
+S
+#23043
+Elven guard camp~
+   As you enter this place you see a campfire burning. You can see
+elves sitting around the fire relaxing. "SWWWIIISSH!" Now the elves
+seems to be alert. They all readied their bows and aiming at you. You
+better get out of here. 
+~
+230 0 3
+D1
+~
+~
+0 -1 23044
+D3
+~
+~
+0 -1 23042
+S
+#23044
+A path through the trees~
+   You are on a path leading west and east through the trees. This
+place doesn't seem to like your intrusion. As you start to move
+further west. "SWISH!" Before you got time to react an arrow passes
+by your head one inch from your right ear. Maybe its time to run.
+~
+230 0 3
+D1
+~
+~
+0 -1 23050
+D3
+~
+~
+0 -1 23043
+S
+#23045
+A small path through the dense forest~
+   You are on a small path leading west and east through the forest.
+The forest becomes a little less dense here. Further east you can
+make out the beginning of a marsh. When you continue walking
+eastwards you notice that an old overgrown road leads north into the
+forest, you can barely see it as high grass and bushes covers almost
+all of it.
+~
+230 0 3
+D0
+~
+~
+0 -1 30058
+D1
+~
+~
+0 -1 23046
+D3
+~
+~
+0 -1 23033
+S
+#23046
+A small path through the forest~
+   You are on a small path leading west and east through the forest.
+Further east lies a large marsh.
+~
+230 c 3
+D1
+~
+~
+0 -1 23047
+D3
+~
+~
+0 -1 23045
+S
+#23047
+The marsh~
+   The whole forest has been transformed. The old green trees have
+been replaced by dark branches emerging from the marsh. The sound of
+birds have been turned into the sound of croaking frogs.
+~
+230 0 3
+D0
+~
+~
+0 -1 23048
+D1
+The marsh continues to the east.
+~
+~
+0 -1 12900
+D2
+~
+~
+0 -1 23049
+D3
+~
+~
+0 -1 23046
+S
+#23048
+The marsh~
+   You stand in the start of the large marsh. The marsh stretches out
+as far as you can see to the north and east. To the south you can go
+back into the forest. 
+~
+230 0 4
+D2
+~
+~
+0 -1 23047
+S
+#23049
+The marsh~
+   You stand in the start of the large marsh. The marsh stretches out
+as far as you can see to the south and east. To the north you can go
+back into the forest. 
+~
+230 0 4
+D0
+~
+~
+0 -1 23047
+S
+#23050
+A path through the trees~
+   You are on a path leading west and east through the trees. From
+the south you can hear the faint sound of water.
+~
+230 0 3
+D1
+~
+~
+0 -1 23051
+D3
+~
+~
+0 -1 23044
+S
+#23051
+A turn in the path through the trees~
+   You are on a path leading west and east through the trees. Here
+the path turns south. From the south you can hear the sound of water.
+~
+230 0 3
+D2
+~
+~
+0 -1 23052
+D3
+~
+~
+0 -1 23050
+S
+#23052
+At the north river bank~
+   You are on the north side of a river. A path follows the river
+east, and to the north a path leads into the forest. On the south
+side of the river you can see a path disappearing into the forest.
+Maybe its possible to cross the river.
+~
+230 0 3
+D0
+~
+~
+0 -1 23051
+D1
+~
+~
+0 -1 23053
+D2
+As you look closer you can see flat stones under the water. 
+~
+~
+0 -1 23057
+S
+#23053
+Along the north side of the river~
+   You are on a path leading west and east along a river. To the west
+the path goes into the forest and to the east the path continue along
+side the river.
+~
+230 0 3
+D1
+~
+~
+0 -1 23054
+D3
+~
+~
+0 -1 23052
+S
+#23054
+Along the north side of the river~
+   You are on a path leading west and east along a river. 
+~
+230 0 3
+D1
+~
+~
+0 -1 23055
+D3
+~
+~
+0 -1 23053
+S
+#23055
+Along the north side of the river~
+   You are on a path leading west and east along a river. 
+~
+230 0 3
+D1
+~
+~
+0 -1 23056
+D3
+~
+~
+0 -1 23054
+S
+#23056
+The Strange Mist~
+   Suddenly a strange mist covers the whole area, you cant see more
+then ten feet in any direction. The only thing that give you some
+kind of direction is the sound of the river to the south.
+~
+230 c 3
+D0
+~
+~
+0 -1 16000
+D3
+~
+~
+0 -1 23055
+S
+#23057
+Wading over the river~
+  You try to wade over the river, making your way slowly but safe.
+~
+230 c 6
+D0
+~
+~
+0 -1 23052
+D2
+~
+~
+0 -1 23058
+S
+#23058
+At the south river bank~
+   You are on the south side of a river. A path follows the river
+west, and to the south a path makes its way into the forest. On the
+north side of the river you can see a path going north and east.
+Maybe its possible to cross the river.  A strange feeling comes over
+you, you felt like something or someone is watching you.
+~
+230 0 3
+D0
+As you look closer you can see flat stones under the water. 
+~
+~
+0 -1 23057
+D2
+~
+~
+0 -1 23059
+D3
+~
+~
+0 -1 23065
+S
+#23059
+A path in the forest~
+   You are on a south and north leading path in a forest. The forest
+is getting darker as you move further south. 
+~
+230 0 3
+D0
+~
+~
+0 -1 23058
+D2
+~
+~
+0 -1 23060
+S
+#23060
+A dark path in the forest~
+   You are on a path leading south and north in a forest. As the
+forest is getting more dense, almost no light can make its way
+through the trees.
+~
+230 a 3
+D0
+~
+~
+0 -1 23059
+D2
+~
+~
+0 -1 23061
+S
+#23061
+A dark path in the dense forest~
+   You are on a dark path leading south and north in a dense forest.
+Almost no light can make its way through the trees.
+~
+230 a 3
+D0
+~
+~
+0 -1 23060
+D2
+~
+~
+0 -1 23062
+S
+#23062
+A dark path in the dense forest~
+   You are on a dark path leading south and north in a dense forest.
+Almost no light can make its way through the trees.
+~
+230 a 3
+D0
+~
+~
+0 -1 23061
+D2
+~
+~
+0 -1 23063
+S
+#23063
+A dark path in the dense forest~
+   You are on a dark path leading south and north in a dense forest.
+Almost no light can make its way through the trees.
+~
+230 a 3
+D0
+~
+~
+0 -1 23062
+D2
+~
+~
+0 -1 23064
+S
+#23064
+A dark path in the dense forest~
+   You are on a dark path leading south and north in a dense forest.
+Almost no light can make its way through the trees.
+~
+230 a 3
+D0
+~
+~
+0 -1 23063
+D2
+~
+~
+0 -1 14000
+S
+#23065
+Following the river~
+   You are on a west and east leading path along a river.  To the
+west you can hear some sounds of activity.  A strange feeling comes
+over you, you feel like something or someone is watching over you. 
+~
+230 0 3
+D1
+~
+~
+0 -1 23058
+D3
+~
+~
+0 -1 23066
+S
+#23066
+Near the elven city of Illir~
+   You stand in a huge clearing in the forest. Around you are lots of
+small farms and large fields and pastures. To the northwest you see a
+bright shiny stonewall surrounding a city. High towers can be seen
+behind the wall. The path continue through the fields to the west and
+to the east you can follow a path along the river.
+~
+230 c 2
+D1
+~
+~
+0 -1 23065
+D3
+~
+~
+0 -1 23067
+S
+#23067
+Near the elven city of Illir~
+   You stand in a huge clearing in the forest. Around you are lots of
+small farms and large fields and pastures. To the north you see a
+bright shiny stone wall surrounding a city. High towers can be seen
+behind the wall. The path continues through the fields to the east 
+and to the south.
+~
+230 0 2
+D1
+~
+~
+0 -1 23066
+D2
+~
+~
+0 -1 23068
+S
+#23068
+Near the elven city of Illir~
+   You stand in a huge clearing in the forest. Around you are lots of
+small farms and large fields and pastures. To the north you see a
+bright shiny stonewall surrounding a city. High towers can be seen
+behind the wall. The path continue through the fields to the west and
+to the north.
+~
+230 0 2
+D0
+~
+~
+0 -1 23067
+D3
+~
+~
+0 -1 23069
+S
+#23069
+Near the elven city of Illir~
+   You stand in a huge clearing in the forest. Around you are lots of
+small farms and large fields and pastures. To the northwest you see a
+bright shiny stonewall surrounding a city. High towers can be seen
+behind the wall. The path continue through the fields to the west and
+to the east.
+~
+230 0 2
+D1
+~
+~
+0 -1 23068
+D3
+~
+~
+0 -1 23070
+S
+#23070
+Near the elven city of Illir~
+   You stand in a huge clearing in the forest. Around you are lots of
+small farms and large fields and pastures. To the northwest you see a
+bright shiny stonewall surrounding a city. High towers can be seen
+behind the wall. The path continue through the fields to the north
+and to the east. 
+~
+230 0 2
+D0
+~
+~
+0 -1 23071
+D1
+~
+~
+0 -1 23069
+S
+#23071
+Near the elven city of Illir~
+   You stand in a huge clearing in the forest. Around you are lots of
+small farms and large fields and pastures. To the northwest you see a
+bright shiny stonewall surrounding a city. High towers can be seen
+behind the wall. The path continue through the fields north and to
+the south. 
+~
+230 0 2
+D0
+~
+~
+0 -1 23072
+D2
+~
+~
+0 -1 23070
+S
+#23072
+Near the elven city of Illir~
+   You are on a well traveled trail leading north and south. Around
+you are lots of small farms and large fields and pastures. To the
+east you see a bright shiny white stonewall surrounding a city. High
+towers can be seen behind the wall. The well traveled trail continue
+through the fields north and to the east. A path makes its way
+through the fields south.
+~
+230 0 2
+D0
+~
+~
+0 -1 4601
+D2
+~
+~
+0 -1 23071
+S
+#23073
+Narrow trail through the forest~
+   The trail begins to rise sharply as you reach the foothills at the 
+east end of the Moria mountain range. The trees are growing very close 
+together here, and the trail winds it's way between them.
+~
+230 0 3
+D0
+The trail winds northwards.
+~
+~
+0 -1 23074
+D2
+The trail winds southwards.
+~
+~
+0 -1 23028
+E
+trail~
+It's not very wide and seems to have been made by animals rather than 
+humans. There are some footprints here.
+~
+E
+footprints~
+There's a mixture of different kinds. Wolves, boars, and big cats 
+have all passed along this trail recently.
+~
+S
+#23074
+Steep trail through the forest~
+   The forest covers the side of the mountain range to the north, and 
+becomes so steep that it is impossible to climb further. Looking south 
+you can see the rest of the forest stretching out into the distance, and 
+to the north the dark mountains tower above you. The trail leads east 
+from here along the mountainside, or south into the forest.
+~
+230 0 3
+D1
+The trail leads east.
+~
+~
+0 -1 23075
+D2
+The trail winds southwards.
+~
+~
+0 -1 23073
+E
+trail~
+It's not very wide and seems to have been made by animals rather than 
+humans. There are some footprints here.
+~
+E
+footprints~
+There's a mixture of different kinds. Wolves, boars, and big cats 
+have all passed along this trail recently.
+~
+S
+#23075
+Trail through the forest~
+   The trail continues through the thick forest, twisting and turning 
+to avoid the huge trees. The moutainside is too steep here to climb 
+either up or down, the trail leads west and east.
+~
+230 0 3
+D1
+The trail continues east.
+~
+~
+0 -1 12700
+D3
+The trail continues west.
+~
+~
+0 -1 23074
+E
+trail~
+It's not very wide and seems to have been made by animals rather than 
+humans. There are some footprints here.
+~
+E
+footprints~
+There's a mixture of different kinds. Wolves, boars, and big cats 
+have all passed along this trail recently.
+~
+S
+#99999
+$~

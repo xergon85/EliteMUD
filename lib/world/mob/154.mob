@@ -1,0 +1,379 @@
+#15400
+spellcaster spellcastera special~
+spellcaster type A~
+A spellcaster type A wants a room description.
+~
+Its a helper, hihi
+~
+10 1 bgm ydBh -360 S
+109 -25 -50 10d100+2200
+400 500 15 1d40+40
+105 0 30 1d0+100
+98 0 30 1d0+98
+100 0 20 1d0+100
+33 0 5 1d0+100 -1
+-1
+-1
+1000 600000 8 8 1
+R
+0 0 0 0 50
+#15401
+spellcaster spellcasterb special~
+spellcaster type B~
+A spellcaster type B wants a room descption.
+~
+Its a helper, hihi
+~
+10 1 bgm ydBh -360 S
+109 -25 -50 10d100+2200
+400 500 15 1d40+40
+96 0 30 1d0+100
+26 0 30 1d0+98
+104 0 20 1d0+100
+33 0 5 1d0+100  -1
+-1
+-1
+1000 600000 8 8 1
+R
+0 0 0 0 10
+#15402
+spellcaster spellcasterc special~
+spellcaster type C~
+A spellcaster type C wants a room descption.
+~
+Its a helper, hihi
+~
+10 1 bgm ydBh -360 S
+109 -25 -50 10d100+2200
+400 500 15 1d40+40
+106 0 30 1d0+100
+97 0 30 1d0+98
+101 0 20 1d0+100
+33 0 5 1d0+98-1
+-1
+-1
+1000 600000 8 8 1
+R
+0 0 0 0 10
+#15404
+spellcaster spellcasterd special~
+spellcaster type D~
+A spellcaster type D wants a room descption.
+~
+Ouch this dragon, can do some nite dragon stuff
+~
+18 1 bg dfhB 0 S
+109 -50 -60 1d100+14000
+408 500 20 3d50+50
+407 500 5 1d100+50
+410 500 5 1d100+10
+103 0 40 1d0+100
+56 0 10 1d0+100
+26 0 20 1d0+100 -1
+-1
+-1
+4000 3000000 8 8 1
+R
+0 0 0 0 20
+#15405
+spellcaster spellcastere special~
+spellcaster type E~
+A spellcaster type E wants a room descption.
+~
+Ouch this dragon, can do some nite dragon stuff
+~
+18 1 bg dfhB 0 S
+109 -50 -60 1d100+14000
+408 500 30 3d50+50
+407 500 5 1d100+50
+410 500 5 2d100+10
+103 0 20 1d0+100
+104 0 20 1d0+100
+106 0 20 1d0+100 -1
+-1
+-1
+4000 3000000 8 8 1
+R
+0 0 0 0 5
+#15406
+spellcaster spellcasterf special~
+spellcaster type F~
+A spellcaster type F wants a room descption.
+~
+Ouch this dragon, can do some nite dragon stuff
+~
+18 1 bgm dfhB 0 S
+109 -50 -60 1d100+14000
+408 500 20 3d50+50
+407 500 10 1d100+50
+410 500 10 1d100+10
+103 0 30 1d0+98
+26 0 30 1d0+100 -1
+-1
+-1
+4000 3000000 8 8 1
+R
+0 0 0 0 50
+#15407
+spellcaster spellcasterg special~
+spellcaster type G~
+A spellcaster type G wants a room description.
+~
+This one is evil!
+~
+1 4 bf yh -500 S
+109 -50 -60 2d200+4000
+403 500 20 2d50+50
+401 500 20 4d50+0
+28 0 15 2d0+100
+105 0 15 1d0+98
+100 0 15 1d0+100 
+26 0 15 1d0+100 -1
+-1
+-1
+8000 300000 8 8 1
+R
+0 0 0 0 40
+#15408
+spellcaster spellcasterh special~
+spellcaster type H~
+A spellcaster type H wants a room description.
+~
+This one is evil!
+~
+1 4 bf yh -500 S
+109 -50 -60 2d200+4000
+403 500 20 3d50+50
+401 500 10 4d50+0
+99 0 45 1d0+100
+96 0 20 1d0+100
+80 0 5 1d0+98 -1
+-1
+-1
+8000 300000 8 8 1
+R
+0 0 0 0 10
+#15409
+spellcaster spellcasteri special~
+spellcaster type I~
+A spellcaster type I wants a room description.
+~
+This one is evil!
+~
+1 4 bf yh -500 S
+109 -50 -60 2d200+4000
+403 500 30 2d50+50
+401 500 10 4d50+0
+103 0 35 1d0+100
+76 0 20 1d0+100
+42 0 5 1d0+98 -1
+-1
+-1
+8000 300000 8 8 1
+R
+0 0 0 0 15
+#15410
+hardhitter hardhittera special~
+hardhitter type A~
+A hardhitter type A wants a room description.
+~
+Hit em hard.
+~
+9 4 bf zh 30 S
+109 -45 -40 2d200+5000
+401 500 50 3d50+50
+400 500 40 1d100+100
+410 500 10 2d100+10 -1
+-1
+-1
+8000 800000 8 8 1
+R
+0 0 0 0 20
+#15411
+hardhitter hardhitterb special~
+hardhitter type B~
+A hardhitter type B wants a room description.
+~
+Hit em hard.
+~
+9 4 bf zh 30 S
+109 -50 -40 2d200+5000
+401 500 70 3d50+50
+400 500 10 1d100+100
+410 500 20 2d100+10
+-1
+324 100 339 100 322 30 -1
+-1
+8000 800000 8 8 1
+R
+0 0 0 0 10
+#15412
+hardhitter hardhitterc special~
+hardhitter type C~
+A hardhitter type C wants a room description.
+~
+Hit em hard.
+~
+9 4 bm zh 30 S
+109 -50 -40 2d200+5000
+401 500 60 3d50+50
+400 500 30 1d100+100
+410 500 10 2d100+0 -1
+324 100 322 30 -1
+-1
+8000 800000 8 8 1
+R
+0 0 0 0 5
+#15413
+hardhitter hardhitterd special~
+hardhitter type D~
+A hardhitter type D wants a room description.
+~
+Hit em hard.
+~
+2 4 bm zh 30 S
+109 -40 -40 2d200+4000
+401 500 60 8d20+100
+400 500 10 4d35+20
+26 0 30 1d0+100 -1
+-1
+-1
+8000 800000 8 8 1
+R
+0 0 0 0 10
+#15414
+hardhitter hardhittere special~
+hardhitter type E~
+A hardhitter type E wants a room description.
+~
+Hit em hard.
+~
+2 4 bm zh 30 S
+109 -40 -40 2d200+4000
+401 500 80 8d20+50
+400 500 10 4d35+100
+105 0 10 1d0+100
+96 0 10 1d0+100 -1
+-1
+-1
+8000 800000 8 8 1
+R
+0 0 0 0 70
+#15415
+tank tanka special~
+tank type A~
+A tank type A is here but needs a room description.
+~
+Wizard from hell?.
+~
+1 1 b sh 0 S
+109 -50 -60 8d50+7000
+401 500 20 4d50+50
+400 500 10 4d50+50
+103 0 30 1d0+100
+101 0 10 1d0+100
+4 0 10 1d0+100
+97 0 20 1d0+100 -1
+-1
+-1
+10000 800000 8 8 1
+R
+0 0 0 0 20
+#15416
+tank tankb special~
+tank type B~
+A tank type B is here but needs a room description.
+~
+Wizard from hell?.
+~
+1 1 b sh 0 S
+109 -50 -60 8d50+7000
+401 500 20 10d10+50
+400 500 20 1d100+50
+105 0 15 1d0+100
+95 0 10 1d0+100
+86 0 10 1d0+100
+98 0 20 1d0+98
+66 0 5 1d0+98 -1
+-1
+-1
+10000 800000 8 8 1
+R
+0 0 0 0 40
+#15417
+tank tankc special~
+tank type C~
+A tank type C is here but needs a room description.
+~
+Wizard from hell?.
+~
+1 1 bm sh 0 S
+109 -50 -60 8d50+7000
+404 500 20 1d100+100
+104 0 10 1d0+100
+4 0 10 1d0+100
+26 0 10 1d0+100
+90 0 20 1d0+98
+107 0 10 1d0+98 -1
+-1
+-1
+10000 800000 8 8 1
+R
+0 0 0 0 10
+#15418
+tank tankd special~
+tank type D~
+A tank type D is here but needs a room description.
+~
+Wizard from hell?.
+~
+1 1 b s 0 S
+109 -50 -60 8d50+20000
+400 500 40 3d50+20
+404 500 5 1d100+100
+99 0 15 1d0+100
+87 0 10 1d0+100
+103 0 10 1d0+100
+101 0 20 1d0+98 -1
+-1
+-1
+10000 800000 8 8 1
+R
+0 0 0 0 10
+#15419
+tank tanke special~
+tank type E~
+A tank type E is here but needs a room description.
+~
+Wizard from hell?.
+~
+1 1 b s 0 S
+109 -50 -60 8d50+20000
+400 500 40 4d50+20
+404 500 5 1d100+100
+104 0 15 1d0+100
+106 0 10 1d0+100
+100 0 30 1d0+100 -1
+-1
+-1
+10000 800000 8 8 1
+R
+0 0 0 0 40
+#15420
+spellcaster spellcasterj special~
+spellcaster type J~
+A spellcaster type J wants a room descption.
+~
+Ouch this dragon, can do some nite dragon stuff
+~
+18 1 bg dfhB 0 S
+109 -50 -60 1d100+14000
+408 500 01 3d50+50
+103 0 99 1d0+100 -1
+-1
+-1
+4000 3000000 8 8 1
+R
+0 0 0 0 20
+#99999
+$~

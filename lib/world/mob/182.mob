@@ -1,0 +1,593 @@
+#18200
+adventurer sdzone~
+The Adventurer~
+The Adventurer is here seeking his fortune.
+~
+The Adventurer is a hardy soul, toughened by years of rough and tumble.
+He is clothed in the simple leggings and tunic of a humble man, sensible
+wear for an outdoor life.
+~
+1 0 cl 0 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1 
+625 58332 8 8 1
+A
+%%10 emote pauses in his quest for glory, whips out a grubby flannel and wipes his face.~
+#18201
+squire sdzone~
+The Squire~
+The Squire stands patiently waiting for his Master to call.
+~
+The Knight's Squire, resplendent in his red and green uniform, stands 
+ready to assist his master. A young human he is in the bloom of good
+health and as a special sign of recognition has been allowed to carry
+his own sword on this dangerous mission.
+~
+1 0 hgl 0 250 S
+30 5 -6 1d1+445
+400 500 100 1d15+16
+-1 -1 -1 
+900 99999 8 8 1
+#18202
+wyvern sdzone~
+The Wyvern~
+The Wyvern lunges at you with vicious claws extended.
+~
+The Wyvern is a distant relative of the mighty Dragon. Smaller and 
+without great intelligence it has nevertheless survived since the 
+wyverns were driven from their home near the mountains of Moria by 
+Divine Will. The journey has hardened it beyond all recognition and 
+numerous scars across its scales are testament to its survival 
+abilities. You wonder if it may have been mistaken for a dragon!
+~
+13 0 bflm dkyB 0 S
+40 -1 -12 1d1+605
+408 500 100 1d20+21
+-1 -1 -1 
+1600 196665 8 8 0
+#18203
+knight sdzone~
+The Knight~
+The Knight stands here, shining in his armour.
+~
+The Knight is a powerful human aged about thirty years old. His eyes 
+shine with the glazed expression of a man pursuing a holy war. His 
+task, to rid the land of dragons! His armour and sword are new and 
+shiny and you suspect that he has yet to meet his first dragon.
+~
+1 0 il ky 550 S
+40 -1 -12 1d1+605
+400 500 100 1d20+21
+-1 -1 -1 
+1600 196665 8 8 1
+#18204
+lion sdzone~
+The Mountain Lion~
+The Mountain Lion eyes you hungrily.
+~
+The Mountain Lion is more of a great cat rather than a true lion. It 
+is thin and hungry and covered in short brown fur. Yellow eyes blaze 
+at you from its short flat face and powerful legs are tipped with razor
+sharp claws poised to rip you to shreds.
+~
+3 0 f df 0 S 
+50 -2 -15 2d50+548
+400 407 75 4d12+0
+400 408 25 3d8+25 -1
+-1
+-1
+0 300000 8 8 0
+#18205
+snake giant sdzone~
+The Giant Snake~
+The Giant Snake slithers towards you across the ground.
+~
+The huge brown snake is thicker than a man's thigh and very long. It 
+is slowly and smoothly gliding towards you over the ground. 
+~
+0 0 f kty 0 S 
+55 -8 -20 10d11+890
+400 410 100 5d6+25 -1
+-1
+-1
+0 360000 8 8 0
+#18206
+champion knight sdzone~
+The King's Champion~
+The King's Champion stands here praying for guidence.
+~
+A veritable powerhouse of a man, the King's Champion is dressed in 
+expensive and well maintained armour. His robes and finery are offset 
+by his hardened, battle-scarred face. His gaze is steely and merciless 
+and he has you at its focus.
+~
+1 0 efim dhkyz 650 S 
+60 -12 -25 2d150+1000
+400 500 100 1d25+25 -1
+-1
+-1
+1500 480000 8 8 1
+#18207
+salamander giant sdzone~
+The Salamander~
+The Salamander rears up and pours forth fire!
+~
+The Salamander is a creature of heat and fire with a human torso and a 
+reptilian lower half. Its gold eyes are sunk deep into its head which 
+is topped with wild black hair. Its skin is red and the scales on its 
+tail fade from red to orange at its tip.
+~
+1 0 bf kD -650 S 
+65 -14 -26 2d100+1000
+400 404 50 1d25+30
+400 408 25 2d10+35
+26 0 20 1d0+80
+56 0 5 1d0+80 -1
+-1
+-1
+2000 540000 8 8 1
+#18208
+egg dragon sdzone~
+An Egg~
+An Egg sits here waiting to hatch.
+~
+The size of a small boulder the egg's surface is smooth but mottled with 
+many colours. It rocks slightly from time to time and you surmise that 
+a dragon is about to hatch from it. 
+~
+0 0 b 0 900 S 
+1 20 10 0d0+250
+400 410 100 0d0+1 -1
+-1
+-1
+0 10 4 4 0
+#18209
+hatchling sdzone~
+The Hatchling~
+The Hatchling flaps about practising with its wings.
+~
+The Hatchling is a rather large but nonetheless, baby, dragon. It is 
+flapping its wings experimentally and hopping about on its already 
+sturdy and powerful legs. Its scales have hardened in the hours after
+its hatching and it is already well protected. As it peers at you it 
+seems more curious about you than afraid or aggressive.
+~
+18 0 m dkyB 0 S 
+65 -15 -25 2d100+1000
+400 407 75 2d40+0
+400 408 25 2d20+30 -1
+-1
+-1
+0 480000 8 8 0
+#18210
+YoungWyrm young wyrm sdzone~
+The Young Wyrm~
+The Young Wyrm eyes you thoughtfully.
+~
+The Young Wyrm has the fully developed body of a dragon and has mastered
+the art of flight and dextrous use of its limbs. Although only half grown
+it is large and its otherwise grey colouration is beginning to lighten as
+its adult hue starts to show through.
+~
+18 0 m dkyB 100 S 
+75 -18 -28 2d150+1100
+400 407 70 2d50+0
+400 408 20 2d25+35 
+26 0 10 1d0+75 -1
+-1
+-1
+1000 600000 8 8 0
+#18211
+wyrm sdzone~
+The Wyrm~
+The Wyrm is resting here.
+~
+The Wyrm is a fully grown dragon. It really is very large indeed. It
+has a long neck and tail, which give it excellent reach, and very sharp
+claws. Its wings occasionally fan the air producing powerful blasts 
+which threaten to knock you off your feet. This one has turned out a 
+rather impressive gold colour and seems to shine with a gentle light.
+~
+18 0 m dkyB 150 S 
+80 -20 -30 2d200+1200
+400 407 65 2d55+0
+400 408 20 2d30+40
+26 0 15 1d0+80 -1
+-1
+-1
+2000 720000 8 8 0
+#18212
+ElderWyrm elder wyrm sdzone~
+The Elder Wyrm~
+The Elder Wyrm, conscious of his duty, stands here protecting his clan.
+~
+The Elder Wyrm is a seasoned campaigner. Years of study and exercise in
+the formative atmosphere of the Storm Dragon clan have produced a being
+destined for greatness. Next in line for the ruling class he is happy
+to serve his clan in the knowledge that elevation will come when he is
+ready.
+~
+18 4 m mdkyB 250 S 
+90 -25 -40 2d300+1300
+400 407 60 2d60+10
+400 408 20 2d50+40
+26 0 20 1d0+80 -1
+-1
+-1
+3000 900000 8 8 0
+#18213
+drake dragon sdzone~
+The Drake~
+The Drake, master of all he sees stands here.
+~
+The Drake, newly appointed to his position in the ruling classes,
+stands tall and proud. As a dragon of particular worth and dedication,
+he has reached enlightenment and is now one with the forefather,
+Glaurung.
+~
+18 4 m dkyB 350 S 
+100 -35 -55 20d20+2500
+400 407 60 7d11+20
+400 408 20 10d10+45
+26 0 20 1d0+80 -1
+-1
+-1
+4000 1200000 8 8 0
+#18214
+drake golden sdzone~
+A Golden Drake~
+A Huge Golden, Storm Dragon Drake, stands here.
+~
+The Drake is a burnished gold colour, like that of a glorious sunset. He
+is slimmer than the average dragon with a longer neck and tail than
+usual. His teeth and claws however look perfectly normal for a dragon!
+~
+18 4 m dhkyB 400 S 
+100 -35 -55 0d0+3500
+400 407 60 7d11+30
+400 408 20 10d10+50
+26 0 20 1d0+90 -1
+-1
+-1
+4000 1800000 8 8 1
+#18215
+drake powerful sdzone~
+The Powerful Drake~
+A Powerful Storm Dragon Drake, stands here.
+~
+Quite short and squat for a dragon, the Drake still dwarfs most other
+sentient beings he comes across. His scales are a steely grey series
+of overlapping plates that are very hard to penetrate. His eyes are
+bright green and occasionally the transparent inner eyelid blinks
+enabling him to study you without ever taking his eyes from you.
+~
+18 4 m dhkyB 500 S 
+100 -35 -55 0d0+4000
+400 407 60 7d11+30
+400 408 20 10d10+50
+372 0 10 0d0+0
+26 0 10 1d0+95 -1
+315 95 372 95 -1
+-1
+5000 1800000 8 8 1
+#18216
+GreatDrake great drake sdzone~
+The Great Drake~
+The Great Drake of the Storm Dragons stands here.
+~
+The Great Drake is a huge specimen of a dragon. Dark brown from its
+serious looking mouth down to the tip of its long flexible tail the
+only concession to colour are its yellow eyes. It scales look very
+tough, its teeth and claws razor sharp. A very formidable killing
+machine should it choose to turn on you.
+~
+18 4 m dkyB 0 S 
+105 -40 -55 0d0+4500
+400 407 60 8d10+35
+400 408 20 10d10+60
+26 0 10 1d0+90
+103 0 10 1d0+90 -1
+-1
+-1
+10000 2250000 8 8 1
+#18217
+greatdrake ancient great drake sdzone~
+An Ancient Great Drake~
+An Ancient Great Drake and mighty warrior, stands here.
+~
+Despite his enormous size the Great Drake hovers just above the ground. 
+Famed for his fighting prowess he still has a few chipped and cracked 
+scales from teaching enemies the power of the Storm Dragons. Armoured
+like a tank and possessed of both physical and mental weapons of 
+destruction he weaves an intricate pattern of light between his front
+claws.
+~
+18 4 m dhkyB 500 S 
+105 -40 -55 0d0+6000
+400 407 60 8d10+40
+400 408 20 11d10+65
+26 0 10 1d0+95
+103 0 10 1d0+90 -1
+-1
+-1
+10000 3200000 8 8 1
+#18218
+greatdrake mighty great drake sdzone~
+The Mighty Great Drake~
+The Mighty Great Drake stands here.
+~
+Huge and battle scarred, the scaly bulk of a Mighty Great Drake fills 
+your view. His powerful body is covered in scales larger than a dinner 
+plate and his equally well-armoured limbs are well placed to rend you 
+limb from limb.
+~
+18 4 bm dhkyB 500 S 
+105 -40 -55 0d0+6000
+400 407 60 8d10+65
+400 408 20 11d10+65
+26 0 10 1d0+95
+103 0 10 1d0+90 -1
+-1
+-1
+10000 3200000 8 8 1
+#18219
+GrandDrake grand drake sdzone~
+A Storm Dragon Grand Drake~
+A Storm Dragon Grand Drake stands here.
+~
+The Grand Drake has almost reached the pinnacle of the Storm Dragon
+clan. It is easy to see why. Wise but kindly eyes peer down at you
+from the head of this enormous dragon. A beautiful silvery-gray sheen
+ripples across the well muscled body as it moves.
+~
+18 4 m dkyB 0 S 
+109 -45 -60 0d0+7000
+400 407 60 9d10+70
+400 408 20 10d10+90
+26 0 10 1d0+95
+76 0 10 1d0+95 -1
+-1
+-1
+15000 3000000 8 8 0
+#18220
+avatar dragonlord granddrake grand drake sdzone~
+A Mighty Avatar Dragonlord~
+A Mighty Avatar Dragonlord stands here.
+~
+You stand before a mighty avatar dragonlord. His eyes burn with fire as 
+he looks impassively at you. He is dressed in shiny golden armour that 
+blazes like the sun and in his had he holds a huge sword.
+~
+18 4 m dhkyBD 750 S 
+109 -45 -60 0d0+9500
+400 407 60 10d10+80
+400 408 20 10d10+100
+26 0 10 1d0+95
+103 0 10 1d0+95 -1
+322 95-1
+-1
+20000 3750000 8 8 1
+#18221
+GrandDrake dragonlord grand drake sdzone~
+An Avatar Dragonlord~
+A Mighty Avatar Dragonlord stands here.
+~
+He dominates the surroundings. His size is unsurprising but his 
+colouration is! His humble beginnings have been replaced by magnificent
+swirls of colour, lit from within his body by light that flickers and
+dances as he moves. He looks at you in a kindly manner but with the 
+steely gaze of the proud and mighty.
+~
+18 4 m dhkyBD 500 S 
+109 -45 -60 0d0+10000
+400 407 60 10d10+80
+400 408 20 10d10+100
+26 0 10 1d0+95
+103 0 10 1d0+95 -1
+322 95-1
+-1
+20000 3750000 8 8 1
+#18222
+grand drake genial dragonlord GrandDrake sdzone~
+The Genial Avatar Dragonlord~
+The Genial Avatar Dragonlord stands here.
+~
+He has chosen to appear in avatar form today. A large glowing 
+golden humanoid stands before you, tastefully attired in a plain white
+robe and a large golden belt. Perched jauntily on his head sits the 
+traditional pointed wizards hat! A neat fringe protrudes under the rim
+neatly framing the grinning face below. Friendly, genial and extremely
+deadly are impressions that his casual countenance convey!
+~
+18 4 m dhkyBD 750 S 
+109 -55 -65 0d0+12000
+400 407 60 10d10+100
+400 408 20 10d10+120
+103 0 20 1d0+95 -1
+322 95 -1
+-1
+20000 4500000 8 8 1
+A
+%%20 cast 43 genial~
+#18223
+HighDrake high drake dragonlord sdzone~
+The High Drake~
+A High Drake and Dragonlord stands here.
+~
+As a leader of the Storm Dragons the High Drake is respected and feared 
+in all the lands. Wise and powerful, both physically and mentally, 
+he takes a particularly strong role within the clan itself. Whereas 
+some clan members further the clan mainly in the world outside,
+this one also takes time to nurture the young and pass on his wisdom.
+~
+18 4 bm dhkyBD 900 S 
+109 -55 -65 10d10+12000
+400 402 60 10d10+100
+400 408 20 10d10+120
+372 0 10 0d0+0
+103 0 10 1d0+95 -1
+315 95 372 95 322 95-1
+-1
+25000 6000000 8 8 1
+#18224
+high drake vampire dragonlord sdzone~
+The Vampire Dragonlord~
+The Vampire Dragonlord stands here.
+~
+The Vampire Dragonlord stands before you, wearing a pitch black cloak. 
+He looks into your eyes and you feel compelled to walk towards him - 
+then you see the telltale fangs of a vampire, but it's too late...
+~
+18 4 bfm dhkyBD -900 S 
+109 -55 -65 10d10+12000
+400 402 80 10d10+100
+372 0 10 0d0+0
+103 0 10 1d0+95 -1
+315 95 372 95 322 95-1
+-1
+25000 6000000 8 8 1
+#18225
+statue immortal god sdzone~
+A Statue~
+A Statue of a Storm Dragon Immortal stands resolute here.
+~
+A feeble replica of the might and glory of a Storm Dragon God has
+been placed here to allow its namesake's spirit to permeate this
+place.
+~
+18 4 bm dhkkyB 0 S
+109 -36 -50 1d1+3132
+405 500 100 1d54+55
+-1 -1 -1 
+3000 900000 8 8 0
+#18226
+attendant sdzone~
+An Attendant~
+An Attendant awaits the pleasure of a Storm Dragon.
+~
+These attendants all look the same to you! Humanoid but strangely
+silent they show no emotion as they move among the Storm Dragons.
+Their grey sallow skin gleams oddly in the light and their eyes are
+sunken, dark pools.
+~
+1 0 cgm dkyB 0 S
+80 -22 -34 1d1+1526
+400 500 100 1d40+41
+-1 -1 -1 
+2400 600000 8 8 0
+#18227
+soul vanquished sdzone~
+A Vanquished Soul~
+A Vanquished Soul suffers here.
+~
+A vanquished soul writhes in agony. An ephemeral, ghost like, outline
+of a man it waxes and wanes with a slow pulsing rhythm. Barely audible
+moans and cries of anguish seem to appear from nowhere around you.
+~
+0 0 b b 0 S
+80 -22 -34 1d1+1526
+400 500 100 1d40+41
+-1 -1 -1 
+0 600000 8 8 0
+#18228
+bone beast sdzone~
+A Bone Beast~
+A Bone Beast rattles and clacks as it moves towards you!
+~
+An strange assortment of bones, animated by hatred and suffering, are
+lurching about unable to find eternal peace. It doesn't seem very 
+interested in you. It's probably more concerned with it's own problems.
+~
+1 0 bfg dkyB 0 S
+105 -34 -48 1d1+2806
+400 500 100 1d52+53
+-1 -1 -1 
+0 800000 8 8 0
+#18229
+elf tortured sdzone~
+A Tortured Elf~
+A Tortured Elf writhes in agony on the floor here.
+~
+He seems to be in very bad condition and it doesn't look like he 
+will last much longer. However, you notice that some of the cuts 
+have been partially healed, as if Zharradan is keeping him alive 
+and in pain for as long as possible...
+~
+1 0 bg dkyB 250 S
+60 -11 -23 1d1+983
+400 500 100 1d30+31
+-1 -1 -1 
+0 360000 8 8 1
+#18230
+elf tortured sdzone~
+A Tortured Elf~
+A Tortured Elf writhes in agony on the floor here.
+~
+She seems to be in very bad condition and it doesn't look like she 
+will last much longer. However, you notice that some of the cuts 
+have been partially healed, as if Zharradan is keeping her alive 
+and in pain for as long as possible...
+~
+1 0 bg dkyB 250 S
+60 -11 -23 1d1+983
+400 500 100 1d30+31
+-1 -1 -1 
+0 360000 8 8 2
+#18231
+ElderWyrm elder wyrm sdzone~
+The Elder Wyrm~
+The Elder Wyrm, conscious of his duty, stands here protecting his clan.
+~
+The Elder Wyrm is a seasoned campaigner. Years of study and exercise in
+the formative atmosphere of the Storm Dragon clan have produced a being
+destined for greatness. Next in line for the ruling class he is happy
+to serve his clan in the knowledge that elevation will come when he is
+ready.
+~
+18 4 bm dkyB 250 S 
+90 -25 -40 2d300+1300
+400 407 60 2d60+10
+400 408 20 2d50+40
+26 0 20 1d0+80 -1
+-1
+-1
+3000 900000 8 8 0
+#18232
+drake dragonlady sdzone~
+A Dragonlady~
+A Dragonlady, one of the Storm Dragon Drakes, stands here.
+~
+She is slightly larger than an average dragon and you realise that
+female dragons have a slight size advantage over the males. She regards
+you with a not unkindly air whilst retaining the ability to reduce you
+to a bloody pulp, should she choose to do so.
+~
+18 4 m dhkyB 400 S 
+100 -35 -55 0d0+3500
+400 407 60 7d11+30
+400 408 20 10d10+50
+26 0 20 1d0+90 -1
+-1
+-1
+4000 1200000 8 8 2
+#18233
+hatchling messy sdzone~
+The Hatchling~
+The Hatchling flaps about practising with its wings.
+~
+The Hatchling is a rather large but nonetheless, baby, dragon. It is 
+flapping its wings experimentally and hoping about on its already 
+sturdy and powerful legs. Its scales have hardened in the hours after
+its hatching and it is already well protected. As it peers at you it 
+seems more curious about you than afraid or aggressive.
+~
+18 0 bm dkyB 0 S 
+65 -15 -25 2d100+1000
+400 407 75 2d40+0
+400 408 25 2d20+30 -1
+-1
+-1
+0 480000 8 8 0
+#99999
+$~

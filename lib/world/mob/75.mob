@@ -1,0 +1,437 @@
+#7500
+cave giant~
+The female cave giant~
+The female cave giant, guards her home with the strength of ten
+men.
+~
+Born and raised within the caves of the underground. This giant
+carries a boulder as a weapon and has great skill in using it.
+Although the weakest of the race it could easily crush a human's
+skull.
+~
+8 4 g ky 200 S
+40 -5 -14 4d25+500
+400 500 70 1d20+10
+16 0 30 2d0+50 -1
+339 100 304 100 326 50 327 25 -1
+-1
+1500 200000 8 8 0
+#7501
+cave giant~
+The male cave giant~
+The male cave giant, guards his home with the strength of ten
+men.
+~
+Born and raised within the caves of the underground. This giant
+carries a boulder as a weapon and has great skill in using it.
+Although the weakest of the race it could easily crush a humans
+skull.
+~
+8 4 g ky 200 S
+40 -7 -16 4d25+550
+400 500 70 1d20+15
+16 0 30 2d0+50 -1
+339 100 304 100 326 75 327 40 -1
+-1
+1500 210000 8 8 0
+#7502
+stone giant~
+The stone giant~
+The stone giant stares at you with a gaze as hard as stone.
+~
+As its name describes this creature is made entirely of stone.
+It's powerful rock form is capable of receiving and dealing an
+immense amount of damage. As it stares at you the urge to run
+grows intense.
+~
+8 4 g ky 150 S
+45 -9 -17 4d25+600
+400 500 70 1d25+20
+15 0 30 2d0+50 -1
+339 100 304 100 326 100 327 60 318 15 -1
+-1
+2000 217000 8 8 0
+#7503
+frost giant~
+The frost giant~
+The frost giant commands the power of the arctic winds.
+~
+Generally found in the frozen wastelands of Calldorn these
+giants possess awesome powers of cold magic. Frost giants
+have white ivory skin and yellow hair. These creatures are 
+usually found wearing some type of battle armor and are a 
+true spectacle to see if you live to tell about it.
+~
+8 4 fgb dky 100 S
+50 -11 -21 4d25+700
+400 500 70 1d30+20
+77 0 30 1d0+100 -1
+304 100 326 100 327 80 339 100 318 25 -1
+-1
+2000 241000 8 8 0
+#7504
+fire giant~
+The fire giant~
+The fire giant holds a giant flaming sphere from the depths of hell. 
+~
+Straight from the gates of hell is where this being comes from. In
+a territory war this giant was banished to outer lands. His skin is
+a coal black and his hair is flame red. He usually carries a large
+flaming sword as weapon of choice against his victims. If you are
+smart you wont be one of those victims.
+~
+8 4 fgb dky 100 S
+50 -11 -21 4d25+700
+400 500 80 1d30+20
+48 0 20 1d0+100 -1
+304 100 326 100 327 80 339 100 318 25 -1
+-1
+2000 241000 8 8 0
+#7505
+cloud giant~
+The cloud giant~
+The cloud giant drifts along upon the winds of destiny.
+~
+Perhaps one of the more peaceful of the race is the cloud giant.
+This  being usually resides in great castles or atop high
+mountains. Cloud giants have pale blue skin and silver hair and
+are usually wearing some type of valuable jewelry. Don’t let there
+somewhat peaceful demeanor fool you though because the huge
+spiked club they carry is definitely not used to protect the
+innocent.
+~
+8 4 fgb dky 100 S
+55 -12 -22 4d25+750
+400 500 70 3d10+25
+50 0 30 2d0+100 -1
+304 100 326 100 327 95 339 100 318 35 365 15 -1
+-1
+2500 249000 8 8 0
+#7506
+snow wolf~
+The snow wolf~
+The snow wolf of the frozen wasteland searches for its next kill.
+~
+This trained pet of the frost giants is anything but nice and
+cuddly. The snow wolf has dark blue fur and dark green eyes.
+With stealth and cunning this is more than a worthy adversary
+for even the toughest of fighters.
+~
+4 0 fg dksy 100 A 43 0
+#7507
+flare beast wolf~
+The flare beast~
+A giant wolf covered in flames howls in your direction.
+~
+This trained pet of the fire giants is also a former creature of hell.
+The beasts fur is a bright red or white when covered in flame and
+its eyes are jet black. This trusted guardian of the fire giants has
+both the power and the skills to back up the title of guardian as
+well.
+~
+4 0 fg dksy 100 A 43 0
+#7508
+storm giant~
+The storm giant~
+The storm giant commands the forces of thunder and lightning. 
+~
+Master of the forces of nature and the elements is the storm
+giant. It has pale green skin and dark green hair. Its emerald
+green eyes burn a hole right through you and if you don’t have
+your lightning protected equipment on I suggest you run.
+~
+8 4 bgf dkyB 50 S
+60 -15 -24 4d25+800
+400 500 60 3d10+30
+28 0 20 2d0+100
+30 0 20 1d0+100 -1
+304 100 326 100 327 100 339 100 318 20 -1
+-1
+2500 273000 8 8 0
+#7509
+giant Atrolicus~
+Atrolicus master giant~
+The master of all giants awaits as the foolish mortals enter.
+~
+As with age and wisdom comes power and you can tell that this
+giant  is truly a powerful being. Atrolicus wears a huge crown
+covered in gems of every kind known to man and at his side
+rests a huge golden scepter the length of a man. His eyes burn
+fiery red as if to burn right through you. As you enter he speaks
+"who dares enter my land without my permission shall face my
+wrath." Perhaps it was a good day to stay at home.
+~
+8 4 bg dhkyB -100 S
+65 -17 -26 4d25+900
+400 500 60 4d10+30
+60 0 20 1d0+100
+28 0 20 2d0+100 -1
+304 100 326 100 327 100 339 100 318 25 322 5 -1
+-1
+3000 410000 8 8 0
+A
+%%20 emote stands here pointing a lightning bolt at your head.;
+%5 cackle;%10 insult player~
+#7510
+bob alchemist man~
+Bob the Mad Alchemist~
+A very strange looking man toying with various mixtures.
+~
+A strange man toying with different mixtures and potions and
+wearing bright orange robes. He seems to have mixed the wrong
+combination a  few times as his room is in ruins. His origin is
+unknown but if you had to guess you would say he is not quite
+right in the head.
+~
+1 1 bg dhkstyB 300 S
+50 -8 -15 4d25+600
+400 500 20 3d10+20
+56 0 16 1d0+100
+57 0 16 1d0+100
+58 0 16 1d0+100
+59 0 16 1d0+100
+60 0 16 1d0+100 -1
+304 100 326 100 339 100 318 10 -1
+-1
+1500 243000 8 8 1
+A
+%%45 emote dances around the room like a raving lunatic.;%10
+cackle~
+#7511
+queen bee insect~
+The queen bee~
+A very large flying insect is guarding its territory.
+~
+This is perhaps one of the largest flying creatures you have ever
+seen in your life. Its large black eyes seem to stare right through
+you, daring you to make a move. The only thing you notice other
+than that is the very large stinger getting ready to spear you.
+~
+13 0 bfg kB 300 A 45 0
+#7512
+displacer beast cat~
+The displacer beast~
+A large black cat with spiked tentacles waits for its next meal.
+~
+This large black panther like cat is very quick and very deadly. Its
+four tentacles are capable of dealing massive damage to anyone
+who isn’t fully alert. If your in its lair perhaps you should think
+about leaving real soon.
+~
+3 4 bfg dhky 100 S
+45 -12 -20 4d25+700
+405 500 100 3d10+15 -1
+304 100 326 100 327 95 318 15 339 100 372 35 -1
+-1
+1000 219000 8 8 0
+A
+%%25 growl;%10 snarl;%15 emote stares at you with a hunger
+in its eyes.~
+#7513
+bolt wolf~
+The bolt wolf~
+A huge white wolf with glowing white eyes prowls the darkness.
+~
+Trained pet of the storm giants, these creatures possess the
+same deadly skills with lightning as their masters. Bolt wolfs are
+completely white in color and have white eyes the color of a
+lightning bolt. Their skills with lightning combined with their
+ability to see in any type of light make them a very deadly foe.
+~
+4 0 fg dsky 150 S
+50 -13 -20 4d25+750
+408 500 70 3d10+20
+30 0 30 1d0+100 -1
+304 100 326 100 327 75 339 100 318 15 372 20 -1
+-1
+1500 243000 8 8 0
+#7514
+giant octopus creature~
+The giant octopus~
+A stange creature slowly crawls towards you using its eight arms.
+~
+One of the great masters of the ocean is this creature. Its huge
+head is truly a sight to look at but what is more immediately
+noticeable is the eight tentacled arms coming towards you. As it
+slowly inches closer you start to realize now may be a good time
+to leave.
+~
+15 4 bfg bdhkty 250 S
+50 -13 -20 4d25+750
+405 500 100 3d10+20 -1
+304 100 326 100 327 100 339 100 -1
+-1
+2000 243000 8 8 0
+#7515
+mutated prisoner human being~
+The mutated prisoner~
+A very grossly disfigured being looks at you in pain.
+~
+As you look upon this poor tortured soul you realize that this is
+the finished product of the giants torture devices. All that is left 
+of this being that resembles a human is half of its face. As a matter
+of fact you don’t even know whether its a man or a woman. The being 
+seems to have lost all sorts of reason and is attacking anyone or 
+anything that comes near.
+~
+1 0 bgm zk 350 S
+40 -5 0 4d25+400
+400 500 100 3d10+10 -1
+304 100 326 15 339 100 372 5 -1
+-1
+500 195000 8 8 0
+A
+%%20 moan;%20 sulk;%20 whine~
+#7516
+jonas dungeon keeper giant~
+Jonas the Dungeon Keeper~
+A large giant wearing a necklace that says Jonas stares at you coldly.
+~
+Jonas is know well in this land as his role as dungeon keeper.
+What exactly is a dungeon keeper?...well that’s the guy who
+watches the territory he is in for unwanted visitors and removes
+them if you get my meaning. His trusty battle axe is more than
+up to the job too. As you approach he demands "WHO GOES
+THERE!" then as he realizes you shouldn’t be here, prepares
+to...remove...you.
+~
+8 4 bg dhky 150 S
+50 -16 -25 4d25+800
+400 500 70 3d10+25
+28 0 30 2d0+85 -1
+304 100 326 100 327 95 339 100 318 15 -1
+-1
+2000 243000 8 8 0
+A
+%%20 say INFIDELS! Who dares trespass into my dungeon?;
+%5 glares around the room.;
+%5 swear;
+%5 growl~
+#7517
+mountain giant~
+The mountain giant~
+A very large giant blocks your path with a boulder.
+~
+This giant is very similar in appearance to their cousins the cave
+giants. The only difference is that they are a little larger.
+Mountain giants are also know for their immense strength, as
+they like to target people with boulders from time to time.
+~
+8 4 g ky 150 S
+45 -8 -18 4d25+550
+400 500 70 3d10+15
+15 0 30 2d0+100 -1
+304 100 326 100 327 80 339 100 -1
+-1
+2000 223000 8 8 0
+#7518
+mountain giant commander~
+The mountain giant commander~
+A giant with a boulder in one hand stares at you coldly.
+~
+These giants are born and raised in the mountains and well
+skilled in combat there too. The high rank they wear on there
+vest is earned and highly respected by the lesser giants. Using a
+boulder as weapon of choice they are very deadly.
+~
+8 4 gb ky 150 S
+45 -8 -18 4d25+600
+400 500 70 3d10+15
+15 0 30 2d0+100 -1
+304 100 326 100 327 80 339 100 -1
+-1
+2000 226000 8 8 0
+#7519
+storm giant commander~
+The storm giant commander~
+The storm giant commander conjures up the forces of nature.
+~
+Master of the forces of nature and the elements is the storm
+giant. It has pale green skin and dark green hair. Its emerald
+green eyes burn a hole right through you and if you don’t have
+your lightning protected equipment on I suggest you run.
+~
+8 4 bgf dkyB 50 S
+60 -15 -24 4d25+825
+400 500 60 3d10+30
+28 0 20 2d0+100
+30 0 20 1d0+100 -1
+304 100 326 100 327 100 339 100 318 20 -1
+-1
+2500 278000 8 8 0
+#7520
+cloud giant commander~
+The cloud giant commander~
+The cloud giant commander drifts along upon the winds of destiny.
+~
+Perhaps one of the more peaceful of the race is the cloud giant.
+This being usually resides in great castles or atop high
+mountains. Cloud giants have pale blue skin and silver hair and
+are usually wearing some type of valuable jewelry. Don’t let there
+somewhat peaceful demeanor fool you though because the huge
+spiked club they carry is definitely not used to protect the
+innocent.
+~
+8 4 fgb dky 100 S
+55 -12 -22 4d25+775
+400 500 70 3d10+25
+50 0 30 2d0+100 -1
+304 100 326 100 327 95 339 100 318 35 365 15 -1
+-1
+2500 252000 8 8 0
+#7521
+fire giant commander~
+The fire giant commander~
+The fire giant commander glares at you with a fiery rage. 
+~
+Straight from the gates of hell is where this being comes from. In
+a territory war this giant was banished to outer lands. His skin is
+a coal black and his hair is flame red. He usually carries a large
+flaming sword as weapon of choice against his victims. If you are
+smart you wont be one of those victims.
+~
+8 4 fgb dky 100 S
+50 -11 -21 4d25+725
+400 500 70 1d30+20
+26 0 30 1d0+100 -1
+304 100 326 100 327 80 339 100 318 25 -1
+-1
+2000 245000 8 8 0
+#7522
+frost giant commander~
+The frost giant commander~
+The frost giant commander wields the power of the arctic winds.
+~
+Generally found in the frozen wastelands of Calldorn these
+giants possess awesome powers of cold magic. Frost giants
+have white ivory skin and yellow hair. These creatures are 
+usually found wearing some type of battle armor and are a 
+true spectacle to see if you live to tell about it.
+~
+8 4 fgb dky 100 S
+50 -11 -21 4d25+725
+400 500 70 1d30+20
+77 0 30 1d0+100 -1
+304 100 326 100 327 80 339 100 318 25 -1
+-1
+2000 245000 8 8 0
+#7523
+stone giant commander~
+The stone giant commander~
+The stone giant commander commands the rocky caverns below. 
+~
+As its name describes this creature is made entirely of stone.
+It's powerful rock form is capable of receiving and dealing an
+immense amount of damage. As it stares at you the urge to run
+grows intense.
+~
+8 4 gb ky 150 S
+45 -9 -17 4d25+625
+400 500 70 1d25+20
+15 0 30 2d0+50 -1
+339 100 304 100 326 100 327 60 318 15 -1
+-1
+2000 221000 8 8 0
+#99999
+$~
+

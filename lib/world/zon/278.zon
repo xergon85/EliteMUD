@@ -1,0 +1,26 @@
+#278
+Clans~
+27899 1 0
+*
+*** STORM DRAGONS CLAN HOUSE (112)
+O 0 27809 100 27800      Guard Statue of Storm Dragon (Storm Dragons)
+O 0 29 100 27805      SD board
+O 0 3135 100 27801    Fountain in Relaxation Room
+O 0 27812 100 27807  SadSam's Statue in Throne Room
+*
+O 0 27808 100 27821   Mead barrels on balcony
+O 0 27810 100 27802    Treasure Chest in Hallway
+*
+M 0 27800 1 27801     Clan Shopkeeper in Relax Room
+G 1 27800 100          clan identify
+G 1 27801 100          clan seeinvis
+G 1 27802 100          clan recall
+G 1 27803 100          clan crackers
+G 1 27804 100          clan donut :P
+G 1 27805 100          clan fly potion
+G 1 27806 100          clan ale  (hmmm)
+G 1 27807 100          clan milk (aw!)
+S
+#99999
+$~
+

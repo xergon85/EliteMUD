@@ -1,0 +1,2103 @@
+#24000
+Demonic Entrance~
+   Here is the entrance to the Demon Empire. A large tunnel, heading 
+south into the unknown. Bones and skulls litter the floor, and a 
+fierce smell haunts this cave. There is a small sign hanging from the 
+neck of a skeleton.
+~
+240 ad 2
+D2
+The Guard Station
+~
+~
+0 -1 24001
+D4
+You can see daylight!
+~
+~
+0 -1 25044
+E
+sign~
+#RWelcome Mortals!#N
+~
+S
+#24001
+Guard Station~
+   This is the guard station that borders to the world of the pity 
+mortals. This is their first line of defence, not usually very well 
+defended since demons are quite vain. Who could possibly harm them?
+North of here is the exit, and south...lies evil.
+~
+240 ad 2
+D0
+Demonic Entrance
+~
+~
+0 -1 24000
+D2
+The Way Down
+~
+~
+0 -1 24002
+S
+#24002
+The Way Down~
+   This might be your last chance of getting out of here. In here, is 
+a large and very slippery stairway going down. Somewhere below you,
+you can hear a gong chime, often followed by terrifying screams and a 
+huge roar that sends shivers down your spine.
+~
+240 ady 2
+D0
+Guard Station
+~
+~
+0 -1 24001
+D5
+Circle Of Illusions
+~
+~
+0 -1 24003
+S
+#24003
+Circle Of Illusions~
+   This hall is strange...Monsters show up just to fade away. Items 
+litter the floor, but as you try to pick something up your hand just 
+slides through. Here are the stairs up, but there is no chance of 
+getting up that way. A complex forcefield bars the way up.
+#GA bag full with diamonds.#N
+~
+240 d 2
+D1
+Circle Of Illusions
+~
+~
+0 -1 24004
+D2
+Circle Of Illusions
+~
+~
+0 -1 24006
+E
+bag diamonds~
+A large black bag, full with glittering stones...but...it is somewhat 
+transparent.
+~
+S
+#24004
+Circle Of Illusions~
+   This hall is strange...Monsters show up just to fade away. Items 
+litter the floor, but as you try to pick something up your hand just 
+slides through.
+#GA dagger surrounded by darkness.#N
+~
+240 d 2
+D3
+Circle Of Illusions
+~
+~
+0 -1 24003
+D1
+Circle Of Illusions
+~
+~
+0 -1 24005
+E
+dagger darkness~
+A common looking dagger seems to attract darkness...but...it isn't 
+quite as solid as it seems to be.
+~
+S
+#24005
+Circle Of Illusions~
+   This hall is strange...Monsters show up just to fade away. Items 
+litter the floor, but as you try to pick something up your hand just 
+slides through.
+#GA key made of a huge tooth lies here.#N
+~
+240 d 2
+D3
+Circle Of Illusions
+~
+~
+0 -1 24004
+D2
+Circle Of Illusions
+~
+~
+0 -1 24008
+E
+key tooth~
+A key made of an old tooth...but...you can see straight through it.
+~
+S
+#24006
+Circle Of Illusions~
+   This hall is strange...Monsters show up just to fade away. Items 
+litter the floor, but as you try to pick something up your hand just 
+slides through.
+#GA key covered with hot flames.#N
+~
+240 d 2
+D0
+Circle Of Illusions
+~
+~
+0 -1 24003
+D2
+Circle Of Illusions
+~
+~
+0 -1 24009
+E
+key~
+A small key which burns with a hot flame...but...as you try to take it,
+your hand can't touch it.
+~
+S
+#24007
+Well Of Cries~
+   Here is a small well made of skulls. Wailing cries flow up from the 
+well, filling you with fear and anguish. There's a large door to the 
+south, seemingly made of mirrors. Thousands of small mirrors.
+~
+240 d 2
+D2
+Circle Of Illusions
+~
+illusion~
+39 24057 24010
+D5
+Bottom Of The Well
+~
+~
+0 -1 24012
+S
+#24008
+Circle Of Illusions~
+   This hall is strange...Monsters show up just to fade away. Items 
+litter the floor, but as you try to pick something up your hand just 
+slides through.
+~
+240 d 2
+D0
+Circle Of Illusions
+~
+~
+0 -1 24005
+D2
+Circle Of Illusions
+~
+~
+0 -1 24011
+S
+#24009
+Circle Of Illusions~
+   This hall is strange...Monsters show up just to fade away. Items 
+litter the floor, but as you try to pick something up your hand just 
+slides through.
+#GA bloodied axe lies here.#N
+~
+240 d 2
+D0
+Circle Of Illusions
+~
+~
+0 -1 24006
+D1
+Circle Of Illusions
+~
+~
+0 -1 24010
+E
+axe~
+A large and very bloody axe lies here...but...it keeps on fading in 
+and out of view, all the time.
+~
+S
+#24010
+Circle Of Illusions~
+   This hall is strange...Monsters show up just to fade away. Items 
+litter the floor, but as you try to pick something up your hand just 
+slides through.
+#YThe gatekeeper stands here, watching you.#N
+~
+240 d 2
+D0
+Well Of Cries
+~
+illusion~
+39 24057 24007
+D1
+Circle Of Illusions
+~
+~
+0 -1 24011
+D3
+Circle Of Illusions
+~
+~
+0 -1 24009
+E
+gatekeeper~
+The gatekeeper is a truly astonishing creature. It's a shame it isn't 
+here for real. Just an illusion...
+~
+S
+#24011
+Circle Of Illusions~
+   This hall is strange...Monsters show up just to fade away. Items 
+litter the floor, but as you try to pick something up your hand just 
+slides through.
+#GA bowl filled with a disgusting looking fluid lies here.#N
+~
+240 d 2
+D0
+Circle Of Illusions
+~
+~
+0 -1 24008
+D3
+Circle Of Illusions
+~
+~
+0 -1 24010
+E
+bowl~
+A black bowl, filled with a fluid full of what seems to be dead 
+insects...Lucky you it is nothing but an illusion.
+~
+S
+#24012
+Bottom Of The Well~
+   Here, screams and sounds of crying bombard you from the south. You 
+immediately think of leaving, but is efficiantly stopped by a 
+forcefield. Even without the forcefield, it would have been difficult 
+to get up. Chains and empty shackles hang from the red walls. There's
+a path going south.
+~
+240 d 2
+D2
+Path Of Tears
+~
+~
+0 -1 24013
+E
+chains shackles~
+Empty chains and shackles, dangle from the walls. In some of the 
+shackles, bits and pieces of fur and skin can be seen.
+~
+S
+#24013
+Path Of Tears~
+   In here, the prisoners are kept chained to the walls. Humans,
+elves, dwarves...all kinds of races fill these halls, awaiting
+torture and eventually death. Cries of help are shouted at you as
+hope fills their eyes, just to fade again as you try to break the
+chains, but fail. To the north and the south the path goes on.
+~
+240 d 2
+D0
+Bottom Of The Well
+~
+~
+0 -1 24012
+D2
+Path Of Tears
+~
+~
+0 -1 24014
+S
+#24014
+Path Of Tears~
+   In here, the prisoners are kept chained to the walls. Humans, 
+elves, dwarves...all kinds of races fill these halls, awaiting torture
+and eventually death. Cries of help are shouted at you as hope fills
+their eyes, just to fade again as you try to break the chains, but
+fail. The path goes on to the north and the south.
+~
+240 d 2
+D0
+Path Of Tears
+~
+~
+0 -1 24013
+D2
+Path Of Tears
+~
+~
+0 -1 24015
+S
+#24015
+Path Of Tears~
+   In here, the prisoners are kept chained to the walls. Humans, 
+elves, dwarves...all kinds of races fill these halls, awaiting torture
+and eventually death. Cries of help are shouted at you as hope fills
+their eyes, just to fade again as you try to break the chains, but
+fail. To the north and the south, the path continues.
+~
+240 d 2
+D0
+Path Of Tears
+~
+~
+0 -1 24014
+D2
+Path Of Tears
+~
+~
+0 -1 24016
+S
+#24016
+Path Of Tears~
+   In here, the prisoners are kept chained to the walls. Humans, 
+elves, dwarves...all kinds of races fill these halls, awaiting torture
+and eventually death. Cries of help are shouted at you as hope fills
+their eyes, just to fade again as you try to break the chains, but
+fail. The path continues to the east and the south.
+~
+240 d 2
+D0
+Path Of Tears
+~
+~
+0 -1 24015
+D1
+Guard Post
+~
+~
+0 -1 24017
+S
+#24017
+Guard Post~
+   This guard post is here for the single purpose of fright. Scare the 
+prisoners and they won't give you any trouble. Corpses and skeletons 
+litter the floor, obviously killed for the pleasure of frightening the 
+living. A large bonfire burns in here and judging by the smell of it, 
+they are using bodies as fuel. There's a path going both east and west 
+from here.
+~
+240 d 2
+D1
+Path Of Tears
+~
+~
+0 -1 24018
+D3
+Path Of Tears
+~
+~
+0 -1 24016
+E
+bonfire~
+A large bonfire, burning the corpses no longer needed by the demons, 
+produces a fierce smell.
+~
+S
+#24018
+Path Of Tears~
+   In here, the prisoners are kept chained to the walls. Humans, 
+elves, dwarves...all kinds of races fill these halls, awaiting torture
+and eventually death. Cries of help are shouted at you as hope fills
+their eyes, just to fade again as you try to break the chains, but
+fail. There's a guard post to the west, and the path goes on to the
+north and to the south.
+~
+240 d 2
+D0
+Path Of Tears
+~
+~
+0 -1 24019
+D2
+Path Of Tears
+~
+~
+0 -1 24021
+D3
+Guard Post
+~
+~
+0 -1 24017
+S
+#24019
+Path Of Tears~
+   In here, the prisoners are kept chained to the walls. Humans,
+elves, dwarves...all kinds of races fill these halls, awaiting torture
+and eventually death. Cries of help are shouted at you as hope fills
+their eyes, just to fade again as you try to break the chains, but
+fail. There's a large chamber to the east, and the path can be seen 
+going on to the south.
+~
+240 d 2
+D1
+Chamber Of Torments
+~
+~
+0 -1 24020
+D2
+Path Of Tears
+~
+~
+0 -1 24018
+S
+#24020
+Chamber Of Torments~
+   In this room there are several large instruments of pain, some
+which you recognize and some which you don't. Several Iron maidens 
+line the walls, which all are occupied. A stretching rack has been
+placed in the middle of the room, with the remains of a now very tall
+dwarf lying upon it. On a large shelf, you can see several tools for
+hurting. Wicked looking knives, thongs, whips. Above you is a large
+trapdoor.
+~
+240 d 1
+D3
+Path Of Tears
+~
+~
+0 -1 24019
+D4
+Tormentor's Sanctum
+~
+trapdoor~
+1 0 24087
+S
+#24021
+Path Of Tears~
+   In here, the prisoners are kept chained to the walls. Humans, 
+elves, dwarves...all kinds of races fill these halls, awaiting torture
+and eventually death. Cries of help are shouted at you as hope fills
+their eyes, just to fade again as you try to break the chains, but
+fail. To the south lies a large room, while the path continues to the 
+north.
+~
+240 d 2
+D0
+Path Of Tears
+~
+~
+0 -1 24018
+D2
+Mirror Of Mists
+~
+~
+0 -1 24022
+S
+#24022
+Mirror Of Mists~
+   This room is completely empty except for one thing - A huge pool 
+with a surface like a mirror. Within it there's movement. A greyish 
+mist swirling around and around, sometimes forming a face contorted
+by pain. Other times forming a huge fist, trying to break the surface.
+A path goes to the north.
+~
+240 d 1
+D0
+Path Of Tears
+~
+~
+0 -1 24021
+D5
+The Other Side
+~
+~
+0 -1 24023
+S
+#24023
+The Other Side~
+   You are in a chamber with a very high ceiling. The roof seems to be
+a mirror. No dimensional gateway. Just a common mirror. You won't be 
+able to leave through here. To the south, you see a large hall glowing 
+with a sickly red color.
+~
+240 dB 1
+D2
+North Part Of Bloodhall
+~
+~
+0 -1 24025
+S
+#24024
+Northwest Part Of Bloodhall~
+   This is the northwestern part of the huge hall. The walls here are 
+drenched with a thick red fluid - Blood!
+You are now in the domain of the vicious Bloodthirster. This is the 
+home of that foul demon.
+~
+240 dB 1
+D1
+North Part Of Bloodhall
+~
+~
+0 -1 24025
+D2
+West Part Of Bloodhall
+~
+~
+0 -1 24028
+S
+#24025
+North Part Of Bloodhall~
+   The northern part of the huge hall. On the floor, a trickle of blood 
+seems to flow towards the centre of the hall. Other than that, the 
+floor is absolutely clean. To the south, you can see a huge fountain 
+showering the surrounding area with a red fluid. To the north, there 
+is a large chamber.
+~
+240 dB 1
+D0
+The Other Side
+~
+~
+0 -1 24023
+D1
+Northeast Part Of Bloodhall
+~
+~
+0 -1 24026
+D2
+Fountain Of Blood
+~
+~
+0 -1 24029
+D3
+West Part Of Bloodhall
+~
+~
+0 -1 24024
+S
+#24026
+Northeast Part Of Bloodhall~
+   This is the northeastern part of the huge hall. The walls here are 
+drenched with a thick red fluid - Blood!
+You are now in the domain of the vicious Bloodthirster. This is the 
+home of that foul demon.
+~
+240 dB 1
+D2
+East Part Of Bloodhall
+~
+~
+0 -1 24030
+D3
+North Part Of Bloodhall
+~
+~
+0 -1 24025
+S
+#24027
+Eternal Gateway~
+   Here the walls are made of white marble, seeming out of place in 
+this otherwise cruel empire. In the middle of the room, there's a 
+pool with a face frozen within it. A face full of absolute obedience.
+To the east lies the bloodhall.
+~
+240 dB 1
+D1
+West Part Of Bloodhall
+~
+~
+0 -1 24028
+D5
+Eternal Gateway
+~
+~
+0 -1 24036
+S
+#24028
+West Part Of Bloodhall~
+   The Western part of the huge hall. On the floor, a trickle of blood 
+seems to flow towards the centre of the hall. Other than that, the 
+floor is absolutely clean. To the east, you can see a huge fountain 
+showering the surrounding area with a red fluid. To the west, you see 
+a large white room.
+~
+240 dB 1
+D0
+Northwest Part Of Bloodhall
+~
+~
+0 -1 24024
+D1
+Fountain Of Blood
+~
+~
+0 -1 24029
+D2
+Southwest Part Of Bloodhall
+~
+~
+0 -1 24032
+D3
+Eternal Gateway
+~
+~
+0 -1 24027
+S
+#24029
+Fountain Of Blood~
+   A huge fountain, showering the area and you with a thick red fluid.
+The fountain seems to be made of white marble, which combined with 
+the red fluid, gives away an eerie feeling. Several jugs are placed
+beside the fountain, all filled with the fluid. This is the favourite 
+hiding place of the demonic Bloodthirster.
+~
+240 dB 1
+D0
+North Part Of Bloodhall
+~
+~
+0 -1 24025
+D1
+East Part Of Bloodhall
+~
+~
+0 -1 24030
+D2
+South Part Of Bloodhall
+~
+~
+0 -1 24033
+D3
+West Part Of Bloodhall
+~
+~
+0 -1 24028
+S
+#24030
+East Part Of Bloodhall~
+   The eastern part of the huge hall. On the floor, a trickle of blood 
+seems to flow towards the centre of the hall. Other than that, the 
+floor is absolutely clean. To the west, you can see a huge fountain 
+showering the surrounding area with a red fluid. To the east you see a 
+large white room.
+~
+240 dB 1
+D0
+Northeast Part Of Bloodhall
+~
+~
+0 -1 24026
+D1
+Eternal Gateway
+~
+~
+0 -1 24031
+D2
+Southeast Part Of Bloodhall
+~
+~
+0 -1 24034
+D3
+Fountain Of Blood
+~
+~
+0 -1 24029
+S
+#24031
+Eternal Gateway~
+   Here the walls are made of white marble, seeming out of place in 
+this otherwise cruel empire. In the middle of the room, there's a pool
+with a face frozen within it. A face full of absolute obedience. To
+the west lies the bloodhall.
+~
+240 dB 1
+D3
+East Part Of Bloodhall
+~
+~
+0 -1 24030
+D5
+Eternal Gateway
+~
+~
+0 -1 24037
+S
+#24032
+Southwest Part Of Bloodhall~
+   This is the southwestern part of the huge hall. The walls here are 
+drenched with a thick red fluid - Blood!
+You are now in the domain of the vicious Bloodthirster. This is the 
+home of that foul demon.
+~
+240 dB 1
+D0
+West Part Of Bloodhall
+~
+~
+0 -1 24028
+D1
+South Part Of Bloodhall
+~
+~
+0 -1 24033
+S
+#24033
+South Part Of Bloodhall~
+   The southern part of the huge hall. On the floor, a trickle of blood 
+seems to flow towards the centre of the hall. Other than that, the 
+floor is absolutely clean. To the north, you can see a huge fountain 
+showering the surrounding area with a red fluid. To the south you can 
+see blood gathering.
+~
+240 dB 1
+D0
+Fountain Of Blood
+~
+~
+0 -1 24029
+D1
+Southeast Part Of Bloodhall
+~
+~
+0 -1 24034
+D2
+Bloodgate
+~
+~
+0 -1 24035
+D3
+Southwest Part Of Bloodhall
+~
+~
+0 -1 24032
+S
+#24034
+Southeast Part Of Bloodhall~
+   This is the southeastern part of the huge hall. The walls here are 
+drenched with a thick red fluid - Blood!
+You are now in the domain of the vicious Bloodthirster. This is the 
+home of that foul demon.
+~
+240 dB 1
+D0
+East Part Of Bloodhall
+~
+~
+0 -1 24030
+D3
+South Part Of Bloodhall
+~
+~
+0 -1 24033
+S
+#24035
+Bloodgate~
+   Here a pool of blood has been created by the fountain. The walls are 
+red with blood, and the smell is quite disgusting. A small whirlpool 
+swirls around in the blood. Seems like there's something at the bottom.
+To the north lies the bloodhall.
+~
+240 dB 1
+D0
+South Part Of Bloodhall
+~
+~
+0 -1 24033
+D5
+Bleeding Room
+~
+bloodgate gate~
+1 0 24043
+E
+pool~
+A pool of blood, created by the constant flow from the fountain. It 
+seems to be something at the bottom of the pool...Maybe a drainage 
+system?
+~
+S
+#24036
+Eternal Gateway~
+   This room is completely bare except for a large pool in the middle
+of the room. In the pool, you can see a huge open hand, gently 
+sheltering your reflections. Cries and shouts come from the south, 
+full of pain and fear.
+~
+240 cdB 1
+D2
+Row Of Eternal Damnation
+~
+~
+0 -1 24038
+D5
+Eternal Gateway
+~
+~
+0 -1 24027
+S
+#24037
+Eternal Gateway~
+   This room is completely bare except for a large pool in the middle 
+of the room. In the pool, you can see a huge open hand, gently 
+sheltering your reflections. From the south cries and shouts, filled 
+with death, come over and over again.
+~
+240 cdB 1
+D2
+Row Of Eternal Death
+~
+~
+0 -1 24041
+D5
+Eternal Gateway
+~
+~
+0 -1 24031
+S
+#24038
+Row Of Eternal Damnation~
+   In this long hall, you see hundreds of victims of the demons. All 
+are chained to the bright white walls, screaming in utter terror as 
+they relive the memories of the tormentor, over and over again. Over
+the cries, you hear a faint howling sound. The row continues to the
+east and the west. To the north is the gateway.
+~
+240 dB 1
+D0
+Eternal Gateway
+~
+~
+0 -1 24036
+D1
+Row Of Eternal Damnation
+~
+~
+0 -1 24039
+D3
+Row Of Eternal Damnation
+~
+~
+0 -1 24088
+S
+#24039
+Row Of Eternal Damnation~
+   In this long hall, you see hundreds of victims of the demons. All 
+are chained to the bright white walls, screaming in utter terror as
+they relive the memories of the tormentor, over and over again. Over
+the cries, you hear a faint howling sound. The row continues to the
+east and the west.
+~
+240 dB 1
+D1
+Row Of Eternal Damnation
+~
+~
+0 -1 24088
+D3
+Row Of Eternal Damnation
+~
+~
+0 -1 24038
+S
+#24040
+Row Of Eternal Death~
+   In this long hall, you see hundreds of victims of the demons. 
+Strangely enough no one is chained or shackled, but then you 
+understand why. Every single being in here, is reliving their
+fears and thoughts just before they died...then they die again,
+again and again. The hall continues to the east and the west.
+~
+240 dB 1
+D1
+Row Of Eternal Death
+~
+~
+0 -1 24041
+D3
+Row Of Eternal Death
+~
+~
+0 -1 24042
+S
+#24041
+Row Of Eternal Death~
+   In this long hall, you see hundreds of victims of the demons. 
+Strangely enough no one is chained or shackled, but then you 
+understand why. Every single being in here, is reliving their
+fears and thoughts just before they died...then they die again,
+again and again. The hall continues to the east and the west,
+and to the north is the eternal gateway.
+~
+240 dB 1
+D0
+Eternal Gateway
+~
+~
+0 -1 24037
+D1
+Row Of Eternal Death
+~
+~
+0 -1 24042
+D3
+Row Of Eternal Death
+~
+~
+0 -1 24040
+S
+#24042
+Row Of Eternal Death~
+   In this long hall, you see hundreds of victims of the demons. 
+Strangely enough no one is chained or shackled, but then you 
+understand why. Every single being in here, is reliving their
+fears and thoughts just before they died...then they die again,
+again and again. The hall continues to the east and the west.
+~
+240 dB 1
+D1
+Row Of Eternal Death
+~
+~
+0 -1 24040
+D3
+Row Of Eternal Death
+~
+~
+0 -1 24041
+S
+#24043
+Bleeding Room~
+   This room has walls that seem to bleed, as the blood from above 
+flows down. It is quite a bizarre effect. In here there's a throne made
+of bones, now quite red. The throne is...huge. This is the chamber of 
+the mighty Crimson Lord. In a corner, some maps have been thrown. Some
+of them are stuck beneath the throne. Above you is the bloody gate.
+~
+240 dy 1
+D4
+Bloodgate
+~
+bloodgate gate~
+1 0 24035
+D5
+Guard Post
+~
+throne~
+1 0 24044
+E
+map maps~
+Some maps that have been thown in a corner. At closer examination, you 
+notice that some are maps over Midgaard. Several maps show locations 
+you know! A few maps seem to be stuck beneath the throne.
+~
+E
+throne~
+A large throne made of bones, now colored red by the everflowing blood.
+The throne hasn't been placed straight, but on the other hand, it IS 
+demons we are dealing with at the moment.
+~
+S
+#24044
+Guard Post~
+   Another guard post. This is the entrance to the Dethguard barracks. 
+Torches illumine the area, spreading a ghastly light upon adventurers 
+and victims, not as lucky as you. Bones and corpses can be seen 
+everywhere. Here is a ladder going up, and to the south lies the 
+barracks, a large black building placed within this cave.
+~
+240 d 2
+D2
+Dethguard Barracks
+~
+~
+0 -1 24045
+D4
+Bleeding Room
+~
+throne~
+1 0 24043
+S
+#24045
+Northwest Part Of The Barracks~
+   The barracks is the place where the dethguards rest, train and enjoy 
+the fears of some poor victims. Large and sturdy chairs are placed 
+along the walls. Along the walls, racks for weapons and armors can be 
+found. To the north is the exit, and the barracks continue to the east 
+and the south.
+~
+240 d 1
+D0
+Guard Post
+~
+~
+0 -1 24044
+D1
+Northeast Part Of The Barracks
+~
+~
+0 -1 24046
+D2
+Southwest Part Of The Barracks
+~
+~
+0 -1 24047
+S
+#24046
+Northeast Part of The Barracks~
+   The barracks is the place where the dethguards rest, train and enjoy 
+the fears of some poor victims. Large and sturdy chairs are placed 
+along the walls. Along the walls, racks for weapons and armors can be 
+found. The barracks continue to the west and the south.
+~
+240 d 1
+D2
+Southeast Part Of The Barracks
+~
+~
+0 -1 24048
+D3
+Northwest Part Of The Barracks
+~
+~
+0 -1 24045
+S
+#24047
+Southwest Part Of The Barracks~
+   The barracks is the place where the dethguards rest, train and enjoy 
+the fears of some poor victims. Large and sturdy chairs are placed 
+along the walls. Along the walls, racks for weapons and armors can be 
+found. The barracks continue to the east and the north.
+~
+240 d 1
+D0
+Northwest Part Of The Barracks
+~
+~
+0 -1 24045
+D1
+Southeast Part Of The Barracks
+~
+~
+0 -1 24048
+S
+#24048
+Southeast Part Of The Barracks~
+   The barracks is the place where the dethguards rest, train and enjoy 
+the fears of some poor victims. Large and sturdy chairs are placed 
+along the walls. Along the walls, racks for weapons and armors can be 
+found. The barracks continue to the west and the north, and to the 
+south you can see a guard post.
+~
+240 d 1
+D0
+Northeast Part Of The Barracks
+~
+~
+0 -1 24046
+D2
+Guard Post
+~
+~
+0 -1 24049
+D3
+Southwest Part Of The Barracks
+~
+~
+0 -1 24047
+S
+#24049
+Guard Post~
+   For once you enter a small room...a really small room. All there is 
+in here, is a ladder going both up and down. From below, bright light 
+shoots up through the hole in the floor. From above comes a faint 
+disgusting smell, and a greenish fluid flows down the walls. To the 
+north lies the barracks.
+~
+240 d 1
+D0
+Southeast Part Of The Barracks
+~
+~
+0 -1 24048
+D4
+Tunnel Of Slime
+~
+~
+0 -1 24050
+D5
+Mirror Entrance
+~
+~
+0 -1 24059
+S
+#24050
+Tunnel Of Slime~
+   Here in this small passage there is almost no room to move, and it 
+is slippery. A greenish kind of thick slime flows down from above. In 
+here it smells, no, it stinks. You can use the ladder to get either up 
+or down.
+~
+240 cd 4
+D4
+Slimy Entrance
+~
+~
+0 -1 24051
+D5
+Guard Post
+~
+~
+0 -1 24049
+S
+#24051
+Slimy Entrance~
+   You are now by a large gate with the doors hanging from their 
+hinges. Death and decay seems to live within these halls. In the middle
+of the floor, a stream of green slime flow from the north and down by
+the ladder. There's garbage all over the chamber, and the smell...
+~
+240 d 4
+D0
+Dirty Path
+~
+~
+0 -1 24052
+D5
+Tunnel Of Slime
+~
+~
+0 -1 24050
+S
+#24052
+Dirty Path~
+   You are on a path full of dirt and filth. A stream of green slime 
+flows from the north to the south. It really stinks in here. Some 
+fresh air would be nice. To the south is the entrance, and to the 
+north the hall continues.
+~
+240 d 4
+D0
+Dirty Path
+~
+~
+0 -1 24053
+D2
+Slimy Entrance
+~
+~
+0 -1 24051
+S
+#24053
+Dirty Path~
+   You are on a path full of dirt and filth. A stream of green slime 
+flows from the north to the south. It really stinks in here. Some 
+fresh air would be nice. The hall continues to the north and south.
+~
+240 d 4
+D0
+Disgusting Path
+~
+~
+0 -1 24055
+D2
+Dirty Path
+~
+~
+0 -1 24052
+S
+#24054
+Plague Farm~
+   This room is full of decaying bodies with thousands of flies 
+circling them. In here, plagues will be created and spread all over the
+world by the flies. The walls here are black with flies, and so is the
+roof. Each time you set down your foot, a sickening sound reaches your
+ears as you crush hundreds of flies. The exit is to the east.
+~
+240 dB 4
+D1
+Disgusting Path
+~
+~
+0 -1 24055
+S
+#24055
+Disgusting Path~
+   Here the once only dirty path, become most disgusting. Here the 
+stream of green slime has become bigger. Even the smell is worse than
+it was before. To the east and to the west, there are chambers. The 
+hall continues to the north and to the south.
+~
+240 d 4
+D0
+Repulsive Entrance
+~
+~
+0 -1 24057
+D1
+Plague Farm
+~
+~
+0 -1 24056
+D2
+Dirty Path
+~
+~
+0 -1 24053
+D3
+Plague Farm
+~
+~
+0 -1 24054
+S
+#24056
+Plague Farm~
+   This room is full of decaying bodies with thousands of flies 
+circling them. In here, plagues will be created and spread all over the
+world by the flies. The walls here are black with flies, and so is the
+roof. Each time you set down your foot, a sickening sound reaches your
+ears as you crush hundreds of flies. The exit is to the west.
+~
+240 dB 4
+D3
+Disgusting Path
+~
+~
+0 -1 24055
+S
+#24057
+Repulsive Entrance~
+   You are now by a huge gate in this repulsive hall. Beneath the gate, 
+several small trickles of green slime flow just to become a larger 
+stream. Whatever is causing this stream, and that fierce smell, can be 
+found beyond these doors. The hall continues to the south.
+~
+240 d 4
+D0
+Cave Of Filth
+~
+gate~
+1 0 24058
+D2
+Disgusting Path
+~
+~
+0 -1 24055
+S
+#24058
+Cave Of Filth~
+   This is quite a repulsive chamber. The air is so bad, you hardly can 
+breathe. Garbage and decaying bodies are all over the place. You now 
+see that the river of slime comes from the east. To the north, east 
+and west you can see piles of garbage. To the south, you only see 
+garbage.
+~
+240 d 4
+D0
+Pile Of Garbage
+~
+~
+0 -1 24097
+D1
+Huge Pile Of Garbage
+~
+~
+0 -1 24098
+D2
+Repulsive Entrance
+~
+gate~
+1 0 24057
+D3
+Pile Of Garbage
+~
+~
+0 -1 24096
+S
+#24059
+Mirror Entrance~
+   This room is blindingly bright. Lightning seems to fly across the 
+room and through you, just to reflect in a mirror and come back again. 
+Mirrors...All walls, the roof and even the floor, are made of mirrors. 
+Something's wrong with the eastern mirrorwall. There's a ladder going 
+up here.
+~
+240 dh 1
+D1
+Path Of Reflections
+~
+~
+0 -1 24060
+D4
+Guard Post
+~
+~
+0 -1 24049
+E
+mirror mirrorwall~
+The mirror on the eastern wall looks strange. It looks like lightning 
+has been trapped within it. While the other mirrors just bounce it 
+between eachother, the eastern mirror has captured a streak of 
+lightning. Even your own reflection looks strange in it. No sharp 
+edges at all.
+~
+S
+#24060
+Path Of Reflections~
+   Mirrors all over the room. Where ever you look, you see a reflection 
+of yourself. But not any reflection. You see your most sacred secrets, 
+fears and feelings being reflected back to you. Your mind feels heavy. 
+To the south, the path continues.
+~
+240 dh 1
+D2
+Path Of Reflections
+~
+~
+0 -1 24061
+S
+#24061
+Path Of Reflections~
+   Mirrors all over the room. Where ever you look, you see a reflection 
+of yourself. But not any reflection. You see your most sacred secrets, 
+fears and feelings being reflected back to you. Your mind feels heavy. 
+The path goes on to the north and the east.
+~
+240 dh 1
+D0
+Path Of Reflections
+~
+~
+0 -1 24060
+D1
+Path Of Reflections
+~
+~
+0 -1 24062
+S
+#24062
+Path Of Reflections~
+   Mirrors all over the room. Where ever you look, you see a reflection 
+of yourself. But not any reflection. You see your most sacred secrets, 
+fears and feelings being reflected back to you. Your mind feels heavy. 
+The Path continues to the south and the west.
+~
+240 dh 1
+D2
+Path Of Reflections
+~
+~
+0 -1 24063
+D3
+Path Of Reflections
+~
+~
+0 -1 24061
+S
+#24063
+Path Of Reflections~
+   Mirrors all over the room. Where ever you look, you see a reflection 
+of yourself. But not any reflection. You see your most sacred secrets, 
+fears and feelings being reflected back to you. Your mind feels heavy. 
+To the north and the east, the path continues.
+~
+240 dh 1
+D0
+Path Of Reflections
+~
+~
+0 -1 24062
+D1
+Path Of Reflections
+~
+~
+0 -1 24064
+S
+#24064
+Path Of Reflections~
+   Mirrors all over the room. Where ever you look, you see a reflection 
+of yourself. But not any reflection. You see your most sacred secrets, 
+fears and feelings being reflected back to you. Your mind feels heavy. 
+The path goes on to the east and the west.
+~
+240 dh 1
+D1
+Guard Post
+~
+~
+0 -1 24065
+D3
+Path Of Reflections
+~
+~
+0 -1 24063
+S
+#24065
+Guard Post~
+   Here a small guard post has been erected. Propably to defend the 
+inner keep - The Emperor's domain. A few mirrors are placed on the 
+walls. Two doors can be found in this chamber. One small, almost tiny
+door to the east. Another much larger door, can be found to the south.
+You feel strange.
+~
+240 dh 1
+D1
+Chamber Of Darkness
+~
+door~
+1 0 24066
+D2
+Path Of Broken Mirrors
+~
+door~
+39 24058 24067
+D3
+Path Of Reflections
+~
+~
+0 -1 24064
+S
+#24066
+Chamber Of Darkness~
+   It certainly is dark in here. That's all there is - Darkness. And it 
+is quiet, very quiet. You begin to feel those childhood fears start to 
+come back again. The small door, is to the west.
+~
+240 ad 1
+D3
+Guard Post
+~
+door~
+1 0 24065
+S
+#24067
+Path Of Broken Mirrors~
+   In this hall, all the mirrors have been destroyed. The floor, the
+roof, everything. Pieces of the mirrors lie everywhere, forcing you to
+watch extra carefully where you step. There's a door to the north. The
+hall goes on to the south.
+~
+240 d 3
+D0
+Guard Post
+~
+door~
+39 24058 24065
+D2
+Path Of Broken Mirrors
+~
+~
+0 -1 24068
+S
+#24068
+Path Of Broken Mirrors~
+   In this hall, all the mirrors have been destroyed. The floor, the
+roof, everything. Pieces of the mirrors lie everywhere, forcing you to
+watch extra carefully where you step. The path goes on to the north
+and east. From the east, terrifying screams can be heard occasionally.
+~
+240 d 3
+D0
+Path Of Broken Mirrors
+~
+~
+0 -1 24067
+D1
+Temple Of Sacrifice
+~
+~
+0 -1 24069
+S
+#24069
+Temple Of Sacrifice~
+   You are standing in a large temple, dedicated to the emperor. People 
+sit huddled by the walls, trembling with fear. In the middle of the 
+temple, an altar has been placed. It's extremely bloody on and around 
+the altar. There's a deep pit in the northeastern corner of the temple.
+In a pool by the eastern wall, a energy vortex can be found. A path 
+goes to the west.
+~
+240 d 1
+D1
+Guard Post
+~
+~
+0 -1 24070
+D3
+Path Of Broken Mirrors
+~
+~
+0 -1 24068
+E
+altar~
+A crude altar, covered with blood. Here is where the demonic Dark 
+reaper performs the sacrifices dedicated to the emperor. Some runes 
+have been carved into the altar, but you fail to decipher them.
+~
+E
+pit~
+A very deep pit, with hundreds of bodies in it. This is where they 
+throw the bodies after the sacrifices are done. Some of the bodies 
+move...There must be someone still alive down there.
+~
+S
+#24070
+Guard Post~
+   There's a magnificent looking guard post here. Gold, silver and 
+jewels can be seen everywhere. The walls seem to be made of white
+marble, with a script of black marble. The script tells of the emperor
+and his glory and might. The only exit lies to the east.
+~
+240 d 1
+D1
+Hall Of Trophies
+~
+~
+0 -1 24080
+S
+#24071
+Hotter Than Hell~
+   This chamber is really hot. Fires burn everywhere. Huge torches line 
+the walls, and a river of molten magma flows through here. Not a very 
+big river, but still quite impressive. There's also a large pile of 
+what seems to be ashes. In the floor, you see a large trapdoor made
+of some kind of heat resistant metal.
+~
+240 d 11
+D5
+Hall Of Trophies
+~
+trapdoor~
+1 0 24072
+S
+#24072
+Hall Of Trophies~
+   This hall is impressive. The walls are brightly white marble. High
+pillars line the walls. Small pedestals are placed as well, along the
+walls. On the pedestals, petrified items have been placed. Even some
+ancient elven and human kings have been petrified. It's really warm in
+here. Above you is a trapdoor, and the hall continues to the east and
+the south.
+~
+240 d 1
+D1
+Hall Of Trophies
+~
+~
+0 -1 24073
+D2
+Hall Of Trophies
+~
+~
+0 -1 24077
+D4
+Hotter Than Hell
+~
+trapdoor~
+1 0 24071
+S
+#24073
+Hall Of Trophies~
+   This hall is impressive. The walls are brightly white marble. High 
+pillars line the walls. Small pedestals are placed as well, along the 
+walls. On the pedestals, petrified items have been placed. Even some 
+ancient elven and human kings have been petrified. The hall goes on to 
+the west and to the east.
+~
+240 d 1
+D1
+Entrance To The Dead
+~
+~
+0 -1 24074
+D3
+Hall Of Trophies
+~
+~
+0 -1 24072
+S
+#24074
+Entrance To The Dead~
+   This hall is impressive. The walls are brightly white marble. High 
+pillars line the walls. Small pedestals are placed as well, along the
+walls. On the pedestals, petrified items have been placed. Even some 
+ancient elven and human kings have been petrified. In the south wall, 
+a really strange door can be found. It seems to be made of a huge 
+skull, taken from some long dead beast. The hall continues to the east 
+and the west.
+~
+240 d 1
+D1
+Hall Of Trophies
+~
+~
+0 -1 24075
+D2
+Skull Chamber
+~
+skull~
+1 0 24078
+D3
+Hall Of Trophies
+~
+~
+0 -1 24073
+S
+#24075
+Hall Of Trophies~
+   This hall is impressive. The walls are brightly white marble. High 
+pillars line the walls. Small pedestals are placed as well, along the 
+walls. On the pedestals, petrified items have been placed. Even some 
+ancient elven and human kings have been petrified. To the east and the 
+west, the hall continues.
+~
+240 d 1
+D1
+Gilded Stairway
+~
+~
+0 -1 24076
+D3
+Entrance To The Dead
+~
+~
+0 -1 24074
+S
+#24076
+Gilded Stairway~
+   Here a magnificent gilded stairway dominates the room. Several large 
+rubys and emeralds can be seen in it. This is a stairway worthy of an 
+Emperor...a mighty Emperor. There's a large and sturdy chair by the 
+stairs. A hall goes on to the west and the south.
+~
+240 d 1
+D2
+Hall Of Trophies
+~
+~
+0 -1 24079
+D3
+Hall Of Trophies
+~
+~
+0 -1 24075
+D4
+Emperor's Sanctum
+~
+~
+0 -1 24089
+S
+#24077
+Hall Of Trophies~
+   This hall is impressive. The walls are brightly white marble. High 
+pillars line the walls. Small pedestals are placed as well, along the 
+walls. On the pedestals, petrified items have been placed. Even some 
+ancient elven and human kings have been petrified. The hall continues 
+to the north and to the south.
+~
+240 d 1
+D0
+Hall Of Trophies
+~
+~
+0 -1 24072
+D2
+Hall Of Trophies
+~
+~
+0 -1 24080
+S
+#24078
+Skull Chamber~
+   You are inside a huge skull of a long dead beast. It is very dark 
+and damp in here. And very silent. Not a sound can be heard. To the 
+north, you can exit through the mouth. Here is also a ladder going 
+down, where the throat of the beast would be.
+~
+240 ad 1
+D0
+Entrance To The Dead
+~
+skull~
+1 0 24074
+D5
+Chamber Of Creation
+~
+~
+0 -1 24093
+S
+#24079
+Hall Of Trophies~
+   This hall is impressive. The walls are brightly white marble. High 
+pillars line the walls. Small pedestals are placed as well, along the 
+walls. On the pedestals, petrified items have been placed. Even some 
+ancient elven and human kings have been petrified. To the north and 
+the south you can see the hall go on.
+~
+240 d 1
+D0
+Gilded Stairway
+~
+~
+0 -1 24076
+D2
+Hall Of Trophies
+~
+~
+0 -1 24081
+S
+#24080
+Hall Of Trophies~
+   This hall is impressive. The walls are brightly white marble. High 
+pillars line the walls. Small pedestals are placed as well, along the 
+walls. On the pedestals, petrified items have been placed. Even some 
+ancient elven and human kings have been petrified. To the south,
+there's a tiny black door. To the west there's a guard post, and the
+hall continues to the north.
+~
+240 d 1
+D0
+Hall Of Trophies
+~
+~
+0 -1 24077
+D2
+Soulhunter Pavillion
+~
+door~
+1 0 24082
+D3
+Guard Post
+~
+~
+0 -1 24070
+S
+#24081
+Hall Of Trophies~
+   This hall is impressive. The walls are brightly white marble. High 
+pillars line the walls. Small pedestals are placed as well, along the 
+walls. On the pedestals, petrified items have been placed. Even some 
+ancient elven and human kings have been petrified. The hall goes on 
+both north and south.
+~
+240 d 1
+D0
+Hall Of Trophies
+~
+~
+0 -1 24079
+D2
+Silvery Stairway
+~
+~
+0 -1 24086
+S
+#24082
+Soulhunter Pavillion~
+   This is a very dark part of this empire. Howling sounds can be heard 
+constantly, leaving an eerie feeling. These are the chambers of the 
+soulhunters. Those who travel in the worlds of the mortals, just to 
+capture the living and especially their souls. Several hooks line the 
+walls, where they hang their soul bags when not needed. They are all 
+empty at the moment. To the north is the exit, and the pavillion 
+continues to the east.
+~
+240 ad 2
+D0
+Hall Of Trophies
+~
+door~
+1 0 24080
+D1
+Soulhunter Pavillion
+~
+~
+0 -1 24083
+S
+#24083
+Soulhunter Pavillion~
+   This is a very dark part of this empire. Howling sounds can be heard 
+constantly, leaving an eerie feeling. These are the chambers of the 
+soulhunters. Those who travel in the worlds of the mortals, just to 
+capture the living and especially their souls. Several hooks line the 
+walls, where they hang their soul bags when not needed. They are all 
+empty at the moment. The pavillion goes on both to the east and to
+the west.
+~
+240 ad 2
+D1
+Guard Post
+~
+~
+0 -1 24084
+D3
+Soulhunter Pavillion
+~
+~
+0 -1 24082
+S
+#24084
+Guard Post~
+   Here a guard post has been erected. It is obvious they put it here
+to protect the large metal door on the eastern wall. There has to be 
+something valuable to them behind those doors. You see some small 
+jewels and a few gold coins lying scattered all over the floor. Maybe 
+they are protectiong their treasury? The way out lies to the west.
+~
+240 ad 2
+D1
+Treasury
+~
+door~
+39 24059 24085
+D3
+Soulhunter Pavillion
+~
+~
+0 -1 24083
+S
+#24085
+Treasury~
+   A huge pile of gold and jewellry is the first you notice as you 
+enter this chamber. Valuables lie in heaps all around the pile. Then
+you notice the darkness around you. It is quite thick, and not a sound
+can be heard. Maybe the guard post outside, was meant for keeping 
+something in as well as keeping intruders out? The exit is through the 
+large door to the west.
+~
+240 ad 2
+D3
+Guard Post
+~
+door~
+39 24059 24084
+S
+#24086
+Silvery Stairway~
+   A small, almost tiny stairway, made of the purest of silver rises 
+majesticaly up to the next floor. The stairway is full of small gems, 
+sparkling with light. This is a stairway, made for an emperess of 
+great strength and might. The hall goes on to the north.
+~
+240 d 1
+D0
+Hall Of Trophies
+~
+~
+0 -1 24081
+D4
+Empress Study
+~
+~
+0 -1 24090
+S
+#24087
+Tormentor's Sanctum~
+   This is the most sacred chamber of the head tormentor, the guardian
+of pain. This is where she keeps the tools, the sufferings, the
+memories of the victims that brought some joy into her life. Tools
+meant for torture, lie neatly stashed upon the shelves among jars and
+trophies. Beneath you, is a large and sturdy trapdoor.
+~
+240 d 1
+D5
+Chamber Of Torments
+~
+trapdoor~
+1 0 24020
+E
+jar jars trophy trophies~
+Jars and trophies kept by the head tormentor as memories of her most 
+entertaining guests. In one jar you see some teeth, while another 
+holds three fingers. Morbid items can be seen everywhere.
+~
+S
+#24088
+Row Of Eternal Damnation~
+   In this long hall, you see hundreds of victims of the demons. All 
+are chained to the bright white walls, screaming in utter terror as
+they relive the memories of the tormentor, over and over again. Over
+the cries, you hear a faint howling sound. The row goes on to the east 
+and the west.
+~
+240 dB 1
+D1
+Row Of Eternal Damnation
+~
+~
+0 -1 24038
+D3
+Row Of Eternal Damnation
+~
+~
+0 -1 24039
+S
+#24089
+Emperor's Sanctum~
+   This chamber is magnificent. The walls glow with inbound magic, 
+showering the chamber with a mystical kind of light. This chamber is 
+empty except for a huge throne against the east wall. The throne is...
+There are no words to describe it. It is great as it glows and
+glitters in the spooky light. This truly is a chamber fit for an
+Emperor. The only exit is down the gilded stairway.
+~
+240 d 1
+D5
+Gilded Stairway
+~
+~
+0 -1 24076
+S
+#24090
+Empress Study~
+   This chamber is huge and the first thing that comes to your mind, is 
+how much it resembles a temple. A large pentagram has been painted 
+with red color on the north wall, and a small altar has been placed in 
+front of it. As you get closer to the altar, the pentagram begins to 
+glow, washing you with a soft light. This is a chamber for dark and
+powerful magic. Down the silvery stairway is the only exit.
+~
+240 d 1
+D5
+Silvery Stairway
+~
+~
+0 -1 24086
+S
+#24091
+Mirror of mists~
+   This is a very small room, with only one thing in it - A mirror. The 
+mirror is placed against the north wall. Powerful magic has been 
+worked here. The mirror is a portal, but it has been warded against 
+uninvited visitors. The only exit, lies to the south.
+~
+240 d 2
+D2
+Chamber Of Creation
+~
+~
+0 -1 24093
+S
+#24092
+Spawning room~
+   This is a pretty small room. There's nothing in here, except for 
+some slime on the floor. This is propably where their spawn develop 
+into full grown demons. But...What creates them? The exit is to the 
+east.
+~
+240 d 2
+D1
+Chamber Of Creation
+~
+~
+0 -1 24093
+S
+#24093
+Chamber Of Creation~
+   This chamber is...strange. There's a very odd feeling to this room, 
+but you can't quite place what it is. There's a small pool in the 
+middle of the room, full of what seems to be slime. The pool gives 
+away a smell that almost makes you throw up. You see chambers to all 
+directions. There's a ladder going up here as well.
+~
+240 d 2
+D0
+Mirror Of Mists
+~
+~
+0 -1 24091
+D1
+Spawning Room
+~
+~
+0 -1 24094
+D2
+Spawning Room
+~
+~
+0 -1 24095
+D3
+Spawning Room
+~
+~
+0 -1 24092
+D4
+Skull Chamber
+~
+~
+0 -1 24078
+S
+#24094
+Spawning room~
+   This is a pretty small room. There's nothing in here, except for
+some slime on the floor. This is propably where their spawn develop
+into full grown demons. But...What creates them? There's an exit to
+the west.
+~
+240 d 2
+D3
+Chamber Of Creation
+~
+~
+0 -1 24093
+S
+#24095
+Spawning room~
+   This is a pretty small room. There's nothing in here, except for
+some slime on the floor. This is propably where their spawn develop
+into full grown demons. But...What creates them? The only exit, lies
+to the north.
+~
+240 d 2
+D0
+Chamber Of Creation
+~
+~
+0 -1 24093
+S
+#24096
+Pile Of Garbage~
+   In this chamber there's a pile of garbage. Garbage is everywhere
+and the smell is terrible. You see decaying corpses in the pile, 
+attracting hundreds of flies. The exit is to the east.
+~
+240 d 4
+D1
+Cave Of Filth
+~
+~
+0 -1 24058
+S
+#24097
+Pile Of Garbage~
+   In this chamber there's a pile of garbage. Garbage is everywhere
+and the smell is terrible. You see decaying corpses in the pile, 
+attracting hundreds of flies. There's an exit to the south.
+~
+240 d 4
+D2
+Cave Of Filth
+~
+~
+0 -1 24058
+S
+#24098
+Huge Pile Of Garbage~
+   This chamber is so full of garbage and decaying corpses that you 
+hardly fit into it. The smell is absolutely disgusting making you feel 
+sick. Around the pile you see a lot of green slime, flowing out to the 
+west, which by the way is the only exit.
+~
+240 d 4
+D3
+Cave Of Filth
+~
+~
+0 -1 24058
+S
+#24099
+Dimensional trap~
+   This...place is quite abstract. The walls move and shift in color 
+constantly, thus making it very hard to concentrate. It seems like 
+there's only one way out of here...Down a pitch black hole.
+~
+240 det 1
+D5
+Mirror Of Mists
+~
+~
+0 -1 24091
+S
+#99999
+$~
+

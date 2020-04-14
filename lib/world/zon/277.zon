@@ -1,0 +1,27 @@
+#277
+Clans~
+27799 1 0
+O 0 46 100 27701         Blocker in Entrance
+O 0 27701 100 27702      Beer Fountain (?)
+O 0 27702 100 27702      Fountain (?)
+ O 0 47 100 27705         KoN Board 
+**DOOR settings
+* Throne room - Frogeater den
+D 0 27705 5 1
+D 0 27700 4 1
+* Crone quarter - Vombats room
+D 0 27706 0 1
+D 0 27714 2 1
+* Crone quarter - Champions room
+D 0 27706 3 1
+D 0 27713 1 1
+* Shrubbery shrine - Secret order * Open doors
+D 0 27709 0 0
+D 0 27710 2 0
+* Shrubbery shrine - Kidds Room
+D 0 27709 2 1
+D 0 27712 0 1
+**END of DOOR settings
+S
+#99999
+$~

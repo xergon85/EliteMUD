@@ -1,0 +1,35 @@
+#27600
+Monolith tri~
+A large monolith~
+A Large Monolith set with the TRI-clan symbol is here.~
+~
+12 114 0 abght 0
+27600 a 107 2 1 116
+0 0 0
+Proc(guard_object)
+#27601
+guard urther tri~
+Urther the guard~
+#YUrther the guard is whistling a tune here.#G~
+~
+12 1 0 ght 0 
+27601 d 107 3 1 116 
+0 0 0 
+E 
+guard urther~
+He is a young, athletic man, who whistles a tune floating around inside his 
+head. Apart from the tune, there's nothing really in there. He just stands 
+here guarding the TRI Donation Room for Icestorm. 
+Urther the guard is in excellent condition. 
+~
+Proc(guard_object) 
+#27602
+stream orange juice~
+an orange juice stream~
+~
+~
+23 0 0 hpo 0
+99999 99999 18 0 0 0
+6000 30 0
+#99999
+$~

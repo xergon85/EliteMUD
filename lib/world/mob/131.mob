@@ -1,0 +1,2280 @@
+#13100
+money distributor money13100~
+Drops money - never to be outside chute~
+Drops money - NEVER to be outside chute
+~
+ Drops money to the guards so that they can pick it up.
+and so that it will load prperly.
+grrrr
+~
+0 0 0 0 0 S
+1 0 0 1d1+1
+400 500 100 1d1+1
+-1 -1 -1
+0 0 8 8 0
+A
+%%30 drop all.pay
+~
+#13101
+compressed air elemental~
+The compressed air elemental~
+The air elemental is here fighting the decreasing space.
+~
+ The air elemental does not seem to be pleased at all with its situation,
+being confined within the narrow walls of a pump in a dwarven iron mill.
+If it was not for the supreme power of the summoner that bound it to
+this place it would be wreaking havoc on the elemental plane of air by
+now.
+~
+17 4 fijkg dfk 0 S
+100 -33 -45 1d500+2459
+404 500 88 1d50+41
+105 0 1 1d0+80
+57 0 3 1d0+80
+28 0 8 2d0+90
+-1
+324 100 365 100
+-1
+7 100 40 100 56 100 57 100 58 100 23 100 88 0 324 75 315 75
+-1
+100 1184545 6 6 0
+A
+%%10 emote huffs.
+;%10 emote puffs.
+;%10 emote let go of some air.
+~
+R
+-1 -1 -1 -1 25
+#13102
+king air elemental ruler~
+an air elemental Ruler~
+The air elemental is bored but can not find an exit.
+~
+ The entrapped air ruler looks completely enraged over its situation.
+Being enclosed in a pump has not made its temper any better. It is
+trying to break the seal holding it in in any manner available. You just
+might have given it the chance it has been waiting for.
+~
+17 4 fijklg dfzDhk -100 S
+110 -38 -51 1d500+4221
+404 500 39 1d22+26
+410 500 39 3d22+56
+97 0 5 1d0+80
+37 0 5 1d0+90
+28 0 10 2d0+90
+105 0 2 1d0+75
+-1
+317 100 365 100 329 100 339 100 373 100
+-1
+7 100 40 100 56 100 23 100 100 90 105 90 324 75 315 75 57 100
+-1
+12100 1601231 8 8 0
+A
+%%10 emote huffs.
+;%10 emote puffs.
+;%10 emote tries to break the wall down. It buldges markantly.
+;%10 emote blows off some steam.
+;%3 berzerk
+~
+R
+ -1 -1 -1 -1 50
+#13103
+pumper sweaty desperate~
+a sweaty pumper~
+The dwarven pumper is desperately trying to deflate a pump.
+~
+ Water is flushing down his body as he desperately and in vain tries
+to force the large pump down, trying to achieve at least some effect.
+There is no physical hindrance, as you can see, for this very able,
+body to complete the task but he does just not seem to be able to make
+it happen. On the expression on his face you can clearly see that he is
+not to pleased about it. He would be even less if the overseer came
+by...
+~
+9 4 blmg yDk 200 S
+101 -32 -46 1d500+3224
+400 500 87 1d50+31
+67 0 3 2d0+90
+39 0 5 2d0+90
+20 0 5 2d0+90
+-1
+373 100 318 100
+-1
+7 100 38 100 40 100 324 50 103 80 72 50
+-1
+201 1210574 8 8 1
+A
+%%10 emote kicks desperately in the air as he hangs from the pump lever.
+;%10 emote kicks the grid and mutters something obscene.
+;%10 say Whattaya lookin at?
+;%10 emote glares towards you.
+~
+R
+ -1 -1 -1 75 -1
+#13104
+pumper dwarf~
+a dwarven pumper~
+A dwarven pumper presses air from a pump in next to the blast furnace.
+~
+ Arms like marble blocks and heavy heavy shoes are a must to be able
+to run the furnace pumps. He looks content with his chosen profession
+even though he only does one thing - Pump. He has the mill emblem on his
+shoulderpad as all other responsible workers in the mill do.
+~
+9 4 bmg yDk -900 S
+101 -33 -46 2d500+3224
+400 500 90 1d50+31
+67 0 3 2d0+90
+39 0 5 2d0+90
+90 0 2 1d0+90
+-1
+324 100 373 100 329 100 330 100
+-1
+324 50 7 100 38 100 40 100 103 80 72 50
+-1
+4201 1210574 8 8 1
+A
+%%10 emote pushes up the pump lever.
+;%10 emote pulls down the pump lever.
+;%10 emote grins as he is fully aware of what he is doing.
+~
+#13105
+human food prisoner fodder~
+a terrified prisoner~
+A piece of giant fodder runs around in circles.
+~
+ This pathetic human is trying to escape his most probable future.
+What his crime is, is not that important at the moment. He just wants to
+stay alive just a little bit longer. He looks very well fed to be an
+escaped prisoner. He even has sauce stains on his torn shirt. Guess the
+food was not why he ran away.
+~
+1 4 hg rk -200 S
+90 -24 -40 10d100+1520
+406 500 97 1d45+26
+28 0 3 2d0+70
+-1
+318 50 338 50 358 100
+-1
+-1
+0 855555 8 8 1
+A
+%%10 emote squeeks 'elp!'
+;%10 emote looks around desperately trying to avoid the guards.
+;%40 south
+;%40 east
+;%40 west
+;%40 north
+;%10 hide
+;%10 sneak
+;%10 flee
+~
+#13106
+guard Giant feeder~
+a feeder of giants~
+The Prison Guard is looking for one of his escaped prisoners.
+~
+ The prisoner guard has got a problem he really must solve in a hurry.
+If he can not find the escaped prisoners he will have to take their
+place in the food chain. And as he also is one of the people delivering
+the food to the giants he DOES know what they will do to their live
+dishes, so being a prisoner in the mill is not something he wants to
+become. There really is only one way out and that is through(!) a
+giant. Most people do not survive that treatment, which is not so very
+strange when you come to think of it.
+~
+9 4 fklmg ryDzk -750 S
+106 -33 -48 1d500+4083
+403 500 39 1d53+44
+409 500 39 1d53+1
+324 0 5 0d0+0
+4 0 7 1d0+80
+17 0 5 1d0+80
+37 0 5 1d0+90
+-1
+338 100 324 100 321 100 373 100
+-1
+7 100 40 100 104 50 97 50 106 50 373 50 324 50 328 100 338 100 318 100
+-1
+7236 1450395 8 8 1
+A
+%%10 emote searches around for some lost food.
+;%10 emote mutters something untranslatable.
+;%10 emote sizes you up for a match or perhaps suitability.
+;%10 emot ask 'Do you want to come along. I have something to show you.'
+;%10 bash fodder
+;%40 stand
+~
+#13107
+weasel gigantic giant fat~
+a giant weasel~
+The fat gigantic weasel licks his lips as he sees you.
+~
+ The weasel looks like any other weasel, except that this one
+looks even more concerned about what is happening around it. There is
+one more difference; it stretches 7 yards in length from nose to tip of
+the tail (it has a short tail). But what brought it here in the first
+place is unknown to you. Perhaps the constant supply of high quality
+food.
+~
+5 4 chg fstrk 200 S
+102 -34 -46 1d500+2591
+407 500 30 1d51+32
+408 500 45 2d30+32
+28 0 25 2d0+80
+-1
+358 100 318 100 331 100 365 100
+-1
+7 100 38 100 40 100 33 100
+-1
+10404 1137228 8 8 0
+A
+%%10 emote whispers to you 'I should have gotten that life insurance'
+;%40 emote licks his fur.
+;%10 emote jumps up in panic, peers around and slowly calms down again.
+~
+#13108
+summoner assistant~
+a summoner assistant~
+The summoner's assistant is conducting services for his master.
+~
+ This well dressed dwarf carries all the necessary tools for his
+master. This could be the reason he looks a bit more hunky than the
+average dwarven magician apprentice, that use to be frail, of dwarven
+standards of course. You cannot really figure out if he knows any spells
+at all, but then again, do you really want to find out?
+~
+9 4 mg dkDdy 0 S
+106 -33 -48 2d1000+3883
+400 500 64 1d53+34
+345 0 20 0d0+0
+104 0 2 1d0+2
+105 0 2 1d0+2
+106 0 2 1d0+2
+4 0 2 1d0+40
+52 0 4 1d0+40
+49 0 2 1d0+7
+76 0 2 1d0+2
+-1
+345 76
+-1
+7 100 38 100 40 100 105 90
+-1
+11236 1350395 8 8 1
+A
+%%10 emote reties a knot on one of his many pouches.
+;%10 emote mumbles something. This could be the start of some serious
+ incantation better take a step back.
+;%10 emote scratches something down in his notepad.
+;%10 emo stares at you and states 'You disturb me and my master - Leave!
+~
+R
+ -1 -1 -1 -1 25
+#13109
+caravan giant~
+a caravan giant~
+A caravan giant staggers under his load.
+~
+ Giants are known to be gigantic. This one is too, but in all
+directions. His shoulders span over 10 feet. The rest of his
+configuration fits his shoulders. He has worked out a lot. Could be he
+carries metal bars from the foundry to the blacksmiths for a living.
+Those thousands of pounds he carries do not seem to bother him the
+slightest, but beware so he does not give them all to you, at once.
+~
+8 4 fjg zkD -100 S
+102 -32 -46 4d500+3591
+410 500 100 1d91+12
+-1
+319 100 317 100 322 100 324 100 365 100 339 80
+-1
+7 100 38 100 40 100 315 50
+-1
+404 1337228 8 8 1
+A
+%%10 emote puts down a foot right next to you. Phew, that was close.
+;%10 emote juggles a metal bar over your head, perhaps you should
+ increase your wimp level.
+;%10 emote yawns a bit as he walks on.
+;%10 give bar receiver
+;%40 get bar
+;%3 emote gives you a metal bar.
+;%10 wield bar
+~
+#13110
+moron giant twin~
+a moronic giant~
+A caravan giant staggers under his load.
+~
+ Did not another one of the giants look exactly the same as this one??
+All giants look pretty much the same (especially for a non-giant) but
+that extremely thick forehead and the sagging jaw with its drop of drool
+does look familiar... (Hmm who have you been hanging out with?) Perhaps
+you have risked your life too long among these creatures or it could be
+just ordinary paranoia.
+~
+8 4 fig zkD 400 S
+104 -34 -47 4d500+3731
+410 500 98 1d52+53
+31 0 2 1d0+100
+-1
+319 100 317 100 324 100 365 100
+-1
+7 100 38 100 40 100 104 90 79 90 96 90 315 50
+-1
+10816 1492470 8 8 1
+A
+%%10 emote licks up a drop of drool from his lip.
+;%10 emote drools slightly leaving a drip on his lip.
+;%10 emot looks down on you and smiles. You definitely do not like this.
+;%10 wield bar
+~
+#13111
+receiver bar dwarf~
+A dwarven bar receiver~
+A dwarf counting bars for a living sits here.
+~
+ The dwarf in front of you holds a notepad in his hand and is
+currently summing up how many bars each of his giants have carried so
+far. He must have nerves of steel to haggle with the giants as they
+easily could drop their load on him converting him into a little wet
+pool of dwarven moistness.
+~
+9 4 cblg yrDk 0 S
+101 -33 -46 1d500+3524
+401 500 88 1d50+41
+28 0 10 2d0+90
+71 0 2 2d0+90
+-1
+330 100
+-1
+7 100 38 100 40 100 98 50
+-1
+10201 1210574 5 5 1
+A
+%%10 emote gnaws a bit on his pencil.
+;%10 emote looks over his shoulder to where his predecessor sat.
+;%10 emote wonders where your load is.
+;%85 get bar
+;%85 give bar giant
+~
+#13112
+elemental enforcer~
+The elemental Enforcer~
+An elemental enforcer has his thoughts somewhere else.
+~
+ The dwarven mage is dressed up in some odd silver dress. Looks like
+he uses it in his job, as it is a bit more risky than the other ones'.
+As a water elemental enforcer he commands the elementals into the molten
+metal to give it a special and extra magical solidification process.
+Naturally the water elementals are not overhappy with this as they are
+annihilated when they step in to the smelt freezing it. A person with
+such powers is surely not to tamper with.
+~
+9 4 g yDdfhk 300 S
+108 -34 -50 1d500+3346
+400 500 24 1d54+55
+404 500 24 1d50+60
+28 0 10 2d0+90
+97 0 30 1d0+90
+104 0 2 1d0+90
+30 0 10 1d0+100
+-1
+317 100 338 100 365 100
+-1
+7 100 40 100 105 90 26 90 95 90
+-1
+11664 1411134 8 8 1
+A
+%%10 emote looks at you and you can see his eyes glow of extreme power.
+;%10 emote mutters something and you feel the very fabric of the world
+ shiver.
+;%10 say Begone! - Your presence is not wanted.
+~
+R
+ 100 100 100 -1 50
+#13113
+dwarf flow changer black~
+a metal flow direction changer~
+A blackened dwarf is ready for a new direction.
+~
+ The little dwarf swaps a smelt directing blocker in a very congruent
+pattern. Guess he has had this position for a very long time. He has to
+be extremely bored or suffer from some kind of rare brain disease to
+cope with it. Could also be that simple that he never got a replacement.
+~
+9 4 bg yDk -100 S
+102 -34 -46 1d500+3591
+401 500 85 1d51+52
+28 0 15 2d0+90
+-1
+328 100 330 100 373 100 358 100
+-1
+7 100 38 100 40 100 95 90 324 50
+-1
+8404 1237228 8 8 1
+A
+%%10 emo lifts up the blocker and puts it down again a bit differently.
+;%10 emote changes the flow of metal. Oh, that was swift.
+;%10 emote asks you if you want to take over the position.
+ 'It is well paid'
+~
+#13114
+sorter sorterer dwarf~
+a trash sortring dwarf~
+A small dwarf sits in a pile of trash.
+~
+ Trash, trash, trash, everywhere trash, but in the midst of everything
+a little dwarf who tries to sort out all the things the smiths and
+everyone else has had a bad day with. Some things can still be used,
+some go for remelting while others he equips himself with. What remains
+is also Trash.
+~
+9 4 bcg yDk 0 S
+102 -34 -46 1d500+3591
+401 500 50 1d51+52
+345 0 30 0d0+0
+28 0 20 2d0+100
+-1
+300 100 301 100 302 100 303 100 375 50 317 100 345 100 330 100
+-1
+324 50 345 80 7 100 38 100 40 100
+-1
+4403 1237228 6 6 1
+A
+%%10 say You got something for me?
+;%10 say Hey, You can leave your stuff over there.
+;%30 wea all
+;%20 get all
+;%10 drop all
+~
+#13115
+blacksmith dwarf~
+a blacksmith~
+The ordinary blacksmith does what is expected from him.
+~
+ The blacksmith is taking a little break while the next specimen is
+heating up to a suitable temperature. Sweat is breaking out all over his
+well marbled body. Any ordinary dwarven female would twist her head
+around and go knee-weak in his presence and tie knots in their beards.
+Even you halt a bit to admire the musclegroups playing.
+~
+9 4 bg fkyDh 500 S
+109 -35 -50 2d500+3332
+410 500 45 1d54+70
+401 500 30 1d54+55
+28 0 10 2d0+90
+24 0 2 1d0+90
+76 0 3 1d0+90
+52 0 5 1d0+90
+49 0 5 1d0+90
+-1
+317 100 318 100 324 100 330 100 365 100 345 100
+-1
+7 100 38 100 40 100 324 75 301 50
+-1
+11881 1642602 8 8 1
+A
+%%10 flex
+;%10 emote pinches a piece of metal with some pig plier and returns it
+ after a quick glance.
+;%10 emote looks at you with contempt.
+;%10 say HEY, Bugface!  Go play somewhere else!
+~
+R
+ -1 -1 -1 -1 60
+#13116
+polisher dwarf~
+a polisher~
+A wicked dwarf stands here with a dirty piece of cloth in his hand.
+~
+ 'No Stain - More Gain' is the polisher's motto as he breaks out
+another clean cloth and attacks another, in your eyes already clean,
+piece of metal. Perhaps the fluids have gone to his head as he never
+rests in this his battle against dust. Dust is otherwise very much
+present in a blacksmiths workshop. On the other hand no one complains as
+it sure is a very boring task to perform, that no one wants to take
+over.
+~
+9 4 bhg kydD 100 S
+97 -31 -43 1d500+3278
+400 500 100 1d48+49
+-1
+318 100 339 100
+-1
+-1
+9409 1110061 8 8 1
+A
+%%10 emote scans over the metal surface and detects a invisible spot.
+;%10 emote polishes away a minimal stain.
+;%10 shiver
+;%10 shudder
+~
+#13117
+shopkeeper shoppie~
+The Blacksmith Shopkeeper~
+The Blacksmith Shopkeeper offers you a trade.
+~
+ Proud and tall, the shoppie stands behind his desk pointing out wares
+on display for you. You do not see any money lying around so either
+no one else has been here today (hardly) or he is very quick to stash
+it away in a safe place. That task is one of the few he would not trust
+even his closest assistant with.
+<worn on feet>       a pair of high clogs (hidden)
+<worn under feet>    a shopkeeper stool (invisible)
+~
+9 4 bg kydf 0 S
+109 -96 -200 3d501+24132
+400 500 60 55d54+55
+26 0 40 1d0+90
+-1
+-1
+614 100 7 100 38 100 40 100
+-1
+11881 1342602 8 8 1
+A
+%%10 say 'Are you going to stand there all day or
+ are you going to buy something?
+;%10 say Can I interest you in todays specials?
+;%10 emote gives an order to his assistant.
+~
+R
+-1 -1 -1 -1 95
+#13118
+shopkeeper assistant~
+The Shopkeeper assistant~
+The Shopkeeper assistant perfects the display.
+~
+ Proud and almost as tall as the shopkeeper (could be that he has to
+move around so that he can not stand still on a stool or in some high
+clogs hidden behind a desk). The shopkeeper's assistant wanders about
+the displays correcting invisible misalignments in the rows of weapons
+and armours. Once in a while he orders his assistant to go and fetch an
+item from the ready room.
+~
+9 4 blmg yDdfhk -900 S
+107 -32 -49 2d500+3963
+401 500 80 1d53+54
+4 0 10 1d0+90
+28 0 10 2d0+90
+-1
+375 50 329 100 330 100 363 100
+-1
+324 50 321 50 7 100 38 100 40 100
+-1
+11449 1580405 8 8 1
+A
+%%10 emote plocks a bit among the displays.
+;%10 emote touches a real big hammer and smiles wickedly.
+;%10 emote tells the assistant assistant 'We are a bit low on shields -
+ go get some.
+;%10 order immob119 Start working. You are slacking!
+~
+#13119
+assistant immob119 shopkeeper~
+The Shopkeeper assistant's assistant~
+The Shopkeeper assistant's assistant is always at your service.
+~
+ The shopkeeper assistant's assistant is the one that really does
+everything in the shop, except giving orders of course, but he holds his
+dream of one day getting his own assistant so that he too could relax a
+bit. Unfortunately his current paycheck does not really approve of this
+yet. But one day, one day, he WILL have one.
+~
+9 4 lmg yDsbk -200 S
+103 -34 -47 1d500+3660
+401 500 79 1d51+52
+19 0 3 2d0+90
+18 0 3 2d0+90
+44 0 3 2d0+90
+68 0 12 2d0+90
+-1
+318 100 328 100 338 100 345 75
+-1
+-1
+609 1264521 8 8 1
+A
+%%10 emote makes sure the pricetag is clearly visible in a piece of
+ equipment.
+;%10 emote mumbles something about the lazy polisher.
+~
+#13120
+shoveller ore dwarf~
+an Ore shoveller~
+A tiny dwarf almost covered in stone dust looks back at you.
+~
+ This tiny dwarf surely adds on to the dwarven taunts as he really is
+wider that he is tall. It is not fat that made him this way but a
+combination of genetics, ultraheavy labour and of course a suitable bone
+structure. Even his head looks flatter that the usual dwarven citizen.
+~
+9 4 bg yDk 100 S
+102 -33 -46 2d500+3391
+400 500 90 1d51+52
+39 0 10 2d0+90
+-1
+330 100 339 100 358 100
+-1
+7 100 38 100 40 100 324 50
+-1
+5409 1237228 8 8 1
+A
+%%10 emote waves his shovel in front of you.
+;%10 say Uhuh?!
+;%10 emote shovels some ore towards the mixing station.
+;%10 say Where are your working clothes. My shift ended 3 hours ago.
+~
+#13121
+flinger alloy dwarf~
+an alloy flinger~
+An alloy flinger stands in he midst of a huge amount of alloying bars.
+~
+ The pace of the alloy flinger is a bit irregular. It is not due to
+him coming after but more due to the amount of metal currently in the
+melt pool whirls waiting for alloys. It has to be balanced not to get
+any unwanted phases in the steel. The alloy dosage job is a very
+important one, at least according to his foreman and he is no one to
+argue with.
+~
+9 4 bg yDk 100 S
+102 -33 -46 2d500+3391
+401 500 90 1d51+52
+39 0 10 2d0+90
+-1
+319 100 318 100 317 100
+-1
+7 100 38 100 40 100 324 50
+-1
+6931 1237228 8 8 1
+A
+%%10 emote razes a heap of bars but builds it up again in seconds.
+;%10 emote mumbles something about a steel recipe to himself.
+;%10 em flings another small bar of unknown origin into the smelt stream.
+;%10 say You are not the next shift - Go Away - and you are late too!!!
+~
+#13122
+carbon black shoveller~
+a carbon shoveller~
+Something black watches you.
+~
+ The little guy shovelling coal in the very essence of blackness. He (?)
+is so black in the blackest of rooms that he seems to blur and melt into
+the background. If it was not for the continual moaning and grumbling
+and the stirring of dust behind him, you would never find him.
+Where did he go? - No light can progress in the black puff he left.
+~
+9 4 bg kyD 100 S
+102 -33 -46 2d500+3191
+403 500 100 1d51+52
+-1
+330 100 339 100 358 100
+-1
+7 100 38 100 40 100 324 50
+-1
+404 1237228 8 8 1
+A
+%%10 emote is suddenly detectable as he suddenly moved.
+;%10 emote makes a big cloud of coal dust blow up towards you.
+~
+#13123
+limestone white shoveller~
+a limestone shoveller~
+Something white watches you.
+~
+ The little guy is shovelling limestone in the very extreme of whiteness.
+He (?) is so white in the whitest of rooms that he seems to blur and
+melt into the background. If it was not for the continual moaning and
+grumbling and the stirring of dust behind him, you would never find him.
+Where did he go? - No light help in the white puff as everything goes
+white.
+~
+9 4 bg kyD 100 S
+102 -32 -46 2d500+3391
+403 500 80 1d51+52
+39 0 10 2d0+90
+14 0 10 2d0+90
+-1
+330 100 339 100 358 100
+-1
+7 100 38 100 40 100 324 50
+-1
+303 1237228 8 8 1
+A
+%%10 emote is suddenly detectable as he suddenly moved.
+;%10 emote coughs badly.
+;%10 emote makes a big cloud of limestone dust blow up towards you.
+~
+#13124
+skeleton closet~
+a closet skeleton~
+Someone shoved a skeleton into the closet, so now it bides its time.
+~
+ Just another typical skeleton, all bones and no food, ehh flesh. It
+looks like it used to be humanoid before its creation, but one can not
+be completely sure. Now it just stands here, waiting for something.
+~
+2 4 bmlg jk -950 S
+99 -32 -47 1d500+2097
+407 500 40 1d49+50
+402 500 40 1d19+20
+73 0 20 1d0+90
+-1
+331 100
+-1
+7 100 38 100 40 100 300 100 402 100 331 100 363 100 315 75 103 90 72 90
+-1
+0 1059126 8 8 0
+A
+%%5 emote stares at you.
+;%5 emote makes you feel guilty.
+;%8 open door west
+;%5 emote waits...
+~
+#13125
+human slave~
+The slave~
+The weapon hardening slave wished for a better ending.
+~
+ A human. You really have not seen that many running around loose in
+the dwarven iron mill. On the other hand this one is chained to the
+wall so he really does not count either. He looks well fed, strangely
+enough, but he does not seem all that happy about it anyway. Guess he is
+to much aware of his fate, as a part in the creation of human slaying
+weaponry.
+~
+1 4 bg kjf 600 S
+100 -22 -45 1d500+2059
+408 500 100 1d50+5
+-1
+318 0 328 0 338 0 358 0
+-1
+-1
+0 584545 8 8 1
+A
+%%10 emote whines softly.
+;%10 emote shakes his chains in a vain effort to go free.
+;%10 say Save me,  pleaseeeeeeeeeeeeeeeeeee!!!
+;%10 emote shapes up and screams 'Come Ooon, Ill give you a fight for
+the money.'
+~
+#13126
+Jill secretary~
+the Accountant and Assisting Manager Secretary~
+The Accountant and Assisting manager secretary has not had a break all
+ day.
+~
+ The work as a servant/secretary to both the accountant and the
+assisting manager is heavy work, with a very tight schedule. She must
+complete everything in time or she will be hunched and of course taunted
+by the manager's secretary sitting further away in the hallway. She
+looks a bit skinny, perhaps she has skipped one too many lunch breaks
+just to keep up with her work and everyone knows that coffee with extra
+caffeine/no sugar is not that nutritious. Btw, she got a name. It is
+Jill.
+~
+9 4 hg kyDh 150 S
+106 -31 -48 3d500+3083
+400 500 100 1d53+54
+-1
+321 100 329 100
+-1
+7 100 38 100 40 100 317 75 329 50
+-1
+11236 1450395 8 8 2
+A
+%%10 say Can not talk right now, Got to run.
+;%3 say Anyone seen form X7363-f4?
+;%3 say Anyone seen form F2343?
+;%3 say Anyone seen form 63-g5-4000?
+;%3 say Anyone seen form SMO 254?
+;%3 say Hello, My name is Jill. Can I help you?
+;%3 say Anyone seen form A1?
+;%10 emote suddenly stops, breathes and is on the go again.
+~
+#13127
+air filter elemental~
+An air filter elemental~
+The filtering elemental tries to clean anyone entering the office.
+~
+ This elemental appears almost only as a shimmer in the air,
+incorporeal, but it gives you a feeling of refreshment as it whirls
+around you tearing slightly in your clothes, but leaving no trace but
+fresh air (or at least fresher than out in the mill). Continuously it
+stands here purifying the air for everyone in the Finance department.
+~
+17 4 bmg dfDhkt 0 S
+109 -33 -50 1d500+3432
+404 500 35 1d54+55
+405 500 37 1d50+60
+57 0 25 1d0+90
+11 0 3 2d0+60
+-1
+317 100 339 100 331 100
+-1
+7 100 38 100 40 100 56 100 57 100 58 100 59 100 60 100 105 70
+-1
+1881 1342602 8 8 0
+A
+%%90 HIDE
+;%5 emote cleans off all the dirt on your body.
+~
+#13128
+accountant accountants~
+The Mill Accountant~
+The Mill Accountant is the physical manifestation of all accountants.
+~
+ Small, stubby brown hair, brown beard, small black dots as eyes and
+most presumably a bleeding ulcer. The accountant of most larger
+companies could be described as this and the iron mill is no exception.
+The only difference is only that he is a bit smaller, but that is only a
+dwarf thing and not worth mentioning, especially here in dwarven land.
+His slender fingers have had many years of practise sorting paper
+concerning the corporations financial status. One wonders if the
+manager's assistant is his twin, but that must be an illusion.
+~
+9 4 cg yDhk -700 S
+108 -34 -50 4d500+3346
+410 500 70 1d54+55
+345 0 5 0d0+0
+4 0 5 1d0+100
+71 0 5 2d0+100
+75 0 5 2d0+100
+23 0 5 1d0+90
+8 0 5 1d0+100
+-1
+318 100 331 100 345 100
+-1
+7 100 38 100 40 100 324 50 315 25
+-1
+4 1611134 6 6 1
+A
+%%10 emote scribbles something down on paper.
+;%10 emote moves another paper to the Out basket.
+;%10 emote smiles as he finds another way to save a few gold coins.
+;%1 emote takes a quick look at you and hollers 'GUARDS!!!'
+~
+R
+ -1 -1 -1 -1 40
+#13129
+mimic chest~
+The mimic~
+A treasure chest stands next to the wall.
+~
+ A wooden treasure chest stands on golden feet in the corner of the
+room. It is a rather plain chest but for the odd shaped key hole and the
+bone lid sealing.
+The chest is closed.
+~
+10 4 bmg zdfbk -500 S
+107 -32 -49 1d500+3963
+400 500 85 1d53+54
+100 0 15 1d0+90
+-1
+365 100 321 100 363 100
+-1
+-1
+31449 1380405 8 8 0
+#13130
+assistant manager~
+The Assistant Manager~
+The Assistant Manager has no interest in you what so ever.
+~
+ Small, stubby brown hair, brown beard, small black dots as eyes and
+most presumably a bleeding ulcer, the assisting manager of most larger
+companies could be described as this and the iron mill is no exception.
+The only difference is only that he is a bit smaller, but that is only a
+dwarf thing and not worth mentioning, especially here in dwarven land.
+His slender fingers have had many years of practise sorting paper
+concerning the corporations financial and employee status. One wonders
+if the accountant is his twin, but that must be an illusion.
+~
+9 4 bg kyD -700 S
+107 -34 -49 5d500+3963
+410 500 70 1d53+54
+28 0 10 2d0+90
+1 0 5 2d0+90
+67 0 5 2d0+90
+4 0 5 1d0+90
+30 0 5 1d0+90
+-1
+318 100 331 100 345 100 328 100
+-1
+7 100 38 100 40 100 324 50
+-1
+21449 1480405 6 6 1
+A
+%%10 emote scribbles something down on paper.
+;%10 emote moves another paper to the Out basket.
+;%5 emot smiles as he finds another way to cut down on something.
+;%1 emote takes a quick look at you and hollers 'GUARDS!!!'
+~
+#13131
+Manager~
+The Mill Manager~
+The Mill Manager is a very important person.
+~
+ The Mill Manager is a secure and well reputed male member of the
+dwarven society. His duties involve such complex matters as making sure
+the investors are pleased and that no one complains (at least not to any
+outsider). His most tiresome duty has to be, sitting in his office chair
+all day without being asleep when someone enters the room.
+~
+9 4 bg kyDhz 300 S
+109 -33 -50 5d500+3432
+409 500 72 1d54+55
+28 0 7 2d0+90
+29 0 7 2d0+100
+99 0 7 1d0+90
+101 0 7 1d0+90
+-1
+338 100 365 100 358 100
+-1
+7 100 38 100 40 100
+-1
+31881 1742602 8 8 1
+A
+%%10 emote offers you a cigar while you all wait for the Guards.
+;%10 say Do you have an appointment?
+;%90 close door east
+;%10 say This is not Sales. Off with you!
+~
+R
+ -1 -1 -1 -1 65
+#13132
+Jane secretary~
+The Manager's Secretary~
+The Manager's Secretary is fully relaxed.
+~
+ The mill manager's secretary is a young dwarven woman with both beard
+and hair bleached from black to something a bit more white-blue. She
+also seems to have a good lung capacity even for a dwarf and even more
+strange, not extremely ugly legs. Her dress makes her appearance even
+more clear to any spectator or more preferred, the VIP-visitors. The
+clothes directive came directly from the mill manager himself, who also
+did the recruiting himself. Kind of shows his preferences pretty much.
+~
+9 4 hg kyDs 450 S
+107 -31 -49 2d500+3363
+407 500 100 1d53+54
+-1
+358 100 318 100
+-1
+7 100 38 100 40 100 79 90 86 90
+-1
+6449 1380405 8 8 2
+A
+%%10 emote polishes her already perfect fingernails.
+;%10 say Can I help you?
+;%3 say You in need of any special services?
+;%10 say 'lu, Im Jane. Whatya want?
+;%10 emote looks at you with disgust.
+;%2 emote removes a beard hair with a split end.
+~
+#13133
+Gretchen hostess~
+Gretchen~
+Gretchen, the VIP Club Hostess, greets you with a smile.
+~
+ This well formed dwarven woman must be from one of the northern
+dwarven kingdoms as she looks a bit less tanned than the rest of the
+dwarven lot here. Could also be that she spends most of her time down in
+the VIP-club of the Iron Mill. Her hair is set up like two gigantic
+blond pretzels, one on each side of her head. Not the most common of
+hairdos.
+~
+0 4 mg fhkyrzD -349 S
+110 -35 -51 4d500+5221
+405 500 35 1d55+56
+408 500 30 1d55+56
+345 0 7 0d0+0
+106 0 3 1d0+90
+4 0 5 1d0+95
+5 0 10 1d0+90
+28 0 10 2d0+90
+-1
+321 100 365 100 345 100 338 100 373 100
+-1
+7 100 38 100 40 100 97 90 104 90 324 90 315 50 321 50 329 50
+-1
+12100 1902340 8 8 2
+A
+%%10 smile
+;%10 say And what can I do for you?
+;%10 emot reaches out and gives you a really hard hug almost suffocating
+ you within her enormous bossom.
+;%10 emot tells you something in a language you do not understand at
+ all, but you still feel the urge to fully comply without any
+ restrictions what so ever.
+~
+R
+-1 -1 -1 -1 20
+#13134
+radiator dancing little fire flame~
+a dancing little fire radiator~
+A small flame dances around on the floor.
+~
+ A small flame not much larger that a blacksmith's hand dances around
+on the floor. It does not ignite anything except for a few cigars, it
+just takes care of the room's heating and some small degree of amusement
+of the mill manager and his visitors.
+~
+14 4 bfmlg dftbDk 0 S
+105 -32 -48 1d500+3106
+404 500 85 1d52+53
+26 0 5 1d0+90
+95 0 10 1d0+90
+-1
+318 100 338 100 358 100
+-1
+-1
+25 1221089 8 8 0
+A
+%%10 emote does a little pirouette.
+;%10 emote offers to light your cigar.
+;%10 emot crackles as it consumes some dirt on the floor.
+;%10 emote does a little saltomotal.
+~
+#13135
+carbon black shoveller~
+a carbon shoveller~
+Something black watches you.
+~
+ The little guy shovelling coal in the very essence of blackness. He (?)
+is so black in the blackest of rooms that he seems to blur and melt into
+the background. If it was not for the continual moaning and grumbling
+and the stirring of dust behind him, you would never find him.
+Where did he go? - No light can progress in the black puff he left.
+~
+9 4 bg kyD 100 S
+102 -32 -46 2d500+3291
+401 500 100 1d51+52
+-1
+330 100 339 100 358 100
+-1
+7 100 38 100 40 100 324 50
+-1
+104 1237228 8 8 1
+A
+%%10 emote is suddenly detectable as he suddenly moved.
+;%10 emote cause a big cloud of coal dust to blow up towards you.
+~
+#13136
+overseer mill~
+The Mill Overseer~
+The Mill Overseer struts about in his official vest.
+~
+ If you thought the workers looked sturdy and well trained, this man
+makes that impression wither instantly. Arms, legs, hands, yes even
+eyebrows are massive with muscles and nothing to mess with or insult.
+There is not a single piece of fat anywhere, only muscles. His weight
+is hard to match with anyone else in the whole mill.
+~
+9 4 mcg yDdk 200 S
+104 -33 -47 4d500+5731
+401 500 86 1d52+53
+100 0 10 1d0+90
+23 0 2 1d0+100
+59 0 2 1d0+90
+-1
+330 100 365 100
+-1
+7 100 38 100 40 100 79 75 324 50
+-1
+16 1592470 8 8 1
+A
+%%10 say Hey Slacker!  Back to work with you!
+;%10 emote fingers on the whip at his belt.
+;%10 emote glares towards you 'Leave my workers alone!'
+;%10 emote tries to look as important as he is.
+~
+R
+ -1 -1 -1 75 -1
+#13137
+dog runner~
+a Runner dog~
+The runner dog carries a heavy load.
+~
+ The runner/carrier dogs are a combination of a huge Saint Bernard
+and an even larger Irish setter. Four feet in height (with load) and
+with muscles playing in their so powerful bodies they make up marvellous
+creatures. The dog wears a large double cargo basket usually filled with
+nutrition for the blast furnace.
+ ~
+4 4 fijkg yzk -100 S
+104 -29 -47 1d500+2731
+408 500 97 1d52+53
+331 0 3 0d0+0
+-1
+331 80 321 100
+-1
+-1
+816 1192470 8 8 0
+A
+%%10 emote licks you in the face. Yuck!
+;%10 emote almost bashes you down as it rushes by.
+;%10 emote tries to mark its territory on your leg.
+~
+#13138
+worm front mixxer guildg~
+The front part of the mixing worm~
+A big circle of sharp teeth devours anything in sight.
+~
+ The eternally moving teeth of the unimaginably, enormous, tied up,
+mutant sandworm would care less if you would get stuck in it or not.
+Always fed with stone and ore it would devour you before even you
+noticed it, no matter the thickness of your armour. Luckily for you (and
+it) it is slightly less intelligent than a goldfish and just a tiny bit
+smarter than its rear end.
+~
+0 0 bcg kadfhzD 0 S
+110 -34 -51 4d500+7221
+410 500 47 1d55+56
+408 500 47 1d55+56
+365 0 1 0d0+0
+322 0 1 0d0+0
+345 0 4 0d0+0
+-1
+317 100 322 100 365 100 339 100 331 100 345 100
+-1
+7 100 38 100 40 100 324 90 315 100 345 100
+-1
+121 4865854 8 8 0
+A
+%%20 emote devours some ore.
+;%20 emote devours some limestone.
+;%20 emote devours some coal.
+;%5 emote tries to suck you in but you leap away at the very last
+ second.
+~
+R
+ -1 -1 -1 -1 85
+#13139
+worm rear mixxer end guildg~
+The rear end of the mixing worm~
+The shivering end of a gigantic worm produces a continual flow of goo.
+~
+ The giant mutated sandworm that is kept in the mill's lower region is
+so incredibly large that its rear end takes up almost a whole room for
+itself. That is good as the rear end has developed an intelligence of
+its own (even though it surely is not much). Continuously extruding a
+well digested menuer, it is most important that it is fed properly and
+at all times. Its 'leavings' usually are taken care of with most caution
+and transported away for further use, without any need of processing.
+~
+0 0 bg kadfhzD 0 S
+110 -33 -51 4d500+7221
+401 500 76 1d55+50
+404 500 16 2d100+3
+57 0 5 1d0+90
+80 0 3 2d0+100
+-1
+317 100 339 100
+-1
+7 100 38 100 40 100 324 90 315 100 345 100
+-1
+111 4970621 8 8 0
+A
+%%10 emote produces a big cloud of smelly gas. Bleh!
+;%10 emote floods you from your waist down in manure.
+;%10 emote floods you from your ankle down in manure.
+;%10 emote floods you from your neck down in manure.
+;%10 emote floods you from your helmtop down in manure. Oops...
+;%10 emote fill all your bags with manure. Congratulations.
+;%10 emote shivers as to prepare for that extra big load to emerge.
+~
+R
+ -1 -1 -1 -1 85
+#13140
+bonker xBonk~
+The Bonker~
+An enormous humanoid watches you with disdain.
+~
+ As the last of his breed he has withdrawn from his adventures and now
+spends his time as a personal bodyguard to the master blacksmith (as if
+the master himself needed it) and as his closest assistant in the
+smithery. He sure does have the strength and stamina for the job even
+though his wits are sometimes to discuss, but then again with that
+complexion you really do not want to bug him with smart comments about
+his lack of intelligence as you most certainly do not want this short
+fused guy as a foe.
+~
+0 4 bmlg fkyDhr -851 S
+109 -35 -51 6d500+5132
+408 500 41 1d90+1
+410 500 41 1d20+75
+345 0 12 0d0+0
+107 0 3 1d0+75
+37 0 3 1d0+75
+-1
+317 100 321 100 318 100 339 100 365 100 345 100
+-1
+7 100 38 100 40 100 100 90 76 100 107 90 324 90
+-1
+11881 1742602 8 8 1
+A
+%%10 emote picks up a hot piece of metal with his bare hand.
+;%10 emote flexes his extremely well built forearms for you.
+;%10 emote looks straight through you. Guess you are not worthy of his
+ attention.
+~
+R
+ -1 -1 -1 -1 25
+#13141
+fire elemental~
+a preheating fire elemental~
+A softly glowing fire elemental dries up the surrounding mix.
+~
+ This minor elemental is bonded in the uppermost part of the mill as a
+first contact with the incoming mixture of ore preparing it for what to
+come by continuously scorching it make it steam off any residual water.
+As all elementals it is a bit undefined in its shape but it is grossly
+humanoid. Sudden flames protrude from its frame in a rather irregular
+pattern.
+~
+14 4 bg kyhdf 100 S
+102 -34 -46 2d500+2591
+404 500 75 1d51+52
+5 0 10 1d0+90
+70 0 5 2d0+100
+95 0 5 1d0+100
+28 0 5 2d0+90
+-1
+317 100 339 100
+-1
+7 100 38 100 40 100 48 90 95 90 26 90 56 90 105 90 5 90
+-1
+104 1637228 8 8 0
+A
+%%10 emote dries you up a bit.
+;%10 emote makes you warm all over. Not too bad in the winter, you think.
+;%10 say No, no, no. Not a chimney. It is a blast furnace!!!
+;%10 emote spreads the mix evenly over the furnace cross section.
+;%10 emote spanks you real hard for being so ignorant. Aiiii!
+;%10 emote burns you lightly as a flame bursts from its body.
+~
+#13142
+fireball fire elemental major~
+The major heating elemental~
+A living fireball bounces around roasting you into a crisp.
+~
+ To compare this one with the preheating elemental is like to compare
+a mild summer breeze with a volcanic eruption. One can see the stone
+itself sweat from a bare look from the elemental and you are very sure
+that stone does not have any glands for that. You can see that it is
+more or less spherical in shape when it happens to stand still for more
+than a fraction of a second. If the increase of elemental power
+continues like this one can only but wonder what awaits you further down
+the furnace...
+~
+14 4 bfkg kydfrDh 300 S
+107 -33 -49 4d500+3963
+404 500 35 1d53+54
+409 500 35 1d53+54
+26 0 5 1d0+90
+95 0 5 1d0+90
+56 0 10 1d0+90
+48 0 10 1d0+90
+-1
+317 100 365 100 339 100
+-1
+7 100 38 100 40 100 48 90 95 90 26 90 56 90 105 90 5 90
+-1
+6149 1980405 8 8 0
+A
+%%10 bounce
+;%10 emot makes the stone lining break out in waves of sweat.
+;%10 emote tries to ignite you, but you gracefully decline.
+~
+R
+ -1 -1 -1 -1 25
+#13143
+fire elemental essence~
+The Elemental of metal melting~
+The essence of fire almost makes you go blind.
+~
+ The fire elemental shines brighter than the sun making it totally
+impossible to look at but you can from the corner of your eye and
+resisting the resulting pain see the flames coming out of its
+body like a million blowtorches. Not only that, you sense that it is
+coming, closer and closer...
+~
+14 4 bfijkg yDhzrdfk 800 S
+109 -32 -50 6d500+5132
+404 500 35 1d54+55
+410 500 30 1d54+55
+105 0 4 1d0+95
+26 0 7 1d0+90
+80 0 3 2d0+100
+99 0 7 1d0+90
+95 0 7 1d0+90
+4 0 7 1d0+100
+-1
+339 100 317 100 365 100 328 100
+-1
+7 100 38 100 40 100 48 90 95 90 26 90 56 90 105 90 315 50
+-1
+44444 3142602 8 8 0
+A
+%%15 unlock door down
+;%40 open door down
+;%10 close door down
+;%10 emote hisses 'Fire Fire Fire'
+;%10 emote hisses 'Burn Burn Burn'
+~
+R
+ -1 -1 -1 -1 50
+#13144
+fire elemental~
+an elemental for reheating of metal~
+A joyful fire elemental hangs out in the smelt pool.
+~
+ A fire elemental is bathing in a pool of smelt. It splashes around
+and enjoys every second of it greatly. Not every day one find a pleased
+elemental on this plane of existence. Better watch out so that is does
+not invite you into its bath as it would most certainly scorch you very
+badly.
+~
+14 4 bg kdfyD 0 S
+106 -31 -48 1d500+3883
+404 500 72 1d53+54
+56 0 10 1d0+95
+48 0 18 1d0+100
+-1
+338 100
+-1
+7 100 38 100 40 100 48 90 95 90 26 90 56 90 105 90 5 90
+-1
+36 1850395 8 8 0
+A
+%%10 emote licks its mouth after a quick sip of smelt.
+;%10 emote makes a quick crawl to the other side of the pool.
+;%10 emote tries to drag you down for a 'refreshing' swim.
+~
+#13145
+Charmer dwarf~
+The elemental Charmer~
+A soaking wet dwarf looks after the wellbeing of the water elementals.
+~
+ The charmer is keeping the water elementals healthy. That is his duty
+in a short sentence. He does not really do anything else. He makes sure
+the summoned cooling elementals are in full vigour and that they are
+able and available to perform their duties. He also makes sure that the
+control of these creatures is total as they most certainly will not like
+what they have to do.
+~
+9 4 g kyDhdf 100 S
+109 -33 -50 1d500+3332
+400 500 55 1d54+55
+28 0 15 2d0+100
+28 0 2 1d0+90
+36 0 2 1d0+90
+97 0 11 1d0+95
+61 0 2 1d0+80
+11 0 3 2d0+10
+87 0 10 1d0+90
+-1
+321 100
+-1
+7 100 38 100 40 100 324 50
+-1
+21881 1642602 8 8 1
+A
+%%10 emote comforts some unseen entity.
+;%10 emot starts to glow as he restores himself to full potential.
+;%10 emote snores badly as he sucks in air through his flooded nostrils.
+~
+R
+ -1 -1 -1 -1 40
+#13146
+water elemental~
+a Cooling water elemental~
+The water elemental awaits further orders without any joy.
+~
+ The Water elemental splashes down upon the molten metal drying it up.
+Allowing for the workers to remove the bars so that a new batch of smelt
+can be applied into the moulds. Unfortunately the water elementals are
+severely hurt in the process as the smelt contains to much heat. Too bad
+for them the charmers/summoners have them under total control otherwise
+they would most certainly have done something completely different when
+receiving that order.
+~
+15 4 bg dfjhk -100 S
+106 -32 -48 1d500+2883
+404 500 54 1d53+54
+8 0 30 1d0+90
+49 0 10 1d0+90
+96 0 1 2d0+50
+96 0 5 1d0+100
+-1
+338 100 365 100
+-1
+-1
+0 1450395 8 8 0
+A
+%%10 emote lack of comfort makes even you feel bad.
+;%10 emote starts to bleed or maybe cry, who could ever tell...
+;%10 emote leaves a wet trail as it slowly moves around.
+~
+#13147
+worker remover bar dwarf~
+a bar remover~
+A dwarven worker removes bars from their moulds.
+~
+ The worker is dressed in dull grey clothing as all workers in the
+mill but these carry the insignia of the foundry department on their
+chests as well as the mill emblem on the shoulder pads. Their work is to
+remove the newly solidified iron bars from their moulds and place them
+in the bar storage. A job that would give most people pneumonia as it
+varies so much in temperature from free running smelt to the constant
+splashes of water elementals and small trips out of the room to the
+outside and back again.
+~
+9 4 bg kyD 100 S
+102 -32 -46 1d500+4011
+401 500 100 1d51+52
+-1
+317 100 328 100 330 100
+-1
+7 100 38 100 40 100 324 50
+-1
+405 1237228 8 8 1
+A
+%%10 emote picks up a metal bar.
+;%9 em watches new smelt come pouring into a mould, giving him more work.
+;%10 emote drops a solidified metal bar.
+;%15 cough
+;%25 west
+;%25 south
+;%25 north
+;%25 east
+;%10 emote coughs badly.
+~
+#13148
+Master smithy blacksmith~
+The Master Smithy~
+The Master Smithy is one piece of compact dwarven power.
+~
+ No wonder this dwarf became a blacksmith. His technique is great when
+wielding his hammer powerfully and with extreme precision in every blow.
+Add to that a great planning skill for the development of tools (rural
+as well as war) AND knowledge of the most ancient secrets of magic.
+Combined with years and years of practise you get a master blacksmith,
+one of the most respectful cunning persons you have ever met. Not
+someone you would like as an enemy, if you ever would mess with
+him he would most certainly mess you up REALLY bad.
+~
+9 4 bclg dfhryzDk 0 S
+110 -38 -51 7d500+7221
+401 500 23 2d55+56
+410 500 23 1d90+66
+28 0 15 2d0+100
+75 0 2 2d0+100
+77 0 8 1d0+95
+76 0 3 1d0+95
+52 0 12 1d0+95
+99 0 7 1d0+90
+72 0 7 1d0+95
+-1
+317 100 324 100 329 100 365 100 338 100 339 100 345 100 373 100 358 100
+-1
+614 100 38 100 40 90 315 90 104 90 105 90 106 90 26 90 100 75
+-1
+54321 4800021 8 8 1
+A
+%%10 emote gives away a small chant as he pounds on a piece of metal.
+;%10 emote aligns his substrate perfectly with a perfectly aimed blow.
+;%60 close door south
+;%10 emot tells you 'Perhaps you should leave and fight me another day'
+;%10 emote releases a extremely powerful spell into his work.
+~
+R
+ -1 -1 -1 -1 50
+#13149
+Summoner dwarf~
+The dwarven summoner~
+The dwarven summoner is surrounded by magical energies.
+~
+ You can actually feel a shift in the air as the summoner approaches.
+His build is stocky as most other dwarfs but the arcane forces surge
+strongly through this one. He wears no marking on his otherwise plain
+clothing, but a simple brownish broosch with the official iron mill
+logo. As a summoner he posses the power of summoning or dismissal at
+will.
+~
+9 4 g dfyDhk 200 S
+109 -33 -50 4d500+3132
+400 500 67 1d54+55
+1 0 6 2d0+100
+71 0 6 2d0+100
+75 0 6 2d0+100
+67 0 6 2d0+100
+80 0 6 2d0+100
+42 0 2 1d0+90
+109 0 1 1d0+90
+-1
+365 100
+-1
+7 100 38 100 40 100 324 60 105 85 97 75 98 75 25 50 4 100
+-1
+41881 1842602 8 8 1
+A
+%%10 emote opens up a rift to the elemental planes by just a flip of his
+ finger.
+;%10 emote grumbles over getting another air elemental.
+;%10 emote muffles a giggle as he notices your puny apparition.
+~
+R
+ -1 -1 -1 -1 50
+#13150
+crusher giant~
+a giant~
+WATCH OUT! The Giant crusher is going to whack you unless you move.
+~
+ BONK! SMASCH! KRUSCH! GRUNT! The sounds the giants emit
+whilst persuing their ultimate goal to destroy all stones bigger than
+very very tiny. The dwarfs made a nice thing fooling them into this or
+maybe the bribes were enough. They seem to enjoy it very much and they
+would not give a second of thought about it if you came in there
+somewhere between their BIG sledge and the ground, they might even like
+the nutrial addition.
+~
+8 4 fijkg kDyz -800 S
+107 -31 -49 3d500+3963
+410 500 100 1d53+54
+-1
+365 100 329 100 321 100 322 100
+-1
+7 100 38 100 40 100 322 50
+-1
+8449 1480405 8 8 1
+A
+%%10 emote shouts 'WHOPPA!!!!!!!!!'
+;%10 emote bonks you on the head. Ouch that hurt.
+;%10 emote roars 'Die Stone DIE!'
+;%10 emote looks at you and drools 'Fresh Canned Food - Yummie!'
+~
+#13151
+Guard~
+a Mill Guard~
+A cocky mill guard is looking for intruders and here YOU are...
+~
+ If the ordinary dwarf is stocky compared with human standards he
+still would look like a thin thread compared with this hunk of a dwarf.
+Worth noticing is that he does not hold any rank implying that his
+superiors would be worse. The guards are under strict orders to remove
+(in any way possible) any trespassers and nothing will make these highly
+trained guards to disobey. Guess the punishment for disobedience is
+worse than anything you can muster up.
+~
+9 4 fijklmg dyDzhk -850 S
+109 -32 -50 4d500+3532
+401 500 36 1d54+35
+403 500 35 1d54+45
+345 0 5 0d0+0
+4 0 5 1d0+90
+88 0 5 1d0+90
+28 0 10 2d0+100
+44 0 4 2d0+100
+-1
+373 100 345 100 330 100 318 100 317 100 339 100
+-1
+7 100 38 100 40 100 104 75 25 75 324 40 329 40 302 40 103 40 358 70
+-1
+5881 1642602 8 8 1
+A
+%%10 say Thank YOU for showing up - I have waited all day.
+;%10 say I am going to remove you from this place - Bit by bit.
+;%10 say Hello and very much Good bye!!!
+~
+#13152
+worker dwarf~
+a Dwarven iron mill worker~
+The dwarven mill worker fulfils his tasks without delay.
+~
+ Well a dwarf is a dwarf is a dwarf is a dwarf is a .... *sigh*
+This one is no different than the rest of them, short and stocky with a
+big beard worn clearly visible no matter what happens. He stares at you
+angrily for disturbing his so very important work, whatever it might be.
+On his shirt he has the iron makers union logo showing his membership
+and the mills emblema on his shoulder pads.
+~
+9 4 g yDk 100 S
+102 -33 -46 2d500+3591
+401 500 90 1d51+32
+28 0 10 2d0+90
+-1
+328 100 321 100
+-1
+7 100 38 100 40 100 324 30
+-1
+4047 1337228 8 8 1
+A
+%%10 emote checks his very tight schedule.
+;%10 emo has second thoughts about if the next shift ever going to show.
+;%10 emote ignores you as long as you do not bother him.
+;%3 emote is going to tell his friends he saw you. What a laugh they are
+ going to get.
+~
+#13153
+worker dwarf~
+a Dwarven iron mill worker~
+The dwarven mill worker obediently does something he been assigned to.
+~
+ Well a dwarf is a dwarf is a dwarf is a dwarf is a .... *sigh*
+This one is no different than the rest of them, short and stocky with a
+big beard worn clearly visible no matter what happens. He stares at you
+angrily for disturbing his so very important work, whatever it might be.
+Oh his shirt he has the iron makers union logo showing his membership
+and the mills emblem on his shoulder pads.
+~
+9 4 g yDk 100 S
+102 -33 -46 2d500+3591
+401 500 90 1d51+32
+28 0 10 2d0+90
+-1
+328 100 321 100
+-1
+7 100 38 100 40 100 324 29
+-1
+4046 1337228 8 8 1
+A
+%%10 emote cleans away a bit of dirt.
+;%10 emote whacks something out of place with his little hammer.
+;%10 emote ignores you as long as you do not bother him.
+;%3 emote is going to tell his friends he saw you. What a laugh they are
+ going to get.
+~
+#13154
+worker dwarf~
+a Dwarven iron mill worker~
+The dwarven mill worker has taken a little unauthorised break.
+~
+ Well a dwarf is a dwarf is a dwarf is a dwarf is a .... *sigh*
+This one is no different than the rest of them, short and stocky with a
+big beard worn clearly visible no matter what happens. He stares at you
+angrily for disturbing his so very important work, whatever it might be.
+Oh his shirt he has the iron makers union logo showing his membership
+and the mills emblem on his shoulder pads.
+~
+9 4 g yDk 100 S
+102 -33 -46 2d500+3591
+400 500 90 1d51+32
+28 0 10 2d0+90
+-1
+328 100 321 100
+-1
+7 100 38 100 40 100 324 28
+-1
+4041 1337228 8 8 1
+A
+%%10 emote lets out the impression he is cleaning.
+;%10 emote checks out his little hammer.
+;%10 emote ignores you as long as you do not speak.
+~
+#13155
+worker dwarf~
+a Dwarven iron mill worker~
+The dwarven mill worker shovels dirt down the grid.
+~
+ Well a dwarf is a dwarf is a dwarf is a dwarf is a .... *sigh*
+This one is no different than the rest of them, short and stocky with a
+big beard worn clearly visible no matter what happens. He stares at you
+angrily for disturbing his so very important work of shovelling dirt
+into the ground grid. Oh his shirt he has the iron makers union logo
+showing his membership and the mills emblem on his shoulder pads.
+~
+9 4 bg yDk 100 S
+102 -33 -46 2d500+3591
+401 500 90 1d51+32
+28 0 10 2d0+90
+-1
+328 100 321 100
+-1
+7 100 38 100 40 100 324 30
+-1
+4604 1337228 8 8 1
+A
+%%10 emote checks his very dirty schedule.
+;%10 emote shovels some limestone down the grid.
+;%10 emote shovels some ore down the grid.
+;%10 emote shovels some coal down the grid.
+;%10 emote ignores you as long as you do not stand in the way.
+;%3 emote is going to tell his friends you bothered him. Then they are
+ going to beat you down and feed you to the mixxer...
+~
+#13156
+worker dwarf~
+a Dwarven iron mill worker~
+The dwarven mill worker has 'dirt' up to his waist.
+~
+ Well a dwarf is a dwarf is a dwarf is a dwarf is a .... *sigh*
+This one is just a bit different to the rest of them. He can not have
+any kind of smell sensory system left after being covered in menuer  all
+the time. He glares angrily at you for disturbing his so very important
+work of shovelling dung onto the runner dogs. Oh his shirt he has the
+iron makers union logo showing his membership and the mills emblem on
+his shoulder pads.
+~
+9 4 bg yDk 100 S
+102 -33 -46 2d500+3591
+400 500 90 1d51+32
+28 0 10 2d0+90
+-1
+328 100 321 100
+-1
+7 100 38 100 40 100 324 30
+-1
+6504 1337228 8 8 1
+A
+%%10 emote has a messy schedule to wade through.
+;%10 emote shovels some dung into a wicker basket.
+;%5 emote removes some manure from his beard.
+;%10 emote tries to find his shovel beneath a big pile.
+;%10 emote ignores you as long as you do not slip into his pool.
+;%3 emote is going to tell his friends you bothered him. If they do not
+ flee first...
+~
+#13157
+dragon Bxodegra dwarf spectral quester00~
+A small dwarf~
+A tiny dwarf with a shimmering beard walks around in search of something.
+~
+ The destiny of this young man is not what one could expect. He is out
+on his biggest quest so far, and one of the hardest ever. He is looking
+for himself or rather his true self. Exchanged in the cruelest of ways
+as a child he now roams the lands in his constant search.
+~
+18 2 lm yDhkr 0 S
+109 -37 -55 4d500+6532
+404 500 35 1d54+55
+409 500 35 1d70+35
+345 0 3 0d0+0
+103 0 4 1d0+95
+28 0 20 2d0+100
+10 0 3 1d0+95
+-1
+317 100 331 100 363 100 345 100
+-1
+7 100 38 100 40 100 324 80 345 80
+-1
+31188 1642602 8 8 1
+A
+%%10 emote looks very troubled.
+;%10 emote ask 'You got the directions to the Yak farm?'
+;%10 say Can you show me to Stanneg?
+;%10 say There is an evil wizard hiding on the Northern Continent.
+;%10 emote smiles as his beard suddenly shimmer in all colours and none.
+;%10 ponder
+;%10 smile
+~
+R
+ -1 -1 -1 -1 55
+#13158
+killer dwarf~
+The killer dwarf~
+A small dwarf 'takes care' of the slaves.
+~
+ Wicked, wicked. This small dwarf seems to be in charge of the last step
+of the manufacturing of extra good weaponry. He makes sure the weapons
+are correctly aligned, lies perfect in your hand and even more important
+that they really do work as they should. He also does some hardening of
+weaponry, by the most classic way. By shoving them deep into a live
+victim.
+~
+9 4 bgm Dkyf -1000 S
+105 -28 -45 1d500+3559
+403 500 95 1d50+51
+322 0 5 0d0+0
+-1
+322 100 365 100 330 100
+-1
+7 100 38 100 40 100 324 50
+-1
+1000 1484545 8 8 1
+A
+%%10 grin
+;%10 emo accidentally steps into a pool of blood, but he does not care.
+;%10 emote smiles towards you. You do not like that.
+;%10 snicker
+~
+#13159
+Guard chain~
+a Chain Guard~
+The swift Chain Guard makes sure noone misuses the chain.
+~
+ If the ordinary dwarf is stocky compared with human standards he
+still would look like a thin thread compared with this hunk of a dwarf.
+Still this specimen seems very dexterious. Could be that his job is to
+make sure that the large chain to the furnace top is in order and that
+nobody that should not be there is there.
+~
+9 4 bfijklmg dyDzhk -800 S
+109 -34 -50 3d500+3532
+401 500 96 1d54+45
+76 0 4 1d0+80
+-1
+373 100 365 100
+-1
+7 100 38 100 40 100 324 70
+-1
+1881 1642602 8 8 1
+A
+%%10 say Thank YOU for showing up - I have waited all day.
+;%10 say What are you doing here?!
+;%10 say Unauthorised use is punishable by DEATH!
+;%10 snicker
+~
+#13160
+immob155spc guard elite~
+The Elite Guard~
+A powerful Mill Elite Guard charges you without hesitation.
+~
+ If you have meet the other mill guards, you clearly see a difference.
+This one seems in even better shape and look even more powerful. Could
+be his rigorous training in all traits, both warrior and mage and
+depending on faith either clerical or dexteriosity. The complete set of
+skills makes him a very dengerous enemy. And enemy he is, to all
+trespassers and outpointed undoers in the vicinity. If you have the
+chance to leave, do so or he will make you stay, permanently.
+~
+9 4 fijcklmg dfyDzkA -800 S
+109 -61 -40 3d500+4532
+400 500 16 1d54+15
+401 500 16 1d9+35
+405 500 16 1d97+7
+410 500 16 1d60+67
+324 0 12 0d0+0
+28 0 10 2d0+90
+4 0 5 1d0+55
+23 0 4 1d0+95
+49 0 5 1d0+95
+-1
+331 100
+-1
+7 100 38 100 40 100 322 60 324 60 321 100 302 60 345 60 358 60 103 50
+-1
+881 1242602 8 8 1
+A
+%%5 say There YOU are - Partytime.
+;%20 get pay
+;%5 say Rest now and be forever dead.
+;%5 emote says 'Hello' and smiles wickedly.
+~
+R
+ -1 -1 -1 -1 50
+#13161
+immob155spc guard elite~
+The Elite Guard~
+A powerful Mill Elite Guard is out on a search and destroy mission.
+~
+ If you have meet the other mill guards, you clearly see a difference.
+This one seems in even better shape and look even more powerful. Could
+be his rigorous training in all traits, both warrior and mage and
+depending on faith either clerical or dexteriosity. The complete set of
+skills makes him a very dengerous enemy. And enemy he is, to all
+trespassers and outpointed undoers in the vicinity. If you have the
+chance to leave, do so or he will make you stay, permanently.
+~
+9 4 fijcklmg dfyDzkA -800 S
+109 -33 -40 3d500+4032
+400 500 16 1d54+15
+401 500 16 1d9+35
+405 500 16 1d97+7
+410 500 16 1d60+67
+345 0 12 0d0+0
+28 0 10 2d0+90
+4 0 6 1d0+55
+23 0 3 1d0+95
+95 0 3 1d0+95
+8 0 2 1d0+80
+-1
+345 100
+-1
+7 100 38 100 40 100 322 60 324 60 321 100 302 60 345 60 358 60 103 50
+-1
+881 1242602 8 8 1
+A
+%%5 say Hey You! I want to walk to you.
+;%20 get pay
+;%5 say Rest now and be forever dead.
+;%5 emote says 'Call your mother - this will be your last chance'
+~
+R
+ -1 -1 -1 -1 50
+#13162
+Cyclops crusher~
+a large cyclops~
+BEWARE! The Cyclops crusher has no depth perception.
+~
+ KASCHMASKEDONK - BANG! Fragments of stone fly like crazy around the
+totally wicked cyclops. Well bigger than the crusher giants it can
+totally demolish a stone block with a single blow. Even the giants are
+afraid of him as his visual field and other ablilities are rather
+limited. That may also be your only chance to come through this.
+~
+8 4 fijkg kDyz -400 S
+107 -32 -49 6d500+4063
+410 500 100 1d93+34
+-1
+365 100 324 100 329 100
+-1
+7 100 38 100 40 100 315 30 324 50 4 0
+-1
+444 1580405 8 8 1
+A
+%%10 emote glares at you in the way only a one eyed cyclops can.
+;%10 emote bonks you on the head. A little to deep it seems. OUCH!!!
+;%10 emote roars 'Die Stone DIE!' and look at you.
+;%10 emote drools at you 'Food - Comsie comsieeeee...'
+~
+#13163
+ice elemental~
+an ice elemental~
+The ice elemental was too cold and was sat aside.
+~
+ Summoning elementals is not the most exact of sciences even if some
+want you to think so. Sometimes the elementals ripped from their home
+plane are stronger or weaker than usual. Sometimes one just get hold of
+the wrong kind. This was meant to be a water elemental but the summoner
+was not aware of that this little fellow was on a quick visit to its
+neighbouring plane and got a little surprice when it appeared. Now it
+just sits here waiting to be dismissed home.
+~
+15 4 blg dkD 0 S
+107 -35 -49 3d500+4063
+404 500 0 1d100+1
+8 0 100 1d0+100
+-1
+365 100
+-1
+7 100 38 100 40 100 8 90 77 90 25 90
+-1
+1 1480405 6 6 0
+A
+%%10 emote shivers a bit in the heat.
+;%10 emote glares icily towards you.
+;%10 emote makes you miss that wollen cap your mother gave you as a
+ child.
+;%10 emote giggles as some snow appears in the air around it.
+~
+R
+ 1 -1 40 -1 -1
+#13164
+ice white caravan giant~
+a white caravan giant~
+A caravan ice giant staggers under the heat.
+~
+ The ordinary caravan giants are Huge. This rather sweaty ice giant
+makes them look puny, unfortunately for him the temperature here is a
+quite a bit higher than in his home country somewhere far north. The
+heat puts him in constant agony but he do not leave anyway. Apperantly
+he have made a deal with someone to stay otherwise he would surely be
+long gone as he surely misses his ice widths and ice giant pals. He
+would even consider saying 'Hi' to a Frost giant if he saw one just for
+that brief moment of meeting someone from back home.
+~
+8 4 fjg zkD -100 S
+109 -34 -46 4d500+4001
+410 500 85 1d51+32
+58 0 10 1d0+80
+49 0 5 1d0+75
+-1
+319 100 317 100 322 100 324 100 365 100
+-1
+7 100 38 100 40 100 315 75
+-1
+8000 1737228 8 8 1
+A
+%%10 emot puts down a foot right next to you. Phew, that was close.
+;%10 emote sweats out huge amounts of sweat.
+;%10 emote staggers under his load as he walks on.
+;%70 give bar receiver
+;%40 get bar
+;%3 emote gives you a bar.
+~
+#13165
+Guard~
+a Mill Guard~
+A cocky mill guard is looking for intruders and here YOU are...
+~
+ If the ordinary dwarf is stocky compared with human standards he
+still would look like a thin thread compared with this hunk of a dwarf.
+Worth noticing is that he does not hold any rank implying that his
+superiors would be worse. The guards are under strict orders to remove
+(in any way possible) any trespassers and nothing will make these highly
+trained guards to disobey. Guess the punishment for disobedience is
+worse than anything you can muster up.
+~
+9 4 fijklmgb yDzhk -850 S
+109 -30 -50 3d500+3832
+401 500 40 1d54+45
+403 500 35 1d54+35
+4 0 5 1d0+90
+88 0 5 1d0+90
+28 0 10 2d0+100
+-1
+373 100 345 100 330 100 318 100 317 100 339 100
+-1
+7 100 38 100 40 100 104 75 25 75 324 40 329 40 302 40 345 40 358 40
+-1
+881 1542602 8 8 1
+A
+%%10 say Thank YOU for showing up - I have waited all day.
+;%10 say I am going to remove you from this place - Bit by bit.
+;%10 say Hello and very much Good bye!!!
+~
+#13166
+FIRE big dancing elemental flame~
+a Fire elemental~
+A BIG flame dances around in the furnace.
+~
+ The flame lives in the burning coal of the furnace and spread his
+graces in form of extreme heat to the pieces of metal inserted into the
+furnace. It is very obvious to you that he do not like to be disturbed.
+~
+14 4 bmlg dftbDrk 0 S
+105 -32 -48 1d500+3806
+404 500 75 1d52+33
+28 0 10 2d0+90
+56 0 15 1d0+90
+-1
+318 100 338 100 358 100
+-1
+-1
+0 1621089 8 8 0
+A
+%%10 emote shakes the coal ground as he watches you.
+;%10 emote offers to light your whole body.
+;%10 emote crackles as is consumes some object you just lost.
+;%10 emote tries to engulf you in flames.
+~
+R
+100 -1 -1 -1 -1
+#13167
+converter air elemental~
+The converter air elemental~
+A air elemental dives through the smelt pool, avoiding the doctors blade.
+~
+ The air elemental is forced through the pool of smelt. On its way
+through it gathers small particles that is not supposed to be there and
+bring it to the surface. This is not the most fun thing to do for a air
+elemental but sometimes someone else like a powerful summoner can
+convince even the most stubborn elemental to do his handywork.
+~
+17 2 bgm kdfy 0 S
+106 -31 -48 1d500+3183
+404 500 71 1d63+24
+67 0 11 1d0+95
+99 0 16 1d0+100
+11 0 2 1d0+100
+-1
+-1
+7 100 38 100 40 100 48 90 95 90 26 90 56 90 105 90 5 90
+-1
+36 1450395 8 8 0
+A
+%%10 emote dives into the pool again.
+;%20 emote quickly jumps over the scanning doctors blade.
+;%10 emote spits out some dirt he swallowed.
+~
+#13168
+tester weapon~
+A weapon tester~
+The weapon-tester has just found a new specimen to test a new weapon on.
+~
+ The weapon tester performs the tests necessary to make sure that the
+weapons made, really are as good as they should be. He is a little
+wicked dwarf that have managed to acquire a pretty good skill with
+almost any weapon available and he really does know how to make you feel
+great pain.
+~
+1 4 bgm Dkyf -1000 S
+105 -29 -45 1d500+3659
+401 500 19 1d50+51
+402 500 19 1d50+51
+403 500 19 1d50+51
+408 500 01 3d50+51
+409 500 19 1d50+51
+410 500 19 1d50+51
+322 0 4 0d0+0
+-1
+322 100 365 100 330 100 338 100
+-1
+7 100 38 100 40 100 324 50
+-1
+1230 1384545 8 8 1
+A
+%%10 emote checks his test specimen.
+;%10 emote looks at his X-Rigs to make sure they work properly.
+;%10 emote checks his test subject.
+~
+#13169
+test subject~
+A test subject~
+A human has been selected as a subject in a weapons test.
+~
+ First thing you see when you look closer is that the, soon to be very
+dead, human is blind. That is pretty obvious as someone has scorched
+away the eyes. A pretty nifty way to keep prisoners calm. They really
+can not do anything but stand around waiting...
+~
+1 2 bg a 600 S
+86 -22 -28 7d500+183
+400 500 100 1d53+24
+-1
+338 100
+-1
+-1
+2 450395 8 8 1
+A
+%%10 emote just stands there chained to a X-rig.
+;%10 emote is completely silent, no way he is going to distinguish himself.
+;%10 emote tries to cry, but has no tearchannels left.
+~
+#13170
+Mom giant moron mother~
+The big Mom~
+The anxious mother of two giants wonders if you have seen her kids.
+~
+ As a giant mother with two intellectually challenged sons, she is
+constantly nervous that her offspring would get into trouble. She has
+taken the opportunity to search them up at their new job to see how
+things are progressing. Just as any caring parent would.
+~
+8 4 fig zkD 400 S
+104 -33 -47 5d500+5731
+410 500 93 1d52+53
+28 0 7 1d0+100
+-1
+319 100 317 100 324 100 365 100
+-1
+7 100 38 100 40 100 104 90 79 90 96 90 315 50
+-1
+10816 1192470 8 8 2
+A
+%%10 emote licks up a drop of drool from her lip.
+;%10 emote sighs slightly.
+;%10 emote seems worried.
+;%10 emote looks down on you and smiles. You are not sure you like this.
+~
+R
+70 70 70 70 35
+#13171
+Waha Butcher~
+Waha the Butcher kills poor moneymaker~
+Waha the Butcher kills poor moneymaker.
+~
+So that the guards can get more and more money and so that fido can
+digest his dead corpse making it available
+~
+0 0 0 0 0 S
+50 -50 -50 1d1+5000
+400 500 100 50d50+50
+-1 -1 -1
+0 0 8 8 0
+A
+%%3 hit money13100
+;%3 hit 2.fido
+~
+#13172
+Guard~
+a Mill Guard~
+A cocky mill guard is looking for intruders and here YOU are...
+~
+ If the ordinary dwarf is stocky compared with human standards he
+still would look like a thin thread compared with this hunk of a dwarf.
+Worth noticing is that he does not hold any rank implying that his
+superiors would be worse. The guards are under strict orders to remove
+(in any way possible) any trespassers and nothing will make these highly
+trained guards to disobey. Guess the punishment for disobedience is
+worse than anything you can muster up.
+~
+9 4 fijklmg dyDzhk -850 S
+109 -32 -50 4d500+3532
+401 500 36 1d54+35
+403 500 35 1d54+45
+345 0 5 0d0+0
+4 0 5 1d0+90
+88 0 5 1d0+90
+28 0 10 2d0+100
+44 0 4 2d0+100
+-1
+373 100 345 100 330 100 318 100 317 100 339 100
+-1
+7 100 38 100 40 100 104 75 25 75 324 40 329 40 302 40 103 40 358 70
+-1
+5881 1642602 8 8 1
+A
+%%10 say Thank YOU for showing up - I have waited all day.
+;%10 say I am going to remove you from this place - Bit by bit.
+;%10 say Hello and very much Good bye!!!
+~
+#13173
+Guard~
+a Mill Guard~
+A cocky mill guard is looking for intruders and here YOU are...
+~
+ If the ordinary dwarf is stocky compared with human standards he
+still would look like a thin thread compared with this hunk of a dwarf.
+Worth noticing is that he does not hold any rank implying that his
+superiors would be worse. The guards are under strict orders to remove
+(in any way possible) any trespassers and nothing will make these highly
+trained guards to disobey. Guess the punishment for disobedience is
+worse than anything you can muster up.
+~
+9 4 fijklmg dyDzhk -850 S
+109 -32 -50 4d500+3532
+401 500 36 1d54+35
+403 500 35 1d54+45
+345 0 5 0d0+0
+4 0 5 1d0+90
+88 0 5 1d0+90
+28 0 10 2d0+100
+44 0 4 2d0+100
+-1
+373 100 345 100 330 100 318 100 317 100 339 100
+-1
+7 100 38 100 40 100 104 75 25 75 324 40 329 40 302 40 103 40 358 70
+-1
+5881 1642602 8 8 1
+A
+%%10 say Thank YOU for showing up - I have waited all day.
+;%10 say I am going to remove you from this place - Bit by bit.
+;%10 say Hello and very much Good bye!!!
+~
+#13174
+Guard~
+a Mill Guard~
+A cocky mill guard is looking for intruders and here YOU are...
+~
+ If the ordinary dwarf is stocky compared with human standards he
+still would look like a thin thread compared with this hunk of a dwarf.
+Worth noticing is that he does not hold any rank implying that his
+superiors would be worse. The guards are under strict orders to remove
+(in any way possible) any trespassers and nothing will make these highly
+trained guards to disobey. Guess the punishment for disobedience is
+worse than anything you can muster up.
+~
+9 4 fijklmg dyDzhk -850 S
+109 -32 -50 4d500+3532
+401 500 36 1d54+35
+403 500 35 1d54+45
+345 0 5 0d0+0
+4 0 5 1d0+90
+88 0 5 1d0+90
+28 0 10 2d0+100
+44 0 4 2d0+100
+-1
+373 100 345 100 330 100 318 100 317 100 339 100
+-1
+7 100 38 100 40 100 104 75 25 75 324 40 329 40 302 40 103 40 358 70
+-1
+5881 1642602 8 8 1
+A
+%%10 say Thank YOU for showing up - I have waited all day.
+;%10 say I am going to remove you from this place - Bit by bit.
+;%10 say Hello and very much Good bye!!!
+~
+#99999
+$~
+

@@ -1,0 +1,375 @@
+#160
+High Tower of Sorcery~
+16199 160 1
+R 0 16001 4              Randomize exits in shadow grove
+R 0 16002 4
+R 0 16003 4
+R 0 16004 4
+R 0 16005 4
+R 0 16006 4
+R 0 16007 4
+R 0 16008 4
+R 0 16009 4
+*
+R 0 16092 6             Randomize master summoner's chamber
+*
+M 0 16000 6 16002          Shadow Guardian
+M 0 16000 6 16004          Shadow Guardian
+M 0 16000 6 16006          Shadow Guardian
+M 0 16000 6 16008          Shadow Guardian
+M 0 16000 6 16011          Shadow Guardian
+*
+M 0 16001 1 16011          Adventurer
+M 0 16002 1 16007          Dewey
+*
+D 0 16012 0 2              Lock entrance door
+D 0 16013 2 2
+*
+M 0 16003 1 16012          Golem at Entrance
+E 1 16074 5 17
+*
+M 0 16004 7 16013          Wandering Mage
+M 0 16004 7 16014          Wandering Mage
+M 0 16004 7 16014          Wandering Mage
+M 0 16004 7 16015          Wandering Mage
+M 0 16004 7 16016          Wandering Mage
+M 0 16004 7 16018          Wandering Mage
+M 0 16004 7 16019          Wandering Mage
+*
+D 0 16016 3 1               Close Kitchen Door
+D 0 16020 1 1
+*
+D 0 16017 5 1               Close Trapdoor
+D 0 16021 4 1
+*
+M 0 16005 1 16018          Midori the Bartender
+E 1 16051 100 17            give brew
+G 1 16052 100               give waybread
+*
+M 0 16006 1 16019          Slick Willy the Wizard
+*
+O 0 16001 100 16020          Oven
+O 0 16002 100 16020          Meat Locker
+P 1 16005 5 16002          fill locker
+M 0 16007 1 16020          Emerald
+E 1 16055 5 16              cleaver
+M 0 16008 1 16020          Assist. Cook
+*
+D 0 16024 1 1
+D 0 16028 3 1
+*
+D 0 16023 0 2               close and lock cell door
+D 0 16027 2 2
+*
+M 0 16009 1 16027          Prisoner
+E 1 16056 5 14              shackles
+M 0 16010 1 16028          Jailor
+E 1 16023 5 17              key to cell
+*
+D 0 16030 0 1               close door
+D 0 16030 2 1               close door
+D 0 16031 0 1               close door
+D 0 16031 1 1
+D 0 16031 2 1               close door
+D 0 16032 2 1               close door
+D 0 16033 0 1
+*
+M 0 16011 2 16033          broom
+M 0 16011 2 16033
+O 0 16007 100 16033          broom
+O 0 16007 100 16033
+*
+D 0 16034 1 1               door
+D 0 16034 2 1
+D 0 16035 0 1               door
+M 0 16012 10 16035         Lesser Guardian
+M 0 16012 10 16035         Lesser Guardian
+*
+M 0 16013 7 16035          Greater Guardian
+D 0 16036 3 1               door
+D 0 16037 3 1               door
+*
+M 0 16014 1 16037          Visiting Mage
+E 1 16026 5 3
+*
+D 0 16038 1 1               door
+D 0 16039 3 1               door
+D 0 16040 0 1               door
+*
+M 0 16012 10 16040         Lesser Guardian
+*
+D 0 16042 2 1
+*
+M 0 16015 3 16042          apprentice
+M 0 16016 3 16042
+M 0 16017 3 16042
+*
+D 0 16043 0 1               door
+D 0 16044 2 1               door
+*
+M 0 16015 3 16044          apprentice
+M 0 16016 3 16044
+M 0 16017 3 16044
+*
+D 0 16045 0 1               door
+*
+M 0 16018 3 16046          apprentice
+M 0 16018 3 16046          apprentice
+M 0 16018 3 16046          apprentice
+M 0 16019 1 16046          kitten
+*
+D 0 16046 2 1
+D 0 16048 3 1               door
+D 0 16049 1 1
+*
+M 0 16020 3 16049          student
+M 0 16020 3 16049          student
+M 0 16020 3 16049          student
+M 0 16021 1 16049          teacher
+*
+D 0 16050 3 1               door
+D 0 16051 3 1
+D 0 16052 1 1
+D 0 16054 1 1               door
+*
+M 0 16022 3 16054          student
+M 0 16022 3 16054
+M 0 16022 3 16054
+M 0 16023 1 16054          teacher
+*
+D 0 16055 2 1               door
+D 0 16056 2 1
+D 0 16057 0 1
+*
+M 0 16024 3 16057           listener
+M 0 16024 3 16057
+M 0 16024 3 16057
+M 0 16025 1 16057           speaker
+*
+D 0 16058 2 1                door
+D 0 16059 0 1
+*
+M 0 16026 3 16059           student
+M 0 16026 3 16059
+M 0 16026 3 16059
+M 0 16027 1 16059           battle master
+E 1 16071 5 16
+*
+D 0 16061 0 1
+D 0 16062 1 1
+D 0 16063 1 1
+D 0 16064 3 1
+*
+M 0 16028 2 16064           teacher
+*
+D 0 16065 3 1
+*
+M 0 16029 1 16065           sleeping mage
+*
+D 0 16066 1 1
+D 0 16067 3 1
+*
+M 0 16030 1 16067           scribe
+M 0 16012 10 16068          Lesser Guardian
+M 0 16039 4 16068           Golem Sentry
+*
+D 0 16070 0 1
+D 0 16071 2 1
+D 0 16071 3 1
+*
+M 0 16031 2 16071           scribe
+M 0 16031 2 16071           scribe
+*
+D 0 16073 1 1
+*
+M 0 16032 1 16073           Master Scribe
+G 1 16059 5
+G 1 16060 5
+G 1 16061 5
+M 0 16033 1 16073          Assistant Scribe
+G 1 16062 5
+D 0 16074 0 1
+D 0 16075 2 1
+M 0 16013 5 16075          Greater Guardian
+D 0 16077 3 1
+D 0 16078 3 1
+D 0 16079 1 1
+O 0 16010 50 16079          props..
+O 0 16011 50 16079
+O 0 16012 50 16079
+O 0 16013 50 16079
+D 0 16081 2 1
+D 0 16081 1 1
+D 0 16081 4 1
+O 0 16014 100 16081          smithy hammer
+D 0 16082 0 1
+O 0 16015 100 16082          chest
+P 1 16017 8 16015          long sword
+P 1 16018 8 16015          dagger
+P 1 16019 8 16015          scimitar
+M 0 16034 1 16082          Enchanter
+E 1 16016 100 17              hold key
+M 0 16035 2 16082          Dancing Sword
+D 0 16084 2 1
+D 0 16086 0 1
+D 0 16087 2 1
+M 0 16036 1 16088          The Mad Alchemist
+E 1 16064 5 17              pouch
+P 1 16065 3 16064          spoon
+P 1 16067 3 16064
+P 1 16068 3 16064
+P 1 16069 3 16064
+P 1 16070 3 16064
+*
+D 0 16090 0 1
+*
+M 0 16037 1 16090          The Summoner
+E 1 16072 5 5
+*
+D 0 16091 1 1
+D 0 16094 3 1
+D 0 16095 0 1
+D 0 16093 1 1
+D 0 16095 3 1
+*
+M 0 16038 1 16095          Master of Charm
+E 1 16073 5 17
+*
+D 0 16097 2 1
+*
+M 0 16039 4 16098          golem sentry
+M 0 16039 4 16098          golem sentry
+D 0 16100 0 1
+D 0 16101 2 1
+D 0 16101 3 1
+D 0 16102 1 1
+D 0 16102 3 1
+D 0 16103 1 1
+D 0 16103 2 1
+D 0 16105 0 1
+D 0 16108 3 1
+D 0 16109 1 1
+D 0 16109 5 1
+D 0 16112 4 1
+D 0 16112 5 1
+D 0 16116 2 1
+D 0 16117 0 1
+D 0 16119 2 1
+D 0 16120 0 1
+D 0 16122 1 1
+D 0 16123 3 1
+D 0 16134 1 1
+D 0 16135 3 1
+D 0 16152 2 1
+D 0 16153 0 1
+D 0 16160 1 1
+D 0 16161 3 1
+D 0 16166 3 1
+D 0 16167 1 1
+D 0 16173 0 2
+D 0 16174 0 2
+D 0 16174 2 2
+D 0 16175 0 2
+D 0 16175 2 2
+D 0 16176 2 2
+D 0 16180 1 2
+D 0 16180 3 2
+D 0 16181 3 2
+D 0 16182 1 2
+M 0 16013 4 16100          Greater Guardian
+M 0 16140 1 16102          Spell Binder
+E 1 16125 5 17              hold key
+E 1 16174 5 13              wear belt
+O 0 16121 100 16103          cabinet
+P 1 16107 5 16121
+O 0 16122 100 16103          cabinet
+P 1 16108 8 16122
+*
+M 0 16141 1 16109          Golem Maker
+E 1 16176 5 16              hold chisel
+E 1 16105 5 13              load stone belt
+*
+M 0 16142 1 16109          Granite Golem
+M 0 16145 2 16109          Cloth Golem
+M 0 16143 1 16111          Bronze Golem
+M 0 16144 1 16111          Flesh Golem
+M 0 16146 1 16111          Adamantite Golem
+M 0 16147 1 16111          Clay Golem
+*
+M 0 16148 1 16117          Master of Illusion
+E 1 16177 10 13              wear beltpouch
+P 1 16109 3 16177
+*
+M 0 16149 1 16125          The Necromancer
+E 1 16179 5 3               wear cowl
+M 0 16150 4 16125          Skeleton
+M 0 16150 4 16125
+M 0 16151 1 16125          Undead Giant
+E 1 16181 5 16              Wield Club
+*
+M 0 16039 5 16128          Golem Sentry
+M 0 16039 5 16128
+M 0 16012 10 16130         Lesser Guardian
+M 0 16013 5 16133          Greater Guardian
+*
+M 0 16152 3 16135          Witch
+M 0 16152 3 16135
+M 0 16152 3 16135
+O 0 16131 100 16135          Cauldron
+P 1 16132 100 16131          bat wings
+P 1 16133 100 16131          eyeball
+*
+*D 0 16036 3 1
+*D 0 16037 1 1
+*
+M 0 16153 1 16137          Librarian conan
+E 1 16104 5 16
+*
+O 0 16134 100 16145          The Book of Magic
+P 1 16135 50 16134          Spectacles of True Seeing
+*
+M 0 16013 5 16149          Greater Guardian
+M 0 16154 1 16153          Neutral Apprentice
+E 1 16182 5 12              wear robe
+E 1 16184 5 14              wear bracelet
+M 0 16155 1 16154          Grey Familiar
+M 0 16156 1 16154          Neutral Guildmaster
+E 1 16100 5 17
+E 1 16183 5 3               wear cloak
+G 1 16186 5               hold ward
+M 0 16157 1 16161          Evil Apprentice
+E 1 16187 5 12              wear robe
+E 1 16188 5 14              wear bracelet
+M 0 16158 1 16164          Black Familiar
+M 0 16159 1 16164          Evil Guildmaster
+E 1 16101 5 17             
+E 1 16189 5 3               wear cloak
+E 1 16190 5 16              wield shard
+M 0 16160 1 16167          Good Apprentice
+E 1 16191 5 12              wear robe
+E 1 16192 5 14              wear bracelet
+M 0 16161 1 16169          White Familiar
+M 0 16162 1 16169          Good Guildmaster
+E 1 16102 5 17
+E 1 16193 5 3               wear cloak
+E 1 16194 5 16              wield dagger
+M 0 16163 1 16177          Calico Cat
+E 1 16195 5 3               wear collar
+M 0 16164 1 16177          Grand Master of Magic
+G 1 16139 100                give key
+E 1 16106 5 5              wear scale
+E 1 16197 5 1               wear ring
+E 1 16198 5 14              wear bracelet
+E 1 16199 5 17              hold ward
+E 1 16103 5 16              wield kris
+O 0 16136 100 16180          altar
+P 1 16137 5 16136          medallion in altar
+O 0 16138 100 16181          chest in treasury
+O 0 16141 5 16182          cloak
+O 0 16142 5 16182          poncho
+O 0 16143 5 16182          boots
+O 0 16145 5 16182          backpack
+P 1 16144 5 16145          ring
+S
+#99999
+$~

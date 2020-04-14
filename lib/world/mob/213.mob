@@ -1,0 +1,523 @@
+#21300
+kitten grey para miqi para'miqi feline~
+the grey kitten~
+A grey ball of fur stalks a bowl of cream.
+~
+The grey ball of fur shows off as he pounces onto a bowl of cream,
+spilling it everywhere!  This little fellow will someday become a
+Para'miqi, a mischievious race of felines that inhabit dwellings and
+steal goodies from them.  His green eyes have a glimmer of mischief
+in them already, so he is well on his way to fulfilling his destiny. 
+~
+3 4 bg sy 0 S
+20 10 -1 1d1+295
+407 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 1
+A
+%%5 purr;%5 emote pounces on your big toe!~
+#21301
+kitten white rit'i feline~
+the white kitten~
+A snow white kitten stretches out to take a nap.
+~
+This kitten has a coat of the purest white.  He will someday become
+one of the Rit'i, or snow cats, who live high in the mountains at the
+edge of the jungle.  For now he just bides his time in the warmth of
+the village, delighting in all the attention his lovely coat has
+gotten him. 
+~
+3 4 bg sy 0 S
+20 10 -1 1d1+295
+407 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 1
+A
+%%5 emote grooms his beautiful coat.~
+#21302
+kitten spotted ch'ekche feline~
+the spotted kitten~
+A tiny spotted kitten is chasing the shadows out of the room.
+~
+This little ball of fur is covered with a golden coat that has been
+sprinkled with black spots.  The fierce hunter in him is only now
+showing itself, but he is only strong enough to stalk the shadows, or
+the occassional tail of a littermate.  Someday he will become a
+Ch'ekche, the race of felines that inhabit the jungles of the east. 
+~
+3 4 bg sy 0 S
+20 10 -1 1d1+295
+408 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 1
+A
+%%5 emote stalks his littermates tail!~
+#21303
+kitten black malki feline~
+the black kitten~
+Hiding in the shadows, a small black kitten prepares to pounce!
+~
+As black as night, this kitten will someday become a Malki.  His race
+inhabits the jungles of the west, hiding in the trees until nightfall
+when they are the most lethal of all jungle beasts.  He practices his
+pouncing skills on his littermates for now, and he's gotten quite
+good at attacking dustballs! 
+~
+3 4 bg sy 0 S
+20 10 -1 1d1+295
+407 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 1
+A
+%%5 emote pounces on a dustball.;%5 lick nursemaid~
+#21304
+kitten golden paqu feline~
+the golden kitten~
+Like a ray of sunshine, the golden kitten lights up the room with his 
+smile.
+~
+While most of the felines of Miqi'erke prefer the night, this little
+fellow is comfortable in the daylight.  His tiny paws hold the
+beginnings of very powerful claws, and his little head is just
+starting to show a majestic mane.  He will someday become a Paqu, the
+race of felines that moved from the jungles into the open plains. 
+There his kind is feared by all.  Here in the village, he just brings
+a little bit of sunshine into the otherwise dark jungle. 
+~
+3 4 bg sy 0 S
+20 10 -1 1d1+295
+408 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 1
+A
+%%5 smile~
+#21305
+kitten striped suwa feline~
+the striped kitten~
+As stealthy as a thief, the striped kitten steals a piece of meat.
+~
+He stalks the nursery much like his race of Suwa stalk the jungle. 
+His kind is the striped hunter with powerful claws and an attitude to
+match.  For now he is just a nuisance to his littermates, always
+stealing their food until the nursemaid catches him in the act. 
+~
+3 4 bg sy 0 S
+20 10 -1 1d1+295
+407 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 1
+A
+%%5 blink;%5 emote steals a piece of meat from his littermate.~
+#21306
+nursemaid malki feline~
+the feline nursemaid~
+Smiling gently, the feline nursemaid watches after the kittens.
+~
+The feline nursemaid has been charged by Yanaquri with the duty of
+caring for all the kittens.  She takes her job very seriously, and
+she will protect them fiercely as if they were her own.  Like most of
+the villagers, she is unable to bear her own, relying on the grace of
+Yanaquri to populate Miqi'erke.  The nursemaid wears a coat of the
+purest black fur, indicating that she is of the Malki race.  Her
+emerald green eyes are fierce at first glance, but as you gaze into
+them you relize her true nature. 
+~
+3 4 bgm sy 0 S
+50 -6 -17 1d1+781
+407 500 50 1d25+35
+408 500 50 1d25+20
+-1 -1 -1 
+2500 313333 8 8 2
+A
+%%5 emote smiles pleasantly.~
+#21307
+oqe grey feline~
+Oqe~
+Smiling innocently, the grey feline looks like mischief itself.
+~
+Oqe is the ever-smiling feline that is always playing tricks on the
+villagers.  He is a patriarch of the Para'miqi, whose stories are
+told by many races.  Oqe is one of the Juq'wawa, or first generation,
+of Miqi'erke.  It was his litter that originally founded all of the
+wild feline races.
+~
+3 3 g sy 0 S
+65 -14 -26 1d1+1098
+407 500 100 1d32+35 -1 
+313 80 326 60 345 80 -1 
+-1 
+4225 470000 8 8 1
+A
+%%5 grin;%5 stare;%5 emote tries to look innocent.~
+#21308
+yuraq white feline~
+Yuraq~
+Yuraq stands before you, grooming her beautiful white coat.
+~
+Yuraq wears a coat of the purest white.  Her emerald green eyes are
+the only bits of color that adorn her body.  She is a matriarch of
+the Rit'i, or the mountain felines.  She has returned to Miqi'erke to
+assist with the initiation of the newest litter into the secret order
+of Yanaquri.  She will soon return to her mountain home with a new
+generation of Rit'i. 
+~
+3 4 g sy 0 S
+60 -11 -23 1d1+983
+407 500 100 1d30+30
+-1 -1 -1 
+3600 420000 8 8 2
+A
+%%5 purr;%5 stretch~
+#21309
+mikhu black feline~
+Mikhu~
+As black as the jungle night, the black feline wears an aura of power.
+~
+The bringer of night, Mikhu is one of the companions of Tuta.  She is
+the mother of a powerful race of jungle felines, known as the Malki. 
+A direct descendant of Tuta herself, Mikhu is one of the Juq'wawa, or
+first generation of Miqi'erke.  Her offspring have inhabited this
+very jungle and protected it for thousands of generations. 
+~
+3 4 g sy 0 S
+65 -14 -26 1d1+1098
+407 500 50 1d35+33
+408 500 50 1d32+32 -1 
+313 95 327 95 -1 
+-1 
+4225 470000 8 8 2
+A
+%%5 emote looks deep into your eyes.~
+#21310
+phuyu spotted feline~
+Phuyu~
+With a flick of his tail, the spotted feline lands silently.
+~
+The mighty Phuyu is the patriarch of the Ch'ekche race.  His kind
+have lived in the trees for many generations, always ready to pounce
+down onto unsuspecting prey.  He has a golden coat, covered with
+black spots, and emerald green eyes.  As with the other adults of
+this village, he is able to walk upright in the manner of Yanaquri. 
+He can change his shape at will however, and with the blink of an eye
+he may just disappear into the jungle. 
+~
+3 3 g sy 0 S
+60 -11 -23 1d1+983
+407 500 100 1d30+31
+-1 -1 -1 
+3600 420000 8 8 1
+A
+%%5 emote disappears suddenly!;%5 hide~
+#21311
+rey golden feline~
+Rey~
+A majestic beast stands before you, wearing his golden mane proudly.
+~
+King of the beasts in his own domain, Rey is a majestic creature
+worthy of his title.  He is the son of Yanaquri and P'unqay, the
+goddess of the day.  He is patriarch of the Paqu, the felines that
+live in the golden sunlight.  His golden mane is quite majestic
+indeed, and his powerful claws seem to serve as a reminder of his
+authority. 
+~
+3 4 g sy 0 S
+65 -14 -26 1d1+1098
+407 500 100 1d32+33
+-1 -1 -1 
+4225 470000 8 8 1
+A
+%%5 emote unleashes a tremendous roar!~
+#21312
+tigri striped feline~
+Tigri~
+The feline thief grins mischieviously.
+~
+The stealthy thief of the jungle, Tigri smiles quietly knowing he
+could steal your very soul if he so desired.  His beatuful striped
+coat allows him to hide quietly in the forest, waiting for his next
+victim to come along.  Tigri is the patriarch of the Suwa felines,
+who inhabit the jungles of the east. 
+~
+3 3 g sy 0 S
+60 -11 -23 1d1+983
+408 500 100 1d30+31
+-1 -1 -1 
+3600 420000 8 8 1
+A
+%%5 emote moves quickly, and you notice your underwear is gone!;%5
+blink~
+#21313
+infant wawa feline~
+Wawa~
+An infant crawls along the floor, meowing pitifully.
+~
+The infant wears only what she came into the world with.  She has
+tawny fur and bright green eyes.  Her tiny paws hold the beginnings
+of claws that will someday make her quite the huntress.  She is Wawa,
+the infant, and she represents the beginnings of the Miqi'erke.
+~
+3 4 b sy 0 S
+20 10 -1 1d1+295
+408 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 2
+A
+%%5 cry~
+#21314
+child erk'e feline~
+Erk'e~
+A Miqi'erke child purrs contentedly as she plays.
+~
+The young child has only recently grown large enough to adventure on
+her own, but she knows she must return to the safety of her family
+before too long.  Her tawny fur is starting to show dark brown
+stripes, which will someday allow her to blend perfectly with the
+foliage of her jungle home.  She is Erk'e, the child, and she
+represents the youth of Miqi'erke.
+~
+3 4 b sy 0 S
+20 10 -1 1d1+295
+408 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 2
+A
+%%5 smile~
+#21315
+adolescent sipas feline~
+Sipas~
+An adolescent purrs quietly as she grooms her beautiful coat.
+~
+With her tawny coat and dark brown stripes, this adolescent may blend
+perfectly with the foliage of her jungle home.  Her green eyes
+sparkle with the light of youth, but she is learning quickly and will
+soon be an adult.  She is Sipas, the adolescent, and she represents
+the time of life between youth and adulthood.
+~
+3 4 b sy 0 S
+30 5 -6 1d1+445
+408 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 2
+A
+%%5 purr~
+#21316
+woman adult warmi feline~
+Warmi~
+Almost hidden in the shadows, an adult watches you intently.
+~
+A tawny coat and dark brown stripes allow this adult Miqi'erke to
+blend perfectly with her shadowy surroundings.  She is a child of
+night, preferring the cool darkness of the jungle to the opressive
+heat of day.  Her long sharp claws are ready for attack, just in case
+she needs them. She is Warmi, the woman, and she represents
+adulthood.
+~
+3 4 b sy 0 S
+40 -1 -12 1d1+605
+408 500 100 1d20+21
+-1 -1 -1 
+1600 196666 8 8 2
+A
+%%5 emote watches your every move.~
+#21317
+paya old woman feline~
+Paya~
+Deceptively quiet, an ancient feline stands watch over her domain.
+~
+The wisdom of the ages seems to reside with this ancient feline.  She
+is strong and lean, at the peak of her power, but she knows that
+death lies around the next corner.  She is Paya, the old woman, and
+she represents the elders and wise ones.
+~
+3 4 b sy 0 S
+50 -6 -17 1d1+781
+408 500 100 1d25+26
+-1 -1 -1 
+2500 313333 8 8 2
+A
+%%5 emote smiles knowingly.;%5 emote quietly grooms her coat.~
+#21318
+qoyllor star feline~
+Qoyllor~
+Shinging brightly, Qoyllor is ready to ascend to Tuta.
+~
+As the Miqi'erke grow weary of the life of a mortal, they are allowed
+to ascend into the night sky to live with Tuta.  There they live for
+an eternity, returning to the jungle only at night in the guise of
+Qoyllor.  Some choose to return eventually as Wawa, starting with a
+new mortal life.
+~
+3 4 b sy 0 S
+85 -24 -37 1d1+1709
+408 500 100 1d42+43
+-1 -1 -1 
+7225 760000 8 8 2
+#21319
+tuta night sky dark goddess statue feline~
+Tuta~
+
+~
+Tuta, the night, rules over the realm of darkness in the jungle.  Her
+statue depicts a woman dressed in black, with hair the color of night
+and eyes the color of the jungle.  Her outstreched arms seem to be
+reaching to embrace her children, the inhabitants of the dark jungle.
+~
+3 1 bp sy 0 S
+109 -36 -50 1d1+3132
+408 500 100 1d54+55
+-1 -1 -1 
+10000 1342500 8 8 2
+#21320
+feline god yanaquri statue~
+Yanaquri~
+
+~
+The fierce protector of the jungle, Yanaquri is the patron of the
+Miqi'erke.  He is quite feline, wearing a coat the color of night,
+and a mane of pure gold.  His long tail is covered with a roseated
+pattern, and his sharp claws are held within paws of the darkest
+black.  His fierce green eyes shine with the light of the moon, and
+he wears a gentle smile that shows off his sharp teeth.  While he
+wears a fierce facade, Yanaquri is known by his disciples to be a
+kind and just god.
+~
+3 1 b sy 0 S
+109 -36 -50 1d1+3132
+408 500 100 1d54+55
+-1 -1 -1 
+9000 1342500 8 8 1
+#21321
+mikuna chef cook feline~
+Mikuna~
+A large, and rather heavy feline stands stirring over a large pot.
+~
+Mikuna is a jovial fellow, always smiling as he prepares his
+culinary delights for Miqi'erke.  He smells of his own delicious
+concoctions, bits of which are stuck in the thick fur around his
+mouth.  He smiles gently as he offers a whiff of his latest culinary
+masterpiece.
+~
+3 4 b sy 0 S
+60 -11 -23 1d1+983
+408 500 100 1d30+31
+-1 -1 -1 
+3600 420000 8 8 1
+A
+%%5 emote pats his ample belly.;%5 emote tastes a bit of stew from
+ his pot.;%5 'How would you like to sample some of my tasty treats?~
+#21322
+miski sweets feline~
+Miski~
+Stuffing her ample mouth with sweets, Miski smiles happily.
+~
+Miski seems to taste more of her delicious treats than she sells!
+She is very large, and very round.  Her gray coat has bits of fruit
+stuck to it, and her hands are covered with sugar.  She smiles
+innocently as she pulls a bit of candy from the fur on her chest.
+~
+3 4 b sy 0 S
+60 -11 -23 1d1+983
+408 500 100 1d30+31
+-1 -1 -1 
+3600 420000 8 8 2
+A
+%%5 smile;%5 emote eats a candied fairy wing.;%5 blush;%5 'Hello
+ sweetie!  How would you like to try one of my delicious bug bars?~ 
+#21323
+feline bibu bartender~
+Bibu~
+Bibu shtaggersh ofer and offersh you a pint *hic* of hish finesht.
+~
+Bibu loves his drink, and he drinks as much of it as he possibly can.
+He is a Para'miqi, son of Oqe, which is easy to tell by his soft grey
+coat.  This mischievious fellow smells very strongly of ale and stale
+smoke, but he doesn't seem to mind as he leans in closely to offer
+you a pint of hish finesht.
+~
+3 4 b sy 0 S
+60 -11 -23 1d1+983
+408 500 100 1d30+31
+-1 -1 -1 
+3600 420000 8 8 1
+A
+%%5 hic;%5 emote staggers over to the bar.;%5 giggle;%5 'Shay buddy!
+ Howshabout a tashte of shome catnip juish?~
+#21324
+feline villager miqi'erken~
+a villager~
+A villager heads towards the temple to worship his god.
+~
+The Miqi'erken villager is almost invisible as he uses the shadows to
+cover his movement.  He has a beautiful black coat and emerald green
+eyes, and his powerful muscles ripple with every movement.
+~
+3 4 g sy 0 S
+40 -1 -12 1d1+605
+408 500 100 1d20+21
+-1 -1 -1 
+1600 196666 8 8 1
+#21325
+feline worshipper miqi'erken~
+a worshipper~
+Bowing low before her god's likeness, the Miqi'erken chants softly.
+~
+With her golden coat arranged around her, the Miqi'erken bows low
+before the statue of her god, thanking him for his protection.  She
+chants softly in a language made of words and sounds of the jungle.
+~
+3 4 b sy 0 S
+40 -1 -12 1d1+605
+408 500 100 1d20+21
+-1 -1 -1 
+1600 196666 8 8 1
+#21326
+villager feline miqi'erken~
+a villager~
+A Miqi'erken wanders quietly through his village.
+~
+The villager nods his noble head at your approach, signifying that he
+means you no ill will, and hoping that you feel the same way.  His
+golden mane rests majestically around his shoulders, signifying that
+he is a Paqu, descended from Rey.
+~
+3 4 g sy 0 S
+45 -3 -15 1d1+691
+408 500 100 1d22+23
+-1 -1 -1 
+2025 255000 8 8 1
+#21327
+priestess tuta feline~
+the Priestess of Tuta~
+Black as night, the priestess tends to her duties and to Tuta.
+~
+Chosen for her likeness to her ancestor Mikhu, the priestess guides
+the villagers in their worship of Tuta.  She is tall and strong, with
+a coat the color of night and eyes the color of the jungle.  
+~
+3 2 b sy 0 S
+50 -6 -17 1d1+781
+408 500 100 1d25+26
+-1 -1 -1 
+2500 313333 8 8 1
+A
+%%5 worsh goddess;%5 emote puts some flowers before the statue of Tuta.~
+#21328
+priest yanaquri feline~
+the Priest of Yanaquri~
+Bowing his head in reverance, the priest tends to his duties.
+~
+To serve Yanaquri as a priest is a great honor for a Miqi'erke.  This
+young feline knows the responsibility well, and he performs his
+duties to the best of his ability.  He is tall and strong, with a
+coat of pure gold.  His large eyes have a yellowish tint, and appear
+to be very wise despite the priest's youthful appearance.
+~
+3 2 b sy 0 S
+50 -6 -17 1d1+781
+408 500 100 1d25+26
+-1 -1 -1 
+2500 313333 8 8 1
+A
+%%5 worsh yanaquri;%5 emote bows his head.~
+#99999
+$~

@@ -1,0 +1,30 @@
+#2000
+bread~
+a bread~
+A small round bread is here smelling newly baked.~
+~
+19 0 0 0 a
+12 0 0 0 0 0
+1 1 1
+#2001
+water waterskin~
+a waterskin~
+A waterskin has been left here.~
+~
+17 0 0 0 a
+50 50 15 0 0 0
+12 15 5
+E
+waterskin~
+It's made of leather of some animal.  Looks like it can hold a lot of liquid.
+~
+#2002
+torch~
+a torch~
+A small torch.~
+~
+1 0 0 0 ao
+0 0 12 0 0 0
+1 1 1
+#99999
+$~

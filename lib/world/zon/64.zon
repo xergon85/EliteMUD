@@ -1,0 +1,471 @@
+#64
+Great Underground Dwarven Empire~
+6599 60 2
+*
+*  A neutral zone for levels 20-25 with 3 built-in quests:
+*
+*  1) Locate the 4 lost Gnomes
+*
+*  2) Locate all 7 of Snow White's Dwarves (name backwards as alias)
+*
+*  3) Kill off all the wraiths (invisible)
+*  
+* The following zone commands are needed for each portal:
+*
+* L 0 <room #> <portal #> <destination> Load the portal object
+* A 1 <room #> 1 <key #> Attach the key
+*
+*
+*for the 6543 portal
+L 0 6543 6442 6544              loading portal
+A 1 6543 1 6444                 Attach the key
+*
+*for the 6554 portal
+L 0 6554 6443 6551              loading portal
+A 1 6554 1 6445                 Attach the key
+*
+* DOORS
+*
+D 0 6409 3 1    Door into mine     
+D 0 6410 1 1      
+*
+D 0 6410 3 1    Door into down part of mine
+D 0 6411 1 1
+*
+D 0 6415 3 0    hall to hide & tooth
+D 0 6416 1 0
+*
+D 0 6416 0 1    Hide & tooth to bakery
+D 0 6418 2 1
+*
+D 0 6417 3 0    hall to bakery
+D 0 6418 1 0 
+*
+D 0 6422 3 1    Hospital to doctor
+D 0 6423 1 1
+*
+D 0 6429 2 1    hall to guards
+D 0 6430 0 1   
+*
+D 0 6434 1 1    Old rusty door
+D 0 6435 3 2
+*
+D 0 6440 3 2    Shack
+D 0 6441 1 2    shack
+*
+D 0 6441 3 1    Shack to storytellers
+D 0 6599 1 1
+*
+D 0 6446 1 1    Miner's shack
+D 0 6447 3 1
+*
+D 0 6449 3 1    path to guard shack
+D 0 6450 1 1    guard shack to path
+*
+D 0 6449 0 2    longhouse gate
+D 0 6451 2 1
+*
+D 0 6451 4 1    door up into longhouse
+D 0 6452 5 1
+*
+D 0 6451 5 1    down to grog
+D 0 6462 4 1
+*
+D 0 6458 0 1    giant bedroom
+D 0 6460 2 1
+*
+D 0 6460 3 1    playroom
+D 0 6461 1 1 
+*
+D 0 6462 1 1    barrel
+D 0 6463 3 1  
+*
+D 0 6463 5 1    barrel to tunnel
+D 0 6472 4 1    tunnel to barrel
+*
+D 0 6467 5 1    seat
+D 0 6470 4 1
+*
+D 0 6470 3 1    ale
+D 0 6468 1 1
+*
+D 0 6478 3 2    dragon's lair
+D 0 6479 1 1
+*
+D 0 6478 5 1    dragon's lair out
+*
+D 0 6483 5 1    rock to gold mine
+D 0 6489 4 1
+*
+D 0 6520 3 1    gnome farm gate
+D 0 6521 1 1
+*
+D 0 6527 5 1    trapdoor from barn to deathtrap
+D 0 6531 4 1
+*
+O 0 6517 50  6492 heavy nugget gold
+O 0 6411 50  6492 heavy nugget gold
+O 0 6426 50  6492 heavy nugget gold
+O 0 6427 50  6492 heavy nugget gold
+O 0 6507 100 6408 long black stick light
+O 0 6507 100 6413 long black stick light
+O 0 6507 100 6426 long black stick light
+O 0 6507 100 6433 long black stick light
+M 0 6400 4 6466 guard in gold braid
+E 1 6408 10   5 goldlined chainmail
+E 1 6409 10   6 helmet
+M 0 6400 4 6466 guard in gold braid
+E 1 6408 10   5 goldlined chainmail
+E 1 6409 10   6 helmet
+M 0 6401 1 6475 Hagbard the Helpless
+E 1 6405 50   6
+E 1 6504 100 16 hammer
+M 0 6513 5 6485 angel
+E 1 6519 10 10   mark of Kwazihuatl
+M 0 6513 5 6466 angel
+M 0 6513 5 6479 angel
+M 0 6513 5 6483 angel
+M 0 6513 5 6492 angel
+M 0 6402 5 6485 wraith
+M 0 6402 5 6466 wraith
+M 0 6402 5 6479 wraith
+M 0 6402 5 6483 wraith
+M 0 6402 5 6492 wraith
+M 0 6403 1 6416 Hide & tooth storekeeper
+G 1 6508 100    Club
+G 1 6510 100    helmet
+G 1 3022 100    long sword  
+G 1 6512 100    dwarven mining gloves   
+G 1 6504 100    hammer
+G 1 6505 100    plate mail
+G 1 5778 100    recall
+G 1 3083 100    clan recall
+M 0 6404 1 6418 Granite Head
+G 1 3000 100
+G 1 3003 100
+G 1 3010 100
+G 1 3011 100
+G 1 3031 100
+G 1 6423 100
+M 0 6405 5 6492 cave lizard
+M 0 6405 5 6413 cave lizard
+M 0 6405 5 6411 cave lizard
+M 0 6405 5 6483 cave lizard
+M 0 6406 3 6451 generic giant
+M 0 6406 3 6442 generic giant
+M 0 6406 3 6443 generic giant
+M 0 6407 3 6476 working mineworker
+E 1 6512 100  9 mining gloves
+E 1 6518 100 16 mining pick 
+E 1 6510 100  6 helmet
+M 0 6407 3 6490 working mineworker
+E 1 6510 100  6 helmet
+M 0 6407 3 6484 working mineworker
+E 1 6510 100  6 helmet
+M 0 6408 1 6484 mineleader
+M 0 6409 1 6423 healer
+E 1 6506 100 17 heal stick
+M 0 6410 2 6421 invalid dwarf
+M 0 6411 1 6433 sleepy dwarf
+M 0 6412 1 6420 dying dwarf
+M 0 6413 2 6430 offduty guard
+E 1 6418 10  13 weight lifting belt
+M 0 6413 2 6427 offduty guard
+M 0 6414 2 6427 off duty guard
+M 0 6414 2 6430 off duty guard
+M 0 6415 2 6488 VERBOTEN guard
+E 1 6406 15   5 ordinary chainmail
+M 0 6415 2 6488 VERBOTEN guard
+M 0 6416 2 6483 leather guard
+E 1 6509 100 16 two handed axe
+E 1 6406 10   5 plain chainmail
+E 1 6407 10   6 plain helmet
+M 0 6416 2 6412 leather guard
+E 1 6509 100 16 two handed axe
+E 1 6406 10   5 plain chainmail
+E 1 6407 10   6 plain helmet
+M 0 6417 3 6464 giant snake
+M 0 6417 3 6480 giant snake
+M 0 6418 1 6467 queen
+E 1 6511 80   2 golden ring 
+M 0 6419 1 6467 king
+E 1 6416 5   16 sceptre    
+M 0 6420 2 6433 sleeping miner
+M 0 6421 1 6478 dragon
+M 0 6422 1 6427 bashful
+M 0 6423 1 6427 sneezy
+M 0 6424 1 6481 grumpy
+E 1 6415 10  17 pipe
+M 0 6425 1 6491 dopey
+M 0 6426 5 6490 miner
+E 1 6413 15   8 mining boots  
+M 0 6426 5 6490 miner
+E 1 6413 15   8 mining boots  
+M 0 6426 5 6490 miner
+E 1 6413 15   8 mining boots  
+M 0 6426 5 6428 miner
+E 1 6413 15   8 mining boots  
+M 0 6426 5 6428 miner
+E 1 6413 15   8 mining boots  
+M 0 6427 3 6427 handsome dwarf
+E 1 6415 10  17 pipe
+M 0 6427 3 6447 handsome dwarf
+M 0 6427 3 6441 handsome dwarf
+M 0 6428 1 6455 Thorvald
+M 0 6429 1 6475 Hermann the Homely
+E 1 6410 5    3 Hermann's cleric symbol
+M 0 6430 1 6420 death
+M 0 6431 1 6455 Magnus
+M 0 6432 1 6462 Grotben
+M 0 6433 1 6427 Uzhumer (Grumpy)
+M 0 6434 1 6499 Nell in picnic basket
+E 1 6401 5   17 Spyglass
+E 1 6402 5   13 Pouch of Holding
+M 0 6435 1 6499 Kith
+E 1 6414 100  5 Gnomish Adventuring Vest
+M 0 6436 1 6499 Martha
+G 1 6441 100   sunflower cookie
+E 1 6403 10  17 Martha's magic stick
+E 1 6404 5    3 Martha's Junior Spy Badge
+M 0 6437 1 6599 storyteller #1 - Hepzibah
+G 1 6429 10    cookie
+G 1 6430 20    cookie
+M 0 6438 1 6599 storyteller #2 - Ezeekyel
+G 1 6431 10    cookie
+G 1 6432 60    cookie
+M 0 6439 1 6599 storyteller #3 - Gerta
+G 1 6425 50    cookie
+M 0 6440 1 6599 storyteller #4 - Mezelpitk
+G 1 6425 30    cookie
+G 1 6424 100    Nelly doll
+M 0 6441 3 6498 termites
+M 0 6442 1 6454 Hrugnar the Hairy
+M 0 6443 1 6456 Olaf the Henpecked
+M 0 6444 1 6448 Lodur the Left Handed
+M 0 6445 1 6458 Astrid, Olaf's wife
+M 0 6446 1 6461 Gullveig, Astrid & Olaf's daughter
+M 0 6447 1 6494 the Nelly doll
+G 1 6429 10    cookie
+G 1 6430 10    cookie
+M 0 6448 1 6450 Gunnar the Guard
+E 1 6503 100 3    castle gate key
+M 0 6449 1 6452 Ymer the Stout
+M 0 6450 1 6459 Gunhild the sweeper
+M 0 6451 1 6459 Stanley the SweetEater
+E 1 6400 100  8 Stanley's Stompin' boots
+M 0 6452 1 6456 Ulfar the Unwashed
+M 0 6453 3 6494 rugrat
+M 0 6454 3 6494 Argyle the Sock
+M 0 6455 3 6456 Dog
+M 0 6455 3 6456 Dog
+M 0 6456 1 6463 Bnarkl
+M 0 6457 1 6426 Odo
+M 0 6458 1 6527 Farmer in barn
+E 1 6422 15  16 wielding horn 
+M 0 6459 9 6527 yak
+E 1 6502 100 3  key 
+M 0 6460 1 6457 Brunhilde 
+M 0 6461 1 6454 Bjarke
+M 0 6462 1 6523	Jilly the cookie baker
+G 1 6429 10    cookie
+G 1 6430 10    cookie
+G 1 6431 10    cookie
+G 1 6432 10    cookie
+G 1 6425 10    cookie
+M 0 6463 1 6403 Tobias, halfling wanderer
+G 1 6441 100   sunflower cookie
+M 0 6464 3 6524 sleeping gnomes
+E 1 6417 80   6 sleep mask
+M 0 6464 3 6524 sleeping gnomes
+E 1 6417 80   6 sleep mask
+M 0 6464 3 6524 sleeping gnomes
+E 1 6417 80   6 sleep mask
+G 1 6429 10    cookie
+M 0 6465 1 6523 Razzl
+G 1 6429 10    cookie
+G 1 6430 10    cookie
+G 1 6431 10    cookie
+G 1 6432 10    cookie
+G 1 6433 10    cookie
+M 0 6466 1 6525 dazzl twin berry gatherer
+G 1 6434 10    cookie
+G 1 6435 10    cookie
+G 1 6436 10    cookie
+G 1 6437 10    cookie
+G 1 6425 10    cookie
+M 0 6467 1 6527 Znugl, gnomes' dog
+M 0 6468 5 6437 gnomish explorer
+G 1 6441 100   sunflower cookie
+E 1 6414 100  5 Gnomish Adventuring Vest
+G 1 6438 10    cookie
+M 0 6468 5 6501 gnomish explorer
+G 1 6430 10    cookie
+M 0 6468 5 6504 gnomish explorer
+G 1 6429 10    cookie
+M 0 6468 5 6519 gnomish explorer
+G 1 6425 10    cookie
+M 0 6468 5 6406 gnomish explorer
+G 1 6437 10    cookie
+M 0 6469 1 6400 thialfi
+M 0 6470 1 6525 gupfo, gardening chief
+M 0 6471 3 6530 farmers
+G 1 6437 10    cookie
+M 0 6471 3 6528 farmers
+M 0 6471 3 6529 farmers
+M 0 6472 1 6521 chicken
+G 1 6412 100    egg
+M 0 6473 1 6521 rooster
+M 0 6472 1 6521 chicken
+G 1 6412 100    egg
+M 0 6474 3 6414 miner off duty
+M 0 6474 3 6416 miner off duty
+M 0 6474 3 6418 miner off duty
+M 0 6475 3 6431 sleeping guards
+M 0 6475 3 6431 sleeping guards
+M 0 6475 3 6431 sleeping guards
+M 0 6476 1 6430 polishing boot guard
+M 0 6477 1 6402 Scruffy
+M 0 6478 1 6408 Brandy
+M 0 6479 2 6507 corn dog
+M 0 6480 4 6532 lab tech
+M 0 6480 4 6509 lab tech
+M 0 6481 1 6532 Crazy Wentworth scientist
+M 0 6482 3 6537 farmer
+M 0 6483 8 6533 Sunflowers
+M 0 6483 8 6534 Sunflowers
+M 0 6483 8 6535 Sunflowers
+M 0 6483 8 6536 Sunflowers
+M 0 6483 8 6537 Sunflowers
+M 0 6483 8 6533 Sunflowers
+M 0 6483 8 6534 Sunflowers
+M 0 6483 8 6535 Sunflowers
+E 1 6441 100 17 Holding a flower (key)
+M 0 6484 2 6540 Dragon statue 
+M 0 6485 2 6468 teenage giant boys getting drunk
+M 0 6485 2 6468 teenage giant boys getting drunk
+M 0 6486 1 6515 Lady J
+M 0 6487 1 6515 Reginald
+M 0 6488 1 6514 Dresser for Lady J
+E 1 6419 100 17 jewel casket
+P 1 6420 100 6419   put a hulio pin in the casket
+P 1 12005 100 6419   put jeweled hairpin in casket
+M 0 6489 4 6514 Servants 
+M 0 6489 4 6514 Servants 
+M 0 6489 4 6514 Servants 
+M 0 6489 4 6514 Servants 
+M 0 6490 1 6513 Chef
+M 0 6491 2 6519 juggler
+M 0 6491 2 6512 juggler
+M 0 6492 2 6502 halfling tobbaco sales
+M 0 6492 2 6406 halfling tobbaco sales
+M 0 6493 2 6400 assassin
+M 0 6493 2 6500 assassin
+M 0 6494 3 6511 hairy root
+M 0 6495 2 6511 myconoid
+M 0 6495 2 6511 myconoid
+M 0 6496 3 6403 goat
+M 0 6496 3 6403 goat
+M 0 6496 3 6404 goat
+M 0 6497 2 6442 trader
+M 0 6497 2 6449 trader 
+M 0 6498 1 6468 viking boy
+M 0 6499 1 6450 the louse
+M 0 6499 1 6454 the louse
+M 0 6499 1 6456 the louse
+M 0 6500 1 6515 George
+M 0 6501 1 6515 Paul 
+M 0 6502 1 6515 John
+M 0 6503 1 6523 the twins
+G 1 6428 100    ice cream
+
+****** Egba's adds
+ 
+M 0 6504 1 6554                 Gloria, Mother of Brat Boy
+M 0 6505 1 6550                 Brat Boy
+E 1 6446 15 8                     Sticky boots
+G 1 6425 3                        Pepparkakor !!!
+G 1 6429 3                              "
+G 1 6430 3                              "
+G 1 6431 3                              "
+G 1 6432 3                              "
+G 1 6433 3                              "
+G 1 6434 3                              "
+G 1 6435 16                             "
+G 1 6436 3                              "
+G 1 6437 3                              "
+G 1 6438 3                              "
+G 1 6439 3                              "
+G 1 6440 3                              "
+M 0 6506 1 6543                 Fritz Shopkeeper Other side
+G 1 6444 100                      papers - KEY to PortalOther side
+M 0 6507 1 6554                 Fritz Shopkeeper Mill side
+G 1 6445 100                      papers - KEY to PortalMill side
+M 0 6509 6 6560      Mill Stair Guard
+E 1 13115 5 5             a harness of a dwarven mill guard
+E 1 13116 5 8             a pair of crude metal boots
+E 1 13117 5 6             a crude pike helm
+E 1 13118 10 16           a 7 foot hammer
+M 0 6509 6 6560      Mill Stair Guard
+E 1 13114 10 16           a heavy iron spear
+E 1 13115 5 5             a harness of a dwarven mill guard
+E 1 13116 5 8             a pair of crude metal boots
+E 1 13117 5 6             a crude pike helm
+M 0 6510 6 6561      Mill Stair Guard
+E 1 13115 5 5             a harness of a dwarven mill guard
+E 1 13116 5 8             a pair of crude metal boots
+E 1 13117 5 6             a crude pike helm
+E 1 13118 10 16           a 7 foot hammer
+M 0 6510 6 6561      Mill Stair Guard
+E 1 13114 10 16           a heavy iron spear
+E 1 13115 5 5             a harness of a dwarven mill guard
+E 1 13116 5 8             a pair of crude metal boots
+E 1 13117 5 6             a crude pike helm
+M 0 6511 6 6562      Mill Stair Guard
+E 1 13115 5 5             a harness of a dwarven mill guard
+E 1 13116 5 8             a pair of crude metal boots
+E 1 13117 5 6             a crude pike helm
+E 1 13118 10 16           a 7 foot hammer
+M 0 6511 6 6562      Mill Stair Guard
+E 1 13114 10 16           a heavy iron spear
+E 1 13115 5 5             a harness of a dwarven mill guard
+E 1 13116 5 8             a pair of crude metal boots
+E 1 13117 5 6             a crude pike helm
+M 0 6508 10 6564      Mill walking Guard
+E 1 13115 4 5             a harness of a dwarven mill guard
+E 1 13116 4 8             a pair of crude metal boots
+E 1 13117 4 6             a crude pike helm
+E 1 13118 4 16            a 7 foot hammer
+M 0 6508 10 6564      Mill walking Guard
+E 1 13114 4 16            a heavy iron spear
+E 1 13115 4 5             a harness of a dwarven mill guard
+E 1 13116 4 8             a pair of crude metal boots
+E 1 13117 4 6             a crude pike helm
+M 0 6508 10 6564      Mill walking Guard
+E 1 13115 4 5             a harness of a dwarven mill guard
+E 1 13116 4 8             a pair of crude metal boots
+E 1 13117 4 6             a crude pike helm
+E 1 13118 4 16            a 7 foot hammer
+M 0 6508 10 6564      Mill walking Guard
+E 1 13114 4 16            a heavy iron spear
+E 1 13115 4 5             a harness of a dwarven mill guard
+E 1 13116 4 8             a pair of crude metal boots
+E 1 13117 4 6             a crude pike helm
+M 0 6508 10 6564      Mill walking Guard
+E 1 13115 4 5             a harness of a dwarven mill guard
+E 1 13116 4 8             a pair of crude metal boots
+E 1 13117 4 6             a crude pike helm
+E 1 13118 4 16            a 7 foot hammer
+M 0 6508 10 6564      Mill walking Guard
+E 1 13114 4 16            a heavy iron spear
+E 1 13115 4 5             a harness of a dwarven mill guard
+E 1 13116 4 8             a pair of crude metal boots
+E 1 13117 4 6             a crude pike helm
+M 0 6512 6 6560       Stair janitor
+E 1 13168 80 17           big brush
+M 0 6512 6 6560       Stair janitor
+E 1 13168 80 17           big brush
+M 0 6512 6 6560       Stair janitor
+E 1 13168 80 17           big brush
+S
+#99999
+$~

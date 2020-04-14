@@ -1,0 +1,900 @@
+#10900
+The Path to Gragloy Castle~
+    A small dirt path leads you northward. An old rickety #Csign
+ #Wis sticking in the ground here.
+~
+109 4 2
+D0
+~
+~
+0 -1 10901
+D5
+~
+~
+0 -1 30060
+E
+sign~
+The sign reads:
+
+NO TRESPASSERS
+~
+S
+#10901
+The Path~
+    You are still walking on the dirt path. The castle is in
+view but you see nothing else. The grass in this area is
+brown, there are no flowers or trees.
+~
+109 0 2
+D0
+~
+~
+0 -1 10902
+D2
+~
+~
+0 -1 10900
+S
+#10902
+The Path~
+    A small bridge is northward, bridging an empty moat.
+For some strange reason there is no detail around this castle.
+You think to yourself that this place is really dreadful.
+~
+109 0 2
+D0
+~
+~
+0 -1 10903
+D2
+~
+~
+0 -1 10901
+S
+#10903
+The Entryway~
+    A few old, worn down pieces of lumber form a bridge
+enabling for you to cross the small moat around the
+castle. The outer courtyard spreads to the east and west.
+~
+109 0 2
+D0
+~
+~
+0 -1 10913
+D1
+~
+~
+0 -1 10904
+D2
+~
+~
+0 -1 10902
+D3
+~
+~
+0 -1 10906
+S
+#10904
+The Outer Courtyard~
+    This is the outer courtyard. Long grasses now grow
+here due to lack of care. You can feel many small creatures
+crawl over your feet. The wind blowing in the grass creates
+haunting, howling sounds. A large boulder can been seen to
+the east.
+~
+109 0 2
+D1
+~
+~
+0 -1 10905
+D3
+~
+~
+0 -1 10903
+S
+#10905
+The Forgotten Rock~
+    A large boulder lies here in the field. As you look at
+it, a question forms in your head, 'How did this get here?'.
+You notice small markings on the rock.
+~
+109 20 2
+D3
+~
+~
+0 -1 10904
+E
+rock forgotten~
+The rock has a small symbol carved upon it, which
+glows a deep blue color.  It looks like this:
+
+#b                /\
+#b              /____\
+#b            /\      /\
+#b          /____\  /____\
+#N
+~
+S
+#10906
+The Outer Courtyard~
+   The weeds and flowers that once grew here have been
+withered from the horrid weather of this area.  You hear
+the crackling sound of snail shells as you walk along
+this rugged piece of land.  Bare patches on the ground
+indicate that this area has been used by other
+adventurers, as a campsite.
+~
+109 0 2
+D1
+~
+~
+0 -1 10903
+D3
+~
+~
+0 -1 10907
+S
+#10907
+The Outer Courtyard~
+    Parts of the castle's crumbled walls lie along
+this part of the field. A small dirt path lies to the
+north.
+~
+109 4 2
+D0
+~
+~
+0 -1 10908
+D1
+~
+~
+0 -1 10906
+S
+#10908
+The Hidden Path~
+   A narrow dirt path covered with small rocks leads north
+and south here.  Tall stalks of brown grass grow here making
+it hard to see around you.  A deep howl of wind blows
+giving this place a very eerie effect.
+~
+109 0 2
+D0
+~
+~
+0 -1 10909
+D2
+~
+~
+0 -1 10907
+S
+#10909
+The Hidden Path~
+   A narrow dirt path covered with small rocks leads north
+and south here.  Tall stalks of brown grass grow here making
+it hard to see around you.  A deep howl of wind blows
+giving this place a very eerie effect.
+~
+109 0 2
+D0
+~
+~
+0 -1 10910
+D2
+~
+~
+0 -1 10908
+S
+#10910
+The Hidden Path~
+   A narrow dirt path covered with small rocks leads north
+and south here.  Tall stalks of brown grass grow here making
+it hard to see around you.  A turn in the path is visible to
+the north.
+~
+109 0 2
+D0
+~
+~
+0 -1 10911
+D2
+~
+~
+0 -1 10909
+S
+#10911
+A Turn in the Path~
+    There is a small bend in the path leading you
+to the back of the castle.  The long grasses that
+grow here caress your hands causing you to pull
+yourself closer.
+~
+109 0 2
+D1
+~
+~
+0 -1 10912
+D2
+~
+~
+0 -1 10910
+S
+#10912
+The End of the Path~
+    You've reached the end of the path to discover
+a small passage in the castle walls, but it is too
+dark to see where it leads.
+~
+109 4 2
+D2
+~
+passage~
+1 -1 10933
+D3
+~
+~
+0 -1 10911
+S
+#10913
+The Castle Gates~
+    The power of time has crumbled the castle walls,
+and the ground is strewn with chunks of broken stone.
+The gates have fallen, and now form piles of large
+splinters around your feet. Dead vines twine up parts
+of the walls pulling them down even more.
+~
+109 0 1
+D0
+~
+~
+0 -1 10914
+D2
+~
+~
+0 -1 10903
+S
+#10914
+The Inner Courtyard~
+   Armors of the warriors who sought to protect this castle
+lie along the ground.  Rusted weapons are left in the dirt.
+Decaying corpses of unsuccessful adventurers are scattered
+throughout the courtyard.
+~
+109 0 1
+D0
+~
+~
+0 -1 10930
+D1
+~
+~
+0 -1 10915
+D2
+~
+~
+0 -1 10913
+D3
+~
+~
+0 -1 10919
+S
+#10915
+The Inner Courtyard~
+   Armors of the warriors who sought to protect this castle
+lie along the ground.  Rusted weapons are left in the dirt.
+Decaying corpses of unsuccessful adventurers are scattered
+throughout the courtyard.
+~
+109 0 1
+D1
+~
+~
+0 -1 10916
+D3
+~
+~
+0 -1 10914
+S
+#10916
+The Base of the Eastern Tower~
+    A small opening in the side of the wall leads
+into the eastern tower.  The courtyard continues north
+and west.
+~
+109 0 1
+D0
+~
+~
+0 -1 10917
+D3
+~
+~
+0 -1 10915
+D4
+~
+~
+0 -1 10927
+S
+#10917
+The Inner Courtyard~
+   Armors of the warriors who sought to protect this castle
+lie along the ground.  Rusted weapons are left in the dirt.
+Decaying corpses of unsuccessful adventurers are scattered
+throughout the courtyard.
+~
+109 0 1
+D0
+~
+~
+0 -1 10918
+D2
+~
+~
+0 -1 10916
+S
+#10918
+The Inner Courtyard~
+   Armors of the warriors who sought to protect this castle
+lie along the ground.  Rusted weapons are left in the dirt.
+Decaying corpses of unsuccessful adventurers are scattered
+throughout the courtyard.
+~
+109 0 1
+D2
+~
+~
+0 -1 10917
+S
+#10919
+The Inner Courtyard~
+   Armors of the warriors who sought to protect this castle
+lie along the ground.  Rusted weapons are left in the dirt.
+Decaying corpses of unsuccessful adventurers are scattered
+throughout the courtyard.
+~
+109 0 1
+D1
+~
+~
+0 -1 10914
+D3
+~
+~
+0 -1 10920
+S
+#10920
+The Base of the Western Tower~
+    A small opening in the side of the wall leads
+into the western tower.  The courtyard continues north
+and east.
+~
+109 0 1
+D0
+~
+~
+0 -1 10921
+D1
+~
+~
+0 -1 10919
+D4
+~
+~
+0 -1 10923
+S
+#10921
+The Inner Courtyard~
+   Armors of the warriors who sought to protect this castle
+lie along the ground.  Rusted weapons are left in the dirt.
+Decaying corpses of unsuccessful adventurers are scattered
+throughout the courtyard.
+~
+109 0 1
+D0
+~
+~
+0 -1 10922
+D2
+~
+~
+0 -1 10920
+S
+#10922
+The Inner Courtyard~
+   Armors of the warriors who sought to protect this castle
+lie along the ground.  Rusted weapons are left in the dirt.
+Decaying corpses of unsuccessful adventurers are scattered
+throughout the courtyard.
+~
+109 0 1
+D2
+~
+~
+0 -1 10921
+S
+#10923
+On the Western Tower Stairs~
+    The stairs seem to be sturdy enough to hold your weight
+but you have an uneasy feeling going up these stairs. Small
+torches wind up the sides of the walls as do the stairs.
+~
+109 8 0
+D4
+~
+~
+0 -1 10924
+D5
+~
+~
+0 -1 10920
+S
+#10924
+The Western Tower Stairs~
+   A small peep of light glints from above.  You must
+be near the top of the tower.  A breeze blows in
+from the small hatch at the top.
+~
+109 8 0
+D4
+~
+~
+0 -1 10925
+D5
+~
+~
+0 -1 10923
+S
+#10925
+The Top of the Western Tower~
+    You take a deep breath as you reach the final stair.
+From here you can see for miles in every direction. You can
+even see the temple of Midgaard. Your eyes wander across the
+landscape trying to find landmarks that you recognize.
+You notice a chunk of the tower has broken off.
+~
+109 0 1
+D1
+~
+~
+0 -1 10926
+D5
+~
+~
+0 -1 10924
+S
+#10926
+The Fall of the Fool~
+    Ooooooh that's gotta hurt! Walking off of towers
+is a dangerous hobby.  Do be more careful next time!
+(You're just lucky this wasn't the spot of your death!)
+~
+109 68 1
+D1
+~
+~
+0 -1 10914
+D3
+~
+~
+0 -1 10920
+S
+#10927
+On the Eastern Tower Stairs~
+    The stairs seem to be sturdy enough to hold your
+weight but you have an uneasy feeling going up these
+stairs. Small torches wind up the sides of the walls as
+do the stairs.
+~
+109 8 1
+D4
+~
+~
+0 -1 10928
+D5
+~
+~
+0 -1 10916
+S
+#10928
+The Eastern Tower Stairs~
+   The rickety stairs make you very nervous.  As you
+grab hold of the hand rail a piece of it breaks off.
+Decay has befallen these stairs.
+~
+109 8 1
+D4
+~
+~
+0 -1 10929
+D5
+~
+~
+0 -1 10927
+S
+#10929
+The Top of the Eastern Tower~
+   A strong gust of wind nearly blows you off the tower.
+Lights from villages can be seen in the distance as small
+birds fly by your head.
+~
+109 0 1
+D5
+~
+~
+0 -1 10928
+S
+#10930
+Inside the Castle Gragloy~
+   Large pieces of the walls lie across the floor making
+it hard for you to move around.  This castle has held
+off many invaders... Minotaurs, Drow, even Trolls, but
+nothing could have prepared the previous owners for the
+Gargoyles.  A staircase leading down is to the east.
+~
+109 8 0
+D0
+~
+~
+0 -1 10931
+D1
+~
+~
+0 -1 10949
+D2
+~
+~
+0 -1 10914
+S
+#10931
+The Royal Hallway (or what used to be)~
+    The halls of this once glamorous hallway are now
+crumbled with age.  The walls used to be lined with
+paintings of the former royal families but now the walls
+are bare.  A long red carpet also used to stretch from
+here to the throne room but instead the carpet you walk
+along is made of roots and small shrubs.
+~
+109 8 0
+D0
+~
+~
+0 -1 10932
+D2
+~
+~
+0 -1 10930
+S
+#10932
+The Royal Hallway~
+    Statues used to line the sides of this part of the
+corridor.  The statues are still there...  But in pieces.
+Long vines have grown in the walls and have advanced
+their way on to some of the more intact statues. Pieces
+of the walls are missing in this segment of the hallway
+allowing light to seep in.
+~
+109 8 0
+D0
+~
+~
+0 -1 10933
+D2
+~
+~
+0 -1 10931
+S
+#10933
+The Throne Room~
+    Small torches placed in the corners, illuminate
+this room, but you wish they hadn't. This has got to be
+the most age-stricken room in the castle.  The walls
+are cracked, vines have grown over almost everything and
+the ceiling has caved in. What used to be a magnificent
+throne room is now a disaster area serving the ruler of
+the gargoyles. You see the blood of adventurers smeared
+on the floors and walls.
+~
+109 8 0
+D0
+~
+passage~
+1 -1 10912
+D1
+~
+~
+0 -1 10948
+D2
+~
+~
+0 -1 10932
+D3
+~
+~
+0 -1 10934
+S
+#10934
+Entrance to the Dungeon~
+    A small, black door has been bashed open to reveal
+the entrance to the dungeon. The smell of death touches
+your nostrils causing you to gag. A small set of stairs
+lead downward into the dungeon.
+~
+109 12 0
+D1
+~
+~
+0 -1 10933
+D5
+~
+~
+0 -1 10935
+S
+#10935
+The Stairs to the Dungeon~
+    You notice some of the stairs are broken or cracked.
+As you carefully make your way down the stairs you notice
+there is no light source except from the door at the top.
+Small rodents crawl around your feet trying not to be noticed.
+~
+109 8 0
+D4
+~
+~
+0 -1 10934
+D5
+~
+~
+0 -1 10936
+S
+#10936
+In the Dungeon~
+   The smell of death fully enters your nose as you
+enter this room. Torches do line the walls around this
+area but they are not lit. Many more rodents race across
+the floor here.
+~
+109 9 0
+D3
+~
+~
+0 -1 10937
+D4
+~
+~
+0 -1 10935
+S
+#10937
+Inside the Dungeon~
+    The hallways in this dungeon are so dark you can't
+make anything out here.  All you can see is darkness.
+You hear the squeals of rats as you step on their small
+bodies, also, you hear the cracking of the bones of
+former guests.
+~
+109 9 0
+D1
+~
+~
+0 -1 10936
+D2
+~
+~
+0 -1 10938
+S
+#10938
+Outside the Cells~
+   You can make out some bars to the west, and the
+hallway continues to the south. You brush yourself
+off as cobwebs get caught on your clothing.
+~
+109 9 0
+D0
+~
+~
+0 -1 10937
+D2
+~
+~
+0 -1 10939
+D3
+~
+~
+0 -1 10945
+S
+#10939
+Outside the Cells~
+    As you touch along the wall to find your way,
+small spiders and bugs crawl up your arm. You
+frantically brush them off before they bite you.
+A small cell lies to the west.
+~
+109 9 0
+D0
+~
+~
+0 -1 10938
+D1
+~
+~
+0 -1 10940
+D3
+~
+~
+0 -1 10946
+S
+#10940
+Outside the Cells~
+    You see a glint of light coming from the east
+which provides enough light to see another cell to
+the south. A medium sized spider hovers down in front
+of your face. Confidently, you smack it away.
+~
+109 9 0
+D1
+~
+~
+0 -1 10941
+D2
+~
+~
+0 -1 10947
+D3
+~
+~
+0 -1 10939
+S
+#10941
+A Dingy Cell~
+    A hint of light escapes from a large crack in the
+wall to the east. There is nothing in this room most
+likely because the light scared the creatures away from
+here. The crack looks just big enough for you to fit
+through.
+~
+109 9 0
+D1
+~
+~
+0 -1 10942
+D3
+~
+~
+0 -1 10940
+S
+#10942
+Inside the Crack~
+    Light seeps in from the door to the north. You think
+to yourself that this once formed part of a catacomb, but
+the walls must have caved in from age.
+~
+109 9 0
+D0
+~
+~
+0 -1 10943
+D3
+~
+~
+0 -1 10941
+S
+#10943
+The Chamber of the Damned~
+    The light seems to be coming from the walls themselves.
+A large pentagram lies in the middle of the floor leading
+downwards, though you cannot see what lies within it. Upside
+down crosses and other devil-worshipping artifacts fill this
+room making you feel strange.
+~
+109 16449 0
+D2
+~
+~
+0 -1 10942
+D5
+~
+~
+0 -1 10944
+S
+#10944
+The Hole of Fate~
+    Congratulations! You've won an all expenses paid
+trip...to Hell! You'll spend what feels like an eternity
+there, bathing in nice warm weather, hanging out with all
+your old deceased friends, and the best part is you get
+to meet the ultimate evil...SATAN!
+    You're dead, loser. >:P
+~
+109 7 0
+D4
+~
+~
+0 -1 10943
+S
+#10945
+Inside a Damp Cell~
+    Musty air fills the room as water drips from the
+ceiling creating that ever horrifying sound as it echoes
+through the hallways of the dungeon. A small pile of bones
+sits in the corner covered by cobwebs and rats.
+~
+109 9 0
+D1
+~
+~
+0 -1 10938
+S
+#10946
+Inside a Cell~
+    Small piles of bones lie about on the ground. Rats
+creep in and out of the piles sending shivers down your
+spine. A small piece of flesh on the ground, infested
+with maggots making you want to leave this dank cell.
+~
+109 9 0
+D1
+~
+~
+0 -1 10939
+S
+#10947
+Inside a Rotted Cell~
+    As you enter this room, you decide this is where
+that smell of death comes from because there are corpses
+wrapped in spider webs spread all around. This is not
+one of the best places to stay since there is a gigantic
+spider nest here.
+~
+109 73 0
+D0
+~
+~
+0 -1 10940
+S
+#10948
+The War Room~
+   Out of the whole castle this is the only room that
+appears to be totally intact.  Paintings of heroes now
+forgotten hang on the walls and precious mithril armors
+stand at attention along the sides of the room. A long
+table lies in the middle of the room, used to plan
+strategic battles.  The gargoyles must use this room
+frequently.
+~
+109 0 0
+D3
+~
+~
+0 -1 10933
+S
+#10949
+Atop the Staircase~
+   You are at a staircase which leads downwards. A chandelier
+engulfed in vines hangs above your head.  Muddy tracks from
+gargoyles lead up and down these stairs many times.
+~
+109 0 0
+D3
+~
+~
+0 -1 10930
+D5
+~
+~
+0 -1 10950
+S
+#10950
+The Gargoyle's Lodging~
+   This is the place where most of the Gargoyles sleep
+and congregate. Torches illuminate the room enough to
+see that this is quite a small place.  The blood of
+other creatures is splattered all around the walls,
+convincing you that they feast extravagantly.
+~
+109 0 0
+D4
+~
+~
+0 -1 10949
+S
+#99999
+$~

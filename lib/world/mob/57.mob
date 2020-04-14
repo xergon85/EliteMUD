@@ -1,0 +1,1181 @@
+#5700
+mage guildmaster~
+the guildmaster~
+Your guildmaster stands here.
+~
+An old man peering through ancient tomes rests here.
+~
+1 1 2050 1160 1000 S
+109 -100 -200 1d10+30000
+400 500 100 1d100+100     -1
+-1
+-1
+0 0 8 8 1
+#5701
+cleric guildmaster~
+the guildmaster~
+Your guildmaster stands here.
+~
+An old man wrapped in purple, long-flowing robes meditates here.
+~
+1 2 2050 1160 1000 S
+109 -100 -200 1d10+30000
+400 500 100 1d100+100     -1
+-1
+-1
+0 0 8 8 1
+#5702
+warrior guildmaster~
+the guildmaster~
+Your guildmaster stands here.
+~
+A small man dressed in black robes stands here, waiting to train you.
+~
+1 4 2050 1160 1000 S
+109 -100 -200 1d10+30000
+400 500 100 1d100+100     -1
+-1
+-1
+0 0 8 8 1
+#5703
+thief guildmaster~
+the guildmaster~
+Your guildmaster stands here.
+~
+A small human dressed in black rests in the corner. As you enter he grabs
+a knife and throws it at you. It lands in the wall next to your left ear.
+'We will now begin', is all he says.
+~
+1 3 2050 1160 1000 S
+109 -100 -200 1d10+30000
+400 500 100 1d100+100     -1
+-1
+-1
+0 0 8 8 1
+#5704
+receptionist woman~
+the receptionist~
+A dark skinned, veiled woman greets you from behind the desk.
+~
+This arabian beauty is obviously the daughter of some high ranking official.
+As you attempt to sneak a peek under her veil you notice a small moon-shaped
+birth mark on her left cheek.
+~
+1 4 2050 8 800 A 36 2
+A
+%10 twiddle; %10 daydream; %10 yawn
+~
+#5705
+bartender man mage old~
+the old withered man~
+An old withered man leans against the bar.
+~
+He looks distracted as he pours five drinks at once without error.
+~
+1 4 2050 8 0 A 23 1
+A
+%10 fart; %10 grumble
+~
+#5706
+john brother singer lead~
+Brother John~
+Brother John, lead singer for the Lokettes stands on stage.
+~
+You see the lead singer of the Lokettes lip synching to an old Zochan tune.
+~
+1 4 2 0 0 A 15 1
+A
+%10 hum; %10 wiggle; %10 sing
+~
+#5707
+panhandler~
+the panhandler~
+A panhandler rests here.
+~
+A small skinny man rests here, hoping to find a warm heart.
+~
+1 4 196 0 -20 A 7 1
+A
+%10 sigh
+~
+#5708
+panhandler~
+the panhandler~
+A panhandler rests here.
+~
+A small skinny man rests here, staring at your clothes.
+~
+1 4 196 0 -20 A 11 1
+A
+%10 sniff
+~
+#5709
+beggar~
+the beggar~
+A grubby beggar sits here in the filth.
+~
+This poor soul seems down on his luck, perhaps you might spare a dime?
+~
+1 4 196 0 -20 A 1 1
+A
+%15 beg; %10 grovel
+~
+#5710
+baker~
+the baker~
+The baker stands here playing solitaire.
+~
+You see a large man in a white apron covered in flour from head to toe.
+~
+1 4 2050 8 100 S
+109 -100 -200 1d10+30000
+400 500 100 1d100+100     -1
+-1
+-1
+50000 50000 8 8 1
+#5711
+shopkeeper~
+the shopkeeper~
+The shopkeeper sits here.
+~
+You see a half-elf sitting on a stool behind his counter.
+~
+1 4 2050 8 100 S
+109 -100 -200 1d10+30000
+400 500 100 1d100+100     -1
+-1
+-1
+50000 50000 8 8 1
+#5712
+banker~
+the banker~
+A banker stands here waiting to help you.
+~
+This small halfling seems adept at counting money.
+~
+1 4 2050 8 0 A 36 1
+#5713
+ahkeem tailor~
+Ahkeem the tailor~
+Ahkeem the tailor welcomes you to his store.
+~
+This middle-aged man looks you over with disdain and quickly suggests a new
+wardrobe.
+~
+1 4 2050 8 0 S
+109 -100 -200 1d10+30000
+400 500 100 1d100+100     -1
+-1
+-1
+50000 50000 8 8 1
+#5714
+vera lady~
+Vera the veggie lady~
+Vera the veggie lady beems as you look over her stand.
+~
+A tall slender woman stands before you, smiling broadly.
+~
+1 4 2050 8 0 S
+109 -100 -200 1d10+30000
+400 500 100 1d100+100     -1
+-1
+-1
+50000 50000 8 8 2
+#5715
+butch~
+Butch the meatcutter~
+Butch the meatcutter stands here in his bloodied apron.
+~
+This stocky dwarf has a mad glint in hes eye, as he twirls his cleaver
+carelessly into the air.
+~
+1 4 2050 8 0 S
+109 -100 -200 1d10+30000
+400 500 100 1d100+100    -1
+-1
+-1
+50000 50000 8 8 1
+#5716
+abdul armorer~
+Abdul the armorer~
+Abdul stands here, waiting to help you.
+~
+Abdul returns your gaze with a steady eye. You quickly glance away under his
+cold stare and place your order.
+~
+1 4 2050 8 0 S
+109 -100 -200 1d10+30000
+400 500 100 1d100+100    -1
+-1
+-1
+50000 50000 8 8 1
+#5717
+igor weaponsmith~
+Igor the weaponsmith~
+Igor stands here doing... something.
+~
+You see a small dwarf with a large hump on his left shoulder.
+~
+1 4 2050 8 0 S
+109 -100 -200 1d10+30000
+400 500 100 1d100+100    -1
+-1
+-1
+50000 50000 8 8 1
+#5718
+cassandra~
+Cassandra~
+Cassandra stands proudly over her selection.
+~
+You see a happy weather-worn face whose lines suggests many years on the open
+sea. It is only through years of fishing that she is able to withstand the 
+smell that permeates the air.
+~
+1 4 2050 8 0 S
+109 -100 -200 1d10+30000
+400 500 100 1d100+100    -1
+-1
+-1
+50000 50000 8 8 2
+#5719
+foreman man~
+the foreman~
+The foreman stands here screaming at the workers.
+~
+A worried looking dwarf stands here, constantly making notes in his book and
+looking at his watch.
+~
+1 4 2 0 0 A 15 1
+A
+%10 scratch; %15 pace
+~
+#5720
+construction worker~
+the construction worker~
+A construction worker steadily works here.
+~
+A large sweaty looking man doesn't even return your glance.
+~
+1 4 2 0 10 A 10 1
+A
+%10 emote wipes off his sweaty brow with a handkerchief.; %10 grumble
+~
+#5721
+statue brahman~
+the statue of Brahman~
+The statue of Brahman stands here.
+~
+The statue made of solid marble depicts the mighty god defeating Siva in
+magical combat.
+~
+1 1 2050 1160 1000 S
+57 -8 -20 1d40+840
+401 500 60 2d20+20
+26 0 20 1d0+95
+50 0 10 2d0+95
+56 0 10 1d0+75    -1
+-1
+-1
+0 450000 8 8 0
+#5722
+statue siva~
+the statue of Siva~
+The statue of Siva stands here.
+~
+The statue of the High Lord of Destruction stands here, being attacked by
+Brahman in magical combat.
+~
+1 1 2050 1160 -1000 S
+54 -6 -18 1d25+810
+400 500 60 2d16+20
+4 0 20 3d0+95
+27 0 20 1d0+95    -1
+-1
+-1
+0 400000 8 8 0
+#5723
+statue indra~
+the statue of Indra~
+The statue of Indra stands here.
+~
+This statue looks like an enormous elephant.
+~
+0 4 2050 1160 1000 S
+54 -8 -21 1d40+820
+410 500 100 2d18+20   -1
+-1
+-1
+0 375000 8 8 0
+#5724
+statue yama~
+the statue of Yama~
+The statue of Yama stands here.
+~
+This is a statue of the God of Death. It is covered with odd runes.
+~
+1 4 2050 1160 0 S
+54 -8 -20 1d25+810
+405 500 100 2d16+20   -1
+-1
+-1
+0 375000 8 8 0
+#5725
+statue surya~
+the statue of Surya~
+The statue of Surya stands here.
+~
+The statue of Surya, the God in charge of the Sun, almost glows with a
+fiery aura.
+~
+1 4 2050 1160 1000 S
+54 -10 -20 1d25+810
+402 500 100 2d16+20   -1
+-1
+-1
+0 375000 8 8 0
+#5726
+statue kali~
+the statue of Kali~
+The statue of Kali stands here.
+~
+The statue of the Black Mother Kali is made of black marble and is covered
+with silver runes.
+~
+1 1 2050 1160 -1000 S
+54 -8 -18 1d25+810
+400 500 60 2d16+20
+8 0 20 3d0+95
+58 0 20 1d0+75    -1
+-1
+-1
+0 400000 8 8 0
+#5727
+statue brihaspati~
+the statue of Brihaspati~
+The statue of Brihaspati stands here.
+~
+The statue of Brihaspati, the God of Scholars and Knowledge is made of a
+weathered marble.
+~
+1 2 2050 1160 0 S
+54 -6 -18 1d25+810
+401 500 60 2d14+15
+28 0 20 2d0+95
+23 0 20 1d0+95    -1
+-1
+-1
+0 400000 8 8 0
+#5728
+statue puchan~
+The statue of Puchan~
+The statue of Puchan stands here.
+~
+The statue of Puchan, God of Travellers, is covered with dust and worn as if
+it had been dragged a long way down a dusty road.
+~
+1 3 2050 1160 1000 S
+54 -8 -20 1d25+820
+400 500 100 2d16+20    -1
+-1
+-1
+0 375000 8 8 0
+#5729
+aziz human canon~
+Aziz~
+Aziz the Human Canon stands here.
+~
+~
+1 2 192 8 0 S
+30 7 -5 1d25+450
+401 500 50 2d10+10
+28 0 30 2d0+95
+27 0 10 1d0+95
+4 0 10 3d0+95  -1
+-1
+-1
+3000 100000 8 8 1
+A
+%10 pose; %10 gaze
+~
+#5730
+mustafah human robber~
+Mustafah~
+Mustafah the Human Robber stands here.
+~
+~
+1 3 192 8 0 S
+28 6 -6 1d25+440
+402 500 100 2d12+10  -1
+-1
+-1
+3200 67000 8 8 1
+A
+%10 snicker; %10 emote greedily counts some money.
+~
+#5731
+fatima elf invoker~
+Fatima~
+Fatima the Elven Invoker stands here.
+~
+~
+1 1 192 8 0 S
+29 7 -5 1d25+430
+400 500 50 2d10+8
+26 0 20 1d0+95
+8 0 20 1d0+95
+50 0 10 2d0+95  -1
+-1
+-1
+2500 65000 8 8 2
+A
+%10 blink ; %10 twiddle ; %10 pose
+~
+#5732
+kareem dwarf mercenary~
+Kareem~
+Kareem the Dwarven Mercenary stands here.
+~
+~
+1 4 192 8 0 A 37 1
+A
+%10 flex; %10 grin
+~
+#5733
+nomad merchant~
+the nomad merchant~
+A nomad merchant looks you over.
+~
+This robust fellow returns your gaze with a smile, but something inside you
+tells you not to trust him very far.
+~
+1 4 6340 0 -100 A 20 1
+A
+%10 smirk; %15 say You wanna buy? Spezzial prize for you, mizzter!
+~
+#5734
+bodyguard guard~
+the Sultan's Bodyguard~
+A bodyguard sizes you up.
+~
+This large half-orc quickly glances you over and returns to his duties.
+~
+1 4 6178 1032 0 A 44 1
+A
+%5 growl
+~
+#5735
+kid thief~
+the skinny kid~
+A skinny kid wanders around.
+~
+This small child sees you looking at him and quickly looks away.
+~
+1 4 132 0 100 A 7 1
+A
+%10 apologize
+~
+#5736
+dockworker~
+the dockworker~
+A strong dockworker walks by moving crates.
+~
+Although seemingly dull witted, this hulking mass carries the huge crates
+from the boats like it was a box of lilies.
+~
+1 4 64 0 0 A 12 1
+A
+%5 spit; %5 burp; %5 fart; %5 swear
+~
+#5737
+man taxcollector~
+the taxcollector~
+A small man walks around scribbling in a notebook.
+~
+The city's taxcollector walks from store to store, collecting the Sultan's
+fee for living in his grand city.
+~
+1 4 192 0 0 A 5 1
+A
+%10 snicker; 
+%15 emote looks you over with a penetrating and somewhat greedy look.~
+#5738
+gord~
+Gord~
+Gord the Rogue stands here.
+~
+~
+1 4 132 1160 350 A 18 1
+A
+%10 chuckle~
+#5739
+chulainn knight~
+Chulainn~
+Chulainn the Knight stands here.
+~
+This large man does not seem to be surprised at your approach and looks at you
+quizzically.
+~
+1 4 6276 1032 800 A 48 1
+A
+%10 ponder~
+#5740
+daghdha~
+Daghdha~
+Daghdha the Arch-Magi stands here.
+~
+This man is dressed in long brown robes and has a penetrating gaze.
+~
+1 4 64 1160 200 S
+48 -2 -15 1d40+720
+400 500 50 2d20+15
+26 0 10 1d0+95
+30 0 10 1d0+95
+57 0 10 1d0+75
+38 0 10 3d0+95
+23 0 10 1d0+95  -1
+-1
+-1
+4500 330000 8 8 1
+A
+%10 emote pulls a burning cigarette out of his ear with a grin.; %10 pose~
+#5741
+curley greenleaf~
+Curley GreenLeaf~
+Curley GreenLeaf stands here.
+~
+~
+1 4 132 8 0 A 42 1
+A
+%10 think~
+#5742
+man wandering prophet~
+the wandering prophet~
+A small grey-haired man walks around spouting gospel.
+~
+This sad case may have been an evangelist in another lifetime. He is known to
+stand in corners and accost passers-by with his doomsday preaching.
+~
+1 4 128 0 0 A 7 1
+A
+%15 emote screams 'Beware! For the end is nigh!!';
+%15 emote drones 'Repent and you shall be forgiven!';
+%10 whine
+%15 emote yells 'The final hour is close at hand!!'
+%10 accuse~
+#5743
+alley cat~
+the alley cat~
+A small harmless feline searches for food.
+~
+You see a small starved cat.
+~
+3 4 128 0 -10 S
+2 20 10 1d4+28
+407 500 100 1d6+0         -1
+-1
+-1
+0 333 8 8 1
+A
+%10 purr; %10 lick; %10 stretch~
+#5744
+vulture~
+the vulture~
+A vulture circles above you.
+~
+As you look up at this bird, you see that the only thing it wants is a corpse.
+~
+6 4 224 134217728 -200 S
+7 18 10 1d14+105
+407 500 100 1d7+3  -1
+-1
+-1
+0 1066 8 8 1
+A
+%10 gibber; %5 fps~
+#5745
+old man~
+the old man~
+An old man sits here playing chess.
+~
+He seems intent on winning.
+~
+1 4 128 0 200 A 5 1
+A
+%10 ponder; %10 scratch; %5 stare~
+#5746
+lugh librarian~
+Lugh the Librarian~
+Lugh the Librarian sits behind a desk.
+~
+This huge hulking mass rises, as someone asks him a question.
+~
+1 4 2050 0 300 A 36 1
+A
+%10 peer~
+#5747
+dust devil~
+the dust devil~
+The wind kicks up some dust.
+~
+What you see before you is really a baby air elemental.
+~
+17 4 36 0 -1000 S
+3 19 9 1d5+45
+404 500 100 1d10+0 -1
+-1
+-1
+0 400 8 8 1
+A
+%10 growl~
+#5748
+lamia beast~
+the lamia~
+A strange lamia stands here waiting for her next meal. 
+~
+This is a creature with the upper torso of a beatiful woman, but the lower
+body of a four-legged beast. She licks her lips as she looks at you greedily.
+~
+0 4 548 0 -500 A 12 2
+A
+%10 lick~
+#5749
+dervish~
+the raggety dervish~
+A raggety dervish stands here.
+~
+This man looks like he could use a lot of rest.
+~
+1 4 96 0 -750 A 8 1
+A
+%10 dizzy~
+#5750
+sultan~
+the Sultan~
+The Sultan rests here on his throne.
+~
+You see a large wealthy man in red robes smiling at you.
+~
+1 4 2338 1160 200 A 50 1
+A
+%10 smile; %10 yawn~
+#5751
+harem girl~
+a harem girl~
+A lovely, veiled harem girl stands here.
+~
+You see a dark skinned beauty, wearing almost transparent silks and a light
+blue veil. Her loyalty to the Sultan is unwavering.
+~
+1 4 2 0 0 A 3 2
+A
+%7 giggle~
+#5752
+jailer~
+the jailer~
+The Jailer is resting here.
+~
+You see a pathetic soul resting here. Probably some ex-nobleman that has
+fallen out of grace with the Sultan.
+~
+1 4 134 0 -100 A 18 1
+A
+%10 hiccup; %10 snort~
+#5753
+eunuch~
+a eunuch~
+A eunuch stands here watching over the girls.
+~
+You see a large man whose only duty is to protect the harem. He has been
+castrated for the ladies' safety.
+~
+1 4 34 1032 0 A 30 0
+A
+%10 glare~
+#5754
+sultans favorite girl nichole~
+Nichole, the Sultan's favorite~
+Nichole, the Sultan's favorite girl rests on a mound of pillows.
+~
+You see the most beautiful Arabian girl that has ever met your eyes. Too bad
+she is about to kill you.
+~
+1 4 34 1032 100 A 10 2
+A
+%10 smirk~
+#5755
+krishna statue~
+the statue of Krishna~
+The statue of Krishna is standing here.
+~
+This is a statue of the God Vishnu's most radiant incarnation,
+the heroic Krishna.
+~
+1 4 3362 1160 1000 A 60 0
+#5756
+mage guildguard~
+the guildguard~
+The Guard for the Guild of Mages stand here.
+~
+This man looks like a mage/warrior. I wouldn't mess with him.
+~
+1 1 2050 1160 0 S
+66 -14 -28 1d40+1040
+400 500 75 1d30+35
+60 0 10 1d0+50
+50 0 10 2d0+95
+33 0 5 3d0+95  -1
+-1
+-1
+4000 450000 8 8 1
+#5757
+cleric guildguard~
+the guildguard~
+The Guard for the Guild of Clerics stands here.
+~
+This man looks like a cleric/warrior. I wouldn't mess with him.
+~
+1 2 2050 1160 0 S
+66 -14 -28 1d40+1040
+401 500 75 2d15+34
+28 0 10 2d0+75
+27 0 10 1d0+95
+4 0 5 3d0+95  -1
+-1
+-1
+2500 420000 8 8 1
+#5758
+warrior guildguard~
+the guildguard~
+The Guard for the Guild of Warriors stands here.
+~
+This man looks like Conan's cousin. I wouldn't mess with him.
+~
+1 4 2050 1160 0 A 66 1
+#5759
+thief guildguard~
+the guildguard~
+The Guard for the Guild of theives stands here.
+~
+You see a thief dressed all in black. He quickly stands as you enter and
+steps to bar your way. You notice his hands resting on two sheathes.
+~
+1 3 2050 1160 -100 S
+66 -14 -28 1d40+1040
+402 500 100 2d16+34  -1
+-1
+-1
+4000 420000 8 8 1
+#5760
+servant boy~
+the servant boy~
+A servant boy is here running errands.
+~
+You see a small boy running around in the halls of the palace.
+~
+1 4 64 0 0 A 2 1
+#5761
+sultans guard~
+the Sultan's Guard~
+A guard stands here, protecting the innocent.
+~
+You see a trained fighter, ready to help those in need.
+~
+1 4 192 0 1000 A 36 1
+A
+%5 say Move on, people!~
+#5762
+sultans guard~
+the Sultan's Guard~
+A guard stands here, watching the gate.
+~
+You see a trained fighter, ready to defend the city.
+~
+1 4 2 0 1000 A 36 1
+#5763
+sultans guard chief~
+the Chief Guard~
+The Chief of the Sultan's Guard stands here.
+~
+You see a large man skilled in hunting and killing.
+~
+1 4 64 8 1000 A 39 1
+A
+%10 pose; %10 bully~
+#5764
+mercenary~
+the mercenary~
+A mercenary stands here waiting for a job.
+~
+You see an assassin down on his luck, looking to be freelanced out.
+~
+1 4 64 0 0 A 5 1
+A
+%10 peer; %10 fps~
+#5765
+shipwright captain~
+the shipwright~
+An old captain rests here carving on a stick.
+~
+You see the shipwright of New Thalos, waiting to sell someone a boat. He beams
+a smile at you through his beard, as you walk in.
+~
+1 4 2050 0 0 S
+109 -100 -200 1d10+30000
+400 500 100 1d100+100 -1
+-1
+-1
+50000 50000 8 8 1
+#5766
+blacksmith~
+the blacksmith~
+The blacksmith stands here pumping air into his fire.
+~
+You see a large human,  dripping in sweat, standing before you. He takes
+a break from his swealtering work to bid you welcome.
+~
+1 4 2050 0 0 S
+109 -100 -200 1d10+30000
+401 500 100 1d100+100 -1
+-1
+-1
+50000 50000 8 8 1
+#5767
+horse~
+the horse~
+A horse stands here.
+~
+You see one of the fine Arabian beasts known about the land.
+~
+7 4 130 0 0 S
+8 17 10 2d12+120
+400 500 100 2d5+0      -1
+-1
+-1
+0 1300 8 8 1
+A
+%5 raspberry~
+#5768
+tourist~
+the tourist~
+A tourist stands here looking lost.
+~
+You see a small rotund man with a strange object around his neck and a nose
+guard. He is looking at a small map that he seems to be holding upside down.
+~
+1 4 196 0 0 A 5 1
+A
+%10 point; %10 gibber~
+#5769
+ixitxachitl ray~
+the ixitxachitl~
+A very large ray with a wicked looking tail swims here.
+~
+You see a large ray with sharp fangs and a barbed tail.
+~
+0 4 2082 1032 -500 S
+36 3 -11 1d40+540
+403 500 100 2d12+10 -1
+-1
+-1
+0 150000 8 8 0
+#5770
+cryohydra~
+the cryohydra~
+The cryohydra stands here.
+~
+A grey-brown reptilian creature with amber eyes stands before you.
+~
+18 4 2144 1024 0 S
+16 10 -2 1d20+240
+407 500 100 2d10+5  -1
+-1
+-1
+0 8400 8 8 1
+#5771
+minotaur lizard~
+the minotaur lizard~
+The minotaur lizard stands here.
+~
+A huge lizard-like reptile with horns like a minotaur.
+~
+18 4 96 1024 0 S
+12 14 2 2d15+180
+407 500 100 1d12+0  -1
+-1
+-1
+0 3200 8 8 1
+#5772
+dog death~
+the death dog~
+The death dog stands here.
+~
+A large two-headed hound barks at you vicously.
+~
+4 4 2144 1024 0 S
+8 16 5 2d10+120
+408 500 100 2d6+2  -1
+-1
+-1
+0 1330 8 8 0
+A
+%10 bark~
+#5773
+lion spotted~
+the spotted lion~
+The spotted lion stands here.
+~
+A large fierce dapple-skinned lion glares at you.
+~
+3 4 96 1024 0 S
+10 15 4 2d12+140
+407 500 100 2d4+4      -1
+-1
+-1
+0 2133 8 8 1
+A
+%15 growl~
+#5774
+behir~
+the behir~
+A behir slithers on the ground.
+~
+You see a large snake-like reptile with more than a dozen legs.
+~
+0 4 2144 1024 -300 S
+12 14 2 1d20+180
+407 500 100 2d6+4  -1
+-1
+-1
+0 3200 8 8 0
+#5775
+chimera creature lion goat dragon~
+the chimera~
+A creature with three heads: lion, goat, and dragon stands here.
+~
+The chimera is still a mystery, better left unexplored. This creature has
+the hindquarters of a goat, the forepaws of a lion and the body of a red
+dragon.
+~
+0 4 2082 1032 -500 S
+9 16 5 2d14+130
+400 500 100 2d4+5  -1
+-1
+-1
+0 1600 8 8 0
+#5776
+couatl~
+the couatl~
+A couatl hovers here.
+~
+A beautiful creature with the body of a serpent and feathered wings, the
+colour of the rainbow.
+~
+0 4 2050 67110024 300 S
+15 12 0 1d16+220
+400 500 100 2d8+4  -1
+-1
+-1
+0 6400 8 8 0
+#5777
+giant hornet~
+the giant hornet~
+The giant hornet hovers here.
+~
+It is a hornet, what else can be said?
+~
+13 4 2112 67109896 300 S
+10 15 5 2d10+140
+409 500 100 2d5+0 -1
+-1
+-1
+0 2100 8 8 0
+A
+%15 emote hops around, buzzing hysterically.~
+#5778
+pegasus~
+the pegasus~
+The pegasus stands here, flexing its wings.
+~
+A magnificent winged steed, this horse looks much like the arabian thorough-
+breds you have seen in stables.
+~
+11 4 6146 134218760 1000 S
+18 10 -1 2d15+260
+400 500 100 2d6+4 -1
+-1
+-1
+0 12800 8 8 0
+A
+%10 blink~
+#5779
+elvira~
+Elvira~
+Elvira stands here mixing a love potion.
+~
+You see a very healthy female dressed in black, with long flowing hair to
+match her outfit.
+~
+1 4 2050 0 0 S
+109 -100 -200 1d10+30000
+400 500 100 1d100+100 -1
+-1
+-1
+50000 50000 8 8 2
+#5780
+braheem~
+Braheem~
+Braheem stands here talking to the walls.
+~
+You see a powerful but slightly insane mage.
+~
+1 4 2050 0 0 S
+109 -100 -200 1d10+30000
+400 500 100 1d100+100 -1
+-1
+-1
+50000 50000 8 8 1
+A
+%10 gibber~
+#5781
+high priest~
+the high priest~
+The high priest rests here meditating, well he WAS meditating.
+~
+He does NOT look real happy about you disturbing him.
+~
+1 4 130 1160 1000 S
+29 7 -6 1d25+420
+401 500 60 1d20+10
+28 0 20 2d0+95
+4 0 20 3d0+95 -1
+-1
+-1
+2000 85000 8 8 1
+A
+%10 pose~
+#5782
+royal guard elite~
+the Royal Guard~
+An Elite Royal Guard stands here smiling happily.
+~
+You see one of the Royal Guards of New Thalos who seems to have undergone
+some heavy training.
+~
+1 4 6146 1160 1000 A 40 1
+A
+%10 flex~
+#5783
+patch bartender~
+Patch the bartender~
+A large half-orc with a patch over one eye pours beer behind the counter.
+~
+You see a really big guy here, who seems to have lost an eye in one manner
+or another.
+~
+1 4 2050 8 -500 A 50 1
+#5784
+stitch~
+Stitch, the leather dude~
+Stitch, the leather dude reclines in his chair.
+~
+You see a small hobbit with his feet kicked up on his desk, waiting for some
+sucker, uhm customer to walk into his store.
+~
+1 4 2050 8 -500 S
+109 -100 -200 1d10+30000
+400 500 100 1d100+100 -1
+-1
+-1
+50000 50000 8 8 1
+A
+%10 snore~
+#5785
+gardener elf~
+the gardener~
+A small elf stands here tending the garden.
+~
+A young elf stands here in dirt-covered overalls. He seems to be weeding his
+garden.
+~
+1 4 2 0 0 A 10 1
+#5786
+nightmare demon horse~
+the nightmare~
+A large horse, black as night, stands here.
+~
+You see the largest horse you have ever seen before. Standing 10 feet at the
+shoulders, it breathes flames from his nostrils and leaps to attack you.
+~
+12 4 2594 263336 -500 S
+16 12 -1 1d20+240
+401 500 100 2d10+4 -1
+-1
+-1
+0 8433 8 8 0
+#5787
+wolverine wolf~
+the wolverine~
+A large wolf-like creature leaps out from the darkness.
+~
+You see a powerful-looking beast with sharp fangs and huge claws.
+~
+4 4 34 263168 -351 S
+22 9 -4 4d8+320
+407 500 100 2d8+6 -1
+-1
+-1
+0 33700 8 8 0
+#5788
+mimic painting~
+the mimic~
+You see an incredibly life-like painting of the Sultan's mother.
+~
+Boy is she ugly.
+~
+0 4 2 0 0 A 14 1
+#5789
+mayor rabbit~
+the mayor~
+The Mayor of New Thalos stands here.
+~
+You see a chubby rabbit dressed in his best suit.
+~
+1 4 64 0 1000 A 10 1
+A
+%10 chuckle; %10 chortle; %10 say What a beautiful day!~
+#5790
+chef~
+the chef~
+The chef stands here making dinner.
+~
+You see a very large human who seems to taste everything he makes.
+~
+1 4 2 0 400 A 14 1
+A
+%10 burp; %10 gloat~
+#5791
+evil beggar~
+Evil~
+A beggar stands here, asking for gold.
+~
+The beggar looks oddly familiar... you note that he is wearing the
+faded colors of a master assassin.
+~
+1 3 4 786432 -1000 S
+109 -50 -60 5000
+400 500 85 3d50+60    
+33 0 50 3d0+85   
+36 0 10 2d0+100   
+76 0 10 1d0+50   
+38 0 25 3d0+85   
+17 0 50 3d0+85   
+4 0 25 3d0+50   
+8 0 50 3d0+50   
+28 0 10 2d0+100 -1
+-1
+-1
+30000 5000000 8 8 1
+A
+10% chuckle; 10% cackle; 10% sigh; 10% say I am Evil!~
+#99999 
+$~

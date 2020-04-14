@@ -1,0 +1,19 @@
+#133
+Amok 'n Glob Harbours and Transports to NC !!! ~
+13399 20 2
+* This zone is a ttrans based transition zone from the main continent to 
+* the town of Geldenrock (and back again). Additionally, as part of the zone
+* there is a link to the Silver Raven zone (201) via room 13346-8
+* 
+* Written for EliteMUD by Amok (2001)
+*
+*Quartermaster (SHOP - selling tickets to Geldenrock)
+M 0 13300 1 13301       *Quartermaster (SHOP)
+E 1 13304 100 13            *Wearing rope around waist
+*
+O 0 13300 100 13301    - Turnstyle
+*
+*
+S
+#99999
+$~

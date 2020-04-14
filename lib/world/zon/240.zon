@@ -1,0 +1,469 @@
+#240
+Demon Empire~
+24099 170 1
+*The doors
+D 0 24007 2 2
+D 0 24010 0 2
+D 0 24020 4 1
+D 0 24087 5 1
+D 0 24035 5 1
+D 0 24043 4 1
+D 0 24043 5 1
+D 0 24044 4 1
+D 0 24057 0 1
+D 0 24058 2 1
+D 0 24065 1 1
+D 0 24066 3 1
+D 0 24065 2 2
+D 0 24067 0 2
+D 0 24071 5 1
+D 0 24072 4 1
+D 0 24074 2 1
+D 0 24078 0 1
+D 0 24080 2 1
+D 0 24082 0 1
+D 0 24084 1 2
+D 0 24085 3 2
+*Mobs, Eq, etc etc...
+M 0 24000 1 24007   	*demon lord 1
+E 1 24000 5 1      	*ring of thorns
+E 1 24001 5 16     	*fiery blade
+E 1 24001 5 17     	*fiery blade
+E 1 24069 50 11		*wooden buckler
+M 0 24034 1 24022  	*demon lord 2
+E 1 24003 3 6      	*crown of thorns
+E 1 24001 5 16     	*fiery blade
+E 1 24001 5 17     	*fiery blade
+E 1 24069 50 11		*wooden buckler
+M 0 24035 1 24035   	*demon lord 3
+E 1 24000 5 1       	*ring of thorns
+E 1 24001 5 16     	*fiery blade
+E 1 24001 5 17     	*fiery blade
+E 1 24069 50 11		*wooden buckler
+M 0 24036 1 24069   	*demon lord 4
+E 1 24003 3 6       	*crown of thorns
+E 1 24001 5 16     	*fiery blade
+E 1 24001 5 17     	*fiery blade
+E 1 24069 50 11		*wooden buckler
+M 0 24001 7 24092  	*demon spawn 1 x7
+M 0 24001 7 24092
+M 0 24001 7 24092
+M 0 24001 7 24092
+M 0 24001 7 24092
+M 0 24001 7 24092
+M 0 24001 7 24092
+M 0 24037 7 24094	*demon spawn 2 x7
+M 0 24037 7 24094
+M 0 24037 7 24094
+M 0 24037 7 24094
+M 0 24037 7 24094
+M 0 24037 7 24094
+M 0 24037 7 24094
+M 0 24038 7 24095	*demon spawn 3 x7
+M 0 24038 7 24095
+M 0 24038 7 24095
+M 0 24038 7 24095
+M 0 24038 7 24095
+M 0 24038 7 24095
+M 0 24038 7 24095
+M 0 24002 1 24078   	*lord of the dead
+E 1 24027 50 16     	*skullmace
+E 1 24004 5 3       	*necklace of the dead
+G 1 24059 100       	*clawkey
+M 0 24003 1 24078   	*mistress of the dead
+E 1 24005 5 0       	*soul of a believer
+E 1 24006 5 16      	*staff of screams
+M 0 24004 1 24066   	*shadow demon
+E 1 24007 5 16      	*dagger of the shadows
+E 1 24008 5 17      	*spear of the shadows
+E 1 24009 5 12      	*shadowy cloak
+G 1 24058 100       	*cracked mirror key
+M 0 24005 40 24007  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24007  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24007  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24007  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24007  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24018  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24018  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24018  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24018  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24018  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24025  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24025  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24025  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24025  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24025  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24028  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24028  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24028  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24028  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24028  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24030  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24030  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24030  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24030  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24030  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24060  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24060  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24060  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24060  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24060  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24073  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24073  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24073  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24073  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24005 40 24073  	*daemonettes
+E 1 24011 5 16      	*whip of talons
+E 1 24069 50 11		*wooden buckler
+M 0 24006 15 24003  	*soulhunters
+E 1 24041 5 16      	*dagger of the wicked
+E 1 24041 5 17      	*dagger of the wicked
+G 1 24042 5         	*bag of souls
+M 0 24006 15 24003  	*soulhunters
+E 1 24041 5 16      	*dagger of the wicked
+E 1 24041 5 17      	*dagger of the wicked
+G 1 24042 5         	*bag of souls
+M 0 24006 15 24003  	*soulhunters
+E 1 24041 5 16      	*dagger of the wicked
+E 1 24041 5 17      	*dagger of the wicked
+G 1 24042 5         	*bag of souls
+M 0 24006 15 24011  	*soulhunters
+E 1 24041 5 16      	*dagger of the wicked
+E 1 24041 5 17      	*dagger of the wicked
+G 1 24042 5         	*bag of souls
+M 0 24006 15 24011  	*soulhunters
+E 1 24041 5 16      	*dagger of the wicked
+E 1 24041 5 17      	*dagger of the wicked
+G 1 24042 5         	*bag of souls
+M 0 24006 15 24011  	*soulhunters
+E 1 24041 5 16      	*dagger of the wicked
+E 1 24041 5 17      	*dagger of the wicked
+G 1 24042 5         	*bag of souls
+M 0 24006 15 24016  	*soulhunters
+E 1 24041 5 16      	*dagger of the wicked
+E 1 24041 5 17      	*dagger of the wicked
+G 1 24042 5         	*bag of souls
+M 0 24006 15 24016  	*soulhunters
+E 1 24041 5 16      	*dagger of the wicked
+E 1 24041 5 17      	*dagger of the wicked
+G 1 24042 5         	*bag of souls
+M 0 24006 15 24016  	*soulhunters
+E 1 24041 5 16      	*dagger of the wicked
+E 1 24041 5 17      	*dagger of the wicked
+G 1 24042 5         	*bag of souls
+M 0 24006 15 24082  	*soulhunters
+E 1 24041 5 16      	*dagger of the wicked
+E 1 24041 5 17      	*dagger of the wicked
+G 1 24042 5         	*bag of souls
+M 0 24006 15 24082  	*soulhunters
+E 1 24041 5 16      	*dagger of the wicked
+E 1 24041 5 17      	*dagger of the wicked
+G 1 24042 5         	*bag of souls
+M 0 24006 15 24082  	*soulhunters
+E 1 24041 5 16      	*dagger of the wicked
+E 1 24041 5 17      	*dagger of the wicked
+G 1 24042 5         	*bag of souls
+M 0 24006 15 24083  	*soulhunters
+E 1 24041 5 16      	*dagger of the wicked
+E 1 24041 5 17      	*dagger of the wicked
+G 1 24042 5         	*bag of souls
+M 0 24006 15 24083  	*soulhunters
+E 1 24041 5 16      	*dagger of the wicked
+E 1 24041 5 17      	*dagger of the wicked
+G 1 24042 5         	*bag of souls
+M 0 24006 15 24083  	*soulhunters
+E 1 24041 5 16      	*dagger of the wicked
+E 1 24041 5 17      	*dagger of the wicked
+G 1 24042 5         	*bag of souls
+M 0 24007 1 24043   	*crimson lord
+E 1 24012 5 16      	*mace of slaughter
+E 1 24013 5 5       	*battered crimson steel chainmail
+E 1 24014 5 8       	*sharp pointed battle boots
+E 1 24015 5 9       	*blood covered chain gauntlets
+E 1 24016 5 6       	*dark red beast skull
+E 1 24017 5 7       	*crimson red metallic greaves
+E 1 24018 5 10      	*dented and bloodied armplates
+E 1 24019 5 13      	*bloody braids of a red haired wench
+M 0 24008 1 24049   	*chaos guardian
+E 1 24020 5 6       	*veil of insanity
+E 1 24021 50 16     	*blade of the crazed
+E 1 24021 50 17     	*blade of the crazed
+M 0 24009 1 24098   	*lord of disgust
+E 1 24022 5 12      	*orb of repulsion
+E 1 24023 100 16    	*femur
+M 0 24010 1 24097   	*mistress of disgust
+E 1 24032 5 5       	*ribcage armor
+E 1 24033 5 11      	*shield of repulsion
+E 1 24023 100 16    	*femur
+M 0 24011 1 24029   	*bloodthirster
+E 1 24024 5 16      	*jug of blood
+E 1 24050 5 12      	*red velvet cloak
+M 0 24012 1 24087   	*guardian of pain
+E 1 24010 3 5      	*bloodstained chainmail
+E 1 24002 5 16     	*shreds of terror
+E 1 24025 5 11      	*shield of fear
+E 1 24026 5 17      	*burning soul
+G 1 24051 100       	*jar of agony
+M 0 24013 1 24069   	*dark reaper
+E 1 24028 5 16      	*unholy blade of the dark
+E 1 24029 5 1       	*runic ring of sorrow
+E 1 24030 5 14      	*carving of utter evil
+M 0 24014 10 24054  	*plaguebearer x10
+E 1 24031 10 17     	*wand of madness
+M 0 24014 10 24054	
+M 0 24014 10 24054
+M 0 24014 10 24054
+M 0 24014 10 24054
+M 0 24014 10 24056
+M 0 24014 10 24056
+M 0 24014 10 24056
+M 0 24014 10 24056
+M 0 24014 10 24056
+M 0 24015 1 24076   	*dethguard champion
+E 1 24035 5 16      	*stone axe
+E 1 24035 5 17      	*stone axe
+E 1 24034 5 3       	*badge of the champion
+M 0 24016 3 24001  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24016 3 24001  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24016 3 24001  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24039 3 24017  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24039 3 24017  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24039 3 24017  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24040 3 24022  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24040 3 24022  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24040 3 24022  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24041 4 24044  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24041 4 24044  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24041 4 24044  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24041 4 24044  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24042 2 24045  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24042 2 24045  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24043 2 24046  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24043 2 24046  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24044 2 24047  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24044 2 24047  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24045 2 24048  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24045 2 24048  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24046 2 24049  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24046 2 24049  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24047 3 24065  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24047 3 24065  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24047 3 24065  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24048 4 24070  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24048 4 24070  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24048 4 24070  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24048 4 24070  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24049 4 24084  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24049 4 24084  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24049 4 24084  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24049 4 24084  	*dethguard
+E 1 24001 2 16     	*fiery blade
+M 0 24017 1 24033   	*demon knight
+E 1 24036 5 16      	*soulsmasher
+M 0 24018 1 24075   	*radiant warrior
+E 1 24037 5 12      	*aura of souls
+E 1 24038 5 16      	*claymore
+E 1 24039 5 11      	*avenger's shield
+E 1 24040 5 6       	*broken crown
+M 0 24019 1 24089   	*emperor
+E 1 24043 5 17      	*emperor's sceptre
+E 1 24044 5 13      	*belt of skulls
+M 0 24020 1 24090   	*emperess
+E 1 24045 10 17     	*bowl of souls
+E 1 24046 5 16      	*witchblade
+M 0 24021 1 24042   	*wind of lost souls
+M 0 24022 1 24038   	*wind of eternal damnation
+M 0 24023 1 24085   	*cloaked death
+E 1 24053 5 16      	*three headed nightbringer
+E 1 24054 5 17      	*lashes of darkness
+E 1 24055 5 12      	*dark shroud of swirling blackness
+M 0 24024 20 24057  	*morph demon x20
+M 0 24024 20 24057	
+M 0 24024 20 24057
+M 0 24024 20 24057
+M 0 24024 20 24057
+M 0 24024 20 24082
+M 0 24024 20 24082
+M 0 24024 20 24082
+M 0 24024 20 24082
+M 0 24024 20 24082
+M 0 24024 20 24083
+M 0 24024 20 24083
+M 0 24024 20 24083
+M 0 24024 20 24083
+M 0 24024 20 24083
+M 0 24024 20 24096
+M 0 24024 20 24096
+M 0 24024 20 24096
+M 0 24024 20 24096
+M 0 24024 20 24096
+M 0 24025 10 24078  	*zombie x10
+E 1 24068 50 11		*large piece of wood -shield-
+M 0 24025 10 24078
+E 1 24068 50 11		*large piece of wood -shield-
+M 0 24025 10 24078
+E 1 24068 50 11		*large piece of wood -shield-
+M 0 24025 10 24078
+E 1 24068 50 11		*large piece of wood -shield-
+M 0 24025 10 24078
+E 1 24068 50 11		*large piece of wood -shield-
+M 0 24025 10 24078
+E 1 24068 50 11		*large piece of wood -shield-
+M 0 24025 10 24078
+E 1 24068 50 11		*large piece of wood -shield-
+M 0 24025 10 24078
+E 1 24068 50 11		*large piece of wood -shield-
+M 0 24025 10 24078
+E 1 24068 50 11		*large piece of wood -shield-
+M 0 24025 10 24078
+E 1 24068 50 11		*large piece of wood -shield-
+M 0 24026 1 24071   	*cremator
+E 1 24056 5 0       	*vial of glowing magma
+M 0 24027 1 24099   	*soulhunter -teleport only-
+E 1 24041 5 16      	*dagger of the wicked
+E 1 24041 5 17      	*dagger of the wicked
+G 1 24042 5         	*bag of souls
+M 0 24028 1 24093	*mchoro mhaeren
+E 1 24071 5 6		*torn of face of a man
+G 1 24072 5		*pair of fairy wings
+M 0 24029 1 24088	*human prisoner
+M 0 24030 1 24078	*dying fairy
+G 1 24070 5		*soulsphere
+M 0 24031 1 24087	*badly beaten dwarf
+M 0 24032 1 24020	*impaled gnome
+M 0 24033 1 24071	*mutilated elf
+O 0 24052 100 24029 	*fountain of blood
+O 0 24057 100 24008 	*mirror key
+O 0 24047 5 24085   	*axe of the berzerker
+O 0 24048 3 24090  	*necronomicon
+O 0 24049 100 24093 	*souls of the living
+O 0 24060 50 24085  	*bag of diamonds
+O 0 24060 50 24085  	*bag of diamonds
+O 0 24061 50 24085  	*gold chest
+O 0 24062 100 24001 	*minotaur skeleton x5
+O 0 24062 100 24013
+O 0 24062 100 24020
+O 0 24062 100 24039
+O 0 24062 100 24096
+O 0 24063 100 24014 	*dwarven skeleton x5
+O 0 24063 100 24001
+O 0 24063 100 24040
+O 0 24063 100 24079
+O 0 24063 100 24097
+O 0 24064 100 24000 	*crushed skull x3
+O 0 24064 100 24007
+O 0 24064 100 24020
+O 0 24065 100 24012 	*decaying corpse x2
+O 0 24065 100 24069
+O 0 24066 100 24015 	*rotting corpse x2
+O 0 24066 100 24098
+O 0 24067 100 24017 	*pile of ashes x5
+O 0 24067 100 24020
+O 0 24067 100 24072
+O 0 24067 100 24079
+O 0 24067 100 24096
+S
+#99999
+$~
+

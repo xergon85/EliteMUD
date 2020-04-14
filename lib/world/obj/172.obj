@@ -1,0 +1,747 @@
+#17200
+axe great~
+Xanthias' Great Axe~
+Xanthias' Great Axe~
+~
+5 40 abefik abfgi an
+0 7 7 3 0 0
+20 15000 25000
+E
+Xanthias' Great Axe~
+The words "Death" are scrawled along the blade.
+~
+A
+18 3
+A
+19 3
+#17201
+key keep~
+the Keep key~
+the Keep key is here.~
+~
+18 0 0 0 ao
+2 0 0 0 0 150
+10 0 5000
+E
+key keep~
+Just an ordinary key.
+~
+#17202
+key redish~
+a Redish key~
+A Redish key is here.~
+~
+18 0 0 0 ao
+2 0 0 0 0 150
+5 0 5000
+E
+key redish~
+The key has a redish color.
+~
+#17203
+key blackish~
+a Blackish key~
+A Blackish key is here.~
+~
+18 0 0 0 ao
+2 0 0 0 0 150
+5 0 5000
+E
+key blackish~
+The key has a blackish color.
+~
+#17204
+key whiteish~
+a Whiteish key~
+A Whiteish key is here.~
+~
+18 0 0 0 ao
+2 0 0 0 0 150
+5 0 5000
+E
+key whiteish~
+The key has a whiteish color.
+~
+#17205
+key brownish~
+a Brownish key~
+A Brownish key is here.~
+~
+18 0 0 0 ao
+2 0 0 0 0 150
+5 0 5000
+E
+key brownish~
+The key has a brownish color.
+~
+#17206
+key yellowish~
+a Yellowish key~
+A Yellowish key is here.~
+~
+18 0 0 0 ao
+2 0 0 0 0 150
+5 0 5000
+E
+key yellowish~
+The key has a yellowish color.
+~
+#17207
+key maroonish~
+a Maroonish key~
+A Maroonish key is here.~
+~
+18 0 0 0 ao
+2 0 0 0 0 150
+5 0 5000
+E
+key maroonish~
+The key has a maroonish color.
+~
+#17208
+key greenish~
+a Greenish key~
+A Greenish key is here.~
+~
+18 0 0 0 ao
+2 0 0 0 0 150
+5 0 5000
+E
+key greenish~
+The key has a greenish color.
+~
+#17209
+key greyish~
+a Greyish key~
+A Greyish key is here.~
+~
+18 0 0 0 ao
+2 0 0 0 0 150
+5 0 5000
+E
+key greyish~
+The key has a greyish color.
+~
+#17210
+key runed~
+a Runed key~
+A Runed key is here.~
+~
+18 0 0 0 ao
+2 0 0 0 0 150
+5 0 5000
+E
+key runed~
+The key looks like it was made for royalty.
+~
+#17211
+gloves combat~
+a pair of minotaur combat gloves~
+A pair of metal plated gloves lie here.~
+~
+9 40 abdefhikm b ah
+8 0 0 0 0 0
+6 4000 2500
+E
+gloves combat~
+These gloves are plated with metal plates that provide strength and 
+protection.
+~
+A
+18 1
+A
+19 1
+#17212
+spiked gauntlets~
+a pair of spiked gauntlets~
+A pair of spiked gauntlets lies here.~
+~
+9 40 bcdfghklms b ah
+3 0 0 0 0 0
+10 6000 2500
+E
+spiked gauntlets~
+They look pretty damaging.
+~
+A
+19 3
+#17213
+breast plate gilded gold~
+a gilded gold breast plate~
+A large golden breast plate lies here.~
+~
+9 40 acdeghilm abgi ad
+15 0 0 0 0 0
+18 8000 6500
+A
+13 25
+#17214
+girdle pouches many~
+a girdle of many pouches~
+A girdle lies here.~
+~
+15 1 0 0 al
+200 0 -1 0 0 0
+5 5000 1500
+E
+girdle pouches many~
+It appears to be full of tiny pockets.
+~
+#17215
+bracelet thick marble~
+a thick marble bracelet~
+A thick bracelet made of marble lies here.~
+~
+9 40 abcefgikls g am
+4 0 0 0 0 0
+8 5000 3000
+A
+5 1
+#17216
+crossbow huge~
+a huge crossbow~
+A huge crossbow rests here.~
+~
+5 40 abdefhikm g an
+0 3 5 11 0 0
+15 6000 3500
+A
+18 1
+A
+19 1
+#17217
+pack leather small~
+a small leather pack~
+A small leather pack rests here.~
+~
+15 1 0 g ak
+100 0 0 0 0 0
+9 2000 250
+E
+pack leather small~
+It looks pretty big on the inside.
+~
+#17218
+sword kopesh~
+a kopesh sword~
+A sword with a curved blade lies here.~
+~
+5 4 abefik 0 an
+0 3 3 3 0 0
+13 1300 1000
+E
+sword kopesh~
+The sword looks like it would be grasped so that the blade extended 
+along the forearm of the wielder.
+~
+#17219
+axe battle battleaxe~
+a battle axe~
+A dangerous looking battle axe rests here.~
+~
+5 1 abefik 0 an
+0 4 4 3 0 0
+18 1500 1250
+#17220
+vambraces blue steel~
+a pair of blue steel vambraces~
+Some vambraces made of blue steel rest here.~
+~
+9 15 abefik a ai
+8 0 0 0 0 0
+8 3000 2500
+#17221
+greaves red steel~
+a pair of red steel greaves~
+Some greaves made of red steel rest here.~
+~
+9 30 abefik a af
+9 0 0 0 0 0
+8 7000 5000
+#17222
+visor helm crimson steel~
+a crimson steel helm and visor~
+A helm and visor made of crimson steel rests here.~
+~
+9 30 abefik a ae
+10 0 0 0 0 0
+8 6000 7500
+#17223
+plate steel breast~
+a steel breast plate~
+A breast plate of thick steel rests here.~
+~
+9 12 0 0 ad
+6 0 0 0 0 0
+10 4000 1000
+#17224
+broach ivory~
+a broach of life~
+A small ivory broach lies here.~
+~
+9 40 cdghlm gi ac
+2 0 0 0 0 0
+5 10000 10000
+A
+13 50
+#17225
+spiked armor garde~
+a suit of spiked garde armor~
+A pile of spiked chainmail lies here.~
+~
+9 40 abcefgikls abfg ad
+7 0 0 0 0 0
+8 15000 5000
+A
+19 2
+#17226
+greaves black~
+A pair of black minotaur greaves~
+Some black metal greaves lie here.~
+~
+9 40 abcefgikls b af
+9 0 0 0 0 0
+9 15000 5000
+#17227
+vambraces black~
+A pair of black minotaur vambraces~
+Some black metal vambraces lie here.~
+~
+9 40 abcefgikls a ai
+9 0 0 0 0 0
+9 10000 5000
+#17228
+rod weaponry~
+the rod of weaponry~
+A shiny metal rod lies here.~
+~
+5 40 abcefgikls agi an
+0 5 5 6 0 0
+24 9000 10000
+A
+18 3
+A
+19 3
+#17229
+cloak pitch black~
+a pitch black cloak~
+A pile of black cloth lies here.~
+~
+15 21 0 g ak
+150 0 0 0 0 0
+3 11500 2500
+E
+cloak pitch black~
+It appears to have pockets inside it.
+~
+A
+23 -3
+#17230
+neckguard neck guard black plate~
+a black plate neckguard~
+A black plate collar rests here.~
+~
+9 40 bcdfghklms a ac
+9 0 0 0 0 0
+10 10000 1500
+A
+4 1
+#17231
+shield shadow~
+the shadow shield~
+A shadowy shield rests here.~
+~
+9 40 bcdfghklms b aj
+15 0 0 0 0 0
+15 11000 7500
+E
+shield shadow~
+You look into the depths of the shield and shiver at the evil it contains.
+~
+A
+23 -3
+#17232
+nightbringer short sword shortsword~
+a shortsword named "Nightbringer"~
+A very evil looking shortsword lies here.~
+~
+5 36 0 f an
+0 5 4 11 0 0
+9 7000 10000
+E
+nightbringer short sword shortsword~
+The runes "Nightbringer" are scrawled along the blade.
+~
+A
+18 3
+A
+19 3
+#17233
+visor helm golden~
+a golden helm and visor~
+A helm and visor made of pure gold rests here.~
+~
+9 40 acdeghilm abgi ae
+7 0 0 0 0 0
+15 8000 5000
+A
+4 1
+A
+3 1
+#17234
+cape white billowing silk~
+a billowing white cape ~
+A pile of white silk lies here.~
+~
+9 40 acdeghilm ag ac
+5 0 0 0 0 0
+5 9000 3500
+A
+9 20
+#17235
+shield huge tower~
+a huge tower shield~
+A huge shield lies here.~
+~
+9 40 acdeghilm ag aj
+10 0 0 0 0 0
+14 7000 1500
+E
+shield huge tower~
+A pure white shield with a gold cross emblazoned across it.
+~
+#17236
+dawnbringer mace huge~
+a huge mace named "Dawnbringer"~
+A huge mace lies here. It radiates an aura of power.~
+~
+5 40 acdeghilm f an
+0 5 5 6 0 0
+14 9000 10000
+E
+dawnbringer mace huge~
+The runes "Dawnbringer" are scrawled along the handle.
+~
+A
+18 3
+A
+19 3
+#17237
+spectacles wire rimmed~
+a pair of wire rimmed spectacles~
+A small pair of wire rimmed spectacles rests here.~
+~
+9 40 bcdfghklms g ae
+1 0 0 0 0 0
+2 6000 2500
+E
+spectacles wire rimmed~
+They'll make you look smart.
+~
+A
+3 4
+#17238
+ring banded~
+a banded ring~
+A small ring made of gold and silver bands lies here.~
+~
+9 40 bcdfghklms ag ab
+1 0 0 0 0 0
+2 5000 2500
+E
+ring banded~
+The ring has entwined bands of gold and silver.
+~
+A
+12 30
+A
+9 10
+#17239
+globe minor~
+a minor globe of invulnerability~
+A small globe rests here. It shimmers and radiates power.~
+~
+9 40 cdghlm ag ak
+15 0 0 0 0 0
+1 6000 7500
+E
+globe minor~
+Shimmering colors move inside the globe.
+~
+A
+24 -5
+A
+23 -5
+#17240
+staff gnarled magius~
+a gnarled magius staff~
+A gnarled staff lies here.~
+~
+5 40 bcdfghklms g an
+0 4 4 6 0 0
+10 5000 5000
+E
+staff gnarled magius~
+It appears to be simply a gnarled old limb. It feels powerful though.
+~
+A
+18 3
+A
+19 3
+#17241
+robe heavy woolen~
+a heavy woolen robe~
+A heavy pile of wool lies here.~
+~
+9 40 acdeghilm g ak
+15 0 0 0 0 0
+10 5000 1000
+#17242
+manual arts healing book~
+a manual of healing arts~
+A small book lies here.~
+~
+2 40 0 0 ao
+30 28 28 28 0 0
+5 15000 2500
+E
+manual arts healing book~
+It appears to be a book of anatomy and medicine.
+~
+#17243
+mace huge mithril~
+a huge mithril mace~
+A huge mace made of mithril metal lies here.~
+~
+5 40 acdeghilm ag an
+0 4 4 6 0 0
+13 9000 5000
+A
+18 2
+A
+19 2
+#17244
+symbol holy golden~
+a golden holy symbol~
+A small holy symbol on a golden chain lies here.~
+~
+9 40 acdeghilm g ac
+2 0 0 0 0 0
+3 5000 1000
+A
+12 10
+#17245
+ring marble thick~
+a thick marble ring~
+A thick ring made of marble~
+~
+9 40 abcefgikls g ab
+4 0 0 0 0 0
+5 4000 1000
+#17246
+boots striding~
+boots of striding~
+A lithe pair of leather boots have been left here.~
+~
+9 40 abcefgikls g ag
+5 0 0 0 0 0
+5 5000 4500
+E
+boots striding~
+They look comfortable to walk in.
+~
+A
+14 30
+#17247
+cloak icy white~
+an icy white cloak~
+A cold pile of white cloth lies here.~
+~
+9 26 0 ag ak
+8 0 0 0 0 0
+5 8000 2500
+E
+cloak icy white~
+Smoke rises from it almost like it's made of dry ice.
+~
+#17248
+ring carved wooden~
+a carved wooden ring~
+A wooden ring is on the floor.~
+~
+9 40 abdefhikm g ab
+1 0 0 0 0 0
+3 5000 2500
+A
+18 1
+A
+19 1
+#17249
+horn life~
+the horn of life~
+A severed minotaur horn lies here.~
+~
+3 40 abdefhikm g ao
+30 8 8 16 0 0
+5 12000 2500
+E
+horn life~
+The horn is capped at both ends with gold. Unreadable runes are 
+scrawled on it.
+~
+#17250
+belt life~
+the belt of life~
+A strange belt lies here.~
+~
+9 40 abdefhikm g al
+8 0 0 0 0 0
+9 10000 5500
+A
+5 3
+#17251
+stone blood red~
+a blood red stone~
+A blood red stone lies here collecting dust.~
+~
+9 40 abdefhikm bg ao
+3 0 0 0 0 0
+2 10000 4500
+E
+stone blood red~
+The stone pulses with your own heart beat.
+~
+A
+13 20
+#17252
+hood black leather~
+a black leather hood~
+A hood made of black leather rests here.~
+~
+9 40 abdefhikm g ae
+5 0 0 0 0 0
+5 7000 2500
+#17253
+sleeves black leather~
+a pair of black leather sleeves~
+Some leather sleeves lie here.~
+~
+9 40 abdefhikm 0 ai
+7 0 0 0 0 0
+5 3500 1000
+#17254
+pants black leather~
+a pair of black leather pants~
+Some leather pants lie here.~
+~
+9 40 abdefhikm g af
+7 0 0 0 0 0
+5 3000 1500
+E
+pants black leather~
+They look sneaky.
+~
+#17255
+sword wicked short shortsword~
+a wicked shortsword~
+A wicked looking shortsword lies here.~
+~
+5 21 abdefhikm g an
+0 3 5 11 0 0
+11 8000 5000
+E
+sword wicked short shortsword~
+It looks just perfect for backstabbing.
+~
+A
+18 1
+A
+19 1
+#17256
+globe major~
+a major globe of invulnerability~
+A large globe rests here, pulsing uneasily.~
+~
+9 40 abefik abg ak
+15 0 0 0 0 0
+1 12000 25000
+E
+globe major~
+Shimmering colors move inside the globe.
+~
+A
+24 -5
+#17257
+chain chainmail black suit~
+a suit of black minotaur chainmail~
+A huge pile of black chainmail rests here.~
+~
+9 40 abcefgikls g ad
+15 0 0 0 0 0
+12 16000 10000
+A
+1 1
+A
+5 1
+#17258
+buckler spiked~
+a spiked buckler~
+A small spiked buckler rests here.~
+~
+9 40 abcefgikls 0 aj
+10 0 0 0 0 0
+5 6000 5000
+A
+19 2
+#17259
+ring studded~
+a studded ring~
+A small studded ring lies here.~
+~
+9 40 abcefgikls g ab
+5 0 0 0 0 0
+1 3000 1000
+A
+19 1
+#17260
+helm horned~
+a horned minotaur helm~
+A small horned helm rests here.~
+~
+9 40 abcefgikls 0 ae
+10 0 0 0 0 0
+8 6000 2000
+#17261
+spiked brass knuckles~
+some huge spiked brass knuckles~
+A set of spiked brass knuckles lies here.~
+~
+5 40 abcefgikls 0 an
+0 4 3 1 0 0
+9 8000 1500
+E
+spiked brass knuckles~
+A band held in the hand that has spikes on the front side.
+~
+#17262
+ring key multi colored multi-colored~
+a multi-colored key ring~
+A ring of multi-colored keys rests here.~
+~
+15 0 0 0 ac
+100 0 0 0 0 0
+3 500 250
+E
+ring key multi colored multi-colored~
+It has several keys of different colors on it.
+~
+#17263
+maul huge wooden~
+a huge wooden maul~
+A huge wooden maul rests here.~
+~
+5 30 bcdfghklms 0 an
+0 5 5 6 0 0
+22 7500 20000
+#99999
+$~

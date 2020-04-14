@@ -1,0 +1,265 @@
+#128
+Barrow of the Crimson Fists~
+12899 150 1
+*
+* Room 00
+D 0 12800 5 1	
+* Room 01
+* -
+* Room 02
+* -
+* Room 03
+* -
+* Room 04
+* -
+* Room 05
+* -
+* Room 06
+* -
+* Room 07
+* -
+* Room 08
+* -
+* Room 09
+M 0 12817 1 12809
+D 0 12809 4 1
+D 0 12809 5 1
+* Room 10
+R 0 12810 6
+* Room 11
+* -
+* Room 12
+* -
+* Room 13
+M 0 12810 9 12813	*Ghost
+* Room 14
+* -
+* Room 15
+M 0 12811 9 12815	*Bat
+* Room 16
+* -
+* Room 17
+* -
+* Room 18
+* -
+* Room 19
+* -
+* Room 20
+* -
+* Room 21
+* -
+* Room 22
+* -
+* Room 23
+M 0 12810 9 12823	*Ghost
+M 0 12811 9 12823	*Bat
+* Room 24
+* -
+* Room 25
+* -
+* Room 26
+* -
+* Room 27
+M 0 12811 9 12827	*Bat
+* Room 28
+* -
+* Room 29
+* -
+* Room 30
+M 0 12810 9 12830	*Ghost
+* Room 31
+* -
+* Room 32
+M 0 12811 9 12832	*Bat
+* Room 33
+* -
+* Room 34
+* -
+* Room 35
+M 0 12810 9 12835	*Ghost
+* Room 36
+* -
+* Room 37
+* -
+* Room 38
+* -
+* Room 39
+* -
+* Room 40
+M 0 12811 9 12840	*Bat
+* Room 41
+M 0 12810 9 12840	*Ghost
+* Room 42
+* -
+* Room 43
+* -
+* Room 44
+M 0 12811 9 12844	*Bat
+* Room 45
+* -
+* Room 46
+M 0 12810 9 12846	*Ghost
+* Room 47
+M 0 12811 9 12847	*Bat
+* Room 48
+* -
+* Room 49
+* -
+* Room 50
+* -
+* Room 51
+M 0 12815 1 12851       *Guardian
+E 1 12800 100 3                 *amulet-key
+D 1 12851 2 2	
+D 1 12854 0 2
+* Room 52
+M 0 12814 2 12852	*Knight
+* Room 53
+M 0 12814 2 12853	*Knight
+* Room 54
+D 0 12854 1 1
+M 0 12812 6 12854	*Servant
+* Room 55
+D 0 12855 3 1
+M 0 12800 1 12855	*Aaron
+E 1 12802 5 5			*Magic Chainmail
+O 1 12814 8 12855		*Ruby Light
+E 1 12818 12 5				*plain plate
+E 1 12819 12 9				*plain gauntlets
+E 1 12820 12 12				*plain backplate
+E 1 12821 12 7				*plain legplates
+E 1 12822 12 6				*plain helmet
+E 1 12823 12 10				*plain armplates
+E 1 12824 12 8				*plain footplates
+* Room 56
+D 0 12856 3 1
+M 0 12812 6 1256	*Servant
+* Room 57
+D 0 12857 1 1
+M 0 12803 1 12857	*Cindar
+E 1 12805 5 7			*Magic Legplates
+E 1 12818 12 5				*plain plate
+E 1 12819 12 9				*plain gauntlets
+E 1 12820 12 12				*plain backplate
+E 1 12821 12 7				*plain legplates
+E 1 12822 12 6				*plain helmet
+E 1 12823 12 10				*plain armplates
+E 1 12824 12 8				*plain footplates
+* Room 58
+D 0 12858 1 1
+M 0 12816 4 12858	*Knight
+M 0 12816 4 12858	*Knight	
+* Room 59
+D 0 12859 3 1
+M 0 12807 1 12859	*Azig
+E 1 12807 5 6			*Magic Helmet
+E 1 12818 12 5				*plain plate
+E 1 12819 12 9				*plain gauntlets
+E 1 12820 12 12				*plain backplate
+E 1 12821 12 7				*plain legplates
+E 1 12822 12 6				*plain helmet
+E 1 12823 12 10				*plain armplates
+E 1 12824 12 8				*plain footplates
+* Room 60
+D 0 12860 1 1
+M 0 12816 4 12860
+* Room 61
+M 0 12809 1 12861	*Chaplain
+E 1 12813 5 16			*Chaplain's Hammer
+* Room 62
+D 0 12862 3 1
+M 0 12805 1 12862	*Gravin
+E 1 12806 5 8			*Magic Footplates
+O 1 12817 8 12862		*Greatsword
+E 1 12818 12 5				*plain plate
+E 1 12819 12 9				*plain gauntlets
+E 1 12820 12 12				*plain backplate
+E 1 12821 12 7				*plain legplates
+E 1 12822 12 6				*plain helmet
+E 1 12823 12 10				*plain armplates
+E 1 12824 12 8				*plain footplates
+* Room 63
+D 0 12863 3 1
+M 0 12812 6 12863	*Servant
+* Room 64
+D 0 12864 1 1
+M 0 12806 1 12864	*Stephen
+E 1 12808 5 17			*War Banner
+E 1 12810 5 3			*Pendant
+E 1 12818 12 5				*plain plate
+E 1 12819 12 9				*plain gauntlets
+E 1 12820 12 12				*plain backplate
+E 1 12821 12 7				*plain legplates
+E 1 12822 12 6				*plain helmet
+E 1 12823 12 10				*plain armplates
+E 1 12824 12 8				*plain footplates
+* Room 65
+D 0 12865 0 1
+D 0 12865 1 1
+M 0 12816 4 12865	*Knight
+* Room 66
+D 0 12866 3 1
+M 0 12804 1 12866	*Rowland
+E 1 12801 4 5			*Magic Plate
+E 1 12809 5 10			*Magic Armplates
+E 1 12818 12 5				*plain plate
+E 1 12819 12 9				*plain gauntlets
+E 1 12820 12 12				*plain backplate
+E 1 12821 12 7				*plain legplates
+E 1 12822 12 6				*plain helmet
+E 1 12823 12 10				*plain armplates
+E 1 12824 12 8				*plain footplates
+* Room 67
+D 0 12867 2 1
+M 0 12808 1 12867	*Morgan
+E 1 12801 4 5			*Magic Plate
+E 1 12811 5 1			*Signet Ring
+E 1 12812 5 16			*The Crimson Fist
+E 1 12818 12 5				*plain plate
+E 1 12819 12 9				*plain gauntlets
+E 1 12820 12 12				*plain backplate
+E 1 12821 12 7				*plain legplates
+E 1 12822 12 6				*plain helmet
+E 1 12823 12 10				*plain armplates
+E 1 12824 12 8				*plain footplates
+* Room 68
+* Room 69
+* Room 70
+* Room 71
+M 0 12802 1 12871	*Jem
+E 1 12804 5 12			*Magic Backplate
+E 1 12818 12 5				*plain plate
+E 1 12819 12 9				*plain gauntlets
+E 1 12820 12 12				*plain backplate
+E 1 12821 12 7				*plain legplates
+E 1 12822 12 6				*plain helmet
+E 1 12823 12 10				*plain armplates
+E 1 12824 12 8				*plain footplates
+M 0 12813 5 12871	*Soldier
+E 1 12815 5 11			*Shield
+M 0 12813 5 12871	*Soldier
+E 1 12816 10 16			*Sword
+M 0 12813 5 12871	*Soldier
+E 1 12815 5 11			*Shield
+* Room 72
+M 0 12812 6 12872	*servant
+* Room 73
+* Room 74
+L 0 12874 12825 15095  *Portal in 12674
+A 1 12874 1 12800			*Activate portal - key is object 12800
+M 0 12801 1 12874	*Gilbert
+E 1 12803 5 9			*Magic Gauntlets
+E 1 12818 12 5				*plain plate
+E 1 12819 12 9				*plain gauntlets
+E 1 12820 12 12				*plain backplate
+E 1 12821 12 7				*plain legplates
+E 1 12822 12 6				*plain helmet
+E 1 12823 12 10				*plain armplates
+E 1 12824 12 8				*plain footplates
+M 0 12813 5 12874	*Soldier
+E 1 12816 10 16			*Sword
+M 0 12813 5 12874	*Soldier
+* Room 75
+S
+#99999
+$~

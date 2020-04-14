@@ -1,0 +1,226 @@
+#6600~
+6608
+6641
+6655
+6662
+-1
+1.2
+0.8
+-1
+%s We just sell drinks here.  Sorry.~
+%s What?  You think I was born yesterday? ?  You don't have that!~
+%s Actually, I don't buy anything here.  I just sell drinks!  Would you
+like one?~
+%s Even if I did buy, I couldn't afford that.~
+%s This is a tavern, not a charity.  Come back when you have more
+gold.~
+%s That will be %d coins.  Drink it with pleasure!~
+%s I really shouldn't be doing this!~
+1
+1
+6604
+0
+6612
+0
+12
+12
+24
+#6601~
+6639
+6645
+6647
+6666
+6667
+-1
+1.2
+0.8
+1
+8
+10
+19
+-1
+%s I've never sold that sort of thing here.  Sorry. Try Elmer's.~
+%s Are you sure you have one of those to sell?~
+%s No, no, no.  I don't think I need any of those.~
+%s Sorry, dearie, I can't afford it.~
+%s Come back when you have a little more gold.~
+%s That will be %d coins.  May it bring you pleasure.~
+%s Here you go.  I'll give you %d for that.~
+1
+1
+6615
+0
+6618
+0
+12
+12
+24
+#6602~
+6602
+6609
+6618
+6619
+6653
+-1
+1.2
+0.8
+2
+3
+4
+10
+-1
+%s I don't have any of those!~
+%s Are you sure you have one?~
+%s Sorry but I've found those don't sell well.~
+%s Business is off.  I can't afford that.~
+%s Try getting a loan.  You can't afford this.~
+%s That will be %d coins.~
+%s Here's %d coins for that.~                                                                                                            
+1
+1
+6617
+0
+6623
+0
+12
+12
+24
+#6603~
+6601
+6656
+6619
+6610
+6653
+6663
+6738
+-1
+1.5
+0.6
+1
+8
+9
+12
+13
+14
+15
+17
+-1
+%s Hmmm ... I don't seem to have that on hand.~
+%s Trying to fool me?  You don't have any to sell!~
+%s That's not quite the kind of thing I stock here.~
+%s Alas! Business has not been good. I can't afford it.~
+%s Sorry but you don't seem to have enough coins to buy it yet.~
+%s There you go! That will be just %d gold.~
+%s A nice new trinket for my shop! Here's %d coins for that!~
+1
+1
+6616
+0
+6620
+0
+12
+12
+24
+#6604~
+6658
+-1
+1.3
+0.9
+5
+-1
+%s Sorry, but I don't stock that.  Try one of the other shops.~
+%s You don't have one of those to sell!~
+%s Sorry, I don't carry that kind of thing here.~  
+%s Wish I could afford to take that off your hands, but I'm a little
+short on gold!~
+%s Come back when you've earned a bit more!~
+%s I wish you luck with that fine weapon.  I'll take %d coins for that.~
+%s Thank you for bringing that here.  I'll give you %d coins for that.~
+1
+1
+6627
+0
+6626
+0
+12
+12
+24
+#6605~
+6634
+6636
+6637
+6640
+6641
+6648
+6677
+6683
+-1
+1.2
+0.8
+19
+-1
+%s I'm sorry, but we don't sell that.~
+%s You don't seem to have any to sell!~
+%s I don't carry that sort of merchandise here.~
+%s I can't afford to take that off your hands.~
+%s This is a bookstore and café, not the Salvation Army!~
+%s Here you are! And I'll just take %d coins for that.~
+%s Hopefully someone else will want this.  Here's %d coins for it.~
+1
+1
+6622
+0
+6621
+0
+12
+12
+24
+#6606~
+6642
+6656
+-1
+1.2
+0.9
+9
+-1
+%s I don't believe I have that in your size.~
+%s You don't seem to have one to sell!  Trying to bamboozle me???~
+%s I don't believe I could sell one of those.~
+%s I'm about to declare bankruptcy!~
+%s Would you like to hear about our wonderful layaway program?~
+%s Wear it in good health!~
+%s Thank you!  Here's %d coins for that.~
+1
+1
+6614
+0
+6617
+0
+12
+12
+24
+#6607~
+6617
+-1
+1.2
+0.8
+-1
+%s How's about a little love potion instead?  You look like you could
+use it!~
+%s Trying to sell me something you don't have ???~
+%s Buy something?  I'm a saleself, not a purchasing agent!~
+%s I couldn't afford it even if I was willing to buy it!~
+%s I'd like to help you out, friend, but you have to pay the price!~
+%s That's %d coins.  Good luck with it!~
+%s Hmm ...~
+0
+0
+6626 
+0
+6616
+0
+12
+12
+24
+#99999
+$~

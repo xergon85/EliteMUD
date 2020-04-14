@@ -1,0 +1,24 @@
+#283
+Clans~
+28399 1 0
+*
+*** ELYSIUM CLAN HOUSE (118)
+O 0 21 100 28300      Guard Statue Colossus (Guard before Elysium)
+O 0 17 100 28301      ELYSIUM board
+O 0 3135 100 28302    Fountain in Elysium
+M 0 28300 1 28303     Clan Bartender
+G 1 28312 99          Give him stuff to sell
+G 1 28310 99          Give him stuff to sell
+G 1 28313 99          Give him stuff to sell
+G 1 28300 99          Give him stuff to sell
+G 1 28301 99          Give him stuff to sell
+G 1 28302 99          Give him stuff to sell
+G 1 28303 99          Give him stuff to sell
+G 1 28307 99          Give him stuff to sell
+G 1 28308 99          Give him stuff to sell
+G 1 28311 99          Give him stuff to sell
+D 0 28303 0 1         Door to clan zone
+S
+#99999
+$~
+

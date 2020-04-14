@@ -1,0 +1,35 @@
+#13300
+turnstyle~
+the turnstyle~
+A wooden turnstyle is being constructed here.~
+~
+13 1 0 hno a
+0 0 0 0 0 0
+99999 99999 0
+E
+turnstyle~
+There is a little sign on the side of the turnstyle:-
+
+        "Coming soon! Regular passenger service to the 
+     New World! See the world for a very reasonable price!"
+
+
+~
+#13304
+rope snake~
+a strong length of rope~
+Flee! A huge long snake lies coiled on the ground.~
+~
+9 1 0 0 al
+3 1 0 0 0 0
+9 2994 0
+E
+rope snake~
+Well ok, it's not a snake - but it could have been. The rope is around thirty
+feet long and as thick as your wrist, with each end plaited into a strong
+loop - able to bear the weight of even the greediest troll.
+~
+A
+2 1
+#99999
+$~

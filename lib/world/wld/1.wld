@@ -1,0 +1,4062 @@
+#100
+#NThe Garden of #RV#ra#wlhal#rl#Ra#N~
+     As you enter this area, the power overwhelms you.  You are surrounded
+by many trees and bushes.  This appears to be some kind of mystical 
+garden.  You notice something strange though.  This garden is like none
+you have ever seen.  All of the foliage seems to be strategically placed.
+There also appears to be a substance in puddles on the ground resembling
+blood.  Upon further examination you come to the realization that this,
+while in appearance a garden, is really a battlefield for those who
+inhabit Valhalla.
+~
+1 u 0
+D3
+~
+~
+0 -1 3059
+D4
+~
+~
+0 -1 101
+S
+#101
+Entrance to Valhalla~
+     You stand in front of a majestic palace.  The walls emanate
+power and glory.  You also have the feeling that you are being watched
+with every move.  The size of the palace is overwhelming and seems to
+reach into the heavens.  There is a large wooden door in front of you that
+has the width of 800 men standing side by side.  You notice a large oak
+tree and upon examining its upper reaches, you notice a strange little
+structure that resembles a treehouse.
+#GA beautifully engraved plaque is posted here.#N
+~
+1 u 0
+D0
+~
+~
+0 -1 102
+D4
+A trapdoor leading to a treehouse.~
+trapdoor~
+1 -1 112
+D5
+~
+~
+0 -1 100
+E
+plaque~
+#RV#ra#wlhal#rl#Ra #Nwould like to thank the following people:
+Viv        donated 2 million coins
+Demona     donated 5 million coins
+One        donated 5 million coins
+Zifnab     donated 5 million coins
+Momar      donated 5 million coins
+Foetus     donated 6.3 million coins
+Thomas     donated 10 million coins
+Lobo       donated 15 million coins
+Lethorial  donated 20 million coins
+Lag        donated 40 million coins
+Hath       helped with the rank names, room descriptions and general info.
+           about Valhalla and Norse mythology.
+Smilex     helped with recruitment and basically getting clan of the
+           ground.
+Heaven     made the title and rank colors.
+Brigantia  /helped every step of the way from the little nuiances and
+Nymph     | ideas in forming a clan to the actual recommendations on
+Mithrandir \the clan Valhalla itself.
+Marene     who will probably never read this since she doesn't mud, but my
+           best friend and the one who gave me the idea of Valhalla for a
+           clan.
+Valhalla   showed their support and faith in me in getting the clan
+Clannies   formed.
+
+    I wanted to show my deepest appreciation towards these people.
+Without any of them, Valhalla would still be just an image in my mind.
+These are the people who truly formed Valhalla.
+Thank you all for your help and support,
+Bruce
+~
+E
+guard statue~
+You notice the statue you are looking at is really Thor, the god of
+thunder.  He is wearing a pair of magic iron gloves and, wielded in one
+hand, is a red hot magic hammer.  Around his waist is a magic belt which
+emanates strength.  All, gifts from Dvalin, the dwarf chieftan.
+~
+S
+#102
+Hall of the Slain~
+     You stand in the entrance hallway to Valhalla.  The walls are
+made of gold and upon closer inspection, the roof is formed from battle
+shields.  Huge spears seem to be the main supports which hold up the
+ceiling.  The room is extremely well-lit, but you notice no lights.  You
+realize since the spears are so highly polished, the gleam from them is
+the only source of light needed.
+~
+1 du 0
+D0
+~
+door~
+1 -1 107
+D1
+~
+~
+0 -1 103
+D2
+~
+~
+0 -1 101
+D3
+~
+~
+0 -1 104
+D4
+~
+trapdoor~
+1 -1 114
+D5
+~
+~
+0 -1 116
+S
+#103
+Battle Room~
+     A large table stretches across one side of this room.  This is where
+all of the conferences are held among the members of the clan.  The other
+side of this room is arranged as a battle practice arena.  Blood stains
+the floor which indicates this is where battle tactics are practiced among
+the members of the clan.
+~
+1 dru 0
+D0
+~
+door~
+1 -1 108
+D1
+~
+door~
+1 -1 111
+D2
+~
+door~
+1 -1 110
+D3
+~
+~
+0 -1 102
+S
+#104
+Meditation Room~
+     This room is where the inhabitants of Valhalla go to heal their
+wounds after battle.  Numerous Valkyries tend to the injured with food,
+drink, and basic medical council.  The forces in this room seem to be
+greater than the others, for health and strength return in mere moments
+to the wounded.
+~
+1 dtu 0
+D0
+~
+door~
+1 -1 106
+D1
+~
+~
+0 -1 102
+D2
+~
+door~
+1 -1 109
+D3
+~
+~
+0 -1 105
+S
+#105
+Pillage Room~
+     Numerous tools of battle lay around this room.  You notice that only
+the select items from victories are kept here while the lesser items are
+discarded.  All of these items are what help to lead Valhalla to their
+many victories.   
+~
+1 du 0
+D1
+~
+~
+0 -1 104
+D4
+~
+trapdoor~
+1 -1 113
+S
+#106
+Vampyre's Sepulchre~
+     As you enter this room a shiver runs down your spine.  You have
+entered a cold, dimly lit room.  In front of you rests a large, closed
+coffin with a candle burning at each end.  The walls of the room are a
+dark grey and there is a red carpet under the coffin.  As you turn to
+leave this frightening room, you feel two little spikes penetrate your
+neck.  You realize that the inhabitant of the coffin truly was home.  As
+you start to fade into darkness, your last thoughts are... "I wonder how
+he is with the women."
+~
+1 du 0
+D2
+~
+door~
+1 -1 104
+S
+#107
+Bruce's Dugout~
+     You have entered a room in which the first words that come to your
+mouth are, "What a mess!"  A huge waterbed takes up the far end wall.
+Along one of the walls is an enormous trophy case containing all of the
+rewards of battle and all of the trophies and plaques received over the
+years in various sports (mainly baseball).  Various pieces of equipment
+are set up in order for Bruce to finely tune his skills in the martial
+arts.  A bookshelf along the other wall contains three complete
+collections.  Those of Stephen King, Calvin and Hobbes, and Bloom County.
+A guitar and tenor saxophone lay in the corner of the room, while in
+another corner sounds of Led Zeppelin, Dave Matthews, Dog's Eye View,
+Wallflowers, and many others can be heard.
+§N~
+1 du 0
+D2
+~
+door~
+1 -1 102
+S
+#108
+Explorer's Control Centre~
+     This big room looks as working cabinet. Behind walls stands an
+booksheves with all ELITE-related information. In middle of room stands
+big table with permanently working computer on him. At walls you can see
+maps of areas, examples of rare oldgen and existing equipment and some
+strange schemes.  Summon circle for mobs summoning connects with computer
+through standard interface cable for better performance. More north you
+can see 3 terminals connected with computer  for  three  incarnations of
+room owner: Explorer, Demiurge  and  Monster. At north wall hangs shield
+with engraved text:
+                    "Information is power"
+~
+1 du 0
+D2
+~
+door~
+1 -1 103
+S
+#109
+Momar's Bunker~
+     As you walk through the main man's door, the vaulted ceilings are
+the first thing to catch your eye.  You are surprised to see that there is
+not too much to this room.  Momar is a pretty basic guy.  There is a large
+picture of Turtle on the east wall, with a burning fireplace underneath
+it.  Other than the Smiths playing in the background, the room is pretty
+quiet.  The keys to his '97 vette are laying on the table just ahead of
+you... you feel tempted to take them, but you never know if that sneaky
+little brigand is hiding in the shadows around the corner.
+~
+1 du 0
+D0
+~
+door~
+1 -1 104
+S
+#110
+Lobo's Room~
+     You see the different heads of Lobo's enemies hanging on the wall.
+On the south wall rests the head of the Galactic Ex-emperor.  On the north
+wall you see a weapon collection from all the places in which Lobo has
+traveled.  On the east wall you see the head of Jesus and next to it rests
+the head of Satan.  Under these heads you see the inscription: A memorial
+of getting kicked out of heaven and hell.  Lobo truly is the last
+Czarnian.  In the middle of the room you see a Huge Gold Table with an
+inscription:  Nemo propter amorem dispiciatur.
+~
+1 du 0
+D0
+~
+door~
+1 -1 103
+S
+#111
+Smilex and Madison's Room~
+     As you enter this spacious abode, the smell of burning incense
+overcomes you.  The room is very dark, with candles glowing all around,
+and black lights on the ceiling, giving a florescent glow to the posters
+on the wall.  In the center of the room, there are two computers set up,
+one next to the other, obviously where Smilex and Aria sit and play with
+the internet.  There is a speaker in each of the four corners, and the
+music of Boyz II Men is playing softly.  The entertainment center is
+placed so that it can be operated and viewed from while sitting at the
+computers.  On one of the screens the words "I love Madison" are moving
+slowly across, and on the other it reads "I love Smilex".  There is a
+futon in front of the entertainment center, to sit on while watching TV,
+and if you listen quietly, you can hear the squeaking of a mouse.  Perhaps
+this is Roger, Smilex's pet.  The walls seem to glow, making you think you
+are protected.
+~
+1 du 0
+D3
+~
+door~
+1 -1 103
+E
+mouse roger~
+Roger is a small mouse, about 3 inches long plus a tail.  He is grey and
+fuzzy, and very cute.  He won't hurt you.  You can even pet him if you
+wish.  He answers to Roger and Rog.
+~
+E
+computer computers~
+Not much to say, they are computers, they look like computers, they sound
+like computers.  The screen savers announce Smilex's and Madison's true
+love for one another.
+~
+E
+futon~
+It's white, kind of dirty, but looks very comfortable.  Have a seat,
+relax.
+~
+S
+#112
+One's Treehouse~
+     Climping up the rope ladder you see how very simple this treehouse is
+decorated.  A single, dying torch is the only light source.  There are
+no tables or chairs, just some rags to rest upon.  Furs, in the corner,
+are the only things that serve as a bed.  The other corner of the room
+catches your eye.  There is some magnificent equipment carelessly left
+there.  As you approach the equipment, you feel somthing pull at your
+leg.  Before you can blink, you are hanging upside down!  One grins as
+he cuts the rope and you land rather roughly, head first.  Welcome.
+~
+1 du 0
+D5
+~
+trapdoor~
+1 -1 101
+S
+#113
+Gentle's Sanctuary~
+     You have reached Gentle's private chamber.  In one corner stands a
+large, comfortable, black leather seat, and a big fluffy mattress lies in
+the opposite corner.  A special rack for weaponry and armor is installed
+in the wall.  Some extremely rare artifacts have received a place of honor
+there.  There is an immense bookcase beside it, filled with books of
+literally ALL kinds and sizes.  The window provides an awesome view of
+the Gardens of Valhalla, and far in the distance you recognize the Great
+Field of Midgaard.  Some poppies are flourishing on the window-sill.  A
+massive oaken table, surrounded by six heavy chairs and with a huge
+silvery candlestand on it stands in the middle of the room.  There is a
+fireplace in the wall, and above it hangs a small metal plaque.  Two
+large portraits decorate the wall above Gentle's bed: one is a pencil
+drawing of his closest friend, and the other is a painting of his gorgeous
+wife.
+~
+1 du 0
+D5
+~
+trapdoor~
+1 -1 105
+E
+artifact artifacts~
+WOW!  The Deadly Gaze of Hapexamendios is just LYING here!?!  Hmmmmmm...
+and what the hell is this piece of junk?  An ugly dark brown bottle-shaped
+object with "DUVEL" written on it???
+~
+E
+book books~
+The most worn out book seems to be Clive Barker's "Imajica".
+~
+E
+poppies~
+"The patience of a poppy ... He who has smoked, will smoke."
+           -- Jean Cocteau --
+~
+E
+portraits portrait~
+Definitely masterpieces ... hmmm... signed: Master Sartori...
+~
+E
+friend~
+The one and only Karel grins at you, barely muffling a laugh.
+~
+E
+wife~
+So beautiful that a glimpse could blind or even kill a poor non-remort,
+she is the embodiment of loveliness, a triumph of nature: Katrien
+~
+E
+plaque~
+              All the peoples of the Imajica wish to express their
+            eternal gratitude towards Master Sartori for defeating the
+         Evil Spirits that roamed the In Ovo, for Reconciliating the Earth
+            with the four other Dominions and for cunningly destroying
+                           the evil god Hapexamendios.
+
+                   All hail the One True Master of The Imajica:
+
+                                   MASTER SARTORI
+~
+S
+#114
+#rLink's Realm#N~
+     You are standing in the middle of a very dark room. The only
+light sources are the flashing strobe lights that are blinking
+around you. At a first glance you see a few #Cponcho#N type packs
+hanging on the wall. You are starting to wonder what this place is.
+You watch as red beams of light are shooting from every possible
+direction. You then know this place must belong to Link the Laser Quest
+freak. You decide not to put a pack on because you probably will only be
+staying for a few minutes.  As you look more thoroughly through the room
+you can see a weapon rack that has about 4 swords on it, one of them being
+the all mighty #CMaster Sword#N. You see a pile of paper, most likely
+#Cscore cards#N.  You then see a stairway leading up into a swirling
+#bblue#N and #Mpurple portal#N.
+~
+1 du 0
+D4
+~
+portal~
+1 -1 0
+D5
+~
+trapdoor~
+1 -1 102
+S
+#115
+Selina's Torture Chamber~
+     You have entered the room of a very sadistic woman.  Various torture
+devices lay about the room.  Small streams of blood flow on the floor.
+A bed rests in the middle of the room which makes you realize, she brings
+her work home!  Various weapons rest against the wall.  On a shelf toward
+the back of the room rests a group of heads.  The metal plate attached
+to the shelf reads "Previous Lovers".  Apparently, like the praying
+mantis, men get more than they bargain for from this lady.
+~
+1 du 0
+D2
+~
+door~
+1 -1 116
+S
+#116
+Dungeon Hallway~
+     You have entered a very dark, gloomy room.  Water drips down the
+walls and fungus grows in the cracks of the floor.  You are not even sure
+how you can see this, since there aren't any lights evident.  The room
+just has an numbing glow to it.  As the hairs on your skin start to stand
+on end, you hear a blood curdling scream.  You start to second guess the
+intelligence of entering this area.
+~
+1 du 0
+D0
+~
+door~
+1 -1 115
+D2
+~
+door~
+1 -1 117
+D4
+~
+~
+0 -1 102
+S
+#117
+Mechan's Pub~
+     Here you can drink alcohol and laugh.  This place is a little, cosy,
+stone-made pub.  You see some paintings on the walls.  As you look closer
+at them you discover that they are very finely made paintings of the
+clannies.  A band of fearless warriors with no brains, but big muscles.
+There are some tables and chairs here also.  A bartender is standing
+behind a counter with a friendly smile.  As you approach, he says to you,
+"The booze is free".  As you take a beer and sit down on a chair, you see
+a large painting with gold around it.  The painting is of a large, young
+man with big muscles.  He is wearing shiny golden equipment and is
+wielding a large diamond sword.  He has long, blond hair and blue eyes.
+In the painting he is fighting a large bear to prove his courage.
+~
+1 du 0
+D0
+~
+door~
+1 -1 116
+S
+#150
+#RThe Entrance to an Ancient Ruin#N~
+     Two pillars of black marble frame a doorway here that leads into an
+ancient #wtemple#N to the south. The sounds of laughter and ecstacy mingle
+with screams, all coming from beyond the entrance. Some blood trickles
+out from the dark hallway beyond and onto the ground here where it blends
+into the red clay of the dirt path leading north toward the turning point.
+~
+1 u 0
+D0
+The Turning Point is north of here.
+~
+~
+0 -1 3502
+D2
+A dark hallway is south of here.
+~
+~
+0 -1 151
+E
+temple~
+The temple south of here stands as a monument of evil. Demons and
+gargoyles line the walls. Naked demonesses grace every corner. Bolts of
+lightning crash and dance among its high spires. It almost seems like some
+dark and evil god or goddess has reft this place from their realm and
+transplanted it into the world of Elite.
+~
+E
+statue demon~
+The marble statue is about 10 feet high and made from a black marble
+with white flecks in it.  It is of a two-headed, female demon, and is
+expertly crafted.
+~
+S
+#151
+#RThe Main Hallway#N~
+     This dark hallway is lit at even intervals by torches. On one end of
+it lies an entrance to the foyer area of the temple. To the north lies an
+exit back into the world of Elite. A stairwell spirals upward from the 
+middle of the hall ending at a portal that leads to the personal rooms of
+the clan's members.
+~
+1 du 0
+D0
+The northern passage leaves the temple.
+~
+~
+0 -1 150
+D2
+The southern passage leads to the temple foyer.
+~
+~
+0 -1 152
+D4
+The stairs lead up to a portal in the ceiling.
+~
+~
+0 -1 157
+S
+#152
+#RThe Foyer#N~
+     The foyer of the Minions of chaos is a large, circular room. It is
+elegantly decorated and has exits leading out to other sections of the
+clan house.  To the north you can see a hallway leading to the outside and
+to the personal rooms of the minions. To the east an aura of power and
+chaotic energy can be felt pouring out healing essences. To the west 
+stacks of weapons, equipment, and armor can be seen through a doorway. Far 
+on the other end of the foyer to the south, runes have been carved that
+light the way deeper into the temples heart.
+~
+1 du 0
+D0
+The passage leads toward the entrance of the clan house.
+~
+~
+0 -1 151
+D1
+The clans healing chamber lies to the east.
+~
+~
+0 -1 155
+D2
+Carved runes light the way south.
+~
+~
+0 -1 153
+D3
+The clan equipment room is to the west.
+~
+~
+0 -1 156
+S
+#153
+#RThe Room of Mystery#N~
+     In this room are the clan mysteries kept. On a #wwall#N is carved
+clan #wrules#N and other clan #wmysteries#N. On another #wwall#N is
+inscribed black magical #warts#N, to keep the powers of evil and chaos in
+check.  A set of double doors leads off to a passage to the south, one is
+inscribed with a rune of Chaos, the other with a rune of Evil. In the
+middle of this room is a podium upon which rests the clan board. Maybe you
+should check it to see if something new has come up in the clan.
+~
+1 du 0
+D0
+The carved runes lead back to the foyer.
+~
+~
+0 -1 152
+D2
+A dark and evil sense lies beyond these open doors.
+~
+door~
+1 -1 154
+E
+ranking2 Ranking2~
+    Typically the rank 6 will be 1st and 2nd remorts, the rank 7 will be
+    3rd and 4th, and the rank 8 will be councilors. (We expect many of
+    these councilors to be 4th remorts) The lines are not etched in stone.
+    If you're mort and never log in again, don't expect to log back in 6
+    months later and still be listed. Rank 9 is reserved for the clan
+    Patriarch/Matriarch.  Rank 10 is a Deity rank.
+~
+E
+Ranking1 ranking1~
+    Minions of Chaos ranks based initially upon power. Anyone may be
+    promoted through the first 5 ranks purely based upon their level. The
+    top 5 ranks are based upon remort and time spent here, helping the
+    clan, etc.
+~
+E
+deities Deities~
+    GODS. Minions will not deny Gods a mortal ranked in this clan or any
+    others. If you wish you may have your mortal ranked and your
+    God-character ranked. However, you STILL only will receive 1
+    opportunity to cast a vote if it is called for.
+~
+E
+council Council~
+    Clan decisions will be made by a Dark Council, The Dark Council will
+    be created upon the stabilization of the clan by the clan Patriarch,
+    Matriarch, and Sponsoring God. Council members may be changed upon
+    agreement of all three parties. This council runs the clan with veto
+    power held in the hands of the Patriarch and Matriarch. They may
+    subsequently be over-ruled by the Clan sponsoring God AND the Dark
+    Council. Basically, the power is in the upper level hands, but no
+    single group is supreme.
+~
+E
+rules3 Rules3 RULES3~
+The Rules for Minions of Chaos (3 of 3):
+    Minions of Chaos is a dark and evil clan. It's rituals of drawing
+    power out of conflict and evil stain the soul. Anyone who wishes to be
+    accepted into the clan must realize that roleplaying their character
+    in an evil manner is promoted. However, note that EVIL does not
+    translate to being a jerk, if you think it does, find another clan.
+    Consequently if you can not figure out what a jerk is, find another
+    clan.
+~
+E
+rules2 Rules2 RULES2~
+The Rules for Minions of Chaos (2 of 3):
+    Minions of Chaos are expected to follow the typical clan rules. Try to
+    get along with members, keep the donation room well stocked, not sell
+    to clan members, etc. If you want to give an item or two out to a
+    friend or a multi, ask. We don't mind you giving out an item or two
+    but if you think you are going to rob us blind, your soul will be
+    forfeit. (SEE Rules3)
+~
+E
+Rules1 rules1 RULES1~
+The Rules for Minions of Chaos (1 of 3):
+    Applicants must be level 20 to apply. Applicants must get the consent
+    of two clan members of Eryine level or higher to sponsor them into the
+    clan. The sponsorers are responsible for making sure the applicant
+    reads all of these walls and that the applicant accepts them. Then the
+    sponsorers must post on the board information about the candidate and
+    why they should be accepted into the Minions of Chaos. (SEE Rules2)
+~
+E
+mysteries arts rules wall walls~
+Various subjects are carved into the walls, they are listed by #wRules1#N,
+#wRules2#N,#w Rules3#N, #wCouncil#N, #wDeities#N,#w Ranking1#N and 
+#wRanking2#N.
+~
+S
+#154
+#RThe Altar Room#N~
+     This room is dark and seems much older than the other portions of the
+temple.  Torches burn in sconces on the side but no smoke comes from them.
+A pentagram is drawn in dried blood on the floor. In the middle of the 
+pentagram is a raised dias, upon which stands an#w altar#N made of some
+kind of black rock with silver trim. A few dark objects lay upon the altar
+but from the distance you can not make them out. A sense of awe overpowers
+you as you realize that in this room did chaos and evil form its pact to
+ally for all eternity. All the clan's leaders are bound in this room with
+unholy rituals. Despite your own evil nature you cannot supress a shudder
+when you think of what has been and will be done again, in this room.
+~
+1 du 0
+D0
+The passage leads back to the mysterious chamber.
+~
+door~
+1 -1 153
+D5
+Beneath the altar a stairway leads down.
+~
+altar~
+3 -1 159
+E
+sword roses~
+A sword with a blade of black steel lies among the roses upon the altar.
+Upon the blade are red runes which burn and writhe giving off an errie
+glow.  Surrounding the sword are a few black roses. The petals of the
+roses glimmer with a red sheen, however, you can not be certain if this is
+because of the light from the sword's runes or if each rose was dipped in
+blood. Try as you might, the sword and the roses, refuse to budge.
+~
+E
+altar~
+This altar is made of obsidian. Silver trim has been hammered carefully
+into the sides of the altar and etched upon the trim are tiny demons
+engaged in obscene acts. A few black#w roses#N lie on the altar around a
+strange looking#w sword#N. In the altar's center a white marble basin has
+been sunk. The basin is also etched with tiny demons and demonesses. At
+the bottom of the basin an intricate demoness is carved with her mouth
+wide open, as if to drink any blood that might drip into the basin.
+~
+S
+#155
+#RThe Chamber of Chaos#N~
+     This room is lushly decorated in red and black. Places to sit and
+rest are scattered everywhere. A feeling of power and raw chaos permeates
+this room, and in it you feel your wounds itching as they begin to heal
+faster. A huge sign of Chaos is drawn in the middle of the floor and the
+whole room seems to be empowered by it. As you look around you can see the
+ecstacy on the faces of the chaotic and evil clan members that surround
+you.
+~
+1 dtu 0
+D3
+The door leads east to the foyer.
+~
+~
+0 -1 152
+S
+#156
+#RThe Armory of Entropy#N~
+     Spare equipment lies on the floor of this room or stacked on shelves
+on the sides of the room. Clan members are reminded that although evil and
+chaotic in nature, everyone has to start somewhere and that helping
+another clan member might get you a favor returned later.
+~
+1 du 0
+D1
+The door east leads into the foyer.
+~
+~
+0 -1 152
+S
+#157
+#RA Dark Hallway#N~
+     This hallway is brightly lit by torches in sconces at even intervals.
+Doors lead outward from every direction to the personal rooms of the clan
+members. A statue of a grinning demon stands on one end of the hallway and
+on the other end of the hallway a statue of a naked succubus lies enticing
+the demon along. A portal lies beneath your feet beckoning for you to
+choose a room or to enter it.
+~
+1 du 0
+D0
+To the north lies the personal room of Clotho.
+~
+door~
+1 -1 158
+D1
+To the east lies the personal room of Drineas.
+~
+door~
+1 -1 160
+D5
+The portal leads down to the bottom level of the temple.
+~
+~
+0 -1 151
+S
+#158
+#RThe Black Hall#N~
+     You stand in the middle of a large, round chamber, vaulted high with
+black stone supports.  The chamber is crafted from polished black marble,
+glittering with the dim light that emanates from torches, spaced about the
+room at even intervals.  Platinum inlays line the chamber's vaulted
+ceilings. In the middle of the chamber, there sits a large, ebony desk
+littered with papers and various magical items. The north wall has upon it
+a large, picture window from which can be seen a beautiful view of
+Midgaard and the Elite world.
+~
+1 du 0
+D2
+The door leads back into the hall.
+~
+door~
+1 -1 157
+S
+#159
+#RThe Secret Meeting Room#N~
+     In this room of white and black marble, the clan's most powerful
+leaders meet to decide how to do the world more ruin. A black marble table
+lies in the middle of the room and around its sides are thrones of white
+marble. On each of the thrones is etched a symbol of the twisted lord or
+lady the throne is for. At one end of the table lie two thrones of white
+rock with red streaks running through them. At the far end of the table is
+a throne on a dias made of solid obsidian.
+~
+1 du 0
+D4
+Some stairs lead back to the altar room.
+~
+door altar~
+3 -1 154
+S
+#160
+Dungeon of Drineas~
+  You feel a sudden chill when you enter this dark room. The only light
+comes from a few torches hanging on the walls. Somewhere in the distance,
+yet very close, you can hear whispering prayers and chants. Along one wall
+you see three pieces of armor and clothing. The first one is a magnificent
+armour, forged in the blackest of steel but enchanted to a minimum of
+weight.  The next one is a set of priest robes. Black and red, they have
+the words "Redemption" sown onto the sleeves, a flame tounge sown onto its
+chest.  The last set is a pair of ordinary clothes, made of the finest
+quality yet nothing marks them out.  A small bookshelf is standing against
+the opposite wall, holding books on all subjects that may be of any
+interest
+to Drineas. A charred skeleton hangs from the wall with its hands attached
+to
+a pair of shackles, and next to it a beautiful sculpture in black marble
+of
+a fair drow lady. On the other side of the room there is a large desk
+close
+to the wall, with a comfortable chair behind it. Several items are on the
+desk, a small candle provides the light that is needed, a large tomb is
+lying
+open and a few scrolls is laying next to a quill pen. On the wall behind
+the
+desk a large flag is hanging. The background represents two crossed
+torches,
+with a hooded and grinning skull overlapping them.
+~
+1 dju 1
+D3
+~
+door~
+3 -1 157
+S
+#179
+#mThe Realm of Lord Garthos#N~
+   As you enter, you immediately notice it seems you have entered a place
+other than the Kai Citadel.  You stand on a cracked stone floor, yet
+darkness stretches in all directions.  It seems you can see a bed and
+other furniture in the distance, but as you approach, two snarling hell
+hounds leap up from their chained posts and begin to howl, straining to  
+get at you.  Panicked, you turn to exit, but there is no door! All the
+lies before you is more inky darkness and death approaches...
+~
+1 adetu 0
+D5
+~
+trapdoor~
+9 -1 424
+S
+#180
+TRI Clan Gates~
+   You have come upon the front gate of the Tri Clan House. Upon the gate you
+see a plaque. There is also a portal to the west with an odd looking triangle
+on it.
+~
+1 cu 3
+D0
+You see the main meeting area of the house. 
+~
+~
+0 -1 181
+D3
+Back to town!
+~
+portal~
+1 -1 3070
+S
+#181
+TRI Clan Meeting Hall~
+   You find yourself in a room that glows with a light of its own. Around you
+are beautiful paintings of mighty Tri Elders in battle. You feel at home here
+and know that this is a place to rest were you can get away from the busy mud
+traffic. On one wall is a large fireplace that adds to the glow of the room.
+This room is large enough to hold the entire clan and has ample seating for any
+clan meeting if need were to arise. 
+~
+1 du 0
+D1
+You see a comfortable looking lounge. 
+~
+~
+0 -1 183
+D2
+The front gate of Tri House 
+~
+~
+0 -1 180
+D3
+You see what looks like a storage room. 
+~
+~
+0 -1 182
+S
+#182
+Storage and Donations Room~
+   You are standing in the Donations room. Please help out your fellow clan
+members and leave your unused or unwanted equiptment here. 
+~
+1 du 0
+D1
+You see the clan meeting hall. 
+~
+~
+0 -1 181
+S
+#183
+Tri Lounge~
+   You enter a comfortable lounge area decorated in relaxing colors and
+patterns. This is a great place to get away for a while, kick up your feet and
+just relax or have a nice conversation. Around you are chairs and couches
+provided for your comfort. 
+~
+1 dtu 0
+D1
+You see a pub. 
+~
+~
+0 -1 184
+D3
+You see the main meeting area. 
+~
+~
+0 -1 181
+D4
+~
+~
+0 -1 186
+S
+#184
+Tri Clan Pub~
+   Here you find the perfect pub. Around you are your friends, the beer is good
+and there is no phone, so you dont have to worry about calling the wife. Enjoy
+while you are here.
+§N~
+1 du 0
+D2
+You see a door to the back alley. 
+~
+door~
+9 -1 185
+D3
+To the west is the lounge. 
+~
+~
+0 -1 183
+S
+#185
+Back Alley~
+   Ok, you come out here for a reason, so lets get at it. If you got a problem
+this is were to solve it. Just remember, there are no rules in street fights. 
+~
+1 dru 1
+D0
+The back door of the pub is here. 
+~
+door~
+9 -1 184
+S
+#186
+TRI Hallway~
+     You have reached the inner sanctum of the TRI clan house.  All around
+you are the doors that lead to the personal rooms of the TRI Dominators.
+§N~
+1 du 0
+D0
+~
+~
+1 -1 188
+D1
+~
+~
+0 -1 189
+D3
+~
+~
+1 -1 191
+D4
+~
+~
+1 -1 187
+D5
+~
+~
+0 -1 183
+S
+#187
+Goddess's retreat~
+A thousand years ago, supersition and the sword ruled.  It was a time of 
+darkness it was the age of gargolyes.  Stone by day warriors by night.  
+As a gargoyle  I have sworn to protect my clan.  I am the defender of the 
+TRI Clan. I am Demona the Gargoyle.
+ 
+ 
+Insences fills the room reminding you of a far off land.  Silken sashes hang 
+from the ceiling making it hard to judge the size of the room.  Eerie melodies
+waft across the air.  You feel a peace, a oneness with yourself and the world 
+around.  You have entered a calm state.  Thoughts of the world of mobs and 
+levels fade like a distant stome. A voice speaks out and says, 'Come, relax, 
+and enjoy all I can offer.  One request, please check your egos at the door.
+§N~
+1 dju 0
+D5
+~
+~
+1 -1 186
+S
+#188
+Ogy's Room~
+  You have entered the room of one of the TRI clan leaders, the honorable
+and humble Ogy. The room is filled with a wide variety of art and artifact
+depicting the areas of skill and knowledge, that Ogy has chosen to gain
+power, honor, and glory, in the name of the mightiest of all the clans,
+the TRI clan.
+  Against the east wall you see a large and luxurious waterbed, so large
+in fact, you could lay two people end to end and still not span the length
+or width of this masterpiece of aquatic hybernation. On the wall above the
+bed is a large portrait of Ogy in battle against the nearly indestructable
+"ferocious killer rabbit".
+  On west wall can be seen a large rack holding a vast arsenal of weapons.
+It contains practically every type of weapon imaginable. You shiver at the
+thought that any one person could be their master.
+  Near the west wall is large cabinet. Peering within you see a enormous
+assortment of healing and recupritive items. Seen are, scrolls, potions,
+vials, herbs, and several other items you've never seen before.  It is quite
+clear that Ogy is not just a run of the mill healer, but is instead well
+versed in the healing arts.
+  A bookcase stands against the entire north wall. It contains volume after
+volume of magical knowledge from times long forgotten upto the present day.
+Mastering the knowledge contained in just a few of these precious tabloids
+would most certainly make any man one of the most powerful magic-users in
+the land.  Your mind reels to think of the person who could master them all.
+§N~
+1 dju 0
+D2
+~
+~
+1 -1 186
+S
+#189
+TRI Hallway~
+     You have reached the inner sanctum of the TRI clan house.  All around
+you are the doors that lead to the personal rooms of the TRI Dominators.
+§N~
+1 du 0
+D0
+~
+~
+1 -1 192
+D1
+~
+~
+3 -1 194
+D2
+~
+~
+1 -1 193
+D3
+~
+~
+0 -1 186
+S
+#191
+#BExplorer's Control centre#N~
+     This big room looks as working cabinet. Behind walls stands an
+bookshelves with all ELITE-related information. In middle of room stands
+big table with permanently working computer on him. At walls you can see
+maps of areas, examples of rare old gen and existing equipment and some
+strange schemes.  Summon circle for mobs summoning connects with computer
+through standard interface cable for better performance. More north you
+can see 3 terminals connected with computer for three incarnations of room
+owner: Explorer, Demiurge  and  Monster. At north wall hangs shield with
+engraved text: 
+        "Ad Majorem TRI Gloriam"  and  "Information is power".
+~
+1 dju 1
+D1
+~
+~
+1 -1 186
+S
+#192
+The Sept of a Deep One.~
+     You are in a small clearing in what seem to be a endless forest.
+Strange, you think as you are sure that this is within the walls of
+the TRI-clanhouse. But considering it is the home of Egba Glob, you
+are not really surprised. The climate in here is very moist and you
+feel really refreshed. In the centre of the clearing is a small statue
+of some very odd deity. It is surrounded by large heaps of gold and
+jewellery, weapons, bloodstenched armours and one or two dismembered
+peasants. This surely is : the Home of Egba Glob the Furry Deep One.
+~
+1 dju 1
+D2
+~
+~
+1 -1 189
+E
+statue~
+The statue shows a strange entity.
+A massive body with large pods,
+crude arms, huge leathery bat wings 
+and a head that looks like a gigantic octopus. 
+And the eyes.......
+
+You hear yourself say : CHUTHULU !!!  I hear and obey !
+~
+S
+#193
+Hath's Lair~
+    What is this!? - You wonder as you step inside his lair. The room
+that from the outside looked so warm and cozy has turned into an icy
+and dark lair as you step over the threshold. Gloom and sadness is
+lurking here in the shadows, making you feel uncomfortable.
+It's cold here, so very cold. A chilly wind is blowing from nowhere.
+A large bed is placed in the middle of the lair. Above the bed there
+is circular window in the roof, from there you can see the dark
+starlit sky and the Northern lights dancing seductively.
+In the middle of the bed you can see an old torn teddy-bear. You
+smile a bit as you see it. Everyone, no matter how strong, needs some
+comfort and support when times are tough.
+     On one of the Icy walls you can see a carving of a red dragon on 
+a snowcovered mountain top. There are a Sun and a Moon on each side of 
+the mountain, facing each other. From the dragon's nostrils and mouth,
+a cone of cold can be seen as it breaths. It is probably the first time
+you've seen a red dragon breathe something other than fire. The carving
+looks very much alive and you can almost feel the serpent eyes watch you
+as you move along. Strange indeed.
+     Then on the floor under the bed you can see a half-written book about
+the clan called TRI. "Hath's guide to TRI" it's called. You open it and read
+the first lines in the introduction.
+
+"This is the book written by me, Hath. I am a TRI in heart and will always
+be no matter what. Of me you can ask the way of a true TRI, beginner as
+a master, lawful or chaotic. Everyone is welcome.
+Here the story begins..."
+~
+1 dejou 1
+D0
+~
+~
+1 -1 189
+S
+#194
+Shrine of Darkness~
+   Thin ledges extend across large pools of lava, winding their way
+through a large black stone tunnel.  At the far end of the tunnel a
+large shrine rises upward from the rolling waves of molten metal.
+Pillars extend hundreds of feet into the air, reaching to the
+cavern ceiling, and decorated by smaller carvings of skulls and
+winged demons.  The inner hall lays out before you some several hundred
+yards lined with paintings, carvings, and tapestries depicting demons
+and gods such as Uk-tya'nuka, Marduk, and Lucifer.  Mammoth giant
+demons in black and crimson armor guard the various halls the branch
+off from the main hall.  In the center of the hall, a large golden
+alter, stained in blood , rests before a Hideous throne of black metal,
+bone, and pure dark power.  Banners on either side of the throne depict
+ancient runes detailing the dark lord Milamber, and his master,
+the Angel of Chaos.
+~
+1 deou 1
+D3
+~
+~
+3 -1 189
+S
+#201
+Main Room~
+   You stand upon the finest carrera marble. A grand staircase in the back
+leads up to the sleeping quarters and down to the Treasury. In the center of
+the room stands the statue of an armored SHOGUN warrior. A doorway to the west
+leads into the meeting room. To the east a glint of fine weapons can be seen in
+the Armory. The door to the north leads out of the clan house. 
+~
+1 deu 0
+D0
+This door leads back out into the world. 
+~
+Door~
+1 -1 12067
+D1
+~
+~
+0 -1 202
+D3
+~
+~
+0 -1 206
+D4
+~
+~
+0 -1 205
+D5
+~
+~
+0 -1 204
+S
+#202
+Armory~
+   This room has shelf-lined walls to hold all of the equipment that the SHOGUN
+have stored. Fine weapons and handcrafted artefacts litter the floor. 
+~
+1 deju 0
+D3
+~
+~
+0 -1 201
+S
+#203
+Kitchen~
+   Something cooking smells great in this room. This is the typical kitchen
+perhaps except for the lack of knives, but what else could you expect with a
+houseful of SHOGUN. 
+~
+1 du 0
+D1
+~
+~
+0 -1 206
+S
+#204
+Treasury~
+   Gold, Silver and Jewels are everywhere. Famous paintings, some from the
+greatest artists in the world, are lying around like trinkets. Bounty from
+every country sits here and all of it belongs to the SHOGUN. A bank teller
+machine sits here. 
+~
+1 deu 0
+D4
+~
+~
+0 -1 201
+S
+#205
+Sleeping Quarters~
+   Rows and rows of bunks can be seen here. This is a safe place for the SHOGUN
+to rest between their many battles. Anyone entering should keep quiet. After
+all, you haven't seen angry until you have woken a SHOGUN. 
+~
+1 cdetu 0
+D4
+~
+~
+0 -1 1231
+D5
+~
+~
+0 -1 201
+S
+#206
+Meeting Room~
+   A huge table sits here with many chairs around it. On the walls the pictures
+of the SHOGUN founding fathers, Raster, Eliminator, Oxide, Epitaph and Drogg
+can be seen. Many great decisions have been made in this room. 
+~
+1 du 0
+D1
+~
+~
+0 -1 201
+D3
+~
+~
+0 -1 203
+S
+#231
+THE ARTEMISIAN'S SANCTUARY~
+  Before you lies the golden temple of the Artemisian Order.  Behind the 
+door you hear the faint whispers of the sisterhood within.  Above the 
+door you see the words "Boethia Uber Allelon," the Artemisian Credo. 
+Although these lovely women are more than happy to help those in need, 
+they are not too fond of unwated guests!
+~
+1 du 1
+D0
+The Great Hall of Artemis.
+~
+~
+0 -1 232
+D3
+~
+~
+0 -1 3802
+S
+#232
+THE GREAT HALL OF ARTEMIS~
+  As you enter this holy temple, you become aware that you are being 
+watched...but by whom?  You hear the echoes of footsteps, but see no one 
+as you turn to look.  This room smells of the wild flowers that are 
+growing from the floor.  Somehow, sunlight filters through the arched 
+ceiling, making you feel as if you are still in the forest outside.
+~
+1 du 1
+D0
+the Altar Room
+~
+~
+0 -1 233
+D2
+the Temple Entrance
+~
+~
+0 -1 231
+S
+#233
+THE ALTAR ROOM~
+   A large statue of the goddess Artemis greets you as you enter the
+room.  She stands before a bloodstained altar upon which the unjust
+are slain in her honor.  Two smaller statues of the Goddesses, Lovely
+and Brigantia, stand guard at her side.  As you move about this room,
+you can feel the watchful eyes of the sisterhood upon you.  Perhaps
+you will become the next to lose your life upon their altar?
+~
+1 du 1
+D0
+Adelphean's Room
+~
+~
+0 -1 234
+D1
+Hallway of Secrets
+~
+wooden door~
+11 -1 238
+D2
+Great Hall of Artemis
+~
+~
+0 -1 232
+D4
+Hallway of Immortality
+~
+artemis~
+11 -1 242
+D5
+Amazon's Training Room
+~
+altar~
+11 -1 236
+E
+altar bloodstained~
+  The altar is stained with the blood of the men and the beasts 
+sacrificed to Artemis.  You notice that the stones at the base do not 
+quite fit into the floor...perhaps something is beneath it?
+~
+E
+brigantia 2.goddess~
+Brigantia, the wee little effervescent fairy has long auburn hair
+and vibrant purple eyes.  A twinkle in her eyes sends a feeling of
+comfort and friendship throught your body.  Around her neck is a 
+celtic torque, a gift from Artemis herself.  It symbol of being
+free-born, a slave to noone.  The fairy proudly wears the mark of
+the Artemisians on her left arm.
+~
+E
+lovely fairy 1.goddess~
+  Lovely, the beautiful fairy has long auburn hair and deep brown eyes. 
+She has a devilish grin, and you can see in her eyes a great and noble 
+wisdom.  She carries the secrets of nature as told by the maiden 
+goddess.  ON her left arm she bears proudly a large scar from one of her 
+many battles.  On her right arm is the mark of the Artemisian Order.
+~
+E
+artemis goddess~
+  The maiden Goddess Artemis is strong and tall.  She wears only a 
+wreath of flowers and a quiver of arrows.  In one hand she holds a 
+golden bow, and in the other, a double-headed axe...dripping with blood.
+~
+S
+#234
+THE ADELPHEANS' ROOM~
+  The Artemisian Adelpheans are skilled in the arts of healing and 
+magic. They assist the High Priestesses with the preperations of rituals 
+and sacrifices.  You see a large pool here, built for the ritual bathing 
+of the victims before they are sacrificed.  Most men will come here 
+willingly with a beautiful Adelphean, but leave here weeping when they
+realize what is to be done to them.
+~
+1 du 1
+D0
+the Maiden's Room
+~
+~
+0 -1 235
+D2
+door training
+~
+~
+0 -1 233
+E
+pool shimmering~
+  The shimmering pool is quite inviting, but the only souls allowed 
+inside are the Artemisians, and those they are to sacrifice.
+~
+S
+#235
+THE MAIDEN'S SANCTUARY~
+  Before an Artemisian may become an Amazon, she must endure a period of 
+intense training as a Maiden.  The Maidens are trained in the arts of 
+war, as well as the lore of the forest.  This room is where the maidens 
+spend much of their time studying and practicing their skills.  The 
+walls are covered with murals of the Artemisian hunt, during which 
+Artemis transforms herself into a white doe, which the Maidens must 
+capture alive.
+~
+1 dtu 1
+D2
+the Adelpheans' Room
+~
+~
+0 -1 234
+S
+#236
+THE AMAZON'S TRAINING ROOM~
+  This room is where the mighty Amazon warriors of the Artemisian Order 
+practice their deadly skills.  the Amazons are skilled hunters, capable 
+of dispatching man or beast with eerie efficiency.  The walls are 
+covered with murals of the many battles fought for the Order before 
+Artemis.
+~
+1 dou 1
+D2
+Amazon Armory
+~
+door armory~
+11 -1 237
+D4
+Altar Room
+~
+altar~
+11 -1 233
+S
+#237
+THE AMAZON'S ARMORY~
+  This is where the Amazons keep the spoils of their hard-fought 
+battles.  The treasure in this room is for all of the Artemisians to 
+share.
+~
+1 du 1
+D0
+Training Room
+~
+door training~
+11 -1 236
+S
+#238
+HALLWAY OF SECRETS~
+  This hidden hallway is where the private chambers of the Order's 
+leaders can be found.  The floor here is covered with a thick blue 
+carpet, just right for walking barefoot on.  You can barely hear the 
+noise from the Altar through the thick wooden door.
+~
+1 du 1
+D0
+Bronwyn's Chamber
+~
+door bronwyn north~
+9 -1 240
+D1
+Hallway
+~
+~
+0 -1 244
+D2
+BigBird's Chamber
+~
+door bigbird south~
+11 -1 239
+D3
+Altar Room
+~
+wooden door west~
+11 -1 233
+S
+#239
+BIGBIRD'S CHAMBERS~
+ You have entered the private chambers of BigBird.  BigBird has decided 
+to decorate the room with a dungeon motif.  An Iron Maiden lies against 
+one wall, and various instruments of torture are scattered around the 
+room.  The blood of her latest victim is dripping on the floor.  In one 
+corner is a large bookshelf, piled high with stuffed animals!?!?!?  
+Well, perhaps BigBird has a nice side after all ...(?)
+~
+1 du 1
+D0
+Hallway of Secrets
+~
+door hallway north~
+11 -1 238
+D3
+~
+door~
+39 1007 1239
+E
+shelf animals~
+  This shelf is full of cute and fuzzy stuffed animals.  Among them, you 
+can see a few bunnies, a couple of bears, and Barney, the purple 
+dinosaur.
+~
+E
+iron maiden~
+  This pain inflicting device is from the late 1800's.  Although aged 
+and less used now adays, it still proves as a worthwhile method of 
+distributing pain and extracting valuable information.
+~
+S
+#240
+BRONWYN'S CHAMBERS~
+     You have entered Bronwyn's Chamber. As you look around, all you
+can do is smile. Bronwyn may be a grown woman, but looking around,
+you'd think she was a child. You look to the left of the room and you
+see a pile of stuffed bunnies everywhere! As you continue to look
+around the room, straight ahead you see an antique four-poster bed,
+with a handmade comforter on it, probably fifty or more years old
+itself, along with some other antique furniture around the room.  Off
+to the side of the bed, on the nightstand, is a picture in an elegant
+frame. To the right of the bed is a large bay window with a
+picturesque view of Midgaard. Bronwyn can often be found resting in
+her window seat, thinking about what life has in store for her.
+~
+1 d 1
+D2
+Hallway of Secrets
+~
+south hallway door~
+9 -1 238
+E
+bunnies~
+As you look at the pile of bunnies, you
+get the urge to go and jump into them like a child would, but you suppress
+it for now.
+~
+E
+picture~
+As you look at this portrait you see Bronwyn
+and her sexy, loving husband Fresh, her sister Madison and Madison's adorable
+husband Smilex. They all look so cute!
+~
+E
+window~
+Outside the window, you can see people shuffling about the
+town. Off to the east, you can see Harold the Undertaker doing busineses with
+a bloody person whom you cannot make out at this point.
+~
+S
+#241
+MYSTIC AND ZARQUON'S LOVE SHACK~
+     As you push aside the beads hanging in the doorway, you feast your 
+eyes on a vibrantly decorated room.  In the very center of the room, 
+is a soft, comfy looking bed that has seen many happy nights.  There 
+are pictures completely covering the walls of their VERY extended family.
+There is a soft breeze coming from the balcony, where Mystic can often 
+be seen reading or just thinking.  There are several old bean bag chairs
+scattered about the room, which Zarquon refuses to part with despite 
+Mystic's complaining.  There are large round pillows thrown all around the
+room, probably from the couple's last playful fight.  You are completely 
+overwhelmed with the aura of happiness and playfulness that radiates from 
+this room.
+~
+1 du 1
+D0
+Hallway
+~
+door north~
+11 -1 244
+S
+#242
+HALLWAY OF IMMORTALITY~
+  This hallway is dark, lit only by the cracks of light escaping from
+underneath four doors.  The northern door looks oddly enough like a visor,
+you can't begin to fathom how to operate it... The door to the east and 
+west are small and are located several feet off the ground.  The door to 
+the south appears to be made of stout oak.
+~
+1 du 1
+D1
+Brigantia's Effervescent Coolies
+~
+door bri~
+803 -1 1257
+D2
+Drogg's Chambers
+~
+door drogg~
+11 -1 1242
+D3
+Lovely's Chambers
+~
+door lovely~
+11 -1 1261
+D5
+The Altar Room
+~
+artemis~
+11 -1 233
+S
+#243
+KARLI'S CHOKLIT PARADISE~
+   This relatively small room is approximately 20 by 20 feet and
+made of pure solid milk chocolate.  Little Oompa Loompas run about
+mixing chocolate, and creating candies for the kiddie winks.  Chocolate
+kisses line the ceiling, waiting to be eaten.  Many buckets (made of
+chocolate also) are scattered about the room, all marked and containing
+a different kind of scrumdidilyumptious candy.  In a special section
+of the room, several pictures float in mid-air... one depicting her
+beautiful daughter, Medea... one of her whip-mistress mommy, Lovely...
+one of her lovely Goddess and sister, Brigantia... and one of the WHOLE
+Artemisian clan!  Whips of all sort lie on the ground just beneath the
+pictures (seemingly used veeeery frequently).  A great portrait of
+the Goddess Artemis is carved into the chocolate of the back wall.
+
+Welcome to Karli's Choklit Paradise...
+~
+1 du 1
+D2
+Hallway
+~
+door south~
+9 -1 244
+S
+#244
+HALLWAY OF SECRETS~
+  This hidden hallway is where the private chambers of the Order's 
+leaders can be found.  The floor here is covered with a thick blue 
+carpet, just right for walking barefoot on.  You can barely hear the 
+noise from the Altar through the thick wooden door.
+~
+1 du 1
+D0
+Karli's Chambers
+~
+~
+9 -1 243
+D2
+Mystic's Chambers
+~
+~
+11 -1 241
+D3
+Hallway
+~
+~
+0 -1 238
+S
+#250
+#MThe Gates of Zia#N~
+     Awe is what you feel, standing in front of these truely gigantic
+gates, which burn perpetually, keeping those not of Phos from entering our
+sacred refuge.  The burning spires tower high above you, seeming to singe
+the clouds and reach for the sun in their marvelous granduer.  Amazingly,
+the spectacular gates are only the beginning of the wonders that await you
+when you enter our sacred fold.
+~
+1 du 0
+D0
+~
+~
+0 -1 251
+D2
+~
+~
+0 -1 12066
+S
+#251
+#MDen of the Eclipse#N~
+     The first thing that catches your eye as you enter this immense
+dining room for the followers of Phos is a monstrous marble dining table.
+Each of our esteemed brothers and sisters claims a seat, where we discuss
+our exploits and drink wine until Phos shines upon us once again.  Richly
+dark oak pillars stand around the table, and huge fires remind us of our
+Lord when he is away blessing others.  A #Ygolden plaque#N hangs on the
+eastern wall.  Thick rugs and furs invite you to remove your heavy boots
+and sit for a spell, and talk amongst yourselves.
+~
+1 du 0
+D0
+~
+~
+0 -1 252
+D2
+~
+~
+0 -1 250
+D4
+~
+door~
+1 -1 260
+D5
+~
+~
+0 -1 253
+E
+golden plaque~
+         #yThe Founding Members of #MDragoons #Wof #CPhos#N
+
+      Ix, Kurrelgyre, Ambryl, Purr, Chani, Tsunami, Wick, Hylar, 
+      Kieriay, Colosul, Aynjul, Jura, Rage, Ragnar, Nermal, Garf,
+                     Prophator, Redfang, Snarf
+
+         #yMay the Sun shine upon you wherever you may go.#N
+~
+S
+#252
+#MPhos' High Altar#N~
+     This dedication to our god, Phos, is an immense room with a dome
+made of stained glass.  The entire room is golden with the light of our
+beloved Lord of the Sun.  Even at night, the room still emenates a warm
+glow, a gift given to his chosen ones by our benevolent Lord.  The walls
+glitter with elaborate tapestries of silk, glittering weapons, and gilded
+icons showing our faith.  A very warm feeling of replenishment flows
+through your veins as you stand here, for the light from above invigorates
+your weary body.  Rest here and Phos will watch over you.
+~
+1 dtu 1
+D0
+~
+~
+0 -1 254
+D1
+~
+door~
+1 -1 255
+D2
+~
+~
+0 -1 251
+D3
+~
+door~
+1 -1 258
+S
+#253
+#MDragoon Trove#N~
+     In this room, important items are left for communal use by our
+brethren.  Take what you wish, but try to return it once no more can be
+gleaned from it.  Another dragoon may find use of it, and the favor shall
+come back to you.
+~
+1 du 0
+D4
+~
+~
+0 -1 251
+S
+#254
+#MBurning Den#N~
+     Warmth encompasses your body as you enter the den.  A hearth heats
+the entire room, and fire pits lie spitting and hissing in the four
+corners of the room.  Two enormous couches sit facing each other, large
+enough to accomodate all the Dragoons and then some.  A thick slab of
+redwood serves as a table and a footrest, and engraved mugs of pewter lie
+scattered and empty.  While the dining room serves the more serious and
+formal matters, this room is designed purely for comfort.  This is also
+where the Dragoons hone their battle skills, so as not forget the reason
+they banded together.  They will always remain exceptional warriors.
+~
+1 dru 0
+D0
+~
+door~
+1 -1 256
+D1
+~
+door~
+3 -1 257
+D2
+~
+~
+0 -1 252
+D3
+~
+door~
+1 -1 259
+S
+#255
+#MChani's Sylvan Paradise#N~
+     Woods surround a small clearing, keeping it hidden and protected from
+the chaos and turmoil of the world around it.  Animals from all around
+drink from the stream here and there is a feeling of innocence in the air
+around you.  Everything seems so pure, untouched, pristine.  The stream
+comes from a nearby waterfall which sparkles when the sun reflects through
+it.  The beauty of this place overwhelms you.  Then you see the reason
+this place has managed to survive the world it is in; a majestic unicorn
+steps out of the woods with muscles rippling in fluid motion, it's spire
+shining brightly in the moonlight.
+~
+1 du 0
+D3
+~
+door~
+1 -1 252
+S
+#256
+#MWick's Bedroom#N~
+     Some smooth R&B is playing at just the right volume.  The sky is
+always blue in the day, and the stars shine bright as night. You are in a
+room filled with flowers as far as the eye can see.  The aroma fills
+your soul with Endorphins . . . Take a deep breath.  Relax.  Settle your
+self.  Count to 10.  Easy. Steady. Good.
+~
+1 du 0
+D2
+~
+door~
+1 -1 254
+S
+#257
+#MAynjul's Playroom#N~
+     You have entered a room that appears to be completely white.  Upon
+closer inspection, you realize that you are surrounded on all sides by
+walls made of moving clouds.  The white, fluffy clouds and cool, blowing
+breeze in this room give it a peaceful and relaxing feel.  As you turn
+around to get a better look at the rest of the room, you notice a black
+kitten sitting on top of a smaller, stationary cloud just above your
+head looking down ready to pounce!
+~
+1 du 0
+D3
+~
+door~
+3 -1 254
+S
+#258
+#MGarf and Ragnar's Room#N~
+     This is a not so small room for two people.  
+It has the standard equipment; two desks, two closets, a weapons rack and
+of course a finely carved four-poster canopy bed.
+     The heavy oak desk obviously belongs to Ragnar as there is an axe
+holding down a sheet of paper.  The other lighter desk just has to belong
+to Garf.  The weapons rack has the standard tools of the trade locked up
+in it; a couple of swords, an axe or two, and of course a bow with a
+quiver of arrows
+     A sign at the door says:  "Wipe Your Feet the rug costs money"
+~
+1 du 0
+D1
+~
+door~
+1 -1 252
+S
+#259
+#MPurr's Romance Room#N~
+     As you stand in the black and while swirled marble archway you see a
+warm room.  To the east you see a HUGE red heart shaped bed.  On the bed
+there are red silk sheets with white lace threaded to he edges of the
+glimmering sheets.  To the west you see a spotlight shining down on a
+full bar of all yout favourite panty remover booze.  Sweet music fills
+the air relaxing your tired bones.  Straight ahead there is a HUGE white
+bear rug with baby black panthers purrrrrring softly.  You notice
+pictures on the wall warming as ever.
+~
+1 du 0
+D1
+~
+~
+1 -1 254
+S
+#260
+#MThrone of the Eclipse Lord#N~
+     Closest to Phos is Kurrelgyre, Lord of the Eclipse, and co-founder of
+our wondrous clan.  His gilded throne sits here, lined with plush satin
+cushions and endowed with a regal glow.  A spire of light illuminates the
+center of the room, piercing through a round window cut from diamond and
+placed directly above the throne.  This serves as a constant reminder of
+Kurrelgyre's Lord, and his dedication to the #MDragoons #Wof#C Phos#N.
+~
+1 du 0
+D5
+~
+door~
+1 -1 251
+E
+throne~
+     As you examine the throne more closely, the glare seems to subside
+and you see small, ornate etchings.  Reading them more closely, you see
+the names of the mercenaries who embrace Phos.
+~
+S
+#300
+The Dragons Gateway~
+   The cave fortress of the Storm Dragons towers over you here. Detailed
+statues of dragons with their wings outstretched stand on each side of the
+gateway leading in. The gateway is always open... if you are a Storm Dragon. 
+~
+1 cdhu 0
+D0
+You see a corridor in the fortress. 
+~
+~
+0 -1 302
+D3
+A path away from the clan house. 
+~
+~
+0 -1 6573
+E
+fortress~
+This is the unassailable fortress of the Storm Dragons clan. Dragons with
+glistening scales are roosting on the battlements.
+~
+E
+statue statues~
+These beutiful statues catch the light in an almost magical way. They appear
+to be staring straight into your eyes.
+~
+S
+#301
+The Relaxation Chamber~
+You are in a small, silent chamber. The walls are pulsating slowly radiating
+the power of calmness and peace. You feel you could stay here forever. There
+are soft, Persian carpets around here, where you can sleep well and rest
+comfortably in a lotus position.  You see several stone tablets laying here
+which each tell a part of the story of the clan's history.
+~
+1 dtu 0
+D1
+You see a corridor to the east. 
+~
+~
+0 -1 302
+E
+story9~
+Maybe now, such titles as Deimos's "Silver Dragon" or Sinner
+and his "a lone rogue and his dragon".. maybe they make more sense....
+Maybe names such as Ji and Elvis, Dikuman and Funnyguy won't be forgotten...
+Thank you, Djeli, for allowing me to write the clan history.. I think
+since Evil's deletion I'm probably the one who knows it best, although
+of late my view has been from the outside and not from within.
+Congratulations, Storm Dragons, you have a clan you should all be
+proud of. You did something I, and others, failed to do.
+
+You made a clan out of yourselves, and for that, I respect you.
+
+Lady Nymph
+(So ends the history)
+~
+E
+story8~
+EPILOGUE
+That was then, this is now.
+For those who wanted a list of rulers, lets see what I can manage...
+Evil/Nymph (Evil includes *all* his characters)
+Evil
+No-one
+Zharradan
+Djeli
+I've not included various others who held a leader rank, only the ones
+who had "final say", as it were.
+Storm Dragons has had a lot in it's history. Few probably remember
+Funnyguy, or Dikuman, or Santa, or Evil, despite the fact that Evil
+was the second most worshipped god the mud has ever known... but all 
+these people and more made this clan what it was, much as you reading
+this make Storm Dragons what it is and what it can become. 
+~
+E
+story7~
+to the mortal world and became the first mortal to remort thrice, making
+him one of Midgaard's mightiest heroes. He seized the clan, and led it to
+new heights
+new blood joined, and working with old gods, made the clan
+something fresh, something new. 
+Storm Dragons today are indeed a popular clan, ranging between 4 or 5 and
+15 people online, truly impressive. They are a clan with a history like
+no other, for few have a history so rich, or so controversial. The clan is
+a clan of firsts... the first 3rd remort, and the first clan to use unique
+clan titles.. also the reason why only advisors and higher can resign from
+a clan. Due to the Storm Dragons, 2 clans died, GeNeX, and Shadow Runners, and
+many others spent themselves attempting to extinguish this clan. Clan wars 
+almost became a reality.
+(To continue, look story8)
+~
+E
+story6~
+Shampoo became the clan Mother Goddess and Lagg remained the sole Grand Drake.
+Evil self-deleted in a fit of despair, and Santa soon followed suit.
+
+STORM DRAGON CLAN HISTORY (New Hope)
+Storm Dragons, as a clan, drifted. It was no longer a potent clan, and its
+most prominent warriors became gods, leaving a vaccuum of talent in the
+world of Midgaard. It was a clan with no leader, and existed in a void,
+with no goals, and no identify. Those who had attempted to save it had
+left it for dead.. but it did not die.
+Salvation came in the guise of Avalon and Zharradan. Avalon became more
+and more mighty as an immortal, while Zharradan, an absent god, returned
+(To continue look story7)
+~
+E
+story5~
+forever. In one fell swoop, myself, Sinner, Deimos, Elvis, and Hoffa left
+the clan, and the Storm Dragons lurched on the edge of death.
+For a short time I stayed in the Holy Unicorns, while others drifted into
+clanlessness or the Shadowblades of old. After immorting, I spoke with 
+friends, Deimos, Sinner, Radagast and Puck, and the 5 of us returned with
+renewed spirit to attempt to save our clan.
+It was not to be so. New policies drove friends away, old leaders lost hope,
+and Santa faded away. In anger and despair some of the Storm Dragons' finest
+left, off to search for what they sought to create. Shadowblade accepted many,
+while others formed new clans: the Army of Darkness, and Saracen, later
+to be known as Kai. Still others drifted to the Holy Unicorns and the Pack.
+(to continue, read story6)
+~
+E
+story4~
+and more people ignored the clan line. What was once a clan was now merely
+a collection of people.
+It was at this time that several Storm Dragons left the clan and formed
+what became known as the SHOGUN clan.
+
+STORM DRAGON CLAN HISTORY (Clan War)
+
+No, clan war never happened, but it nearly did. Hatred came from everywhere,
+and old allies, such as the SHOGUNS, soon turned on their old friends. Rotting
+from within, warring from without, the Storm Dragons slowly lost hope. Evil
+became aloof, and I, in my attempts to save the clan, nearly destroyed it 
+( To continue, look story5)
+~
+E
+story3~
+For some reason, Anubis was raised to the rank of Grand Drake, and this began
+a tendency to raise people to the ruler rank. This resulted in a bit of 
+chaos until a balance was reached with first 3 rulers, and later 5, with
+Santa being the first among equals and me being the Queen over all. 
+Sinner, Radagast, Anubis, Deimos, Sinner, Puck, Gurk, Santa, Reddragon, and
+I believe Odie, all served in the post of Grand Drake at one point or another.
+Lagg was the last of them, until the recent election.
+Slowly, the clan deteriorated, as apathy took hold and people began to ignore
+their kin. A slow rotting became an explosion, and the problems became deeper
+and deeper. The very thing that made the clan grow began to destroy it,
+and the recruitment policy of the leaders began to show its evils as more 
+(to continue, look story4)
+~
+E
+story2~
+The Storm Dragons grew swiftly, with a recruitment policy more aggresive
+than any other in the history of elite. Only a few clans became as despised
+as the Storm Dragons were. Clumsiness on the part of myself and apathy on
+the part of Santa only quickened the problem, and soon the Storm Dragons had
+to look into themselves to see what had gone wrong.
+
+STORM DRAGON CLAN HISTORY (The Turmoil)
+I was the first Mother Goddess, as Djeli's title was known back then, 
+and Reddragon was the first Grand Drake, or clan ruler. As I earlier said,
+I pursuaded Evil that Santa was more suited to this role. Avalon was the
+first and only Overgod, but Evil was the first Celestial Emperor.
+(to continue, look story3)
+~
+E
+story history storm sd~
+STORM DRAGON CLAN HISTORY (The Beginning)
+Long ago, a great assassin known as Evil achieved his immortality
+indeed,
+his swiftness in becoming a god was only matched, rather ironically, by
+Zharradan. He found a place for himself in the clan of the Shadowblades,
+and soon was reckoned as a mighty warrior, in guises of Santa and Reddragon,
+the powerful dragon lords.
+The dragon Reddragon contrived to found a clan, a people in his new world, 
+and with the elf Nymph as queen and the assassin Evil as Celestial Emperor,
+the Storm Dragons formed.
+Exodus began. Evil was a popular deity and Santa a respected hero, and many
+of his comrades from the Shadowblades followed, many disenchanted with the
+loss of Telcor. I managed to convinved Santa to take charge over Reddragon,
+and soon this infamous ancient dragon Lord was master of the Storm Dragon
+clan.
+(To continue, look story2)
+~
+E
+carpet carpets~
+The carpets look very soft and you are sure they would be comfortable to rest
+upon.
+~
+S
+#302
+Dragons Hallway~
+   This is a stone corridor that connects the outer parts of the clan home. A
+colourfull painting covering the walls reminds you of the proud heritage of the
+clan and of the importance of valor, friendship and honour. 
+~
+1 du 0
+D0
+There is a red glow to the north. 
+~
+~
+0 -1 305
+D1
+A large room can be seen to the east. 
+~
+~
+0 -1 303
+D2
+The exits from these caves is to the south. 
+~
+~
+0 -1 300
+D3
+A soft glow comes from the west. 
+~
+~
+0 -1 301
+E
+painting~
+The painting is not of any recognisable people..yet at the same time you can
+see some of yourself and others you know in them.
+~
+S
+#303
+Storm Dragons Donation Room~
+   You are in a large, untidy room. People have dropped their useless items all
+over the place. There is a hewn stone altar in the middle of the room upon
+which donated things appear. 
+~
+1 cdu 0
+D3
+You see a corridor to the west. 
+~
+~
+0 -1 302
+S
+#304
+Kamthra's Sanctum of Solitude~
+An ancient stone table cluttered with heavy tomes of knowledge, strange
+artifacts and all manner of arcane devices, stands proudly in the centre of
+this oversize chamber. One side of the table is left slightly clear, and here
+rests a mysterious pulsating globe held in the clenched talons of a bronze
+stand, slowly changing colour as you watch. On one side of the room, a old
+weathered wooden bookcase strains under the weight of a mountain of books.
+Huge crystal windows span a whole side of the room, extending upwards to meet
+high above you in a dome. A large threadbare divan rests in a corner of the
+room, and a roaring fire blazes in the fireplace,  strangely without the need
+of any fuel. Above the fireplace hangs a great oil-painting and the most
+noticeable fixture is the ornate full length mirror bordered with softly
+glowing mystic symbols, which stands in front of a stone wall.
+§N~
+1 dju 0
+D1
+~
+~
+0 -1 305
+E
+window~
+Fluffy white clouds seem to brush your head as you gaze down, watching the
+movement of many people bustling like ants in a large town at the edge of a
+wild forest on a great river. In one direction a desert stretches into the
+distance, rippling mirages seeming to appear out of the heat-shimmer, and in
+another, the relentless sea crashes against cold grey rocks. A break in the
+clouds briefly shows you a glimpse of a faraway winged form, gliding smoothly
+on the currents. One of the windows seems to have a handle built into its
+frame, allowing the window to open inwards like a door out into nowhere.
+§N~
+E
+globe~
+You are drawn into the swirling colours, and feel yourself growing light-headed,
+and detached. Indistinct voices reach your ears, and suddenly cheery laughter
+the spell, and you feel as though you were right on the edge of a stupendous
+insight or secret but can't figure out what.
+§N~
+E
+mirror~
+You see a reflection of yourself, and wonder why this takes such a prominent
+position in the room, when suddenly the mirror clouds over and a vague image
+of a time and place you don't recognise appears for a second before fading
+back to your reflection. You don't think you have the required expertise to
+fully activate such an arcane artifact.
+§N~
+E
+bookcase~
+Leather-bound books of all shapes and sizes, colours and textures are stacked
+haphazardly along the shelves. A couple of titles catch your eye, 'Legends of
+the Storm Dragons', 'The early life of Kamthra the Archmage', are but a couple
+of the titles that you recognise. Some are in strange languages that you've
+never encountered before, some titles are in a script which seems to move as
+you watch, defying all attempts to decipher them, and some just seem to have
+no title at all.
+§N~
+E
+painting~
+The painting depicts three figures, a shadowy figure in a dark cloak, a
+brawny barrel-chested fighter, and a dragon.  You notice that all three
+figures share similar features, and suddenly you realize that they are all
+the same person, but slightly different.  The youngest seems to be a robed
+figure, then comes the chilling shadowy figure, and finally the veteran
+fighter.  The crest of the dragon becomes more and more prominent and
+decorative with each figure.
+§N~
+S
+#305
+Storm Dragons Main Meeting Room~
+   This is the heart of the dragon caves. Lava floats slowly through here in
+broad channels on each side of the room. The walls are decorated with
+tapestries of huge dragons in gold on red silk. On the north wall hangs the
+board of the Storm Dragons, with messages written in white hot fire. Three thin
+bridges span over the lava to clan ruler rooms to the north, west and east. A
+much safer looking corridor leads south to the Dragons Hallway. A levitating
+disc of pure gold can take you up to the throne room from here. 
+~
+1 du 0
+D0
+A thin bridge leads north to a clan ruler room. 
+~
+~
+33 -1 307
+D1
+A thin bridge leads east to a clan ruler room. 
+~
+~
+0 -1 306
+D2
+A corridor leading away from the heart of the clan house. 
+~
+~
+0 -1 302
+D3
+A thin bridge leads west to a ruler's room.
+§N~
+door~
+1 -1 304
+D4
+A tunnel leading up to the Storm Dragons throne room. 
+~
+~
+0 -1 308
+E
+lava~
+It's hot and dangerous to touch but is a safe distance away from you.
+~
+E
+tapestry tapestries~
+The tapestries are very beautiful and no doubt very valuable.
+~
+E
+disc~
+The disc floats around waiting to take you up if you desire.
+~
+E
+bridge bridges~
+They appear to be safe.. but walking uninvited into a rulers room may not be.
+~
+S
+#306
+Ruler Room 2~
+   Ruler room 2 desc added later 
+~
+1 du 0
+D3
+~
+~
+0 -1 305
+S
+#307
+Hercules' Quarters~
+   This grand room you have entered, is the home of the Mighty Hercules.
+The room is divided into two parts assist training ground and a living
+room.  The training ground is filled with all sorts of weapons and
+armor, most of which are too heavy for you to use. They all look like
+they have had their share of action though.  The living room consists
+of a rough desk and a small bed. On the desk there are various
+documents about how to become a Dragon...  On the walls there are
+pictures of former clan leaders, like Zharradan and Djeli. On another
+wall hangs a portrait of the omnipotent Crusher.
+§N~
+1 dju 0
+D2
+~
+door~
+289 -1 305
+S
+#308
+Throne room of the Storm Dragons~
+   You stand in the great throne room of the clan. Here the clan holds councils
+of matter concerning the Storm Dragons. A long table of black obsidian stands
+here, completly with chairs for all members. At the north end of the table
+stands the great ruby thrones of the clan rulers. Behind them high up sits the
+clan leader on his diamond throne. Two pools of lava provide light and warmth
+for people. To the south you see a large stone door with some markings, to the
+west a oak door leads into the Storm Dragon great library with records of all
+that is writen in the world and to the north a red silk carpet leads north
+through an archway to the clan leader's room. A golden disc that can take you
+down to the main meeting room is hovering here. 
+~
+1 du 0
+D0
+A red carpet leads north into the clan leader's room.
+§N~
+door~
+3 -1 314
+D1
+There is a door here
+§N~
+door~
+1 -1 309
+D2
+The marking reads: STORM DRAGON TREASURY KEEP OUT!!!!!!!!! 
+~
+stone door~
+33 12022 310
+D3
+The Storm Dragon Library. 
+~
+door oak~
+1 -1 311
+D5
+A tunnel descends to the main meeting room. 
+~
+~
+0 -1 305
+E
+table~
+This table is perfectly smooth and is a wonder of nature.
+~
+E
+chairs~
+These chairs look very comfortable.
+~
+E
+ruby thrones~
+The ruby thrones are truly beautiful but perhaps not as comfortable as the 
+other chairs. A reminder that rulers have great rewards but also duties.
+~
+E
+diamond throne~
+As you look at the diamond throne you cant stop looking, it is crafted from
+pure diamond and so well made that you never though that kind of work was
+possible. This is the throne of the leader of the Storm Dragons. Well fit
+a king.
+~
+S
+#309
+Zharradan's Room~
+  You have entered the room of the Ex-Storm Dragon leader, the Undead Lord
+Zharradan. A huge oak desk stands at the end of the room, bare apart from piles
+of papers and an ink well...... with red ink??? There are two large paintings
+hung behind the desk showing the Storm Dragon clan symbol. A red silk carpet
+covers the floor, and a large fireplace is the west wall makes the room light
+up. On the east wall are portraits of former rulers of the Storm Dragons clan.
+Below the portraits is a rack of torture devices, thumbscrews, collapsable
+racks... you are glad you aren't one of his prisoners, though if you are here
+without his permission you may become one...
+§N~
+1 du 0
+D3
+This door leads back to the throne room
+§N~
+door~
+1 -1 308
+S
+#310
+The Storm Dragon Treasury~
+   You have entered the Storm Dragon Treasury. A huge mound of coins and
+artefacts is filling the whole place, glistening and almost blinding you. To
+the north you can go back to the Storm Dragon throne room. 
+~
+1 du 0
+D0
+You see the throne room. 
+~
+stone door~
+33 12022 308
+S
+#311
+The Storm Dragon Library~
+   You enter the Storm Dragon Library, around you are large bookshelfs stacked
+with old books. A large board is fastened on the north wall. The library
+continues to the west and south. 
+~
+1 dou 0
+D1
+You see the throne room. 
+~
+door oak~
+1 -1 308
+D2
+The library continues. 
+~
+~
+0 -1 313
+D3
+The library continues. 
+~
+~
+0 -1 312
+S
+#312
+The Storm Dragon Library~
+   You are standing in the study area in the Storm Dragon Library. A number of
+desks are placed along the west wall of the room. A board hangs on the south
+wall. To the east you can go back to the main library room. 
+~
+1 dou 0
+D1
+The library continues. 
+~
+~
+0 -1 311
+S
+#313
+The Storm Dragon Library Map Room~
+   This is the Storm Dragons Map room. Lots of large maps are laying all over
+the place. A board is attached to the south wall. 
+~
+1 dou 0
+D0
+The library continues. 
+~
+~
+0 -1 311
+S
+#314
+Skar's Study~
+     You have entered a cosy room. A fireplace is set into a wall, and 
+there is a big comfy looking rug in front of it. A couch is standing 
+behind the rug, and there is a bed in a corner as well.  This is the
+room of the current leader of the Storm Dragons, Skar.  You see pictures
+of his family on the walls, some still here, some sadly missed. You
+recognize Diana, Crusher and Dragonstorm.  There are many books on
+ancient dragon lore placed in bookshelves all around the room and on 
+the oaken desk which stands in the centre.  A comfortable looking chair
+is standing behind the desk, with soft cushions. Looks like Skar likes
+to have comfort when he is working on making his clan a better place for
+the people to be in.  You also notice some emtpy space in one corner and
+wonder if that is where Rol sleeps when he is in his dragon form. You are
+not sure if dragons need sleep at all, but if he does it's nice and 
+warm here to sleep at least.
+§N~
+1 deju 0
+D2
+The Throne room is this way.
+§N~
+door~
+3 -1 308
+S
+#319
+Limbo~
+   You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow. 
+~
+1 d 1
+D4
+~
+~
+0 -1 3001
+S
+#320
+Outside the #N#CT#ch#wrill #N#CK#ci#wll #N#CK#cu#wlt#N~
+     You are standing outside a stone structure looking in, how sad.  Do you
+think you have what it takes to get past the animated stone monk of the Kult?
+If you belong here you have no fears otherwise.  Well step forward and see.
+Don't worry you can only die once.  On the other hand how slowly you die is
+completely up to us.  You note that most women are permitted to exit and
+enter, but one can only guess if it is at their leisure.
+~
+1 du 2
+D1
+~
+~
+0 -1 3061
+D3
+~
+~
+0 -1 321
+S
+#321
+Entrance Hallway~
+     You are in the main hallway of the Kult.  Mounted on walls and in cases
+all around you see prizes won in battle, like the broken #Cspear#N of the
+Avatar and the shattered pitch #Cfork#N of Satan, won when the clan went
+hunting in Hell.  You also see the skins and skulls of many monsters slain
+in the hunt.  Tiamat is here stuffed like a teddy #Cbear#N, she doesn't
+look so tough now does she?
+~
+1 du 0
+D0
+~
+door~
+1 -1 324
+D1
+~
+~
+0 -1 320
+D2
+~
+door~
+1 -1 328
+D3
+~
+~
+0 -1 322
+D4
+~
+~
+0 -1 331
+E
+tiamat Tiamat dragon teddy bear~
+     The hide of the Queen of the Dragons is here, stuffed.  Even in death you
+can tell she was a fearsome foe when she was alive.
+~
+E
+fork pitch satan~
+     The pitch fork of the former ruler of hell.  With the paladins dead we
+had to kill satan too, less he got out of control.
+~
+E
+spear spears avatar~
+     This is the spear of the Holy Avatar.  No longer holy now that he is
+dead.  Call us sinners huh?  See what he got?
+~
+S
+#322
+Hallway in the Fort~
+     One word - amazing.  You have to keep your hands locked at your sides
+in fear that you might break something and have to pay for it.  That
+Aftershock bottle looks mighty expensive.
+~
+1 du 0
+D0
+~
+door~
+1 -1 325
+D1
+~
+~
+0 -1 321
+D2
+~
+door~
+1 -1 327
+D3
+~
+~
+0 -1 323
+D4
+~
+~
+0 -1 329
+D5
+~
+~
+0 -1 337
+S
+#323
+Goof off Room~
+     What's that bud?  You don't feel like killing anything?  Well maybe
+you are one of those punks that like to chat a lot.  Or maybe you are one
+of those slow levelers that bring down the clan average *slap*.  Oh well
+if you haven't been kicked out on your rear by now you must have some good
+points, eh?  If you have nothing better to do come here and relax, goof,
+chill, talk yer butt off, play come #Cdarts#N.  No one really cares.  But
+don't expect any privacy here.  And one more thing, KEEP YOUR SMELLY FEET
+OFF THE FURNITURE.  Hey this stuff costs ya know, and you pay for it right
+out of your dues.  If you get bored, catch up on the clan bulletin board,
+which is tacked up on a wall here.
+~
+1 dtu 0
+D0
+~
+~
+0 -1 326
+D1
+~
+~
+0 -1 322
+E
+dartboard~
+Can you hit the bullseye?
+~
+E
+dart darts~
+Careful!  You can take someone's eye out with this thing.
+~
+S
+#324
+Privacy Corner~
+     Hmmm, you aren't smooth enough to have your own damn room?  But you
+want to talk in private, huh?  Well come in here and close the damn door,
+it is not like anyone cares what the hell you are talking about anyways.
+~
+1 dju 0
+D2
+~
+door~
+1 -1 321
+S
+#325
+Chambers of the Council~
+     You enter a high-pillared regal chamber with ornately carved marble
+statues of memebers past and present.  Long red drapes hang from archers
+around which the heads of varis Klan kills are hung on display.  In the
+center of this chamber is a small, round oak table where the councillors
+gather on a periodic basis to carry out their ruling.
+~
+1 du 0
+D2
+~
+door~
+1 -1 322
+S
+#326
+Library~
+     This is where the clan keeps all of their combat gear.  You never
+know when the need to kill someone might arise.  All around you see
+various types of armor and weapons stacked on the #Cshelves#N.  Some brand
+new and some old, you can tell from the dried blood splattered on some of
+the items.  If you have extra equipment for clan members leave it here.
+Don't expect too much thanks it is expected of everyone to help out, you
+watch their backs and they will watch yours.  And please, no crap items.
+Clan members deserve the finest.
+~
+1 du 0
+D2
+~
+~
+0 -1 323
+E
+shelf shelves~
+There are rows of shelves on the walls, please stack your gear neatly.
+~
+S
+#327
+Hall of Nails~
+     As you peer through the door you see a room filled wall to wall with
+massive speakers thumping to a righteous groove.  Colored lights pierce
+through the smoke like daggers allowing you to catch a glimpse of some
+fine young vixens dancing like sluts.  As you try to enter, a talking
+piece of clay asks if you're in TKK.  An enormous bouncer in a purple suit
+looms behind him.  Unless you're in TKK you better get the hell out while
+you still can!  Only members are allowed to jam in the Hall of Nails.
+~
+1 du 1
+D0
+~
+door~
+1 -1 322
+S
+#328
+Macking Room~
+     No personal room?  Have someone's pants you want to get into ready
+and waiting?  Think you are smooth enough to get some?  Come here and have
+some fun.  Try and think with your head, no not that one.  The other one,
+dummy.  When you bring a partner here to do whatever try not to get any
+stains on the #Cbed#N, and keep the noise down.  Sheesh!
+~
+1 dou 0
+D0
+~
+door~
+1 -1 321
+E
+bed~
+You see a lovely queen sized bed here with silk sheets and fluffy down
+pillows.
+~
+S
+#329
+Ordo Dominus~
+     You follow the dark stairs up into the west tower of the fort.  This
+semi-circular chamber has a huge tapestry on the east wall depicting
+various heroes of the Klan's past in bloody scenes of violence.  Three
+chambers surround this room.  From here, the chambers of the Ordo Dominus,
+the ruling council of the Kult.  You had better not tally here unless one 
+of them is expecting you...
+~
+1 du 0
+D0
+~
+door~
+11 -1 333
+D2
+~
+door~
+11 -1 335
+D5
+~
+~
+0 -1 322
+S
+#331
+Clan Shrine~
+     This is a chapel to the clan gods.  Come here if you want to pray to
+them.  Of course nothing much will happen of you do, they hate suck ups.
+Hey they are more likey to strike you down than help you.  Besides,
+Zumdahl is always off sweet talking Clara anyways.  I doubt they have time
+for mortals but leave a little something on the #Caltar#N anyways and
+maybe you'll get lucky.
+~
+1 du 0
+D0
+~
+portal door~
+9 -1 334
+D1
+~
+door~
+9 -1 332
+D2
+~
+door~
+11 -1 336
+D5
+~
+~
+0 -1 321
+E
+portal north~
+A whirling vortex of blood pulsates and shimmers before you.
+~
+E
+alter altar zumdahl zum clara~
+     This is an altar devoted to #bZumdahl#N#W the god of smoothness and
+his lady #cClara#N#W the goddess of sex.#N
+~
+S
+#332
+The Ancient Spectre Ruins~
+     A grey mist surrounds the ancient spectre ruins of Harad.  Amid the
+ancient ruins of a once mighty castle rises a huge black throne.  A black
+throne, carved with figures of ancient creatures and runes or power,
+towers in front of you with a powerful malice.  In this throne he rests
+after great deeds and weaves new diabolical plans.  Tombs of great kings
+and sorcerers long forgotten, raped by time and weather, rest here for
+eternity.  Scattered on the ground lies great treasures, items and weapons
+gathered from vast regions of the world and places that do not exist in
+the mind of the mortal anymore.
+~
+1 du 0
+D3
+~
+door~
+9 -1 331
+S
+#333
+Mulder's Crime Lab~
+     You have entered a room filled with junk and file clippings.  This is
+where people come when they have seen something they can't explain.  Such
+as, 'Why did Dur just make an intelligent decision?' or 'How did the Klan
+lose that PK tournement?'.  You had better dash along now before Spooky
+Mulder gets back to quiz you.
+~
+1 du 0
+D2
+~
+door~
+1 -1 329
+S
+#334
+Dur's Garden of Dreams~
+     The portal leaves no residue upon you as you step through into this
+grove located somewhere within the Abyss.  This is HIS home where HE
+resides and allows none to view without his permission.  Propped up
+against a corpse lies a writhing soul-rack, an evil device whose purpose
+you would rather not contemplate.  Etched into the bleeding rocks are the
+blasphemous symbols of the Ancient Ones whose power flows through this
+entire area.  Massive demonic forms stand around the grove, a sign of
+power to ward off the presence of the pure and vigilant.  You only hope
+the portal of blood to the south holds open long enough for you to flee
+back through...
+~
+1 du 0
+D2
+~
+door~
+1 -1 331
+E
+portal north~
+A whirling vortex of blood pulsates and shimmers before you.
+~
+S
+#335
+Muse and Warpath's Hideout~
+     You have entered the private home of Muse and Warpath.  The dark-red
+walls are lined with pictures of them.  The decoration is completed with
+the trophy heads of their opponents.  Seeing some rather well-known and
+powerful peoples' heads displayed makes you pray that you never will be
+unfortunate enough to join those ranks.  Plush carpets cover the floor,
+and the bed occupying the center of the room is surrounded by throw
+pillows to lounge on.  A fire is blazing in the fireplace, keeping you
+warm.  In a corner you also catch a glimpse of a huge golden chest with
+several locks on it.  You wonder what treasures it might be filled with.
+You should feel very special to have been invited here by Muse and
+Warpath, as they don't trust many people enough to let them into this
+room.  You see 2 doors in the room, one leading out into the clanhouse,
+the other you cannot tell where it leads, nor does it seem to have a
+keyhole.
+~
+1 du 0
+D0
+~
+door~
+11 -1 329
+E
+fireplace~
+     It glows red...the flames smell from the evil dust below.  You can
+see...as you reach to look into the flames...a large hole to the lower
+part of the world.  The hot flames seem to be evil, really evil.  The
+smokes seems to go through the chimney pot up through Midgaard above the
+air into an even higher part of the world...somewhere you've never been
+at, a place no one can enter.
+~
+S
+#336
+Aegeus' Crib~
+     This is where Aegeus plans all of his greatest deeds and misdeeds.  Quite
+frankly this room is a mess.  It looks like gear was just dropped where it was
+taken off.  There is a sign posted on the wall and you also see a #Cpicture#N on
+the only really neat thing in here, his computer desk.  There is a vast 
+collection of ready to use weapons on the walls, books on how to kill people 
+in a number of ways.  You know you will be in trouble if he comes and catches
+you here if you dont' have permission.  You notice a large box of #Ccondoms#N in
+plain view.  You also see posters of Malcom X and Dr. Martin Luther King.  You
+can't make up your mind about this man, Aegeus.  Is he a saint or a devil?
+~
+1 dju 0
+D0
+~
+door~
+11 -1 331
+E
+Picture muse~
+     This is a picture of Aegeus' love, the vampire Muse.
+~
+E
+condoms box condom~
+     A box of 100 condoms with half almost gone.  "Trojans ribbed for her 
+pleasure - Cherry flavored."
+~
+S
+#337
+Halls of Terror~
+     Your last footsteps echo around you for sometime as you finally
+reach the bottom of the steps.  A black mist swirls around you obscuring
+your view of this dark place.  You have entered the lower levels where the
+Klan's secrets may be found, only members of exceptional merit are
+permitted to reside in this place...
+~
+1 du 0
+D1
+~
+door~
+11 -1 339
+D3
+~
+~
+0 -1 338
+D4
+~
+~
+0 -1 322
+S
+#338
+The Hall of Silk Drapes~
+     You enter a long elegant hall with a high-arched roof.  It's
+supported with huge creamy marbled pillars shot through with green veins.
+The whole place is decorated with flowing drapes of silk and other
+luxurious materials.  Only the pampered may grace these halls.
+~
+1 du 0
+D1
+~
+~
+0 -1 337
+S
+#339
+Nihil's Abode~
+     This is where Muse and Warpath's faithful servant, Nihil, frolics in
+her free time.  As you look around you, you wonder exactly what it is she
+does in here...  There is a huge bed occupying one corner of the room, and
+it looks very inviting with the red satin sheets covering it.  You also
+see what looks like a shrine in the opposite corner, dimly lit, and
+seemingly used for some sort of dark and vapiric magic.  The aura of the
+room pulls you into its spell, and you wonder if it was wise that you
+entered it, as you are not sure if you will leave it again, at least not
+the same person you were.  The dark powers surrounding you take the
+possessions of you as you slowly drift out of consciousness, and the last
+thing you see is Nihil's smiling face as she bends down over you and her
+teeth seem to be headed for your neck.
+~
+1 du 0
+D3
+~
+door~
+11 -1 337
+S
+#340
+#bThe Gateway to Elysium#N~
+   An iron gate is to the north. An inscription on the marble arch above the
+gate says: "The realm of peace, Elysium. Only those pure of heart may enter
+this land." 
+~
+1 cu 1
+D0
+Through the solid iron bars you see a marble walkway. 
+~
+gate~
+9 -1 341
+D2
+An arch leads back to the road here.
+§N~
+~
+0 -1 3052
+S
+#341
+#bThe Great Fields of Elysium#N~
+   A tree lined marble walkway leads to a pillared temple. The walkway is about
+100 yards long. The trees and lawn are well kept and shapped by master
+gardeners. A pool of water is nearby. All about you on the lawn just near the
+walkway are strewn armor, weapons, and shields of all kinds. They are old and
+rusted as if the owners entered this land, cast them off, and never returned to
+claim them. Off in the distance you see horses grazing peacufully in the lush
+green grass. You also see the glint of what appears to be a sparkling chariot,
+racing across the open fields of grass. 
+~
+1 ctu 1
+D0
+The Great Hall is to the north. 
+~
+~
+0 -1 342
+D2
+Through the solid bars you see the miserable outside world.
+§N~
+gate~
+9 -1 340
+S
+#342
+#bThe Great Hall of Zeus#N~
+      This mammoth marble pillared hall is a breathtaking masterpiece in
+architecture. You are humbled by it's sheer size and volume. The ceiling
+arches three floors above you, and is covered with paintings of epic battles
+and valiant deeds. The chandeliers are made from diamonds and silver, and
+their light gives the hall a mystical aura. Every sound you make is echoed
+throughout this massive structure. The walls and floors are made of the same
+beautiful blue marble as the columns. In its center is a huge statue of the
+God of Storms, Zeus. Plush red carpets cover the floors, and statues of some
+of #bElysiums#N' lost and fallen clansmen line the walls. A broad, plush red
+carpeted stairway curves gracefully up either side of the hall, leading to
+the personal rooms on the upper floors. Beautifully crafted mahogany double
+doors are set into each of the north, west, and east walls. The main
+entrance, to the south, is formed by two enormous intricately carved
+mahogany doors, flanked by two huge blue marble columns.
+~
+1 deu 0
+D0
+Bronze Portals to the Elysium Bar. 
+~
+portal door~
+1 -1 343
+D1
+A small reinforced wooden door. 
+~
+wooden door~
+1 -1 347
+D2
+The marble walkway leads south. 
+~
+~
+0 -1 341
+D3
+An arched entryway leads to the Board Room. 
+~
+~
+0 -1 346
+D4
+Marble stairs lead up to the Hall of Titans. 
+~
+~
+0 -1 349
+D5
+Marble stairs lead down to the Armory of Aries. 
+~
+~
+0 -1 344
+E
+statue statues~
+Statues of some of #bElysiums#N' lost and fallen clansmen
+stand against the walls. Some that you recognize are Gutless, Pennyroyal,
+Creb, Rakshar, Haegar and Eris. Feel free to take a closer look if you like.
+~
+E
+gutless~
+A statue of Gutless, #bElysiums#N' founding immortal, stands here
+oozing entrails.
+~
+E
+pennyroyal~
+A statue of Pennyroyal, one of #bElysiums#N' founding fathers,
+stands here looking menacing.
+~
+E
+creb~
+A statue of Creb, one of #bElysiums#N' founding fathers, stands here
+insulting the world.
+~
+E
+rakshar~
+A statue of the Ferret Lord Rakshar stands here squeaking at you.
+~
+E
+haegar~
+A statue of Haegar, one of #bElysiums#N' greatest heros, stands here
+as inspiration to all.
+~
+E
+eris~
+A statue of Eris, #bElysiums#N' most beautiful immortal, stands here
+smiling.
+~
+S
+#343
+#bThe Elysium Bar#N~
+   You are standing at the most grandiose bar you have ever seen. The smell in
+the air gives you a euphoria that far surpasses anything you have encountered
+in your short, miserable life. As you scan the bar, you see a hardy group of
+warriors laughing and enjoying themselves with great vigor. As you get a closer
+look at these men you notice a glow of valor and dignity about them that is not
+een on mere mortals. You quickly realize that they are your fellow ELYSIUM
+clansmen. In this bar, the drinks are always on the house, CLAN house that is! 
+~
+1 du 2
+D2
+Bronze Portals to the Great Hall of Zeus 
+~
+portal door~
+1 -1 342
+S
+#344
+#bThe Armoury of Legends#N~
+   This large room is filled with the instruments of war. 
+~
+1 du 0
+D4
+Marble stairs lead up to the Great Hall of Zeus. 
+~
+~
+0 -1 342
+D5
+Marble stairs lead down to the Treasury of Tyche. 
+~
+~
+0 -1 348
+S
+#345
+#bThe Rose Garden#N~
+   You are standing in the middle of the most beautiful rose garden you've
+ever seen. There are beautifully arranged roses of every color and variety
+covering the entire roof of the clan house. There are marble walkways
+stretching off in every direction, meandering around the garden. Large
+hedges and bushes are everywhere, giving visitors many quiet little private
+areas. The garden is magically protected against the harsher elements, so no
+matter what the weather outside, there's never more than a light breeze or
+gentle rainfall.
+~
+1 deu 0
+D5
+Marble stairs lead down to the Hall of Myths. 
+~
+~
+0 -1 351
+S
+#346
+#bThe Arena#N~
+      This is an enormous room housing the clan arena. A huge battlefield
+surrounded by large braziers dominates the room. Comfortable padded seating
+runs along each wall, providing enough space for the entire clan, as well as
+numerous guests. 
+~
+1 ru 0
+D1
+An archway leads to the Great Hall of Zeus. 
+~
+~
+0 -1 342
+S
+#347
+#bMeeting Room#N~
+      This is the official meeting chamber of Clan Elysium. There seats for
+each member of the clan, as well as a small gold plaque marking the owner of
+each seat. 
+~
+1 cdehju 0
+D3
+A small reinforced wooden door. 
+~
+wooden door~
+1 -1 342
+S
+#348
+#bThe Treasury of Tyche#N~
+   This room is immaculate, it has satin draperies, and tapestries adorning
+it's walls and mounds of coins from around the world on it's floor. 
+~
+1 du 0
+D4
+Marble stairs lead up to the Armory of Aries. 
+~
+~
+0 -1 344
+S
+#349
+#bThe Hall of Greater Titans#N~
+   The rooms of the Greater Titans can all ne reached from this hall. Flyn's
+Royal Chamber can be reached through the elegant double doors to the west.
+The dream house of Foetus and Nehemia can be reached through the door to the
+north.
+~
+1 du 0
+D0
+~
+~
+1 -1 350
+D3
+~
+~
+1 -1 356
+D4
+~
+~
+0 -1 351
+D5
+~
+~
+0 -1 342
+S
+#350
+#bFlyn's Royal Chamber#N~
+   You find yourself in a large room, with a giant window covering the west
+wall, overlooking the forest of Haon-dor. Suits of glowing golden elven
+plate armor line the north wall, seemingly illuminating the entire room. A
+large throne made of gold sits in front of the statues of armor, decorated
+with lion heads carved into the armrests. A comfortable looking couch made
+of leather sits neatly against the east wall. Tapestries with pictures of
+Elven heroes of old decorate the room, along with other little odds and ends
+of furniture. You feel very safe and comfortable here, and are welcome to
+stay as long as you wish.
+~
+1 du 0
+D2
+~
+~
+1 -1 349
+S
+#351
+#bThe Hall of Myths#N~
+   There are four doors leading from this hall. To the north is the chamber of
+the Myth Roro. To the east is the chamber of the Myth NightWolf. To the south
+is the chamber of the Myth Darquon. To the west is the chamber of the Myth
+Tynstar. 
+~
+1 du 0
+D0
+A door to the Chamber of the Myth Roro. 
+~
+door roro~
+1 -1 354
+D1
+A door to Wolvendar. 
+~
+door wolvendar~
+1 -1 353
+D2
+A door to Darquon. 
+~
+door darquon~
+1 -1 355
+D3
+A door to the Chamber of the Myth Tynstar. 
+~
+door tynstar~
+1 -1 352
+D4
+Marble stairs lead up to the Chamber of Legends. 
+~
+~
+0 -1 345
+D5
+Marble stairs lead down to the Great Hall of Titans. 
+~
+~
+0 -1 349
+S
+#352
+#bThe Chamber of the Myth Tynstar#N~
+   You enter a room with plush couches, carpets from around the world, and
+other rare and wonderful furnishings. It is a very comfortable place to crash
+for a good peacefull nap or just relax. Tynstar invites you to stay for a while
+and shrug off the preasures of the MUD world. 
+~
+1 du 0
+D1
+The Hall of Myths. 
+~
+door tynstar~
+1 -1 341
+S
+#353
+#bWolvendar#N~
+   You are in a small clearing in a dark forest. It is surrounded by massive
+#Gtrees#N many feet in diameter and many hundreds of feet tall. Many of the
+trees have intricate #Gcarvings#N in them, giving the area a mystical feel.
+There is a light layer of fog over the ground, giving the area a foreboding
+feeling. You notice that some of the shrubbery is formed into the semblance
+of comfortable looking furniture. Directly opposite the door is a large
+altar to Gaea, the Mother Earth, whom NightWolf worships above all others.
+This place has a strong calming effect on all who come here, as if the very
+trees themselves ensure the peace. Many small woodland #Ycreatures#N wander
+in and out of the clearing, as well as the occasional stag. Things can be
+heard moving in the trees beyond sight, and every once in awhile a pair of
+softly glowing red or gold eyes can be seen looking out into the clearing
+and then away. A large pitch black #Bwolf#N sits and silently watches the
+clearing from between two trees, implying that leaving this clearing any way
+other than the way you came in is an extremely bad idea. 
+~
+1 du 0
+D3
+The Hall of Myths. 
+~
+door wolvendar~
+1 -1 351
+E
+carving carvings~
+There are many carvings on the trees surrounding this
+clearing. The carvings depict a great many things, ranging from small
+woodland creatures to famous heros of the past to strange abstract designs
+that almost have a life of their own. The most impressive of these carvings
+is a very detailed life size carving of a radiantly beautiful young woman.
+She looks vaguely familiar...
+~
+E
+woman~
+This is the most beautiful carving you've ever seen. The wood is
+polished smooth as glass, and the wood is burned in just the right places to
+give the carving a life of it's own. The woman is simply striking. Her dark
+hair falls gently down over her shoulders and her eyes star intently back at
+you. Her body is beautifully proportioned, softly curving back to become one
+with the tree. You can do nothing but stand in awe of the sheer beauty of
+this woman. It must have taken many many long months of work to create such
+a work.
+~
+E
+wolf^~
+This is the largest wolf you've ever seen. As he sits there calmly
+watching you, you guess his height to be at least 3 feet. His beautiful
+black coat shines in the gentle light of this place, and his eyes shine with
+a soft red glow. It's hard to tell, but it seems as if a look of adoration
+spreads across this wolves face whenever he looks at NightWolf. While he
+remains gentle and calm, you feel that this wolf would have no problem
+dispatching a Hell Hound. And you know he's not alone.
+~
+E
+creatures~
+Small squirrels, ferrets, and Fuzzy Bunnies, as well as numerous
+other woodland creatures, are constantly wandering in and out of the
+clearing. They are completely comfortable here, and will even come up to you
+and let you pet them. They know they are completely safe here under the
+watchful gaze of NightWolf and his lupine companions.
+~
+S
+#354
+#bThe Chamber of the Myth Roro#N~
+   You enter a well lighted room with black wallpaper and a large window
+looking out over ELITE. You notice a leather couch against one wall and a desk
+filled with papers in front of the window. The desk has a sign on it that says,
+"If a cluttered desk shows a cluttered mind, then what does an empty desk
+show?" Finally, you see a pile of equipment off in a corner that is probally
+what Roro is going to give to you if you but ask. This room has a feeling of
+peace that makes you wish you could stay forever. 
+~
+1 du 0
+D2
+The Hall of Myths. 
+~
+door roro~
+1 -1 351
+S
+#355
+#rDarquon's Red Room#N~
+   You've walk through a set of large gilded double doors to enter a
+large, lavishly furnished room, dimly lit with a dull red light.  On
+the south side of the room is a large, red velvet #ccouch#N, and a bar
+made of black marble is set against the wall, complete with padded
+stools.  In each corner is a large ivory #cpillar#N, with the
+#cvisage#N of Darquon carved into each one, facing into the center of
+the room.  As you walk across the marble tiles, you are greeted by the
+wail of a jazz band, which seems to originate from nowhere.  Across
+from the couch are a couple easy chairs made out of red suede and a
+glass coffee table, upon which sits a crumpled leisure suit and
+sunglasses.  On the other side of the room is a large king-sized futon
+mattress, which is set on an elevated portion of the floor, next to
+which stands a large marble hot tub, bubbling over with hot steam and
+suds.  On the edge of the tub is a small framed #cpicture#N of an
+attractive young woman.  The only thing that seems to be missing is
+the hazy shade of cigarette #csmoke#N.  Yes, this is truly the
+decadent room of a demon-turned-avatar.
+~
+1 deu 0
+D0
+The Hall of Myths. 
+~
+door darquon~
+1 -1 351
+E
+couch sofa~
+Ain't no couch.  Ain't no sofa.  It's a looooove seat.  Awwe
+yeah, baby.
+~
+E
+pillar~
+These massive marble pillars seem to serve no other purpose than to
+glorify the excess within this room.
+~
+E
+visage~
+Each set of eyes seems to follow you around the room, each face
+frozen in an insane cackle.
+~
+E
+picture~
+The nameplate says, "Melody."  She appears to be wearing a wedding
+band.
+~
+E
+smoke~
+You see no smoke here, which is odd.  Rumor has it, Darquon's new
+squeeze made him quit.
+~
+S
+#356
+#bFoetus and Nehemias Dream House#N~
+   As you walk into this, seemingly small, room you are amazed by its actual
+size. You are standing in a nice sized two story house. Tastefully decorated
+and tidy, excepting the strewn about computer hardware, disks, and CDs, and
+the frightening number of wires creating some sort of networked abomination
+of the occupants computers. You feel the deep desire to rent a room in this
+wonderful place, or at least hangout with us for awhile.
+~
+1 du 0
+D1
+~
+~
+1 -1 349
+S
+#360
+An Archway~
+     You are standing in front of the Divine Powers Clan House.  Before
+you stands a large, golden arch, emitting a glow around the entrance of
+the house.  A transparent object of some kind is floating above the arch,
+and although you cannot make out its shape, it has a halo around it.
+Perhaps this is symbolic of the members of the clan, are they so powerful
+that they glow?  You cannot see much beyond the doorway, for the house
+is greatly protected by the gods above.
+§N~
+-1 cdu 1
+D1
+~
+~
+0 -1 362
+D3
+~
+~
+0 -1 3060
+E
+arch archway~
+This is the arch of Divine Powers.  It stands approximately 30 feet in
+the air, and it seems as if it has been here for quite some time.  Cast
+of solid gold, the arch glows as if it is blessed.  There is an inscription
+on it that you can barely make out:
+"To all those who approach, You are being watched."
+§N~
+S
+#361
+An extra Divine Powers Room~
+     An extra room which leads to absosmurfly nowhere!
+~
+-1 a 0
+S
+#362
+Narrow Hallway~
+     This hallway leads east and west, towards all parts of the house.  On
+the wall there is a painting, and on the ceiling hangs a chandelier. To 
+the north is a door with the word 'Infirmiry' printed on it.  To the 
+south, a door is labeled 'Meeting Hall'.
+~
+-1 du 0
+D0
+~
+~
+1 -1 368
+D1
+~
+~
+0 -1 363
+D2
+~
+~
+1 -1 365
+D3
+~
+~
+0 -1 360
+E
+painting picture~
+This is a self portrait of Fresh, leader of Divine Powers.  At his side
+is his beatiful wife Bronwyn.  They are standing in front of the clan 
+house, at the beginning of it's construction.  Fresh is a handsome man,
+noble, proud, and a deadly warrior.
+~
+E
+chandelier~
+It is a pretty chandelier, but it needs to be dusted.
+~
+S
+#363
+Narrow Hallway~
+     This hallway leads east and west, towards all parts of the house.  To
+the north there is a door marked 'Storage Area', and to the south the door
+is labeled 'Lounge'.  To the east there is a staircase leading to the
+second floor of the house.
+~
+1 du 0
+D0
+~
+door~
+3 -1 369
+D1
+~
+~
+0 -1 364
+D2
+~
+door~
+3 -1 366
+D3
+~
+~
+0 -1 362
+S
+#364
+Stairway~
+     There is a staircase here leading to the upstairs where most of the
+private rooms are located.  To the north is Fresh's room, and to the
+southh is a room that seems holy.  There is a window here which looks out
+over the forest, into the hills in the distance.  Faintly, you can see a
+paladin mutilating some helpless person.  Poor guy.
+~
+1 eu 0
+D0
+~
+door~
+3 -1 370
+D2
+~
+~
+0 -1 367
+D3
+~
+door~
+1 -1 363
+D4
+~
+~
+0 -1 371
+S
+#365
+Meeting Room~
+     This is the room where the rulers of Divine Powers meet weekly.
+There is a large rectangular table, with many chairs all around it in the
+center of the room.  Each member of the Divine Powers Leadership Committee 
+has his/her own seat, and is welcome to attend any meeting held.  There is
+a small centerpeice on the table, that apears to be the head of an orc!
+~
+-1 du 0
+D0
+~
+door~
+9 -1 362
+E
+table~
+It's a big rectangular table, not much to it.
+~
+E
+centerpeice head orc~
+It's not a real head, now that you look closer.  It is just the pencil
+sharpener.  You put the pencil in it's mouth and BAM! It's sharpened.
+~
+S
+#366
+Divine Lounge~
+     This is the place where clannies come to unwind after a hard day of
+killing evil monsters.  There is a billards table, a few video games and a
+rather large television here.  There is a bookshelf with a slim variety
+of titles, as well as some comfortable sofas and chairs.  Most of the time
+this room is filled with people playing around and chatting, unless the
+women are watching their soap operas.
+~
+1 du 0
+D0
+~
+door~
+3 -1 363
+E
+billiards table~
+A table covered with green felt.  There are 6 pockets and some balls on it.
+~
+E
+games video~
+There are only 3 choices of which ones to play, they are:
+Space Invaders, Gauntlet, and Double Dragon
+~
+E
+bookshelf books~
+There is actually only one book here, titled "The art of Killing"
+~
+S
+#367
+Room of Worship~
+     There is a small altar located near the back of the room.  It is in
+this room that the members of the clan go to pay tribute to they Deities.
+Word has it that if one is to 'pray' to the gods, they may be granted a
+wish.  Be careful what you ask for however, for as quickly as they can
+help you, they can destroy you as well.
+~
+1 du 0
+D0
+~
+door~
+1 -1 364
+S
+#368
+Infirmary~
+     There is a rumor that says this room allows people to heal faster
+than usual.  The healers here are suposed to be wonderful.  Try it out,
+you never know.  There are a few empty places to lay down and rest here,
+however, they have not yet been cleaned up by the nurses.  It may be wise
+to sleep on the floor, you never know what you could catch here.
+~
+-1 dtu 0
+D2
+~
+door~
+1 -1 362
+S
+#369
+Storage Area~
+     This room is used to store extra equipment retreived in battle.
+There is a wide selection of items here, perhaps there is something you
+need.  There is a sign here.
+~
+1 du 0
+D2
+~
+door~
+3 -1 363
+E
+sign~
+Please take only what you need.  Please do not sell or sacrifice anything
+in this room.  Please leave what you don't want anymore so that others
+may benefit from it.
+~
+S
+#370
+Fresh's Quarters~
+     This room is a mess!  There are clothes laying on the floor
+everywhere you look, and you can't seem to see the carpet at all.  There
+is a pile of garbage in the corner, and the bed is un-made.  There is a
+picture of a beautful lady on the wall, and beneath the picture is a
+single candle, to give just the right light on her face.  The rest of the
+walls are bare, leading one to beleive that this woman is the center of
+Fresh's life.  There are a few loose items laying around, and some empty
+Gatorade bottles on the table near the bed.
+~
+1 du 0
+D2
+~
+door~
+3 -1 364
+E
+garbage pile~
+It's mostly old papers with senseless scribble on them.
+~
+E
+bed~
+This is a queen size, full motion water bed.  It looks very comforatable.
+~
+E
+picture woman~
+This is Bronwyn, yet again.  She is so beautiful.  Fresh fell in love 
+with her at first sight, as you can see why.
+~
+S
+#371
+Dim Corridor~
+     This hallway leads to the majority of the personal rooms in the
+house. To the north is Gord's room, and to the south is Quinn's.  Please
+be considerate of people's privacy and ask before you enter someone's
+room.
+~
+1 du 0
+D0
+~
+door~
+1 -1 374
+D1
+~
+~
+0 -1 372
+D2
+~
+door~
+1 -1 377
+D5
+~
+~
+0 -1 364
+S
+#372
+Dim Corridor~
+     This hallway leads to the majority of the personal rooms in the
+house.  Please be considerate of people's privacy and ask before you enter
+someone's room.
+~
+-1 du 0
+D0
+~
+door~
+318 -1 375
+D1
+~
+~
+0 -1 373
+D2
+~
+door~
+1 -1 378
+D3
+~
+~
+0 -1 371
+S
+#373
+Dim Corridor~
+     This hallway leads to the majority of the personal rooms in the
+house. Please be considerate of people's privacy and ask before you enter
+someone's room.
+~
+1 du 0
+D0
+~
+door~
+1 -1 376
+D2
+~
+door~
+1 -1 379
+D3
+~
+~
+0 -1 372
+S
+#374
+Gord's Niche~
+   Welcome to the land of Gord! Hope you brought your sense of
+humor and don't mind people staring at the sky *smile*.  You
+have to wonder about the strange posters adorning the walls of
+this room.  From a Rembrandt to a Three Stooges poster, what
+odd taste the owner must have.  The conditions here are quite
+spartan though, a ugly sofa and desk for Gord's computer take
+up most of the space. Well of course there is Gord's bed too...
+HEY keep your feet off it! *THIS MEANS U!*
+§N~
+1 du 0
+D2
+~
+door~
+1 -1 371
+S
+#375
+Sneaky's Study~
+You walk into this room (pit is more like it) and cautiously try to avoid
+stepping on all discarded papers and old computer manuals lying around on
+the floor.  Sneaky is at the desk (well you think it's a desk anyway hard
+to tell buried under all that crap) mumbling incoherently about some file
+he's working on.  You believe the room to be fairly drab, but since the
+only light comes from the computer moniter you can't quite say for sure.
+A small mini fridge sits in the corner, and a few half full bags of chips
+are lying about the floor.  You wonder how anyone could ever live in this
+mess, but Sneaky's too attached to the computer notice. 
+~
+-1 cdjtu 0
+D2
+~
+door~
+11 -1 372
+S
+#376
+Wolfman's Noodle Room~
+     As you walk through the door, you see a giant throne before you.
+The throne is way at the end of this immense chamber, but is so large that
+even from this point you can clearly make out what it looks like.  It is
+none other than the most beautiful thing you have ever set your eyes on.
+As you walk closer, you pass through a curtain of spaghetti that you had
+not noticed before. On the other side of the curtain, you almost burst a
+kidney from laughing so hard.  The spaghetti apparently warped your
+vision, as the throne turned out to be nothing but the enormous stove
+where Wolfman sits as the King Of Noodles.  Maybe if you are lucky, you
+will catch a glimpse of him at the stove, making a meal fit for the gods.
+§N~
+1 du 0
+D2
+~
+door~
+1 -1 373
+S
+#377
+Quinn's Hovel~
+    Upon entering this magical place, you feel a sense of uneasiness
+permeate your soul which sends a shiver up your spine.  You feel as
+if someone higher, more powerful is watching you, and yet you glance
+left and right and seem to be the only one here.  The room seems not
+to have walls, just a shimmering field of pure white energy forming
+a perfect sphere around you.  There is a circular table in the middle
+of the room, and a small desk in the corner.  Looking at the way the
+room was arranged, you can only guess someone magnificently sexy lives
+here, and feel compelled to bow down in his honor.
+§N~
+1 du 0
+D0
+~
+door~
+1 -1 371
+S
+#378
+Cassandra's Loft~
+As you walk into Cassandra's Loft, you look around and see things 
+scattered about.  Cassandra shares her room with her sister, Sami.  
+Between the two of them, there are papers and equipment all over. Sitting
+prominantly near the window is a beautifully handmade nightstand.  On top
+of the nightstand are two pictures.  One is of her husband, Helm, and the 
+other is of her best friend, Sneaky.  After soaking in the surroundings of
+the room, you see an inviting place to sit down.  You feel an urge to
+make yourself right at home.
+§N~
+1 cdjtu 0
+D0
+~
+door~
+1 -1 372
+E
+nightstand~
+   This Nightstand is made of the finest oak directly from the goblin forest.
+It is rumoured that Stomper killed many orcs against this tree till eventually
+it was felled.  The nightstand has an obvious drawer wherre severl nicknacks
+are kept.  One the side is some obvious writting, which says "To Sami, my
+dearest heart and light of my life, with Love, Stomper"
+~
+E
+photo picture~
+The picture shows a candid picture of when Sami said yes.
+And how Helm's face just lit up with a big smile.
+§N~
+S
+#379
+Zifnab's Chambers~
+You have arrived in what appears to be Zifnab's private chambers.  The
+room is decorated by ancient stone walls with two large windows allowing
+sunlight to illuminate the room.  Through the windows you can make out the
+Great Field of Midgaard and Haon-Dor forest off in the distance.
+The room contains several furnishings.  An ornately carved wooden desk
+lies along the western wall below one of the windows illuminating the room.
+On the desk lies a large opened book with a candle on each side of it.  A
+large bed lies along the northern wall with a large chest at the foot of
+it. An aura seems to emanate from the chest suggesting that contained
+inside are many treasures that Zifnab has amassed in his journeys.  On
+the walls are several paintings depicting different events in Zifnab's
+life and of the many friends that he has met in his stay here.
+A large set of oak double doors lies to the south leading into a
+hallway in the castle.
+§N~
+1 du 0
+D0
+~
+door~
+1 -1 373
+S
+#380
+Entrance To The Guerilla Barracks~
+     After hacking your way through dense forest you have come upon what
+appears to be some sort of hidden structure. From under the brush and
+trees you can barely make out a stoic concrete building. Before you lies
+the secret base for the revolutionaries known as Guerilla.
+§N~
+1 du 0
+D0
+~
+~
+0 -1 381
+D1
+Back to the field
+~
+~
+0 -1 3060
+S
+#381
+Inside the Bomb Shelter~
+     Light filters in through a small above-ground window near the ceiling
+of this dim, bare room.  A torn black naugahyde sofa lies against the far
+wall under several revolutionary posters and an odd assortment of
+comfortable-looking cots are scattered about the room.  In the corner a
+shelf houses several revolting sounding MREs, a dodgy shortwave radio and
+a plethora of dusty boardgames and dog-earred magazines.  Even Freedom
+Fighters (tm) need to rest and relax once in a while.
+§N~
+1 dtu 0
+D0
+~
+~
+0 -1 382
+D1
+~
+door~
+0 -1 385
+D2
+~
+~
+0 -1 380
+D3
+~
+~
+0 -1 384
+D4
+~
+~
+0 -1 383
+D5
+~
+door~
+1 -1 390
+S
+#382
+The Stockpile~
+     A solitary light bulb dangles from a wire in the middle of the
+ceiling, illuminating the vast array of items held in this small room.
+Armaments of every shape and size are scattered about; crates of automatic
+weapons, a couple boxes of grenades, millions of rounds of white
+phosphorous ammo, a few decrepit-looking landmines and a container of
+dubious origin marked "Nuclear Warheads -This Side Up". Several big
+machetes hang on the wall above a small metal desk laden with subversive
+pamphlets, battle plans and the blue prints to several parlamentary
+buildings.  Looks like you've come to the right place for your needs.
+§N~
+1 du 0
+D2
+~
+~
+0 -1 381
+S
+#383
+Che's Bathroom~
+As you fumble around in the darkness you accidently hit the lightswitch.
+The scene before you almost strikes you down.
+Used underwear and dirty paper covers the wall and floor.
+The bathtub is filled with a black stinking liquid that makes your nostrils
+burn. The sink is filled with dead bugs that float on a sea of yellowish water
+As you feel sick you cautiously approach the toilet.
+ou slowly open the lid...
+
+Che flies in from below.
+
+He says "Hey, get the #RHell#N out of my room!!
+
+Che suddenly circles around you and stabs you in the back.
+§N~
+1 du 0
+D0
+~
+door~
+1 -1 386
+D1
+~
+door~
+1 -1 389
+D2
+~
+door~
+1 -1 387
+D3
+There seems to be a sporting goods store over here.
+§N~
+door~
+1 -1 388
+D4
+~
+door~
+1 -1 391
+D5
+~
+~
+0 -1 381
+S
+#384
+Smartass's Room~
+You have accidentally wandered into a tiny village! It looks like the entire
+village is made of mushrooms! You feel kinda bad for stepping on a coupla
+mushrooms! Hopefully no-one saw you do it. Other than that you see a whole
+lotta little blue things walking around wearing all white except for an old
+one who's wearing red. It seems that he's out in the village square trying to
+hit on a little blue female with blond hair who looks young enough to be his
+granddaughter! There's a bigger one lifting weights out yonder! He looks like
+he's been on steroids and can kick some serious ass! Another is cooking. One
+looks like he's building something. There's one over yonder sitting by himself
+muttering to himself "Papa Smurf always said to. . ."(you dislike him already).
+But all in all you like it here and don't mind staying for the nite. Hopefully
+they have a hammock your size.
+
+Their immortal god Jokey Smurf appears before you and zaps you into a smurf!
+§N~
+1 du 0
+D1
+~
+door~
+1 -1 381
+S
+#385
+Highlander's Rest and Relaxation Area.~
+     After a long day, searching for the PRIZE.. Highlander likes
+to come back to the comfort of sitting by the fire in his favorite
+LazyBones recliner, contemplating the following day's Quest. Feel free to
+come in, sit by the fire, and get a mug of Ale and listen to the stories
+of the other adventurers who frequently stop in here.
+§N~
+1 du 0
+D3
+~
+door~
+1 -1 381
+S
+#386
+Inkt's Sanctuary~
+You have entered into a room much different from the others you've
+seen here.  The room is clean with white and austere walls.  A skylight
+allows bright sunshine in during the day.  The bed is simple but
+comfortable.  Holy relics gathered from throughout the land tastefully
+decorate the walls and shelves, and a shiney set of field plate is here
+on an armour stand.  A feeling of peace pervades the room and you know
+that you are welcome here as long as you are respectful of Inkt's things.
+§N~
+1 du 1
+D2
+The exit leads back to Che's bathroom....
+Wouldn't you much rather stay here?
+§N~
+door~
+1 -1 383
+E
+sofa~
+This lovely beige sofa looks very comfortable, perhaps you could rest
+for just a moment.
+§N~
+E
+dias~
+A small prayer dias has been set up here before a small shrine.
+§N~
+E
+bed~
+The white linen almost beckons to you to take a load off and sleep.
+§N~
+S
+#387
+#CThe #wTemple #Cof #RDrakken#N~
+     You leave the canopy of Yavin 4's #Gjungle #Ncanopy and enter a
+gigantic ebony temple which once was dedicated to the #MDark lord of the
+sith#N, Exar Kun.  The temple is now under the control of Drakken and he
+uses it to send aid to the #CRebel Alliance#N from the EliteMUD
+#GGUERILLAs#N.  In a corner of the temple there is a crate full of #Rheavy
+blaster pistols#N.  On the walls are posters of Drakken's idols such as
+Eldridge Cleaver, Timothy Leary, and Abby Hoffman.
+§N~
+1 du 0
+D0
+The door leads back to Che's bathroom.
+§N~
+door~
+1 -1 383
+S
+#388
+Crumples Sporting Goods~
+As you walk into this room you see shelves and bins filled with Hockey
+sticks, Baseball bats, Soccer balls, and Basketball shoes.  You head up to
+the counter and look at the owner, a 6'9" 260 pound man with bulging
+muscles.  You reluctantly ask him where the running shoes are.  In a
+billowing voice he yells....  #R"GET OUT"#N.  You run for your life only
+wishing you had new shoes.
+§N~
+1 dtu 1
+D1
+The door has a large sign saying EXIT.
+§N~
+door~
+1 -1 383
+S
+#389
+Daz's evil Chapel~
+As you enter the room you smell a fragrance of roses.  You look around and see
+satanic stuff all around you such as broken crosses and flipped over stars.
+You decide to get the hell out.  As you are leaving you start to hear the
+sound of a mono-tone chant. you RUN!!!
+§N~
+1 du 0
+D3
+This is the way to run.
+§N~
+door~
+1 -1 383
+S
+#390
+Jaxon's Room~
+        This room is decorated with pictures of Bobby Seale, Huey P.
+Newton and Malcolm X.  Some of the books on his bookshelf include copies
+of _Seize the Time_, _The Autobiography of Malcolm X_, and _The Anarchist
+Cookbook_.  On his weapons rack he has many crossbows, magic spears, 
+maces, scimitars and a Klingon batliff.  On another rack lie dozens of 
+crushed helms, from his fallen enemies.  The left corner of the room 
+contains statues of Panthers, the Silver Monkey, and Shadow Dragons.  
+The room itself is lighted by several emerald candles which radiate an 
+eerie glow and an intoxicating smell.  On the onyx and wood desk you 
+notice a rather large #gnotebook#N. A bookcase full of religious text,
+and a #gcoffee machine#N are directly to your right.  Equipment for bomb
+making, and coffee cups with stogies stuffed in them lie on the 
+floor.
+§N~
+-1 du 0
+D4
+~
+door~
+1 -1 381
+E
+notebook~
+It reads "Jaxon's War Journal"
+~
+E
+coffee machine~
+It serves black coffee.  No sugar, no cream.
+~
+S
+#391
+Rassilon's Tardis~
+        You are standing inside Rassilon's Tardis.  This is where the
+Timelord comes to regenerate himself.  In the center of the room stands a
+large column that silently moves up and down.  You are a bit surprised by
+how large the room is considering the actual dimensions for this area.  As
+you peer around the room you see small metalic dog with the letters K-9
+inscribed on its side. 
+§N~
+1 du 0
+D5
+~
+door~
+1 -1 383
+S
+#99999
+$~

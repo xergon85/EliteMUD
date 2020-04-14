@@ -1,0 +1,361 @@
+#28000
+#MThe Gates of Zia#N~
+   Awe is what you feel, standing in front of these truely gigantic
+gates, which burn perpetually, keeping those not of Phos from 
+entering our sacred refuge.  The burning spires tower high above you, 
+seeming to singe the clouds and reach for the sun in their marvelous 
+granduer.  Amazingly, the spectacular gates are only the beginning of 
+the wonders that await you when you enter our sacred fold.
+~
+280 duz 0
+D0
+~
+~
+0 -1 28001
+D3
+~
+~
+0 -1 3060
+S
+#28001
+#MDen of the Eclipse#N~
+   The first thing that catches your eye as you enter this immense
+dining room for the followers of Phos is a monstrous marble dining 
+table. Each of our esteemed brothers and sisters claims a seat, where 
+we discuss our exploits and drink wine until Phos shines upon us once 
+again.  Richly dark oak pillars stand around the table, and huge 
+fires remind us of our Lord when he is away blessing others.  A 
+#Ygolden plaque#N hangs on the eastern wall.  Thick rugs and furs 
+invite you to remove your heavy boots and sit for a spell, and talk 
+amongst yourselves.
+~
+280 duz 0
+D0
+~
+~
+0 -1 28002
+D1
+~
+door~
+11 -1 28011
+D2
+~
+~
+0 -1 28000
+D4
+~
+door~
+1 -1 28010
+D5
+~
+~
+0 -1 28003
+E
+golden plaque~
+         #yThe Founding Members of #MDragoons #Wof #CPhos#N
+
+      Ix, Kurrelgyre, Ambryl, Purr, Chani, Tsunami, Wick, Hylar, 
+      Kieriay, Colosul, Aynjul, Jura, Rage, Ragnar, Nermal, Garf,
+                     Prophator, Redfang, Snarf
+
+         #yMay the Sun shine upon you wherever you may go.#N
+~
+S
+#28002
+#MPhos' High Altar#N~
+   This dedication to our god, Phos, is an immense room with a dome
+made of stained glass.  The entire room is golden with the light of 
+our beloved Lord of the Sun.  Even at night, the room still emanates 
+a warm glow, a gift given to his chosen ones by our benevolent Lord.  
+The walls glitter with elaborate tapestries of silk, glittering 
+weapons, and gilded icons showing our faith.  A very warm feeling of 
+replenishment flows through your veins as you stand here, for the 
+light from above invigorates your weary body.  Rest here and Phos 
+will watch over you.
+~
+280 dtuz 0
+D0
+~
+~
+0 -1 28004
+D1
+~
+door~
+11 -1 28005
+D2
+~
+~
+0 -1 28001
+D3
+~
+door~
+1 -1 28008
+S
+#28003
+#MDragoon Trove#N~
+   In this room, important items are left for communal use by our
+brethren.  Take what you wish, but try to return it once no more can 
+be gleaned from it.  Another dragoon may find use of it, and the 
+favor shall come back to you.
+~
+280 duz 0
+D4
+~
+~
+0 -1 28001
+D5
+~
+door~
+11 -1 28012
+S
+#28004
+#MBurning Den#N~
+   Warmth encompasses your body as you enter the den.  A hearth heats
+the entire room, and fire pits lie spitting and hissing in the four
+corners of the room.  Two enormous couches sit facing each other, 
+large enough to accomodate all the Dragoons and then some.  A thick 
+slab of redwood serves as a table and a footrest, and engraved mugs 
+of pewter lie scattered and empty.  While the dining room serves the 
+more serious and formal matters, this room is designed purely for 
+comfort.  This is also where the Dragoons hone their battle skills, 
+so as not forget the reason they banded together.  They will always 
+remain exceptional warriors.
+~
+280 druz 0
+D0
+~
+door~
+11 -1 28006
+D1
+~
+door~
+3 -1 28007
+D2
+~
+~
+0 -1 28002
+D3
+~
+door~
+11 -1 28009
+S
+#28005
+#MKeldron's Swinging Pad#N~
+   As you walk into this room the eerie glow of 30 lava lamps 
+surrounds you.  You smell a faint trace of reefer and notice the 
+bright colors on the walls. Over the door hangs a sign proclaiming 
+#r"FREE LOVE MAN!"  #NThere is a bean bag chair in the corner and a 
+large flower shaped carpet in the middle of the room.  The resident 
+has posted several Woodstock posters on the wall and there is a stack 
+of records up to waist level in the corner.  You decide to take a 
+seat and the lights dim and a Jimmy Hendrix record begins playing.  
+"Hmm…" you think to yourself, "what a swinging pad."
+~
+280 duz 0
+D3
+~
+door~
+11 -1 28002
+S
+#28006
+#MSith's Shrine Of '#RCore#N~
+   As you enter this room, you get the inexplicable urge to Skank, 
+and in the background u notice a feverish, up-beat guitar, a melodic, 
+and moving baseline which is amplified in effect by a set of horns 
+(Trombone, and alto and Bari sax), a throbbing drumbeat, that all 
+intertwine behind a blaring set of vocal chords, screaming the anthem 
+"We're not gonna take it!"
+   After finally getting adjusted to the music of the room, you 
+notice the shape of this "room", it is round, with no corners and one 
+visible face that surrounds and encompasses the viewer with a 
+#Rmural#N painted onto this surface, the floor is of hard wood and 
+slanted at various angles to give a mesmerizing effect if one were to 
+stare at it for too long. Along this wall above the mural are many 
+various guitars, with a white Yamaha bass as the centerpiece to them 
+all. Along the side opposite the door is a stack of speakers 
+resembling an amplifier of some sort, the section of floor under this 
+area is raised to be a bit higher than that of the rest of the room. 
+To the near side of the room are a couple of chairs and couches, with 
+a bed resting on two red trunks on the area to the right, just before 
+the stage.
+~
+280 duz 0
+D2
+~
+door~
+11 -1 28004
+E
+mural~
+This mural depicts 4 men. The first one an older man with a blonde 
+receding hairline, he has a big nose and an awkward grin on his face, 
+as if he has just done something wrong. The second man is much 
+shorter than the first and is wearing allot of necklaces and 
+bracelets. In his right hand he holds a paints brush still dripping 
+with red paint. The third man is slightly taller than the second, he 
+is very thin and looks about as old as the second (but in all reality 
+is not), on his head he wears a hat that bears an iron cross on the 
+backside (since he is wearing it backwards, that is the side facing), 
+on his right hand in a watch, and in the hand is a piece of glass. 
+The fourth and final man is the same height as the third, although 
+this man carries a much larger and muscular build. He wears a pair of 
+china blue shoes, and on his face are the thickest pair of glasses 
+you have ever seen in your life. Attached to his shirt in some 
+fashion is some sort of watch, it resembles a grandfather clock's 
+face only smaller.  The four men look confident and indomitable. As 
+you continue to stare at the painting, the picture shifts and the 
+men's appearances change, all the while under close scrutiny, one can 
+notice other shapes fall in behind the four men, some ever seem to 
+stand along side the four. But the only real noticeable difference is 
+that the second man seems to have a dark shadow over him, and all 
+that look upon this know something has gone awry. The only signature 
+to be found on the painting is that of and "S" with two vertical 
+lines running through it.
+~
+E
+bass yamaha~
+This is a standard issue white Yamaha bass model kpx250 along the 
+neck is written the words "#Rfor Stan#N".
+~
+S
+#28007
+#MAynjul's Playroom#N~
+   You have entered a room that appears to be completely white.  Upon
+closer inspection, you realize that you are surrounded on all sides 
+by walls made of moving clouds.  The white, fluffy clouds and cool, 
+blowing breeze in this room give it a peaceful and relaxing feel.  As 
+you turn around to get a better look at the rest of the room, you 
+notice a black kitten sitting on top of a smaller, stationary cloud 
+just above your head looking down ready to pounce!
+~
+280 duz 0
+D3
+~
+door~
+3 -1 28004
+S
+#28008
+#MGarf and Ragnar's Room#N~
+   This is a not so small room for two people. It has the standard 
+equipment; two desks, two closets, a weapons rack and of course a 
+finely carved four-poster canopy bed.
+   The heavy oak desk obviously belongs to Ragnar as there is an axe
+holding down a sheet of paper.  The other lighter desk just has to 
+belong to Garf.  The weapons rack has the standard tools of the trade 
+locked up in it; a couple of swords, an axe or two, and of course a 
+bow with a quiver of arrows
+   A sign at the door says:  "Wipe Your Feet the rug costs money"
+~
+280 duz 0
+D1
+~
+door~
+1 -1 28002
+S
+#28009
+#MChrono's Room#N~
+   You've just entered a sacred place that's known only by a selected 
+few; this is where Chrono goes when he's tired of mudding and losing 
+in pk. The entire place is painted in white, and the walls are 
+decorated with weapons collected from the ancient land of the east. 
+At the center of the room there is a statue of Rulay, the ancient 
+Chinese god of peace and love, who Chrono worships with his soul. 
+Above the statue, a scarab made of ruby is hanging down from the 
+ceiling; its dim red light illuminates the entire room. Finally, you 
+see at the corner of the room stands an unfinished wooden sculpture 
+of Chrono's only true love, who's identity still remains as a 
+mystery, waiting to be solved as of every passing day.
+~
+280 duz 0
+D1
+~
+door~
+11 -1 28004
+S
+#28010
+#MThrone of the Eclipse Lord#N~
+   Closest to Phos is Kurrelgyre, Lord of the Eclipse, and co-founder 
+of our wondrous clan.  His gilded throne sits here, lined with plush 
+satin cushions and endowed with a regal glow.  A spire of light 
+illuminates the center of the room, piercing through a round window 
+cut from diamond and placed directly above the throne.  This serves 
+as a constant reminder of Kurrelgyre's Lord, and his dedication to 
+the #MDragoons #Wof#C Phos#N.
+~
+280 duz 0
+D5
+~
+door~
+1 -1 28001
+E
+throne~
+   As you examine the throne more closely, the glare seems to subside
+and you see small, ornate etchings.  Reading them more closely, you 
+see the names of the mercenaries who embrace Phos.
+~
+S
+#28011
+#MHarlan's Conservatory#N~
+   You have entered a place of learning and growth.  In this room, 
+Harlan studies and cultivates the art of creating music.  In the 
+center of the room, you see a beautiful #rpiano#N, superbly crafted 
+from ebony.  There are various other musical instruments surrounding 
+it.  Along the west wall, many large bookcases made of a dark wood 
+stretch toward the ceiling, filled with stacks of handwritten scores. 
+As your eyes follow the them upward, you see several large skylights 
+that allow the sultry glow of dusk to saturate the room.  In the 
+southern stretch of the room, you see a huge #bbed#N adorned in fine 
+silk.  Beside it is a small wooden table. Looking to the north, you 
+see a small area of the floor crowded with overstuffed beanbag 
+chairs.  It looks like a nice place to relax for a while.  There are 
+many #gplants#N striving in stone pots all around it.  You feel a sense 
+of peace and healing here.
+~
+280 duz 0
+D3
+~
+door~
+11 -1 28001
+E
+piano~
+It is a fine instrument, unlike any you have seen.  The whole piano 
+seems to quietly emanate the emotion that has been poured into it.  
+It's lid is propped open, revealing the work of a master craftsman.  
+The is a small engraving in the soundboard that reads:
+
+"Without music, life would be a mistake." - Nietzsche
+~
+E
+bed~
+The bed is large and round, about ten feet across.  The sheets, a 
+cobalt pool of silk, are in disarray.  There are pillows strewn about 
+the bed and the floor around it.  The scent of a woman lingers in the 
+air here.
+~
+E
+plant plants~
+The plants appear to be a fine strain of cannabis sativa.  
+They are robust and fragrant.
+~
+S
+#28012
+#MThe Ancient Tomb of Acrisius#N~
+   This small piece of Enoch has survived over the years through
+someones care and protection.  As you look about the room a strange
+feeling of safety permeates you and relaxes you making you feel 
+totally at home.  The walls are made of sandstone and have strange 
+scrit written on them in some forgotten language.  Off to one side of 
+the room there is a black marble coffin which seems to exude a 
+strange aura of death.  The ceiling is a mural depicting a fight 
+between a man of great bueaty and some horrid beast whose flesh seems 
+to drip off of him.  In the center of there room there is a small 
+table with some items lying on it.
+§N~
+280 duz 0
+D4
+~
+door~
+11 -1 28003
+S
+#99999
+$~
+

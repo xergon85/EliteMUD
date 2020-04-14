@@ -1,0 +1,19 @@
+#
+# This is a clean copy of the old code.
+# It is the last version of code ran by Kestrel, prior to Aetherys taking over.
+# It includes no pfiles or objs, etc. However the World is kept intact.
+# 
+# This contains all the CODE.
+# This contains the last running static binary. 
+#
+# To run copy the Elite dir to /home/$USER/
+# cd to /home/$USER/Elite
+# Type : autorun &
+#
+# Telnet to port 7500
+# Log in, the first character will be advanced to level 116.
+# Type save; type quit; logout.
+# Log back in and you should have full IMP powers.
+#
+# Good luck getting this to recompile.
+#################################################################################

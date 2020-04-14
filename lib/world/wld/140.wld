@@ -1,0 +1,1039 @@
+#14000
+A dark path in a dense forest~
+   As you move further ahead, you can see light in the distance. It looks like
+there's a clearing in the forest. 
+~
+140 ac 3
+D0
+~
+^~
+0 -1 23064
+D2
+You can see a small clearing
+~
+~
+0 -1 14001
+S
+#14001
+A small clearing in the forest~
+   You have stepped into a small clearing in the forest. It seems that this
+part of the forest had been burnt down in the last forest fire or the like.
+There is a small hole in the ground in the middle of the clearing. 
+~
+140 cl 3
+D0
+~
+~
+0 -1 14000
+D5
+The hole seems barely big enough to fit a person your size. 
+~
+~
+0 -1 14002
+S
+#14002
+Beneath the Earth's Crust~
+   You are now beneath the Earth's crust. The walls seem brittle and your fear
+of it collapsing overwhelms you. The hole sinks deeper into the Earth and above
+you is the life you so well know. 
+~
+140 d 5
+D4
+The blue clear sky of the Earth lies above you. 
+~
+~
+0 -1 14001
+D5
+The Earth below seems to be getting more and more brittle. 
+~
+~
+0 -1 14003
+S
+#14003
+Beneath the Earth's Crust~
+   The downward climb has to come to an abrupt stop. The walls seem to have
+become more compact and small torches line the walls. A narrow mine shaft leads
+off in the east. There are some writings on the north wall. A hole leads back
+up towards the surface. 
+~
+140 acd 5
+D1
+The mine shaft look relatively safe. 
+~
+~
+0 -1 14004
+D4
+The ladder leads upwards. 
+~
+~
+0 -1 14002
+E
+writing sign writings~
+You have entered the Pathway to Hell
+If you are below level 70, RUN!
+Else feel free to DIE!
+~
+S
+#14004
+Within the Mine Shaft~
+   The mine shaft is narrow and you feel suffocated as you walk slowly through
+it. The mine shaft fades off to the south. To the west lies the entrance to the
+mine shaft. 
+~
+140 ad 5
+D2
+The mine shaft leads off to the south. 
+~
+~
+0 -1 14005
+D3
+The entrance to the mine shaft lies to the west. 
+~
+~
+0 -1 14003
+S
+#14005
+Within the Mine Shaft~
+   The mine shaft seems to come to a complete stop. A ladder leads downward to
+another mine shaft. 
+~
+140 ad 5
+D0
+The mine shaft leads off to the north. 
+~
+~
+0 -1 14004
+D5
+The mine shaft is bearly visible. 
+~
+~
+0 -1 14006
+S
+#14006
+Within the Mine Shaft~
+   The mine shaft is barely visible and you are forced to use your light. Bones
+are scattered about the floor and you shiver at the meaning of this. The mine
+shaft leads off to the east. 
+~
+140 ad 5
+D1
+The mine shaft leads off to the east. 
+~
+~
+0 -1 14007
+D4
+The ladder leads upward. 
+~
+~
+0 -1 14005
+E
+bone bones~
+It looks like the remains of a poor adventurer who ventured too far.
+~
+S
+#14007
+Within the Mine Shaft~
+   The mine shaft begins to cringe inwards as if to try and grab you. The
+torches are now non-existent and a smell leads you down the mine shaft eastward.
+
+~
+140 ad 5
+D1
+The mine shaft leads off to the east. 
+~
+~
+0 -1 14008
+D3
+The mine shaft leads off to the west. 
+~
+^~
+0 -1 14006
+S
+#14008
+Within the Mine Shaft~
+   The mine shaft comes again to a sharp end. A small ladder leads you downward
+once again. You fear at the thought of what lies beneath you. The room itself
+seems to be getting warmer as you travel farther along the mine shaft. 
+~
+140 ad 5
+D3
+The mine shaft leads off to the west. 
+~
+~
+0 -1 14007
+D5
+A ladder leads you to what is below. 
+~
+~
+0 -1 14009
+S
+#14009
+A Small Narrow Room~
+   You have come down into a small room. The heat here is intense. A huge
+portal with strange symbols is to the north. It seems to radiate heat from
+itself. 
+~
+140 ad 5
+D0
+Blue and White light is flashing forwards and backwards. 
+~
+~
+0 -1 14010
+D4
+A ladder leads upwards. 
+~
+~
+0 -1 14008
+E
+symbols~
+The symbols tell the story of immense suffering.
+~
+E
+portals~
+Arcane symbols cover the gate.
+It looks like some magical gate to another plane.
+~
+S
+#14010
+The Entryway to Hell~
+   You step into the portal and with a flash of light you find yourself
+transferred to Hell. You are standing here at the entryway to hell. The scenery
+here consists entirely of flames and souls. The air reeks of brimstone and the
+air is filled with the screams of the tortured souls of the mud addicts.
+However, as unpleasant as this seems, you realize that you must still be
+living, and therefore somewhat immune to the flames that light the place. 
+~
+140 cd 2
+D0
+You see the Eternal Fire. 
+~
+~
+0 -1 14012
+D1
+You see the Room of Satanics. 
+~
+~
+0 -1 14013
+D3
+You see a room bathed in fire. 
+~
+~
+0 -1 14011
+S
+#14011
+Hot Fiery Room~
+   The heat from this room, either caused by your imagination or real, is
+stifling and you find it harder to breathe. 
+~
+140 cd 0
+D1
+You see the Entryway to Hell. 
+~
+~
+0 -1 14010
+S
+#14012
+The Eternal Fire of Damnation~
+   As you enter here, you realize that this is the source of the flames, and
+that you are not as immune to the flames as you thought... 
+~
+140 bc 0
+D2
+~
+~
+0 -1 14010
+S
+#14013
+The Room of Satanics~
+   In this room lies the tortured souls of those that betrayed IO and worshipped
+Satan and his minions. 
+~
+140 d 2
+D1
+You see the Satanic Temple. 
+~
+door~
+11 -1 14016
+D2
+You see the Room of Blind Followers. 
+~
+~
+0 -1 14014
+D3
+You see the Entryway to Hell. 
+~
+~
+0 -1 14010
+S
+#14014
+The Room of Blind Followers~
+   This is the room where those the blindly followed the false prophets of
+society and in their misery blind those around them. 
+~
+140 d 3
+D0
+You see the Room of Satanics. 
+~
+~
+0 -1 14013
+S
+#14015
+The Room of Counselors~
+   This is the room of counselors which preach for Satan. An immense heat is
+emanating from the fires which are burning all over this place. To the south
+you can see a black building. 
+~
+140 d 0
+D0
+You see the Waiting Room. 
+~
+~
+0 -1 14018
+D2
+You see the Satanic Temple. 
+~
+door~
+3 -1 14016
+S
+#14016
+The Satanic Temple~
+   As you enter the building all heat from the outside dies away. The room has
+a huge altar at its end. Two huge statues of Satan stands on both side of the
+altar. 
+~
+140 d 2
+D0
+You see the Room of Counselors. 
+~
+door~
+3 -1 14015
+D1
+You see the Room of Worship. 
+~
+door~
+3 -1 14017
+D3
+You see the Room of Satanics. 
+~
+door~
+3 -1 14013
+D5
+You see the Eternal Fire. 
+~
+~
+0 -1 14012
+E
+altar huge statue~
+Pretty gruesome!
+~
+S
+#14017
+The Room of Worship~
+   In this room are loyal worshippers holding services to IO, praying for their
+salvation. They will find none though as they are all to far gone. On the altar
+you see the human sacrifices with which they had hoped to draw IO's attention.
+As it has failed, they are now looking for another live soul to sacrifice... 
+~
+140 d 2
+D3
+You see the Satanic Temple. 
+~
+door~
+3 -1 14016
+S
+#14018
+The Waiting Room~
+   Along the walls of fire you see benches of bones and seats of souls. This is
+where those whose souls have been sold waiting for their mortal shell to return
+to dust. 
+~
+140 d 2
+D1
+You see the Room of Souls. 
+~
+~
+9 -1 14019
+D2
+You see the Room of Counselors. 
+~
+~
+0 -1 14015
+D5
+You see a bottomless pit. 
+~
+~
+0 -1 14026
+S
+#14019
+Room of Souls~
+   Inside this room are the souls of all those who are not mud-addicts, and
+thereby are surely unbelievers... 
+~
+140 d 3
+D3
+You see the Waiting Room. 
+~
+~
+0 -1 14018
+S
+#14020
+Room of the Guardian~
+   In this room you see the Guardian of the Night, Keeper of the Nightmares of
+Man. It is dressed in the heaviest robes of black, and all that you can see are
+the reds of their eyes. And they come for you... 
+~
+140 d 2
+D0
+You see a bottomless pit. 
+~
+~
+0 -1 14028
+S
+#14021
+Judgment Room~
+   This is the room where the souls are to be judged for good or for ill, for
+IO or for Satan. You shudder as your thoughts drift towards your past... 
+~
+140 d 2
+D1
+You see a bottomless pit. 
+~
+~
+0 -1 14028
+D2
+You see the Room of the Executioner. 
+~
+~
+0 -1 14022
+S
+#14022
+Room of the Executioner~
+   In here lie the bones of the Executioner, being stitched together once more.
+
+~
+140 d 2
+D0
+You see the Judgment Room. 
+~
+~
+0 -1 14021
+D2
+You see the illusion of safety. 
+~
+~
+0 -1 14023
+S
+#14023
+Room of Illusions~
+   You suddenly feel so very evil (hehe). Your companions start to look towards
+you menacingly with evil in their eyes. Suddenly, just as you are going to
+attack each other, you realize that it was merely an illusion... 
+~
+140 d 2
+D0
+You see the Room of the Executioner. 
+~
+~
+0 -1 14022
+D2
+You see the Room of the Dead. 
+~
+~
+0 -1 14024
+S
+#14024
+Room of Dead Gods~
+   In this room you see the bones of many people. You consider recalling, as
+the fear of your mortality suddenly rocks your soul. 
+~
+140 d 3
+D0
+You see the illusion of safety. 
+~
+~
+0 -1 14023
+D1
+You see the blazing portal. 
+~
+~
+0 -1 14025
+S
+#14025
+Pit of Satan~
+   You have done it now. You are at the very most depths of hell itself. Before
+you stands the altar of none other than the master of evil himself, The Lord of
+Death, Satan. 
+~
+140 dl 4
+D3
+You see the Room of the Dead. 
+~
+~
+0 -1 14024
+S
+#14026
+Bottomless Pit~
+   You descend deeper and deeper into the depths of hell. The flames are
+getting hotter, and still you see no end to the pit. 
+~
+140 d 1
+D4
+You see the Waiting Room. 
+~
+~
+0 -1 14018
+D5
+You see a bottomless pit. 
+~
+~
+0 -1 14027
+S
+#14027
+Bottomless Pit~
+   After descending deeper and deeper into the depths of hell, you wonder if
+you will ever reach the bottom. The intensity of the heat is unimaginable. 
+~
+140 d 3
+D2
+You see flames erupting from the rooms ahead. 
+~
+~
+0 -1 14029
+D4
+You see a bottomless pit. 
+~
+~
+0 -1 14026
+D5
+You see a bottomless pit. 
+~
+~
+0 -1 14057
+S
+#14028
+Bottomless Pit~
+   You descend deeper and deeper into the depths of hell. The flames are
+getting hotter, and still you see no end to the pit. 
+~
+140 d 4
+D2
+You see the Room of the Guardian. 
+~
+~
+0 -1 14020
+D3
+You see the Room of Judgment. 
+~
+~
+0 -1 14021
+D4
+You cannot see through the flames above. 
+~
+~
+0 -1 14041
+S
+#14029
+In the Heat of Hell~
+   The heat from the room seems to scold you as you try to walk through it,
+carefully avoiding the largest flames. 
+~
+140 d 3
+D0
+The heat restricts your vision. 
+~
+~
+0 -1 14027
+D2
+The heat restricts your vision. 
+~
+~
+0 -1 14030
+S
+#14030
+In the Heat of Hell~
+   The heat from the room seems to scold you as you try to walk through it,
+carefully avoiding the largest flames. Hell extends to the north, east and
+west. 
+~
+140 d 3
+D0
+The heat restricts your vision. 
+~
+~
+0 -1 14029
+D1
+The heat restricts your vision. 
+~
+~
+0 -1 14036
+D3
+The heat restricts your vision. 
+~
+~
+0 -1 14031
+S
+#14031
+In the Heat of Hell~
+   The flames seem to be getting larger as you go deeper into hell. The heat
+seems to intensify to the south. Hell extends southward and eastward. 
+~
+140 d 3
+D1
+The heat restricts your vision. 
+~
+~
+0 -1 14030
+D2
+The heat restricts your vision. 
+~
+~
+0 -1 14032
+S
+#14032
+In the Flames of Hell~
+   The flames seem to get significantly larger. Your movement seems to be more
+and more hesitant of the dangers ahead. The flames seem to spew forth from the
+east. 
+~
+140 d 3
+D0
+The heat restricts your vision. 
+~
+~
+0 -1 14031
+D1
+The heat restricts your vision. 
+~
+~
+0 -1 14033
+S
+#14033
+In the Flames of Hell~
+   The flames seem to get significantly larger. Your movement seems to be more
+and more hesitant of the dangers ahead. The flames seem to spew forth from the
+south. 
+~
+140 d 3
+D2
+The heat restricts your vision. 
+~
+~
+0 -1 14034
+D3
+The heat restricts your vision. 
+~
+~
+0 -1 14032
+S
+#14034
+Near a Large Flame~
+   You enter a room and are stopped by your natural instincts. You feel a sense
+of danger to the west. The flames seem to only come from the north and the
+light seems to be non-existent to the west. 
+~
+140 d 3
+D0
+The heat restricts your vision. 
+~
+~
+0 -1 14033
+D3
+Darkness seems to prevail in this direction. 
+~
+~
+0 -1 14035
+S
+#14035
+The Throne of Queen Ferrix~
+   Here lies the evil Queen Ferrix upon her thrown. All light seems to be
+absorbed into her. She gleams an evil grin at you and watches your every
+movement. 
+~
+140 d 3
+D1
+The heat restricts your vision. 
+~
+~
+0 -1 14034
+S
+#14036
+In the Heat of Hell~
+   The flames seem to get larger and hotter as you travel further into hell. It
+seems to extend towards the west and south. 
+~
+140 d 3
+D2
+The heat restricts your vision. 
+~
+~
+0 -1 14037
+D3
+The heat restricts your vision. 
+~
+~
+0 -1 14030
+S
+#14037
+In the Heat of Hell~
+   The flames seem to get larger and hotter as you travel further into hell. It
+seems to extend to the north, south and east. 
+~
+140 d 3
+D0
+The heat restricts your vision. 
+~
+~
+0 -1 14036
+D1
+The heat restricts your vision. 
+~
+~
+0 -1 14039
+D2
+The heat restricts your vision. 
+~
+~
+0 -1 14038
+S
+#14038
+The Imprisonment Room~
+   Here lies the many good souls captured by Satan. The sufferers lie chained
+hopelessly to the walls awaiting true death and release from the tortures of
+hell. 
+~
+140 d 3
+D0
+The heat restricts your vision. 
+~
+~
+0 -1 14037
+S
+#14039
+In the Heat of Hell~
+   The flames seem to get larger and hotter as you travel deeper into hell. The
+flames spew forth from the east and west. 
+~
+140 d 3
+D1
+The heat restricts your vision. 
+~
+~
+0 -1 14040
+D3
+The heat restricts your vision. 
+~
+~
+0 -1 14037
+S
+#14040
+Entrance to the Pit~
+   Here is an entrance to a pit leading downwards. Heat seems to radiate from
+it hotter than you have ever known before. The flames of hell also continue
+back towards the west. 
+~
+140 d 3
+D3
+The heat restricts your vision. 
+~
+~
+0 -1 14039
+D5
+The heat restricts your vision. 
+~
+~
+0 -1 14041
+S
+#14041
+The Bottomless Pit~
+   You descend deeper and deeper into the depths of hell. The flames seem to be
+getting hotter and hotter. 
+~
+140 d 3
+D3
+The heat restricts your vision. 
+~
+~
+0 -1 14042
+D4
+~
+~
+0 -1 14040
+D5
+The heat restricts your vision. 
+~
+~
+0 -1 14028
+S
+#14042
+Deep within the Flames of Hell~
+   The heat here is intense, but you sense that this may be the worst of it.
+The flames extend in all four directions. 
+~
+140 d 3
+D0
+The heat restricts your vision. 
+~
+~
+0 -1 14044
+D1
+The heat restricts your vision. 
+~
+~
+0 -1 14041
+D2
+The heat restricts your vision. 
+~
+~
+0 -1 14043
+D3
+The heat restricts your vision. 
+~
+~
+0 -1 14049
+S
+#14043
+Home of the Furies~
+   Here lie the three furies of the great Uranus. They seem to flutter towards
+you and attack instantly. The heat of hell lies to the north. 
+~
+140 cd 3
+D0
+The heat restricts your vision. 
+~
+~
+0 -1 14042
+S
+#14044
+Deep within the Flames of Hell~
+   The heat here is intense, but you sense that this may be the worst of it.
+The flames extend out to the west and south. 
+~
+140 d 3
+D2
+The heat restricts your vision. 
+~
+~
+0 -1 14042
+D3
+The heat restricts your vision. 
+~
+~
+0 -1 14045
+S
+#14045
+Deep within the Flames of Hell~
+   The heat here is intense, but you sense that this may be the worst of it.
+The flames extend to the east and west. 
+~
+140 d 3
+D1
+The heat restricts your vision. 
+~
+~
+0 -1 14044
+D3
+The heat restricts your vision. 
+~
+~
+0 -1 14046
+S
+#14046
+Deep within the Flames of Hell~
+   The heat here is intense, but you sense that this may be the worst of it.
+The flames extend to the east and south. 
+~
+140 d 3
+D1
+The heat restricts your vision. 
+~
+~
+0 -1 14045
+D2
+The heat restricts your vision. 
+~
+~
+0 -1 14047
+S
+#14047
+The Boundaries of Flames~
+   The flames of hell seem to have come to a stop. To the west lies a deep dark
+gloomy area. Your own keen sense is wary about travel in this direction. 
+~
+140 d 3
+D0
+The heat restricts your vision. 
+~
+~
+0 -1 14046
+D3
+The dark protrudes in this direction. 
+~
+~
+0 -1 14048
+S
+#14048
+Deep within the Underworld~
+   You have traveled deeper into the underworld. Here, the flames of hell are
+non-existent. But more so, the cold eerie death is all that you feel. 
+~
+140 d 3
+D1
+The flames of hell lies here. 
+~
+~
+0 -1 14047
+D3
+The Underworld extends out in this direction. 
+~
+~
+0 -1 14052
+S
+#14049
+Deep within the Flames of Hell~
+   The heat here is intense, but you sense that this may be the worst of it.
+The flames extend in all four directions. 
+~
+140 d 3
+D1
+The heat restricts your vision. 
+~
+~
+0 -1 14042
+D2
+The heat restricts your vision. 
+~
+~
+0 -1 14050
+S
+#14050
+Before the Spawning Room~
+   The room is intense with heat. To the west, you see flames spew up and
+around like frenzied pigs. To the north, the flames of hell continue to fill
+your body with heat. 
+~
+140 d 3
+D0
+The heat restricts your vision. 
+~
+~
+0 -1 14049
+D3
+Flames flicker back and forth to the west. 
+~
+~
+0 -1 14051
+S
+#14051
+Spawning Room~
+   The room is hot with red flames. Hell Spawns seem to float around you
+waiting for the right moment to make their moves upon you. The Hell Spawns vary
+in size from large to small. 
+~
+140 d 3
+D1
+The heat restricts your vision. 
+~
+~
+0 -1 14050
+S
+#14052
+Deep within the Underworld~
+   Here, the flames of hell no longer burn bright. Instead, the deathless
+silence of the true Underworld has taken over and makes you shiver and the very
+thoughts of what lies ahead. The passageway back towards the flames thins into
+nothingness. 
+~
+140 d 3
+D1
+~
+~
+0 -1 14048
+D2
+The Underworld continues in this direction. 
+~
+~
+0 -1 14053
+S
+#14053
+Deep within the Underworld~
+   The Underworld is a cold place. Death seems to be all that you can think
+about. Hundreds of images of death enter your mind. 
+~
+140 d 3
+D0
+The Underworld continues in this direction. 
+~
+~
+0 -1 14052
+D3
+The Underworld continues in this direction. 
+~
+~
+0 -1 14054
+S
+#14054
+Before Fate~
+   You stop for an instant thinking of all the memories of your life. They seem
+to flash before you as if death was knocking upon your front door. 
+~
+140 d 3
+D1
+The Underworld continues in this direction. 
+~
+~
+0 -1 14053
+D3
+Your fate lies here. 
+~
+~
+0 -1 14055
+S
+#14055
+Room of Fate~
+   You enter a small room. There seems to be nothing but the cold walls here.
+Then suddenly, you realize all that is around you. A HUGE black door can be
+seen to the west. Could this be your fate? Is death a certain reality? 
+~
+140 d 3
+D1
+~
+~
+0 -1 14054
+D3
+A door lies here. 
+~
+gate door huge~
+3 -1 14056
+S
+#14056
+The Throne of Hades~
+   You feel good to be alive, but the sight of the mighty Hades peering over
+you sends chills through your mind. You are overcome with a feeling of
+uselessness. Your magic powers feel weak and you are drained of the mystical
+enchantments that seemed to have protected you so well before. 
+~
+140 dh 3
+D1
+~
+gate door huge~
+3 -1 14055
+S
+#14057
+Bottomless Pit~
+   After descending deeper and deeper into the depths of hell, you wonder if
+you will ever reach the bottom. The intensity of the heat is unimaginable. 
+~
+140 d 3
+D4
+You see a bottomless pit. 
+~
+~
+0 -1 14026
+D5
+You see a bottomless pit. 
+~
+~
+0 -1 14057
+S
+#99999
+$~

@@ -1,0 +1,328 @@
+#20800
+master psionicist psi creston Creston~
+Creston~
+Creston is here working on advanced Psionics.
+~
+Creston is the most powerful psionicist that has ever been.  He is 
+able to do things with psionics that past masters never thought
+possible.  
+This is a man who has spent his entire life pushing the limits of 
+psionicism.  He is immensely powerful in the arts and probably could
+rend your body into two with just a mere thought.
+~
+1 1 6146 603980968 300 S
+109 -30 -70 25d50+8000
+404 500 40 1d100+100 
+106 0 20 1d0+93 
+107 0 15 1d0+94
+73 0 5 1d0+96
+88 0 5 1d0+93
+87 0 10 1d0+95
+90 0 5 1d0+95   -1
+-1
+-1
+18000 3000000 8 8 1
+#20801
+painting~
+a large painting~
+A large painting is hanging on a wall.
+~
+A painting glorifying the greatest of the Psionicists ever the 
+mighty Creston.  The painting itself depicts Creston single handedly
+battling a horde of demon spawn.
+~
+10 4 34 167773184 0 A 34 0
+#20802
+paintbrush brush ~
+the paintbrush~
+An artists paintbrush is lying here on the table.
+~
+The bristles on the brush are permanently stained with many different
+colors from being used.
+~
+10 4 4130 134218760 0 A 28 0
+#20803
+paint can paintcan~
+a paintcan~
+A paintcan sits here on a shelf.
+~
+The paintcan is made of some kind of metal with a wooden lid sealed 
+by wax to keep the paint from drying out.
+~
+10 4 4130 134218760 -7 A 31 0
+#20804
+Easel~
+an easel~
+A painters easel leans against the wall.
+~
+The easel stands here waiting to hold paintings.  It is covered
+with gooey paint.
+~
+10 4 4130 1032 -13 A 33 0
+#20805
+guard~
+the guard~
+A psionicist school guard is standing here.
+~
+The guard probably has very little training in the arts of war and 
+would not last in a fight against a trained warrior.
+~
+1 4 4162 1024 100 S
+37 5 -8 1d51+441
+403 500 78 2d8+9
+402 500 15 2d7+11 
+401 500 7 2d10+10         -1
+-1
+-1
+500 100001 8 8 1
+#20806
+novice psi psionicist~
+the novice~
+A novice of the psionicist school is wandering about.
+~
+The novice is wearing a white robe which has a  red triskelion 
+embroidered on the breast.  He is one of the students of this 
+school who are here learning about the secret powers of the mind.
+Physically he is weak but who knows what interesting tricks this 
+young novice has learned in his little time studying at the school.
+~
+1 1 64 1064 50 S
+37 7 -5 1d50+375
+400 500 45 2d6+4
+79 0 45 1d0+90  
+86 0 10 1d0+70         -1
+-1
+-1
+1000 148701 8 8 1
+#20807
+novice psi psionicist~
+the novice~
+A novice of the school is here practicing psionics.
+~
+Like the other novices in the school she is wearing a white robe with
+a red triskelion embroidered on the breast.  She is one of the students
+of this school who are here learning about the secret powers of the
+mind.  This novice is not ready for any type of confrontation, but 
+once her innate powers of the mind are fully developed she will be
+powerful.  
+~
+1 1 64 1064 40 S
+39 6 -5 1d25+400
+400 500 40 5d4+4
+79 0 55 1d0+85
+73 0 5 1d0+70         -1
+-1
+-1
+1574 157145 8 8 2
+#20808
+apprentice psi psionicist~
+the apprentice~
+An apprentice is here demonstrating for the novices.
+~
+After years of study the novices of the school take grueling tests 
+to become apprentices.  This apprentice has made achievements 
+within the school and is considered an advanced student of the mind.
+The apprentices in this school are of a level of mastery within 
+their skill that they can be a formidable opponent in battle.
+~
+1 1 64 1064 1 S
+42 1 -11 1d50+423
+404 500 33 5d5+5
+79 0 33 1d0+90
+86 0 33 1d0+70
+77 0 1 1d0+95       -1
+-1
+-1
+3210 222222 8 8 1
+#20809
+apprentice psi psionicist~
+the apprentice~
+The apprentice is here learning from the masters.
+~
+This apprentice has made achievements within the school and is 
+considered an advanced student of the mind.  The apprentices in 
+this school are of a level of mastery within their skill that they 
+can be a formidable opponent in battle.
+~
+1 1 64 1058 69 S
+44 2 -9 1d50+442
+404 500 35 7d4+5 
+79 0 40 1d0+90
+86 0 20 1d0+80
+87 0 5 1d0+75  
+-1
+-1
+-1
+3331 232323 8 8 1
+#20810
+master psi psionicist~
+the master~
+A master in the arts of psionics is teaching class.
+~
+The master psionicist is here lecturing to a class of novices. The
+masters have been studying psionics for many years and are truly 
+powerful in the ways of psionics. Only a handful of the best 
+psionicists ever achieve the rank of master.
+~
+1 1 2048 67109928 111 S
+51 1 -11 2d30+500
+404 500 25 5d5+5
+97 0 15 1d0+88
+79 0 30 1d0+91
+73 0 29 1d0+69
+106 0 1 1d0+90        -1
+-1
+-1
+3131 243191 8 8 1
+#20811
+master psi psionicist~
+the master~
+The master psionicist is here studying the latest writings of Creston.
+~
+The masters have been studying psionics for many years and are truly 
+powerful in the ways of psionics. Only a handful of the best 
+psionicists ever achieve the rank of master.
+~
+1 1 2048 67109928 111 S
+52 1 -11 2d30+525
+404 500 22 5d5+5
+79 0 30 1d0+89
+106 0 3 1d0+80  
+107 0 19 1d0+84
+73 0 18 1d0+92
+97 0 8 1d0+87      -1
+-1
+-1
+3131 243191 8 8 1
+#20812
+lhurgoif~
+the Lhurgoif~
+A large 3 legged 5 armed deformed beast is chained to the wall.
+~
+The twisted hulk before you is one of Creston's experiments that 
+went totally wrong.  This beast is covered with a slimy green skin,
+and has 5 hulking arms and 3 powerful legs, all with razor sharp claws.
+~
+2 4 2054 33555456 -100 A 75 0
+#20813
+phantasm phantasmal force forces~
+phantasmal forces~
+Phantasmal forces are roaming the practice hall.
+~
+Phantasmal forces are psionic projections made by a psionicist.  They
+are used in the school to teach students the discipline of projecting
+psionic energy at a distance.  The forces appear to be made of mist.
+~
+10 4 64 134218752 0 A 41 0
+#20814
+entity psionic energy~
+the psionic entity~
+A conscious mass of psionic energy looks for its maker.
+~
+The psionic entity is similar to the forces in that it is a psionic
+projection.  The mist that composes most other psionically projected
+beings also composes the entity. This particular projection has a
+particularly nasty habit of seriously hurting unknowing students.
+~
+10 4 96 134480896 0 A 46 0
+#20815
+warrior psionic~
+the psionic warrior~
+A warrior made of psionic energy is hanging around.
+~
+One of the more powerful projected entities that inhabit the practice 
+hall of the school, the psionic warrior is one that is never practiced
+by the students.  Such is the power of the warrior that usually masters
+are the only psionicists with enough power and control to project these
+fierce warriors.
+~
+10 4 4160 1024 0 A 51 0
+#20816
+angel projection~
+the angel~
+You see what appears to be a psychic projection in the form of an angel.
+~
+The projected angel is the most powerful of the psionic projections.  
+To date, only 3 of the attending psionic masters, Creston being one of
+them have been able to project this truly powerful force.
+~
+17 4 320 67110016 0 A 49 0
+#20817
+janitor Malki malki~
+the janitor~
+A janitor is here sweeping the halls.
+~
+Malki the janitor has worked cleaning the halls of the school for many 
+years.  Malki appears to be well into his 50's, he docent look like much
+trouble to anyone.  He is wearing his trusty coveralls and is carrying 
+a mop.
+~
+1 4 4 0 101 A 24 1
+#20818
+servant ~
+a servant~
+A servant of the school is hurrying about working.
+~
+This is one of the many servants who work at the school.  Whether their
+duties are cleaning or running errands for the masters, the servants are
+here to perform the chores that are too mundane for either the students
+or the teachers to do.
+~
+1 4 68 0 150 A 34 1
+#20819
+psionicist psi~
+the psionicist~
+A psionicist is here at the school for advanced studies.
+~
+This is one of the graduates of the psionicist school.  After much 
+studying he was able to pass the test and become a full member of
+the brotherhood of psionicists.  While more powerful than the students
+studying at this school, he would not be able to stand up to the more
+advanced skills of the Masters that teach here.
+~
+1 4 2048 1024 120 S
+50 2 -7 1d29+560
+404 500 55 2d12+2
+401 500 10 5d3+5
+79 0 30 1d0+85
+86 0 4 1d0+80
+88 0 1 1d0+75 -1
+-1
+-1
+740 200000 8 8 1
+#20820
+servant~
+the servant~
+A servant of the school is completing her work.
+~
+This is one of the many servants who work at the school.  Whether their
+duties are cleaning or cooking, the servants are here to perform the
+chores that are too mundane for either the students or the teachers to
+do.
+~
+1 4 4 1024 0 A 35 2
+#20821
+mage visit visiting dill Dill Dilligaf dilligaf~
+the visiting mage~
+A mage is here to visit with his old friend Creston.
+~
+Dilligaf the mage is here to visit with his old friend Creston with 
+whom he had grown up.  Where Creston chose to study psionics
+Dilligaf chose to study the arcane ways of the wizards.  While his
+knowledge and skills are totally different from that of the masters,
+Dilligaf could still stand his own in fights against anyone in the 
+school except Creston.
+~
+14 1 2048 134218794 500 S
+60 -2 -15 6d5+599
+410 500 60 5d8+1
+32 0 15 1d0+95
+15 0 5 2d0+50
+4 0 5 3d0+70
+10 0 14 1d0+89
+26 0 1 1d0+90 -1
+-1
+-1
+1000 310000 8 8 1
+#99999
+$~

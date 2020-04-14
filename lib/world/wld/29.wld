@@ -1,0 +1,700 @@
+#2900
+Fiction for Young Adults~
+   Not quite children, but not quite adults, those that fall in
+between seem to have their own taste in reading materials.  This
+collection was created just for the young adult crowd.  Several small
+tables stand covered with books in the center of the room, surrounded
+by the enormous bookshelves that fill the library.  The stacks
+continue to the south, and an open doorway leads east to a quiet
+hallway.
+~
+29 de 0
+D1
+~
+~
+0 -1 2901
+D2
+~
+~
+0 -1 2903
+S
+#2901
+A Quiet Hallway~
+   The quiet hallway leads through the center of the library.  Plush
+carpeting on the floors, and large tapestries on the walls muffle any
+noise that might otherwise be heard here.  Open doorways lead east   
+and west from the hallway into the stacks, and the hallway continues
+to the north.  A small wooden staircase leads up to the next floor of
+the library.
+~
+29 de 0
+D1
+~
+~
+0 -1 2902
+D2
+~
+~
+0 -1 2904
+D3
+~
+~
+0 -1 2900
+D4
+~
+~
+0 -1 2916
+S
+#2902
+The Stacks~
+   Several large shelves line the walls, reaching from the floor to
+the ceiling.  Each shelf is filled to capacity with all sorts of     
+books and scrolls.  This large collection of reading materials is
+considered to be one of the finest in the land, an opinion shared by
+the librarians who work here.  The stacks continue to the south, and an 
+open doorway leads west to a quiet hallway.
+~
+29 de 0
+D2
+~
+~
+0 -1 2905
+D3
+~
+~
+0 -1 2901
+S
+#2903
+The Stacks~
+   Several large shelves line the walls, reaching from the floor to
+the ceiling.  Each shelf is filled to capacity with all sorts of
+books and scrolls.  This large collection of reading materials is
+considered to be one of the finest in the land, an opinion shared by
+the librarians who work here.  The stacks continue to the north and
+south, and an open doorway leads east to a quiet hallway.
+~
+29 de 0
+D0
+~
+~
+0 -1 2900
+D1
+~
+~
+0 -1 2904
+D2
+~
+~
+0 -1 2906
+S
+#2904
+A Quiet Hallway~
+   The quiet hallway leads through the center of the library.  Plush
+carpeting on the floors, and large tapestries on the walls muffle any
+noise that might otherwise be heard here.  Open doorways lead east   
+and west from the hallway into the stacks, and the hallway continues
+to the north and south.
+~
+29 de 0
+D0
+~
+~
+0 -1 2901
+D1
+~
+~
+0 -1 2905
+D2
+~
+~
+0 -1 2907
+D3
+~
+~
+0 -1 2903
+S
+#2905
+The Stacks~
+   Several large shelves line the walls, reaching from the floor to
+the ceiling.  Each shelf is filled to capacity with all sorts of     
+books and scrolls.  This large collection of reading materials is
+considered to be one of the finest in the land, an opinion shared by
+the librarians who work here.  The stacks continue to the north and 
+south, and an open doorway leads west to a quiet hallway.
+~
+29 de 0
+D0
+~
+~
+0 -1 2902
+D2
+~
+~
+0 -1 2908
+D3
+~
+~
+0 -1 2904
+S
+#2906
+Nursery Rhymes, Fables, and Other Children's Books~
+   This library is known far and wide for its magnificent
+collection of children's books.  Here the young, and young at
+heart, may browse through wonderful picture books, fairy tales,
+and much more.  Several wooden toys are scattered about on the
+floor, probably left here by some of the younger patrons.  Large
+wooden shelves line the walls, housing the many volumes owned by
+this fine library.  The stacks continue to the north and south, and
+an open doorway leads to a hallway to the east.
+~
+29 de 0
+D0
+~
+~
+0 -1 2903
+D1
+~
+~
+0 -1 2907
+D2
+~
+~
+0 -1 2909
+S
+#2907
+A Quiet Hallway~
+   The quiet hallway leads through the center of the library.  Plush
+carpeting on the floors, and large tapestries on the walls muffle any
+noise that might otherwise be heard here.  Open doorways lead east   
+and west from the hallway into the stacks, and the hallway continues
+to the north and south.
+~
+29 de 0
+D0
+~
+~
+0 -1 2904
+D1
+~
+~
+0 -1 2908
+D2
+~
+~
+0 -1 2910
+D3
+~
+~
+0 -1 2906
+S
+#2908
+Rare Books and Historical Volumes~
+   History buffs from all around flock to this library for a chance
+to browse through the magnificent collection of rare books and
+historical volumes.  Ancient literary masterpieces sit safely inside
+large glass cases, taken out only rarely.  Several volumes detailing
+the history of the known world line the shelves, beckoning you to
+enjoy their tales of days gone by.  The stacks continue to the north
+and south, and a small doorway leads west to a quiet hallway.
+~
+29 de 0
+D0
+~
+~
+0 -1 2905
+D2
+~
+~
+0 -1 2911
+D3
+~
+~
+0 -1 2907
+S
+#2909
+New Arrivals~
+   As new volumes are acquired by the library, they are temporarily
+housed in this section.  This allows visitors easy access to the
+latest books and scrolls.  Several patrons sit around a large round
+table, avidly reading their selections.  Large wooden shelves line
+the walls, housing the many volumes owned by this fine library.  The
+stacks, as the main collection is called by the wonderful librarians,
+continue to the north, and an open doorway leads to a hallway to the
+east.
+~
+29 de 0
+D0
+~
+~
+0 -1 2906
+D1
+~
+~
+0 -1 2910
+S
+#2910
+A Quiet Hallway~
+   The quiet hallway leads through the center of the library.  Plush
+carpeting on the floors, and large tapestries on the walls muffle any
+noise that might otherwise be heard here.  Open doorways lead east
+and west from the hallway into the stacks, and the hallway continues
+to the north and south.
+~
+29 de 0
+D0
+~
+~
+0 -1 2907
+D1
+~
+~
+0 -1 2911
+D2
+~
+~
+0 -1 2913
+D3
+~
+~
+0 -1 2909
+S
+#2911
+The Reference Room~
+   Dictionaries, encyclopediae, indices, and various other reference
+volumes make their home in the reference room.  Conveniently located
+next to the librarian's office, the reference room holds a wealth of
+information about everything under the sun.  A large wooden table
+sits in the center of the room, covered with several enormous books,
+some of which appear to be quite ancient.  The stacks, which make up
+the bulk of the library's collection, continue to the north.  An open
+doorway leads west to a quiet hallway.  
+~
+29 de 0
+D0
+~
+~
+0 -1 2908
+D3
+~
+~
+0 -1 2910
+S
+#2912
+The Circulation Desk~
+   A small desk, covered with piles of books and scrolls, sits in the
+middle of this room.  The plush carpeting on the floor muffles any
+footsteps that would otherwise be heard here.  This is a library
+after all!  A large plaque hangs on the wall next to the doorway,
+which leads to a hallway to the east.
+~
+29 de 0
+D1
+~
+~
+0 -1 2913
+E
+plaque~
+The plaque reads:
+
+	Welcome patrons!
+
+	A library card is required to check out any books.
+	Read our books at your own risk!
+	The library will not be held responsible for any loss
+	of life and/or limb from use of our books.
+
+	Thank You,
+	The Head Librarian
+~
+S
+#2913
+A Quiet Hallway~
+   The quiet hallway leads through the center of the library.  Plush
+carpeting on the floors, and large tapestries on the walls muffle any
+noise that might otherwise be heard here.  A small office is just
+east of here, and to the west is the Circulation Desk.
+~
+29 de 0
+D0
+~
+~
+0 -1 2910
+D1
+~
+~
+0 -1 2914
+D3
+~
+~
+0 -1 2912
+D5
+~
+~
+0 -1 3077
+S
+#2914
+The Librarian's Office~
+   A small desk sits in one corner of the room, covered with numerous
+books, scrolls, and bits of paper.  While the librarian's office
+appears to be quite messy, the librarian knows exactly where
+everything is.  Through the doorway to the west, you can see a
+carpeted hallway.
+~
+29 de 0
+D3
+~
+~
+0 -1 2913
+S
+#2915
+Mythology and Legend~
+   Volumes filled with tales of the ancient gods and their mighty
+deeds are stacked neatly on the large shelves in what is said to be
+the largest single collection of mythological literature.  A large
+table stands in the center of the room, covered with books containing
+tales of ancient heroes and gods.  The stacks that make up the main
+collection of the library continue to the south, and an open doorway
+stands east, leading to a quiet hallway.
+~
+29 de 0
+D1
+~
+~
+0 -1 2916
+D2
+~
+~
+0 -1 2918
+D3
+The hallways of the Knights who say Ni open up behind a nice set of
+shrubbery.
+~
+~
+0 -1 27701
+S
+#2916
+A Quiet Hallway~
+   The quiet hallway leads through the center of the library.  Plush
+carpeting on the floors, and large tapestries on the walls muffle any
+noise that might otherwise be heard here.  Open doorways lead east
+and west from the hallway into the stacks, and the hallway continues
+to the south.  A small wooden staircase leads down to the first floor
+of the library.
+~
+29 de 0
+D1
+~
+~
+0 -1 2917
+D2
+~
+~
+0 -1 2919
+D3
+~
+~
+0 -1 2915
+D5
+~
+~
+0 -1 2901
+S
+#2917
+The Stacks~
+   Several large shelves line the walls, reaching from the floor to
+the ceiling.  Each shelf is filled to capacity with all sorts of
+books and scrolls.  This large collection of reading materials is
+considered to be one of the finest in the land, an opinion shared by
+the librarians who work here.  The stacks continue to the south, and an 
+open doorway leads west to a quiet hallway.
+~
+29 de 0
+D2
+~
+~
+0 -1 2920
+D3
+~
+~
+0 -1 2916
+S
+#2918
+The Stacks~
+   Several large shelves line the walls, reaching from the floor to
+the ceiling.  Each shelf is filled to capacity with all sorts of
+books and scrolls.  This large collection of reading materials is
+considered to be one of the finest in the land, an opinion shared by
+the librarians who work here.  The stacks continue to the north and
+south, and an open doorway leads east to a quiet hallway. 
+~
+29 de 0
+D0
+~
+~
+0 -1 2915
+D1
+~
+~
+0 -1 2919
+D2
+~
+~
+0 -1 2921
+S
+#2919
+A Quiet Hallway~
+   The quiet hallway leads through the center of the library.  Plush
+carpeting on the floors, and large tapestries on the walls muffle any
+noise that might otherwise be heard here.  Open doorways lead east
+and west from the hallway into the stacks, and the hallway continues
+to the north and south.
+~
+29 de 0
+D0
+~
+~
+0 -1 2916
+D1
+~
+~
+0 -1 2920
+D2
+~
+~
+0 -1 2922
+D3
+~
+~
+0 -1 2918
+S
+#2920
+The Stacks~
+   Several large shelves line the walls, reaching from the floor to
+the ceiling.  Each shelf is filled to capacity with all sorts of
+books and scrolls.  This large collection of reading materials is
+considered to be one of the finest in the land, an opinion shared by
+the librarians who work here.  The stacks continue to the south, and an 
+open doorway leads west to a quiet hallway.
+~
+29 de 0
+D0
+~
+~
+0 -1 2917
+D2
+~
+~
+0 -1 2923
+D3
+~
+~
+0 -1 2919
+S
+#2921
+The Stacks~
+   Several large shelves line the walls, reaching from the floor to
+the ceiling.  Each shelf is filled to capacity with all sorts of     
+books and scrolls.  This large collection of reading materials is
+considered to be one of the finest in the land, an opinion shared by
+the librarians who work here.  The stacks continue to the north and 
+south, and an open doorway leads east to a quiet hallway.
+~
+29 de 0
+D0
+~
+~
+0 -1 2918
+D1
+~
+~
+0 -1 2922
+D2
+~
+~
+0 -1 2924
+S
+#2922
+A Quiet Hallway~
+   The quiet hallway leads through the center of the library.  Plush
+carpeting on the floors, and large tapestries on the walls muffle any
+noise that might otherwise be heard here.  Open doorways lead east
+and west from the hallway into the stacks, and the hallway continues
+to the north and south.
+~
+29 de 0
+D0
+~
+~
+0 -1 2919
+D1
+~
+~
+0 -1 2923
+D2
+~
+~
+0 -1 2925
+D3
+~
+~
+0 -1 2921
+S
+#2923
+The Stacks~
+   Several large shelves line the walls, reaching from the floor to
+the ceiling.  Each shelf is filled to capacity with all sorts of
+books and scrolls.  This large collection of reading materials is
+considered to be one of the finest in the land, an opinion shared by
+the librarians who work here.  The stacks continue to the north and
+south, and an open doorway leads west to a quiet hallway.
+~
+29 de 0
+D0
+~
+~
+0 -1 2920
+D2
+~
+~
+0 -1 2926
+D3
+~
+~
+0 -1 2922
+S
+#2924
+The Stacks~
+   Several large shelves line the walls, reaching from the floor to
+the ceiling.  Each shelf is filled to capacity with all sorts of     
+books and scrolls.  This large collection of reading materials is
+considered to be one of the finest in the land, an opinion shared by
+the librarians who work here.  The stacks continue to the north and 
+south, and an open doorway leads east to a quiet hallway.
+~
+29 de 0
+D0
+~
+~
+0 -1 2921
+D1
+~
+~
+0 -1 2925
+D2
+~
+~
+0 -1 2927
+S
+#2925
+A Quiet Hallway~
+   The quiet hallway leads through the center of the library.  Plush
+carpeting on the floors, and large tapestries on the walls muffle any
+noise that might otherwise be heard here.  Open doorways lead east
+and west from the hallway into the stacks, and the hallway continues
+to the north and south.
+~
+29 de 0
+D0
+~
+~
+0 -1 2922
+D1
+~
+~
+0 -1 2926
+D2
+~
+~
+0 -1 2928
+D3
+~
+~
+0 -1 2924
+S
+#2926
+Fiction~
+   Various books, filled with tales that could only come from the
+most creative minds in the land, are spread out across a large table
+that dominates the center of this room.  The fiction collection in
+this library is one of the most comprehensive known to exist.  Large
+bookcases line the walls, filled with hundreds of literary
+masterpieces.  The stacks continue to the north from here, and an
+open doorway leads to a quiet hallway to the east.
+~
+29 de 0
+D0
+~
+~
+0 -1 2923
+D2
+~
+~
+0 -1 2929
+D3
+~
+~
+0 -1 2925
+S
+#2927
+The Stacks~
+   Several large shelves line the walls, reaching from the floor to
+the ceiling.  Each shelf is filled to capacity with all sorts of     
+books and scrolls.  This large collection of reading materials is
+considered to be one of the finest in the land, an opinion shared by
+the librarians who work here.  The stacks continue to the north and 
+south, and an open doorway leads west to a quiet hallway.
+~
+29 de 0
+D0
+~
+~
+0 -1 2924
+D1
+~
+~
+0 -1 2928
+S
+#2928
+A Quiet Hallway~
+   The quiet hallway leads through the center of the library.  Plush
+carpeting on the floors, and large tapestries on the walls muffle any
+noise that might otherwise be heard here.  Open doorways lead east
+and west from the hallway into the stacks, and the hallway continues
+to the north.
+~
+29 de 0
+D0
+~
+~
+0 -1 2925
+D1
+~
+~
+0 -1 2929
+D3
+~
+~
+0 -1 2927
+S
+#2929
+The Classics~
+   Ahhh the classics!  These literary masterpieces have become an
+integral part of our culture.  Read by every schoolchild, these
+volumes can take you to far-off lands and mystical places.  The books
+and scrolls that make up the classics collection are very diverse and
+intended for a wide range of audiences.  The stacks that hold this
+collection contunie to the northm and an open doorway leads to a
+hallway to the west.
+~
+29 de 0
+D0
+~
+~
+0 -1 2926
+D3
+~
+~
+0 -1 2928
+S
+#99999
+$~

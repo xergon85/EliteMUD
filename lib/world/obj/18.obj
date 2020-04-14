@@ -1,0 +1,761 @@
+#1801
+ring pearl~
+a pearl ring~
+A pearl ring is laying here.~
+~
+9 30 0 gk ab
+4 0 0 0 0 0
+1 3000 1000
+E
+pearl ring~
+It looks white and magical.
+~
+A
+1 1
+A
+19 2
+A
+24 3
+#1802
+necklace pearl~
+a pearl necklace~
+A pearl necklace is laying here.~
+~
+9 30 0 gk ac
+6 0 0 0 0 0
+2 3000 1000
+E
+necklace pearl~
+It looks white and magical.
+~
+A
+3 2
+A
+12 30
+#1803
+platemail mail plate white~
+white platemail~
+A suit of white platemail is laying here.~
+~
+9 27 acefgijklms k ad
+13 0 0 0 0 0
+75 8100 2700
+E
+mail plate platemail white~
+It looks white and magical.
+~
+A
+2 -2
+A
+14 -50
+#1804
+crown pearl~
+a pearl crown~
+A pearl crown.~
+~
+9 32 0 gk ae
+6 0 0 0 0 0
+20 6400 2133
+E
+crown pearl~
+It looks white and magical.
+~
+A
+9 30
+A
+12 30
+A
+24 5
+#1805
+plates leg white~
+white leg plates~
+A pair of white leg plates are laying here.~
+~
+9 27 acefgijklms gk af
+6 0 0 0 0 0
+50 5200 1800
+E
+leg plates white~
+They look white and magical.
+~
+A
+1 1
+A
+2 -1
+A
+14 -25
+#1806
+boots boots white~
+white boots~
+A pair of white boots are laying here.~
+~
+9 27 0 k ag
+6 0 0 0 0 0
+20 2700 900
+E
+boot boots white~
+They look white and magical.
+~
+A
+14 -15
+#1807
+gauntlets gauntlet white~
+white gauntlets~
+A pair of white gauntlets are laying here.~
+~
+9 28 aceijkms gk ah
+6 0 0 0 0 0
+20 2800 933
+E
+gauntlet gauntlets white~
+They look white and magical.
+~
+A
+1 1
+A
+2 -2
+A
+18 1
+A
+19 3
+#1808
+arm plates white~
+white arm plates~
+A pair of white arm plates are laying here.~
+~
+9 27 acefgijklms k ai
+5 0 0 0 0 0
+20 2000 900
+E
+armplates white~
+They look white and magical.
+~
+#1809
+shield white~
+a white shield~
+A white shield is laying here.~
+~
+9 27 0 k aj
+6 0 0 0 0 27
+40 2700 900
+E
+shield white~
+It looks white and magical.
+~
+A
+2 -1
+A
+13 30
+#1810
+tunic white~
+a white tunic~
+A white tunic is laying here.~
+~
+9 24 0 gk ak
+5 0 0 0 0 0
+10 2400 800
+E
+tunic white~
+It looks white and magical.
+~
+A
+13 20
+A
+14 20
+#1811
+scabbard white~
+a white scabbard~
+A white scabbard is laying here.~
+~
+15 24 0 k al
+25 0 -1 0 0 0
+5 2400 800
+E
+scabbard white~
+It looks like a good place to put a sword.
+~
+A
+17 4
+#1812
+bracelet ivory~
+an ivory bracelet~
+An ivory bracelet is laying here.~
+~
+9 27 0 gk am
+1 0 0 0 0 0
+5 2700 900
+E
+bracelet ivory~
+It looks white and magical.
+~
+A
+1 1
+A
+12 20
+A
+13 20
+#1813
+staff white~
+a white staff~
+A white staff is laying here.~
+~
+4 32 cdfhklnops gk ao
+70 5 5 87 0 0
+15 8000 1066
+E
+staff white~
+It looks white and magical.
+~
+#1814
+halberd white~
+a white halberd~
+A white halberd is here.~
+~
+5 28 abcefgijkms gk an
+0 5 6 3 0 28
+20 2800 933
+E
+halberd white~
+It looks white and magical...and deadly!
+~
+A
+18 -2
+A
+19 6
+#1815
+lance white~
+a white lance~
+A white lance is laying here.~
+~
+5 27 abcefgijklms gk an
+0 3 10 12 0 24
+18 2700 900
+E
+lance white~
+It looks white and magical...and sharp!
+~
+A
+18 -1
+A
+19 5
+#1816
+mace white~
+a white mace~
+A white mace is laying here.~
+~
+5 27 0 gk an
+0 4 6 7 0 27
+15 2700 900
+E
+mace white~
+It looks white and magical.
+~
+A
+19 4
+#1817
+morningstar morning star white~
+a white morningstar~
+A white morningstar is laying here.~
+~
+5 24 aceikms gk an
+0 5 5 6 0 24
+13 2400 800
+E
+morning morningstar star white~
+It looks white and magical.
+~
+A
+18 -1
+A
+19 5
+#1818
+pike white~
+a white pike~
+A white pike is laying here.~
+~
+5 24 abcefijkms gk an
+0 5 4 12 0 24
+11 2400 800
+E
+pike white~
+It looks white and magical.
+~
+A
+19 4
+#1819
+sword white~
+a white sword~
+A white sword is laying here.~
+~
+5 24 bfj gk an
+0 5 5 3 0 24
+14 2400 800
+E
+sword white~
+It looks white and magical.
+~
+A
+18 2
+A
+19 2
+#1820
+cap malthus malthus' thinking~
+a thinking cap~
+Malthus' thinking cap is laying here.~
+~
+11 40 cdhklnops gk ae
+0 0 0 0 0 0
+5 8000 2667
+E
+cap malthus malthus' thinking~
+It'll help you think.
+~
+A
+3 2
+A
+4 2
+A
+9 40
+A
+12 40
+#1821
+robe malthus malthus' red~
+a red robe~
+Malthus' red robe is laying here.~
+~
+15 40 cdhklnops 0 ad
+40 0 -1 0 0 0
+10 4000 1333
+E
+red malthus malthus' robe~
+It looks comfortable. When you take a closer look, it has a small pocket in the front,
+with a fancy 'M' monogrammed on it, and two other pockets for Malthus to put his hands
+in.
+~
+A
+17 15
+#1822
+slippers malthus red slipper~
+red slippers~
+Malthus' red slippers are laying here.~
+~
+11 40 cdhklnops 0 ag
+0 0 0 0 0 0
+10 4000 1333
+E
+malthus red slipper slippers~
+They look comfortable.
+~
+A
+5 2
+#1823
+potion red~
+a red potion~
+A red potion is laying here.~
+~
+10 40 0 g a
+60 3 36 61 0 0
+15 4000 1333
+#1824
+ring onyx~
+an onyx ring~
+An onyx ring is laying here.~
+~
+9 30 0 gj ab
+4 0 0 0 0 0
+1 3000 1000
+E
+onyx ring~
+It looks black and magical.
+~
+A
+1 1
+A
+19 2
+A
+24 3
+#1825
+necklace onyx~
+an onyx necklace~
+An onyx necklace is laying here.~
+~
+9 30 0 gj ac
+6 0 0 0 0 0
+2 3000 1000
+E
+necklace onyx~
+It looks black and magical.
+~
+A
+3 2
+A
+12 30
+#1826
+platemail mail plate black~
+black platemail~
+A suit of black platemail is laying here.~
+~
+9 27 acefgijklms j ad
+13 0 0 0 0 0
+75 8100 2700
+E
+mail plate platemail black~
+It looks black and magical.
+~
+A
+2 -2
+A
+14 -50
+#1827
+crown onyx~
+an onyx crown~
+An onyx crown is laying here.~
+~
+9 32 0 gj ae
+6 0 0 0 0 0
+20 6400 2133
+E
+crown onyx~
+It looks black and magical.
+~
+A
+9 30
+A
+12 30
+A
+24 5
+#1828
+plates plates black~
+black leg plates~
+A pair of black leg plates are laying here.~
+~
+9 27 acefgijklms gj af
+5 0 0 0 0 0
+50 5200 1800
+E
+leg plates black~
+They look black and magical.
+~
+A
+1 1
+A
+2 -1
+A
+14 -25
+#1829
+boots boot black~
+black boots~
+A pair of black boots are laying here.~
+~
+9 27 0 j ag
+5 0 0 0 0 0
+20 2700 900
+E
+boot boots black~
+They look black and magical.
+~
+A
+14 -5
+#1830
+gauntlets gauntlet black~
+black gauntlets~
+A pair of black gauntlets are laying here.~
+~
+9 28 aceijkms gj ah
+6 0 0 0 0 0
+20 2800 933
+E
+gauntlet gauntlets black~
+They look black and magical.
+~
+A
+1 1
+A
+2 -2
+A
+18 1
+A
+19 3
+#1831
+arm plates black~
+black arm plates~
+A pair of black arm plates are laying here.~
+~
+9 27 acefgijklms j ai
+5 0 0 0 0 0
+20 2000 900
+E
+armplates black~
+They look black and magical.
+~
+#1832
+shield black~
+a black shield~
+A black shield is laying here.~
+~
+9 27 0 j aj
+5 0 0 0 0 27
+40 2700 900
+E
+shield black~
+It looks black and magical.
+~
+A
+2 -1
+A
+13 30
+#1833
+tunic black~
+a black tunic~
+A black tunic is laying here.~
+~
+9 24 0 gj ak
+5 0 0 0 0 0
+10 2400 800
+E
+tunic black~
+It looks black and magical.
+~
+A
+13 20
+A
+14 20
+#1834
+scabbard black~
+a black scabbard~
+A black scabbard is laying here.~
+~
+15 24 0 j al
+20 0 -1 0 0 0
+5 2400 800
+E
+scabbard black~
+It looks like a good place to put a sword.
+~
+A
+17 4
+#1835
+bracelet ebony~
+an ebony bracelet~
+An ebony bracelet is laying here.~
+~
+9 27 0 gj am
+1 0 0 0 0 0
+5 2700 900
+E
+bracelet ebony~
+It looks black and magical.
+~
+A
+12 30
+A
+13 30
+#1836
+staff black~
+a black staff~
+A black staff is laying here.~
+~
+4 32 cdfhklnops gj ao
+70 5 5 32 0 0
+15 8000 1066
+E
+staff black~
+It looks black and magical.
+~
+#1837
+halberd black~
+a black halberd~
+A black halberd is laying here.~
+~
+5 28 abcefgijklms gj an
+0 5 6 3 0 28
+20 2800 933
+E
+halberd black~
+It looks black and magical...and deadly!
+~
+A
+18 -2
+A
+19 6
+#1838
+lance black~
+a black lance~
+A black lance is laying here.~
+~
+5 27 abcefgijklms gj an
+0 3 10 12 0 27
+18 2700 900
+E
+lance black~
+It looks black and magical...and sharp!
+~
+A
+18 -1
+A
+19 5
+#1839
+mace black~
+a black mace~
+A black mace is laying here.~
+~
+5 27 0 gj an
+0 4 6 7 0 27
+15 2700 900
+E
+mace black~
+It looks black and magical.
+~
+A
+19 4
+#1840
+morningstar morning star black~
+a black morningstar~
+A black morningstar is laying here.~
+~
+5 24 aceikms gj an
+0 5 5 6 0 24
+13 2400 800
+E
+morning morningstar star black~
+It looks black and magical.
+~
+A
+18 -1
+A
+19 5
+#1841
+pike black~
+a black pike~
+A black pike is laying here.~
+~
+5 24 abcefijkms gj an
+0 5 4 12 0 24
+11 2400 800
+E
+pike black~
+It looks black and magical.
+~
+A
+19 4
+#1842
+sword black~
+a black sword~
+A black sword is laying here.~
+~
+5 24 bfj gj an
+0 5 5 3 0 24
+14 2400 800
+E
+sword black~
+It looks black and magical.
+~
+A
+18 1
+A
+19 2
+#1843
+cap turing turing's thinking~
+a thinking cap~
+Turing's thinking cap is laying here.~
+~
+11 40 cdhklnops gj ae
+0 0 0 0 0 0
+5 8000 2667
+E
+cap turing turing's thinking~
+It'll help you think.
+~
+A
+3 2
+A
+4 2
+A
+9 50
+A
+12 50
+#1844
+robe turing turing's brown~
+a brown robe~
+Turing's brown robe is laying here.~
+~
+15 40 cdhklnops 0 ad
+25 0 -1 0 0 0
+10 4000 1333
+E
+brown turing turing's robe~
+It looks comfortable. When you take a closer look, it has a small pocket in the front,
+with a fancy 'T' monogrammed on it, and two other pockets for Turing to put his hands
+in.
+~
+A
+17 15
+#1845
+slippers turing turing's brown slipper~
+brown slippers~
+Turing's brown slippers are laying here.~
+~
+11 40 cdhklnops 0 ag
+0 0 0 0 0 0
+10 4000 1333
+E
+turing turing's brown slipper slippers~
+They look comfortable.
+~
+A
+5 2
+#1846
+potion brown~
+a brown potion~
+A brown potion is laying here.~
+~
+10 40 0 g a
+60 70 71 -1 0 0
+15 4000 1333
+#1847
+hourglass hermes hermes' hour glass~
+an hourglass~
+Hermes' hourglass is laying here.~
+~
+8 36 0 0 ao
+0 0 0 0 0 0
+5 5000 12000
+E
+glass hermes hermes' hour hourglass~
+It looks so neat! You can stare at it all day!
+~
+A
+3 2
+#1848
+rulebook hopper hopper's rule book~
+a rulebook~
+Hopper's rulebook is laying here.~
+~
+8 36 0 0 ao
+0 0 0 0 0 0
+5 5000 12000
+E
+book hopper hopper's rule rulebook~
+It looks so complicated. It'd take all day to figure it out.
+~
+A
+4 2
+#1849
+helmet white~
+a white helmet~
+A white helmet is laying on the ground here.~
+~
+9 27 acefgijklms k ae
+5 0 0 0 0 0
+10 2500 500
+#1850
+helmet black~
+a black helmet~
+A black helmet is laying on the ground here.~
+
+~
+9 27 acefgijklms j ae
+5 0 0 0 0 0
+10 2500 500
+#99999
+$~

@@ -1,0 +1,386 @@
+#23701
+necklace dragon tooth zoo~
+a dragon tooth necklace~
+A necklace made of dragon's teeth lies here.~
+~
+9 0 0 0 ac
+2 0 0 0 0 0
+1 100 1
+#23702
+cap red zoo~
+a bright red cap~
+A bright red cap has been dropped here.~
+~
+9 0 0 0 ae
+3 0 0 0 0 0
+1 100 1
+A
+9 -10
+#23703
+banana zoo~
+a banana~
+A ripe banana sits on the floor here.~
+~
+19 0 0 0 a
+1 0 0 0 0 0
+1 10 1
+#23704
+shovel zoo~
+a small shovel~
+A small dirt-covered shovel sits on the ground here.~
+~
+5 0 0 0 an
+0 2 4 6 0 0
+1 200 1
+A
+19 1
+A
+18 1
+#23705
+spade zoo~
+a small spade~
+A small spade has been left in the dirt.~
+~
+5 0 0 0 an
+0 3 5 12 0 0
+1 200 1
+#23706
+lantern zoo~
+a small brass lantern~
+Someone has dropped a small brass lantern here.~
+~
+1 0 0 0 a
+0 0 100 0 0 0
+1 20 1
+#23707
+clipboard zoo~
+a clipboard~
+An important looking clipboard has been dropped here.~
+~
+2 0 0 0 a
+0 1 39 70 0 0
+1 100 1
+E
+clipboard board zoo~
+The are some strange markings on the clipboard...perhaps you should try to
+recite them??~
+#23708
+peacock feather zoo~
+a peacock's feather~
+A colorful feather has been left here.~
+~
+11 0 0 0 aeo
+0 0 0 0 0 0
+1 100 1
+A
+6 2
+A
+12 10
+A
+14 10
+#23709
+safari vest zoo~
+a safari vest~
+A khaki vest has been left here.~
+~
+9 0 0 0 ad
+3 0 0 0 0 0
+1 200 1
+#23710
+sandals hard leather zoo~
+some hard leather sandals~
+A pair of hard leather sandals has been left here.~
+~
+11 0 0 0 ag
+0 0 0 0 0 0
+1 100 1
+A
+17 -1
+A
+14 15
+#23711
+paws pair lion paw zoo~
+a pair of lion's paws~
+A bloody pair of paws appear to have been left here.~
+~
+9 0 0 0 ag
+1 0 0 0 0 0
+1 300 1
+A
+19 1
+A
+18 1
+#23712
+paws tiger paw zoo~
+a pair of tiger's paws~
+Some poor tiger seems to have lost his paws.~
+~
+9 0 0 0 ah
+2 0 0 0 0 0
+1 300 1
+A
+14 10
+A
+5 1
+#23713
+belt jeweled zoo~
+a magnificent jeweled belt~
+A beautiful jewel encrusted belt has been left here.~
+~
+9 0 0 0 al
+4 0 0 0 0 0
+1 1000 1
+A
+3 1
+A
+4 1
+A
+12 20
+A
+13 10
+#23714
+box popcorn zoo~
+a box of popcorn~
+A box of butter flavored popcorn is sitting here.~
+~
+19 0 0 0 a
+1 0 0 0 0 0
+1 1 1
+#23715
+hotdog zoo~
+a hotdog~
+A delicious hotdog is sitting here.~
+~
+19 0 0 0 a
+2 0 0 0 0 0
+1 1 1
+#23716
+water paper cup zoo~
+a paper cup~
+A paper cup sits here.~
+~
+17 0 0 0 a
+2 2 6 0 0 0
+1 1 1
+#23720
+map midgaard city zoo~
+a map of Midgaard~
+A map of Midgaard has been left here.~
+THE CITY OF MIDGAARD
+                                ALTAR
+                                  |
+           HALLS                  |
+             OF-------READING---TEMPLE----DONATION
+         LEARNING       ROOM      |         ROOM
+             |                    |
+          LIBRARY                 |
+                                  | 
+              CITY     CLERIC     |   POST OFFICE             CITY
+             LIBRARY    GUILD     |   THREE CROWNS   CASINO   BANK
+                |         |       |        |           |       |
+         ---TEMPLE---STREET-----TEMPLE-----TEMPLE---STREET------
+         |      |         |     SQUARE     |           |       | 
+         |   TAILOR'S  JEWELER'S  |      ROSY'S    STATIONARY  |     
+         |                        |      FLOWERS      SHOP     |    HOBBIT 
+ DIRT    |                        |                            |    VILLAGE
+ PATH    |  MAGIC      BAKER      |     GENERAL    WEAPON      |      |
+  |      |   SHOP       SHOP      |     STORE       SHOP       |      |
+  | WEST |    |          |        |       |          |         |   EAST   
+  --GATE----MAIN------STREET----MARKET----MAIN------STREET---------GATE----   
+         |    |          |      SQUARE    |          |        |
+         |  MAGIC      ARMORER    |      PET       WARRIOR    |
+         |  GUILD                 |      SHOP       GUILD   WATER
+         |                        |                         SHOP  
+         |                        |                    
+         |                        |                      UNCLE JUAN'S
+         |                        |                           |
+         |--POOR---ALLEY--------COMMON----DARK---ALLEY--------- 
+         |               |      SQUARE      |        |        |
+         |            GRUBBY      |       THIEF    LEEVE  WAREHOUSE
+   MIDGAARD PARK        INN       |       GUILD      |
+~
+16 0 0 0 a
+0 0 0 0 0 0
+1 1 1
+#23721
+zoo map~
+a map of the zoo~
+A map of the Newbie Zoo is sitting here.~
+The Newbie Zoo
+(Please note that this map is not to scale!)
+
+      Zoo Gate
+         |                                          Information 
+         |                                            Station
+         |---------|-------------------------------------|
+         |         |                                     |
+      Education    |-----------------------------|-------|
+       Building    |                             |       |
+                   |                           Small     |
+                   |                          Mammals    |
+                   |    Large                            |--Reptiles
+                   |---Mammals                           |
+                   |                          Birds      |
+                   |                            |        |
+                   |-------|--------------------|--------|
+                   |       |                Information  |
+                  Ape   Souvenirs                       Snack
+                 House                                  Shop
+
+~
+16 0 0 0 a
+0 0 0 0 0 0
+1 1 1
+#23722
+fountain zoo~
+a large fountain~
+A large fountain carved in the shape of an elephant sits here.~
+~
+23 0 0 0 0
+100000 100000 0 0 0 0
+1 1 1
+#23723
+newbie guide zoo~
+a Newbie Guide~
+Some newbie has dropped their Newbie Guide.~
+#r
+Welcome to the Newbie Zoo!
+#N
+We are currently working on designing a most wonderful newbie guide.  
+Until such a time when it has been implemented, you may find most useful 
+information pertaining to newbies on the newbie board in the Zoo.
+
+Thank you for your patience!
+
+The Newbie Zoo Administration
+^~
+16 0 0 0 a
+0 0 0 0 0 0
+1 1 1
+#23724
+banana zoo~
+a bright yellow banana~
+A delicious banana has been left here, maybe it's from Africa!!~
+~
+19 0 0 0 a
+1 0 0 0 0 0
+0 10 0
+#23725
+shirt t-shirt zoo~
+a Newbie Zoo t-shirt~
+A really cool souvenir t-shirt has been left here.~
+~
+11 0 0 0 ad
+2 0 0 0 0 0
+1 100 0
+A
+17 1
+A
+19 1
+#23726
+belt pouch zoo~
+a Newbie Zoo belt pouch~
+A really cool belt pouch has been left here.~
+~
+15 0 0 0 al
+10 1 -1 0 0 0
+1 100 0
+A
+17 -1
+#23727
+wrist band zoo~
+a Newbie Zoo wrist band~
+Someone has left a really cool wrist band here.~
+~
+9 0 0 0 am
+1 0 0 0 0 0
+1 100 0
+A
+18 1
+#23728
+shiny bracelet zoo~
+a shiny bracelet~
+A shiny bracelet has been dropped here.~
+~
+9 0 0 0 am
+2 0 0 0 0 0
+1 100 0
+A
+19 1
+#23729
+khaki pants zoo~
+a pair of khaki pants~
+Some comfortable khaki pants are piled in a heap on the floor.~
+~
+9 0 0 0 af
+4 0 0 0 0 0
+2 200 0
+#23730
+furry sleeves zoo~
+some furry sleeves~
+A pair of furry sleeves have been dropped here.~
+~
+9 0 0 0 ai
+2 0 0 0 0 0
+1 200 0
+#23731
+burlap cape zoo~
+a burlap cape~
+A burlap cape lies here.~
+~
+9 0 0 0 ac
+3 0 0 0 0 0
+2 300 0
+#23732
+mata matamata shell zoo~
+a mata mata shell~
+A large turtle shell has been left here.~
+~
+9 0 0 0 aj
+3 0 0 0 0 0
+3 200 0
+#23733
+sign~
+a sign~
+A large sign stands at the entrance to the Newbie Zoo.~
+~
+12 1 0 0 0
+0 0 0 0 0 0
+1 1 1
+E
+sign^~
+#yWelcome to the Newbie Zoo!  Please note that not all of our services have
+been fully funded yet, so some of our employees are not yet licensed.  This
+means that our master instructor and healer will not be able to perform
+their duties for you until they have been licensed!#N 
+~
+#23734
+statue katu blocker south~
+A huge statue of Katu the Gorilla~
+A huge statue of Katu the Gorilla guards the entrance.  He holds a sign.~
+~
+12 114 0 ghtz 0
+0 4 0 0 1 10
+0 0 0
+E
+sign~
+            
+          #gNewbie Zoo:  Only those under 11 may enter#N
+ 
+~
+E
+statue katu gorilla~
+An enormous stone sculpture of the zoo's famous gorilla, Katu, stands
+guarding the entrance to the Zoo.  He looks thoughtful, and VERY strong.
+~
+Proc(guard_object)
+#23735
+spade zoo~
+a small spade~
+A small spade has been left in the dirt.~
+~
+5 0 0 0 an
+0 3 5 12 0 0
+1 200 1
+#99999
+$~

@@ -1,0 +1,126 @@
+#28100
+big guy~
+Big Guy~
+#YA Big Guy blocks the way north.#G~
+~
+12 114 0 ght 0
+28105 a 116 8 1 116
+0 0 0
+E
+big guy~
+This strong man is often called Big Guy. His job is to stop people 
+from sneaking into the chamber where the council have important 
+meetings. For a second you think that you could trick him and quietly 
+sneak in through the door, you drop that thought very quickly when 
+Big Guy stares at you with rage in his eyes.
+~
+Proc(guard_object)
+#28101
+greedy midget~
+Greedy Midget~
+#YA greedy midget in a hood stands here.#G~
+~
+12 114 0 ght 0
+28103 a 116 3 1 116
+0 0 0
+E
+greedy midget~
+This short and fat little fellow is wearing a black hood that is at 
+least one size too big for him. Smiley hired him for guarding The 
+Library and that means that he have to stay here for the rest if his 
+life. Watching people sleep and change equipment is not the most fun 
+thing you can do so the midget got bored pretty fast. Don't feel sorry 
+for him, this job pays well. 
+~
+Proc(guard_object)
+#28102
+board bulletin thrill kill kult tkk council~
+the Thrill Kill Kult Council board~
+The Thrill Kill Kult Council board is mounted on a wall here.~
+~
+13 0 0 128 0
+116 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#28103
+fountain~
+a fountain~
+A scorching fountain bubbles over at your toes.~
+~
+23 0 0 ghm 0
+99999 99999 13 0 0 0
+500 0 0
+E
+fountain~
+#BDarklord#N's fountain is heated by the very core of the world
+in which we live. The heated blood fades into the cracks on the floor in
+which you are now standing. Carved into this intricate fountain are the
+succubi and the wretched of whom the great man himself hath slain.
+An inscription upon the lip of the only portion cleansed catches your eye.
+You will be my next victim!
+~
+#28104
+statue darklord~
+a statue~
+The carving of the great man, the Darklord himself.~
+~
+12 0 0 ghm 0
+0 0 0 0 0 0
+0 0 0
+E
+statue darklord~
+A complete replica of Darklord, this statue poses as much a threat
+as the actual person. With his long black cape, sparkling staff, and
+the face of absolute evil, this crystallized statue reminds us of the
+greatest magician, the most deviant, and the wisest leader that ever
+roamed this realm.
+~
+#28105
+necklace defiance tkkclan~
+#CN#ce#wcklace of #CD#ce#wfiance#N~
+If power was a necklace, this would be it.~
+~
+9 20 0 abfk ac
+15 0 0 0 0 0
+5 0 10000
+E
+necklace defiance tkkclan~
+You can see your face reflected in the silver metal.
+This must be what gives the Kultists their strength to fight
+for what they believe in. No matter if it comes to defending
+a clannie or boasting in general. #CT#CK#wK#N does it all the way.
+On the inside of the necklace you can see how the owner has 
+carved the following words:
+
+                #CT#ch#wrill #CK#ci#wll #CK#cu#wlt Forever
+
+~
+A
+13 20
+A
+5 3
+#28106
+spirit kult tkkclan~
+the Spirit of the #CK#cu#wlt#N~
+The spirit of an ancient Kultist lights the way for his friends
+and blinds the eyes of his enemies.~
+~
+1 100 0 a a
+0 0 -1 0 0 0
+14 10000 0
+E
+spirit kult tkkclan~
+Over the years of #CT#ch#we #CK#cu#wlts#N life many have vanished to
+the next realm, all of them pouring their strength, wisdom and
+power into this one entity. Shining bright with the power of
+#CT#ch#we #CK#cu#wlt#N, this artifact lives forever as do all our souls.
+~
+A
+12 80
+A
+18 2
+#99999
+$~

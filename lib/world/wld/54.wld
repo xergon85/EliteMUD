@@ -1,0 +1,404 @@
+#5400
+Outside The Small Temple~
+   You are outside a place of religious rituals and worship. There lies
+an entrance of the temple to the north. On either side of the entrance 
+you see stone statues of a former god standing guard. To the south you 
+see some hills. 
+~
+54 d 3
+D0
+You see an entrance to the temple. 
+~
+~
+0 -1 5401
+D2
+~
+~
+0 -1 4038
+S
+#5401
+The Hall~
+   You are in a large hall decorated with various religious symbols and
+artifacts. Against the east wall is a statue of a forbidding god holding 
+a lit torch. The torch seems to light up the entire temple with its soft 
+glow. Fresh air blows in from the south where you can see an exit out into 
+the sunlight. The hall continues to the north. 
+~
+54 d 1
+D0
+~
+~
+0 -1 5402
+D2
+~
+~
+0 -1 5400
+S
+#5402
+The Hall~
+   The walls are covered with paintings of powerful immortals and high 
+priests. The room is filled with scented smoke drifting from an urn 
+standing in the middle of the room. The hall continues to the north and 
+to the south. 
+~
+54 d 1
+D0
+~
+~
+0 -1 5404
+D2
+~
+~
+0 -1 5401
+S
+#5403
+The Store Room~
+   You are in a small room filled with crates and barrels. The only exit is to
+the east. 
+~
+54 d 1
+D1
+You see a wooden door 
+~
+door wooden~
+3 -1 5404
+S
+#5404
+The Hall~
+   You see doors with strange runes engraved on them to the east and the
+west. The hall continues to the north and the south. 
+~
+54 d 1
+D0
+~
+~
+0 -1 5406
+D1
+You see a wooden door 
+~
+door wooden~
+3 -1 5405
+D2
+~
+~
+0 -1 5402
+D3
+You see a wooden door 
+~
+door wooden~
+3 -1 5403
+S
+#5405
+The Living Quarters~
+   The room is filled with beds and a few tables. In the corner a bookshelf
+hosted a musty collection of rare artifacts. The only exit is to the west. 
+~
+54 d 1
+D3
+You see a wooden door 
+~
+door wooden~
+3 -1 5404
+S
+#5406
+The Statue Room~
+   Tall statues, stretching up into the darkness, line the east and the west
+wall. They look extremely powerful and ancient. To the north are two large
+metal doors and a hallway lies to the south. 
+~
+54 d 1
+D0
+You see two metal doors 
+~
+doors metal door~
+3 -1 5408
+D2
+~
+~
+0 -1 5404
+S
+#5407
+The Prayer Room~
+   You are in what seems to be a prayer room. Smoke rises from torches mounted
+on the walls. The stone floor is covered with strange symbols and words in a
+foreign tongue. The room continues to the west. You can see a metal door to
+the north. A small sign is hanging on the door. 
+~
+54 d 1
+D0
+You see a metal door 
+~
+door metal~
+39 5408 5410
+D1
+~
+~
+0 -1 5408
+E
+Sign~
+Temple treasury.
+~
+S
+#5408
+The Prayer Room~
+   You are in what seems to be a prayer room. Smoke rises from torches mounted
+on the walls. The stone floor is covered with strange symbols and words in a
+foreign tongue. The room continues to the east and the west. You can see two
+large metal doors to the south and an throne to the north. 
+~
+54 d 1
+D0
+You see an altar 
+~
+~
+0 -1 5411
+D1
+~
+~
+0 -1 5409
+D2
+You see two metal doors 
+~
+doors metal door~
+3 -1 5406
+D3
+~
+~
+0 -1 5407
+S
+#5409
+The Prayer Room~
+   You are in what seems to be a prayer room. Smoke rises from torches mounted
+on the walls. The stone floor is covered with strange symbols and words in a
+foreign tongue. The room continues to the west. You can see an oak door to
+the north. 
+~
+54 d 1
+D0
+You see an oak door 
+~
+door oak wooden~
+3 -1 5412
+D3
+~
+~
+0 -1 5408
+S
+#5410
+The Treasure Room~
+   Judging from the thick walls and lack of windows, this is the place where
+the inhabitants of the temple put their most valuable goods. The only way in
+and out of here is south. 
+~
+54 d 1
+D2
+You see a metal door 
+~
+door metal~
+7 -1 5407
+S
+#5411
+The Throne Room~
+   You are in a throne room designed for a god. A huge stone throne with
+strange runes carved along its edges is located in the middle of the room. 
+The only exits are to the north and the south. 
+~
+54 d 1
+D0
+~
+~
+0 -1 5413
+D2
+~
+~
+0 -1 5408
+S
+#5412
+The Meditation Chamber~
+   This room filled with lighted candles. The only objects in the room are
+some pillows. The only exit is to the south. 
+~
+54 d 1
+D2
+You seen an oak door 
+~
+door oak wooden~
+3 -1 5409
+S
+#5413
+Behind The Throne~
+   You stand in a small room behind the throne. It's completely empty except for
+some black bars of steel at the end of room, their purpose seems to be for
+preventing people from climbing down a ladder into the darkness. 
+~
+54 d 1
+D2
+~
+~
+0 -1 5411
+D5
+You see some metal bars. 
+~
+bars bar metal steel black~
+3 -1 5414
+S
+#5414
+Entrance To The Catacombs~
+   You are in a small room at the entrance to the temple's catacombs. This room
+is decorated with many small statues and urns, probably in the remembrance of 
+those who are buried here. To the south a large archway leads into the 
+catacombs. A ladder leads up. 
+~
+54 ad 2
+D2
+~
+~
+0 -1 5415
+D4
+You see some metal bars.~
+bars~
+3 -1 5413
+S
+#5415
+In the Catacombs~
+   You are in the catacombs under the temple. Around you are rows of coffins
+and stone slabs with mummified corpses on them. A few skeletons lay in the
+corner and layers of dust covered everything. You notice some footprints in the
+dust. The catacombs continue to the east and west. To the north a small archway
+leads into the darkness. 
+~
+54 ad 2
+D0
+~
+~
+0 -1 5414
+D1
+~
+~
+0 -1 5416
+D3
+~
+~
+0 -1 5422
+S
+#5416
+In the Catacombs~
+   You are in the catacombs under the temple. Around you are rows of coffins
+and stone slabs with mummified corpses on them. A few skeletons lay in the
+corner and layers of dust covered everything. You notice some footprints 
+in the dust. The catacombs continue to the west and south. 
+~
+54 ad 2
+D2
+~
+~
+0 -1 5417
+D3
+~
+~
+0 -1 5415
+S
+#5417
+In the Catacombs~
+   You are in the catacombs under the temple. Around you are rows of coffins
+and stone slabs with mummified corpses on them. A few skeletons lay in the
+corner and layers of dust covered everything. You notice some footprints in the
+dust. The catacombs continue to the north and south. 
+~
+54 ad 2
+D0
+~
+~
+0 -1 5416
+D2
+~
+~
+0 -1 5418
+S
+#5418
+In the Catacombs~
+   You are in the catacombs under the temple. Around you are rows of coffins
+and stone slabs with mummified corpses on them. A few skeletons lay in the
+corner and layers of dust covered everything. You notice some footprints in the
+dust. The catacombs continue to the north and west. 
+~
+54 ad 2
+D0
+~
+~
+0 -1 5417
+D3
+~
+~
+0 -1 5419
+S
+#5419
+In the Catacombs~
+   You are in the catacombs under the temple. Around you are rows of coffins
+and stone slabs with mummified corpses on them. A few skeletons lay in the
+corner and layers of dust covered everything. You notice some footprints in the
+dust. The catacombs continue to the west and east. 
+~
+54 ad 2
+D1
+~
+~
+0 -1 5418
+D3
+~
+~
+0 -1 5420
+S
+#5420
+In the Catacombs~
+   You are in the catacombs under the temple. Around you are rows of coffins
+and stone slabs with mummified corpses on them. A few skeletons lay in the
+corner and layers of dust covered everything. You notice some footprints in the
+dust. The catacombs continue to the north and east. 
+~
+54 ad 2
+D0
+~
+~
+0 -1 5421
+D1
+~
+~
+0 -1 5419
+S
+#5421
+In the Catacombs~
+   You are in the catacombs under the temple. Around you are rows of coffins
+and stone slabs with mummified corpses on them. A few skeletons lay in the
+corner and layers of dust covered everything. You notice some footprints in the
+dust. The catacombs continue to the north and south. 
+~
+54 ad 2
+D0
+~
+~
+0 -1 5422
+D2
+~
+~
+0 -1 5420
+S
+#5422
+In the Catacombs~
+   You are in the catacombs under the temple. Around you are rows of coffins
+and stone slabs with mummified corpses on them. A few skeletons lay in the
+corner and layers of dust covered everything. You notice some footprints in the
+dust. The catacombs continue to the east and south. 
+~
+54 ad 2
+D1
+~
+~
+0 -1 5415
+D2
+~
+~
+0 -1 5421
+S
+#99999
+$~

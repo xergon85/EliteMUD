@@ -1,0 +1,1688 @@
+#12700
+End of the trail~
+   The trail through the forest ends rather abruptly, blocked by a rocky 
+outcrop, covered with thick bushes. It seems odd for such an obviously 
+well trodden path to end this way, and the more you look at it the more 
+odd it seems. The trail disappears under the bushes, perhaps you should 
+take a closer look at them.
+~
+127 c 3
+D3
+A narrow trail winds its way through the forest.
+~
+~
+0 -1 23075
+D5
+The trail disappears beneath some bushes.
+~
+bush bushes~
+1 -1 12701
+E 
+bush bushes~
+The trail goes right up to and under the bushes. You think you can see 
+an opening beneath them.
+~
+S
+#12701
+Tunnel~
+   You find yourself in a narrow tunnel leading east. The walls are 
+fairly obviously not naturally formed, but crafted from the rocks by 
+hand.  The tunnel is faintly lit by phosphorescent rocks, that give off 
+a dull green glow making your hands look like those of a monster.
+~
+127 cd 0
+D1
+The tunnel continues to the east.
+~
+~
+0 -1 12702
+D4
+You can see daylight above, obstructed by bushes.
+~
+bush bushes~
+1 -1 12700
+S
+#12702
+End of the tunnel~
+   The tunnel ends before a magnificent carving in the rock. Carved upon 
+the smooth rock face, it is a circular pattern, covered in stars and 
+astronomical symbols.  You notice that the centre of the carving is the 
+moon.  The carving is inlaid with some dark metal that shimmers in the 
+dim light from the rocks.
+~
+127 cd 0
+D2
+A huge and intricate carving covers the south wall.
+~
+carving ornate door~
+2 -1 12703
+D3
+The tunnel continues to the west.
+~
+~
+0 -1 12701
+E
+carving ornate~
+The centre of the carving is a full moon, the intricate carvings that 
+surround it are amazing in their detail. Astrological symbols feature 
+quite heavily, but in addition to the familiar constellations are five 
+carvings of forest creatures - a vicious tiger, a rampaging boar, a 
+ferocious wolf, a stealthy cat and a sneaky looking rat. A careful study 
+reveals that the carving is cunningly hinged.
+~
+S
+#12703
+Entrance to Werehome~
+   You are at the entrance to a huge underground complex, carved out of 
+the mountain.  Streets lead off in all directions and people walk about 
+minding their own business.  The streets are lit by more of the strange 
+glowing rocks, but unlike the tunnel, the streets are as bright as 
+daylight. 
+~
+127 d 0
+D0
+You can see the rear of a huge carved door.
+~
+carving ornate door~
+2 -1 12702
+D1
+A dark pathway leads east.
+~
+~
+0 -1 12736
+D2
+The main street continues to the south.
+~
+~
+0 -1 12767
+D3
+An avenue lined with stately homes can be found to the west.
+~
+~
+0 -1 12704
+S
+#12704
+Avenue of the Tigers~
+   This part of town is populated by the ruling class of werehome - the
+Tigers. The houses along this street are beautifully decorated, the 
+gardens well kept.  The Avenue of Tigers continues to the west, and to 
+the north and south you can see some of their homes.
+~
+127 d 0
+D0
+A Weretiger estate can be seen to the north.
+~
+gates~
+1 -1 12707
+D1
+You see the entrance to Werehome.
+~
+~
+0 -1 12703
+D2
+A Weretiger estate can be seen to the south.
+~
+gates~
+1 -1 12711
+D3
+The avenue continues to the west.
+~
+~
+0 -1 12705
+S
+#12705
+Avenue of the Tigers~
+   More estates lie to the north and south of this end of the Avenue. To
+the west a large square can be seen. Although the tigers are a class 
+above the rest, they seem to all mix freely in the streets, you can see 
+cunning rat folk talking to stealthy cats, strutting boars and powerful 
+wolves.
+~
+127 d 0
+D0
+A Weretiger estate can be seen to the north.
+~
+gates~
+1 -1 12708
+D1
+The avenue continues to the east.
+~
+~
+0 -1 12704
+D2
+A Weretiger estate can be seen to the south.
+~
+gates~
+1 -1 12710
+D3
+You can make out a beautiful fountain in the distance.
+~
+~
+0 -1 12706
+S
+#12706
+Fountain Square~
+   The avenue of the Tigers ends in a large square, dominated by a large
+fountain, which spills clear water out into a wide basin. Benches 
+surround the fountain, where small groups of werefolk sit, enjoying the 
+peace and quiet of this area of town. There are small alcoves to the 
+north and west, and to the south you can see several large, and busy 
+temples.
+~
+127 d 0
+D0
+You see glittering multicoloured lights.
+~
+~
+0 -1 12712
+D1
+The Avenue of the Tigers leads east.
+~
+~
+0 -1 12705
+D2
+Temple Street lies to the south.
+~
+~
+0 -1 12714
+D3
+You see a shop full of adventuring equipment.
+~
+~
+0 -1 12713
+S
+#12707
+Tiger's Estate~
+   The Tigers are considered to be the most civilised, and most 
+human-like of the werefolk, and their homes seem to emulate the 
+dwellings of richer humans. Beautiful gardens surround the main 
+house, which is well constructed and decorated with pink marble, 
+and black granite cladding. You feel it would be rude to wander in 
+and look around without permission.
+~
+127 d 0
+D2
+The Avenue of the Tigers lies to the south.
+~
+gates~
+1 -1 12704
+S
+#12708
+Tiger's Estate~
+   All the Tigers estates seem to be different, they apparently take 
+pride in their individuality, and love to show off their good taste and 
+hospitality. This particular house has a water garden, with miniature 
+rivers and lakes, filled with tiny fish. Its pretty impressive - the 
+kind of thing you would expect to see among the wealthier humans. 
+Although you still feel it would be rude to wander round the house 
+uninvited, the owners could hardly mind you taking a look round the 
+gardens.
+~
+127 d 0
+D0
+You can see a beautiful water garden.
+~
+~
+0 -1 12709
+D2
+The Avenue of the Tigers lies to the south.
+~
+gates~
+1 -1 12705
+S
+#12709
+The water garden~
+   You are following a narrow gravel pathway round the back of one of 
+the Tigers' houses. Lovely willow trees shade you from the artificial 
+light shining down on you from above. A couple of golden carp are 
+feeding in the narrow waterway on one side of the path, which crosses a 
+little hump-back bridge to a serene looking glade, complete with gazebo.
+~
+127 d 0
+D2
+The rest of the estate is to the south.
+~
+~
+0 -1 12708
+E
+gazebo~
+If you don't know what a gazebo is, then you are clearly far too 
+uncultured for this place, you'd better leave before someone starts 
+asking questions.
+~
+S
+#12710
+Tiger's Estate~
+   The front of this estate is dominated by glorious marble columns, 
+decorated with fanciful scrollwork. Sweeping pathways circle the garden, 
+which is filled with bushes which have been carefully trimmed into the 
+shape of birds. Strangely, considering there is no natural sunlight, a 
+sundial is also here. Clearly this is just another fashion accessory for 
+the well cultured weretiger.
+~
+127 d 0
+D0
+The Avenue of the Tigers lies to the north.
+~
+gates~
+1 -1 12705
+S
+#12711
+Tiger's Estate~
+   This particular estate has the look of the orient about it. You guess
+that oriental fashions must be the latest to take the fancy of the 
+cosmopolitan weretigers, the paint work is hardly dry and there is 
+evidence of the recent construction work.
+~
+127 d 0
+D0
+The Avenue of the Tigers lies to the south.
+~
+gates~
+1 -1 12704
+S
+#12712
+The Loremaster's Cave~
+   The Loremaster is the most ancient and learned of the werefolk. He 
+lives a fairly solitary life, although he is often visited by people who 
+wish to benefit from his wisdom. The strange crystals that light 
+werehome are multicoloured here, making the cave look like the inside 
+of some fantastic gem.
+~
+127 cde 0
+D2
+You can see the fountain square.
+~
+~
+0 -1 12706
+S
+#12713
+The Expedition Shop~
+   A knowledgeable looking werewolf sells useful items to any aspiring 
+adventurers. All expeditions outside werehome have to be sanctioned by 
+the House of Lords, with the exception of werewolves who can come and 
+go as they please. Aaron the shopkeeper makes sure they are properly 
+equipped.
+~
+127 cde 0
+D1
+You can see the fountain square.
+~
+~
+0 -1 12706
+S
+#12714
+Lower Temple Street~
+   The werefolk come to this quarter of town to worship their totems. 
+There are five temples in town, the rats and cats have their places of 
+worship at the lower end of temple street, the boar and wolf temples are 
+located on upper temple street to the south, near to the temple of the 
+tigers.
+~
+127 d 0
+D0
+You can see the fountain square.
+~
+~
+0 -1 12706
+D1
+Werecats are entering and leaving the building to the east.
+~
+~
+0 -1 12717
+D2
+Temple Street continues to the south.
+~
+~
+0 -1 12719
+D3
+Wererats are scurrying in and out of the temple to the west.
+~
+~
+0 -1 12715
+S
+#12715
+Temple of the Rat~
+   The inside of the temple of the Rat is laid out in a circular pattern
+around a statue of the vicious looking wererat. It appears that the 
+wererats prefer to worship in their humanoid form, beautiful woven rugs 
+cover the floor, and there is an offering tray next to the door. There 
+is a small doorway leading south, which you assume leads to the priests' 
+quarters.
+~
+127 d 0
+D1
+The bright light of temple street beckons you outside.
+~
+~
+0 -1 12714
+D2
+Tattered banners, and ugly statues cover the south wall, apart from 
+where it is interrupted by a small door.
+~
+door~
+2 12703 12716
+S
+#12716
+Inner sanctum of the Rat Temple~
+  The inner sanctum is where the clergy of the wererats meet and 
+perform their most sacred rites. The room is filled with what you would 
+describe as junk, but what probably constitutes the wererat's most holy 
+relics. A wererats first metamorphosis takes place here, under the 
+supervision of the priests.
+~
+127 du 0
+D0
+The main chamber of the rat temple lies to the north.
+~
+door~
+2 12703 12715
+S
+#12717
+Temple of the Cat~
+   The temple of the cat has a large domed ceiling, painted with large 
+numbers of werecats in various phases of transformation. A white marble 
+altar, carved with feline symbols stands at the focus of several tiers 
+of seats arranged in an arc.  
+~
+127 d 0
+D1
+There is a small door in the middle of the east wall.
+~
+door~
+2 12704 12718
+D3
+You can see the bustle of Temple Street.
+~
+~
+0 -1 12714
+S
+#12718
+Sanctum of the cat temple~
+   The inner sanctum of the werecats is given over to peaceful 
+meditation. The lighting is provided by pleasantly scented candles, 
+which surround the room. There are cushions everywhere, and werecats 
+sleeping on some of them. It seems that meditation to the werecats 
+consists of spending a great deal of time asleep. Some of them have even 
+taken on their animal form, in order to better get in touch with their 
+inner selves.
+~
+127 du 0
+D3
+The main part of the temple lies to the west.
+~
+door~
+2 12704 12717
+S
+#12719
+Upper Temple Street~
+   You are reaching the classier end of the temple quarter, where the 
+upper echelons of were-society come to worship their totems. To the 
+south stands the incredible temple of the tiger,  and to the west is the 
+temple of the boar. Dark steps lead upwards to the temple of the wolf, 
+which is by far the busiest temple you have seen.
+~
+127 d 0
+D0
+Lower Temple Street lies to the north.
+~
+~
+0 -1 12714
+D1
+An alley leads east, an quickly opens out into a large square.
+~
+~
+0 -1 12731
+D2
+You see a magnificent temple, with weretigers wandering in and out.
+~
+~
+0 -1 12723
+D3
+Wereboars are wandering in and out of the temple to the west.
+~
+~
+0 -1 12720
+D4
+Black granite steps lead up to the Temple of the Wolf.
+~
+~
+0 -1 12722
+S
+#12720
+Temple of the Boar~
+   The temple of the Boar is remarkably similar in layout to the temple 
+of the Tiger. You realise that more than anything else the boars would 
+like the respect that the tigers have. Unfortunately the similarity just 
+makes the temple of the boar look rather cheap - a poor imitation of a 
+better original. Statues line the walls, and a granite altar, covered 
+with a rich purple altar cloth stands in the centre of the temple.
+~
+127 d 0
+D1
+You can see the busy Upper Temple Street to the east.
+~
+~
+0 -1 12719
+D5
+A careful search indicates that the altar can be moved.
+~
+altar~
+2 12706 12721
+S
+#12721
+Sanctum of the Boar~
+   The boars might want to emulate the noble tigers, but that doesn't 
+mean that they aren't dedicated to worshipping their boar totems. The 
+inner sanctum is decorated with statues of their ancestors, some of them 
+in humanoid form, and some taking the form of a mighty boar. 
+~
+127 du 0
+D4
+Steps lead up to the Temple of the Boar.
+~
+altar~
+2 12706 12720
+S
+#12722
+Temple of the Wolf~
+  The oldest and most powerful sect of the werecreatures, the wolves 
+have a rich history and a central role in the city. While the Tigers 
+rule, it is the wolves that are the warriors, the hunters and the most 
+feared of the werefolk. Its generally accepted that the tigers rule, 
+because the wolves have better things to do with their time, and one of 
+those things is here in this temple. All the wolves can shapeshift from 
+humanoid to wolf form, seemingly at will and without effort and it is 
+this talent that sets them apart from the other werecreatures.
+~
+127 d 0
+D2
+A black door, carved with a wolfshead, leads south.
+~
+door~
+2 12702 12766
+D5
+Black granite steps lead down to Upper Temple Street.
+~
+~
+0 -1 12719
+S
+#12723
+Temple of the Tiger~
+   The tigers take their religion very seriously, but it is not the 
+same as the devotion of the wolves, more likely it is fashionable to be 
+pious and so the temple is the place to be seen. The temple itself looks 
+vaguely familiar and it takes you a while to realise that it is based 
+on the temple of Midgaard, which of course was the height of fashion 
+when it was constructed many centuries ago. The altar lies to the west, 
+and behind it is a monstrous statue of a tiger, walking upright on his 
+hind feet.
+~
+127 d 0
+D0
+You can see the busy Upper Temple Street to the north.
+~
+~
+0 -1 12719
+D3
+The Temple of the Tiger extends further to the west, where you can see 
+the altar and a huge statue.
+~
+~
+0 -1 12724
+S
+#12724
+Behind the Altar~
+   The statue towers fifty feet above you, all carved from pristine 
+white marble and depicting a ferocious tiger standing on his hind feet. 
+You have to admit, its pretty impressive. The altar stands as high as 
+your shoulder, and is carved with astrological symbols.
+~
+127 d 0
+D1
+You can see the main part of the temple.
+~
+~
+0 -1 12723
+D5
+There is a small trapdoor behind the statue.
+~
+trapdoor~
+2 12705 12765
+E 
+statue~
+The statue is hauntingly realistic, with eyes like thunder and razor 
+sharp claws. As you look around the back of it you notice a small 
+trapdoor set into the base.
+~
+S
+#12725
+Main Street~
+   You stand at a junction along the main street in werehome. The 
+street continues south towards an official looking building, which you 
+assume is some kind of government centre. There are streets to the east 
+and west, which seem to lead to housing areas.
+~
+127 d 0
+D0
+The main street continues to the north.
+~
+~
+0 -1 12767
+D1
+A wide street leads east.
+~
+~
+0 -1 12760
+D2
+To the south you can see a huge, very official looking building.
+~
+~
+0 -1 12731
+D3
+The alley to the east is very narrow, and dimly lit. Something smells 
+peculiar down this path.
+~
+~
+0 -1 12726
+S
+#12726
+Ghetto of the Rat-people~
+   The homes of the wererats are untidy and disorganised. To your 
+civilised eyes, this area appears nothing more than a ghetto. Cluttered 
+streets run in all directions, though most of them look impassable. The 
+houses look as if they would collapse under a stiff breeze, and a much 
+needed breeze it would be too, this place stinks!
+~
+127 cd 0
+D0
+You can see a winding muddy alley to the north.
+~
+~
+0 -1 12729
+D1
+The main street lies to the east.
+~
+~
+0 -1 12725
+D2
+You can see a winding muddy alley to the south.
+~
+~
+0 -1 12730
+D3
+You can see a winding muddy alley to the west.
+~
+~
+0 -1 12727
+S
+#12727
+In the ghetto~
+   Tiny streets run in all directions, though only the north and south 
+pathways look passable in safety. The eyes of the inhabitants watch you 
+suspiciously from the hovel-like dwellings. The inhabitants don't seem to 
+notice the smell, or the precarious situation of the housing.
+~
+127 d 0
+D0
+You can see a winding muddy alley to the north.
+~
+~
+0 -1 12729
+D1
+You can see a winding muddy alley to the east.
+~
+~
+0 -1 12726
+D2
+You can see a winding muddy alley to the south.
+~
+~
+0 -1 12728
+S
+#12728
+In the ghetto~
+   You are surrounded by bad housing and unnatural smells. (Probably 
+best not to try and imagine what is causing those smells.) The houses 
+lean dangerously over the streets, which look passable only to the north 
+and east.
+~
+127 d 0
+D0
+You can see a winding muddy alley to the north.
+~
+~
+0 -1 12727
+D1
+You can see a winding muddy alley to the east.
+~
+~
+0 -1 12730
+S
+#12729
+In the ghetto~
+   The muddy twisty streets are becoming confusing, you can't seem to 
+remember which way you came. There is a pile of junk against the wall of 
+one of the houses here, it seems the rats are great scavengers, but its 
+unlikely you'll find anything valuable in there, more likely you will 
+catch some disease.
+~
+127 d 0
+D1
+You can see a winding muddy alley to the east.
+~
+~
+0 -1 12730
+D2
+You can see a winding muddy alley to the south.
+~
+~
+0 -1 12728
+D3
+You can see a winding muddy alley to the west.
+~
+~
+0 -1 12727
+D5 
+Junk covers a set of steps leading down.
+~
+junk trash~
+1 -1 12768
+E
+junk trash~
+Rummaging around in the junk you find a narrow stepladder leading down.
+~
+S
+#12730
+In the ghetto~
+   You are surrounded by bad housing and unnatural smells. (Probably 
+best not to try and imagine what is causing those smells.) The houses 
+lead dangerously over the streets, which look passable only to the north, 
+west and east.
+~
+127 d 0
+D0
+You can see a winding muddy alley to the north.
+~
+~
+0 -1 12726
+D1
+You can see a winding muddy alley to the east.
+~
+~
+0 -1 12729
+D3
+You can see a winding muddy alley to the west.
+~
+~
+0 -1 12728
+S
+#12731
+Before the Lords~
+   The Werehome House of Lords is where all the important decisions 
+are made, and the building itself looks important too. The front is 
+supported by large fluted columns, in fact the whole building looks 
+very much like a roman basilica. A narrow, but well trodden pathway 
+leads to the east, you see wolves heading down there and assume that 
+is where they live. To the west you can make out the busy Upper 
+Temple Street.
+~
+127 d 0
+D0
+The main street continues to the north.
+~
+~
+0 -1 12725
+D1
+You can see wolves wandering down this pathway.
+~
+~
+0 -1 12755
+D2
+You can enter the House of Lords
+~
+~
+0 -1 12732
+D3
+You can see the crowds gathering at Upper Temple Street.
+~
+~
+0 -1 12719
+S
+#12732
+House of Lords~
+   There are Lords among all races of werefolk, and despite the social 
+standing of the different types, all have equal standing before the law 
+of Werehome. Permission is required by anyone wanting to leave 
+Werehome and go above ground, and it is here they must petition the 
+Lords to gain permission. The only exceptions to the rule are the 
+wolves, who traditionally have the right to come and go as they please.
+~
+127 cd 0
+D0
+You can leave the House of Lords.
+~
+~
+0 -1 12731
+D1
+You see a dais, upon which is a large carved chair.
+~
+~
+0 -1 12735
+D2
+You see a dais, upon which is a large carved chair.
+~
+~
+0 -1 12734
+D3
+You see a dais, upon which is a large carved chair.
+~
+~
+0 -1 12733
+S
+#12733
+The Seat of Assent~
+   The Seat of Assent is raised upon a dais to the south of this part of 
+the House. Those in agreement with the High Seat move to this part of 
+the house in order to register their vote. It is the job of the Seat of 
+Assent to count those votes. Only the tigers can hold official positions 
+in the House of Lords like the High Seat, and the Seats of Assent and 
+Rejection.
+~
+127 d 0
+D1
+The main part of the House of Lords lies to the east.
+~
+~
+0 -1 12732
+D2
+The High Seat lies to the south.
+~
+~
+0 -1 12734
+S
+#12734
+The High Seat~
+   The High Seat is where the final say in the government of Werehome 
+rests. While most decisions are democratically made, the Lord who sits 
+on the High Seat has the deciding vote. The Lords among the tigers take 
+it in turns to sit on the high seat, each one serving for one lunar 
+cycle before another takes over.  The seat itself looks pretty 
+uncomfortable, but it's clearly supposed to be more symbolic than 
+functional.
+~
+127 d 0
+D0
+The main part of the House of Lords lies to the north.
+~
+~
+0 -1 12732
+S
+#12735
+The Seat of Rejection~
+   When the werefolk vote, those in opposition move over to this side of 
+the house. On a dais to the south sits a large chair (almost a throne) 
+which has an unobstructed view of this side of the house. This is the 
+Seat of Rejection. Whichever tiger lord is serving this post at the time 
+will count the number of votes against, and relay this information to 
+the High Seat.
+~
+127 d 0
+D2
+The High Seat lies to the south.
+~
+~
+0 -1 12734
+D3
+The main part of the House of Lords lies to the west.
+~
+~
+0 -1 12732
+S
+#12736
+Dark path~
+   The light fades in this direction, until you can barely make out the 
+way forward. Very soon the paved walkway gives way to a well trampled 
+trail though the undergrowth. You can make out all kinds of different 
+footprints, human and animal. The path continues to the east, but the 
+light of the entrance shines enticingly from the west.
+~
+127 d 0
+D1
+The path continues through the darkness.
+~
+~
+0 -1 12737
+D3
+You can see the well-lit entrance to werehome
+~
+~
+0 -1 12703
+S
+#12737
+Twist in the path~
+   The trail continues through the undergrowth, wayward branches and 
+limbs have been pushed aside by creatures who pass this way more 
+regularly. The path is very dim, the light given off by the rocks 
+overhead has the hue and brightness of moonlight.
+~
+127 d 0
+D0
+You can make out a silver gate to the north.
+~
+~
+0 -1 12738
+D3
+There is a narrow and dark path leading west.
+~
+~
+0 -1 12736
+S
+#12738
+Entrance to the hunting garden~
+   A huge silver gate to the north marks the entrance to the Hunting 
+Garden of the werefolk. Here they can practice stalking, and killing. 
+You can't see anyone from here, but you can here an occasional scream, 
+or rustle of bushes.
+~
+127 cd 0
+D0
+You can barely see anything in the gloom of the hunting garden.
+~
+gate silver~
+2 12707 12739
+D2
+A twisting path leads south.
+~
+~
+0 -1 12737
+S
+#12739
+Hunting garden~
+   Leaves rustle somewhere off to your right, and you can hear the low 
+rhythmic breathing of some ferocious beast. You hear a piercing shriek in 
+the distance, which cuts off abruptly. This doesn't seem like a very safe 
+place to wander around. The gates lies to the south.
+~
+127 d 2
+D0
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12742
+D1
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12740
+D2
+A way out! Better take it while you have the chance.
+~
+gate silver~
+1 12707 12738
+S
+#12740
+Hunting garden~
+   Leaves rustle somewhere off to your right, and you can hear the low 
+rhythmic breathing of some ferocious beast. You hear a piercing shriek in 
+the distance, which cuts off abruptly. This doesn't seem like a very safe 
+place to wander around. A severed limb sticks out from under a bush.
+~
+127 d 2
+D0
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12741
+D1
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12744
+D3
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12739
+E
+limb~
+It looks like it was once an arm, though the hand is missing - it looks 
+well chewed.
+~
+S
+#12741
+Hunting garden~
+   Leaves rustle somewhere off to your right, and you can hear the low 
+rhythmic breathing of some ferocious beast. You hear a piercing shriek in 
+the distance, which cuts off abruptly. This doesn't seem like a very safe 
+place to wander around. Tracks in the dust indicate a recent struggle.
+~
+127 d 2
+D0
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12746
+D2
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12740
+D3
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12742
+S
+#12742
+Hunting garden~
+   Leaves rustle somewhere off to your right, and you can hear the low 
+rhythmic breathing of some ferocious beast. You hear a piercing shriek in 
+the distance, which cuts off abruptly. This doesn't seem like a very safe 
+place to wander around. You accidentally stand in a pool of blood.
+~
+127 d 2
+D0
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12745
+D1
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12741
+D2
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12739
+D3
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12743
+E
+pool blood~
+Eeek! Its still warm. Small clawed bloody footprints lead west. You 
+think you can hear breathing.
+~
+S
+#12743
+Hunting garden~
+   Leaves rustle somewhere off to your right, and you can hear the low 
+rhythmic breathing of some ferocious beast. You hear a piercing shriek in 
+the distance, which cuts off abruptly. This doesn't seem like a very safe 
+place to wander around. A bush off to your left twitches.
+~
+127 d 2
+D0
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12744
+D1
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12742
+D2
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12746
+E
+bush~
+#RThe hunting werewolf tells you, 'You're next!'#N
+~
+S
+#12744
+Hunting garden~
+   Leaves rustle somewhere off to your right, and you can hear the low 
+rhythmic breathing of some ferocious beast. You hear a piercing shriek in 
+the distance, which cuts off abruptly. This doesn't seem like a very safe 
+place to wander around. To the north you can see a filthy cage.
+~
+127 d 2
+D0
+A rusty cage lies to the north.
+~
+cage gate rusty~
+1 -1 12747
+D1
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12745
+D2
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12743
+D3
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12740
+S
+#12745
+Hunting garden~
+   Leaves rustle somewhere off to your right, and you can hear the low 
+rhythmic breathing of some ferocious beast. You hear a piercing shriek in 
+the distance, which cuts off abruptly. This doesn't seem like a very safe 
+place to wander around. 
+~
+127 d 2
+D1
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12746
+D2
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12742
+D3
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12744
+S
+#12746
+Hunting garden~
+   Leaves rustle somewhere off to your right, and you can hear the low 
+rhythmic breathing of some ferocious beast. You hear a piercing shriek in 
+the distance, which cuts off abruptly. This doesn't seem like a very safe 
+place to wander around.
+~
+127 d 2
+D0
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12743
+D2
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12741
+D3
+You can barely see anything in the gloom of the hunting garden.
+~
+~
+0 -1 12745
+S
+#12747
+Cage~
+   This filthy cage must be where victims are kept before being 
+released into the hunting gardens. The bars are rusty, and the floor is 
+covered with grubby straw. There is evidence that both humans and 
+animals have been kept here, and the smell is very unpleasant. The cage 
+extends further to the east.
+~
+127 d 0
+D1
+The filthy cage extends to the east.
+~
+~
+0 -1 12748
+D2
+The eerie silence of the hunting garden lies to the south.
+~
+gate rusty~
+1 -1 12744
+S
+#12748
+Cage~
+   The cage is even most disgusting at this end, the inhabitants have 
+tended to huddle here in order to avoid being released into the 
+hunting garden. The floor is filthy, and you can see blood stains, 
+probably the result of squabbling between prisoners. In the far corner is 
+a depression in the floor, where one of the unlucky inhabitants of the 
+cage has previously tried to tunnel out. 
+~
+127 d 0
+D3
+The cage continues to the west.
+~
+~
+0 -1 12747
+S
+#12749
+Beginning of the Cat Quarter~
+   A narrow tunnel leads into the home of the werecats, so narrow in 
+fact that you are forced to crawl and twist and turn in order to 
+continue. The lithe catfolk however obviously don't have the same 
+problems, else they would surely have done something about it.
+~
+127 cd 0
+D1
+The twisting tunnel continues, but you can see that it opens out to 
+the east.
+~
+~
+0 -1 12750
+D3
+The safety of the main street is to the west.
+~
+~
+0 -1 12767
+S
+#12750
+Entrance to the Terraced Garden~
+   An amazing sight greets your eyes, as you leave the narrow passageway 
+you stand before a beautiful indoor garden, with flowers and bushes 
+hiding all the ground, and walls, apart from a few narrow winding 
+pathways. The garden is terraced, with alcoves on both main levels, 
+where the werecats obviously sleep. Of all the werefolk the werecats 
+are most like their totem, and often spend months at a time in their 
+animal form.
+~
+127 d 0
+D1
+You can continue into the beautiful flower garden.
+~
+~
+0 -1 12751
+D3
+A narrow twisting tunnel leads west.
+~
+~
+0 -1 12749
+S
+#12751
+Lower Terrace~
+   The smell of flowers is so intoxicating it makes your head swim. All 
+around you are small niches where you can make out the sleeping forms of 
+cats. It's warm and humid in here too, much warmer than other parts of 
+the city, but the plants seem to flourish in the heat. This terrace 
+extends further to the north, or there is another tiny path leading 
+upwards to the next terrace.
+~
+127 d 0
+D0
+A twisting pathway heads north.
+~
+~
+0 -1 12752
+D3
+You can see the entrance to the garden.
+~
+~
+0 -1 12750
+D4
+A narrow well-kept walkway leads to the upper terrace.
+~
+~
+0 -1 12754
+E
+cat cats~
+Not your average house trained cats, these are real mean 
+looking wildcats!
+~
+S
+#12752
+Lower Terrace~
+   The heady perfume of the terraced garden is even stronger at this 
+end. Of course, there is no breeze to disperse the scent, which is 
+beginning to give you a headache. A twisting path leads up to the next 
+level of the gardens, its not an easy path for you, but it is for the 
+agile werecats.
+~
+127 d 0
+D2
+A twisting pathway heads south.
+~
+~
+0 -1 12751
+D4
+A narrow gravel walkway leads to the upper terrace.
+~
+~
+0 -1 12753
+S
+#12753
+Upper Terrace~
+   The gardens are immaculately kept, all the plants are well trimmed, 
+and dead flower heads have been removed. The narrow pathways are also 
+beautifully cared for, the werecats are obviously very meticulous about 
+their homes.
+~
+127 d 0
+D2
+A winding pathway goes south.
+~
+~
+0 -1 12754
+D5
+You can head down to the lower terrace.
+~
+~
+0 -1 12752
+S
+#12754
+Upper Terrace~
+   You almost lose your balance several times as you wander along the 
+narrow pathways. The fragrant terrace garden extends further to the 
+north, or there is a twisting walkway leading down to the lower terrace.
+The foliage to the east looks a little thinner than elsewhere.
+~
+127 d 0
+D0
+A twisting pathway leads north.
+~
+~
+0 -1 12753
+D1
+If you are agile you can scramble through the foliage to the east.
+~
+foliage~
+1 -1 12770
+D5
+You can head down to the lower terrace.
+~
+~
+0 -1 12751
+E
+foliage~
+An agile person might make it through here.
+~
+S
+#12755
+Wolf Run~
+   This tunnel leads to the home of the wolves, the most powerful sect 
+of the werefolk. They are known to be aggressive, and merciless to any 
+who invade their caverns, so you'd better watch out! The walls are 
+carved with what appears to be writing, though you can't be certain.
+~
+127 cd 0
+D3
+You can see the House of Lords to the west.
+~
+~
+0 -1 12731
+D5
+A tunnel leads down into the darkness.
+~
+~
+0 -1 12756
+E
+writing~
+It appears to be a history of the werewolves, from their earliest 
+memories, before they came to werehome, to the present day. There are 
+many drawings of werewolf heroes, and sacred symbols to preserve their 
+memory.
+~
+S
+#12756
+Twisting Caves~
+   The caves of the wolves are incredibly complex, with winding tunnels 
+leading in all directions, but quickly twisting out of sight. At a 
+glance it look far less prosperous than the homes of the tigers, but a 
+closer look reveals that gems and precious metals are to be found 
+everywhere, and everything is beautifully crafted.
+~
+127 d 0
+D0
+Twisting tunnels start off leading north, but quickly change direction.
+~
+~
+0 -1 12759
+D1
+Twisting tunnels start off leading east, but quickly change direction.
+~
+~
+0 -1 12758
+D2
+Twisting tunnels start off leading south, but quickly change direction.
+~
+~
+0 -1 12757
+D3
+Twisting tunnels start off leading west, but quickly change direction.
+~
+~
+0 -1 12759
+D4
+A twisting tunnel leads upwards.
+~
+~
+0 -1 12755
+S
+#12757
+Twisting Caves~
+   The caves of the wolves are incredibly complex, with winding tunnels 
+leading in all directions, but quickly twisting out of sight. At a 
+glance it look far less prosperous than the homes of the tigers, but a 
+closer look reveals that gems and precious metals are to be found 
+everywhere, and everything is beautifully crafted.
+~
+127 d 0
+D0
+Twisting tunnels start off leading north, but quickly change direction.
+~
+~
+0 -1 12758
+D1
+Twisting tunnels start off leading east, but quickly change direction.
+~
+~
+0 -1 12759
+D2
+Twisting tunnels start off leading south, but quickly change direction.
+~
+~
+0 -1 12758
+D3
+Twisting tunnels start off leading west, but quickly change direction.
+~
+~
+0 -1 12758
+D4
+A twisting tunnel leads upwards.
+~
+~
+0 -1 12769
+S
+#12758
+Twisting Caves~
+   The caves of the wolves are incredibly complex, with winding tunnels 
+leading in all directions, but quickly twisting out of sight. At a 
+glance it look far less prosperous than the homes of the tigers, but a 
+closer look reveals that gems and precious metals are to be found 
+everywhere, and everything is beautifully crafted.
+~
+127 d 0
+D0
+Twisting tunnels start off leading north, but quickly change direction.
+~
+~
+0 -1 12757
+D1
+Twisting tunnels start off leading east, but quickly change direction.
+~
+~
+0 -1 12757
+D2
+Twisting tunnels start off leading south, but quickly change direction.
+~
+~
+0 -1 12759
+D3
+Twisting tunnels start off leading west, but quickly change direction.
+~
+~
+0 -1 12757
+D4
+A twisting tunnel leads upwards.
+~
+~
+0 -1 12759
+S
+#12759
+Twisting Caves~
+   The caves of the wolves are incredibly complex, with winding tunnels 
+leading in all directions, but quickly twisting out of sight. At a 
+glance it look far less prosperous than the homes of the tigers, but a 
+closer look reveals that gems and precious metals are to be found 
+everywhere, and everything is beautifully crafted.
+~
+127 d 0
+D0
+Twisting tunnels start off leading north, but quickly change direction.
+~
+~
+0 -1 12756
+D1
+Twisting tunnels start off leading east, but quickly change direction.
+~
+~
+0 -1 12756
+D2
+Twisting tunnels start off leading south, but quickly change direction.
+~
+~
+0 -1 12756
+D3
+Twisting tunnels start off leading west, but quickly change direction.
+~
+~
+0 -1 12756
+D4
+A twisting tunnel leads upwards.
+~
+~
+0 -1 12758
+S
+#12760
+Entrance to the Boar quarter~
+   The boar quarter is like its inhabitants - well built, but rather 
+simple. While the boars are powerful fighters, they do not compare to 
+the wolves, so they try to be more like the civilised tigers. The home 
+of the wereboars lies to the east, and the main street to the west.
+~
+127 cd 0
+D1
+You can make out a particularly hideous fountain to the east.
+~
+~
+0 -1 12761
+D3
+Main street lies to the west.
+~
+~
+0 -1 12725
+S
+#12761
+Boar shaped fountain~
+   The centre of the Boar quarter is dominated by a large fountain of a 
+wereboar. The homes of the wereboars appear to be a series of recessed 
+caverns which form an arc about the fountain. You could investigate the 
+homes to the north, east and south, or you could leave west.
+~
+127 d 0
+D0
+The homes of the boars start to the north, curving round to the east.
+~
+~
+0 -1 12762
+D1
+You can see the homes of the boars, curving round to the north and south.
+~
+~
+0 -1 12763
+D2
+The homes of the boars start to the south, curving round to the east.
+~
+~
+0 -1 12764
+D3
+You can leave the boar-quarter to the west.
+~
+~
+0 -1 12760
+S
+#12762
+Boar House~
+   Unlike the elegant homes of the weretigers, those of the boars seem 
+a bit gaudy. Any attempt on their part to appear cultured seems instead 
+to make them look a bit silly. You wonder how anyone could take the 
+boars seriously, but then you remember how large and powerful they are.
+~
+127 d 0
+D1
+The homes of the boars continue to the east.
+~
+~
+0 -1 12763
+D2
+You can see a particularly hideous fountain to the south.
+~
+~
+0 -1 12761
+S
+#12763
+Boar House~
+   Unlike the elegant homes of the weretigers, those of the boars seem 
+a bit gaudy. Any attempt on their part to appear cultured seems instead 
+to make them look a bit silly. You wonder how anyone could take the 
+boars seriously, but then you remember how large and powerful they are.
+~
+127 d 0
+D0
+The homes of the boars continue to the north.
+~
+~
+0 -1 12762
+D2
+The homes of the boars continue to the south.
+~
+~
+0 -1 12764
+D3
+You can see a particularly hideous fountain to the west.
+~
+~
+0 -1 12761
+D5
+Steps lead downwards.
+~
+trapdoor~
+1 -1 12771
+S
+#12764
+Boar House~
+   Unlike the elegant homes of the weretigers, those of the boars seem 
+a bit gaudy. Any attempt on their part to appear cultured seems instead 
+to make them look a bit silly. You wonder how anyone could take the 
+boars seriously, but then you remember how large and powerful they are.
+~
+127 d 0
+D0
+You can see a particularly hideous fountain to the north.
+~
+~
+0 -1 12761
+D1
+The homes of the boars continue to the east.
+~
+~
+0 -1 12763
+S
+#12765
+Sanctum of the Tiger~
+   The hidden sanctuary below the statue is a little surprising, 
+considering the tigers' tendancy towards ostentation. This, however, is 
+their most sacred place. Only the High Priest, and his acolytes are 
+allowed in here normally, and on special occasions the Lords among the 
+weretigers are also permitted to gather here. 
+~
+127 du 0
+D4
+There is a trapdoor in the ceiling.
+~
+trapdoor~
+2 12705 12724
+S
+#12766
+Sanctum of the wolf~
+   The devotion of the wolves is legendary, and the inner sanctum of 
+their temple is an amazing shrine, not just to their totem, but also to 
+their ancestors, from whom they believe their power partly comes. The 
+walls are lined with miniature statues of werewolf heroes and plundered 
+treasures. The centre of the room is inlaid with a huge wolfs' head, in 
+gold - and represents more wealth than everything else in the city 
+together.
+~
+127 du 0
+D0
+A black door, carved with a wolfshead leads north.
+~
+door~
+2 12703 12722
+S
+#12767
+Main Street~
+   You stand in the middle of the main street through Werehome. The 
+entrance to the city is to the north, and the street continues to the 
+south. To the east you can see a narrow pathway, which becomes narrower 
+as is twists out of view. The street is lit as bright as day by the 
+strange phosphorescent rocks that line the cave high above your head.
+~
+127 d 0
+D0
+You can see the entrance to Werehome to the north.
+~
+~
+0 -1 12703
+D1
+A narrow tunnel leads east.
+~
+~
+0 -1 12749
+D2
+The main street continues to the south.
+~
+~
+0 -1 12725
+S
+#12768
+Lord Birt's Chambers~
+   Talk about slumming it! This place is a real mess, bits of trash 
+everywhere. The wererats are notorious scavengers, and it seems that 
+Lord Birt gets the lion's share. How anyone stands the smell you'll 
+never know. Better not let anyone catch you rummaging in here.
+~
+127 du 0
+D4
+You can climb back out of the junk pile.
+~
+junk trash~
+1 -1 12729
+S
+#12769
+Twisting Caves~
+   These particular caves are the home of one of werehome's more famous 
+inhabitants, the werewolf Lord Xamon. The walls are lined with gold, and 
+gems, and precious souvenirs of his travels. The room is brightly lit 
+by a huge chandelier made from a dragons skull. (You would be right to 
+assume that Xamon killed the dragon himself)
+~
+127 du 0
+D5
+A twisting tunnel leads downwards.
+~
+~
+0 -1 12758
+S
+#12770
+Kralian's Chambers~
+   This comfortable alcove is the home of the leader of the werecats, 
+Lord Kralian. There has never been a more graceful and cunning werecat 
+in the history of werehome. The walls are lined with flowers, and vines, 
+and the floor is carpeted with lush foliage.
+~
+127 du 0
+D3
+If you are agile, you can fit through a gap in the foliage.
+~
+foliage~
+1 -1 12754
+S
+#12771
+Lord Dorlan's chamber~
+   Simple furnishings, for a simple Lord. Its all very homely, with a 
+comfy chair and pictures on the wall. And a huge number of skulls in one 
+corner. He may prefer to eat out - but obviously he gets food delivered 
+fairly often too.
+~
+127 du 0
+D4
+Steps lead upwards.
+~
+trapdoor~
+1 -1 12763
+S
+#99999
+$~

@@ -1,0 +1,26 @@
+#250
+Mindorian sea~
+25099 90 2
+*
+* Created by Anubis alias Claes Soerensson
+*      Summer 1995
+*
+* Mobiles
+M 0 25001 1 25018
+M 0 25002 1 25023
+M 0 25003 1 25050
+M 0 25004 1 25074
+M 0 25005 1 25079
+* random stuff
+R 0 25028 4
+R 0 25029 4
+R 0 25038 4
+R 0 25046 4
+R 0 25058 4
+R 0 25060 4
+R 0 25062 4
+R 0 25064 4
+R 0 25071 4
+S
+#99999
+$~

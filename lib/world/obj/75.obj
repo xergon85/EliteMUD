@@ -1,0 +1,232 @@
+#7500
+window key~
+a window key~
+A very odd shaped clear key.~
+~
+18 1 0 0 ao
+7505 0 0 0 0 80
+1 0 0
+#7501
+diamond sword key~
+a diamond sword~
+A gleaming sword covered in runes and radiating extreme power.~
+~
+18 1 0 ab ao
+7513 0 0 0 0 80
+1 0 0
+#7502
+grate key~
+a grate key~
+A very small light green key covered in seaweed and slime.~
+~
+18 1 0 f ao
+7528 0 0 0 0 80
+1 0 0
+#7503
+runic scepter stick~
+a runic scepter~
+A long thin stick covered in strange designs of another language.~
+~
+1 40 l ag ao
+0 0 150 0 0 0
+3 1000 0
+A
+18 2
+A
+19 2
+#7504
+stone ring~
+a stone ring~
+A small circular object for the hands made of rare emerald stone.~
+~
+9 50 h 0 ab
+10 50 0 0 0 0
+2 1500 0
+A
+18 2
+A
+19 1
+#7505
+necklace power chain~
+necklace of power~
+A shiny golden chain with a symbol of a mighty hammer at its end.~
+~
+9 45 0 k ac
+10 45 0 0 0 0
+2 1500 0
+A
+19 2
+#7506
+necklace accuracy chain~
+necklace of accuracy~
+A shiny golden chain with a symbol of a mighty arrow at its end.~
+~
+9 40 0 0 ac
+10 40 0 0 0 0
+2 1500 0
+A
+18 2
+#7508
+crown magic item~
+crown of magic~
+A mysterious looking item seems to be born from the elements.~
+~
+9 40 cdghklops a ae
+10 40 0 0 0 0
+10 1500 0
+A
+12 50
+#7509
+gauntlets ogre power~
+gauntlets of ogre power~
+Huge mythril gauntlets with a giant glowing diamond in the center.~
+~
+9 45 abefijm 0 ai
+8 45 0 0 0 0
+5 1000 0
+A
+18 1
+A
+19 1
+#7510
+lava rock greaves~
+lava rock greaves~
+Glowing greaves forged straight from the fires of a monster volcano.~
+~
+9 50 0 a af
+5 50 0 0 0 0
+6 1000 0
+A
+19 1
+A
+14 100
+A
+20 10
+#7511
+boots north~
+boots of the north~
+Crystal clear boots seem to freeze you at the slightest touch.~
+~
+9 60 0 0 ag
+10 60 0 0 0 0
+4 1000 0
+A
+18 2
+A
+19 1
+A
+21 10
+#7512
+north star shield~
+north star shield~
+A huge steel shield with a glowing blue star and cross upon it.~
+~
+9 50 acefgjkms a aj
+10 50 0 0 0 0
+1 1600 0
+A
+12 25
+A
+14 25
+#7513
+girdle storm giant belt~
+girdle of storm giant strength~
+A finely crafted leather belt of extreme weight and thickness.~
+~
+9 52 0 abg al
+15 52 0 0 0 0
+10 2500 0
+A
+1 4
+A
+13 30
+#7514
+robe stars cloth~
+robe of stars~
+A thick dark blue cloth with a map of the galaxy.~
+~
+9 55 0 a ak
+12 55 0 0 0 0
+5 1500 0
+A
+18 1
+A
+19 1
+#7515
+bracer defense~
+bracer of defense~
+A small sturdy piece of wrist wear glows brightly.~
+~
+9 65 0 a am
+12 65 0 0 0 0
+3 1500 0
+A
+18 1
+A
+19 1
+#7516
+sword planes blade~
+sword of the planes~
+A gleaming blade shows evidence of another time and place.~
+~
+5 55 abcefgijklmnos bc ano
+55 4 13 3 0 0
+8 1500 0
+A
+18 6
+A
+19 6
+#7517
+rod security~
+rod of security~
+A long thin metal rod branded with ruins of power.~
+~
+3 40 0 afp ao
+109 10 10 36 0 0
+3 2500 0
+#7518
+huge treasure gold~
+huge treasure~
+A huge mountain of gold waits here for its next owner.~
+~
+20 1 0 0 a
+10000 0 0 0 0 0
+1 0 0
+#7519
+treasure chest~
+treasure chest~
+A large treasure chest waits here on the floor.~
+~
+15 1 0 o 0
+5 5 -1 0 0 0
+150 0 0
+#7520
+treasure chest~
+treasure chest~
+A large treasure chest waits here on the floor.~
+~
+15 1 0 o 0
+5 5 -1 0 0 0
+150 0 0
+#7521
+cosmic scroll paper~
+cosmic scroll~
+A very burnt and barely readable piece of paper.~
+~
+2 40 0 f ao
+109 1 36 39 0 0
+1 500 0
+#7522
+gloves titan~
+gloves of the titans~
+A very large pair of gloves with the symbol of a lightning bolt.~
+~
+9 50 cgks ab ah
+8 50 0 0 0 0
+5 1000 0
+A
+18 2
+A
+19 2
+#99999
+$~

@@ -1,0 +1,500 @@
+#75
+Gigantia~
+7554 40 2
+*
+* Room 7500
+*
+* Mobs: none
+* Objs: none
+* Doors: door to the north closed but not locked
+*
+D 0 7500 0 1
+*
+* Room 7501
+*
+* Mobs: none
+* Objs: none
+* Doors: door to the south closed but not locked
+*
+D 0 7501 2 1
+*
+* Room 7502
+*
+* Mobs: none
+* Objs: none
+* Doors: none
+*
+* Room 7503
+*
+* Mobs: (2)snow wolf to be loaded
+* Objs: none
+* Doors: none
+*
+M 0 7506 5 7503
+M 0 7506 5 7503
+*
+* Room 7504
+*
+* Mobs: (1)cave giant and (1)female cave giant to load
+* Objs: none
+* Doors: door to the east to be closed but not locked
+*
+M 0 7501 5 7504
+M 0 7500 4 7504
+D 0 7504 1 1
+*
+* Room 7505
+*
+* Mobs: need to load Bob the mad alchemist here
+* Objs: give window key bob and eq bob with helmet and light
+* Doors: door west to close and door north to close and lock
+*
+M 0 7510 1 7505
+G 1 7500 100
+E 1 7503 10 0
+E 1 7508 15 6
+D 0 7505 3 1
+D 0 7505 0 2
+*
+* Room 7506
+*
+* Mobs: load the displacer beast here
+* Objs: give diamond sword key to displacer beast
+* Doors: close and lock door south
+*
+M 0 7512 1 7506
+G 1 7501 100 
+D 0 7506 2 2
+*
+* Room 7507
+*
+* Mobs: none
+* Objs: none
+* Doors: none
+*
+* Room 7508
+*
+* Mobs: load (1)cave giant and (1)female cave giant
+* Objs: none
+* Doors: none
+*
+M 0 7501 5 7508
+M 0 7500 4 7508
+*
+* Room 7509
+*
+* Mobs: load (1)cave giant and (1)female cave giant
+* Objs: none
+* Doors: close door to the east
+*
+M 0 7501 5 7509
+M 0 7500 4 7509
+D 0 7509 1 1
+*
+* Room 7510
+*
+* Mobs: load (1)cave giant
+* Objs: none
+* Doors: close door to the west
+*
+* M 0 7501 5 7510
+* D 0 7510 3 1
+*
+* Room 7511
+*
+* Mobs: load (2)snow wolf
+* Objs: none
+* Doors: none
+*
+M 0 7506 5 7511
+M 0 7506 5 7511
+*
+* Room 7512
+*
+* Mobs: load (1)cave giant(1)snow wolf(1)female cave giant
+* Objs: none
+* Doors: none
+M 0 7501 5 7512
+M 0 7506 5 7512
+M 0 7500 4 7512
+*
+* Room 7513
+*
+* Mobs: none
+* Objs: none
+* Doors: close and lock door up
+*
+D 0 7513 4 2
+*
+* Room 7514
+*
+* Mobs: load (2)flare beasts
+* Objs: none
+* Doors: none
+*
+M 0 7507 5 7514
+M 0 7507 5 7514
+*
+* Room 7515
+*
+* Mobs: load (2)flare beasts
+* Objs: none
+* Doors: none
+*
+M 0 7507 5 7515
+M 0 7507 5 7515
+*
+* Room 7516
+*
+* Mobs: none
+* Objs: none
+* Doors: none
+*
+* Room 7517
+*
+* Mobs: load queen bee
+* Objs: none
+* Door: none
+*
+M 0 7511 1 7517
+*
+* Room 7518
+*
+* Mobs: none
+* Objs: none
+* Door: close door east
+*
+D 0 7518 1 1
+*
+* Room 7519
+*
+* Mobs: load (1)flare beast(1)mountain giant
+* Objs: none
+* Door: close door west
+*
+M 0 7507 5 7519
+M 0 7517 5 7519
+D 0 7519 3 1
+*
+* Room 7520
+*
+* Mobs: none
+* Objs: none
+* Door: none
+*
+* Room 7521
+*
+* Mobs: none
+* Objs: none
+* Door: none
+*
+* Room 7522
+*
+* Mobs: load (1)mountain giant
+* Objs: none
+* Door: close door north
+*
+M 0 7517 5 7522
+D 0 7522 0 1
+*
+* Room 7523
+*
+* Mobs: load (1)stone giant
+* Objs: none
+* Door: close doors south, east and west
+*
+M 0 7502 5 7523
+D 0 7523 2 1
+D 0 7523 1 1
+D 0 7523 3 1
+*
+* Room 7524
+*
+* Mobs: load (1)mountain giant
+* Objs: none
+* Door: close door east and north
+*
+M 0 7517 5 7524
+D 0 7524 1 1
+D 0 7524 0 1
+*
+* Room 7525
+*
+* Mobs: load (1)stone giant commander(1)mountain giant
+* Objs: equip stone giant commander with stone ring
+* Door: close door south
+*
+M 0 7523 1 7525
+E 1 7504 15 1
+M 0 7517 5 7525
+D 0 7525 2 1
+*
+* Room 7526
+*
+* Mobs: load (1)stone giant
+* Objs: none
+* Door: close door west
+*
+M 0 7502 5 7526
+D 0 7526 3 1
+*
+* Room 7527
+*
+* Mobs: load (2)stone giant(1)mountain giant commander
+* Objs: equip mountain giant commander gauntlets of ogre power
+* Door: none
+*
+M 0 7502 5 7527
+M 0 7502 5 7527
+M 0 7518 1 7527
+E 1 7509 20 10
+*
+* Room 7528
+*
+* Mobs: load Jonas the Dungeon Keeper
+* Objs: give grate key Jonas and equip with (2)neck items
+* Door: close and lock door down
+*
+M 0 7516 1 7528
+G 1 7502 100
+D 1 7528 5 2
+E 1 7505 15 3
+E 1 7506 15 4
+*
+* Room 7529
+*
+* Mobs: load giant octopus
+* Objs: load treasure chest and place robe of stars inside
+* Door: close and lock door up
+* 
+M 0 7514 1 7529
+O 0 7519 100 7529
+P 1 7514 15 7519
+D 0 7529 4 2
+*
+* Room 7530
+*
+* Mobs: none
+* Objs: none
+* Door: close and lock door down
+*
+D 0 7530 5 2
+*
+* Room 7531
+*
+* Mobs: load (2)fire giants
+* Objs: none
+* Door: none
+*
+M 0 7504 5 7531
+M 0 7504 5 7531
+*
+* Room 7532
+*
+* Mobs: load (2)fire giants
+* Objs: none
+* Door: none
+*
+M 0 7504 5 7532
+M 0 7504 5 7532
+*
+* Room 7533
+*
+* Mobs: load (1)fire giant(1)fire giant commander
+* Objs: equip lava rock greaves on commander
+* Door: close door east
+*
+M 0 7504 5 7533
+M 0 7521 1 7533
+E 1 7510 15 7
+D 0 7533 1 1
+*
+* Room 7534
+*
+* Mobs: none
+* Objs: none
+* Door: close door west
+*
+D 0 7534 3 1
+*
+* Room 7535
+*
+* Mobs: load (2)frost giants
+* Objs: none
+* Door: none
+*
+M 0 7503 5 7535
+M 0 7503 5 7535
+*
+* Room 7536
+*
+* Mobs: load (1)frost giant(1)frost giant commander
+* Objs: equip commander with boots of the north
+* Door: close door north
+*
+M 0 7503 5 7536
+M 0 7522 1 7536
+E 1 7511 15 8
+D 0 7536 0 1
+*
+* Room 7537
+*
+* Mobs: none
+* Objs: place cosmic scroll on floor
+* Door: close door south
+*
+O 0 7521 30 7537
+D 0 7537 2 1
+*
+* Room 7538
+*
+* Mobs: load (2)frost giants
+* Objs: none
+* Door: none
+*
+M 0 7503 5 7538
+M 0 7503 5 7538
+*
+* Room 7539
+*
+* Mobs: none
+* Objs: none
+* Door: none
+*
+* Room 7540
+*
+* Mobs: load (2)cloud giants
+* Objs: none
+* Door: none
+*
+M 0 7505 5 7540
+M 0 7505 5 7540
+*
+* Room 7541
+*
+* Mobs: load (1)cloud giant(1)cloud giant commander
+* Objs: equip commander with bracer of defense and sword of planes
+* Door: none
+*
+M 0 7505 5 7541
+M 0 7520 1 7541
+E 1 7515 15 14
+E 1 7516 15 16
+*
+* Room 7542
+*
+* Mobs: load (2)cloud giants
+* Objs: none
+* Door: close door west
+*
+M 0 7505 5 7542
+M 0 7505 5 7542
+*
+* Room 7543
+*
+* Mobs: load (3)bolt wolf
+* Objs: none
+* Door: close door east
+*
+M 0 7513 3 7543
+M 0 7513 3 7543
+M 0 7513 3 7543
+D 0 7543 1 1
+*
+* Room 7544
+*
+* Mobs: load (2)mutated prisoners
+* Objs: none
+* Door: none
+*
+M 0 7515 2 7544
+M 0 7515 2 7544
+*
+* Room 7545
+*
+* Mobs: none
+* Objs: none
+* Door: none
+*
+* Room 7546
+*
+* Mobs: load (1)storm giant
+* Objs: none
+* Door: none
+*
+M 0 7508 5 7546
+*
+* Room 7547
+*
+* Mobs: load (1)storm giant commander
+* Objs: equip commander with girdle of storm giant strength
+* Door: none
+*
+M 0 7519 1 7547
+E 1 7513 15 13
+*
+* Room 7548
+*
+* Mobs: none
+* Objs: none
+* Door: none
+*
+* Room 7549
+*
+* Mobs: load (1)storm giant
+* Objs: none
+* Door: none
+*
+M 0 7508 5 7549
+*
+* Room 7550
+*
+* Mobs: load (1)storm giant
+* Objs: none
+* Door: none
+*
+M 0 7508 5 7550
+*
+* Room 7551
+*
+* Mobs: load (1)storm giant
+* Objs: none
+* Door: none
+*
+M 0 7508 5 7551
+*
+* Room 7552
+*
+* Mobs: load (1)storm giant
+* Objs: none
+* Door: none
+*
+M 0 7508 5 7552
+*
+* Room 7553
+*
+* Mobs: load (1)Atrolicus master giant
+* Objs: equip with north star shield chainmail of blending and give
+* rod of security
+* Door: close door north
+*
+M 0 7509 1 7553
+G 1 7517 10
+E 1 7512 15 11
+D 0 7553 0 1
+*
+* Room 7554
+*
+* Mobs: none
+* Objs: load treasure and treasure chest with titan gloves inside
+* Door: close door south
+*
+O 0 7518 20 7554
+O 0 7520 100 7554
+P 1 7522 15 7520
+D 0 7554 2 1
+S
+#99999
+$~
+
+   

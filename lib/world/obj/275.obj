@@ -1,0 +1,123 @@
+#27500
+fountain water~
+a fountain~
+A small white fountain is standing here, gurgling happily.~
+~
+23 0 0 4288 0
+999999 999999 15 0 0 0
+9999 0 0
+E
+fountain~
+The fountain looks old and is made from stone.
+~
+#27501
+tea cup~
+A cup~
+A small cup of tea has been dropped here.~
+~
+17 0 0 n a
+2 2 11 0 0 0
+5 10 10
+E
+cup tea~
+You see a tiny cup.  It has some liquid inside.
+~
+#27502
+coffee cup~
+A cup~
+A small cup of coffee has been dropped here.~
+~
+17 0 0 n a
+2 2 12 0 0 0
+5 10 10
+E
+cup coffee~
+You see a tiny cup.  It has some liquid inside.
+~
+#27503
+sub submarine sandwich~
+A large submarine sandwich~
+A large sandwich has been left here.  It smells delicious.~
+~
+19 0 0 n a
+5 0 0 0 0 0
+1 20 10
+E
+sub submarine sandwich~
+It is a well prepared sandwich.  It looks tasty.
+~
+#27504
+crecall clan homecoming scroll~
+A scroll of homecoming~
+A mysterious looking scroll is laying on the ground.~
+~
+2 1 0 64 16385
+12 109 -1 -1 0 0
+4 1500 10
+E
+crecall clan homecoming scroll~
+You see an dusty old scroll.
+~
+#27505
+insight identify scroll~
+A scroll of insight~
+A piece of glowing parchment has been left here.~
+~
+2 1 0 64 16385
+12 53 -1 -1 0 0
+1 2500 10
+E
+insight identify scroll~
+You see a dusty old scroll.
+~
+#27506
+shard blue midnight horn MSClan crystal~
+a shard of #bblue#N crystal~
+A piece of blue crystal lies on the ground.~
+~
+5 100 bfj ak ano
+100 14 3 11 0 0
+15 10000 0
+A
+18 12
+A
+19 12
+#27507
+wildfire ball sphere MSClan~
+A small midnight-#bblue#N sphere~
+A small glowing Midnight Sun is lying here.~
+~
+1 100 0 a a
+0 0 -1 0 0 0
+14 10000 0
+A
+12 80
+A
+18 2
+#27508
+loincloth sapphire triskelion MSClan~
+a #bsapphire#N-colored loincloth~
+A pile of sapphire-blue silk lies on the ground.~
+~
+9 100 abcdfhjklmnops b al
+18 0 0 0 0 0
+25 11234 1
+A
+12 50
+A
+24 10
+#27509
+board bulletin member academy huge msclan~
+the Academy membership board~
+This huge board helps you to keep track of the academy members.~
+~
+13 0 0 128 0
+116 0 0 0 0 0
+0 0 0
+E
+board~
+This is a bulletin board. Use LOOK BOARD and READ <ITEM#>.
+~
+#99999
+$~
+

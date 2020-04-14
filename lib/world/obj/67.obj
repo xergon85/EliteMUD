@@ -1,0 +1,1099 @@
+#6700
+hunting bow~
+the Great Hunting Bow <item withdrawn>~
+Only a ranger who is master of his craft and pure of heart may wield
+this mighty weapon.~
+~
+5 90 abcdefghijkmnops ijkl ano
+90 9 7 12 0 0
+10 10000 0
+E
+hunting bow~
+This item has been withdrawn as part of the transition to 2-handed
+weapons. You should take this item to an Immortal who will load you
+a new Great Hunting Bow, which will be 2-handed.
+[Note for Imms: l o 6762]
+~
+A
+18 10
+A
+19 15
+A
+24 5
+#6701
+elven mithril chainmail~
+finely made mithril chainmail~
+A small pile of mithril has been abandoned.~
+~
+9 100 abcdefghikmops k ad
+50 100 0 0 0 0
+50 90000 0
+E
+chainmail~
+Yet another example of fine elven craftsmanship, this chainmail was made
+of purest mithril forged into thin, fine links which were then woven
+tightly together.  The result is a magnificent piece of armor that is
+light in weight but very strong.
+~
+A
+13 25
+A
+14 100
+#6702
+boots leather~
+tough dragonskin boots~
+Tough brown leather boots that lace to your knee stand waiting to be
+worn.~
+~
+9 80 abcdefghikmnops 0 ag
+10 80 0 0 0 0
+5 5000 0
+E
+boots tough~
+These deep brown dragonskin boots are made to be laced tightly up 
+your calf.  Of elven origin, they have been enchanted by the master
+herbalist to last comfortably an entire elven life span.
+~
+A
+2 3
+A
+12 50
+#6703
+shield cap'n ranger buckler~
+the Cap'n's shield~
+A round buckler shield suitable for an active fighter is waiting to be
+claimed.~
+~
+9 90 abcefgijkms k aj
+6 90 0 0 0 0
+15 10000 0
+E
+shield Cap'n's~
+Fighting dragons means somehow staying shielded from their horrible
+fiery breath, yet rangers need to be nimble and to move about easily in
+the forest.  Not for them the heavy mighty battle shields of knights!
+Instead, elven rangers use a small, round light shield made of mithril.
+This one has been engraved with a slogan in tiny letters on the side
+facing the enemy.
+~
+E
+slogan~
+Remember! Only YOU can prevent forest fires!
+~
+A
+14 60
+A
+18 2
+A
+24 5
+#6704
+magical ball wildfire light~
+a magical ball of #rwildfire#N~
+A ball of wildfire throws with both warmth and light.~
+~
+1 100 0 a a
+0 0 -1 0 0 0
+14 10000 0
+E
+magical ball wildfire light~
+This magical ball will follow you wherever you go
+illuminating your surroundings. The fire within the ball
+burns wildly, barely controlled by the magic that locks 
+it in place. Touch it carefully lest it scorch you!
+~
+A
+12 80
+A
+18 2
+#6705
+hunting knife master ranger~
+the Master Ranger's hunting knife~
+A sharp but strangely noble hunting knife waits for someone to take it
+hunting.~
+~
+5 90 bfj k ano
+90 6 9 11 0 0
+8 800 0
+E
+hunting knife~
+Passed down from ranger generation to ranger generation, this knife is
+one of the Master Ranger's most prized possessions.  Forged by
+Horatio's great grandfather and scrupulously cared for by each
+generation of ranger, the hunting knife is an invaluable tool for its
+owner.
+~
+A
+18 10
+A
+19 8
+#6706
+tree~
+the tree~
+Henrietta's home is a massive ancient tree with rough deeply-furrowed
+bark.~
+~
+15 1 0 0 0
+250 0 0 0 0 0
+999 999 0
+E
+tree~
+The very ancient tree seems sentient, as if you could talk to it and
+ask it questions.  It is covered with a very rough bark that is the
+darkest shade of brown you have ever seen.
+~
+E
+bark~
+The tree bark is an unusually dark brown, with deep folds and sworls.
+A bit above your head, the sworls form themselves into a deep knothole.
+~
+#6707
+leaves bunch~
+a bunch of leaves~
+The bunch of leaves is happy to be out of its knothole.~
+~
+15 1 0 0 a
+2 0 -1 0 0 0
+1 100 0
+E
+leaves bunch~
+Just an ordinary bunch of leaves, very attached to their twig.
+Although the twig is no longer attached to any tree, the leaves are
+glossy and green and the twig is supple.
+~
+#6708
+twig key~
+an ordinary twig~
+"I'm just an ordinary old twig," sings the twig.~
+~
+18 1 0 0 a
+6706 0 0 0 0 90
+1 1 0
+E
+twig~
+It looks like an ordinary old twig!
+~
+#6709
+dress henrietta~
+Henrietta's favorite dress~
+Henrietta's long black velvet dress is fastened by silver lacings that
+pull it tight around her waist.~
+~
+9 105 cdhkops k ad
+45 105 0 0 0 0
+5 15000 1
+E
+Henrietta's dress~
+Henrietta likes to wear this long black velvet dress.  It is cut low
+and square at the neck with silver lacings to cinch it tight around her
+waist and long sleeves that come to a point over her hand.  The sleeve
+edgings are trimmed in silver lace.
+~
+A
+12 75
+A
+12 75
+A
+13 75
+#6710
+Anastasia stuffed purple dragon~
+Anastasia~
+Annie's big stuffed purple dragon tries to look fierce.  It glows
+reassuringly in the dark, its belly covered with stars.~
+~
+9 1 0 abg aj
+3 1 0 0 0 0
+3 50000 0
+E
+dragon anastasia~
+The stuffed dragon is a well-loved child's toy and as she was growing
+up Annie often staged mock battles with it.  Annie always won.  This
+particular dragon is about 18" (45cm) tall, with a long tail dragging
+behind her.  She has shiny light pink wings and a long, forked tongue.
+Annie has named her Anastasia.
+~
+A
+6 2
+Proc(social_object)
+#6711
+socks purple~
+a pair of purple socks~
+Annie has carelessly left her purple socks on the floor.~
+~
+9 1 0 a ag
+3 1 0 0 0 0
+1 50 0
+E
+socks~
+These soft socks were hand-knitted from the finest of wool by Annie's
+grandmother.  There is a faint pattern of stars glowing in the socks.
+~
+A
+2 2
+#6712
+star key~
+a shining star~
+A shining star the size of an elven thumb looks forgotten.~
+~
+18 1 0 a ao
+6710 0 0 0 0 90
+5 0 0
+E
+star key~
+About the size of a normal elven thumb, this star shape has a faint
+glow about it.  It reminds you of something ...
+~
+#6713
+ancient elven ring~
+an ancient elven ring~
+The ancient elven ring holds many mysteries waiting to be discovered.~
+~
+9 50 0 0 ab
+15 50 0 0 0 0
+1 5000 0
+E
+ring~
+The ring is a wide circle of gold, deeply engraved.  On the outside of
+the ring appears the symbol of the dragon, perhaps in memory of the
+time dragons and elves fought together.  On the inside there is a
+mysterious spell engraved in an ancient elven tongue and one is
+reminded that the elves are the "first people".
+~
+A
+13 50
+A
+4 1
+#6714
+fire opal ring~
+a fire opal ring~
+The small fire opal captured a lick of the dragon's fire.~
+~
+9 70 0 aj ab
+15 70 0 0 0 0
+1 6000 0
+E
+ring~
+The fire opal on a ring of gold glows with the dragon's breath.
+~
+A
+12 80
+A
+18 2
+A
+20 10
+#6715
+sign~
+a small sign~
+A small sign calls attention to itself by its bright colors of magenta
+and lemon.~
+~
+13 1 0 0 0
+0 0 0 0 0 0
+5 0 0
+E
+sign words~
+#mWatch out for #ylow flying #mdragons.
+~
+#6716
+wings gryphon fur feathers~
+Wings of the Gryphon~
+Looking oddly out of place and unnaturally still, the combination of
+fur and feathers wants to fly.~
+~
+9 50 0 0 ak
+8 50 0 0 0 0
+5 10000 0
+E
+wings~
+Large strong wings in a golden auburn color properly belong to the
+powerful gryphon.  Although the business part of the wing is covered
+with long, sturdy feathers, the upper edge of the wing is covered with
+a dense, thick mat of fur over sleek lithe muscles.  The wings combine
+strength with agility and beauty.
+~
+B B
+#6717
+staff healing hawthorn heart~
+the Heart of Hawthorn Staff~
+A tall staff carved from the heart of the hawthorn obstructs your path.~
+~
+3 88 abcdghklops bg ao
+100 15 15 28 0 0
+15 5000 0
+E
+staff~
+Covered with runes and magical carvings, this staff has been carved
+from the very heart of the witches' tree, the hawthorn.
+~
+A
+13 75
+A
+13 75
+#6718
+ornate gold ring~
+an ornate gold ring~
+An elaborately carved heavy gold ring looks too heavy to wear.~
+~
+9 90 abcdfghijklmnops ag ab
+30 90 0 0 0 0
+1 5000 0
+E
+ornate gold ring~
+A very solid ring made from pure gold and forged by the gold dragon
+himself.  He has deeply engraved it with his own likeness.  Dragons
+tend to be a bit vain, and the gold dragon doesn't hesitate to remind
+you that he has a heart of purest gold.  He uses this ring as a signet
+ring, which means he presses it into sealing wax as his symbol.  He
+never learned to write his name without singeing the paper.
+~
+A
+12 75
+#6719
+Chastity braided narrow belt leather~
+Chastity's belt~
+A narrow belt braided from many different leathers stretches out on
+the ground.~
+~
+9 35 cdhkops 0 al
+15 35 0 0 0 0
+4 8000 1
+E
+belt~
+Formed of countless small threads of leather woven in an intricate
+design to be sturdy and flexible, the belt is an excellent example of
+elven craftsmanship.  The many different varieties of leather in the
+belt add color and strength to the belt and the wearer.
+~
+A
+1 2
+A
+3 2
+A
+12 25
+#6720
+cloak shadow shadows~
+a cloak of shadows~
+Something almost unseen shadows the ground.~
+~
+9 95 hn cfjl ac
+20 95 0 0 0 0
+2 20000 0
+E
+shadow shadows cloak~
+Like a sudden mist, the cloak of shadows conceals without having any
+substance of its own.  It is gray.  It is white.  It is black.  It is
+without color or being, but with its folds it covers and warms and
+protects.
+~
+A
+13 100
+A
+18 1
+A
+19 1
+#6721
+icicle~
+a long shimmering icicle~
+A long, sharply pointed icicle chills the air around it.~
+~
+5 90 0 fghjp ano
+90 4 3 11 0 0
+5 8000 0
+E
+icicle~
+Formed by an evil mage cold to the marrow of his bones, this icicle
+will never melt.  Its wicked point will slide easily into the heart of
+your enemy.
+~
+A
+18 6
+A
+19 18
+#6722
+belt purple~
+a deep purple belt~
+A l-o-n-g stripe of deepest purple ends in an elaborate silver buckle.~
+~
+9 87 0 j al
+1 87 0 0 0 0
+5 900 0
+E
+purple belt~
+The dark purple belt has been engraved with a pattern of dragons
+frolicking joyfully.  The clasp at one end is made of silver.  The belt
+is quite long.
+~
+A
+18 -1
+A
+19 3
+#6723
+leg plates legplates~
+some glowing leg plates~
+These leg plates seem to glow with a faint bluish sheen.~
+~
+9 85 0 jl af
+12 85 0 0 0 0
+15 8500 0
+E
+leg plates legplates~
+The legplates on closer inspection are made of tiny overlapping slices
+of pale blue aquamarine.  The crystal provides good protection against
+normal weaponry, and is so beautiful it enhances the wearer's sense of
+well-being.
+~
+A
+12 50
+#6724
+amethyst ankle bracelet chain~
+an amethyst ankle bracelet~
+Pale amethysts on a chain of gold glow quietly.~
+~
+9 88 0 j ag
+2 88 0 0 0 0
+1 3500 0
+E
+amethyst ankle bracelet~
+Clear violet amethysts have been grouped together on a golden chain.
+The amethysts vary greatly in size, shape and coloration.  At the
+center of the chain is an enormous heart-shaped amethyst in a deep
+purple color.
+~
+A
+18 1
+A
+19 5
+A
+24 -25
+#6725
+cloak shiny white bundle~
+a shiny white cloak~
+A large bundle of white shines up at you, screaming, "Pick me up!"~
+~
+9 86 0 ak ak
+15 86 0 0 0 0
+10 35000 0
+E
+shiny white cloak~
+The very long cloak reaches from your neck to your toes.  The heavy
+shiny white substance forming the cloak has a strange rock-like feel to
+it, yet the cloak floats gracefully with you as you walk or fight.
+~
+A
+12 25
+A
+13 25
+#6726
+armplates emerald scale green abandoned~
+a pair of emerald scale armplates~
+Something very large and very green has evidently been abandoned.~
+~
+9 80 abcefgijkmnos jl ai
+15 80 0 0 0 0
+20 8000 0
+E
+emerald scale armplates~
+Formed of thick, flat scales of solid deep green emerald, the armplates
+are heavy armor, solid protection against attack.  Definitely good gear
+for a fierce warrior!
+~
+A
+13 75
+A
+18 2
+A
+19 2
+#6727
+topaz bracelet circlet~
+a glowing topaz bracelet~
+A circlet of topaz awaits its rightful owner.~
+~
+9 85 0 a am
+15 85 0 0 0 0
+2 6800 0
+E
+topaz bracelet~
+A favorite item of the topaz dragon, I'm sure it will be missed by him.
+The bracelet is a solid circle of glowing yellow topaz.  When it
+catches the morning light the effect is nearly blinding.
+~
+A
+13 15
+A
+18 1
+A
+19 1
+#6728
+Crystal Trident~
+a Crystal Trident~
+A short three pronged spear made of solid crystal is ready to attack
+someone.~
+~
+5 85 0 befjl ano
+85 8 6 11 0 0
+15 9500 0
+E
+crystal trident~
+The crystal dragon formed this three-pronged spear from solid crystal.
+The sharp, thin prongs of the trident will slide easily between the
+ribs of its victim.  The crystal warms with use, enjoying its evil
+purpose.  Put away, it gradually grows cold and brittle.
+~
+A
+18 10
+A
+19 6
+#6729
+glowing golden vial~
+a glowing golden vial~
+The small golden vial has a strange glow about it.~
+~
+10 70 0 a a
+70 67 70 75 0 0
+2 5000 0
+E
+glowing golden vial~
+The vial feels warm to the touch.  When you enclose it in your palm, it
+feels right, somehow.  The glow warms you.  There are no markings on
+the vial to indicate what is inside, but you are reassured by the "HH"
+engraved on the bottom.
+~
+#6730
+ruby scale shield~
+a ruby scale~
+The shield left lying on the ground glows with a ruby fire.~
+~
+9 77 0 0 aj
+15 77 0 0 0 0
+15 3500 0
+E
+ruby shield scale~
+Formed from a large breast scale of the mighty ruby dragon, this shield
+will protect you as it protected the dragon.  The deep red glow it
+provides is almost warm enough to ward off a winter's chill.
+~
+A
+12 25
+#6731
+Bubbas tattered overalls~
+Bubba's slightly tattered overalls~
+Small tears and colorful patches cover the enormous overalls.~
+~
+15 27 0 0 ad
+50 0 -1 0 0 0
+5 500 0
+E
+bubba's overalls~
+Bubba's favorite overalls look somewhat the worse for wear.  Bubba is
+the largest of the baby dragons, and slightly embarassed about his
+size.  He is very active, and the dragon master gave him these overalls
+to provide some protection to his rapidly expanding dragon skin.  Bubba
+has found that the patches seem to give him an added bounce to his
+step.
+~
+A
+12 25
+A
+17 -13
+A
+18 1
+#6732
+gnomish walking tunic~
+a gnomish walking tunic~
+A long leather walking tunic has been removed from its owner.~
+~
+15 30 cdhkops 0 ad
+9 0 -1 0 0 0
+5 879 0
+E
+gnomish walking tunic~
+A tough leather tunic favored by gnomish scientists for its many
+pockets.  The gnomes stuff them with magnifying glasses, bits of string
+and other stuff loved only by the gnomish. 
+~
+A
+17 -7
+A
+3 1
+A
+4 1
+#6733
+studly vest~
+a very studly leather vest~
+Unthinkable! Someone has left a very studly vest just lying around!~
+~
+9 1 0 0 ad
+6 1 0 0 0 0
+3 785 0
+E
+studly vest~
+This is the vest every young (dragon) stud has to have!  Slip your arms
+into it and let it hang loose.  This is the vest of your dreams!
+~
+A
+5 1
+#6734
+jackrabbit shoes~
+a pair of jackrabbit shoes~
+A bit of grayish fur seems to be stuck to the shoes left here.~
+~
+9 22 0 0 ag
+7 22 0 0 0 0
+4 4000 0
+E
+jackrabbit shoes~
+The jackrabbit has an amazingly powerful jump, and he owes some of this
+kick to his specially made shoes.
+~
+A
+14 20
+#6735
+slippers sunshine~
+Sunshine's slippers~
+A pair of sunny yellow slippers with bright red smiley faces painted on
+them are tucked neatly in a corner.~
+~
+9 1 0 ak ag
+3 1 0 0 0 0
+2 150 0
+E
+sunshine slippers~
+Sunshine is a very cute baby dragon and she is even cuter with these
+little slippers on her baby dragon feet.  Swipe once stole them from
+her to see if it would make her cry, but the dragon master made him
+give them back.
+~
+A
+18 1
+#6736
+arm plates armplates mithril~
+a pair of mithril arm plates~
+The shiny white glint of elven-forged mithril catches your eye.~
+~
+9 28 0 0 ai
+7 28 0 0 0 0
+12 7340 0
+E
+arm plates armplates mithril~
+These beautifully made armplates were a present to an elf on the
+occasion of his heading out into the world on a Great Adventure.  They
+were forged by Horatio, master of arms in Tynstri, and carefully marked
+with protective runes by the elf's family.
+~
+A
+18 1
+#6737
+tattoo studly~
+a studly dragon tattoo~
+A gold and silver tattoo of a sexy mud dragon could be burned into your
+arm.~
+~
+9 15 0 0 ai
+5 15 0 0 0 0
+1 9400 0
+E
+tattoo~
+Tattoos are an "in" thing among this generation of dragon males.  This
+one shows a very beautiful gold and silver female dragon. When properly
+placed, when the young stud flexes the dragon appears to dance
+seductively.
+~
+A
+12 25
+#6738
+key palace gold~
+a key to the palace~
+A bit of gold glitters on the ground.~
+~
+18 1 0 hjkn a
+6730 0 0 0 0 80
+1 1000 0
+E
+palace key~
+A glittering gold key will allow you access to the palace.
+~
+#6739
+potion nasty~
+a nasty-looking potion~
+A really nasty looking potion in a grimy glass bottle sits undisturbed.~
+~
+10 1 0 bc a
+50 28 28 -1 0 0
+2 40000 0
+E
+potion~
+Why is it that the stuff that's good for you always has to taste so
+bad?  This is undoubtedly good for you, but feels really evil goin'
+down.  This is a kind of lumpy pinkish goo.
+~
+#6740
+cureall cure-all potion ~
+a cure-all potion~
+A cure-all potion struts around, proud as a peacock, but twice as
+cheap.~
+~
+10 1 0 0 a
+50 35 14 43 0 0
+2 5000 0
+E
+cure-all~
+This amazing little potion will cure your poison, cure your bellyache,
+your headache, your fallen arches!  It will make the blind see again
+and the cursed return to their normal state of grace.  And all for such
+a paltry sum.
+~
+#6741
+runed bracers~
+a pair of runed bracers~
+The heavily marked pair of bracers appears to hum to itself.~
+~
+9 24 0 0 am
+8 24 0 0 0 0
+2 2400 0
+E
+runed bracers~
+Made of a supple leather from some unknown beast, the bracers are
+covered with runes.  Some have been stamped into the leather with some
+metal tool, some burned in and some have been marked with ink.
+~
+#6742
+gentle death staff ~
+a gentle death~
+A highly polished black staff hovers gently above the ground.~
+~
+3 105 bcdfghjklnops b ao
+109 10 10 38 0 0
+10 10000 0
+E
+gentle death wand~
+A smoothly polished black staff of volcanic glass sparkles with energy.
+Obviously it WANTS to be used.
+~
+#6743
+sudden death wand~
+a wand of sudden death~
+A dark black wand attempts to fade into non-existence.~
+~
+3 100 bcdfghjklnops cdjop ao
+109 2 2 104 0 0
+10 10000 0
+E
+sudden death wand~
+Made of black coal ripped from the earth by dragon fire, the wand will
+twice perform it's evil task (murder most foul) before it may sink
+back into the ground.
+~
+#6744
+fatal charm rod~
+a fatal charm~
+A short rod of brilliant light glows in front of you, warming the
+cockles of your heart.~
+~
+3 80 bcdfghjklnops b ao
+109 5 5 7 0 0
+10 10000 0
+E
+charm~
+Something about this beautiful wand just makes you feel good.  You want
+to hold it close to you and never use it, lest it's warmth fade.
+~
+#6745
+black velvet slippers~
+black velvet slippers with long pointy toes~
+Two slippers made of thick black velvet are sitting neatly side by
+side.~
+~
+9 100 cdhklnops 0 ag
+10 100 0 0 0 0
+5 6000 0
+E
+velvet slippers~
+Henrietta's slippers are made of a thick, strong velvet with a long nap
+that needs to be brushed at least once a week.  The velvet is inlaid
+with thin gold stripes, and the insides of the slippers have been
+dusted with herbs (to combat foot odor).  In true wizard fashion, the
+toes of these slippers appear to go on forever in a long graceful curl.
+~
+#6746
+gnomish walking stick~
+a gnomish walking stick~
+A slightly crooked but sturdy stick lies in wait for you.~
+~
+5 33 0 0 ano
+33 5 5 6 0 0
+15 150 0
+E
+gnomish walking stick~
+A rather short but sturdy stick for the adventurous gnome.  The smart
+scientist pokes his stick into a strange hole first, rather than his
+finger!  That's why most gnomes still have all 10 fingers in spite of
+their many experiments and their adventurous research.
+~
+A
+18 3
+A
+19 3
+#6747
+bunch violets~
+a bunch of violets~
+A sweet nosegay of violets is held together with a pretty white ribbon.~
+~
+9 1 0 0 ao
+3 1 0 0 0 0
+2 500 0
+E
+bunch violets~
+A small bunch of violets has been gathered and tied together with a
+thin white satin ribbon.  The violets are a deep velvety purple color.
+~
+A
+17 3
+#6748
+bandana orange~
+a glowing orange bandana~
+The orange bandana is so bright it practically shrieks, "PICK ME UP!"~
+~
+9 5 0 0 aceilm
+3 5 0 0 0 0
+1 80 0
+E
+bandana orange~
+Young dragons are usually forced to wear soft pastel "baby" colors, and
+by the time they reach adolescence they usually hate those colors and
+long for the deep tones of adult dragons.  One group has chosen these
+fiery orange bandanas as their symbol.
+~
+#6749
+bandana red scrap scarlet~
+a bright red bandana~
+A small scrap of scarlet has been forgotten.~
+~
+9 5 0 0 aceilm
+3 5 0 0 0 0
+1 80 0
+E
+bandana red~
+There is a group of dragons who have banded together to stamp out
+elves.  The elves are a threat to the continuation of dragonkind, they
+reason, with their dragon-hunters and the bounty on dragonhides.  They
+call themselves DragonFire, and wear the red bandana.
+~
+#6750
+box elf crackers~
+a small box of elf crackers~
+Slightly sweet crackers shaped like elves fill a small brown box that
+looks like a little tree.~
+~
+19 1 0 0 ao
+12 0 0 0 0 0
+1 30 0
+E
+box elf crackers~
+Baby dragons love these little crackers.  Some are shaped like elf
+wizards, some like monks.  They love to bite the head off the master
+ranger, and chew each foot off of Henrietta Hennapy, one at a time 
+to make her last.
+~
+#6751
+food candy jelly beans candies~
+intensely flavored jelly beans~
+Some small egg-shaped brightly colored candies are scattered here.~
+~
+19 1 0 0 ao
+6 0 0 0 0 0
+1 50 0
+E
+jelly beans~
+The jellybeans look like tiny eggs from some exotic tropical bird.
+They seem to come in an infinite variety of colors and flavors, but all
+are extremely sweet.
+~
+#6752
+food cookies crumbs~
+cookie crumbs~
+Some yummy oatmeal cookies look a bit crumbly.~
+~
+19 1 0 0 ao
+12 0 0 0 0 0
+1 30 0
+E
+oatmeal cookies~
+Before being mashed up in someone's pocket, these used to be very tasty
+oatmeal cookies!
+~
+#6753
+leggings elvenkind~
+a pair of leggings of elvenkind~
+Someone has shed his leggings.~
+~
+9 90 abcdefghikmnops k af
+10 90 0 0 0 0
+15 5000 0
+E
+leggings of elvenkind~
+Thick leather leggings made for elven rangers must provide adequate
+protection against the fierce predators that lurk in the forest, yet
+not restrict a ranger's movements.  Rangers may need to climb trees,
+race through underbrush, or perform other feats requiring great
+agility.  These leggings were made with all of that in mind.
+~
+A
+12 30
+#6754
+armband silver snake ssnake sssilver~
+sapphire-eyed sssilver ssnake (hissing)~
+A sssapphire-eyed sssilver sssnake wantsss to wind itssself around 
+your arm.~
+~
+9 35 abcdfghjklnops hj ai
+10 35 0 0 0 0
+5 1300 0
+E
+silver snake armband ssnake silver~
+Out of the corner of your eye, you see a forked tongue slither 
+quickly out of the snake's mouth.  The sapphire eye glitters.  Of
+dwarven origin and craftmanship, you think, for the engraving and
+delicate workmanship of this silver snake is very lifelike.
+~
+A
+12 25
+A
+18 1
+#6755
+girth forests~
+the Girth of the Forests~
+The dragonhide girth has been fitted with a large brass buckle.~
+~
+9 90 abcdefghikmnops jk al
+12 90 0 0 0 0
+10 3000 0
+E
+girth~
+An elven tanner took the thick skin of an emerald dragon and cured
+it slowly, then shaped it into a wide girth and added a buckle
+made of brass.
+~
+A
+13 100
+#6756
+garlic herb potion bulb~
+a small white bulb of garlic~
+A small white bulb of garlic might keep the vampires away!~
+~
+10 0 0 0 a
+40 1 67 -1 0 0
+1 100 0
+E
+garlic bulb~
+This small, innocent looking herb conceals a very pungent scent when
+eaten.  Perhaps this is the source of its legendary powers of keeping
+villains at bay.
+~
+#6757
+bark willow wand~
+a strip of willow bark~
+Some bark has been torn off a willow tree.~
+~
+3 5 0 0 ao
+40 5 5 16 0 0
+4 5000 0
+E
+bark~
+It looks like bark torn loose from some tree.
+~
+#6758
+forget-me-not flower scroll recall~
+a forget-me-not flower~
+The soft blue petals of the forget-me-not are the color of the sky on a
+summer morning.~
+~
+2 0 0 0 ao
+40 42 16 16 0 0
+1 800 1
+E
+forget-me-not flower scroll~
+Jellie gives Flyn one of these flowers every morning so he'll always
+have an easy way home.
+~
+#6759
+wedding ring Flyns~
+Flyn's #Ygold #rw#ye#gd#cd#bi#mn#rg#N ring~
+A beautiful ring is anxious to climb back on Flyn's finger.~
+~
+9 90 0 0 ab
+30 90 0 0 0 0
+1 10000 1
+E
+wedding ring Flyns~
+A wide band of white gold has been thickly covered with tiny oval gems
+of every hue and color.  Each gleams, joyfully reflecting any ambient
+light. On the inside of the band, a faint engraving reads "I love you" and even more faintly, "Flyn & Jellie - Valentine's Day" and what looks like it must have been a year but is too worn to read. 
+~
+#6760
+wedding ring Jellies~
+Jellie's #wshining #ygold#N wedding ring~
+Flyn's gift to Jellie is hiding from her.~
+~
+9 90 0 0 ab
+30 90 0 0 0 0
+1 10000 1
+E
+wedding ring Jellies~
+A ring made of the purest magic wrapped in gold.
+A diamond sparkling so brightly that it seems to shine.
+It is said that the diamond was cut from the mighty elfking's
+own heart for his love on valentines day.
+~
+#6761
+dragoncrown crown gold~
+A small shining crown~
+A small, heavy crown glistens on the ground.~
+~
+9 110 0 fp ae
+2 110 0 0 0 0
+1 1 1
+E
+crown~
+A crown made only for dragon mobs.
+~
+A
+18 15
+A
+24 50
+#6762
+hunting bow twohand ranger weapon~
+the Great Hunting Bow~
+Only a ranger who is a master of his craft and pure of heart may wield
+this mighty weapon.~
+~
+5 90 abcdefghijkmnops ijk anq
+90 9 7 12 0 0
+10 10000 0
+E
+hunting bow~
+The wood for the Master Ranger's Great Hunting Bow was given to his
+ancestor by a grateful forest at the time of the first dragon invasion
+countless millenia ago. Modern rangers added mithril-tipped arrows
+dipped in a poison know only to members of their craft.
+~
+A
+18 17
+A
+19 26
+A
+24 10
+#6763
+potion nasty~
+a nasty looking potion~
+A really nasty looking potion in a grimy glass bottle sits undisturbed.~
+~
+10 60 0 bc a
+50 28 -1 -1 0 0
+2 50000 0
+E
+potion nasty~
+Why is it that the stuff that's good for you always has to taste so
+bad?  This is undoubtedly good for you, but feels really evil goin'
+down.  This is a kind of lumpy pinkish goo.
+~
+#99999
+$~

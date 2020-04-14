@@ -1,0 +1,16 @@
+>rand_prog 10~
+do(mob, "grumble");
+do(mob, "say Litterbugs");
+if !number(0,5) {
+  do(mob, "say All I do each day is cleanup other people's messes");
+  if !number(0,5)
+    do(mob, "say I do not get paid enough");
+  else
+    if !number(0,4) {
+      do(mob, "say Day in.  Day out.  This is all I do 24 hours a day");
+      if !number(0,9)
+	do(mob, "yell I want a vacation!");
+    } 
+}
+~
+|

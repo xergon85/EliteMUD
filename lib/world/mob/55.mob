@@ -1,0 +1,781 @@
+#5500
+drow sentry~
+a drow sentry~
+A drow sentry is standing here, ready to slay any intruders.
+~
+The dark elf has shocking white hair and pitch black skin.  His eyes glow
+bright red, and are very fierce.
+~
+1 4 bf k -1000 A 15 1
+#5501
+spider small~
+a small spider~
+A small spider scampers around here.
+~
+This small spider is probably very poisonous.
+~
+3 0 g 0 0 A 15 0
+#5502
+drider~
+a drider~
+A bloated, evil looking drider is looking for food.
+~
+The drider is a drow from the waist up, but the rest is a massive, horrid
+spider.
+~
+1 4 cf fksy -1000 A 26 0
+#5503
+spider widow large~
+a large black widow~
+A large black widow is crawling on the wall.
+~
+The black widow is easily identified by the red hourglass on its back.
+~
+3 0 g 0 0 A 19 0
+#5504
+captive woman~
+a captive woman~
+A woman stands here, sobbing.
+~
+This woman is weak and feeble from her stay in the pen.  You think you can
+make out what appears to be an Elite clan symbol on her clothes.
+~
+1 0 bg 0 300 A 20 2
+#5505
+captive elf girl~
+a captive elven girl~
+A young elven girl stands here, looking for a way to escape.
+~
+This girl is bold and defiant.  You think you can see the Elysium symbol
+embroidered on her dress.
+~
+1 0 bg 0 300 A 20 2
+#5507
+squire human prisoner~
+a squire prisoner~
+A squire stands here, looking for a way to escape.
+~
+This young man is hurt from an escape attempt.  You think you can make out
+a blazing phoenix on his tabard.
+~
+1 0 bg 0 500 A 20 1
+#5508
+ratman prisoner~
+a ratman prisoner~
+A ratman prisoner is trying to rebel against his drow masters.
+~
+This young ratman, proudly wearing a Guerilla headband, is trying to break
+his shackles.
+~
+1 0 bg 0 0 A 20 1
+#5509
+troll prisoner~
+a troll prisoner~
+A troll prisoner is nursing his burn wounds.
+~
+This troll was captured in a raid into Midgaard.  You think he is wearing
+the colors of the Malina clan.
+~
+1 0 bg 0 0 A 20 1
+#5510
+vampire prisoner~
+a vampire prisoner~
+A vampire prisoner has been exposed to sunlight.
+~
+This vampire is wearing a noble's seal of the Night Tribe.  He looks quite
+hurt from his burns.
+~
+1 0 bg 0 300 A 18 1
+#5511
+dwarf shackled warrior~
+a shackled dwarven warrior~
+A dwarven warrior pulls mightily against his chains.
+~
+This dwarf has been beaten across the head.  You can see the torn tabard
+of the Divine Powers clan.
+~
+1 4 bg 0 0 A 20 1
+#5512
+dwarf chained warrior prisoner~
+a chained dwarven prisoner~
+A dwarven prisoner seems half-crazed.
+~
+This dwarf has scars all over his back.  You can see the feared symbol of
+the Army of Darkness tattooed on his back, with the word "Geefunk" written
+beneath it.
+~
+1 4 bg 0 0 A 20 1
+#5513
+fairy prisoner~
+a tortured fairy prisoner~
+A fairy prisoner is standing here, crying.
+~
+This fairy is bloodied and hurt.  She is wearing a dress typically worn by
+Artemisians.  Her wings have been plucked.
+~
+1 0 bg 0 0 A 15 2
+#5514
+shogun samurai prisoner captured~
+a captured samurai~
+A samurai prisoner is chained to the wall.
+~
+The samurai is saddened and wants to regain his honor.  He is wearing the
+distinctive symbol of the Shogun clan.
+~
+1 0 bg 0 0 A 18 1
+#5515
+dwarf prisoner insane moc derro~
+an insane dwarven prisoner~
+An insane derro prisoner is here, cackling madly.
+~
+This dwarf has gone quite insane.  He has the words "Minions of Chaos"
+written across his chest in blood.  His own blood, probably.
+~
+1 0 bg 0 0 A 19 1
+#5516
+woman elf prisoner~
+a prisoner elven maiden~
+An elven prisoner is here, sighing about her fate.
+~
+This woman has the symbol of the sun on her shirt, quite stained from her
+tribulations.
+~
+1 0 bg 0 0 A 15 2
+#5517
+half elf prisoner~
+a half-elf prisoner~
+A half-elven prisoner scowls, wanting to break free.
+~
+This half elf has the triangular symbol of the TRI clan on his shirt.  It
+is covered in blood, probably his own.
+~
+1 0 bg 0 0 A 18 1
+#5518
+vampire shadowblade sb prisoner captured~
+a captured vampire~
+A captured vampire is chained to the wall.
+~
+This vampire wishes to break free.  She is always looking around for a way
+to escape her chains.  She has the symbol of the Shadowblades tattooed on
+her neck.
+~
+1 0 bg 0 -350 A 19 2
+#5519
+lizardman prisoner~
+a lizardman prisoner~
+A lizardman prisoner is here, hitting the wall in frustration.
+~
+The lizardman has several scales torn from his scalp, and is bleeding
+rather badly.  He bears the symbol of the Storm Dragons on his sash.
+~
+1 0 bg 0 0 A 18 1
+#5520
+prisoner dwarf~
+a cackling dwarven prisoner~
+A dwarf is chained here, grinning madly.
+~
+This dwarf seems quite insane.  He is standing on some bones of some
+creature he smashed.  He's also naked, and you can see the letters "TKK"
+tattooed on his arse.
+~
+1 0 bg 0 -1000 A 22 1
+#5521
+werewolf pack prisoner~
+a werewolf prisoner~
+A werewolf is here, raging against his shackles.
+~
+This werewolf seems very old and grey.  He is trying to break his shackles
+and be free so that he can run with his pack once again.
+~
+1 0 bg 0 0 A 22 1
+#5522
+drow noble~
+a drow noble~
+A drow noble is walking around.
+~
+The drow has pitch black skin and pure white hair, and a light colored
+goatee.  He wears all black, and looks very evil.
+~
+1 4 cfgj ky -1000 S
+80 -16 -28 5d20+1550
+400 500 70 3d15+25
+345 0 15 0d0+0 
+51 0 15 2d0+95 -1
+345 100 -1
+-1
+1500 400000 8 8 1
+A
+%%20 emote looks right at you.~
+#5523
+drow master swordmaster~
+a drow swordmaster~
+A drow swordmaster is here, instructing the youth.
+~
+The drow swordmaster does not look it, but he is very old and wise.
+~
+1 4 bcfgj ky -1000 S
+80 -30 -28 5d20+1750
+400 500 70 4d10+40
+345 0 15 0d0+0   
+51 0 15 2d0+95 -1
+345 100 -1
+-1
+1000 500000 8 8 1
+A
+%%25 emote gives a few tips on how to fight.~
+#5524
+drow student~
+a drow student~
+A drow student is here, sparring.
+~
+He must be very swift and deadly, or he will just end up a corpse.
+~
+1 4 bcfgj ky -1000 A 50 1
+A
+%1 test;%25 emote lunges in a practice swing.~
+#5525
+slartiin wizard old man~
+Slartiin~
+Slartiin the Stupendous, the great wizard, is exploring.
+~
+Slartiin is very old and wise.  His beard touches the ground.
+~
+1 4 bcgm k 0 S
+40 -4 -2 5d20+400
+400 500 5 3d6+15
+26 0 10 1d0+75
+67 0 25 2d0+95 
+95 0 25 1d0+95
+80 0 25 2d0+95
+4 0 10 1d0+95 -1
+-1
+-1
+1500 200000 8 8 1
+#5526
+nude drow woman~
+a mostly nude drow woman~
+A mostly nude drow woman is standing here, shouting at you.
+~
+This drow woman is incredibly beautiful, but you don't have the time to
+admire her assets.  She seems quite angry with you.
+~
+1 4 bcfg ky -1000 S
+65 -10 -17 5d20+800
+400 500 85 3d8+10
+51 0 15 2d0+95 -1
+-1
+-1
+1000 250000 8 8 2
+#5527
+bathing drow woman~
+a bathing drow woman~
+A drow woman is here, taking a relaxing bath.
+~
+This woman is incredibly beautiful.  You guess correctly that the dark
+elves kill the women who do not look beautiful.
+~
+1 4 bcfgj ky -1000 S
+60 -13 -13 5d20+900
+400 500 85 3d8+10
+51 0 15 2d0+95 -1
+-1
+-1
+1000 200000 8 8 2
+#5528
+drow torturer~
+a drow torturer~
+A drow is here, delighting in torture.
+~
+This dark elf is particularly sadistic.  He is in charge of torturing
+anyone the Matron Mother does not like.
+~
+1 4 bfgj ky -1000 S
+60 -25 -25 5d20+1250
+400 500 85 3d12+40
+51 0 15 2d0+95 -1
+-1
+-1
+1000 490000 8 8 1
+#5529
+drow servant~
+a drow servant~
+A drow is serving his superiors.
+~
+This drow wears very little, and is careful not to upset his superiors,
+lest he become dinner.
+~
+1 4 cfgj ky -1000 A 40 1
+#5530
+drow guard~
+a drow guard~
+A drow guard is standing here, ready to slay any intruders.
+~
+The dark elf has shocking white hair and pitch black skin.  His eyes glow
+bright red, and are very fierce.
+~
+1 4 bf k -1000 A 22 1
+#5531
+drow weaponsmith~
+a drow weaponsmith~
+A drow weaponsmith is here, labouring on a sword.
+~
+This drow is very old and venerable.  Drow look very young until they are
+about 600 or 700 years old, so he must be incredibly old.  His hair is
+almost yellow, and his skin is starting to grey, but he still looks very
+dangerous.
+~
+1 4 bgl ky -1000 S
+109 -50 -60 5d20+7500
+400 500 85 3d20+50
+51 0 15 2d0+95 -1
+322 100 -1
+-1
+1000 900000 8 8 1
+#5532
+drow armourer~
+a drow armourer~
+A drow armourer is here, working on a mithril shirt.
+~
+The drow armourer seems to be very old, and is probably a deadly opponent.
+He knows how to make armour so he is not attacked by his superiors.  His
+inferiors just die.
+~
+1 4 bgl ky -1000 S
+109 -50 -60 5d20+7500
+400 500 85 3d20+50
+51 0 15 2d0+95 -1
+322 100 -1
+-1
+1000 900000 8 8 1
+#5533
+drow merchant~
+a drow merchant~
+A drow merchant is here, offering to sell his goods.
+~
+This drow seems to be quite old and wise.  He wears a seal that is the
+symbol of an ancient drow house, but only Azzinoden lives in this city.
+He must be either very talented or very powerful to be left alive.  He is
+the merchant for the city.
+~
+1 4 bgl ky -1000 S
+109 -50 -60 5d20+7500
+400 500 85 3d20+50
+51 0 15 2d0+95 -1
+322 100 -1
+-1
+1000 900000 8 8 1
+#5534
+drow retelzin wizard magician~
+Retelzin~
+Retelzin Azzinoden, the drow magician, works in his laboratory.
+~
+Retelzin is a much respected magician amongst the drow.  Many people come
+to buy his rare and powerful magic.
+~
+1 4 bgl ky -1000 S
+109 -50 -100 5d20+29000
+400 500 0 3d20+50
+51 0 15 2d0+95 
+26 0 40 1d0+95
+107 0 40 1d0+95
+42 0 5 1d0+95 -1
+-1
+-1
+1000 900000 8 8 1
+R
+-1 -1 -1 -1 80
+#5535
+drow commoner~
+a drow commoner~
+A drow commoner is here, walking around the streets.
+~
+This drow appears very young and nimble.  He is probably a deadly
+opponent.
+~
+1 4 fgj k -1000 A 45 1
+#5536
+drow prisoner~
+a drow prisoner~
+A drow prisoner is here, wanting to escape torture.
+~
+This drow has burn marks all over his skin and back.  He probably upset
+Kazlyn.
+~
+1 4 bfgj k -1000 A 40 1
+#5537
+drow masseuse~
+a drow masseuse~
+A drow is here, giving massages to the women.
+~
+This is one of the many unimportant dark elves.  He has been forced to
+give massages to the other drow, but it's a cushy task, so who cares?
+~
+1 4 bg k -1000 A 40 1
+#5538
+drow woman~
+a drow woman~
+A drow woman is naked from the waist up, and is getting a massage.
+~
+This dark elf is very lovely.  She is quite beautiful, with very long
+white flowing hair streaming across her shoulders.  She seems to enjoy the
+massages that are her right.
+~
+1 4 bfgj k -1000 A 45 2
+#5539
+akkadian paladin~
+Akkadian~
+Akkadian, a young paladin, explores the tunnels.
+~
+Akkadian is a young knight that has been exploring the tunnels with his
+friends.  He wears the symbol of the Dimaron Lords.  His brown hair is cut
+short, but he is very well groomed.
+~
+1 4 gbm hk 1000 A 45 1
+#5540
+fredrick friar~
+Friar Fredrick~
+Friar Fredrick is here, bringing aid to the prisoners.
+~
+The friar is a priest of Chronias, the god of all that is good in the
+world.  He is rather large himself, and probably drinks too much of his
+sacremental wines.  His beard is very, very, very fuzzy.
+~
+1 4 bcgim k 300 S
+40 -8 -2 5d20+400
+400 500 60 3d6+15 
+50 0 40 2d0+95 -1
+-1
+-1
+1500 200000 8 8 1
+A
+%1 test;%20 emote waves his mace.;%15 burp;%20 say Repent!~
+#5541
+pem~
+Pem~
+Pem stands here, ready with his spear.
+~
+Pem is a healthy young man.  He adventures with Friar Fredrick and wants
+to buy a farm one day.
+~
+1 4 bgm k 300 A 40 1
+#5542
+spider massive poison~
+a massive poisonous spider~
+A massive poisonous spider is eating a dead drow.
+~
+This spider is just absolutely huge.
+~
+12 4 bfg k 0 A 70 0
+#5543
+noble woman drow~
+a drow noblewoman~
+A drow noblewoman looks at you haughtily.
+~
+This dark elf is quite attractive and domineering.  She has her white hair
+braided so that she can fight with it.  Her skin is pitch black, and is
+flawless.
+~
+1 4 fgj ky -1000 S
+70 -23 -30 5d20+1350
+400 500 70 3d10+25
+345 0 15 0d0+0   
+51 0 15 2d0+95 -1
+345 100 -1
+-1
+1500 450000 8 8 2
+#5544
+drow woman~
+a drow woman~
+A drow woman is here, walking around the streets.
+~
+This drow appears very young and nimble.  She is probably a deadly
+opponent.
+~
+1 4 fgj k -1000 A 45 2
+#5545
+kazlyn drow matron mother~
+Kazlyn~
+Kazlyn, the Matron Mother, looks around arrogantly.
+~
+Kazlyn is extremely powerful.  She is quite deadly, and knows almost
+everything there is to know about magic.  In her life she has attacked
+many wizards, and killed them all, just to prove that she is the best.
+Her billowy white hair catches a breeze lightly, and her fierce green eyes
+miss nothing.
+~
+1 4 bfg dhkyz -1000 S
+109 -40 -45 5d20+5350  
+400 500 5 3d20+45
+51 0 5 2d0+95
+26 0 20 0d0+95
+76 0 20 0d0+95
+100 0 15 0d0+95
+107 0 20 0d0+95
+90 0 15 0d0+95 -1
+361 100 -1
+-1
+15000 4500000 8 8 2
+#5546
+tashken drow~
+Tashken~
+Lord Tashken stands here, eyeing you calmly.
+~
+Tashken is an old and noble drow.  He is a quick fighter, and has only
+ever been defeated once, by his wayward son, Corbaine.  He serves the
+Matron Mother and is her current favorite.  He keeps his hair trimmed
+short, and his goatee groomed.
+~
+1 4 bfgjl ky -1000 S 
+109 -60 -60 5d20+7500
+400 500 85 4d20+60
+51 0 15 2d0+95 -1
+315 100 322 100 372 100 -1
+-1
+1000 2000000 8 8 1
+A
+%%90 circle~
+#5547
+drow assassin~
+a drow assassin~
+A drow assassin leaps to kill you!
+~
+This dark elf is an extremely deadly enemy.  He is trained to kill.
+~
+1 4 bfgj ky -1000 S
+100 -50 -30 5d20+1000
+400 500 86 5d10+35
+51 0 15 2d0+90 -1
+315 100 371 100 322 100 372 100 -1
+-1
+1500 600000 8 8 1
+#5548
+arziana drow~
+Arziana~
+Arziana is standing here, smiling slyly.
+~
+Arziana is the daughter of Kazlyn, and as such, is the first in line to
+become the Matron Mother.  She is, herself, very attractive, and quite
+deadly when she needs to be.
+~
+1 4 bfgjl ky -1000 S
+100 -40 -50 5d20+4500
+400 500 65 3d10+40
+51 0 15 2d0+95 
+30 0 20 0d0+95 -1
+-1
+-1
+1000 1500000 8 8 2
+#5549
+mercurien drow~
+Mercurien~
+Mercurien would like to know why you are in her chambers.
+~
+Mercurien is Tashken's first wife, and the sister to Kazlyn.  She is
+rather distressed lately, and her appearance shows this.  Her skin has
+taken on a grey hue.
+~
+1 4 bfgjl ky -1000 S
+99 -40 -50 5d20+4500
+400 500 85 3d15+30
+51 0 15 2d0+95 -1
+-1
+-1
+1000 1500000 8 8 2
+#5550
+denzar drow~
+Denzar~
+A drow is here, nursing his wounds.
+~
+This dark elf is young and haughty.  His skin is rock black, and his hair
+is snow white.  He keeps his hair cut short, and has grown a soft, white
+goatee.  His eyes are a fierce green.  For some reason, he has fled into
+the Gauntlet.
+~
+1 4 bfgjl ky -1000 S
+80 -50 -40 5d20+3500
+400 500 85 4d14+20
+51 0 15 2d0+95 -1
+315 100 372 100 -1
+-1
+1000 1600000 8 8 1
+#5551
+studying drow~
+a studying drow~
+A drow is here, studying.
+~
+This dark elf is busy studying.  You don't think he even sees you.
+~
+1 4 bfj k -1000 A 65 1
+#5552
+large drider~
+a large drider~
+A very large drider is here, looking for someone to slaughter.
+~
+This is quite possibly the largest drider you have ever seen.  It is very
+large, and looks very hungry.
+~
+1 4 bf kzD -1000 A 109 0
+#5553
+piranha snake huge~
+a huge piranha snake~
+An absolutely huge piranha snake swims around, looking for food.
+~
+This animal is long, white, and has lots of teeth, but if you grab it
+behind the ears, it's harmless!
+~
+8 0 bcfg ky -1000 S
+109 -80 -20 5d20+13500
+400 408 100 6d10+10 -1
+-1
+-1
+1000 1500000 8 8 0
+#5554
+umber hulk~
+a huge umber hulk~
+A huge umber hulk rips the cliff apart.
+~
+The umber hulk has 4 eyes, and huge mandibles.  It can tear through sheer
+rock without a scratch on its hard plated skin.
+~
+1 4 bf kz -300 A 109 0
+#5555
+drow hunter~
+a drow hunter~
+A drow hunter is chasing down his foe.
+~
+Drow hunters are very deadly opponents, and are dedicated to the complete
+annihilation of their enemies.  This one is employed by Kazlyn herself.
+~
+1 4 fg ky -1000 S
+90 -50 -35 5d20+2350
+400 500 85 3d10+25
+51 0 15 2d0+95 -1
+-1
+-1
+1500 1000000 8 8 1  
+#5556
+gargoyle~
+a gargoyle~
+A gargoyle swoops to attack!
+~
+This is a very large and dangerous looking gargoyle.  He is made of almost
+solid rock, and looks very heavy.  His claws are extraordinairily sharp.
+~
+8 0 bfg ky -1000 S
+109 -45 -70 5d20+1500
+400 407 100 6d9+30 -1
+-1
+-1
+1000 1500000 8 8 0
+#5557
+cave troll green~
+a putrid green cave troll~
+A putrid green cave troll hisses madly.
+~
+You've seen the trolls in the Troll caves, but this guy looks REAL mean.
+He is huge, spindly and green, and oozes puss.  His muscles ripple when he
+burps.
+~
+8 0 bfg kyD -1000 S
+109 -30 -40 5d20+3500
+400 407 100 6d9+30 -1
+-1
+-1
+1000 1300000 8 8 0
+#5558
+drow elite guard~
+a drow elite guard~
+A drow elite guard refuses to let you pass.
+~
+This dark elf is in the service of Kazlyn.  It is his job to stop people
+from entering the palace without permission.
+~
+1 4 bfgj ky -1000 S
+85 -30 -25 5d20+1350
+400 500 70 3d10+25
+345 0 15 0d0+0   
+51 0 15 2d0+95 -1
+-1
+-1
+1500 500000 8 8 1
+#5559
+balazar drow~
+Balazar~
+Lord Balazar stands here, eyeing you skeptically.
+~
+Balazar is the son of Kazlyn, and is very important in the structure of
+House Azzinoden.  He keeps his white hair groomed and long, and is clean
+shaven.  His eyes are a horrid orange color.
+~
+1 4 bfgjl ky -1000 S
+109 -40 -50 5d20+4500
+400 500 85 3d14+50
+51 0 15 2d0+95 -1   
+315 100 372 100 -1
+-1
+1000 1500000 8 8 1 
+#5560
+drow noble sparring~
+a sparring drow~
+A drow is here, sparring with the air.
+~
+This noble is fighting the air, practicing his skills.
+~
+1 4 bfgj ky -1000 S
+80 -23 -25 5d20+1350
+400 500 85 3d13+20
+51 0 15 2d0+95 -1
+-1
+-1
+1500 550000 8 8 1  
+#5561
+duck malard montgomery~
+Montgomery the Malard~
+A duck is here, quacking happily.
+~
+This duck is very smart and talented.
+~
+1 4 bgm k 0 S
+20 10 10 5d10+500
+400 500 0 1d4+0
+42 0 100 0d0+95 -1
+-1
+-1
+0 55000 8 8 1
+#5562
+michael garn megaron~
+Michael~
+Michael Garn is standing here, grinning demomically.
+~
+Michael is a vile and wretched man.  He has many powers that come from
+supernatural sources, and is an extremly deadly foe.  He is the sworn
+enemy of Denzar, and wishes to kill that dark elf.
+~
+1 4 g hkstyD -1000 S
+109 -50 -60 5d20+7500
+400 500 70 3d20+50
+4 0 15 1d0+95 
+26 0 15 1d0+95 -1
+315 100 322 100 372 100 -1
+-1
+1000 2000000 8 8 1 
+#5563
+bandar nazet half drow~
+Bandar Nazet~
+Bandar Nazet, the deadly half-drow, keeps his bow aimed at you.
+~
+Bandar is one of the most feared heroes of the drow, period.  He died
+many, many years ago, in a famous struggle against the elven priest-kings, 
+but dark and dangerous magic has resurrected him.  He was most well know
+for his archery, and is reputed to have never, ever missed a shot.  He
+keeps his white hair trimmed short, and wears a thin mustache and goatee.
+The brand of House Nazet is clear on his exposed shoulder.
+~
+1 4 bg hksty -1000 S
+109 -85 -45 5d20+4000
+400 500 100 3d20+50 -1
+322 100 -1
+-1
+1000 2000000 8 8 1
+$~
+

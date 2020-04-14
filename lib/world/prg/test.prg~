@@ -1,0 +1,33 @@
+>speech_prog TEST~
+int dual_say(char_data mob1, char_data mob2)
+{
+	do(mob1, "' FUNKAR");
+	do(mob2, "' FUNKAR");
+}
+
+dual_say(ch, mob);
+~
+>give_prog 3021~
+do(mob, "say You gave me " + full_name(obj));
+~
+>speech_prog "Krama mig #<ae>lskling!"~
+// This is a comment
+do(mob, "emote kramar dig.");
+~
+>speech_prog ERROR1~
+// This is a comment
+
+do(mob, "say This doesn't spam syslog anymore.#N");
+
+do(mob,"tongue " + name(ch));
+~
+>greet_prog 100~
+
+if(isimmort(ch))
+{
+do(mob, "say I don't like immortals. They have no corpses.#N");
+
+do(mob, "tongue " + name(ch));
+}
+~
+|

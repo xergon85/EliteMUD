@@ -1,0 +1,1744 @@
+#8500
+Start of the sandy track~
+   You find yourself on a sandy track that leads east to what seems to be a 
+small town. You hear little noise except for some soft melodic music and you
+feel quite at peace in this tranquil place.  A large temple lies just
+south of here.
+~
+85 cl 2
+D0
+~
+~
+0 -1 8587
+D1
+The trail continues in that direction.
+~
+~
+0 -1 8501
+D2
+~
+~
+0 -1 13003
+D3
+~
+~
+0 -1 25033
+S
+#8501
+The sandy track~
+   The track becomes harder here and the sand thins out. The walking is
+easier on this harder ground and you start to look forward to what may
+be ahead. The sound of wildlife and the song of the birds adds to your
+mood.
+~
+85 l 2
+D1
+The trail continues.
+~
+~
+0 0 8502
+D3
+You see the start of the sandy track.
+~
+~
+0 0 8500
+S
+#8502
+The stone path~
+   Now the track is paved and is shaded by large ornamental hedges on
+either side. The hedges are beautifully trimmed and it is evident that a
+lot of care and attention has gone into the landscaping. You realize that
+the people inhabiting the town must be very meticulous and proud.
+~
+85 0 1
+D1
+The entrance to the town.
+~
+~
+0 0 8503
+D3
+The sandy track.
+~
+~
+0 0 8501
+S
+#8503
+Entrance to Old Japan~
+   You find yourself in a large open area. All around you there are neatly
+manicured plants and flowers. The smell is enchanting and your spirits
+are lifted. You decide that it was a good idea that you decided to venture
+so far from home after all. As you take in the astounding beauty a large
+banner that seems to be made from paper rustles in the wind and raises your
+interest.
+~
+85 0 1
+D0
+~
+~
+0 0 8511
+D1
+~
+~
+0 0 8512
+D2
+~
+~
+0 0 8504
+D3
+The stone path.
+~
+~
+0 0 8502
+E
+banner~
+The banner reads:
+
+         Welcome to the palace of the Emperor Nazaki.
+         All are welcome to explore the grounds and
+         to pay homage to the great Emperor himself,
+         who extends his hospitality to you. Please
+         visit the monks in the shrine and they will
+         help you find enlightenment and peace within
+         yourself.
+~
+S
+#8504
+South-west corner of the square~
+   You are standing along the border of the square. The exquisitely tended
+hedges reach up far above your head and you wonder how they are kept in
+such a good condition, surely they are too high to be reached. The square
+continues to the east and to the north you can see the entrance to the town.
+~
+85 0 1
+D0
+The entrance to the town.
+~
+~
+0 0 8503
+D1
+Southern side of the square.
+~
+~
+0 0 8505
+S
+#8505
+Southern side of the square~
+   You are at the southern-most side of the town square. From here you can
+see the whole square and the view is magnificent. To the west and east are
+the corners of the square and in the distance to the north you spy a small
+trail leading away from the square. One thing strikes you as a little odd,
+the hedge here seems slightly discolored and a little more tatty than the
+other parts are. Also to the north it looks as though something has been
+demolished.
+~
+85 0 1
+D0
+Center of the square.
+~
+~
+0 0 8512
+D1
+South-east corner of the square.
+~
+~
+0 0 8507
+D2
+You can just see through the discolored hedge.
+~
+hedge discolored~
+1 -1 8506
+D3
+~
+~
+0 -1 8504
+E
+hedge discolored~
+You try to push the hedge and you find that it gives a little.
+~
+S
+#8506
+The small, dusty trail~
+   You find yourself on a small trail leading southwards. The air is cooler
+here and the light seems fainter as if dusk were setting in. You put this
+down to the fact that the large hedges are blocking most of the light but
+you can't help but feel a little disconcerted. All around you insects are
+buzzing and humming and this eerie melody only darkens your mood. To the
+south the trail continues, but for some reason you can't really see where
+it is going.
+~
+85 4 2
+D0
+The discolored hedge is to the north
+~
+hedge discolored~
+1 -1 8505
+D2
+The trail darkens
+~
+~
+0 0 8521
+S
+#8507
+South-east corner of the square~
+   The whole of the square looks beautiful. All the flowers are in full
+bloom and bees hum quietly around looking for pollen. To the north you can
+see the bordering hedges and to the west you can nearly make out the trail
+which you followed here.
+~
+85 0 1
+D0
+~
+~
+0 0 8508
+D3
+~
+~
+0 0 8505
+S
+#8508
+Eastern side of the square~
+   You are standing at the side of the square directly opposite from where
+you entered. You can see the center of the square to the west and to the
+east there is a wide bordered path which leads up to a large building. The
+building appears to be a kind of temple, most probably the residence of the
+Emperor, you think to yourself.
+~
+85 0 1
+D0
+The north-eastern corner.
+~
+~
+0 0 8509
+D1
+A white path
+~
+~
+0 0 8513
+D2
+The south-eastern corner.
+~
+~
+0 0 8507
+D3
+The center of the square.
+~
+~
+0 0 8512
+S
+#8509
+North-east corner of the square~
+   You are standing at the corner of the great square still finding it hard
+to believe that such a work of beauty could be accomplished. You ponder over
+who actually looks after the garden, and decide that whoever it is must be
+endowed with strange and wonderful talents.
+~
+85 0 1
+D2
+~
+~
+0 0 8508
+D3
+~
+~
+0 0 8510
+S
+#8510
+Northern Side of the square~
+   You can see the whole square from here and it looks quite beautiful. To
+the south you notice that the hedge directly opposite is slightly different
+in color to the rest of that side, but you decide it must just be the way
+the light reflects off it. To the north there is a gap in the hedge but it
+has been filled by a large pile of rubble, which presumably was at one time
+an arch of some description. Anyway, it does not look as though you will be
+able to climb it.
+~
+85 0 1
+D1
+~
+~
+0 0 8509
+D2
+~
+~
+0 0 8512
+D3
+~
+~
+0 0 8511
+E
+rubble stone stones~
+   The rubble looks quite fresh, as though whatever it was has only been 
+   destroyed quite recently.
+~
+S
+#8511
+North-west corner of the square~
+   You are in the top corner of the square. It seems to be a little higher
+here than at other places and you are able to just peek over the southern
+hedge. What you see is quite an awesome sight, a volcanic mountain shrouded
+in mist climbs up into the heavens. You are not able to make out much detail
+due to the thick mountain mists, but it quite a wondrous sight. From here
+the square extends to the east and south.
+~
+85 0 1
+D1
+You see the square
+~
+~
+0 0 8510
+D2
+~
+~
+0 0 8503
+S
+#8512
+The center of the square~
+   Here at the center of the square you can take in all the beauty of your
+surroundings. The mystical music you heard earlier can be heard more strongly
+now, but its source is indiscernible. From here you can see the white path
+leading east from the square and the temple behind that. To the west you
+recognize the path you entered on, and to the south you notice that the hedge
+is a slightly different color to the rest of the border.
+~
+85 0 1
+D0
+~
+~
+0 0 8510
+D1
+~
+~
+0 0 8508
+D2
+~
+~
+0 0 8505
+D3
+~
+~
+0 0 8503
+S
+#8513
+The rice path~
+   You are standing on a white path that seems to be made from rice. It makes
+a strange crunching noise as you walk on it and you wonder what the purpose
+of it is. To the east you see that the path continues on to a large temple.
+~
+85 0 1
+D1
+~
+~
+0 -1 8514
+D3
+~
+~
+0 -1 8508
+S
+#8514
+On the rice path~
+   You follow the white path quite enjoying the funny sound you are making.
+To the north you see there is a small enclave and also an identical looking
+one to the south. It appears that they house flowers and some ornamental
+statues.
+~
+85 0 1
+D0
+~
+~
+0 -1 8515
+D1
+~
+~
+0 -1 8517
+D2
+~
+~
+0 -1 8516
+D3
+~
+~
+0 -1 8513
+S
+#8515
+A small enclave~
+   You are stood in a small enclave that appears to be a flower garden of
+some kind. The flowers are beautifully arranged and the smell is intoxicating.
+To the south, past the path, you see a similar enclave.
+~
+85 0 1
+D2
+~
+~
+0 -1 8514
+S
+#8516
+A small enclave~
+   You are standing in a small enclave that appears to be a flower garden of
+some kind. The flowers are beautifully arranged and the smell is intoxicating.
+To the north you see a similar enclave past the white path.
+~
+85 0 1
+D0
+~
+~
+0 -1 8514
+S
+#8517
+In front of the temple~
+   You are stood in front of a grand temple. The architecture is stunning
+and you are truly awed by the sight. It is quite intimidating. The steep 
+roof reaches down to nearly touch the floor and the light reflects off the 
+tiles hurting your eyes. To the east there are some large engraved doors.
+~
+85 0 1
+D1
+~
+doors door large~
+1 -1 8519
+D3
+~
+~
+0 -1 8514
+S
+#8518
+The Emperor's temple~
+   You are at the end of the paper screen. You can now see to the east where
+a small passage leads to the great long hall of the Emperor. A smell of fine
+foods is wafting from the east.
+~
+85 8 0
+D1
+~
+~
+0 -1 8585
+D2
+~
+~
+0 -1 8519
+S
+#8519
+The temple foyer~
+   You find yourself in a large open space. The temple appears to be just
+one large room that is separated by paper-like screens. You can see through
+the screens slightly as they are quite translucent in the light, but you
+can only make out faint outlines. Along the walls hang great tapestries which
+depict wars and horrible monsters. The screen prevents your way eastwards
+but you can move north or south.
+~
+85 8 0
+D0
+~
+~
+0 -1 8518
+D2
+~
+~
+0 -1 8520
+D3
+~
+door doors large~
+1 -1 8517
+E
+tapestries~
+The tapestries depict scenes of battle, mainly between samurai and ninja.
+However these are not the only parties involved, spectral images haunt
+the backgrounds of the pictures.
+~
+S
+#8520
+The Emperor's temple~
+   To the east you see a small passage. It leads along the outer wall of the
+temple and is quite plain. This room is tidy and clean but there is little to
+see.
+~
+85 8 0
+D0
+~
+~
+0 -1 8519
+D1
+~
+~
+0 -1 8581
+S
+#8521
+The dusty trail~
+   You are following a dusty trail which is getting steeper as you go. You
+hear the sound of people and animals to the south and smoke is rising in a
+steady pattern. It appears there may be some sort of settlement ahead. The
+trail continues south for a short while and then turns. You can go back to
+the square by traveling north.
+~
+85 0 2
+D0
+~
+~
+0 -1 8506
+D2
+~
+~
+0 -1 8522
+S
+#8522
+On the dusty trail~
+   The trail is quite firm and the going easy. The path turns here and now
+leads to the east. The sounds of people are getting closer and you hope that
+the inhabitants will be friendly. However, the mist that surrounds this place
+is less than inviting.
+~
+85 0 2
+D0
+~
+~
+0 -1 8521
+D1
+~
+~
+0 -1 8523
+S
+#8523
+The path steepens~
+   The path you are on begins to rise a little and you can now see a little
+way into the distance. The thick mist prevents you from seeing too far but
+you are approaching some foothills by the look of things. Further away to
+the south you can see the rocky peaks of a small mountain range. The path
+continues to the east for a short way, but you can always change your mind
+and return to the west.
+~
+85 0 4
+D1
+~
+~
+0 -1 8524
+D3
+~
+~
+0 -1 8522
+S
+#8524
+A turning in the path~
+   You are at a turn in the path. The trail continues to the south where it
+rises up into some foothills. The mist seems thicker now and a chill begins
+to set in. You are beginning to feel slightly uncomfortable and rub your hands
+together to keep warm. The trail is quite steep now, and you can just make out
+a few wooden shacks to the south. Back to the west you can make your way to the
+square.
+~
+85 0 4
+D2
+~
+~
+0 -1 8525
+D3
+~
+~
+0 -1 8523
+S
+#8525
+The path to the shacks~
+   You are on a path that leads into a small gathering of huts. They appear
+quite run down, but inhabited nonetheless as you can see smoke rising from
+the small chimneys. All seems quite except for a chattering sound, like a
+child's rattle. The path leads south between the shacks.
+~
+85 0 4
+D0
+~
+~
+0 -1 8524
+D2
+~
+~
+0 -1 8526
+S
+#8526
+Path between the shacks~
+   You are on a small dirt path. To the east and west there are small, wooden
+shacks. There is little noise from inside and you wonder whether whoever owns
+them is hospitable or not. Smoke rises from the small chimneys and you wonder
+whether you should take a look inside.
+~
+85 0 4
+D0
+~
+~
+0 -1 8525
+D1
+~
+door~
+1 -1 8528
+D2
+~
+~
+0 -1 8529
+D3
+~
+door~
+1 -1 8527
+E
+shack shacks~
+You see two small wooden shacks standing opposite one another.
+~
+S
+#8527
+Inside the small shack~
+   You are stood inside a small shack. The smell is terrible in here, like food
+that has rotted away. There is a small table and a couple of chairs scattered
+around the room. The northern wall houses a fireplace and glowing coals try
+to add a little warmth to this cold abode. You look around for exits but it
+appears that this is the only room. The small futon lying on the floor seems
+to confirm this.
+~
+85 8 0
+D1
+~
+door~
+1 -1 8526
+E
+table~
+You see a small wooden table. On it lie a few scraps of food which are rotten
+and do not look in the slightest bit edible.
+~
+E
+chair chairs~
+The small chairs are in drastic need of repair and it seems they would collapse
+if you were to sit on them.
+~
+E
+fire fireplace~
+The glowing coals in the fireplace try in vain to give the room a little
+warmth.
+~
+S
+#8528
+A small shack~
+   You are standing inside a small shack, which it would appear, houses at
+the maximum, only two people. It is tiny and squalid. There is a small table
+and a futon lying on the floor, which the owner must use as a bed. You decide
+that there is nothing much to see here as the hut is just a single room. The
+door you entered by leads back to the path outside.
+~
+85 8 0
+D3
+~
+door~
+1 -1 8526
+E
+futon~
+The futon appears to be a small bed where the owner(s) of this place sleep.
+~
+S
+#8529
+Between the shacks~
+   To the east and west you see two more shacks. They look very much the same
+as the two to the north. They are just as decrepit and smelly. The path leads
+north and south or you can hold your nose and enter one of the huts.
+~
+85 0 4
+D0
+~
+~
+0 -1 8526
+D1
+~
+door~
+1 -1 8531
+D2
+~
+~
+0 -1 8532
+D3
+~
+door~
+1 -1 8530
+S
+#8530
+The smelly shack~
+   The smell in here is disgusting. You don't know what caused it and you
+don't think you really want to. There is no furniture at all in here. All
+there is that prevents this hut just being a wooden box is a small fireplace
+in the western wall. The door leads back out to the east.
+~
+85 8 0
+D1
+~
+door~
+1 -1 8529
+D3
+~
+~
+0 -1 8534
+S
+#8531
+Another wooden shack~
+   This shack is a little larger than the others but it smells just as badly.
+The fire has gone out in the fireplace and is very chilly. It makes you
+feel like you should have stayed away from this place. The door leads back
+out to the path to the west.
+~
+85 8 0
+D3
+~
+door~
+1 -1 8529
+S
+#8532
+The mountain trail~
+   You are on a trail leading up towards a small mountain range. The small
+gathering of shacks is to the north, and fortunately the wind has picked up
+enough to take the smell of them away. The path turns quite sharply here and
+you may continue along it to the west.
+~
+85 0 4
+D0
+~
+~
+0 -1 8529
+D3
+~
+~
+0 -1 8533
+S
+#8533
+The mountain trail~
+   The trail is made from a hard substance that seems quite porous. It is
+light-gray in color and crunches a little as you tread on it. Around you
+through the mist you once again hear the sound of animals, but they sound
+larger than before. You trail gains height and leads to the south once again
+but the way back is to the east.
+~
+85 0 4
+D1
+~
+~
+0 -1 8532
+D2
+~
+~
+0 -1 8535
+S
+#8534
+The fireplace~
+   AGGGGGGGGGGGHHHHHHHHHHHH, it's a tight squeeze but you just manage to
+crawl into the fireplace. The coals are glowing hot and you have burnt
+yourself quite badly. You attempt to pull yourself out and back into the 
+room but find yourself completely stuck. The wind starts to get up outside
+and suddenly a gust comes down the chimney. The flames start to rise and 
+soon catch on to your clothing. You pull harder but just cannot budge yourself
+from this mess. Eventually your hair starts to burn and you smell your own
+flesh cooking. You die an agonizing and slow death here in a smelly hut!
+What a fitting end for a hero such as yourself!
+~
+85 270 0
+D1
+~
+~
+0 -1 8530
+S
+#8535
+The steep path~
+   This part of the path rises sharply up to what looks like a small plateau.
+It looks as though there is some greenery up there but it is difficult to say.
+You can hear the sound of running water from far over to the west but there is
+no way you can see that far in this fog. If you like you can return towards the
+shacks on the path to the north, or if you feel like braving what lies ahead
+south is the direction in which to travel.
+~
+85 0 4
+D0
+~
+~
+0 -1 8533
+D2
+~
+~
+0 -1 8536
+S
+#8536
+The marshy path~
+   The path has become quite wet here. You feel yourself sliding in the
+mud. It seems there must be water somewhere close by. To the east it seems
+that the path rises slightly and hardens up some. To the west it looks
+decidedly boggy. The road into the small village leads back to the north.
+~
+85 0 4
+D0
+~
+~
+0 -1 8535
+D1
+~
+~
+0 -1 8537
+D3
+~
+~
+0 -1 8544
+S
+#8537
+A mountain trail~
+   The trail is harder again here and it appears to be made of the same
+gray rock as you saw earlier. The trail rises slightly and leads to the
+east.
+~
+85 0 4
+D1
+~
+~
+0 -1 8538
+D3
+~
+~
+0 -1 8536
+S
+#8538
+The mountain trail~
+   You are on a small track that appears to have been made by animals
+although there are larger footprints here. The path is narrow and there
+is a relatively large drop to the north of you. The path continues on to
+the east.
+~
+85 0 5
+D1
+~
+~
+0 -1 8539
+D3
+~
+~
+0 -1 8537
+S
+#8539
+A turn in the mountain path~
+   You are at the edge of a small precipice. To the north and east there
+are sheer cliff faces. A thin crumbling path leads to the south and appears
+to end at a rock face.
+~
+85 0 5
+D2
+~
+~
+0 -1 8540
+D3
+~
+~
+0 -1 8538
+S
+#8540
+A narrow path on the mountain~
+   You are on a path approaching a cliff face. It is narrow and you have to
+be careful not to fall down the cliff. The view from here is astounding
+and you can see for miles even through the mist. The cliff face is along
+to the south.
+~
+85 0 5
+D0
+~
+~
+0 -1 8539
+D2
+~
+~
+0 -1 8541
+S
+#8541
+Outside a small opening~
+   You are right up against the cliff face now. It stretches high up
+into the sky and you wonder whether there could be a path leading up
+there somewhere. To the east you see a narrow gap that you may just be
+able to squeeze in to it if you dare. The trail also leads back to the
+north.
+~
+85 0 5
+D0
+~
+~
+0 -1 8540
+D1
+~
+~
+0 -1 8542
+S
+#8542
+The small, dark cave~
+   You are stood in a small cave that stinks of putrefaction and death.
+All around you are bones and limbs amongst other things. Creatures have
+made nests in the remains here and maggots run freely over the floor.
+To the south there seems to be a thin crack in the wall and west will
+take you back outside.
+~
+85 9 0
+D2
+~
+secret door crack~
+2 8542 8543
+D3
+~
+~
+0 -1 8541
+S
+#8543
+The secret store~
+   You find yourself in a small alcove that has been hollowed out of the
+rear or the cave. There is not much to see as it's a pretty small room.
+~
+85 9 0
+D0
+~
+secret door crack~
+2 8542 8542
+S
+#8544
+The marshy path~
+   The path has become decidedly more marshy and less path-like now and
+you hope that you will not sink altogether. You can hear the sound of 
+running water quite clearly now from the north-west. Exits lead east
+and west.
+~
+85 0 5
+D1
+~
+~
+0 -1 8536
+D3
+~
+~
+0 -1 8545
+S
+#8545
+The sinking path~
+   The path has become more of a mire now and to the south you can see
+a small expanse of water to the south which seems quite still. It may
+be the source of the river you can hear.
+~
+85 0 5
+D1
+~
+~
+0 -1 8544
+D2
+~
+~
+0 -1 8546
+S
+#8546
+The source~
+   You are swimming in ice cold water. There is not much vegetation around
+due to the biting coldness, but small reeds and rushes extend from the
+surface in places. There is more water to the south and west.
+~
+85 0 6
+D0
+~
+~
+0 -1 8545
+D2
+~
+~
+0 -1 8547
+D3
+~
+~
+0 -1 8551
+S
+#8547
+The source~
+   You are swimming in a pool of water that meets the cliff face to the
+south, it may be possible to climb out there if you can find any hand-holds.
+To the north and west is more water but it seems to be running a little
+faster to the west.
+~
+85 0 6
+D0
+~
+~
+0 -1 8546
+D3
+~
+~
+0 -1 8550
+S
+#8548
+The foot of the mountain~
+   There is a steady stream of water running down the mountain here which
+gathers in a pool to the north of you. To the south the cliff face stretches
+high into the sky and there is no way to climb straight up. You will have to
+follow the small path, which appears to have been made by goats, eastwards
+if you want to try to climb up.
+~
+85 0 5
+D0
+~
+~
+0 -1 8550
+D1
+~
+~
+0 -1 8549
+S
+#8549
+A trail up the volcano~
+   As you walk along the path you can see through the mist slightly. This is
+actually a volcano, not just a mountain after all. The gray rocks you have
+seen must be pumice stone. Smoke rises in thin wisps from the peak and you
+hope that this particular volcano isn't active. The trail continues on east
+from here which appears to be the only way up the mountain from here.
+~
+85 0 5
+D1
+~
+~
+0 -1 8556
+D3
+~
+~
+0 -1 8548
+S
+#8550
+The source~
+   The water here is running much faster and in a northerly direction.
+To the south there is a rocky slope leading into the pool. To the north
+you see that the pool becomes a small river and flows away down the cliff.
+~
+85 0 6
+D0
+~
+~
+0 -1 8551
+D1
+~
+~
+0 -1 8547
+D2
+~
+~
+0 -1 8548
+S
+#8551
+The source~
+   You feel as though you are being pulled along by the flow of the water
+and have to swim against it. There are strange noises coming from the
+south but you aren't sure if they are caused by the flow of water or not.
+There is more water east and south of you and the pool becomes a small
+river to the north.
+~
+85 0 6
+D0
+~
+~
+0 -1 8552
+D1
+~
+~
+0 -1 8546
+D2
+~
+~
+0 -1 8550
+S
+#8552
+The small river~
+   You are on a small but fast flowing river which is proceeding at a
+steady pace down the mountain-side. The current is strong but you are
+able to swim against it. It flows northwards into the thick mist and 
+you cannot easily tell where it leads to. You can always fight the current
+and return southwards if you wish though.
+~
+85 0 6
+D0
+~
+~
+0 -1 8553
+D2
+~
+~
+0 -1 8551
+S
+#8553
+On the small river~
+   The river is much faster here and you can hear a loud crashing sound to
+the north. Rocks jut out of the river at curious angles and the sides of
+the river are smooth stone, from where the water has grooved it's path. You
+can continue north further down the river or you may wish to try to swim
+back upstream to the south.
+~
+85 0 6
+D0
+~
+~
+0 -1 8554
+D2
+~
+~
+0 -1 8552
+S
+#8554
+The small river rapids~
+   You are at the terminus of the river. The flow is extremely fast here and
+it is difficult to stay afloat. All around you the waves crash and the noise
+is deafening. If front of you to the north the river crashes over the edge of
+the cliff in an astoundingly beautiful waterfall, the spray from which causes
+a rainbow to appear in the haze. You may swim back up the river southwards or
+you may dare to risk the hazards of the waterfall.
+~
+85 0 6
+D0
+~
+~
+0 -1 8555
+D2
+~
+~
+0 -1 8553
+S
+#8555
+The waterfall~
+   WHHHHHHHHHHHHOOOOOOOOOAAAAAAAAAA, what a thrill. You are traveling down
+the mountainside at a ridiculous speed and the excitement is immense! However,
+there are also HUGE rocks at the bottom of the fall! As you plunge down you
+notice them and then they flash by, you missed them! Unfortunately the under-
+current is so strong here at the bottom that there is no way you can break
+the surface once you have been pulled under. You manage to hold your breath
+for a while but then the strain becomes too much and you inhale a lung-full
+of water. What they say about drowning isn't right and your death is agonizing!
+~
+85 2 6
+D2
+~
+~
+0 -1 8554
+S
+#8556
+The volcanic trail~
+   You are following a small gray trail along the mountainside. The trail
+is thin and the gusty wind makes this trek quite treacherous. The view is
+superb, even through the mist. You can see the Emperor's temple in all its
+magnificence and the small shacks you passes over to the north-west. From
+here the trail leads southwards into what looks like a lava gully.
+~
+85 0 5
+D2
+~
+~
+0 -1 8557
+D3
+~
+~
+0 -1 8549
+S
+#8557
+The volcanic trail~
+   You are in a small gully carved from the rock by previous flows of lava.
+It looks like the going may get tough here as the trail appears to end. You
+will have to try to make your way up the mountain without the aid of a path
+now. You may wish to turn back and head northwards or risk the climb upward.
+~
+85 0 5
+D0
+~
+~
+0 -1 8556
+D4
+~
+~
+0 -1 8558
+S
+#8558
+Climbing the volcano~
+   You are hanging dangerously on the mountainside. It is difficult going
+but you are managing to slowly edge yourself upwards. Eastwards there seems
+to be a thin ledge that you may be able to stand on.
+~
+85 0 5
+D1
+~
+~
+0 -1 8559
+D5
+~
+~
+0 -1 8557
+S
+#8559
+A ledge on the volcano~
+   You are teetering precariously on a small ledge hundreds of feet up the
+volcano. It leads in a southerly direction towards a large opening in the
+rock face. The ledge is very steep and it appears you will have to climb at
+least some of the way.
+~
+85 0 5
+D2
+~
+~
+0 -1 8560
+D3
+~
+~
+0 -1 8558
+S
+#8560
+A ledge on the volcano~
+   The ledge is slightly wider now and your footing more secure. Above you
+and to the south there seems to be a cave of some sort and the trail leads
+you in that direction apparently.
+~
+85 0 5
+D0
+~
+~
+0 -1 8559
+D4
+~
+~
+0 -1 8561
+S
+#8561
+A ledge on the volcano~
+   You are standing on a small ledge far up the mountainside. To the south
+you see a large, dark cave while the ledge seems to go east where it meets
+a more stable and wider path.
+~
+85 0 5
+D1
+~
+~
+0 -1 8563
+D2
+~
+~
+0 -1 8562
+D5
+~
+~
+0 -1 8560
+S
+#8562
+A cave in the volcano~
+   The cave is huge and dark. Shadows flicker and scatter unnervingly from
+your light source and you feel ill at ease. It is difficult to tell how
+this cave was created as the walls are jagged rather than smooth and there
+appears to be no other openings around.
+~
+85 265 5
+D0
+~
+~
+0 -1 8561
+S
+#8563
+The ledge widens~
+   You are on what seems to be a small platform. The ledge is much wider
+here but is seems some subsidence has caused this part to slip and you
+will have to climb up to continue your ascent.
+~
+85 0 5
+D3
+~
+~
+0 -1 8561
+D4
+~
+~
+0 -1 8564
+S
+#8564
+The volcanic trail~
+   The ledge now becomes a trail once again. It winds around a jagged
+outcrop of rock and it is difficult to tell where it is leading to.
+~
+85 0 5
+D1
+~
+~
+0 -1 8565
+D5
+~
+~
+0 -1 8563
+S
+#8565
+The winding path on the volcano~
+   The path curves around quite sharply and you have to be careful not to
+fall off the edge. The path extends a little to the east but does not look
+particularly safe there. It may be safer to follow it to the south or even
+to return west.
+~
+85 0 5
+D1
+~
+~
+0 -1 8566
+D2
+~
+~
+0 -1 8567
+D3
+~
+~
+0 -1 8564
+S
+#8566
+The path crumbles~
+   OOOOOOOOOHHHHHHHHHHHHHHHHHHH NNNNNNNNNNOOOOOOOOOOOOOOOOOOOOOO
+The path crumbles beneath your feet. You slip and slide down the mountain
+side, but are able to eventually grab hold of a tree. But, as luck would
+have it, and in the spirit of irony the tree breaks sending you plummeting
+to your death hundreds of feet below.
+~
+85 2 5
+D3
+~
+~
+0 -1 8565
+S
+#8567
+Outside a cave on the volcano~
+   You are on a small path that winds around the volcano. The going is tricky
+but you think you are progressing well. To the south is a wide opening that
+seems to be a cave, whereas the path continues to the west. North leads back
+down the mountain.
+~
+85 0 5
+D0
+~
+~
+0 -1 8565
+D2
+~
+~
+0 -1 8568
+D3
+~
+~
+0 -1 8569
+S
+#8568
+A cave in the volcano~
+   You are in a small cave hewn out of the rock by some unexplainable force.
+There is very little of interest here and the wind moans across the entrance
+making you feel uneasy. You may exit the cave to the north.
+~
+85 265 5
+D0
+~
+~
+0 -1 8567
+S
+#8569
+A trail on the volcano~
+   The trail is beginning to thin out again and before you know it you are
+up against a vertical climb. There is no way around it so you will be forced
+to climb up. The way back leads to the east.
+~
+85 0 5
+D1
+~
+~
+0 -1 8567
+D4
+~
+~
+0 -1 8570
+S
+#8570
+Near the summit of the volcano~
+   You are on a small plateau. Looking around you can see for miles. The island
+is larger than it appears at first and you can see strange lands far away. The
+sea looks rough, but from this height you can get no real impression of the
+size of the waves. A few scattered vessels can be seen being tossed around by
+the elements and you feel glad to be on land. As you are on a much flatter area
+the mist does not obscure your view so badly now and you can see a well used
+path winding along to the south.
+~
+85 0 5
+D2
+~
+~
+0 -1 8571
+D5
+~
+~
+0 -1 8569
+S
+#8571
+On the volcanic plateau~
+   Large rocks jut out of the ground all over the place and you have to
+follow the trail around these. The going is much easier as you do not have
+to fight a slope now and you can see the smoke pouring from the opening at
+the top of the volcano. Although it makes you quite uneasy it is a stunning
+sight. The trail leads south still where it appears to curve around another
+crag.
+~
+85 0 5
+D0
+~
+~
+0 -1 8570
+D2
+~
+~
+0 -1 8572
+S
+#8572
+The volcanic plateau~
+   The trail you are following comes to a sharp turn to the east here. From
+there it looks as though it will lead southwards but the outcrops make it
+difficult to tell.
+~
+85 0 5
+D0
+~
+~
+0 -1 8571
+D1
+~
+~
+0 -1 8573
+S
+#8573
+The wide volcanic pathway~
+   The trail become much wider here and it looks as if a conscious effort
+has been made here to lay a path. It looks as though this part of the mount
+is inhabited by someone, or something. This particular path leads south to
+a very large opening in the rock face.
+~
+85 0 5
+D2
+~
+~
+0 -1 8574
+D3
+~
+~
+0 -1 8572
+S
+#8574
+Outside the large cave~
+   You are stood in front of an extremely large cave entrance. Above the
+cave there appears to be a ledge which you should be able to climb up to.
+The entrance to the cave is south or if you wish to explore the ledge you
+can climb up to it.
+~
+85 0 5
+D0
+~
+~
+0 -1 8573
+D2
+~
+~
+0 -1 8575
+D4
+~
+~
+0 -1 8576
+S
+#8575
+The great cave in the volcano~
+   You are stood inside a huge cave which seems to be a natural crevice in
+the mountainside. The walls are covered in arcane signs which have been
+painted in blood. Small evil-looking creatures scurry about in the shadows
+and a sticky-looking goo drips from the ceiling in places creating a horrible
+atmosphere.
+~
+85 265 5
+D0
+~
+~
+0 -1 8574
+D2
+~
+secret door~
+2 8575 8577
+S
+#8576
+The Lair~
+   You are on top of a small outcrop of rock which is covered in grasses
+and moss. All around bones and scraps of meat litter the floor. It seems
+the be the lair of a group of creatures, but what would be living up here?
+You may climb back down to the path if you wish as you can see no other
+exits.
+~
+85 0 5
+D5
+~
+~
+0 -1 8574
+S
+#8577
+A tunnel inside the volcano~
+   You are standing in a tunnel which leads into the actual volcano. The
+walls are jagged and coarse and the floor is uneven. You can actually
+feel the heat emanating from the walls of the tunnel and you hope that
+it won't get much worse as you go onwards. The tunnel continues to the
+south but you can reenter the cave to the north.
+~
+85 393 5
+D0
+~
+secret door~
+2 8575 8575
+D2
+~
+~
+0 -1 8578
+S
+#8578
+The tunnel inside the volcano~
+   The tunnel you are in now turns to the east. The heat is getting much
+worse the further you go into the volcano and you are beginning to sweat.
+Strange noises can be heard from the east but you put this down to the
+lava gurgling inside the volcano.
+~
+85 393 5
+D0
+~
+~
+0 -1 8577
+D1
+~
+~
+0 -1 8579
+S
+#8579
+The tunnel inside the volcano~
+   The tunnel now opens out into a large cavern to the south. Back to the
+west you can follow the tunnel out of the volcano if you wish.
+~
+85 393 5
+D2
+~
+~
+0 -1 8580
+D3
+~
+~
+0 -1 8578
+S
+#8580
+The lair of the Dai-Oni~
+   This huge cave is decorated with human corpses. They hang from the roof,
+the walls and even decorate the floor in places. An enormous throne stands
+against the southern wall. It is made from bones and the head-rest from large
+skulls. It is covered in human skin, which is beginning to rot creating a
+disgusting smell. The tunnel is to the north but that appears to be the only
+exit from this vile place.
+~
+85 265 5
+D0
+~
+~
+0 -1 8579
+E
+throne~
+The throne is huge and made of human bones. The sight of it makes you want
+to vomit.
+~
+S
+#8581
+A passage in the temple~
+   You are stood in a small passage. It leads east to what seems like a long
+hall. There are some nice smells coming from the eastern direction.
+~
+85 8 0
+D1
+~
+~
+0 -1 8582
+D3
+~
+~
+0 -1 8520
+S
+#8582
+The long hall~
+   You are standing in a long hall that leads northwards. A short way to the
+north there is a grand looking throne. The eastern wall is decorated with a 
+large assortment of weapons and armor and is quite a stunning sight.
+~
+85 8 0
+D0
+~
+~
+0 -1 8583
+D3
+~
+~
+0 -1 8581
+S
+#8583
+Before the Emperor's throne~
+   In front of you is a beautiful throne made from bamboo and the finest cloth.
+It is the throne of the Emperor and is beautiful in design. To the north and
+south you can follow the hall and from the west comes the smell of fine food.
+~
+85 8 0
+D0
+~
+~
+0 -1 8584
+D2
+~
+~
+0 -1 8582
+D3
+~
+~
+0 -1 8586
+S
+#8584
+The long hall~
+   You are at the northern end of the long hall. To the south you see the 
+great throne of the Emperor. The wall to the east is decorated with the
+finest weapons and armor. Westwards will take you away from the hall.
+~
+85 8 0
+D2
+~
+~
+0 -1 8583
+D3
+~
+~
+0 -1 8585
+S
+#8585
+The passage in the temple~
+   You are stood in a small passage that leads to the grand hall of the
+Emperor Nazaki. From somewhere the smell of fine food assails your nostrils
+and you begin to feel a little hungry. East will take you to the grand hall
+whilst going west should eventually take you out of the temple.
+~
+85 8 0
+D1
+~
+~
+0 -1 8584
+D3
+~
+~
+0 -1 8518
+S
+#8586
+The Sushi Bar~
+   You are stood inside a small room that appears to be where the Emperor
+and his men eat. There is a small serving hatch behind which you can see
+a small man scurrying about trying to prepare his food faster. The smell is
+incredible and you want to eat right away. When you are finished you can
+enter the hall by going east.
+~
+85 0 0
+D1
+~
+~
+0 -1 8583
+S
+#8587
+The island coast~
+   You are following the coastline of what appears to be a small island.
+All around you waves crash into the rocks and the sea breeze whips your
+hair about. The you can follow the coastline to the north or south.
+~
+85 0 2
+D0
+~
+~
+0 -1 8588
+D2
+~
+~
+0 -1 8500
+S
+#8588
+The island coast~
+   You are walking along a thin stretch of beach which is shadowed by
+large cliffs to the east. There is no way you would be able to climb 
+them so it would be best to look for a way through.
+~
+85 0 2
+D0
+~
+~
+0 -1 8589
+D2
+~
+~
+0 -1 8587
+S
+#8589
+The small cove~
+   You find yourself in a small, natural cove. The water laps up the
+sandy bank to a small beach which runs along the length of the coastline.
+In the distance a huge mountain peak reaches up into the clouds. An 
+impressive range of cliffs block your view east, although you can make 
+out a small cave at the base of the cliff.
+~
+85 0 7
+D1
+~
+~
+0 -1 8590
+D2
+~
+~
+0 -1 8588
+S
+#8590
+Smugglers Cave~
+   After a short while you become accustomed to the darkness in the 
+cave, and take a proper look around. Broken boxes and casks, along with 
+various items for the repair of boats are scattered all around this 
+area. Judging from the contents of the boxes, you assume that this is 
+either the result of smuggling, or of a large scale exploration. Peering
+into the darkness at the back of the cave, you notice a narrow tunnel 
+heading upwards.
+~
+85 acd 4
+D3
+~
+~
+0 -1 8589
+D4
+~
+~
+0 -1 8591
+S
+#8591
+Winding Tunnel~
+   You struggle to clamber over and around the rocks that fill this 
+narrow tunnel. The sound of the sea roars in your ears, and the smell 
+of salt stings your nostrils, carried by a strong breeze from the cave 
+below. The cave disappears in darkness to the east. A deep rumbling 
+almost shakes you from your feet, and fragments of igneous rock rain 
+down on your head.
+~
+85 ad 4
+D1
+~
+~
+0 -1 8592
+D5
+~
+~
+0 -1 8590
+S
+#8592
+Rocky Shaft~
+   The heat and smell of sulphur are very strong at this end of the 
+tunnel, which at first sight appears to be a dead end. You soon notice 
+however that it is lighter here than elsewhere in the caves, a rocky 
+shaft leads straight up from here, and you can see the sky. It's a 
+difficult climb, but not for a hardy adventurer like you.
+~
+85 ad 5
+D3
+~
+~
+0 -1 8591
+D4
+~
+~
+0 -1 18200
+S
+#99999
+$~

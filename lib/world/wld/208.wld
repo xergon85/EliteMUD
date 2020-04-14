@@ -1,0 +1,2243 @@
+#20800
+Gates before the Psionicist School~
+   You stand before the world renown school for the Psionics.  This is
+the place where all young and aspiring would be psionicists come to study.
+The school is housed in a large palace that is made of a glowing bright
+green stone.  There is a tall spire that extends above most of the school.
+The spire glows a bright green and seems to fade in and out of existence
+as you look at it.  North of you are the large gold and platinum gates
+that lead into the school.  A cobblestone path wanders off to the south.
+~
+208 1 4
+D0
+A pair of large gold and platinum gates welcomes you to the school.
+~
+gate gates platinum gold golden large~
+1 0 20801
+D2
+~
+~
+0 -1 3104
+S
+#20801
+Psionicist School Foyer~
+   This is the foyer for the psionicist school.  You are looking at a
+small courtyard where students and teachers alike take time to rest and
+relax.  The walls and vaulted ceilings are constructed of the same
+brilliant green stone.  The courtyard leads north and west.  A large gold
+and silver gate marks the path to the south.
+~
+208 8 0
+D0
+The courtyard continues north.
+~
+~
+0 -1 20806
+D2
+Large platinum and gold gates mark the exit of the school.
+~
+gate gates large gold golden platinum~
+1 0 20800
+D3
+The courtyard continues west.
+~
+~
+0 -1 20802
+S
+#20802
+Southern part of the Courtyard~
+   The green vaulted ceiling looms high above.  Trees and flowers are
+growing here despite being indoors because of the eerie light cast by the
+green ceiling.  You can hear a water fountain somewhere to the north.
+The courtyard continues east, west, and north.
+~
+208 8 0
+D0
+The courtyard continues north.
+~
+~
+0 -1 20805
+D1
+The courtyard continues east.
+~
+~
+0 -1 20801
+D3
+The courtyard continues west.
+~
+~
+0 -1 20803
+S
+#20803
+Southwestern part of the Courtyard~
+   The green vaulted ceiling looms high above.  Trees and flowers are 
+growing here despite being indoors because of the eerie light cast by the
+green ceiling. You can hear a water fountain somewhere to the northeast.
+A hallway leads off to the west and the courtyard continues east and 
+north.
+~
+208 8 0
+D0
+The courtyard continues north.
+~
+~
+0 -1 20804
+D1
+The courtyard continues east.
+~
+~
+0 -1 20802
+D3
+A hallway leads west.
+~
+~
+0 -1 20812
+S
+#20804
+Western part of the Courtyard~
+   The green vaulted ceiling looms above.  Trees and flowers are growing
+here despite being indoors because of the eerie green light cast by the
+ceiling.  You can hear a water fountain somewhere to the east.  The
+courtyard continues east, north and south.
+~
+208 8 0
+D0
+The courtyard continues north.
+~
+~
+0 -1 20811
+D1
+The courtyard continues east.
+~
+~
+0 -1 20805
+D2
+The courtyard continues south.
+~
+~
+0 -1 20803
+S
+#20805
+Center of the Courtyard~
+   The green vaulted ceiling looms high above.  You can see a water
+fountain carved in the shape of giant fish in the center of the room.  The
+fountain is carved of the same green stone as walls.  There are also
+various tables and benches scattered around for people to sit and enjoy a 
+little peace and quiet.  The courtyard leads north, south, east, and west.
+~
+208 8 0
+D0
+The courtyard continues north.
+~
+~
+0 -1 20810
+D1
+The courtyard continues east.
+~
+~
+0 -1 20806
+D2
+The courtyard continues south.
+~
+~
+0 -1 20802
+D3
+The courtyard continues west.
+~
+~
+0 -1 20804
+D5
+A spiral set of stairs leads down.
+~
+fountain green fish~
+1 0 20882
+S
+#20806
+Eastern part of the Courtyard~
+   The green vaulted ceiling looms high above.  Trees are growing here
+despite being indoors, and you can hear a water fountain somewhere to the
+west.  The courtyard continues north, south, and west.  A small archway
+leads east.
+~
+208 8 0
+D0
+The courtyard continues north.
+~
+~
+0 -1 20809
+D1
+A small archway leads east.
+~
+~
+0 -1 20807
+D2
+The courtyard continues south.
+~
+~
+0 -1 20801
+D3
+The courtyard continues west.
+~
+~
+0 -1 20805
+S
+#20807
+Painting Gallery~
+   You are standing in the middle of a small gallery apparently used
+by the owners of the palace to store pieces of art.  Paintings of various
+styles cover the walls. There is an unnatural glow to the room, coming
+from the green stone walls themselves.  The courtyard is to the west and
+there is a small door to the east.
+~
+208 8 0
+D1
+A small doorway leads to a workshop.
+~
+door small~
+1 0 20808
+D3
+An archway leads to the courtyard.
+~
+~
+0 -1 20806
+S
+#20808
+Artists Workshop~
+   The room appears to be an artists workshop, though it seems
+nobody uses this room any more.  At one time there was probably an artist
+who was in charge of keeping the gallery in shape, but he is no where to
+be found.  The shelves here are stocked with art supplies.  The only exit
+is a small doorway to the west.
+~
+208 137 0
+D3
+A small doorway leads west to a gallery.
+~
+door small~
+1 0 20807
+S
+#20809
+Northern-Eastern part of the Courtyard~
+   The green vaulted ceiling looms high above.  Trees and flowers are
+growing here despite being indoors because of an eerie green light cast by
+the ceiling.  You can hear a water fountain somewhere to the southwest.
+The courtyard continues south and west. 
+~
+208 8 0
+D2
+The courtyard continues south.
+~
+~
+0 -1 20806
+D3
+The courtyard continues west.
+~
+~
+0 -1 20810
+S
+#20810
+North part of the Courtyard~
+   The green vaulted ceiling looms high above.  Trees are growing here
+despite being indoors, and you can hear a water fountain somewhere to the
+south.  The main hallway of the psionicist school is north.  The courtyard
+continues south east and west.
+~
+208 8 0
+D0
+The courtyard leads to the main hall.
+~
+~
+0 -1 20830
+D1
+The courtyard leads east.
+~
+~
+0 -1 20809
+D2
+The courtyard leads south.
+~
+~
+0 -1 20805
+D3
+The courtyard leads west.
+~
+~
+0 -1 20811
+S
+#20811
+North-Western part of the Courtyard~
+   The green vaulted ceiling looms high above.  Trees are growing here
+despite being indoors, and you can hear a water fountain somewhere to the
+southeast.  The courtyard continues south and east.
+~
+208 8 0
+D1
+The courtyard continues east.
+~
+~
+0 -1 20810
+D2
+The courtyard continues south.
+~
+~
+0 -1 20804
+S
+#20812
+Hallway to the Practice Room~
+   You are in a short crooked hallway which leads to the students
+practice room.  This part of the castle is made of a plain gray granite,
+and the hallway is so empty you can hear your footsteps echo.  The hallway
+curves south, and the courtyard opens up to the east.
+~
+208 137 0
+D1
+The hallway opens up to the Courtyard.
+~
+~
+0 -1 20803
+D2
+The crooked hallway leads south.
+~
+~
+0 -1 20813
+S
+#20813
+Hallway to the Practice Room~
+   You are in a short crooked hallway which leads to the students
+practice room.  This part of the castle is made of a plain gray granite,
+and the hallway is so empty you can hear your footsteps echo.  A large set
+of stone stairs lead down to the practice room itself. The hallway
+curves north.
+~
+208 141 0
+D0
+The crooked hallway leads north.
+~
+~
+0 -1 20812
+D5
+The heavy steps lead down.
+~
+~
+0 -1 20814
+S
+#20814
+Practice Room~
+   This area of the castle is set aside for apprentices and new students
+to practice.  The plain granite walls seem to fade in and out of existance
+leaving you staring into the darkness.  A large set of stairs leads up,
+out of the practice room.  You are free to wander in any direction.
+~
+208 9 0
+D0
+The practice room continues north.
+~
+~
+0 -1 20818
+D1
+The practice room continues east.
+~
+~
+0 -1 20817
+D2
+The practice room continues south.
+~
+~
+0 -1 20826
+D3
+The practice room continues west.
+~
+~
+0 -1 20815
+D4
+Stairs lead up out of the practice room.
+~
+~
+0 -1 20813
+S
+#20815
+Practice Room~
+   This area of the castle is set aside for apprentices and new students
+to practice.  The plain granite walls seem to fade in and out of existance
+leaving you staring into the darkness.  You are free to wander in any
+direction.
+~
+208 73 0
+D0
+The practice room continues north.
+~
+~
+0 -1 20819
+D1
+The practice room continues east.
+~
+~
+0 -1 20817
+D2
+The practice room continues south.
+~
+~
+0 -1 20827
+D3
+The practice room continues west.
+~
+~
+0 -1 20816
+S
+#20816
+Practice Room~
+   This area of the castle is set aside for apprentices and new students
+to practice.  The plain granite walls seem to fade in and out of existance
+leaving you staring into the darkness.  You are free to wander in any
+direction.
+~
+208 73 0
+D0
+The practice room continues north.
+~
+~
+0 -1 20820
+D1
+The practice room continues east.
+~
+~
+0 -1 20815
+D2
+The practice room continues south.
+~
+~
+0 -1 20828
+D3
+The practice room continues west.
+~
+~
+0 -1 20817
+S
+#20817
+Practice Room~
+   This area of the castle is set aside for apprentices and new students
+to practice.  The plain granite walls seem to fade in and out of existance
+leaving you staring into the darkness.  You are free to wander in any
+direction.
+~
+208 73 0
+D0
+The practice room continues north.
+~
+~
+0 -1 20821
+D1
+The practice room continues east.
+~
+~
+0 -1 20816
+D2
+The practice room continues south.
+~
+~
+0 -1 20829
+D3
+The practice room continues west.
+~
+~
+0 -1 20815
+S
+#20818
+Practice Room~
+   This area of the castle is set aside for apprentices and new students
+to practice.  The plain granite walls seem to fade in and out of existance
+leaving you staring into the darkness.  You are free to wander in any
+direction.
+~
+208 73 0
+D0
+The practice room continues north.
+~
+~
+0 -1 20822
+D1
+The practice room continues east.
+~
+~
+0 -1 20821
+D2
+The practice room continues south.
+~
+~
+0 -1 20814
+D3
+The practice room continues west.
+~
+~
+0 -1 20819
+S
+#20819
+Practice Room~
+   This area of the castle is set aside for apprentices and new students
+to practice.  The plain granite walls seem to fade in and out of existance
+leaving you staring into the darkness.  You are free to wander in any
+direction.
+~
+208 73 0
+D0
+The practice room continues north.
+~
+~
+0 -1 20823
+D1
+The practice room continues east.
+~
+~
+0 -1 20818
+D2
+The practice room continues south.
+~
+~
+0 -1 20815
+D3
+The practice room continues west.
+~
+~
+0 -1 20820
+S
+#20820
+Practice Room~
+   This area of the castle is set aside for apprentices and new students
+to practice.  The plain granite walls seem to fade in and out of existance
+leaving you staring into the darkness.  You are free to wander in any
+direction.
+~
+208 73 0
+D0
+The practice room continues north.
+~
+~
+0 -1 20824
+D1
+The practice room continues east.
+~
+~
+0 -1 20819
+D2
+The practice room continues south.
+~
+~
+0 -1 20816
+D3
+The practice room continues west.
+~
+~
+0 -1 20821
+S
+#20821
+Practice Room~
+   This area of the castle is set aside for apprentices and new students
+to practice.  The plain granite walls seem to fade in and out of existance
+leaving you staring into the darkness.  You are free to wander in any
+direction.
+~
+208 73 0
+D0
+The practice room continues north.
+~
+~
+0 -1 20825
+D1
+The practice room continues east.
+~
+~
+0 -1 20820
+D2
+The practice room continues south.
+~
+~
+0 -1 20817
+D3
+The practice room continues west.
+~
+~
+0 -1 20818
+S
+#20822
+Practice Room~
+   This area of the castle is set aside for apprentices and new students
+to practice.  The plain granite walls seem to fade in and out of existance
+leaving you staring into the darkness.  You are free to wander in any
+direction.
+~
+208 73 0
+D0
+The practice room continues north.
+~
+~
+0 -1 20826
+D1
+The practice room continues east.
+~
+~
+0 -1 20825
+D2
+The practice room continues south.
+~
+~
+0 -1 20818
+D3
+The practice room continues west.
+~
+~
+0 -1 20823
+S
+#20823
+Practice Room~
+   This area of the castle is set aside for apprentices and new students
+to practice.  The plain granite walls seem to fade in and out of existance
+leaving you staring into the darkness.  You are free to wander in any
+direction.
+~
+208 73 0
+D0
+The practice room continues north.
+~
+~
+0 -1 20827
+D1
+The practice room continues east.
+~
+~
+0 -1 20822
+D2
+The practice room continues south.
+~
+~
+0 -1 20819
+D3
+The practice room continues west.
+~
+~
+0 -1 20824
+S
+#20824
+Practice Room~
+   This area of the castle is set aside for apprentices and new students
+to practice.  The plain granite walls seem to fade in and out of existance
+leaving you staring into the darkness.  You are free to wander in any
+direction.
+~
+208 73 0
+D0
+The practice room continues north.
+~
+~
+0 -1 20828
+D1
+The practice room continues east.
+~
+~
+0 -1 20823
+D2
+The practice room continues south.
+~
+~
+0 -1 20820
+D3
+The practice room continues west.
+~
+~
+0 -1 20825
+S
+#20825
+Practice Room~
+   This area of the castle is set aside for apprentices and new students
+to practice.  The plain granite walls seem to fade in and out of existance
+leaving you staring into the darkness.  You are free to wander in any
+direction.
+~
+208 73 0
+D0
+The practice room continues north.
+~
+~
+0 -1 20829
+D1
+The practice room continues east.
+~
+~
+0 -1 20824
+D2
+The practice room continues south.
+~
+~
+0 -1 20821
+D3
+The practice room continues west.
+~
+~
+0 -1 20822
+S
+#20826
+Practice Room~
+   This area of the castle is set aside for apprentices and new students
+to practice.  The plain granite walls seem to fade in and out of existance
+leaving you staring into the darkness.  You are free to wander in any
+direction.
+~
+208 73 0
+D0
+The practice room continues north.
+~
+~
+0 -1 20818
+D1
+The practice room continues east.
+~
+~
+0 -1 20829
+D2
+The practice room continues south.
+~
+~
+0 -1 20822
+D3
+The practice room continues west.
+~
+~
+0 -1 20827
+S
+#20827
+Practice Room~
+   This area of the castle is set aside for apprentices and new students
+to practice.  The plain granite walls seem to fade in and out of existance
+leaving you staring into the darkness.  You are free to wander in any
+direction.
+~
+208 73 0
+D0
+The practice room continues north.
+~
+~
+0 -1 20815
+D1
+The practice room continues east.
+~
+~
+0 -1 20826
+D2
+The practice room continues south.
+~
+~
+0 -1 20823
+D3
+The practice room continues west.
+~
+~
+0 -1 20828
+S
+#20828
+Practice Room~
+   This area of the castle is set aside for apprentices and new students
+to practice.  The plain granite walls seem to fade in and out of existance
+leaving you staring into the darkness.  You are free to wander in any
+direction.
+~
+208 73 0
+D0
+The practice room continues north.
+~
+~
+0 -1 20816
+D1
+The practice room continues east.
+~
+~
+0 -1 20827
+D2
+The practice room continues south.
+~
+~
+0 -1 20824
+D3
+The practice room continues west.
+~
+~
+0 -1 20829
+S
+#20829
+Practice Room~
+   This area of the castle has been set aside for apprentices and new
+students to practice.  The ceiling and floor appears to be the same gray
+granite as the stairs, however no matter how yard you look, the walls seem
+to fade in and out.  You are free to wander in any direction.  
+~
+208 73 0
+D0 
+The practice room continues north. 
+~ 
+~ 
+0 -1 20817 
+D1
+The practice room continues east.
+~ 
+~ 
+0 -1 20828 
+D2 
+The practice room continues south.  
+~ 
+~
+0 -1 20825 
+D3 
+The practice room continues west.  
+~ 
+~ 
+0 -1 20826 
+S 
+#20830
+Main Hallway~
+   You are standing at the southern end of the main hallway of the
+Psionicist School.  The walls floor and ceiling are made of the same green
+stone that comprises the rest of the palace.  Sconces on the walls hold
+small glowballs in place of torches.  The floor has a very large 
+intricately woven black and white rug, which continues north through the
+hallway.  You can see into the classrooms to the west, the courtyard
+to the south, and there is a door to the east.  
+~
+208 8 0 
+D0 
+The hallway stretches north.  
+~
+~
+0 -1 20832 
+D1 
+A doorway leads to the novice bunks. 
+~
+door novice~
+1 0 20831 
+D2 
+The hallway leads into the courtyard.  
+~
+~
+0 -1 20810 
+D3 
+An archway leads to a classroom.  
+~
+~
+0 -1 20841 
+S 
+#20831 
+Novice Bunks~
+   These are the bunks where the novices of this school live.  Three of
+the walls have bunk beds lined up against them.  The wall to the east 
+contains two wardrobes where the novices keep their robes when not in use. 
+The green stone of the palace has been replaced with plain wood.  A table
+in the middle of the room has a number of candles on it lighting the room
+with their warm gentle glow.  The only exit is the door leading west.
+~
+208 8 0 
+D3 
+The door leads out to the hallway.  
+~
+door~
+1 0 20830
+S
+#20832 Main Hallway~
+   You are standing in the middle of the main hallway of the psionicist
+school.  The walls floor and ceiling are made of the same green stone that
+comprises the rest of the palace.  Sconces on the walls hold small
+glowballs in place of torches.  The floor has a very large intricately
+woven black and white rug, which continues north and south down the
+hallway.  You can see into the classrooms to the west, and there is a door
+to the east.  
+~
+208 8 0 
+D0 
+The hallway stretches north.  
+~ 
+~ 
+0 -1 20834 
+D1
+A doorway leads to the novice bunks. 
+~ 
+door~ 
+1 0 20833
+D2 
+The hallway stretches south.  
+~ 
+~ 
+0 -1 20830 
+D3 
+An archway leads to the classrooms. 
+~ 
+~ 
+0 -1 20849 
+S 
+#20833 
+Novice Bunks~
+   These are the bunks where the novices of this school live.  Three of
+the walls have bunk beds lined up against them.  The wall to the east
+contains two wardrobes where the novices keep their robes when not in use.
+The green stone of the palace has been replaced with plain wood.  A table
+in the middle of the room has a number of candles on it lighting the room
+with their warm gentle glow.  The only exit is the door leading west.
+~
+208 8 0
+D3
+The door leads out to the hallway.
+~
+door~
+1 0 20832
+S
+#20834
+Main Hallway~
+   You are standing in the middle of the main hallway of the psionicist
+school.  The walls floor and ceiling are made of the same green stone that
+comprises the rest of the palace.  Sconces on the walls hold small
+glowballs in place of torches.  The floor has a very large intricately
+woven black and white rug, which continues north and south down the
+hallway.  You can see into the classrooms to the west, and there is a door
+to the east.
+~
+208 8 0
+D0
+The hallway stretches north.
+~
+~
+0 -1 20836
+D1
+A doorway leads to the novice bunks.
+~
+door~
+1 0 20835
+D2
+The hallway stretches south.
+~
+~
+0 -1 20832
+S
+#20835
+Novice Bunks~
+   These are the bunks where the novices of this school live.  Three of
+the walls have bunk beds lined up against them.  The wall to the east
+contains two wardrobes where the novices keep their robes when not in use.
+The green stone of the palace has been replaced with plain wood.  A table
+in the middle of the room has a number of candles on it lighting the room
+with their warm gentle glow.  The only exit is the door leading west.
+~
+208 8 0
+D3
+The door leads out to the hallway.
+~
+door~
+1 0 20834
+S
+#20836
+Main Hallway~
+   You are standing in the middle of the main hallway of the psionicist
+school.  The walls floor and ceiling are made of the same green stone that
+comprises the rest of the palace.  Sconces on the walls hold small
+glowballs in place of torches.  The floor has a very large intricately
+woven black and white rug, which continues north and south down the
+hallway. 
+~
+208 8 0
+D0
+The hallway stretches north.
+~
+~
+0 -1 20837
+D2
+The hallway stretches south.
+~
+~
+0 -1 20834
+S
+#20837
+Main Hallway~
+   You are standing in the middle of the main hallway of the psionicist
+school.  The walls floor and ceiling are made of the same green stone that
+comprises the rest of the palace.  Sconces on the walls hold small
+glowballs in place of torches.  The floor has a very large intricately
+woven black and white rug, which continues north and south down the
+hallway. 
+~
+208 8 0
+D0
+The hallway stretches north.
+~
+~
+0 -1 20838
+D2
+The hallway stretches south.
+~
+~
+0 -1 20836
+S
+#20838
+Main Hallway~
+   You are standing in the middle of the main hallway of the psionicist
+school.  The walls floor and ceiling are made of the same green stone that
+comprises the rest of the palace.  Sconces on the walls hold small
+glowballs in place of torches.  The floor has a very large intricately
+woven black and white rug, which continues north and south down the
+hallway.
+~
+208 8 0
+D0
+The hallway stretches north.
+~
+~
+0 -1 20839
+D2
+The hallway stretches south.
+~
+~
+0 -1 20837
+S
+#20839
+Main hallway~
+   You are standing in the middle of the main hallway of the psionicist
+school.  The walls floor and ceiling are made of the same green stone that
+comprises the rest of the palace.  Sconces on the walls hold small
+glowballs in place of torches.  The floor has a very large intricately
+woven black and white rug, which continues north and south down the
+hallway.  A large spiral staircase made of green stone leads up to the
+upper levels of the school and down into a small storage room.
+~
+208 8 0
+D2
+The hallway stretches south.
+~
+~
+0 -1 20838
+D4
+A spiral staircase leads up.
+~
+~
+0 -1 20857
+D5
+A spiral staircase leads down.
+~
+~
+0 -1 20840
+S
+#20840
+Storage Room~
+   You appear to be in a small storage room underneath the palace.
+There are many shelves with old dusty books, boxes, and many objects you
+simply can't identify.  The only footsteps you see in the dust on the
+floor are your own, nobody has been down here in a while.  The only exit
+is the spiral staircase which leads up to the hall.
+~
+208 9 4
+D4
+The spiral staircase leads up.
+~
+~
+0 -1 20839
+S
+#20841
+Hallway~
+   You are standing in a short hallway that branches off to the west
+of the main hall.  This wing of the building is used to house the
+classrooms for the novices that come to this school.  There is a row of
+heavy oak benches along the south wall which are polished smooth from many
+years of use.  Sconces which hold glowballs instead of torches provide the
+light.  The hallway continues west, north into a classroom, and east
+through an archway into the main hall. 
+~
+208 8 0
+D0
+A psionicist classroom is to the north.
+~
+~
+0 -1 20842
+D1
+The archway leads to the main hall.
+~
+~
+0 -1 20830
+D3
+The hallway stretches west.
+~
+~
+0 -1 20843
+S
+#20842
+Classroom~
+   You are in one of eight classrooms used by the psionic masters of the
+school to teach novices.  At one end of the room is a large ebony desk
+which is covered with books and trinkets.  You see a sundial, several
+glowballs, a skull, and several eagle feathers on the desk.  There are
+also several rows of desks which are for the novices themselves.
+~
+208 8 0
+D2
+The novices hallway is to the south.
+~	
+~
+0 -1 20841
+S
+#20843
+Hallway~
+   You are standing in a short hallway to the west of the main hall. 
+This wing of the building is used to house the classrooms for the novices
+that come to this school.  There is a row of heavy oak benches along the
+south wall which are polished smooth from many years of use.  Sconces
+which hold glowballs instead of torches provide the light.  The hallway
+continues east, west, and north into a classroom.
+~
+208 8 0
+D0
+A psionicist classroom is to the north.
+~
+~
+0 -1 20844
+D1
+The hallway stretches east.
+~
+~
+0 -1 20841
+D3
+The hallway stretches west.
+~
+~
+0 -1 20845
+S
+#20844
+Classroom~
+   You are in one of eight classrooms used by the psionic masters of the 
+school to teach novices.  At one end of the room is a large ebony 
+desk which is covered with books and trinkets.  There is a large shelf
+along one wall that holds hundreds of jars of green goo.  There are also
+several rows of desks which are for the novices themselves.
+~
+208 8 0
+D2
+The novices hallway is to the south.
+~
+~
+0 -1 20843
+S
+#20845
+Hallway~
+   You are standing in a short hallway to the west of the main hall.  
+This wing of the building is used to house the classrooms for the novices
+that come to this school.  There is a row of heavy oak benches along the
+south wall which are polished smooth from many years of use.  Sconces
+which hold glowballs instead of torches provide the light.  The hallway
+continues east, west, and north into a classroom.
+~
+208 8 0
+D0
+A psionicist classroom is to the north.
+~
+~
+0 -1 20846
+D1
+The hallway stretches east.
+~
+~
+0 -1 20843
+D3
+The hallway stretches west.
+~
+~
+0 -1 20847
+S
+#20846
+Classroom~
+   You are in one of eight classrooms used by the psionic masters of the
+school to teach novices.  At one end of the room is a large ebony desk
+which is covered with books and trinkets.  You see a small blue crystal,
+several preserved rodents, and a large black rock on the desk.  There are
+also several rows of desks which are for the novices themselves.
+~
+208 8 0
+D2
+The novices hallway is to the south.
+~
+~
+0 -1 20845
+S
+#20847
+Hallway~
+   You are standing in a short hallway to the west of the main hall. 
+This wing of the building is used to house the classrooms for the novices
+that come to this school.  There is a row of heavy oak benches along the
+south wall which are polished smooth from many years of use.  Sconces
+which hold glowballs instead of torches provide the light.  The hallway
+continues east, and north into a classroom.
+~
+208 8 0
+D0
+A psionicist classroom is to the north.
+~
+~
+0 -1 20848
+D1
+The hallway stretches east.
+~
+~
+0 -1 20845
+S
+#20848
+Classroom~
+   You are in one of eight classrooms used by the psionic masters of the
+school to teach novices.  At one end of the room is a large ebony desk
+which is covered with books and trinkets.  You see an hourglass and a
+monocle on a shelf above the desk.  There are also several rows of desks
+which are for the novices themselves.
+~
+208 8 0
+D2
+The novices hallway is to the south.
+~
+~
+0 -1 20847
+S
+#20849
+Hallway~
+   You are standing in a short hallway that branches off to the west
+of the main hall.  This wing of the building is used to house the
+classrooms for the novices that come to this school.  There is a row of
+heavy oak benches along the south wall which are polished smooth from many
+years of use.  Sconces which hold glowballs instead of torches provide the
+light.  The hallway continues west, north into a classroom, and east
+through an archway into the main hall.	
+~
+208 8 0
+D0
+A psionicist classroom is to the north.
+~
+~
+0 -1 20850
+D1
+The archway leads to the main hall.
+~
+~
+0 -1 20832
+D3
+The hallway stretches west.
+~
+~
+0 -1 20851
+S
+#20850
+Classroom~
+   You are in one of eight classrooms used by the psionic masters of the
+school to teach novices.  At one end of the room is a large ebony desk
+which is covered with books and trinkets.  You see a preserved fish in a
+glass jar, a very extensive collection of various bugs on the desk, and
+a piece of polished wood on the desk.  There are also several rows of
+desks which are for the novices themselves.
+~
+208 8 0
+D2
+The novices hallway is to the south.
+~
+~
+0 -1 20849
+S
+#20851
+Hallway~
+   You are standing in a short hallway to the west of the main hall.
+This wing of the building is used to house the classrooms for the novices
+that come to this school.  There is a row of heavy oak benches along the
+south wall which are polished smooth from many years of use.  Sconces
+which hold glowballs instead of torches provide the light.  The hallway
+continues east, west, and north into a classroom.
+~
+208 8 0
+D0
+A psionicist classroom is to the north.
+~
+~
+0 -1 20852
+D1
+The hallway stretches east.
+~
+~
+0 -1 20849
+D3
+The hallway stretches west.
+~
+~
+0 -1 20853
+S
+#20852
+Classroom~
+   You are in one of eight classrooms used by the psionic masters of the
+school to teach novices.  At one end of the room is a large ebony desk
+which is covered with books and trinkets.  You see a large quill, an
+inkpot, a small jar of sand, and a stack of unused parchment on the desk. 
+There are also several rows of desks which are for the novices themselves.
+~
+208 8 0
+D2
+The novices hallway is to the south.
+~
+~
+0 -1 20851
+S
+#20853
+Hallway~
+   You are standing in a short hallway to the west of the main hall.
+This wing of the building is used to house the classrooms for the novices
+that come to this school.  There is a row of heavy oak benches along the
+south wall which are polished smooth from many years of use.  Sconces
+which hold glowballs instead of torches provide the light.  The hallway
+continues east, west, and north into a classroom.
+~
+208 8 0
+D0
+A psionicist classroom is to the north.
+~
+~
+0 -1 20854
+D1
+The hallway stretches east.
+~
+~
+0 -1 20851
+D3
+The hallway stretches west.
+~
+~
+0 -1 20855
+S
+#20854
+Classroom~
+   You are in one of eight classrooms used by the psionic masters of the
+school to teach novices.  At one end of the room is a large ebony desk
+which is covered with books and trinkets.  You see a small cow doll,
+and a piece of parchment with the word Frog written on it in flowing
+script.  There are also several rows of desks which are for the novices
+themselves. 
+~
+208 8 0
+D2
+The novices hallway is to the south.
+~
+~
+0 -1 20853
+S
+#20855
+Hallway~
+   You are standing in a short hallway to the west of the main hall.
+This wing of the building is used to house the classrooms for the novices
+that come to this school.  There is a row of heavy oak benches along the
+south wall which are polished smooth from many years of use.  Sconces
+which hold glowballs instead of torches provide the light.  The hallway
+continues east, and north into a classroom.
+~
+208 8 0
+D0
+A psionicist classroom is to the north.
+~
+~
+0 -1 20856
+D1
+The hallway stretches east.
+~
+~
+0 -1 20853
+S
+#20856
+Classroom~
+   You are in one of eight classrooms used by the psionic masters of the
+school to teach novices.  At one end of the room is a large ebony desk
+which is covered with books and trinkets.  You see a large leather-bound
+book on a pedastal.  A large ball of fur 3 paces wide is setting on a
+heavy iron table in the corner.  There are also several rows of desks
+which are for the novices themselves.
+~
+208 8 0
+D2
+The novices hallway is to the south.
+~
+~
+0 -1 20855
+S
+#20857
+Second floor hallway~
+   You are standing at the north end of a hallway on the second
+floor of the school that runs north and south directly above the main
+hallway on the floor below.  The bright green stone is still used for the
+walls and ceiling.  However the floor has been replaced with a checkered
+pattern of red and blue colored marble.  The green stone ceiling on this
+floor seem to glow brightly, brightly enough to illuminate the hallway
+without the use of torches or glowballs.  The floor is very worn from the
+countless years that the psionic masters have walked these halls.
+~
+208 8 0
+D2
+The hallway stretches south.
+~
+~
+0 -1 20858
+D5
+A spiral staircase leads down.
+~
+~
+0 -1 20839
+S
+#20858
+Second floor hallway~
+   You are standing in a hallway on the second floor of the school
+that runs north and south directly above the main hallway on the floor
+below.  The bright green stone is still used for the walls and ceiling. 
+However the floor has been replaced with a checkered pattern of red and
+blue colored marble.  The green stone ceiling on this floor seem to glow
+brightly, brightly enough to illuminate the hallway without the use of
+torches or glowballs.  The floor is very worn from the countless years
+that the psionic masters have walked these halls.
+~
+208 8 0
+D0
+The hallway stretches north.
+~
+~
+0 -1 20857
+D2
+The hallway stretches south.
+~
+~
+0 -1 20859
+S
+#20859
+Second floor hallway~
+   You are standing in a hallway on the second floor of the school
+that runs north and south directly above the main hallway on the floor
+below.  The bright green stone is still used for the walls and ceiling.
+However the floor has been replaced with a checkered pattern of red and
+blue colored marble.  The green stone ceiling on this floor seem to glow
+brightly, brightly enough to illuminate the hallway without the use of
+torches or glowballs.  The floor is very worn from the countless years
+that the psionic masters have walked these halls.
+~
+208 8 0
+D0
+The hallway stretches north.
+~
+~
+0 -1 20858
+D2
+The hallway stretches south.
+~
+~
+0 -1 20860
+S
+#20860
+Second floor hallway~
+   You are standing in a hallway on the second floor of the school
+that runs north and south directly above the main hallway on the floor
+below.  The bright green stone is still used for the walls and ceiling.
+However the floor has been replaced with a checkered pattern of red and
+blue colored marble.  The green stone ceiling on this floor seem to glow
+brightly, brightly enough to illuminate the hallway without the use of
+torches or glowballs.  To the east is one of the rooms where the upper
+level students are housed.
+~
+208 8 0
+D0
+The hallway stretches north.
+~
+~
+0 -1 20859
+D1
+A doorway opens into apprentice quarters.
+~
+door small
+~
+1 0 20886
+D2
+The hallway stretches south.
+~
+~
+0 -1 20861
+S
+#20861
+Second floor hallway~
+   You are standing in a hallway on the second floor of the school
+that runs north and south directly above the main hallway on the floor
+below.  The bright green stone is still used for the walls and ceiling.
+However the floor has been replaced with a checkered pattern of red and
+blue colored marble.  The green stone ceiling on this floor seem to glow
+brightly, brightly enough to illuminate the hallway without the use of
+torches or glowballs.  To the east is one of the rooms where the upper
+level students are housed.
+~
+208 8 0
+D0
+The hallway stretches north.
+~
+~
+0 -1 20860
+D1
+A doorway opens into apprentice quarters.
+~
+door small
+~
+1 0 20887
+D2
+The hallway stretches south.
+~
+~
+0 -1 20862
+S
+#20862
+Second floor hallway~
+   You are standing at the south end of a hallway on the second floor
+of the school that runs north and south directly above the main hallway on
+the floor below.  The bright green stone is still used for the walls and
+ceiling.  However the floor has been replaced with a checkered pattern of
+red and blue colored marble.  The green stone ceiling on this floor seem
+to glow brightly, brightly enough to illuminate the hallway without the
+use of torches or glowballs.  To the east is one of the rooms where the
+upper level students are housed and to the west is the lecture and 
+training hall.  A glowing green spiral staircase leads up to the third
+floor of the school.
+~
+208 8 0
+D0
+The hallway stretches north.
+~
+~
+0 -1 20861
+D1
+A doorway opens into apprentice quarters.
+~
+door small
+~
+1 0 20888
+D3
+A square arch leads to the lecture hall.
+~
+~
+0 -1 20863
+D4
+A glowing staircase leads up.
+~
+~
+0 -1 20875
+S
+#20863
+Lecture Hall~
+   This is the main lecture hall used for large gatherings at the
+school. This is also the room in the school where the apprentices study
+and practice psionics.  The psionics taught in this room are more
+difficult than those taught downstairs to the novices in the classrooms.
+The room itself is made of the same glowing green stone that comprises the
+second floor of the school.  This side of the hall is mainly occupied
+tables and benches for students and teachers alike.  The hall continues
+north and west.
+~
+208 136 0
+D0
+The lecture hall continues north.
+~
+~
+0 -1 20864
+D1
+The square arch leads west.
+~
+~
+0 -1 20862
+D3
+The lecture hall continues west.
+~
+~
+0 -1 20865
+S
+#20864
+Lecture Hall~
+   This is the main lecture hall used for large gatherings at the
+school.  This is also the room in the school where the apprentices study
+and practice psionics.   The psionics taught in this room are more
+difficult than those taught downstairs to the novices in the classrooms. 
+The room itself is made of the same glowing green stone that comprises the
+second floor of the school.  This side of the hall is mainly occupied
+tables and benches for students and teachers alike.  The hall continues
+south and west.
+~
+208 136 0
+D2
+The lecture hall continues south.
+~
+~
+0 -1 20863
+D3
+The lecture hall continues west.
+~
+~
+0 -1 20866
+S
+#20865
+Lecture Hall~
+   This is the main lecture hall used for large gatherings at the
+school.  This is also the room in the school where the apprentices study
+and practice psionics.  The psionics taught in this room are more 
+difficult than those taught downstairs to the novices in the classrooms.
+The room itself is made of the same glowing green stone that comprises the
+second floor.  The floor here is empty so that there is plenty of room for
+apprentices to practice.  The hall continues north east and west.
+~
+208 8 0
+D0
+The lecture hall continues north.
+~
+~
+0 -1 20866
+D1
+The lecture hall continues east.
+~
+~
+0 -1 20862
+D3
+The lecture hall continues west.
+~
+~
+0 -1 20867
+S
+#20866
+Lecture Hall~
+   This is the main lecture hall used for large gatherings at the
+school. This is also the room in the school where the apprentices study
+and practice psionics.  The psionics taught in this room are more
+difficult than those taught downstairs to the novices in the classrooms.
+The room itself is made of the same glowing green stone that comprises the
+second floor.  The floor here is empty so that there is plenty of room for
+apprentices to practice.  The hall continues south east and west.
+~
+208 8 0
+D1
+The lecture hall continues east.
+~
+~
+0 -1 20864
+D2
+The lecture hall continues south.
+~
+~
+0 -1 20865
+D3
+The lecture hall continues west.
+~
+~
+0 -1 20868
+S
+#20867
+Lecture Hall~
+   This is the main lecture hall used for large gatherings at the
+school.  This is also the room in the school where the apprentices study
+and practice psionics.  The psionics taught in this room are more 
+difficult than those taught downstairs to the novices in the
+classrooms.The room itself is made of the same glowing green stone that
+comprises the second floor.  The floor here is empty so that there is
+plenty of room for apprentices to practice. The hall continues north and
+east.
+~
+208 8 0
+D0
+The lecture hall continues north.
+~
+~
+0 -1 20868
+D1
+The lecture hall continues east.
+~
+~
+0 -1 20865
+S
+#20868
+Lecture Hall~
+   This is the main lecture hall used for large gatherings at the
+school.  This is also the room in the school where the apprentices study
+and practice psionics.  The psionics taught in this room are more
+difficult than those taught downstairs to the novices in the classrooms. 
+The room itself is made of the same glowing green stone that comprises the
+second floor.  The floor here is empty so that there is plenty of room for
+apprentices to practice.  The hall continues south and east.
+~
+208 8 0
+D1
+The lecture hall continues east.
+~
+~
+0 -1 20866
+D2
+The lecture hall continues south.
+~
+~
+0 -1 20867
+S
+#20869
+The tower~
+   You are in the northern most part of the school, inside the tall spire
+that you saw when you approached the school.  The customary glowing green
+stone is used for the construction of the tower except it glows even
+brighter here than it does in other parts of the school.  The stone
+glows so bright in fact that it is as bright as day.  The only difference
+being that everything looks green here.  The room itself is circular in
+shape and continues south and straight up. You barley notice a large
+hidden door on the rough hewn surface of the south wall.
+~
+208 8 0
+D2
+The hall stretches south.
+~
+wall section stone door
+~
+2 20801 20870
+D4
+The tower heads up.
+~
+~
+0 -1 20879
+S
+#20870
+Upper level hallway~
+   You are in the top floor of the psionicist school.  As with the
+rest of the building, green stone was used for construction.  In the
+middle of the floor is a giant gold inlaid triskelion.  The construction
+on the north wall of this area appears unfinished.  The wall has a rough
+hewn surface of green stone, and it does not glow like everywhere else.
+~
+208 8 0
+D0
+The hallway leads into the tower.
+~
+wall section stone door
+~
+2 20801 20869
+D2
+The hallway stretches south.
+~
+~
+0 -1 20871
+S
+#20871
+Upper level hallway~
+   You are in the top floor of the psionicist school.  As with the
+rest of the building, green stone was used for construction.  The floor
+has a very polished look because of the countless times the psionic
+masters of the school have paced these halls.  Small golden triskelions
+are inlaid in the green stone on both the floors and walls.  The hallway
+continues both north and south.
+~
+208 8 0
+D0
+The upper hallway stretches north.
+~
+~
+0 -1 20870
+D2
+The hallway stretches south.
+~
+~
+0 -1 20872
+S
+#20872
+Upper level hallway~
+   You are in the top floor of the psionicist school.  As with the
+rest of the building, green stone was used for construction.  The floor
+has a very polished look because of the countless times the psionic
+masters of the school have paced these halls.  Small golden triskelions
+are inlaid in the green stone on both the floors and walls.  The hallway
+continues both north and south.
+~
+208 8 0
+D0
+The hallway stretches north.
+~
+~
+0 -1 20871
+D2
+The hallway stretches south.
+~
+~
+0 -1 20873
+S
+#20873
+Upper level hallway~
+   You are in the top floor of the psionicist school.  As with the
+rest of the building, green stone was used for construction.  The floor
+has a very polished look because of the countless times the psionic
+masters of the school have paced these halls.  Small golden riskelions
+are inlaid in the green stone on both the floor and walls.  A circular
+door with a triskelion leads east into a psionic masters room.  The
+hallway continues both north and south.
+~
+208 8 0
+D0
+The hallway stretches north.
+~
+~
+0 -1 20872
+D1
+The circular door leads to a room.
+~
+door circle circular triskelion
+~
+1 0 20876
+D2
+The hallway stretches south.
+~
+~
+0 -1 20874
+S
+#20874
+Upper level hallway~
+   You are in the top floor of the psionicist school.  As with the
+rest of the building, green stone was used for construction.  The floor
+has a very polished look because of the countless times the psionic
+masters of the school have paced these halls.  Small golden triskelions
+are inlaid in the green stone on both the floors and walls.  A circular
+door with a triskelion leads east into a psionic masters room.  The
+hallway continues both north and south.
+~
+208 8 0
+D0
+The hallway stretches north.
+~
+~
+0 -1 20873
+D1
+The circular door leads to a room.
+~
+door circle circular triskelion
+~
+1 0 20877
+D2
+The hallway stretches south.
+~
+~
+0 -1 20875
+S
+#20875
+Upper level hallway~
+   You are in the top floor of the psionicist school.  As with the
+rest of the building, green stone was used for construction.  The floor
+has a very polished look because of the countless times the psionic
+masters of the school have paced these halls.  Small golden triskelions
+are inlaid in the green stone on both the floors and walls.  A circular
+door with a triskelion leads east into a psionic masters room.  The
+hallway continues north, while a glowing green staircase leads down to the
+apprentice level of the school.
+~
+208 8 0
+D0
+The hallway stretches north.
+~
+~
+0 -1 20874
+D1
+The circular door leads to a room.
+~
+door circle circular triskelion
+~
+1 0 20878
+D5
+A glowing staircase leads down.
+~
+~
+0 -1 20862
+S
+#20876
+Room of the masters~
+   This is the private bedchamber and study of one of the psionic
+masters.  The room has a large bed, a desk, and a number of bookshelves
+which hold the personal library of the psionicist who inhabits this room.
+The floor is a beautifully polished oak, and the bed and desk are ornately
+carved in oak and gilded.  Light is provided by a large glowball which is
+sitting on the desk.
+~
+208 8 0
+D3
+A circular door leads back to the hall.
+~
+~
+1 0 20873
+S
+#20877
+Room of the masters~
+   This is the private bedchamber and study of one of the psionic
+masters.  The room has a large bed, a desk, and a number of bookshelves
+which hold the personal library of the psionicist who inhabits this room.
+The floor is a beautifully polished oak, and the bed and desk are ornately
+carved in oak and gilded.  Light is provided by a large glowball which is
+sitting on the desk.
+~
+208 8 0
+D3
+A circular door leads back to the hall.
+~
+~
+1 0 20874
+S
+#20878
+Room of the masters~
+   This is the the private bedchamber and study of one of the psionic
+masters.  The room has a large bed, a desk, and a number of bookshelves
+which hold the personal library of the psionicist who inhabits this room.
+The floor is a beautifully polished oak, and the bed and desk are ornately
+carved in oak and gilded.  Light is provided by a large glowball which is
+sitting on the desk.
+~
+208 8 0
+D3
+A circular door leads back to the hall.
+~
+~
+1 0 20875
+S
+#20879
+The tower~
+   You are in the northern most part of the building, inside the tall
+spire
+that you saw when you first approached the school.  The customary glowing
+green stone is used for the construction of the tower except it glows even
+brighter here than it does in other parts of the school. The stone glows  
+so bright in fact that it is as bright as day, the only difference being
+that everything looks green here.  There are no stairs or hand holds on
+the walls.  The only way to move around in this tower is to fly.  The room
+itself is circular in shape and continues straight up and down.
+~
+208 adp 9
+D4
+The tower heads up.
+~
+~
+0 -1 20880
+D5
+The tower leads down.
+~
+~
+0 -1 20869
+S
+#20880
+The tower~
+   You are in the northern most part of the building, the top of the 
+tall spire that you saw when you approached the school.  The customary
+glowing green stone is used for the construction of the tower except it
+glows even brighter here than it does in other parts of the school.  The
+stone glows so bright in fact that it is as bright as day, the only
+difference being that everything looks green here.  There are no stairs or
+hand holds on the walls.  The only way to move around in this tower 
+is to fly.  The room itself is circular in shape and continues straight
+down.  There is also a doorway to the south.
+~
+208 adp 9
+D2
+A doorway leads south.
+~
+door doorway
+~
+1 0 20881
+D5
+The tower leads down.
+~
+~
+0 -1 20879
+S
+#20881
+Creston's Room~
+   You are in the room of the master psionicist Creston.  The construction
+of the room is vastly different from the rest of the school.  The walls
+ceiling and floor seem to be made of a semi-transparent glass like
+substance that changes colors when you look at it.  The walls are so shiny
+that the torches and candles that provide illumination send a dazzling
+array of colored light dancing across every surface of the room.  A large
+platinum triskelion is inlaid into the floor.  There is a doorway to the
+north.
+~
+208 8 0
+D0
+A doorway leads north.
+~
+door doorway
+~
+1 0 20880
+S
+#20882
+Basement~
+   This is the basement below the school.  You are actually in a very
+small cramped tunnel that is made of a dull gray stone instead of the
+brilliant glowing green of the rest of the school.  It appears to be
+carved out of the bedrock as an afterthought and not part of origional
+plans.  A thick layer of dust and cobwebs cover everything, and by the
+lack of footsteps, apparently nobody has been down here in a while.  There
+is a staircase leading up to the courtyard, while the tunnel winds off to
+the east.
+~
+208 9 1
+D1
+The tunnel winds east.
+~
+~
+0 -1 20883
+D4
+A spiral set of stairs leads up.
+~
+fountain green fish~
+1 0 20805
+S
+#20883
+Basement~
+   This is the basement below the school.  You are actually in a very
+small cramped tunnel that is made of a dull gray stone instead of the
+brilliant glowing green of the rest of the school.  It appears to be
+carved out of the bedrock as an afterthought.  The further you travel
+through the tunnel, the smaller it gets.   A thick layer of dust and
+cobwebs cover everything, and by lack of footsteps, apparently nobody
+has been down here in a while.  The tunnel winds off to the north and
+west.
+~
+208 9 1
+D0
+The tunnel winds north.
+~
+~
+0 -1 20884
+D3
+The tunnel winds west.
+~
+~
+0 -1 20882
+S
+#20884
+Basement before the Cage~
+   This is the basement below the school.  The tunnel openes up into
+a small room, again carved out of the dull gray bedrock instead of the
+bright green stone.  A thick layer of dust and cobwebs cover everything,
+and by the lack of footsteps, apparently nobody has been down here in a
+while.  There is an rusted iron gate bolted to the west wall apparently to
+keep something inside.  The tunnel winds off to the south. 
+~
+208 9 1
+D2
+The tunnel winds south.
+~
+~
+0 -1 20883
+D3
+The gateway leads into the cage.
+~
+gate gateway rusted rust iron
+~
+1 0 20885
+S
+#20885
+The Cage~
+   You are inside the cage that usually contains the Lhurgoif.  The walls 
+of this cage are a gray stone that has been polished over the years from 
+the giant beast beating and clawing at the walls.  There are many bones 
+lying everywhere, the remains of the Lhurgoifs meals.  A gate leads out
+of the cage to the east.
+~
+208 137 1
+D1
+The gateway leads out of the cage.
+~
+gate gateway rusted rust iron
+~
+1 20800 20884
+S
+#20886
+Apprentice Quarters~
+   This room is one of the apprentice quarters, where the upper level
+students of the school live.  The rooms here are of a much higher quality
+than that of the novice quarters below.  The desks and beds are made out
+of oak and  carved with intricate designs of animals and plants.  The
+floor has a large rug on it with a golden triskelion woven into it.  A few
+tapestries adorn the walls with pictures of powerful psionicists.  A small
+door along the west wall leads back to the hall.
+~
+208 8 0
+D3
+The doorway leads into the hall.
+~
+door small
+~
+1 0 20860
+S
+#20887
+Apprentice Quarters~
+   This room is one of the apprentice quarters, where the upper level
+students of the school live.  The rooms here are of a much higher quality
+than that of the novice quarters below.  The desks and beds are made out
+of oak and  carved with intricate designs of animals and plants.  The
+floor has a large rug on it with a golden triskelion woven into it.  A few
+tapestries adorn the walls with pictures of powerful psionicists.  A small
+door along the west wall leads back to the hall.
+~
+208 8 0
+D3
+The doorway leads into the hall.
+~
+door small
+~
+1 0 20861
+S
+#20888
+Apprentice Quarters~
+   This room is one of the apprentice quarters, where the upper level
+students of the school live.  The rooms here are of a much higher quality
+than that of the novice quarters below.  The desks and beds are made out
+of oak and  carved with intricate designs of animals and plants.  The
+floor has a large rug on it with a golden triskelion woven into it.  A few
+tapestries adorn the walls with pictures of powerful psionicists.  A small
+door along the west wall leads back to the hall.
+~
+208 8 0
+D3
+The doorway leads into the hall.
+~
+door small~
+1 0 20862
+S
+#20889
+Mob Chute~
+Mob Chute
+~
+208 u 0
+D0
+north
+~
+~
+0 0 20829
+D1
+0
+~
+~
+0 0 20826
+D2
+~
+~
+0 0 20817
+D3
+~
+~
+0 0 20819
+D4
+~
+~
+0 0 20815
+D5
+
+~
+~
+0 0 20820
+S
+#20890
+mob chute~
+mob chute
+~
+208 u 0
+D0
+~
+~
+0 0 20828
+D1
+~
+~
+0 0 20827
+D2
+~
+~
+0 0 20820
+D3
+~
+~
+0 0 20818
+D4
+~
+~
+0 0 20822
+S
+#20891
+mob chute~
+mob chute
+~
+208 u 0
+D0
+~
+~
+0 0 20825
+D1
+~
+~
+0 0 20824
+D2
+~
+~
+0 0 20821
+D3
+~
+~
+0 0 20823
+D4
+~
+~
+0 0 20816
+S
+#20892
+mob chute~
+mob chute
+~
+208 u 0
+D0
+~
+~
+0 0 20856
+D1
+~
+~
+0 0 20854
+D2
+~
+~
+0 0 20850
+D3
+~
+~
+0 0 20851
+D4
+~
+~
+0 0 20853
+D5
+~
+~
+0 0 20855
+S
+#20893
+mob chute~
+mob chute
+~
+208 u 0
+D0
+~
+~
+0 0 20848
+D1
+~
+~
+0 0 20844
+D2
+~
+~
+0 0 20842
+D3
+~
+~
+0 0 20841
+D4
+~
+~
+0 0 20845
+D5
+~
+~
+0 0 20871
+S
+#99999
+$~

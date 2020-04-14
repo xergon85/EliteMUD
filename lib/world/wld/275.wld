@@ -1,0 +1,910 @@
+#27500
+#wThe Academy Archives#N~
+   In the vast basement of the Academy of the Midnight Sun huge amounts 
+of just about everything is stored. The Academy goes by the rule that 
+anything that is not being used at the moment and seems to be the least 
+bit useful is to be archived. After all, somebody might need it for their 
+studies sometime in the distant future.
+~
+275 duz 0
+D4
+~
+~
+0 -1 27506
+S
+#27501
+#wBy the Tower#N~
+   You see before you a majestic palace of gold, surrounded by rolling 
+hills, deep valleys, wooded forests, and deep blue lakes. Not long ago, 
+this was the home of the rulers of this world, their companions and 
+servants, and their favourites among the mortals.
+However, something looks different. The palace is not what it used to be.
+There is an all new atmosphere around the place, an atmosphere of wisdom 
+and knowledge that you have never felt here before. This used to be a 
+quiet place, but now students and lectors are walking around, holding 
+intellectual or philosophical discussions. You come to realise that the 
+palace has been rebuilt completely, and that it now looks rather small 
+compared to the huge tower to the west of it. A huge oak gate leads into 
+the tower. There is an inscription on it.
+~
+275 uz 0
+D0
+~
+~
+0 -1 27506
+D2
+~
+~
+0 -1 3000
+D3
+~
+door wooden oak gate~
+11 -1 27502
+E
+inscription sign~
+The Academy of #bT#Ch#we #bM#Ci#wdnig#Ch#bt S#Cu#wn#N.
+~
+S
+#27502
+#wThe Entrance Room#N~
+   As you enter the Academy of the Midnight Sun, an air of freedom
+surrounds you, and you feel that you are in the presence of intellectual
+atmosphere. At the same time, you get a feeling of peace and tranquility.
+Right ahead of you is a small gallery.
+#GThere is a sign on the wall.#W
+~
+275 duz 0
+D0
+~
+~
+0 -1 27503
+D1
+~
+door~
+11 -1 27501
+E
+sign~
+         Welcome to Academy of #bT#Ch#we #bM#Ci#wdnig#Ch#bt S#Cu#wn#N!
+
+                       Some useful directions:
+
+A.  Regen room    (#wMarble Foyer#W)         #wne#W      from here.
+B.  Clan board    (#wLibrary#W)              #wnus#W     from here.
+C.  Shopkeeper    (#wLounge#W)               #wnn#W      from here.
+D.  Donation room (#wThe Academy Archives#W) #wned#W     from here.
+
+         This place from #rtemple#W             #wwnw#W.
+~
+S
+#27503
+#wThe Gallery#N~
+   The walls in this room are covered with paintings of ancient 
+philosophers and scientists, as well as contemporary ones. There are also 
+a number of busts, of which you recognise some as portraying famous 
+champions of peace and equality. In the far end of the room, there is a 
+spiral staircase leading up, on the right wall is a door with a sign 
+reading "To the Museum" on it and straight ahead you see something that 
+reminds you of a tavern, only more calm.
+~
+275 duz 0
+D0
+~
+~
+0 -1 27504
+D1
+~
+~
+0 -1 27506
+D2
+~
+~
+0 -1 27502
+D4
+~
+~
+0 -1 27510
+S
+#27504
+#wThe Lounge#N~
+   During their free time, students at the Academy often come here to 
+relax and have a drink or a meal. You could have thought this was a 
+tavern, but it isn't quite rowdy enough, and smells much, much too good. 
+In the far right of the room is a counter and on the wall behind it you 
+see a menu. There are a number of windows and a door on the left wall, 
+leading out to the exercising grounds of the Academy.
+~
+275 deuz 0
+D2
+~
+~
+0 -1 27503
+D3
+~
+~
+0 -1 27505
+S
+#27505
+#wThe Exercising Grounds#N~
+   To this small, enclosed field on the west side of the Academy tower
+students often come to bide their time with jousting and fencing or to
+practice spellcasting or martial arts. In a roofed area by the tower you 
+see a large collection of swords, rapiers, sabres and other odd weapons. 
+They all seem to be surrounded by a faint glow. There is a small stable 
+next to it.
+~
+275 ruz 0
+D0
+~
+~
+0 -1 27505
+D1
+~
+door~
+1 -1 27504
+D2
+~
+~
+0 -1 27505
+D3
+~
+~
+0 -1 27505
+S
+#27506
+#wThe Marble Foyer#N~
+   Paintings, chandelliers, marble stairways, murals - nothing can fully
+describe the wealth that is on display here. For some reason, it seems a
+little quiet today - perhaps everyone is out adventuring.
+#GThere is a sign on the wall.#N
+~
+275 dtuz 0
+D0
+~
+~
+0 -1 27530
+D1
+door~
+#G#Y#W#R#g#c#g#m#b#W dveri~
+11 -1 27507
+D2
+~
+~
+0 -1 27501
+D3
+~
+~
+0 -1 27503
+D5
+~
+~
+0 -1 27500
+E
+sign~
+The ELITE Palace Museum of The Academy of the Midnight Sun
+
+Welcome to the Palace Museum. In here, we have preserved a part of the 
+palace that used to be situated here, so that students at the Academy may 
+see what this place used to look like before the Academy was built.
+In each room there is a sign describing the past use of that room. Enjoy 
+your visit.
+
+The Marble Foyer used to be the majestic entrance to the whole palace, 
+and was also the place where its inhabitants took a rest after 
+adventuring. As you can see, the sofas, armchairs and divans are still 
+here and can still be used.
+Feel free to try them out.
+The stairs next to this sign lead down to the Academy Archives, which 
+have been installed below the old palace.
+~
+S
+#27507
+#wSpinner's Relaxation Room#N~
+   There are a lots of shelfs filled with ancient books, CDs and some odd
+storage devices. There is shield of #:r#yE#bL#yI#bT#yE#:N#N on the wall and banner
+of #bT#Ch#we #bM#Ci#wdnig#Ch#bt S#Cu#wn#N on opposite wall. You feel something odd 
+in the room. It is much bigger inside than you can ever imagine from outside!
+~
+275 duz 0
+D3
+door~
+#G#Y#W#R#g#c#g#m#b#W, dveri~
+11 -1 27506
+E
+concealed_sign hidden_sign~
+This is the room of Spinner, one of the former members of the ELITE clan. 
+He is now a student here at the Academy, and the superintendent of this 
+museum.  This sign has been concealed for the sake of Spinner's privacy, 
+so please do not ask us to make it more conspicuous.
+~
+S
+#27508
+#wThe Throne Room#N~
+   Could it be? Yes, this throne is cut out of a single, flawless, 
+solitary diamond. A regal red carpet leads up to it, and you kneel down 
+out of respect, as the sheer power of the clan eminates before you. 
+Thousands upon thousands of gems litter the room, and the sparkle of them 
+illuminates the room in an almost surreal manner. It is no wonder that 
+only the creme de la creme can be found here, as this is truly elite!
+#GThe ELITE clan bulletin board is mounted on a wall here.#N
+#GThere is a sign on the wall.#N
+~
+275 duz 0
+D1
+~
+~
+0 -1 27509
+D2
+~
+~
+0 -1 27530
+E
+board~
+This is a ELITE clan bulletin board.  Usage: READ/REMOVE <messg ##>,
+WRITE <header>.
+You will need to look at board to save your message.
+There are #w4#W messages.
+#w1#N  : #YThu Feb 10#c (Whole clan) #W:: #rCLAN BOARD and greetings :)#W
+#w2#N  : #YFri Jan 15#c (Cardinal)   #W:: #wIdea of Code for AMS clan#W
+#w3#N  : #YFri Apr  4#c (Rasputen)   #W:: #gClan Councill#W
+#w4#N  : #YMon Jan 27#c (Greyfair)   #W:: #gQuitting#W
+#w5#N  : #YSat Feb 25#c (IO)         #W:: #rRanks of ELITE clan#W
+~
+E
+1~
+Message 1 : #YThu Feb 10#W #c(Whole clan)#W:: #rCLAN BOARD and greetings
+:)#W
+
+   Real AMS CLAN BOARD is #wsswus#W from here in Library room.
+
+This is ELITE clan memorial board. Only one message per each period
+                of #:r#yE#bL#yI#bT#yE#:N#N clan story is keeped.
+
+   We shall thank all clannies who helped to build new clan house.
+
+   Special thanks to #GMelody#W who worked hard to implement it all.
+
+~
+E
+2~
+Message 2 : #YFri Jan 15#W #c(Cardinal)   #W:: #wIdea of Code for AMS clan#W
+
+                       MORTAL CODE OF ETHICS
+
+I.     Be fair.  This doesn't just mean to try to act fair.  It also 
+       means avoiding situations in which your impartiality can be 
+       compromised.  These situations can include posting on board cases 
+       where clan members, friends, signifigant others or enemies are 
+       concerned.  If this means waiting until another non-involved 
+       mortal arrives, so be it.
+
+       A.  Fairness is more important than justice.
+       B.  If you are personally involved in a rules dispute, odds are 
+           you can't be fair.  Get another mortal to adjudicate it.
+       C.  Your mortal is a tool to be used to help the mud, not a bonus
+           to help your immortals or the immortals of others.  This means
+           you should avoid situations where your mortal gives you an 
+           edge in politics. Dont cheat - it helps some useless immortals 
+           to look as useful. If you found a bug, try to report it to 
+           115+, but not to your clannie/RL friend imm.
+           If you are online, resist the urge to log on a immortal when
+           you see someone stole kill from you.
+
+II.    Listen.  Don't assume things about immortals, and don't act like 
+       they all are stupid.  If they are talking to us, they may be have 
+       something important to say.
+
+III.   Understand.  Remember, a lot of things on a mud can make people
+       angry.  Try to understand why a immortal feels the way he does.
+       Put yourself in their shoes, and only if he knows what he acts
+       unfair, post case on mortal board.
+
+IV.   Be considerate.  Having an mortal gives you a lot of clout in
+      discussions.  Use it, don't abuse it.  Always remember that you
+      are an mortal and represent Elite, even when you are playing
+      a immortal.
+
+      A.  A special note on consideration.  Remember, many of our users
+          speak english as their second language.  Be very courteous when
+          dealing with these people, and try your best to understand what
+          they are saying.  Sometimes this will mean asking another 
+          player to help.
+
+      B.  While there is nothing wrong with playing low level chars,
+          try to play main character when actually criticizing immortals.
+          If you have reason to hide, consider why;  you may have a 
+          conflict of interest (such as the immortal hates you) and in 
+          this case, it is better if you ask another mortal to help.
+
+V.    Use common sense.  Don't get angry when dealing with immortals.  It
+      only makes it worse.  If they are angry, let them blow off some
+      steam first.  If you are angry, stop dealing with them problem and
+      let someone else take care of it.  If people are unable to agree,
+      never underestimate the value of compromise -- even if one person
+      is wrong.
+
+VI.   Don't make a mistake because you're afraid to ask questions.  If 
+      you don't know what to do, ask another experienced player to help 
+      you.  Also, if you need to make a ruling, be sure to gather the 
+      facts before reporting or posting.  It's more important to answer 
+      the questions of "why" and "how" than the question of "who" and 
+      "what", and all your rulings should have a basis in fact, and not 
+      rhetoric or bias.
+
+VII.  The experienced players in here are a team.  The best way for us to
+      work is through constructive work and constructive criticism.
+      If we have problems, they should be solved among the mortals --
+      including the immortals in our conflicts will only make them worse.
+
+VIII. EliteMUD is a hobby for all of us, just as it is a hobby for the
+      immortals.  All your actions should be guided by this concept;
+      for us is not a job, it is a game.
+~
+E
+3~
+Message 3 : #YFri Apr  4#W #c(Rasputen)   #W:: #gClan Councill#W
+
+First ELITE clan councill was elected. Next clan members will
+receive rank 8 (highest mortal rank in clan):
+
+  Aliku, Garm, Spinner, Smarties, Raggok, Cardinal.
+
+Clan Councill will run clan together with Deity.
+~
+E
+4~
+Message 4 : #YMon Jan 27#W #c(Greyfair)   #W:: #gQuitting#W
+
+Because with new remort system 4th remorts have nothing to do, i decided
+to stop playing here. Same as most of current fourth remorts.
+May be i will return if things will change.
+#W
+                                           Greyfair.
+~
+E
+5~
+Message 5 : #YSat Feb 25#W #c(IO)         #W:: #rRanks of ELITE clan#W
+
+Rank 10: #rOVERGOD#W - Implementor
+Rank 9:  #gDeity#W   - Immortals
+Rank 8:  #wAngel#W   - up to Deity+
+Rank 7:  #wLord#W    - up to Deity+
+Rank 6:  #mCounsel#W - level 80+
+Rank 5:  #yBishop#W  - level 60-80
+Rank 4:  #cKnight#W  - level 40-60
+Rank 3:  #bSquire#W  - level 20-40
+Rank 2:  #GPage#W    - level 10-20
+
+    Be nice to clannies and you will have rank 9.
+~
+E
+sign~
+This is the throne on which IO the Creator presided over his subjects.
+This is also where the clan's notice board was located. It, too, has been
+preserved, with some old messages on it.
+~
+S
+#27509
+#w[ELITE]'s Immroom#N~
+   This is the room for [ELITE]'s immortal members. You can often catch 
+them in here shooting the breeze, playing poker, and making fun of 
+whoever happens to be in jail at the time.
+#GThere is a sign on the wall.#N
+~
+275 djuz 0
+D3
+~
+~
+0 -1 27508
+E
+sign~
+This used to be the meeting place of the divine members of the ELITE 
+clan. In this room, many an odd thing have taken place.
+Research is currently being conducted at the Academy on the subject of 
+what the gods of ELITE actually did, and what this room was really for.
+~
+S
+#27510
+#wThe Assembly Hall#N~
+   This is the large assembly hell of the Academy, where all the students
+and staff gather for ceremonies, informational meetings and voting
+sessions. The hall is very large - 300 persons would have no problem
+finding space in here. In the middle of each wall is a small door.
+~
+275 duz 0
+D0
+~
+~
+0 -1 27519
+D1
+~
+~
+0 -1 27518
+D2
+~
+~
+0 -1 27511
+D3
+~
+~
+0 -1 27517
+D4
+~
+~
+0 -1 27515
+D5
+~
+~
+0 -1 27503
+S
+#27511
+#wThe Library#N~
+   If you did not know about the archives of the Academy, located below
+ground level, you would probably think that this must be the greatest
+collection of books in all of Midgaard. The walls are all lined with
+shelves, and the room itself divided into narrow corridors by bookcases.
+You get the feeling that this room holds more wisdom than anyone can ever
+grasp in a lifetime.
+~
+275 deuz 0
+D0
+~
+~
+0 -1 27510
+S
+#27512
+#wThe Realm of Chaos#N~
+   You open the door and enter the room, thinking it's the study of 
+Araga, one of the Deans here at the Academy. You soon realize you must be 
+mistaken. What you see you can describe best with one word: chaos. The 
+room's floor is approximately ten centimeters above that of the library 
+outside it, due to the scrolls and parchments covering it in a number of 
+layers. The table in the far end of the room is cluttered with books in 
+piles that reach to the ceiling. You can barely make out the small bed 
+underneath the huge piles of clothes and books. In at least twenty 
+different places in the room you can also see plates with half-eaten 
+meals on them. You dare not think of how many more can be found 
+underneath the "floor". You recall a vague memory of Araga keeping a 
+collection of rare mousetraps in this room, understand that your life may 
+be at risk, and leave very, very quickly.
+~
+275 duz 0
+D1
+~
+door small~
+1 -1 27529
+S
+#27513
+#wAMS Special Laboratory#N~
+   You imagine the best palace you can even see and in same second
+you see it here. Then you imagine cold and horror of City of
+Sitebanned and suddenly realize it is around you... Your illusions
+are stronger, than you, and next time you see Room of Hades, your
+sucky 1 HP and letters REBOOT appeared on wall... or Quest EQ store
+where you happened to pop after lucky crash...
+And you just understand that all your thoughts and feelings were logged
+for further statistical processing. You just feel self not a personality,
+but only as long structured sequence of zeros and ones which affects 
+other sequences...
+... which are processing in big computer, placed in this room. After 
+short look at it you realize that it used some magical features. Computer 
+is connected with some portals, like one which you used to enter in this 
+room. Big oak table in center of room is filled by printouts with 
+statistical information. Sign of #wxGRD#W on the south wall finally 
+explains you where you are... and why. Its not place where anyone can be 
+without reason.
+~
+275 djuz 0
+D0
+Those who live by feelings, can use this portal to reach happiness...~
+portal illusions~
+11 -1 27531
+D1
+door~
+#Y#c#w#g#c#R#r#y#b#W djcnjr~
+11 -1 27511
+D2
+door~
+#w#B#R#r#y#w#c#b#y#c#W~
+11 -1 27529
+D3
+door~
+#m#c#b#y#G#m#y#b#W pfgfl~
+11 -1 27506
+D5
+door~
+#G#W#W#r#g#m#y#b#W dybp~
+11 -1 27504
+S
+#27514
+#wThe Shadowy Room of Deathlord#N~
+   The room doesn't look as shadowy as the name might imply...maybe 
+that's because there's nobody living here yet. The room is completely 
+empty, except for the flower by the window and the chandelier in the 
+ceiling. On the inside of the door is a sign reading "Deathlord"
+~
+275 duz 0
+D2
+~
+door small~
+1 -1 27511
+D3
+~
+~
+0 -1 27529
+S
+#27515
+#wThe Drawing-Room#N~
+  In the small drawing-room outside the Council room chairs have been 
+placed along all walls, except the north one, in the center of which is a 
+large, moderately ornamented oak door leading to said room. On both sides 
+of the door are paintings of the Academy building and, on the floor, 
+large wooden chests.  You cannot make up your mind as to whether the 
+chests are actually used for storing something, or if they are just 
+ornamental.
+~
+275 duz 0
+D0
+~
+door wooden oak~
+11 -1 27516
+D4
+~
+~
+0 -1 27520
+D5
+~
+~
+0 -1 27510
+S
+#27516
+#wThe Council Room#N~
+   The room is dominated by a long table, along which the members of the 
+two councils of the Academy gather for their meetings. The table is lined 
+with chairs, and the walls with small cabinets at regular intervals. 
+Large maps of near and distant lands cover the walls, and in the ceiling 
+is a beautiful fresco depicting the world. In the center hangs a large - 
+but not too fancy - chandelier.
+~
+275 duz 0
+D0
+~
+door wooden oak~
+1 -1 27519
+D1
+~
+door wooden oak~
+1 -1 27518
+D2
+~
+door wooden oak~
+11 -1 27515
+D3
+~
+door wooden oak~
+1 -1 27517
+S
+#27517
+#wThe Theoretical Faculty#N~
+   The three institutions of the Theoretical Faculty use this room for 
+storing their documents in and for having a faculty meeting every now and 
+then. The room looks very well organized. There seems to be a place for 
+everything and nothing seems to be anywhere else than where it is 
+supposed to be. It does give the room a slightly cold look. On the south 
+wall is a large chart describing the organizational structure of the 
+Academy.
+~
+275 duz 0
+D1
+~
+door wooden oak~
+1 -1 27510
+E
+chart structure~
+Hierarchical structure of the Academy of the Midnight Sun
+ 
+                         AD
+                        / \
+                       HC LC
+                        \ /
+                         |---AB
+                         |
+                -------------------
+                |        |        |
+                TF      GRD       PF
+                |                 |
+            ---------         ---------
+            |   |   |         |   |   |
+            C   I   SD        QS  MS  A
+~
+S
+#27518
+#wThe Practical Faculty#N~
+   As you enter the room you realize that the people working in here must 
+be incredibly active. Even though the room is empty right now, you are 
+certain that there is somebody in here almost continuously. You remember 
+the stories of how the PF people can stay up three days in succession 
+without showing any sign of fatigue. Your eye suddenly catches a glimpse 
+of a flask inside a half-open cupboard. It has a label reading "Magic, 
+Energy Potion". Ah...so that's how they do it...
+~
+275 duz 0
+D3
+~
+door wooden oak~
+1 -1 27510
+S
+#27519
+#wThe Institution of Global Research and Development#N~
+   Being the largest institution of the Academy, the GRD has a meeting 
+room of its own. It is, however, not only a meeting room. There are a 
+large number of bookcases and cupboards along the walls, filled with 
+books, scrolls and strange-looking items. There is a big table in the 
+middle of the room, covered with strange plans and drawings.
+~
+275 douz 0
+D2
+~
+door wooden oak~
+1 -1 27510
+S
+#27520
+#wA corridor at the top of the Tower#N~
+   You walk through a rather narrow corridor at the top floor of the 
+Academy building. There is a door on each side. The one to the west has a 
+sign reading "Eagle", and the one to the east one reading "Frki". The 
+corridor continues to the north. There is a stairway leading down.
+~
+275 duz 0
+D0
+~
+~
+0 -1 27521
+D1
+~
+door wooden oak~
+1 -1 27524
+D3
+~
+door wooden oak~
+1 -1 27523
+D5
+~
+~
+0 -1 27515
+S
+#27521
+#wA corridor at the top of the Tower#N~
+   You walk through a rather narrow corridor at the top floor of the 
+Academy building. There is a door on each side. The one to the west has a 
+sign reading "Miklja", and the one to the east one reading "Pavel". The 
+corridor continues to the north and to the south.
+~
+275 duz 0
+D0
+~
+~
+0 -1 27522
+D1
+~
+door wooden oak~
+1 -1 27526
+D2
+~
+~
+0 -1 27520
+D3
+~
+door wooden oak~
+1 -1 27525
+S
+#27522
+#wA corridor at the top of the Tower#N~
+   You walk through a rather narrow corridor at the top floor of the
+Academy building. There is a door on each side. The one to the west has a
+sign reading "Sprite", and the one to the east one reading "Tin". The
+corridor continues to the north and to the south.
+~
+275 duz 0
+D0
+~
+~
+0 -1 27529
+D1
+~
+door wooden oak~
+1 -1 27528
+D2
+~
+~
+0 -1 27521
+D3
+~
+door wooden oak~
+1 -1 27527
+S
+#27523
+#wEagle's Nest#N~
+   High up in the tower eagles are flying in and out through a big 
+window. They soar over near and distant lands, gathering information. 
+Some of them are resting in a large nest on a shelf, others flying around 
+discussing what they have learned. Some are also cleaning up after the 
+party their master had the night and morning before.
+In one end of the room is a big bed made out of feathers. In the other
+you see a big desk, on which is a huge pile of notes and books. A big 
+eagle is trying to get som order on the desk.
+~
+275 duz 0
+D1
+~
+door wooden oak~
+1 -1 27520
+S
+#27524
+#wFrki's Sanitarium#N~
+   You are standing in the middle of a large room. The room is very, very
+bright. The brightness makes you feel like you're in some kind of a
+dream.  Everywhere around you, you can see strange creatures looking at
+you. It all seems like some kind of strange world. Everyone seems to be
+very strange here.  Right in front of you, you see some soldiers aiming
+at you. They are the "Disposable heroes".  On your left, you see a
+strange clown dancing all over the place. Is he crazy? He appears
+to be living in his own world of fun. He is the "Leper Messiah". He is
+holding the "Battery" in his hand which produces a very strange
+light.  In the middle of the room you see a large man sitting on his
+throne. He is the "Master of Puppets". As he sees you he greets you with
+an evil "Welcome home" and says "Damage Inc.". Everywhere around there 
+are servants protecting him. Above them there is a large golden "Orion".
+This place makes you very uncomfortable. Maybe you should leave? Maybe
+you are "The Thing that should not be"?!
+~
+275 deuz 0
+D3
+~
+door wooden oak~
+1 -1 27520
+S
+#27525
+#wMiklja's Torture Chamber#N~
+   As you enter a portal you find yourself in a dark and horrible room. 
+Around you you can see nothing but blood and corpses. You can't 
+understand what a room like this is doing in a place like this, but then 
+you remember that Miklja is a member of the Institution of Military 
+Studies. This must be his lab. Suddenly you hear a scream and start for 
+the door, but as you're trying to escape, Miklja appears in front of you. 
+You fall on your knees and start praying for your life...
+~
+275 druz 0
+D1
+~
+door wooden oak~
+1 -1 27521
+S
+#27526
+#wPavel's Universe#N~
+   You find yourself in a strange observatory. There are thousands of 
+volumes of books and maps around the wall. A telescope stands in the 
+middle of the room, bringing closer far away worlds. You can see two 
+interesting pictures: one is of the Midnight Sun and the other of the 
+total Solar eclipse. There is something else in the corner ... it looks 
+like a football. ... or is it just an illusion? As you look up to the 
+sky, through the open roof, you are blinded by the thousands of shining 
+stars. On the south part of the sky a modestly bright comet shots through 
+right before your very eyes.
+~
+275 duz 0
+D3
+~
+door wooden oak~
+1 -1 27521
+S
+#27527
+#wAn unfurnished study#N~
+   This room is completely empty, except for the flower by the window and 
+the chandelier in the ceiling. You guess that somebody is meant to be 
+moving in here soon.
+~
+275 duz 0
+D1
+~
+door wooden oak~
+1 -1 27522
+S
+#27528
+#wTin's Place of Worship#N~
+   As you take your first step into this seemingly small room, you are
+teleported to a large meadow. You stand in a circle made of large tall 
+stones, called obelisks. In the centre is a small cauldron, now empty and 
+cold. It looks deep, and worn out by constant uses. You can also notice 
+some inscriptions on the obelisks.
+~
+275 duz 0
+D3
+~
+door wooden oak~
+1 -1 27522
+E
+cauldron~
+In this cauldron Tin makes all his potions and enchants his weapons. It 
+used to be black, but now it looks like a combination of green, red and 
+black, and it also emmits a faint smell. Smells like a yummy soup...
+~
+E
+obelisk~
+The only thing you can make out is the word: JUKKA.
+~
+S
+#27529
+#wA corridor at the top of the Tower#N~
+You walk through a rather narrow corridor at the top floor of the
+Academy building. There is a door on each side, as well as one to the
+north. The door to the west has a sign reading "Araga", the one to the
+east one reading "Deathlord". Door to the north have no sign, except
+for Academy symbol on it.
+The corridor continues to the south.
+~
+275 duz 0
+D0
+~
+door~
+11 -1 27513
+D1
+~
+~
+0 -1 27514
+D2
+~
+~
+0 -1 27522
+D3
+~
+~
+0 -1 27512
+S
+#27530
+#wTrophy Room#N~
+   The first thing that catches your eye when you enter here is the
+vast assortment of decapitated heads stuffed and mounted on the
+walls.  Upon closer inspection, you see those heads belong to those
+unfortunate souls who have played the parts of Harold, King Welmar,
+Froboz, the Holy Avatar, Satan, and the Astrologer. This is
+definitely not the room to be caught in without an escort, or your
+own head may end up there as well.
+#GThere is a sign on the wall.#W
+~
+275 duz 0
+D0
+~
+~
+0 -1 27508
+D2
+~
+~
+0 -1 27506
+E
+sign~
+This is the room where members of Elite used to place their trophies. A 
+trophy could be anything from the corpse of a mighty foe to a piece of 
+equipment that is not powerful enough to warrant its being placed in the 
+Donation Room, but too valuable to simply be thrown away. As the world 
+constantly changes, some is not powerful enough to warrant its being 
+placed in the Donation Room, but too valuable to simply be thrown away. 
+As the world constantly changes, some of those items are today both very 
+rare and very valuable.
+Today, this room is where students and staff of the Academy place items 
+which currently are more or less worthless, but that they believe might 
+gain such value as described above in the future and therefore should be 
+placed in the museum.
+~
+S
+#27531
+#wExplorer's Doom (Shrine of Sandra)#N~
+   You see here some strange creature... she looks in your eyes...
+you are #Rhappy#W... you are so #rhappy#W... you are extremelly #whappy...
+#WPANIC! You cannot escape!...
+You are dead!
+~
+275 bduz 0
+S
+#99999
+$~
+

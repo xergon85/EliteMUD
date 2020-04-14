@@ -1,0 +1,1711 @@
+#23601
+Cave Entrance~
+You are before an entrance to a cave which reaches back into the hills. 
+As you look inside, you see nothing but shadows and darkness.  You think 
+to yourself, "Self, what a wonderful place to find vile, evil creatures 
+worth slaying."  Then you think to yourself, "If they don't get me 
+first."
+~
+236 4 4
+D1
+~
+~
+0 -1 23602
+D2
+~
+~
+0 -1 23018
+S
+#23602
+Inside the Dark Cave Entrance~
+Just inside the cave, you see darkness quite clearly.  The darkness 
+turns quickly to absolute blackness.  You wonder how anyone with 
+infravision could even see in that.  You see scratchings on the cave 
+walls which make you think this might not be a completely natural cave.
+~
+236 9 4
+D1
+~
+~
+0 -1 23603
+D3
+~
+~
+0 -1 23601
+S
+#23603
+Deeper Inside the Cave~
+As you wait here, your eyesight starts to become more accustomed to the 
+dark.  You see the cave entrance vaguely starting to widen out to the 
+east.  The natural cuts in the grey rock wall seems to absorb your light
+as you walk through here.
+~
+236 9 4
+D1
+~
+~
+0 -1 23604
+D3
+~
+~
+0 -1 23602
+S
+#23604
+Cave Junction~
+You see what looks like an obvious guard post here.  It is perfect for 
+watching all three paths, especially those coming into the cave.  The
+natural grey walls to the north and south almost seem to be cut.
+~
+236 9 4
+D0
+~
+~
+0 -1 23605
+D2
+~
+~
+0 -1 23618
+D3
+~
+~
+0 -1 23603
+S
+#23605
+E/S Turn~
+The corridor turns south to east.  The hard grey stone wall is covered
+with a green moss that is slick to the touch.  The tunnel south is 
+obviously been cut from the stone as is the tunnel to the east.
+~
+236 9 0
+D1
+~
+~
+0 -1 23606
+D2
+~
+~
+0 -1 23604
+S
+#23606
+Four Way Corridor Junction~
+  The corridor branches in all four cardinal directions.  You can see 
+the corridors continuing.  Leaning against the edge between two openings,
+you balance some and notice the stone seems to be very hard and holds an
+edge quite well.  The path east looks well worn from use.
+~
+236 13 0
+D0
+~
+~
+0 -1 23607
+D1
+~
+~
+0 -1 23628
+D2
+~
+~
+0 -1 23625
+D3
+~
+~
+0 -1 23605
+S
+#23607
+Corridor Tunnel~
+  The corridor runs north - south having been enlarged from a natural 
+tunnel.  The stone here almost sparkles when light reflects off the 
+walls.  It is like little rainbows of light.
+~
+236 9 0
+D0
+~
+~
+0 -1 23608
+D2
+~
+~
+0 -1 23606
+S
+#23608
+East/South Turn~
+  The corridor turns east from the south.  It seems to travel a ways
+ahead in both directions, but then again, appearances could be 
+deceiving.  The stone here is the same basic grey stone.
+~
+236 9 3
+D1
+~
+~
+0 -1 23609
+D2
+~
+~
+0 -1 23607
+S
+#23609
+East/West Corridor~
+  You stand in an East/West corridor with a passage to the north.  
+Looking north, you see what might be the start of a cavern.  To the 
+east, the passage appears to end.
+~
+236 9 0
+D0
+~
+~
+0 -1 23610
+D1
+~
+~
+0 -1 23612
+D3
+~
+~
+0 -1 23608
+S
+#23610
+A Large Empty Cavern~
+ You stand in the south part of a large, empty, cavern.  The cavern 
+extends to the north and returns to a corridor to the south.  A trickle
+of water runs down the west wall and seeps down a small hole in the 
+floor.
+~
+236 9 0
+D0
+~
+~
+0 -1 23611
+D2
+~
+~
+0 -1 23609
+S
+#23611
+A Large Empty Cavern~
+  You stand in the north end of a large, empty, cavern.  As you prepare 
+to leave, you see a faint brown stain on the floor that is crusty and
+easily brushed off with your foot.
+~
+236 9 0
+D2
+~
+~
+0 -1 23610
+S
+#23612
+End of the Corridor~
+  You stand at the east end of a corridor.  You can go back west or try 
+to sneak around a rock to the north, which you can see leads into a 
+room.
+~
+236 9 0
+D0
+~
+~
+0 -1 23613
+D3
+~
+~
+0 -1 23609
+S
+#23613
+Troll Wardroom~
+  In here, you see some furniture with some battered and oversized piece 
+of worthless armor casually tossed over it.  You wonder that the armor
+can even protect anything as it's so full of holes.  You realize that 
+most of this stuff, if you could haul it out, might fetch a copper bit, 
+if you were that lucky. This is obviously a place where troll guards dump 
+their stuff before going to sleep.
+~
+236 13 0
+D1
+~
+~
+0 -1 23614
+D2
+~
+~
+0 -1 23612
+S
+#23614
+SW Quadrant of a Guard Barracks~
+  You either stepped inside of a pig pen or else inside of a troll guard 
+barracks.  Raising your nose and taking a deep sniff, you realize it must
+be trolls, because pigs smell better.  The room continues east and north
+with a passage back to the west.
+~
+236 9 0
+D0
+~
+~
+0 -1 23616
+D1
+~
+~
+0 -1 23615
+D3
+~
+~
+0 -1 23613
+S
+#23615
+SE Quadrant of a Troll Barracks~
+  Pig pen is a more common response by now.  There seems to be straw, or 
+something else that is stringy like it, matted together with filth and
+sweat.  You think if it wasn't for the sweat and filth, it might be a 
+place to sleep.  You see the room continue north and west.
+~
+236 9 0
+D0
+~
+~
+0 -1 23617
+D3
+~
+~
+0 -1 23614
+S
+#23616
+NW Quadrant of a Guard Barracks~
+ More of the same garden variety stinky, smelly, troll beds are here. 
+The only seeming thing of worth here is what is with you right now.  
+You start to wonder what a troll might consider a valuable treasure.
+~
+236 9 0
+D1
+~
+~
+0 -1 23617
+D2
+~
+~
+0 -1 23614
+S
+#23617
+NE Quadrant of a Guard Barracks~
+  You see more of the same, a pile of sleeping pallets with openings to the 
+west and south. A door, or a peace of wood slammed so hard it hasn't fallen
+yet is on the north wall.  One of the pallets here seems to be more special
+then the rest in that it has some hides crumpled across it.
+~
+236 0 0
+D0
+~
+door~
+1 23604 23649
+D2
+~
+~
+0 -1 23615
+D3
+~
+~
+0 -1 23616
+S
+#23618
+A Lesser Used Tunnel~
+This tunnel is smaller then the other one.  It also seems artificially 
+widened as the grey rock looks smoother then what you have seen in these 
+tunnels.  This path seems not well used as it turns east and north.
+~
+236 9 4
+D0
+~
+~
+0 -1 23604
+D1
+~
+~
+0 -1 23619
+S
+#23619
+A Lesser Used Tunnel~
+This dusty tunnel widened through the grey rock makes a turn south 
+from the west.  There is still dust on the floor, though it looks a
+little stirred.  That probably was from a breeze at some time.
+~
+236 9 4
+D2
+~
+~
+0 -1 23620
+D3
+~
+~
+0 -1 23618
+S
+#23620
+A Widening of the Tunnel~
+The tunnel becomes wider to the east and narrower to the north.  
+Peering to the east you see it starting to open up to a room.  Looking
+north you see it turn left up a ways.
+~
+236 13 4
+D0
+~
+~
+0 -1 23619
+D1
+~
+~
+0 -1 23621
+S
+#23621
+SW Corner of the Ogre Chamber~
+This room has a disgusting aroma.  Smells like someone or something is 
+living here and is not to particular about cleanliness.  The floor seems
+splotched with something dark brown, which covers some of the natural 
+grey stone.  Bits and pieces of bones and hides are also scattered 
+across the floor.  This room is large and extends north and west.  A 
+cave tunnel runs west of here.
+~
+236 9 4
+D0
+~
+~
+0 -1 23624
+D1
+~
+~
+0 -1 23622
+D3
+~
+~
+0 -1 23620
+S
+#23622
+SE Corner of the Ogre Chamber~
+The room still smells, but now worse then before.  The carpet of dark 
+brown still stains the floor, though some reddish brown seems to have 
+muddied into the mixture.  To the north, you see a pile of stuff all 
+over the floor. 
+~
+236 9 4
+D0
+~
+~
+0 -1 23623
+D3
+~
+~
+0 -1 23621
+S
+#23623
+NE Corner of the Ogre Chamber~
+You are standing in the biggest pile of trash and refuse you have seen 
+in ages.  You wonder how anything can live here.  You also wonder how 
+you haven't slipped and fallen down yet when you step around the stuff.
+The room opens west and south.
+~
+236 9 4
+D2
+~
+~
+0 -1 23622
+D3
+~
+~
+0 -1 23624
+S
+#23624
+NW Corner of the Ogre Chamber~
+To the east comes a vulgar smell to match the garbage strewn all over 
+the place.  Most of the stink seems to be coming from the east.  The 
+large room extends south and east.
+~
+236 9 4
+D1
+~
+~
+0 -1 23623
+D2
+~
+~
+0 -1 23621
+S
+#23625
+Southern corridor~
+  This cut grey stone corridor ends with an entrance to the east. Peering
+some into the room to the east, it looks more like a large chamber.  A
+fourway junction is to the north of here.
+~
+236 9 0
+D0
+~
+~
+0 -1 23606
+D1
+~
+~
+0 -1 23626
+S
+#23626
+Large Empty Chamber~
+  This room is a large,natural chamber that wasn't cut by any creatures
+hand.  As you gaze to the east, you see the chamber continue.  You see
+stalactites above you with some sort of clear water dripping down.  A 
+less then natural exit was cut to the west, leading into a corridor.
+~
+236 9 0
+D1
+~
+~
+0 -1 23627
+D3
+~
+~
+0 -1 23625
+S
+#23627
+Large Empty Chamber~
+  The beauty of this room, you think, is lost on the those living here,
+but you think you do see the source of some of their stone clubs.  Some 
+of the stalactites seem to have broken off the ceiling and fallen to the 
+floor as several lay scattered here.  The room extends west of here.
+~
+236 9 0
+D3
+~
+~
+0 -1 23626
+S
+#23628
+Cut Corridor~
+  The grey stone corridor is cut deep into the rock, with the walls 
+slightly smooth.  The corridor winds north and snakes west.
+~
+236 0 0
+D0
+~
+~
+0 -1 23629
+D3
+~
+~
+0 -1 23606
+S
+#23629
+Cut Corridor~
+  Looking at the walls, you can tell this must not have been a natural
+cave or tunnel, but something that bored through the rock.  Whatever it
+was, it's something you probably wouldn't like to meet here.  The grey
+stone corridor turns south and east.
+~
+236 0 0
+D1
+~
+~
+0 -1 23630
+D2
+~
+~
+0 -1 23628
+S
+#23630
+Cut Corridor~
+  The grey stone corridor's north wall is slightly stratified with some 
+other type of rock as it layers with a grayish green stone.  The stone 
+seems to crumble easier then the grey rock does.  The corridor goes 
+east to a southern turn and west quite a ways.
+~
+236 0 0
+D1
+~
+~
+0 -1 23631
+D3
+~
+~
+0 -1 23629
+S
+#23631
+Junction in a Cut Corridor~
+  You are in a T-intersection which runs east and west, but also has a 
+path to the south.  Looking east, the corridor retreats into darkness,
+while looking south, it seems to enter into a larger room of some sort.
+~
+236 0 0
+D1
+~
+~
+0 -1 23636
+D2
+~
+~
+0 -1 23632
+D3
+~
+~
+0 -1 23630
+S
+#23632
+NW Corner of a Large Trollop Room~
+  This room is large and full of furs strewn across the room.  This 
+looks cozy and comfortable in a strange sort of way, like a room where 
+some young are suckled by their mothers.  The room is large and extends
+east and south, while an opening to the north leads to a corridor.
+~
+236 0 0
+D0
+~
+~
+0 -1 23631
+D1
+~
+~
+0 -1 23635
+D2
+~
+~
+0 -1 23633
+S
+#23633
+SW Corner of a Large Trollop Room~
+  This large room extends north and east, and as you walk around here,
+you start to wonder what a female troll might be called.  As you look
+at the furs, you notice that they almost seem to be more carefully 
+laid out then just scattered about.
+~
+236 0 0
+D0
+~
+~
+0 -1 23632
+D1
+~
+~
+0 -1 23634
+S
+#23634
+SE Corner of a Large Trollop Room~
+  This large room continues north and west of here.  The floor almost 
+seems clean.  At least, less dirty then the rest of the cave.
+~
+236 0 0
+D0
+~
+~
+0 -1 23635
+D3
+~
+~
+0 -1 23633
+S
+#23635
+NE Corner of a Large Trollop Room~
+   More of the large room still lays further to the south and west of 
+here.  Furs are scattered all around this room, but a couple seem to 
+catch your eye.  One in particular which looks well worn.
+~
+236 0 0
+D2
+~
+~
+0 -1 23634
+D3
+~
+~
+0 -1 23632
+D5
+~
+trap door trapdoor~
+2 23699 23666
+E
+fur rug~
+  As you move the worn fur when examining it, you notice that its old
+and worn, but more importantly, you notice a trapdoor hidden under it.
+~
+S
+#23636
+Cut Corridor~
+  The corridor is cut deep into the same grey boring rock, with the 
+walls slightly smooth.  The corridor continues east and west of here.
+~
+236 0 0
+D1
+~
+~
+0 -1 23637
+D3
+~
+~
+0 -1 23631
+S
+#23637
+End of the Cut Corridor~
+  The bored (or boring) corridor finally ends.  To the east you see a 
+what looks like a guard station in front of a heavy door.  To the north 
+and south, you see what looks like a some sort of small niche of a 
+room. The corridor continues west.
+~
+236 0 0
+D0
+~
+~
+0 -1 23638
+D1
+~
+~
+0 -1 23640
+D2
+~
+~
+0 -1 23639
+D3
+~
+~
+0 -1 23636
+S
+#23638
+Guard Room~
+  This small room has been cut from the same rock that is commonly 
+found all over the place.  Its not only small, but is mostly occupied
+by a table and two chairs.  This must be a place to sleep when no one 
+is looking as the table doesn't look good for much else.  An opening 
+is in the south wall, leading to a corridor cut from the same grey 
+stone.
+~
+236 0 0
+D2
+~
+~
+0 -1 23637
+S
+#23639
+Guard Room~
+  This small room has more space then the one to the north as it has one
+less chair here then the other does.  Other then that, it's identical, 
+except the opening is to the north and not the south.
+~
+236 0 0
+D0
+~
+~
+0 -1 23637
+S
+#23640
+Outside Throne Room~
+  This seems to be a good spot to guard a throne room, providing you
+had a throne room to guard here.  It is obvious from the worn floor and 
+scuffed wall that this is well used area.  There are doors to the east 
+and the corridor continues west of here.
+~
+236 0 0
+D1
+~
+doors~
+1 -1 23641
+D3
+~
+~
+0 -1 23637
+S
+#23641
+Troll Throne Room~
+  This is a large room with a Throne on the east side of the room, many 
+steps a way.  The room is also cut from the native grey rock.  The room 
+continues to the north, south, and east, while the doors are behind you 
+to the west.
+~
+236 0 0
+D0
+~
+~
+0 -1 23642
+D1
+~
+~
+0 -1 23644
+D2
+~
+~
+0 -1 23645
+D3
+~
+doors~
+1 -1 23640
+S
+#23642
+Troll Throne Room~
+  This is a large room with a Throne to the south and east of here. The
+hard grey stone seems worn smooth on the walls.  The room continues to 
+the south, and east.
+~
+236 0 0
+D1
+~
+~
+0 -1 23643
+D2
+~
+~
+0 -1 23641
+S
+#23643
+Troll Throne Room~
+  This is a large room with a Throne to the south and east.  If you go 
+east some, you think you might be able to stand in front of the throne.
+Feeling the north wall, it feels cold to the touch.  The large room 
+continues to the south, west, and east.
+~
+236 0 0
+D1
+~
+~
+0 -1 23647
+D2
+~
+~
+0 -1 23644
+D3
+~
+~
+0 -1 23642
+S
+#23644
+Troll Throne Room~
+  This is a large throne room with the customary throne a few steps
+east of here.  A door leading to a corridor lies west of here.  The 
+room continues in all directions from here.
+~
+236 0 0
+D0
+~
+~
+0 -1 23643
+D1
+~
+~
+0 -1 23647
+D2
+~
+~
+0 -1 23646
+D3
+~
+~
+0 -1 23641
+S
+#23645
+Troll Throne Room~
+  You stand in the southwest corner of a large throne room.  The room
+opens to the north and east from here.  A large dark brown stain 
+decorates the wall at about, um, (measuring it with your eye), human
+head height.  Obviously someone (or thing) had a mild disagreement here.
+~
+236 0 0
+D0
+~
+~
+0 -1 23641
+D1
+~
+~
+0 -1 23646
+S
+#23646
+Troll Throne Room~
+  The large room throne room extends to the north, west and east from 
+here.  The throne itself lies some to the west and north from here. You
+figure you might sneak to in front of the throne by inching west then
+north from here.
+~
+236 0 0
+D0
+~
+~
+0 -1 23644
+D1
+~
+~
+0 -1 23647
+D3
+~
+~
+0 -1 23645
+S
+#23647
+In Front of the Troll Throne~
+  You stand before the awesome throne of the Troll King.  The throne is
+large and cut from a single piece of (what else) grey stone.  The throne
+isn't very ornate, but it can fit the rather large bulk of the troll king
+in it.  Peering at the side of the throne, you notice a small pathway 
+moving around throne to the east.  The rest of the room continues north, 
+south, and west of here.
+~
+236 0 0
+D0
+~
+~
+0 -1 23643
+D1
+~
+~
+0 -1 23648
+D2
+~
+~
+0 -1 23646
+D3
+~
+~
+0 -1 23641
+S
+#23648
+Behind the Troll Throne~
+  You stand behind the throne in a slightly cramped area.  After looking 
+around, you see a trapdoor.  Examining the trapdoor, you see a small 
+keyhole.
+~
+236 0 0
+D3
+~
+~
+0 -1 23647
+D5
+~
+trap door trapdoor~
+2 23601 23691
+S
+#23649
+Cut Corridor~
+  The corridor is cut from a hard rock that is not grey (more a black 
+stone) and appears slightly narrower then the enlarged corridors upstairs.  
+You are at the bottom of some stairs cut into the stone.  The corridor 
+goes west a short ways and south from here.
+~
+236 0 0
+D2
+~
+~
+0 -1 23656
+D3
+~
+~
+0 -1 23650
+D4
+~
+door~
+1 23604 23617
+S
+#23650
+Cut Corridor~
+  The corridor cut from a black rock ends in a door to the west.  The 
+tunnel continues to the east from here.  The Door looks solid and capable
+of resting many futile attempts at smashing it open.
+~
+236 0 0
+D1
+~
+~
+0 -1 23649
+D3
+~
+strong door~
+2 23602 23651
+S
+#23651
+Large Treasure Room~
+  This large room holds many chests, most of which seem empty.  Others 
+seem filled with rotted trash.  You start to wonder what the trolls 
+thought was so valuable here.  The room extends north and west, while a
+heavy door to the east leads out of this room.
+~
+236 0 0
+D0
+~
+~
+0 -1 23652
+D1
+~
+strong door~
+1 23602 23650
+D3
+~
+~
+0 -1 23654
+S
+#23652
+Large Treasure Room~
+  This large room HAS to have SOMETHING of value, in here you think, 
+but who knows what they consider valuable?  The rock wall here seems 
+slightly chipped like someone tried taking an axe to it, with the wall
+wining the fight.  The room opens to the west and south from here.
+~
+236 0 0
+D2
+~
+~
+0 -1 23651
+D3
+~
+~
+0 -1 23653
+S
+#23653
+Large Treasure Room~
+  This large room holds many chests, containing trash.  Some of it looks
+like it might have held something of worth a long time back.  the room 
+opens to the east and south.
+~
+236 0 0
+D1
+~
+~
+0 -1 23652
+D2
+~
+~
+0 -1 23654
+S
+#23654
+Large Treasure Room~
+  A Strong barred door lies to the south in this rather large but 
+worthless room.  The room that was cut from black stone opens to the 
+north and east of here.
+~
+236 0 0
+D0
+~
+~
+0 -1 23653
+D1
+~
+~
+0 -1 23651
+D2
+~
+strong door~
+2 23601 23655
+S
+#23655
+Secret Treasure Room~
+  This room holds many chests, most of which seem empty.  Others seem 
+filled with rotted trash, but there are a few things tucked around here
+-- or at least there should be.  A door lies to the north of here leading
+out of this room.
+~
+236 0 0
+D0
+~
+strong door~
+1 23601 23654
+S
+#23656
+Cut Corridor~
+  This corridor is cut from a strange black rock, but is narrower then the
+corridors above.  To the north, the hall extends and turns left.  To the 
+south stands a room.
+~
+236 0 0
+D0
+~
+~
+0 -1 23649
+D2
+~
+~
+0 -1 23657
+S
+#23657
+Large Storage Room~
+  This room seems to be large, extending west and south from here and
+containing many creates and barrels.  The barrels contain a foul smelling
+brew of some sort.  Drawing some out in a cup, you see it slightly colored 
+yellow, like a very weak beer.  You hesitate at sampling the stuff.
+~
+236 0 0
+D1
+~
+~
+0 -1 23656
+D2
+~
+~
+0 -1 23660
+D3
+~
+~
+0 -1 23658
+S
+#23658
+Large Storage Room~
+  This room seems to be large, containing many creates and barrels.  You 
+are in the northwest corner with the rest of the room opening to the south
+and east of here.  Looking in a crate are the remains of something that 
+had to be living at one time.  Little bugs seem to be crawling around in 
+it.  About this time, you are positive you don't want to be a dinner
+guest here (especially if you ARE the dinner).
+~
+236 0 0
+D1
+~
+~
+0 -1 23657
+D2
+~
+~
+0 -1 23659
+S
+#23659
+Large Storage Room~
+  This room seems to be large, containing many creates and barrels.  You 
+are in the southwest corner with the rest of the room laying to the north 
+and east of here.  A passage stretches to the south, which leads to a 
+corridor cut from black rock.
+~
+236 0 0
+D0
+~
+~
+0 -1 23658
+D1
+~
+~
+0 -1 23660
+D2
+~
+~
+0 -1 23661
+S
+#23660
+Large Storage Room~
+  This room seems to be large, containing many creates and barrels.  
+Inside one of the crates are some bag of dust. Sampling some, you are
+sure it's grain that is about as old as IO. You are in the southeast 
+corner with the room stretching north and west of here.
+~
+236 0 0
+D0
+~
+~
+0 -1 23657
+D3
+~
+~
+0 -1 23659
+S
+#23661
+Cut Corridor~
+  The corridor is cut from a hard black rock, slightly narrower then the 
+enlarged corridors upstairs.  The corridor continues west while to the
+north is a passage leading into a large room.
+~
+236 0 0
+D0
+~
+~
+0 -1 23659
+D1
+~
+~
+0 -1 23662
+S
+#23662
+Cut Corridor~
+   A black rock makes up the walls here.  It crumbles some to a good
+sharp blow, but not by much.  The corridor is slightly narrower then the 
+enlarged corridors upstairs. The corridor turns both to the west and south.
+~
+236 0 0
+D2
+~
+~
+0 -1 23663
+D3
+~
+~
+0 -1 23661
+S
+#23663
+Cut Corridor~
+    The cut black rock corridor is still slightly narrower then the 
+enlarged corridors upstairs, but seems better used.  the stone seems to
+eat any light that radiates from sources, making infravision real tough
+down here. The corridor seems to go north and east from here.
+~
+236 0 0
+D0
+~
+~
+0 -1 23662
+D1
+~
+~
+0 -1 23667
+D3
+~
+door wall secret~
+1 -1 23664
+S
+#23664
+End of an Unused Tunnel~
+  This is a little used tunnel which has collected much dust on the 
+floor.  It seems like it was hastily made at one time to allow smaller
+creatures than trolls a means of sneaking in and out of here.  It runs
+south from here.
+~
+236 0 0
+D1
+~
+door wall secret~
+1 -1 23663
+D2
+~
+~
+0 -1 23665
+S
+#23665
+Unused Tunnel~
+  This north/south tunnel is obviously not made for trolls, which has
+you wondering who might have made it.  It is to large for dwarves, but
+too small for trolls.  Humans wouldn't have a need to live here, so who
+made this tunnel?
+~
+236 0 0
+D0
+~
+~
+0 -1 23664
+D2
+~
+~
+0 -1 23666
+S
+#23666
+Unused Tunnel~
+  A stair case cut from the stone leads up from here to parts unknown,
+since a trapdoor seems to block the path.  You stand at the south end 
+of a small, narrow tunnel that seems little used from all the dust 
+scattered on the floor.
+~
+236 0 0
+D0
+~
+~
+0 -1 23665
+D4
+~
+trap door trapdoor~
+2 23699 23635
+S
+#23667
+Cut Corridor~
+    The corridor is cut from the same hard black rock seen all over
+down here and is slightly narrower then the enlarged corridors found
+upstairs. The corridor winds west and south.
+~
+236 0 0
+D2
+~
+~
+0 -1 23668
+D3
+~
+~
+0 -1 23663
+S
+#23668
+Cut Corridor~
+    Looking east, you see a dark path continuing on.  Looking north, you
+see some more dark path continuing on.  You start wondering why trolls 
+like living in places like this that have a lot of walking just to go 
+nowhere.
+~
+236 0 0
+D0
+~
+~
+0 -1 23667
+D1
+~
+~
+0 -1 23669
+S
+#23669
+Cut Corridor~
+    The corridor is cut from a hard rock, slightly narrower then the 
+enlarged corridors upstairs. The corridor goes west and north.  The 
+north passage leads to an apparent room.
+~
+236 0 0
+D0
+~
+~
+0 -1 23670
+D3
+~
+~
+0 -1 23668
+S
+#23670
+Maze~
+  You are standing in a maze of rooms.  There seems to be a passage in 
+all four directions. All the paths look identical and you are confused 
+as to where you might be down here. 
+~
+236 0 0
+D0
+~
+~
+0 -1 23671
+D1
+~
+~
+0 -1 23672
+D2
+~
+~
+0 -1 23669
+D3
+~
+~
+0 -1 23671
+S
+#23671
+Maze~
+  You are standing in a maze of rooms.  There seems to be a passage in 
+all four directions. All the paths look identical and you are confused 
+as to where you might be down here.  
+~
+236 0 0
+D0
+~
+~
+0 -1 23676
+D1
+~
+~
+0 -1 23675
+D2
+~
+~
+0 -1 23670
+D3
+~
+~
+0 -1 23670
+S
+#23672
+Maze~
+  You are standing in a maze of rooms.  There seems to be a passage in 
+all four directions. All the paths look identical and you are confused 
+as to where you might be down here.  
+~
+236 0 0
+D0
+~
+~
+0 -1 23675
+D1
+~
+~
+0 -1 23673
+D2
+~
+~
+0 -1 23673
+D3
+~
+~
+0 -1 23670
+S
+#23673
+Maze~
+  You are standing in a maze of rooms.  There seems to be a passage in 
+all four directions. All the paths look identical and you are confused 
+as to where you might be down here.  
+~
+236 0 0
+D0
+~
+~
+0 -1 23674
+D1
+~
+~
+0 -1 23674
+D2
+~
+~
+0 -1 23672
+D3
+~
+~
+0 -1 23672
+S
+#23674
+Maze~
+  You are standing in a maze of rooms.  There seems to be a passage in 
+all four directions. All the paths look identical and you are confused 
+as to where you might be down here.  
+~
+236 0 0
+D0
+~
+~
+0 -1 23678
+D1
+~
+~
+0 -1 23673
+D2
+~
+~
+0 -1 23673
+D3
+~
+~
+0 -1 23675
+S
+#23675
+Maze~
+  You are standing in a maze of rooms.  There seems to be a passage in 
+all four directions. All the paths look identical and you are confused 
+as to where you might be down here.  
+~
+236 0 0
+D0
+~
+~
+0 -1 23677
+D1
+~
+~
+0 -1 23674
+D2
+~
+~
+0 -1 23672
+D3
+~
+~
+0 -1 23671
+S
+#23676
+Maze~
+  You are standing in a maze of rooms.  There seems to be a passage in 
+all four directions. All the paths look identical and you are confused 
+as to where you might be down here.  
+~
+236 0 0
+D0
+~
+~
+0 -1 23681
+D1
+~
+~
+0 -1 23677
+D2
+~
+~
+0 -1 23671
+D3
+~
+~
+0 -1 23681
+S
+#23677
+Maze~
+  You are standing in a maze of rooms.  There seems to be a passage in 
+all four directions. All the paths look identical and you are confused 
+as to where you might be down here.  
+~
+236 0 0
+D0
+~
+~
+0 -1 23680
+D1
+~
+~
+0 -1 23678
+D2
+~
+~
+0 -1 23675
+D3
+~
+~
+0 -1 23676
+S
+#23678
+Maze~
+  You are standing in a maze of rooms.  There seems to be a passage in 
+all four directions. All the paths look identical and you are confused 
+as to where you might be down here.  
+~
+236 0 0
+D0
+~
+~
+0 -1 23679
+D1
+~
+~
+0 -1 23679
+D2
+~
+~
+0 -1 23674
+D3
+~
+~
+0 -1 23677
+S
+#23679
+Maze~
+  You are standing in a maze of rooms.  There seems to be a passage in 
+all four directions. All the paths look identical and you are confused 
+as to where you might be down here.  
+~
+236 0 0
+D0
+~
+~
+0 -1 23681
+D1
+~
+~
+0 -1 23678
+D2
+~
+~
+0 -1 23678
+D3
+~
+~
+0 -1 23680
+S
+#23680
+Maze~
+  You are standing in a maze of rooms.  There seems to be a passage in 
+all four directions. All the paths look identical and you are confused 
+as to where you might be down here.  
+~
+236 0 0
+D0
+~
+~
+0 -1 23682
+D1
+~
+~
+0 -1 23679
+D2
+~
+~
+0 -1 23677
+D3
+~
+~
+0 -1 23681
+S
+#23681
+Maze~
+  You are standing in a maze of rooms.  There seems to be a passage in 
+all four directions. All the paths look identical and you are confused 
+as to where you might be down here.  
+~
+236 0 0
+D0
+~
+~
+0 -1 23679
+D1
+~
+~
+0 -1 23680
+D2
+~
+~
+0 -1 23676
+D3
+~
+~
+0 -1 23676
+S
+#23682
+Maze Entrance~
+  You are standing at the entrance to a maze of rooms.  The room opens 
+to the south and goes east to a hallway guarded by a door. Looking south, 
+you see the path open up to a fourway intersection. 
+~
+236 0 0
+D1
+~
+strong door~
+2 23603 23683
+D2
+~
+~
+0 -1 23680
+S
+#23683
+Private Corridor~
+  This lonely corridor runs between the two rooms and you think its a sort
+of quick path somewhere as short as the path seems to be.  To the east is 
+a small room and to the west is a large room.
+~
+236 0 0
+D1
+~
+~
+0 -1 23684
+D3
+~
+strong door~
+1 23603 23682
+S
+#23684
+Troll King's Room~
+  This is a nice room, for a troll.  You feel like you have shrunk 
+because of the proportions of the furniture.  The room, though large, 
+looks normal for the size of the bed, dresser, table and chairs 
+scattered about the room.  A passage runs west down a small hallway.  
+You can wander around the bed to the south or a dresser to the east.
+~
+236 0 0
+D1
+~
+~
+0 -1 23686
+D2
+~
+~
+0 -1 23685
+D3
+~
+~
+0 -1 23683
+S
+#23685
+Troll King's Room~
+  You stand by the bed here.  Examining the bed, you are glad you aren't 
+the one living here as you jump back before being attacked by some rather
+large lice.  You can walk beside the bed to the north or the table 
+to the east.
+~
+236 0 0
+D0
+~
+~
+0 -1 23684
+D1
+~
+~
+0 -1 23687
+S
+#23686
+Troll King's Room~
+  Having walked in this room, you now know how a dwarf must feel.  The 
+size of the bed, dresser, table and chairs remind you how big trolls 
+really are.  This portion has the dresser, but you can walk around it to 
+the west or towards the table to the south.  The dresser looks more like
+topless crates that move in and out of a frame.  Jerking hard, you barely
+slide one of the "drawers" out a bit enough to see something that passes
+for troll clothes. 
+~
+236 0 0
+D2
+~
+~
+0 -1 23687
+D3
+~
+~
+0 -1 23684
+S
+#23687
+Troll King's Room~
+  This is a nice room, for a troll.  You feel like you have shrunk 
+because of the proportions of the furniture.  The room, though large, 
+looks normal for the size of the bed, dresser, table and chairs.  There 
+is an enormous table here, which you can walk around.  To the north is a 
+dresser and the west is the bed.  To the south is a passageway cut from a
+dark grey stone.
+~
+236 0 0
+D0
+~
+~
+0 -1 23686
+D2
+~
+~
+0 -1 23688
+D3
+~
+~
+0 -1 23685
+S
+#23688
+Corridor~
+  This corridor is cut from a dark grey stone and runs South from here.
+To the north is a large, regal room.  To the east is a smaller, cozier 
+room (in comparison).
+~
+236 0 0
+D0
+~
+~
+0 -1 23687
+D1
+~
+~
+0 -1 23689
+D2
+~
+~
+0 -1 23690
+S
+#23689
+King's Study~
+  This room holds a clean desk.  (What did you expect, that trolls could 
+read?)  There is a hallway to the west.  This seems to be a place where 
+someone large, say a troll king, could hide from his troubles of ruling 
+his hoard.
+~
+236 0 0
+D3
+~
+~
+0 -1 23688
+S
+#23690
+Corridor~
+  The hallway continues south and north and appears to be well used 
+judging by the ruts left in the stone floor.  Looking at the ruts, you 
+now start to wonder just how heavy trolls really are and make a mental
+note not to find out by letting one fall on you.
+~
+236 0 0
+D0
+~
+~
+0 -1 23688
+D2
+~
+~
+0 -1 23691
+S
+#23691
+Bottom of Stairs~
+  The hallway ends here in a set of stairs leading up.  To the north, 
+the cut dark grey stone hallway continues.  This seems to be a reasonably
+well used walkway judging by the ruts in the floor.  Looking up the stairs,
+you see them wind up to a trapdoor.
+~
+236 0 0
+D0
+~
+~
+0 -1 23690
+D4
+~
+trap door trapdoor~
+2 23601 23648
+S
+#99999
+$~

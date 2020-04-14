@@ -1,0 +1,155 @@
+#5400
+mummy~
+the mummy~
+The mummy awakens and walks against you.
+~
+This tall, withered husk of a former nobleman is dressed in remenants of once
+resplendant white cloth.
+~
+2 4 98 16777256 -500 S
+80 -19 -32 4d100+1100
+400 500 100 3d20+20 -1
+-1
+-1
+0 800000 8 8 0
+#5401
+skeletal warrior~
+the skeletal warrior~
+The skeletal warrior cackles and attacks!
+~
+This tall, withered husk of a former king is dressed in remenants of once
+resplendant white cloth.
+~
+2 4 98 16777384 -800 S
+90 -25 -35 4d100+1600
+400 500 100 3d20+30 -1
+-1
+-1
+15000 1000000 8 8 0
+#5402
+dark knight~
+the dark knight~
+A knight in glinting black armor guards here.
+~
+The paladin wears a shiny plate. He watches every step you take.
+He rest his arms on a large broadsword.
+~
+1 4 bfgl 168 -349 S
+80 -20 -25 4d100+1000
+400 500 100 3d20+20 -1
+-1
+-1
+5000 800000 8 8 1
+A
+%15 emote looks you over with a suspicous look.~
+#5403
+dark priest~
+the dark priest~
+A priest is walking around here muttering.
+~
+The priest is dressed in black robes. The priest look
+very wicked..
+~
+1 4 bfgl 168 -349 S
+60 -5 -17 5d50+650
+400 500 80 3d8+20
+27 0 20 1d0+95  -1
+-1
+-1
+0 600000 8 8 1
+A
+%20 emote prays to the powers that be.; %20 say I am not worthy.~
+#5404
+evil cleric~
+the evil cleric~
+A cleric is praying to his god here.
+~
+The priest is dressed in brown robes. The priest look
+very wicked.
+~
+1 4 bfgl 128 -349 S
+60 -5 -17 1d100+650
+400 500 80 3d8+20
+27 0 20 1d0+95  -1
+-1
+-1
+0 600000 6 6 1
+A
+%25 emote prays to the powers that be.~
+#5405
+orcus death demon evil~
+Prince Orcus~
+Prince Orcus, the wicked lord of the demons, rests on his throne.
+~
+Orcus looks extremely horrid, with his leathery wings and strong physique.
+~
+12 4 bfgl 536871080 -349 S
+109 -35 -40 5d100+3500
+400 500 75 3d20+35
+23 0 5 1d0+95
+76 0 5 1d0+95
+90 0 10 1d0+85
+28 0 5 2d0+75  -1
+-1
+-1
+25000 4000000 6 6 1
+A
+%%10 snort;%20 say Give me your soul.;
+%15 emote feeds off your hate and your cuts.~
+#5406
+death knight~
+the death knight~
+A skeletal knight in glinting black plate is walking around here.
+~
+The knight is dead but still walks.  Tattered garb hangs on his feeble
+frame, but he exudes power.
+~
+1 4 g 168 -349 S
+105 -30 -30 5d100+3000
+400 500 75 3d15+35
+28 0 10 2d0+80
+22 0 10 1d0+95
+4 0 5 3d0+75  -1
+-1
+-1
+20000 2200000 8 8 1
+A
+%%20 yell Muahaha!;
+%20 say Orcus dwells here -- begone, foul mortals.;
+%15 emote hefts his wicked hammer.~
+#5407
+paladin crusader knight~
+the crusader~
+A paladin is crusading to retake the holy temple.
+~
+This knight wears the tabbard of Welmar with the avatar's symbol
+emblazoned upon it.  He is a brave warrior and tries valiantly to retake
+the holy temple.
+~
+1 4 2402 168 800 S
+80 -20 -25 4d100+1000
+400 500 100 3d20+20 -1
+-1
+-1
+5000 700000 8 8 1
+A
+%%25 say Fight on!  We must prevail!;%15 say Fear not!  Good is on our side!~
+#5408
+captured paladin knight~
+a captured paladin~
+A knight in shiny plate is fighting to escape the crypt.
+~
+This knight has been captured and is now a prisoner of the undead lords.
+Still, he is very strong, and constantly fights to escape and save his
+temple.
+~
+1 4 2402 168 800 S
+80 -20 -25 4d100+1000
+400 500 100 3d20+20 -1
+-1
+-1
+5000 700000 8 8 1
+A
+%%20 say We must not give up hope....;%10 emote prays for freedom.~
+#99999
+$~

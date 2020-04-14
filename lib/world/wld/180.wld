@@ -1,0 +1,2077 @@
+#18000
+Start of trail~
+   You stand at the bottom of a long, gradually winding roadway leading
+up a smooth sloped mountain. Countless travelers have pounded a wide
+roadway into the side of the mountain looming west of you.  You may
+follow the path west, or head east along a more level road.  A small
+sign proclaims, "Welcome to #bElysium#N, all those who come in peace."
+~
+180 0 4
+D1
+A path towards town
+~
+~
+0 -1 500
+D3 
+The road climbs.
+~
+~
+0 -1 18001
+S 
+#18001
+A well-travelled road and a banner~
+   The road slopes gently up to the west.  Although the mountain is
+steep and tall, the road was made for wagons heavy with family
+belongings as well as lighter foot traffic.  It is an easy trudge, and
+a pleasant one.  The road west continues to climb.  It descends to the
+east. 
+#GA large banner has been stretched between two trees, crossing the
+road.#N
+~
+180 0 4
+D1
+The road returns you to flatter land.
+~
+~
+0 -1 18000
+D3
+The road climbs.
+~
+~
+0 -1 18002
+E
+banner~
+#rBegone #mdull #ccare!
+#y'Tis #gTime #Wfor the #rFaire!#N
+~
+S
+#18002
+A long dusty climb~
+   The road cuts through fertile meadows, gracefully undulating on each
+side of you.  In the spring they are covered with wild flowers, in the
+summer and fall thick grasses offer grazing for the deer and other
+wildlife.  The road continues to climb to the west, and descends the
+slope to the east.
+~
+180 0 4 
+D1
+The road descends.
+~
+~
+0 -1 18001
+D3
+The road climbs.
+~
+~
+0 -1 18003
+S
+#18003
+The Hidden Cave~
+  The earth slopes steeply down to the road from the north, and down
+from the road to the south.  Cut from the northern hillside by an
+ancient stream, partially hidden behind some very large boulders, you
+can see the entrance to a cave.  The road continues east and west from
+here, or you can wander north to the cave entrance. 
+~
+180 0 4 
+D0
+A cave!  Let's go see! 
+~
+~
+0 -1 18004 
+D1
+The well traveled road descends gradually. 
+~
+~
+0 -1 18002
+D3
+The road continues.
+~
+~
+0 -1 18005
+S
+#18004 
+Just inside a LARGE Cave~
+   Your footsteps echo hollowly, the noise resonating against rock in
+this huge (and hopefully empty) cave.  It is too dark to see much,
+although there is a bit of golden glitter on the walls.  Looking
+northwards, you see an almost vertical tunnel in the rock, but it is
+too steep to climb.  Your only exit is south, out of the cave. 
+~
+180 0 2
+D2
+There is a road climbing up and down the mountain. 
+~
+~
+0 -1 18003 
+S
+#18005
+The long and winding road~
+   You are on a wide road made of hard packed dirt which in places has
+been covered with thick boards.  When the winter snows melt, the road
+becomes very soft and mushy in places.  An unprepared wagon may be
+stuck here for days.  The wagoneers carry boards with them for just
+this reason.  The road curves northwards up the mountain and east down
+the mountain. 
+~
+180 0 4
+D0
+The road bends in a northerly direction. 
+~
+~
+0 -1 18006 
+D1
+The road eases down the mountain. 
+~
+~
+0 -1 18002 
+S
+#18006 
+Ferrets~
+   A small band of ferrets races across the road, startling you.  They
+race up a tree on the other side and sit on a branch, laughing nastily
+at their little game.  You resolve to find a good bow and arrow at the
+faire and do some ferret hunting on your way home. 
+~
+180 0 4 
+D0
+Ease on up the road 
+~
+~
+0 -1 18007
+D2
+Ease on down the road 
+~
+~
+0 -1 18005 
+S
+#18007 
+Halfway up the mountainside~
+   You are about half way up a long, gently sloping road that winds its
+way up the side of a mountain.  From this vantage point you can see
+neither the beginning of the trail nor its end.  The trees lining the
+road have grown thicker, and you are unable to see much in any
+direction.  The road continues in a north south direction from here.
+North is up. 
+~
+180 0 4 
+D0
+Uphill 
+~
+~
+0 -1 18008 
+D2
+Downhill 
+~
+~
+0 -1 18006 
+S
+#18008 
+Reforestation~
+   Through the trees you can glimpse a small band of rangers, each
+wearing the blue #bElysium #N"#bE#N".  They appear to be well armed for
+their peaceful activities of planting trees and counting badger noses.
+Both animal and plantlife is plentiful here. The road descends to the
+south, ascends northwards. 
+~
+180 0 3 
+D0
+Uphill 
+~
+~
+0 -1 18009 
+D2
+Downhill 
+~
+~
+0 -1 18007 
+S
+#18009 
+Shade~
+   As wide as the road is, the trees have grown in thickness and size 
+to the point that the roadway is well shaded. It is fairly steep,
+twisting sharply as it makes its way towards the summit.  The road
+climbs eastwards, descends to the south.
+~
+180 0 3
+D1
+An eastward bend
+~
+~
+0 -1 18010
+D2
+A southern stretch
+~
+~
+0 -1 18008
+S
+#18010
+Well-tended Forest~
+   The trees in this area are astounding in numbers and variety, but
+they seem to line up in neat little rows.  #bElysium#N's #BElven#N and
+#yTrollish#N #GRangers#N take excellent care of their forest.  There
+was much replanting to be done after the dragon wars.
+~
+180 0 3
+D1
+Uphill all the way
+~
+~
+0 -1 18011
+D3
+Down the hill
+~
+~
+0 -1 18009
+S
+#18011
+Through the Peaceful Countryside~
+   As you look around you you see many signs of the rebirth of this
+land.  There are hints of the years of war in the lack of truly old
+growth forests, but the hillside and forests alike through which you
+pass are filled with an abundance of life.  The road continues up to
+the east, downhill to the west.
+~
+180 0 4
+D1
+Upgrade
+~
+~
+0 -1 18012
+D3
+Downgrade
+~
+~
+0 -1 18010
+S
+#18012
+A Gap in the Trees~
+   There is a wide, charred space in the trees at this spot.  Although
+you have seen little evidence of dragons near here, you have heard
+rumblings that the dragons are growing in numbers. When the earth
+trembles beneath your feet you remember the stories of dragon games
+beneath the surface of the earth.  The road continues east and west.
+~
+180 0 4
+D1
+Upgrade
+~ 
+~
+0 -1 18013
+D3
+Downgrade
+~
+~
+0 -1 18011
+S
+#18013
+Beyond the Gap~
+   A large area of blackened tree stumps and no vegetation lies east
+of here, clearly the result of dragonfire.  Looking out through the gap
+you can see the roadway winding endlessly down the mountain.  The
+valley at the foot of the mountain is lovely, but oh, so far away.
+Surely the summit must be near.  The road bends south on its way up the
+mountain, west leading down.
+~
+180 0 4
+D2
+A southern twist up the mountain
+~
+~
+0 -1 18014
+D3
+The path west is downhill
+~
+~
+0 -1 18012
+S
+#18014
+Nearing the Valley Entrance~
+  The road seems steeper here, near the valley entrance.  Oxen,
+horses, mules and other beasts leading carts or carrying fairegoers
+struggle with this part of the climb, or race dangerously on the way
+down.  The road uphill leads south.
+~
+180 0 4
+D0
+Slide on down!
+~
+~
+0 -1 18013
+D2
+Climb on up!
+~
+~
+0 -1 18015
+S
+#18015
+Looking Up, Looking Down~
+   An opening in the side of the mountain lies directly west (and up)
+from here.  It is a short climb to a narrow gap bordered by large
+rocks.  A small, cold river shares the opening in the face of the
+mountain with the roadway and its travelers.  The road begins its
+descent north of here.
+~
+180 0 2
+D0
+The path down
+~
+~
+0 -1 18014
+D3
+The way to the faire!
+~
+~
+0 -1 18016
+S
+#18016
+The Bronze Werewolf~
+   An enormous statue of a wolf guards the entrance to the Elysium
+Valley, where there is a Faire in progress.  The statue is so lifelike,
+that when it winks at you, you wink back and reach forward to ruffle
+the fur.  There is a small plaque at the base of the statue.  Beyond
+the statue, you see the bright colors of a country fair.
+~
+180 c 2
+D1
+Valley Entrance
+~
+~
+0 -1 18015
+D3
+The Faire!!!
+~
+~
+0 -1 18017
+E
+plaque~
+We of #bElysium#N welcome you.  Enjoy the games and the many sights,
+scents, sounds and flavors of the faire in our hard-won peace.
+~
+S  
+#18017
+Let the Faire Begin!~
+   The mighty warriors of #bElysium#W having once again fought back the
+forces of evil, decided to celebrate their victory with an enormous
+faire.  You are invited to stay a while - in peace - and enjoy it with
+them.
+~
+180 0 2
+D0
+Closer to the faire
+~
+~
+0 -1 18018
+D1
+Towards a mountain road
+~
+~
+0 -1 18016
+S
+#18018
+Near the Gates~
+   Just north of you the wide wooden gates to the faire stand open for
+all to enter.  You hear music and laughter, and you catch the scent of
+deer roasting over an open pit.  It promises to be truly a glorious
+faire.
+~
+180 0 2
+D0
+The Gates!
+~
+~
+0 -1 18019
+D2
+Off down the mountain we go!
+~
+~
+0 -1 18017
+S
+#18019
+At the Faire~
+   You stand at the entrance to a lovely valley, surrounded by tall
+cliffs on each side.  Eons ago, this area was covered with ice, which
+carved a path through the center of the mountaintop.  The ice melted in
+time and the deep depression was filled with a lake.  In its turn, the
+lake also dried, leaving a narrow meandering creek, which escapes the
+valley at your feet.
+~
+180 0 2
+D0
+You can almost smell the faire!
+~
+~
+0 -1 18020
+D2
+The entrance gates stand tall and proud
+~
+~
+0 -1 18018
+S
+#18020
+Sounds of the Faire~
+   From the east you can hear the CLASH! and THUMP! of knights and
+knights-in-training.  From the west, you hear the faint strains of wild
+violin music, and from directly ahead comes the babble of a large
+throng of people.  Which appeals to you at the moment?  To the south
+lies the entrance to the lovely valley.
+~
+180 0 2
+D0
+You hear gnomish babble
+~
+~
+0 -1 18056
+D1
+*sniff* Horses!
+~
+~
+0 -1 18021
+D2
+The entrance gates!
+~
+~
+0 -1 18019
+D3
+Is that a violin you hear?
+~
+~
+0 -1 18046
+S
+#18021
+The Scent of Horses~
+  A light breeze blowing from the east brings the faint but
+unmistakable scent of horses and hay.  You cannot see the jousting
+field, which lies beyond a northern turn of the path some ways ahead.
+~
+180 0 2
+D1
+Closer to the jousting
+~
+~
+0 -1 18022
+D3
+Off to the rest of the faire!
+~
+~
+0 -1 18020
+S
+#18022
+Between Blacksmith and Stable~
+   Conveniently just across the path from each other, John Blacksmith's
+smithy and the knights' stables care for the horses brought here for
+the jousts.  As knights and cavaliers come from far and wide to prove
+their mettle against the #bElysium#N's best, this area gets very busy.
+Watch out and don't get trampled!
+~
+180 0 2
+D0
+A mighty blacksmith bends over his forge.
+~
+~
+0 -1 18023
+D1
+Huzzah!
+~
+~
+0 -1 18031
+D2
+*sniff* Hay!
+~
+~
+0 -1 18025
+D3
+Back towards the rest of the faire!
+~
+~
+0 -1 18021
+S
+#18023
+John Blacksmith's Forge~
+   A small forge has been set up to tend to the needs of the knights
+and their mighty warhorses.  John Blacksmith earns a pretty penny from
+knights basking in victory.  The losers are more sullen, but they pay
+up as well. The forge extends west to where John's apprentice is
+sorting horseshoes.  To the south, across the path,  you can see the
+stables.
+~
+180 d 0
+D2
+A path runs right by the entrance to this smithy!
+~
+~
+0 -1 18022
+D3
+Although rather dark, it looks like a store room
+~
+~
+0 -1 18024
+S
+#18024
+At the back of the Forge~
+   This small, dark building serves as a storage area for John
+Blacksmith. The faire is a long ways up a high mountain, far from any
+source of supply, so John brings extra horseshoes, nails and other
+trappings with him.  It is the job of his apprentice to keep the
+supplies neat and the wood stacked for the forge.
+~
+180 d 0
+D1
+The glow of the forge looks inviting.
+~
+~
+0 -1 18023
+S
+#18025
+By the stables~
+   The noble knight's horses are kept here, protected, when they are
+not being used in the jousts.  Although the faire is temporary, the
+stables are here permanently.  The knights require perfect care for
+their valued steeds.
+~
+180 0 2
+D0
+A path goes right by here!
+~
+~
+0 -1 18022
+D1
+A tack room ... no, not attack
+~
+~
+0 -1 18028
+D2
+A rather nice stall
+~
+~
+0 -1 18026
+S
+#18026
+Large stall~
+   War horses are very large, and usually well trained.  Sometimes,
+however, they can be quite aggressive.  This very large stall will hold
+a large horse with room for the knight's squire to bed down beside him
+and guard the horse.  Another large stall lies west of here, and the
+entrance to the stables is to the north.
+~
+180 d 0
+D0
+The stable entrance
+~
+~
+0 -1 18025
+D1
+A barn is an elegant place if you're a horse
+~
+~
+0 -1 18027
+D4
+A ladder leading somewhere up!
+~
+~
+0 -1 18029
+S
+#18027
+Elegant stall~
+   Looting the still warm bodies of those you have slain adds to the
+lure of battle, and has made many of Elysium quite wealthy.  The walls
+of this stable are made of a rare wood known as cmelth, which induces
+calm for the horses.  The straw at your feet is kept fresh by the
+stable hands.
+~
+180 d 0
+D0
+A tack room, no ... attack! room! no ...
+~
+~
+0 -1 18028
+D3
+A large but not as elegant stall
+~
+~
+0 -1 18026
+D4
+A ladder leading up!
+~
+~
+0 -1 18030
+S
+#18028
+Tack room~
+  The walls of this room are lined with brushes and combs and other
+gear needed to keep the horses well groomed as well as well fed.
+Saddles and bridles are kept and cared for here as well, and the scent
+of the cmelth oil fills the room.
+~
+180 d 0
+D2
+Neigh! says the horse.
+~
+~
+0 -1 18027
+D3
+The way out!
+~
+~
+0 -1 18025
+S
+#18029
+Hayloft west~
+   The hayloft is full of soft, sweet-smelling hay.  Occasionally a rat
+will find its way up here, and occasionally a stable lad or lass will
+take a nap here, but it is usually quite empty.  The hayloft continues
+to the east and there is a ladder down.
+~
+180 d 0
+D1
+Hay! there's more!
+~
+~
+0 -1 18030
+D5
+Hay! want some down there?
+~
+~
+0 -1 18026
+S
+#18030
+Hayloft east~
+   The scent of the hay is so strong you want to sneeze.  The hayloft
+is stacked with fodder for the horses brought here by knights.  The
+horses are their prize possessions and are kept well fed even when the
+knight is not!  There is a ladder leading down and the hayloft
+continues to the west.
+~
+180 d 0
+D3
+Hay! there's more over there!
+~
+~
+0 -1 18029
+D5
+Hay down there?
+~
+~
+0 -1 18027
+S
+#18031
+The Arena Stands~
+   You are standing at the top of a wide, gentle slope.  It is a
+natural place from which to watch the excitement before you.  Mighty
+knights battle each other in fearsome games, attempting to prove their
+superiority.  You may watch from here,  follow the path west towards
+the rest of the faire, or move north or south to sit and watch.  The
+arena is directly east, over a small rough fence.
+~
+180 0 2
+D0
+More seating!
+~
+~
+0 -1 18032
+D1
+A fence is blocking your way.
+~
+~
+0 -1 -1
+D2
+More seating!
+~
+~
+0 -1 18034
+D3
+The rest of the faire lies that way.
+~
+~
+0 -1 18022
+S
+#18032
+Princess Buttercup's Spot~
+   The #bElysium#N elven princess, Buttercup, has a specially reserved
+spot on the hillside to watch the knights.  The ground has been covered
+with a silk blanket for her to sit upon, and her guards are never far
+away.  You should not be here unless you are Buttercup.  Leave south
+from here.
+~
+180 0 2
+D0
+The Elfking!
+~
+~
+0 -1 18033
+D2
+More seating!
+~
+~
+0 -1 18031
+S
+#18033
+A Comfy Spot for an Elfking and his Wench~
+   The sloping hillside is a comfortable place to rest and watch the
+knights prove their strength and agility against one another.  This spot
+is well shaded by a leafy oak, and affords a superb view of the games.
+It is, in fact, a favorite spot for the Elfking and his wife.
+~
+180 0 2
+D2
+The way out !
+~
+~
+0 -1 18032
+S
+#18034
+Southern end seating~
+   This is an ideal spot to watch hand to hand combat.  The hill has a
+gentle eastward-facing slope, making it comfortable to sit and watch.
+Directly east of you is the southern end of the enormous arena for the
+knights.  The entrance to the arena is north, and there is a path to
+the arena leading south.
+~
+180 c 2
+D0
+More seats!
+~
+~
+0 -1 18031
+D2
+More seats!
+~
+~
+0 -1 18035
+S
+#18035
+The Games~
+   You are standing on a wide, gentle slope facing east.  Around you
+faire-goers watch the mighty knights proving themselves in Knights'
+games.  Waiting their turn, they strut up and down in front of you.  To
+the north, knights on foot practice with sword and mace, warhammer and
+shield.  The arena entrance is just east of here.
+~
+180 0 2
+D0
+More seats!
+~
+~
+0 -1 18034
+D1
+Combat!
+~
+~
+0 -1 18036
+S
+#18036
+Hand-to-Hand Combat~
+   Soft dirt beneath your feet cushions the falls of heavily armored
+knights.  This is not a safe place for you to wander, as you are right
+in the middle of the northern end of the arena, where knights battle it
+out with handweapons.
+~
+180 0 2
+D0
+Get down and dirty!
+~
+~
+0 -1 18039
+D1
+Get down and dirty!
+~
+~
+0 -1 18037
+D3
+Safety!
+~
+~
+0 -1 18035
+S
+#18037
+Hand to hand~
+   The arena stretches out for a long distance to the east and for a
+bit south of you as well.  This is NOT a safe area to be in, as you may
+get between two of the combatants!  The swords and maces with which
+they fight are quite heavy, and some of the knights are none too
+nimble. Spectator stands are west of you.
+~
+180 0 2
+D0
+Get down and dirty!
+~
+~
+0 -1 18038
+D3
+Get down and dirty!
+~
+~
+0 -1 18036
+S
+#18038
+Hand to Hand~
+   At the eastern edge of the hand to hand combat section of the arena
+there is a bar raised to near mid-chest height of a human male.  Strong
+knights fight over the barrier, each on his own side, as one of many
+tests of their might.  The hand to hand combat arena continues south
+and west of here.  To the north lies the jousting area.
+~
+180 0 2
+D2
+Show 'em your stuff!
+~
+~
+0 -1 18037
+D3
+Battles!
+~
+~
+0 -1 18039
+S
+#18039
+Wrestling and Swordplay~
+   The best of all the surrounding lands compete here, testing their
+skills in mock combat.  In this part of the arena, wrestlers struggle
+in the soft dirt while fairegoers watching from the slopes to the west 
+cheer and jeer.  The entrance to the jousting arena is just north of
+here.
+~
+180 0 2
+D0
+Horses!
+~
+~
+0 -1 18040
+D1
+Get down and dirty!
+~
+~
+0 -1 18038
+D2
+Get down and dirty!
+~
+~
+0 -1 18036
+S
+#18040
+SW portion of a Jousting Arena~
+   A very large flat oval has been dedicated to the cream of the
+warriors - the mounted knights.  From here they charge at each other,
+mighty lancess lowered in an attempt to knock their opponent off his
+horse.
+~
+180 0 2
+D0
+The center of things
+~
+~
+0 -1 18043
+D1
+Horseplay
+~
+~
+0 -1 18041
+D2
+Handplay
+~
+~
+0 -1 18039
+S
+#18041
+SE portion of a Jousting Arena~
+   At each end of the jousting area the knight's squires scurry to help
+him mount (not easy considering the weight of his armor), bring him
+fresh spears and horns of cold mead.  Living in armor is like living in
+a tin shack in the summertime, with the brazier always stoked and hot.
+~
+180 0 2
+D0
+Horseplay
+~
+~
+0 -1 18042
+D3
+Horseplay
+~
+~
+0 -1 18040
+S
+#18042
+The Quintain~
+   In the center of this large oval stands a massive puppet made of
+walnut.  On one arm, the puppet bears the shield of #bElysium#N, the
+other is extended, holding a ring with a diameter of 9 centimeters (3.5
+inches).   The jouster must ride at full tilt towards the puppet, lower
+his lance and catch the circle.  The jousting arena continues to the
+east and west of here.
+~
+180 0 2
+D0
+Horseplay
+~
+~
+0 -1 18044
+D2
+Horseplay
+~
+~
+0 -1 18041
+D3
+Take your bow
+~
+~
+0 -1 18043
+S
+#18043
+Center of the Jousts~
+   At the center of the large arena, the knights bow to the lords and
+ladies who are watching the contests, then ride against each other in
+formal tests of skill and perserverance.
+~
+180 0 2
+D0
+Horseplay
+~
+~
+0 -1 18045
+D1
+Quintain
+~
+~
+0 -1 18042
+D2
+Horseplay
+~
+~
+0 -1 18040
+S
+#18044
+NE Corner of the Joust Oval~
+   The knights are massive men, strong enough to wear heavy armor, lift
+heavy swords, and still fight.  Gatherings such as this one at
+#bElysium#N allow them to test their strength, stamina and training
+against the unknown abilities of their peers.
+~
+180 0 2
+D2
+Quintain
+~
+~
+0 -1 18042
+D3
+Horseplay
+~
+~
+0 -1 18045
+S
+#18045
+NW Corner of the Jousting Area~
+   The eastern edge of the mountain rises abruptly block your view with
+a solid wall of granite.  Just to the north, a small, gated fence
+blocks the path to a large pasture dotted with tents.  South and west
+of you the huge jousting area continues.
+~
+180 0 2
+D0
+Campgrounds
+~
+~
+0 -1 18089
+D1
+Horseplay
+~
+~
+0 -1 18044
+D2
+Take a bow
+~
+~
+0 -1 18043
+S
+#18046
+Gypsy Path~
+   A broad, shady path bends westward towards the sound of music and a
+flash of bright color.  You can head east towards the jousts, or west
+towards the color and music.
+~
+180 0 2
+D1
+The central path
+~
+~
+0 -1 18020
+D3
+A bonfire!
+~
+~
+0 -1 18047
+S
+#18047
+The Gypsy Clearing~
+   At the westward edge of a large circle of garishly painted wagons,
+you watch a small band of wandering gypsies setting up camp.  The
+clearing continues to the west, and a small path heads east.
+~
+180 0 2
+D1
+The path continues
+~
+~
+0 -1 18046
+D3
+A bonfire!
+~
+~
+0 -1 18048
+S
+#18048
+Center of the Wagons~
+   You are surrounded by a circle of gypsy wagons.  A blazing bonfire
+warms your hands and toes.  All around you dark haired men and women
+watch you, inviting you to spend your silver with them.
+~
+180 0 2
+D0
+A wagon
+~
+~
+0 -1 18049
+D1
+The path leads east
+~
+~
+0 -1 18047
+D2
+Music and dancing
+~
+~
+0 -1 18051
+S
+#18049
+A Wagon North of a Bonfire~
+   A large hand, painted on the side of this closed wagon hints loudly
+that inside Madame K will look past the warts and the hair on your
+palm and into your future.  The hand is pointing toward the thick red
+velvet drapes covering the west entrance of the wagon.
+~
+180 d 2
+D1
+Madame K awaits you.
+~
+~
+0 -1 18050
+D2
+A bonfire!
+~
+~
+0 -1 18048
+S
+#18050
+Inside the wagon~
+   Surrounded by plush, thick soft red velvet, you wonder just WHERE
+you have wandered.  A small mahogany table sits at one end of the
+surprisingly spacious wagon.  The table is flanked by two large soft
+pillows sitting on top of a plush red carpet.
+~
+180 0 0
+D3
+Outside the wagon
+~
+~
+0 -1 18049
+S
+#18051
+South of the Bonfire~
+   An area has been cleared for dancing, and gypsy violinists play wild
+and fast.  Wild strawberries grow  around the edges of the clearing.
+The bonfire makes the red berries seem to glow, adding to the magic of
+the clearing.
+~
+180 0 2
+D0
+A bonfire!
+~
+~
+0 -1 18048
+D2
+A stinky path
+~
+~
+0 -1 18052
+S
+#18052
+South of south of the bonfire~
+   A faint path leads south from the bonfire, through a small bit of
+woods towards a small group of tiny huts.  There is a faint but
+unpleasant odor coming from that direction.
+~
+180 0 2
+D0
+A less stinky path
+~
+~
+0 -1 18051
+D2
+A more stinky path
+~
+~
+0 -1 18053
+S
+#18053
+Through the woods~
+   This north-south path passes through some light forest.  North of
+here you see the bright light and warmth of a bonfire, and the sounds
+of wild gypsy music.  To the west are a small group of huts and a
+strong odor.
+~
+180 0 2
+D0
+A stinky, but less stinky path
+~
+~
+0 -1 18052
+D3
+A much more stinky path
+~
+~
+0 -1 18054
+S
+#18054
+The Privies~
+   A group of 4 small huts sit side by side.  Each has a quarter moon
+painted on the door.  The strong, unmistakable odor in the air tells
+you that you have stumbled upon the faire's privies.  Do not stumble
+into them, but leave by the path leading east.
+~
+180 0 2
+D1
+The path gets less stinky
+~
+~
+0 -1 18053
+D3
+A godawful smell is coming from that direction.
+~
+privy door
+~
+1 -1 18055
+D5
+The steep slope of the hillside is covered with boulders and scrub
+grass.
+~
+scrub grass boulder
+~
+1 -1 18081
+S
+#18055
+Oh *!$@)%~
+  Yes! Indeed!  You were warned!  The privy had an unfortunately
+weak floor and ... 
+     you are 
+              f
+                a
+                  l
+                    l
+                      i
+                         n
+                            g
+                               d
+                                 o
+                                   w
+                                     n
+                                         *S P L A T* !!!
+what a way to go :(
+~
+180 bc 0
+S
+#18056
+Surrounded by the Faire~
+  All of Elysium and the surrounding lands seem to be here today,
+enjoying the excitement and commerce of the fair.  You can buy just
+about anything here, from pretty ribbons to fine polish for your armor.
+The crowds are in a happy mood.
+~
+180 0 0
+D0
+More Faire
+~
+~
+0 -1 18057
+D2
+More Faire
+~
+~
+0 -1 18020
+S
+#18057
+Oratory~
+   Small groups with strong beliefs take advantage of the large numbers
+of people at the faire to meet with others of their ilk and to spread
+their gospel.  So it is that just west of here you may find a small
+group of the Gnomish sort meeting furtively, and sprinkled about here
+and there you may find yourself exhorted to follow the "right and true"
+path.
+~
+180 0 2
+D0
+More Faire
+~
+~
+0 -1 18059
+D2
+More Faire
+~
+~
+0 -1 18056
+D3
+Some gnomishness
+~
+~
+0 -1 18058
+S
+#18058
+Gnomishness~
+   A group of gnomish psionicists have gathered together and are busy
+predicting all kinds of nasty plagues.  They are all members of the
+(not so) secret society of Gnomish Psionicists (they pronounce it
+"Pscientists") but they tell everyone that GP stands for #gG#Nnomish
+#gP#Nride. The faire continues to the east of here.
+~
+180 0 2
+D1
+Back to good sense!
+~
+~
+0 -1 18057
+S
+#18059
+Middle of the Faire~
+   From the east, over the other noises of the fair comes the CLANK!
+and TINK! of a tinker hard at work.  Most of the crowd, however, seems
+to be pouring west, towards an enormous pole hung with ribbons.  You
+may wish just to head north and see what is beyond the bend in the
+path.
+~
+180 0 2
+D0
+A turn in this all too straight path!
+~
+~
+0 -1 18063
+D1
+Could it be ... TINKerbell?
+~
+~
+0 -1 18060
+D2
+Gnear the Gnomes
+~
+~
+0 -1 18057
+D3
+Laughter and voodoo drums!
+~
+~
+0 -1 18061
+S
+#18060
+Tinker's Cart~
+  A traveling tinker brings all he needs with him to mend your pots
+and pans.  This tinker also creates "fairings", small, pretty metal
+badges to wear as a souvenir of your trip here today.
+~
+180 0 2
+D3
+The main path
+~
+~
+0 -1 18059
+S
+#18061
+Do it Thyself VooDoo~
+   Strange incense greets you as you walk by the strange human ranger
+selling charms, #Mvoo#Wdo#Mo#N dolls, and magic. A small table has been
+set up for him to sell his wares, and it is covered with bat claws, rat
+paws, pickled frog lips and some items you can't quite identify.  To
+the west you hear wild laughter and music, to the east the rest of the
+faire beckons you.
+~
+180 0 2
+D1
+The main lane
+~
+~
+0 -1 18059
+D3
+A pole ... and ribbons
+~
+~
+0 -1 18062
+S
+#18062
+Maypole~
+   A tree stripped of all but it's new growth at top stands in a wide
+circle of stones.  From a crown atop the tree falls a cascade of red
+and white ribbons.  The end of each ribbon is clutched tightly by a
+dancer, who weaves it with the others in an exuberant, wild dance under
+the tall tree.  Although usually a rite of Beltane, spring rebirth,
+#bElysium#N is celebrating its rebirth with the dance.  Blessed be.
+~
+180 0 2
+D1
+ooh you do that voodoo soo well!
+~
+~
+0 -1 18061
+S
+#18063
+A bend near the end~
+   You can see much of the fair from here.  To the south, a long path
+crowded with fairegoers leads past small vendors and orators.  To the
+west you see a large dark tent.  The ground is soft beneath your feet,
+and the fine silt has attached itself everywhere on  your clothing. 
+~
+180 0 2
+D2
+The long path from the entrance
+~
+~
+0 -1 18059
+D3
+looks like a tent up ahead!
+~
+~
+0 -1 18064
+S
+#18064
+Between Alehouse and Tent~
+   Which is stronger?  Your thirst?  Or your curiosity?  "Fine ale
+here! Get your fine ale here!" comes from the lovely wenches selling
+ale just north of here.  And from the west?  "See the strange and
+wonderful creatures brought here for your enjoyment from the four
+corners of the world!"
+~
+180 0 2
+D0
+An alehouse awaits
+~
+~
+0 -1 18065
+D1
+A bend in a path
+~
+~
+0 -1 18063
+D3
+A large tent
+~
+~
+0 -1 18069
+S
+#18065
+The Alehouse~
+   Not much of a house, really.  A wide wooden plank sits atop large
+barrels.  Behind the plank lovely wenches willingly serve up your ale
+for a small price.  You may sit on any of the barrels which have been
+sawn in half, or find a cool spot to sit underneath a tree.
+~
+180 0 2
+D0
+Jugglers and Magicians await you.
+~
+~
+0 -1 18067
+D1
+Mummers will mum for you!
+~
+~
+0 -1 18066
+D2
+The path to here and there ...
+~
+~
+0 -1 18064
+D3
+A quiet place for chess.
+~
+~
+0 -1 18068
+S
+#18066
+Mummers!~
+   A small stage has been formed from planks laid on bales of straw.
+You are invited to sit under the shade of the trees and watch the oddly
+dressed mummers perform for you.  Give them a few coins when you've
+done, and get on your way west.
+~
+180 0 2
+D3
+An Alehouse!
+~
+~
+0 -1 18065
+S
+#18067
+The Magic of Juggling~
+   A small, shaded area under the trees is the perfect spot for
+magicians and jugglers to entertain you.  The trees enclosing this
+small area grow thickly enough to form walls on all sides but south,
+which leads back to the Alehouse.
+~
+180 0 2
+D2
+An alehouse!
+~
+~
+0 -1 18065
+S
+#18068
+A Quiet Game of Chess~
+   A marble chessboard has been set up beneath the shade of a huge oak
+tree.  The players plot their strategies carefully, enjoying the ale
+from the nearby alehouse and each other's company.  The alehouse is
+east of here, should you want some for yourself.
+~
+180 0 2
+D1
+An Alehouse!
+~
+~
+0 -1 18065
+S
+#18069
+Phreak Show~
+  Just outside a large, dark tent, a well-disguised demon with a very
+small head invites you to come inside and gape at the strange and
+wonderful phreaks of nature he has found on his many travels. He
+bellows out what a pleasure it is to travel in #bElysium#N, where noble
+knights keep the roads safe for innocent travelers.
+~
+180 0 2
+D1
+A path leads towards an alehouse.
+~
+~
+0 -1 18064
+D3
+Into the tent!
+~
+~
+0 -1 18070
+S
+#18070
+Large cage~
+   You are standing in front of a large cage.  The floor is covered
+with straw, rather dirty now.  Occasionally it appears to move on its
+own, and you wonder what is living there where your feet are shuffling.
+Perhaps you'd rather not know.  Open the cage door and take a closer
+look at this first exhibit, or shuffle west through the inhabited
+straw..
+~
+180 d 0
+D0
+A cage
+~
+cage door
+~
+2 18000 18074
+D1
+The entrance
+~
+~
+0 -1 18069
+D3
+The hallway in the tent continues
+~
+~
+0 -1 18071
+S
+#18071
+Nothing bad could happen in #bElysium#N!~
+   As you shuffle through the straw, the canvas wall waving slightly to
+one side, you feel the urge to mumble reassurances to yourself.  Surely
+in a land whose people fought so valiantly for peace, surely there you
+would be safe!  But you remember rumors about an immortal dragon, and
+shiver.
+~
+180 d 0
+D0
+A cage
+~
+cage door
+~
+2 18000 18075
+D1
+More cages
+~
+~
+0 -1 18070
+D2
+More cages
+~
+~
+0 -1 18072
+D3
+Inside a cage
+~
+cage door
+~
+2 18002 18076
+S
+#18072
+Near the middle~
+   You must surely be near the middle of the tent by now!  In your mind
+you are calculating whether it would be faster to run forwards or turn
+around and go back the way you came.  Just in case one of the cage
+occupants manages to escape!
+~
+180 d 0
+D0
+More cages
+~
+~
+0 -1 18071
+D1
+More cages
+~
+~
+0 -1 18073
+D2
+Inside a cage
+~
+bars grille
+~
+2 18000 18078
+D3
+Inside a cage
+~
+cage door
+~
+2 18000 18077
+S
+#18073
+Jack~
+   A small cage bears the name "JACK" in large letters across the back
+tent wall.  Inside the cage is a large bright red box with a spot on
+the side that looks like a small hole. 
+~
+180 d 0
+D0
+More tent
+~
+~
+0 -1 18070
+D2
+A large cage
+~
+cage door
+~
+2 18001 18079
+More tent
+~
+~
+0 -1 18072
+S
+#18074
+Inside the cage~
+   You are shin deep in dirty straw that tickles the places where it
+sticks through your armor.  A large water trough provides water for the
+poor unfortunate who must live here.  Or perhaps, it, too, is a cage of
+sorts for yet another phreak.  The only exit is back out the cage door.
+Hope it didn't lock behind you.
+~
+180 d 0
+D2
+Safety!  Maybe.
+~
+cell door
+~
+2 18000 18070
+S
+#18075
+Feathers!~
+   This huge cage is well lit and cheerful, although still depressingly
+full of dirty straw.  Large piles of bright yellow feathers give some
+hint as to the usual occupant.  In the corner, some clean straw has
+been arranged into a large, oval nest.
+~
+180 d 0
+D2
+Safety!
+~
+cell door
+~
+2 18000 18071
+S
+#18076
+A tiny cage~
+   This cage is depressingly small.  The floor is mostly bare dirt,
+with a light covering of straw.  In one corner there is an empty wooden
+cup and a plate.  It is a small, dark, hole, all in all, and not a
+place you would want to be.
+~
+180 d 0
+D1
+The hallway in the tent.
+~
+cell door
+~
+2 18000 18071
+S
+#18077
+Yet another cage ...~
+   Strong iron bars placed a handswidth apart keep you in this cage.
+It is NOT a pleasant place to be.  It is hard to decide which is worse
+- being in a freak's bare cage or in a castle dungeon.  It is hard not
+to feel very sad for the freaks, but not sad enough to want to stay
+here.  The tent corridor is still just north of here.
+~
+180 d 0
+D1
+The tent corridor
+~
+cell door
+~
+2 18001 18072
+S
+#18078
+A cage from the inside~
+   Not a place to stay on your vacation!!  But still ... at least this
+cage has a strong wooden floor!  Perhaps the previous occupant
+attempted to dig its way out ?  You look north to freedom as the poor
+soul who normally inhabits this cage must do.
+~
+180 d 0
+D0
+A quiet (and safe) corridor
+~
+cell door
+~
+2 18000 18072
+S
+#18079
+A cage with a cage~
+   This cage has the same bare dirt floor strewn with dirty straw, the
+same windowless walls as the rest of the cages.  The only thing
+distinguishing it is the presence of a bright red box in the middle
+with a small hole on it's side.  The tent corridor, if you have a key,
+is north of here.
+~
+180 d 0
+D0
+More tent
+~
+cell door
+~
+2 18000 18073
+D5
+straw
+~
+lid box top
+~
+2 18001 18080
+S
+#18080
+Inside very dark box~
+   Why did you climb inside this thing?  It is very small and there
+really isn't room for both of us!  It is square and you need to squeeze
+yourself as tightly as possible to get inside.  It is totally dark in
+here when the lid is closed.  You're going to have fun trying to get
+out of here!  There's no ladder, you know.  Well, curiosity killed the
+...
+~
+180 d 0
+S
+#18081
+Cramped tunnel~
+   Far overhead there seems to be an opening into far-from-fresh air,
+but the opening is much too high for you to reach.  You are crawling
+through a small tight tunnel leading east.
+~
+180 acd 2
+D1
+It's very dark that way.
+~
+~
+0 -1 18082
+S
+#18082
+A sharp drop~
+   The tunnel slopes sharply down from here, widening as it goes.  The
+air is becoming warmer than you would expect in a cave, and there is a
+glow reflected in the crystals embedded in the rock walls of the
+tunnel.  You may follow the tunnel west or slide down the slope.
+~
+180 ad 2
+D3
+A narrow tunnel
+~
+~
+0 -1 18081
+D5
+a bumpy ride down
+~
+~
+0 -1 18083
+S
+#18083
+Orange glow~
+   The walls definitely have an orange glow to them here.  The heat in
+the air and the sulphurous smell are unmistakeable.  You don't need the
+tremors beneath your feet to tell you that there are dragons nearby.
+You can head up the steep slope and hope the dragon comes no closer or
+be brave and head west to the source of light and heat.
+~
+180 d 2
+D1
+~
+~
+0 -1 18087
+D3
+In the distance you flashes of orange fire.  Dragonfire.
+~
+~
+0 -1 18084
+D4
+Up the slope it's pretty dark
+~
+~
+0 -1 18082
+S
+#18084
+In the presence~
+   A huge cavern has been carved out of the heart of this mountain by
+some unknown and mysterious force.  The cavern's acoustics are such
+that every footfall resonates loudly, and whispers are echoed
+throughout.  This makes it an excellent place to stash captives.  No
+small attempt at escape goes unheard.  Heavy shackles lying on the
+floor of the cavern attest to this usage.  The cavern continues south.
+~
+180 d 2
+D1
+The cave continues eastward
+~
+~
+0 -1 18083
+D2
+The enormous cavern echoes on.
+~
+~
+0 -1 18085
+S
+#18085
+Bejeweled~
+   The cavern's walls are studded with gemstones in brilliant glowing
+colors, and between the jewels you see the glitter of gold embedded in
+the rock.  At the far southern end of the cavern there is a slight
+rise, and it has been covered with thick cushions covered with a deep
+royal blue plush fabric.  The only apparent exit from this cavern lies
+to the north.
+~
+180 d 2
+D0
+The captive area
+~
+~
+0 -1 18084
+D5
+The faint outlines of a trapdoor.
+~
+cushion
+~
+0 -1 18086
+S
+#18086
+F-a-l-l-i-n-g~
+   You tumble rapidly down a sharp slope.  Sharp is indeed a good word
+for it as it is covered with sharp stones that put dents and scratches
+in both armor and skin.  You will be lucky to tumble out of this alive,
+you will certainly not be able to return to the Dragon's Lair, should
+you be foolish enough to want to.  There is, however, an exit to
+sunshine south of here.
+~
+180 d 2
+D2
+A cave entrance!
+~
+~
+0 -1 18004
+S
+#18087
+A small dark cave~
+It is unclear what created this particular little cavern.  It is quite
+dark and resembles a closet without a door.  Not only is there no
+light, but the rock that forms the walls, floor and ceiling of the
+small cavern is black.
+~
+180 d 2
+D0
+It is too dark to see anything!
+~
+~
+0 -1 -1
+D1
+It is too dark to see anything!
+~
+~
+0 -1 -1
+D2
+It is too dark to see anything!
+~
+~
+0 -1 -1
+D3
+It is too dark to see anything!
+~
+~
+0 -1 18083
+D4
+It is too dark to see anything!
+~
+~
+0 -1 -1
+D5
+It is too dark to see anything!
+~
+boulder
+~
+1 -1 18088
+S
+#18088
+Hidden Pool~
+   Steam rises from the circular pool deep in the #bElysium#N
+underground.  The broad ledge surrounding the pool must, itself, have
+been underwater at some time for it is quite smooth.  At the northern
+end snowmelt cascades from an overhanging shelf, cooling the heated
+water to a bearable temperature.  The natural heat of the water lets
+you know a dragon must be close.  Although the walls are formed of some
+smooth black rock, there is a faint pink glow emanating from them.
+~
+180 cdt 2
+D4
+It is too dark to see anything!
+~
+boulder
+~
+1 -1 18087
+S
+#18089
+Just beyond the Jousts~
+Just north of you and to the east lies a large meadow, set aside for
+the many who will stay here for several nights.  Abundant natural
+resources - clear streams and plenty of game - make it a comfortable
+place to camp.
+~
+180 0 2
+D0
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18091
+D1
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18090
+D2
+The jousting arena
+~
+~
+0 -1 18045
+S
+#18090
+Near the Jousts~
+This might be a lovely place to camp for the night were it not for the
+proximity to the jousters!  What if one of their enormous war horses
+came thundering down the field and, alas, was unable to stop before
+charging into your camp?  On the other hand, you can watch the jousts
+from your campsite if you stop here.
+~
+180 0 2
+D3
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18089
+S
+#18091
+Good Knight!~
+Stretching past you to the north and west for many leagues you see a
+large flat area covered with soft grass and shady oaks.  This is where
+the knights and other visitors to the faire spend the night.  If you
+plan to stay here, you should be aware that not all knights are good
+knights.  Beware any knight with "the Black" in his name.  Dead
+Giveaway he's a bad guy!  "the Wicked" is another sure bet.  
+~
+180 0 2
+D2
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18089
+D3
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18092
+S
+#18092
+Bad Knight!~
+Camping continues east, south and west of here.  As #bElysium#N is
+quite tolerant, you will see knights of all sorts here.  Knights
+dressed all in white are generally #wgood#N and can be relied upon to
+root out evil (and not you!).  Likewise, if they have "the Holy", "the
+Merciful" or "the Good", chances are they're on the side of the good
+guys.
+~
+180 0 2
+D1
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18091
+D2
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18093
+D3
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18094
+S
+#18093
+The Stream~
+A stream formed of snowmelt drifts lazily from northeast to southwest
+through this clearing.  The water is delightful for drinking and
+cooking, but very very cold.  Those few knights who occasionally bathe
+have their squires heat water over the campfire.
+~
+180 0 2
+D0
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18092
+S
+#18094
+Many crossings~
+Being so close to the area for combat, this path is quite busy.  If you
+wait here long enough, it is said you will meet all the knights and
+their henchmen and camp followers.  For the most part this is a Good
+Thing, right?  But there are probably some you'd just rather not meet
+at all.
+~
+180 0 2
+D0
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18095
+D1
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18092
+S
+#18095
+Busy Camp~
+   All around you are the noises and activities of a busy camp.
+Rangers hunt for meat and herbs for the cookpot.  Squires run errands
+and perform small chores for their knights.  
+~
+180 0 2
+D0
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18097
+D2
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18094
+D3
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18096
+S
+#18096
+Among the trees~
+   Just enough trees have been planted in this area to provide shade
+for the camping fairegoers but not enough so that they would get in the
+way of the wagons and carts full of supplies.  
+~
+180 0 2
+D1
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18095
+D3
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18099
+S
+#18097
+Northwest part of the camping grounds~
+Near the time of the First Elves, an enormous volcano raised up this
+mountain then blew off it's top, leaving a deeply scooped out crater,
+the beginnings of this valley.  Local folklore states that a sleeping
+dragon awoke, raised up and, discovering he had been robbed during his
+long nap, flew into a frightening rage.  This, they believe, was the
+source of the fire that rained from the mountaintop.
+~
+180 0 2
+D1
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18098
+D2
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18095
+S
+#18098
+Northeast part of the camping grounds~
+The ground beneath your feet is soft and silty, and where the grass has
+been worn away it becomes a soft powder that seeps into every crevice.
+After the volcano formed this mountain, the crater filled with ice, and
+the glacier ground away at the dirt and rock.  Local folklore explains
+that the mountain's dragon mourned the loss of his jewels for 10,000
+years and the loss of his fire brought cold and ice to the mountain.
+~
+180 0 2
+D2
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18099
+D3
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18097
+S
+#18099
+Among the tents~
+Clans from near and far have all come to visit the faire and celebrate
+the peace.  The wealthier clan members each have their own tent, and
+each clan's tent reflects different colors and style.  As you weave
+your way between the tents there is quite a lot to see.
+~
+180 0 2
+D0
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18098
+D1
+Soft green grass and tall shady oaks
+~
+~
+0 -1 18096
+S
+#99999
+$~
+

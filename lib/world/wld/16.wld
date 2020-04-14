@@ -1,0 +1,510 @@
+#1662
+Entrance to the Mine Shaft~
+   As you enter the mine shaft, you get a sudden fear of the walls 
+closing in on you. You are surprised to notice that you don't need 
+a light. 
+~
+16 8 2
+D1
+You see the shaft. 
+~
+~
+0 -1 1663
+D2
+You see the clearing. 
+~
+~
+0 -1 1761
+S
+#1663
+Mine Shaft~
+   This mine shaft looks stable, at least in this area. The wooden 
+supports are thick and strong. Torches line the walls. Exits lead in 
+all directions. 
+~
+16 8 2
+D0
+You see a small mine shaft. 
+~
+~
+0 -1 1682
+D1
+You see the shaft. 
+~
+~
+0 -1 1664
+D2
+You see the shaft. 
+~
+~
+0 -1 1674
+D3
+You see the entrance. 
+~
+~
+0 -1 1662
+S
+#1664
+Mine Shaft~
+   This mine shaft looks stable, at least in this area. The wooden 
+supports are thick and strong. Torches line the walls. Exits lead in 
+all directions. 
+~
+16 8 2
+D0
+You see a large room. 
+~
+~
+0 -1 1683
+D1
+You see the shaft. 
+~
+~
+0 -1 1665
+D2
+You see a large room. 
+~
+~
+0 -1 1673
+D3
+You see the shaft. 
+~
+~
+0 -1 1663
+S
+#1665
+Mine Shaft~
+   This mine shaft looks stable, at least in this area. The wooden 
+supports are thick and strong. Torches line the walls. Exits lead in 
+all directions except north. 
+~
+16 8 2
+D1
+You see the walkway. 
+~
+~
+0 -1 1666
+D2
+You see a large room. 
+~
+~
+0 -1 1672
+D3
+You see the shaft. 
+~
+~
+0 -1 1664
+S
+#1666
+Walkway~
+   You are on a well built path in the middle of a mountain. You sense
+something great up ahead, considering the hard work that must have gone 
+into creating this passage. 
+~
+16 8 1
+D2
+You see the walkway. 
+~
+~
+0 -1 1667
+D3
+You see the shaft. 
+~
+~
+0 -1 1665
+S
+#1667
+Walkway~
+   You are on a well built path in the middle of a mountain. You sense
+something great up ahead, considering the hard work that must have gone 
+into creating this passage. 
+~
+16 8 1
+D0
+You see the walkway. 
+~
+~
+0 -1 1666
+D2
+You see a large hall. 
+~
+~
+0 -1 1668
+S
+#1668
+The Grand Hall~
+   You have stepped into the Grand Hall of the hobgoblin kingdom; your 
+luck must be running low by now. Golden pillars span the hallway, and 
+you notice a red carpet beneath your feet. 
+~
+16 8 0
+D0
+You see the walkway. 
+~
+~
+0 -1 1667
+D2
+You see a large room. 
+~
+~
+0 -1 1669
+S
+#1669
+The Throne Room~
+   This is large bright room filled with Hobgoblins. To the south there 
+is a large golden throne against the wall. 
+~
+16 8 0
+D0
+You see a large hall. 
+~
+~
+0 -1 1668
+S
+#1670
+The Treasury~
+   You are inside the Hobgoblin's treasury. Your are almost blinded by 
+the gold, silver and copper coins. 
+~
+16 8 0
+D0
+You see a large room. 
+~
+~
+0 -1 1671
+S
+#1671
+Guarded Room~
+   You are inside a well guarded room. The place is slightly better 
+built than the mine shafts, and is lit by lanterns. 
+~
+16 8 1
+D0
+You see a large room. 
+~
+~
+0 -1 1672
+D2
+You see a large room. 
+~
+~
+0 -1 1670
+S
+#1672
+Guarded Room~
+   You are inside a well guarded room. The place is slightly better 
+built than the mine shafts, and is lit by lanterns. 
+~
+16 8 1
+D0
+You see a large room. 
+~
+~
+0 -1 1665
+D2
+You see a large room. 
+~
+~
+0 -1 1671
+S
+#1673
+Hobgoblin Armory~
+   The guards store their spare weapons and armor here. There are rusty 
+swords on rotting shelves, and armor hanging from hooks or lying on the 
+floor. 
+~
+16 8 1
+D0
+You see the shaft. 
+~
+~
+0 -1 1664
+S
+#1674
+Mine Shaft~
+   You enter a part of the mine shaft where the torches have grown dim 
+and are almost ready to go out. From what you can see, there are plenty 
+of cobwebs on the walls and rats at your feet. 
+~
+16 8 2
+D0
+You see the shaft. 
+~
+~
+0 -1 1663
+D2
+You see a dark and nasty room. 
+~
+~
+0 -1 1675
+S
+#1675
+Entrance to a Dungeon~
+   The floor dips slightly as you walk into this dark and nasty place. 
+Your skin crawls as you look at the filth on the walls and see it move. 
+Most of the exits lead into jail cells. 
+~
+16 8 2
+D0
+You see the shaft. 
+~
+~
+0 -1 1674
+D1
+You see a cell. 
+~
+~
+0 -1 1677
+D2
+You see a dark and nasty room. 
+~
+~
+0 -1 1676
+D3
+You see a cell. 
+~
+~
+0 -1 1681
+S
+#1676
+A Dungeon~
+   You are in the deepest and darkest part of the mine shafts. The 
+light from the torches barely reaches to where you are. Most directions 
+from here lead to jail cells. 
+~
+16 8 2
+D0
+You see a dark and nasty room. 
+~
+~
+0 -1 1675
+D1
+You see a cell. 
+~
+~
+0 -1 1678
+D2
+You see a cell. 
+~
+~
+0 -1 1679
+D3
+You see a cell. 
+~
+~
+0 -1 1680
+S
+#1677
+A Jail Cell~
+   You are in a musty, dark jail cell. Wet and dirty straw covers the 
+floor. The walls glisten with slime. You see something stir in the 
+straw. 
+~
+16 8 2
+D3
+You see a dark and nasty room. 
+~
+~
+0 -1 1675
+S
+#1678
+The Jail Cell~
+   You are in a musty, dark jail cell. Wet and dirty straw covers the 
+floor. The walls glisten with slime. You see something stir in the 
+straw.
+~
+16 8 2
+D3
+You see a dark and nasty room. 
+~
+~
+0 -1 1676
+S
+#1679
+The Jail Cell~
+   You are in a musty, dark jail cell. Wet and dirty straw covers the 
+floor. The walls glisten with slime. You see something stir in the 
+straw. 
+~
+16 8 2
+D0
+You see a dark and nasty room. 
+~
+~
+0 -1 1676
+S
+#1680
+The Jail Cell~
+   You are in a musty, dark jail cell. Wet and dirty straw covers the 
+floor. The walls glisten with slime. You see something stir in the 
+straw. 
+~
+16 8 2
+D1
+You see a dark and nasty room. 
+~
+~
+0 -1 1676
+S
+#1681
+The Jail Cell~
+   You are in a musty, dark jail cell. Wet and dirty straw covers the 
+floor. The walls glisten with slime. You see something stir in the 
+straw. 
+~
+16 8 2
+D1
+You see a dark and nasty room. 
+~
+~
+0 -1 1675
+S
+#1682
+Small Mine Shaft~
+   You are in a small extension of the mine shaft. The dust on the 
+floor is undisturbed by footprints. 
+~
+16 8 2
+D0
+You see a small mine shaft. 
+~
+~
+0 -1 1688
+D2
+You see the shaft. 
+~
+~
+0 -1 1663
+S
+#1683
+Hobgoblin Barracks~
+   You are suddenly surrounded by a small army of hobgoblin guards. The 
+room itself is a mess with clothes and armor everywhere. The beds are 
+unmade and stained. 
+~
+16 8 2
+D0
+You see a large room. 
+~
+~
+0 -1 1684
+D1
+You see the mess hall. 
+~
+~
+0 -1 1685
+D2
+You see the mine shaft. 
+~
+~
+0 -1 1664
+S
+#1684
+Hobgoblin Barracks~
+   Yech! As you continue forward, the smell just keeps getting worse. 
+What are you DOING here? 
+~
+16 8 2
+D2
+You see a large room.
+~
+~
+0 -1 1683
+S
+#1685
+Mess Hall~
+   You stand in the hobgoblin eating area. There are a few rotting 
+tables and many broken dishes scattered around the room. You almost 
+slip on a rotten piece of meat, but catch yourself just in time. 
+~
+16 8 2
+D0
+You see a small room. 
+~
+~
+0 -1 1686
+D1
+You see a kitchen. 
+~
+~
+0 -1 1687
+D3
+You see a large room. 
+~
+~
+0 -1 1683
+S
+#1686
+A Store Room~
+   You stand in a small room filled with flour, grain, fruit, and bat
+droppings. 
+~
+16 8 1
+D2
+You see the mess hall. 
+~
+~
+0 -1 1685
+S
+#1687
+The Kitchen~
+   This kitchen hasn't been cleaned since the creation of humans. The 
+trash and spoiled food lying on the floor reach up to your knees. Off 
+to the side a pot is boiling over. A human hand floats in it. 
+~
+16 8 2
+D3
+You see the mess hall. 
+~
+~
+0 -1 1685
+S
+#1688
+A Small Mine Shaft~
+   You come to a place in the mine shaft where a tunnel leads down. The 
+small passage continues north and south. 
+~
+16 8 2
+D0
+You see an almost caved in area. 
+~
+~
+0 -1 1689
+D2
+You see a small mine shaft. 
+~
+~
+0 -1 1682
+D5
+You see a hole. 
+~
+~
+0 -1 1690
+S
+#1689
+Hermit's Lair~
+   You are in a small section where the mine wall has collapsed to 
+reveal a tiny one-room cave. The area is barely lit, but you can 
+make out something moving towards you. 
+~
+16 8 2
+D2
+You see a small mine shaft. 
+~
+~
+0 -1 1688
+S
+#1690
+A Hole~
+   You are in a hole. 
+~
+16 8 3
+D4
+You see a small mine shaft. 
+~
+~
+0 -1 1688
+S
+#99999
+$~
+

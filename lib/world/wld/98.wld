@@ -1,0 +1,927 @@
+#9800
+Mountain Trail~
+   This trail leads high into the mountains. You hope you don't fall because
+it would result in instant death. The trail continues to the east. To the south
+a half cleared trail leads downward. To the west you can see a large plateau.
+~
+98 0 5
+D1
+~
+~
+0 -1 9801
+D2
+~
+~
+0 -1 9850
+D3
+Path to Dwarven Village. 
+~
+~
+0 -1 9855
+S
+#9801
+Mountain Trail~
+   You're really high up now. You can keep going even farther up into the
+mountains to the east, or go back down to the west. 
+~
+98 0 5
+D1
+~
+~
+0 -1 9802
+D3
+~
+~
+0 -1 9800
+S
+#9802
+Mountain Trail~
+   Wispy clouds are beginning to surround you now, and your ears pop due to the
+altitude. To the east, you see the summit of the mountain, and from the way the
+nearby mountains are arranged behind it, you believe you're on your way to a
+big valley. You can also go down to the west. 
+~
+98 0 5
+D1
+~
+~
+0 -1 9803
+D3
+~
+~
+0 -1 9801
+S
+#9803
+Near the Mountain's Peak~
+   The peak of this mountain is another couple hundred feet above you, but here
+is where the trail leads down into the valley... What an odd valley! The valley
+seems to have been filled up by a hundreds of feet of lava many years ago. It
+gives the valley an odd, 'flat' look and darkish ground. The path leads down
+east into the valley, and west back to civilization. 
+~
+98 0 5
+D1
+~
+~
+0 -1 9804
+D3
+~
+~
+0 -1 9802
+S
+#9804
+Trail to the Valley~
+   The trail leads down into the valley, where, by judging by the height of the
+trees, the lava had cooled tens of decades ago. Down below you see the path
+lead into the small forest in the valley, and disappear out of sight. East
+leads into the valley, West back to civilization. 
+~
+98 0 5
+D1
+~
+~
+0 -1 9805
+D3
+~
+~
+0 -1 9803
+S
+#9805
+In the Valley~
+   The ground has taken on the texture of dirt on the top, but this valley is
+far too flat and too rocky to disguise the catastrophe that happened here so
+long ago. Looking up to the mountains ringing this area, you notice several
+mountains look as if they had 'exploded', which is strange, considering that
+they are not volcanoes. The path leads into the woods to the east, and back up
+the mountain to the west. 
+~
+98 0 3
+D1
+~
+~
+0 -1 9806
+D3
+~
+~
+0 -1 9804
+S
+#9806
+In a Clearing~
+   You come to a small clearing now, after walking for several minutes through
+the silent woods. An odd block sticks up here and there in the ground... ...
+wait a minute. These stones seem a little too regular, and from the circle
+formation and size you could almost swear that they were... crenellations?
+Could some sort of building been buried by the lava here? A rusty ring sticks
+out of the earth in the center... a trapdoor? This is almost too good to be
+true! 
+~
+98 0 3
+D3
+~
+~
+0 -1 9805
+D5
+An ancient trapdoor, grimed with earth and age. 
+~
+trapdoor trap~
+3 -1 9807
+S
+#9807
+A Stairwell~
+   This small room is the top of a stairwell leading down deep into the tower.
+A small trapdoor overhead leaks the light of day around its edges. To the south
+is a wooden door, preserved through the ages by means unknown. To the west is a
+short hall. 
+~
+98 acd 0
+D2
+~
+door~
+3 -1 9808
+D3
+~
+~
+0 -1 9809
+D4
+An ancient trapdoor, grimed with earth and age. 
+~
+trapdoor trap~
+3 -1 9806
+D5
+~
+~
+0 -1 9813
+S
+#9808
+A Linen Closet~
+   This small room holds many types of linen on shelves along the walls. They
+are undoubtedly preserved by magic against the toil of the ages, since they
+seem freshly washed and folded. You wonder what sort of mage could wield so
+much power to waste on such little things. 
+~
+98 ad 0
+D0
+~
+door~
+3 -1 9807
+E
+linen shelf shelves~
+   White sheets, pillow-cases, etc.  Not really  anything that you need, but
+interesting.
+~
+S
+#9809
+Corridor~
+   This is only a clean corridor, that leads back to the stairwell to the east,
+and has doors leading to other rooms to the north and south. 
+~
+98 ad 0
+D0
+~
+door north~
+3 -1 9811
+D1
+~
+~
+0 -1 9807
+D2
+~
+door south~
+3 -1 9810
+S
+#9810
+Bathroom~
+   This is some sort of bathroom, like you've never seen before... Water
+appliances leading from nowhere deliver hot and cold running water to basins
+that drain to... where? How strange! 
+~
+98 ad 0
+D0
+~
+door~
+3 -1 9809
+S
+#9811
+Master Bedroom~
+   This is an opulent room, decorated in silks and gold. There is an ebony desk
+against one wall, cooled lava rock spilling over its surface from the window it
+once looked out at. A nice, spacious closet is filled with clothes just cleaned
+and pressed. 
+~
+98 ad 0
+D2
+~
+door~
+3 -1 9809
+E
+closet~
+   Nice clothes, but not your size at all.
+~
+E
+desk~
+   The desk is basically uninteresting, as are the papers on top of it...
+~
+S
+#9812
+The Library~
+   A great mages' library is contained on this floor of the tower. You feel you
+could learn anything you wanted to if you only looked and read long enough. A
+strange chessgame is standing on a oak table in the middle of the room. It 
+looks very old, dust have collected all around it, but not on it. To the
+east a door leads back to the stairwell.
+~
+98 ad 0
+D1
+~
+door~
+3 -1 9813
+D3
+A big bookcase, that looks rather odd. 
+~
+bookcase~
+3 -1 9814
+D5
+If you go down you enter the magic chessboard.
+~
+~
+0 -1 1855
+E
+Chess chessboard board~
+As you examine the chessgame more closely you can see that the small pieces are
+moving around. As they played by them self. On a box beside the chessboard
+you can read the following words..
+"Chessgame of Illusions this is the trap of the two mages Malthus and Turing
+ they could never beat each other in chess so they agreed to be transformed
+ into a illusionary chessgame. One condition from the maker was that they
+ couldn't leave the game before either off them had won. As they never could
+ beat each other they where trapped forever."
+
+Created by Coke for Elite mud. To enter go down.
+~
+E
+book books~
+There's lots of books about everything here!
+~
+S
+#9813
+Stairwell~
+   This stairwell continues up and down, and there is a door to the west. 
+~
+98 ad 0
+D3
+~
+door~
+3 -1 9812
+D4
+~
+~
+0 -1 9807
+D5
+~
+~
+0 -1 9815
+S
+#9814
+A Hidden Hall~
+   This is a small hidden hall with a secret entrance to the library on the
+north end of the west wall, and a trapdoor on the south end. 
+~
+98 ad 0
+D1
+The backside of a movable bookcase. 
+~
+book bookcase~
+3 -1 9812
+D5
+~
+trapdoor trap~
+3 -1 9816
+S
+#9815
+A Stairwell~
+   This stairwell continues up and down, and there is a door to the west
+opening up onto this level. 
+~
+98 ad 0
+D3
+~
+door~
+3 -1 9817
+D4
+~
+~
+0 -1 9813
+D5
+~
+~
+0 -1 9822
+S
+#9816
+Hidden Treasure Room~
+   Jackpot! A small room filled with treasure chests! Go get it! 
+~
+98 ad 0
+D4
+~
+trapdoor trap~
+3 -1 9814
+S
+#9817
+Hallway~
+   This hall runs through the tower. There's more hall to the west, and doors
+to your north and south. A door to the east leads back to the stairwell. 
+~
+98 ad 0
+D0
+~
+door north~
+3 -1 9819
+D1
+~
+east door~
+3 -1 9815
+D2
+~
+door south~
+3 -1 9818
+D3
+~
+~
+0 -1 9820
+S
+#9818
+Servant's Room~
+   This seems to be a small servant's bedroom, sparsely decorated and outfitted
+with a bed, night stand, chair and table, etc. Nothing real important here. 
+~
+98 ad 0
+D0
+~
+door~
+3 -1 9817
+S
+#9819
+Servant's Room~
+   This seems to be a small servant's bedroom, sparsely decorated and outfitted
+with a bed, night stand, chair and table, etc. Nothing real important here. 
+~
+98 ad 0
+D2
+~
+door~
+3 -1 9817
+S
+#9820
+Hallway~
+   This hallway continues to the east, and has a door to the north. You could
+swear that the way this level is arranged... nah, couldn't be. 
+~
+98 ad 0
+D0
+~
+door~
+3 -1 9821
+D1
+~
+~
+0 -1 9817
+S
+#9821
+Servant's Room~
+   This seems to be a small servant's bedroom, sparsely decorated and outfitted
+with a bed, night stand, chair and a table, etc. Nothing real important here. 
+~
+98 ad 0
+D2
+~
+door~
+3 -1 9820
+S
+#9822
+Stairwell~
+   This stairwell leads up and down, and there is a big open room to your west.
+
+~
+98 ad 0
+D3
+~
+~
+0 -1 9823
+D4
+~
+~
+0 -1 9815
+D5
+~
+~
+0 -1 9825
+S
+#9823
+Dining Hall~
+   This is a large dining hall, with a long table that runs down the length of
+it. Chairs are set up along the sides to accommodate approximately 10 people.
+There are paintings and tapestries on the walls, adding color to the stonework.
+The cooled lava that had poured in the windows makes the place seem eerie
+somehow . There is a door to the north, and the stairwell is to the east. 
+~
+98 ad 0
+D0
+~
+door~
+3 -1 9824
+D1
+~
+~
+0 -1 9822
+E
+tapestry tapestries painting paintings~
+   Many of these show scenes of high magic and heroism. Just like almost every
+tapestry and painting you've seen.
+~
+S
+#9824
+Kitchen Area~
+   This is a well-stocked kitchen, the larders still fresh and full as if by
+magic. Perhaps this would be a good place to take a break. 
+~
+98 ad 0
+D2
+~
+door~
+2 -1 9823
+S
+#9825
+Stairwell~
+   The stairwell leads up and down here, and there is a hall you can enter to
+the west. 
+~
+98 ad 0
+D3
+~
+~
+0 -1 9826
+D4
+~
+~
+0 -1 9822
+D5
+~
+~
+0 -1 9829
+S
+#9826
+Hall~
+   This area of the tower seems dank and oppressive. The hall runs north-south
+and there is an empty cell to your west. The stairwell is to your east. 
+~
+98 ad 0
+D0
+~
+~
+0 -1 9827
+D1
+~
+~
+0 -1 9825
+D2
+~
+~
+0 -1 9828
+E
+cell cells~
+It's open, empty, and uninteresting.
+~
+S
+#9827
+Hall~
+   This is the northern end of the hall. There are cells to your right and
+left, empty and awaiting occupants. 
+~
+98 ad 0
+D2
+~
+~
+0 -1 9826
+E
+cell cells~
+It's open, empty, and uninteresting.
+~
+S
+#9828
+Hall~
+   This is the southern end of the hall. There are cells to your right and
+left, empty and awaiting occupants. 
+~
+98 ad 0
+D0
+~
+~
+0 -1 9826
+E
+cell cells~
+It's open, empty, and uninteresting.
+~
+S
+#9829
+Stairwell~
+   The stairwell continues up and down here. A large room opens up to the west.
+
+~
+98 ad 0
+D3
+~
+~
+0 -1 9830
+D4
+~
+~
+0 -1 9825
+D5
+~
+~
+0 -1 9831
+S
+#9830
+Mage's Office~
+   A small desk here is cluttered with magically preserved papers and
+documents. None seem of value, except perhaps to a historian. This place seems
+vaguely uninteresting... 
+~
+98 ad 0
+D1
+~
+~
+0 -1 9829
+E
+desk~
+   It's cluttered with all sorts of papers.  Some look half interesting,
+actually.
+~
+E
+paper papers documents document~
+   Well, one of the papers relate a story about how the mage of this tower,
+Rand, angered many kings, and relates how they set his armies on him. You
+wonder if the lava outside was a failed attempt to destroy the armies...
+~
+S
+#9831
+Stairwell~
+   The stairs go up and down here, and there is a room to the west... 
+~
+98 ad 0
+D3
+~
+~
+0 -1 9832
+D4
+~
+~
+0 -1 9829
+D5
+~
+~
+0 -1 9833
+S
+#9832
+Sitting Room~
+   This is a simply furnished room, with chairs all about. A fireplace is inset
+into an inner wall, the chimney undoubtedly directed by magic... This would be
+a nice place to rest awhile... 
+~
+98 ad 0
+D1
+~
+~
+0 -1 9831
+S
+#9833
+Stairwell~
+   This is where the stairwell finally ends. There is a hall to your west. 
+~
+98 ad 0
+D3
+~
+~
+0 -1 9834
+D4
+~
+~
+0 -1 9831
+S
+#9834
+Hallway~
+   This small hallway on the former 'ground floor' ran north-south. To the east
+is the stairwell that leads up into the shadowy recesses of the tower. To the
+west is the entrance way to the tower. The north is completely blocked off by
+lava, and the way south is still clear. 
+~
+98 ad 0
+D1
+~
+~
+0 -1 9833
+D2
+~
+~
+0 -1 9837
+D3
+~
+~
+0 -1 9835
+S
+#9835
+Entranceway~
+   This is a grand chamber with giant double-doors to the west. To the east is
+the main floor of the tower. This room is arranged highly attractively and very
+impressively, with sculptures and tapestries everywhere. The doors seem
+impenetrable... you don't think you'd be able to get through them if you really
+had to... 
+~
+98 ad 0
+D1
+~
+~
+0 -1 9834
+D3
+These doors seem incredible. Unfortunately, they're locked. 
+~
+door double~
+7 0 9836
+E
+sculpture tapestry sculptures tapestries~
+   They look nice, but aren't very valuable.
+~
+S
+#9836
+Doorway~
+   This was the entrance to the tower. Now lava has blocked it up completely.
+However: It seems when the lava came down a man was outside the doors. He was
+blasted into the doors, and died instantly, but his skeleton still clutches a
+staff in perfect condition... 
+~
+98 ad 0
+D1
+These double doors have the outline of a man blasted into them... 
+~
+double doors~
+7 0 9835
+S
+#9837
+Hallway~
+   This is the southern part of the hallway. There is a door to the west,
+barred with gleaming bands of lights. To the north is more hallway. 
+~
+98 ad 0
+D0
+~
+~
+0 -1 9834
+D3
+~
+door~
+35 -1 9838
+S
+#9838
+Stairs~
+   Stairs lead down here into the tower's basement, or you can head east into
+the main floor of the tower. 
+~
+98 ad 0
+D1
+~
+door~
+35 -1 9837
+D5
+~
+~
+0 -1 9839
+S
+#9839
+Stairs~
+   Stairs lead up here to the main level, or you can go east to the basement of
+the tower. 
+~
+98 ad 0
+D1
+~
+~
+0 -1 9840
+D4
+~
+~
+0 -1 9838
+S
+#9840
+Alcove~
+   This alcove leads into a huge room to your north, and to stairs leading down
+to the east, and stairs going up to your west. 
+~
+98 ad 0
+D0
+~
+~
+0 -1 9841
+D1
+~
+~
+0 -1 9842
+D3
+~
+~
+0 -1 9839
+S
+#9841
+Laboratory~
+   This laboratory has lots of stuff in it. Beakers, flasks, burners, tongs,
+mortars and pestles, jars filled with normal things, jars filled with abnormal
+things, jars filled with things you'd rather not think about... A search could
+reveal many things... 
+~
+98 ad 0
+D2
+~
+~
+0 -1 9840
+E
+beaker beakers flask flasks burner burners tong tongs mortar mortars pestle pestles jar jars~
+   Looks like normal, fragile lab equipment to you.
+~
+S
+#9842
+Stairs~
+   Stairs lead down here to the second level of the basement, or back west to
+the alcove. 
+~
+98 ad 0
+D3
+~
+~
+0 -1 9840
+D5
+~
+~
+0 -1 9843
+S
+#9843
+Stairs~
+   Stairs lead up here to the first level of the basement, or you can go east
+to another big room. 
+~
+98 ad 0
+D1
+~
+~
+0 -1 9844
+D4
+~
+~
+0 -1 9842
+S
+#9844
+Summoning Room~
+   This room is darkly lit by a giant glowing pentagram in the center of the
+room. Bands of force encircle some sort of being trapped inside. You think that
+going inside would be an EXTREMELY BAD idea... 
+~
+98 ad 0
+D0
+~
+~
+0 -1 9845
+D3
+~
+~
+0 -1 9843
+E
+being~
+   You can't see it clearly through the energy field of the pentagram, but you
+sense that whatever it is, it is very, very, very, very angry.
+~
+E
+pentagram~
+   It's centuries old.  You don't think standing close by would be a good idea.
+~
+S
+#9845
+Inside a Pentagram~
+   The small god entrapped by the wizard looks at you with an insane
+expression. Four hundred years of imprisonment doesn't do much for ones...
+OOPS! He killed you! You are dead, R. I. P. 
+~
+98 b 0
+D2
+~
+~
+0 -1 9844
+S
+#9850
+Old Trail up the Mountain~
+   You are walking on a trail going up the mountain. Further ahead the trail
+makes a turn around a large cliff. If you walk north you will go around this
+rock and if you walk south you will go down the mountain to its base.
+~
+98 0 5
+D0
+~
+~
+0 -1 9800
+D2
+~
+~
+0 -1 9851
+S
+#9851
+Old Trail up the Mountain~
+   You have almost reached the top of the mountain. To the south you see the
+forest of Namir. If you look very closely to the south-west you can see the
+city of Midgaard. The trail continues up to the north and down to the south.
+~
+98 0 5
+D0
+~
+~
+0 -1 9850
+D1
+~
+~
+0 -1 27800
+D2
+~
+~
+0 -1 9852
+S
+#9852
+Old Trail up the Mountain~
+   You are walking on a old trail up the mountain. Large rocks and cliffs
+surround you on both sides. The trail continues up to the north and down to
+the south.
+~
+98 0 5
+D0
+~
+~
+0 -1 9851
+D2
+~
+~
+0 -1 9853
+S
+#9853
+Old Trail up the Mountain~
+   You are on a half cleared mountain trail. You are walking between high 
+cliffs and large rocks. The trail makes its way upward to the north and to the
+south it goes down to the base of the mountain.
+~
+98 0 5
+D0
+~
+~
+0 -1 9852
+D2
+~
+~
+0 -1 9854
+S
+#9854
+The Start of the Old Trail up the Mountains~
+   You are standing at the base of the Moria mountains. A half cleared trail
+leads up the mountains to the north. To the south a trail leads back to
+Midgaard. Far to the west you can see the river flowing into the mountain and
+to the east you see the large forest of Namir. A large sign have been placed
+on a pole here.
+~
+98 0 5
+D0
+~
+~
+0 -1 9853
+D2
+~
+~
+0 -1 23013
+E
+sign pole~
+The sign reads
+North, Old Trail to the Dwarven mines.
+South, Trail to the city of Midgaard.
+~
+S
+#9855
+The Plateau~
+   A huge rockfall has blocked the narrow pass that once led north 
+through the Moria mountains. The plateau continues further to the east,
+and to the south, a narrow path passes precariously close to the cliff 
+edge.
+~
+98 0 5
+D1
+~
+~
+0 -1 9800
+D2
+~
+~
+0 -1 4040
+S
+#99999
+$~

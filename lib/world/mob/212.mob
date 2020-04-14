@@ -1,0 +1,221 @@
+#21200
+macaw blue jungle~
+a blue macaw~
+A blue macaw flies past on his way through the trees.
+~
+The blue macaw wears a beautiful azure coat that has been decorated
+with patches of jewel-colored accents.  He has a strong beack, and
+equally strong claws.  His poweful wings are capable of carrying him
+to the tops of the jungle trees.
+~
+6 4 bh B 0 S
+25 7 -3 1d1+369
+408 500 100 1d12+13
+-1 -1 -1 
+625 58333 8 8 1
+#21201
+macaw scarlet jungle~
+a scarlet macaw~
+A scarlet macaw calls to her feathered friends above.
+~
+The scarlet macaw proudly wears feathers the color of freshly drawn
+blood.  Her powerful beak and claws allow her to eat anything from
+seeds to small animals. 
+~
+6 4 bh B 0 S
+25 7 -3 1d1+369
+408 500 100 1d12+13
+-1 -1 -1 
+625 58333 8 8 2
+#21202
+jaguar black jungle~
+a black jaguar~
+The black jaguar crouches low, awaiting her next meal.
+~
+With a coat the color of night, the black jaguar easily blends into the
+darkness of the jungle.  She has extremely sharp teeth and claws, which
+allow her to tear through living flesh with the greatest of ease.  Her
+emerald green eyes stare back at you, and you just know she is thinking,
+"Mmmm...lunch!"
+~
+3 4 fgl fsty 0 S 
+40 -2 -9 4d44+400
+407 500 50 3d8+15
+408 500 50 3d8+12 -1
+-1
+-1
+0 250000 8 8 2
+#21203
+peccary boar wild jungle~
+a peccary~
+A peccary runs out from the underbrush and attacks!
+~
+The peccary is compactly built, but very powerful indeed.  His tawny
+hide covers a powerhouse of rippling muscles.  His small tusks can
+gore anything he points his head at.  You thank your lucky stars that
+this beast prefers the taste of plants, but don't count yourself
+blessed yet -- he defends his territory with terrible ferocity!
+~
+1 4 fgl 0 0 S 
+30 0 -8 4d30+320
+408 500 100 3d7+10 -1
+-1
+-1
+0 200000 8 8 1
+#21204
+frog poison bright arrow blue jungle~
+a poison-arrow frog~
+A brightly colored frog calls to his mate.
+~
+The bright color of the poison-arrow frog serves as a warning to any
+would-be predators.  He may be small, but the toxins in his skin pack a
+powerful punch.
+~
+1 4 b 0 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 1
+#21205
+ant fire drone jungle~
+a fire ant drone~
+A fire ant drone runs through the forest looking for food.
+~
+The fire ant has powerful jaws, but they are not her only means of
+defense.  She is filled with an acidic poison that can burn the very
+flesh from intruders.  You better hope she is alone, because as soon
+as she calls for an attack, hundreds of her sister drones will attack
+you, leaving only bits of hair and bone. 
+~
+1 4 fg 0 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 2
+#21206
+ant leaf cutter drone jungle~
+a leafcutter ant drone~
+A small leaf runs through the forest.
+~
+As you look a bit more closely at the leaf, you notice that it is
+actually moving atop a tiny ant.  This little creature can cut apart
+the forest with her powerful jaws.  She can also carry the resulting
+pieces through miles of jungle back to her colony's farm, where the
+leaves are buried to feed a crop of fungi. 
+~
+1 4 g 0 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 2
+#21207
+runa man tribesman jungle~
+a Runa tribesman~
+Spear in hand, the Runa tribesman hunts for survival.
+~
+This man of the jungle hunts only for the survival of his tribe.  His
+people learned long ago that anything more would incur the wrath of
+the jungle.  He is short and stocky, built for life on the jungle
+floor.  His dark skin glistens with the humidity of the jungle, but
+his sweat glands stopped working generations ago.  No point in
+perspiring when the oppressive humidity of the jungle won't allow for
+evaporation! 
+~
+1 4 g st 0 S
+40 -1 -12 1d1+605
+400 500 100 1d20+21
+-1 -1 -1 
+1600 196666 8 8 1
+#21208
+runa woman tribeswoman jungle~
+a Runa woman~
+The Runa woman wanders through her jungle home.
+~
+The woman of the jungle has learned to live in harmony with nature.  She
+gathers medicinal leaves for her tribe, taking only as much as they will
+need.
+~
+1 4 g s 0 S
+40 -1 -12 1d1+605
+400 500 100 1d20+21
+-1 -1 -1 
+1600 196666 8 8 2
+#21209
+monkey titi jungle~
+a titi monkey~
+A small monkey scurries through the trees.
+~
+This small monkey sits high above the jungle floor, escaping many of the
+larger predators found below.  She is covered with a golden brown fur,
+which has been matted along her tail.  While she may be small, she has a
+fierce bite, and her mate is probably not too far from her.
+~
+1 4 bgl 0 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 2
+#21210
+iguana green jungle~
+an iguana~
+An emerald green iguana climbs slowly through the trees.
+~
+The large iguana munches lazily on the bounty of leaves in his jungle
+home.  While he doesn't care much for the taste of flesh, he is quite
+capable of defending himself with his enormous muscular tail.
+~
+1 4 bg 0 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 1
+#21211
+anteater giant ant jungle~
+a giant anteater~
+A giant anteater tracks down some tasty morsels with his long snout.
+~
+The giant anteater is covered with coarse gray fur, accentuated with
+stripes of black and white.  He has a small head and a long,
+pronounced snout, which is just perfect for hunting down his favorite
+food - ants!  His long claws are excellent for digging into an
+underground colony, and in order to protect them from damage, he
+walks with his front feet turned on their sides. 
+~
+1 4 bg 0 0 S
+30 5 -6 1d1+445
+400 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 1
+#21212
+sloth three toed three-toed jungle~
+a three-toed sloth~
+Covered in moss, the three-toed sloth climbs lazily through the trees.
+~
+This tree-dwelling animal has hook-like claws, enabling him to climb
+through the trees quite comfortably.  His reddish brown fur is covered
+with moss, which has been able to take hold on him because he moves so
+slowly!
+~
+1 4 bg 0 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1 
+625 58333 8 8 1
+#21213
+tapir jungle~
+a tapir~
+The tapir munches his way through the tasty underbrush.
+~
+This relative of the modern horse looks a bit more like a pig than
+anything else.  He is short and stout, with a moveable nose, which he
+uses to sniff out his favorite meal. 
+~
+1 4 bg 0 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1 
+625 58333 8 8 1
+#99999 
+$~
+
+

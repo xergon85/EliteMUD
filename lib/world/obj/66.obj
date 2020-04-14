@@ -1,0 +1,1718 @@
+#6600
+flask juice carrot~
+a flask of carrot juice~
+It looks like something yummy and very orange!~
+~
+10 1 0 0 ao
+10 19 44 47 0 0
+1 3000 0
+E
+flask~
+Elves have mastered the use of the gifts of nature.  The juice in this
+clear flask will undoubtedly help your vision.
+~
+#6601
+milk bota~
+a dragon hide bota~
+A bota made from well-cured dragonskin could hold a lot to drink.~
+~
+17 1 0 0 alo
+80 80 10 0 0 0
+20 50 0
+E
+bota~
+The bota is a drink container, made for wine by the monks on the
+hilltop monastery.  It is a graceful teardrop shape, soft and
+capacious.  The rounded bottom tapers to a thin neck, closed with a
+stopper which is attached to the body of the bota by a short cord.
+This particular bota is made of dragon skin, which is particularly
+thick and has insulating properties much needed by the dragons while
+they are alive.  This skin shimmers with rainbow colors.
+~
+#6602
+essence bugloss bottle~
+essence of bugloss~
+A small stoppered bottle containing the distilled essence of viper's
+bugloss waits here in case you need it.~
+~
+10 5 0 0 ao
+10 43 -1 -1 0 0
+1 500 0
+E
+bottle~
+The small clear glass bottle looks like it would fit handily into a
+backpack, satchel or girdle.   It is filled with a nasty-smelling
+liquid, black in color.  There is a gold label on the bottle with very
+formal black lettering.  It reads, "Quaff in case of attack by viper."
+~
+#6603
+viper bugloss leaves~
+a few leaves from the bugloss plant~
+Some leaves have fallen off the viper's bugloss plant.~
+~
+10 5 0 0 ao
+10 43 -1 -1 0 0
+1 500 0
+E
+leaves~
+The leaves are a deep green covered with fine white hairs.
+~
+#6604
+vipers bugloss plant~
+a pretty bush covered with prickly hairs~
+A row of viper's bugloss makes a prickly but appealing sight.~
+~
+15 1 0 0 0
+5 0 -1 0 0 0
+1 1 1
+E
+bugloss plant~
+Viper's Bugloss. Echium vulgare. A showy plant covered with prickly
+hairs. An infusion made from 1 ounce of dried leaves to one pint of
+water makes a good cordial that relieves headaches and nervous
+complaints and alleviates fevers. The plant is said to be an expeller
+of poisons and venoms and could even cure a viper's bite, hence the
+name.
+~
+#6605
+garlic bulb potion~
+a small white bulb of garlic~
+A small white bulb of garlic might keep the vampires away!~
+~
+10 0 0 0 a
+40 1 67 -1 0 0
+1 100 0
+E
+garlic bulb~
+This small, innocent looking herb conceals a very pungent scent when
+eaten.  Perhaps this is the source of its legendary powers of keeping
+villains at bay.
+~
+#6606
+bark willow wand~
+a strip of willow bark~
+Some bark has been torn off a willow tree.~
+~
+3 5 0 0 ao
+40 5 5 16 0 0
+4 5000 0
+E
+bark~
+It looks like bark torn loose from some tree.
+~
+#6607
+trout food fish~
+a rainbow trout~
+The brightly colored fish looks dipped in Heaven's colors.~
+~
+19 0 0 0 ao
+24 0 0 0 0 0
+1 25 0
+E
+trout~
+The lovely fish looks very tasty as it slides through the cold waters
+of the lake.  It swims, stripes of magenta, cyan, green and daffodil
+adding color to the water.
+~
+#6608
+tankard~
+a tankard~
+The tankard of ale looks coolly refreshing.~
+~
+17 0 0 0 ao
+5 5 3 0 0 0
+10 50 0
+E
+tankard ale~
+The tall tin tankard gleams with the cold condensation covering its
+sides.  The ale smells flower sweet.
+~
+#6609
+forget-me-not tincture potion~
+tincture of forget-me-not~
+The forget-me-not potion helps you recall places far away.~
+~
+10 0 0 0 a
+10 42 -1 -1 0 0
+1 800 0
+E
+forget-me-not tincture potion~
+A pale blue elixir made from the petals of the forget-me-not plant
+(myosotis sylvatica) has the qualities of helping you remember things
+from long ago.  For example, think of the place you were born.  Quaff
+the potion and *boing* you are there!
+~
+#6610
+thumbscrew circle leather brass ring~
+a thumbscrew~
+An odd looking circle of leather and brass catches your eye.~
+~
+11 1 abfj 0 abo
+1 0 0 0 0 0
+1 1500 0
+E
+thumbscrew ring~
+This ring of copper and leather looks very uncomfortable to wear.
+Tightening the ring to fit your thumb drives a small copper screw into
+the flesh of your thumb.  (Ouch!)  If it was a present you might want
+to think twice about the person who gave it to you.  If you bought it
+for yourself ... well ...
+~
+A
+1 -2
+A
+5 -2
+A
+6 -5
+#6611
+gown dryad green~
+a whisper light green gown~
+A whisper light gown in shades of leaf green blends into the forest
+floor.~
+~
+9 1 dhlnop k ado
+3 1 0 0 0 0
+1 5000 0
+E
+gown~
+Light enough to float on the mention of a breeze, the cloth was woven
+with magic from the flowers in the dryad's sylvan glade.  The length
+magically adjusts itself so that the bottom floats near the wearer's
+ankles. The sleeves are loose and long.  The cloth is a wispy delicate
+fabric whose strength comes from the charms chanted into it.
+~
+A
+3 2
+A
+6 2
+A
+20 5
+#6612
+robe dryad colorful butterfly~
+a robe woven of butterfly wings~
+A brightly colored robe with the delicate colors and markings of
+butterflies looks ready to take off and fly away.~
+~
+9 20 0 k ak
+10 20 0 0 0 0
+1 5000 0
+E
+gown robe dryad colorful butterfly~
+At first you think the robe was woven from live butterflies.  The cloth
+with which it was made is delicate and light and moves with the
+slightest breath of air.  It is painted with the same colors as the
+butterflies from the dryad's forest glade, and has the same delicate
+markings.
+~
+A
+6 2
+A
+14 25
+A
+24 10
+#6613
+pool lake~
+The cold clear lake~
+The lake looks deep, but clear and cold and refreshing.~
+~
+23 1 0 h 0
+999999 999999 15 0 0 0
+9999 9999 0
+E
+lake pool water~
+The water looks clear enough to drink.  This is the largest lake in
+Tynstri, and furnishes much of the food for inhabitants and visitors.  It
+provides a habitat for the aquatic elves who live here, and is home to
+a wide variety of fish and other wildlife.
+~
+#6614
+collar pearl studded~
+a pearl-studded collar~
+Oddly, the cat's collar appears to be studded with pearls which glow
+with an unusual brightness.~
+~
+9 5 0 0 ac
+5 5 0 0 0 0
+3 6000 1
+E
+collar pearl~
+An unusually expensive collar, it must have been a present for a very
+well loved cat.  The leather collar glows brightly with pearls of
+wisdom.  This helps the one who wears it to learn more quickly.
+~
+A
+3 1
+A
+4 1
+#6615
+pearl key~
+a glistening pearl~
+The glistening pearl hides quietly inside the oyster.~
+~
+18 1 0 0 ao
+6616 0 0 0 0 90
+1 0 0
+E
+pearl~
+Small, round, white, firm, ready to be strung with others like it into
+a necklace or mounted on a gold ring.
+~
+#6616
+bracelet nightshade~
+bracelet of deadly nightshade~
+A bracelet woven of leaves of the deadly nightshade plant lies
+innocently on the ground.~
+~
+9 43 0 0 am
+12 43 0 0 0 0
+1 5000 0
+E
+bracelet nightshade~
+The green leaves of the nightshade plant have been woven together to
+form a bracelet.
+~
+A
+13 50
+#6617
+red glass bottle~
+a red bottle made of cut glass~
+A tall slender red bottle made of cut glass is filled with a thick
+liquid.~
+~
+10 5 0 a ao
+10 39 39 17 0 0
+3 500 0
+E
+bottle red glass~
+The bottle is made of many-faceted red cut glass, which reflects all
+available light so that it appears to glow.  There is a label attached
+to it.  In very tiny script it says, "Love potion.  Take with caution
+as needed."
+~
+#6618
+beaker clear~
+a tall clear beaker~
+A tall clear beaker with a loose cork stopper is filled with a thick,
+greenish slime.~
+~
+10 5 0 a a
+30 61 0 0 0 0
+2 3000 0
+E
+beaker clear~
+The stuff inside looks disgusting, like some kind of green sludge.  So
+... it must be good for you, right?
+~
+#6619
+wand feather~
+a feather~
+The sooty black feather was plucked from the wing of a very large bird.~
+~
+3 5 0 0 ao
+5 8 8 45 0 0
+1 2000 0
+E
+feather wand~
+About a foot (30cm) long, the feather comes to a fairly sharp point on
+one end.  It is the wing feather from a very large bird, a vulture to
+be precise.  Perhaps if you hold it in your hand and wave it about then
+you, too, will be able to fly!
+~
+#6620
+shirt white vine-embellished~
+a vine-embellished shirt~
+One of the long sleeves of this white shirt appears to have been
+captured by a deep green vine.~
+~
+9 25 cm 0 ad
+15 25 0 0 0 0
+2 12000 1
+E
+shirt vine-embellished white~
+This is Seymour's favorite shirt, hand embroidered for him by Flora.
+The vine wrapped tightly around his sleeve reminds him of AudreyII, his
+pet plant that he raised from a small bulb.  Flora enjoys decorating
+his shirts with symbols of his profession and like most other things of
+elven design, this one is enhanced with magic.  You may find a similar
+shirt at Rose's shop down the road a bit.  Flora made a few extras for
+her to sell.
+~
+A
+2 1
+A
+6 1
+A
+24 3
+#6621
+trousers pants~
+forest green trousers held up by suspenders~
+A pair of wide brown suspenders have firmly attached themselves to some
+forest green pants.~
+~
+9 25 cdhks k af
+8 25 0 0 0 0
+5 20000 1
+E
+trousers pants~
+These comfortable but sturdy trousers are the deep green of yew trees.
+They fit very loosely, allowing a great feeling of freedom of movement.
+~
+E
+suspenders~
+Made of braided deep brown leather, the suspenders are quite strong.
+The fittings are brass.
+~
+#6622
+tunic white leather~
+a white tunic embellished with gold braid~
+A thigh length white tunic of finest elven leather has been trimmed
+with gold braid and fastenings.~
+~
+9 1 0 0 ad
+7 1 0 0 0 0
+3 300 0
+E
+tunic~
+The guards posted at the entrance to Tynstri wear this long white leather
+tunic.  Some say the guards are chosen for their strength, charm,
+native magical abilities and extreme good looks.  Others say that these
+attributes are merely a result of their position and their uniforms.
+~
+#6623
+bandana bright blue sweatband~
+a bright blue bandana~
+Folded into a narrow strip of bright cloth, the bandana has obviously
+been used as a sweatband by some very active elf.~
+~
+9 30 abcefgijkms h ae
+12 30 0 0 0 0
+1 80 0
+E
+bandana blue~
+Once thought to keep evil thoughts from escaping (or entering) elven
+heads, the bandana is now worn for decoration and to keep the hair (and
+sweat) out of the eyes.  They tend to be very brightly colored, and
+this one is no exception.
+~
+A
+1 2
+A
+3 -1
+#6624
+horn warning~
+a warning horn~
+The horn is as long as you are tall and looks like it would make a lot
+of noise if you blew it.  So don't.~
+~
+8 0 0 a 0
+0 0 0 0 0 0
+50 100000 0
+E
+horn warning~
+Carved of blackest ebony, this is a gatewatcher's horn.  Only elven
+watchers may use it.  Its loud "Braaaatatatat" warns the elves of
+attack by dragons.  Blown from the height of the watchtower, the horn
+may be heard throughout the kingdom.
+~
+#6625
+salestunic tunic tasteless~
+a tasteless tunic~
+A tunic in brightly clashing shades of chartreuse, magenta and orange
+stands out where it has been left.~
+~
+9 30 bfhjkn 0 ad
+15 30 0 0 0 0
+3 1500 0
+E
+tunic~
+This is definitely the kind of garment that draws attention to its
+wearer.  Only the colorblind could find it pleasing to the eye,
+however.  Perhaps this visual offensiveness is its source of magic
+armor.
+~
+A
+19 1
+#6626
+midnight-blue velvet robe~
+a floor-length robe of midnight-blue velvet~
+The long midnight-blue velvet robe has been embroidered with faintly
+glowing golden stars.~
+~
+9 90 cdhklops abk ad
+30 90 0 0 0 0
+5 10000 0
+E
+robe velvet~
+The bottom of the robe barely skims the ground as you walk briskly in
+these warm robes.  Of deepest midnight blue, darker than black, the
+robe still has a faint glow around the shoulders and in the lining of
+the deep hood.  Staring at the robe, over time you can make out a
+beautiful pattern of stars.
+~
+A
+12 50
+A
+13 50
+A
+17 -10
+#6627
+vulture eggs~
+a vulture's eggs~
+The vulture's eggs are resting cozily in their little nest.  If the
+eggs are here, surely their mother couldn't be far away.~
+~
+13 1 0 0 a
+0 0 0 0 0 0
+1 10 0
+E
+eggs~
+They are small and ovoid and contain baby vultures!  Leave them alone!
+~
+#6628
+unicorn horn~
+the golden unicorn's horn~
+The golden unicorn's horn is long, sharp and quite heavy.~
+~
+5 100 bfj ak ano
+100 14 3 11 0 0
+15 10000 0
+E
+horn~
+The long golden horn once graced a unicorn's head.  It is as long as an
+elven arm, and swirls to a sharp point at one end.
+~
+A
+18 12
+A
+19 12
+#6629
+crimson tunic elven hauberk~
+a deep crimson linen tunic and hauberk~
+What looks like a pool of fresh-spilled dragon's blood is only an elven
+tunic.~
+~
+9 30 0 k ad
+13 30 0 0 0 0
+10 3500 0
+E
+shirt~
+An unusual color for the quietly reserved elves, this tunic is the deep
+dark red of dragon blood, the deep crimson of a late summer rose or
+holly berries in midwinter.  The tunic is made of strongly woven linen,
+and is worn over a very fine, light chainmail hauberk.
+~
+A
+12 25
+A
+18 1
+#6630
+table oak~
+a table~
+A polished round table made of oak sits at the side of the room.~
+~
+12 1 0 0 0
+1 0 0 0 0 0
+1 1 1
+E
+table~
+This looks like a good size table where you and a few of your friends
+could sit, have a bite to eat, and chat or read.  One wonders why Barns
+& Nibble allows people to read their books while they are munching away
+at food and drink that is bound to mess up their merchandise, but they
+charge enough for both the food and books that they can afford to be
+generous.
+~
+#6631
+chair oak~
+a chair~
+A sturdy oak chair looks like it would support you AND all your armor
+and belongings.~
+~
+12 1 0 0 0
+1 0 0 0 0 0
+1 1 1
+E
+chair~
+At last! No more sitting on the floor!  This isn't the most comfortable
+of chairs, but it fits nicely under the table and is strong enough for
+you and  1000 lbs (500 or so kilos) of armor and other assorted gear
+that you can't leave your clan house without!
+~
+#6632
+lute rolands~
+Roland's lute~
+Roland's lute plays beautiful music with the right hands guiding it.~
+~
+3 42 abcdefhijklmnops 0 ao
+50 10 10 36 0 0
+15 5000 0
+E
+lute~
+This particular lute was carved from oak and inlaid with a design
+formed from strips of many different varieties of wood.  The lute has 8
+strings.  When Roland plays upon it, his audience is filled with a
+feeling of peace and safety.
+~
+#6633
+peach-colored linen shirt~
+a linen shirt the color of ripe peaches~
+Lying discarded here, you can see a finely woven linen shirt, soft as a
+spring leaf.~
+~
+9 20 0 0 ad
+10 20 0 0 0 0
+2 7500 0
+E
+shirt peach linen~
+The master weaver wove the linen making up this shirt from the finest,
+softest flax.  It has been dyed the color of ripe peaches, and is very
+soft to tender skin that rarely sees bright sunlight.
+~
+A
+12 25
+A
+13 20
+#6634
+pickled herring~
+some pickled herring~
+Some little fish have gotten themselves into quite a pickle.~
+~
+19 1 0 0 ao
+12 0 0 0 0 0
+1 25 0
+E
+herring~
+It looks like it used to be a nice little fish before it got pickled
+and jarred.
+~
+#6635
+oak staff~
+a sturdy oaken staff~
+The sturdy oaken staff looks like a strong weapon that would also make
+a good walking stick.~
+~
+5 60 abcdefghiklmnops cdhop ano
+60 7 8 6 0 0
+15 4000 0
+E
+staff~
+Cut from the heart of the mighty oak tree, this staff is perfect for
+the nomadic druid or monk.
+~
+A
+12 50
+A
+13 50
+A
+19 10
+A
+18 4
+#6636
+map Tynstri~
+a map to Tynstri~
+A map to the village and its surroundings awaits your perusal.~
+~
+8 1 0 0 a
+0 0 0 0 0 0
+1 100 0
+E
+map Tynstri~
+
+           ------ catwalk ---------------------------------
+           ^                                               |
+           |                        forest                 |
+           |                                      prison   v
+gateway --   -- shops and cafes ---  park -----     |        |g
+                                      |         monastery    |a
+                                      |                      |r
+                                     f|                      |d
+                                     o|p                     |e
+                                     r|a                     |n
+                                     e|t ---lake             |s
+                                     s|h      |
+                                     t|       v
+                                      |      ***
+                                      |
+                                      | dryad clearing
+
+
+*** rumors of a vast network of caves beginning at this location have
+been generally discounted by scientists of the gnomish sort
+~
+#6637
+shopping guide~
+a shopping guide~
+The village fathers have created a small guide to shopping in Tynstri.~
+~
+8 1 0 0 a
+0 0 0 0 0 0
+1 100 0
+E
+guide shopping~
+
+                                                    Seymour's
+                               Second     Elmer's    Herbs &
+                    Tavern    Hand Rose   oddities   Potions
+gates - road - road -       -           -          -
+                    Free the   Flora's    Barns &    Horatio's
+                     Elves     Flowers    Nibbles      Arms
+                              And Sweets
+~
+#6638
+silk shirt~
+a soft cream-colored silk shirt~
+A puddle of milk-colored silk has been discarded here.~
+~
+9 12 0 0 ad
+8 12 0 0 0 0
+1 19000 0
+E
+shirt~
+The soft, full silk blouse is fastened down the front with a row of
+tiny gold buttons, and the long sleeves end in narrow cuffs fastened
+with the same type of  gold button.  The silk is a delight to the
+senses, distracting the wearer and the wearer's opponents from thoughts
+of battle.
+~
+A
+3 1
+#6639
+food candy jelly beans jellybeans candies~
+intensely flavored jelly beans~
+Some small egg-shaped brightly colored candies are scattered here.~
+~
+19 1 0 0 ao
+6 0 0 0 0 0
+1 50 0
+E
+jelly beans~
+The jellybeans look like tiny eggs from some exotic tropical bird.
+They seem to come in an infinite variety of colors and flavors, but all
+are extremely sweet.
+~
+#6640
+food cookies~
+a stack of cookies~
+Some delicious cookies are sitting on a delicate china plate.~
+~
+19 1 0 0 ao
+12 0 0 0 0 0
+1 30 0
+E
+cookies~
+You have before you an assortment of cookies.  They are making your
+mouth water.  They are shouting, "#rEat me!!!#W"
+~
+#6641
+drink herbal tea cup~
+a cup~
+You are welcome to a refreshing cup of herbal tea.~
+~
+17 1 0 0 ao
+2 2 11 0 0 0
+1 20 0
+E
+cup~
+The dainty china cup is not very large, but then the tea is meant to be
+sipped.  If it were to satisfy your thirst, the management would not
+sell as much!
+~
+E
+tea~
+The tea has an odd but not unpleasant flavor.  Rest and a sip of this
+tea will leave you feeling refreshed and ready for another battle.
+~
+#6642
+hat sunhat~
+a floppy-brimmed sunhat~
+The big floppy-brimmed sunhat protects delicate skin from the burning
+rays of the sun.~
+~
+9 45 abcdhklnops k ae
+10 45 0 0 0 0
+2 50000 1
+E
+hat sunhat~
+This sunhat is unlike any you've ever seen before.  The crown is lined
+with finely woven mithril, firmly shaped to protect against falling
+branches and other hazards of forest life.  It has a very wide, loose
+brim that hangs around your face.  The dryads haven't seen the
+fire-breathers, their name for the dragons, but they are well-defended
+if the dragons make their way to the sacred glade.
+~
+A
+13 25
+A
+20 5
+#6643
+longbow elven~
+an elven longbow~
+Nearly as tall as an elf, this elven longbow is tautly strung and ready
+to speed an arrow to its target.~
+~
+5 1 0 k ano
+1 3 4 12 0 0
+5 500 0
+E
+longbow~
+One of the earliest weapons developed by the elves, the longbow has
+long had a place in their defense.  The bow makes a graceful curve of
+its 5' (150cm) of length.  Light in weight, even the newest guards find
+it a very effective weapon.
+~
+#6644
+pants white leather trousers~
+white leather pants~
+The gate guards for Tynstri wear strong white leather trousers.~
+~
+9 1 0 0 af
+6 1 0 0 0 0
+3 300 0
+E
+pants~
+These white leather uniform pants have a deep green stripe up one side.
+~
+#6645
+funeral wreath flowers~
+a wreath of flowers fit for a funeral~
+A lovely wreath of many flowers shows your respect for the newly
+departed.~
+~
+12 1 0 0 ao
+0 0 0 0 0 0
+10 4000 0
+E
+wreath~
+This enormous wreath of flowers is actually built in more of a
+horseshoe shape, with the open end at the bottom.  The flowers include
+lilies and roses and bright red carnations as well as more subdued
+colors.  Across the middle a wide blue ribbon proclaims, "Rest in
+Peace".  This is a wreath for someone who will be deeply missed.
+~
+#6646
+fountain~
+a fountain~
+An imposing statue stands at the center of a white marble fountain.~
+~
+23 1 0 hz 0
+99999 99999 0 0 0 0
+1 1 1
+E
+statue fountain~
+At the center of the large, white marble fountain, an enormous statue
+shows the #rForever #wS#yh#wi#yn#wi#yn#wg #GFlyn#W the #BMighty#W, #RAvatar #yKing #Wof #gElvenkind#W.
+~
+E
+flyn~
+He looks mighty.  Flyn is a legend in his own time, and the elves
+revere him as a superhero.
+~
+#6647
+forget-me-not flower scroll~
+a forget-me-not flower~
+The soft blue petals of the forget-me-not are the color of the sky on a
+summer morning.~
+~
+2 0 0 0 ao
+40 42 16 16 0 0
+1 800 1
+E
+flower~
+Jellie gives Flyn one of these flowers every morning so he'll always
+have an easy way home.
+~
+#6648
+food fish chips~
+some fish and chips~
+A meal of fish and chips is greasy but satisfying.  Strange fish,
+though.~
+~
+19 1 0 0 a
+24 0 0 0 0 0
+2 20 1
+E
+fish~
+You don't want to look too closely at that fish.  The chips are just
+normal fried potatoes.  At least, that's what they appear to be.
+~
+#6649
+dagger deadly~
+a deadly dagger~
+Light barely reflects off the dagger with the long narrow blade and the
+rune-covered handle.~
+~
+5 10 bfjn cej ano
+10 4 3 11 0 0
+5 6000 0
+E
+dagger knife~
+Darkly evil, crafted with the singular sinister purpose of
+assassination and death, this dagger has an aura of quiet menace about
+it.
+~
+A
+18 1
+A
+19 3
+#6650
+pouch elven healer leather bag~
+an elven healer's pouch~
+A rather scruffy looking leather bag has been tossed aside.~
+~
+15 50 acdeghiklmops 0 alo
+170 0 -1 0 0 0
+5 1500 0
+E
+pouch~
+Made of well-worn leather, this pouch is buckled to secure it around
+the waist.  Opened, the scent of rare and mysterious herbs fills your
+nostrils.  Sweet and pungent, alluring and nauseous, this pouch has
+held many magic cures.
+~
+A
+17 -10
+#6651
+knife chefs~
+a chef's knife~
+The blade of the very sharp kitchen knife looks like it would cut your
+skin easily.~
+~
+5 75 bfj 0 ano
+75 7 7 11 0 0
+5 700 0
+E
+knife~
+Made to cut through flesh as easily as butter, the Superb Elven Chef
+keeps his instruments so sharp they could split a hair.
+~
+A
+18 7
+A
+19 7
+#6652
+chair oak~
+a sturdy chair~
+The sturdy oak chair has a colorful cushion tied to the seat.~
+~
+12 1 0 0 0
+0 0 0 0 0 0
+99 1 1
+E
+cushion~
+Quite thick, this cushion has been stuffed with soft grasses gathered
+from the nearby park.  The cushion is a bright red.
+~
+#6653
+light bottle glowworm~
+bottled essence of glowworm~
+Seymour has managed to bottle the essence of glowworm, providing a
+reliable light source.~
+~
+1 1 0 a ao
+0 0 9999 0 0 0
+5 1000 0
+E
+worm bottle light~
+Try as you might, you can see no worm in the bottle.  The round glass
+bottle glows greenly, providing ample light to keep you from bumping
+into walls or nasty monsters.  There is a lip around the top of the
+bottle.  A small circle of metal is kept in place by this lip, and
+serves as anchor for the bottle's metal handle.
+~
+#6654
+short leather skirt~
+a very short black leather skirt~
+A very wide belt or a very short skirt is waiting for its owner.~
+~
+3 6 dhlnop 0 afo
+50 4 4 7 0 0
+3 6000 0
+E
+skirt~
+This skirt is designed to both entice and to distract.  It is VERY
+short and tight enough to make it clear the wearer has nothing but bare
+skin underneath.
+~
+A
+4 1
+A
+6 1
+A
+17 -7
+A
+18 1
+#6655
+glass beer drink~
+a glass~
+Have a glass o'beer, won't you, matey?!~
+~
+17 1 0 0 a
+8 8 1 0 0 0
+5 50 1
+E
+beer glass~
+A deep golden color, this beer is cold and looks delicious.
+~
+#6656
+satchel~
+a satchel~
+Some poor animal of indeterminable species gave up his skin for this
+satchel.~
+~
+15 1 0 0 ao
+120 0 -1 0 0 0
+8 100 1
+E
+satchel~
+Not a particularly attractive means of carting around your worldly
+belongings, this satchel nevertheless is sturdy and capacious.  What
+more could you require of a satchel?
+~
+#6657
+yellow jacket~
+a jacket striped in yellow and black~
+Wide garish stripes of bright yellow and black z-z-z-i-n-g-g-g your
+eyes.~
+~
+9 75 abefijmn 0 ad
+25 75 0 0 0 0
+3 300 0
+E
+jacket~
+Although the hornet wore this with pride he was, after all, a hornet.
+In this jacket you would look like a referee for some alien kind of
+game.  It does truly offend the eye!
+~
+A
+6 -1
+A
+18 3
+A
+19 3
+#6658
+celt axe ax stone~
+a massive celt axe~
+A heavy, sharpened stone is firmly attached to a strong piece of oak
+with a thick lashing of leather.~
+~
+5 10 0 0 ano
+10 4 5 6 0 0
+19 200 0
+A
+2 -1
+A
+18 2
+A
+19 4
+#6659
+puddle gold robe golden~
+graceful golden robes~
+A puddle of gold catches your eye.~
+~
+9 59 abcdfghiklnops k ak
+10 59 0 0 0 0
+3 6000 0
+E
+gown~
+Long and flowing, the fairies must have made these golden-hued robes
+from spring flowers.  It is very delicate and not made for battle.  It
+almost glows with the magic woven into its very fiber.
+~
+A
+3 1
+A
+12 100
+#6660
+sign~
+a sign~
+A sign sits here in front of the gate.~
+~
+12 1 0 0 0
+0 0 0 0 0 0
+1 1 1
+E
+sign~
+It says, "Tynstri City Council has declared this to be a Dragon Free
+Zone".  You wonder if that is truth or wishful thinking.
+~
+#6661
+flower halo circle garlands headdress~
+a circle of tiny flowers~
+Looks like a halo of tiny flowers and sweet-smelling herbs has landed
+on the ground.  Pick it up and wear it!~
+~
+9 50 abcdhklnops k ae
+10 50 0 0 0 0
+1 5000 1
+E
+flowers circlet~
+Hundreds of tiny flowers and leaves have been woven together into a
+circle, to be worn on the head.  The herbs and the incantations chanted
+when the circle was woven have enhanced the beauty and the power of the
+headdress.
+~
+A
+12 75
+A
+13 25
+#6662
+potion bottle elderberry wine~
+a small crystal bottle of elderberry wine~
+A delicately engraved crystal bottle of elderberry wine has a tightly
+fitting glass-and-cork stopper.~
+~
+10 1 0 0 ao
+10 19 0 0 0 0
+1 400 1
+E
+bottle~
+The deep red color of the wine in the crystal bottle captures your
+attention.  As you gaze intently at it, mysterious images seem to
+appear on the surface of the glass.
+~
+#6663
+green eyeshade~
+a dark green eyeshade~
+The dark green eyeshade is designed to keep harsh sunlight from tender
+eyes.~
+~
+9 1 0 0 ae
+5 1 0 0 0 0
+1 250 0
+E
+eyeshade~
+Like all things elven in orgin, this eyeshade has been decorated with
+lovely runes which add both a touch of beauty and a touch of magic.
+~
+A
+20 8
+A
+24 8
+#6664
+scaly leggings lizard skin~
+tough scaly leggings~
+A lizard must have molted and left his skin for someone else .~
+~
+9 12 abcdefghijklmns 0 af
+12 9 0 0 0 0
+7 700 0
+E
+leggings~
+These tough leggings are made from the skin of a lizard, probably cast
+off during some natural molting process, but not necessarily so.  They
+are scaly and tend to itch, but provide excellent protection.
+~
+A
+13 20
+#6665
+shadow robes cloth~
+shadow robes~
+The pile of pale cloth is barely visible.~
+~
+9 45 abdefghijlmnop p ak
+15 45 0 0 0 0
+10 6000 0
+E
+shadow robes robe~
+Made of cloth so light and fine that the wearer seems to disappear
+inside the folds.  You try to examine the fabric, but it seems to
+disappear under your scrutiny.  The robes are made for those who prefer
+not to be noticed.
+~
+A
+13 20
+B t
+#6666
+chocolates box~
+a box of chocolates~
+A tempting box of chocolates waits to be opened.~
+~
+19 1 0 0 ao
+5 0 0 0 0 0
+1 150 0
+E
+box~
+The box is wrapped in bright red cellophane and tied with a big gold
+bow.
+~
+#6667
+wrist corsage flowers~
+a cluster of tiny sweet-smelling flowers~
+A small cluster of flowers is waiting to be tied to someone's wrist.~
+~
+9 1 0 0 am
+2 1 0 0 0 0
+1 200 0
+E
+corsage flowers cluster~
+You are uncertain of the origin of these flowers, but the scent is
+delightfully refreshing.
+~
+#6668
+charm necklace~
+a good luck charm~
+A small pile of silver thread lies under a shamrock enclosed in a
+frozen dragon's tear.~
+~
+9 38 abcdefghikmnos 0 ac
+17 38 0 0 0 0
+1 5000 0
+E
+charm shamrock~
+Through the clear crystal of the dragon's tear you can see the four
+green leaves of the shamrock.  The good luck charm has been attached to
+a slender thread of silver and is designed to be worn around the neck.
+~
+A
+5 1
+A
+13 35
+#6669
+tight black leggings~
+a pair of tight black leggings~
+The small smear of black on the ground is barely noticeable.~
+~
+9 1 0 0 af
+5 1 0 0 0 0
+1 700 0
+E
+leggings~
+These knitted black leggings cling like a second skin, providing
+minimal protection from the elements, but a bit of warmth.
+~
+A
+2 1
+#6670
+skirt floral green~
+a long green skirt~
+A swirl of dark green fabric with a faint pattern of leaves looks like
+a small patch of summer on the ground.~
+~
+9 9 cdhklnops 0 af
+5 9 0 0 0 0
+1 1000 0
+E
+skirt~
+A deep green silk has been faintly patterned with leaves by a process
+unknown to you.  The deep green coloring allows the wearer to blend
+into a forest setting, rendering her nearly invisible to some
+predators.
+~
+B t
+#6671
+deerskin boots~
+a pair of soft black deerskin boots~
+Elven cobblers stamped strange runes into the tops of these soft
+leather boots.~
+~
+9 12 0 0 ag
+4 12 0 0 0 0
+1 5000 0
+E
+boots~
+These very soft leather boots are decorated with a series of magic
+runes, which give special protection to the wearer.  The precise
+meaning of the runes is known only to the cobbler, however rumor has it
+they say something about the mother of all dragons.
+~
+A
+13 10
+#6672
+suede pants~
+soft pale gray suede pants~
+Long, soft as silk but strong as any leather, this pair of suede pants
+is waiting to be worn.~
+~
+9 20 0 0 af
+2 20 0 0 0 0
+1 3000 0
+E
+pants~
+These pants feel outrageously soft next to your skin, the slight fuzz
+of the suede gives them a very sensuous feel.  You are reassured by the
+fact that they are quite tough and very well made.  They are made to be
+tucked into the tops of some knee-high boots.
+~
+A
+19 1
+#6673
+sharkskin boots~
+tall sharkskin boots~
+A pair of grey sharkskin boots with long pointed toes and thick leather
+soles stand ready for you to wear.~
+~
+9 20 0 0 ag
+8 20 0 0 0 0
+1 5000 0
+E
+boots~
+The elves make these boots themselves from sharks that elven
+adventurers capture on their many voyages away from Tynstri.  The
+sharkskin has a slight shine.  The toes come to a long, hard point both
+as a fashion statement and as a matter of protection, but they are
+difficult to learn to walk in.
+~
+#6674
+key wine cellar~
+a cellar key~
+A shiny brass key lies innocently where it was dropped.~
+~
+18 1 0 0 a
+6674 0 0 0 0 90
+1 10 1
+#6675
+chefs hat~
+a tall white chef's hat~
+Ack! This beautiful starched white hat is gonna get dirty on the floor.
+Pick it up!~
+~
+9 75 0 0 ae
+15 75 0 0 0 0
+2 350 0
+E
+chefs hat~
+A traditional tall white hat starts with a broad, starched white band
+of cloth about 6" (15cm) tall that fits snugly around the head.  A tall
+poof of white explodes from the band into a balloon shape that extends
+the hat by about 18" (90cm).
+~
+A
+20 10
+A
+23 10
+#6676
+apron chefs~
+a starched white apron~
+The traditionally shaped chef's apron is blindingly white and starched
+to a crisp smoothness.~
+~
+9 75 0 0 al
+14 75 0 0 0 0
+2 250 0
+E
+apron~
+The chef's apron is made from a special white cotton imported to Tynstri
+and sewn here by Rose.  It is undoubtedly some powerful magic which
+keeps it so clean and white.  Perhaps the magic is called "kitchen
+helpers".
+~
+A
+12 25
+A
+13 25
+A
+20 20
+#6677
+scroll encyclopedia book~
+an encyclopedia~
+The Encyclopedia of Strange and Unusual Items looks like it might be
+good reading - for the sleep-deprived.~
+~
+2 1 0 0 a
+30 53 -1 -1 0 0
+5 2000 0
+E
+book encyclopedia~
+This heavy tome contains information about just about everything you
+are likely to run into in Tynstri.
+~
+#6678
+overalls clothing elmer~
+a sturdy pair of overalls~
+Here are Elmer's sturdy overalls, lying on the ground.  Where is Elmer?~
+~
+9 6 0 0 ad
+7 6 0 0 0 0
+10 900 0
+E
+overalls~
+From their tough leather straps over the shoulders to the double
+stitching down the legs, these are very sturdy overalls, meant to last
+for a long time for a person who hates replacing clothing he loves.
+Rose was kind enough to embroider his name on the bib front.
+~
+A
+4 1
+A
+18 1
+#6679
+pile rainbow leggings striped~
+rainbow striped leggings~
+All the colors of the rainbow sit here in a pile.~
+~
+9 30 0 0 af
+3 30 0 0 0 0
+4 600 0
+E
+leggings~
+Jemara's leggings reflect her freeflowing personality.  She liked these
+leggings because they have every color of the rainbow in them.  They
+are a trifle blinding to those unused to them, but Jamara likes them.
+~
+A
+13 40
+#6680
+sickle blade druid~
+a druid's sharp sickle~
+A sharp blade shaped like the crescent moon is attached to a short
+staff made of black oak.~
+~
+5 85 abcdefghiklmnops gik ano
+85 7 9 3 0 0
+15 450 0
+E
+sickle scythe~
+This sickle was originally made for the druid who secluded himself
+inside an enormous tree on the outskirts of Midgaard.  He would gather
+herbs on moonlit nights and in the early morning dew.  As the woods
+became more populated with adventurers, he became more of a hermit and
+had no more use for this sickle.
+~
+A
+18 5
+A
+19 12
+#6681
+wristlet ribbon~
+a wristlet of many colors~
+Many colors of ribbon have been woven together to form a lovely
+wristlet for you to wear.~
+~
+9 1 0 0 am
+1 1 0 0 0 0
+1 50 0
+E
+wristlet~
+Ribbons of many colors form an unusual pattern.  Ribbon weaving is not
+a usual elven hobby, so this must have been brought in by one of the
+travelers who visited Tynstri.  Wear it in good health.
+~
+A
+5 1
+#6682
+ring celibacy band~
+ring of celibacy~
+A wide band of bronze is intertwined with narrower bands of copper and
+gold.~
+~
+9 30 0 0 ab
+12 30 0 0 0 0
+1 9000 0
+E
+band ring celibacy~
+This beautifully crafted ring is given to all novice monks to remind
+them of their vows of celibacy.  Created jointly by Horatio, who does
+the metal work, and Brother John, who does the chanting, the ring
+squeezes tightly around the finger of those monks who are tempted to
+deviate from their vows.  We are told that married elves have been
+known to give the ring to their spouses when about to embark on a long
+adventure which will keep them apart.
+~
+A
+1 2
+A
+6 -3
+A
+9 10
+A
+20 5
+#6683
+book dragon~
+book of dragon lore~
+"The Complete Dragon", by Edward Cewmriskpyltk, famous gnomish
+scientist, is yours for the taking.~
+~
+8 1 0 0 ao
+0 0 0 0 0 0
+15 100 0
+E
+book~
+Dragons breed and raise their young in deep underground caves.  They
+live in large clans headed by a female and her group of male consorts.
+Many eggs are laid and kept protected in the dragon hatchery.  When
+they hatch, the young are soft, fuzzy pale colors, and they are unable
+to fly, breathe fire or do any of the very nasty tricks that older
+dragons learn.  For this, they must go to dragon school, run by the
+dragon master.
+
+As they grow older, the rapidly enlarging dragons shed their skin many
+times.  With each molt their color grows deeper and richer  until they
+finally achieve the jewel tones so favored by adult dragons.
+
+Dragons are known to gather and hoard the treasures of the earth -
+precious and semi-precious jewels, gold and silver.  The adventurer
+finding the grand dragon's jewels would truly be wealthy for life.
+
+Dragons are a happy group, by and large, with a very strong sense of
+humor.  When they swoop down upon a defenseless village and burn it to
+the ground they do so not from any evil purpose, but just from the
+sheer joy of it.
+~
+#6684
+white boots~
+highly polished white boots~
+A pair of highly polished white boots stands smartly at attention.~
+~
+9 6 0 k ag
+6 6 0 0 0 0
+4 400 0
+E
+boots~
+The elven guards work hard to keep these white boots gleaming and
+highly polished.  Working in the midst of a forest and a dirt road,
+this takes a lot of work.  Made of thick leather with pointed toecaps
+of mithril, these boots are not strictly ornamental
+~
+#6685
+white linen loincloth~
+white linen loincloth~
+A length of white linen sits neatly folded on the ground.~
+~
+9 45 0 k al
+15 45 0 0 0 0
+5 100 0
+E
+loincloth~
+A length of white linen has been woven just long enough to be wrapped
+around your waist as a loincloth.  The linen is finely woven, of elven
+origin.
+~
+A
+1 1
+A
+5 2
+#6686
+wine bottle~
+a gracefully curved bottle of dark red wine~
+A rather large bottle of a deep red wine might be too heavy to pick up.~
+~
+17 1 0 ah ao
+50 50 2 0 0 0
+15 500 0
+E
+bottle wine~
+The wiccan monks get their wine bottles from many sources.  This
+particular one was brought back by a party of adventurers who went
+troll hunting.  The bottle was, of course, thoroughly washed before
+being used.  The bottle is quite large and has a very unusual shape.  A
+very large round bottom leads to a long slender neck with a swanlike
+curve.  The curve of the neck makes the bottle a bit tricky to handle.
+~
+#6687
+boots heels~
+boots with very sharp high heels~
+A dainty pair of boots with very sharp high heels made of crystal look
+a bit uncomfortable to wear.~
+~
+9 5 0 0 ag
+2 5 0 0 0 0
+3 150 0
+E
+boots~
+These boots were made for looks more than for combat wear.
+Nevertheless, those 4" (10cm) sharp heels could do some real damage!
+They are a clear crystal, unlike the rest of the boot, which is a very
+soft black leather.
+~
+A
+19 1
+A
+2 -1
+#6688
+bandana forest green~
+a forest green bandana~
+The forest green bandana is the symbol of the FTE, the Free the Elves
+radical group.~
+~
+9 5 0 0 aceilm
+3 5 0 0 0 0
+1 80 0
+E
+forest green bandana~
+The bandana has become a symbol, a sign of affiliation with a
+particular group.  Green, of course, is the color of the elven
+radicals.
+~
+#6689
+hot pink bandana~
+a hot pink bandana~
+A square of bright pink cloth leaps out at you from its resting place.~
+~
+9 5 0 0 aceilm
+3 5 0 0 0 0
+1 80 0
+E
+hot pink bandana~
+The punk bunnies like the hot pink bandana because the color is so
+bright, and because the elves loathe it.  Sometimes they pair it with a
+banana yellow bandana, just to *poke* at the staid elves.
+~
+#6690
+banana yellow bandana~
+a banana yellow bandana~
+Something the color of ripe bananas rests on the floor.~
+~
+9 5 0 0 aceilm
+3 5 0 0 0 0
+1 80 0
+E
+banana yellow bandana~
+This cheerful yellow bandana carries a faint scent of bananas.  Whether
+a result of the dye used or a magic spell, it is impossible to tell.
+~
+A
+24 2
+#6691
+black bandana~
+a black bandana~
+A dusty black bandana lies here, folded into a neat triangle.~
+~
+9 5 0 0 aceilm
+3 5 0 0 0 0
+1 80 0
+E
+black bandana~
+Black is the color of the assassin's guild.  Wearing this bandana over
+their evil faces they can more easily fade into the night.  Of course,
+they look a little silly during daylight hours ...
+~
+#6692
+clean white bandana~
+a clean white bandana~
+A clean white bandana might allow a worthy person to wear it.~
+~
+9 5 0 kl aceilm
+5 5 0 0 0 0
+1 80 0
+E
+clean white bandana~
+The good - or at least, well-meaning - monks of Tynstri wear this bandana
+as a symbol of their good intentions and solid virtue.  Like the
+celibacy ring of novice monks, the bandana has an unfortunate effect on
+those who stray.
+~
+#6693
+cards  marked deck~
+a deck of marked cards~
+A well used deck of cards has been discarded here.~
+~
+8 1 0 c ao
+0 0 0 0 0 0
+1 100 0
+E
+deck~
+Wonder who slipped this deck into the poker room?  It has been cleverly
+marked so that a card shark can tell at a glance which cards other
+players are holding.  Pretty sneaky ...
+~
+#6694
+animal crackers~
+a box of animal crackers~
+A small box of animal crackers, decorated like a circus cage.~
+~
+19 1 0 0 ao
+12 0 0 0 0 0
+1 30 0
+E
+crackers~
+Small cookies in wildly imaginative shapes fill this very small box.
+~
+#6695
+dragon crackers~
+some spicy dragon crackers~
+A bright box of spicy dragon cookies lies in ambush, waiting for some
+sucker to take a bite.~
+~
+10 1 0 0 ao
+50 17 -1 -1 0 0
+1 30 0
+E
+crackers dragon~
+Rather spicy for a cookie, you need a strong stomach to swallow these
+dragon crackers.  They are quite colorful, as are the dragons they
+imitate.  There is something written on the box in tiny print.
+~
+E
+box print tiny~
+Made especially for the elves by the dragons of Tynstri.
+~
+#6696
+stubby candle~
+a stubby candle~
+A stub of a candle has been left here in a pool of wax.~
+~
+1 1 0 a a
+0 0 8 0 0 0
+1 25 0
+E
+candle~
+A small stub of a candle has been stuck into a pool of wax.  Some
+breath of air has blown it out.  Perhaps you should take it with you,
+just in case!
+~
+#6697
+tree sign~
+a sign~
+A wooden sign has been brightly painted and nailed to a tree.  It
+starts off  "Before you swing".~
+~
+12 1 0 0 0
+0 0 0 0 0 0
+1 1 1
+E
+sign~
+                             Before You Swing
+                         
+                          #RWarning#N:  Adult area!
+
+                        Elves under 60 not permitted
+ 
+                            unless accompanied 
+                          
+                         by a responsible adult.
+~
+#6698
+dragon egg eggs~
+a dragons egg~
+A very large jewel-bright egg glows.  What will it hatch?~
+~
+8 10 0 0 0
+0 0 0 0 0 0
+1 1 1
+E
+egg dragons~
+Some dragon has chosen to leave a precious egg here.  Dragon eggs 
+come in many hues, but all are deep, rich, jewel tones.  Although
+they take a long time to hatch, there is no way to tell (from the
+outside) how soon this egg will crack.  Of course, the fact that it
+seems to be rocking itself might give you a clue that whatever is 
+inside is pretty big!
+~
+#6699
+medallion eye glob romeobj~
+the glowing eye medallion~
+An ever-vigilant eye watches from its glowing red-orange background.~
+~
+9 20 0 ajl ac
+15 20 0 0 0 0
+1 1000 200
+E
+medallion eye~
+An extremely secret, extremely evil society, Glob Inc has tentacles that
+have threaded their way into the heart of societies around the world.
+New members are given this medallion or some other piece of body wear
+bearing the Glob insignia.  They are told that it is a gift and a means
+for them to identify themselves to others.  But they all experience a
+feeling of being watched, ever afterwards.
+~
+E
+glob~
+Little is known about this society.  Perhaps it is best not to know too
+much.
+~
+A
+5 3
+A
+13 20
+#99999
+$~

@@ -1,0 +1,106 @@
+#24901
+shorts~
+green shorts~
+A pair of green worn-out shorts lies here on the ground.~
+~
+9 1 0 h af
+5 0 0 0 0 0
+2 50 50
+E
+shorts~
+The shorts are made of green polyester and has small pink elephants sewn into
+it.
+~
+#24902
+sign pole~
+A sign on a pole~
+You see a large sign on a pole here.~
+~
+12 114 0 hn 0
+0 0 0 0 0 0
+1000 0 0
+E
+sign pole~
+It reads:
+                               WARNING!!!
+ The water here is the hunting-ground for big white sharks. Enter at your own
+risk! 
+~
+#24903
+bottle~
+A bottle~
+A bottle of dark glass lies here in the sand.~
+~
+15 1 0 0 ao
+2 5 -1 0 0 0
+4 10 1
+#24904
+paper old~
+An old piece of paper~
+Someone have left an already used piece of paper here.~
+~
+12 0 0 n ao
+0 0 0 0 0 0
+1 0 0
+E
+paper old~
+HELP! Im alone on an island in the middle of nowhere. The galley that i was 
+travelling with sunk in a great storm. As far as i know i'm the only surivor. 
+If you find me you will have my undying friendship and the pirate treasure 
+that i have found. 
+~
+#24905
+frisbee~
+A frisbee~
+A frisbee lies here on the ground.~
+~
+5 1 0 0 ao
+0 1 6 7 0 0
+2 50 0
+E
+frisbee~
+The frisbee is made of a light, yellow material. A small sign on it says: MADE
+IN TAIWAN.
+~
+#24906
+sign~
+A sign~
+An important sign is here on a pole.~
+~
+12 114 0 g 0
+0 0 0 0 0 0
+3000 0 0
+E
+sign pole~
+Someone has written something on it. It reads:
+You are standing on the very southern place of this land. To the south lies
+the great Mindorian Ocean, and on the other side of it lies Kandoria.
+~
+#24907
+small boat wood~
+A small boat of wood~
+A small boat made of wood lies here.~
+~
+22 1 0 0 a
+0 0 0 0 0 0
+80 1500 10
+E
+small boat~
+Although its quite small you think it will be able to take you across the
+Oceans.
+~
+#24908
+icecream magnum~
+An icecream~
+A tastylooking icecream with a thick layer of chocolade lies here.~
+~
+19 0 0 0 a
+12 0 0 0 0 0
+1 7 1
+E
+icecream magnum~
+Ah! It's one of those famous swedish icecreams that you have only seen on TV
+before. Its name is MAGNUM!
+~
+#99999
+$~

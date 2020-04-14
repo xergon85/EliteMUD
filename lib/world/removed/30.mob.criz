@@ -1,0 +1,715 @@
+#3000
+wizard mage~
+The Wizard~
+A Wizard walks around behind the counter, grumbling about the orcs.
+~
+The old powerful wizard looks very worried about the orcs. Although 
+they couldn't beat him, they have ruined his business.
+~
+1 1 2051 8 900  S
+109 -100 -200 1d1+30000 
+400 500 100 100d100+100 -1
+-1
+-1
+99999 50000 8 8 1
+#3001
+baker~
+The Baker~
+The Baker looks relieved to serve an paying non-orc customer.
+~
+The fat baker has many scars on his body. Probably from orcish torture.
+~
+1 4 2051 8 900  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+19900 50000 8 8 1
+#3002
+grocer~
+The Grocer~
+The grocer is hiding here, peeking over his counter.
+~
+The tall grocer, who regularly presses 200 pounds of flour, looks 
+terrified by the new orcish occupation.
+~
+1 4 2051 8 900  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+99000 50000 8 8 1
+#3003
+weaponsmith~
+The Weaponsmith~
+A weaponsmith is standing here, crossbow loaded and ready for more orcs!
+~
+The young, strong weaponsmith has so far won the battle to keep the orcs 
+out of his store. Although he is young, the small pile of orc corpses 
+is a testament to his weapon skills.
+~
+1 4 2051 8 900  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+100000 50000 8 8 1
+#3004
+armorer~
+The Armorer~
+The Armorer is standing here, wearing most of his stock to protect him from the orcs.
+~
+An old but very strong armorer.  He has made use of his brute strength 
+to keep the orcs out, and has made use of his armor to repel sneak 
+attacks.
+~
+1 4 2051 8 900  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+150000 50000 8 8 1
+#3005
+receptionist~
+The Receptionist~
+A receptionist eyes you warily from behind her counter.
+~
+You notice a tired look in her face.  She hasn't been paid in a while, 
+and has to put up with lewd suggestions from the new orcish citizens 
+of Midgaard.
+~
+1 2 2050 32 900  S
+99 -20 -20 1d1+1200
+400 500 100 2d8+62 -1
+-1
+-1
+0 0 8 8 2
+#3006
+captain~
+The Captain~
+A retired Captain stands here, selling boats and eating chilled 
+orc brains.
+~
+This Captain has eaten more sharks than you have killed peas, so any 
+orc that tries to invade HIS small piece of Midgaard will be VERY sorry.
+~
+1 4 2051 8 900  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+20000 560000 8 8 1
+#3007
+sailor~
+the Sailor~
+A Sailor crouches here, hiding from the orcs.
+~
+Once a strong, fit sailor. This man looks like he has been beaten and 
+starved. He has a desperate look in his eyes.
+~
+1 4 2050 0 900  S
+99 -20 -30 1d1+1200
+400 500 100 2d8+62 -1
+-1
+-1
+2000 560000 8 8 1
+#3008
+uncle juan~
+Uncle Juan~
+Uncle Juan is here working his new Balrog hot sauce.
+~
+Juan looks like he has taken the invasion in his stride, and is now
+working to cater for his clients new tastes.
+~
+1 4 2051 0 900  S
+99 -20 -30 1d1+1200
+400 500 100 2d8+68 -1
+-1
+-1
+2000 560000 8 8 1
+#3009
+wally watermaster~
+Wally the Watermaster~
+Wally the Watermaster is standing behind the counter, sadly 
+displaying what is left unsmashed of his container collection.
+~
+Wally is a bit pudgy but looks very strong.  He's eyes burn with 
+fury for the damage done to his shop.
+~
+1 4 2051 8 800  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+1000 560000 8 8 1
+#3010
+postmaster post master~
+The Postmaster~
+The head Postmaster is standing here, keeping the mail going even through an orcish occupation.
+~
+The Postmaster looks grim. The EMS (Elite Mail Service) was already 
+considered slow. Now he has to rely on brave souls sneaking the mail 
+in and out of Midgaard.
+~
+1 1 2051 8 1000  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+40 100 33 50 38 100 55 90 -1
+2000 0 8 8 1
+#3011
+ice drakes icedrakes~
+a cluster of ice drakes~
+A dozen ice-drakes squabble over tasty diamond treats.
+~
+Ice drakes are the secret of gnomish cryogenics. Feeding the ice drakes 
+with diamonds and sapphires allows them to get up enough chilling power 
+to keep people deep frozen, giving them hugely extended lifetimes. The
+ice drakes are around two feet in length, and covered in blue, silver 
+and white scales. A crest of ice runs down their backs, and they snort 
+little icy clouds which seem to cling to the ground.
+~
+1 1 2050 8 1000  S
+109 -100 -200 1d1+30000
+400 500 10 100d100+100
+8 0 45 1d0+100
+58 0 45 1d0+100
+-1
+-1
+40 100 33 100 38 100 58 100 -1
+0 0 8 8 0
+#3015
+priest cleric healer~
+The Priest~
+The Priest is standing here, offering his services to the injured.
+~
+The priest looks like he has been awake for many hours. Ever since 
+the occupation his skills have been needed to care for the casualties.
+~
+1 2 2115 168 -1000  S
+99 0 -100 1d8+30000
+400 500 80 1d46+46
+27 0 10 1d0+95
+26 0 10 1d0+95 -1
+-1
+-1
+5000 20 8 8 1
+A
+%%10 say Live in the Way of the Globs!~
+#3016
+harold undertaker~
+Harold the Undertaker~
+Harold the Undertaker is here, cheerily selling lots of coffins.
+~
+Harold is tall, skinny and black and has a very shrill voice.  He
+is strutting around happily as business has been so good recently.
+~
+1 1 2049 168 1000  S
+99 0 -100 1d8+30000
+400 500 80 2d38+66
+27 0 10 1d0+95
+26 0 10 1d0+95 -1
+300 95 318 95 -1
+-1
+5000 520000 8 8 1
+A
+%10 puke;%10 snicker;%20 snore;%90 spit;%40 giggle;%90 
+bkiss;%10 wave~
+#3020
+guildmaster master~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+Even though your guildmaster looks old and tired, you can clearly 
+see the vast amount of knowledge she possesses.  Her vast powers
+mean that the orcs cause her little concern.
+~
+1 1 2051 136 1000  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+2000 0 8 8 2
+#3021
+guildmaster master~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+You are in no doubt that this guildmaster is truly close to the Gods; 
+he has a peaceful, loving look.  Under the protection of the Gods, he
+does not appear concerned by the orcs.
+~
+1 1 2051 136 1000  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+2000 0 8 8 1
+#3022
+guildmaster master~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+You realize that whenever your guildmaster moves, you fail to notice 
+it - the way of the true thief.  She is to be dressed in poor clothing, 
+having the appearance of a beggar. Avoiding the orcs hordes is child's 
+play to her.
+~
+1 1 2051 136 1000  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+2000 0 8 8 1
+#3023
+guildmaster master~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+This is your master. Big and strong with bulging muscles. Several 
+scars across his body proves that he was using arms before you were 
+born. He keeps his training quick and encourages you to get back 
+out there!
+~
+1 1 2051 136 1000  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+2000 0 8 8 1
+#3024
+sorcerer guildg~
+the Sorcerer~
+A sorcerer is guarding the entrance from the orcs.
+~
+He is an experienced mage who has specialized in the field of Combat 
+Magic.  He is here to guard the Mage's Guild and his offensive spells
+have charred many an orc warrior.
+~
+1 1 2051 136 900 A 66 1
+#3025
+knight templar guildg~
+the Knight Templar~
+A knight templar is guarding the entrance from the orcs.
+~
+He is a specially trained warrior belonging to the military order of 
+the Faith.  His duty is to protect the faithful from persecution and 
+infidel attacks and you notice his blade is dripping with black 
+orc blood.
+~
+1 2 2051 136 1000 A 66 1
+#3026
+assassin guildg~
+the Assassin~
+An assassin is guarding the entrance from the orcs.
+~
+He is a thief who has specialized in killing others as effectively as 
+possible, using all sorts of weapons.  His superior knowledge humanoid
+anatomy makes him a deadly opponent.
+~
+1 3 2051 1573002 400 A 66 1
+#3027
+knight guildg~
+the Knight~
+A knight is guarding the entrance from the orcs.
+~
+He is an expert warrior who has attained knighthood through 
+countless chivalrous deeds.  His duty is to protect the Guild of 
+Swordsmen and his extreme skill and quick blade have been put
+to good use against the orcs.
+~
+1 4 2051 8 800 A 66 1
+#3030
+tailor~
+The Tailor~
+A Tailor is sitting here, sewing up his stock slash by the orcs.
+~
+Everywhere on his garments, there are needles and thread in every 
+color. He seems busy with sewing up a wedding dress, mumbling 
+about the orcs filthy hands.
+~
+1 1 2051 8 700  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+99999 50000 6 6 1
+#3031
+jeweler~
+The Jeweler~
+A Jeweler is standing behind his counter, with a large bunch of 
+keys around his neck.
+~
+Once a man of opulence, the jeweler now has everything under heavy 
+lock and key!
+~
+1 1 2051 8 200  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+99999 50000 8 8 1
+#3032
+rosy~
+Rosy the flowerist~
+Rosy is here, trying to make her damaged flowers grow again.
+~
+Rosy is a midaged woman with her long hair braided. Dirt patches 
+adorn her simple dress, as if she uses it to clean her hands now and 
+again. 
+~
+1 1 2051 8 200  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+99999 50000 8 8 2
+#3033
+merchant~
+the merchant~
+The merchant stands here, trying to make money by selling scrap paper.
+~
+The merchant looks hungry and unkempt. Clearly this noble merchant
+isn't used to the poor life.
+~
+1 1 2051 8 200  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+99999 50000 8 8 1
+#3034
+man roulette~
+the roulette man~
+The man crouches here using the roulette table as cover.
+~
+Scampering around behind the table, it is hard to get a glimpse
+at him. He yells at you to leave immediately.
+~
+1 1 2051 8 200  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+99999 50000 8 8 1
+
+#3041
+waiter~
+the Waiter~
+A waiter is walking around from one patron to another.
+~
+The tired looking waiter has had to keep up with the orcs love
+of alcohol.
+~
+1 4 2 0 900 A 23 1
+#3042
+waiter~
+the Waiter~
+A young wizard is here, serving customers to raise money for practices sessions with the guildmaster.
+~
+The waiter is tired looking after many requests for alcohol from the city's mages.
+~
+1 4 2 0 600 A 23 1
+#3043
+waiter~
+the Waiter~
+A young cleric is here, serving alcohol. Strictly for medicinal purposes ofcourse.
+~
+The waiter is tired looking after many requests for alcohol from
+the city's clerics.
+~
+1 4 2 0 600 A 23 1
+#3044
+waiter~
+the Waiter~
+A waiter who knows not to pick pockets in this bar, is standing here.
+~
+The waiter is tired looking after many requests for alcohol from
+the city's theives.
+~
+1 4 2 0 600 A 23 1
+#3045
+waiter~
+the Waiter~
+A waiter is here carrying quite a few firebreathers for various drunken warrior.
+~
+The waiter is tired looking after many requests for alcohol from
+the city's warriors.
+~
+1 4 2 0 600 A 23 1
+#3046
+filthy~
+Filthy~
+Filthy is standing here, enjoying the company of the orcs.
+~
+Filthy looks really, ehm, dirty.  He likes to keep his costumers happy,
+especially his new found brethren - the orcs.
+~
+1 4 2 8 600 A 33 1
+#3059
+orc black chief~
+the black orc chief~
+A Black Orc Chief is standing here, ready to join any fight he comes across.
+~
+The huge orc is large and powerful.  Bored with guarding this pitiful
+city, he is spoiling for a fight.
+~
+1 4 2241 8 1000  S
+17 15 0 5d6+235
+400 500 100 3d3+13 -1
+-1
+-1
+250 10000 8 8 1
+#3060
+orc black~
+the black orc~
+A black orc is here, kicking and bullying non-orcs as they go past.
+~
+The orc is enjoying the occupation by insulting, kicking and generally
+bullying any non-orc he comes across.
+~
+1 4 2241 8 1000  S
+10 17 1 1d12+160
+400 500 90 1d8+5
+345 0 10 0d0+0 -1
+-1
+-1
+500 3000 8 8 1
+#3061
+goblin~
+the goblin~
+A goblin is walking around, scavenging the spoils of war.
+~
+A member of the lesser orc species, this scavenger survives on the
+remains and equipment of less fortunate beings.
+~
+1 0 2049 0 800 A 1 1
+#3062
+fungus stinking~
+a stinking fungus~
+A stinking fungus is here, sliding through the garbage looking for food.
+~
+The fungus is a small sentient mushroom that tries to eat anything lying in its path.
+~
+4 4 161 0 -100  S
+0 20 10 1d6+4
+408 500 100 1d4+0 -1
+-1
+-1
+0 25 8 8 1
+#3063
+guard city cripple crippled~
+the crippled city guard~
+A crippled city guard has been left here to die.
+~
+After being tortured cruelly, the orcs have left this city guard here to die.
+He may have been crippled, but he looks as if he could protect himself if needed.
+~
+1 4 2052 0 -200 A 5 1
+#3064
+orc drunk drunke~
+the drunken orc~
+A rowdy, loud-mouthed drunken orc.
+~
+The drunken orc broke into the liquor here, and has drunk most of the bottles.
+~
+1 4 2 0 400 A 2 1
+#3065
+peacekeeper beaten~
+the beaten peacekeeper~
+A beaten, bleeding peacekeeper limps past you.
+~
+The peacekeeper looks like he has been badly beaten, kicked and spat at by
+the orcs. He may have been crippled, but he looks as if he could protect himself 
+if needed.
+~
+1 4 2 0 400 A 1 2
+#3066
+odif yltsaeb~
+the odif yltsaeb~
+An odif yltsaeb is here, walking backwards.
+~
+Apparently the odif amuses the orcs, as it has been allowed to live.
+~
+4 4 161 0 -100  S
+0 20 10 1d6+4
+408 500 100 1d4+0 -1
+-1
+-1
+0 25 8 8 1
+#3067
+orc black~
+the black orc~
+A black orc is here, kicking and bullying non-orcs as they go past.
+~
+The orc is enjoying the occupation by insulting, kicking and generally
+bullying any non-orc he comes across.
+~
+1 4 2115 0 1000  S
+10 17 1 1d12+133
+400 500 80 1d8+5
+345 0 10 0d0+0
+323 0 5 0d0+0 
+324 0 5 0d0+0 -1
+-1
+-1
+500 3000 8 8 1
+#3068
+green gelatinous blob~
+the green gelatinous blob~
+An oozing green gelatinous blob is here, sucking in bits of debris.
+~
+A horrid looking thing; it's huge, greenish, and looks like a blob.
+Obviously somthing the orcs wanted to keep around.
+~
+16 4 2177 8 0 A 20 0
+#3069
+orc huge rufus paper boy~
+a HUGE orc~
+A HUGE orc is standing here, eating the remains of a small paperboy.
+~
+Chomping on the remains of the previous paperboy, this HUGE orc is not
+opposed to selling the remaining papers.
+~
+1 1 2051 136 1000  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+2000 0 8 8 1
+A
+%%1 say Buy these newspapers or else!;%1 say Typing NEWS is for suckers!~
+#3090
+kitten~
+the kitten~
+A small loyal kitten is here.
+~
+The kitten looks like a cute, little, fierce fighter.
+~
+3 4 6 0 200  S
+1 20 9 1d6+11
+408 500 100 1d4+0 -1
+-1
+-1
+0 100 8 8 0
+#3091
+puppy~
+the puppy~
+A small loyal puppy is here.
+~
+The puppy looks like a cute, little, fierce fighter.
+~
+4 4 6 0 100  S
+1 20 9 1d6+11
+408 500 100 1d4+0 -1
+-1
+-1
+0 100 8 8 0
+#3092
+beagle~
+the beagle~
+A small, quick, loyal beagle is here.
+~
+The beagle looks like a fierce fighter.
+~
+4 4 6 0 50  S
+2 19 8 1d12+22
+408 500 100 1d6+0 -1
+-1
+-1
+0 200 8 8 0
+#3093
+rottweiler~
+the rottweiler~
+A large, loyal rottweiler is here.
+~
+The rottweiler looks like a strong, fierce fighter.
+~
+4 4 6 0 4294967096  S
+3 19 7 1d12+35
+408 500 100 1d7+0 -1
+-1
+-1
+0 400 8 8 0
+#3094
+wolf~
+the wolf~
+A large, trained wolf is here.
+~
+The wolf looks like a strong, fearless fighter.
+~
+4 4 6 0 4294967096  S
+4 17 6 1d12+47
+408 500 100 1d8+0 -1
+-1
+-1
+0 1600 8 8 0
+#3095
+cryogenicist cryo gnomish gnome~
+the cryogenicist~
+A gnomish cryogenicist stands here, feeding his ice-drakes.
+~
+The wizened little gnome is wrapped head to toe in thick yak-skin 
+garments. He has closed his business so that no orcs learn the 
+secret of his facility.
+~
+1 4 2051 32 900 A 109 1
+#3096
+quest harold~
+Harold the Undertaker~
+Harold the Undertaker is here selling coffins.
+~
+Harold is tall, skinny and black and has a very shrill voice.  He walks 
+around with a long stick, used as both walking stick and to messure 
+peoples height.
+~
+1 1 0 dfhkstyBD 0  S
+100 -30 -150 1d8+30000
+400 500 80 2d50+50 
+90 0 10 1d0+100
+76 0 10 1d0+100 -1
+300 95 301 95 302 95 303 95 304 95 310 95 312 95 313 95 315 95 
+317 95 318 95 326 95 327 95 328 95 338 95 339 95 343 95 359 95 
+361 95 372 95-1
+-1
+5000 520000 8 8 1
+#3097
+claneq shopkeeper~
+Clan eq Shopkeeper~
+A Clan equipment shopkeeper
+~
+He is an old man, but you should still not take him for granted, after all,
+he is the shopkeeper of the clan eq, and he probably knows how to make the
+best of the equipment he is selling.
+~
+1 4 2051 8 900  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+150000 50000 8 8 1
+#3098
+questeq shopkeeper~
+Quest eq Shopkeeper~
+A Quest equipment shopkeeper
+~
+He is an old man, but you should still not take him for granted, after all,
+he is the shopkeeper of the quest eq, and he probably knows how to make the
+best of the equipment he is selling.
+~
+1 4 2051 8 900  S
+109 -100 -200 1d1+30000
+400 500 100 100d100+100 -1
+-1
+-1
+150000 50000 8 8 1
+#3099
+horse mount~
+The horse~
+A horse is standing here.
+~
+   This looks like a normal horse.
+~
+7 4 2 128 0 A 5 0
+#99999
+$~

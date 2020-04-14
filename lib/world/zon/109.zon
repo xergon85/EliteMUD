@@ -1,0 +1,95 @@
+#109
+Gragloy Castle~
+10999 60 2
+*
+M 0 10901 15 10933 Loads Gargoyle Guard at Demona
+M 0 10901 15 10933 Loads Gargoyle Guard at Demona
+*
+M 0 10901 15 10913 Loads Gargoyle Guard at Gate
+M 0 10901 15 10913 Loads Gargoyle Guard at Gate
+M 0 10901 15 10913 Loads Gargoyle Guard at Gate
+M 0 10901 15 10913 Loads Gargoyle Guard at Gate
+*
+M 0 10901 15 10916 Loads Gargoyle Guard at Eastern Tower
+M 0 10901 15 10916 Loads Gargoyle Guard at Eastern Tower
+*
+M 0 10901 15 10920 Loads Gargoyle Guard at Western Tower
+M 0 10901 15 10920 Loads Gargoyle Guard at Western Tower
+*
+M 0 10901 15 10932 Loads Gargoyle Guard at Royal Hallway
+M 0 10901 15 10932 Loads Gargoyle Guard at Royal Hallway
+*
+M 0 10901 15 10949 Loads Gargoyle Guard at Staircase
+M 0 10901 15 10949 Loads Gargoyle Guard at Staircase
+*
+M 0 10901 15 10950 Loads Gargoyle Guard at Lodging
+*
+M 0 10900 10 10929 Loads Gargoyle Soldier on top of E Tower
+M 0 10900 10 10929 Loads Gargoyle Soldier on top of E Tower
+*
+M 0 10900 10 10925 Loads Gargoyle Soldier on top of W Tower
+M 0 10900 10 10925 Loads Gargoyle Soldier on top of W Tower
+*
+M 0 10900 10 10903 Loads Gargoyle Soldier at Entryway
+M 0 10900 10 10903 Loads Gargoyle Soldier at Entryway
+*
+M 0 10900 10 10948 Loads Gargoyle Soldier at War Room
+M 0 10900 10 10948 Loads Gargoyle Soldier at War Room
+M 0 10900 10 10948 Loads Gargoyle Soldier at War Room
+M 0 10900 10 10948 Loads Gargoyle Soldier at War Room
+*
+M 0 10902 10 10908 Loads Female Gargoyle on Hidden Path
+M 0 10902 10 10908 Loads Female Gargoyle on Hidden Path
+*
+M 0 10902 10 10909 Loads Female Gargoyle on Hidden Path
+M 0 10902 10 10909 Loads Female Gargoyle on Hidden Path
+*
+M 0 10902 10 10910 Loads Female Gargoyle on Hidden Path
+M 0 10902 10 10910 Loads Female Gargoyle on Hidden Path
+*
+M 0 10902 10 10915 Loads Female Gargoyle at Inner Courtyard
+M 0 10902 10 10917 Loads Female Gargoyle at Inner Courtyard
+M 0 10902 10 10918 Loads Female Gargoyle at Inner Courtyard
+M 0 10902 10 10919 Loads Female Gargoyle at Inner Courtyard
+M 0 10902 10 10921 Loads Female Gargoyle at Inner Courtyard
+M 0 10902 10 10922 Loads Female Gargoyle at Inner Courtyard
+*
+M 0 10906 1 10933 Loads Demona, Leader of the Gargoyles
+E 1 10901 5 3     Wears Crystal Pendant around neck
+*
+M 0 10904 4 10945 Loads Rotting Corpse in Damp Cell
+*
+M 0 10904 4 10946 Loads Rotting Corpse in Cell
+*
+M 0 10904 4 10947 Loads Corpse at Queen Tarantula
+M 0 10904 4 10947 Loads Corpse at Queen Tarantula
+*
+M 0 10903 6 10935 Loads Osquip at Dungeon Stairs
+M 0 10903 6 10935 Loads Osquip at Dungeon Stairs
+*
+M 0 10903 6 10938 Loads Osquip at Outside Cells
+M 0 10903 6 10938 Loads Osquip at Outside Cells
+*
+M 0 10903 6 10939 Loads Osquip at Outside Cells
+M 0 10903 6 10939 Loads Osquip at Outside Cells
+*
+M 0 10907 6 10936 Loads Tarantula at The Dungeon
+*
+M 0 10907 6 10940 Loads Tarantula at The Cells
+*
+M 0 10907 6 10947 Loads Tarantula at Queen Tarantula
+M 0 10907 6 10947 Loads Tarantula at Queen Tarantula
+M 0 10907 6 10947 Loads Tarantula at Queen Tarantula
+M 0 10907 6 10947 Loads Tarantula at Queen Tarantula
+*
+M 0 10905 1 10947 Loads "Queen" Tarantula
+E 1 10902 5 17    Holds Magic Rock
+*
+M 0 10908 1 10943 Loads Small Satanic
+E 1 10903 5 3     Wears Satanic Medallion around neck
+*
+M 0 10909 1 10950 Loads Old Gargoyle
+E 1 10900 5 14    Wears Dragon Tooth Bracelet on wrist
+S
+#99999
+$~

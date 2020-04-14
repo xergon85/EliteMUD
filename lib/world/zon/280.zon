@@ -1,0 +1,63 @@
+#280
+Clans DoP~
+28098 20 0
+*
+* Loading Shopkeeper and goods
+M 0 28000 1 28015 *Shopkeeper
+G 1 28008 100 *Bota
+G 1 28009 100 *Fly potion
+G 1 28010 100 *Detect invis potion
+G 1 28011 100 *ID scroll
+G 1 28012 100 *Forget me not
+G 1 28013 100 *Clanrecall
+G 1 28014 100 *food
+G 1 28016 100 *vorp potion (retelzin)
+G 1 28017 100 *heal potion (astrologer)
+* Loading All Objects 
+O 0 3034 100 28015 *ATM
+O 0 28000 100 28011 *Board
+O 0 28001 100 28012 *Xen and Fists board
+O 0 28003 100 28013 *Lemonade fountain
+O 0 28004 100 28000 *Clanhouse Blocker
+O 0 28005 100 28002 *Locker
+O 0 28002 100 28002 *Milk fountain
+* O 0 28005 100 28003 *Locker
+O 0 28006 100 28012 *Second Blocker
+* Closing Doors
+D 0 28001 4 1
+D 0 28010 5 1
+D 0 28002 1 1
+D 0 28002 3 1
+D 0 28005 3 1
+D 0 28005 0 1
+D 0 28005 2 1
+D 0 28005 5 1
+D 0 28020 2 1
+D 0 28021 0 1
+D 0 28032 0 1
+D 0 28033 2 1
+D 0 28004 0 1
+D 0 28004 1 1
+D 0 28004 3 1
+D 0 28007 0 1
+D 0 28006 2 1
+D 0 28007 2 1
+D 0 28022 2 1
+D 0 28023 0 1
+D 0 28031 0 1
+D 0 28028 2 1
+D 0 28029 0 1
+D 0 28009 0 1
+D 0 28009 1 1
+D 0 28009 2 1
+D 0 28024 2 1
+D 0 28025 0 1
+D 0 28008 0 1
+D 0 28008 1 1
+D 0 28008 2 1
+D 0 28018 2 1
+D 0 28019 0 1
+D 0 28034 4 1
+S
+#99999
+$~

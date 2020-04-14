@@ -1,0 +1,926 @@
+#6400
+boots stomping~
+Stanley's Stompin' Boots~
+One of these days these boots are gonna STOMP all over you.~
+~
+9 15 0 0 ag
+7 15 0 0 0 0
+1 100 0
+E
+boots stomping~
+*STOMP* is the last sound most small harmless creatures hear
+when Stanley's Stompin' Boots come crushing down on them. These boots
+are really really big and heavy to fit Stanley's bloated feet.
+Stanley likes to *stomp* away on small creatures (the big ones
+can strike back, so that isnt any fun) when he gets irritated,
+which is quite often.
+~
+A
+1 2
+#6401
+spyglass nells~
+Nell's Spyglass~
+A long cylinder of brass and glass is actually a spyglass.~
+~
+9 15 0 0 ao
+10 15 0 0 0 0
+1 100 0
+E
+spyglass~
+Nell's first reaction when using the spyglass was, "Things sure
+got big in here". Its a prized possession, given to her by an elf once
+in exchange for her help. She never leaves it behind, carrying it
+with her in her journeys across the big world, and now using it to find
+out what happened to the Lost Gnomes.
+~
+#6402
+pouch magical nells~
+Nell's magical pouch of holding~
+A small leather pouch in #rra#yi#gnb#cow#G colors waits for its owner.~
+~
+15 114 0 0 ackl
+250 0 0 0 0 0
+1 100 0
+E
+pouch~
+This magical pouch was "given" (according to Nell) by a dark elf wizard.
+When asked about why exactly the wizard gave his magical pouch to the
+gnome, Nell sways on the subject and states she wont say another
+word without a lawyer.
+~
+#6403
+stick magic marthas~
+Martha's magic stick~
+A gnarly branch has fallen off of some tree and lies at your feet.~
+~
+4 15 bcdfhjklnop 0 ao
+50 10 10 32 0 0
+1 100 1
+E
+stick magic marthas~
+This is Martha's magic stick. If its magical, no-one really knows since
+Martha never lets anyone else touch it. It's very gnarly and doesnt look
+much different than an ordinary branch from a tree.
+~
+B fk
+#6404
+spy badge~
+Junior Gnomish Spy badge~
+This badge bears the stamp of the Gnomish Spy Organization.~
+~
+9 15 0 0 ac
+15 15 0 0 0 0
+1 100 0
+E
+gnomish spy badge~
+Martha proudly wears this badge around her neck. She's very
+proud of being the junior member of the gnomish spy network! Soon
+she'll advance in ranks! The GSO motto is engraved on it: Stealthy,
+Scrounging, Soda.
+~
+#6405
+helmet hagbards~
+Hagbard's Helmet~
+Hagbard's hefty helmet isn't on Hagbard's thick head at the moment.~
+~
+9 25 0 0 ae
+10 25 0 0 0 0
+1 100 0
+E
+helmet hagbards~
+After being hit in the head countless times and getting a bruise
+despite his standard dwarf helmet, Hagbard went to the magician
+Hfloan to help him. This helmet was the result, a sturdy helmet
+made of mithril, enhanced with magic. Hagbard didnt pay anything
+for it, but he still wonders why his paycheck seems to be a bit
+smaller than the rest of the workers...
+~
+A
+1 2
+A
+3 -1
+#6406
+chainmail dwarven ordinary~
+dwarven chainmail~
+Ordinary dwarven chainmail is worn by ordinary dwarf fighters.~
+~
+9 18 0 0 ad
+8 18 0 0 0 0
+1 100 0
+E
+chainmail dwarven ordinary~
+An ordinary dwarven chainmail, heavy but effective. It has no
+ornamental features, but protects from most kind of slashing
+and piercing attacks. It is very vulnerable to crushing ones,
+however.
+~
+#6407
+helmet~
+dwarven helmet~
+Part of a dwarf soldier's uniform has been forgotten.~
+~
+9 18 0 0 ae
+10 18 0 0 0 0
+1 100 0
+E
+helmet dwarven~
+This helmet is standard issue for dwarven soldiers. Its made
+of iron and protects against most kind of rocks falling, but its
+defensive qualities against most other weapons are fairly light.
+~
+#6408
+chainmail goldlined~
+goldlined chainmail~
+Bright gold shines from within the chainmail.~
+~
+9 25 0 0 ad
+10 25 0 0 0 0
+1 100 0
+E
+chainmail goldlined~
+This chainmail resembles an ordinary chainmail, but seems to be more robust
+and light. It glimmers slightly, and has golden lining, informing you that
+this is an officers chainmail.
+~
+#6409
+helmet ornamental~
+ornamental helmet~
+The ornamental helmet is suitable for a Royal Dwarf Body Guard!~
+~
+9 25 0 0 aeo
+10 25 0 0 0 0
+1 1000 0
+E
+helmet ornamental~
+A small jewel is engraved at the front of this helmet, reflecting the light.
+It's not a very valauble jewel, but indicates that the helmet is meant for a
+more distinguished dwarf than the common soldier.
+~
+B ek
+#6410
+hermann symbol medallion cleric~
+Hermann's cleric symbol~
+A pulsating holy symbol has a life of it's own.  (Do you?)~
+~
+9 25 acdeghiklmop 0 ac
+15 25 0 0 0 0
+1 100 0
+E
+hermann symbol medallion cleric holy~
+Dedicated to Hermann's god, this is the symbol that gives Hermann his healing
+powers. It glows gently, pulsating with the faith Hermann has. (It's quite
+ugly too, but dont tell Hermann that or he'll club you).
+~
+A
+12 30
+A
+5 2
+A
+1 2
+#6411
+gold lump nugget~
+a nugget of gold~
+This gold nugget should be worth a lot at the assayer's office.~
+~
+8 0 0 z ao
+0 0 0 0 0 0
+411 5000 0
+E
+nugget gold lump~
+Perhaps if you took this to a metallurgist, he might tell you if it was
+actually worth anything.  Or perhaps you could simply try to sell it.
+~
+#6412
+egg~
+a chicken egg~
+Which came first?  The chicken or the ... ?~
+~
+19 1 0 0 ao
+4 0 0 0 0 0
+1 300 0
+E
+egg~
+A bright blue, ovoid-shaped, fragile-shelled product of a chicken ... c'mon,
+surely you've seen one of these before.  It's nothing special ...
+~
+#6413
+boots miningboots~
+mining boots~
+Heavy but very sturdy boots look like good protection for your feet.~
+~
+9 15 0 0 ag
+7 15 0 0 0 0
+1 100 0
+E
+boots miningboots~
+Getting a rock on your toes hurt everybit as much as getting it in your head.
+These boots have metal plates attached to them to prevent this issue.  They
+are also quite good to keep out the damp.
+~
+#6414
+gnomish adventuring vest~
+gnomish adventuring vest~
+You'd think a Lost Adventurer would be easy to find in this vest!~
+~
+9 15 0 0 ad
+8 15 0 0 0 0
+1 100 0
+E
+vest gnomish adventuring uniform~
+The uniform of a graduate Adventuring Gnome, this vest has a fair number of
+pockets that can hold anything interesting the adventurer. It's fairly sturdy,
+but not meant for fighting. It also has cool colors! (#ggreen#N/#mpurple#N).
+~
+#6415
+pipe~
+a tobacco pipe~
+The smoothness of the pipe's surface attests to it's frequent use.~
+~
+3 15 cdklop 0 ao
+50 10 10 33 0 0
+1 100 1
+E
+pipe tobacco~
+This pipe is used to smoke tobacco, a fairly common practice for hobbits and
+halflings. Dwarves have recently started to take a liking to it, as well.
+~
+#6416
+sceptre~
+King Kwathoum's golden sceptre~
+A tall golden sceptre looks like it might be a good weapon for a
+king.~
+~
+5 20 0 0 ano
+20 3 5 6 0 0
+1 100 0
+E
+golden sceptre scepter Kwathoum~
+The mark of office in this dwarf kingdom is this sceptre. It is a heavy
+sceptre, with jewels embedded in its shaft. In times of emergency, the king
+can use this to fend off any assailants by hitting them in the head with it.
+~
+A
+18 2
+A
+19 3
+#6417
+mask sleeping~
+a sleeping mask~
+This mask will cover your eyes and help you to sleep.~
+~
+4 15 0 0 aoe
+50 5 5 38 0 0
+1 100 1
+#6418
+weight-lifting belt~
+a dwarven weight-lifting belt~
+Some off duty guards wear this belt when they are working out.~
+~
+9 15 0 0 al
+6 15 0 0 0 0
+1 100 0
+E
+belt weight-lifting~
+The guards work out to maintain their bulging muscles, more from hope that
+some day another female dwarf will appear than from any real need to guard the
+mines.
+~
+A
+1 2
+#6419
+casket~
+Lady J's jewel casket~
+Lady J's casket of precious jewels has been left unattended.~
+~
+15 1 0 0 ao
+50 ac -1 0 0 0
+1 1000 0
+E
+casket~
+A precious object itself, this small wooden box is inlaid with a beautiful
+desing in precious woods and ornamented with a large ruby in the center of the
+lid.
+~
+#6420
+Pin~
+a Hulio Fan-club Pin~
+A pin must have come loose from a passing member.~
+~
+9 5 0 ao ac
+1 5 0 0 0 0
+1 100 0
+E
+pin fan club~
+This must be a member pin of the Hulio Fan Club. To apply just mail the fan
+club or visit your local fan club office. It is rather pretty too.
+~
+#6421
+polish~
+a jar of yak horn polish~
+There is nothing so beautiful as a well-polished yak horn.~
+~
+3 10 0 0 ao
+50 3 3 61 0 0
+1 100 1
+E
+polish jar~
+The stimulation of being rubbed and the tingle of the herbs in this polish
+help the yak's horns to grow strong and straight and quite hard. The polish,
+of Elven origin and purchased from the halfling traders, has a very pleasant
+odor, and the yaks seem to greatly enjoy the polishing.
+~
+#6422
+yak horn~
+a long sharp yak horn~
+The long sharp tip of a yak's horn has been fashioned into a dagger.~
+~
+5 15 abdfghijlmnp 0 ano
+15 4 3 11 0 0
+1 100 0
+E
+yak horn yakhorn~
+The long slender, exceedingly sharp tip of a yak's well-polished horn has been
+affixed to an ebony handle.  In the right hands this horn becomes an awesome
+weapon.
+~
+A
+18 4
+A
+19 3
+#6423
+comb dwarven beardcomb recall~
+a dwarven beardcomb~
+A dwarven beardcomb looks slightly grotty but usable.~
+~
+2 1 0 0 ao
+50 68 68 42 0 0
+1 800 0
+E
+comb dwarven beardcomb~
+A dwarven beard is truly a thing of beauty, and must be cared for daily. This
+comb has closely placed teeth to comb out nits.
+~
+#6424
+doll Nelly~
+a Nelly doll~
+Here is a Nelly doll, complete with long red braids and rainbow cape.~
+~
+9 1 0 abg ajo
+3 1 0 0 0 0
+3 50000 0
+E
+doll Nelly~
+In honor of the mighty gnome psionicist, Nelly, who is well known the world
+over (and especially in cities beginning with the letter "S"), this little
+doll became every child's favorite toy.
+~
+#6425
+cookie oatmeal~
+a soft oatmeal cookie~
+One of Jilly's best cookies has not yet been discovered.~
+~
+19 1 0 z ao
+5 0 0 0 0 0
+1 1 1
+E
+cookie~
+One of Jilly's favorite cookies to make is this soft, chewy oatmeal cookie,
+scented with cinnamon and sweetened with honey and a couple of raisins.
+~
+#6426
+gold lump nugget~
+a nugget of gold~
+A very large nugget gleams softly in the dim light.~
+~
+8 0 0 z ao
+0 0 0 0 0 0
+426 5000 0
+E
+nugget gold lump~
+Perhaps if you took this to a metallurgist, he might tell you if it was
+actually worth anything.  Or perhaps you could simply try to sell it.
+~
+#6427
+gold lump nugget~
+a nugget of gold~
+A very large nugget gleams softly in the dim light.~
+~
+8 0 0 z ao
+0 0 0 0 0 0
+427 5000 0
+E
+nugget gold lump~
+Perhaps if you took this to a metallurgist, he might tell you if it was
+actually worth anything.  Or perhaps you could simply try to sell it.
+~
+#6428
+icecream~
+a bowl of raspberry-blueberry ice cream~
+A nice big bowl of raspberry-blueberry ice cream is slowly melting.~
+~
+19 1 0 z ao
+5 0 0 0 0 0
+1 1 1
+E
+ice cream~
+The very best ice cream comes from contented yaks and the yaks at this farm
+are very content.  Gina and Tina add just the right quantities of sugar and
+berries.
+~
+#6429
+cookie gingerbread pepparkaka wolf werewolf~
+a pepparkaka cookie shaped like a wolf~
+The very small werewolf looks ready to bite you.  Bite it first!
+~
+~
+19 1 0 z ao
+5 0 0 0 0 0
+1 1 1
+E
+cookie pepparkaka gingerbread werewolf~
+This small gingerbread werewolf is no real threat to you.  It is spicy and
+sweet at the same time.  Very tasty!
+~
+#6430
+pepparkaka cookie gingerbread dragon~
+a pepparkaka cookie shaped like a dragon~
+The little dragon looks very hot!~
+~
+19 1 0 z ao
+5 0 0 0 0 0
+1 1 1
+E
+gingerbread cookie pepparkaka dragon~
+Baked of spicy gingergread then carefully decorated, the little cookie looks
+very much like a real dragon ... only smaller!  With those giant wings, it
+might just take off and fly, so you'd better bite it quickly.
+~
+#6431
+cookie gingerbread pepparkaka gnome~
+a pepparkaka cookie shaped like a gnome~
+A little gnome wiggles her gingerbread ears at you.~
+~
+19 1 0 z ao
+5 0 0 0 0 0
+1 1 1
+E
+cookie pepparkaka gnome gingerbread~
+Actually, if you look closely at this little gnome you can see that the Mind-
+Bogglingly Magnificent Nell insisted on posing for the gingerbread cookie mold
+that this cookie popped out of.  And of course, she is wearing her trademark
+rainbow cape.
+~
+#6432
+cookie gingerbread pepparkaka elf superelf~
+an Elven superhero pepparkaka~
+All little boys, except the Trollish ones, want to be
+superheroes.~
+~
+19 1 0 z ao
+5 0 0 0 0 0
+1 1 1
+E
+cookie pepparkaka gingerbread elf~
+With the very nicely pointed ears and the magnificent cape, this could be none
+other than the Elfking himself.
+~
+#6433
+cookie gingerbread pepparkaka angel angelic~
+an angelic pepparkaka~
+A very angelic-looking cookie flies by on sugar wings.~
+~
+19 1 0 z ao
+5 0 0 0 0 0
+1 1 1
+E
+cookie pepparkaka gingerbread angel angelic~
+The little gingerbread angel has a #ws#Yp#wa#Yr#wk#Yl#wi#Yn#Wg
+#y*halo*#N on its head.
+~
+#6434
+cookie gingerbread pepparkaka balloon~
+a hot air balloon pepparkaka~
+This cookie is lighter than air and might float away.~
+~
+19 1 0 z ao
+5 0 0 0 0 0
+1 1 1
+E
+cookie pepparkaka gingerbread hot air balloon~
+A hot air balloon with a little picnic basket bottom and brightly colored
+(iced) silks.  The picnic basket looks large enough for a small troop of
+gnomes, complete with picnic!
+~
+#6435
+cookie gingerbread pepparkaka glob~
+a globby mess of a pepparkaka~
+A slightly soggy underbaked sunken glob of cookie is still lip smackin!~
+~
+19 1 0 z ao
+5 0 0 0 0 0
+1 1 1
+E
+cookie pepparkaka gingerbread glob~
+Apparently this is one of Jilly's few failures and yet, she is very pleased
+with this particular cookie.  It is a large, amorphous glob of a cookie, looks
+slightly wet and (and I know this is very strange), it radiates an evil aura.
+Stamped on the underside (the slightly flatter side) of the cookie you can see
+the words in Old Gnomish, "Property of Glob, Inc".
+~
+#6436
+cookie gingerbread pepparkaka viking~
+a slightly dirty viking pepparkaka~
+A little dirt on the viking pepparkaka makes him just look more real.~
+~
+19 1 0 z ao
+5 0 0 0 0 0
+1 1 1
+E
+cookie pepparkaka gingerbread viking~
+With its blue sugar crystal eyes and toasty marshmallow hair, this gingerbread
+cookie makes your mouth water despite the fact it's managed to roll a bit in
+the dirt.
+~
+#6437
+cookie gingerbread pepparkaka troll~
+a HUGE pepparkaka~
+The HUGE pepparkaka looks very thick and warty.  Must be trollish!~
+~
+19 1 0 z ao
+5 0 0 0 0 0
+1 1 1
+E
+cookie pepparkaka gingerbread troll~
+The features on this HUGE pepparkaka troll are slightly out of proportion, and
+someone has put a tiny currant wart on his bulbous nose. He was a bit thicker
+than the other cookies, so he may not be baked all the way through.
+~
+#6438
+cookie gingerbread pepparkaka fairy~
+a pepparkaka fairy~
+The fairy pepparkaka has white icing-wings and a licorice wand.~
+~
+19 1 0 z ao
+5 0 0 0 0 0
+1 1 1
+E
+cookie pepparkaka gingerbread fairy~
+Barely a mouthful of gingerbread makes up this tiny melt-in-your-mouth spicy
+sweet cookie.
+~
+#6439
+cookie gingerbread pepparkaka viking~
+a pepparkaka #wViking#N~
+This #wViking#G pepparkaka looks like he has been rolling in the dirt!~
+~
+19 1 0 z ao
+5 0 0 0 0 0
+1 1 1
+E
+cookie pepparkaka gingerbread viking~
+Although this pepparkaka #wViking#N looks fierce, he is spicy
+and sweet.  Well equipped with candy axe and hammer, the cookie Viking's
+pale blond yellow-icing hair streaks out from beneath his conical helmet.
+~
+#6440
+cookie gingerbread pepparkaka sunflower~
+a pepparkaka #ysunflower#N~
+#ySunflower#G pepparkakor are painted with lemon and chocolate icing.~
+~
+19 1 0 z ao
+5 0 0 0 0 0
+1 1 1
+E
+cookie pepparkaka gingerbread sunflower~
+Apparently the gnomes are fond of sunflowers.  This one has been
+carefully decorated to resemble the real sunflowers grown by the
+gnomes at the experimental farm.
+~
+#6441
+sunflower~
+a sunflower~
+The brilliant yellow sunflower radiates heat.~
+~
+18 0 0 4096 aeo
+6200 0 0 0 0 255
+1 0 0
+E
+sunflower~
+Cut from its roots, this sunflower won't last forever, but while
+it does, it radiates warmth and a certain happiness.
+~
+#6442
+house door at6543to6544~
+Half house on the edge of the chasm~
+A small house stand on the edge of the chasm, almost falling into it.
+~
+~
+26 50 0 zi 0
+6544 a 6444 50 115 -1
+1 0 0
+E
+house door~
+   A little wooden house stands on the very edge and as it seems on the
+verge off falling into the very wide chasm that has opened up in the
+mountain. Two thick ropes seems to connect this tower with a similar
+tower on the other side of the chasm. In your eyes this fact does not
+help much to the stability of the house. A little sign hangs on the funny
+looking door on the house front.
+~
+E
+sign~
+
+        Unlimited access with the correct papers.
+
+~
+#6443
+house door at6554to6551~
+Half house on the edge of the chasm~
+A small house stand on the edge of the chasm, almost falling into it.
+~
+~
+26 50 0 zi 0
+6551 a 6445 50 115 -1
+1 0 0
+E
+house door~
+   A little wooden house stands on the very edge and as it seems on the
+verge off falling into the very wide chasm that has opened up in the
+mountain. Two thick ropes seems to connect this tower with a similar
+tower on the other side of the chasm. In your eyes this fact does not
+help much to the stability of the house. A little sign hangs on the funny
+looking door on the house front.
+~
+E
+sign~
+
+        Unlimited access with the correct papers.
+
+~
+#6444
+ticket correct papers paper key~
+A piece of very correct paper~
+Someone discarded a little ticket without a care of its value.~
+~
+18 50 0 m a
+0 0 0 0 0 24
+1 10000 0
+E
+ticket correct papers paper key~
+   The papers seems rather unuseful, but then again they can come in
+handy at the most unexpected and bizarre occasions.
+~
+#6445
+ticket correct papers paper key~
+A other side of some very correct paper~
+Someone discarded a little ticket facedown without a care of its value.~
+~
+18 50 0 m a
+0 0 0 0 0 24
+1 30000 0
+E
+ticket correct papers paper key~
+   The papers seems rather unuseful, but then again even this side can
+come in handy at the most unexpected and bizarre occasions.
+~
+#6446
+boots sticky~
+a pair of soft but sticky boots~
+A pair of soft boots has got stuck to the ground.~
+~
+9 60 abcdefghijklmnop c ag
+12 60 0 0 0 0
+16 6000 0
+E
+boots sticky~
+   The boots is made out of some soft leathery material that would fit
+very good on most feet. The binding is made out of long strings that can
+be tied firmly around the foot, ankle and leg. What makes then extra
+special is that they seem to stick to the ground giving a very good
+balance once one get used to it.
+~
+A 14 -20
+A 2 +4
+A 18 +1
+#6502
+key~
+a key on a long golden chain~
+A rusty iron key has been strung on a long golden chain.~
+~
+18 0 0 4096 ae
+6502 0 0 0 0 100
+1 0 0
+E
+key~
+This is the sort of key that looks like a small rusty flag.  It's pretty
+clear the key hasn't been used in a long time, and probably was lost and
+forgotten.
+~
+#6503
+large heavy key~
+a large heavy key~
+A large heavy key has been dropped.~
+~
+18 0 0 4096 ae
+6503 0 0 0 0 100
+1 9 0
+E
+key~
+This large, heavy metal key has been marked with the picture of
+a gate.
+~
+#6504
+hammer dwarven~
+a hammer~
+Sometimes a dwarf's just gotta #WPOUND#G things, ya know?~
+pummel~
+5 4 13107 0 8193
+0 2 6 7 0 0
+13 5500 1000
+E
+hammer~
+Crafted by the dwarven smiths, this hammer serves both as a tool
+and a weapon. In times of war it can be used to pound away on enemies that
+need pounding.  Either way, it is a trusty pounding item. It's not worth many
+pounds, but it is dependable and trustworthy.  An insignia on its shaft reads
+"MADE BY POUNDING PUN'S INC."
+~
+#6505
+plate dwarven mail~
+dwarven plate mail~
+Dwarves make all manner of armor.  This is dwarven plate mail.~
+~
+9 10 0 0 9
+6 0 0 0 0 0
+80 4500 300
+#6506
+stick~
+a long black stick~
+This long black stick is a branch off of a long black tree.~
+~
+4 0 0 0 16385
+4 2 2 28 0 0
+1 100 6000
+E
+stick~
+A magic stick off a magic tree, it is trying frantically to mend itself where
+it was rudely ripped off by some passing giant.  It is not terribly good at
+mending itself, though, and the healing vibrations seem to scatter everywhere
+but on itself.  Perhaps if you hold it in your hand and wave it about a bit,
+those around you might get better! Or ... not.
+~
+#6507
+stick~
+a long black stick~
+A long, black stick was pulled from its tree long ago.~
+~
+1 0 0 0 16385
+0 0 0 0 0 0
+1 0 1
+E
+stick~
+This stout stick looks easily combustible.  You could probably
+use it as a torch if you lit the end of it.
+~
+#6508
+dwarven club~
+a dwarven club~
+A heavy, smooth, blunt piece of steel-sheathed wood is a dwarven club.~
+~
+5 1 4369 0 8193
+0 2 3 3 0 0
+12 3000 300
+E
+club dwarven~
+Now, a club sounds like a primitive weapon and, indeed it is, however the
+dwarves managed to make this particular version of a club do a LOT of damage,
+if you are strong enough to wield it.  Made of a solid hardwood at its core
+then covered with a spiky layer of steel over that, this club was the dwarves
+first defense against the giants ... before they learned to simply outsmart
+them.
+
+#CGiant stares at you, drooling.
+You tell Giant, "Me no taste good.  You eat tree!"
+Giant beams and wanders off, looking for a tree.#N
+
+~
+#6509
+two-handed dwarven axe~
+a two-handed dwarven axe~
+A two-handed dwarven axe is here.~
+slices~
+5 15 0 0 aoq
+0 2 7 3 0 0
+14 5000 3000
+E
+axe dwarven two-handed~
+You can do a lot more damage if you swing at something with your
+entire body weight behind the swing.  This axe is a perfect example of that
+truism.
+~
+A
+18 4
+A
+19 5
+A
+1 2
+#6510
+helmet mininghelmet~
+mining helmet~
+A sturdy, slightly dented helmet lies on the ground.~
+~
+9 5 0 0 17
+4 5 0 0 0 0
+4 2500 500
+E
+helmet dwarven mining~
+As every dwarf knows, "them rockies hurt!", especially when they hit you on
+the head. To prevent this, every dwarven miner has to wear this helmet,
+protecting them from the small pebbles that falls from the cavern roof. It
+does not, however, protect them from the more heavy rocks. (or maces, clubs,
+hammers and other tools of violence).
+~
+#6511
+gold dwarven wedding golden ring~
+a dwarven wedding ring~
+Gwandolyn must be washing dishes.~
+~
+9 10 0 0 ab
+2 10 0 0 0 0
+1 4000 1000
+E
+gold ring~
+This golden ring represents very fine work of the dwarves.  On it you see
+engraved the emblem of King Kwathoum, the current Dwarf King. Kwathoum gave it
+to Gwandolyn when they married, long dwarfyears ago.
+~
+A
+18 1
+A
+19 1
+#6512
+gloves dwarven mining~
+dwarven mining gloves~
+A pair of thick dwarven gloves are sturdy yet flexible.~
+~
+9 10 0 0 129
+1 0 0 0 0 0
+2 4000 200
+E
+gloves~
+These gloves are made from yak hide tanned and beaten soft as a baby human's
+skin.  They are tough enough to withstand the constant use by the miners, and
+protect the dwarves' skin.
+~
+A
+5 1
+A
+2 1
+#6517
+gold lump nugget~
+a nugget of gold~
+A very large nugget of gold sits on the ground.~
+~
+8 0 0 z ao
+0 0 0 0 0 0
+500 5000 0
+E
+nugget gold lump~
+Perhaps if you took this to a metallurgist, he might tell you if it was
+actually worth anything.  Or perhaps you could simply try to sell it.
+~
+#6518
+pick miningpick~
+mining pick~
+Hey ho, what do you know?  It sure looks like a mining pick!~
+picks~
+5 1 0 0 ano
+1 2 3 11 0 0
+9 300 10
+E
+mining pick pick~
+Heyho, heyho, we off to work we go... if you're gonna go mining, better have a
+pick that can mine. And this one can. Thats why the dwarves use it, after all.
+~
+#6519
+armband mark Mostal~
+the Mark of Mostal (#rholyfire#N)~
+The Mark of the Dwarven Mining God Mostal depicts a lump of coal.~
+~
+9 35 kposlcd k ai
+10 35 0 0 0 0
+5 1300 0
+E
+mark~
+Dwarf miners worship Mostal, and depend upon him to protect him from the
+many very real dangers of life beneath the crust of the earth.  He is seen in
+Dwarven art (what there is of it) as dark as the earth itself, with a beard
+full and thick, eyes of deepest blue, and a thick, short body.  His mark
+resembles one of the gifts of the earth, a lump of coal.
+~
+A
+12 25
+A
+18 1
+#99999
+$~

@@ -1,0 +1,659 @@
+#28600
+#rThe Entrance to the Castle of Shamhna#N~
+   Violet thunder crashes are roaming the black sky, thick raindrops 
+are falling down, and wolflike beings are howling at the full moon, 
+which is shining behind a high tower, that rears itself high above 
+the castle, as a shadow of death. Dead bodies hang from poles along 
+the path and bonfires burn bright. Right in front of you, high, 
+black walls made of bones and black stone, lift themselves up, 
+surrounding the 'Castle of Shamhna'. A black acid filled moat is 
+surrounding the fortress, and a deathgate is let down, allowing you 
+to cross the deadly brew.
+~
+286 uz 5
+D2
+~
+deathgate gate~
+1 -1 28601
+D5
+~
+~
+0 -1 6158
+S
+#28601
+#rThe Great Hall of Shamhna#N~
+   A silent wind blows through the corridors which lead in various 
+directions, deeper into the death castle, resulting in the lit torch 
+fires slowly waving, throwing a strange light in the hall. The floor 
+is made of ancient rock, and each of your steps echoes loudly, until 
+it disappears in the high roof. To the east and west, large gates 
+stand open, with mystical letters engraved in them. A large, horned 
+skull is fastened, high upon the wall, showing you that you have 
+entered the Shamhna Clan castle.
+~
+286 duz 0
+D0
+~
+deathgate gate~
+1 -1 28600
+D1
+~
+gate~
+1 -1 28602
+D2
+~
+~
+0 -1 28604
+D3
+~
+gate~
+1 -1 28603
+S
+#28602
+#rThe Mystical Library#N~
+   It is a large, silent library, with long, wooden shelves leaned on 
+the walls that surround you, containing old, dusty books. Thick 
+candles, burning on skulls, are fastened to the walls and placed on 
+the tables, giving you the light you need. You notice some scratches 
+in the floor, engraved as some kind of a path in front of a shelf in 
+the back of the library. A gigantic statue of a werewolf tearing a 
+corpse apart, made out of black marble is placed next to the the 
+clan board.
+~
+286 douz 0
+D1
+~
+shelf~
+11 -1 28629
+D3
+~
+gate~
+1 -1 28601
+S
+#28603
+#rThe Mausoleum#N~
+   Walls covered with used armours and weapons stored under thick 
+glass, and a mighty spirit of death, associates you that this is a 
+place where the Clan's history is stored for eternity. Shelves are 
+filled with ancient items and artifacts which got captured during 
+glorious wars. Paintings showing bloody fights and the clan creation 
+are placed everywhere, compressing a process which lasted for ages 
+into one single moment. Large, beautifully painted windows are 
+reflecting thunderlights from the black sky, inside the mausoleum, 
+whose light rays change its colors when shining through the 
+multicolored glass parts, creating a dark violet light in the whole 
+hall.
+~
+286 duz 0
+D1
+~
+gate~
+1 -1 28601
+S
+#28604
+#rThe Cold Stairway#N~
+   At this place the large corridor crosses a staircase, which 
+appears out from deep beneath, and continues up into the darkness, 
+disappearing in a left bend. Waterdrops are leaking down the walls, 
+leaving a green, moldy path behind. A few torches are placed around, 
+throwing a weak light on the first steps.
+~
+286 duz 0
+D0
+~
+~
+0 -1 28601
+D2
+~
+~
+0 -1 28605
+D4
+~
+~
+0 -1 28609
+D5
+~
+~
+0 -1 28629
+S
+#28605
+#rThe Hallway of Corpses#N~
+   All the corpses hang headless and limp, bodies with no surprises. 
+Skins are turned inside out, letting the blood drain down in a pile 
+of human flesh. Hacked heads are nailed on the walls, and squeaking 
+rats crawling around are carrying thorn out guts away. The sight 
+wakes up your instinct and urges you to kill more and more. Death is 
+what we need to survive merciless slaughtering is what brings all 
+this bodies in this hall.
+~
+286 duz 0
+D0
+~
+~
+0 -1 28604
+D1
+~
+~
+0 -1 28608
+D2
+~
+~
+0 -1 28606
+D3
+~
+~
+0 -1 28608
+S
+#28606
+#rThe Swamp Garden#N~
+   Murky grass and rotten trees decorate this place beneath the black 
+sky. Horrific creatures are crawling through the swamp parts of the 
+garden, leaving corpse rests behind for the crows which made their 
+nests in the dead trees. A thick fog spreads itself above the ground, 
+and gas shoots out from exploding balloons that are forming in the 
+swampy water. Benches made out of bones are placed on various places, 
+surrounded by flesh-eating plants.
+~
+286 uz 6
+D0
+~
+~
+0 -1 28605
+D2
+~
+graveyard~
+1 -1 28607
+S
+#28607
+#rThe Mortuary of Damned Souls#N~
+   Owls with glowing eyes sit on gravestones and bats fly through the 
+night. Bright moonlight shows mystical engravings on the tombstones, 
+dug up graves, and bones that stick out of the earth. This ghastly 
+hill behind the castle, is the Clan's cemetery, a place where the 
+dead undead is laid down for the final rest, before they can open the 
+gates of death and enter the plane of eternal violence.
+~
+286 uz 4
+D0
+~
+graveyard~
+1 -1 28606
+S
+#28608
+#rThe Skull Passage#N~
+   Thousands of skulls are mowled in the walls of this passage. It is 
+as if they were still humming the pain of their tortured souls, which 
+are imprisoned for eternity. The lantern lightened passage continues, 
+but there is a staircase leading down, where from the clinking of 
+chains and real pain yelling can be heard.
+~
+286 duz 0
+D0
+~
+glassdoor door~
+1 -1 28628
+D1
+~
+~
+0 -1 28605
+D3
+~
+~
+0 -1 28605
+D5
+~
+~
+0 -1 28624
+S
+#28609
+#rThe First Floor#N~
+   You have reached the first floor of the castle. It is a long 
+circular passage, surrounded by cold walls, which are decorated with 
+bones. Large candles are fastened all around. From the outside, 
+claps of thunder are heard, mixed with noise that rain makes while 
+pouring against the windows. There are three tight corridors leading 
+into various parts of the castle. More steps continue to lead you 
+higher up,to the next floor.
+~
+286 duz 0
+D1
+~
+curtain~
+1 -1 28613
+D2
+~
+~
+0 -1 28610
+D3
+~
+~
+0 -1 28612
+D4
+~
+~
+0 -1 28611
+D5
+~
+~
+0 -1 28604
+S
+#28610
+#rThe Lair of Ressurection#N~
+   This large, dry lair offers a lot of place for the warriors of 
+Shamhna. Huge beds, pollstered with werewolf skin are all around. 
+Thick candles are placed on old skulls, throwing a dark yellow light 
+in the room. In the middle of the room the Shamhna skull is placed on 
+an altar. Visible, light blue rays, shine from the inside of the 
+statue, creating a mystical aura which spreads through the whole 
+room. Your wounds begin to heal faster as the rays render your body. 
+You feel your heart extend, you feel your muscles break. Your veins 
+pump wolfsblood, and you arise yourself with anger in your eyes, with 
+a will to murder, urging you to start another journey of 
+extermination.
+~
+286 detuz 0
+D0
+~
+~
+0 -1 28609
+S
+#28611
+#rThe Second Floor#N~
+   The steps finish in this dark hall, which circularly extends 
+itself over the castle's second floor. A heavy,wooden door is on the 
+north and a totally unlit corridor leads to another damp staircase,in 
+the south of the castle. A statue is lifting itself up, next to the 
+wall. It shows the clash between two demons, fighting each other in 
+hell's fire. The symbol of Shamhna is etched into the large door, 
+creating an atmosphere of might and power.
+~
+286 duz 0
+D0
+~
+door~
+1 -1 28627
+D2
+~
+~
+0 -1 28614
+D5
+~
+~
+0 -1 28609
+S
+#28612
+#rThe Tavern of the Damned#N~
+   Tables and chairs made out of carved bones are placed all over. A 
+violet fire burns in the open fireplace. Some members are having a 
+feast of food at the tables, others are just getting drunk. Some just 
+came to hear the latest gossips and rumors from the cloaked barman, 
+or to meet friends. A large, horned skull is build in the wall, and 
+dark red wine is dripping from its opened mouth in a silver bowl. 
+Silent songs of death fill the room, joined with drunk voices and 
+shouts.
+~
+286 deuz 0
+D1
+~
+~
+0 -1 28609
+S
+#28613
+#rThe Mansion of Pleasure#N~
+   Welcome to the Devil's whorehouse. It's a smoke filled room and 
+loud music attacks your ears. A dark violet light shines on the stage 
+where wild vamps are dancing. Vixens are serving drinks and Devil's 
+whores are entertaining the guests. Skeletons are chained to the 
+walls and fresh blood is dripping down their bones. A strange force 
+takes your body over as soon as you enter, you feel as if you are in 
+a trance, while deep sounds drain your brain, forcing you to drink 
+more of the blood, served in skull like bowls. You're possessed and 
+can't even recall your name.
+~
+286 deuz 0
+D3
+~
+curtain~
+1 -1 28609
+S
+#28614
+#rThe Black Corridor#N~
+   At this place, the tight corridor crosses another staircase, 
+leading up into darkness, as if there were no end. It's the entrance 
+to the High Tower. Dark voices muttering ancient formulas can be 
+heard from the distance, spreading as an echo through the halls, and 
+you can't locate them exactly. The black walls that surround you are 
+engraved with mystical signs. The corridor continues in a bend 
+further to the east, where from a reddish light shimmers in the 
+darkness.
+~
+286 duz 0
+D0
+~
+~
+0 -1 28611
+D1
+~
+~
+0 -1 28615
+D4
+~
+~
+0 -1 28616
+S
+#28615
+#rThe Shrine of Shamhna#N~
+   You stand on the entrance to a large, round room. A circle is 
+engraved in the floor, containing ancient formulas and signs. In the 
+middle of the circle an altar is created, and above it, a horned 
+skull, made of black marble is floating in the air. Each eyehole 
+contains a red gem which shines so bright that the whole room is 
+shined in a reddish light. Fresh blood is dripping out from splits in 
+the wall, leaking through engraved paths, towards a large bowl which 
+is placed behind the altar, where it is gathered and used for deadly 
+rituals of Shamhna members, dressed in large black cloaks, uttering 
+mystical words and praying for more captured souls.
+~
+286 douz 0
+D3
+~
+~
+0 -1 28614
+S
+#28616
+#rThe High Tower#N~
+   After passing endless stairs, you finally reached a large, round 
+hall, which is placed in the top of the castle's High Tower. A large, 
+red circle is drawn on the floor, and in the middle a green fire is 
+burning, creating a strange sound. Large gates are leading in all 
+four directions, each of them with a different engraved symbol. 
+Around the gates skulls are fastened and on the top of each gate a 
+Skull of Shamhna is staring with a cold look towards you.
+~
+286 duz 0
+D0
+~
+gate~
+1 -1 28620
+D1
+~
+gate~
+1 -1 28619
+D2
+~
+gate~
+1 -1 28617
+D3
+~
+gate~
+1 -1 28618
+D5
+~
+~
+0 -1 28614
+S
+#28617
+#rEvilive's Inferno#N~
+   You closed the gate behind you and now you realize that this is a 
+large room without a floor. You're standing on the edge of a deep 
+abyss. Burning flames arise themselves up from deep beneath, tortured 
+souls are yelling for mercy and an enormous heat makes you feel weak 
+and helpless. Chains are hanging from above, and a massacred corpse 
+is hooked on each of it. The blood is dripping down into the 
+bottomless pit like devil's rain. Right in front of you a stone 
+throne is floating in the air. Evilive is sitting in it, his red eyes 
+glaring at you, the Dagger of Shamhna in his hand ready to tare your 
+chest apart,in order to consume your body and imprison your soul in 
+the eternal flames of his Inferno.
+~
+286 duz 0
+D5
+~
+flames~
+1 -1 28626
+S
+#28618
+#rVerminaard's Morgue#N~
+   Here in this place, rules the tyrant of death. Corpses hang down 
+from the walls and blood drips down in a pile of flesh. Collared 
+skeletons are chained to the black walls. Tortured bodies imprisoned 
+in steel cages are hanging down from above, yelling and begging for a 
+quick dead. Torches fastened on the walls, light the path which leads 
+to the dark end of the room. A large throne, made of bones lifts 
+itself up there. That's the place where from Verminaard commands the 
+forces of Shamhna through our wars of annihilation.
+~
+286 duz 0
+D1
+~
+~
+0 -1 28616
+S
+#28619
+#rRob's Personal Residence#N~
+   You see a lighted, good looking room. In the middle of the room a 
+violet fire is burning, creating a silent cracking. On the walls of 
+this room, there are many interesting historical pictures and a few 
+big, blood covered spears and swords, which are momentous of Rob's 
+past. A large stone throne is in the back on the room, and the Skull 
+of Shamna is fastened on the top of it. A map of Elite is engraved in 
+the wall and a list of clan members is written in blood, next to it.
+~
+286 duz 0
+D3
+~
+~
+0 -1 28616
+S
+#28620
+#rManowar's Great Hall#N~
+   You see wide light hall. A Huge golden throne is standing in front 
+of you. There is large emblem of Manowar's dynasty on it. Great 
+Warhammer crossed with Samurai Sword fixed on the wall. Soft bear fur 
+cover marble floor. Two silver armchairs with Rob's and Mitia's 
+dynasty emblems are standing near the throne. Large black compact 
+disc stereo system is standing behaind them. Collection of CD-disks 
+is laying on the carved wooden table near it. Charming sounds of 
+murmuring crystal water in fountain filling the room.
+~
+286 duz 0
+D2
+~
+~
+0 -1 28616
+S
+#28621
+#rThe Deep Equipment Grot#N~
+   This is a deep, weakly lighted grot. Poisonous snakes are crawling 
+among ribcages of old skeletons and deadly spiders are sitting in 
+their webs. Blood covered blades and dusty armors are laying 
+everywhere, some stored in large chests or shelves. Daily, new 
+equipment from killed enemies is thrown in here, sometimes even 
+armored corpses are just left behind, letting them turn into rotten 
+skeletons, holding weapons with their bone hands, until they are 
+taken by someone for further use.
+~
+286 aduz 0
+D3
+~
+~
+0 -1 28629
+S
+#28622
+#rThe Treasure Keep#N~
+   After unlocking, and passing the heavy door of thick metal, you 
+find yourself at the entrance to a long hall. Large treasure chests 
+and enormous heaps of gold are spread all over the floor. Valuable 
+artifacts and expensive jewelry are stored in large, golden shelves. 
+Torches fastened on the wall give you the light you need in the 
+search for your treasure. Square, black and white stone cabinets are 
+build in the wall. Each of it with a different symbol etched into 
+it, marking the owner they belong to.
+~
+286 duz 0
+D1
+~
+~
+0 -1 28629
+S
+#28623
+#rThe Arena of Death#N~
+   A large, round arena is witnessing bloody fights and bestial 
+slaughtering deep beneath the castle. The crowd is shouting and 
+yelling for another massacre. A kick in the head or a gouged out eye 
+make your intensities explode. The taste of blood drives us on. We 
+get what we want and we want to see enemies bleed, cause we like when 
+chests are thorn apart and the way heads come off. Another dagger 
+blade gets blood signed as it ripped the veins of a opponent's neck, 
+and you turn into a raw martian ready to fight and to kill, ready to 
+rape the lands and exterminate whatever stands left.
+~
+286 druz 0
+D3
+~
+gate~
+1 -1 28624
+S
+#28624
+#rThe Torture Chamber#N~
+   Black chains hanging down the walls, rusty cages with captured 
+saints are fastened on the floor above, hanging down, letting its 
+prisoners die and rot in pain. Tortured living beings are screaming 
+and begging for mercy. A vast, open fireplace is building up an 
+enormous heat, making you sweat as you hunger to torture gets stalled 
+with the sight which spreads in front of you. The Skull of Shamhna, 
+placed in the back of the chamber, glows brighter while draining 
+energy from each bloody slaughter, which is proceeded as long as our 
+forces gather prisoners in their journeys of slaughter and 
+devastation.
+~
+286 duz 0
+D1
+~
+gate~
+1 -1 28623
+D3
+~
+bars~
+1 -1 28625
+D4
+~
+~
+0 -1 28608
+D5
+~
+trapdoor~
+1 -1 28626
+S
+#28625
+#rThe Deep Dungeon#N~
+   There is a human slaughterhouse deep beneath the castle. The walls 
+are black, and those who ignore, and those who pretend that it does 
+not exist end up in its hull. Our blood goes to work and we hear the 
+howl of the thralled. This is a grove of bleached bones, where the 
+tortured vomit their limbs, taking all their liberties with parts of 
+human anatomy, and in the hollow of a restless soul, lies no remorse 
+and no disgust. Every kill is clean and pure, every thought is 
+cleansed in growls. This is the grove of tortured forms, where all is 
+dark and deeds are foul. And those who end up here, will stop to 
+exist.
+~
+286 aduz 0
+D1
+~
+bars~
+1 -1 28624
+S
+#28626
+#rThe Abyss of Eternal Fire#N~
+   Deep beneath the castle, you find yourself in the middle of 
+nowhere. Walls do not exist. Just bright, hot flames, shoot out from 
+the darkness, surrounding you, forcing your heart pump faster, as an 
+extreme heat drains your body. Damned souls and skeletons are doing a 
+dance of death, led by horror music, which you can't realize where it 
+comes from, inviting you to join the dance of the undead ritual. The 
+fire becomes your friend, the dead becomes your master. The 
+possession of your mind turns in a transformation with the urge to 
+kill.
+~
+286 duz 0
+D4
+~
+trapdoor~
+1 -1 28624
+S
+#28627
+#rThe Shamhna Meeting Room#N~
+   This is the entrance to a large hall with no windows in the high 
+walls. The light sources are big candle lamps hanging down from the 
+ceiling. The light falls onto a long table, made out of bones, which 
+is the dominant object of this room. Big apolstered chairs with high 
+back supports are placed around it. Each chair has a different 
+skull-like symbol on the top of it, marking the leader the chair 
+belongs to. The black walls are covered with paintings of legendary 
+Shamhna leaders. In the back of the room there are large shelves 
+containing various books, and a large strategy map of the Elite 
+world.
+~
+286 douz 0
+D0
+~
+painting~
+11 -1 28600
+D2
+~
+door~
+1 -1 28611
+S
+#28628
+#rThe Banquet Hall#N~
+   A large hall with a semispheric roof spreads itself in front of 
+you. It's so big that one can imagine a thousand people having a 
+dance in it. The roof and the floor are beautifully painted, and 
+large, jewel oil lamps hang down from above, throwing a bright light 
+in the hall. During the Oidche Shamhna, ghouls arise themselves from 
+the dark plane, and gather in the banquet hall for a ball of death. 
+Walls start closing in around you, like twins of darkness, they shake 
+your collarbone, then snap your ribcage. Broken bodies in a death 
+ball dance hall looking for a partner. Eyeballs pop, accelerated 
+blood beats. Veins are shaking. The Feile na Marbh has begun. It's 
+the night of Shamhna, it's a feast, we'll sing and kill tonight.
+~
+286 duz 0
+D0
+~
+wall~
+31 -1 28607
+D2
+~
+glassdoor door~
+1 -1 28608
+S
+#28629
+#rA Large, Dark Cellar#N~
+   This is the the entrance to the castle's cellar complex, deep 
+beneath it. Extremely weak light is provided in this moistly room, by 
+old torches, not giving you enough of it to see your way through the 
+dusty corridor. Spiderwebs hang forgotten in the corners and bones 
+lay on the floor. Large gates lead to the east and west, into the 
+clans storage chambers. Old wine shelves and barrels are placed all 
+around and cold waterdrops are heared, dripping down from the high 
+ceiling.
+~
+286 aduz 0
+D1
+~
+~
+0 -1 28621
+D3
+~
+~
+0 -1 28622
+D4
+~
+~
+0 -1 28604
+S
+#99999
+$~
+

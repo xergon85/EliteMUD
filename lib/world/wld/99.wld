@@ -1,0 +1,2098 @@
+#9900
+A Scraggly Trail~
+   This trail slopes up and away from the main road to the west. At
+points the trail seems to fade into obscurity against the gray stone
+and near-gray mountain grass prevalent here. The trail leads generally
+eastward and up higher into the rocky ground. There is a sign here,
+seemingly out-of-place in this rough country. 
+~
+99 0 5
+D1
+You can barely make out a faded trail across rocky ground.
+~
+~
+0 0 9901
+D2
+A trail through a dense forest. 
+~
+~
+0 0 6003
+E
+sign~
+	,_____________________________.
+	|                             |
+	|         Gabadiel's          |
+	|          Smithery           |
+	|      -------------->        |
+	|                             |
+	|           --BUAG SIGNS INC. |
+	`-----------------------------'
+		     |  |
+		     |  |
+		     |  |
+		     |  |     
+~
+S
+#9901
+A Scraggly Trail~
+   What could barely be called a trail leads west back down the
+mountainside, and down into a very small valley where a small house
+sits in the middle of a well-groomed yard. The door to the house is 
+open and inviting, welcoming you for a visit. 
+~
+99 0 5
+D3
+A faint trail leads west over a scraggly mountainside.
+~
+~
+0 0 9900
+D5
+Watch your step!  A steep slope lies between you and a lovely small
+valley.
+~
+~
+0 0 9902
+S
+#9902
+A Groomed Path~
+   You are standing in the western end of a very, very small valley,
+just about room enough for the one house standing to your east. You can
+see from here that the door to the cozy cottage is open and inviting,
+but the interior seems very dark. A path bordered by shrubberies leads
+up to the structure, and ends where you are standing; right by the
+easiest path back up into the mountains. 
+~
+99 0 5
+D1
+A somewhat overgrown path leads up to the door of a cottage.
+~
+~
+0 0 9903
+D4
+If you scramble up the path you will be on the trail into the
+mountains.
+~
+~
+0 0 9901
+S
+#9903
+Outside a House~
+   The path you are on leads from the front door of the cottage to your
+east, to the edge of the small valley to the west. The building seems
+quiet... almost too quiet. A small voice in the back of your head, the
+same voice that has saved your life on countless occasions, seems to be
+telling you that something is very, very wrong here. 
+~
+99 0 2
+D1
+It's a normal front door to a house. 
+~
+door front~
+1 -1 9904
+D3
+A path bordered in green shrubs leads to a steep slope.
+~
+~
+0 0 9902
+S
+#9904
+Smithery~
+   Devastation greets your eyes. The forge has been blasted apart,
+along with most of the back door. Hammers, tongs, and anvils lie about 
+in one gigantic mess, and the smith's bed smolders yet. This place has
+been utterly wrecked and blasted apart, by more than one man you 
+would think from all the tracks in the dust... 
+~
+99 8 0
+D0
+What used to be a door leads to what used to be a small garden.
+~
+~
+0 -1 9905
+D1
+Some odd tracks ... three sets ...
+~
+~
+0 0 9906
+D3
+It's a normal front door. 
+~
+door front~
+1 -1 9903
+E
+bed~
+   Ha!  Lucky, you were always lucky!
+
+   Under the pillow is a half-written letter, unaddressed.  The bits of
+text that aren't smudged, burnt, and smeared tell tale of the
+smith/mage Gabadiel's masterwork: a sword of unequaled power, and two 
+swords that came before, discarded as 'Not quite what I was 
+working towards'.
+
+   Looking around, you notice a distinct lack of any swords.  You think
+you may have a motive now...
+~
+E
+tracks dust~
+   Three sets of prints lead out where the back door used to stand.
+~
+S
+#9905
+A Small Garden~
+   This garden was probably once kept orderly and weedless.
+Unfortunately, it seems someone has been careless with a fireball.
+There's nothing here now but blast-marks and ashes, and the remains of
+a trail leading to the east edge of this tiny valley. 
+~
+99 0 2
+D2
+What used to be a door leads to a small house
+~
+~
+0 0 9904
+S
+#9906
+Mountain Ridge~
+   You are standing on a ridge in the mountains, just east of a very
+small valley. You spot a tiny cottage sitting in the center of the
+valley, and the ridge continues south. Looking at the sheer drops to
+the north and west, you consider not taking those directions. 
+~
+99 0 5
+D2
+Some faint tracks in the dirt lead south.
+~
+~
+0 0 9907
+D3
+The sad shell of a smithy lies just west of where you are standing.
+~
+~
+0 0 9904
+E
+tracks track~
+   The tracks lead south.
+~
+S
+#9907
+Mountain Ridge~
+   The mountain range continues north from here, and widens out into a
+small plateau just to your south. Going east and west from here would
+be a bad idea, considering the steepness of the drop. From this height,
+you have a fairly good panoramic view to the south, including what
+appears to be a small mountain village to your south and west, and 
+a tall, ominous peak westwards from here. 
+~
+99 0 5
+D0
+Perhaps it would be better to track the tracks back the way they came!
+~
+~
+0 0 9906
+D2
+Civilization! It's still off in the distance, but you can see a small,
+boring little village from here.
+~
+~
+0 0 9908
+E
+tracks track~
+   They lead south.
+~
+S
+#9908
+Diverging Paths~
+   You are standing on a small plateau in the mountains, just south of
+a ridge that leads northwards through the rocky area. To the east,
+south, and west are gentle slopes leading down into different areas of
+the mountains. A giant, dark peak looks down over you to the west,
+looking quite spooky indeed! 
+~
+99 c 5
+D0
+A difficult path leads north, along a rocky mountain ridge.
+~
+~
+0 0 9907
+D1
+You are right near a small cluster of buildings that may be a town!
+~
+~
+0 0 9941
+D2
+The little path twists down a steep slope, allowing you to see nothing
+of its destination.
+~
+~
+0 0 9909
+D3
+A very rocky trail up yet another mountain.
+~
+~
+0 0 9959
+E
+tracks track~
+   The three sets of tracks split up here, one west, one 
+east, one south.
+~
+S
+#9909
+A Steep Slope~
+   This slopes leads down and to the west from here. Up above, you see
+a plateau at the southern end of a long mountain ridge. Surprisingly,
+there seems to be signs of traffic in this area, leading into the large
+depression here. The going looks somewhat dangerous, and you decide to
+exercise a little caution. 
+~
+99 0 4
+D0
+A gentle slope lies north of you. 
+~
+~
+0 0 9908
+D3
+In the near distance there is a large depression, with some tracks in
+the dust.
+~
+~
+0 0 9910
+D4
+A gentle slope leads up to an intersection of sorts.
+~
+~
+0 0 9908
+E
+signs tracks~
+   A few boot prints lead way in the dust here.  There's definitely
+traffic here, but this area is not what you would call well-traveled.
+~
+S
+#9910
+Small Plateau~
+   You are standing upon another mini-plateau, bordered by a sheer wall
+of rock to the north. You can climb up the slope to the east, or
+continue along the flat area to the west. Another slope leads downwards
+to the south, looking unsafe but climbable. 
+~
+99 0 4
+D1
+The dusty rocks might help you climb up this gentle slope.
+~
+~
+0 0 9909
+D2
+Loose rock and shale head down a steep slope, making it a dangerous
+climb.
+~
+~
+0 0 9914
+D3
+The ground flattens out for a bit, amazingly.
+~
+~
+0 0 9911
+S
+#9911
+Small Plateau~
+   This plateau ends here, with a steep drop-off to the south, and a
+solid wall of rock to the north. Eastwards the plateau continues, and
+you think you can climb up the steep rocky slope just west of here. You
+are afforded a good view of the lower regions of this depression, and
+you think you spot what might be a cave south and down from here... 
+~
+99 0 4
+D1
+You can walk easily eastwards, along a flat stretch of plateau.
+~
+~
+0 0 9910
+D3
+The land takes another turn ... up this time.  The ground is hard and
+rocky.
+~
+~
+0 0 9912
+S
+#9912
+Rocky Slope~
+   This slope is fairly treacherous, but looks to be somewhat safer to
+the north. East the slope leads down to a small plateau that also looks
+considerably safer than your other choices. The shale under your feet
+slips badly, and you are almost thrown off balance; this is no place to
+be without mountaineering equipment. 
+~
+99 0 5
+D0
+~
+~
+0 0 9913
+D1
+~
+~
+0 0 9911
+S
+#9913
+Overlook~
+   You are standing on a point outcropping with a beautiful view of the
+mountains to the north. Far below, you see what appears to be a
+foot-path climb up to the central mountain, a peak that looks dark and
+disturbing. You get very bad vibes from that mountain for some reason,
+and it doesn't seem like a very good idea to try to find a way to get
+there. The only safe way to leave this overlook is to the south. 
+~
+99 0 4
+D2
+~
+~
+0 0 9912
+S
+#9914
+Rocky Slope~
+   You slip and slide your way across the steep ground, trying
+desperately to keep your balance. You can climb up to a small plateau
+to the north from here, or carefully head down to the floor of the
+depression to the west. You're not sure which is safer... 
+~
+99 0 5
+D0
+~
+~
+0 0 9910
+D3
+~
+~
+0 0 9915
+S
+#9915
+Depression Floor~
+   A small path leads south here, away from the rocky slope leading up
+to the east. A small spring burbles here, evidently the cause of much
+of the traffic.  Looking up, you see sheer rock walls surrounding much
+of the depression, making an effective fortress of this place. 
+~
+99 0 4
+D1
+~
+~
+0 0 9914
+D2
+~
+~
+0 0 9916
+S
+#9916
+Depression Floor~
+   The small path you are standing on leads north, and east into what
+appears to be a large cave hollowed out of the mountainside. The whole
+place seems quiet, too quiet in fact. Your little adventurer's
+intuition is busily warning you of traps. 
+~
+99 0 4
+D0
+~
+~
+0 0 9915
+D1
+A dark cave leads eastwards, full of mystery.
+~
+~
+0 0 9917
+S
+#9917
+Cave Entrance~
+   A cave leads into the heart of the mountainside, well-lit by sconces
+upon the walls. A large rock sits by the side here, near a small
+firepit.  Debris litters the area; rabbit bones, half of a broken
+whetstone, and random litter.  The ground is devoid of grass, and well
+trodden by many pairs of boots.  Strange that someone should live so
+deep in the mountains... 
+~
+99 4 0
+D1
+~
+~
+0 0 9918
+D3
+~
+~
+0 0 9916
+S
+#9918
+Cave Passageway~
+   You are near the entrance of the cave. The outside light streams in
+from the west, accompanied by a slight breeze, making the flames in the
+sconces flutter a bit and throw strange shadows upon the walls. This
+passageway heads north and south from here, each way seeming dark and
+stuffy compared to outdoors.  From the tracks in the floor, you guess
+that the north is the more used. 
+~
+99 8 0
+D0
+~
+~
+0 0 9919
+D2
+~
+~
+0 0 9931
+D3
+~
+~
+0 0 9917
+S
+#9919
+Cave Passageway~
+   The passage turns here, one end leading south, towards the cave's
+entrance, and east -- that much deeper into the mountain. The light
+sconces keep the area bright enough to see, but not nearly bright
+enough for you to be quite comfortable in this strange place. From 
+far off you hear the echoes of what sound to be voices. 
+~
+99 8 0
+D1
+~
+~
+0 0 9920
+D2
+~
+~
+0 0 9918
+S
+#9920
+Cave Passageway~
+   This twisty passage leads east and west from here. Eastwards you
+hear the unmistakable sounds of low voices. The echoes seem to be 
+playing funny effects on you, however, and you are not sure from 
+how far off these voices might be coming. 
+~
+99 8 0
+D1
+~
+~
+0 0 9921
+D3
+~
+~
+0 0 9919
+S
+#9921
+Cave Passageway~
+   The passage you are standing in turns west and south from here. One
+of the sconces here is out, making this area extremely dark and hard to
+see in.  You do see lights from the south, however, seemingly brighter
+than the sconces you've seen along the walls so far. 
+~
+99 8 0
+D2
+~
+~
+0 0 9922
+D3
+~
+~
+0 0 9920
+S
+#9922
+Cave Passageway~
+   This is a T-intersection in the cave passageway, the north leading
+back towards the cave's entrance (you think!), the west leading towards
+a well-lighted area. Eastwards the passageway continues uninvitingly
+into the shadowy recesses of the mountain. The echoes of voices are
+confusing you a bit, and you are not sure whether you should try to
+remain quiet or not. 
+~
+99 8 0
+D0
+~
+~
+0 0 9921
+D1
+~
+~
+0 0 9924
+D3
+~
+~
+0 0 9923
+S
+#9923
+Cave~
+   Many sconces line the walls here, casting light on some weapon racks
+and chests of armor. Everything is neat, orderly, and actually
+well-dusted.  Someone cares for these items... frequently it seems. 
+~
+99 8 0
+D1
+~
+~
+0 0 9922
+S
+#9924
+Cave Passageway~
+   The passageway you are in leads south and west from here. Many large
+stones and rocks are on the floor of the cave, making walking difficult
+in the dim light from the sconces on the walls. You hear the continued
+echo of voices, seemingly fainter now. Must be the strange acoustics of
+this place... 
+~
+99 8 0
+D2
+~
+~
+0 0 9925
+D3
+~
+~
+0 0 9922
+S
+#9925
+Cave Passageway~
+   The cave twists around like a coiled snake, leading east and north
+from here. You begin to wonder if your orientations are still correct.
+That worries you for some reason. 
+~
+99 8 0
+D0
+~
+~
+0 0 9924
+D1
+~
+~
+0 0 9926
+S
+#9926
+Cave Passageway~
+   You can head north and west through the cave passageways here, both
+ways dimly lit by the ever-present sconces on the walls. The echoes you
+heard earlier seem to be getting louder, and seem to be coming from the
+northern passage. You feel a bit chilled from the cooled cave air and
+shiver a bit in the faint whisper of a breeze. This place is a little
+too eerie and dark to be comfortable in. 
+~
+99 8 0
+D0
+~
+~
+0 0 9927
+D3
+~
+~
+0 0 9925
+S
+#9927
+Cave Passageway~
+   The echoes are growing louder, and seem to be coming from the
+northern end of this corridor. Southwards you see the tunnel continue
+right before yet another bend in the passageway. You spot a small piece
+of red cloth torn against a sharp rock jutting out from the passage's
+side. It looks like silk, very nice in fact. 
+~
+99 8 0
+D0
+~
+~
+0 0 9928
+D2
+~
+~
+0 0 9926
+S
+#9928
+Cave Passageway~
+   The main passageway leads south from here, and a smaller cave tunnel
+leads away to the west. Two large boulders sit against the wall, wiped
+clean of dirt and grime. A paper food wrapper has been trodden under
+several pairs of feet here; at best guess, you'd say this would
+probably be a guard post. 
+~
+99 8 0
+D2
+~
+~
+0 0 9927
+D3
+~
+~
+0 0 9929
+S
+#9929
+End of the Passageway~
+   The cave passageway ends abruptly here to the north in a large
+wooden door set into the stone walls. The craftsmanship is superb! 
+You can also head back to the main passage to the west, where there 
+seems to be more light than here. An echo from down the passage makes 
+you wonder for a moment if you're being followed, but you see nothing 
+there... 
+~
+99 8 0
+D0
+It's a sturdy wooden door. 
+~
+door wooden~
+1 -1 9930
+D1
+~
+~
+0 0 9928
+S
+#9930
+Cavern~
+   This natural cavern has been turned into a combination
+office/storeroom. A small brook rushes through the south wall, and
+flows back into the west wall through a tiny hole. Boxes and crates are
+stacked against the walls, and a beat up oaken desk stands near the
+door stacked with papers written upon by an unsteady hand. Some large
+lanterns keep the place very well lighted. 
+~
+99 8 0
+D2
+It's a sturdy wooden door. 
+~
+door wooden~
+1 -1 9929
+S
+#9931
+Cave Passageway~
+   You are standing south of the main entrance to this cave. The
+passage you are in continues south, very badly lit along its length by
+the sconces lining the walls every fifteen feet or so. From somewhere
+deep in the recesses of the cave, you hear a faint, rhythmic thumping
+sound distorted by the passage's strange acoustics. 
+~
+99 8 0
+D0
+~
+~
+0 0 9918
+D2
+~
+~
+0 0 9932
+S
+#9932
+Cave Passageway~
+   You are standing at the southern bend of this passage, able to head
+east and north from here. The rock around you echoes the sound of
+far-off pounding to you, making the place seem somehow alive, with a
+heartbeat. This place is fairly eerie, now that you come to think of
+it. 
+~
+99 8 0
+D0
+~
+~
+0 0 9931
+D1
+~
+~
+0 0 9933
+S
+#9933
+Cave Passageway~
+   The passageway makes a U-turn here, heading north and westwards to
+the other side of the 'U'. The air seems humid and hard to breathe.
+Some algae grows near the floor in the slick spots, giving a definite
+subtle smell of rot to the air.
+~
+99 8 0
+D0
+~
+~
+0 0 9934
+D3
+~
+~
+0 0 9932
+S
+#9934
+Cave Passageway~
+   The tunnel twists to the south and east from here, its dark length
+seemingly dismal and lifeless. A faint thumping sound reverberates from
+the walls, making you perk your ears for the direction of the noise. 
+~
+99 8 0
+D1
+~
+~
+0 0 9935
+D2
+~
+~
+0 0 9933
+S
+#9935
+Cave Passageway~
+   This area darker than the rest of the passageway, due to the fact
+that the sconces along the walls stop abruptly here. The way to the
+south is completely dark, in direct contrast to the tunnels to the
+west.  You peer hard to the south, but can make out nothing in the
+impenetrable darkness. And still that distant thumping impinges on your
+consciousness... 
+~
+99 8 0
+D2
+~
+~
+0 0 9936
+D3
+~
+~
+0 0 9934
+S
+#9936
+Cave Passageway~
+   You are standing in a north-south tunnel carved naturally through
+the stone of the mountain. To the north the tunnel is lighted by
+sconces along the wall, banishing the deep, deep darkness you now stand
+in. To the south you can see nothing. A deep thumping noise seems to be
+getting louder and louder as you stand here, coming from somewhere deep
+inside. 
+~
+99 9 0
+D0
+~
+~
+0 0 9935
+D2
+~
+~
+0 0 9937
+S
+#9937
+Cave Passageway~
+   The passageway switches directions again in the dark gloom of the
+mountain, heading to the north and east from here. As you round the
+corner, a trick of the acoustics make the deep thrumming and pounding
+you've been hearing sound as if its coming from two feet away! Very
+unsettling. 
+~
+99 9 0
+D0
+~
+~
+0 0 9936
+D1
+~
+~
+0 0 9938
+S
+#9938
+Cave Passageway~
+   The tunnel weaves around, twisting to the north and west here. The
+darkness around you is near total. Ahead, you hear the sounds of
+something metal banging against stone. Could someone be mining out the
+tunnel, perhaps? 
+~
+99 9 0
+D0
+~
+~
+0 0 9939
+D3
+~
+~
+0 0 9937
+S
+#9939
+Cave Passageway~
+   A glimmer of light to the east alerts you to the fact that something
+is going on in the tunnel nearby. The south exit of the tunnel leads
+off into complete darkness. All around on the ground are piles of earth
+and stone, making you have to wend through the tunnel carefully. Hmm. 
+~
+99 9 0
+D1
+~
+~
+0 0 9940
+D2
+~
+~
+0 0 9938
+S
+#9940
+End of Passage~
+   The tunnel stops abruptly here at a fissure in the stone. All around
+on the ground are rocks and gravel, mined from the fissure in an
+attempt to widen it enough for passage. A few pieces of paper litter
+and wrappers tells you that the work here is relatively recent. 
+~
+99 8 0
+D3
+~
+~
+0 0 9939
+S
+#9941
+A Rocky Slope~
+   This treacherous slope leads ever-downward quite a ways, down to a
+valley where there seems to be a small village! What a village is doing
+this far from civilization, and how they survive you've no idea. From
+the smoke wafting from some of the chimneys, it looks like this place
+is still inhabited as well. Now if you can only get down this slope
+without breaking an ankle... 
+~
+99 0 5
+D1
+~
+~
+0 0 9942
+D3
+~
+~
+0 0 9908
+S
+#9942
+A Rocky Slope~
+   You're slipping and sliding across this slope, trying to get to your
+destination without breaking your leg or falling and shattering your
+head.  Below, you spot some movement in the village, giving proof the
+place is not a ghost-town. The main road of the village starts at the
+bottom of the slope just to the east, and the slope continues west and
+up far, far up the mountain. 
+~
+99 4 5
+D1
+~
+~
+0 0 9943
+D3
+~
+~
+0 0 9941
+S
+#9943
+Main Road~
+   This place leaves you very unimpressed. And bored. You are
+definitely bored by this place. The people are listless, going about
+their daily chores with a slowness that pains your eyes. A slope to the
+west climbs up the mountainside, and two open shops made of wood and
+stone are to your north and south.  East-wards this road continues.
+#GThere is a small sign here. #N
+~
+99 0 1
+D0
+The faint stench of sour ale leads you to believe this might be a
+tavern.
+~
+~
+0 0 9944
+D1
+The dusty little road continues into a dusty little town.
+~
+~
+0 0 9946
+D2
+The interior of the squat wooden building is so dim you can't make
+anything out.
+~
+~
+0 0 9945
+D3
+The Stanneg mountains tower over you in the distance.
+~
+~
+0 0 9942
+E
+sign~
+
+        ,_____________________________.
+        |                             |
+        |   Stanneg by the Mountains  |
+        |                             |
+        |       Population: 27        |
+        |                             |
+        |           --BUAG SIGNS INC. |
+        `-----------------------------'
+                     |  |
+                     |  |
+                     |  |
+                     |  |   
+
+~
+S
+#9944
+The Mountain Tavern~
+   Hmm. Looks like there's no one here, not even an bartender.
+Evidently you've come during off hours, since no bar could be THIS
+dull. The walls are decorated with mounted animal heads and arrows and
+longbows and other hunting equipment/trophies. All of it looks rather
+plain. 
+
+#GA sign hangs in a prominent position over the bar.#N
+~
+99 8 0
+D2
+A dusty little street is right out the door
+~
+~
+0 -1 9943
+E
+sign~
+  
+        ,_____________________________.
+	|                             |
+	|    #w  No Miners Allowed#N      |
+	|                             |
+	|                             |
+	|           --BUAG SIGNS INC. |
+	`-----------------------------'
+~
+S
+#9945
+General Store~
+   A bored shopkeeper waves an idle hand towards his stock of stuff.
+Browse, type list, buy, sell, whatever... 
+~
+99 8 0
+D0
+A dusty little street is bound to take you someplace more exciting.
+~
+~
+0 0 9943
+S
+#9946
+Main Road~
+   Nothing is going on in this section of village either. To the east
+is an actual road intersection, and to the west you see one of the ends
+of this road.  A large grassy area to the south is fenced off for a
+horse corral.
+~
+99 0 1
+D1
+A few ramshackle buildings make up the little town of Stanneg.
+~
+~
+0 0 9948
+D2
+The scent of horses and hay drifts towards you.
+~
+gate
+~
+0 0 9947
+D3
+The great Stanneg mountains loom to the west.
+~
+~
+0 0 9943
+S
+#9947
+Corral~
+   Many horses look up at you when you enter this corral. The horses
+are kept in by a big wooden fence, which they seem quite happy to be
+kept in by. There's usually a cowgirl around here somewhere, looking
+after the horses.
+~
+99 8 0
+D0
+A dusty road passes the farm.
+~
+gate
+~
+0 0 9946
+S
+#9948
+Intersection~
+   You are standing in an intersection deep in the heart of Stanneg by
+the Mountains. In fact, this is the ONLY intersection anywhere in
+Stanneg by the Mountain it appears. There are some buildings to the
+north, and south, and east, and west. None particularly stand out from
+the others. 
+~
+99 0 1
+D0
+A dusty little street leads up to a house.
+~
+~
+0 0 9949
+D1
+A small gathering of buildings makes up a boring little town.
+~
+~
+0 0 9955
+D2
+The start of a long trail downhill through rocky farms.
+~
+~
+0 0 9953
+D3
+The Stanneg mountains loom in the distance.
+~
+~
+0 0 9946
+S
+#9949
+Small Road~
+   This road runs north through Stanneg by the Mountains, if through
+would be the operative word for such a motley collection of buildings.
+Westwards is a small, open-roofed building that appears to be a
+farmer's market. The road you are on continues north, and comes to an
+intersection just south of here. 
+~
+99 0 1
+D0
+The road seems to come to an end just north of here.
+~
+~
+0 0 9951
+D2
+A small cluster of buildings is all that remains of Stanneg.
+~
+~
+0 0 9948
+D3
+A small farmer's market appears to be in business.
+~
+~
+0 0 9950
+S
+#9950
+Farmer's Market~
+   One farmer's wife stands here, waiting for someone to buy the food
+her family has grown. She looks bored, but not unhappy... no
+competition! 
+~
+99 0 0
+D1
+A small dusty street through town 
+~
+~
+0 0 9949
+S
+#9951
+Small Road~
+   The small, north-south road running through Stanneg by the Mountains
+ends here, curving to become the front walk of a private home to the
+east. The road runs south from this house, towards the center of the
+village. 
+~
+99 0 1
+D1
+A normal, wooden front door to a normal looking home. It's nothing to
+write home about. 
+~
+door front~
+1 -1 9952
+D2
+~
+~
+0 0 9949
+S
+#9952
+Private Home~
+   The interior of this home is simple and rustic. A ladder leads up to
+the loft, where the sleeping pallets are tucked away. A wood-burning
+stove keeps the place well heated and cozy. A homemade rocking chair
+stands crooked in the corner, draped with a old looking afghan. This
+home is a nice place, very comfortable. 
+~
+99 8 0
+D3
+Its a normal appearing door set in the western wall. 
+~
+door front~
+1 -1 9951
+S
+#9953
+Small Road~
+   The road passes by to a stone house to the east. Smoke
+rises from the chimney in a dark stream, and the windows are frosted
+over with humidity. North, you see the main intersection of Stanneg. 
+The road continues south.
+~
+99 0 1
+D0
+~
+~
+0 0 9948
+D1
+A normal looking front door made of wood. 
+~
+door front~
+1 -1 9954
+D2
+The road continues through pastures and meadows.
+~
+~
+0 0 9999
+S
+#9954
+Private Home~
+   This home strikes you as unbearably warm and uncomfortable. The
+fireplace is going at a full-bonfire, a mammoth stack of firewood
+beside it against the wall. The decorations seem somewhat spartan and
+plain; a landscape, an old hunting bow... nothing much of interest. 
+~
+99 8 0
+D3
+A normal looking wooden door. 
+~
+door front~
+1 -1 9953
+S
+#9955
+Main Road~
+   The main road through Stanneg ends here at a large well that leads
+deep, deep into the earth. To the north of the well is a large
+building, with a large WELCOME mat outside its front door. Westwards
+you see the a road intersection in the center of the tiny village.
+South stands an unpretentious building with a long line of people 
+apparently waiting to get into it. Around you is a rocky terrain 
+in the middle of this mountain range...  not very many places else 
+to go. 
+~
+99 0 1
+D0
+A large set of double doors, made of wood. 
+~
+door doors double~
+1 -1 9956
+D2
+A line of people stand waiting to enter a small building.
+~
+~
+0 -1 14710
+D3
+The little road continues west to an intersection and beyond.
+~
+~
+0 0 9948
+S
+#9956
+Stanneg Inn~
+   This is a plainly decorated room, the main room of the Stanneg Inn.
+A large arch to the west leads to a common room where food and drink
+can be ordered, and a set of rickety wooden stairs lead up to the rooms
+are.  A thread-bare rug lies in the middle of the floor, evidently
+well-loved by a cat or two from the quantity of hair on it. 
+~
+99 8 0
+D2
+A large set of double doors, made of wood. 
+~
+door doors double~
+1 -1 9955
+D3
+~
+~
+0 0 9957
+D4
+~
+~
+0 0 9958
+S
+#9957
+Common Room~
+   A large fireplace warms this room in great waves of heat, combating
+the chilling drafts emanating from the windows on the west and north
+sides of this room. A few benches and tables are clustered in the
+center of the room, for the use of the locals. Fairly plain, for a
+frequented gathering place. 
+#GA sign hangs prominently near the bartender's table.#N 
+~
+99 8 0
+D1
+The entranceway is just east of this room, an extension of the
+room, really.  Quite plain.
+~
+~
+0 0 9956
+E
+sign~
+  
+        ,_____________________________.
+        |                             |
+        |      #wNo Miners Allowed#N      |
+        |                             |
+        |                             |
+        |           --BUAG SIGNS INC. |
+        `-----------------------------'
+~
+S
+#9958
+Reception~
+   Short hallways lead east and west from the reception area, lined
+with plain brown doors. A small table has a ledger on it, seemingly
+almost unused. This area is plain and without any decoration, except
+for a nice painting of (what else) a mountain hanging above the stairs
+that lead back down to the inn proper. 
+~
+99 8 0
+D1
+A Short Hallway leads to some rooms in the inn.
+~
+~
+0 -1 9976
+D3
+A Short hallway leads to some rooms in the Inn.
+~
+~
+0 -1 9980 
+D5
+~
+~
+0 0 9956
+S
+#9959
+A Rocky Slope~
+   This slope is fairly shallow and easy to walk on, despite the loose
+shale and gravel. To the east is a high ridge you could stand on, and
+to the west is a flat area near two trails leading up and down into the
+mountains. High above you, to your west, is that ominous, dark peak,
+which seems to radiating a sense of hopelessness... 
+~
+99 0 5
+D1
+~
+~
+0 0 9908
+D3
+~
+~
+0 0 9960
+S
+#9960
+Ledge~
+   This ledge overlooks a small path that leads up and down from here.
+Below, you see the path head down to a large flat area where a small
+cottage lies nestled in the mountains, smoke rising from it in a
+curling line. Above, the path seems to head towards that dark peak
+piercing the sky. You notice a few boot-tracks in the earth, seemingly
+to lead down towards the cottage. 
+~
+99 0 4
+D1
+~
+~
+0 0 9959
+D4
+~
+~
+0 0 9963
+D5
+~
+~
+0 0 9961
+S
+#9961
+Outside of a Cottage~
+   Now that you approach closer to the cottage, you notice that the
+smoke is not coming from the chimney, but rather the gutted ruins of
+the building.  Something torched this place, badly. You see no signs of
+life among the wreckage. You can enter one of the particularly large
+holes in the wall to the west, with caution. 
+~
+99 0 4
+D3
+
+~
+~
+0 0 9962
+D4
+~
+~
+0 0 9960
+S
+#9962
+Torched Cottage~
+   This whole place is smoldering still from whatever decided to try to
+burn it to the ground. On the floor near the center of the ruined
+structure is the burnt and desiccated corpse of a man, outstretched and
+blackened. There's not much to see here; whatever decided to destroy
+this place did it very well. 
+~
+99 0 0
+D1
+~
+~
+0 0 9961
+S
+#9963
+Mountain Trail~
+   This mountain trail leads straight up into the evil looking
+mountains. High above you, one mountain peak seems to radiate danger
+and fear, and the trail seems to be leading straight up to it. You
+wonder if it is wise to continue this way... The trail goes even higher
+up to the west, and back down to the west. 
+~
+99 0 5
+D3
+~
+~
+0 0 9964
+D5
+~
+~
+0 0 9960
+S
+#9964
+Mountain Trail~
+   The trail leads up even higher into the mountains to the west here.
+You shiver as the cold mountain air washes over you, and your back
+prickles as you wonder if anything lives up here, or anything
+_dangerous_ for that matter.  Maybe heading back down to the east would
+be a good idea... 
+~
+99 0 5
+D1
+~
+~
+0 0 9963
+D3
+~
+~
+0 0 9965
+S
+#9965
+Mountain Trail~
+   The trail leads up the side of the tallest mountain in the
+range--the one that sticks up into the dark sky like a monument to
+death and futility. The trail leads back to safety to the east, and
+goes even higher to the west. 
+~
+99 0 5
+D1
+~
+~
+0 0 9964
+D3
+~
+~
+0 0 9966
+S
+#9966
+Near the Peak~
+   This is as close to the peak as you're going to get, unless you use
+that tiny, tiny path leading up to your north. Up the side of the
+mountain you see a great cave hollowed out, the inside pitch black. The
+path leads down the mountains to your east, which seems to be the best
+place to go. 
+~
+99 0 5
+D0
+~
+~
+0 0 9967
+D1
+~
+~
+0 0 9965
+S
+#9967
+Small, Dangerous Path~
+   This path leads up, up, up the side of the mountain, to the
+evil-seeming cave. It also heads down to the south--a lot safer place
+to be. In fact, you hear footsteps above your head... 
+~
+99 0 5
+D2
+~
+~
+0 0 9966
+D4
+~
+~
+0 0 9968
+S
+#9968
+Small, Dangerous Path~
+   Unfortunately, you realize too late that this bigger ledge that
+leads north to the darkened cave is an ideal spot for an ambush. This 
+ledge gives you a beautiful panoramic view of the entire mountain 
+range, however. Breathtaking! 
+~
+99 0 5
+D0
+~
+~
+0 0 9969
+D5
+~
+~
+0 0 9967
+S
+#9969
+Cave Entrance~
+   You are standing in the entrance of a simply huge cave! The size is
+stunning! All around the entrance are burnt bones and various types of
+wooden and metal debris. Giant claw marks are all along the ground,
+leading back deeper into the cave. Two tunnels lead off from here, one
+up, one down. There are claw marks leading in either direction. 
+~
+99 9 4
+D2
+~
+~
+0 0 9968
+D4
+~
+~
+0 0 9970
+D5
+~
+~
+0 0 9973
+S
+#9970
+Sloping Tunnel~
+   The tunnels slopes up to the north deeper into the mountain. A
+rather gusty breeze riffles your clothing from ahead somewhere. The
+claw marks in the stone floor continue up the passage, through the
+darkness. 
+~
+99 9 0
+D0
+Following the claw marks take you further into the dark.
+~
+~
+0 0 9971
+D5
+The entrance to the cave is so bright you can't see much except that
+it IS the entrance.
+~
+~
+0 0 9969
+S
+#9971
+Sloping Tunnel~
+   The tunnel continues its slope upwards, and the wind blows at you
+even stronger yet. The claw tracks in the stone stop abruptly here,
+where there seems to be a lot of unearthed dirt and stone around,
+heaped upon the floor. You feel uneasy about this place. 
+~
+99 9 4
+D0
+Looks like a dragon trick up ahead ...
+~
+~
+0 0 9972
+D2
+The tunnel slopes along, downhill
+~
+~
+0 0 9970
+D5
+A stone slab covers the way down.
+~
+trapdoor stone slab~
+1 -1 12270
+E
+dirt stone~
+  The dirt and stone are piled up around a large iron ring in the
+floor. You can see the outline of a trapdoor!
+~
+E
+claw claws track tracks mark marks~
+   They stop very abruptly here, right where the piles of
+earth begin, it seems.
+~
+E
+floor~
+   The floor up ahead looks...strange.  You don't think going ahead
+would be a good idea.
+~
+S
+#9972
+Pit~
+   You fall through the illusionary floor. You hit the poisoned spikes
+below. You die very slowly of blood loss, your head impaled at an
+awkward angle. 
+~
+99 10 0
+D2
+Ha!
+~
+~
+0 0 9971
+S
+#9973
+Sloping Tunnel~
+   This tunnel slopes deep, down into the mountain's heart. The air
+feels still and uncomfortably warm, despite the closeness of the cave's
+entrance above you. There's a deep, musky odor in the air, and the
+giant claw marks continue downwards. 
+~
+99 9 4
+D4
+~
+~
+0 0 9969
+D5
+~
+~
+0 0 9974
+S
+#9974
+Sloping Tunnel~
+   A bright light greets your eyes from the north, in direct contrast
+to the darkness of the tunnel overhead. You break out in a sweat due to
+the overwhelming warmth of the air. The musky odor has grown quite
+intense, drowning out everything else in the air and making it hard to
+breathe.  Something in your gut begins squirming uncomfortably as you
+wonder what's ahead... 
+~
+99 9 4
+D0
+*Sniff!!*  Hmm .... smells like ... could it be ... ?
+~
+~
+0 0 9975
+D4
+The darkness of a mountain tunnel obscures your vision.
+~
+~
+0 0 9973
+S
+#9975
+Lair~
+   This place is huge!!! It should be considering the dragon's great
+bulk.  However, instead of seeing the customary carnage and mound of
+gold that one is accustomed to seeing in a dragon lair, this one is
+decorated subtly with tapestries and drapes, and other comforts of
+human life. There is even a huge-dragon sized bed--undoubtedly conjured
+to life by its elder dragon owner. 
+~
+99 8 4
+D2
+Head south in a hurry!  Dragons' breath is bad news for a delicate 
+adventurer's body.
+~
+~
+0 0 9974
+S
+#9976
+A Hallway in Stanneg Inn~
+   The fading wallpaper was once a bright blue striped with gold, but
+now both colors have faded to duller hues.  There are pictures of some
+of the original settlers of Stanneg-in-the-Mountains, and a bedraggled
+ivy sits on a small cherrywood plantstand.  Three rooms lead off this
+end of the hallway, and the receptionist is just west of here.
+~
+99 8 0
+D0
+A plain brown door leads to one of the inn's bedchambers.
+~
+door
+~
+1 -1 9977
+D1
+A plain brown door leads to one of the inn's larger chambers.
+~
+door
+~
+1 -1 9978
+D2
+A plain brown door leads to one of the inn's (usually empty) chambers.
+~
+door
+~
+1 -1 9979
+D3
+A short hallway leads back to the reception area.
+~
+~
+0 -1 9958
+S
+#9977
+A Room at the Inn~
+   A small, plain room is dominated by the large four poster bed with
+its thick mattress and heavy down comforter.  There is a slightly musty
+smell about the room, as if it is most often left unoccupied.  The
+fireplace has not been lit for many weeks.  The windows and floor are
+quite clean, however, as is the chamberpot which peeks slightly out
+from under the bed.
+~
+99 8 0
+D2
+A plain brown door leads back to the hall.
+~
+door
+~
+1 -1 9976
+S
+#9978
+A Large Room at the Inn~
+   A colorful hand-braided rag rug adds a touch of life to this
+otherwise rather dismal room.  Large, clean windows look out on the
+ever present mountains.  Stanneg is a tiny isolated community, so these
+rooms over the tavern are rarely occupied except by the lost and the
+occasional itinerant priest or tinker.  The only exit is west to the
+hallway.
+~
+99 8 0
+D3
+A plain brown door leads back to the hall.
+~
+door
+~
+1 -1 9976
+S
+#9979
+A Room with a View~
+   Still more mountains stare in at you from a small, curtainless
+window in this very bare room.  A very utilitarian wooden table holds a
+large bowl and a pitcher full of water for a quick cleanup.  The
+striped wallpaper from the hallway has been replaced here by some plain
+gray paint.  The exit back to the hallway lies north through a plain
+brown door.
+~
+99 8 0
+D0
+A plain brown door leads back to the hall.
+~
+door
+~
+1 -1 9976
+S
+#9980
+A Short Hallway Leading West~
+   Faded blue and gold wallpaper is beginning to peel away from the
+walls in patches here, revealing the faded red wallpaper of ages past.
+In its heyday, when the mithril miners were thick in the hills the
+Stanneg Inn saw a lot of customers.  The mithril played out.  The local
+master smith burned out.  Monsters moved into some of the old mines,
+bringing their strange one-eyed lackeys with them, and Stanneg by the
+Mountains turned into little better than a ghost town.  Doors lead to
+rooms north, west and south of here.
+~
+99 8 0
+D0
+A small brown door opens into a room.
+~
+door
+~
+1 -1 9981
+D1
+The receptionist is waiting for you to pay.
+~
+door
+~
+1 -1 9958
+D2
+A small brown door opens into a room.
+~
+door
+~
+1 -1 9982
+D3
+A large set of double doors leads west.
+~
+door
+~
+1 -1 9983
+S
+#9981
+A Small Plain Room at the Inn~
+   A very simple room, and a very small one.  There is a bed, a table
+with a pitcher and bowl, a chamberpot tucked neatly under the bed, and
+a small window looking out onto mountains.  The door south leads to the
+hallway.
+~
+99 8 0
+D2
+The hallway is on the other side of the door.
+~
+door
+~
+1 -1 9980
+S
+#9982
+Plain Room~
+   The walls in this room have been whitewashed, and whatever pictures
+once hung have long since been stolen.  An walnut bedstead sits against
+the western wall, across from a small commode containing a ceramic
+pitcher and bowl painted a pale blue.  The uncurtained windows to the
+south offer an unrestricted view of the mountains that surround the
+small town.
+~
+99 8 0
+D0
+The hallway is on the other side of the door.
+~
+door
+~
+1 -1 9980
+S
+#9983
+Faded Elegance~
+   By far the grandest room in the inn as well as the largest, this
+room has windows on three sides.  To the north, south and west you have
+beautiful scenic views of the Stanneg Mountains.  An enormous, canopied
+bed is covered in deep blue velvet.  The bare spots in the plush attest
+to the inn's having fallen on hard times.  The only exit is to the
+east, through double doors.
+~
+99 8 0
+D1
+The hallway is on the other side of the door.
+~
+door
+~
+1 -1 9980
+S
+#9984
+A Grand Road to Rome~
+   Standing just south of the ornate southern gate to rome, the
+magnificence of the ancient city awes the casual visitor and Roman
+citizen alike.  From here, a few steps north will take you to marble
+temples and governmental buildings, magnificent hippodromes with
+their chariot races, and the great gladiatorial contests at the
+Colusseum.  To the south, the Grand Road leads to foreign lands.
+~
+99 0 2
+D0
+The grandeur of Rome
+~
+~
+0 -1 12095 
+D2
+Pleasant fields and well-cultivated vineyards
+~
+~
+0 -1 9985
+S
+#9985
+A Grand Road through Well-Cultivated Farmland~
+   Neatly tended fields boarder this Grand Roman road to both east
+and west.  Wealthy Romans maintain farms and country estates south of
+rome, and the produce adds considerably to their wealth.  Occasionally,
+you will see a procession of soldiers headed off to war, or perhaps a
+triumphal procession heading home.
+~
+99 0 2
+D0
+Approaching Rome
+~
+~
+0 -1 9984
+D2
+Pastoral Countryside
+~
+~
+0 -1 9986
+S
+#9986
+Pastoral Countryside~
+   The road bends here around a vineyard filled with ripe, lucious
+grapes.  Slaves working the fields look up from their work as you pass.
+To the north the grand gates of Rome beckon in the distance.  To the
+west the road continues past green fields and villas.
+~
+99 0 2
+D0
+North towards Rome
+~
+~
+0 -1 9985
+D3
+West towards parts unknown
+~
+~
+0 -1 9987
+S
+#9987
+Rolling hills~
+   A well tended road curves slowly down a westward-descending slope,
+and you can see the tall peaks of the Stanneg Mountains in the distant
+west.  Around you lie the farms of less wealthy Romans.  Beside the
+vineyards lie fields of marrow and other vegetables ripening for the
+roman market.
+~
+99 0 2
+D1
+The road bends
+~
+~
+0 -1 9986
+D3
+Downhill slowly
+~
+~
+0 -1 9988
+S
+#9988
+Downhill Towards a River~
+   The road turns here, conforming its curves to the rapidly increasing
+descent westwards towards a river.  You can already scent the
+unpleasant stench of downriver from a large city.  The farms are small 
+here, the fields not as well tended.  Many are littered with large
+rocks. To the east lies the Road to Rome.  Southwest of here lies the
+river.
+~
+99 0 2
+D1
+The Road to Rome
+~
+~
+0 -1 9987
+D2
+Downhill towards a river
+~
+~
+0 -1 9989
+S
+#9989
+Goat Pasture~
+   The path has become quite steep here, and you must make your way
+with great care.  Goats roam freely here in the mountains.  Some have
+even become a bit wild.  The path rises steeply to the north, descends
+rapidly going south.
+~
+99 0 2
+D0
+The path rises very steeply, curving here and there to avoid
+outcroppings of rock.
+~
+~
+0 -1 9988
+D2
+Far below and to the south you can make out the outlines of a rickety
+old bridge.
+~
+~
+0 -1 9990
+S
+#9990
+East of A Troll Bridge~
+   Leading eastward is a narrow steep path that twists around boulders
+and trees, past scraggly pastures only a mountain goat could love
+towards larger, more civilized places.  To the west, a deep, swift
+moving river is spanned by a narrow, two plank bridge.  
+~
+99 0 2
+D0
+It's quite a climb up the hill.  Only a goat could love it.
+~
+~
+0 -1 9989
+D3
+The sound of deep, rushing water comes to you from the west.
+~
+~
+0 -1 9991
+S
+#9991
+A Troll Bridge~
+   It is rumored some #ytrolls#N have taken up residence beneath this
+bridge.  Others say this is just a plot to get more money to pay for
+Roman extravagances.  Certainly a proper Roman bridge wouldn't
+tolerate #ytrolls#N beneath it.  The bridge is wide and long,
+however, and there really doesn't seem to be any other way across the
+wide river known as the Tiber.  A steep embankment leads down to a
+narrow bank by the river.
+
+#GA sign sits in a prominent position before the bridge.#N
+~
+99 0 2
+D1
+The Road to Rome
+~
+~
+0 -1 9990
+D3
+The Road to Stanneg
+~
+~
+0 -1 9994
+D5
+Under the Bridge
+~
+~
+0 -1 9992
+E
+sign~
+
+
+
+        ,_____________________________.
+	|                             |
+	|       Troll Bridge          |
+	|                             |
+	|      Pay Troll Below        |
+	|                             |
+	|                             |
+	|           --BUAG SIGNS INC. |
+	`-----------------------------'
+		     |  |
+		     |  |
+		     |  |
+		     |  |   
+
+~
+S
+#9992
+Under the Troll Bridge~
+   It is clear that someone very large has been camping here,
+probably for quite some time.  Perhaps some homeless #ytroll#N.  From
+the stories you were told as a child you can remember that they are
+fond of UnderBridges ... and chomping on anybody who dares to cross
+them!  Now might be a good time to turn back!
+~
+99 c 2
+D2
+The dim recesses of the underbridge are faintly lit by a cookfire.
+~
+~
+0 -1 9993
+D4
+A steep embankment leads up to a bridge
+~
+~
+0 -1 9991
+S
+#9993
+The UnderBridge~
+   The smell, for non-trolls anyway, is so strong you flinch.  Here and
+there you see bits of fur, skin and bones, the remains of young, dead,
+not-too-clever billy goats.  A not-very-clean cooking pot rests on a
+tripod over an open fire, illuminating the Trolls' Hideaway.
+~
+99 0 2
+D0
+The river bank with its promise of a sweeter smell beckons you north.
+~
+~
+0 -1 9992
+S
+#9994
+Crossing a Troll Bridge~
+   Your footsteps make a hollow, echoing sound crossing this narrow
+plank bridge.  There are no strong guard rails to protect you, so you
+must be careful on the long walk from one steep pasture to the other.
+East leads to Rome (don't all roads?) and west to the mountain village
+of Stanneg.
+~
+99 0 2
+D1
+The road continues east up a steep mountain slope.
+~
+~
+0 -1 9991
+D3
+The other side of the bridge is simply not close enough!
+~
+~
+0 -1 9995
+S
+#9995
+West of a Troll Bridge~
+   A steep embankment leads down to a muddy river that is spashing over
+sharp rocks.  You might be able to clamber down the embankment, but it
+doesn't look very safe, and there would be no place to stand once you
+got there.  To the east lies a narrow bridge spanning the rapidly
+rushing water.  Hundreds of years of spring floods have slowly gouged
+out this deep trough in the land.  You must either cross the bridge or
+ascend the steep slope to the west.
+#GA sign calls attention to itself at the edge of the bridge.#N
+~
+99 0 2
+D1
+The road crosses an old, shaky bridge mainly used now by goats.
+~
+~
+0 -1 9994
+D3
+An old mining road heads up a steep slope towards a sleepy town.
+~
+~
+0 -1 9996
+E
+sign~
+  
+
+        ,_____________________________.
+	|                             |
+	|         Troll Bridge        |
+	|                             |
+	|       Please Pay Troll      |
+	|                             |
+	|                             |
+	|           --BUAG SIGNS INC. |
+	`-----------------------------'
+		     |  |
+		     |  |
+		     |  |
+		     |  |   
+~
+S
+#9996
+A Forgotten Road to a Forgotten Town~
+   Once this was a broad, well-maintained thoroughfare to a rapidly
+growing town high in the mountains.  There are signs that it was
+built in a rush, and not by the meticulous and well-trained Romans.
+~
+99 0 2
+D0
+The old road winds its way up a steep slope.  Broad pastures of
+sweet grass and flowers border the road on both sides.
+~
+~
+0 -1 9997
+D1
+The road slowly lowers itself onto a troll bridge crossing deep, 
+rushing water.
+~
+~
+0 -1 9995
+S
+#9997
+Signs of Decay~
+   Once the Stanneg mithril ran out this road fell rapidly into
+disuse and decay.  Some of the paving stones were "mined" by farmers
+to make fences and others grabbed by local monsters as ammunition.
+Oooops!  Did I say ... monsters ???
+~
+99 0 2
+D0
+The old mining road climbs wearily up the mountain slope.
+~
+~
+0 -1 9998
+D2
+The high mountain goat pasture rapidly descends to a river.
+~
+~
+0 -1 9996
+S
+#9998
+Green Pastures~
+   As the path climbs high into the Stanneg Mountains, the air becomes
+thinner and the land around you grows rocky.  Here and there you see
+high mountain meadows filled with sweet green grass and, in the spring,
+lovely flowers.  The path rises to the north, descends to the south.
+~
+99 0 2
+D0
+Mountain meadows thin somewhat as you approach a small town.
+~
+~
+0 -1 9999
+D2
+Thick sweet grass covers a steep mountainside.
+~
+~
+0 -1 9997
+S
+#9999
+Near a Small Cottage~
+   On the outskirts of Stanneg lies a small cottage owned by one of the
+original settlers in this area.  Stanneg, known now as a former mining
+town, was once a simple community of people ekeing out their existance
+in a very remote location.  The road to town leads north.  Larger
+cities may be found downhill from here.
+~
+99 c 2
+D0
+A lovely grass covered slope leads downhill.
+~
+~
+0 0 9953
+D2
+A few scattered, dusty buildings form this old town.
+~
+~
+0 -1 9998
+S
+#99999
+$~

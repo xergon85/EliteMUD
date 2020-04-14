@@ -1,0 +1,2017 @@
+#21100
+At the Mouth of the Xynarr River~
+   As the brownish waters of the Xynarr River meet the crystal blue waters
+of the vast ocean, they mix to form a cloudlike haze.  The mighty river
+empties the debris and silt that it has carried from the north into the
+ocean, thankful to be rid of its burden.  The river continues into a large
+forest to the north, and to the south is an enormous ocean.  At the eastern
+edge of the river's mouth is a peacful beach, created from the very debris 
+left by the river.
+~
+211 0 6
+D0
+~
+~
+0 -1 3239
+D1
+~
+~
+0 -1 21101
+D2
+~
+~
+0 -1 21104
+S
+#21101
+At the Edge of the Xynarr River~
+   The mighty Xynarr River flows into the ocean just west of here.  Its
+brownish waters churn as they reluctantly greet the warm blue waters of the
+ocean.  A large forest extends to the north, but the density of the
+underbrush makes it impossible to head in that direction.  A small beach
+extends to the east and south, and the river lies to the west.
+~
+211 0 6
+D1
+~
+~
+0 -1 21102
+D2
+~
+~
+0 -1 21105
+D3
+~
+~
+0 -1 21100
+S
+#21102
+The Edge of the Forest~
+   A large forest of fragrant pine meets the edge of the peaceful beach.
+The tall trees stand majestically, guarding their smaller brothers from the
+onslaught of wind and salt from the ocean.  The dense underbrush that grows
+between them makes it impossible to venture into the forest to the north,
+but the beach continues in every other direction.
+~
+211 0 2
+D1
+~
+~
+0 -1 21103
+D2
+~
+~
+0 -1 21106
+D3
+~
+~
+0 -1 21101
+S
+#21103
+The Edge of the Forest~
+   A large forest of fragrant pine meets the edge of the peaceful beach.
+The tall trees stand majestically, guarding their smaller brothers from the
+onslaught of wind and salt from the ocean.  The dense underbrush that grows
+between them makes it impossible to venture into the forest to the north,
+but the beach continues to the west and south.
+~
+211 0 2
+D2
+~
+~
+0 -1 21107
+D3
+~
+~
+0 -1 21102
+S
+#21104
+The Aquatic Meeting Place~
+   The hazy waters churn as the Xynarr River empties itself into the vast
+ocean.  A small beach lies east of here, covered with debris from both the
+river and ocean.  To the south the ocean extends as far as you can see.
+~
+211 0 2
+D0
+~
+~
+0 -1 21100
+D1
+~
+~
+0 -1 21105
+D2
+~
+~
+0 -1 21110
+S
+#21105
+A Peaceful Beach~
+   The sandy beach is covered with debris left from the last high tide.
+Bits of driftwood and seaweed litter the sand, and create wonderful hiding
+places for the tiny creatures that inhabit the beach.  A vast ocean extends
+to the south for as far as you can see.  The beach continues to the east
+and north, and to the west is a hazy mix of marine and fresh waters where
+the Xynarr River meets the ocean. 
+~
+211 0 2
+D0
+~
+~
+0 -1 21101
+D1
+~
+~
+0 -1 21106
+D2
+~
+~
+0 -1 21111
+D3
+~
+~
+0 -1 21104
+S
+#21106
+A Peaceful Beach~
+   The sandy beach is covered with debris left from the last high tide.    
+Bits of driftwood and seaweed litter the sand, and create wonderful hiding
+places for the tiny creatures that inhabit the beach.  A vast ocean extends
+to the south for as far as you can see.  The beach continues in every other
+direction, and not far to the north is a large forest.
+~
+211 0 2
+D0
+~
+~
+0 -1 21102
+D1
+~
+~
+0 -1 21107
+D2
+~
+~
+0 -1 21112
+D3
+~
+~
+0 -1 21105
+S
+#21107
+A Peaceful Beach~
+   The sandy beach is covered with debris left from the last high tide.
+Bits of driftwood and seaweed litter the sand, and create wonderful hiding
+places for the tiny creatures that inhabit the beach.  A vast ocean extends
+to the south for as far as you can see.  The beach continues in every other
+direction, and not far to the north is a large forest.
+~
+211 0 2
+D0
+~
+~
+0 -1 21103
+D1
+~
+~
+0 -1 21108
+D2
+~
+~
+0 -1 21113
+D3
+~
+~
+0 -1 21106
+S
+#21108
+A Peaceful Beach~
+   The sandy beach is covered with debris left from the last high tide.
+Bits of driftwood and seaweed litter the sand, and create wonderful hiding
+places for the tiny creatures that inhabit the beach.  A vast ocean extends
+to the south for as far as you can see.  The beach continues in every other
+direction, and not far to the north is a large forest.
+~
+211 0 2
+D1
+~
+~
+0 -1 21109
+D2
+~
+~
+0 -1 21114
+D3
+~
+~
+0 -1 21107
+S
+#21109
+A Peaceful Beach~
+   The sandy beach is covered with debris left from the last high tide.
+Bits of driftwood and seaweed litter the sand, and create wonderful hiding
+places for the tiny creatures that inhabit the beach.  A vast ocean extends
+to the south for as far as you can see.  The beach continues to the west,
+and not far to the north is a large forest.
+~
+211 0 2
+D2
+~
+~
+0 -1 21115
+D3
+~
+~
+0 -1 21108
+S
+#21110
+In the Shallows~
+   The crystal blue waters have all but erased every trace of the large
+river that flows into the ocean from the north.  The shallow waters
+continue to the east and west, and the vast ocean continues for as far as
+you can see to the south.
+~
+211 c 6
+D0
+~
+~
+0 -1 21104
+D1
+~
+~
+0 -1 21111
+D2
+~
+~
+0 -1 21120
+D3
+~
+~
+0 -1 21119
+S
+#21111
+In the Shallows~
+   The shallow waters of the vast ocean are only waist deep here.  The 
+gently rolling waves don't seem to be in any great hurry as they move past
+you.  A peaceful beach is just north of here, and the ocean continues in   
+every other direction.
+~
+211 c 6
+D0
+~
+~
+0 -1 21105
+D1
+~
+~
+0 -1 21112
+D2
+~
+~
+0 -1 21121
+D3
+~
+~
+0 -1 21110
+S
+#21112
+In the Shallows~
+   The shallow waters of the vast ocean are only waist deep here.  The 
+gently rolling waves don't seem to be in any great hurry as they move past
+you.  A peaceful beach is just north of here, and the ocean continues in   
+every other direction.
+~
+211 c 6
+D0
+~
+~
+0 -1 21106
+D1
+~
+~
+0 -1 21113
+D2
+~
+~
+0 -1 21122
+D3
+~
+~
+0 -1 21111
+S
+#21113
+In the Shallows~
+   The shallow waters of the vast ocean are only waist deep here.  The 
+gently rolling waves don't seem to be in any great hurry as they move past
+you.  A peaceful beach is just north of here, and the ocean continues in   
+every other direction.
+~
+211 0 6
+D0
+~
+~
+0 -1 21107
+D1
+~
+~
+0 -1 21114
+D2
+~
+~
+0 -1 21123
+D3
+~
+~
+0 -1 21112
+S
+#21114
+In the Shallows~
+   The shallow waters of the vast ocean are only waist deep here.  The 
+gently rolling waves don't seem to be in any great hurry as they move past
+you.  A peaceful beach is just north of here, and the ocean continues in   
+every other direction.
+~
+211 c 6
+D0
+~
+~
+0 -1 21108
+D1
+~
+~
+0 -1 21115
+D2
+~
+~
+0 -1 21124
+D3
+~
+~
+0 -1 21113
+S
+#21115
+In the Shallows~
+   The shallow waters of the vast ocean are only waist deep here.  The 
+gently rolling waves don't seem to be in any great hurry as they move past
+you.  A peaceful beach is just north of here, and the ocean continues in   
+every other direction.
+~
+211 c 6
+D0
+~
+~
+0 -1 21109
+D1
+~
+~
+0 -1 21116
+D2
+~
+~
+0 -1 21125
+D3
+~
+~
+0 -1 21114
+S
+#21116
+In the Shallows~
+   The shallow waters of the vast ocean are only waist deep here.  The 
+gently rolling waves don't seem to be in any great hurry as they move past
+you.  A small beach is just north of here, but the jagged rocks are too
+treacherous to traverse.  The vast ocean continues to the south for as far
+as you can see. 
+~
+211 c 6
+D1
+~
+~
+0 -1 21117
+D2
+~
+~
+0 -1 21126
+D3
+~
+~
+0 -1 21115
+S
+#21117
+In the Shallows~
+   The shallow waters of the vast ocean are only waist deep here.  The
+gently rolling waves don't seem to be in any great hurry as they move past
+you.  A small beach is just north of here, but the jagged rocks are too    
+treacherous to traverse.  The vast ocean continues to the south for as far
+as you can see.
+~
+211 c 6
+D1
+~
+~
+0 -1 21118
+D2
+~
+~
+0 -1 21127
+D3
+~
+~
+0 -1 21116
+S
+#21118
+In the Shallows~
+   The shallow waters of the vast ocean are only waist deep here.  The
+gently rolling waves don't seem to be in any great hurry as they move past
+you.  A small beach is just north of here, but the jagged rocks are too    
+treacherous to traverse.  The vast ocean continues to the south for as far
+as you can see.
+~
+211 c 6
+D1
+~
+~
+0 -1 21119
+D2
+~
+~
+0 -1 21128
+D3
+~
+~
+0 -1 21117
+S
+#21119
+In the Shallows~
+   The shallow waters of the vast ocean are only waist deep here.  The
+gently rolling waves don't seem to be in any great hurry as they move past
+you.  A small beach is just north of here, but the jagged rocks are too    
+treacherous to traverse.  The vast ocean continues to the south for as far
+as you can see.
+~
+211 c 6
+D1
+~
+~
+0 -1 21110
+D2
+~
+~
+0 -1 21129
+D3
+~
+~
+0 -1 21118
+S
+#21120
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears
+to become more shallow to the north.  In the distance you see a peaceful
+beach, and beyond that a large forest.
+~
+211 0 7
+D0
+~
+~
+0 -1 21110
+D1
+~
+~
+0 -1 21121
+D2
+~
+~
+0 -1 21130
+D3
+~
+~
+0 -1 21129
+S
+#21121
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears
+to become more shallow to the north.  In the distance you see a peaceful   
+beach, and beyond that a large forest.
+~
+211 0 7
+D0
+~
+~
+0 -1 21111
+D1
+~
+~
+0 -1 21122
+D2
+~
+~
+0 -1 21131
+D3
+~
+~
+0 -1 21120
+S
+#21122
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears
+to become more shallow to the north.  In the distance you see a peaceful   
+beach, and beyond that a large forest.
+~
+211 0 7
+D0
+~
+~
+0 -1 21112
+D1
+~
+~
+0 -1 21123
+D2
+~
+~
+0 -1 21132
+D3
+~
+~
+0 -1 21121
+S
+#21123
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears
+to become more shallow to the north.  In the distance you see a peaceful   
+beach, and beyond that a large forest.
+~
+211 0 7
+D0
+~
+~
+0 -1 21113
+D1
+~
+~
+0 -1 21124
+D2
+~
+~
+0 -1 21133
+D3
+~
+~
+0 -1 21122
+S
+#21124
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears
+to become more shallow to the north.  In the distance you see a peaceful   
+beach, and beyond that a large forest.
+~
+211 0 7
+D0
+~
+~
+0 -1 21114
+D1
+~
+~
+0 -1 21125
+D2
+~
+~
+0 -1 21134
+D3
+~
+~
+0 -1 21123
+S
+#21125
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears
+to become more shallow to the north.  In the distance you see a peaceful   
+beach, and beyond that a large forest.
+~
+211 0 7
+D0
+~
+~
+0 -1 21115
+D1
+~
+~
+0 -1 21126
+D2
+~
+~
+0 -1 21135
+D3
+~
+~
+0 -1 21124
+S
+#21126
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears
+to become more shallow to the north.  In the distance you see a peaceful   
+beach, and beyond that a large forest.
+~
+211 0 7
+D0
+~
+~
+0 -1 21116
+D1
+~
+~
+0 -1 21127
+D2
+~
+~
+0 -1 21136
+D3
+~
+~
+0 -1 21125
+S
+#21127
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears
+to become more shallow to the north.  In the distance you see a peaceful   
+beach, and beyond that a large forest.
+~
+211 0 7
+D0
+~
+~
+0 -1 21117
+D1
+~
+~
+0 -1 21128
+D2
+~
+~
+0 -1 21137
+D3
+~
+~
+0 -1 21126
+S
+#21128
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears
+to become more shallow to the north.  In the distance you see a peaceful   
+beach, and beyond that a large forest.
+~
+211 0 7
+D0
+~
+~
+0 -1 21118
+D1
+~
+~
+0 -1 21129
+D2
+~
+~
+0 -1 21138
+D3
+~
+~
+0 -1 21127
+S
+#21129
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears
+to become more shallow to the north.  In the distance you see a peaceful   
+beach, and beyond that a large forest.
+~
+211 0 7
+D0
+~
+~
+0 -1 21119
+D1
+~
+~
+0 -1 21120
+D2
+~
+~
+0 -1 21139
+D3
+~
+~
+0 -1 21128
+S
+#21130
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21120
+D1
+~
+~
+0 -1 21131
+D2
+~
+~
+0 -1 21140
+D3
+~
+~
+0 -1 21139
+S
+#21131
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place. 
+~
+211 0 7
+D0
+~
+~
+0 -1 21121
+D1
+~
+~
+0 -1 21132
+D2
+~
+~
+0 -1 21141
+D3
+~
+~
+0 -1 21130
+S
+#21132
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21122
+D1
+~
+~
+0 -1 21133
+D2
+~
+~
+0 -1 21142
+D3
+~
+~
+0 -1 21131
+S
+#21133
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21123
+D1
+~
+~
+0 -1 21134
+D2
+~
+~
+0 -1 21143
+D3
+~
+~
+0 -1 21132
+S
+#21134
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21124
+D1
+~
+~
+0 -1 21135
+D2
+~
+~
+0 -1 21144
+D3
+~
+~
+0 -1 21133
+S
+#21135
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21125
+D1
+~
+~
+0 -1 21136
+D2
+~
+~
+0 -1 21145
+D3
+~
+~
+0 -1 21134
+S
+#21136
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21126
+D1
+~
+~
+0 -1 21137
+D2
+~
+~
+0 -1 21146
+D3
+~
+~
+0 -1 21135
+S
+#21137
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21127
+D1
+~
+~
+0 -1 21138
+D2
+~
+~
+0 -1 21147
+D3
+~
+~
+0 -1 21136
+S
+#21138
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21128
+D1
+~
+~
+0 -1 21139
+D2
+~
+~
+0 -1 21148
+D3
+~
+~
+0 -1 21137
+S
+#21139
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21129
+D1
+~
+~
+0 -1 21130
+D2
+~
+~
+0 -1 21149
+D3
+~
+~
+0 -1 21138
+S
+#21140
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21130
+D1
+~
+~
+0 -1 21141
+D2
+~
+~
+0 -1 21150
+D3
+~
+~
+0 -1 21149
+S
+#21141
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21131
+D1
+~
+~
+0 -1 21142
+D2
+~
+~
+0 -1 21151
+D3
+~
+~
+0 -1 21140
+S
+#21142
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21132
+D1
+~
+~
+0 -1 21143
+D2
+~
+~
+0 -1 21152
+D3
+~
+~
+0 -1 21141
+S
+#21143
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21133
+D1
+~
+~
+0 -1 21144
+D2
+~
+~
+0 -1 21153
+D3
+~
+~
+0 -1 21142
+S
+#21144
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21134
+D1
+~
+~
+0 -1 21145
+D2
+~
+~
+0 -1 21154
+D3
+~
+~
+0 -1 21143
+S
+#21145
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21135
+D1
+~
+~
+0 -1 21146
+D2
+~
+~
+0 -1 21155
+D3
+~
+~
+0 -1 21144
+S
+#21146
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21136
+D1
+~
+~
+0 -1 21147
+D2
+~
+~
+0 -1 21156
+D3
+~
+~
+0 -1 21145
+S
+#21147
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21137
+D1
+~
+~
+0 -1 21148
+D2
+~
+~
+0 -1 21157
+D3
+~
+~
+0 -1 21146
+S
+#21148
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21138
+D1
+~
+~
+0 -1 21149
+D2
+~
+~
+0 -1 21158
+D3
+~
+~
+0 -1 21147
+S
+#21149
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction for as far as you
+can see, and not even a hint of land is anywhere to be found.  As you gaze
+into the crystal blue waters, you can see that the ocean below you teems
+with life.  Flashes of silver streak through the water, away from the
+gaping mouths of unseen predators.  The vast ocean is a beautiful but
+deadly place.
+~
+211 0 7
+D0
+~
+~
+0 -1 21139
+D1
+~
+~
+0 -1 21140
+D2
+~
+~
+0 -1 21159
+D3
+~
+~
+0 -1 21148
+S
+#21150
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears
+to become more shallow to the south.  In the distance you see a sandy
+beach, and beyond that a vast jungle.
+~
+211 0 7
+D0
+~
+~
+0 -1 21140
+D1
+~
+~
+0 -1 21151
+D2
+~
+~
+0 -1 21160
+D3
+~
+~
+0 -1 21159
+S
+#21151
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears  
+to become more shallow to the south.  In the distance you see a sandy 
+beach, and beyond that a vast jungle.
+~
+211 0 7
+D0
+~
+~
+0 -1 21141
+D1
+~
+~
+0 -1 21152
+D2
+~
+~
+0 -1 21161
+D3
+~
+~
+0 -1 21150
+S
+#21152
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears  
+to become more shallow to the south.  In the distance you see a sandy 
+beach, and beyond that a vast jungle.
+~
+211 0 7
+D0
+~
+~
+0 -1 21142
+D1
+~
+~
+0 -1 21153
+D2
+~
+~
+0 -1 21162
+D3
+~
+~
+0 -1 21151
+S
+#21153
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears  
+to become more shallow to the south.  In the distance you see a sandy 
+beach, and beyond that a vast jungle.
+~
+211 0 7
+D0
+~
+~
+0 -1 21143
+D1
+~
+~
+0 -1 21154
+D2
+~
+~
+0 -1 21163
+D3
+~
+~
+0 -1 21152
+S
+#21154
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears  
+to become more shallow to the south.  In the distance you see a sandy 
+beach, and beyond that a vast jungle.
+~
+211 0 7
+D0
+~
+~
+0 -1 21144
+D1
+~
+~
+0 -1 21155
+D2
+~
+~
+0 -1 21164
+D3
+~
+~
+0 -1 21153
+S
+#21155
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears  
+to become more shallow to the south.  In the distance you see a sandy 
+beach, and beyond that a vast jungle.
+~
+211 0 7
+D0
+~
+~
+0 -1 21145
+D1
+~
+~
+0 -1 21156
+D2
+~
+~
+0 -1 21165
+D3
+~
+~
+0 -1 21154
+S
+#21156
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears  
+to become more shallow to the south.  In the distance you see a sandy 
+beach, and beyond that a vast jungle.
+~
+211 0 7
+D0
+~
+~
+0 -1 21146
+D1
+~
+~
+0 -1 21157
+D2
+~
+~
+0 -1 21166
+D3
+~
+~
+0 -1 21155
+S
+#21157
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears  
+to become more shallow to the south.  In the distance you see a sandy 
+beach, and beyond that a vast jungle.
+~
+211 0 7
+D0
+~
+~
+0 -1 21147
+D1
+~
+~
+0 -1 21158
+D2
+~
+~
+0 -1 21167
+D3
+~
+~
+0 -1 21156
+S
+#21158
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears  
+to become more shallow to the south.  In the distance you see a sandy 
+beach, and beyond that a vast jungle.
+~
+211 0 7
+D0
+~
+~
+0 -1 21148
+D1
+~
+~
+0 -1 21159
+D2
+~
+~
+0 -1 21168
+D3
+~
+~
+0 -1 21157
+S
+#21159
+On the Vast Ocean~
+   The salty air and gently rolling waves of the ocean are making you just
+a little seasick.  The ocean continues in every direction, but it appears  
+to become more shallow to the south.  In the distance you see a sandy 
+beach, and beyond that a vast jungle.
+~
+211 0 7
+D0
+~
+~
+0 -1 21149
+D1
+~
+~
+0 -1 21150
+D2
+~
+~
+0 -1 21169
+D3
+~
+~
+0 -1 21158
+S
+#21160
+In the Shallows~
+   The shallow waters are only about waist deep on this part of the ocean.
+The warm water feels quite soothing, and the gently rolling waves are
+almost hypnotic.  To the south there is a sandy beach, but a terrible 
+riptide makes passage in that direction very dangerous, if not impossible.
+~
+211 c 6
+D0
+~
+~
+0 -1 21150
+D1
+~
+~
+0 -1 21161
+D2
+~
+~
+0 -1 21180
+D3
+~
+~
+0 -1 21169
+S
+#21161
+In the Shallows~
+   The shallow waters are only about waist deep on this part of the ocean.
+The warm water feels quite soothing, and the gently rolling waves are
+almost hypnotic.  To the south there is a sandy beach, but a terrible 
+riptide makes passage in that direction very dangerous, if not impossible.
+~
+211 c 6
+D0
+~
+~
+0 -1 21151
+D1
+~
+~
+0 -1 21162
+D2
+~
+~
+0 -1 21180
+D3
+~
+~
+0 -1 21160
+S
+#21162
+In the Shallows~
+   The shallow waters are only about waist deep on this part of the ocean.
+The warm water feels quite soothing, and the gently rolling waves are 
+almost hypnotic.  To the south is a sandy beach, and beyond that is a vast
+jungle.
+~
+211 c 6
+D0
+~
+~
+0 -1 21152
+D1
+~
+~
+0 -1 21163
+D2
+~
+~
+0 -1 21170
+D3
+~
+~
+0 -1 21161
+S
+#21163
+In the Shallows~
+   The shallow waters are only about waist deep on this part of the ocean.
+The warm water feels quite soothing, and the gently rolling waves are 
+almost hypnotic.  To the south is a sandy beach, and beyond that is a vast
+jungle.
+~
+211 c 6
+D0
+~
+~
+0 -1 21153
+D1
+~
+~
+0 -1 21164
+D2
+~
+~
+0 -1 21171
+D3
+~
+~
+0 -1 21162
+S
+#21164
+In the Shallows~
+   The shallow waters are only about waist deep on this part of the ocean.
+The warm water feels quite soothing, and the gently rolling waves are 
+almost hypnotic.  To the south is a sandy beach, and beyond that is a vast
+jungle.
+~
+211 c 6
+D0
+~
+~
+0 -1 21154
+D1
+~
+~
+0 -1 21165
+D2
+~
+~
+0 -1 21172
+D3
+~
+~
+0 -1 21163
+S
+#21165
+In the Shallows~
+   The shallow waters are only about waist deep on this part of the ocean.
+The warm water feels quite soothing, and the gently rolling waves are 
+almost hypnotic.  To the south is a sandy beach, and beyond that is a vast
+jungle.
+~
+211 c 6
+D0
+~
+~
+0 -1 21155
+D1
+~
+~
+0 -1 21166
+D2
+~
+~
+0 -1 21173
+D3
+~
+~
+0 -1 21164
+S
+#21166
+In the Shallows~
+   The shallow waters are only about waist deep on this part of the ocean.
+The warm water feels quite soothing, and the gently rolling waves are 
+almost hypnotic.  To the south is a sandy beach, and beyond that is a vast
+jungle.
+~
+211 c 6
+D0
+~
+~
+0 -1 21156
+D1
+~
+~
+0 -1 21167
+D2
+~
+~
+0 -1 21174
+D3
+~
+~
+0 -1 21165
+S
+#21167
+In the Shallows~
+   The shallow waters are only about waist deep on this part of the ocean.
+The warm water feels quite soothing, and the gently rolling waves are 
+almost hypnotic.  To the south is a sandy beach, and beyond that is a vast
+jungle.
+~
+211 c 6
+D0
+~
+~
+0 -1 21157
+D1
+~
+~
+0 -1 21168
+D2
+~
+~
+0 -1 21175
+D3
+~
+~
+0 -1 21166
+S
+#21168
+In the Shallows~
+   The shallow waters are only about waist deep on this part of the ocean.
+The warm water feels quite soothing, and the gently rolling waves are
+almost hypnotic.  To the south there is a sandy beach, but a terrible 
+riptide makes passage in that direction very dangerous, if not impossible.
+~
+211 c 6
+D0
+~
+~
+0 -1 21158
+D1
+~
+~
+0 -1 21169
+D2
+~
+~
+0 -1 21180
+D3
+~
+~
+0 -1 21167
+S
+#21169
+In the Shallows~
+   The shallow waters are only about waist deep on this part of the ocean.
+The warm water feels quite soothing, and the gently rolling waves are 
+almost hypnotic.  To the south there is a sandy beach, but a terrible
+riptide makes passage in that direction very dangerous, if not impossible.
+~
+211 c 6
+D0
+~
+~
+0 -1 21159
+D1
+~
+~
+0 -1 21160
+D2
+~
+~
+0 -1 21180
+D3
+~
+~
+0 -1 21168
+S
+#21170
+On a Sandy Beach~
+   The warm white sand of this beach has been meticulously groomed by the
+forces of time and nature.  Waves gently lap at the edge of the beach as
+they greet the land, only to be taken back out to sea by those behind them.
+The vast waters of the ocean extend to the north for as far as you can see.
+To the south is an tropical forest filled with all sorts of jungle life.
+~
+211 c 2
+D0
+~
+~
+0 -1 21162
+D1
+~
+~
+0 -1 21171
+S
+#21171
+On a Sandy Beach~
+   The warm white sand of this beach has been meticulously groomed by the  
+forces of time and nature.  Waves gently lap at the edge of the beach as   
+they greet the land, only to be taken back out to sea by those behind them.
+The vast waters of the ocean extend to the north for as far as you can see.
+To the south is an tropical forest filled with all sorts of jungle life.
+~
+211 c 2
+D0
+~
+~
+0 -1 21163
+D1
+~
+~
+0 -1 21172
+D2
+~
+~
+0 -1 21176
+D3
+~
+~
+0 -1 21170
+S
+#21172
+On a Sandy Beach~
+   The warm white sand of this beach has been meticulously groomed by the  
+forces of time and nature.  Waves gently lap at the edge of the beach as   
+they greet the land, only to be taken back out to sea by those behind them.
+The vast waters of the ocean extend to the north for as far as you can see.
+To the south is an tropical forest filled with all sorts of jungle life.
+~
+211 c 2
+D0
+~
+~
+0 -1 21164
+D1
+~
+~
+0 -1 21173
+D2
+~
+~
+0 -1 21177
+D3
+~
+~
+0 -1 21171
+S
+#21173
+On a Sandy Beach~
+   The warm white sand of this beach has been meticulously groomed by the  
+forces of time and nature.  Waves gently lap at the edge of the beach as   
+they greet the land, only to be taken back out to sea by those behind them.
+The vast waters of the ocean extend to the north for as far as you can see.
+To the south is an tropical forest filled with all sorts of jungle life.
+~
+211 c 2
+D0
+~
+~
+0 -1 21165
+D1
+~
+~
+0 -1 21174
+D2
+~
+~
+0 -1 21178
+D3
+~
+~
+0 -1 21172
+S
+#21174
+On a Sandy Beach~
+   The warm white sand of this beach has been meticulously groomed by the  
+forces of time and nature.  Waves gently lap at the edge of the beach as   
+they greet the land, only to be taken back out to sea by those behind them.
+The vast waters of the ocean extend to the north for as far as you can see.
+To the south is an tropical forest filled with all sorts of jungle life.
+~
+211 c 2
+D0
+~
+~
+0 -1 21166
+D1
+~
+~
+0 -1 21175
+D2
+~
+~
+0 -1 21179
+D3
+~
+~
+0 -1 21173
+S
+#21175
+On a Sandy Beach~
+   The warm white sand of this beach has been meticulously groomed by the  
+forces of time and nature.  Waves gently lap at the edge of the beach as   
+they greet the land, only to be taken back out to sea by those behind them.
+The vast waters of the ocean extend to the north for as far as you can see.
+To the south is an tropical forest filled with all sorts of jungle life.
+~
+211 c 2
+D0
+~
+~
+0 -1 21167
+D3
+~
+~
+0 -1 21174
+S
+#21176
+At the Edge of the Jungle~
+   As you near the edge of the jungle, the humidity nearly overwhelms your
+senses.  The emerald curtain of trees hides a plethora of exotic life.  You
+feel as if the eyes of the jungle are upon you as you near their tropical
+home. 
+~
+211 c 2
+D0
+~
+~
+0 -1 21171
+D1
+~
+~
+0 -1 21177
+D2
+~
+~
+0 -1 21201
+S
+#21177
+At the Edge of the Jungle~
+   As you near the edge of the jungle, the humidity nearly overwhelms your
+senses.  The emerald curtain of trees hides a plethora of exotic life.  You
+feel as if the eyes of the jungle are upon you as you near their tropical  
+home.
+~
+211 c 2
+D0
+~
+~
+0 -1 21172
+D1
+~
+~
+0 -1 21178
+D2
+~
+~
+0 -1 21202
+D3
+~
+~
+0 -1 21176
+S
+#21178
+At the Edge of the Jungle~
+   As you near the edge of the jungle, the humidity nearly overwhelms your
+senses.  The emerald curtain of trees hides a plethora of exotic life.  You
+feel as if the eyes of the jungle are upon you as you near their tropical  
+home.
+~
+211 c 2
+D0
+~
+~
+0 -1 21173
+D1
+~
+~
+0 -1 21179
+D2
+~
+~
+0 -1 21203
+D3
+~
+~
+0 -1 21177
+S
+#21179
+At the Edge of the Jungle~
+   As you near the edge of the jungle, the humidity nearly overwhelms your
+senses.  The emerald curtain of trees hides a plethora of exotic life.  You
+feel as if the eyes of the jungle are upon you as you near their tropical  
+home.
+~
+211 c 2
+D0
+~
+~
+0 -1 21174
+D2
+~
+~
+0 -1 21204
+D3
+~
+~
+0 -1 21178
+S
+#21180
+Caught in the Riptide~
+   As you struggle to break free from the riptide, you wish that you hadn't
+attempted to pass through it!  You see a sandy beach to the south, but no
+matter how hard you try to move towards it, the riptide insists upon
+carrying you back out to sea.  You begin to grow quite tired from your
+struggles.  You better think of a way out, fast!
+~
+211 cx 6
+S
+#99999
+$~

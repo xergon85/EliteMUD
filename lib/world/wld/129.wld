@@ -1,0 +1,2451 @@
+#12900
+Beginning of the Marsh~
+   The humming of insects fills the air, which is heavy with moisture 
+and difficult to breathe. The ground is soft underfoot, with water 
+seeping upwards and mud sucking at booted feet. To the north, the ground 
+seems higher, and there are even some tufts of grass visible. To the east
+and south the marsh becomes more misty and there are pools of water 
+visible close by. Strangely, a rickety wooden ladder is suspended here, 
+but it is too misty to see what lies at the top of it.
+~
+129 c 3
+D0
+There are grassy tufts to the north.
+~
+~
+0 -1 12916
+D1
+The marsh continues to the east.
+~
+~
+0 -1 12901
+D2
+The marsh continues to the south.
+~
+~
+0 -1 12901
+D3
+To the west, a path disappears into the forest.
+~
+~
+0 -1 23047
+D4
+A rickety wooden ladder leads up.
+~
+~
+0 -1 12945
+E
+ladder~
+The ladder is made from long knobbly lengths of bamboo, lashed together
+with lengths of a rope-like grass. The ladder disappears up into the mist
+above, and whatever lies at the top remains out of sight.
+~
+S
+#12901
+Marshy Ground~
+   The marshy ground is totally waterlogged here and appears to get 
+worse to the east. To the north thick tufts of grass are visible, waving
+gently in the slight breeze. Further east the marsh becomes more foggy
+and damp. A tall and extremely thick oak with very pale bark stands to 
+the south.
+~
+129 0 3
+D0
+The ground looks firmer to the north.
+~
+~
+0 -1 12916
+D1
+The marsh to the east is clouded in thick fog.
+~
+~
+0 -1 12902
+D3
+The edge of the marsh is just visible to the west.
+~
+~
+0 -1 12900
+E
+oak pale ghostly~
+The oak is ancient - much older than any of the other trees nearby. The
+bark is ghostly pale and almost luminous in the faint light.
+~
+S
+#12902
+In the Fog~
+   It is eerie and quiet in this part of the marshland. Thick mist
+muffles all sounds, yet at the same times makes far-off noises seem 
+close by. At least - you hope the chewing and crunching sounds are 
+coming from far off! The ground is saturated with water and small 
+pools gather in amongst the tufts of moss and expanses of muddy green 
+slime. To the north and west the marsh seems less ominous, while to the 
+south it becomes darker and altogether more treacherous. The smell of a 
+stagnant pool comes from the east.
+~
+129 c 3
+D0
+You can see nothing through the thick fog.
+~
+~
+0 -1 12916
+D1
+You can see nothing through the thick fog.
+~
+~
+0 -1 12917
+D2
+You can see nothing through the thick fog.
+~
+~
+0 -1 12903
+D3
+You can see nothing through the thick fog.
+~
+~
+0 -1 12901
+S
+#12903
+Dark Bog~
+   Deep in the dark bog it is difficult to both see and move. The 
+dark murky mist clings to the ground and swirls around your ankles. 
+The slimy marsh tries to grab your feet as you attempt to move. 
+Although it is easy to get confused in these conditions, it appears to
+be less murky to the north. The dark bog continues to the east, 
+west and south.
+~
+129 a 3
+D0
+A thick fog obscures the view to the north.
+~
+~
+0 -1 12902
+D1
+The dark bog continues to the east.
+~
+~
+0 -1 12904
+D2
+The dark bog continues to the south.
+~
+~
+0 -1 12906
+D3
+The dark bog continues to the west.
+~
+~
+0 -1 12906
+S
+#12904
+Dark Bog~
+   Puddles of clinging slimy mud are found amongst the pools of unclean 
+water and tufts of saturated moss. Tiny insects, almost too small to 
+see, swarm around you and the dark mist gathers around you ominously. The
+bog continues in all directions.
+~
+129 a 3
+D0
+The dark bog continues to the north.
+~
+~
+0 -1 12903
+D1
+The dark bog continues to the east.
+~
+~
+0 -1 12908
+D2
+The dark bog continues to the south.
+~
+~
+0 -1 12907
+D3
+The dark bog continues to the west.
+~
+~
+0 -1 12903
+>trans 5 12905 2~
+Stumbling through the murky bog, you suddenly find yourself in a foul
+smelling bog-goblin lair!
+~
+S
+#12905
+Lair of the Bog-Goblin King~
+   The lair is brightly lit by a number of sputtering yellowy torches 
+placed around this grove hidden deep within the dark bog. The smell is 
+pretty unpleasant - rotting flesh and stagnant water mostly and the 
+filthy nests of lesser ranked bog-goblins. The bog-goblin King 
+has a wide wooden platform all to himself, keeping him off the boggy 
+ground.
+~
+129 0 3
+D0
+The dark bog continues to the north.
+~
+~
+0 -1 12904
+D1
+The dark bog continues to the east.
+~
+~
+0 -1 12908
+D2
+The dark bog continues to the south.
+~
+~
+0 -1 12910
+D3
+The dark bog continues to the west.
+~
+~
+0 -1 12906
+E
+nest nests~
+Bog-goblins are semi-amphibious and so are quite comfortable sleeping
+in shallow boggy pools. The nests are really just patches of flattened
+reeds with a mucky puddle of brackish water in the center.
+~
+S
+#12906
+Dark Bog~
+   The clammy air makes it difficult to breathe in this part of the bog.
+The dark murky fog is thick all around, and it is impossible to see very
+far in any direction. The mossy ground is saturated with brownish 
+water, ready to trap the foot of any unwary adventurer. From somewhere 
+out in the murky bog comes the sound of harsh cackling laughter. Better
+watch your step!
+~
+129 a 3
+D0
+The dark bog continues to the north.
+~
+~
+0 -1 12903
+D1
+The dark bog continues to the east.
+~
+~
+0 -1 12907
+D2
+The dark bog continues to the south.
+~
+~
+0 -1 12909
+D3
+The dark bog continues to the west.
+~
+~
+0 -1 12910
+>trans 5 12905 1~
+Stumbling through the murky bog, you suddenly find yourself in a foul
+smelling bog-goblin lair!
+~
+S
+#12907
+Dark Bog~
+   The dark bog is sparsely populated with tall stands of greyish reeds. 
+The reeds rub against each other in the breeze, making an ominous 
+creaking scratching noise which echoes around. Squelching sounds close
+by indicate that there is something living out there - but what could
+it be?
+~
+129 a 3
+D0
+The dark bog continues to the north.
+~
+~
+0 -1 12904
+D1
+The dark bog continues to the east.
+~
+~
+0 -1 12908
+D2
+The dark bog continues to the south.
+~
+~
+0 -1 12910
+D3
+The dark bog continues to the west.
+~
+~
+0 -1 12906
+S
+#12908
+Dark Bog~
+   Squelching noises echo all around this part of the dark bog. Long 
+reeds whisper sibilantly in the slightest air currents, and every so 
+often a subdued splashing can be heard. The bog continues to the east, 
+south and west, but to the north, the way is blocked by an enormous
+oak tree, which disappears into the murky fog above.
+~
+129 a 3
+D1
+The dark bog continues to the east.
+~
+~
+0 -1 12912
+D2
+The dark bog continues to the south.
+~
+~
+0 -1 12911
+D3
+The dark bog continues to the west.
+~
+~
+0 -1 12907
+>trans 5 12905 3~
+Stumbling through the murky bog, you suddenly find yourself in a foul
+smelling bog-goblin lair!
+~
+E
+oak enormous~
+The oak is ancient - much older than any of the other trees nearby. The
+bark is blackened as if burned, but the tree appears otherwise healthy.
+~
+S
+#12909
+Dark Bog~
+   The feeling of being watched cannot be escaped in this dark and
+sinister bog. The slightest movement in the air makes the reeds and
+rushes rub together, making sounds like slow breathing. There is an
+occasional splash close by, although the damping effect of the lingering
+fog makes it impossible to determine which direction the noises come 
+from. The dark bog continues in all directions.
+~
+129 a 3
+D0
+The dark bog continues to the north.
+~
+~
+0 -1 12906
+D1
+The dark bog continues to the east.
+~
+~
+0 -1 12910
+D2
+The dark bog continues to the south.
+~
+~
+0 -1 12906
+D3
+The dark bog continues to the west.
+~
+~
+0 -1 12906
+S
+#12910
+Dark Bog~
+   An unpleasant smell emanates from the scattered puddles of brackish
+water and rotting vegetation. A murky black mist clings to the ground, 
+swirling around your feet as you move. Eerie noises echo strangely in
+the darkness around you. The bog looks the same to the north, east and
+west, but to the south a squelchy trail can be seen.
+~
+129 a 3
+D0
+The dark bog continues to the north.
+~
+~
+0 -1 12907
+D1
+The dark bog continues to the east.
+~
+~
+0 -1 12911
+D2
+A squelchy trail leads south through the bog.
+~
+~
+0 -1 12913
+D3
+The dark bog continues to the west.
+~
+~
+0 -1 12909
+>trans 5 12905 0~
+Stumbling through the murky bog, you suddenly find yourself in a foul
+smelling bog-goblin lair!
+~
+S
+#12911
+Dark Bog~
+   Tall reeds loom out of the eerie darkness of the bog. The ground is
+soft and slimy, stagnant water has collected into small puddles all
+around. The bog continues in all directions.
+~
+129 a 3
+D0
+The dark bog continues to the north.
+~
+~
+0 -1 12908
+D1
+The dark bog continues to the east.
+~
+~
+0 -1 12912
+D2
+The dark bog continues to the south.
+~
+~
+0 -1 12912
+D3
+The dark bog continues to the west.
+~
+~
+0 -1 12910
+S
+#12912
+Beneath the Platforms~
+   The rushes and mosses in this area of the bog are trampled flat, and
+the ground seems less waterlogged. A dark clinging mist lurks over the 
+ground and crawls about your feet. A strange rickety wooden ladder leads 
+upwards into to the mist.
+~
+129 ac 3
+D0
+The dark bog continues to the north.
+~
+~
+0 -1 12908
+D3
+The dark bog continues to the west.
+~
+~
+0 -1 12911
+D4
+A rickety wooden ladder leads up to the platforms.
+~
+~
+0 -1 12954
+E
+ladder~
+The ladder is made from long knobbly lengths of bamboo, lashed together
+with lengths of a rope-like grass. The ladder disappears up into the mist
+above, and whatever lies at the top remains out of sight.
+~
+S
+#12913
+Squelchy Trail~
+   This waterlogged trail winds its way north-south through the dark
+murk of the bog. To the east and west, the damp shuffling noises are
+louder, as if something lurks out there in the mist. From the south
+comes a foul stench, and to the north the air is fresher, but still
+oppressive.
+~
+129 0 3
+D0
+The dark bog continues to the north.
+~
+~
+0 -1 12910
+D1
+The dark bog lies to the east, away from the trail.
+~
+~
+0 -1 12910
+D2
+The trail continues south, where it becomes progressively smellier.
+~
+~
+0 -1 12914
+D3
+The dark bog lies to the west, away from the trail.
+~
+~
+0 -1 12909
+S
+#12914
+Stinking Bog~
+   The fetid puddles of stagnant water in this part of the bog reek of
+rotting vegetation and perhaps worse. A trail leads northwards through
+the murk, or you could abandon the trail and head west or south into
+the depths of the dark bog. To the east is a small cave, from which the
+foulest smell emanates.
+~
+129 0 3
+D0
+A squelchy trail leads north, through the dark bog.
+~
+~
+0 -1 12913
+D1
+A foul stench emanates from a dark cave to the east.
+~
+~
+0 -1 12915
+D2
+The dark bog lies south, away from the trail.
+~
+~
+0 -1 12909
+D3
+The dark bog lies west, away from the trail.
+~
+~
+0 -1 12909
+S
+#12915
+The Caves of Stench~
+   Eeew! The air is thick with the rancid stench of open graves and 
+rotting food. The cave walls are daubed with goblin blood and several
+goblin corpses lie dismembered on the cave-floor. The corpses have 
+been rent and torn by some vicious clawed creature. The relative 
+safety of the bog lies to the west.
+~
+129 acd 0
+D3
+The relative safety of the dark bog beckons from the west.
+~
+~
+0 -1 12914
+S
+#12916
+Grassy Tufts~
+   Large tufts of stiff yellowy-green grass wave gently in the breeze. 
+In between the tufts is water-soaked moss, waiting to snare careless 
+feet. By carefully moving from tuft to tuft, it is possible to continue
+further to the north, or south.
+~
+129 0 3
+D0
+There are more grassy tufts to the north.
+~
+~
+0 -1 12922
+D2
+The marsh lies to the south.
+~
+~
+0 -1 12901
+S
+#12917
+Stagnant Pool~
+   A few mossy rocks surround this horrible little pool in the marsh. 
+The water is clogged with slimy green weeds, and frog spawn. The marsh 
+is far too soggy to be traversed in any direction except north, where 
+a rivulet of the foul stagnant waters cuts through firmer ground.
+~
+129 0 6
+D0
+To the north lies an expanse of squelchy moss.
+~
+~
+0 -1 12923
+S
+#12918
+The Pixie Throne~
+   A pixie-throne, made entirely of buttercups and spidersilk, almost 
+floats above the dew-laden grass. Phosphorescent lights glow throughout 
+the grove, lighting up the green grass, and sleek-limbed willow trees.
+To the east, there appears to be some sort of celebration among the
+pixie folk!
+~
+129 d 1
+D1
+There is pixie dancing to the east.
+~
+~
+0 -1 12919
+S
+#12919
+The Pixie Feast~
+   Rows of tables, decorated with bluebells, snowdrops, and ribbons of 
+all colours, are covered with exuberant pixie foods - sweets and peculiar
+fruits for the most part. Tiny prancing figures skip between the tables
+helping themselves to the delicious treats before springing off to the
+east to dance, or to the west to visit the pixie-queen.
+~
+129 d 1
+D1
+The magic pixie circle lies to the east.
+~
+~
+0 -1 12920
+D3
+The magical pixie throne glows to the west.
+~
+~
+0 -1 12918
+S
+#12920
+Pixie Circle~
+   Within a circle of giant redcap toadstools the grass is flattened by
+by the light but numerous feet of the dancing pixies. Pixies like 
+nothing more than joyous dancing and will happily prance around their
+pixie groves at any time of night. To the west lies the glow of the
+pixie throne and the merry noises of the pixie feast! To the east, a 
+narrow path leads through the darkness.
+~
+129 d 1
+D1
+A dark path leads away from the pixie circle.
+~
+~
+0 -1 12925
+D3
+The festive sound of pixie dancing comes from the west.
+~
+~
+0 -1 12919
+S
+#12921
+Among the Truffla Stumps~
+   The reason for the boggy ground soon becomes clear. All the trees in
+this region (and as far as the eye can see) have been chopped down, 
+leaving only the stumps behind. Without the trees drinking up the water,
+the ground has quickly become waterlogged and boggy. To the east, there
+are only tufts of grass, but at least it is possible to travel there. 
+In the other directions, the ground is too waterlogged, and the stumps
+too few and far between.
+~
+129 0 3
+D1
+There are no trufflas to the east, only tufts of grass.
+~
+~
+0 -1 12922
+S
+#12922
+Tufts of Grass~
+   This area is populated by thick tufts of grass, which rise up out of
+the soggy ground. By hopping from tuft to tuft it is possible to cross
+this part of the marsh without getting wet. To the east, the ground 
+becomes more boggy, while to the south there are more of the grassy 
+outcrops. To the west, a forest of tree stumps is just visible.
+~
+129 0 3
+D1
+To the west, the ground becomes more boggy.
+~
+~
+0 -1 12923
+D2
+There are more grassy tufts to the south.
+~
+~
+0 -1 12916
+D3
+To the west, is a glen of tree stumps.
+~
+~
+0 -1 12921
+S
+#12923
+Squelching Moss~
+   Thick wet moss covers the ground, both here and further to the north
+and south. The ground almost looks solid, but a closer look reveals the
+brackish water beneath the fronds of moss, waiting to snare careless 
+feet.
+~
+129 c 3
+D0
+A mossy path leads north.
+~
+~
+0 -1 12928
+D2
+The ground becomes more waterlogged to the south.
+~
+~
+0 -1 12917
+D3
+The ground to the west is covered in thick tufts of grass.
+~
+~
+0 -1 12922
+S
+#12924
+Pixie Circle~
+   The light barely penetrates the canopy of the dense will trees into
+this glade. The area is surrounded by a circle of giant red mushrooms - 
+so this must be a magical pixie circle! Shame, it must be their day off
+because there are no pixies to be found.
+~
+129 a 3
+D1
+A dark path leads away from the pixie circle.
+~
+~
+0 -1 12925
+S
+#12925
+Dark Path~
+   A dark path weaves between the trees and rocky outcrops. There is a 
+dark fogginess to this place, and it appears as if light never truly
+reaches the forest floor. The dark path continues both east and west.
+~
+129 a 3
+D1
+A dark path leads east.
+~
+~
+0 -1 12926
+D3
+A dark path leads west, opening out into a little glade.
+~
+~
+0 -1 12924
+>trans 20 12920 3~
+
+~
+S
+#12926
+Dark Path~
+   The dark path turns sharply here, avoiding a steep outcrop of rock
+to the south and east. To the south, the rocks are covered by a 
+sprawling holly bush, with spiky leaves and flame red berries. Gnarled 
+willow limbs reach down out of the darkness, trying to trip and trap 
+you. The dark path continues to the north and west. 
+~
+129 a 3
+D0
+The dark path leads north.
+~
+~
+0 -1 12936
+D2
+The way south is blocked by a thick bush.
+~
+holly bush~
+1 -1 12927
+D3
+The dark path leads west.
+~
+~
+0 -1 12925
+E
+holly bush~
+Behind the sharp leaves and twisted branches, you can make out some
+kind of cave!
+~
+S
+#12927
+Damp Cave~
+   Water drips from the ceiling and down the walls of this dark dank
+cave. The air smells musty and mouldy and the floor is strewn with
+old bones and bits of furry skin. The only way out is to the north.
+~
+129 a 3
+D0
+Outside the cave is a dark path.
+~
+bush~
+1 -1 12926
+S
+#12928
+Boggy Path~
+   Squelchy puddles of water ooze up between tufts of soggy moss beneath
+unwary feet. To stop moving is to risk becoming trapped by the shlurping
+marsh. It is possible to head in any direction, although there seems to
+be some kind of route through the bog to the north and west. From the
+south comes the dank smell of stagnant water.
+~
+129 0 3
+D0
+You think you can see a safe route through the bog to the north.
+~
+~
+0 -1 12929
+D1
+The boggy ground extends further to the east.
+~
+~
+0 -1 12923
+D2
+The boggy ground extends further to the south.
+~
+~
+0 -1 12923
+D3
+The boggy ground extends further to the west.
+~
+~
+0 -1 12929
+S
+#12929
+Marshy Trail~
+   An oak tree climbs majestically out of the bog to the west, its 
+deep roots giving it some stability in the soft, waterlogged ground. 
+The marshy trail continues to the east and south.
+~
+129 0 3
+D0
+A faint trail leads north through the marsh.
+~
+~
+0 -1 12930
+D1
+A faint trail leads east through the marsh.
+~
+~
+0 -1 12930
+D2
+A faint trail leads south through the marsh.
+~
+~
+0 -1 12928
+E
+oak swaying~
+The oak is ancient - much older than any of the other trees nearby. Despite
+its age and girth, the tree sways gently in the breeze as its might roots
+claw at the boggy ground.
+~
+S
+#12930
+Marshy Trail~
+   A watery trail runs east-west through this part of the marsh, 
+although it is possible to go in any direction. The humidity is 
+oppressive, but it seems to grow less further to the east. Far to 
+the west is a tall oak tree.
+~
+129 0 3
+D0
+A faint trail leads north through the marsh.
+~
+~
+0 -1 12931
+D1
+A faint trail leads east through the marsh.
+~
+~
+0 -1 12931
+D2
+A faint trail leads south through the marsh.
+~
+~
+0 -1 12929
+D3
+A faint trail leads west through the marsh.
+~
+~
+0 -1 12929
+S
+#12931
+Marshy Trail~
+   The ground here is a little firmer, although puddles of water still
+peek up between tufts of thick marsh-grass and moss. There is a muddy
+grove and another large oak tree, surrounded by reeds, to the south.
+The marsh continues to the north, east and west.
+~
+129 0 3
+D0
+A faint trail leads north through the marsh.
+~
+~
+0 -1 12930
+D1
+To the east is a wide boggy area.
+~
+~
+0 -1 12933
+D2
+A muddy trail leads south, towards a large oak tree.
+~
+~
+0 -1 12932
+D3
+A faint trail leads west through the marsh.
+~
+~
+0 -1 12930
+E
+oak~
+There is an oak standing in the grove to the south.
+~
+S
+#12932
+Beneath the Oak~
+   The muddy ground beneath the oak has been well trampled recently. 
+It looks like the rocks around this place have been turned over and the
+bark of the nearby oak tree has been scraped clean of the parasitic
+vines which infest this area.
+~
+129 0 3
+D0
+A narrow trail leads north into the marsh.
+~
+~
+0 -1 12931
+E
+footprint footprints~
+The footprints are about the same size as those of a halfling, but 
+three-toed and webbed.
+~
+E
+oak weeping~
+The oak is ancient - much older than any of the other trees nearby. The
+bark is pitted (possibly by some bird or other animal) and rivulets of 
+sap run down the trunk like tears.
+~
+S
+#12933
+Boggy Ground~
+   Soggy fronds of moss squelch unsteadily under foot. Between patches 
+of soft moss are areas of mud. The ground appears slightly firmer 
+further to the east and continues much the same northwards. A thick 
+mist clings to the ground making it difficult to see much further.
+~
+129 0 3
+D0
+There is more boggy ground to the north.
+~
+~
+0 -1 12941
+D1
+The ground looks firmer to the east.
+~
+~
+0 -1 12934
+D2
+There a misty glade to the south.
+~
+~
+0 -1 12935
+D3
+A trail leads west through the marsh.
+~
+~
+0 -1 12931
+S
+#12934
+Firmer Ground~
+   The ground around this area is damp, but not too muddy. The ground
+has been heavily trampled, and there are many webbed footprints 
+surrounding a rickety wooden ladder, which disappears up in the wispy
+mist that lingers around this area. The marsh continues in all 
+directions.
+~
+129 0 3
+D0
+The ground to the north looks very muddy.
+~
+~
+0 -1 12942
+D1
+The ground to the east looks very muddy.
+~
+~
+0 -1 12944
+D2
+There is a misty glade to the south.
+~
+~
+0 -1 12935
+D3
+The ground to the west looks very boggy.
+~
+~
+0 -1 12933
+D4
+A rickety ladder ascends through the mist.
+~
+~
+0 -1 12976
+E
+ladder~
+The ladder is made from long knobbly lengths of bamboo, lashed together
+with lengths of a rope-like grass. The ladder disappears up into the mist
+above, and whatever lies at the top remains out of sight.
+~
+S
+#12935
+Misty Glade~
+   Thin strands of wispy fog cling to the ground in this sheltered 
+glade. The ground is bare of moss, but not muddy - more of a rich damp 
+peat. A number of large rocks are strewn around here and show signs of
+having been recently moved. To the east, south and west, dark-leaved
+bushes grow, glistening with red berries. The mist and the marsh 
+continue to the north.
+~
+129 0 3
+D0
+The ground looks firmer to the north.
+~
+~
+0 -1 12934
+S
+#12936
+Dark Path~
+   Craggy rocks, overrun with prickly bushes, crowd in from all sides, 
+and with the ground waterlogged and squelching with sodden moss there is
+an oppressive feel to this path. A dark mist crawls over the ground, 
+hiding stagnant pools and wicked quicksands. A gap in the rocky wall
+opens up to the east, although it is even darker in there. The path 
+continues to the south, while the north it opens out and becomes much
+lighter.
+~
+129 a 2
+D0
+The ground looks to get much softer to the north.
+~
+~
+0 -1 12944
+D1
+A musty smell carries on the breeze from the east.
+~
+~
+0 -1 12937
+D2
+The dark path continues south.
+~
+~
+0 -1 12926
+S
+#12937
+Rocky Passage~
+   The narrow trail winds between high rocky walls, twisting and turning
+in almost complete darkness. To the east, a huge oak tree is just 
+visible, while to the west is a dark narrow trail, with claws of fog
+gripping and tripping at passing feet.
+~
+129 a 2
+D1
+A HUGE oak tree rises from the ground a little way to the east.
+~
+~
+0 -1 12938
+D3
+A dark path lies to the west.
+~
+~
+0 -1 12936
+E
+oak holy sacred~
+The oak is by far the largest and most ancient tree in the whole realm. The
+bark is dark and mossy and the roots gnarled and twisted eons of growth. 
+~
+S
+#12938
+Beneath the Sacred Oak~
+   This particular oak is one of the oldest and largest in the land. Its
+bark is dark and rough, and covered with thick moss growths and clinging
+parasitic vines. The oak is so tall that it quickly disappears into the
+fog without narrowing - not even branches are visible from here and the
+trunk must be twenty paces across. The gnarled roots look strange and 
+may be worth investigating.
+~
+129 0 2
+D3
+To the west, you can make out a rocky passage leading west.
+~
+~
+0 -1 12937
+D5
+There is a narrow tunnel between the tree roots.
+~
+root roots oak~
+1 -1 12939
+E
+roots gnarled root~
+Some of the roots are less firmly anchored in the soil than others, and
+may be moved aside to reveal a narrow tunnel, leading below the tree!
+~
+E
+oak holy sacred~
+The oak is by far the largest and most ancient tree in the whole realm. The
+bark is dark and mossy and the roots gnarled and twisted eons of growth. 
+~
+S
+#12939
+Underneath the Roots~
+   Thick oak roots form columns in this cramped cavern beneath the great
+tree. Masses of smaller vessels form curtains of growth, which must be
+pushed aside to allow further movement. To the east, there is a dark
+cavern visible between the dangling roots. A hole just to the west leads
+upwards through the roots to ground level.
+~
+129 acd 2
+D1
+A mass of roots obscures the entrance to a small underground cave.
+~
+root roots~
+1 -1 12940
+D4
+From above comes the smell of fresher air.
+~
+root roots~
+1 -1 12938
+S
+#12940
+The Den of the Judderman~
+   This finely decorated cave is completely out of place from its 
+surroundings. The walls of the cave are perfectly flat and smooth, the
+midnight black stone polished to a mirror finish. Incense burns in 
+the corners of the room, and in the centre is a circle of oak leaves
+about five feet across. Around the perimeter of the circle of warding
+burn six candles, with the seventh candle extinguished by the breeze
+caused by your entry - oh dear!
+~
+129 ad 2
+D3
+To the west, you can see the roots of the great oak dangling down.
+~
+roots~
+1 -1 12939
+S
+#12941
+Boggy Ground~
+   Tufts of moss hide croaking frogs and chirping insects and in 
+between are concealed puddles of brackish water. A pale mist drifts 
+through the marsh which continues to the west, south and north. 
+Eastwards, the boggy ground becomes less waterlogged but much muddier.
+~
+129 0 3
+D0
+There is more boggy ground to the north.
+~
+~
+0 -1 12933
+D1
+The ground become more muddy to the east.
+~
+~
+0 -1 12942
+D2
+There is more boggy ground to the south.
+~
+~
+0 -1 12933
+D3
+A trail disappears into the marsh to the west.
+~
+~
+0 -1 12931
+S
+#12942
+In the Mud~
+   The sodden moss and thick sticky mud mingle together here, making 
+it difficult to progress. A thin veil of mist drifts around, carried by
+the gentle air currents. To the west and north the ground becomes more
+marshy and waterlogged, while to the east it is much muddier. The
+ground to the south is a little firmer, and what appears to be a wooden
+ladder is just visible through the mist.
+~
+129 0 3
+D0
+There is some boggy ground to the north.
+~
+~
+0 -1 12941
+D1
+There is more mud visible to the east.
+~
+~
+0 -1 12943
+D2
+There is some firmer ground to the south.
+~
+~
+0 -1 12934
+D3
+There is some boggy ground visible to the west.
+~
+~
+0 -1 12941
+E
+ladder~
+The ladder is further south from here - and climbs up into the mist
+above the marsh.
+~
+S
+#12943
+In the Mud~
+   Some patches of mud almost writhe with concealed squirming creatures
+all busily burrowing and clusters of webbed footprints suggest that this
+is some kind of hunting ground. Wisps of mist drift over the mudpatch, 
+which extends in all directions.
+~
+129 0 3
+D0
+There is more mud to the north.
+~
+~
+0 -1 12942
+D1
+There is more mud to the east.
+~
+~
+0 -1 12942
+D2
+There is more mud to the south.
+~
+~
+0 -1 12944
+D3
+There is more mud to the west.
+~
+~
+0 -1 12942
+S
+#12944
+In the Mud~
+   Smelly yellow-green mud covers this entire area to a depth of several
+inches. Bubbles and tiny piles of dried mud indicate that this place is
+rich with worms and other burrowing mud dwellers. The expanse of mud 
+continues to the east and north, while the ground becomes firmer to the
+west. A dark trail leads south between gnarly trees and rocky outcrops.
+~
+129 0 3
+D0
+There is more mud to the north.
+~
+~
+0 -1 12943
+D1
+There is more mud to the east.
+~
+~
+0 -1 12943
+D2
+A dark path leads south away from the muddy area.
+~
+~
+0 -1 12936
+D3
+There is firmer ground to the west.
+~
+~
+0 -1 12934
+S
+#12945
+Main Platform~
+   A wide circular platform made of long thin strips of flexible wood 
+hangs suspended from the mighty limbs of the great oak tree. Braces 
+and struts help to keep the platform stable, although it sways gently 
+along with the tree. The top of a rickety wooden ladder pokes through 
+a hole in the centre of the platform. Although this area is uncovered 
+and open to the sky, a second platform immediately to the east is 
+sheltered by a greenish awning. Unsteady wooden walkways lead north 
+and south.
+~
+129 0 1
+D0
+A swaying walkway leads north.
+~
+~
+0 -1 12995
+D1
+A large meeting hall lies to the east.
+~
+~
+0 -1 12946
+D2
+A walkway to the south is firmly anchored to a pale oak tree.
+~
+~
+0 -1 12947
+D5
+A rickety wooden ladder leads bog-side.
+~
+~
+0 -1 12900
+S
+#12946
+Meeting Hall~
+   The meeting hall is enclosed on all sides by wicker-frame walls 
+interwoven with thick glossy green leaves. The roof is some kind of 
+coarse fabric made from vines and has a sickly brown-green hue. The
+floor is covered with dried marsh-grass, matted together with mud to 
+form a slightly crunchy carpet. The only visible exit is west to the
+main platform.
+~
+129 d 1
+D3
+The main platform lies to the west.
+~
+~
+0 -1 12945
+S
+#12947
+Anchored Walkway~
+   The narrow walkway is firmly anchored to the nearby tree - the 
+closest any of the visible structures reach this particular oak. The 
+bark of the oak is especially pale, almost glowing with a ghostly 
+light. The main platform lies to the north, while to the south, the
+walkway sways alarmingly as it is no longer anchored to the great tree.
+~
+129 0 1
+D0
+The main platform lies to the north.
+~
+~
+0 -1 12945
+D2
+A swaying walkway leads south.
+~
+~
+0 -1 12948
+S
+#12948
+Swaying Walkway~
+   The narrow slatted walkway swings erratically underfoot. Rough rails 
+have been built onto either side to stop unwary folk falling off and
+down to the bog shrouded in dark mist below. The walkway further to the
+north is more firmly anchored, and to the south is a circular platform.
+~
+129 0 1
+D0
+The walkway to the north is anchored to a pale oak tree.
+~
+~
+0 -1 12947
+D2
+There is a firm platform to the south.
+~
+~
+0 -1 12949
+>trans 5 12909 2~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+>trans 5 12909 0~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+S
+#12949
+Corner Platform~
+   This high circular platform is firmly anchored by an elaborate 
+arrangement of struts and braces so that even in high winds it remains
+stable. East and north, walkways are suspended by long vine ropes
+and oscillate in the occasional gusts of wind.
+~
+129 0 1
+D0
+A swaying walkway leads north.
+~
+~
+0 -1 12948
+D1
+A swaying walkway leads east.
+~
+~
+0 -1 12950
+S
+#12950
+Swaying Walkway~
+   The walkway lurches alarmingly underfoot, suspended from the boughs
+of the Ghostly Oak high above. The low rail on either side might stop
+a merkin from falling over, but surely nothing larger. The walkway
+continues unsteadily to the east, while to the west is the safety of 
+a circular platform.
+~
+129 0 1
+D1
+A swaying walkway leads east.
+~
+~
+0 -1 12951
+D3
+A firm platform lies to the west.
+~
+~
+0 -1 12949
+>trans 5 12910 1~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+>trans 5 12910 3~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+S
+#12951
+Swaying Platform~
+   Long ropes woven from vines suspend this narrow walkway from the 
+limbs of a mighty oak tree high above. The walkway twitches and lurches
+in the occasional gusts of wind, which makes walking difficult. To the
+north is a squat round house, with a rough wooden gate across the
+entrance. The wooden walkway continues both east and west.
+~
+129 0 1
+D0
+A squat round house is suspended from the trees to the north.
+~
+gate~
+1 -1 12997
+D1
+A swaying walkway continues to the east.
+~
+~
+0 -1 12952
+D3
+A swaying walkway continues to the west.
+~
+~
+0 -1 12950
+>trans 5 12911 1~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+>trans 5 12911 3~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+S
+#12952
+Swaying Walkway~
+   The walkway wobbles slightly underfoot, and sways as your weight
+shifts from side to side. Over the wooden railings, far below, the 
+ground is covered by a thick blanket of dark mist and creeping sounds
+of insects echo around. The walkway continues unsteadily westwards, 
+while to the east the wooden structure seems to be anchored to the
+trunk of a large blackened oak tree.
+~
+129 0 1
+D1
+The walkway to the east has been anchored to a mighty dark oak.
+~
+~
+0 -1 12953
+D3
+A swaying platform lies to the west.
+~
+~
+0 -1 12951
+>trans 5 12911 1~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+>trans 5 12911 3~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+S
+#12953
+Anchored Walkway~
+   Wide wooden struts brace this section of walkway against the trunk
+of an oak tree, whose bark is blackened as if scorched. The tree seems
+to be otherwise healthy - higher branches are covered with new leaves, 
+despite the burned appearance of the tree. To the east is a wide 
+platform with reinforced railings. The walkway to the west sways gently
+in the breeze.
+~
+129 0 1
+D1
+There is a steady corner platform to the east.
+~
+~
+0 -1 12954
+D3
+A swaying walkway leads west.
+~
+~
+0 -1 12952
+S
+#12954
+A Solid Platform~
+   Thick railings surround the edge of the platform, and also a wide
+hole in the centre, through which a rough ladder protrudes. A large
+square section of wood lies nearby, along with a pair of sharp axes, so
+presumably this entrance could be closed off quickly and at short 
+notice. Narrow walkways lead north and south around the merkin village.
+~
+129 0 1
+D0
+The walkway to the north is anchored to a mighty dark oak.
+~
+~
+0 -1 12959
+D3
+The walkway to the west is anchored to a mighty dark oak.
+~
+~
+0 -1 12953
+D5
+A rickety wooden ladder leads bog-side.
+~
+~
+0 -1 12912
+S
+#12955
+Inside a Merkin Hovel~
+   A grim stench rises from the grubby blankets strewn over the rough
+pallet on the floor. Muddy footprints and a selection of filthy 
+loincloths are all over the place, and there is a distinct lack of
+fresh air. The only exit is to the north.
+~
+129 d 1
+D0
+A curtain separates the hovel from the rest of the roundhouse.
+~
+curtain~
+1 -1 12956
+S
+#12956
+The Merkin Roundhouse~
+   The merkin roundhouse sways gently, being suspended from the boughs
+of one of the mighty oaks trees hereabouts. A circular slab of cracked
+stone in the centre forms a crude fireplace, and smoke drifts idly 
+upwards through the hole in the centre of the roof. Worn leather
+curtains grant some measure of privacy to the hovels north, east and
+south of this communal area.
+~
+129 d 1
+D0
+The smell of a Merkin hovel comes from behind a curtain to the north.
+~
+curtain~
+1 -1 12958
+D1
+The smell of a Merkin hovel comes from behind a curtain to the east.
+~
+curtain~
+1 -1 12957
+D2
+The smell of a Merkin hovel comes from behind a curtain to the south.
+~
+curtain~
+1 -1 12955
+D3
+A rough gate protects the entrance to the roundhouse from intruders.
+~
+gate~
+1 -1 12959
+S
+#12957
+Inside a Merkin Hovel~
+   A grim stench rises from the grubby blankets strewn over the rough
+pallet on the floor. Muddy footprints and a selection of filthy 
+loincloths are all over the place, and there is a distinct lack of
+fresh air. The only exit is to the west.
+~
+129 d 1
+D3
+A curtain separates the hovel from the rest of the roundhouse.
+~
+curtain~
+1 -1 12956
+S
+#12958
+Inside a Merkin Hovel~
+   The odour of old worms and rotting fruit rises from the grubby pile
+of worn blankets which serves as a bed for some poor merkin. The walls 
+are bare in this little hovel, although the meagre collection of 
+loincloths suggests that this tiny room is home to three or four 
+merkins.
+~
+129 d 1
+D2
+A curtain separates the hovel from the rest of the roundhouse.
+~
+curtain~
+1 -1 12956
+S
+#12959
+Anchored Walkway~
+   This section of wooden walkway is anchored firmly to the Blackened
+Oak, the trunk of which is just out of reach to the west. Waist high
+railings are there to prevent the drunk and the stupid alike from 
+falling down to the dark bog far below. To the north, the walkway widens
+considerably, while to the south is a fortified platform, complete with
+reinforced railings. A rough wooden gate covers the entrance to the
+merkin roundhouse just to the east.
+~
+129 0 1
+D0
+A wide walkway leads north.
+~
+~
+0 -1 12960
+D1
+A Merkin Roundhouse swings from the trees to the east.
+~
+gate~
+1 -1 12956
+D2
+There is a fortified platform to the south.
+~
+~
+0 -1 12954
+S
+#12960
+Wide Walkway~
+   The walkway widens at this point, before a large elaborately 
+decorated door just to the west. The railings form a wide arc about the 
+door, as if folks often gather around the entrance and the wooden 
+floorboards underfoot are worn and patched with additional pieces of 
+wood. The walkway continues to the north and south.
+~
+129 0 1
+D0
+The walkway to the north sways gently in the breeze.
+~
+~
+0 -1 12963
+D2
+The walkway continues to the south.
+~
+~
+0 -10 12959
+D3
+There is a door to the west, with some important looking markings on it.
+~
+door~
+1 -1 12961
+S
+#12961
+The Chieftains Hut~
+   The chieftains hut is filled with little offerings from his grateful
+subjects. On little shelves around the perimeter of the room are a
+selection of the shiniest stones and most unusual feathers. On the far
+side of the room is a little bed and in the centre of the room a 
+rope ladder leads down.
+~
+129 d 1
+D1
+The main walkway lies to the east.
+~
+door~
+1 -1 12960
+D5
+A sturdy rope-ladder leads down through the fog to bog-side.
+~
+~
+0 -1 12962
+S
+#12962
+The Chieftains Private Wallow~
+   This tiny area of swamp is completely isolated from its surroundings
+by an impenetrable wall of rushes and marsh grasses. In the center of 
+this little area, is a small merkin-sized mud patch - especially for
+the chieftain to wallow in private.
+~
+129 0 1
+D4
+A sturdy rope ladder leads upwards to the chieftains home.
+~
+~
+0 -1 12961
+S
+#12963
+Swaying Platform~
+   The narrow bamboo handrails on either side of this narrow walkway 
+are not really very sturdy, and as if to emphasise this, the wooden
+path chooses this moment to lurch alarmingly in the gentle breeze.
+The walkway continues to the north and south.
+~
+129 0 1
+D0
+There is an intersection of several walkways to the north.
+~
+~
+0 -1 12964
+D2
+The walkway becomes much wider to the south.
+~
+~
+0 -1 12960
+>trans 5 12904 0~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+>trans 5 12904 2~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+S
+#12964
+Intersecting Platform~
+   This round platform has other walkways leaving to the east, south 
+and north. Although the platform is suspended from the branches high
+above, the connected walkways make it stable, even though the breeze
+ripples through the leaves of the two giant oaks to the north and south.
+~
+129 0 1
+D0
+The walkway to the north is firmly anchored to the tree nearby.
+~
+~
+0 -1 12972
+D1
+A narrow walkway to the east sways alarmingly in the gentle breeze.
+~
+~
+0 -1 12965
+D2
+A swaying walkway leads south.
+~
+~
+0 -1 12963
+S
+#12965
+Narrow Walkway~
+   This walkway is narrower and less steady than a lot of the others 
+and has a rope handrail which provides no support at all. Even the 
+slightest breeze causes the walkway to lurch alarmingly. The walkway
+further to the east sways in the breeze, or to the west is the safety
+of a more stable intersection.
+~
+129 0 2
+D1
+The narrow walkway continues east towards a gigantic tree.
+~
+~
+0 -1 12966
+D3
+The narrow walkway rises to meet an intersecting platform.
+~
+~
+0 -1 12964
+>trans 10 12925 1~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+>trans 10 12925 3~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+S
+#12966
+Narrow Walkway~
+   The narrow aerial walkway flips and lurches in the slight breeze. To
+the east towers the mightiest oak in the forest - the Holy Oak of the 
+Merkins. The swaying walkway continues to the west, but to the east the
+platform is firmly anchored to the holy tree.
+~
+129 0 2
+D1
+The narrow walkway opens up to a wider path surrounding an oak tree.
+~
+~
+0 -1 12967
+D3
+The narrow walkway continues west.
+~
+~
+0 -1 12965
+>trans 10 12926 1~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+>trans 10 12926 3~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+S
+#12967
+Before the Great Tree~
+   A wide wooden platform curves north and south around the trunk of 
+the Sacred Tree. The bark is pale and fairly smooth (considering the
+obvious age of the tree) and covered in fine black markings, which look
+hand drawn. A narrow unsteady looking walkway leads west away from the
+tree.
+~
+129 0 1
+D0
+The walkway curves north and east around the Great Tree.
+~
+~
+0 -1 12968
+D2
+The walkway curves south and east around the Great Tree.
+~
+~
+0 -1 12971
+D3
+A fragile walkway leads west.
+~
+~
+0 -1 12966
+E
+markings~
+The markings are etched into the bark of the tree and written in a spidery
+script. The letters are unfamiliar, but they look like a cross between
+dwarf runes, and elvish high script - they must be magical in some way.
+~
+S
+#12968
+Before the Great Tree~
+   A sturdy wooden platform is anchored to the massive bole of The Oak.
+The wooden rail is sturdy enough to support the weight of even the 
+chubbiest merkin, and the walkway continues around the tree to the east
+and west. To the north a small hut swings from the branches of the tree.
+You can enter the little hut across a narrow and flimsy looking bridge.
+~
+129 0 1
+D0
+A tiny and very smelly hut lies to the north.
+~
+hut~
+1 -1 12969
+D1
+The walkway curves east and south around the Great Tree.
+~
+~
+0 -1 12970
+D3
+The walkway curves west and south around the Great Tree.
+~
+~
+0 -1 12967
+S
+#12969
+Inside the Shamans Hut~
+   The shamans hut is filthy even by merkin standards. There are not 
+even any blankets on the floor - only a nest of muddy oak leaves. A
+foul smell lingers in the air, and it is a while before you realise that
+the hut is lit by torches made from dung.
+~
+129 d 1
+D2
+To the south is a wide walkway, anchored to the Great Tree.
+~
+hut~
+1 -1 12968
+E
+torch torches dung~
+EEEEeeeeewwwww! Its horrible (and probably not very hygienic either!)
+~
+S
+#12970
+Before the Great Tree~
+   Thick wooden planks form a sturdy walkway encircling the Sacred Oak
+Tree. A wooden waist-high rail is there for safety purposes. The Oak
+towers so high above that its branches disappear into the clouds, and
+below, the trunk plummets into thick mist. The bark is pale and almost
+glowing, and there are spidery runes scrawled all over it.
+~
+129 0 1
+D0
+The walkway curves north and west around the Great Tree.
+~
+~
+0 -1 12968
+D2
+The walkway curves south and west around the Great Tree.
+~
+~
+0 -1 12971
+E
+markings spidery runes~
+The markings are etched into the bark of the tree and written in a spidery
+script. The letters are unfamiliar, but they look like a cross between
+dwarf runes, and elvish high script - they must be magical in some way.
+~
+S
+#12971
+Before the Great Tree~
+   The strange pale oak tree almost seems to hum with power. Tiny 
+spidery scrawlings cover the bark, possibly some kind of prayers or
+magic spells. A wide platform encircles the oak, and continues around
+to the east and west.
+~
+129 0 1
+D1
+The walkway curves east and north around the Great Tree.
+~
+~
+0 -1 12970
+D3
+The walkway curves wear and north around the Great Tree.
+~
+~
+0 -1 12967
+E
+markings spidery scrawlings~
+The markings are etched into the bark of the tree and written in a spidery
+script. The letters are unfamiliar, but they look like a cross between
+dwarf runes, and elvish high script - they must be magical in some way.
+~
+S
+#12972
+Anchored Platform~
+   This little area is lovely and calm. The pathway is firmly connected
+to the weeping oak, just over the rail on the west side, and there are
+intersections to the north and south. Drooping fronds dangle down from
+the branches of the weeping oak, giving a nice bit of shade.
+~
+129 0 1
+D0
+A sturdy corner platform lies to the north.
+~
+~
+0 -1 12973
+D2
+There is an intersection of several walkways to the south.
+~
+~
+0 -1 12964
+E
+oak weeping~
+The oak tree is one of the largest in the area. Unlike a regular oak, the
+branches of this one seem to droop like a weeping willow, and tiny
+streams of sap flow down its bark like tears.
+~
+S
+#12973
+Corner Platform~
+   This corner of the merkin village looks to be one of the busiest 
+parts and the boards underfoot are polished smooth by the passing of
+many leathery webbed feet. The walkway to the south and west looks to
+loop around the whole village, but to the east is a wider pathway 
+leading away from the village.
+~
+129 0 1
+D1
+There is a narrow extension to the platform, leading east.
+~
+~
+0 -1 12974
+D2
+The walkway to the south is securely anchored to the trees.
+~
+~
+0 -1 12972
+D3
+A walkway leads west.
+~
+~
+0 -1 12981
+S
+#12974
+East Extension~
+   This wide annex to the merkin village is made from rougher pieces of
+timber, although they are worn smooth now by the passing of so many
+feet. A number of reed baskets lie to either side of the walkway. The
+extension continues to the east, while to the west is the main part of
+the village.
+~
+129 0 1
+D1
+The extension continues further east.
+~
+~
+0 -1 12975
+D3
+The corner platform lies to the west.
+~
+~
+0 -1 12973
+S
+#12975
+East Extension~
+   Gathering baskets are stacked up against the rough wooden rails on 
+either side of the walkway, ready to be collected and used by the
+hunter-gatherer merkins. To the north there is a wide platform, with 
+more baskets, and a ladder. To the west, is a whole village, suspended 
+from the five sacred oaks.
+~
+129 0 1
+D0
+To the north, there is a descent platform.
+~
+~
+0 -1 12976
+D3
+The east extension leads west back towards the main part of the 
+village.
+~
+~
+0 -1 12974
+S
+#12976
+Descent Point~
+   Empty gathering baskets are strewn around this platform, along with
+long lengths of rope, woven from vines. A rough-looking ladder protrudes
+through a hole in the centre of the platform, allowing access to the 
+prime hunting grounds of the marsh. Aside from the ladder, the only
+exit is south.
+~
+129 c 1
+D2
+The walkway to the south eventually leads to the Merkin village.
+~
+~
+0 -1 12975
+D5
+A rickety wooden ladder leads bogside.
+~
+~
+0 -1 12934
+S
+#12977
+Inside a Merkin Hovel~
+   A grubby pile of leathery loincloths and torn cloaks covers the 
+rough wooden pallet which the owner of this smelly hovel presumably 
+calls home. Occupying pride of place in a little alcove on the east
+wall is a strangely coloured rock, and a speckled eagles feather.
+~
+129 d 1
+D3
+A curtain separates the hovel from the rest of the roundhouse.
+~
+curtain~
+1 -1 12978
+S
+#12978
+The Merkin Roundhouse~
+   A small fire burns on the wide stone slab in the centre of the 
+roundhouse, the smoke drifting wearily upwards through a small hole in
+the centre of the straw roof. Alcoves to the north, west and east are
+divided from the main part of the house by worn leather curtains, which
+fail to keep by the unpleasant smell. The main walkway lies to the 
+south through a rough wooden gate.
+~
+129 d 1
+D0
+The smell of a Merkin hovel comes from behind a curtain to the north.
+~
+curtain~
+1 -1 12979
+D1
+The smell of a Merkin hovel comes from behind a curtain to the east.
+~
+curtain~
+1 -1 12977
+D2
+A rough gate protects the entrance to the roundhouse from intruders.
+~
+gate~
+1 -1 12981
+D3
+The smell of a Merkin hovel comes from behind a curtain to the north.
+~
+curtain~
+1 -1 12980
+S
+#12979
+Inside a Merkin Hovel~
+   This cramped single room dwelling could hardly be described as 
+a home, but for some primitive merkin, it undoubtedly is. There is 
+barely enough room to stand beside the messy bed and the damp air 
+makes this more than a little claustrophobic. The communal section 
+of the roundhouse lies to the south.
+~
+129 d 1
+D2
+A curtain separates the hovel from the rest of the roundhouse.
+~
+curtain~
+1 -1 12978
+S
+#12980
+Inside a Merkin Hovel~
+   A grim stench rises from the grubby blankets strewn over the rough
+pallet on the floor. Muddy footprints and a selection of filthy 
+loincloths are all over the place, and there is a distinct lack of
+fresh air. The only exit is to the east.
+~
+129 d 1
+D1
+A curtain separates the hovel from the rest of the roundhouse.
+~
+curtain~
+1 -1 12978
+S
+#12981
+Anchored Walkway~
+   Attached directly to the weeping oak, this section of the platforms
+is relatively stable. To the north, a merkin roundhouse dangles from the
+drooping limbs and sways gently in the breeze. There is an intersection
+to the east, but the walkway continues for quite some distance to the 
+west.
+~
+129 0 1
+D0
+A rough wooden gate blocks the way into the Merkin roundhouse to the 
+north.
+~
+gate~
+1 -1 12978
+D1
+A stable platform lies to the east.
+~
+~
+0 -1 12973
+D3
+A swaying walkway continues west.
+~
+~
+0 -1 12982
+S
+#12982
+Swaying Walkway~
+  This narrow wooden walkway is roughly half way between the swaying oak
+and the weeping oak, whose drooping limbs dangle around you. To the 
+south is a large wooden building attached to the weeping oak, which
+smells of stagnant water and fresh mud. The walkway continues east and
+west.
+~
+129 0 1
+D1
+A swaying walkway continues east.
+~
+~
+0 -1 12981
+D2
+A door blocks entrance to a small hut to the south.
+~
+door~
+1 -1 12983
+D3
+A swaying walkway continues west.
+~
+~
+0 -1 12986
+S
+#12983
+Inside the Merkin Nursery~
+   In the merkin nursery are a number of large pens, into which the 
+young merkins are divided by age. Until they reach maturity, merkins
+require very little apart from fresh mud (the good stuff has a high
+slime-content) and fresh worms (for protein). Once the merkins are
+large and agile enough to climb out of the pens themselves, they
+are considered grown and are expected to begin to provide for the rest
+of the village.
+~
+129 d 1
+D0
+A door leads north to a swaying walkway.
+~
+door~
+1 -1 12982
+D2
+A smell of stagnant water comes from behind a leathery curtain to the 
+south.
+~
+curtain leather~
+1 -1 12984
+S
+#12984
+Merkin Hatchery~
+   The hatchery is where all the freshly hatched spawn are placed, to 
+gain some weight and begin the maturation process before becoming 
+true merkins. The smell in here is not very pleasant, but a much
+worse smell leaks from under the door to the west. A leather curtain 
+hangs over the northern exit.
+~
+129 d 1
+D0
+A leathery curtain hangs across the northern archway.
+~
+curtain leather~
+1 -1 12983
+D3
+A sliding door divides this room from the spawning room to the west.
+~
+door sliding~
+1 -1 12985
+S
+#12985
+The Spawning Room~
+   This is possibly the most unpleasant aspect of merkin society - the
+village spawning room. Despite their notions of romance, merkin
+reproduction is like most other amphibians and requires only a pond of
+stagnant water, and some privacy. In this room, large vats of marsh
+water stand ready for the procreation process. Some contain fresh spawn
+and others are still awaiting fertile couples.
+~
+129 d 1
+D1
+A sliding door divides this room from the hatchery.
+~
+door sliding~
+1 -1 12984
+S
+#12986
+Walkway Junction~
+   This intersection high above the marsh is securely anchored to the
+large oak tree just to the northwest. Gaps between the boards have been
+covered over with lumps of mud fresh from the marsh. The walkway 
+continues to the east and west, and to the north the way is barred by
+a hanging drape of moss and leaves.
+~
+129 0 1
+D0
+A leafy hanging drapes across the entrance to a secluded walkway.
+~
+drape hanging moss leaves leafy~
+1 -1 12987
+D1
+A walkway continues east.
+~
+~
+0 -1 12982
+D3
+A walkway continues west.
+~
+~
+0 -1 12993
+S
+#12987
+Secluded Walkway~
+   Thick moss covers the oak tree on the west of the pathway, while to
+the east, dangling vines and descending tree branches form a kind of
+tunnel high above the marsh. The walkway continues towards the north, 
+while to the south, there is an intersection visible through the
+hanging leaves.
+~
+129 0 1
+D0
+The secluded walkway continues north.
+~
+~
+0 -1 12988
+D2
+A leafy hanging drapes across the walkway to the south.
+~
+drape leafy hanging~
+1 -1 12986
+S
+#12988
+Secluded Walkway~
+   Oak boughs heavy with vines, moss and flowers form an archway over 
+this secluded walkway, anchored to the huge oak tree. From this corner
+platform it is possible to see another two large oak trees poking out
+of the mist which clings to the marsh below. The walkway continues to
+the south and west.
+~
+129 0 1
+D2
+The secluded walkway continues south.
+~
+~
+0 -1 12987
+D3
+The secluded walkway continues west.
+~
+~
+0 -1 12989
+S
+#12989
+Hanging Garden~
+   Sweet perfume wafts from the red and blue flowers scattered over the 
+railings and down the bark of the oak on the south side of the walkway.
+A pair of rough wooden benches look made for two, and give a great view 
+northwards over the misty marsh towards forested mountains in the 
+distance.
+~
+129 0 1
+D1
+A secluded walkway continues to the east.
+~
+~
+0 -1 12988
+D3
+The hanging garden continues to the west.
+~
+~
+0 -1 12990
+S
+#12990
+Hanging Garden~
+   Clusters of bright yellow and blue flowers grow haphazardly over the
+rails and along the edges of the platforms. There is a low bench here, 
+about the right size for two people - this can only be some kind of
+lovers lane! The flowery secluded walkway continues to the east, while
+to the south there are no flowers.
+~
+129 0 1
+D1
+The hanging garden continues east.
+~
+~
+0 -1 12989
+D2
+A secluded walkway leads south.
+~
+~
+0 -1 12991
+S
+#12991
+Secluded Walkway~
+   Hanging vines and graceful tree limbs have grown around this section
+of the platforms giving it a private feel. Thick moss growing over the
+tree-bark on the east side muffles any sound, and the mist which 
+drifts up from the marsh has a similar damping effect on noise.
+~
+129 0 1
+D0
+A hanging garden lies to the north.
+~
+~
+0 -1 12990
+D2
+A platform lies to the south, beyond a curtain of vines.
+~
+curtain vines~
+1 -1 12992
+S
+#12992
+Corner Platform~
+   Firmly anchored to the Swaying Oak, this roughly square platform 
+creaks slightly as weight is redistributed on top, but otherwise is 
+very stable. The hanging boughs of the oak, and a tangle of dangling
+vines blocks the way north, but the walkways to the east and south
+are unobstructed.
+~
+129 0 1
+D0
+A secluded walkway lies to the north, beyond a curtain of vines.
+~
+curtain vines~
+1 -1 12991
+D1
+A walkway continues east.
+~
+~
+0 -1 12993
+D2
+A swaying walkway continues south.
+~
+~
+0 -1 12994
+S
+#12993
+Sturdy Walkway~
+   Thick beams support this section of walkway, which rather than being
+suspended is anchored firmly to the large oak tree to the north. There
+are intersections to the east and west, under the sheltering limbs of 
+the smallest of the great trees.
+~
+129 0 1
+D1
+A walkway continues east.
+~
+~
+0 -1 12986
+D3
+A platform lies to the west.
+~
+~
+0 -1 12992
+S
+#12994
+Swaying Platform~
+   The narrow slatted walkway sways in the gentle air currents high
+above the marsh. Thick ropes made from some kind of twisted vines creak
+as the platform moves. To the north is one of the Great Trees, and a
+more stable platform anchored to it, while to the south, the walkway
+continues.
+~
+129 0 1
+D0
+A sturdy platform lies to the north.
+~
+~
+0 -1 12992
+D2
+A swaying platform lies to the south.
+~
+~
+0 -1 12995
+>trans 5 12916 0~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+>trans 5 12916 2~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+S
+#12995
+Swaying Walkway~
+   Suspended from the huge boughs of a great oak high above, this narrow
+wooden walkway swings gently in the breeze. Over railings on either side
+tendrils of fog obscure the view of the marsh far below. There is some 
+kind of main platform to the south, while the walkway continues to the
+north.
+~
+129 0 1
+D0
+A swaying Walkway continues north.
+~
+~
+0 -1 12994
+D2
+The main platform lies to the south.
+~
+~
+0 -1 12945
+>trans 5 12922 0~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+>trans 5 12922 2~
+The walkway twists awkwardly in a sudden gust of wind, flipping you over
+the rail and down into the bog below.
+~
+S
+#12996
+Inside a Merkin Hovel~
+   This tiny room is the dwelling of some hapless impoverished merkin, 
+although the three brightly coloured rocks and the eagles feather
+displayed proudly above the squalid bed suggests that the inhabitant
+is content with his lot in life. To the east the roundhouse opens up
+into a more spacious communal area.
+~
+129 d 1
+D1
+A curtain separates the hovel from the rest of the roundhouse.
+~
+curtain~
+1 -1 12997
+S
+#12997
+Merkin Roundhouse~
+   The merkin roundhouse is a low circular wooden frame hut, with walls
+made of overlapping flexible willow twigs. To stop the wind coming 
+through and blowing things around, thick globs of swamp mud have been
+haphazardly pasted across the cracks. In this central area a small fire 
+burns on a circular stone plate. The smoke escapes through a narrow
+hole in the roof. To the north, east and west ragged leathery curtains
+hide more private alcoves where the merkins sleep.
+~
+129 d 1
+D0
+The smell of a Merkin hovel comes from behind a curtain to the north.
+~
+curtain~
+1 -1 12999
+D1
+The smell of a Merkin hovel comes from behind a curtain to the east.
+~
+curtain~
+1 -1 12998
+D2
+A rough gate protects the entrance to the roundhouse from intruders.
+~
+gate~
+1 -1 12951
+D3
+The smell of a Merkin hovel comes from behind a curtain to the west.
+~
+curtain~
+1 -1 12996
+S
+#12998
+Inside a Merkin Hovel~
+   A grim stench rises from the grubby blankets strewn over the rough
+pallet on the floor. Muddy footprints and a selection of filthy 
+loincloths are all over the place, and there is a distinct lack of
+fresh air. The only exit is to the west.
+~
+129 d 1
+D3
+A curtain separates the hovel from the rest of the roundhouse.
+~
+curtain~
+1 -1 12997
+S
+#12999
+Inside a Merkin Hovel~
+   This cramped single room dwelling could hardly be described as 
+a home, but for some primitive merkin, it undoubtedly is. There is 
+barely enough room to stand beside the messy bed and the damp air 
+makes this more than a little claustrophobic. The communal section 
+of the roundhouse lies to the south.
+~
+129 d 1
+D2
+A curtain separates the hovel from the rest of the roundhouse.
+~
+curtain~
+1 -1 12997
+S
+#99999
+$~

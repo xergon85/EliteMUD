@@ -1,0 +1,1287 @@
+#24000
+ring thorns~
+a Ring of Thorns~
+A ring made of thorns.~
+~
+9 90 aeim gj ab
+20 90 0 0 0 0
+1 30000 0
+E
+ring thorns~
+This ring, seems to be made of thorns, extremely sharp thorns, pointed
+outwards. But still, you notice that if this ring is worn, it will
+hurt as the thorns will sink into your flesh.
+~
+A
+2 -1
+A
+19 2
+#24001
+fiery blade burning~
+a Fiery Blade~
+A burning blade lights up the area.~
+~
+5 90 abefijm agju ano
+90 8 8 3 0 0
+15 3000 0
+E
+fiery blade burning~
+This sword is burning with a hot, dark red flame, that slowly dances
+around the blade. It hurts just to watch the incredibly hot flame, 
+while it performs the slow dance of death.
+~
+A
+18 5
+A
+19 5
+A
+21 10
+#24002
+shreds skin~
+Shreds of Terror~
+Long thin shreds of skin.~
+~
+5 80 abefijmn fhjn ano
+80 7 8 2 0 0
+14 1000 0
+E
+shreds skin terror~
+This...whip, has several long thin shreds, of what seems to be skin.
+Skin torn of the bodies while life still inhabited them. Shreds filled 
+with the terror and fear of their victims, as they were flayed.
+~
+A
+18 5
+A
+19 15
+#24003
+crown thorns~
+a Crown of Thorns~
+A crown lies here, radiating pain and sorrow.~
+~
+9 90 aeim gj ae
+15 90 0 0 0 0
+2 30000 0
+E
+crown thorns~
+A crown made for the rulers of the dead, for those who won't mind a 
+little pain. It truly is a wicked item, since some of the thorns
+surrounding it, are pointed inwards.
+~
+A
+2 -1
+A
+18 1
+A
+19 2
+#24004
+necklace dead chain skull~
+the Necklace of the Dead~
+A skull hanging from a chain lies here, grinning at you!~
+~
+9 100 cdhklops abcghjln ac
+14 100 0 0 0 0
+12 40000 0
+E
+necklace dead chain skull~
+The skull from a corpse of a long dead beast, adorns this necklace. 
+You can feel the residues of the dark and evil magic, that brought this
+necklace to be. As you put it around your neck, you immediately feel
+tainted and dirty, but at the same time you feel power, tremendous
+power, rushing into you.
+~
+A
+6 -2
+A
+12 100
+A
+13 50
+#24005
+soul believer form~
+the Soul of a Believer~
+A shimmering insubstantial form.~
+~
+1 100 cdfghjklnops bcfgjl ao
+0 0 -1 0 0 0
+1 1 0
+E
+soul believer form~
+You find it hard to believe your eyes, as you gaze upon the shimmering
+shape in your hands. Sometimes you see a tiny face, contorted by pain
+and anguish. But still it seems to emnate a crazed kind of silent 
+worship of the dark.
+~
+A
+12 75
+A
+19 1
+A
+24 10
+#24006
+staff screams~
+a Staff of Screams~
+A staff covered with gaping mouths lies here screaming at you!~
+~
+5 100 abcdfghjklnops bcegj ano
+100 4 20 7 0 0
+16 10000 0
+E
+staff screams~
+As you grab this staff, your ears suddenly get filled with screams of
+anguish and despair. It seems like this staff is a...container...of 
+souls, with each soul represented by a gaping mouth on the staff.
+~
+A
+12 80
+A
+18 6
+#24007
+dagger shadows~
+a Dagger of the Shadows~
+A dagger that seems to blend into the shadows.~
+~
+5 85 abdefghijlmnop cefgj ano
+85 5 8 11 0 0
+10 25000 0
+E
+dagger shadows~
+This dagger, which seems to fade into every shadow, was made for the
+demonic assassins. It is even difficult to notice, even when you know
+it is there.
+~
+A
+18 10
+A
+19 8
+#24008
+spear shadow~
+a Spear of the Shadows~
+A spear, yearning for the shadows.~
+~
+5 85 abefijmn cefgj ano
+85 6 10 12 0 0
+12 25000 0
+E
+spear shadow~
+As you grab this spear, you can't help but notice that all the shadows
+around you, seem to be pulled towards you. You can actually...feel the
+shadows growing more and more dense.
+~
+A
+18 7
+A
+19 10
+#24009
+cloak shadowy~
+a Shadowy Cloak~
+A cloak is here, shading the area.~
+~
+9 85 abdefghijlmnop cfgj ak
+18 85 0 0 0 0
+3 30000 0
+E
+cloak shadowy~
+This cloak is the closest thing you can get to a shadow, without 
+actually being a shadow. As you put it on, you can't help but notice,
+how you seem to fade into the shadows.
+~
+A
+24 10
+B st
+#24010
+bloodstained chainmail~
+a Bloodstained Chainmail~
+A chainmail covered with bloodred spots.~
+~
+9 90 abefijm jl ad
+40 90 0 0 0 0
+26 5000 0
+E
+bloodstained chainmail~
+This chainmail, worn by the Daemonettes, has several spots on it, dark
+red spots. Propably bloodstains. The Daemonettes were never known of
+being tidy.
+~
+A
+18 3
+A
+19 3
+#24011
+whip talons~
+a Whip of Talons~
+A whip with several small talons attached to it.~
+~
+5 90 abefijmn bcj ano
+90 7 7 2 0 0
+14 4000 0
+E
+whip talons~
+A whip, made of somekind of hard...skin, with several small and 
+extremely sharp talons attached to it. It is truly an instrument of 
+pain, and it seems to have been utilised a lot lately. You can see 
+shreds of skin and fur, still hanging from some of the talons.
+~
+A
+18 6
+A
+19 6
+#24012
+mace slaughter~
+a Mace of Slaughter~
+A mace lies here, crying out for more slaughter.~
+~
+5 100 acdefgijklmos abcgjl ano
+100 9 9 6 0 0
+32 80000 0
+E
+mace slaughter~
+The two feet long mace before you, seems to call out...no, CRY out for
+you to take it and use it. It wants to destroy, annihilate and kill.
+You feel uneasy at the thought and touch of the mace.
+~
+A
+18 12
+A
+19 10
+#24013
+chainmail darkred~
+Battered Crimson Steel Chainmail~
+A well used darkred chainmail.~
+~
+9 100 abcdefgijklmos abcgjl ad
+45 100 0 0 0 0
+75 50000 0
+E
+chainmail darkred~
+The chainmail of the Crimson Lord, darkred as if painted with blood. 
+You see small rubys, forming a strange pattern on the back. Either it 
+means something, or they've been placed there for extra protection.
+However, it doesn't seem to work as it should, since the chainmail is 
+pretty damaged. But still it offers great protection.
+~
+A
+18 3
+A
+19 3
+A
+24 5
+#24014
+boots pointed~
+Sharp Pointed Battle Boots~
+A pair of pointed, darkred boots.~
+~
+9 100 abcdefgijklmos abcgjl ag
+13 100 0 0 0 0
+16 45000 0
+E
+boots pointed~
+A pair of boots, darkred boots, crafted for the mighty Crimson Lord.
+You consider the amount of damage these boots could inflict, and as 
+you see that they are pointed, you come to the conclusion: A LOT!
+~
+A
+18 1
+A
+19 1
+A
+14 -50
+#24015
+gauntlets darkred~
+Blood Covered Chain Gauntlets~
+A pair of darkred gauntlets with chains dangling from them.~
+~
+9 100 abcdefgijklmos abcgjl ah
+15 100 0 0 0 0
+20 45000 0
+E
+gauntlets darkred~
+The gauntlets of the Crimson Lord, have a dark reddish color. But you
+bet that some of that color, actually is blood. They seem to be made 
+of some really tough material, but you fail to recognize it. There's a 
+lot of chains attached to them, propably to cause more damage. Oh, and 
+maybe even enhance the armor.
+~
+A
+18 4
+A
+19 4
+#24016
+darkred skull~
+Darkred Beast Skull~
+The darkred skull of a long dead beast.~
+~
+9 100 abcdefgijklmos abcgjl ae
+25 100 0 0 0 0
+20 45000 0
+E
+darkred skull~
+This darkred skull, belonging to the Crimson Lord, was taken from what 
+seems to have been a magnificent being. If worn, this might as well 
+scare the owners opponets to death. It...looks quite terrifying.
+~
+A
+18 1
+A
+19 1
+#24017
+greaves metallic~
+Crimson Red Metallic Greaves~
+A pair of red metallic greaves.~
+~
+9 100 abcdefgijklmos abcgjl af
+15 100 0 0 0 0
+45 45000 0
+E
+greaves metallic~
+A pair of greaves from the Crimson Lord lies here, taunting your mind
+with its darkred color. These greaves will give excellent protection, 
+but they are quite heavy.
+~
+A
+14 -50
+A
+18 1
+A
+19 1
+#24018
+armplates darkred~
+Dented and Bloodied Armplates~
+A pair of darkred armplates.~
+~
+9 100 abcdefgijklmos abcgjl ai
+17 100 0 0 0 0
+25 45000 0
+E
+armplates darkred~
+The darkred armplates of the Crimson Lord, giving superb protection in
+exchange for comfort. They are heavy and big, thus making them 
+somewhat clumsy and uncomfortable.
+~
+A
+18 1
+A
+19 1
+#24019
+braids bloody~
+Bloody Braids of a Red Haired Wench~
+A pile of bloody hair.~
+~
+9 100 abcdefgijklmos abcgjl al
+12 100 0 0 0 0
+10 45000 0
+E
+braids bloody~
+This is a really wicked trophy of the Crimson Lord. The braids of a 
+red haired woman, now very bloody. The braids have been tightly 
+entwined together, to form a...belt for the wicked. The poor womans,
+now quite decayed head, is still dangling from the end of the braids.
+~
+A
+18 2
+A
+19 2
+#24020
+veil insanity cloth jewel~
+a Veil of Insanity~
+A pile of cloth with a brightly flashing jewel.~
+~
+9 100 abcefgijkmnos c ae
+15 100 0 0 0 0
+6 45000 0
+E
+veil insanity cloth jewel~
+The veil of insanity! You shiver at the touch of it, and wonder if the
+stories of old tell any truth. The stories of an insane warrior, who 
+was bereft of his soul and life. His soul was forced into a headwear 
+as a gift for the demon Emperor. Now he rages eternally in it.
+~
+A
+12 -100
+A
+18 3
+A
+19 2
+#24021
+blade crazed~
+the Blade of the Crazed~
+An oddly shaped blade.~
+~
+5 100 abefijmn abc ano
+100 9 8 12 0 0
+24 5000 0
+E
+blade crazed~
+A sword with an extremely odd shape to its blade. It is formed 
+something like a...spiral! You can imagine the damage this 
+weapon can inflict.
+~
+A
+18 6
+A
+19 13
+#24022
+cape repulsive repulsion garment~
+a Cape of Repulsion~
+An extremely repulsive garment.~
+~
+9 100 abcdfghjklnops g ak
+15 100 0 0 0 0
+24 3000 0
+E
+cape repulsive garment~
+As you look upon this...cape, you feel sick! You feel ready to throw 
+up at any time, as a stench strikes at your nostrils. Flies gather 
+around this filthy cape.
+~
+A
+6 -2
+A
+20 10
+A
+21 10
+A
+24 10
+#24023
+femur bone white~
+a Femur~
+A long white bone, covered with chewing marks.~
+~
+5 80 bfjn cghjn ano
+80 8 7 7 0 0
+22 1000 0
+E
+femur bone white~
+A long white bone that someone has been chewing on.
+~
+A
+6 -1
+A
+19 12
+#24024
+jug blood liquid~
+a Jug of Blood~
+A jug full of a darkred liquid.~
+~
+5 105 abcdfghijklmnops bcgjl ao
+105 9 6 7 0 0
+20 15000 0
+E
+jug blood liquid~
+A large black jug full of what seems to be blood. You try to pour it 
+out, but a little later, the jug is full of blood again. This is a 
+wicked item. But on the other hand, the bloodthirster is quite a 
+bizzare character.
+~
+A
+12 100
+A
+12 100
+A
+18 5
+A
+19 7
+#24025
+shield fear blank~
+a Shield of Fear~
+A blank shield, reflecting your most secret fears.~
+~
+9 100 0 gj aj
+12 100 0 0 0 0
+6 20000 0
+E
+shield fear blank~
+A large but surprisingly light shield, made of some kind of highly
+polished metal. You can clearly see your own reflection in it, and it
+frightens you. You quickly turn away, and immediately you feel your 
+courage return.
+~
+A
+18 1
+A
+19 1
+#24026
+burning soul shimmering shape~
+a Burning Soul~
+A shimmering shape, seems to be burning with a bluish flame.~
+~
+5 100 abcdfghjklnops abgjlu ano
+100 6 6 2 0 0
+8 10000 0
+E
+burning soul shimmering shape~
+A shimmering shape, feeding a hot bluish kind of fire with itself. It 
+sacrifices itself just to keep the flame burning, but it doesn't seem 
+to die. It fades just to come back again, stronger than ever.
+~
+A
+18 15
+A
+19 10
+#24027
+skull mace stick~
+a Skull Mace~
+A long stick, with a skull attached to it.~
+~
+5 100 cdfghklnops abcgjl ano
+100 7 9 7 0 0
+26 1000 0
+E
+skull mace stick~
+A long stick adorned with a large horned skull. You look at the skull
+and get a shock as you see a faint glow within. Inside the skull, a 
+light seems to have been imprisoned. Or could it be another soul?
+~
+A
+18 8
+A
+19 12
+#24028
+blade unholiness knife~
+Unholy Blade of the Dark~
+A well used knife, absolutely drenched with unholiness.~
+~
+5 105 abcdefghijlmnop cjl ano
+105 8 6 11 0 0
+8 30000 0
+E
+blade knife unholiness unholy~
+A sharp and very well used knife. Obviously a very old knife, but 
+still it is in a very good condition. Cared for as a child by the 
+demonic dark reaper.
+~
+A
+18 12
+A
+19 12
+#24029
+ring runic~
+a Runic Ring of Sorrow~
+A ring covered with small cuts, filling you with pity and sorrow.~
+~
+9 105 abcdefghijlmnop cjl ab
+20 105 0 0 0 0
+6 30000 0
+E
+ring runic~
+A small and very old ring, covered with small, tiny cuts. Several 
+hundred of them. You wonder what they are supposed to mean, since 
+some of the cuts are newly made, while others are as old as the 
+ring itself.
+~
+A
+18 3
+A
+19 3
+#24030
+carving evil signs~
+a Carving of Utter Evil~
+The oldest of signs, meant for the most evil beings.~
+~
+9 105 abcdefghijlmnop cjl am
+15 105 0 0 0 0
+10 30000 0
+E
+carving evil signs~
+Carved into skin, is the most evil of the ancient signs for the demons.
+Glowing with hatred and malice, you feel the strength seep into you. 
+Death is a relief, torture...is fun!
+~
+A
+18 2
+A
+19 2
+#24031
+wand madness~
+a Wand of Madness~
+A wand lies here, full of madness.~
+~
+3 100 bcdfghjklnops bg ao
+100 3 3 106 0 0
+2 10000 0
+E
+wand madness~
+A wand shaped in a wicked way. No matter how much you try, you always 
+fail to find the beginning and the end of the wand. As you touch it, 
+you feel...crazy! The madness that twisted this artefact, now seeps 
+into you.
+~
+#24032
+ribcage armor~
+a Ribcage Armor~
+A huge ribcage from a long dead beast.~
+~
+9 105 bcdfghjklnops cjl ad
+30 105 0 0 0 0
+100 1000 0
+E
+ribcage armor~
+A huge disgusting ribcage of a long dead beast. You feel power rushing 
+within it, but still you feel reluctant in trying it out. It really is 
+a repulsive piece of work.
+~
+A
+6 -2
+A
+12 100
+A
+12 100
+A
+12 25
+#24033
+orb repulsion~
+The Orb of Repulsion~
+A dirty and very repulsive orb.~
+~
+9 100 abcdfghjklnops g aj
+13 100 0 0 0 0
+30 1000 0
+E
+orb repulsion~
+An orb of energy that surrounds you. You feel it push away everyone 
+and everything with its disgusting appereance. Flies surround it in
+multitudes, and it stinks like...well, it's quite awful. You feel sick.
+~
+A
+6 -1
+A
+20 5
+A
+21 5
+#24034
+badge champion~
+the Badge of the Champion~
+A large badge, hanging from a thick gilded chain.~
+~
+9 105 abcefgijkmos abgjl ac
+20 105 0 0 0 0
+15 20000 0
+E
+badge champion~
+A large badge, given to the greatest of the dreaded Deth guards. On it 
+you can see carved signs saying that the wearer of this badge, is a 
+true champion of terror and annihilation. It is hanging from a thick 
+gilded chain.
+~
+A
+1 3
+A
+18 3
+A
+19 3
+#24035
+stone axe~
+a Stone Axe~
+An axe, made of solid stone.~
+~
+5 105 abcefghikmnops 0 ano
+105 7 9 6 0 0
+30 5000 0
+E
+axe stone~
+A large and very heavy axe, made of some kind of greyish stone. Though 
+very blunt, it still is a very formidable weapon. Some runes have been 
+hacked into the side of the axe, but time has worn it down.
+~
+A
+1 3
+A
+18 5
+A
+19 16
+#24036
+warhammer soulsmasher~
+the Soulsmasher~
+A huge two-handed warhammer breaks the silence.~
+~
+5 105 abcdefghijklmnos abcgj anq
+105 10 9 6 0 0
+35 10000 0
+E
+warhammer soulsmasher~
+A huge hammer, created for the single purpose of war. To kill the 
+living and to torture the dead. You can see some runes carved into the 
+long handle, but you fail to decipher them all. But some of them tell 
+of souls being contained within the hammer, therefore making it 
+possible to strike at the dead as well.
+~
+A
+18 10
+A
+19 10
+A
+24 5
+#24037
+aura souls shapes~
+an Aura of Souls~
+Several shimmering shapes are here, crying for revenge.~
+~
+9 105 0 abkl ak
+7 105 0 0 0 0
+2 50000 0
+E
+aura souls shapes~
+Several shimmering shapes are here, begging for you to avenge their 
+deaths. As your heart melts with compassion, you let them cling onto 
+you. At once you begin to feel how power, tremendous power, rushes 
+into you. You feel stronger than ever.
+~
+A
+12 100
+A
+13 25
+#24038
+claymore sword~
+Claymore~
+A huge sword, blessed by the Gods.~
+~
+5 105 abcdefghijklmops abgikl anq
+105 8 9 3 0 0
+30 50000 0
+E
+claymore sword~
+A huge two-handed sword, glows with a faint light. This sword was 
+forged and blessed in ancient times for those who dedicated their 
+lives to destroy evil. This is as holy as a weapon possibly could get.
+~
+A
+18 15
+A
+19 20
+#24039
+shield purity~
+Shield of Everglowing Purity~
+A shield pulsating with holy wrath.~
+~
+9 105 abcdefghijklmops abgikl aj
+15 105 0 0 0 0
+18 50000 0
+E
+shield purity~
+A shield forged with holy wrath, yearning for you to wear it while 
+fighting evil. There are none of the usual signs of an owner, but 
+hundreds of tiny runes line the edges. They are to old for you to 
+recognize, but you bet they have something to do with fighting evil.
+~
+A
+18 2
+A
+19 2
+#24040
+broken crown remnants~
+a Broken Crown~
+The remnants of a once magnificent crown.~
+~
+9 105 abcdefghijklmops abgikl ae
+30 105 0 0 0 0
+15 15000 0
+E
+broken crown remnants~
+A crown with its former beauty shattered, but still it manages to show
+off a great amount of power...true power. It seems to be made of gold,
+but with streaks of red swirling around in it, making it look alive.
+~
+A
+18 2
+A
+19 2
+#24041
+dagger wicked~
+the Dagger of the Wicked~
+A quite ordinary looking dagger, with a wicked touch to it.~
+~
+5 90 0 bfghn ano
+92 9 5 11 0 0
+10 10000 0
+E
+dagger wicked~
+As you grab this quite ordinary looking dagger, you feel filthy and 
+tainted. You feel as if something has been forced upon you, but you 
+can't tell what.
+~
+A
+18 5
+A
+19 10
+#24042
+bag souls black~
+Bag of Souls~
+A pitch black bag, filled with movement and screams.~
+~
+15 100 0 abcefghjn ao
+150 5 -1 0 0 0
+20 30000 0
+E
+bag souls black~
+A bag, darker than the night, made of soft velvet cloth with inlaid
+strands of gold and silver placed in intricate patterns. You can feel
+through the cloth, something pushing, trying to get out. As you open
+the bag you feel...a power, surging beside and through you, escaping
+the bag.
+~
+#24043
+sceptre crystal~
+the Emperor's Sceptre~
+A large sceptre, topped with a perfect crystal skull.~
+~
+5 105 aeim abcgjl ao
+105 15 5 6 0 0
+28 90000 0
+E
+sceptre crystal~
+A sceptre, used by the demonic emperors since the beginning of time.
+The maybe three feet long sceptre is topped with a skull, perfectly
+cut from the clearest of crystals. Within the skull, light has been
+trapped, thus making it glow softly.
+~
+A
+18 12
+A
+19 8
+B k
+#24044
+belt skulls~
+Belt of Skulls~
+Several skulls, fastened to a belt made of hair.~
+~
+9 105 bfjn abcghjln al
+15 105 0 0 0 0
+24 10000 0
+E
+belt skulls~
+A belt with several skulls dangling from what seems to be braids. The
+skulls are all from different races. You feel the taint of this evil
+artefact as you touch it. Powerful and foul magic has been worked here
+by the most powerful of magicians.
+~
+A
+12 25
+A
+18 1
+A
+19 1
+#24045
+bowl souls~
+the Bowl of Souls~
+A small bowl filled with the wailing cries of the captured souls.~
+~
+3 105 bcdfghjklnops abfgm ao
+105 5 5 107 0 0
+10 90000 0
+E
+bowl souls~
+A small black bowl with figures of pain and despair painted on it with 
+a sharp red color. The color stings your eyes...You look into the bowl 
+and see movement. But that is all there is. Movement.
+~
+#24046
+witchblade blade~
+Witchblade~
+A short blade, glowing with a bright blue color.~
+~
+5 105 bdfhjlnp abcgju ano
+105 8 6 12 0 0
+16 30000 0
+E
+witchblade blade~
+This shortbladed sword is emnating a bright hot blue glow. As you try 
+it out, the sword seems to meld with your arm. Becoming a lethal 
+extension of it.
+~
+A
+18 12
+A
+19 6
+#24047
+axe longshafted~
+the Axe of the Berzerker~
+A longshafted axe reflects the last fading rays of sunlight.~
+~
+5 100 abcefghijklmns c anq
+100 10 8 3 0 0
+36 60000 0
+E
+axe longshafted~
+A highly polished and very heavy axe rests comfortably in your hands. 
+You feel an urge to kill. You feel yourself being swept away and you 
+struggle furiously to regain control of yourself.
+~
+A
+14 100
+A
+18 10
+A
+19 10
+#24048
+book necronomicon~
+the Necronomicon~
+A book with a vicious looking face carved into it.~
+~
+4 90 abcdfghjklnops bceghjlmn ao
+100 6 6 103 0 0
+10 150000 0
+E
+book necronomicon~
+Necronomicon, the book of the dead! You tremble at the touch of the 
+human skin used as cover. This book is one of the most wanted magical 
+artefacts. The carved face on the cover is distorted with pain, 
+looking like it is being torn between two worlds. Suddenly the eyes 
+pop open...
+~
+A
+12 100
+A
+12 100
+#24049
+souls vial living~
+Souls of the Living~
+A small vial filled with a greyish mist.~
+~
+10 90 0 abfg a
+100 3 28 39 0 0
+4 10000 0
+E
+souls vial living~
+A small vial made of clear glass. You doubt you could break this vial, 
+no matter how hard your efforts would be. Inside the vial you see a 
+greyish mist swirling around in intricate patterns.
+~
+#24050
+cloak velvet red~
+a Red Velvet Cloak~
+A pile of soft red velvet.~
+~
+9 105 efgjklo agjl ak
+15 105 0 0 0 0
+30 100000 0
+E
+cloak velvet red~
+A large red cloak, made of a very soft and smooth velvet garment. It 
+has a strange kind of glow, and as it catches the wind it seems to 
+expand.
+~
+A
+12 50
+A
+24 15
+#24051
+jar agony~
+a jar of agony~
+A large jar, filled with sounds of crying.~
+~
+10 90 0 abcgn a
+100 4 17 33 0 0
+10 100 0
+E
+jar agony~
+A large black jar, filled with pain and suffering. A wicked...trophy!
+~
+#24052
+fountain~
+a fountain of blood~
+A fountain filled with a thick red fluid.~
+~
+23 1 0 abcghn 0
+200 200 13 0 0 0
+1 1 0
+E
+fountain~
+The fountain is quite big, and it seems to be made of white marble 
+that now is rather red. Stories mention that this fountain not only 
+hold blood, but also the last thoughts of the victims that the mighty 
+Bloodthirster has killed.
+~
+#24053
+nightbringer trident~
+Three Headed Nightbringer~
+A black trident yearns for the night.~
+~
+5 105 0 cfhn ano
+105 20 2 11 0 0
+20 1 0
+E
+nightbringer trident~
+This is a legendary weapon. It's said that the night was captured 
+and forced into three magical artefacts. But that can't be quite right,
+since night still exists, or..? The trident is pitch black, and is 
+maybe three feet long.
+~
+A
+18 10
+A
+19 10
+#24054
+lashes strands~
+Lashes of Darkness~
+Pitch black strands of darkness lie curled up in a neat pile.~
+~
+5 105 0 cfhn ano
+105 2 40 2 0 0
+18 1 0
+E
+lashes strands~
+This is a legendary weapon. It's said that the night was captured
+and forced into three magical artefacts. But that can't be quite right,
+since night still exists, or..? It looks like a whip...but it 
+certainly looks odd, as the whip disappears occasionally into the 
+night, just to come back for more destruction.
+~
+A
+18 10
+A
+19 10
+#24055
+shroud~
+Dark Shroud of Swirling Blackness~
+A shroud of utter black swirls around here, disturbing your view.~
+~
+9 105 0 cfhn ak
+10 105 0 0 0 0
+40 1 0
+E
+shroud~
+Nightshroud! A legendary piece of armor. It's said that the night was
+captured and forced into three magical artefacts. But that can't be
+quite right, since night still exists, or..? The shroud is dark, very
+dark, as extremely thick darkness engulfs this item.
+~
+A
+24 20
+#24056
+vial magma~
+Vial of Glowing Magma~
+A vial full with a hot red fluid.~
+~
+1 100 cefgkops abgu ao
+0 0 500 0 0 0
+12 1000 0
+E
+vial magma~
+A small vial full of what seems to be magma. At least it is hot, very
+hot, and it does light up the room somewhat. The vial seems to be made
+of white marble, but you bet magic has enhanced it.
+~
+A
+19 4
+A
+20 -10
+A
+21 30
+#24057
+mirror key~
+Small Mirror~
+A small mirror reflects your thoughts.~
+~
+18 1 0 g a
+0 0 0 0 0 200
+2 1 0
+E
+mirror key~
+A small, almost tiny mirror. It has quite an odd shape to it, since it
+vaguely resembles a key. The mirror seems strange. It sort of,
+reflects your image in a strange way. Everything looks too clear.
+~
+#24058
+cracked mirror key~
+Cracked Mirror~
+A small, cracked mirror.~
+~
+18 1 0 g a
+0 0 0 0 0 200
+2 1 0
+E
+cracked mirror key~
+A small, broken mirror. A large crack runs straight through it. That's
+odd, it resembles a key. Who would make a key out of a mirror?
+~
+#24059
+key claw~
+Clawkey~
+A large oddly shaped claw.~
+~
+18 1 0 g a
+0 0 0 0 0 200
+2 1 0
+E
+key claw~
+A large claw that someone has been carving on. It is shaped like a key,
+thus making it look pretty grotesque.
+~
+#24060
+bag diamonds~
+Bag of Diamonds~
+A large bag full of glittering stones.~
+~
+8 1 0 0 a
+0 0 0 0 0 0
+50 100000 0
+E
+bag diamonds~
+A large black bag, full of what seems to be diamonds. This must be
+worth a lot.
+~
+#24061
+chest gold~
+Gold Chest~
+A chest full of golden bars.~
+~
+8 1 0 0 a
+0 0 0 0 0 0
+75 100000 0
+E
+chest gold~
+A large and very heavy chest, full of golden bars. Gold!? This must be
+worth a lot.
+~
+#24062
+skeleton~
+Minotaur Skeleton~
+A skeleton of a long dead minotaur.~
+~
+13 1 0 hn a
+0 0 0 0 0 0
+50 1 0
+E
+skeleton~
+A skeleton of a long dead minotaur, judging by the size and the 
+remaining horns.
+~
+#24063
+skeleton~
+Dwarven Skeleton~
+A short skeleton, with very thick bones.~
+~
+13 1 0 hn a
+0 0 0 0 0 0
+40 1 0
+E
+skeleton~
+A short skeleton. Dwarven bones judging by the thickness and the 
+height.
+~
+#24064
+skull~
+a Crushed Skull~
+A skull that someone has crushed.~
+~
+13 1 0 hn a
+0 0 0 0 0 0
+10 1 0
+E
+skull~
+The skull of someone who died of a hard blow to the head.
+~
+#24065
+corpse~
+a Decaying Corpse~
+The corpse of a fairy lies here, covered with flies.~
+~
+15 1 0 0 a
+1 0 -1 0 0 0
+16 1 0
+E
+corpse~
+The decaying corpse of a small fairy has been left to rot.
+~
+#24066
+corpse~
+a Rotting Corpse~
+The remains of a small gnome child is here.~
+~
+13 1 0 hn a
+1 0 -1 0 0 0
+16 1 0
+E
+corpse~
+A small gnome child, or at least you think it is...was a gnome.
+~
+#24067
+pile ashes~
+a Pile of Ashes~
+A smoking pile of ashes.~
+~
+13 1 0 hn a
+0 0 0 0 0 0
+10 1 0
+E
+pile ashes~
+A large pile of still smoldering ashes. Seems like the demons had a 
+barbeque here, since you see a couple of hands and feet still lying in
+the pile...unharmed.
+~
+#24068
+wood piece shield~
+Large Piece of Wood~
+A large piece of thick wood lies here, slightly resembling a shield.~
+~
+9 70 0 0 aj
+8 70 0 0 0 0
+22 6 0
+E
+wood piece shield~
+A large piece of a tree trunk. Thick and very heavy. A few straps have
+been attached to it so that you can strap it to your arm...as a shield!
+~
+#24069
+wooden buckler~
+Wooden Buckler~
+A small buckler, seemingly made out of wood.~
+~
+9 70 0 0 aj
+5 70 0 0 0 0
+10 500 0
+E
+wooden buckler~
+A small round buckler, made of what seems to be oak. Hard and sturdy.
+It is so small, it must take quite a vain charcter to use one of these.
+Or an expert in battle.
+~
+#24070
+sphere soulsphere~
+Soulsphere~
+A large sphere, pulsating with life.~
+~
+1 100 acdeghiklmops abg ao
+0 0 -1 0 0 0
+4 10000 0
+E
+sphere soulsphere~
+This is the soulsphere of someone. The vessel into which the soul
+flees upon death. You can feel power surging...racing through it.
+Raging towards the boundaries that is holding it in.
+~
+B D
+#24071
+face pile skin~
+Torn off Face of a Man~
+A pile of skin.~
+~
+9 100 abcd chjn ae
+25 80 0 0 0 0
+10 10000 0
+E
+face pile skin~
+The torn of face of a man glares at you with hollow eyes. A terrible
+object meant to spread fear and hatred. A toy for the wicked!
+~
+A
+12 100
+A
+13 100
+#24072
+fairy wings~
+a Pair of Fairy Wings~
+A pair of small almost translucent wings.~
+~
+9 100 bcdfghjklnops fgik ak
+5 100 0 0 0 0
+5 40000 0
+E
+fairy wings~
+A small pair of wings, 'plucked' from a fairy. It is hard to see them,
+since they are almost translucent, and very small.
+~
+A
+24 10
+B B
+#99999
+$~

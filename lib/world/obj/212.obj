@@ -1,0 +1,141 @@
+#21200
+skin jaguar runa~
+a jaguar skin~
+A spotted skin rests on the ground.~
+~
+9 40 0 0 ac
+5 40 0 0 0 0
+10 100 0
+E
+skin jaguar runa~
+A jaguar's skin is prized by the Runa for its beauty.  The roseated
+pattern allows the jaguar to blend in with the shadowy jungle.
+~
+#21201
+dart poison poisoned runa~
+a poisoned dart~
+A small dart glistens with deadly poison.~
+~
+3 30 0 0 ano
+30 2 2 33 0 0
+2 50 0
+E
+dart poison poisoned runa~
+The small dart glistens with the deadly poison of the poison-arrow
+frog.  The poison is strong enough to paralyze a small peccary, and
+may even do some damage to you if you're not careful!
+~
+#21202
+spear wooden runa~
+a wooden spear~
+A wooden spear rests in a pool of blood.~
+~
+5 30 0 0 an
+30 3 4 11 0 0
+5 100 0
+E
+spear wooden runa~
+The wooden spear is simply a long stick which has been sharpened at
+one end.  With metal and minerals so scarce in the jungle, the Runa
+use what they can to make weapons.
+~
+#21203
+pouch leather runa~
+a small leather pouch~
+A small leather pouch has been dropped here.~
+~
+15 1 0 0 a
+20 0 -1 0 0 0
+3 50 0
+E
+pouch leather runa~
+The small leather pouch appears to be used to hold herbs that have
+been collected in the jungle.  The residue from several medicinal
+plants clings to the inside of the pouch.
+~
+#21204
+sampaka leaf runa herb~
+a sampaka leaf~
+A small leaf rests gently on the ground.~
+~
+19 1 0 0 a
+1 0 0 0 0 0
+1 10 0
+E
+leaf sampaka herb runa~
+This small leaf comes from one of the many trees that grow in the
+jungle.  It is used to make sampakatishi, which is used by hunters to
+sharpen their senses.
+~
+#21205
+sampakatishi clay jar runa~
+a small clay jar~
+Simple, yet useful, this small clay jar contains a Runa concoction.~
+~
+10 30 0 0 a
+30 44 0 0 0 0
+2 50 0
+E
+jar clay runa~
+The small clay jar is used to hold potions and remedies made by the
+Runa.  Some may be useful, and some may be harmful, so beware!
+~
+#21206
+masero leaf herb runa~
+a masero leaf~
+A small blackish leaf rests on the ground.~
+~
+19 1 0 0 a
+1 0 0 1 0 0
+1 10 0
+E
+masero leaf herb~
+The leaves of the masero are often used by the Runa to create nasty
+potions.  This herb is considered by many in the tribe to be very bad
+luck!
+~
+#21207
+maseropini clay jar runa~
+a small clay jar~
+Simple, yet useful, this small clay jar contains a Runa concoction.~
+^      ~
+10 30 0 0 a
+30 17 27 0 0 0
+2 50 0
+E
+jar clay runa~
+The small clay jar is used to hold potions and remedies made by the  
+Runa.  Some may be useful, and some may be harmful, so beware what   
+you taste!
+~
+#21208
+epi'kimi root herb runa~
+a piece of epi'kimi root~
+A small root sticks up from the ground.~
+~
+19 1 0 0 a
+1 0 0 0 0 0
+1 10 0
+E
+epi'kimi root herb~
+This finger-like root comes from a rare tree that is found only in 
+the homeland of the Runa.  The juice from this small root, known to
+the Runa as epi'kimi, is mixed with several other herbs to make
+potion that is used for healing wounds.
+~
+#21209
+epi'kimi clay jar runa~
+a small clay jar~
+Simple, yet useful, this small clay jar contains a Runa concoction.~
+~
+10 30 0 0 a
+30 16 0 0 0 0
+2 50 0
+E
+jar clay runa~
+The small clay jar is used to hold potions and remedies made by the
+Runa.  Some may be useful, and some may be harmful, so beware what
+you taste!
+~
+#99999
+$~

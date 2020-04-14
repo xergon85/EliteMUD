@@ -1,0 +1,177 @@
+#30001
+assassin guard sentry~
+an assassin~
+An assassin stands here, guarding the entrance to the ancient hideout.
+~
+He is completely dressed in black and looks very agile.
+~
+1 4 1574 525312 -450 S
+30 7 -5 2d100+300
+400 500 100 3d6+8 -1
+-1
+-1
+500 100000 8 8 1
+#30002
+assassin cloak figure~
+a cloaked figure~
+You see a a figure in the shadows floating at you.
+~
+All you can see is a the two yellow dots that must be the eyes.
+~
+1 4 36 263176 -400 S
+33 4 -8 2d100+350
+400 500 100 3d6+10 -1
+-1
+-1
+700 125000 8 8 1
+#30003
+shadow~
+A shadow~
+A shadow is moving around in the smoke.
+~
+Hmm a shadow without form? That must be it.
+~
+10 4 34 525354 -300 S
+35 2 -10 3d100+350
+400 500 100 3d8+8 -1
+-1
+-1
+600 142000 8 8 0
+#30004
+elf slave cook~
+A slave cook~
+An elf slave is making a dinner here.
+~
+The elf slave looks very depressed and must be constantly threatened by
+the foul assassins.
+~
+1 4 134 1024 400 S
+20 12 2 1d100+200
+400 500 100 3d5+2 -1
+-1
+-1
+0 20000 8 8 1
+#30005
+poisonlord poison lord~
+The Poisonlord~
+He grins at you and attacks!
+~
+~
+1 4 99 1064 -700 S
+42 -6 -15 1d100+700
+407 500 100 3d10+15 -1
+-1
+-1
+10000 300000 8 8 1
+Proc(snake)
+#30006
+torturer~
+The torturer~
+The torturer wants to try some new tools on you.
+~
+The torturer wears his standard outfit, red clothing and a black hood.
+~
+1 4 38 1024 -600 S
+40 -4 -10 3d100+500
+400 500 100 3d10+10 -1
+-1
+-1
+2000 200000 8 8 1
+#30007
+Gontran Master~
+The Master of Assassins~
+Gontran, Master of the Assassins, circles around you!
+~
+Gontran is very muscular but looks quite agile too. He has a strange 
+tattoe on the forehead that glows in evilly red.
+~
+1 4 38 263208 -900 S
+45 -9 -15 1d100+700
+402 500 100 3d15+15  -1
+-1
+-1
+10000 300000 8 8 1
+#30008
+assassin~
+An assassin~
+An assassin is sneaking around here.
+~
+~
+1 4 1636 263168 -500 S
+32 4 -10 2d100+300
+400 500 100 3d8+6 -1
+-1
+-1
+600 110000 8 8 2
+#30009
+statue~
+A statue~
+A finelooking statue is standing here.
+~
+The statues are carved out of the rock with excellent expertise. Maybe they are
+made by a dwarven artist, captured by the wicked assassins.
+~
+0 4 1570 537396392 0 S
+35 2 -12 1d100+400
+401 500 100 3d10+10  -1
+-1
+-1
+0 150000 8 8 0
+#30010
+priest dark cleric~
+The dark priest~
+The dark priest stands here, eager to conjure up some demons.
+~
+The look in his eyes make you think he is a real fanatic. The tattoes all over
+his body seems to move around on his skin.
+~
+1 4 100 1032 -500 S
+40 0 -9 1d100+500
+402 500 70 3d10+10
+27 0 10 1d0+90
+4 0 5 3d0+80
+36 0 5 2d0+90
+15 0 10 2d0+90  -1
+-1
+-1
+10000 250000 8 8 1
+#30011
+shade~
+A bloodstained assassin~
+An assassin stands here in all the blood, grinning evilly at his awful deeds.
+~
+~
+1 4 34 525320 -400 S
+38 1 -11 3d100+400
+400 500 100 3d8+10 -1
+-1
+-1
+1000 180000 8 8 1
+#30012
+assassin man mirror~
+figure in the mirror~
+You see a figure walking around in the reflections of the mirrors.
+~
+The figure looks quite unreal. It is dressed just like you!
+~
+1 4 1636 263168 -450 S
+33 3 -9 3d100+300
+400 500 100 3d8+8 -1
+-1
+-1
+700 125000 8 8 0
+#30013
+hengist poor man~
+hengist, the eternally tortured~
+A badly wounded man rests here, bearing the marks of the torturers tools.
+~
+He is in very bad condition.
+~
+1 4 134 1024 400 S
+32 3 -8 2d100+300
+400 500 100 3d8+6 -1
+-1
+-1
+0 116000 5 8 1
+#99999
+$~

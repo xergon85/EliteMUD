@@ -1,0 +1,166 @@
+#13300
+Outlook~
+   The view from this place up at the top of the ship is really nice. You
+can not see much but what you see is the better. The illuminated corners
+of the town make up the margins and the glowing tunnels of life tube away
+into the mountains as glowworm in a glass pipe. Just marvelous...
+~
+132 cd 1
+D4
+ The stone ceiling of the cave making up the harbour basin is not that
+far away. This very ship must have been built with this specific place in
+mind.
+~
+~
+0 -1 -1
+D5
+ The hard deck of the cargo vessel. Better climb, than jump down.
+~
+~
+0 -1 13227
+E
+corner~
+   A brightly shining light comes from the two corners of the harbour.
+~
+E
+harbour town~
+   The harbour town light make the tunnel shine and glow in a real nice
+fashion. The dwarfs must be a lucky race to have this at all times.
+~
+S
+#13301
+Passenger ship gangplank~
+   As the standard anchoring place for passenger ships, the sidewalk here
+comes equiped with a permanent gangplank leading east onto any waiting
+ship. There usually is one there waiting to fill up before its next
+journey. So buy a ticket and head out for a nice exploration event. A
+little sign hangs on the short pole where the ticketseller use to sit
+when he is around.
+~
+133 d 0
+D0
+ The passenger port sidewalk lead off north.
+~
+~
+0 -1 13304
+D1
+The gangplank lead out towards adventure - Get yourself a ticket and
+board a ship to the New World!
+~
+~
+0 -1 -1
+D2
+ The passenger port sidewalk lead off south.
+~
+~
+0 -1 13302
+E
+sign~
+The well polished sign reads :
+
+
+To travel to the New World, purchase a ticket, then activate the
+turnstyle and enter it. After a fairly short boat trip, you will
+find yourself in an entirely new world, with its own hometown,
+recall point and strange new creatures.
+
+
+~
+E
+short pole~
+   The pole is at a perfect height for a old dwarf.
+~
+S
+#13302
+The passenger port sidewalk~
+   The well illuminated sidewalk is the staring and finishing place of
+many fascinating journeys. The ships that lie for anchor here carry
+people and their luggage only. The current hot spot for travel seems to
+be the distant Northern Continent. The waterlevel of the cave basin is
+well below the sidewalk to ease up transport on and off the passenger
+ships and any movement on the water have been strictly banned to avoid
+free passengers. Down below you a staircase leads down into darkness,
+while to the north the availability of tickets is reassured by the
+travelleader.
+~
+133 d 0
+D0
+ Next to the ships.
+~
+~
+0 -1 13301
+D5
+ You can hear a mixture of faint sounds below as well as a few water
+splashes.
+~
+~
+0 -1 13303
+S
+#13303
+In a wide stone staircase~
+   The staircase goes up and down in a helix, 25 dwarf feet in radius.
+The view over the Dwarven Undermountain Harbour Town that lies before you
+is excellent and you can follow its contours into distance, where it
+seems to end in a bright light. Above you the stairs continue up through
+the stone cave roof.
+~
+133 ad 0
+D4
+ The sound of water comes in from above as well. How could that be ?
+~
+~
+0 -1 13302
+D5
+ The sidewalk of the Dwarven Undermountain Harbour Town await your feet.
+~
+~
+0 -1 13266
+S
+#13304
+The passenger port sidewalk ~
+   The well illuminated side walk is the staring and finishing place of
+many fascinating journeys. The ship that lie for anchor here carry people
+and their luggage only. The current hot spot for travel seems to be the
+distant Northern Continent. The waterlevel of the cave basin is well
+below the sidewalk to ease up transport on and off the passenger ships
+and any movement on the water have been strictly banned to avoid free
+passengers. Down below you a staircase descend into darkness, while to
+the north the availability of tickets is reassured by Fritz the
+ticketeer.
+~
+133 d 0
+D2
+ Next to the ships.
+~
+~
+0 -1 13301
+D5
+ You can hear a mixture of faint sounds below as well as a few water
+splashes.
+~
+~
+0 -1 13305
+S
+#13305
+In a wide stone staircase~
+   The staircase goes up and down in a helix, 25 dwarf feet in raduis.
+The view over the Dwarven Undermountain Harbour Town that lies before you
+is excellent and you can follow its contours into distance, where it
+seems to end in a bright light. Above you the stairs continue up through
+the stone cave roof.
+~
+133 ad 0
+D4
+ The sound of water comes in from above as well. How could that be ?
+~
+~
+0 -1 13304
+D5
+ The sidewalk of the Dwarven Undermountain Harbour Town await your feet.
+~
+~
+0 -1 13255
+S
+#99999
+$~
+

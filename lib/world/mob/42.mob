@@ -1,0 +1,91 @@
+#4200
+large black orc~
+The Black Orc~
+A large Black Orc screams some strange words and charges you.
+~
+The Black Orc looks rather mean and agressive.
+He waves his scimitar in a very threatening manner.
+~
+1 4 100 16778240 -500 S
+22 11 -3 1d100+220
+400 500 100 3d4+5  -1
+-1
+-1
+400 33000 8 8 1
+#4201
+huge black orc leader~
+The Black Orc Leader~
+A huge Black Orc screams some commands to his followers and charges you.
+~
+This Black Orc looks very very mean and muscular.
+He is dressed in an ill-fitting black plate and thrusts his
+spear at you.
+~
+1 4 100 16778240 -550 S
+25 9 -4 1d150+250
+400 500 100 3d4+7  -1
+-1
+-1
+400 60000 8 8 1
+#4202
+enormous black orc chief~
+The Black Orc Chief~
+A Enormous Black Orc screams some commands to his followers and charges you.
+~
+This Black Orc looks very very mean and  muscular.
+He is dressed in an well-fitting huge evil black plate
+and tries to pierce you with his spear.
+~
+1 4 100 16778240 -600 S
+30 6 -4 2d100+350
+400 500 100 3d6+9  -1
+-1
+-1
+1000 100000 8 8 1
+#4203
+balrog humanoid enormous fire~
+The Balrog~
+An enormous humanoid form of fire snickers cruelly at your weak efforts.
+~
+It is surrounded by sparkling and lethal fire.  It is holding a mighty 
+whip in its left hand and a flaming sword in its right hand.  Around its
+neck you see the infamous Glob Medallion, and you know its soul is owned
+by an evil force.
+~
+14 4 102 16778248 -1000 S
+60 -8 -17 4d100+700
+400 500 100 4d8+20  -1
+-1
+-1
+0 420000 8 8 0
+#4204
+Gollum~
+Gollum~
+Gollum sniffs loud and looks at you with his big fish eyes.
+~
+This guy really looks like he need something to eat.
+He is small and tiny and his skin is almost transparent.
+~
+1 3 198 16778240 -500 S
+25 8 -3 1d100+250
+400 500 100 3d6+4  -1
+-1
+-1
+500 60000 8 8 1
+A
+%15 cry;%15 say Someone have stolen my ring.~
+#4205
+Octopussy blind~
+The Blind Octopussy~
+The Octopussy attacks you with its slimy tentacles.
+~
+This is a creature from the deepest part of the pool.
+~
+0 0 98 16777216 -400 S
+45 2 -13 2d100+500
+400 500 100 3d10+10 -1
+-1
+-1
+0 250000 8 8 0
+#99999
+$~

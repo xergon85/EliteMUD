@@ -1,0 +1,194 @@
+#2900
+book template~
+a book~
+A book sits here, inviting you to read it.~
+~
+26 114 0 abghmt 0
+-1 0 -1 -1 -1 -1
+0 0 0
+E
+book template~
+This is the template for the books.  All that need to be changed are
+the descriptions and aliases.  The flags and values should be left
+as-is so the book may work as a portal.  The library card used to
+enter the book is defined in the .zon file, as is the first room the
+portal leads to. :)
+
+	New Arrivals - 2906-2909
+	Other Books  - 2910+
+~
+#2901
+library card~
+a library card~
+Someone seems to have dropped a library card.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 2000 0
+E
+library card~
+This is a general purpose library card which may be used to check out
+books in the library.  Be sure to look at each book to see which type
+of card is needed. 
+~
+#2902
+library card child children's^ ~
+a Children's library card~
+Someone seems to have dropped a library card.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 400 0
+E
+library card children's child~
+This library card is used to "check out" the books in the library
+that are appropriate for a younger audience, particularly for
+children.
+~
+#2903
+library card young adult~
+a Young Adult's library card~
+Someone seems to have dropped a library card.~
+~
+18 25 0 0 a
+0 0 0 0 0 255
+1 2000 0
+E
+library card young adult~
+This library card is used to "check out" the books in the library
+that are appropriate for Young Adults.
+~
+#2904
+library card adult~
+an Adult's library card~
+Someone seems to have dropped a library card.~
+~
+18 50 0 0 a
+0 0 0 0 0 255
+1 4000 0
+E
+library card adult~
+This library card is used to "check out" the books in the library
+that are appropriate for Adults.
+~
+#2905
+library card scholar~
+a Scholar's library card~
+Someone seems to have dropped a library card.~
+~
+18 80 0 0 a
+0 0 0 0 0 255
+1 6000 0
+E
+library card scholar~
+This library card is used to check out the books in the library that
+are desigated for Scholars.
+~
+#2906
+book were new arrival were-home were~
+a book titled, "Legends of the Were-Folk"~
+A large book, bound in the finest leather, growls at your approach!~
+~
+26 114 0 abghmt 0
+12700 2 2904 50 80 -1
+0 0 0
+E
+were were-home book~
+This large book seems to have a life of its own!  It nearly jumps up
+as you appraoch, making you quite curious about what lies inside.
+If you'd like to "check out" this book, you'll need an Adult's
+library card.
+~
+#2907
+book poster new arrival psionicist school mind~
+a School of the Mind poster~
+A vibrant swirl of color on glossy paper announces the grand opening
+of the School of the Mind.~
+~
+26 114 0 abghmt 0
+20800 2 2904 50 75 -1
+0 0 0
+E
+poster psi psionicist school mind book~
+The colorful poster announces the grand opening of the marvelous
+School of the Mind, which is a place for the higher education of
+Psionicists both young and old.  If you'd like to "check out" the
+poster, you will need an Adult's library card. 
+~
+#2908
+miqi miqi'erke feline new arrival village book volume jungle~
+a book about the mythical village of Miqi'erke~
+From within this large volume, you can hear the call of the jungle!~
+~
+26 114 0 abghmt 0
+21201 2 2904 50 80 -1
+0 0 0
+E
+book miqi miqi'erke village jugle volume~
+This beautifully bound volume is filled with tales of the ancient
+civilization of Miqi'erke.  In the deepest, darkest jungles these
+tales came to life!  To "check out" this volume, you will need an
+Adult's library card. 
+~
+#2909
+book new arrival~
+a new arrival~
+This is a new arrival!~
+~
+26 114 0 abghmt 0
+-1 0 -1 -1 -1 -1
+0 0 0
+E
+book~
+Describe me, please!
+~
+E
+buildernotes~
+This book is a new arrival, and should only stay in this section for
+a couple of weeks.  Once it is removed, it can either be moved to the
+appropriate section, or made into another book.  Just remember to fix
+the .zon!
+~
+#2910
+book children child children's nursery rhymes~
+a book of nursery rhymes~
+A large book of nursery rhymes has been left open on the floor.~
+~
+26 114 0 abghmt 0
+11000 2 2902 1 10 -1
+0 0 0
+E
+book nursery rhymes~
+The colorful cover of this book depicts a nursery rhyme brought to
+life.  You can only know what is in the book by checking it out, for
+which you'd need a Children's library card.
+~
+#2911
+book history kai clan~
+a history book about the #bKai#N clan~
+An ancient history book about the Kai clan catches your eye.~
+~
+26 114 0 abghmt 0
+-1 0 -1 -1 -1 -1
+0 0 0
+E
+book history kai clan~
+Your eye is drawn to this ancient book, which describes the founding
+and history of one of the mightyest clans ever to exist on EliteMUD - 
+the #bKai#N.
+~
+#2912
+book fables~
+a book of fables~
+A book of fables looks both interesting and educational.~
+~
+26 114 0 abghmt 0
+-1 0 -1 -1 -1 -1
+0 0 0
+E
+book fables~
+Just a quick flick through this book tells you how fascinating it is
+going to be. Who knows - you might even learn something!
+~
+#99999
+$~

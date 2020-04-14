@@ -1,0 +1,2083 @@
+#12800
+Barrow Top~
+   After struggling up the side of the barrow, you are eventually 
+rewarded with a spectacular view over the surrounding countryside. On 
+top of the Barrow is a large stone slab, carved deeply with some strange 
+writing and what appears to be the symbol of the Crimson Fists, an order 
+of knights, who fight for money.
+~
+128 0 5
+D0
+You can climb back down the steep-sided barrow.
+~
+~
+0 -1 12802
+D1
+You can climb back down the steep-sided barrow.
+~
+~
+0 -1 12804
+D2
+You can climb back down the steep-sided barrow.
+~
+~
+0 -1 12806
+D3
+You can climb back down the steep-sided barrow.
+~
+~
+0 -1 12808
+D5
+Dark narrow steps lead down into the barrow.
+~
+stone slab barrow~
+1 -1 12809
+S
+#12801
+Pleasant Meadow~
+   There is nothing quite like a stroll in the countryside, birds singing 
+and the heady scent of spring flowers. You wander aimlessly through the 
+knee high grass and flowers, but your attention is drawn to the steep
+barrow just to the southeast.
+~
+128 0 2
+D1
+The pleasant meadow continues east.
+~
+~
+0 -1 12802
+D2
+The pleasant meadow continues south.
+~
+~
+0 -1 12808
+D4
+With a bit of effort you could climb up the barrow.
+~
+~
+0 -1 12800
+S
+#12802
+Pleasant Meadow~
+   There is nothing quite like a stroll in the countryside, birds singing 
+and the heady scent of spring flowers. You wander aimlessly through the 
+knee high grass and flowers, but your attention is drawn to the steep
+barrow just to the south.
+~
+128 0 2
+D1
+The pleasant meadow continues east.
+~
+~
+0 -1 12803
+D3
+The pleasant meadow continues west.
+~
+~
+0 -1 12801
+D4
+With a bit of effort you could climb up the barrow.
+~
+~
+0 -1 12800
+S
+#12803
+Pleasant Meadow~
+   There is nothing quite like a stroll in the countryside, birds singing 
+and the heady scent of spring flowers. You wander aimlessly through the 
+knee high grass and flowers, but your attention is drawn to the steep
+barrow just to the southwest.
+~
+128 0 2
+D1
+A narrow trail leads east.
+~
+~
+0 -1 15095
+D2
+The pleasant meadow continues south.
+~
+~
+0 -1 12804
+D3
+The pleasant meadow continues west.
+~
+~
+0 -1 12802
+D4
+With a bit of effort you could climb up the barrow.
+~
+~
+0 -1 12800
+S
+#12804
+Pleasant Meadow~
+   There is nothing quite like a stroll in the countryside, birds singing 
+and the heady scent of spring flowers. You wander aimlessly through the 
+knee high grass and flowers, but your attention is drawn to the steep
+barrow just to the west.
+~
+128 0 2
+D0
+The pleasant meadow continues north.
+~
+~
+0 -1 12803
+D3
+The pleasant meadow continues west.
+~
+~
+0 -1 12805
+D4
+With a bit of effort you could climb up the barrow.
+~
+~
+0 -1 12800
+S
+#12805
+Pleasant Meadow~
+   There is nothing quite like a stroll in the countryside, birds singing 
+and the heady scent of spring flowers. You wander aimlessly through the 
+knee high grass and flowers, but your attention is drawn to the steep
+barrow just to the northwest.
+~
+128 0 2
+D0
+The pleasant meadow continues north.
+~
+~
+0 -1 12804
+D3
+The pleasant meadow continues west.
+~
+~
+0 -1 12806
+D4
+With a bit of effort you could climb the barrow.
+~
+~
+0 -1 12800
+S
+#12806
+Pleasant Meadow~
+   There is nothing quite like a stroll in the countryside, birds singing 
+and the heady scent of spring flowers. You wander aimlessly through the 
+knee high grass and flowers, but your attention is drawn to the steep
+barrow just to the north.
+~
+128 0 2
+D1
+The pleasant meadow continues east.
+~
+~
+0 -1 12805
+D3
+The pleasant meadow continues west.
+~
+~
+0 -1 12807
+D4
+With a bit of effort you could climb the barrow.
+~
+~
+0 -1 12800
+S
+#12807
+Pleasant Meadow~
+   There is nothing quite like a stroll in the countryside, birds singing 
+and the heady scent of spring flowers. You wander aimlessly through the 
+knee high grass and flowers, but your attention is drawn to the steep
+barrow just to the northeast.
+~
+128 0 2
+D0
+The pleasant meadow continues north.
+~
+~
+0 -1 12808
+D1
+The pleasant meadow continues east.
+~
+~
+0 -1 12806
+D4
+With a bit of effort you could climb the barrow.
+~
+~
+0 -1 12800
+S
+#12808
+Pleasant Meadow~
+   There is nothing quite like a stroll in the countryside, birds singing 
+and the heady scent of spring flowers. You wander aimlessly through the 
+knee high grass and flowers, but your attention is drawn to the steep
+barrow just to the east.
+~
+128 0 2
+D0
+The pleasant meadow continues north.
+~
+~
+0 -1 12801
+D2
+The pleasant meadow continues south.
+~
+~
+0 -1 12807
+D4
+With a bit of effort you could climb the barrow.
+~
+~
+0 -1 12800
+S
+#12809
+Inside the Barrow~
+   Your eyes strain to penetrate the gloom within the barrow, which is 
+lit only by the light you carry with you. The air is thick with dust, 
+and the whole area is covered with cobwebs. There is a faint musty smell 
+of death in the air which appears to emanate from a large crypt in the 
+centre of the barrow. The walls are decorated with tattered and ancient 
+banners, and burnt out torches crumble in the rusted wall brackets.
+~
+128 adB 2
+D4
+A narrow set of steps lead out of the barrow.
+~
+stone~
+1 -1 12800
+D5
+A rusted iron ladder leads down into the darkness.
+~
+crypt~
+1 -1 12810
+S
+#12810
+Entrance to the Labyrinth~
+   The iron ladder ends abruptly and you are forced to drop the rest of 
+the way to the ground, leaving you unable to climb back the way you 
+came. You find yourself at the entrance to an amazing labyrinth with 
+sweeping parapets in every direction. The narrow bridges twist and turn, 
+climbing and falling as they wind their way through the impenetrable 
+darkness. Looking along one of the bridges, you can just about make out 
+another platform in the distance. A quick examination of one of the 
+bridges brings a worrying conclusion - they are very unsafe and could 
+collapse at any time. There must be a safe route through however. You 
+hear maniacal laughter in the distance, echoing all around you.
+~
+128 adgyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12811
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12819
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12825
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12831
+D4
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12837
+D5
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12844
+S
+#12811
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. You notice a musty smell towards the south, as if 
+some undead creature had recently passed that way.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+You notice a funny smell coming from this direction.
+~
+~
+0 -1 12812
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12812
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. You can hear echoing footsteps from the eastern 
+bridge.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+Listening carefully you can hear footsteps in the distance.
+~
+~
+0 -1 12813
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12813
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through.
+#GAn ancient wooden sign points east.#N
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+2112 -1 12814
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+E
+sign ancient wooden~
+A careful look at the sign reveals that it has been recently twisted to 
+face the wrong direction, and that it should point north.
+~
+S
+#12814
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. You can feel a gentle breeze coming from the east.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A gentle breeze comes from the east.
+~
+~
+0 -1 12815
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12815
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through.
+#GA small sign is placed next to the northern bridge.#N
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12816
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+E
+sign~
+The sign has an arrow on it, and looks to have been undisturbed for a 
+very long time.
+~
+S
+#12816
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+As you look east, you see a brief flash of red, as if someone had just 
+disappeared from view.
+~
+~
+0 -1 12817
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12817
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. An arrow has been scratched into the rock just 
+next to the southern bridge.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+An arrow has been scratched on the stone floor, pointing south.
+~
+~
+0 -1 12818
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12818
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. The southern bridge is well worn, as if it has 
+been used many times.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+Footprints in the dust lead along the southern bridge.
+~
+~
+0 -1 12850
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12819
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through.
+#W+#YA Grave Robber#W lies here, mortally wounded.#N
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12820
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+E
+grave robber man wounded~
+The grave robber has obviously met with something a great deal more 
+prepared for the labyrinth than he was. His breathing is laboured, and 
+he appears to be beyond healing. As you kneel beside him, he uses the 
+last of his strength to pull you close.
+
+#cThe Grave Robber whispers, 'South.....he went....south.....'#N
+~
+S
+#12820
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. You notice a small puddle of blood near the 
+western bridge.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12821
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+E
+puddle blood~
+Someone has been careless enough to walk through the bloody puddle, 
+and now a faint set of blood red footprints heads south.
+~
+S
+#12821
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. You can detect a gentle breeze coming from the 
+west.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A gentle breeze comes from the west.
+~
+~
+0 -1 12822
+S
+#12822
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. You can hear hurrying footsteps along the northern 
+bridge, which quickly fade to silence.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12823
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12823
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. There is a well worn pathway leading west.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+The western bridge appears to be well worn.
+~
+~
+2112 -1 12824
+S
+#12824
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. You hear the sound of footsteps echoing from the 
+west.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12850
+S
+#12825
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. As you look around, you see a flash of red, as 
+if someone had just passed out of view along the eastern bridge.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+You just catch a glimpse of a red cloak disappearing to the east.
+~
+~
+0 -1 12826
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12826
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through.
+#GA corpse lies near to the northern bridge.#N
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12827
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+E
+corpse~
+It looks as if someone has tried to drag the corpse north, but then 
+given up. A single footprint indicates that whoever it was continued 
+north alone.
+~
+S
+#12827
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. A well worn path leads west.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+The western bridge is well worn by the passing of many feet.
+~
+~
+2112 -1 12828
+S
+#12828
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. You smell the mustiness of an open grave coming 
+from the west.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+You can smell something odd from this direction.
+~
+~
+0 -1 12829
+S
+#12829
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. A gentle breeze comes from the south.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A breeze wafts from this direction.
+~
+~
+0 -1 12830
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12830
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through.
+#YA Tomb Raider#W lies here, mortally wounded.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12850
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+E
+tomb raider~
+The injured tomb raider is close to death, but has obviously lost her
+sanity long ago. She mutters incoherently and points repeatedly to the 
+south.
+~
+S
+#12831
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. A gentle breeze blows from the east.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A gentle breeze blows from the east.
+~
+~
+0 -1 12832
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12832
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. You hear insane laughter coming from the north.
+~
+128 adyB 1
+D0
+Maniacal laughter echoes round you from the north.
+~
+~
+0 -1 12833
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12833
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. Someone has gouged an arrow in the stony floor 
+near the north bridge.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+An arrow points east.
+~
+~
+0 -1 12834
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+E
+arrow~
+It points east.
+~
+S
+#12834
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through.
+#GA crooked signpost points east.#N
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+2112 -1 12835
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+E
+signpost sign crooked~
+A brief examination of the sign leads you to conclude that it is supposed 
+to point south, but has been recently moved.
+~
+S
+#12835
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. You notice a single bloody footprint on the ground.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12836
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+E
+footprint foot print bloody~
+There is a single bloody footprint on the southern bridge.
+~
+S
+#12836
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. You think you catch a glimpse of a figure in a 
+red cloak vanishing along the southern bridge.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+You notice the flash of a red cloak disappearing along the southern 
+bridge.
+~
+~
+0 -1 12850
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12837
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. Someone has scratched an arrow on the ground.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+Someone has scratched an arrow next to the eastern bridge.
+~
+~
+0 -1 12838
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+E
+scratch arrow ground~
+It points east.
+~
+S
+#12838
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. The southern bridge looks like a well used path.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+The southern path is well worn.
+~
+~
+0 -1 12839
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12839
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. A musty smell emanates from the west.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A musty smell emanates from the west.
+~
+~
+0 -1 12840
+S
+#12840
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. You see a figure in a red cloak disappear out of 
+view to the west.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+You see a figure in red vanish along the western bridge.
+~
+~
+0 -1 12841
+S
+#12841
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. A fetid breeze blows from the south - smells like 
+someone died.
+~
+128 adyB 1
+D0
+The breeze seems to blow in this direction, maybe that is where fresh air 
+lies.
+~
+~
+2112 -1 12842
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A fetid breeze blows from the south.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12842
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through.
+#GA bloody corpse lies here.#N
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12843
+E
+corpse bloody~
+Before he finally expired, he was trying to drag himself west - perhaps 
+he knew something?
+~
+S
+#12843
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through.
+#GA signpost points south.#N
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12850
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+E
+sign post signpost~
+It doesn't look to have been tampered with.
+~
+S
+#12844
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. A single bloody footprint stands at the foot of 
+the western bridge.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A bloody footprint leads the way west.
+~
+~
+0 -1 12845
+S
+#12845
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. You hear the sound of hurrying footsteps receding 
+along the southern bridge.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12846
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12846
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. The sound of taunting laughter comes from the 
+east.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+You hear the sound of taunting laughter.
+~
+~
+2112 -1 12847
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12847
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. You hear running footsteps from the north.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12848
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12848
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. You hear running footsteps echoing all around you.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+You catch a glimpse of a figure in red disappearing from view.
+~
+~
+0 -1 12849
+D2
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12849
+Lost in the Labyrinth~
+   The darkness is oppressive, nothing is visible through the gloom, 
+except four narrow bridges which quickly twist out of view. You hesitate 
+over which of the fragile bridges to take and search briefly for clues 
+to the route through. A gentle breeze wafts towards you from the south.
+~
+128 adyB 1
+D0
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D1
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+D2
+You sense a gentle breeze coming from the south.
+~
+~
+0 -1 12850
+D3
+A narrow sweeping bridge curves off into the darkness.
+~
+~
+0 -1 12868
+S
+#12850
+End of the Labyrinth~
+   One final twist and you find yourself at the end of the labyrinth. 
+You stand before a very solid looking citadel hewn from black granite. 
+The walls are smooth as glass, the corners sharp and the buttresses 
+imposing. Before you stands a huge statue of a mighty warrior standing 
+proudly wearing thick protective plate armour and bearing the tattered 
+banner of the Crimson Fists.
+~
+128 adu 1
+D2
+A huge black gateway lies a short distance to the south.
+~
+~
+0 -1 12851
+E
+banner crimson fist~
+The wide banner is a deep red colour, and in its time caused fear among 
+the enemies of the Crimson Fists. In the centre of the banner, is a 
+white circle as pure as snow, and within it a clenched armoured fist 
+the colour of fresh blood.
+~
+S
+#12851
+The Gates to the Citadel~
+   The citadel gates are made from some dark metal you have never seen 
+before, and looks incredibly heavy. Bolts extend from the gate into the 
+black granite surround, and deep into the ground beneath your feet. In 
+the centre of the gate is a slot, presumably for a key or talisman of 
+some kind. No doubt the Knights of the Crimson Fist can gain entry at 
+any time, but the citadel is surely impenetrable to their enemies. 
+Dark sentry posts either side of the gate glare angrily at you - you 
+hope they are unmanned.
+~
+128 adu 1
+D0
+You see the exit from the labyrinth behind you and feel glad you do not 
+have to pass through it again.
+~
+~
+0 -1 12850
+D1
+A sentry post lies just to the east.
+~
+~
+0 -1 12853
+D2
+The immense gates hide what lies within the citadel.
+~
+gates~
+295 12800 12854
+D3
+A sentry post lies just to the west.
+~
+~
+0 -1 12852
+S
+#12852
+Sentry Post~
+   This dark tiny room is rather unpleasant, but the Crimson Fists are 
+tougher than some wimpy little adventurer and would proudly stand here 
+for hours on end, guarding the citadel.
+~
+128 adu 1
+D1
+The Citadel gates lie to the east.
+~
+~
+0 -1 12851
+S
+#12853
+Sentry Post~
+   This dark tiny room is rather unpleasant, but the Crimson Fists are 
+tougher than some wimpy little adventurer and would proudly stand here 
+for hours on end, guarding the citadel.
+~
+128 adu 1
+D3
+The Citadel gates lie to the west.
+~
+~
+0 -1 12851
+S
+#12854
+Hallway~
+   The inside of the citadel is even more impressive than the outside. 
+The walls are decorated with tattered banners and all kinds of weapons. 
+Every twenty paces a thick column rises on each side of the hallway 
+high above your head, eventually curving into an arch which meets more 
+than fifty feet above you. Elaborate chandeliers light the hallway, 
+sending your shadow dancing across the floor.
+~
+128 adu 1
+D0
+You see the citadel gates behind you.
+~
+gates~
+295 12800 12851
+D1
+A thick wooden door blocks your way east.
+~
+door~
+1 -1 12855
+D2
+The imposing hallway continues south.
+~
+~
+0 -1 12856
+S
+#12855
+Aaron's Chambers~
+   The Chambers of Knight Lieutenant Sir Aaron are sparse to say the 
+least. On the other side of the room there is an uncomfortable looking 
+bed and a small table. Aside from a candle and a small Crimson Fists 
+emblem, carved from a ruby, the table is bare. The only other thing in 
+the room is a large armour tree, where Sir Aaron stores his platemail 
+and weapons.  
+~
+128 adu 1
+D3
+The hallway lies to the west.
+~
+door~
+1 -1 12854
+S
+#12856
+Hallway~
+   Huge banners hang on the walls either side of you, between the sturdy 
+columns. You recognise the war standards of the Silver Hammers and the 
+Sea Hawks among them, both renowned mercenary bands, and both destroyed 
+by the Crimson Fists. 
+~
+128 adu 1
+D0
+The hallway continues north.
+~
+~
+0 -1 12854
+D2
+The hallway continues south.
+~
+~
+0 -1 12858
+D3
+A wooden door bars your way west.
+~
+door wooden~
+1 -1 12857
+S
+#12857
+Cindar's Room~
+   Knight Lieutenant Sir Cindar's room is not what you would expect 
+from a civilised knight. The walls and floor have been painted in 
+crimson, and the room is lit by four thigh-thick candles - one in 
+each corner. Sir Cindar obviously sleeps on the floor, there is a 
+small pile of blankets near the north wall. A wide table on the south 
+side of the room is the only piece of furniture, also painted in 
+crimson, but there is nothing on it.
+~
+128 adu 1
+D1
+A large crimson painted wooden door leads east.
+~
+door crimson~
+1 -1 12856
+S
+#12858
+Stone Stairwell~
+   A wide stone staircase curves upwards to the second floor of the 
+citadel. Wide swathes of crimson silk draped from the ceiling soften 
+the appearance of the hard stone walls. A narrow staircase leads 
+downwards to the citadel barracks and there is a large wooden door 
+to the east.
+~
+128 adu 1
+D0
+A wide hallway continues north.
+~
+~
+0 -1 12856
+D1
+A wooden door bars the way east.
+~
+door wooden~
+1 -1 12859
+D4
+A wide sweeping staircase leads up.
+~
+~
+0 -1 12860
+D5
+A narrow stairwell leads downwards.
+~
+~
+0 -1 12869
+S
+#12859
+Azig's Study~
+   The study of Knight Lieutenant Sir Azig is filled with books and 
+tomes and scrolls, scattered over all the horizontal surfaces. A wide 
+desk is the most striking item in the room, with thick carved legs 
+and made from heavily polished oak. A small bed in the corner doesn't 
+look large enough for a man of Sir Azig's reputation.
+~
+128 adu 1
+D3
+west desc
+~
+door~
+1 -1 12858
+S
+#12860
+Grand Hallway~
+   The hallway is more grand on the second level of the citadel. Thick 
+tapestries cover the walls, depicting events in the history of the 
+Crimson Fists - mainly their many bloody victories. The hallway 
+continues north, and to the south, you can sense the peace of a place 
+of worship. A large brass-inlaid wooden door leads east.
+~
+128 adu 1
+D0
+The hallway continues north.
+~
+~
+0 -1 12863
+D1
+A brass-inlaid wooden door leads east.
+~
+door~
+1 -1 12862
+D2
+An archway leads south.
+~
+~
+0 -1 12861
+D5
+A wide sweeping staircase leads downwards.
+~
+~
+0 -1 12858
+S
+#12861
+Crimson Fists Chapel~
+   The chapel is a place of solemn dignity and piety and you are 
+overcome with a sense of calm. This is where the knights pray to 
+their gods three times every day, and where apprentice knights 
+spend their vigil, before they become true knights. A plush red 
+carpet runs down the length of the chapel, to a knee high rail 
+before the altar. The large altar holds only two thick candles 
+which are always kept lit. Dark wooden pews are arranged down 
+each side of the chapel, enough to seat all of the Crimson Fists 
+at once. 
+~
+128 adu 1
+D0
+You see a grand hallway to the north.
+~
+~
+0 -1 12860
+S
+#12862
+Gravin's Room~
+   You are impressed with the rich furnishings in Knight Lieutenant Sir 
+Gravin's room. A roaring fire burns beneath an ornately carved oak 
+mantelpiece and a large war banner hangs above it. On the wall is a huge 
+sword, taller than a man - a greatsword, apparently sharpened and ready 
+for use.
+~
+128 adu 1
+D3
+You see a wide hallway to the west. 
+~
+door~
+1 -1 12860
+E
+banner~
+It is the war banner of the Emperor's Children, Sir Gravin slew their 
+Primarch and Bannerman himself, taking the standard and winning another 
+campaign for the Crimson Fists.
+~
+S
+#12863
+Grand Hallway~
+   As you walk down the grand hallway your feel a little 
+unworthy. The thick columns are ornately carved, each in a 
+different pattern. The floor too is richly decorated, a 
+strange geometric arrangement of crimson, white, grey and 
+black tiles. The hallway continues north, and there is a 
+bronze banded oak door to the west.
+~
+128 adu 1
+D0
+The hallway continues north.
+~
+~
+0 -1 12865
+D2
+The hallway continues south.
+~
+~
+0 -1 12860
+D3
+A large bronze banded oak door blocks the way west.
+~
+door oak bronze oak~
+1 -1 12864
+S
+#12864
+Stephen's Shrine~
+   Knight Captain Sir Stephen's room is as peaceful as a church, the 
+walls are panelled with oak, which has been polished to a deep shine. A 
+small alcove to the south holds a small cot, but it is clear that Sir 
+Stephen spends more time in prayer than sleeping. A wide altar bears a 
+single candle, held in a large candle-holder carved from some red-gold 
+metal into the shape of a gauntleted fist. 
+~
+128 adu 1
+D1
+A large wooden doors least east.
+~
+door wooden large oak bronze banded~
+1 -1 12863
+S
+#12865
+Grand Hallway~
+   The wide corridor ends before a pair of huge oak double doors. The 
+doors are edged with gold, and in the middle of each is an inlaid 
+crimson fist, made from thousands of rubies. There is also door to the 
+east, which has been coated with silver and polished to a mirror finish.
+~
+128 adu 1
+D0
+You see a huge pair of gold-inlaid oak doors.
+~
+doors oak double~
+1 -1 12867
+D1
+A silvered door leads east.
+~
+door silvered shiny silver mirror~
+1 -1 12866
+D2
+A grand hallway leads south.
+~
+~
+0 -1 12863
+S
+#12866
+Rowland's Apartments~
+   The apartments of Knight Captain Sir Rowland are incredibly richly 
+appointed. A monstrous black glass mantelpiece runs the entire length 
+of the north wall, and on the south side of the room is a long table, 
+with ten high-backed carved chairs. A small curtained off area to the 
+east holds a small bed and a few personal possessions, but does not 
+appear to be used very often.
+~
+128 adu 1
+D3
+A shiny silvered door leads east.
+~
+door silvered silver shiny mirror~
+1 -1 12865
+S
+#12867
+Grand Throne Room~
+   Upon entering the throne room you eye is immediately drawn to the 
+high dais opposite you. The throne on top of the dais is ornately 
+carved such that it appears to be made from hundreds of clenched 
+fists, the plated gauntlets enamelled in a thousand shades of red. A 
+rich crimson carpet edged in gold runs the entire length of the throne 
+room and up the five shallow steps to the throne. Beside the dais are 
+two more large thrones, carved from oak and trimmed in gold leaf, 
+presumably for the two Knight Captains. There is no other furniture, 
+you assume that any other members of the order must stand in the 
+presence of their Primarch and his Captains.
+~
+128 adu 1
+D2
+A wide pair of doors lead south.
+~
+doors oak double~
+1 -1 12865
+S
+#12868
+Lost in the Labyrinth~
+   You don't get very far before the bridge begins to crumble beneath 
+your feet, and it's collapse is so sudden that you have no chance to 
+turn back. As you fall into the abyss, you hear the sound of laughter 
+echoing around you.
+~
+128 abcmn 1
+D0
+You can see nothing, you're dead!
+~
+~
+0 -1 12821
+D1
+You can see nothing, you're dead!
+~
+~
+0 -1 12841
+D2
+You can see nothing, you're dead!
+~
+~
+0 -1 12834
+D3
+You can see nothing, you're dead!
+~
+~
+0 -1 12811
+S
+#12869
+Basement~
+   You have entered the training area of the Crimson Fists, deep below 
+their citadel. Narrow stone steps lead up, and just to the north this 
+corridor appears to open out into a large and very noisy training hall.
+~
+128 adu 1
+D0
+The basement opens out into a large training hall.
+~
+~
+0 -1 12871
+D4
+A narrow stone stair leads upwards.
+~
+~
+0 -1 12858
+S
+#12870
+Barracks~
+   The barracks of the second company of the Crimson Fists is not 
+very tidy, the belongings of the soldiers strewn across the thirty 
+two beds along with bits and pieces of armour, and many weapons. 
+However, despite the apparent mess, the weapons and armours are very 
+well cared for, and in excellent condition. Sir Cindar leads the 
+second company, and like their Knight Lieutenant their appearance is 
+unkempt, and maybe even a little savage. Their discipline and 
+fighting prowess however are legendary, and they are never taken 
+lightly by their foes.
+~
+128 adu 1
+D1
+You can hear the clash of weapons coming from the east.
+~
+~
+0 -1 12871
+S
+#12871
+Training Hall~
+   The clash of shields and the ringing of swords assault your ears as 
+soon as you enter the training hall of the Crimson Fists. All around you 
+are unarmoured soldiers, practicing their swordplay and large racks of 
+practice swords and shields. In this area the warriors are honing their 
+single combat skills under the watchful eyes of Knight Sergeant Jem. The 
+training hall extends further to the north, and there are barracks to 
+the east and west.
+~
+128 adu 1
+D0
+The training hall extends further to the north.
+~
+~
+0 -1 12874
+D1
+There appears to be a barracks area to the east.
+~
+~
+0 -1 12872
+D2
+You can make out a short corridor and at the end a set of stone steps.
+~
+~
+0 -1 12869
+D3
+There appears to be a barracks area to the west.
+~
+~
+0 -1 12870
+S
+#12872
+Barracks~
+   The barracks of the first company of the Crimson Fists has a raw feel 
+to it, a tension that you can almost taste as you enter. The first 
+company lead by Knight Lieutenant Sir Aaron are sometimes referred to 
+as the Young Bloods, since they are the newest recruits. Like all new 
+soldiers they are always extremely keen to prove their skills, sometimes 
+leading to a lapse in discipline, but their savagery is unequalled 
+within the Order.
+~
+128 adu 1
+D3
+The training hall lies to the west.
+~
+~
+0 -1 12871
+S
+#12873
+Barracks~
+   The fourth company of the Crimson Fists is the most experienced, and 
+consists entirely of veteran fighters. They have fought in many 
+campaigns under the leadership of Sir Gravin, and some of them even 
+recall the time when Sir Rowland lead them, and Gravin was just another 
+one of their company. The beds lining the walls are made with military 
+precision, and this is the only barracks hall containing a captured 
+enemy war banner - the standard of the Iron Claws.
+~
+128 adu 1
+D1
+The practice halls lie to the east.
+~
+~
+0 -1 12874
+E
+banner iron claw claws standard~
+The banner shows gloved hand with razor sharp claws on a field of forest 
+green. The banner was captured at a siege as a result of the great bravery 
+and skill of the fourth company, under the leadership of the then Knight 
+Lieutenant Sir Rowland.
+~
+S
+#12874
+Training Hall~
+   Knights at this end of the training hall are drilling in formations, 
+learning the discipline that will bring the Crimson Fists further glory. 
+Knight Sergeant Gilbert barks orders at the small groups of sweating 
+knights, always pushing them harder, forcing them to improve. The 
+training hall continues further south, and there are barracks to the 
+east and west.
+~
+128 adu 1
+D1
+To the east you see a barracks.
+~
+~
+0 -1 12875
+D2
+The training hall continues south.
+~
+~
+0 -1 12871
+D3
+To the west you see a barracks. 
+~
+~
+0 -1 12873
+S
+#12875
+Barracks~
+   The third company is sometimes known as the stalwart company, their 
+bravery and devotion is without question. They are experienced troops 
+are generally take few losses under the shrewd leadership of Knight 
+Lieutenant Sir Azig.
+~
+128 adu 1
+D3
+The training hall lies to the west.
+~
+~
+0 -1 12874
+S
+#99999
+$~

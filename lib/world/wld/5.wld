@@ -1,0 +1,1601 @@
+#500
+The End of the Northern Road~
+   The road bends sharply here to the west, travelling slowly upwards
+towards a large mountain of ancient, obviously volcanic origin.  The
+path to the south is straight and well travelled.  A small trail
+leads north into magnificent rolling hills.
+~
+5 0 3
+D0
+~
+~
+0 -1 567
+D2
+~
+~
+0 -1 508
+D3
+The path leads westwards towards a large mountain.
+~
+~
+0 -1 18000
+S
+#501
+A Small Path through the Woods~
+   The small path ends abruptly at a tiny cave.  It looks barely large
+enough to fit into.  A faint breeze coming from the cave carries the scent
+of flowers upon it.  How very odd!  You may enter the small cave to the
+north, and the small path returns back into the woods to the east,
+allowing you passage in that direction.  You may also venture into the
+woods to the south, but they are too dense to allow further passage to the
+west.
+~
+5 0 3
+D0
+~
+~
+0 -1 14201
+D1
+~
+~
+0 -1 502
+D2
+~
+~
+0 -1 509
+S
+#502
+A Small Path through the Woods~
+   The small path leads you through the dense forest.  The trees continue
+in every direction, but the path cuts through them to the west and south.
+The forest continues to the north and east, but passage to the north is
+impeded by an enormous wall of thorns.
+~
+5 0 3
+D1
+~
+~
+0 -1 503
+D2
+~
+~
+0 -1 510
+D3
+~
+~
+0 -1 501
+S
+#503
+The Northern Woods~
+   The forest surounds you on all sides.  The tall trees gaze down at you
+as you wander through their home.  The foliage grows quite dense to the
+north, impeding any further progress in that direction.  You can wander
+through the woods in every other direction.  Through the trees to the
+west, you spy a small path cutting through the forest.
+~
+5 0 3
+D1
+~
+~
+0 -1 504
+D2
+~
+~
+0 -1 511
+D3
+~
+~
+0 -1 502
+S
+#504
+The Northern Woods~
+   The forest surounds you on all sides.  The tall trees gaze down at you
+as you wander through their home.  The foliage grows quite dense to the
+north, impeding any further progress in that direction.  You can wander
+through the woods in every other direction.
+~
+5 0 3
+D1
+~
+~
+0 -1 505
+D2
+~
+~
+0 -1 512
+D3
+~
+~
+0 -1 503
+S
+#505
+The Northern Woods~
+   The forest surounds you on all sides.  The tall trees gaze down at you
+as you wander through their home.  The foliage grows quite dense to the
+north, impeding any further progress in that direction.  You can wander
+through the woods in every other direction.
+~
+5 0 3
+D1
+~
+~
+0 -1 506
+D2
+~
+~
+0 -1 513
+D3
+~
+~
+0 -1 504
+S
+#506
+The Northern Woods~
+   The forest surounds you on all sides.  The tall trees gaze down at you
+as you wander through their home.  The foliage grows quite dense to the
+north, impeding any further progress in that direction.  You can wander
+through the woods in every other direction.  You spot a small path through
+the trees to the east.
+~
+5 0 3
+D1
+~
+~
+0 -1 507
+D2
+~
+~
+0 -1 514
+D3
+~
+~
+0 -1 505
+S
+#507
+A Small Path through the Woods~
+   The small path makes its way through the dense woods, leading you into
+places unknown.  Almost hidden by the trees, you see a large iron gate to
+the east.  The path continues to the south, and the dense forest may be
+entered to the west, however the foliage is impenetrable to the north,
+making further progress in that direction impossible.
+~
+5 c 3
+D1
+~
+~
+0 -1 6600
+D2
+~
+~
+0 -1 515
+D3
+~
+~
+0 -1 506
+S
+#508
+The Northern Road~
+   This wide road cuts through a large forest on its way north and south.
+To the east and west, the forest is so dense that it is impenetrable.  The
+wide dirt road has seen much use, and you may follow it like so many 
+others have on your way north or south.
+~
+5 0 0
+D0
+~
+~
+0 -1 500
+D2
+~
+~
+0 -1 516
+S
+#509
+The Northern Woods~
+   The beautiful forest surrounds you on every side.  To the north and
+east you see a small path through the tall trees.  The forest continues to
+the south, but it grows too dense to continue to the west. 
+~
+5 0 3
+D0
+~
+~
+0 -1 501
+D1
+~
+~
+0 -1 510
+D2
+~
+~
+0 -1 517
+S
+#510
+A Small Path through the Woods~
+   The small path meanders through the forest on its north-south journey.
+You can follow it through the woods, or enter the forest itself to the
+east and west. 
+~
+5 0 3
+D0
+~
+~
+0 -1 502
+D1
+~
+~
+0 -1 511
+D2
+~
+~
+0 -1 518
+D3
+~
+~
+0 -1 509
+S
+#511
+The Northern Woods~
+   The forest surrounds you on all sides.  The tall trees gaze down at you
+as you wander through their home. You can wander through the woods
+to the north, east, and south.  Through the trees to the west, you spy a
+small path cutting through the forest.
+~
+5 0 3
+D0
+~
+~
+0 -1 503
+D1
+~
+~
+0 -1 512
+D2
+~
+~
+0 -1 519
+D3
+~
+~
+0 -1 510
+S
+#512
+The Northern Woods~
+   The lovely forest surrounds you in every direction.  The tall trees
+gaze down at you as you wander through their home.  A small bird swoops
+down from his tree-top dwelling, buzzing just past your head in an attempt
+to frighten you away.  You may continue through the woods in any
+direction.
+~
+5 0 3
+D0
+~
+~
+0 -1 504
+D1
+~
+~
+0 -1 513
+D2
+~
+~
+0 -1 520
+D3
+~
+~
+0 -1 511
+S
+#513
+The Northern Woods~
+   The lovely forest surrounds you in every direction.  The tall trees    
+gaze down at you as you wander through their home.  You hear tiny
+footsteps behind you, but when you turn to see who is making them, you
+only see the trees.  You may continue through the forest to the north,
+east, south, or west. 
+~
+5 0 3
+D0
+~
+~
+0 -1 505
+D1
+~
+~
+0 -1 514
+D2
+~
+~
+0 -1 521
+D3
+~
+~
+0 -1 512
+S
+#514
+The Northern Woods~
+   As you wander through the woods, you get the sense that someone, or
+something, is watching you!  Should you be afraid?  Only if you don't know
+what sort of creatures live in these woods!  The trees continue in every
+direction, and you notice a small path cutting through them to the south
+and east. 
+~
+5 0 3
+D0
+~
+~
+0 -1 506
+D1
+~
+~
+0 -1 515
+D2
+~
+~
+0 -1 522
+D3
+~
+~
+0 -1 513
+S
+#515
+A Small Path through the Woods~
+   The small path leads through the woods to the north and south.  Through
+the tall trees, you see what appears to be a large wall to the east.  You
+may enter the forest to the west, or continue along the path to the north
+or south. 
+~
+5 0 3
+D0
+~
+~
+0 -1 507
+D2
+~
+~
+0 -1 523
+D3
+~
+~
+0 -1 514
+S
+#516
+The Northern Road~
+   This wide road cuts through a large forest on its way north and south.
+To the east and west, the forest is so dense that it is impenetrable.  The
+wide dirt road has seen much use, and you may follow it like so many 
+others have on your way north or south.
+~
+5 0 3
+D0
+~
+~
+0 -1 508
+D2
+~
+~
+0 -1 524
+S
+#517
+The Northern Woods~
+   Wandering through the woods, you hear the sounds of the forest
+creatures all around you.  The trees continue in every direction, but they
+become too dense to pass any further to the west.  Through the trees, you
+can see a small path making its way through the forest to the east.
+~
+5 0 3
+D0
+~
+~
+0 -1 509
+D1
+~
+~
+0 -1 518
+D2
+~
+~
+0 -1 525
+S
+#518
+A Small Path through the Woods~
+   The small path meanders through the forest on its north-south journey.
+You can follow it through the woods, or enter the forest itself to the
+east and west.
+~
+5 0 3
+D0
+~
+~
+0 -1 510
+D1
+~
+~
+0 -1 519
+D2
+~
+~
+0 -1 526
+D3
+~
+~
+0 -1 517
+S
+#519
+The Northern Woods~
+   The forest surrounds you on all sides.  The tall trees gaze down at you
+as you wander through their home. You can wander through the woods
+to the north, east, and south.  Through the trees to the west, you spy a
+small path cutting through the forest.
+~
+5 0 3
+D0
+~
+~
+0 -1 511
+D1
+~
+~
+0 -1 520
+D2
+~
+~
+0 -1 527
+D3
+~
+~
+0 -1 518
+S
+#520
+The Northern Woods~
+   You can feel the eyes of the forest creatures upon you as you wander
+through their home.  The trees continue to the north, west, and south, and
+to the east you can see a small path wandering through the woods. 
+~
+5 0 3
+D0
+~
+~
+0 -1 512
+D1
+~
+~
+0 -1 521
+D2
+~
+~
+0 -1 528
+D3
+~
+~
+0 -1 519
+S
+#521
+A Small Path through the Woods~
+   The small path wanders through the forest to the south and east.
+You can hear birds chirping in the trees lining the path as you wander
+through the forest.  The forest continues to the north and west, allowing
+you to leave the path and wander there.
+~
+5 0 3
+D0
+~
+~
+0 -1 513
+D1
+~
+~
+0 -1 522
+D2
+~
+~
+0 -1 529
+D3
+~
+~
+0 -1 520
+S
+#522
+A Small Path through the Woods~
+   The small path continues through the woods to the east and west.  The
+trees that line the path are apparently home to many small creatures, as
+you can feel their eyes watching you as you wander through their home.
+You may enter the forest itself to the north and south, or stay on the
+path by following it east or west.
+~
+5 0 3
+D0
+~
+~
+0 -1 514
+D1
+~
+~
+0 -1 523
+D2
+~
+~
+0 -1 530
+D3
+~
+~
+0 -1 521
+S
+#523
+A Small Path through the Woods~
+   The small path leads through the woods to the north and west.  Through
+the tall trees, you see what appears to be a large wall to the east.  You
+may enter the forest to the south, or follow the path to the north or
+west.
+~
+5 0 3
+D0
+~
+~
+0 -1 515
+D2
+~
+~
+0 -1 531
+D3
+~
+~
+0 -1 522
+S
+#524
+The Northern Road~
+   This wide road cuts through a large forest on its way north and south.
+To the east and west, the forest is so dense that it is impenetrable.  The
+wide dirt road has seen much use, and you may follow it like so many 
+others have on your way north or south.
+~
+5 0 3
+D0
+~
+~
+0 -1 516
+D2
+~
+~
+0 -1 532
+S
+#525
+The Northern Woods~
+   The forest continues in every direction, but it is too dense to pass to
+the south or west.  Through the trees you can see a small path making its
+way through the woods to the east.  You may also continue through the
+woods to the north.
+~
+5 0 3
+D0
+~
+~
+0 -1 517
+D1
+~
+~
+0 -1 526
+S
+#526
+A Small Path through the Woods~
+   The small path wanders through the forest to the north and south.  The
+trees that line the path gaze down at you as you make your way through
+their home.  You may continue along the path to the north and south, or
+wander into the woods to the east or west.
+~
+5 0 3
+D0
+~
+~
+0 -1 518
+D1
+~
+~
+0 -1 527
+D2
+~
+~
+0 -1 533
+D3
+~
+~
+0 -1 525
+S
+#527
+The Northern Woods~
+   The trees of the forest continue their domain in every direction.
+Through the branches, you see a small path making its way through the
+woods to the west and south.  As you wander through his home, a small bird
+chirps angrily at you!
+~
+5 0 3
+D0
+~
+~
+0 -1 519
+D1
+~
+~
+0 -1 528
+D2
+~
+~
+0 -1 534
+D3
+~
+~
+0 -1 526
+S
+#528
+The Northern Woods~
+   Wandering through the woods you can sense the eyes of the forest
+creatures upon you.  They seem harmless enough, but you can never tell
+what the trees may hide.  The woods continue to the north and west, and to
+the south and east you see a small path making its way through the forest.
+~
+5 0 3
+D0
+~
+~
+0 -1 520
+D1
+~
+~
+0 -1 529
+D2
+~
+~
+0 -1 535
+D3
+~
+~
+0 -1 527
+S
+#529
+A Small Path through the Woods~
+   The small path winds through the dense forest, allowing you to follow
+its journey.  The path continues to the north and south, and you can
+wander through the trees to the east and west.
+~
+5 0 3
+D0
+~
+~
+0 -1 521
+D1
+~
+~
+0 -1 530
+D2
+~
+~
+0 -1 536
+D3
+~
+~
+0 -1 528
+S
+#530
+The Northern Woods~
+   The dense foliage surrounds you in every direction.  The forest becomes
+impossible to pass through to the south, but you may move in any other
+direction.  Through the trees, you notice a small path making its way
+through the forest to the north and west.
+~
+5 0 3
+D0
+~
+~
+0 -1 522
+D1
+~
+~
+0 -1 531
+D3
+~
+~
+0 -1 529
+S
+#531
+The Northern Woods~
+   The dense forest surrounds you on every side.  Through the tall trees,
+you notice what appears to be a wall to the east.  To the west and south
+is more forest, but the thick foliage keeps you from moving any further
+south.  You can see a small path cutting through the forest to the north.
+~
+5 0 3
+D0
+~
+~
+0 -1 523
+D3
+~
+~
+0 -1 530
+S
+#532
+The Northern Road~
+   This wide road cuts through a large forest on its way north and south.
+To the east and west, the forest is so dense that it is impenetrable.  The
+wide dirt road has seen much use, and you may follow it like so many 
+others have on your way north or south.
+~
+5 0 3
+D0
+~
+~
+0 -1 524
+D2
+~
+~
+0 -1 537
+S
+#533
+A Split in the Path~
+   The small path splits here, leading off through the forest to the
+north, east and south.  The trees grow quite dense along the path, forcing
+you to stay on it. 
+~
+5 0 3
+D0
+~
+~
+0 -1 526
+D1
+~
+~
+0 -1 534
+D2
+~
+~
+0 -1 538
+S
+#534
+A Small Path through the Woods~
+   The path wanders through the woods to the east and west here.  The tall
+trees gaze down at you as you follow the path through their home.  The
+forest is too dense to travel further south, but it is passable to the
+north.
+~
+5 0 3
+D0
+~
+~
+0 -1 527
+D1
+~
+~
+0 -1 535
+D3
+~
+~
+0 -1 533
+S
+#535
+A Small Path through the Woods~
+   The path wanders through the woods to the east and west here.  The tall
+trees gaze down at you as you follow the path through their home.  The
+forest is too dense to travel further south, but it is passable to the
+north.
+~
+5 0 3
+D0
+~
+~
+0 -1 528
+D1
+~
+~
+0 -1 536
+D3
+~
+~
+0 -1 534
+S
+#536
+A Small Path through the Woods~
+   The small path bends sharply as it meets a dense growth of trees to the
+east.  Through the trees, you can barely see a large wall.  The dense
+forest continues to the south, but you wouldn't be able to make your way
+through the underbrush in that direction. 
+~
+5 0 3
+D0
+~
+~
+0 -1 529
+D3
+~
+~
+0 -1 535
+S
+#537
+The Northern Road~
+   This wide road cuts through a large forest on its way north and south.
+To the east and west, the forest is so dense that it is impenetrable.  The
+wide dirt road has seen much use, and you may follow it like so many 
+others have on your way north or south.
+~
+5 0 3
+D0
+~
+~
+0 -1 532
+D2
+~
+~
+0 -1 539
+S
+#538
+A Small Path through the Woods~
+   The small path winds through the forest to the north and south.  The
+trees lining the path grow quite close together, forcing you to stay on
+the path. 
+~
+5 0 3
+D0
+~
+~
+0 -1 533
+D2
+~
+~
+0 -1 541
+S
+#539
+The Northern Road~
+   This wide road cuts through a large forest on its way north and south.
+To the east and west, the forest is so dense that it is impenetrable.  The
+wide dirt road has seen much use, and you may follow it like so many 
+others have on your way north or south.
+~
+5 0 3
+D0
+~
+~
+0 -1 537
+D2
+~
+~
+0 -1 542
+S
+#540
+A Small Path through the Woods~
+   The small path continues through the woods to the east and south.  The
+forest lining the path is too dense to travel in any other direction.  As
+you wander along the path, you can hear birds chirping, and a small
+creature hastily scurries away at your approach somewhere in the trees.
+~
+5 0 3
+D1
+~
+~
+0 -1 541
+D2
+~
+~
+0 -1 543
+S
+#541
+A Small Path through the Woods~
+   The small path winds through the forest to the north and west.  The
+trees lining the path grow quite close together, forcing you to stay on
+the path.
+~
+5 0 3
+D0
+~
+~
+0 -1 538
+D3
+~
+~
+0 -1 540
+S
+#542
+The Northern Road~
+   This wide road cuts through a large forest on its way north and south.
+To the east and west, the forest is so dense that it is impenetrable.  The
+wide dirt road has seen much use, and you may follow it like so many 
+others have on your way north or south.
+~
+5 0 3
+D0
+~
+~
+0 -1 539
+D2
+~
+~
+0 -1 544
+S
+#543
+A Small Path through the Woods~
+   The small path leads you through the forest on its north-south
+journey.  The trees grow very close together along the path, making it
+impossible to wander into the woods. 
+~
+5 0 3
+D0
+~
+~
+0 -1 540
+D2
+~
+~
+0 -1 545
+S
+#544
+The Northern Road~
+   This wide road cuts through a large forest on its way north and south.
+To the east and west, the forest is so dense that it is impenetrable.  The
+wide dirt road has seen much use, and you may follow it like so many
+others have on your way north or south.
+~
+5 0 3
+D0
+~
+~
+0 -1 542
+D2
+~
+~
+0 -1 546
+S
+#545
+A Small Path through the Woods~
+   The small path leads you through the forest on its north-south 
+journey.  The trees grow very close together along the path, making it    
+impossible to wander into the woods.
+~
+5 0 3
+D0
+~
+~
+0 -1 543
+D2
+~
+~
+0 -1 547
+S
+#546
+The Northern Road~
+   This wide road cuts through a large forest on its way north and south.
+To the east and west, the forest is so dense that it is impenetrable.  The
+wide dirt road has seen much use, and you may follow it like so many
+others have on your way north or south.
+~
+5 0 3
+D0
+~
+~
+0 -1 544
+D2
+~
+~
+0 -1 548
+S
+#547
+A Small Path through the Woods~
+   The small path leads you through the forest on its north-south 
+journey.  The trees grow very close together along the path, making it    
+impossible to wander into the woods.  To the south, you see that the path
+leads toward a narrow path at the edge of the woods.
+~
+5 0 3
+D0
+~
+~
+0 -1 545
+D2
+~
+~
+0 -1 557
+S
+#548
+The Northern Road~
+   The wide road cuts through the northern lands on its way to places
+unknown.  To the east, a narrow road branches off of this one.  It takes a
+path along the southern edge of a great forest.  To the north, the road
+continues on its way through a dense forest.  A wide clay road branches off
+to the west, leading towards a large city.  The northern road also
+continues to the south, towards another large city.
+~
+5 0 3
+D0
+~
+~
+0 -1 546
+D1
+~
+~
+0 -1 549
+D2
+~
+~
+0 -1 558
+D3
+~
+~
+0 -1 12000
+S
+#549
+A Narrow Road~
+   The narrow road is the northern border of a large rolling plain.  To
+the north of the road is a large forest, filled with all sorts of
+wildlife.  The narrow road seems to have been built to accomodate the
+passage of wagons judging from the twin ruts that have been cut into it
+over time.  The road continues to the east and west.
+~
+5 0 3
+D1
+~
+~
+0 -1 550
+D3
+~
+~
+0 -1 548
+S
+#550
+A Narrow Road~
+   The narrow road is the northern border of a large rolling plain.  To   
+the north of the road is a large forest, filled with all sorts of 
+wildlife.  The narrow road seems to have been built to accomodate the 
+passage of wagons judging from the twin ruts that have been cut into it   
+over time.  The road continues to the east and west.
+~
+5 0 3
+D1
+~
+~
+0 -1 551
+D3
+~
+~
+0 -1 549
+S
+#551
+A Narrow Road~
+   The narrow road is the northern border of a large rolling plain.  To   
+the north of the road is a large forest, filled with all sorts of 
+wildlife.  The narrow road seems to have been built to accomodate the 
+passage of wagons judging from the twin ruts that have been cut into it   
+over time.  The road continues to the east and west.
+~
+5 0 3
+D1
+~
+~
+0 -1 552
+D3
+~
+~
+0 -1 550
+S
+#552
+A Narrow Road~
+   The narrow road is the northern border of a large rolling plain.  To   
+the north of the road is a large forest, filled with all sorts of 
+wildlife.  The narrow road seems to have been built to accomodate the 
+passage of wagons judging from the twin ruts that have been cut into it   
+over time.  The road continues to the east and west.
+~
+5 0 3
+D1
+~
+~
+0 -1 553
+D3
+~
+~
+0 -1 551
+S
+#553
+A Narrow Road~
+   The narrow road is the northern border of a large rolling plain.  To   
+the north of the road is a large forest, filled with all sorts of 
+wildlife.  The narrow road seems to have been built to accomodate the 
+passage of wagons judging from the twin ruts that have been cut into it   
+over time.  The road continues to the east and west.
+~
+5 0 3
+D1
+~
+~
+0 -1 554
+D3
+~
+~
+0 -1 552
+S
+#554
+A Narrow Road~
+   The narrow road is the northern border of a large rolling plain.  To   
+the north of the road is a large forest, filled with all sorts of 
+wildlife.  The narrow road seems to have been built to accomodate the 
+passage of wagons judging from the twin ruts that have been cut into it   
+over time.  The road continues to the east and west.
+~
+5 0 3
+D1
+~
+~
+0 -1 555
+D3
+~
+~
+0 -1 553
+S
+#555
+A Narrow Road~
+   The narrow road is the northern border of a large rolling plain.  To   
+the north of the road is a large forest, filled with all sorts of 
+wildlife.  The narrow road seems to have been built to accomodate the 
+passage of wagons judging from the twin ruts that have been cut into it   
+over time.  The road continues to the east and west.
+~
+5 0 3
+D1
+~
+~
+0 -1 556
+D3
+~
+~
+0 -1 554
+S
+#556
+A Narrow Road~
+   The narrow road is the northern border of a large rolling plain.  To   
+the north of the road is a large forest, filled with all sorts of 
+wildlife.  The narrow road seems to have been built to accomodate the 
+passage of wagons judging from the twin ruts that have been cut into it   
+over time.  The road continues to the east and west.
+~
+5 0 3
+D1
+~
+~
+0 -1 557
+D3
+~
+~
+0 -1 555
+S
+#557
+A Narrow Road~
+   The narrow road is the northern border of a large rolling plain.  To
+the north of the road is a large forest, filled with all sorts of
+wildlife.  The narrow road seems to have been built to accomodate the
+passage of wagons judging from the twin ruts that have been cut into it
+over time.  The road continues to the east, leading into a small village
+at the edge of the forest.  To the north, a small path branches off this
+narrow road.  The road also continues back along the edge of the plains to
+the west. 
+~
+5 0 3
+D0
+~
+~
+0 -1 547
+D1
+~
+~
+0 -1 1701
+D3
+~
+~
+0 -1 556
+S
+#558
+The Northern Road~
+   The rolling plains extend east for quite some distance, eventually
+leading into hills and mountains.  To the west is a large, dark forest.
+The road continues towards the north, into places unknown.  To the south,
+the road leads towards a large city.
+~
+5 0 3
+D0
+~
+~
+0 -1 548
+D2
+~
+~
+0 -1 559
+S
+#559
+The Northern Road~
+   The rolling plains extend east for quite some distance, eventually
+leading into hills and mountains.  To the west is a large, dark forest.
+The road continues towards the north, into places unknown.  To the south,
+the road leads towards a large city.
+~
+5 0 3
+D0
+~
+~
+0 -1 558
+D2
+~
+~
+0 -1 560
+S
+#560
+The Northern Road~
+   The rolling plains extend east for quite some distance, eventually 
+leading into hills and mountains.  To the west is a large, dark forest.   
+The road continues towards the north, into places unknown.  To the south,
+the road leads towards a large city.
+~
+5 0 2
+D0
+~
+~
+0 -1 559
+D2
+~
+~
+0 -1 561
+S
+#561
+The Northern Road~
+   The rolling plains extend east for quite some distance, eventually 
+leading into hills and mountains.  To the west is a large, dark forest.   
+The road continues towards the north, into places unknown.  To the south,
+the road leads towards a large city.
+~
+5 0 2
+D0
+~
+~
+0 -1 560
+D2
+~
+~
+0 -1 562
+S
+#562
+The Northern Road~
+   The rolling plains extend east for quite some distance, eventually 
+leading into hills and mountains.  To the west is a large, dark forest.   
+The road continues towards the north, into places unknown.  To the south,
+the road leads towards a large city.
+~
+5 0 2
+D0
+~
+~
+0 -1 561
+D2
+~
+~
+0 -1 563
+S
+#563
+The Northern Road~
+   The rolling plains extend east for quite some distance, eventually 
+leading into hills and mountains.  To the west is a large, dark forest.   
+The road continues towards the north, into places unknown.  To the south,
+the road leads towards a large city.
+~
+5 0 1
+D0
+~
+~
+0 -1 562
+D2
+~
+~
+0 -1 564
+S
+#564
+The Northern Road~
+   The rolling plains extend east for quite some distance, eventually 
+leading into hills and mountains.  To the west is a large, dark forest.   
+The road continues towards the north, into places unknown.  To the south,
+the road leads towards a large city.
+~
+5 0 1
+D0
+~
+~
+0 -1 563
+D2
+~
+~
+0 -1 565
+S
+#565
+The Northern Road~
+   The rolling plains extend east for quite some distance, eventually 
+leading into hills and mountains.  To the west is a large, dark forest.   
+The road continues towards the north, into places unknown.  To the south,
+the road leads towards a large city.
+~
+5 0 1
+D0
+~
+~
+0 -1 564
+D2
+~
+~
+0 -1 566
+S
+#566
+The Northern Road~
+   The rolling plains extend east for quite some distance, eventually 
+leading into hills and mountains.  To the west is a large, dark forest.   
+The road continues towards the north, into places unknown.  To the south,
+the road leads towards a large city.
+~
+5 0 1
+D0
+~
+~
+0 -1 565
+D2
+~
+~
+0 -1 3061
+S
+#567
+A Small Trail Through the Hills~
+   The small trail winds its way through the hills as it leaves the
+Northern Road.  In the distance to the north, you see the snowcapped
+peaks of a mountain range.  The path continues to the north, and
+leads to the Northern Road to the south.
+~
+5 0 4
+D0
+~
+~
+0 -1 568
+D2
+~
+~
+0 -1 500
+S
+#568
+A Small Trail Through the Hills~
+   The small trail follows the terrain of the rolling hills.  As the
+hills crest and fall, so does the trail.  The air is much cooler as
+you progress towards the north, closer to the snowapped peaks you can
+see in the distance.  The trail continues through the hills to the
+north and south. 
+~
+5 0 4
+D0
+~
+~
+0 -1 569
+D2
+~
+~
+0 -1 567
+S
+#569
+A Small Trail Through the Hills~
+   The small trail follows the terrain of the rolling hills.  As the
+hills crest and fall, so does the trail.  The air is much cooler as
+you progress towards the north, closer to the snowapped peaks you can
+see in the distance.  The trail continues through the hills to the
+north and south.
+~
+5 0 4
+D0
+~ 
+~
+0 -1 570
+D2
+~   
+~   
+0 -1 568
+S
+#570
+A Small Trail Through the Hills~
+   As the trail continues through the hills, the terrain becomes
+considerably more treacherous.  The rolling hills have become more
+steep as they approach the still-distant mountains.  The trail
+continues through the hills to the north and south.
+~
+5 0 4
+D0
+~ 
+~
+0 -1 571
+D2
+~
+~
+0 -1 569
+S
+#571
+A Small Trail Through the Hills~
+   As the trail continues through the hills, the terrain becomes 
+considerably more treacherous.  The rolling hills have become more   
+steep as they approach the still-distant mountains.  The trail 
+continues through the hills to the north and south.
+~
+5 0 4
+D0
+~ 
+~
+0 -1 572
+D2
+~   
+~   
+0 -1 570
+S
+#572
+A Small Trail Through the Hills~
+   The trail winds its way through the hills, apparently heading
+towards the snowcapped mountains in the not-so-distant north.  The
+cool, crisp air is invigorating!  The trail turns to the east,
+apparently to avoid a large boulder that has been left here by the
+forces of nature.  It also heads south, into more gently rolling
+hills.
+~
+5 0 4
+D1
+~
+~
+0 -1 573
+D2
+~
+~
+0 -1 571
+S
+#573
+A Winding Trail Through the Hills~
+   As the trail winds its way through the increasingly steep hills,
+you begin to notice that the air is much more thin.  Perhaps the
+altitude is to blame.  Upon reaching the crest of one particularly
+large hill, you realize that you can see for miles in every distance.
+To the north you see the snowcapped peaks of a large mountain range.
+The range appears to curve southwards along the east and west ends,
+forming a sort of basin within which these hills reside. A steep
+incline leads down and north into what appears to be a boulder
+field.  To the south, the hills roll gently, and past them is a large
+forest.  The trail continues through the hills to the north and west.
+~
+5 c 4
+D0
+~
+~
+0 -1 574
+D3
+~
+~
+0 -1 572
+D5
+~
+~
+0 -1 574
+S
+#574
+The Boulder Field~
+   Boulders are strewn about everywhere, by the forces of nature...
+or perhaps they have been placed here intentionally.  The boulder
+field continues to the north and east, but becomes too treacherous to
+pass to the west.  A short climb to the south would take you to a
+small trail that winds its way through the hills in that direction.
+~
+5 0 4
+D0
+~
+~
+0 -1 575
+D1
+~
+~
+0 -1 578
+D2
+~
+~
+0 -1 573
+S
+#575
+The Boulder Field~
+   Large boulders have been thrown haphazardly about, making it
+rather difficult to maneuver through this terrain.  The boulder field
+continues to the north, towards a large mountain range, and south
+towards the hills.
+~
+5 0 4
+D0
+~
+~
+0 -1 576
+D2
+~
+~
+0 -1 574
+S
+#576
+The Boulder Field~
+   As the boulder field approaches the mountains, you notice that a
+small pass cuts through the range not far to the north.  Perhaps if
+you are able to make your way through this field, access to the other
+side of the range would be attainable.  The large boulders make your
+journey difficult, but a somewhat clear path leads to the north and
+south. 
+~
+5 0 4
+D0
+~
+~
+0 -1 577
+D2
+~
+~
+0 -1 575
+S
+#577
+Approaching the Mountain Pass~
+   As you reach the base of the mountain range, you see that there is
+indeed a pass through it.  However, it has been quite blocked by a
+recent landslide.  Passage through the rubble is quite impossible to
+the north, but a somewhat clear path leads into a boulder field to
+the south. 
+~
+5 0 4
+D2
+~
+~
+0 -1 576
+S
+#578
+The Boulder Field~
+   Enormous boulders litter the field, making it very difficult to
+make your way through.  Passage to the north and south is blocked by
+particularly large boulders.  Their placement seems too precise to be
+natural, as if the "path" you are on was made intentionally.  While 
+treacherous, the boulder field continues to the east and west.
+~
+5 0 4
+D1
+~
+~
+0 -1 579
+D3
+~
+~
+0 -1 574
+S
+#579
+The Boulder Field~
+   The large boulders that line the field keep you on an east-west
+path as you venture through the rocky terrain.  Past the boulders to
+the north, you can see a large mountain range, meeting the sky with
+its snowcapped peaks.
+~
+5 0 4
+D1
+~
+~
+0 -1 580
+D3
+~
+~
+0 -1 578
+S
+#580
+The Boulder Field~
+   Large boulders line a sort of path through the field.  They guide
+you on a north and west journey, further into the field.  A short
+distance to the north, the path appears to end abruptly at a large
+boulder, but you may continue through the field to the west.
+~
+5 0 4
+D0
+~
+~
+0 -1 7500
+D3
+~
+~
+0 -1 579
+S
+#99999
+$~

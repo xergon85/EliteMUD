@@ -1,0 +1,184 @@
+#21100
+whale shark ocean~
+a whale shark~
+An enormous shark swims slowly beneath the surface of the water.
+~
+The whale shark is monstrous in size, and you thank all that is good
+that she doesn't care to eat anything larger than plankton.  Just
+stay away from her enormous mouth, she could probably swallow you
+whole! 
+~
+15 4 g 0 0 S
+40 -1 -12 1d1+605
+400 500 100 1d20+21
+-1 -1 -1 
+1600 196666 8 8 2
+#21101
+shark great white ocean~
+a great white shark~
+A large fin cuts through the surface of the water, heading your way!
+~
+The great white shark has very sharp teeth, and extremely powerful
+jaws.  He's an ancient predator, and he's maintained his place at the
+top of the food chain because he is the perfect hunting machine.
+~
+15 4 gf 0 0 S
+40 -1 -12 1d1+605
+400 500 100 1d20+21
+-1 -1 -1 
+1600 196666 8 8 1
+#21102
+whale blue ocean~
+the blue whale~
+The blue whale rests at the surface as she pauses to feed her calf.
+~
+The blue whale is the uncontested ruler of the ocean.  No predators
+will even attempt to take this queen of the ocean into battle.  Her
+sheer size alone is enough to ward off any potential enemies.  She is
+fiercely protective of her calf, because while he is quite large
+himself, he is still defenseless.
+~
+15 4 bgm 0 0 S
+40 -1 -12 1d1+605
+400 500 100 1d20+21
+-1 -1 -1 
+1600 196666 8 8 2
+#21103
+whale blue calf ocean~
+the blue whale calf~
+A young blue whale calf nurses contentedly at his mother's side.
+~
+While the young calf is enormous, he is still vulnerable to
+predators.  He stays close to his mother's protective side, hoping
+that he will be able to nurse uninterrupted.
+~
+15 4 bg 0 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1 
+625 58333 8 8 1
+#21104
+turtle leatherback ocean~
+a leatherback turtle~
+Like a bird, the leatherback turtle flies slowly through the water.
+~
+This enormous turtle relies heavily on a diet of jellyfish.  Her
+enormous flippers are perfect for life in the water, and she uses
+them to swim through the ocean in search of her prey.
+~
+15 4 g 0 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1 
+625 58333 8 8 2
+#21105
+lion sea sealion ocean~
+a sea lion~
+A sea lion frolicks playfully in the waves.
+~
+This sea lion loves to have his fun!  His sleek body and strong back
+flippers are excellent for tearing through the water at incredible
+speeds.  His front flippers act as a steering mechanism, allowing him
+to make unbelievable mid-water turns.  Being the faborite snack of a
+great white is dangerous, but life is good and there is fun to be
+had!
+~
+15 4 g 0 0 S
+30 5 -6 1d1+445
+400 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 1
+#21106
+manowar man-o-war ocean~
+a man-o-war~
+The float of an enormous man-o-war rides along on the current.
+~
+The man-o-war appears to be a single animal, but it is actually made
+up of hundreds, or even thousands, of smaller specialized animals.
+Each member of this well-organized colony has its own purpose -
+food gathering, reproduction, defense, or locomotion.  It's best to
+steer clear of the long stinging tentacles of the man-o-war, they can
+easily kill you!
+~
+15 4 g 0 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 0
+#21107
+jellyfish moon ocean~
+a moon jellyfish~
+A small jellyfish swims quickly through the ocean.
+~
+The moon jellyfish is almost all jelly.  Its large bell is pushed
+through the water by very short locomotive tentacles.  Those
+tentacles can give a nasty sting to any would-be predators, but these
+jellies are the favorite snack of the leatherback turtle!
+~
+15 4 g 0 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 0
+#21108
+cobia fish ocean~
+a cobia~
+A long, narrow fish swims past on his way to lunch.
+~
+The cobia is a long narrow fish with a protruding lower jaw and a
+depressed head.  He wears dark stripes along his silvery white body,
+making him appear even longer than he is.  He is probably on his way
+to find some tasty squid.
+~
+15 4 g 0 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1 
+625 58333 8 8 1
+#21109
+trout seatrout spotted fish ocean~
+a spotted seatrout~
+A spotted seatrout surfaces as she chases a tasty snack.
+~
+The spotted seatrout has numerous distinct round spots on her back,
+hence her name.  Her body is white on the bottom, and dark green on
+the top.  She has a small set of canine teeth, which allow her to
+grab hold of her tasty treats before they can escape.
+~
+15 4 g 0 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1 
+625 58333 8 8 2
+#21110
+palometa fish ocean~
+a palometa~
+A small, silvery palometa swims by quickly.
+~
+The palometa is a strange-looking fish indeed.  His long dorsal and
+anal fins and compact body make him a sight to behold.  He has a
+silvery body with bluish edges, and four narrow black bars along each
+side.
+~
+15 4 g 0 0 S
+25 7 -3 1d1+369
+400 500 100 1d12+13
+-1 -1 -1 
+625 58333 8 8 1
+#21111
+mako shark shortfin ocean~
+a shortfin mako~
+The mako shark races toward you, hoping you're as tasty as you smell.
+~
+The mako shark has a blue back and a white belly.  His short dorsal
+fin cuts through the surface of the water as he races towards his
+prey, which he grips firmly with his sharp teat and powerful jaws.
+~
+15 4 g 0 0 S
+30 5 -6 1d1+445
+400 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 1
+#99999
+$~
+

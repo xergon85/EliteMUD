@@ -1,0 +1,104 @@
+#1616
+guard hobgoblin~
+the hobgoblin guard~
+The hobgoblin guard attacks first, thinks later.
+~
+This is an extra large, extra ugly goblin like creature.  He grins evilly
+as he attempts to brain you.
+~
+1 4 34 0 -400 A 32 1
+#1617
+soldier hobgoblin~
+the hobgoblin soldier~
+A hobgoblin soldier stands here.
+~
+This is just a low life hobgoblin, who couldn't make it to the ranks
+of the elite guards.  He looks pissed.
+~
+1 4 34 0 -400 A 28 1
+#1618
+bodyguard hobgoblin~
+the hobgoblin bodyguard~
+A hobgoblin bodyguard guards the king with his life.
+~
+This is one of the elite hobgoblin guards.  He stands tall for his short
+stature.  He grins a toothy grin as he prepares to attack.
+~
+1 4 34 0 -400 A 35 1
+#1619
+king hobgoblin~
+the king of the hobgoblins~
+There is a great king here, sitting in his throne.
+~
+The king is a silly looking hobgoblin whose muscles bulge out of his robes,
+destroying the sophisticated effect he was trying to create.
+~
+1 4 2 0 -400 S
+42 -5 -14 1d42+750
+400 500 100 1d30+15 -1
+-1
+-1
+1500 220000 6 6 1
+#1620
+miner hobgoblin~
+a hobgoblin miner~
+A hobgoblin miner stands here looking for gold.
+~
+The miner is totally covered in dust.
+~
+1 4 6 0 -200 A 25 1
+#1621
+treasurer hobgoblin~
+the treasurer~
+A treasurer is here counting out money.
+~
+The hobgoblin treasurer is an old goblin with glasses.  It appears that he
+can only see a couple feet in front of him.
+~
+1 4 38 0 -300 S
+34 2 -8 1d34+433
+400 500 100 1d24+8 -1
+-1
+-1
+1200 133333 8 8 1
+#1622
+prisoner gnome~
+a gnome prisoner~
+A gnome prisoner is here resting in the straw.
+~
+The prisoner is just barely alive.
+~
+1 4 6 0 200 A 23 1
+#1623
+prisoner human~
+a human prisoner~
+A human prisoner is here resting in the straw.
+~
+The prisoner is just barely alive.
+~
+1 4 6 0 200 A 23 1
+#1624
+hermit crab~
+a hermit~
+A hermit crab crawls towards you.
+~
+The hermit crab is about 5 feet high and looks mad that you had the nerve
+to wake it up.
+~
+1 4 34 0 -200  S
+35 3 -8 1d35+545
+400 500 100 1d23+12 -1
+-1
+-1
+1200 141666 8 8 1
+#1626
+cook hobgoblin~
+the cook~
+A hobgoblin cook stands here cooking something.
+~
+The cook is a dirty and fat hobgoblin.  He burps as he stirs up something
+in a pot.
+~
+1 4 6 0 -200 A 27 1
+#99999
+$~

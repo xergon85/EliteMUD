@@ -1,0 +1,514 @@
+#13001
+Jin Amulet key~
+the Amulet of Jin~
+An amulet of a white circle is lying here.~
+~
+18 0 0 abgm ao
+2 0 0 0 0 140
+5 0 10000
+E
+Jin Amulet~
+The amulet is strange in shape and design.
+~
+#13002
+Gi Amulet key~
+the Amulet of Gi~
+An odd looking amulet is found here.~
+~
+18 0 0 abgm ao
+2 0 0 0 0 140
+5 0 10000
+E
+Gi Amulet~
+What an odd looking amulet!
+~
+#13003
+Chu Amulet key~
+the Amulet of Chu~
+A strange looking amulet with markings of some sort is here.~
+~
+18 0 0 abgm ao
+2 0 0 0 0 140
+5 0 10000
+E
+Chu Amulet key~
+The amulet has many strange markings.
+~
+#13004
+Ko Amulet key~
+the Amulet of Ko~
+An yellow amulet has been left here.~
+~
+18 0 0 abgm ao
+2 0 0 0 0 1400
+5 0 10000
+E
+Ko Amulet~
+The amulet has many strange markings.
+~
+#13005
+Rei Amulet key~
+the Amulet of Rei~
+A blue odd looking amulet with gold chain is littering here.~
+~
+18 0 0 abgm ao
+2 0 0 0 0 140
+5 0 10000
+E
+Rei Amulet~
+The amulet has many strange markings.
+~
+#13006
+Chi Amulet key~
+the Amulet of Chi~
+A purple amulet with a black chain is lying here.~
+~
+18 0 0 abgm ao
+2 0 0 0 0 140
+5 0 10000
+E
+Chi Amulet~
+The amulet has many strange markings.
+~
+#13007
+Shin Amulet key~
+the Amulet of Shin~
+A green small amulet that has some markings on it, is left here.~
+~
+18 0 0 abgm ao
+2 0 0 0 0 140
+5 0 10000
+E
+Shin Amulet~
+The amulet has many strange markings.
+~
+#13008
+Tei Amulet key~
+the Amulet of Tei~
+A blue amulet is here.~
+~
+18 0 0 abgm ao
+2 0 0 0 0 140
+5 0 10000
+E
+Tei Amulet~
+The amulet has many strange markings.
+~
+#13009
+Fugu Blade~
+a Fugu Blade~
+A mighty looking blade is lying here.~
+~
+5 40 abefijmn abg an
+0 4 6 3 0 0
+10 0 10000
+E
+Fugu Blade~
+You see the mighty Fugu Blade
+~
+A
+18 5
+A
+19 5
+#13010
+Sun Jewel~
+a Jewel of the Rising Sun~
+A bring yellow jewel seems to glow where it lies.~
+~
+9 15 0 abfk ac
+15 0 0 0 0 0
+5 0 10000
+E
+sun jewel~
+You notice that the stone glows like the sun.
+~
+A
+3 1
+A
+4 1
+#13011
+amulet suun lu~
+the Amulet of Suun Lu~
+An weird looking amulet has been dropped here.~
+~
+9 20 0 abfk ac
+15 0 0 0 0 0
+5 0 10000
+E
+amulet suun lu~
+This necklace looks like it belongs to someone.
+~
+A
+13 20
+A
+5 3
+#13012
+laroche sabre~
+the Laroche~
+A strange looking sabre lies here, reflecting light.~
+~
+5 15 abefijmn abfgikl an
+0 2 6 3 0 0
+10 0 10000
+E
+Laroche~
+The Laroche looks like a sabre.
+~
+A
+17 5
+#13013
+scythe kusari~
+the Kusari~
+A weird looking scythe decorates this place.~
+~
+5 18 abefijmn abfgikl an
+0 2 6 3 0 0
+10 0 10000
+E
+kusari scythe~
+The Kusari looks like a scythe.
+~
+A
+17 8
+#13014
+sword ninjato~
+the Ninjato~
+A small, strangely shaped sword has been left here.~
+~
+5 16 abefijmn abfgikl an
+0 2 6 3 0 0
+10 0 1000
+E
+ninjato~
+The Ninjato looks very dangerous.
+~
+A
+18 2
+A
+19 2
+#13015
+sword azami~
+the Azami~
+A ridiculous looking sword is lying here.~
+~
+5 15 abefijmn abfgikl an
+0 2 6 3 0 0
+10 0 10000
+E
+azami~
+The Azami looks very dangerous.
+~
+A
+18 1
+A
+19 1
+#13016
+sword katana~
+the Katana~
+A long sharp sword has been stuck here.~
+~
+5 22 abefijmn abfgikl an
+0 2 8 3 0 0
+10 0 10000
+E
+katana~
+The Katana looks very dangerous.
+~
+A
+18 1
+A
+19 2
+#13017
+sword wakisashi~
+the Wakisashi~
+A long mean-looking sword of strange origin lies here.~
+~
+5 22 abefijmn abfgikl an
+0 2 8 11 0 0
+10 0 10000
+E
+wakisashi~
+The Wakisashi looks very dangerous.
+~
+A
+17 10
+A
+2 1
+#13018
+sword naginata~
+the Naginata~
+A sharp crooked sword with strange markings has been left here.~
+~
+5 22 abefijmn abfgikl an
+0 2 9 11 0 0
+10 0 10000
+E
+naginata~
+The Naginata looks very dangerous.
+~
+A
+18 2
+A
+19 2
+#13019
+sword kodachi~
+the Kodachi~
+A weird looking sword is stuck here.~
+~
+5 18 abefijmn abfgikl an
+0 2 9 11 0 0
+10 0 10000
+E
+kodachi~
+The Kodachi looks very dangerous.
+~
+A
+17 12
+#13020
+weapon kora~
+the Kora~
+Another strange weapon can be found here.~
+~
+5 15 abefijmn abfgikl an
+0 2 7 3 0 0
+10 0 10000
+E
+kora~
+The Kora looks very dangerous.
+~
+A
+2 1
+A
+5 1
+#13021
+sword iaito~
+the Iaito~
+A double edged sword is lying here.~
+~
+5 15 abefijmn abfgikl an
+0 2 7 3 0 0
+10 0 10000
+E
+iaito~
+The Iaito looks very dangerous.
+~
+A
+17 12
+A
+19 1
+#13022
+sword mandarain dau~
+the Mandarain dau~
+A dangerous evil-looking sword has been dropped here.~
+~
+5 24 abefijmn abfgikl an
+0 2 10 3 0 0
+10 0 10000
+E
+mandarain dau~
+The Mandarain dau looks very dangerous.
+~
+A
+18 2
+A
+19 2
+#13050
+sword samurai~
+a samurai sword~
+A samurai sword has been left here.~
+~
+5 10 abefijmn bk an
+0 1 10 3 0 0
+3 100 100
+E
+sword samurai~
+You see a sword of great craftsmanship.  Imprinted on the side is:
+Samurai Industries
+~
+A
+18 2
+A
+19 2
+#13051
+dagger samurai~
+a samurai dagger~
+A samurai dagger lies here, looking cold.~
+~
+5 6 0 bk an
+0 1 10 11 0 0
+3 100 100
+E
+dagger samurai~
+You see a dagger of great craftsmanship.  Imprinted on the side is:
+Samurai Industries
+~
+A
+18 2
+A
+19 1
+#13052
+mace samurai~
+a samurai mace~
+A samurai mace is littering here.~
+~
+5 5 0 bk an
+0 1 10 6 0 0
+3 100 100
+E
+mace samurai~
+You see a mace of great craftsmanship.  Imprinted on the side is:
+Samurai Industries
+~
+A
+18 2
+A
+19 2
+#13053
+vest samurai~
+a samurai vest~
+A samurai vest lies here collecting dust.~
+~
+9 0 0 ak ad
+2 0 0 0 0 0
+2 100 100
+E
+vest samurai~
+You see a vest of great craftsmanship.  Stamped on the side is:
+Samurai Industries
+~
+#13054
+shield samurai~
+a samurai shield~
+A samurai shield has been dropped here.~
+~
+9 0 0 ak j
+2 0 0 0 0 0
+2 100 100
+E
+shield samurai~
+You see a shield of great craftsmanship.  Imprinted on the side is:
+Samurai Industries
+~
+#13055
+cloak samurai~
+a samurai cloak~
+An old smelly cloak has been thrown here.~
+~
+9 1 0 ak ac
+2 0 0 0 0 0
+2 100 100
+E
+cloak samurai~
+You see a cloak of great craftsmanship.  Imprinted on the side is:
+Samurai Industries
+~
+#13056
+helmet samurai~
+a samurai helmet~
+A helmet for thick-headed samurais lies here.~
+~
+9 0 0 ak ae
+2 0 0 0 0 0
+2 100 100
+E
+helmet samurai~
+You see a helmet of great craftsmanship.  Imprinted on the side is:
+Samurai Industries
+~
+#13057
+leggings samurai~
+a pair of samurai leggings~
+A pair of samurai leggings lies here.~
+~
+9 0 0 ak af
+2 0 0 0 0 0
+2 100 100
+E
+leggings samurai~
+You see leggings of great craftsmanship.  Imprinted on the side is:
+Samurai Industries
+~
+#13058
+boots samurai~
+a pair of samurai boots~
+A pair of boots has been left here by their samurai owner.~
+~
+9 0 0 ak ag
+2 0 0 0 0 0
+2 100 100
+E
+boots samurai~
+You see boots of great craftsmanship.  Imprinted on the side is:
+Samurai Industries
+~
+#13059
+gloves samurai~
+a pair of samurai gloves~
+Gloves made of thick hide lie here.~
+~
+9 0 0 ak ah
+2 0 0 0 0 0
+2 100 100
+E
+gloves samurai~
+You see gloves of great craftsmanship.  Imprinted on the side is:
+Samurai Industries
+~
+#13060
+sleeves samurai~
+a pair of samurai sleeves~
+Strange looking sleeves has been left here.~
+~
+9 0 0 ak ai
+2 0 0 0 0 0
+2 100 100
+E
+sleeves samurai~
+You see sleeves of great craftsmanship.  Imprinted on the side is:
+Samurai Industries
+~
+#13061
+cape samurai~
+a samurai cape~
+A dark cape with strange markings is lying here.~
+~
+9 0 0 ak ac
+2 0 0 0 0 0
+2 100 100
+E
+cape samurai~
+You see a cape of great craftsmanship.  Imprinted on the side is:
+Samurai Industries
+~
+#13062
+belt samurai~
+a samurai belt~
+A thick belt is looking for a new owner.~
+~
+9 0 0 ak al
+2 0 0 0 0 0
+2 100 100
+E
+belt samurai~
+You see a belt of great craftsmanship.  Imprinted on the side is:
+Samurai Industries
+~
+#13063
+bracer samurai~
+a samurai bracer~
+Bracers of odd design lie here.~
+~
+9 5 0 ak am
+2 0 0 0 0 0
+2 100 100
+E
+bracer samurai~
+You see a bracer of great craftsmanship.  Imprinted on the side is:
+Samurai Industries
+~
+A
+18 1
+A
+19 1
+#99999
+$~

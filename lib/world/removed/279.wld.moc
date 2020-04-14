@@ -1,0 +1,1068 @@
+#27900
+#RThe Entrance to an Ancient Ruin#N~
+   Two pillars of black marble frame a doorway here that leads into 
+an ancient #wtemple#N to the south. The sounds of laughter and 
+ecstacy mingle with screams, all coming from beyond the entrance. 
+Some blood trickles out from the dark hallway beyond and onto the 
+ground here where it blends into the red clay of the dirt path 
+leading north toward the turning point.
+~
+279 uz 0
+D0
+The Turning Point is north of here.
+~
+~
+0 -1 3502
+D2
+A dark hallway is south of here.
+~
+~
+0 -1 27901
+E
+statue demon~
+The marble statue is about 10 feet high and made from a black marble
+with white flecks in it.  It is of a two-headed, female demon, and is
+expertly crafted.
+~
+E
+temple~
+The temple south of here stands as a monument of evil. Demons and
+gargoyles line the walls. Naked demonesses grace every corner. Bolts 
+of lightning crash and dance among its high spires. It almost seems 
+like some dark and evil god or goddess has reft this place from their 
+realm and transplanted it into the world of Elite.
+~
+S
+#27901
+#RThe Main Hallway#N~
+   This dark hallway is lit at even intervals by torches. On one end 
+of it lies an entrance to the foyer area of the temple. To the north 
+lies an exit back into the world of Elite. A stairwell spirals upward 
+from the middle of the hall ending at a portal that leads to the 
+personal rooms of the clan's members.
+~
+279 duz 0
+D0
+The northern passage leaves the temple.
+~
+~
+0 -1 27900
+D2
+The southern passage leads to the temple foyer.
+~
+~
+0 -1 27902
+D4
+The stairs lead up to a portal in the ceiling.
+~
+~
+0 -1 27907
+S
+#27902
+#RThe Foyer#N~
+   The foyer of the Minions of chaos is a large, circular room. It is
+elegantly decorated and has exits leading out to other sections of 
+the clan house.  To the north you can see a hallway leading to the 
+outside and to the personal rooms of the minions. To the east an aura 
+of power and chaotic energy can be felt pouring out healing essences. 
+To the west stacks of weapons, equipment, and armor can be seen 
+through a doorway. Far on the other end of the foyer to the south, 
+runes have been carved that light the way deeper into the temples 
+heart.
+~
+279 duz 0
+D0
+The passage leads toward the entrance of the clan house.
+~
+~
+0 -1 27901
+D1
+The clans healing chamber lies to the east.
+~
+~
+0 -1 27905
+D2
+Carved runes light the way south.
+~
+~
+0 -1 27903
+D3
+The clan equipment room is to the west.
+~
+~
+0 -1 27906
+S
+#27903
+#RThe Room of Mystery#N~
+   In this room are the clan mysteries kept. On a #wwall#N is carved
+clan #wrules#N and other clan #wmysteries#N. On another #wwall#N is
+inscribed black magical #warts#N, to keep the powers of evil and 
+chaos in check.  A set of double doors leads off to a passage to the 
+south, one is inscribed with a rune of Chaos, the other with a rune 
+of Evil. In the middle of this room is a podium upon which rests the 
+clan board. Maybe you should check it to see if something new has 
+come up in the clan.
+~
+279 duz 0
+D0
+The carved runes lead back to the foyer.
+~
+~
+0 -1 27902
+D2
+A dark and evil sense lies beyond these open doors.
+~
+door~
+11 -1 27904
+E
+mysteries arts rules wall walls~
+The rules and mysteries of the Minions of Chaos are carved into
+the walls here. They are listed under the following categories :
+
+#wRules1#N, #wRules2#N, #wRules3#N, #wCouncil#N, #wDeities#N, 
+#wRanking1#N and #wRanking2#N.
+~
+E
+Rules1 rules1 RULES1~
+Applicants to the Minions of Chaos MUST BE (even for clannies) level
+20 to apply. (NO EXCEPTIONS, DO NOT ASK FOR ANY) Applicants must have
+been interviewed by two clan members of Knight+ rank. They must be
+shown these rules, and accept them. Then the interviewers should
+interview the applicant. The applicant should expect to wait about
+24 hours after the second interview has been finished before they
+are accepted into the clan.
+~
+E
+rules2 Rules2 RULES2~
+Minions of Chaos members are expected to follow the typical clan 
+rules. Try to get along with members, keep the donation room well 
+stocked, not sell to clan members, etc. If you want to give an item 
+or two out to a friend or multi, go ahead. If you are not sure, ask. 
+We don't mind you giving out an item or two but if you think you are 
+going to rob us blind your soul will be forfeit.
+~
+E
+rules3 Rules3 RULES3~
+Minions of Chaos is a dark and evil clan. It's rituals of drawing 
+power out of conflict and evil stain the soul. Anyone who wishes to 
+be accepted into the clan should realize that playing their character 
+in an evil manner is promoted.
+
+HOWEVER...
+
+We note that EVIL does not translate to being a jerk. If you think it
+does, find another clan. Consequently, if you can not figure out just
+what a jerk is, find another clan.
+~
+E
+council Council~
+    Clan decisions will be made by a Dark Council, The Dark Council
+will
+    be created upon the stabilization of the clan by the clan 
+    Patriarch, Matriarch, and Sponsoring God. Council members may be 
+    changed upon agreement of all three parties. This council runs 
+    the clan with veto power held in the hands of the Patriarch and 
+    Matriarch. They may subsequently be over-ruled by the Clan 
+    sponsoring God AND the Dark Council. Basically, the power is in 
+    the upper level hands, but no single group is supreme.
+~
+E
+deities Deities~
+Gods. Minions can have immortals and mortals ranked at the same time.
+However you will only receive 1 vote. And except for the Sponsoring
+god the vote is based upon the mortal. (except if a clan leader 
+decides otherwise)
+
+In the event that the clan should ever be without a sponsoring god 
+the masters may agree to a new one. 
+~
+E
+Ranking1 ranking1~
+The ranking system of the Minions of Chaos is posted on the clan 
+board in the policy sections. Essentially, the clan is not ranked by 
+remort or power, although they are considered. The most important 
+things to the Minions of Chaos is activity. You are ranked according 
+to where your masters in the system feel you should be, based upon 
+how much work you put into the clan. If you want to level in here, 
+you must play, talk, and bond with us. Else you may sit as a slave 
+forever.
+~
+E
+ranking2 Ranking2~
+The ranking of the Minions of Chaos is as follows:
+
+Slave, Fanatic, Tainted Soul, Disciple, Knight, Lord, Prince, and
+Master.
+
+All immortals are Angels however the only Angel with any real power
+is the sponsoring God. If there is none, The masters may agree on 
+one.
+
+All minions except for Princes, Masters, and Angels must have a 
+master character to guide them according to the policy stated on the
+clan board.
+~
+S
+#27904
+#RThe Altar Room#N~
+   This room is dark and seems much older than the other portions of 
+the temple.  Torches burn in sconces on the side but no smoke comes 
+from them. A pentagram is drawn in dried blood on the floor. In the 
+middle of the pentagram is a raised dias, upon which stands an 
+#waltar#N made of some kind of black rock with silver trim. A few 
+dark objects lay upon the altar but from the distance you can not 
+make them out. A sense of awe overpowers you as you realize that in 
+this room did chaos and evil form its pact to ally for all eternity. 
+All the clan's leaders are bound in this room with unholy rituals. 
+Despite your own evil nature you cannot supress a shudder when you 
+think of what has been and will be done again, in this room.
+~
+279 duz 0
+D0
+The passage leads back to the mysterious chamber.
+~
+door~
+11 -1 27903
+D5
+Beneath the altar a stairway leads down.
+~
+altar~
+11 -1 27909
+E
+altar~
+This altar is made of obsidian. Silver trim has been hammered 
+carefully into the sides of the altar and etched upon the trim are 
+tiny demons engaged in obscene acts. A few black#w roses#N lie on the 
+altar around a strange looking#w sword#N. In the altar's center a 
+white marble basin has been sunk. The basin is also etched with tiny 
+demons and demonesses. At the bottom of the basin an intricate 
+demoness is carved with her mouth wide open, as if to drink any blood 
+that might drip into the basin.
+~
+E
+sword roses~
+A sword with a blade of black steel lies among the roses upon the 
+altar. Upon the blade are red runes which burn and writhe giving off 
+an errie glow.  Surrounding the sword are a few black roses. The 
+petals of the roses glimmer with a red sheen, however, you can not be 
+certain if this is because of the light from the sword's runes or if 
+each rose was dipped in blood. Try as you might, the sword and the 
+roses, refuse to budge.
+~
+S
+#27905
+#RThe Chamber of Chaos#N~
+   This room is lushly decorated in red and black. Places to sit and 
+rest are scattered everywhere. A feeling of power and raw chaos 
+permeates this room, and in it you feel your wounds itching as they 
+begin to heal faster. A huge sign of Chaos is drawn in the middle of 
+the floor and the whole room seems to be empowered by it. At the back 
+of the room, in a dark corner, a fountain carved from onyx sits 
+spouting water. As you look around you can see the ecstacy on the 
+faces of the chaotic and evil clan members that surround you.
+~
+279 dtuz 0
+D3
+The door leads east to the foyer.
+~
+~
+0 -1 27902
+E
+fountain~
+This fountain is embedded in the wall and is carved out of onyx. In 
+its basin is water but it has a strange, slightly reddish tint to it. 
+As you look in at it you wonder if the stories about the Minions are 
+true, and if they mix blood with their water, to "better" the taste.
+~
+S
+#27906
+#RThe Armory of Entropy#N~
+   Spare equipment lies on the floor of this room or stacked on 
+shelves on the sides of the room. Clan members are reminded that 
+although evil and chaotic in nature, everyone has to start somewhere 
+and that helping another clan member might get you a favor returned 
+later.
+~
+279 duz 0
+D1
+The door east leads into the foyer.
+~
+~
+0 -1 27902
+S
+#27907
+#RThe Northern Hallway#N~
+   This hallway is brightly lit by torches in sconces at even 
+intervals. Doors lead outward from every direction to the personal 
+rooms of the clan members. A statue of a grinning #wdemon#N stands on 
+this end of the hallway and as you look down the hallway to the south 
+you see a fountain and beyond it on the other end of the hallway, a 
+statue of a naked succubus lies enticing the demon along. A portal 
+lies beneath your feet beckoning for you to choose a room or to enter 
+it.
+~
+279 duz 0
+D0
+To the north lies the personal room of Clotho.
+~
+door~
+11 -1 27908
+D1
+To the north lies the personal room of Wulf.
+~
+door~
+11 -1 27910
+D2
+The hallway leads south from here.
+~
+~
+0 0 27912
+D3
+To the west lies the personal room of Lobo.
+~
+door~
+11 -1 27911
+D4
+This portal leads up toward a balcony.
+~
+~
+0 -1 27919
+D5
+The portal leads down to the bottom level of the temple.
+~
+~
+0 -1 27901
+E
+demon~
+   This statue stands 8 feet tall. Fangs jut from the mouth of the
+demons face which is twisted into a horrible, evil grin. Wings with 
+claws on their ends lie folded behind the back of the demon. The 
+statue is so real looking you would swear it was real. Wait..did it 
+just blink? Upon the pedestal of the demon is a #wplaque#N.
+~
+E
+plaque~
+Engraved upon this plaque lists the names of all the past princes+ of 
+the Minions of Chaos who endeavored to make the Minions the best clan 
+on the mud.
+
+#RDrineas#w, #RKhazad#w, #RKanth#w, #RClotho#w, #RRilarien#w,
+#RPendragon#N, #RMulder#N, #RWulf#N, #RHastur#N, #RAurian#N, #RGurney#N
+~
+S
+#27908
+#RThe Black Hall#N~
+   You stand in the middle of a large, round chamber, vaulted high 
+with black stone supports.  The chamber is crafted from polished 
+black marble, glittering with the dim light that emanates from 
+torches, spaced about the room at even intervals.  Platinum inlays 
+line the chamber's vaulted ceilings. In the middle of the chamber, 
+there sits a large, ebony desk littered with papers and various 
+magical items. The north wall has upon it a large, picture window 
+from which can be seen a beautiful view of Midgaard and the Elite 
+world.
+~
+279 duz 0
+D2
+The door leads back into the hall.
+~
+door~
+11 -1 27907
+S
+#27909
+#RThe Secret Meeting Room#N~
+   In this room of white and black marble, the clan's most powerful
+leaders meet to decide how to do the world more ruin. A black marble 
+table lies in the middle of the room and around its sides are thrones 
+of white marble. On each of the thrones is etched a symbol of the 
+twisted lord or lady the throne is for. At one end of the table lie 
+two thrones of white rock with red streaks running through them. At 
+the far end of the table is a throne on a dias made of solid 
+obsidian.
+~
+279 duz 0
+D4
+Some stairs lead back to the altar room.
+~
+door altar~
+11 -1 27904
+S
+#27910
+#RLair of the Wulf#N~
+   Before you is the private room of Wulf.  Throughout many years of 
+serving the Minions, this room has accumulated an extremely large 
+collection of rare and exotic artifacts from across the world.  The 
+floor made of streaked red marble has been polished to a shine with 
+the blood of sacrificed virgins and giant black marble pillars 
+stretch upwards into the darkness.  Wulf's personal sacrificial 
+#raltar #Wmade of solid platinum and carved with demons is centered 
+in the middle of the room.  Upon the altar is a basin that is filled 
+with the blood of the minions sworn to serve him.  Beside the basin 
+is an onyx chalice, inlaid with bright red rubies in the shape of 
+winged demons, and a slim dagger made of cold black steel.  In front 
+of the altar, a silver cauldron carved with flames of gold contains a 
+fire which is the rooms only light.  Behind the altar is a tall high 
+backed throne made of blood stained bones.  One wall is  dominated by 
+an ebony #rbookshelf#W that is filled with hundreds of books of arcane 
+knowledge, all of which are bound in human flesh and penned in Wulf's
+hand with human blood.  Opposite the bookshelves, on the other side 
+of the room, you can see a few of Wulf’s personal servants all of 
+which appear to be garbed in a clinging white material that leaves 
+nothing to your imagination.  After seeing a few servants come and go 
+you notice that all of them are very physically beautiful.
+~
+279 duz 0
+D3
+~
+door~
+11 -1 27907
+E
+altar~
+Four carved nude women support the top of the altar.  There is one 
+woman at each corner, and they are all carved with lifelike detail.  
+The top of the altar is at least two paces long and the edges are 
+ringed with glowing red carvings of demons that seem to pulsate as if 
+alive. In the center of the altar is Wulf's personal rune, a large 
+fang centered on a single flame.  Wulf's rune is glowing red so 
+brightly that it hurts to look at it.
+~
+E
+bookshelf bookshelves bookcase book~
+The ebony bookshelves are ten paces long and contain hundreds if not
+thousands of books, all of which are written by Wulf himself.  The
+bookshelf is intricately carved with demons.  A large glowing red 
+rune at the center of the bookshelf warns any would be trespasser 
+that the bookshelf itself is magically warded, and warns of the 
+dangers of tampering with its contents. 
+~
+S
+#27911
+#RLobo's Room#N~
+   When you enters Lobo's room you smell odour of sweet smell of 
+dead. On the north wall it is a huge painting of Space dolphins.  On 
+the west wall you can see collection of Heads of Lobo's victims: 
+Crist's Head, Angel Gabriels head, Buddha's head and Picture of 
+Planet Czarnia (all dead, killed by Lobo).  At south wall you can see 
+all kinds of weapons from entire Galaxy,and in special place you can 
+see Lobo Favour weapon Lobo Chain still drepping of blood.  At east 
+side you can see book case,when you looks closer you can see title: 
+Necrononicon rigor mortes, Thule, Sanic Bible, Homer's entire work, 
+King Solomons Book of magic and Autobiography of Lobo the last 
+Czarnian with the authors head on it. In middle of room you can see 
+Bar with all forbidden liquers and drugs.
+From hidden speakers plays Insane rock music from cosmic radio 
+station.
+ On bar disk you can read the inscription:  
+      Nemo Propter Amorem Dispiciatur.
+~
+279 duz 0
+D1
+~
+door~
+11 -1 27907
+S
+#27912
+#RThe Chamber of Blood#N~
+   As you step into this room you first notice it is a circular room
+with hallways to the north and south. To the east and west are 
+doorways leading to more of the personal chambers of the Minions. In 
+the center of the room is a fountain of a demon, carved from bleached 
+bone. From the demon's mouth blood pours out into a basin. You hear a 
+demonic voice coming from the fountain whispering "The blood of ages 
+flows so sweet. Come, drink from us." Although you know the blood 
+will quite possibly make you sick, the urge to drink the blood is 
+almost overwhelming.
+~
+279 duz 0
+D0
+The hallway leads north from here.
+~
+~
+0 -1 27907
+D1
+The room to the east seems to be filled with stagnant water.
+~
+door~
+11 -1 27915
+D2
+The hallway leads south from here.
+~
+~
+0 -1 27913
+D3
+You can't make out anything in the room to the west.
+~
+smiley~
+11 -1 27916
+E
+fountain bone~
+A fountain carved from bleached bone sits here pouring blood.  Other 
+than that, it's a fountain.  It's just one that has blood in it.
+~
+S
+#27913
+#RThe Southern Hallway#N~
+   The hallway continues here brightly lit by torches in scones. 
+Doors lie on the sides of the hall. Here, at the hallways end, is a 
+statue of a #wsuccubus#N lying in a form as if to entice the demon 
+statue at the end of the northern hall. To the southern end of the 
+hall is a door made of iron. Splotches of blood and gore cover it.
+~
+279 duz 0
+D0
+The hallway leads back to the north.
+~
+~
+0 -1 27912
+D1
+The eastern passage slopes downwards into a dark chamber.
+~
+door~
+11 -1 27917
+D2
+The doorway reveals a sanctum to the south.
+~
+iron~
+11 -1 27914
+D3
+The western passage leads into darkness.
+~
+gate~
+11 -1 27918
+E
+plaque~
+The plaque is made of gold and has fifteen small figures etched 
+around it. Under each figure is a small engraved name. A title sign 
+on the plaque reads "The fifteen founding Minions." Under the title 
+their names are listed :
+#R     Lastard Lilith Woo Xedin Kanth Clotho Rilarien Sheraton
+        Cronic Soso Geralt Jericho Hastur Wulf Probert#N
+~
+E
+succubus~
+   The succubus statue is smiling seductively. A wing covers one 
+naked breast while a forked tail slides up around the body. Red hair 
+luxuriously falls down her back. The statues eyes flicker with fire 
+promising exstacy followed by promised pain as the soul of any who 
+fell to a succubus's whims would be forfeit. Still you notice the 
+succubus is perfectly formed, and you can't help but wish she was 
+more than just a statue. On the pedestal is a small #wplaque#N.
+~
+S
+#27914
+#RKanth's Inner Sanctum#N~
+   As you enter this chamber you see strange red runes runing down 
+the walls at even intervals. The lights from these runes is the 
+chambers only visible light source, and it makes everything tinged 
+with an erie cast. Upon the floor is a plush, black carpet, that 
+leads up to a simple, and small altar where sacrifices are no doubt 
+performed. Before an ornate wooden desk is a #wchair#N, made of a 
+weird substance, covered with plush pillows, and atop the #wdesk#N 
+are stacked a few #witems#N. On the wall are notches where Kanth's 
+accursed sword would hang weeping. Along the wall is a book shelf 
+where stacks of #wbooks#N lie. A sense of evil lies in this room. And 
+you wonder how much of his soul the dark paladin lord has traded for 
+power.
+~
+279 duz 0
+D0
+The exit leads into a large hallway.
+~
+iron~
+11 -1 27913
+E
+chair~
+As you look closer at the chair and admire the handicraft you notice 
+to your horror that it's covering is made of human skin. The chairs 
+arm rails end in skulls, and the back of it seems to be made of the 
+bones of some large creature's ribcage. Black runes are etched into 
+the bone giving it an erie appearance.
+~
+E
+desk~
+The desk is made of oak. Upon it are are strewn some items. Soaked 
+into the wood are some bloodstains that no amount of scrubbing will 
+ever remove.
+~
+E
+items~
+Upon the desk are a few items. Some armor of the holy paladins, that
+looks blackened by fire. It is all marked with symbols of death and 
+chaos. A goblet with blood stains on its lips lies here. And around 
+it a few rose petals from a some black roses.
+~
+E
+Keats~
+You reach for the book and gently pull one of Kanth's most prized
+possessions off the shelf. It is a book of poetry. And you think to
+yourself, strange that a dark lord like Kanth would have something
+so trivial among his books of power. Your eyes stop as they light
+upon one poem in particular, entitled "When I have #wFears#N." Then
+you quickly replace the book.
+~
+E
+books~
+Most of the titles have to do with dark religions, clans, leadership,
+magic, summoning of demons, and other such stuff. The last book has
+a blue cover faded from wear with the word #wKeats#N on it.
+~
+E
+fears~
+When I have fears that I may cease to be
+ Before my pen has glean'd my teeming brain,
+Before high piled books, in charact'ry,
+ Hold like rich garners the full-ripen'd grain;
+When I behold, upon the night's starr'd face,
+ Huge cloudy symbols of a high romance,
+And think that I may never live to trace
+ Their shadows, with the magic hand of chance;
+And when I feel, fair creature of an hour!
+ That I shall never look upon thee more,
+Never have relish in the faery power
+ Of unreflecting love!--then on the shore
+Of the wide world I stand alone, and think
+Till Love and Fame to nothingness do sink.
+
+             John Keats, 1884.
+~
+S
+#27915
+#RThe Residence of Hastur#N~
+"Utterly alien landscape....Foreground a deep lake.  Hali?  In five
+minutes the water begins to ripple where something rises.  Facing
+inward.  A titanic aquatic being, tentacled.  Octopoid, but far, far
+larger-ten-twenty times larger than the giant Octupus apallyon of the
+west coast.  What is its neck alone easily fifteen rods in diameter.
+Can not risk chance of seeing its face."
+~
+279 duz 0
+D3
+The exit west leads out into the Blood Chamber.
+~
+door~
+11 -1 27912
+S
+#27916
+#RThe Realms of the Warped#N~
+Hola Senor! Welcome to the Ninth Sphere!
+
+A deep voice booms,#R "FOOL! NO ONE EVER ENTERS THE MIND OF CONAN AND
+LIVES!"#N
+   Entering a circular chamber, the only decor is a#c bookstand#N in 
+the center. You shrug as you plod back up the stairs and depart 
+through the door.
+
+   And it doesn't lead out.
+
+   Suddenly, a#M purple haze#N surrounds everything.  Dim#c shapes#N
+slowly float about the area, and a great golden#y throne#N sits 
+between two blazing lamps.  A great#C mirror#N sits a few spans away, 
+a#C couch#N in front, which mutters 'You are da studmuffin, You are 
+the mac daddy, oh Great Lord Conan'. And what's up with that funky#C 
+muzak#N playing in the background? And why are those#R demons#N 
+grinning and cracking their knuckles?#g>>#y**#mBAM!#y**#g<<#N
+   As you soar through the fog, you wonder how this room is so big? 
+Must be one of those weird space/time continuum flukes.   Eventually 
+a sign breaks your little flight.  It sez:#y'CAUTION! No feeding the 
+Ego. No hanging over the rail. Not our fault if you and/or a family 
+member is maimed, eaten, slobbered on, or all of the above.#N' Then 
+you see#C it#N.
+   After a while, you finally stop fleeing in horror.
+A guy with a forked gotee and horns smiles at you and offers you a#C
+brewskie#N.
+   After a while, you finally stop fleeing in horror.(MILK IT, 
+BABEE!) Now you stand before a giant wooden#C door#N.#y "You SURE you 
+want to leave? Completely, totally sure? Absolutely sure? -sniff- I'm 
+so lonely..stay awhile, PLEASE?"#N
+   After slashing the door with your dagger, it lets you go.  Pray to
+whichever God you worship you never have to come again, and hope to 
+ANY God that you are able to forget what you found out about Conan by
+scratching the surface of his mind(lessness).
+~
+279 duz 0
+D1
+The door to the east leads back into the Blood Chamber.
+~
+smiley~
+11 -1 27912
+E
+bookstand~
+Searching through the mound of comic books, you find The Subgenius 
+Bible and Revelation X.  Hmm.  "Bob"? 'Con'? 'Why you must perform 
+deviant sex'? HERE'S A REAL RELIGION!!
+~
+E
+purple haze~
+Hmm, looks like Conan let Jimi Hendrix in here one night.
+~
+E
+shapes~
+The disembodied head of J.R. "Bob" Dobbs, the#C Deathstar#N, crusty 
+ol' boxer shorts, a cute li'l Yoda doll, and Papa smurf are just a 
+few of the things that float about.
+~
+E
+deathstar~
+A sign orbits around it: "Property of Nymph. You Touch, You Die."
+~
+E
+throne~
+A little tag on the back reads: '1 karat gold.99% tin. Made in 
+Tiawan.'
+~
+E
+mirror~
+The mirror shows various scenes around ELITE.  Pushing USERS CHOICE 
+brings up some .. erm, intresting scenes.
+~
+E
+couch~
+Nice and comfy looking.  Too bad a bunch of old farts are sitting 
+there, smokin a big fat blunt.. Waitasecond, that looks a LOT like 
+John Belushi..and Zappa..
+~
+E
+muzak~
+You can pick out a few bands: Peter Gabriel, Simon and Garfunkel(or 
+mebe just Simon, who can tell?), Arlo Guthrie, Deep Purple,#C David 
+Hasselhoff#N, Frank Zappa...
+~
+E
+David Hasselhoff~
+What the.. NO! He WOULDN'T! HE COULDN'T! He DID! Conan ABDUCTED David 
+Hasselho-ff!#y "Help me, please! LEMME OUTTA THIS HELL! -he- makes me 
+sing and do 'Bay-watch Nights' skits! AARGH!!!!!!"#N
+~
+E
+demons~
+Oddly enough, they all look like John Travolta(s-i-c-k-o).
+~
+E
+it~
+Oh my GOD, it's HUGE! This must be Conan's Ego! It looks like a 
+hairy, pulsatingsponge! ANYTHING AND EVERYTHING IS SOAKED UP AS A 
+COMPLIMENT TO THIS AMBITIOUS BALL OF CRAP! An eye opens and looks at 
+you (which is REALLY spooky.  This is Freddy Kruger shit or sumfin), 
+which gives you the sudden urge to heave your lunch all over the 
+place.
+~
+E
+brewskie~
+Imported asian beer. Asmodeus smiles and comments, 'Nothing but the 
+best for Conan's buddies.'
+~
+S
+#27917
+#RThe Operating Room#N~
+   As you enter, your pulse begins to quicken.  The room is lit only 
+by candlelight, and and the only sounds are the drumming sounds that 
+you heart is making as it pounds in fear.  There is a great stone 
+table in the center of the room, and a smaller table next to it.  
+Lots of crude scalpel type instruments lye on the table, dripping 
+with fresh blood.  A dark figure lyes on the bigger table, his chest 
+being held open by huge metal claws.  The surgeon turns to face you 
+and says, "Oh, you come do donate your heart, how nice.  Let me just 
+get my knife."  Maybe you should leave now while you still can.
+~
+279 djtuz 0
+D3
+The passage west leads back up into the temple.
+~
+door~
+11 -1 27913
+S
+#27918
+#RThe Gates of Dawn#N~
+   You suddenly find yourself standing alone on a cloud high in the 
+air. Around you, you see nothing but the starry midnight sky. Below, 
+you can just barely glimpse the city of Midgaard and it's surrounding 
+environs. Turning back to the door through which you entered, you 
+watch in fascination as it slowly sinks into the cloud on which you 
+stand. Where the door just stood, there are now a pair of shining 
+silver gates before you, inlaid with the finest gold of the earth. 
+You can see no apparent way to open them, and you grasp the bars 
+trying to catch a glimpse of what lies beyond. At first, there is 
+nothing.. until, slowly but surely, a faint radiance begins to 
+emanate from behind the gates, spreading slowly across the sky 
+surrounding you. And, silhouetted against the light, you notice a 
+faint outline: a lone man, playing a flute.
+~
+279 duz 0
+D1
+The passage east leads back to the temple.
+~
+gate~
+11 -1 27913
+S
+#27919
+#RThe Northern Upper Balcony#N~
+   The upper reaches of the house are a work of marble and stone, 
+rooms leading off in each direction to yet more of the personal rooms 
+of the Minions of Chaos. The rocks of the upper balcon's marble are 
+dusty as if an eternal fire has been left here burning, and ash has 
+covered the walls. The balcony itself is impressive, from up here can 
+be seen the lower front half of the great temple. The balcony itself 
+made of a polished white wood.. or is it? With a sickening lurch in 
+your stomach, your mind grasps the fact that the balcony itself is 
+made of the polished bone of some vanquished creature.
+~
+279 duz 0
+D0
+The door to the north leads to a personal room.
+~
+beef~
+11 -1 27925
+D1
+The door to the east leads to a personal room.
+~
+door~
+11 -1 27921
+D2
+The passage south leads down the hallway.
+~
+~
+0 -1 27920
+D3
+The door to the west leads to a personal room.
+~
+door~
+11 -1 27922
+D4
+This passage leads up into the darkness.
+~
+~
+0 -1 27927
+D5
+The passage leads back down to the hallway.
+~
+~
+0 -1 27907
+S
+#27920
+#RThe Southern Upper Balcony#N~
+   The ivory bone of the balcony continues southward with grotesque
+elegance. It ends abruptly at the skull of the great beast, where a
+roaring fire burns inside the empty jaws. The skull is hideous 
+looking itself, as smoke from the fire is channeled through the back 
+of the skull and pours out if its eye sockets, leaving ash scattered 
+about the balcony. Under the skull is a small plaque, labeling it as: 
+#wDragon#N,#w Glaurung#N. The fire, you remember from legends, is the first
+dark tear that landed upon thew world when Rilarien forsoke his 
+good vows and became a dark goddess sealing the pact between the 
+forces of Chaos and Evil.
+~
+279 duz 0
+D0
+The passage north leads down the hallway.
+~
+~
+0 -1 27919
+D1
+The door to the east leads to a personal room.
+~
+door~
+11 -1 27923
+D3
+The door to the west leads to a personal room.
+~
+door~
+11 -1 27924
+D4
+The stairs lead up toward a personal room.
+~
+door~
+11 -1 27928
+E
+Dragon Glaurung~
+Glaurung the father of all dragons head rests here. You finally 
+realize the balcony has been all made out of his polished corpse. It 
+is said that he was killed by the primal fury of the Lords of Chaos, 
+as the great dragon tried to assimilate their power. 
+~
+S
+#27921
+#RThe Grave of Mortis#N~
+   You enter a dark, damp room which reeks with the odor of death and
+decay. The floor and walls are made entirely out of worm and maggot
+infested earth. In the middle of the room is a once magnificent 
+coffin, but now it is nothing more that rotting wood.  Next to the 
+coffin lies the tattered remains of what appears to have been a 
+burial shroud.  Then in horror you realize why the shroud isn't on 
+the corpse...the coffin is empty! You notice a shadowy figure out of 
+the corner of your eye.  As you turn to face at him you see nothing 
+there. You realize it was only your mind playing tricks on you....or 
+could this be your final resting place too?
+~
+279 duz 0
+D3
+The door to the west leads into the hallway.
+~
+door~
+11 -1 27919
+S
+#27922
+#RThe Chapel#N~
+   You've entered a small chapel. As you walk in you feel a strange 
+scent...The walls are filled with strange symbols, most of them are 
+of frightening snakes. They're almost looking alive you think to 
+yourself... You notice a small painting on the east wall. You walk 
+closer to it, but as you try to take a good look at it the people on 
+the painting starts to move. Suddenly the door closes behind you, you 
+are TRAPPED! The beautiful naked woman on painting says "Welcome 
+stranger, stay a while..." Then you feel someone tapping you on the 
+shoulder and when you spin around and find yourself standing in front 
+of the ghost of Legash.
+~
+279 duz 0
+D1
+The door to the east leads down the hallway.
+~
+door~
+11 -1 27919
+S
+#27923
+#RThe Heart of the Flame#N~
+   You walk through a doorway flanked by two Roman pillars, before
+you sprawls a darkly seductive room.  Bookshelves line one wall,
+holding volumes upon volumes of mage journals and literature.  Red
+velvet drapes encase the bay window straight ahead of you.
+Candelabras are intermingled with statues of every variety of dragon
+you can imagine.  An altar sits in the corner, adorned with the
+blessings of the gods. Orential rugs are lying scattered around the
+polished wood floor. A grecian lounge sits invitingly in the corner.
+This room draws you like a moth to a flame, you feel a beckoning to
+its heart..and you could swear you hear Aurian softly calling
+your name.....
+~
+279 duz 0
+D3
+The door to the west leads down the hallway.
+~
+door~
+11 -1 27920
+S
+#27924
+#RScram's Sanctum#N~
+   An icy chill grips you heart as you enter the room.  You feel
+Unseen eyes upon you.  Death walks the land.  Before you a crackling
+fire roars in defiance to the otherworldly chill that grips the room.
+On the mantel above the fire are two exquisite statues of #wRavens#N.
+But are they statues?  Their piercing eyes seem to follow you as you
+move about the room.  Situated below the Ravens and in front of the
+fire is an area for conversation, replete with couches, chairs and
+refreshments.  While the area looks inviting, you feel that to sit
+and enjoy these refreshments uninvited would lead to Death or worse.
+As you are leaving the room you notice some #wSymbols#N and #wRunes#N etched
+above the arch.
+~
+279 duz 0
+D1
+The door to the east leads down the hallway.
+~
+door~
+11 -1 27920
+E
+ravens raven~
+The two statues seem to be made of night itself... dark, black a
+sense of foreboding grips you.  Then you see one of the eyes blink
+slowly...  Death walks the land.
+~
+E
+symbols runes~
+"Blood to Blood, we stand... by our Dark Power we
+Conquer as our friend Death walks the Land."
+~
+S
+#27925
+#RThe S#rh#wa#rd#Re Dimension#N~
+   The aura of this room gives off various lights, various moods, 
+various feelings.  This room seems to change with the feeling of 
+Shade, and his perspective on life. This room can be the essence of 
+life, or the essence of death, the essence of good, or the essence of 
+evil.  There are a few pictures clinging to nothing visible, that 
+show the state of the room with Shade's feeling.  The first one, is a 
+beautful garden, surrounded by a forest that stretches seemingly 
+forever.  This garden has a small stream that runs around the center 
+of the garden, with wonderful flowers lining it.  The place is lit by 
+blue flames that burn inside lanterns inside on stone pilars.  The 
+next picture, is of the void, it looks feelingless. It scares you 
+even looking at the picture, for being alone forever inside yourself 
+could be the ultimate hell, the ultimate void.  You quickly take your 
+eyes away from that picture and look at the third and final picture, 
+a red hot inferno of evil, of death.  There is a huge throne of bones 
+in the center of the picture, and on the arms of the throne, are two 
+human skulls, with eyes the slowly pulse from dark to red.  As you 
+look at the picture, you realize that the picture is not just a 
+normal picture, nor are the other ones, they were painted by Shade, 
+with the blood of his victims, and the elements he has found in his 
+many centuries of killing, and helping.  This room incites fear, and 
+emptiness, for even if this room looked like a wonderful garden, or a 
+hellish inferno, it is still just a void that really doesn't exist, 
+just like too many things in this world we believe in.  You look for 
+other strange things in this room, and begin to wonder, What will 
+Shade be today? 
+~
+279 djuz 0
+D0
+This passage is shaded in darkness.
+~
+~
+0 -1 27925
+D2
+The door to the south leads into the hallway.
+~
+beef~
+11 -1 27919
+S
+#27926
+#RSpare Room#N~
+An unused room. All paid for, just needs a description.
+~
+279 duz 0
+D0
+The door to the north leads to a hallway.
+~
+door~
+11 -1 27920
+S
+#27927
+#RThe Nexus#N~
+   As you walk in through the door, you realize that you are in 
+limbo. You try to move, but you are restrained by an unnatural force.  
+Seems like you are frozen in time, aging every minute, and not 
+knowing what lies ahead for you. You look up and see the gates of 
+heaven...bring a smile to your face. Unfortunately, your curiosity  
+makes you look down and all you see is the fiery pits of hell.  In 
+the distance, you hear the cry of the last victim that had entered 
+the room.  Standing above the headless victim is a towering Avatar, 
+surrounded by a pack of wild Akitas.  As the Avatar raises the 
+victims head above his very own, the pack feasts on the already, 
+mutilated body.  You squint your eyes trying to get a better picture 
+of the victim...it turns out that you are staring at your own corpse.  
+You roll your eyes backwards and immediately faint...knowing that 
+that will be the last thing you will ever see.
+~
+279 duz 0
+S
+#27928
+#RCalisto's Clubhouse#N~
+   #rNO BOYS ALLOWED!#N Calisto has been a slave to men all her life,
+and in her room, what she says - goes. Males can only get a glimpse
+of this place without actually stepping inside. Four wooden walls,
+clusmily assembled seperate Calisto's room from the rest of the
+clan house. There's really nothing much to look at, except the the 
+obvious.  In the centre of the room you see Calisto resting in an 
+inviting position.  You want so badly to lunge at her, then as if 
+reading your thoughts, she winks at you and purrs, 'Read the sign. 
+#rNO BOYS ALLOWED!#N'
+~
+279 djuz 0
+D5
+The stairs lead down to the hallway.
+~
+door~
+11 -1 27920
+S
+#99999
+$~
+

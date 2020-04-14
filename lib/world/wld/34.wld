@@ -1,0 +1,1562 @@
+#3400
+A Gravel Road on the Graveyard~
+   You are on a well-kept gravel road that leads north-south through the
+graveyard. On both sides of the road grow dark evergreen trees. An iron grate
+is to the north. 
+~
+34 4 1
+D0
+Through the solid iron bars you see the Concourse. 
+~
+grate~
+1 3121 3129
+D2
+The gravel road continues southward. 
+~
+~
+0 -1 3401
+S
+#3401
+A Gravel Road on the Graveyard~
+   You are on a well-kept gravel road that leads north-south through the
+graveyard. On both sides of the road grow dark evergreen trees. 
+~
+34 0 1
+D0
+The gravel road continues northwards. 
+~
+~
+0 -1 3400
+D2
+The gravel road continues southward. 
+~
+~
+0 -1 3402
+S
+#3402
+A Gravel Road on the Graveyard~
+   You are on a well-kept gravel road that leads north-south through the
+graveyard. On both sides of the road grow dark evergreen trees. 
+~
+34 0 1
+D0
+The gravel road continues northwards. 
+~
+~
+0 -1 3401
+D2
+The gravel road continues southward. 
+~
+~
+0 -1 3403
+S
+#3403
+A Gravel Road on the Graveyard~
+   You are on a well-kept gravel road that leads north-south through the
+graveyard. On both sides of the road grow dark evergreen trees. 
+~
+34 0 1
+D0
+The gravel road continues northwards. 
+~
+~
+0 -1 3402
+D2
+The gravel road continues southward to an open space before a small building. 
+~
+~
+0 -1 3404
+S
+#3404
+In front of the Chapel~
+   You are on an open space before a small chapel. A gravel road leads north
+through the graveyard and the chapel entrance is to the south. 
+~
+34 0 1
+D0
+The gravel road continues northwards. 
+~
+~
+0 -1 3403
+D1
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3409
+D2
+The chapel door is made of dark wood. 
+~
+door~
+1 -1 3405
+D3
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3419
+S
+#3405
+Inside the Chapel~
+   You are in a small, dark chapel. The dark brown glass in the tiny windows do
+not let much light through. A few rows of worn wooden benches stand here and an
+ancient altar sits in the middle of the floor. 
+~
+34 8 1
+D0
+The chapel door is made of dark wood. 
+~
+door~
+1 -1 3404
+D5
+~
+altar~
+1 3414 3420
+E
+benches rows~
+The benches are not of the comfortable kind.
+~
+S
+#3406
+The Gravestones~
+   There are several old and weathered gravestones here that mark the graves of
+Midgaard's former citizens. It is a cold, silent place. 
+~
+34 0 1
+D1
+There are several old and weathered gravestones there. 
+~
+~
+0 -1 3412
+D3
+There are several old and weathered gravestones there. 
+~
+~
+0 -1 3416
+S
+#3407
+The Gravestones~
+   There are several old and weathered gravestones here that mark the graves of
+Midgaard's former citizens. It is a cold, silent place. 
+~
+34 0 1
+D0
+There are several old and weathered gravestones there. 
+~
+~
+0 -1 3419
+D2
+There are several old and weathered gravestones there. 
+~
+~
+0 -1 3416
+S
+#3408
+The Gravestones~
+   There are several old and weathered gravestones here that mark the graves of
+Midgaard's former citizens. It is a cold, silent place. 
+~
+34 0 1
+D0
+There are several old and weathered gravestones there. 
+~
+~
+0 -1 3409
+D2
+There are several old and weathered gravestones there. 
+~
+~
+0 -1 3412
+S
+#3409
+The Gravestones~
+There are several old and weathered gravestones here that mark 
+the graves of Midgaard's formor citizens and heros.  One such 
+grave has several fresh flowers laid over it and a prominent 
+headstone.
+This place is very cold and silent.
+§N~
+34 clo 1
+D1
+There are a few old and weathered gravestones are there. 
+~
+~
+0 -1 3410
+D2
+You see a long row of gravestones. 
+~
+~
+0 -1 3408
+D3
+To the west is the entrance to the Chapel. 
+~
+~
+0 -1 3404
+E
+tombstone headstone grave stone tomb~
+As you look at the tombstone and flowers, you see that the
+flowers are fell laid out by someone who cares.
+You guess that it is done daily.
+The tombstone is not large or remarkable, but it simply has:
+          STOMPER SHADOWLORD
+Devoted Son of Chelendria and Pendragon
+Survived by 2 brothers and both parents.
+He lies here dead of a terminal heart disease -- a broken heart.
+  "May he rests with the shadows which was his home,
+   May he live with the friends of long time gone,
+   May he run in the life that knows him best,
+   May he find and remember all days gone long past."
+                          -- Johannes --
+§N~
+S
+#3410
+The Gravestones~
+   There are several old and weathered gravestones here that mark the graves of
+Midgaard's former citizens. It is a cold, silent place. 
+~
+34 0 1
+D0
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3409
+D2
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3411
+S
+#3411
+The Gravestones~
+   There are several old and weathered gravestones here that mark the graves of
+Midgaard's former citizens. It is a cold, silent place. 
+~
+34 0 1
+D0
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3410
+D2
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3413
+D3
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3412
+S
+#3412
+The Open Graves~
+   Strange, some of the graves here have been dug up. You see footprints in the
+soft earth all about the open graves. A ghastly smell wafts up at you from the
+unearthed graves. It is a sickening smell, of something long dead. 
+~
+34 0 1
+D0
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3408
+D1
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3411
+D2
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3413
+D3
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3406
+S
+#3413
+The Gravestones~
+   There are several old and weathered gravestones here that mark the graves of
+Midgaard's former citizens. It is a cold, silent place. 
+~
+34 0 1
+D0
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3412
+D1
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3411
+D3
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3414
+S
+#3414
+The Gravestones~
+   There are several old and weathered gravestones here that mark the graves of
+Midgaard's former citizens. It is a cold, silent place. 
+~
+34 0 1
+D1
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3413
+D2
+Through the gate you see the Memorial Park. 
+~
+gate~
+1 3422 3443
+D3
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3415
+S
+#3415
+The Gravestones~
+   There are several old and weathered gravestones here that mark the graves of
+Midgaard's former citizens. It is a cold, silent place. 
+~
+34 0 1
+D0
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3416
+D1
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3414
+D3
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3417
+S
+#3416
+The Open Graves~
+   Strange, some of the graves here have been dug up. You see footprints in the
+soft earth all about the open graves. A ghastly smell wafts up at you from the
+unearthed graves. It is a sickening smell, of something long dead. 
+~
+34 0 1
+D0
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3407
+D1
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3406
+D2
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3415
+D3
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3417
+S
+#3417
+The Gravestones~
+   There are several old and weathered gravestones here that mark the graves of
+Midgaard's former citizens. It is a cold, silent place. 
+~
+34 0 1
+D0
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3418
+D1
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3416
+D2
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3415
+S
+#3418
+The Gravestones~
+   There are several old and weathered gravestones here that mark the graves of
+Midgaard's former citizens. It is a cold, silent place. 
+~
+34 0 1
+D0
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3419
+D2
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3417
+S
+#3419
+The Gravestones~
+   There are several old and weathered gravestones here that mark the graves of
+Midgaard's former citizens. It is a cold, silent place. 
+~
+34 0 1
+D1
+To the east is the entrance to the Chapel. 
+~
+~
+0 -1 3404
+D2
+You see a long line of gravestones. 
+~
+~
+0 -1 3407
+D3
+There are a few old and weathered gravestones there. 
+~
+~
+0 -1 3418
+S
+#3420
+A Spiral Staircase~
+   This stone staircase spirals down into the dark. 
+~
+34 13 0
+D4
+~
+altar~
+1 3414 3405
+D5
+The spiral staircase continues downward. 
+~
+~
+0 -1 3421
+S
+#3421
+A spiral Staircase~
+   This stone staircase spirals downward into the dark. 
+~
+34 9 0
+D4
+The spiral staircase continues upward. 
+~
+~
+0 -1 3420
+D5
+The spiral staircase continues downward. 
+~
+~
+0 -1 3422
+S
+#3422
+Entrance to the Undertemple~
+   There are paintings done in relief on both sides of this chamber. The
+symbols of evil are present everywhere you look. To the south the passage
+widens considerably. To the north the passage is much smaller, and darker. A
+spiral staircase leads up to the surface. 
+~
+34 9 0
+D0
+A small dark tunnel leads north. 
+~
+~
+0 -1 3423
+D2
+A large dark tunnel leads south. 
+~
+~
+0 -1 3425
+D4
+A spiral staircase leads up. 
+~
+~
+0 -1 3421
+S
+#3423
+A Small Passage~
+   This passage has been dug from the earth and reinforced with wooden beams and
+stone arches. Although the construction is old it looks safe enough. The floor
+is slightly damp. To the north is a small chamber. To the south is the entrance
+to the Undertemple. 
+~
+34 9 0
+D0
+To the north is a small dark chamber. 
+~
+~
+0 -1 3424
+D2
+The entrance to the Undertemple is to the south. 
+~
+~
+0 -1 3422
+S
+#3424
+Burial Chamber~
+   There is a stone sarcophagi located at each of three walls to the north,
+east, and west. The one to the north is OPEN and EMPTY! 
+~
+34 9 0
+D2
+A small passage leads south. 
+~
+~
+0 -1 3423
+S
+#3425
+Intersection~
+   This is an intersection where smaller passages branch off to the east and
+west. To the south the large passage continues. Was that the wind? Or did you
+hear moans from the passages ahead? 
+~
+34 9 0
+D0
+To the north is the entrance to the Undertemple 
+~
+~
+0 -1 3422
+D1
+A smaller passage leads east. 
+~
+~
+0 -1 3426
+D2
+A large passage leads south. 
+~
+~
+0 -1 3430
+D3
+A small passage leads west. 
+~
+~
+0 -1 3427
+S
+#3426
+A Small Passage~
+   This passage has been dug from the earth and reinforced with wooden 
+beams and stone arches. Although the construction is old it looks safe 
+enough. The floor is slightly damp. To the east is a small chamber. 
+To the west is an intersection. 
+~
+34 9 0
+D1
+A small chamber is to the east. 
+~
+~
+0 -1 3428
+D3
+The intersection is there. 
+~
+~
+0 -1 3425
+S
+#3427
+A Small Passage~
+   This passage has been dug from the earth and reinforced with wooden beams and
+stone arches. Although the construction is old it looks safe enough. The floor
+is slightly damp. To the west is a small chamber. To the east is an
+intersection. 
+~
+34 9 0
+D1
+The intersection is there. 
+~
+~
+0 -1 3425
+D3
+A small chamber is to the west. 
+~
+~
+0 -1 3429
+S
+#3428
+Burial Chamber~
+   There is a stone sarcophagus located at each of three walls to the 
+north, south, and east. The one to the north is OPEN and EMPTY! 
+~
+34 9 0
+D3
+A small passage leads west. 
+~
+~
+0 -1 3426
+S
+#3429
+Burial Chamber~
+   There is a stone sarcophagi located at each of three walls to the 
+north, west, and south. The one to the north is OPEN and EMPTY! 
+~
+34 9 0
+D1
+A small passage leads east. 
+~
+~
+0 -1 3427
+S
+#3430
+Large Passage~
+   The walls, ceiling, and floor of this large passage are of interlocked stone
+and mortar. Arches and a vaulted ceiling make it a very solid construction. 
+~
+34 9 0
+D0
+The intersection is there. 
+~
+~
+0 -1 3425
+D2
+A large passage leads south. 
+~
+~
+0 -1 3431
+S
+#3431
+Large Passage~
+   The walls, ceiling, and floor of this large passage are of interlocked stone
+and mortar. Arches and a vaulted ceiling make it a very solid construction. 
+~
+34 9 0
+D0
+A large passage leads north. 
+~
+~
+0 -1 3430
+D1
+A large passage leads east. 
+~
+~
+0 -1 3432
+S
+#3432
+Large Passage~
+   The walls, ceiling, and floor of this large passage are of interlocked stone
+and mortar. Arches and a vaulted ceiling make it a very solid construction. 
+~
+34 9 0
+D1
+A large passage leads east. 
+~
+~
+0 -1 3433
+D3
+A bend in the large passage is to the west. 
+~
+~
+0 -1 3431
+S
+#3433
+Large Passage~
+   The walls, ceiling, and floor of this large passage are of interlocked stone
+and mortar. Arches and a vaulted ceiling make it a very solid construction. 
+~
+34 13 0
+D1
+You see two large bronze doors. 
+~
+bronze door~
+1 3416 3434
+D3
+A large passage leads west. 
+~
+~
+0 -1 3432
+S
+#3434
+The Undertemple~
+   This massive chamber is at least six times larger than the little church.
+The ceiling is at least 30 feet up! Two rows of columns form a procession to
+the east that ends at a raised dais. Your footsteps echo loudly in here. 
+~
+34 9 0
+D0
+It is to dark to tell. 
+~
+~
+0 -1 3436
+D1
+The east end of the undertemple. 
+~
+~
+0 -1 3435
+D2
+It is to dark to tell. 
+~
+~
+0 -1 3438
+D3
+You see two large bronze doors. 
+~
+bronze door~
+1 3416 3433
+S
+#3435
+The Undertemple~
+   This massive chamber is at least six times larger than the little church.
+The ceiling is at least 30 feet up! Two rows of columns form a procession to
+the east that ends at a raised dais. Your footsteps echo loudly in here. 
+~
+34 9 0
+D0
+It is to dark to tell. 
+~
+~
+0 -1 3437
+D1
+Three steps lead up onto the dais. 
+~
+~
+0 -1 3440
+D2
+It is to dark to tell. 
+~
+~
+0 -1 3439
+D3
+The west end of the undertemple. 
+~
+~
+0 -1 3434
+S
+#3436
+The Undertemple~
+   You are behind the columns. To the north is the cold stone wall. Through the
+pillars to the south is the procession. To the east is the east end of the
+Undertemple. 
+~
+34 9 0
+D1
+It is to dark to tell. 
+~
+~
+0 -1 3437
+D2
+Through the pillars you see the procession. 
+~
+~
+0 -1 3434
+S
+#3437
+The Undertemple~
+   You are behind the columns. To the north is the cold stone wall. Through the
+pillars to the south is the procession. To the west is the west end of the
+Undertemple. 
+~
+34 9 0
+D2
+Through the pillars you see the procession. 
+~
+~
+0 -1 3435
+D3
+It is to dark to tell. 
+~
+~
+0 -1 3436
+S
+#3438
+The Undertemple~
+   You are behind the columns. To the south is the cold stone wall. Through the
+pillars to the south is the procession. To the east is the east end of the
+Undertemple. 
+~
+34 9 0
+D0
+Through the pillars you see the procession. 
+~
+~
+0 -1 3434
+D1
+It is to dark to tell. 
+~
+~
+0 -1 3439
+S
+#3439
+The Undertemple~
+   You are behind the columns. To the south is the cold stone wall. Through the
+pillars to the south is the procession. To the west is the west end of the
+Undertemple. 
+~
+34 9 0
+D0
+Through the pillars you see the procession. 
+~
+~
+0 -1 3435
+D3
+It is to dark to tell. 
+~
+~
+0 -1 3438
+S
+#3440
+The Dais~
+   Three steps lead up to the dais. An altar made of a huge block of obsidian
+forms the focal point of the whole Undertemple. To the east a mural tapestry
+hangs upon the wall. 
+~
+34 9 0
+D1
+A door is concealed behind the mural. 
+~
+mural door~
+1 3417 3441
+D3
+Three steps lead down to the floor of the Undertemple. 
+~
+~
+0 -1 3435
+E
+mural~
+A mural depicting a skeletal figure riding a dracolich into battle.  The
+humanoid figure wields a glowing glasslike staff and holds a bright ball of
+light.  Some letters are on the mural, they seem to spell the name Igon.
+~
+S
+#3441
+A Stairway~
+   This stairway leads down into the dark. 
+~
+34 13 0
+D3
+You see a small door. 
+~
+mural door~
+1 3417 3440
+D5
+Stairs lead down into the dark. 
+~
+~
+0 -1 3442
+S
+#3442
+The Landing~
+   Here the stairs come to a landing where a dark passage leads east. The
+stairway continues. 
+~
+34 13 0
+D1
+Its too dark to tell. 
+~
+~
+0 -1 3454
+D4
+Stairs lead up into the dark. 
+~
+~
+0 -1 3441
+D5
+Stairs lead down into the dark. 
+~
+~
+0 -1 3461
+S
+#3443
+Entrance to The Memorial Park~
+   This section of the graveyard is reserved for those honored dead who have
+served in the defense of Midgaard in the militia or cityguard. These graves are
+lined up nicely in east-west rows. Each grave has a white gravemarker. 
+~
+34 4 1
+D0
+Through the gate you see the main graveyard. 
+~
+gate~
+1 3422 3414
+D1
+You see a line of graves. 
+~
+~
+0 -1 3450
+D2
+A small path leads south through the Park. 
+~
+~
+0 -1 3444
+D3
+You see a line of graves. 
+~
+~
+0 -1 3447
+S
+#3444
+The Memorial Park~
+   These graves are lined up very nicely in east-west rows. Each grave has a
+white gravemarker. 
+~
+34 0 1
+D0
+A small path leads north through the Park. 
+~
+~
+0 -1 3443
+D1
+You see a line of graves. 
+~
+~
+0 -1 3450
+D2
+A small path leads south through the Park. 
+~
+~
+0 -1 3445
+D3
+You see a line of graves. 
+~
+~
+0 -1 3447
+S
+#3445
+The Memorial Park~
+   These graves are lined up very nicely in east-west rows. Each grave has a
+white gravemarker. 
+~
+34 0 1
+D0
+A small path leads north through the Park. 
+~
+~
+0 -1 3444
+D2
+A small path leads south through the Park. 
+~
+~
+0 -1 3446
+S
+#3446
+The Memorial Park~
+   These graves are lined up very nicely in east-west rows. Each grave has a
+white gravemarker. To the south is the mausoleum of General Patton. On top of
+the mausoleum is a statue of the General atop a rearing horse, about to charge
+into battle. 
+~
+34 0 1
+D0
+A small path leads north through the Park. 
+~
+~
+0 -1 3445
+D1
+You see a line of graves. 
+~
+~
+0 -1 3452
+D2
+An iron door. 
+~
+iron door~
+1 3415 3453
+D3
+You see a line of graves. 
+~
+~
+0 -1 3449
+S
+#3447
+The Memorial Park~
+   These graves are lined up very nicely in east-west rows. Each grave has a
+white gravemarker. 
+~
+34 0 1
+D1
+You see a line of graves. 
+~
+~
+0 -1 3444
+D2
+You see a line of graves. 
+~
+~
+0 -1 3448
+S
+#3448
+The Memorial Park~
+   These graves are lined up very nicely in east-west rows. Each grave has a
+white gravemarker. 
+~
+34 0 1
+D0
+You see a line of graves. 
+~
+~
+0 -1 3447
+D2
+You see a line of graves. 
+~
+~
+0 -1 3449
+S
+#3449
+The Memorial Park~
+   These graves are lined up very nicely in east-west rows. Each grave has a
+white gravemarker. 
+~
+34 0 1
+D0
+You see a line of graves. 
+~
+~
+0 -1 3448
+D1
+You see a line of graves. 
+~
+~
+0 -1 3446
+S
+#3450
+The Memorial Park~
+   These graves are lined up very nicely in east-west rows. Each grave has a
+white gravemarker. 
+~
+34 0 1
+D2
+You see a line of graves. 
+~
+~
+0 -1 3451
+D3
+You see a line of graves. 
+~
+~
+0 -1 3444
+S
+#3451
+The Memorial Park~
+   These graves are lined up very nicely in east-west rows. Each grave has a
+white gravemarker. 
+~
+34 0 1
+D0
+You see a line of graves. 
+~
+~
+0 -1 3450
+D2
+You see a line of graves. 
+~
+~
+0 -1 3452
+S
+#3452
+The Memorial Park~
+   These graves are lined up very nicely in east-west rows. Each grave has a
+white gravemarker. 
+~
+34 0 1
+D0
+You see a line of graves. 
+~
+~
+0 -1 3451
+D3
+You see a line of graves. 
+~
+~
+0 -1 3446
+S
+#3453
+Patton's Mausoleum~
+   The inside of this stone mausoleum is bare except for a stone sarcophagus
+that is at its center. 
+~
+34 0 1
+D0
+An iron door. 
+~
+iron door~
+1 3415 3446
+S
+#3454
+The Crypts~
+   Horizontal niches in the walls house embalmed corpses. The air is stale and
+dank. Shadows play everywhere, and you hear a low moaning. 
+~
+34 9 0
+D1
+Its too dark to tell. 
+~
+~
+0 -1 3455
+D3
+Its too dark to tell. 
+~
+~
+0 -1 3442
+S
+#3455
+An Intersection in the Crypts~
+   Horizontal niches in the walls house embalmed corpses. The air is stale and
+dank. Shadows play everywhere, and you hear a low moaning. 
+~
+34 9 0
+D0
+Its too dark to tell. 
+~
+~
+0 -1 3458
+D1
+Its too dark to tell. 
+~
+~
+0 -1 3456
+D3
+Its too dark to tell. 
+~
+~
+0 -1 3454
+S
+#3456
+The Crypts~
+   Horizontal niches in the walls house embalmed corpses. The air is stale and
+dank. Shadows play everywhere, and you hear a low moaning. 
+~
+34 9 0
+D1
+Its too dark to tell. 
+~
+~
+0 -1 3457
+D3
+Its too dark to tell. 
+~
+~
+0 -1 3455
+S
+#3457
+A Bend in the Crypts~
+   Horizontal niches in the walls house embalmed corpses. The air is stale and
+dank. Shadows play everywhere, and you hear a low moaning. 
+~
+34 9 0
+D0
+Its too dark to tell. 
+~
+~
+0 -1 3460
+D3
+Its too dark to tell. 
+~
+~
+0 -1 3456
+S
+#3458
+The Crypts~
+   Horizontal niches in the walls house embalmed corpses. The air is stale and
+dank. Shadows play everywhere, and you hear a low moaning. 
+~
+34 9 0
+D0
+Its too dark to tell. 
+~
+~
+0 -1 3459
+D2
+Its too dark to tell. 
+~
+~
+0 -1 3455
+S
+#3459
+The Crypts~
+   Horizontal niches in the walls house embalmed corpses. The air is stale and
+dank. Shadows play everywhere, and you hear a low moaning. 
+~
+34 13 0
+D2
+Its too dark to tell. 
+~
+~
+0 -1 3458
+D4
+An earthen tunnel leads up to the surface. 
+~
+~
+0 -1 3416
+S
+#3460
+The Crypts~
+   Horizontal niches in the walls house embalmed corpses. The air is stale and
+dank. Shadows play everywhere, and you hear a low moaning. 
+~
+34 13 0
+D2
+Its too dark to tell. 
+~
+~
+0 -1 3457
+S
+#3461
+A Lighted Hallway~
+   This hallway is lighted by torches along the walls. It is a cold but dry
+tunnel. A stairway is here. 
+~
+34 8 0
+D1
+A lighted chamber is to the east. 
+~
+~
+0 -1 3462
+D3
+A lighted chamber is to the west. 
+~
+~
+0 -1 3468
+D4
+A flight of stone stairs lead up. 
+~
+~
+0 -1 3442
+S
+#3462
+The Northeast Chamber~
+   This chamber is light by torches. It is a living chamber of some kind. There
+is a table and a chair. A coffin is against the east wall. A carpet covers the
+floor. 
+~
+34 8 0
+D2
+A lighted hallway leads south. 
+~
+~
+0 -1 3463
+D3
+A lighted hallway leads west. 
+~
+~
+0 -1 3461
+S
+#3463
+The Lighted Hallway~
+   This hallway is lighted by torches along the walls. It is a cold but dry
+tunnel. 
+~
+34 8 0
+D0
+A lighted chamber is to the north. 
+~
+~
+0 -1 3462
+D2
+A lighted chamber is to the south. 
+~
+~
+0 -1 3464
+S
+#3464
+The Southeast Chamber~
+   This chamber is lit by torches. It is a living chamber of some kind. There
+is a table and a chair. A coffin is against the east wall. A carpet covers the
+floor. 
+~
+34 8 0
+D0
+A lighted hallway leads north. 
+~
+~
+0 -1 3463
+D3
+A lighted hallway leads west. 
+~
+~
+0 -1 3465
+S
+#3465
+The Lighted Hallway~
+   This hallway is lighted by torches along the walls. It is a cold but dry
+tunnel. A stairway is here. 
+~
+34 8 0
+D1
+A lighted chamber is to the east. 
+~
+~
+0 -1 3464
+D3
+A lighted chamber is to the west. 
+~
+~
+0 -1 3466
+D4
+A stairway leads up. 
+~
+~
+0 -1 3469
+S
+#3466
+The Southwest Chamber~
+   This chamber is light by torches. It is a living chamber of some kind. There
+is a table and a chair. A coffin is against the west wall. A carpet covers the
+floor. 
+~
+34 8 0
+D0
+A lighted hallway leads north. 
+~
+~
+0 -1 3467
+D1
+A lighted hallway leads east. 
+~
+~
+0 -1 3465
+S
+#3467
+The Lighted Hallway~
+   This hallway is lighted by torches along the walls. It is a cold but dry
+tunnel. 
+~
+34 8 0
+D0
+A lighted chamber is to the north. 
+~
+~
+0 -1 3468
+D2
+A lighted chamber is to the south. 
+~
+~
+0 -1 3466
+S
+#3468
+The Northwest Chamber~
+   This chamber is light by torches. It is a living chamber of some kind. There
+is a table and a chair. A coffin is against the west wall. A carpet covers the
+floor. 
+~
+34 8 0
+D1
+A lighted hallway leads east. 
+~
+~
+0 -1 3461
+D2
+A lighted hallway leads south. 
+~
+~
+0 -1 3467
+S
+#3469
+The Paneled Hallway~
+   The walls of this hallway are paneled in a dark oiled wood. Candles are set
+in sconces to provide light. The floor is a waxed wood and has a fine carpet
+that runs the length of the hallway. A stairway is here. 
+~
+34 8 0
+D3
+A lighted hallway leads west. 
+~
+~
+0 -1 3470
+D5
+A stairway leads down. 
+~
+~
+0 -1 3465
+S
+#3470
+The Paneled Hallway~
+   The walls of this hallway are paneled in a dark oiled wood. Candles are set
+in sconces to provide light. The floor is a waxed wood and has a fine carpet
+that runs the length of the hallway. 
+~
+34 8 0
+D1
+The end of the hallway. 
+~
+~
+0 -1 3469
+D3
+A sitting room is to the west. 
+~
+~
+0 -1 3471
+S
+#3471
+The Sitting Room~
+   This is a cozy yet large sitting room. Two couches are placed with a bear
+rug between them in front of a large stone fireplace. The walls are of the same
+wood paneling as the halls but pictures are placed on them at various places
+about the room. 
+~
+34 8 0
+D0
+A bend in the hallway. 
+~
+~
+0 -1 3472
+D1
+A lighted hallway leads east. 
+~
+~
+0 -1 3470
+S
+#3472
+A Bend in the Paneled Hallway~
+   The walls of this hallway are paneled in a dark oiled wood. Candles are set
+in sconces to provide light. The floor is a waxed wood and has a fine carpet
+that runs the length of the hallway. 
+~
+34 8 0
+D1
+The end of the hallway. 
+~
+~
+0 -1 3473
+D2
+A sitting room. 
+~
+~
+0 -1 3471
+S
+#3473
+The End of the Hallway~
+   The walls of this hallway are paneled in a dark oiled wood. Candles are set
+in sconces to provide light. The floor is a waxed wood and has a fine carpet
+that runs the length of the hallway. Two wooden doors are here, one to the east
+and one to the south. 
+~
+34 12 0
+D1
+An ornately carved door. 
+~
+door~
+1 -1 3475
+D2
+An ornately carved wooden door. 
+~
+door~
+1 -1 3474
+D3
+A bend in the hallway. 
+~
+~
+0 -1 3472
+S
+#3474
+Vladamir's Bedchamber~
+   This is a room filled with expensive antiques from ages past. A wooden
+chair, a vanity, desk, and table are placed in the room. A very expensive rug
+covers the floor. A large black coffin is against the south wall. 
+~
+34 8 0
+D0
+An ornately carved wooden door. 
+~
+door~
+1 -1 3473
+S
+#3475
+The Library~
+   Bookshelves are on all the walls of this room. They are filled with books of
+all kinds. Most are of no interest to you whatever. A nice large padded chair
+and footstool sits at its center. A small table is at its side. 
+~
+34 8 0
+D3
+An ornately carved door. 
+~
+door~
+1 -1 3473
+D5
+A trapdoor is under a padded chair. 
+~
+trapdoor~
+39 3403 3476
+E
+chair~
+A splendidly comfortable looking chair.  From the marks on the floor it looks
+like this chair gets moved a lot.
+~
+S
+#3476
+A Stonelined Shaft~
+   A shaft that leads deep within the earth. It is lined with stones and
+mortar. The walls are very slippery with a brown slimy mold. 
+~
+34 9 0
+D5
+The shaft continues downward into the dark. 
+~
+~
+0 -1 3477
+S
+#3477
+The Spiked Pit~
+   O O O O O P S ! You have fallen into a nasty spiked pit! There are several
+sharp spikes here to meet you, say HELLO! Strange, they seem to be moving as if
+alive?
+ 
+     o-<--< 
+    ^ ^ ^ ^ ^ 
+    | | | | | 
+~
+34 9 0
+D1
+You see a door concealed within the wall. 
+~
+door~
+1 -1 3478
+S
+#3478
+A Large Cavern~
+   The floor of the cavern is covered with all sorts of junk. There are bits of
+armor and weapons, clothing, bones, and other assorted garbage. You even see
+the glint of gold and silver coins here and there. 
+~
+34 9 4
+D3
+A small door is to the west. 
+~
+door~
+1 -1 3477
+D4
+An earthen tunnel leads up to the surface. 
+~
+~
+0 -1 3412
+D5
+Under the garbage you find a large stone slab. 
+~
+stone slab~
+1 -1 3479
+S
+#3479
+A Small Stone Burial Vault~
+   This ancient vault is totally dark, cold and dry. It is bare except for a
+large stone sarcophagus against the east wall. 
+~
+34 9 0
+D4
+The entrance to the vault. 
+~
+stone slab~
+1 -1 3478
+D5
+The sarcophagus conceals an entrance. 
+~
+sarcophagus~
+39 3418 3480
+S
+#3480
+A Large Stone Burial Vault~
+   This vault is huge, but contains only a single large stone sarcophagus. The
+entrance you came through has closed by itself. You are alone here. Or are you?
+
+~
+34 9 0
+S
+#99999
+$~
+	

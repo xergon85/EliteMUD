@@ -1,0 +1,2142 @@
+#6700
+End of the Catwalk~
+   You are standing on a very tiny platform at one end of a long
+catwalk.  Looking around you, you can see a vast network of narrow rope
+and vine bridges and ladders. The rope bridges are delicately made and
+seem to blend naturally into their surroundings.  The catwalk continues
+north, or you might be able to climb up a bit.
+~
+66 0 3
+D0
+The catwalk stretches on ahead of you, inviting you to explore.
+~
+~
+0 -1 6701
+D4
+You see a tangle of leaves and branches above you.
+~
+~
+0 -1 6731
+S
+#6701
+Catwalk Intersection~
+   The catwalk branches east, north and south at this point.    This
+section of the walkway is firmly attached to the tree to your west, and
+you examine it closely to see if there is a pathway down to terra firma
+from here!  The air is very still around you, and you wonder if the
+elves and fairies who live in these trees are asleep or merely hidden
+from you.
+~
+66 0 3
+D0
+The catwalk winds among the trees.
+~
+~
+0 -1 6702
+D1
+The catwalk branches east from here.
+~
+~
+0 -1 6704
+D2
+You can see one end of the catwalk to the south.
+~
+~
+0 -1 6700
+E
+tree~
+This is a large tree of a type unknown to you.  It is, fortunately,
+large enough to support this section of the walkway.
+~
+S
+#6702
+Catwalk in the Trees~
+   It is understandable why a catwalk is called a catwalk.  Only someone
+as light on its feet as a cat would feel safe here.  The narrow bridge
+made from vines and small branches sways with the slightest breeze,
+making you uncomfortably aware that your combat gear makes you less
+than sure-footed.  You grip each tree that you pass, looking for a way
+down, but so far the trees have been remarkably bare of lower branches.
+~
+66 0 3
+D1
+A huge gray tree with some carving, and a faint orange glow.
+~
+~
+0 -1 6703
+D2
+You see an intersection in 2 catwalks.
+~
+~
+0 -1 6701
+E
+catwalk~
+It looks shaky.
+~
+S
+#6703
+A Catwalk Ends~
+   This small platform is actually carved into the wood of an enormous
+tree of a variety you have never seen.  The bark is silver gray and
+quite thick, and has been carved by a master's hand with delicate
+frescoes of fairies in flight.  There are signs the tree has been
+recently singed by fire.  Above the fairies you see in the fresco huge,
+vicious winged creatures with sharply hooked beaks and long talons...
+~
+66 0 3
+D3
+The green vines of the catwalk blend into the trees to the west.
+~
+~
+0 -1 6702
+E
+creatures fresco~
+The critters look like dragons.
+~
+S
+#6704
+Along the Catwalk, Between Trees~
+   This is a long, unsupported section of the catwalk.  The rope and 
+vine bridge sways wildly between the trees, and you try not to look
+down as you think of things to occupy your mind while you traverse the 
+section.  How many steps till the next tree ...  which is closer, the 
+one east or the one west...  Are those wings you hear?
+~
+66 0 3
+D1
+You see what looks like a fairly secure resting-place.
+~
+~
+0 -1 6705
+D3
+The green vines of the catwalk blend into the trees to the west.
+~
+~
+0 -1 6701
+S
+#6705
+Temporary Safety Among the Trees~
+   You are at the eastern end of the longest stretch of unsupported,
+narrow, flimsy, wimpy-looking catwalk you ever hope to see.  What were
+you thinking climbing up here in the first place?  Where can you get
+back down to earth?  What is that nasty-looking
+bat-kind-of-but-not-quite creature headed for you outta the sky?  Your
+choices from here?  Heading north on that wide limb or south on the
+catwalk.
+~
+66 0 3
+D0
+An apparently short spike of the catwalk heads north.
+~
+~
+0 -1 6706
+D2
+The wobbly catwalk continues south.
+~
+~
+0 -1 6707
+D3
+The green vines of the catwalk blend into the trees to the west.
+~
+~
+0 -1 6704
+S
+#6706
+Out on a Limb~
+   The view from here is fairly okay, if you like heights.  You can see
+another portion of the catwalk twisting off to the east and a huge,
+strange silvery tree blocks the view to the west.  It is unlike any
+tree you have seen before, and you wonder if the tales you heard at
+Barns & Nibble of fairy folk and giant dragons have any truth to them.
+You may return to your walk on the wild side by heading south.
+~
+66 0 3
+D2
+The catwalk resumes south of here.
+~
+~
+0 -1 6705
+S
+#6707
+A Walk on the Wild Side~
+   You try to act cool, hummin "doo doo-doo doot doo doo doooooo" as
+you stroll along the catwalk, hoping those AWFULLY BIG birdlike critters
+have eaten recently.  You can see them, way above you, circling like
+you've heard vultures do when they've found something good to eat.
+You could go north or east from here.  You hope the birds are just
+making lazy circles in the sky ... for exercise!
+~
+66 0 3
+D0
+The platform looks fairly safe.
+~
+~
+0 -1 6705
+D1
+The catwalk continues.
+~
+~
+0 -1 6708
+S
+#6708
+Turning Twisting Catwalk~
+   The catwalk must turn and twist as it wraps its way around the
+trees.  This particular section looks newer.  The vine is greener,
+softer, laced with mistletoe.  Mistletoe, you remember, strengthens
+magical enchantments. Perhaps that is the source of the strength of the
+seemingly fragile walkway.
+~
+66 0 3
+D0
+There seems to be a lot more mistletoe in that direction.
+~
+~
+0 -1 6709
+D3
+The green vines of the catwalk blend into the trees to the west.
+~
+~
+0 -1 6707
+S
+#6709
+Mistletoe Path~
+   There is quite a bit of mistletoe along this section of the catwalk.
+The dark green leaves and waxy white berries make the pedestrian
+walkway look enchanted, as indeed it is.  You wonder about the quantity
+of mistletoe on this stretch.  Is there some special purpose other than
+keeping the catwalk together and properly suspended?  You continue on
+your way, either north or south from here.
+~
+66 0 3
+D0
+The path through the trees continues.
+~
+~
+0 -1 6710
+D2
+The path through the trees continues.
+~
+~
+0 -1 6708
+S
+#6710
+The Path Pivots~
+   After attaching itself to another large tree of indeterminable
+species, the path meanders east and south from this point.  The southern 
+route looks laced with mistletoe, the path east looks more ordinary.
+The normal soft forest sounds of chirping birds, scurrying small animals
+and rustling leaves surround you.  Occasionally you think you hear the
+beat of heavy wings and a strange down draft, but you put that down to
+your overactive imagination.
+~
+66 0 3
+D1
+The path through the trees continues.
+~
+~
+0 -1 6711
+D2
+The path through the trees continues.
+~
+~
+0 -1 6709
+S
+#6711
+Standing at the Crossroads~
+   Your choices are many here - up to a fire lookout, south to what
+looks remarkably like a doorstep, or east or west along a more 
+indeterminate route.  You don't see any means of climbing down, so you 
+must continue on as best you can.  Occasionally you believe you hear 
+the rush of large wings, then shake your head in disbelief..
+~
+66 0 3
+D1
+The path continues for a short distance.
+~
+~
+0 -1 6715
+D2
+The path continues for a short distance.
+~
+~
+0 -1 6713
+D3
+The green vines of the catwalk blend into the trees to the west.
+~
+~
+0 -1 6710 
+D4
+It looks hot.
+~
+~
+0 -1 6712
+S
+#6712
+The Element of Fire~
+   Living in the woods, the Elves must always be cautious of fire, and
+you can see that here, at a lookout, someone has made some magic to 
+protect the elven group.  Stones of hematite, beryl, citrine, jasper and 
+ruby are arranged here in a careful pattern, calling forth a powerful 
+magic to protect the trees.
+~
+66 0 3
+D5
+The path continues for a short distance.
+~
+~
+0 -1 6711
+S
+#6713
+Henrietta's Doorstep~
+   You are standing outside a door cleverly carved into the huge oak
+tree to the east of you.  The ridges and knotholes that are part of this
+tree all but hide the entrance, or they would if it weren't for the
+little sign proclaiming "Humble Henrietta's Handy Herbs Here".  If you
+decide not to visit Henrietta, the catwalk leads back to the north.
+~
+66 0 3
+D0
+It looks like a crossroads of sorts.
+~
+~
+0 -1 6711
+D1
+It looks like a knotty tree.
+~
+knotty door
+~
+1 6708 6714
+E
+knothole~
+It looks like there may be something stuffed inside.
+~
+E
+tree~
+It was once a naughty dragon.  Henrietta the Mighty ensorcelled it, and
+now it is simply a knotty tree.
+~
+S
+#6714
+Henrietta's~
+   You enter a cheery little kitchen, with cheerful yellow curtains
+over the sunny windows and a red and white checked cloth on the table.  
+This is Henrietta's workshop, her kitchen for cooking up powerful
+concoctions that keep the elves strong and resilient.  Henrietta has
+lived here ever since her apprenticeship as a child of 83.  She is a
+strong and powerful woman, friendly to strangers.  There is a small
+sign on the wall.
+~
+66 1 3
+D3
+The green vines of the catwalk blend into the trees to the west.
+~
+door oak
+~
+1 6708 6713
+E
+sign~
+It reads,
+                              Do not meddle
+                        in the affairs of wizards        
+                           for you are crunchy 
+                      and go well with Grey Poupon.
+~
+S
+#6715
+Along the Catwalk~
+   As you walk along the catwalk, you marvel at this example of elven
+engineering.  With minimal support from the tall trees surrounding it,
+the narrow vine catwalk has become the elevated highway of Tynstri,
+allowing its children to play outside in the fresh air without fear of
+the dangers that strangers bring to the village below.  There is a
+small sign attached to the vine, which serves as a handrail.
+~
+66 0 3
+D1
+The catwalk continues on for a small distance.
+~
+~
+0 -1 6716
+D3
+The green vines of the catwalk blend into the trees to the west.
+~
+~
+0 -1 6711
+S
+#6716
+A Change in Direction~
+   The catwalk changes direction here as if abruptly defining the
+limits of the upper village.  The view from here is breathtaking, open 
+as it is to the north and west, overlooking mountain and trees with no 
+signs of any attempts to tame nature.  The elf king's consort is fond of
+saying the best of sunsets are to be seen from the treetops of Tynstri.
+~
+66 0 3
+D2
+The trees are very green and welcoming.
+~
+~
+0 -1 6717
+D3
+The green vines of the catwalk blend into the trees to the west.
+~
+~
+0 -1 6715
+S
+#6717
+Walking the Catwalk~
+   The catwalk is responsive beneath your weight, moving almost as if
+it were alive.  All around you the forest is green and swaying and
+beautiful.  If you weren't so afraid of falling you would feel a lot
+better.  Off in the distance you see what looks like a bright purple
+blot against the sky and it seems to be moving towards you!  Your
+escape lies either up or south or east.  Pick one and RUN!
+~
+66 0 3
+D0
+The catwalk appears to bend north of here.
+~
+~
+0 -1 6716
+D1
+It looks like a small platform surrounded by trees.
+~
+~
+0 -1 6718
+D4
+A strong vine ladder leads up.
+~
+~
+0 -1 6719
+S
+#6718
+Surrounded by trees~
+   You are surrounded by trees - elder to protect you from negative
+spirits, hawthorn (witches' tree) and oak.  The small platform creaks
+gently under your feet, and if you look down, you can see it rests on
+the top of one of the beautiful arches of the Wiccan monastery below.
+It might be possible to climb out over the edge of the platform, wrap
+arms and legs tightly around the arch, and slide awkwardly down to the
+ground below.
+~
+66 c 3
+D3
+The green vines of the catwalk blend into the trees to the west.
+~
+~
+0 -1 6717
+D5
+There is a way down... look out.
+~
+~
+0 -1 6671
+S
+#6719
+Another Decision Point on the Catwalk~
+   You stand at a catwalk crossroads, your choices from here are down,
+south or west.  From where you stand, you can see little to choose
+between them.  You are tempted to ask a passerby, but there don't
+appear to be many, at least none who are very responsive to a polite
+question.
+~
+66 0 3
+D2
+Another turn in the catwalk.
+~
+~
+0 -1 6720
+D3
+A turning point in the catwalk.
+~
+~
+0 -1 6722
+D5
+You COULD try to e_a_s_e your way down the vine ladder.
+~
+~
+0 -1 6717
+S
+#6720
+One Last Turn~
+   You can see the lovely catwalk ending in a small watch-place to the
+east, and the path continues north for quite some distance.  You rest a
+moment here, wondering yet again about the variety and numbers of trees
+that surround you.
+~
+66 0 3
+D0
+The catwalk continues for a short distance.
+~
+~
+0 -1 6719
+D1
+There is a cul de sac to the east.
+~
+~
+0 -1 6721
+S
+#6721
+Cul de sac~
+   The catwalk ends here on a large platform looking out on the
+beautiful lake to the south.  This is evidently a place where early 
+morning ceremonies are held to greet the sun, or perhaps just a sunny 
+spot for morning exercise.
+~
+66 0 3
+D3
+The green vines of the catwalk blend into the trees to the west.
+~
+~
+0 -1 6720
+S
+#6722
+A Turning Point~
+   The catwalk branches east and south here, and you are standing on a
+small platform firmly attached to what appears to be an oak tree.
+Occasionally you see an elf heading home or out for an adventure, but
+mostly the forest is quiet.    You wonder what lies ahead.
+~
+66 0 3
+D1
+There appears to be a ladder attached to a tree.
+~
+~
+0 -1 6719
+D2
+The catwalk continues ...
+~
+~
+0 -1 6723
+S
+#6723
+A Long Walk above the Forest Floor~
+   You are treading softly on a long stretch of delicately wrought
+catwalk.  Looking closely at the swaying bridge was a mistake, as it
+showed you how much the bridge had worn away in time.  You wonder
+should you take off your heavy boots with the sharp cleats on them, and
+wish you hadn't decided to carry quite so much with you.
+~
+66 0 3
+D0
+There is a turn in the catwalk to the north.
+~
+~
+0 -1 6722
+D2
+The catwalk appears to come to a dead end unlike, you hope, yourself.
+~
+~
+0 -1 6724
+S
+#6724
+Another Dead End~
+   You have reached what appears to be another dead end after a long
+long time spent up on the catwalk.  There are doors to the west and 
+south, and the view to the east is magnificent, of mountains and 
+enchanted forests.
+~
+66 0 3
+D0
+There is a fragile catwalk stretching northwards.
+~
+~
+0 -1 6723
+D2
+A door painted with a pattern of leaves leads south.
+~
+leaves door
+~
+1 -1 6726
+D3
+An ornately carved oak door.
+~
+oak door
+~
+1 -1 6725
+E
+Door~
+The door south appears to be covered with spring leaves.
+~
+S
+#6725
+A Watchroom~
+   You enter a comfortable room carved into a huge oak tree.  There are
+wide windows facing west to the sunset, overlooking the town.  A large
+sofa made from some unusual black leather graces the room. Chairs
+carved of oak provide seating, and storybook pictures add color and
+charm to an otherwise somber room.  You realize you have stumbled into
+someone's parlor and you should probably leave by the door to the east.
+~
+66 1 0
+D1
+There is a small platform just outside.
+~
+door oak
+~
+1 -1 6724
+S
+#6726
+Annie's Room~
+   A bedroom for an elven princess ... this one in particular
+apparently loves being outdoors.  Two walls are made of sliding slatted 
+doors and lead to the verandah that surrounds her room. The other walls 
+are filled with pictures of wolves, books of wolf lore and posters
+declaring "Free the Elves".  The ceiling is covered with faintly
+glowing stars.  Sitting atop the bed is a very large, stuffed purple
+dragon.  What is that you see peeking out from underneath her tall bed?
+*shudder*  You can go west to visit her closet (a very scary place in
+itself) or north to the catwalk.
+~
+66 dtu 0
+D0
+You see a leaf-covered door
+~
+leaf covered door
+~
+1 -1 6724
+D3
+Annie's closet is this way.
+~
+closet door
+~
+1 -1 6727
+D4
+~
+trapdoor
+~
+1 6712 6728
+S
+#6727
+Annie's Closet~
+   Annie's closet is piled high with the discarded gear of her many
+sisters.  It is amazing that such a small room could hold so much ...
+stuff!  Leggings lie tumbled next to headbands, scepters lean against
+corners next to spears and bows.  A #ys#wh#yi#wn#yi#wn#wg#N hammer sits
+glowing quietly on a high closet shelf while combat boots and hooves
+sit side-by-side on the floor.  Annie generally throws equipment in
+here quickly without looking.  Not, of course, because she is afraid of
+monsters-who-live-in-the-dark . . . !
+~
+66 1 3
+D1
+~
+door closet
+~
+1 -1 6726
+S
+#6728
+Tightly spiraling staircase~
+   This staircase winds tightly upwards with barely enough room for your
+body to traverse it.  It is very dark in here, and very quiet.
+~
+66 1 3
+D4
+It's dark down there!
+~
+~
+0 -1 6729
+D5
+It's dark up there!
+~
+trapdoor door
+~
+1 6712 6726
+S
+#6729
+Tightly winding staircase~
+   This staircase appears to be carved from the inside of a tree.  You
+turn around and around, getting dizzier and dizzier as you go.  You
+would hate to meet an enemy here.  There isn't even enough room for you
+to draw a weapon!
+~
+66 1 0
+D4
+It's dark up there!
+~
+~
+0 -1 6730
+D5
+It's dark down there!
+~
+~
+0 -1 6728
+S
+#6730
+Elfking's Home~
+   Here is where you will find the elf king when he is not away on a
+crusade to combat evil.  The walls are hung with richly colored
+tapestries telling of ancient elven heroes.  Young elven children
+(under 50 years old) are brought here to learn of their glorious
+history.  The good king rules over his forest kingdom from an ornately
+carved, shiny golden throne.  The seat looks a bit hard ... perhaps
+that has something to do with his frequent absences.  In his absence
+the awesome Master Ranger roams the forest, protecting his subjects,
+and his Honor Guard remains here, protecting the throne.
+~
+66 dhjouv 0
+D2
+A magnificent public entrance
+~
+door entrance 
+~
+2 6738 6734
+D5
+It looks dark and narrow.
+~
+~
+0 -1 6729
+S
+#6731
+On the eastern side of a very large tree~
+   You are perched precariously on a wide branch in a very large tree.
+The tree is covered with a rough, dark bark that tears into your
+fingers as you cling to it for balance.  Occasionally a large piece
+breaks off in your hands and you rapidly grab for purchase.  Around
+you, the forest is filled with the noise of birds and small and
+not-so-small animals going about their normal daily activities.  Below
+you there appears to be some sort of bridge between trees.  You can
+climb down to the bridge or around the tree to the west.
+~
+66 0 3
+D3
+The tree has many strong branches.  You could use them like stepping
+stones.
+~
+~
+0 -1 6732
+D5
+Looks like a bridge.  If you are strong, you could grab the branch you
+are standing on and swing yourself down.
+~
+~
+0 -1 6700
+S
+#6732
+On one of several sturdy branches~
+   You are standing on one of several sturdy branches high up on the
+west side of an enormous tree.  You can see off to the west a sturdy 
+tree with a ladder going down, but there appears to be no means of 
+getting there.  The tree which is supporting you is enormous.  It is so 
+big around that even leaning way out from the trunk, you are unable to 
+see the eastern side.  There are many large, thick branches, however 
+that you might use to climb around the tree to the other side.  Your 
+only other option appears to be a swan dive to the ground.
+~
+66 0 3
+D1
+Many strong branches.
+~
+~
+0 -1 6731
+S
+#6733
+The Grand Staircase~
+   Managing to look at once quite grand, yet perfectly at home in the
+tiny village park, a grand marble staircase rises eastward.  Although 
+each golden marble step is shallow, there are many hundreds leading 
+upwards.  As you crane your neck to look up, you can see no end to the 
+steps.  Perhaps this is an illusion?  Yet the steps feel firm beneath 
+your feet.  West from here lies the village park.
+~
+66 c 4
+D4
+The staircase continues upwards for as far as you can see.
+~
+~
+0 -1 6734
+D3
+The village park.
+~
+~
+0 -1 6627  
+S
+#6734
+Public Entrance to the Throne Room~
+   Perched at the top of an elegant but endless gold and white marble
+staircase, the public entrance to the Elf King's home blends perfectly
+into its setting in the trees.  The grand columns supporting the roof
+are, in fact, living trees.  From this vantage point you can see much
+of Tynstri.  The small monastery is still east of you, the village
+shops are to the west, and there are large forest areas north and south 
+of you.  From here, the throne room is just to the north and the village
+lies at the bottom of the steps at your feet.
+~
+66 0 1
+D0
+The Elf King welcomes you to his home.  Please wipe your feet before
+entering.
+~
+door ornate gold
+~
+291 6738 6730
+D5
+It's a l-o-o-o-o-o-ng way down.
+~
+~
+0 -1 6733
+S
+#6735
+At the base of a very large tree~
+   A slight trail through the forest ends here at the base of a very
+tall, very thick tree.  The village park for Tynstri is south of here 
+and you may wish to head there. The other choice here is to follow the 
+faint trail through the deep forest going east.
+~
+66 c 3
+D1
+You see a faint trail leading east.
+~
+~
+0 -1 6736
+D2
+A somewhat seedy looking park
+~
+~
+0 -1 6628
+S
+#6736
+A Faint Trail~
+   A faint trail leads through towering trees.  The forest is alive
+around you.  You can almost hear the trees growing, feel the sizzling 
+magic in the air.  From here, the path leads northwards for a spell, 
+or east into a tangle of leaves.
+~
+66 0 3
+D0
+The path continues.
+~
+~
+0 -1 6738
+D1
+You could probably squeeze in between the two trees.
+~
+
+~
+0 -1 6737
+D3
+There is a huge tree looming west of you.
+~
+~
+0 -1 6735
+S
+#6737
+A Space Between Two Trees~
+   There is a small space here between two enormous trees.  The ground
+is flat, and the thin grasses growing there have been squashed by
+something quite heavy.  The only exit lies west.
+~
+66 0 3
+D3
+A faint trail
+~
+~
+0 -1 6736
+S
+#6738
+A clear path~
+   The path is more clearly marked here, and apparently well-traveled.
+The vegetation is dense and healthy on both sides of the path, which
+continues east, north and south.  It looks green and foresty in all
+directions.
+~
+66 0 3
+D0
+The path turns sharply north of here.
+~
+~
+0 -1 6739
+D1
+The path continues clearly to the east.
+~
+~
+0 -1 6741
+D2
+The path appears to come to a turning point south of here.
+~
+~
+0 -1 6736
+S
+#6739
+Turning in the Path~
+   The path turns here rather sharply.  To the west there appears to be
+a small open space and you can hear the faint sounds of a woodcutter's
+axe.  To the south, the trail has more definition.
+~
+66 0 3
+D2
+The path looks more well-traveled.
+~
+~
+0 -1 6738
+D3
+You see more trees.
+~
+~
+0 -1 6740
+S
+#6740
+The Woodcutter's spot~
+   This clearing is clearly the work of some busy dwarven woodcutters.
+The wood of this forest is known for its strength and magical
+qualities.  It is a bit unpredictable.  That is, there are rumors of
+trees attacking those who would cut them.  But that doesn't seem to
+stop the dwarves who come here in search of good wood.
+~
+66 0 3
+D1
+There is a slight path leading east.
+~
+~
+0 -1 6739
+S
+#6741
+Forest Network~
+   From here the forest seems to be a network of trails.  Some are well
+defined, some are faint.  In the dirt you can see some large
+footprints.  They look roughly human, but much larger.  Caught on twigs
+of a nearby bush you can see a tuft of fur shed by a wolf.  It is
+impossible to tell how long it has been there, but you find yourself
+listening intently to the forest sounds.
+~
+66 0 3
+D0
+Looks like the path takes another twist north.
+~
+~
+0 -1 6746
+D1
+You see some bushes.
+~
+bush
+~
+1 -1 6742
+D3
+The network of paths continues west.
+~
+~
+0 -1 6738
+S
+#6742
+Entrance to the Den~
+   You stand under a low outcropping of rock, which forms what appears
+to be the entrance to a shallow cave.  From the dirt and leaves beneath
+your feet, it appears this is the entrance to a wolf den.  The den
+continues down a steep slope under the rock.  You will need to crawl to
+get any further in that direction.
+~
+66 0 3  
+D3
+The path west is blocked by bushes.
+~
+bush
+~
+1 -1 6741
+D5
+The wolf den.
+~
+~
+0 -1 6744
+S
+#6743
+Wolf Den West~
+   The roof of the cave hangs low over your head, forcing you to crawl
+through this area.  Besides the discomfort, it leaves you at a distinct
+disadvantage should you come upon any of the residents of this den.
+The den cave gets a bit roomier to the east.
+~
+66 0 4
+D1
+The wolf den continues.
+~
+~
+0 -1 6744
+S
+#6744
+Wolf Den~
+   A few bones of undeterminable origin are scattered in this, the
+roomiest part of the wolves' den.  Although the roof of the cave is too
+low to allow you to stand upright, it is considerably higher than it is
+either to the east or the west of here, where the den continues.
+~
+66 0 4
+D1
+The roof lowers sharply.
+~
+~
+0 -1 6745
+D3
+The roof lowers sharply as the cave continues.
+~
+~
+0 -1 6743
+D4
+Up a steep slope, you can see the entrance to the wolf cave.
+~
+~
+0 -1 6742
+S
+#6745
+Wolf Den East~
+   Even the wolf cubs must crouch to enter this part of their den.  The
+rough stone walls encase you like a very uncomfortable coffin.  You can
+crawl back to the larger part of the den to the west, probably the best
+idea, or slither on your belly through the narrow crack in the rock
+leading down into darkness.
+~
+66 c 4
+D3
+The scents and sights of the den come from the west.
+~
+~
+0 -1 6744
+D5
+It's hard to see anything, but the smell is pretty gruesome.
+~
+~
+0 -1 6764
+S
+#6746
+Another turn in the path~
+   The well-marked trail through the woods begins a steady slow descent
+to the east.  There is a slight smell of charcoal and woodsmoke in the 
+air here, and the path has become fairly wide.  To the south there 
+appears to be an intersection between this path and another.
+~
+66 0 3
+D1
+A slow descent down a hill.
+~
+~
+0 -1 6747
+D2
+An intersection of paths.
+~
+~
+0 -1 6741
+S
+#6747
+At the top of a hill~
+   The trees have thinned out very slightly here, but enough that you
+can see the gradual slope of a hill eastwards.  The forest floor is
+sparsely covered with small flowers and grasses.  The light is dim
+here, filtered by a dense covering of leaves high above you.
+~
+66 0 3                                                                                                                                                                                                                                                  
+A small branch of the path leads north.
+~
+~
+0 -1 6748
+D3
+To the west you see another turn in the path.
+~
+~
+0 -1 6746
+D5
+The path eastwards leads down a gentle slope.
+~
+~
+0 -1 6749
+S
+#6748
+Yet another ending~
+   What looked like a promising path through the trees has very quickly
+fizzled into nothing.  You are surrounded by tall trees and an intense
+quiet.  The trees to the west, north and east seem to huddle together
+to keep you away.  The path south is open for you to take.
+~
+66 0 3
+D2
+The path thickens.
+~
+~
+0 -1 6747
+S
+#6749
+On a gradually sloping hill~
+   Surrounded by thorn bushes to the north and south, the forest seems
+to be pushing you down the hill to the east.  Moving west would require 
+a hard climb.  To the east, however, the stench of sulfur and fire seems
+stronger.
+~
+66 0 3
+D1
+The hill slopes gently east.
+~
+~
+0 -1 6750
+D4
+It's uphill all the way.
+~
+~
+0 -1 6747
+S
+#6750
+Faint sounds of merriment~
+   From the north you can hear faint but unmistakable noises of
+laughter and singing.  The path north heads up a steep slope.  The main 
+path runs east-west here.
+~
+66 0 3
+D3
+The wide path continues.
+~
+~
+0 -1 6749
+D4
+Sounds of laughter and music.
+~
+~
+0 -1 6751
+D5
+Sure looks dark down there.
+~
+~
+0 -1 6757
+S
+#6751
+Downhill from fun~
+   The path through the trees has narrowed once again.  Uphill from
+here, you hear voices singing and the thrumm of a tambourine, the click 
+of finger cymbals.  Downhill, you can see a more well-defined, wider 
+path.  The small path you are on also branches west.
+~
+66 0 3
+D3
+The faint path becomes fainter as you head west.
+~
+~
+0 -1 6752
+D4
+You hear the sounds of an elven encampment.
+~
+~
+0 -1 6754
+D5
+A broad path makes its way through the forest.
+~
+~
+0 -1 6750
+S
+#6752
+Amidst the maples~
+   You follow the faint path between tall maple trees.  The unusual
+clustering of these trees gives the impression they were planted by a
+hand more orderly than nature's.  The path continues north for a short
+distance and to the east the path looks a bit more traveled.
+~
+66 0 3
+D0
+A small glade.
+~
+~
+0 -1 6753
+D1
+A path up a steep hill
+~
+~
+0 -1 6751
+S
+#6753
+A small glade~
+   A small but lovely break in the trees has been created here by the
+woodcutter's axe.  This borders of this area are formed by different
+varieties of maple.  It is a lovely place to be in the fall.  The only
+path out leads south.
+~
+66 0 3
+D2
+The path takes a sharp turn
+~
+~
+0 -1 6752
+S
+#6754
+Elven encampment~
+   A small group of wood elves have set up camp here recently.  Known
+for their great joy in life and fondness for good song and good stories,
+the wood elves are more relaxed than many of their more noble-seeming
+cousins.  The encampment continues to the north and east of here.
+~
+66 0 3
+D0
+The elven encampment
+~
+~
+0 -1 6756
+D1
+The elven encampment
+~
+~
+0 -1 6755
+D5
+Down the steep hill towards a broader path
+~
+~
+0 -1 6751
+S
+#6755
+A circle of fire~
+   An enticing circle of flame invites you to sit and relax.  What
+could be dangerous in the deep forests of Tynstri?  The elves have told 
+you stories of large numbers of dragons who live near here, but surely
+those are just stories.  When you finish your stay at this encampment,
+you can return by the path to the west.
+~
+66 0 3
+D3
+The western way
+~
+~
+0 -1 6754
+S
+#6756
+A merry time was had by all~
+   Surrounded by maple and birch, the wood elves have extended their
+camp in this lovely clear space in the woods.  The forest floor is hard
+beneath your feet, and there is a chill in the air that is not entirely
+due to the weather or the general forest gloom.  You may leave this
+spot by heading south down the hill.
+~
+66 0 3
+D2
+It's all downhill from here!
+~
+~
+0 -1 6754
+S
+#6757
+White birch path~
+   White birch and blue spruce line this part of the path, alternating
+like some strange flag.  The stench of dragon breath and the heat of
+dragon fires are strong here.  You must be near the source.  The path
+westwards is uphill, and you are looking for a cave entrance.  The path
+east looks promising, as the trees seem to have been thinned.  The path
+south leads steeply down, though, to a cave mouth.  That must be it!
+~
+66 0 3
+D1
+The birch and spruce seem thinner~
+~
+0 -1 6758
+D4
+A broad path, well-trampled
+~
+~
+0 -1 6750
+D5
+The path down and south leads to a dark cave.  Do you have a lantern?
+~
+~
+0 -1 6760
+S
+#6758
+Neatly cut stumps~
+   From the neatly cut stumps of oak and maple, it's clear that a band
+of woodcutters have been through here.  The critters who used to dwell 
+in the branches of those trees have been evicted to find shelter
+elsewhere.  The path continues north and west from here.
+~
+66 0 3
+D0
+The stumps continue
+~
+~
+0 -1 6759
+D3
+A gloom seems to settle over the path
+~
+~
+0 -1 6757
+S
+#6759
+Stumping along~
+   A stack of logs lies here waiting to be carted off to a sawmill.
+For quite a distance in all directions there is nothing but short tree
+stumps, a few of which still bleed.  You may leave this sad place to
+the south.
+~
+66 0 3
+D2
+A faint path through thinning woods.
+~
+~
+0 -1 6758
+S
+#6760
+The Mouth~
+   You are standing at the mouth of a long tunnel leading deep into the
+earth.  It is very dark and forbidding.  The air is fetid, damp, with a
+faint sulphurous odor.  You may descend into who-knows-what, head west
+to reconnoiter, or head up the hill.
+~
+66 0 4
+D3
+A small area to sit and think
+~
+~
+0 -1 6761
+D4
+Up the hill to deep forest
+~
+~
+0 -1 6757
+D5
+A long, dark, forbidding tunnel
+~
+~
+0 -1 6799
+S
+#6761
+A place to think~
+   A quiet little space to the west of the entrance to a very large
+(and very dark and smelly) cave is a good place for a picnic, or to 
+simply stop and think about your options.  Are you safer facing the 
+gobble-uns of the forest or the dragons who surely must populate the 
+cave?
+~
+66 0 4
+D1 
+The cavemouth is ready to eat you up.
+~
+~
+0 -1 6760
+S
+#6762
+Dragon exit tunnel~
+   A long tunnel leads steadily upwards into fresh air.  To the west, a
+rough passage slopes rapidly down a long passageway.  It is difficult
+to see anything in any direction due to the slant of the tunnel.
+~
+66 0 4
+D4
+Fresh air seems to be coming to you from a distance
+~
+~
+0 -1 6799
+D5
+There is too much of an angle to see much of anything.
+~
+~
+0 -1 6763
+S
+#6763
+Kerbumpety thump~
+   As you bump your way down the slope you begin to worry you will be
+unable to scramble back up again should you need to leave in a hurry.
+Your nostrils fill with the definite, clear stench of dragon breath.
+Lots of dragons.  You can TRY to head up the sloping tunnel or you can
+kerbumpety thump your way west.
+~
+66 0 4
+D3
+Can't see much
+~
+~
+0 -1 6764
+D4
+Can't see much
+~
+~
+0 -1 6762
+S
+#6764
+All growed up~
+   Or almost all growed up dragons find their way out this exit and the
+larger one which is up the slope from here.  From this spot you catch a
+whiff of werewolf up a very small tunnel, but it's difficult to sort
+that odor out over the overwhelming scent of dragon.
+~
+66 0 4
+D1
+The narrow tunnel continues up
+~
+~
+0 -1 6763
+D4
+The scent of wolf is faintly discernible.
+~
+~
+0 -1 6745
+D5
+A well lit corridor
+~
+~
+0 -1 6765
+S
+#6765
+Dragon Queen's doorstep~
+   Standing at the northern end of the long north-south hallway that
+forms a large part of the dragon living quarters, you are awed by the 
+size and grandeur of the caverns.  Although the roof towers high above 
+you, it has been beautifully smoothed, and it glows of its own accord,
+bathing the quarters in a soft light.  A sign on the gilt door to the
+north reads, "Dragin Kween's hom"
+~
+66 0 4
+D0
+There is an elaborate gilt door
+~
+door
+~
+1 -1 6767
+D2
+The well-lit corridor continues.
+~
+~
+0 -1 6770
+D4
+A dark and narrow tunnel.  Looks forbidding.
+~
+~
+0 -1 6764
+S
+#6766
+Dragon Kitchen~
+   Neatly kept and well-stocked, the elf slaves who work here have made
+the best of their captivity.  The excellence of their cooking has made
+them favorites of the dragon children as well as the queen, and their
+every wish is granted.  Every one except for freedom.  The entrance to
+the QueEn's quarters is east of here.
+~
+66 0 4
+D1
+QueEn's quarters' entrance
+~
+heavy oak swinging door
+~
+1 -1 6767
+S
+#6767
+Entrance to the DraGoN QueEn's home~
+   An expensively furnished (if somewhat tacky) entrance room, this is
+where visitors to her majesty must wait to be heard. The carpet is a
+deep crimson, and the walls a deep violet.  There are two massive plush
+velvet sofas placed facing each other in the center of the room.  One
+is fuchsia, the other a deep purple. There is a wide space between the
+seat of the sofa and the backrest, presumably to allow dragging tails
+room to hang over the back edge.  Round stools of plush velvet are
+scattered like bright pink polka dots around the room. 
+~
+66 0 4
+D0
+The room of consorts
+~
+~
+0 -1 6768
+D2
+A gilt door leads into the hatchlings area
+~
+door gilt
+~
+1 -1 6765
+D3
+A heavy oak swinging door leads west to the kitchen
+~
+Swinging door
+~
+1 -1 6766
+S
+#6768
+The room of consorts~
+   The queen's many consorts sit in this lovely room, waiting on her
+pleasure.  They preen in the many mirrors and play games amongst
+themselves to prove individual superiority.  They are always listening
+for a call from their queen, whose rooms are west of here.
+~
+66 0 4
+D2
+A waiting room
+~
+~
+0 -1 6767
+D3
+QueEn's chambers
+~
+~
+0 -1 6769
+S
+#6769
+The lair of the DraGon QueEn~
+   Red velvet softens the walls and dims the magic glow, which is quite
+strong here.  The queen is not fond of being closely observed.  She
+rarely leaves her lair, preferring for her subjects to be brought to
+her.
+~
+66 0 4
+D1
+The consort room
+~
+~
+0 -1 6768
+S
+#6770
+Spider Webs~
+   For some reason these huge spider webs have remained clustered on
+the walls here.  They partially obstruct the passage, which leads
+north-south with a short jaunt west.  The dragons are not particularly
+adept at housekeeping, but fragile stuff like spider webs is usually
+burned away by one of the hatchlings' practicing.
+~
+66 0 4
+D0
+The cave continues
+~
+~
+0 -1 6765
+D2
+The cave continues
+~
+~
+0 -1 6772
+D3
+A small alcove
+~
+~
+0 -1 6771
+S
+#6771
+A small alcove~
+   Eeeeeeeeuuuuuuuwwwww!  The cave floor of this tiny alcove in the
+cavern is covered with bat droppings!  The dragons call this their
+"batting range".  
+~
+66 0 4
+D1
+A large cave corridor
+~
+~
+0 -1 6770
+S
+#6772
+A nursery corner~
+   This whole area of the great underground dragon caves is devoted to
+raising the next generation of fire breathers.  The walls are marked
+randomly with scorch marks.  Young dragons have little control over
+their fiery breath.  It is something they must learn in dragon school.
+From here the nursery continues east, and the corridor runs
+north-south.
+~
+66 0 4
+D0
+Cobwebs!
+~
+~
+0 -1 6770
+D1
+Soft pastels
+~
+~
+0 -1 6773
+D2
+A playground for small dragons
+~
+~
+0 -1 6779
+S
+#6773
+Soft pastel colors~
+   Before they become accustomed to the bright jewel tones favored by
+adult dragons, young dragons are raised in soft, calming colors of
+mint, pink, powder blue, cream and sunshine.  The cavern floor is
+covered with soft sand to protect baby dragon feet.  The nursery
+continues east, or you may find older dragons to the west.
+~
+66 0 4
+D1
+More of the nursery
+~
+~
+0 -1 6774
+D3
+The main north south corridor of the living quarters
+~
+~
+0 -1 6772
+S
+#6774
+Between nursery and schoolroom~
+   Standing outside the dragon schoolroom you hear the sleep-inducing
+monotone of the dragon master, dragging on about emergency measures -
+how to extinguish fires you didn't mean to start.  How extremely dull!
+You might peek in at the schoolroom to the east, or head towards the
+baby cries to the south.
+~
+66 0 4
+D1
+You hear the dragon master's boring voice.
+~
+~
+0 -1 6775
+D2
+You hear baby dragon cries.
+~
+~
+0 -1 6776
+D3
+The soft pastels of a dragon nursery
+~
+~
+0 -1 6773
+S
+#6775
+Dragon schoolroom~
+   Little round dragon stools dot the floor in an orderly pattern.
+Small dragons sit on many of them, little tails draping over the 
+edge.  From the number of empty stools it looks like not all the 
+little dragons can be talked into going to school.
+~
+66 0 4
+D3
+The nursery corridor
+~
+~
+0 -1 6774
+S
+#6776
+Nursery west~
+   Newly hatched dragons spend some time in this enormous room.  The
+adult dragons have smoothed out the walls and covered the floor with 
+a soft white sand, but that has been their only concession to the 
+necessities of dragon infancy.  Adult dragons meddle very little in 
+the affairs of their offspring.
+~
+66 0 4
+D0
+A hallway 
+~
+~
+0 -1 6774
+D1
+The nursery continues
+~
+~
+0 -1 6777
+S
+#6777
+Nursery east~
+   Remnants of nursery meals - bits of bugs, wingtips from bats - lie
+on the sandy nursery floor beside forgotten or discarded toys.  The room
+is bathed in a warm soft glow without any obvious source.  The nursery
+is very roomy, fortunately so, as some of the clutches of eggs lately
+have been much larger than usual. The egg hatchery is south of here,
+and the infant nursery continues to the west.
+~
+66 0 4
+D2
+Sounds of eggs breaking
+~
+~
+0 -1 6778
+D3
+The nursery continues
+~
+~
+0 -1 6776
+S
+#6778
+Hatchery~
+   Bits of shell from dragon eggs litter the floor.  A few large eggs
+lie dormant in the center, under a stream of pure white light coming 
+from a small crack in the ceiling. Listening closely, you can barely 
+hear the chanting of wiccan monks pouring through the crack with the 
+light.
+~
+66 0 4
+D0
+You hear childish dragon voices
+~
+~
+0 -1 6777
+S
+#6779
+Southern end of a long dragon hallway~
+   The hallway here stretches from the practice room just south of here
+all the way to the queen's quarters far to the north.  Although the
+walls have been smoothed and well lit, the floor remains hard.  Perhaps
+it serves to toughen little dragon feet before they pad out into the
+forest.
+~
+66 0 4
+D0
+The hallway continues
+~
+~
+0 -1 6772
+D2
+Looks like a practice range
+~
+~
+0 -1 6780
+D3
+The molting area
+~
+~
+0 -1 6781
+S
+#6780
+Practice Range~
+   Here, at a dead end of the hallway, in the part of the cavern at
+once furthest away from queen and from hatchlings, the young dragons 
+have a spot to test their skills.  The southern, western and eastern 
+walls are covered with scorch marks and deep gouges into the wall.  
+The trainees look like they'd love to practice with a live target!
+~
+66 0 4
+D0
+The grand hallway of dragondom begins
+~
+~
+0 -1 6779
+S
+#6781
+Molting area~
+   This simple room in the dragon quarters leads south to the
+entranceway and east to the grand hallway.  Here, the walls are plain, 
+the young dragons have tracked some sand from the nursery onto the cave 
+floor.  Young dragons molting out of their first skins have used a large 
+rough area on the northern wall as a large scratching post.  Small 
+patches of dragon skin have been left where they were caught by the rock. 
+~
+66 0 4
+D1
+The grand hallway
+~
+~
+0 -1 6779
+D2
+The entranceway
+~
+~
+0 -1 6782
+S
+#6782
+A small space with a large sign~
+   A relatively small cave within the underground network, you find
+your voice echoes eerily off the solid rock walls.  The sound of 
+trickling water comes from through the crack in the south wall, and 
+there is a very large sign here presumably to catch the attention of 
+adventurers entering the caves from that direction.
+~
+66 d 4
+D0
+The passageway continues north.
+~
+~
+0 -1 6781
+D2
+You hear trickling water.
+~
+~
+0 -1 6663
+D3
+The cave gets darker.
+~
+~
+0 -1 6783
+E
+sign~
+In very large, clumsily written letters you read:
+
+                       Dragin Homland and Stomping Ground
+                                Du Not Dysterb!
+~
+S
+#6783
+Small crypt in a large catacomb~
+   A large polished archway leads northwards.  The archway has been
+smoothed, and the walls are filled with paintings of dragons enjoying
+themselves in a hundred different pleasures.  There is some lettering
+over the archway identifying this area, and a small sign at eye level.
+~
+66 c 4
+D0
+The crypt
+~
+~
+0 -1 6784
+D1
+A very small cave
+~
+~
+0 -1 6782
+E
+lettering archway~
+The lettering reads, "Dragon Catacombs"
+~
+E
+sign~
+The sign consists of a huge arrow pointing north and the following
+crude lettering:
+ 
+                              Dragin Treshur
+ 
+~
+S
+#6784
+A dark and lonely place~
+   Tis written that the grave is "a dark and lonely place".  Dragons 
+don't spend much time reading, however.  North of you lies a large 
+memorial to the Great Undead Dragon (GUD), and to the west the 
+brightly-lit Trail of the Undead begins.  This one little room is quiet 
+and dark.  
+~
+66 0 4
+D0
+A GUD memorial~
+~
+0 -1 6785
+D2
+An arched entrance
+~
+~
+0 -1 6783
+D3
+On the trail of the undead
+~
+~
+0 -1 6786
+S
+#6785
+A GUD memorial~
+   This enormous cavern is covered floor to ceiling in bright colors.
+Murals depicting stories from the legendary Great Dragon cover every
+surface.  In the center of the floor there are two huge depressions the
+exact size of the Great Dragon's footprints.  Every so often one of
+this dragon generation will sneak in here to see how he or she is
+measuring up, and wonder what happened to the GUD treasure hoard.
+There is a small sign on one wall.
+~
+66 0 4
+D2
+The catacombs entrance
+~
+~
+0 -1 6784
+E
+sign~
+ 
+                          He was GUD to all us draginz
+~
+S
+#6786
+Southern end of the Trail of the Undead~
+   This area of the great underground caves is colorfully known as the
+Trail of the Undead.  Those dragons who, dying, fail to make the great
+flight wander these halls.  Here they play some of the same games and
+pranks they enjoyed when alive.  The corridor leads north for a ways,
+or you may head east towards the entrance to the Dragon Catacombs.
+~
+66 0 4
+D0
+The Trail of the Undead
+~
+~
+0 -1 6787
+D1
+A dark and lonely waiting place
+~
+~
+0 -1 6784
+S
+#6787
+The Trail of the Undead~
+   The cavern walls are covered with murals depicting great dragons and
+their treasures.  The light flooding the corridor appears to make the
+painted jewels glow.  There is something about this light that makes
+your skin crawl.
+~
+66 0 4
+D0
+The northern end of the corridor
+~
+~
+0 -1 6788
+D2
+A brightly lit corridor of rock~
+~
+0 -1 6786
+S
+#6788
+Northern end of the corridor~
+   The cave walls have been elaborately painted in the jewel tones the
+dragons love - ruby, topaz, sapphire, emerald, amethyst.  Dragons are
+very fond of collecting and hoarding treasures and over a long lifetime
+can build up a huge store of riches.  Nobody is entirely certain what
+happens to the treasure when a dragon dies.  Some say they take it with
+them.
+~
+66 0 4
+D2
+The murals continue
+~
+~
+0 -1 6787
+D3
+The murals continue
+~
+~
+0 -1 6789
+S
+#6789
+An intersection in the dragon catacombs~
+   To the south and west are large crypts lined with shelves.  There is
+a long corridor leading north from here and this room continues east.
+The room is brightly lit, and you begin to FEEL the magic saturating
+the air.
+
+There is a large sign hanging from the ceiling.
+~
+66 0 4
+D0
+A corridor leading north
+~
+~
+0 -1 6792
+D1
+The room continues east
+~
+~
+0 -1 6788
+D2
+A small room in the catacombs
+~
+~
+0 -1 6790
+D3
+A small room in the catacombs
+~
+~
+0 -1 6791
+E
+sign~
+A large arrow points north, and the sign reads:
+
+                           Enormuss Pile of Golld and Jules!
+
+~
+S
+#6790
+A small crypt in the catacombs~
+    This is a very small crypt, lined with shelves.  The shelves are
+lined with jars made from volcanic glass.  The jars are filled with the 
+ashes of those dragons whose remains could be captured before they were 
+blown away by the winds of fate.  Some of the jars have been opened, 
+perhaps by greedy adventurers in search of treasure.
+~
+66 0 4
+D0
+The trail through the catacombs
+~
+~
+0 -1 6789
+S
+#6791
+Yet another small crypt~
+   You are in a small, brightly lit room, again saturated with magic
+light.  The walls are painted with pictures of the great dragon
+treasures amassed by famous dragons of long ago.  There is a small
+trail of ashes from an urn which has spilled.
+~
+66 0 4
+D0
+Another small crypt
+~
+~
+0 -1 6793
+D1
+The corridor through the catacombs
+~
+~
+0 -1 6789
+S
+#6792
+Following the Catacomb Path~
+   The rock of the cavern floor is hard against your feet, but the
+ground is fairly level as you follow the clearly marked path through the
+dragon burial grounds.  The catacombs are fairly thickly populated with
+departed dragons who have yet to learn the meaning of "eternal rest".  
+~
+66 0 4
+D0
+The catacombs continue
+~
+~
+0 -1 6794
+D2
+The catacombs continue
+~
+~
+0 -1 6789
+D3
+A small crypt lies to the west
+~
+~
+0 -1 6793
+S
+#6793
+A large dark vault~
+   Unlike the rest of the catacombs that you have seen so far, this
+vault is painted in dark, gloomy colors, the colors of night and mud and 
+the dark side.  There are vaults in the wall containing glass coffins.
+Some of the coffins contain dragon bodies with large wooden stakes
+protruding from them.  Looking around for some understanding of what
+you see, you spot a small sign.
+~
+66 0 4
+D1
+The catacomb corridor
+~
+~
+0 -1 6792
+D2
+A small crypt
+~
+~
+0 -1 6791
+E
+sign~
+Here lie the bodies of those few dragons who were truly evil.  We have
+skewered them to their coffins in hopes that they will thus not arise
+against us, and we have enclosed them in glass that we may look upon
+them and revile them.  And keep an eye on them just in case.
+~
+S
+#6794
+Serpentine corridor~
+   The catacomb path curves sharply here.  The walls as well as the
+ceiling glow with a creepy magic light.  You wonder at the effect of
+this magic on growing young things.  You may follow the path of
+increasing light to the west or head down the corridor to the south.
+There is a large sign here to help you decide.
+~
+66 0 4
+D2
+A catacomb corridor, ending in a small crypt
+~
+~
+0 -1 6792
+D3
+A brighter glow
+~
+~
+0 -1 6795
+E
+sign~
+There is a large arrow pointing west, and the words:
+ 
+               Hed West to the Lejenderry Dragin Treshur!
+~
+S
+#6795
+More catacombic twists~
+   The catacomb path continues to twist here, curving from north to
+east.  The walls are glowing with a soft topaz light, reminding you of 
+the dragons' love for that gem.  The ceiling is glowing with the 
+dazzling white light of a thousand diamonds.  The glow continues to the 
+north and decreases slightly to the east.
+~
+66 0 4
+D0
+Dazzling
+~
+~
+0 -1 6796
+D1
+A softer glow
+~
+~
+0 -1 6794
+S
+#6796
+Near the source~
+   Walls, ceiling and floor all glow with bright jewel colors.  Could
+the amassed treasure of all the dragons who have passed away be the 
+source of this light and color?  Could you possibly grab some of the 
+fabulous fortune for yourself?  If it is as large as is rumored, they 
+could easily spare you a few small jewels!  
+
+There is another sign here.
+~
+66 0 4
+D1
+A bright glow
+~
+~
+0 -1 6797
+D2
+A softer glow
+~
+~
+0 -1 6795
+E
+sign~
+It points east.
+ 
+                 Fabulus Jules!  Dragin Treshur for them with Kerage!
+
+~
+S
+#6797
+Near the Glowing Light~
+   The light and heat coming from the east is overpowering.  You feel
+drawn there, compelled almost against your will as you have all along
+this long journey through the caves.  You are frightened at the
+outpouring of magic from the room.  It will take enormous resolve to
+turn back the way you came, but that is by far the safer route.  Is
+this next room truly the storehouse of dragon treasure?  or a trap set
+by canny dragons?  There is a large sign here which may offer you some
+advice.
+~
+66 0 4
+D1
+Dragon Crematorium
+~
+~
+0 -1 6798
+D3
+A turn in the catacombs
+~
+~
+0 -1 6796
+E
+sign~
+Like others in the catacombs, this sign features a gigantic arrow (this
+one is glowing and flashing and pointing east) and some writing:
+ 
+                         Huge Heap uv Dragin Treshur!
+ 
+~
+S 
+#6798
+The Great Dragon Crematorium~
+   You have stepped into the crematorium and been burned to ashes.
+What did you expect to happen in a crematorium?
+~
+66 bcu 4
+D3
+~
+~
+0 -1 6797
+S
+#6799
+The cave tunnel~
+   An endless tunnel drops rapidly down into the cool stone walls of an
+underground cave.  Although most cave passages are formed by the
+actions of water over millenia, this particular passageway appears to
+have been formed by a blasting heat.  You try to remember what little
+you once knew about volcanoes.
+~
+66 c 4
+D4
+Fresh air
+~
+~
+0 -1 6760
+D5
+The perils of a network of underground caves.
+~
+~
+0 -1 6762
+S
+#99999
+$~

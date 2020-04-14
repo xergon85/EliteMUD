@@ -1,0 +1,1058 @@
+#24000
+demon lord~
+The demon Lord~
+The demon Lord stands here, looking for fresh souls to enslave.
+~
+The demon before you, used to be one of the empires greatest gatherer 
+of souls and is therefore now a Lord. He is now a commander of the 
+soulhunters. He looks almost like a human, but with slightly abnormal 
+features.
+~
+12 4 bfgjkl dk -400 S
+100 -35 -45 1d1+4000
+403 500 75 4d30+10
+408 500 10 10d10+100
+322 0 5 0d0+0
+56 0 10 1d0+95 -1
+-1
+-1
+10504 1000000 8 8 1
+A
+%%10 emote looks at you with the eyes of burning hatred.;
+%10 growl~
+#24001
+demon spawn~
+The demon spawn~
+The spawn of a demon is here, developing into horror.
+~
+Something...stands before you. Something, that doesn't seem to be a 
+fully developed demon. You can actually see how it grows and shapes 
+itself into something evil.
+~
+12 3 bm r -350 S
+90 -35 -25 1d1+3250
+400 500 20 4d10+15
+405 500 20 3d10+10
+407 500 20 4d10+15
+408 500 20 2d10+50
+409 500 20 2d10+20 -1
+-1
+7 100 38 100 40 100 103 50 -1
+2823 330000 8 8 0
+A
+%%5 emote gets a new tentacle.;
+%5 emote opens a fifth eye.;
+%5 emote develops an extra head.~
+#24002
+demon lord~
+The Lord of the dead~
+The bony Lord of the dead, is looking out for the living.
+~
+The Lord of the dead is the demon in charge of the other side. He 
+is the one, who summons the unholy and forces it into the bodies of
+the dead. He is a really thin and pale character. No doubt, he still 
+holds powerful magic.
+~
+12 1 bm dkr -400 S
+105 -35 -55 1d1+2750
+400 500 35 10d10+30
+407 500 10 10d15+30
+76 0 10 1d0+90
+100 0 30 1d0+90
+106 0 15 1d0+90 -1
+-1
+4 95 7 100 38 100 40 100 103 75 -1
+9986 1600000 8 8 1
+A
+%%10 emote orders a pile of bones to rise.;
+%10 emote picks up a femur and begins to chew on it.~
+#24003
+demon mistress~
+The Mistress of the dead~
+A thin lady-like demon is here, commanding the dead.
+~
+The mistress of the dead is the real ruler among the dead. She's the 
+one with the real power over death and life. She's very thin, but you 
+can see strong and wiry muscles moving beneath her skin. Oh, she's 
+almost naked.
+~
+12 1 bm bdhk -600 S
+105 -35 -60 1d1+2750
+407 500 50 20d6+10
+322 0 5 0d0+0
+4 0 20 1d0+95
+100 0 15 1d0+75
+107 0 10 1d0+75 -1
+-1
+4 95 7 100 38 100 40 100 103 75 -1
+21034 1750000 8 8 2
+A
+%%10 emote orders a pile of bones to rest in piece.;
+%5 snarl zombie;
+%5 growl zombie~
+#24004
+shadow demon death~
+The shadow demon~
+Shadowy death haunts the darkness.
+~
+Death darker than night is the best, and maybe only way to describe 
+this demonic being. It is a master assassin among demons, and not many 
+are strong enough to stand up to this expert murderer.
+~
+12 3 fjkl bdkrsB -450 S
+105 -30 -40 1d1+3500
+402 500 75 3d40+10
+322 0 10 0d0+0
+372 0 10 0d0+0
+408 500 5 3d90+20 -1
+315 100 -1
+-1
+5230 1100000 8 8 0
+A
+%%50 emote fades into the dark.~
+#24005
+demon daemonette~
+The daemonette~
+Viciously the daemonette stalks towards you.
+~
+These...beasts, are extremely fierce and dangerous. They attack all 
+living, and not even their own kind are quite safe. They seem to be...
+female demons, but you can't be sure. Even the Dethguards avoid the 
+daemonettes. Their bloodlust is total.
+~
+12 4 cfl kBD -800 S
+95 -35 -35 1d1+3000
+407 500 75 6d10+30
+408 500 10 30d5+10
+409 500 10 5d20+20
+322 0 5 0d0+0 -1
+-1
+4 75 7 100 38 100 40 100 103 50 -1
+3592 800000 8 8 2
+A
+%%1 kill daemonette;
+%15 emote sniffs at the air.~
+#24006
+demon soulhunter figure~
+The soulhunter~
+A quick figure sneaks around in the shadows.
+~
+This, quite small demon, is one of the soulhunters. The soulhunters 
+gather souls on their raids among the living. Usually they are all 
+dressed in black, and carry black bags. They occasionally sniff at the 
+air, trying to find a trail to a fresh soul.
+~
+12 3 fl dkrsB -500 S
+100 -35 -40 1d1+3000
+372 0 20 0d0+0
+408 500 10 6d20+30
+409 500 70 5d20+10 -1
+321 100 317 90 -1
+4 50 7 100 38 100 40 100 103 25 -1
+2511 700000 8 8 0
+A
+%%10 emote sniffs at the air.;
+%1 yell Isss that a fresssh sssoul I sssmell!?~
+#24007
+demon lord crimson red man~
+The crimson Lord~
+A red magnificent looking beast of a man.
+~
+The crimson Lord is a brutal character. He, or whatever it is, is 
+all red...bloody red! This is the one that leads the demon armies into 
+battle, to command and to conquer...or die trying. Failure doesn't 
+exist other than in the minds of the weak.
+~
+12 4 bflm dhkrB -750 S
+105 -50 -60 1d1+6500
+410 500 83 5d30+50
+322 0 7 0d0+0
+26 0 10 1d0+85 -1
+-1
+4 100 7 100 38 100 40 100 104 50 105 50 106 50 107 50 372 50 -1
+35201 2000000 8 8 0
+A
+%%90 close gate;
+%90 close throne~
+#24008
+demon warrior guardian~
+The chaos Guardian~
+A chaotic warrior is on guard here.
+~
+This powerful being in front of you, used to be one of the Dethguards. 
+It was elevated to the rank of chaos guardian because of long and evil 
+service, dedicated to the emperor.
+~
+12 4 bf dkz -400 S
+100 -35 -40 1d1+4250
+400 500 80 3d40+30
+408 500 10 6d30+30 
+322 0 10 0d0+0 -1
+317 90 -1
+-1
+7125 1200000 8 8 0
+A
+%%10 emote moves to stand in your way.;
+%10 emote assumes the fighting stance of true chaos.~
+#24009
+demon lord blob~
+The Lord of disgust~
+A large and extremely repulsive blob.
+~
+The Lord of disgust is a truly repulsive being. He is covered with 
+dirt, trash and green slime. He drools all the time, and he stinks 
+like...no, it is even worse!
+~
+12 1 bc dhkD -600 S
+105 -30 -45 1d1+2500
+400 500 15 20d3+30
+26 0 5 1d0+40
+30 0 15 1d0+75
+32 0 15 1d0+80
+63 0 15 1d0+50
+88 0 15 1d0+75
+100 0 20 1d0+40 -1
+-1
+-1
+10908 1500000 8 8 1
+A
+%%10 fart;
+%10 puke;
+%10 drool~
+#24010
+mistress demon blob~
+The Mistress of disgust~
+A filthy small vibrating blob slithers across the floor.
+~
+She's really disgusting, at least you think it is a female. Dirty and 
+disgusting, quite repulsive. Smells like a week old corpse. She's 
+propably rotting as well...and enjoying it!
+~
+12 1 bc dhkD -600 S
+105 -30 -45 1d1+2500
+400 500 20 4d20+20
+4 0 20 1d0+90
+23 0 10 1d0+75
+30 0 20 1d0+75
+37 0 15 1d0+75
+52 0 15 1d0+75 -1
+-1
+-1
+9634 1500000 9 9 2
+A
+%%10 emote rolls out a huge tongue and catches hundreds of flies.;
+%10 burp~
+#24011
+demon bloodthirster~
+The Bloodthirster~
+A truly magnificent character, covered by a huge red cloak.
+~
+The being in front of you, is one of the most wicked ones in the demon 
+Empire. This is the absolute master of utter terror. Stories tell of 
+it draining its victims of all blood as well as sanity.
+~
+12 1 bf dhkB -800 S
+105 -45 -50 1d1+9000
+402 500 73 12d12+30
+408 500 5 10d20+20
+322 0 7 0d0+0
+100 0 10 1d0+90
+104 0 5 1d0+75 -1
+-1
+4 100 7 100 38 100 40 100 100 100 104 75 105 75 106 75 107 75 -1
+25349 2000000 8 8 0
+A
+%%10 emote smiles at you, revealing #Rbloodred#N fangs.;
+%10 emote enjoys a drink of blood.~
+#24012
+guardian demon tormentor~
+The guardian of pain~
+A tall, leatherclad daemonette.
+~
+The guardian of pain is tall and skinny. She's all dressed in 
+tightfitting leather. She would be quite beautiful, if it hadn't been 
+for the deep scars in her face. She used to be one of the daemonettes, 
+but she was considered to dangerous to her own ranks and was placed 
+here as the head tormentor.
+~
+12 4 bf dkr -800 S
+100 -40 -40 1d1+4000
+403 500 68 4d25+25
+410 500 15 5d20+50
+322 0 7 0d0+0
+27 0 10 1d0+95 -1
+-1
+-1
+7840 1000000 8 8 2
+A
+%%10 emote sniffs at the air and turns slowly towards you.;
+%10 bash~
+#24013
+demon reaper murderer~
+Dark reaper~
+A murderer, dressed to spread death and sorrow.
+~
+The demonic dark reaper is one bizarre character. All dressed up in 
+dark flowing robes, it performs the ancient and most evil of rites, to 
+please the Emperor - Living sacrifice!
+~
+12 3 bfjk dkrD -800 S
+105 -45 -50 1d1+5000
+402 500 75 4d24+60
+322 0 10 0d0+0
+372 0 15 0d0+0 -1
+315 100 -1
+-1
+10099 1500000 8 8 0
+A
+%%10 emote performs a sacrifice to the honor of the Emperor.;
+%10 emote throws a body into the pit.~
+#24014
+figure plaguebearer demon~
+The plaguebearer~
+A almost tiny spideresque figure, scurries around on the floor.
+~
+This, quite small character, is almost completely black except for 
+some white lines in its face. As it begins to move, you notice how it 
+becomes more and more white, just to become black again. Then you 
+understand...it is covered with flies, thousands of black flies.
+~
+12 1 l krB -500 S
+100 -35 -35 1d1+2250
+409 500 80 3d40+50
+32 0 15 1d0+90
+106 0 5 1d0+75 -1
+-1
+-1
+3021 600000 8 8 0
+A
+%%10 emote chokes on a fly.;
+%10 emote orders the flies to bug someone else.~
+#24015
+Dethguard champion demon guard~
+The Dethguard champion~
+A large guard with huge muscles is on duty here.
+~
+This is the champion of the Dethguards. The winner of their contests, 
+of who is to become the Emperor's champion - Their leader!
+It has extremely large muscles, and is dressed in what seems to be a 
+complete suit of chainmail.
+~
+12 4 bm dk -600 S
+105 -35 -20 1d1+8000
+410 500 90 30d4+0
+322 0 10 0d0+0 -1
+-1
+-1
+7510 1350000 8 8 0
+A
+%%10 flex~
+#24016
+Dethguard demon guard~
+The Dethguard~
+A heavily built guard is on duty here.
+~
+One of the fierce and feared Dethguards. These are the Emperor's guard 
+of honor. It's quite difficult to imagine a demon with honor. The 
+Dethguards are dressed in a complete suit of chainmail which gives 
+them at least some protection.
+~
+12 4 bm k -500 S
+100 -30 -15 1d1+3000
+410 500 97 25d4+0
+322 0 3 0d0+0 -1
+325 100 -1
+-1
+2210 750000 8 8 0
+A
+%%5 rescue dethguard;
+%10 emote grunts loudly.;
+%10 snort~
+#24017
+demon knight~
+The demon knight~
+A brightly shining demon is here, leaning on a huge warhammer.
+~
+A very big and brightly shining demon. It seems to have quite an armor,
+but then you notice that it is naked. It has so bright skin, it looks 
+like it is wearing heavy silvery armor.
+~
+12 4 fjkl dkBD -750 S
+105 -40 -50 1d1+3000
+401 500 55 2d60+40
+410 500 20 4d50+10
+322 0 5 0d0+0
+27 0 15 1d0+95
+96 0 5 1d0+50 -1
+-1
+-1
+15327 1400000 8 8 0
+A
+%%10 emote lifts up the warhammer, and begins to walk towards you.;
+%20 say Puny mortals...~
+#24018
+warrior avenger~
+The avenger~
+A radiant warrior is here looking for his family.
+~
+This warrior, is absolutely drenching you with goodness. You feel his 
+power and sadeness. His family was captured by the soulhunters, and 
+put through an eternity of pain. He went on a lone crusade against the 
+demons, trying to find his family. He is still searching and will do 
+so until he finds them...or dies.
+~
+1 2 fil dhkB 800 S
+105 -42 -42 1d1+6000
+403 500 75 45d3+10
+4 0 10 1d0+100
+28 0 15 2d0+100 -1
+-1
+7 100 38 100 40 100 104 90 105 90 106 90 107 90 -1
+35030 2250000 8 8 1
+A
+%%20 say Begone, You foul demons!;
+%10 emote looks at you and frowns.;
+%20 say You seen Mchoro Mhaeren!?~
+#24019
+emperor demon~
+The Emperor~
+The Emperor is here, relaxing in his personal chamber.
+~
+The Emperor, the ruler of almost all demons. It's only the Empress 
+and her vicious daemonettes who don't do as he orders. He is quite big,
+and large red wings can be seen on his back. As he grins, you see sharp
+fangs glimmering in the light.
+~
+12 4 bfjk dhkzBD -800 S
+109 -70 -70 1d1+10000
+407 500 65 8d33+60
+408 500 10 8d60+0
+322 0 5 0d0+0
+4 0 15 1d0+95
+103 0 5 1d0+90 -1
+-1
+4 100 7 100 38 100 40 100 104 50 105 50 106 50 107 50 372 50 -1
+50098 3000000 8 8 1
+A
+%%20 grin;
+%20 say Prepare to die, mortal...;
+%10 emote spreads his huge red wings.~
+#24020
+demon empress~
+The Empress~
+The Empress is here performing evil rites.
+~
+The Empress is a very tall and skinny female demon. She used to be 
+one of the daemonettes, but was considered to powerful to remain a 
+simple daemonette. Power, is all that counts here. She's dressed in 
+dark red robes, with magic symbols painted all over it...and herself.
+~
+12 1 bfjk bdhkrzD -800 S
+109 -55 -80 1d1+9000
+407 500 60 2d80+100
+4 0 10 1d0+90
+88 0 10 1d0+90
+107 0 20 1d0+75 -1
+-1
+4 100 7 100 38 100 40 100 104 75 105 75 106 75 107 75 -1
+40240 2850000 8 8 2
+A
+%%10 emote begins chanting some strange and guttural words.;
+%10 emote speaks a single word and the pentagram begins to glow.;
+%10 emote summons magic to her aid.~
+#24021
+wind~
+The wind of lost souls~
+A strong howling wind haunts these halls.
+~
+A wind full of sheer terror. You can't see anything, but you feel a 
+very strong presence. You hear terrible cries from all around you, but 
+you see nothing...Nothing!
+~
+17 1 f bdkrsB -600 S
+105 -34 -25 1d1+15000
+404 500 97 6d30+30
+107 0 3 1d0+90 -1
+-1
+-1
+0 2300000 8 8 0
+#24022
+wind~
+The wind of eternal damnation~
+A strong howling wind haunts these halls.
+~
+A wind full of sheer terror. You can't see anything, but you feel a 
+very strong presence. You hear terrible cries from all around you, but 
+you see nothing...Nothing!
+~
+17 1 f bdkrsB -600 S
+105 -34 -25 1d1+15000
+404 500 97 6d30+30
+106 0 3 1d0+90 -1
+-1
+-1
+0 2300000 8 8 0
+#24023
+demon death darkness~
+Cloaked death~
+Pitch black darkness surrounds you.
+~
+Pitch black darkness, that's all there is. Occasionally, you think you 
+see a face in all that black. A grim looking face, swirling around in 
+that darkness. This is as evil as it possibly can get.
+~
+12 3 fjkl dkB -1000 S
+105 -35 -5 1d1+15000
+372 0 15 0d0+0
+402 500 70 5d10+30
+101 0 15 1d0+75 -1
+-1
+7 100 38 100 40 100 300 90 301 90 302 90 303 90 375 90 -1
+0 2100000 8 8 0
+#24024
+morph demon~
+The morph demon~
+A small demon is here, transforming into something else.
+~
+This is a morph demon. They are experts when it comes to disguise 
+yourself. Propably because they can change color and shape as they 
+want. They are pretty small when they look as they are supposed to.
+~
+12 3 l krs -400 S
+90 -40 -20 1d1+2250
+408 500 80 3d50+10
+407 500 10 50d3+0
+322 0 10 0d0+0 -1
+-1
+-1
+5021 600000 8 8 0
+A
+%%5 emote changes into King Welmar.;
+%5 emote transforms into the Holy Avatar;
+%5 emote morphs into a beastly fido.~
+#24025
+zombie~
+The zombie~
+The living dead shambles towards you.
+~
+The living dead...zombies...Well, they don't seem to be quite dead 
+just yet. Rotting and decaying bodies that live, eh? These are the 
+pets of the mistress of the dead.
+~
+2 4 bfjkm 0 0 S
+80 -28 -5 1d1+1500
+400 500 85 1d80+10
+324 0 15 0d0+0 -1
+-1
+4 100 7 100 38 100 40 100 103 95 -1
+347 500000 8 8 0
+A
+%%2 bash~
+#24026
+Cremator demon~
+The cremator~
+A really fat demon is here, glowing with heat.
+~
+No one really know what the cremator is for. The only known fact, is 
+that it really loves fire and heat. The cremator is quite fat, and it 
+seems to be naked except for a scorched leather apron.
+~
+12 1 b dhk -600 S
+100 -45 -40 1d1+3500
+410 500 50 2d40+20
+56 0 15 1d0+90
+98 0 20 1d0+90
+103 0 15 1d0+90 -1
+-1
+-1
+26000 1250000 8 8 0
+A
+%%20 emote sinks a screaming gnome into the lava.~
+#24027
+demon soulhunter~
+The soulhunter~
+A quick figure sneaks around in the shadows.
+~
+This, quite small demon, is one of the soulhunters. The soulhunters 
+gather souls on their raids among the living. Usually they are all 
+dressed in black, and carry black bags. They occasionally sniff at the 
+air, trying to find a trail to a fresh soul.
+~
+12 3 bfl dkr -500 S
+100 -14 -5 1d1+2000
+408 500 10 4d20+30
+409 500 90 3d20+10 -1
+-1
+-1
+100000 750000 8 8 0
+A
+%%10 yell Isss that a fresssh sssoul I sssmell!?;
+%10 drop 10000 gold
+%5 get all.gold~
+#24028
+human mchoro mhaeren~
+Mchoro Mhaeren~
+A grim looking human stands here surrounded by an aura of evil.
+~
+The human man before you, might be the only non-demonic being that the
+demons respect and maybe even follow. Mchoro Mhaeren made killing and
+torture a sport. A hobby to keep him warm in the cold winternights.
+He is quite tall and very thin, but you are fairly sure he is as fast
+and as deadly as a viper.
+~
+1 4 flm drs -800 S
+109 -32 -70 1d1+7000
+400 500 80 5d30+50
+409 500 10 3d100+30
+322 0 10 0d0+0
+30 0 10 1d0+95 -1
+321 100 -1
+4 90 7 100 38 100 40 100 104 50 105 50 106 50 107 50 372 90 -1
+1524 1250000 8 8 1
+A
+%%10 emote grins and says 'Death...is here...';
+%10 emote whispers quietly '...destruction from within...'~
+#24029
+human prisoner~
+the human prisoner~
+A crazy looking human stands here dressed in torn rags.
+~
+The prisoner has gone through quite a lot of beating. His clothes are
+torn to shreds, hardly covering him at all. Not that he seems to mind.
+Fear and pain has driven him over the cliff of sanity. Now he just
+walks around, muttering and whispering words.
+~
+1 4 h lD 500 S
+100 -30 -10 1d1+2000
+400 500 100 5d20+30 -1
+-1
+-1
+43 450000 8 8 1
+A
+%%5 say God! Why...why..?;
+%5 emote whispers softly to himself.;
+%5 say You...You seen her!?;
+%3 yell No...NO!!! Please don't hurt me again...AAAAARGHH!~
+#24030
+dying fairy~
+the dying fairy~
+A tiny fairy lies here, barely breathing.
+~
+A tiny fairy in extremely bad shape. You feel wrath boiling up within
+you as you see that her wings have been...plucked. She's bleeding a lot
+and you don't think any healing could help, it has gone to far.
+She looks at you with pleading eyes..'Please put me out of this misery'
+~
+1 2 b hB 700 S
+100 -30 -10 1d1+2000
+400 500 100 5d20+20 -1
+-1
+-1
+144 450000 8 8 2
+A
+%%10 emote looks at you with tearful eyes.;
+%20 sob~
+#24031
+beaten dwarf~
+a badly beaten dwarf~
+A short and very badly beaten dwarf wanders around here.
+~
+The dwarf in front of you is very short, even for a dwarf. He is in a
+very bad shape, since the demons seem to have been beating him a lot.
+His left eye is badly burnt, showing only a black charred hole.
+His beard has been burnt as well...actually, it seems like they've 
+been roasting him.
+~
+9 4 b 0 500 S
+100 -30 -10 1d1+2000
+400 500 100 5d40+30 -1
+-1
+-1
+764 450000 8 8 1
+A
+%%10 emote grunts weakly.;
+%10 emote stumbles on a rock and falls down to his knees.~
+#24032
+impaled gnome~
+the impaled gnome~
+A small impaled gnome has been left to die here.
+~
+The gnome in front of you, is wearing a expression telling of extreme
+pain and fear. A large stake has been driven through him. It's a
+miracle that he still is alive, but it's not a act of goodness to let
+him live like this. You wonder if magic is all that is keeping him up?
+All just to keep him hurting.
+~
+9 4 b 0 600 S
+100 -30 -10 1d1+2000
+400 500 100 5d30+30 -1
+-1 
+-1
+42 450000 8 8 1
+A
+%%20 emote groans loudly as the stake moves.;
+%10 emote weeps softly. Tears flow down his cheeks, marring his soul.~
+#24033
+mutilated elf woman~
+a mutilated elven woman~
+A tall fair skinned woman sits here, trying to regain her strength.
+~
+The elven woman seems to be very young. She is bleeding a lot from 
+hundreds of scratches, and bruises marks her suffering. She is dying,
+but propably welcomes death with open arms. Death is freedom here,
+while life, is death!
+~
+1 4 b y 600 S
+100 -30 -10 1d1+2000
+400 500 100 5d40+30 -1
+-1
+-1
+4 450000 8 8 2
+A
+%%10 emote whispers to herself.~
+#24034
+demon lord~
+The demon Lord~
+The demon Lord stands here, looking for fresh souls to enslave.
+~
+The demon before you, used to be one of the empires greatest gatherer 
+of souls and is therefore now a Lord. He is now a commander of the 
+soulhunters. He looks almost like a human, but with slightly abnormal 
+features.
+~
+12 4 bfgjkl dk -400 S
+100 -30 -45 1d1+4000
+403 500 75 4d30+10
+408 500 10 10d10+100
+322 500 5 0d0+0
+57 0 10 1d0+95 -1
+-1
+-1
+10504 1100000 8 8 1
+A
+%%10 emote inhales deeply, just to blow foul smelling gas at you.;
+%10 growl~
+#24035
+demon lord~
+The demon Lord~
+The demon Lord stands here, looking for fresh souls to enslave.
+~
+The demon before you, used to be one of the empires greatest gatherer 
+of souls and is therefore now a Lord. He is now a commander of the 
+soulhunters. He looks almost like a human, but with slightly abnormal 
+features.
+~
+12 4 bfgjkl dk -400 S
+100 -30 -45 1d1+4000
+403 500 75 4d30+10
+408 500 10 10d10+100
+322 500 5 0d0+0
+59 0 10 1d0+95 -1
+-1
+-1
+10504 1100000 8 8 1
+A
+%%10 emote grins viciously, saliva dropping on the ground, sizzling..;
+%10 growl~
+#24036
+demon lord~
+The demon Lord~
+The demon Lord stands here, looking for fresh souls to enslave.
+~
+The demon before you, used to be one of the empires greatest gatherer 
+of souls and is therefore now a Lord. He is now a commander of the 
+soulhunters. He looks almost like a human, but with slightly abnormal 
+features.
+~
+12 4 bfgjkl dk -400 S
+100 -30 -45 1d1+4000
+403 500 75 4d30+10
+408 500 10 10d10+100
+322 500 5 0d0+0
+60 0 10 1d0+95 -1
+-1
+-1
+10504 1100000 8 8 1
+A
+%%10 emote beckons you to come closer, as bolts arc from eye to eye..;
+%10 growl~
+#24037
+demon spawn~
+The demon spawn~
+The spawn of a demon is here, developing into horror.
+~
+Something...stands before you. Something, that doesn't seem to be a 
+fully developed demon. You can actually see how it grows and shapes 
+itself into something evil.
+~
+12 3 bm r -350 S
+90 -35 -25 1d1+3250
+400 500 20 4d10+15
+405 500 20 3d10+10
+407 500 20 4d10+15
+408 500 20 2d10+50
+409 500 20 2d10+20 -1
+-1
+-1
+2823 330000 8 8 0
+A
+%%5 emote gets a new tentacle.;
+%5 emote opens a fifth eye.;
+%5 emote develops an extra head.~
+#24038
+demon spawn~
+The demon spawn~
+The spawn of a demon is here, developing into horror.
+~
+Something...stands before you. Something, that doesn't seem to be a 
+fully developed demon. You can actually see how it grows and shapes 
+itself into something evil.
+~
+12 3 bm r -350 S
+90 -35 -25 1d1+3250
+400 500 20 4d10+15
+405 500 20 3d10+10
+407 500 20 4d10+15
+408 500 20 2d10+50
+409 500 20 2d10+20 -1
+-1
+-1
+2823 330000 8 8 0
+A
+%%5 emote gets a new tentacle.;
+%5 emote opens a fifth eye.;
+%5 emote develops an extra head.~
+#24039
+Dethguard demon guard~
+The Dethguard~
+A heavily built guard is on duty here.
+~
+One of the fierce and feared Dethguards. These are the Emperor's guard 
+of honor. It's quite difficult to imagine a demon with honor. The 
+Dethguards are dressed in a complete suit of chainmail which gives 
+them at least some protection.
+~
+12 4 bm k -500 S
+100 -30 -15 1d1+3000
+410 500 97 25d4+0
+322 0 3 0d0+0 -1
+325 100 -1
+-1
+2210 750000 8 8 0
+A
+%%5 rescue dethguard;
+%10 emote grunts loudly.;
+%10 snort~
+#24040
+Dethguard demon guard~
+The Dethguard~
+A heavily built guard is on duty here.
+~
+One of the fierce and feared Dethguards. These are the Emperor's guard 
+of honor. It's quite difficult to imagine a demon with honor. The 
+Dethguards are dressed in a complete suit of chainmail which gives 
+them at least some protection.
+~
+12 4 bm k -500 S
+100 -30 -15 1d1+3000
+410 500 97 25d4+0
+322 0 3 0d0+0 -1
+325 100 -1
+-1
+2210 750000 8 8 0
+A
+%%5 rescue dethguard;
+%10 emote grunts loudly.;
+%10 snort~
+#24041
+Dethguard demon guard~
+The Dethguard~
+A heavily built guard is on duty here.
+~
+One of the fierce and feared Dethguards. These are the Emperor's guard 
+of honor. It's quite difficult to imagine a demon with honor. The 
+Dethguards are dressed in a complete suit of chainmail which gives 
+them at least some protection.
+~
+12 4 bm k -500 S
+100 -30 -15 1d1+3000
+410 500 97 25d4+0
+322 0 3 0d0+0 -1
+325 100 -1
+-1
+2210 750000 8 8 0
+A
+%%5 rescue dethguard;
+%10 emote grunts loudly.;
+%10 snort~
+#24042
+Dethguard demon guard~
+The Dethguard~
+A heavily built guard is on duty here.
+~
+One of the fierce and feared Dethguards. These are the Emperor's guard 
+of honor. It's quite difficult to imagine a demon with honor. The 
+Dethguards are dressed in a complete suit of chainmail which gives 
+them at least some protection.
+~
+12 4 bm k -500 S
+100 -30 -15 1d1+3000
+410 500 97 25d4+0
+322 0 3 0d0+0 -1
+325 100 -1
+-1
+2210 750000 8 8 0
+A
+%%5 rescue dethguard;
+%10 emote grunts loudly.;
+%10 snort~
+#24043
+Dethguard demon guard~
+The Dethguard~
+A heavily built guard is on duty here.
+~
+One of the fierce and feared Dethguards. These are the Emperor's guard 
+of honor. It's quite difficult to imagine a demon with honor. The 
+Dethguards are dressed in a complete suit of chainmail which gives 
+them at least some protection.
+~
+12 4 bm k -500 S
+100 -30 -15 1d1+3000
+410 500 97 25d4+0
+322 0 3 0d0+0 -1
+325 100 -1
+-1
+2210 750000 8 8 0
+A
+%%5 rescue dethguard;
+%10 emote grunts loudly.;
+%10 snort~
+#24044
+Dethguard demon guard~
+The Dethguard~
+A heavily built guard is on duty here.
+~
+One of the fierce and feared Dethguards. These are the Emperor's guard 
+of honor. It's quite difficult to imagine a demon with honor. The 
+Dethguards are dressed in a complete suit of chainmail which gives 
+them at least some protection.
+~
+12 4 bm k -500 S
+100 -30 -15 1d1+3000
+410 500 97 25d4+0
+322 0 3 0d0+0 -1
+325 100 -1
+-1
+2210 750000 8 8 0
+A
+%%5 rescue dethguard;
+%10 emote grunts loudly.;
+%10 snort~
+#24045
+Dethguard demon guard~
+The Dethguard~
+A heavily built guard is on duty here.
+~
+One of the fierce and feared Dethguards. These are the Emperor's guard 
+of honor. It's quite difficult to imagine a demon with honor. The 
+Dethguards are dressed in a complete suit of chainmail which gives 
+them at least some protection.
+~
+12 4 bm k -500 S
+100 -30 -15 1d1+3000
+410 500 97 25d4+0
+322 0 3 0d0+0 -1
+325 100 -1
+-1
+2210 750000 8 8 0
+A
+%%5 rescue dethguard;
+%10 emote grunts loudly.;
+%10 snort~
+#24046
+Dethguard demon guard~
+The Dethguard~
+A heavily built guard is on duty here.
+~
+One of the fierce and feared Dethguards. These are the Emperor's guard 
+of honor. It's quite difficult to imagine a demon with honor. The 
+Dethguards are dressed in a complete suit of chainmail which gives 
+them at least some protection.
+~
+12 4 bm k -500 S
+100 -30 -15 1d1+3000
+410 500 97 25d4+0
+322 0 3 0d0+0 -1
+325 100 -1
+-1
+2210 750000 8 8 0
+A
+%%5 rescue dethguard;
+%10 emote grunts loudly.;
+%10 snort~
+#24047
+Dethguard demon guard~
+The Dethguard~
+A heavily built guard is on duty here.
+~
+One of the fierce and feared Dethguards. These are the Emperor's guard 
+of honor. It's quite difficult to imagine a demon with honor. The 
+Dethguards are dressed in a complete suit of chainmail which gives 
+them at least some protection.
+~
+12 4 bm k -500 S
+100 -30 -15 1d1+3000
+410 500 97 25d4+0
+322 0 3 0d0+0 -1
+325 100 -1
+-1
+2210 750000 8 8 0
+A
+%%5 rescue dethguard;
+%10 emote grunts loudly.;
+%10 snort~
+#24048
+Dethguard demon guard~
+The Dethguard~
+A heavily built guard is on duty here.
+~
+One of the fierce and feared Dethguards. These are the Emperor's guard 
+of honor. It's quite difficult to imagine a demon with honor. The 
+Dethguards are dressed in a complete suit of chainmail which gives 
+them at least some protection.
+~
+12 4 bm k -500 S
+100 -30 -15 1d1+3000
+410 500 97 25d4+0
+322 0 3 0d0+0 -1
+325 100 -1
+-1
+2210 750000 8 8 0
+A
+%%5 rescue dethguard;
+%10 emote grunts loudly.;
+%10 snort~
+#24049
+Dethguard demon guard~
+The Dethguard~
+A heavily built guard is on duty here.
+~
+One of the fierce and feared Dethguards. These are the Emperor's guard 
+of honor. It's quite difficult to imagine a demon with honor. The 
+Dethguards are dressed in a complete suit of chainmail which gives 
+them at least some protection.
+~
+12 4 bm k -500 S
+100 -30 -15 1d1+3000
+410 500 97 25d4+0
+322 0 3 0d0+0 -1
+325 100 -1
+-1
+2210 750000 8 8 0
+A
+%%5 rescue dethguard;
+%10 emote grunts loudly.;
+%10 snort~
+#99999
+$~
+

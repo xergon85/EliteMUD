@@ -1,0 +1,177 @@
+#170
+Elemental Canyon~
+17099 100 2
+M 0 17001 2 17001     mountain climber
+G 1 17031 50              anti-cyclops elixir
+M 0 17001 3 17002     mountain climber
+G 1 17032 50              pink elixir
+M 0 17001 4 17003     mountain climber
+G 1 17033 500             yellow elixir
+M 0 17038 1 17003     elixir vendor
+G 1 17031 50              anti-cyclops elixir
+G 1 17032 50              pink elixir
+G 1 17033 500             yellow elixir
+G 1 17034 500             brown elixir
+G 1 17035 50              red elixir
+M 0 17002 5 17004     cyclops
+E 1 17013 5 10            platinum armbands
+E 1 17014 5 7             platinum legbands
+M 0 17004 3 17009     elemental guardian
+E 1 17011 5 3             elemental amulet
+M 0 17004 2 17009     elemental guardian
+E 1 17012 5 14            elemental bracelet
+M 0 17008 1 17027     earth ruler
+E 1 17001 5 1             earth ring
+E 1 17002 5 5             stoney hide
+M 0 17009 1 17045     fire ruler
+E 1 17003 5 16            fiery dagger
+E 1 17004 5 3             flame red cape
+M 0 17041 1 17060     air ruler
+E 1 17005 5 8             wind boots
+E 1 17006 5 6             hurricane helmet
+M 0 17011 1 17052     lightning ruler
+E 1 17007 5 16            lightning sword
+E 1 17008 5 11            electric shield
+M 0 17012 1 17036     water ruler
+E 1 17009 5 13            icy girth
+E 1 17010 5 12            waterfall cloak
+M 0 17003 2 17008     tiny elemental
+M 0 17003 3 17010     tiny elemental
+M 0 17003 4 17017     tiny elemental
+M 0 17003 5 17019     tiny elemental
+M 0 17003 6 17015     tiny elemental
+M 0 17003 7 17018     tiny elemental
+M 0 17005 2 17018     small elemental
+M 0 17005 3 17007     small elemental
+M 0 17005 4 17009     small elemental
+M 0 17005 5 17022     small elemental
+M 0 17005 6 17034     small elemental
+M 0 17005 7 17050     small elemental
+E 1 17024 5 17            water jug
+M 0 17006 2 17012     medium elemental
+M 0 17006 3 17025     medium elemental
+E 1 17021 5 17            loadstone
+M 0 17006 4 17046     medium elemental
+M 0 17006 5 17054     medium elemental
+M 0 17007 2 17009     large elemental
+M 0 17007 3 17018     large elemental
+E 1 17020 5 16            stone club
+M 0 17007 4 17042     large elemental
+M 0 17007 5 17060     large elemental
+M 0 17026 1 17038     blue flame
+E 1 17026 5 16            flame lance
+E 1 17015 5 17            fire wand
+M 0 17027 1 17038     magneto
+E 1 17030 5 16            shock whip
+E 1 17019 5 17            lightning wand
+M 0 17028 1 17042     ice bandit
+E 1 17027 5 16            icicle dagger
+E 1 17016 5 17            ice wand
+M 0 17029 1 17042     rock monster
+G 1 17023 9               energy scroll
+E 1 17028 5 16            avalanche
+M 0 17030 1 17042     hurricane
+E 1 17018 6 17            air wand
+G 1 17025 2               magic dust
+M 0 17031 3 17011     elemental magician
+E 1 17015 5 17            fire wand
+M 0 17031 4 17016     elemental magician
+E 1 17015 6 17            fire wand
+M 0 17032 3 17008     rainbow cult
+E 1 17020 5 16            stone club
+M 0 17032 4 17009     rainbow cult
+E 1 17029 5 16            morning star
+M 0 17033 3 17053     illusionist
+E 1 17016 5 17            ice wand
+M 0 17033 4 17018     illusionist
+E 1 17016 6 17            ice wand
+M 0 17033 5 17055     illusionist
+E 1 17019 5 17            lightning wand
+M 0 17034 4 17030     alchemist
+E 1 17018 5 17            chemistry wand
+M 0 17034 5 17038     alchemist
+E 1 17017 5 17            chemistry wand
+M 0 17035 2 17049     baby dragon
+E 1 17040 5 17            stone of surrender
+M 0 17035 3 17057     baby dragon
+E 1 17041 5 17            rare herbs
+M 0 17035 3 17057     baby dragon
+E 1 17025 5 17            dust
+M 0 17036 7 17002     imp
+M 0 17036 7 17007     imp
+E 1 17021 5 17            loadstone
+M 0 17036 7 17037     imp
+M 0 17036 7 17020     imp
+M 0 17036 7 17028     imp
+M 0 17036 7 17046     imp
+E 1 17021 5 17            loadstone
+M 0 17036 7 17055     imp
+M 0 17014 7 17033     puddle
+M 0 17014 7 17034     puddle
+M 0 17014 7 17035     puddle
+E 1 17024 5 17            water jug
+M 0 17014 7 17030     puddle
+M 0 17014 7 17031     puddle
+M 0 17014 7 17032     puddle
+M 0 17014 7 17036     puddle
+M 0 17014 7 17036     puddle
+M 0 17015 6 17042     flame
+M 0 17015 6 17045     flame
+M 0 17015 6 17042     flame
+M 0 17015 6 17042     flame
+M 0 17015 6 17045     flame
+M 0 17015 6 17045     flame
+M 0 17017 6 17021     rock
+M 0 17017 6 17023     rock
+M 0 17017 6 17024     rock
+E 1 17021 5 17            loadstone
+M 0 17017 6 17027     rock
+M 0 17017 6 17027     rock
+E 1 17021 5 17            loadstone
+M 0 17017 6 17026     rock
+M 0 17018 6 17047     spark
+M 0 17018 6 17050     spark
+M 0 17018 6 17051     spark
+M 0 17018 6 17052     spark
+M 0 17018 6 17052     spark
+M 0 17018 6 17046     spark
+M 0 17025 6 17055     eddie
+M 0 17025 6 17056     eddie
+M 0 17025 6 17057     eddie
+M 0 17025 6 17058     eddie
+M 0 17025 6 17059     eddie
+M 0 17025 6 17055     eddie
+M 0 17019 4 17028     acid
+M 0 17019 4 17029     acid
+M 0 17019 4 17038     acid
+M 0 17019 4 17046     acid
+M 0 17016 4 17032     snowflake
+M 0 17016 4 17032     snowflake
+M 0 17016 4 17012     snowflake
+M 0 17016 4 17025     snowflake
+M 0 17020 4 17038     lava beast
+M 0 17020 4 17042     lava beast
+M 0 17020 4 17020     lava beast
+E 1 17022 5 17            lava lamp
+M 0 17020 4 17021     lava beast
+M 0 17021 4 17022     mud
+M 0 17021 4 17031     mud
+M 0 17022 2 17032     mist
+M 0 17022 3 17013     mist
+M 0 17022 4 17055     mist
+M 0 17022 5 17054     mist
+M 0 17023 2 17048     particle
+M 0 17023 3 17053     particle
+M 0 17023 4 17021     particle
+M 0 17023 5 17010     particle
+M 0 17024 2 17027     dust
+M 0 17024 3 17022     dust
+M 0 17024 4 17059     dust
+M 0 17024 5 17057     dust
+M 0 17037 1 17007     huge elemental
+E 1 17041 5 17            rare herbs
+M 0 17037 2 17007     huge elemental
+E 1 17025 5 17            dust
+S
+#99999
+$~

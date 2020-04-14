@@ -1,0 +1,76 @@
+#7200
+master mindflayer~
+the master mindflayer~
+The master mindflayer is here, looking at you with an evil look.
+~
+It's a seven foot tall humanoid dressed in a purple cloak, and swinging a
+black and purple rod above its head as if it was going to attack you any
+moment now.  In the middle of its head are four tentacles with sharp points.
+~
+1 4 37 16778280 -500 S
+30 5 -5 4d50+300
+400 500 100 3d6+15 -1
+-1
+-1
+2000 100000 8 8 0
+#7201
+senior mind mindflayer~
+the senior mindflayer~
+The senior mindflayer walks around here, looking for something useful.
+~
+This is a horrifying monster indeed, 6'6" high.  Dressed in purple and black,
+and carrying a large mace in its hand.  In the center of its head are four
+large tentacles with very sharp points.
+~
+1 4 100 16778280 -500 S
+25 7 -4 1d50+330
+400 500 100 3d5+10 -1
+-1
+-1
+1000 50000 8 8 0
+#7202
+junior mind mindflayer~
+the junior mindflayer~
+The junior mindflayer is here, watching you carefully from the corner.
+~
+This mindflayer is six feet high.  It has a small mace in its belt, and is
+dressed in purple and black cloth.  It has four small tentacles in the center
+of its head.
+~
+1 4 196 16778240 -400 S
+12 15 3 1d50+180
+400 500 100 2d6+4 -1
+-1
+-1
+500 6000 8 8 0
+#7203
+wererat rat were~
+the ugly wererat~
+An ugly wererat is here, looking at you with a strange flick in his eyes.
+~
+The wererat is about four feet tall.  It looks very much like rat, except
+that it is standing.
+~
+0 0 3684 33554432 -350 S
+10 15 4 1d50+120
+407 500 100 2d6+2 -1
+-1
+-1
+300 5000 8 8 0
+#7204
+rat gigantic~
+the gigantic rat~
+There is a gigantic rat here, looking at you with a hungry look.
+~
+The gigantic rat is about ten feet long from head to tail and has claws the
+size of your head, looking very nasty.
+~
+0 0 34 33554432 -300 S
+25 7 -5 2d50+350
+408 500 50 3d7+5
+407 500 50 3d8+5 -1
+-1
+-1
+2500 60000 8 8 1
+#99999
+$~

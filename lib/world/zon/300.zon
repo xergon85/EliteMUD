@@ -1,0 +1,98 @@
+#300
+Assassins hideout~
+30099 80 1
+*
+* Created by Anubis alias Claes Soerensson
+*
+* Mirror Maze
+R 0 30038 4
+R 0 30040 4
+R 0 30041 4
+R 0 30042 4
+R 0 30043 4
+R 0 30044 4
+R 0 30045 4
+* Mobiles
+M 0 30001 2 30003        Assassin guard
+E 1 30005 4 17            obsidian key
+D 1 30003 3 2             door 
+D 1 30004 1 2 
+M 0 30001 2 30003        Assassin guard
+M 0 30008 15 30004       assassin
+M 0 30008 15 30035       assassin
+M 0 30002 5 30008        cloaked figure
+M 0 30002 5 30009        cloaked figure
+M 0 30002 5 30010        cloaked figure
+M 0 30002 5 30012        cloaked figure
+M 0 30003 2 30011        shadow
+M 0 30008 15 30014       assassin
+M 0 30004 2 30016        slave
+E 1 30010 15 16           spoon
+M 0 30004 2 30016        slave
+E 1 30010 15 16           spoon
+M 0 30008 15 30019       assassin
+M 0 30008 15 30019       assassin
+M 0 30011 1 30022        bloodstained assassin
+M 0 30008 15 30023       assassin
+M 0 30008 15 30024       assassin
+M 0 30008 15 30024       assassin
+M 0 30008 15 30026       assassin
+M 0 30005 1 30028        poisonlord
+E 1 30007 4 5             shadow armor
+M 0 30006 1 30031        torturer
+E 1 30013 4 17            key to dungeons
+D 1 30029 1 2             door  
+D 1 30030 3 2
+E 1 30008 4 13            the belt
+M 0 30013 1 30030        Hengist      
+M 0 30007 1 30032        Gontran master of assassins
+E 1 30006 4 17            twilight key
+D 1 30032 3 2             door
+D 1 30033 1 2
+E 1 30002 4 16            garrote
+E 1 30004 4 8             boots
+E 1 30001 4 12            silk suit
+M 0 30008 15 30032       assassin
+M 0 30012 6 30038        mirrorman
+M 0 30012 6 30039        mirrorman
+M 0 30012 6 30043        mirrorman
+M 0 30012 6 30041        mirrorman
+M 0 30012 6 30044        mirrorman
+M 0 30009 4 30047        statue
+M 0 30009 4 30047        statue
+M 0 30009 4 30047        statue
+M 0 30009 4 30047        statue
+M 0 30008 15 30049       assassin
+M 0 30008 15 30049
+M 0 30010 1 30055        The dark priest
+E 1 30009 4 17           book of the old ones
+E 1 30003 4 3            amulet
+* objects
+O 0 30012 4 30017        barrel
+O 0 30011 2 30052        small statue
+O 0 30014 1 30033        jewelry
+* all this doors 
+D 0 30004 3 1            1st entrance room door
+D 0 30005 1 1
+D 0 30014 2 1            kitchen door
+D 0 30015 0 1 
+D 0 30018 0 1            training room
+D 0 30019 2 1  
+D 0 30020 0 1            meditation room
+D 0 30021 2 1 
+D 0 30020 4 1            megasecret door
+D 0 30022 5 1
+D 0 30023 0 1            sleepingquarter room
+D 0 30024 2 1 
+D 0 30026 1 1            door to poisonlord
+D 0 30027 3 1   
+D 0 30029 2 1            to torturer chamber
+D 0 30031 0 1 
+D 0 30029 3 1            to gontran
+D 0 30032 1 1
+D 0 30035 3 1            2nd door in entrance room
+D 0 30036 1 1 
+S
+#99999
+$~
+

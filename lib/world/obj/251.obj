@@ -1,0 +1,93 @@
+#25101
+axe cannibal~
+a cannibal's axe~
+A primitve axe lies here on the ground.~
+~
+5 10 0 0 an
+0 3 7 3 0 0
+14 2000 666
+A
+19 3
+#25102
+odd oddlooking spear old~
+odd looking spear~
+An odd looking spear lies here.~
+~
+5 15 befijm 0 an
+0 4 5 12 0 0
+10 1000 666
+#25103
+boat~
+A small boat~
+A small boat lies here.~
+~
+22 1 0 0 a
+0 0 0 0 0 0
+79 1450 12
+E
+small boat~
+This boat is made for the high seas although it doesn't look like it by the
+by first glance.
+~
+#25104
+sign important~
+An important sign~
+A sign is mounted on a pole here.~
+~
+12 114 0 0 0
+0 0 0 0 0 0
+1000 98 777
+E
+sign~
+You are standing on the shore of the Continent of Kandoria. Ahead lies realms
+that is yet to be explored. Beware Adventurers, because all things are not 
+what they seem.
+                                 
+                              -Nadin the Explorer
+~
+#25105
+loincloth deerskin~
+a Deerskin Loincloth~
+A deerskin loincloth is lying here.~
+~
+9 50 0 b al
+17 0 0 0 0 0
+30 10000 2000
+A
+1 2
+A
+2 2
+#25106
+amulet~
+the Shaman Amulet~
+An amulet made of feathers is lying here.~
+~
+9 30 0 b ac
+15 0 0 0 0 0
+5 0 10000
+E
+amulet~
+It's obvious that this amulet has some kind of magical power.
+~
+A
+13 20
+#25107
+axe cannibal~
+a cannibal's axe~
+A primitve axe lies here on the ground.~
+~
+5 55 0 0 an
+0 4 7 3 0 0
+14 2000 666
+A
+19 3
+#25108
+odd oddlooking spear~
+odd looking spear~
+An odd looking spear lies here.~
+~
+5 52 befijm 0 an
+0 4 7 12 0 0
+10 1000 666
+#99999
+$~

@@ -1,0 +1,432 @@
+#28800
+#C[ #yG#wates of Izumo outside wall #c]#N~
+   You stand before the outside wall of the Izumo Empire. The wall is
+made of huge granite blocks and a tight archway leads inside. The same
+archway has a builtin iron gate widely open. Inside you see vast fields
+of green grass cutted by a orange bricked road leading north, wich goes
+across a small village leading to a huge white ivory tower.
+You can see some strange #Cw#cr#Nitin#cg#Cs #Ncarved in one block in 
+your right side.
+~
+288 cAuz 1
+D0
+You can see clearly the orange road leading to Izumo Castle.~
+~
+0 -1 28801
+D2
+There is no other way than death itself.~
+~
+0 -1 28803
+E
+writings block~
+
+#CI#cz#Nu#cm#Co #CE#cm#Npi#cr#Ce#N.
+
+Enter at your own risk! From this point on, Izumo laws prevail.
+
+~
+S
+#28801
+#C[ #yT#whrough the Archway #C]#N~
+   You dared to go inside! You are inside of a dark tunel in the
+Outside wall of Izumo Empire. The archway is illuminated by the light
+of burning torches wich are in the walls, you can see that the orange
+road starts some steps ahead of you and leads north.
+~
+288 huz 1
+D0
+The orange road starts here, and seems to lead to Castle Izumo through
+Izumo Village.~
+~
+0 -1 28804
+D2
+You can still see 2 guards guarding the main gate.~
+~
+0 -1 28800
+S
+#28803
+#C[ #yT#whe path to doom #C]#N~
+   You made the wrong option, and some weird device just triggered a
+gadget wich launched a arrow and that hitted you right between the
+eyes. You can still hear the echo of your screams and feel the cold
+stell going through your skull shattering everything.
+~
+288 bnuz 0
+S
+#28804
+#C[ #yB#wegining of orange road #C]#N~
+   You stand at the begining of the orange road. The distance to Izumo
+castle seems much smaller, and the village of Izumo starts right ahead.
+You notice that the habitants are rather good looking and nice or bad
+looking and unpleasant, there seems to be no middle term in this land
+knows as Izumo.
+~
+288 uz 1
+D0
+The orange road continues towards the castle through the village.~
+~
+0 -1 28805
+D3
+To the west far from the village you see a Green House.~
+~
+0 -1 28818
+D2
+The gates and the outside walls seem to be more distant.~
+~
+0 -1 28801
+S
+#28805
+#C[ #yA#wlong the orange road #C]#N~
+   You are walking alonside the orange road and the village of Izumo
+is right ahead of you. This strange smell in the air is an assault
+to your senses, it seems to be the smell of #yb#wurning #yn#wapalm 
+#Nmixed with a strange flower based perfume. Over you head vultures 
+fly in circles looking for their next meal. You wander if they have 
+spoted you.
+~
+288 uz 1
+D0
+The first houses of Izumo village are right ahead.~
+~
+0 -1 28806
+D2
+The main gates seem to be even more far than before.~
+~
+0 -1 28804
+D1
+You can see a small building... Should you go in ?.~
+~
+0 -1 28815
+E
+vultures vulture~
+These wicked birds are always keeping an eye on food. It seems they
+might be interested in you.
+~
+S
+#28806
+#C[ #yB#weginning of Izumo Village #C]#N~
+   You are inside of Izumo Village, right next to the first houses.
+You realise that this is a very small village and has only a couple of
+houses. From your right you sense a weird smell wich you identify has
+wine, on your right you see a flat one floor building made of wood and
+stone with a funny yellow roof. It holds a sign on the door. Ahead of
+you the orange road continues toward the castle.
+~
+288 uz 1
+D0
+You really hate to walk to much with this hot weather.~
+~
+0 -1 28807
+D2
+Are you afraid of something ? Being followed ?.~
+~
+0 -1 28805
+D1
+You look through the doors and all you can see is fun.~
+~
+0 -1 28808
+D3
+You can't see nothing, but you ear screams coming from inside.~
+~
+0 -1 28809
+E
+sign~
+The sign says: 
+
+=================================================
+   #rBeware fools, think twice before coming in!#N
+=================================================
+
+~
+S
+#28808
+#C[ #yT#whe Izumo Inn #C]#N~
+   You are inside a luxorous Inn, and it seems you are their only
+costumer for a long time, by the time you step ahead a young #Ywaiter#N
+jumps towards you direction and informs you that the Inn is closed.
+You get angry and start cussing at him, he steps back and afraid tells
+you that you should visit the floor above. You can see the stairs right
+from your position, but just as precaussion you wield your #rb#Rl#wood#Re#rd#N
+blade before going up.
+~
+288 uz 1
+D3
+You notice that the sun is starting to fade by looking the orange brinks
+on the road.~
+~
+0 -1 28806
+D4
+The stairs lead up and are made of white marble with a red carpet over
+them.~
+~
+0 -1 28802
+E
+waiter young~
+He looks like a scared fool, you must look very mean and agressive.
+You spit on him.
+
+waiter - "#YPlease Sir, dont beat me up! I will serve you well#N"
+
+You grin evilly at him.
+~
+S
+#28802
+#C[ #yT#whe Penthouse #C]#N~
+   You stand in a luxurious room, with a dark oak huge bed wich seems
+to be big enough for three persons, you check ur private jacuzzi and
+the clean towels. The waiter had followed you and seems to be waiting
+for something. You look at the nice black leather mapple near the
+fireplace and wonder how good it might be to seat there and enjoy a
+relaxed time reading your favourite book, "The history of Izumo".
+~
+288 tuz 1
+D5
+You notice that the waiter has disapeared through the stairway.~
+~
+0 -1 28808
+E
+waiter young~
+You - "#rGet lost idiot!!#N" 
+You spit on him and he runs away scared.
+
+waiter - "#rHe is mean, I want my mommy!!#N"
+~
+S
+#28809
+#C[ #yG#wlimsdale's #yS#whack #C]#N~
+   You stand in a huge dark navy blue room. On your left side there is
+a fireplace with the arms of #yG#wl#Nimsdale#N the #yL#wunatic#N, and the arms of
+#rS#wilverstar#N the #rG#worgeous#N. Here is their home. On the wall at your right
+you see a wonderfull collection of weapons, Fugu blades, axes, halberds
+and a set of weird staff's. In the middle of the room there is huge
+dark oak table wich seems that it isnt used for a long time. Ahead of
+you is a wall with a huge mirror wich distorts your image making you
+look like a fool, indeed a weird place. The room is illuminated by a
+dark blue light wich comes from the fireplace, giving the room a
+mystical atmosphere.
+~
+288 zu 1
+D1
+You can see the sun shining outside and you wanna go there because this
+room scares you.~
+~
+0 -1 28806
+E
+table~
+The are some runes. You try to read them,
+
+"#rLudul Bel Nemeqi Ta#N"
+"#rNaramtu Dianau Apsu#N"
+
+You wonder what they mean.
+~
+S
+#28807
+#C[ #yB#wefore the Castle of Izumo #C]#N~
+   You see the Castle of Izumo on the hill ahead of you. This mighty
+fortress wich has never been taken stands here making you feel small
+and tiny. On your right you have a strange stone building wich has no
+seen exits or ways to go in, you ear also very weird noises inside,
+screams and sounds wich indicate someone is being beaten up inside, or
+even tortured... On your left you have a the last building of the
+village wich has a huge board on top with something writed on it. You
+have no clue on where to go, north, south or west!
+~
+288 uz 1
+D0
+This path leads to Castle Izumo~
+~
+0 -1 28812
+D2
+Very far you can see the outside walls of Izumo Empire.~
+~
+0 -1 28806
+D3
+You see a huge golden archway wich leads inside of the building.~
+~
+0 -1 28811
+D1
+To the east you can see a huge Shrine, looks like a holy place.~
+~
+0 -1 28816
+E
+board~
+
+#yI#wzumo #yH#wigh #yC#wouncil
+
+~
+S
+#28810
+#C[ #yT#whe Slammer#C }]#N~
+   You are in a no exit room, you seem powerless inside of this room.
+You can see through the steel bars in the tiny window the Castle of
+Izumo on the top of the hill and a huge army of Templar Knights and
+Pikers is moving towards the city leaded by their fearless lider
+Glimsdale, probably to join the Armies of the Dark Lord Ninja to aid
+in the aid of Izumo Emperor in the battle against the Mighty Chicken
+of the Yew Forest. Sir Dalamar, the one not so brave as Sir Glimsdale
+and not so pure as Dark Lord Ninja, follows Sir Glimsdale. Sir Dalamar
+the one who pissed his pants at the Siege of Rome and who fled at the
+Battle of Zurandar wields proudly his Ebony Kris.
+~
+288 uhz 1
+S
+#28811
+#C[ #yI#wzumo High Council#C ]#N~
+   You stand in a room with huge carpets hanged on the walls with the
+history of Izumo. You feel powerless when compared to the Knights and
+people who fought those battles. One special one draws your attention,
+the one with the ancestors of Sir Glimsdale, leader of the Royal House
+of Dawn, Morgul the bastard, the mighty warrior who gathered the 8
+artifacts needed to summon the Sacred Dragon Arsgalt wich defeated the
+Evil Sorcerer Madruk in ancient times. You feel like crying and hope
+someday there can be one of you and your great deeds. There is also a
+pentagonal table for the High Powers of Izumo. One of the house of
+Dawn, another for the Ninja the Dark Warlord, one for the represant of
+the Izumo Legends, the Kings place and finally one for the representant
+of the people, this is indeed ur place.
+~
+288 suz 0
+D1
+The orange road is outside.~
+~
+0 -1 28807
+D5
+There is a small black ivory stairway leading down.~
+~
+0 -1 28813
+D4
+There is a small black ivory stairway leading to the condemned room~
+~
+0 -1 28810
+S
+#28812
+#C[ #yA#wt the gates of Castle Izumo #C]#N~
+   From nowhere two huge #RT#wemplar #RK#wnights #Nand Faerlan the
+leader of the King's Guard jump over you, they beat you up so hard and
+painfully that the blood painted the entire gates of the castle, you
+bleed a lot. The entrance to the castle is forbiden to fools like you!.
+~
+288 bmuz 1
+S
+#28813
+#C[ #yT#whe Anarchy Armoury #C]#N~
+   You are in a dark room, where most of your biggest light source is
+the metal light from several weapons and armor's that are layed around
+in the room. There isnt much to see, just pick and take it.
+~
+288 uz 1
+D4
+There is starway leading up.~
+~
+0 -1 28811
+S
+#28815
+#C[ #yT#whe Esoteric Shop #C]#N~
+   You stand in dark room, the only source of light is a couple of
+blowtorch's in the walls. You can see a vast exposition of weird items,
+most of them come from the uncharted lands of Elite. A old woman with the
+looks of a wizard stands near to a cabinet cleaning some dusty old 
+items, though she is not looking at you, you sense one thousand eyes
+penetrating your soul and you feel very unconfortable as you notice
+that you are being watched and measured.
+~
+288 uz 0
+D3
+You see an orange road leading to the village.~
+~
+0 -1 28805
+E
+cabinet~
+It's made of black marble, within this cabinet you can see a huge
+collection of potions of all kinds and colors... Maybe this is what
+took you to this place.
+~
+S
+#28816
+#C[ #yT#whe hall of the past glories #C]#N~
+   You are in a huge hall full of statues, the glories of the past.
+The entire hall is made of dark marble covering the walls, the light
+is provided by torch's in grey marble altars scatered through the
+hall. Ahead of you lies for all eternity the statues of those who
+served Izumo in the best way they could. Bow before the #yL#wegends #Nof
+the past, for their spirits protect this sacred place.
+~
+288 uz 0
+D3
+The hall continues west.~
+~
+0 -1 28807
+D1
+This path leads you to Izumo village.~
+~
+0 -1 28817
+E
+altar altars~
+They are made of grey marble, on top of them is a golden container
+in the form of a helmet upside down with the 'oil of life' burning,
+giving the room a mystic atmosphere and purifying the air.
+~
+S
+#28817
+#C[ #yT#womb of #yA#wtiel, The Dragon #C]#N~
+   In this sacred place lies #rAtiel #Nthe #GDragon #NKnight. In
+distant times, Atiel's fate crossed with 2 mighty warriors, Shandrala
+and Mystasia, they both regreted their fate when they were defeated
+at Atiel's feet. The room is covered with a green mist, the mist that
+remains when a Dragon's corpse is down, some say that the Mighty Dragon
+Lord's spirit keeps an eye on his followers and that by his power, a
+corpse can regain life and answer to the call of his Master.
+You see a huge #yT#womb #Nmade of white marble, on the sides there are
+carvings with the story of #rAtiel#N's life written in ancient runes.
+On the top of the Tomb there is a statue of Atiel wielding is weapons,
+with a raged expression it appears that he wants to charge over you.
+~
+288 uz 0
+D3
+This path leads you to the entrance hall of the shrine.~
+~
+0 -1 28816
+E
+tomb statue runes~
+This runes state:
+
+"Those who can not remember the past, are condemned to repeat it."
+
+"Here lies Atiel, the Dragon, slayer of evil in ancient times, when
+the elders were young, this mighty Dragon wielded the sword of Justice,
+a Sword forged in fire and ice, a Sword to battle and take life, a
+Sword to bring Peace and Justice in troubled times."
+
+"Here lies the Slayer of Shandrala and Mystasia, bow before this great
+warrior who awaits for the call of his Master."
+
+~
+S
+#28818
+#C[ #yA#wbhorsen's Green House #C]#N~
+   Here is Abhorsen's refuge in days of peace. The mighty Avatar rests
+here when there's no more fights to be fought. He choose to live in his
+greenhouse where he has his plantation of Cannabis and Marijuana, and,
+of course he Bong colletion. Abhorsen has a strong nervous problem and
+seeks refuge and peace on his medical treatment with the "wild plants".
+Some say, he is the leader of a strange cult known as the #bRasta#N
+#bWarriors#N. You see some plants growing in vases all over the place.
+The house stays outside of Izumo because he likes peace and doesnt like
+to be disturbed when enjoying his trips.
+~
+288 uz 0
+D1
+To the east you can see the road wich leads to Izumo.~
+~
+0 -1 28804
+E
+cannabis marijuana plants herbs~
+What a huge plantation, no man can smoke all of this, though Abhorsen
+surely tries to... This might be just enough for the entire cult wich he
+leads, known as #bRasta Warriors#N.
+They do smell nice.
+~
+S
+#99999
+$~

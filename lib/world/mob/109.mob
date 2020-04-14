@@ -1,0 +1,151 @@
+#10900
+gargoyle soldier garg~
+A gargoyle soldier~
+A Gargoyle soldier watches you fiercely.
+~
+He's big, tough and mean.  His wingspan is at least 10'
+making him look even more mean.
+~
+12 4 608 604111880 -250 S
+55 -10 -20 1d200+800
+407 500 50 10d5+5
+407 500 40 10d6+10
+407 500 10 10d8+10        -1
+-1
+-1
+600 365000 8 8 1
+#10901
+gargoyle guard male~
+A gargoyle guard~
+A gargoyle stands here patroling the castle.
+~
+His deep red eyes make you want to back off, it looks
+like he doesn't have to answer to anyone.
+~
+12 4 610 604110848 -400 S
+60 -11 -20 1d200+900
+407 500 50 6d5+20
+407 500 40 6d5+20
+407 500 10 8d5+20 -1
+-1
+-1
+1100 410000 8 8 1
+#10902
+female gargoyle garg~
+A female gargoyle~
+A busty gargoyle in torn clothes struts seductively here.
+~
+She has long black flowing hair, and is very well proportioned.
+~
+12 4 608 604111912 -400 S
+50 -9 -18 1d100+700
+407 500 75 8d5+5
+407 500 25 10d5+5         -1
+-1
+-1
+800 300000 8 8 2
+#10903
+rat osquip~
+An osquip~
+A giant six-legged rat creeps around here.
+~
+It's ugly, it's big, it's got big teeth, and six legs.
+But worst of all it looks hungry.
+~
+5 4 612 17040416 -100 S
+32 4 -9 1d1+449
+408 500 100 2d8+12  -1
+-1
+-1
+600 110000 8 8 0
+#10904
+corpse rotting dead undead~
+A rotting corpse~
+A cellmate's corpse rises again.
+~
+Once the body of an unfortunate prisoner, who met his doom,
+and is now a blue-faced, rotting corpse.
+~
+2 4 610 536871976 -200 S
+36 3 -10 1d1+549
+401 500 100 3d6+15    -1
+-1
+-1
+0 151000 8 8 0
+#10905
+giant tarantula spider~
+A giant tarantula~
+A tarantula of immense proportions drops down in front of you.
+~
+One of the ugliest tarantulas you've ever seen, with
+long black-orange hair, and two big fangs.
+~
+8 4 2 67110024 -100 S
+38 0 -10 1d1+649
+408 500 100 4d7+15  -1
+-1
+-1
+400 120000 8 8 0
+#10906
+demona female gargoyle garg~
+Demona~
+Demona, leader of the Gargoyles stands here overlooking her minions.
+~
+With fiery red hair, and a dazzling evil grin, Demona,
+is a knockout killer.
+~
+12 4 610 671089832 -400 S
+65 -18 -22 100d20+150
+407 500 50 10d6+20
+407 500 40 10d7+20
+408 500 10 10d8+5         -1
+-1
+-1
+2500 480000 8 8 2
+#10907
+spider tarantula small~
+A tarantula~
+A hairy tarantula crawls by your feet.
+~
+The tarantula is as big as your foot and has eight
+eyes looking at you!
+~
+5 4 192 33555496 -100 S
+30 2 -8 1d1+349
+408 500 100 2d7+10  -1
+-1
+-1
+0 107000 8 8 0
+#10908
+satan satanic small~
+A small satanic~
+A little satanic creature tries to claw you!
+~
+It looks like the ones you'd find in hell but this
+one could give you a thrashing.
+~
+12 4 98 536871976 -500 S
+40 -7 -13 1d100+600
+407 500 85 6d4+20
+6 0 15 1d0+50         -1
+-1
+-1
+1200 275000 8 8 0
+#10909
+elder garg gargoyle~
+The elder gargoyle~
+A wise looking gargoyle sits in the corner.
+~
+His scars prove he was once a magnificent warrior.
+Now he looks old and frail.  But with age comes wisdom.
+~
+12 1 66 536871936 -500 S
+60 -14 -25 100d22+100
+407 500 70 10d4+5
+6 0 20 1d0+60
+26 0 10 1d0+40        -1
+-1
+-1
+10000 550000 8 8 1
+#99999
+$~

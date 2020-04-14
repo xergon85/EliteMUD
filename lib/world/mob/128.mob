@@ -1,0 +1,294 @@
+#12800
+knight lieutenant sir aaron crimson~
+Knight Lieutenant Sir Aaron~
+#yA tall young knight in crimson plate says 'Hey! Who are you?'#N
+~
+Knight Lieutenant Sir Aaron spends his time in this chamber, when 
+he is not training in the basement - drilling his men, and practicing 
+with sword and lance. Sir Aaron is the youngest of the Crimson Fist 
+officers, having risen through the ranks due to his skill and intense 
+loyalty towards the chapter. He commands the first company of the 
+Crimson Fists - known as the Young Bloods.
+~
+1 4 egl hkrD 600 S
+70 -13 -25 20d20+1000
+400 500 50 3d15+10
+403 500 50 3d15+13  -1
+-1
+-1
+1500 480000 8 8 1
+#12801
+knight sergeant gilbert crimson~
+Knight Sergeant Gilbert~
+Knight Sergeant Gilbert stands around barking orders.
+~
+#RKnight Sergeant Gilbert yells, 'WHAT ARE YOU LOOKING AT! MOVE IT!'#N
+
+
+~
+1 4 egl krz 500 S
+55 -10 -22 4d83+921
+403 500 100 4d10+13 -1
+-1
+-1
+1500 370000 8 8 1
+#12802
+knight sergeant jem crimson~
+Knight Sergeant Jem~
+A powerful looking Knight Sergeant glares at you.
+~
+Knight Sergeant Jem is in charge of training the Crimson Fist soldiers 
+in the use of all civilised weapons. He is a master with them all, but 
+he is best with a longsword, or a flail. Jem is very powerfully built, 
+glaring about him at the drilling soldiers, occasionally shouting a few 
+words of encouragement.
+~
+1 4 egl krz 500 S
+55 -10 -22 4d83+931
+403 500 100 4d10+13 -1
+-1
+-1
+1500 370000 8 8 1
+#12803
+knight lieutenant sir cindar crimson~
+Knight Lieutenant Sir Cindar~
+A wild looking Knight paces furiously up and down.
+~
+Knight Lieutenant Sir Cindar has a barely contained savagery to him. To 
+the casual observer he is extremely scruffy, his hair is long and hangs 
+loosely halfway down his back. A closer inspection however shows that 
+his armour is well oiled and his sword is very sharp. You think if would 
+be best not to antagonise him.
+~
+1 4 egl hkrD 600 S
+70 -13 -22 20d20+1000
+403 500 50 3d15+10
+401 500 50 3d15+13  -1
+-1
+-1
+1500 480000 8 8 1
+#12804
+knight captain sir rowland crimson~
+Knight Captain Sir Rowland~
+Knight Captain Sir Rowland regards you suspiciously from across the room.
+~
+One of the older knights in the order, Sir Rowland has risen on the tide 
+of his own skill and dedication to be second in command of the Crimson 
+Fists. Although he is now one of the older Knights, he has lost none of 
+his speed and skill, which is now tempered with the wisdom of an older 
+man.
+~
+1 4 egl hkrzD 600 S
+68 -15 -27 4d68+1380
+403 500 100 3d10+30  -1
+-1
+-1
+1500 570000 8 8 1
+#12805
+knight HUGE lieutenant sir gravin crimson~
+Knight Lieutenant Sir Gravin~
+A HUGE knight in crimson armour turns to stare at you as you enter the room.
+~
+Knight Lieutenant Sir Gravin must be the largest knight you have ever seen, 
+standing more than a foot taller than any of the other knights in the 
+citadel. As if his height were not intimidating enough, he is built as wide 
+as a barn door, and has an angry looking scar running down the right hand 
+side of his face. You doubted the stories that he had slain the bannerman 
+and primarch of the Emperor's Children single handed - looking at him you 
+wonder that he didn't kill the entire army.
+~
+1 4 egl hkrD 600 S
+70 -13 -24 20d20+1000
+400 500 50 3d15+12
+403 500 50 3d15+15  -1
+-1
+-1
+1500 520000 8 8 1
+#12806
+knight captain sir stephen crimson bannerman~
+Knight Captain Sir Stephen~
+A wise looking Knight Captain waits patiently for you to introduce yourself.
+~
+Knight Captain Sir Stephen is the bannerman of the Crimson Fists. When the 
+Order rides into battle, he carries their standard before them, giving them 
+courage to face their foes. At one time Sir Stephen was a priest, and he 
+still spends a great deal of time in prayer. As you might expect from a 
+bannerman he is very solidly build, and looks like he doesn't put up with 
+any nonsense.
+~
+1 4 egl hkrzD 600 S
+68 -15 -27 4d68+1290
+403 500 90 3d10+26
+28 0 10 2d0+95 -1
+-1
+-1
+1500 610000 8 8 1
+#12807
+knight lieutenant sir azig crimson~
+Knight Lieutenant Sir Azig~
+A wiry looking knight in crimson armour scrutinises an old book.
+~
+Knight Lieutenant Sir Azig doesn't look like the campaigning type, being 
+slightly built and wearing a scratched pair of spectacles as he reads. Sir 
+Azig is something of a scholar and spends all his spare time reading old 
+books and scrolls. Never fear however - he can handle a sword as well as 
+any of his fellow knights, and he is unsurpassed with the lance.
+~
+1 4 egl hkrD 600 S
+70 -12 -22 20d20+900
+400 500 50 3d15+10
+401 500 50 3d15+13 -1
+-1
+-1
+1500 480000 8 8 1
+#12808
+primarch morgan crimson fist knight~
+Primarch Morgan~
+The supreme commander of the Crimson Fists, Primarch Morgan, looks down on 
+you from his throne.
+~
+Primarch Morgan sits impassively on his throne, gazing down on you with a 
+calm expression on his face. He is a well built handsome man, with wide 
+shoulders and the sure movements of an accomplished fighting man. 
+~
+1 4 egl hkrzD 600 S
+65 -18 -24 10d20+1500
+400 500 50 10d6+20
+403 500 50 10d7+20  -1
+-1
+-1
+8000 720000 8 8 1
+#12809
+chaplain crimson order fist~
+the Crimson Fist Chaplain~
+A pious man serves as chaplain to the Crimson Fist.
+~
+The Chaplain is a portly fellow, almost unable to reach round his impressive 
+girth, or count his chins. As well as seeing to the spiritual well being of 
+the young knights, he has been known to crack a few heads.
+~
+1 4 egl hkrzD 600 S
+61 -16 -22 5d61+1157
+401 500 80 3d14+22
+28 0 20 2d0+80 -1
+-1
+-1
+4000 550000 8 8 1
+#12810
+ghost apparition crimson~
+a crimson ghost~
+A crimson apparition floats before you.
+~
+You can see through him, but you notice that the claws on the end of his 
+arms look very solid.
+~
+1 4 egl hkr 600 S
+50 -8 -18 1d100+600
+407 500 75 8d5+5
+407 500 25 10d5+5 -1
+-1
+-1
+800 270000 8 8 1
+#12811
+bat red reddish~
+a reddish bat~
+A vicious looking bat swoops down on you from the darkness.
+~
+He looks like a fairly normal bat, except for the reddish tint to his fur, 
+and the malevolent glow in his eyes.
+~
+1 4 egl kr 600 S
+53 -7 -17 4d53+600
+408 500 100 3d10+14  -1
+-1
+-1
+100 250082 8 8 1
+#12812
+servant pale~
+a pale servant~
+A pale servant hurries about his business.
+~
+Doesn't look like he gets out much, probably too busy seeing to the needs 
+of his masters.
+~
+1 4 egl kr 600 S
+53 -7 -19 2d53+861
+400 500 100 3d10+10  -1
+-1
+-1
+995 283332 8 8 1
+#12813
+soldier training crimson clad~
+a training soldier~
+A young soldier works hard, practicing his fighting skills.
+~
+He looks exhausted, but one glance at the stern Knight Sergeant is 
+all he needs to discover those hidden reserves of energy. Besides - he 
+wouldn't dare let his company down.
+~
+1 4 egl krz 600 S
+50 -9 -18 1d100+750
+403 500 75 8d5+5
+403 500 25 10d5+5 -1
+-1
+-1
+800 300000 8 8 1
+#12814
+knight crimson fist~
+a crimson-clad knight~
+A knight in crimson plate stands guard here.
+~
+He looks like he knows how to handle himself, better not mess with him.
+~
+1 4 begl hkrD 600 S
+62 -10 -22 30d30+805
+400 500 50 3d12+10
+403 500 50 3d15+13  -1
+-1
+-1
+1000 420000 8 8 1
+#12815
+stone chapterhouse guardian crimson~
+the chapterhouse guardian~
+#GA reddish stone guardian blocks the gate to the citadel.#N
+~
+A large statue in the shape of a man blocks your progress. It's very 
+detailed, and appears to be clutching a small crimson amulet.
+~
+1 4 beg hkrD 600 S
+50 -10 -20 1d1+5000
+400 500 100 0d1+0 -1
+-1
+-1
+0 100000 8 8 1
+#12816
+knight crimson fist~
+a crimson-clad knight~
+A knight in crimson plate wanders around the citadel.
+~
+He looks like he knows how to handle himself, better not mess with him.
+~
+1 4 egl hkrD 600 S
+62 -10 -22 30d30+845
+400 500 50 3d12+10
+403 500 50 3d15+13  -1
+-1
+-1
+1000 420000 8 8 1
+#12817
+ghoul crimson~
+a crimson ghoul~
+A hideous crimson ghoul pounces on you.
+~
+He smells like an old corpse, and his clawed hands grasp hungrily for you
+throat. Time to make an escape perhaps?
+~
+1 4 egl hkr 600 S
+50 -8 -18 1d100+600
+407 500 75 8d5+5
+407 500 25 10d5+5 -1
+-1
+-1
+800 270000 8 8 1
+#99999
+$~

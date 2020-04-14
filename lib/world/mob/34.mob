@@ -1,0 +1,206 @@
+#3400
+skeleton bones~
+The Skeleton~
+A Skeleton attacks you!
+~
+ It is a humanoid undead. Made of bones and wearing torn and dirty clothes.
+It has no eyes but can still see even in the dark. The monster is like a
+machine with only one intent... to harm all that is living.
+~
+2 4 96 16777216 -350 A 20 0
+#3401
+vampire vamp~
+The Vampire~
+A Vampire grins evilly at you with sharp white fangs.
+~
+ This is a vampire, a poweful undead that drinks the blood of its victims.
+~
+2 2 98 16777256 -600 S
+45 2 -13 1d45+600
+408 500 75 1d23+33
+73 73 25 1d0+95  -1
+-1
+-1
+0 255000 8 8 1
+#3402
+vladamir vampire vamp count~
+Count Vladamir~
+Count Vladamir grins evilly at you with sharp white fangs.
+~
+ This is a the master of vampires, Count Vladamir. He wears a cloak of
+black that he uses to hide his features. He is tall and muscular. Driplets
+of blood drop from his white fangs.
+~
+2 2 98 16777384 -800 S
+60 -7 -20 4d100+750
+408 500 40 3d10+20
+407 500 30 3d12+20
+73 0 10 1d0+95
+27 0 20 1d0+85 -1
+-1
+-1
+20000 600000 8 8 1
+#3403
+wraith~
+A Wraith~
+A Wraith is here.
+~
+ This undead is more shadow than anything else. It is so black that you
+can not make out its features.
+~
+2 0 100 787496 -500 S
+40 3 -10 4d50+550
+407 500 100 3d6+15 -1
+-1
+-1
+0 200000 8 8 1
+#3404
+swordwraith~
+A Swordwraith~
+A Wraith is here.
+~
+ This undead is more shadow than anything else. It is so black that you
+can not make out its features. This is the undead form of an evil Paladin.
+He also wears armor and wields a sword.
+~
+2 4 100 787496 -500 S
+45 0 -13 6d50+550
+407 500 100 3d8+18 -1
+-1
+-1
+0 260000 8 8 1
+#3405
+skeleton warrior~
+The Skeleton Warrior~
+A Skeleton with sword in hand, attacks you!
+~
+ This collection of walking bones has a sword in its hand that it is waving
+at you!
+~
+2 4 100 16778240 -350 A 35 0
+#3406
+ghoul~
+A Ghoul~
+A Ghoul is here.
+~
+ This foul smelling creature barely notices that you are here and doesn't
+seem to care.
+~
+2 4 196 16778240 -500 A 25 0
+#3407
+ghost~
+The Ghost~
+The ethereal Ghost is here.
+~
+ You can see right through this undead.
+ Your weapons pass right through it too.
+~
+2 4 2116 67110026 -400 A 50 0
+#3408
+zombie~
+A Zombie~
+A Zombie stands here.
+~
+ The zombie is a foul looking undead creature.  It wears wormridden clothes
+and has various maggots, worms, and flies crawling all over it.  Its mouth is
+sewn shut.  Its eyes are wormridden empty sockets that still seem to find you
+in the dark.
+~
+2 4 96 16777216 -400 A 40 1
+#3409
+zombie guardian~
+A The Zombie Guardian~
+The Zombie Guardian stands here.
+~
+ This putrid looking undead is covered with all sorts of maggots and worms.
+He wears a pendant of some sort about his neck and holds what looks like an
+hourglass in one hand.
+~
+2 4 96 16777216 -400 A 50 1
+#3410
+spectre~
+The Spectre~
+A Spectre is here.
+~
+ This ghost like undead attacks as soon as it sees you.
+~
+2 4 98 1194 -600 A 55 0
+#3411
+graverobber~
+A Graverobber~
+A Graverobber hides in the shadows.
+~
+ This grubby human carries a shovel and hooded lantern. He is searching
+the graveyard for the largest gravestones where the richest corpses lie.
+~
+1 4 196 525312 -200 A 15 1
+#3412
+general patton~
+The General~
+General Patton is here.
+~
+ The war hero.
+~
+2 4 2338 1024 500 A 50 1
+#3413
+fat fryer~
+The Fryer~
+A Fat Fryer stands here.
+~
+ This cleric stands ready to bless all who enter here. He is a jolly fat
+man with balding pate and a short beard. He holds a bottle of ale in one
+hand and a mace in the other. A key is thrust under his belt.
+~
+1 4 2402 1064 600 A 35 1
+#3414
+dracolich~
+A Dracolich~
+A Dracolich is here.
+~
+ This undead creature is the animated remains of a large dragon. Most of
+its former flesh and hide is gone to reveal its white bony skeleton.
+~
+2 4 98 1192 -700 A 50 0
+#3415
+igon lich~
+The Lich~
+The Lich Igon is here.
+~
+ What a nice lich.
+~
+2 2 98 1192 -1000 S
+70 -15 -25 1d1+900
+408 500 40 3d12+20
+407 500 40 3d15+15
+76 0 5 1d0+75
+73 0 15 1d0+95 -1
+-1
+-1
+0 800000 8 8 1
+#3416
+steel spike~
+A spike~
+A steel spike.
+~
+It seems to move as if it were alive.
+~
+2 4 34 1024 -300 A 50 0
+#3417
+mummy~
+the undead mummy~
+An undead mummy lies here.
+~
+ He is very pretty wrapped in toilet paper.
+~
+2 4 2 16777224 -500 A 40 0
+#3418
+nameless hero~
+The Nameless Undead Hero~
+The Nameless Undead Hero walks the earth.
+~
+ This undead creature was once a great hero but now she roams the graveyard
+and protects all the graves therein. To her you are an intruder.
+~
+2 4 2400 1024 800 A 40 2
+#99999
+$~

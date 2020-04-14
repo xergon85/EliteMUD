@@ -1,0 +1,38 @@
+#7700
+shrubbery~
+a Shrubbery~
+A small shrubbery stands here.~
+~
+8 1 0 0 ao
+0 0 0 0 0 0
+5 25000 2500
+#7701
+holy hand grenade antioch~
+the Holy Hand Grenade of Antioch~
+One of the sacred relics Brother Maynard carries with him, lies here.~
+~
+2 90 0 0 ao
+109 104 0 0 0 0
+2 100000 5000
+#7702
+herring~
+a herring~
+A fish tail sticks out of the ground.~
+~
+5 1 0 0 an
+1 1 1 6 0 0
+3 10 10
+#7703
+portal pkzone entry~
+A PK zone entry portal~
+A glowing portal promises entry to a world of player killing.~
+~
+26 110 0 hmnotza a
+7753 0 -1 -1 -1 -1
+10 10 0
+E
+portal pkzone entry~
+This PK zone was written for EliteMUD by Sekhmet.
+~
+#99999
+$~

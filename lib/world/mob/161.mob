@@ -1,0 +1,417 @@
+#16140
+binder~
+the master spell binder~
+The master spell binder is here re-charging a blackened wand.
+~
+The master spell binder snarls at you and attacks.
+~
+1 1 2148 40 200 S
+75 -17 -30 4d100+1000
+400 500 60 3d12+30
+30 0 10 1d0+95
+4 0 5 3d0+95
+77 0 10 1d0+95
+87 0 10 1d0+95
+39 0 5 2d0+75    -1
+-1
+-1
+5000 600000 8 8 1
+#16141
+maker~
+the golem maker~
+The golem maker is here chiseling some stone.
+~
+~
+1 1 2148 40 200 S
+75 -17 -30 4d100+1000
+400 500 70 3d15+30
+30 0 10 1d0+95
+4 0 5 3d0+95
+77 0 10 1d0+95
+39 0 5 2d0+75    -1
+-1
+-1
+5000 600000 8 8 1
+#16142
+golem~
+a granite golem~
+A granite golem stands here waiting to do its master's bidding.
+~
+It looks like a statue, until you see it shamble towards you.
+~
+12 4 66 536871048 100 S
+70 -14 -26 3d100+700
+401 500 100 3d15+15 -1
+-1
+-1
+0 526000 8 8 0
+#16143
+golem~
+a bronze golem~
+A bronze golem stands here shining in the light.
+~
+He looks rather dim witted.
+~
+12 4 66 536871048 100 S
+65 -12 -24 3d100+600
+401 500 100 3d15+15 -1
+-1
+-1
+0 470000 8 8 0
+#16144
+golem~
+a flesh golem~
+A flesh golem stands guard here
+~
+It looks to be made of a potpourri of different body parts; some don't even
+resemble anything human.
+~
+12 4 98 536871048 100 S
+55 -7 -20 2d100+500
+401 500 100 3d10+15 -1
+-1
+-1
+0 370000 8 8 0
+#16145
+golem~
+a cloth golem~
+A cloth golem wanders around here.
+~
+It looks like a bunch of old rags, quite surprising it can actually walk.
+~
+12 4 96 536871048 100 S
+50 -4 -15 2d100+450
+401 500 100 3d10+15 -1
+-1
+-1
+0 313000 8 8 0
+#16146
+golem~
+an adamantite golem~
+An adamantite golem stands here looking very dangerous.
+~
+It seems to be forged of dark metal.  It looks strong and durable,
+but somewhat un-intelligent.
+~
+12 4 66 536871048 100 S
+75 -18 -30 5d100+700
+401 500 100 3d15+20 -1
+-1
+-1
+0 600000 8 8 0
+#16147
+golem~
+a clay golem~
+A clay golem stands guard here.
+~
+~
+12 4 98 536871048 100 S
+60 -8 -19 3d100+600
+401 500 100 3d15+10 -1
+-1
+-1
+0 420000 8 8 0
+#16148
+master~
+the master of illusions~
+An enormous multi-colored three-headed dragon growls at you.
+~
+The image of an ugly dragon flickers slightly, and where the dragon was
+now stands a small harmless looking old man.
+~
+1 1 2116 40 200 S
+75 -17 -30 4d100+1000
+400 500 60 3d12+30
+30 0 10 1d0+95
+4 0 5 3d0+95
+77 0 10 1d0+95
+87 0 10 1d0+95
+39 0 5 2d0+75    -1
+-1
+-1
+5000 600000 8 8 1
+#16149
+master necromancer~
+the Master Necromancer~
+The Master Necromancer is here raising undead servants
+~
+Attired all in black, the Necromancer is tall and gangly, but still quite
+an imposing figure.  A dark cowl shrouds most of his face, but two blazing
+embers which serve as eyes can be seen through the shadow.
+The Necromancer shrieks some obscenities and orders his minions to attack.
+~
+1 1 2148 40 -400 S
+75 -17 -30 4d100+1000
+400 500 60 3d12+30
+30 0 10 1d0+95
+4 0 5 3d0+95
+77 0 10 1d0+95
+87 0 10 1d0+95
+39 0 5 2d0+75    -1
+-1
+-1
+5000 600000 8 8 1
+#16150
+skeleton~
+an animated skeleton~
+An animated skeleton screams silently and attacks.
+~
+It feels no pain, and hacks at you ruthlessly.
+~
+2 4 98 0 -400 S
+50 -4 -14 2d100+600
+407 500 100 3d10+15   -1
+-1
+-1
+0 300000 8 8 0
+#16151
+giant~
+an undead giant~
+An undead giant lumbers towards you.
+~
+~
+2 4 102 8 -500 S
+65 -12 -27 5d100+1000
+401 500 100 3d10+30   -1
+-1
+-1
+0 470000 8 8 0
+#16152
+witch~
+an ugly witch~
+An ugly witch is here crying out secrets.
+~
+She has no face at all, just blank skin, rather disturbing.  From about where
+her mouth should be, comes a disgusting giggling sound that makes your skin
+crawl with revulsion.
+~
+1 1 2150 8 -450 S
+85 -22 -36 5d100+1200
+400 500 60 3d15+20
+27 0 10 1d0+95
+4 0 3 3d0+95
+17 0 3 3d0+95
+33 0 3 3d0+95
+28 0 10 2d0+75
+61 0 3 2d0+80
+71 0 8 2d0+75   -1
+-1
+-1
+4000 760000 8 8 2
+#16153
+librarian conan~
+Conan the Librarian~
+Conan the Librarian stares at you from his desk here.
+~
+He looks like a rather large and powerful man.
+He grins and says, 'Don't you know the Dewey Decimal System??!'
+~
+1 4 2118 8 450 S
+90 -21 -35 5d100+1500
+403 500 100 3d20+30   -1
+-1
+-1
+0 900000 8 8 1
+A
+%%20 say You need something?~
+#16154
+apprentice~
+the master's apprentice~
+The master's apprentice leaps to halt your passage.
+~
+A powerful wizard in his own right, the apprentice of the master of balance
+has given up his station in the mage guild hierarchy in order to serve the
+great master in hopes of gleaning secrets one could never hope to uncover
+alone.
+~
+1 1 2150 8 0 S
+80 -17 -28 4d100+900
+400 500 70 3d15+25
+30 0 10 1d0+95
+26 0 10 1d0+95
+77 0 10 1d0+95   -1
+-1
+-1
+0 670000 8 8 1
+#16155
+cat~
+a grey cat~
+A grey cat is lounging lazily here.
+~
+The grey cat cocks an ear towards you, sensing your scrutiny, then purrs
+contentedly.  It looks rather harmless, until you notice its very large 
+claws.
+~
+3 1 66 40 0 S
+60 -7 -19 4d100+500
+407 500 100 3d10+25   -1
+-1
+-1
+0 420000 8 8 0
+#16156
+master~
+the master of Neutrality~
+The master of Neutrality stands here contemplating the balance.
+~
+He looks quite peaceful.
+~
+1 1 2114 136 0 S
+100 -30 -45 5d100+2000
+400 500 50 3d20+30
+76 0 5 1d0+95
+90 0 10 1d0+75
+88 0 10 1d0+95
+28 0 10 2d0+75
+87 0 10 1d0+95
+30 0 5 1d0+95   -1
+-1
+-1
+0 2000000 8 8 1
+A
+%%25 say Neutral is the way to be!~
+#16157
+apprentice~
+a black robed apprentice~
+A black robed apprentice jumps from the shadows and attacks.
+~
+She bears a wicked looking scar down the side of her face, though once she
+must have been beautiful, now the scar combined with what seems to be a
+permanent scowl make her looks quite fearsome.
+~
+1 1 2150 8 -600 S
+80 -17 -28 4d100+900
+400 500 70 3d15+25
+30 0 10 1d0+95
+26 0 10 1d0+95
+77 0 10 1d0+95   -1
+-1
+-1
+0 670000 8 8 1
+#16158
+cat~
+a black cat~
+A black cat with its fur up hisses at you.
+~
+It looks both mean and dangerous.  Petting seems to be completely out of
+the question.
+~
+3 1 66 40 0 S
+60 -7 -19 4d100+500
+407 500 100 3d10+25   -1
+-1
+-1
+0 420000 8 8 0
+#16159
+master~
+the master of the black robes~
+The master of the black robes is here plotting vile deeds.
+~
+The master glares at you.
+~
+1 1 2114 136 -1000 S
+100 -30 -45 5d100+2000
+400 500 50 3d20+30
+76 0 5 1d0+95
+90 0 10 1d0+75
+88 0 10 1d0+95
+28 0 10 2d0+75
+87 0 10 1d0+95
+30 0 5 1d0+95   -1
+-1
+-1
+0 2000000 8 8 1
+A
+%%25 say Dont disturb me!~
+#16160
+apprentice~
+a white robed apprentice~
+A white robed apprentice screams at your desecration of goodness.
+~
+He looks like a fanatic.
+The apprentice screams 'Thou art unworthy of this honor!'
+~
+1 1 2150 8 600 S
+80 -17 -28 4d100+900
+400 500 70 3d15+25
+30 0 10 1d0+95
+26 0 10 1d0+95
+77 0 10 1d0+95   -1
+-1
+-1
+0 670000 8 8 1
+#16161
+cat~
+a white cat~
+A white cat is here preening its fur.
+~
+It seems to be nothing more than a large ball of fluff with claws.
+~
+3 1 66 40 0 S
+60 -7 -19 4d100+500
+407 500 100 3d10+25   -1
+-1
+-1
+0 420000 8 8 0
+#16162
+master~
+The master of goodness~
+The master of goodness is here frowning at your intrusion.
+~
+He looks like a self-righteous bastard.
+~
+1 1 2114 136 1000 S
+100 -30 -45 5d100+2000
+400 500 50 3d20+30
+76 0 5 1d0+95
+90 0 10 1d0+75
+88 0 10 1d0+95
+28 0 10 2d0+75
+87 0 10 1d0+95
+30 0 5 1d0+95   -1
+-1
+-1
+0 2000000 8 8 1
+A
+%%25 say The only way to greatness is goodness!~
+#16163
+cat~
+A calico cat~
+A large calico cat is here
+~
+It looks incredibly large for a cat, no doubt a giant of its species.
+A beautiful jewel encrusted collar about its neck is its only adornment.
+~
+3 1 66 40 0 S
+80 -20 -30 5d100+1100
+407 500 100 3d20+20  -1
+-1
+-1
+0 670000 8 8 0
+#16164
+mistress~
+The Grand Mistress~
+The Grand Mistress of Magic is sitting here.
+~
+She looks quite comfortable on her emerald throne. Amazingly young and
+pretty for one of such stature in the guild, no doubt she has kept her
+youthful appearance through the use of strong magics.
+The Grand Master pets her cat and smiles at you in confidence.
+~
+1 1 2114 168 0 S
+109 -40 -45 10d100+4000
+400 500 40 3d20+30
+28 0 15 2d0+95
+76 0 15 1d0+95
+90 0 10 1d0+95
+4 0 2 3d0+95
+30 0 10 1d0+95
+87 0 5 1d0+95
+33 0 3 3d0+95  -1
+-1
+-1
+20000 4000000 8 8 2
+A
+%%30 say Welcome to your doom!;
+%20 cackle;%20 grin;%20 say Leave or DIE!~
+#99999
+$~

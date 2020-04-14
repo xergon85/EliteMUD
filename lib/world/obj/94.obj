@@ -1,0 +1,376 @@
+#9401
+comet tail spark~
+a comet's tail~
+A long, slender spark lies here.~
+~
+10 60 0 a ao
+60 28 -1 -1 0 0
+9 35000 1000
+#9402
+titanic arm hercules~
+the Mighty Arm plates of Hercules~
+Arm plates of the Zodiac lie here.~
+~
+9 73 0 agk ai
+10 0 0 0 0 0
+20 30000 500
+E
+arm~
+These mighty armors have been worn by this immortal, since the 
+ancient time.
+~
+A
+1 5
+A
+19 3
+#9404
+titanic belt orion~
+Orion's Hunting Belt~
+A belt of the Zodiac lies here.~
+~
+9 67 0 agk al
+10 0 0 0 0 0
+7 15000 2000
+E
+belt~
+You can immediately see that it belongs to Orion, from the three stars
+engraved on it.
+~
+A
+18 2
+A
+5 2
+#9405
+skull draco~
+the ugly skull of Draco~
+A massive skull of a dead Draco lies here.~
+~
+4 85 0 bgh ao
+109 10 10 4 0 0
+20 10000 300
+#9406
+titanic fleece aries~
+the Golden Fleece~
+A fleece of the Zodiac lies here.~
+~
+9 65 0 agk ac
+12 0 0 0 0 0
+15 25000 500
+E
+fleece~
+From a look it resembles the Golden Fleece that exists in the Greek 
+myths.
+~
+A
+13 60
+#9407
+titanic hoof taurus~
+the Hoof of Taurus~
+A hoof of the Zodiac lies here.~
+~
+9 71 0 agk ag
+10 0 0 0 0 0
+15 30000 500
+E
+hoof~
+It is with these hooves that Taurus can stand against Orion's attacks.
+~
+A
+14 100
+A
+19 3
+#9408
+titanic mask gemini~
+the Mask of Gemini~
+A mask of the Zodiac lies here.~
+~
+9 75 0 aghk ae
+16 0 0 0 0 0
+7 20000 500
+E
+mask~
+You notice the mask has got two faces, one smiling and the other 
+crying.
+You don't know which way you should wear it.
+~
+#9409
+titanic shell cancer~
+the Shell of Cancer~
+A shell of the Zodiac lies here.~
+~
+9 65 0 agk ad
+30 0 0 0 0 0
+75 35000 500
+E
+shell~
+A shell which is dented in the middle, resulting from the Hercules' 
+mighty
+pound when the Crab was still an enemy of Hercules in ancient times.
+~
+#9410
+titanic skin leo nemean~
+a Nemean Lion Skin~
+A skin of the Zodiac lies here.~
+~
+9 72 0 agk ak
+15 0 0 0 0 0
+45 25000 500
+E
+skin~
+A skin made of metal, which was worn by Hercules during his Ten 
+Labours.
+~
+A
+13 50
+#9411
+titanic bracelet crystal virgo~
+the Crystal Bracelet of Virgo~
+A bracelet of the Zodiac lies here.~
+~
+9 60 0 agk am
+10 0 0 0 0 0
+4 25000 500
+E
+bracelet~
+A bracelet of purity and youth, only worn by selected virgins.
+~
+A
+12 50
+A
+6 2
+#9412
+titanic scale libra justice~
+Libra's Scale of Justice~
+A shield of the Zodiac lies here.~
+~
+9 75 0 agk aj
+11 0 0 0 0 0
+15 40000 5000
+E
+scale~
+It is a shield of justice, used in the ancient battle against injustice.
+~
+A
+12 50
+A
+13 50
+A
+4 1
+#9413
+titanic scale libra injustice~
+Libra's Scale of Injustice~
+A shield of the Zodiac lies here.~
+~
+9 75 0 bhj aj
+6 0 0 0 0 0
+15 1000 500
+E
+scale~
+It is a shield of injustice, it picks on the innocent.
+~
+A
+19 2
+A
+4 -2
+A
+18 2
+#9414
+sting scorpio~
+the Sting of Scorpio~
+Sting of the Zodiac lies here.~
+~
+5 68 0 agk an
+0 6 7 11 0 0
+9 25000 500
+E
+sting~
+This dreadful weapon put a lot of mortals to death before Scorpio 
+was 
+banished.
+~
+A
+18 7
+A
+19 7
+#9415
+arrow sagittarius~
+the Arrow of Sagittarius~
+the Arrow of Sagittarius lies here.~
+~
+12 70 0 agk ao
+0 0 0 0 0 0
+7 15000 500
+E
+arrow~
+It's an arrow of lightning; it will never miss any target.
+~
+A
+18 12
+#9416
+titanic bow sagittarius~
+the Bow of Sagittarius~
+the Titanic Bow of Sagittarius lies here.~
+~
+5 65 0 agk an
+0 7 8 12 0 0
+20 30000 5000
+E
+bow~
+The gigantic bow used by the Archer; it is a very powerful weapon.
+~
+A
+18 6
+A
+19 6
+#9417
+titanic horns capricorn~
+the Horns of Capricorn~
+a pair of horns of the Zodiac lies here.~
+~
+9 65 0 agk ah
+10 0 0 0 0 0
+6 25000 500
+E
+horn~
+These strange horns are the work of gods, shaped to fit on hands.
+They look powerful indeed.
+~
+A
+18 3
+A
+19 4
+#9418
+vessel aquarius~
+the Ancient Vessel of Aquarius~
+A vessel of the Zodiac lies here.~
+~
+4 60 0 agk ao
+32 10 10 71 0 0
+12 35000 500
+E
+vessel~
+This vessel has been carried by the Water Bearer ever since she 
+came to the
+Zodiac.
+~
+A
+4 2
+#9419
+titanic tail pisces~
+the Tail of Pisces~
+A fish tail of the Zodiac lies here.~
+~
+9 68 0 agk af
+10 0 0 0 0 0
+10 20000 5000
+E
+tail~
+This tail can actually be worn by mortals somehow as leggings ... 
+another
+work of the gods.
+~
+A
+18 1
+A
+19 1
+#9420
+ring dignity~
+the Ring of Dignity~
+A ring of specialty lies here.~
+~
+9 80 0 abfgk ab
+15 0 0 0 0 0
+3 35000 1000
+E
+ring~
+This ring belongs to Cassiopeia, queen of the Universe.
+Mortals, do not touch!
+~
+A
+13 85
+#9421
+sceptre might~
+the Sceptre of Might~
+A sceptre of interest lies here.~
+~
+1 90 0 abfgk ao
+0 0 500 0 0 0
+4 40000 1000
+E
+sceptre~
+You'd better give it back, or the king of the Universe will punish you.
+~
+A
+18 4
+A
+19 4
+#9422
+ring universe~
+the ring of the universe~
+Here lies a fortune ... a small ring of power.~
+~
+9 90 0 abfgi ab
+30 0 0 0 0 0
+3 35000 2000
+E
+ring~
+It conceals the power of the universe.
+~
+#9423
+great dipper~
+the Great Dipper of the Skies~
+A dazzling white object lies on the ground.~
+~
+5 90 abcdeghiklmops abfgi an
+0 6 12 7 0 0
+16 30000 20000
+A
+18 10
+A
+19 5
+#9424
+spring shoot key~
+a spring shoot~
+A shoot grows here, covered with dew.~
+~
+18 40 0 ab a
+0 0 0 0 0 255
+2 0 10000
+#9425
+summer flower key~
+a summer flower~
+A flower grows here, waiting to be picked up.~
+~
+18 40 0 ab a
+0 0 0 0 0 255
+2 0 10000
+#9426
+autumn leaf key~
+an autumn leaf~
+A leaf lies here, as if just fallen from a tree.~
+~
+18 40 0 ab a
+0 0 0 0 0 255
+2 0 10000
+#9427
+winter branch key~
+a winter branch~
+A branch lies here, still covered with snow.~
+~
+18 40 0 ab a
+0 0 0 0 0 255
+2 0 10000
+#9428
+chains andromeda~
+chains of Andromeda~
+Some chains lie on the floor.~
+~
+13 1 0 af a
+0 0 0 0 0 0
+50 0 0
+E
+chains~
+They certainly look important!
+~
+#99999
+$~

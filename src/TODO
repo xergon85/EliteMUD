@@ -1,0 +1,2 @@
+Change all view options to use page_string(ch->desc, buf, TRUE);
+Improve show immortal option display level, name, immflags and sorted by level and then alphabetically by level

@@ -1,0 +1,16 @@
+>rand_prog 60~
+if number(0,1)
+ do(mob, "dance");
+else
+ do(mob, "sing");
+~
+>greet_prog 10~
+do(mob, "yell Monster!  I found a monster!  Kill!  Banzai!");
+if (isplayer(ch))
+  do(mob, "mpkill " + name(ch));
+~
+>bribe_prog 10~
+do(mob, "' Ahh!  More spirits!  Good spirits!");
+do(mob, "sing");
+~
+|

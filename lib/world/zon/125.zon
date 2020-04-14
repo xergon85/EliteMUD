@@ -1,0 +1,226 @@
+#125
+The Lost City of Delray~
+12586 120 2
+*Built for Elitemud 1998 by Amok
+* loading halfing soldiers (12500)
+M 0 12500 3 12509
+E 1 12510 30 16
+M 0 12500 3 12510
+E 1 12510 30 16
+M 0 12500 3 12525
+E 1 12510 30 16
+* loading halfling guards (plus equipment) (12502)
+M 0 12501 5 12507
+E 1 12507 30 5
+M 0 12501 5 12508
+E 1 12509 30 16
+M 0 12501 5 12510
+E 1 12507 30 5
+E 1 12509 30 16
+M 0 12501 5 12511
+E 1 12509 30 16
+M 0 12501 5 12526
+E 1 12507 30 5
+*loading halfling servants (12502)
+M 0 12502 3 12507
+M 0 12502 3 12517
+M 0 12502 3 12527
+* congar eel (12503)
+M 0 12503 1 12519
+* dogfish (12504)
+M 0 12504 2 12526
+M 0 12504 2 12521
+* lobster (12505)
+M 0 12505 2 12508
+M 0 12505 2 12530
+* shoals of fish
+M 0 12515 5 12521
+M 0 12515 5 12524
+M 0 12515 5 12522
+M 0 12515 5 12523
+M 0 12515 5 12521
+* Malaig (12506)
+M 0 12506 1 12529
+* loading and equiping object for Malaig and locking the 
+* requisite door from both sides. Also loading object onto 
+* floor in next room.
+E 1 12501 100 16
+D 1 12529 3 2
+D 1 12528 1 2
+O 1 12504 8 12528
+* two princes
+M 0 12507 2 12515
+M 0 12507 2 12515
+* King plus object (key) and locking doors.
+M 0 12508 1 12517
+E 1 12500 100 3
+D 1 12529 1 2
+D 1 12530 3 2
+* Queen
+M 0 12509 1 12513
+E 1 12508 5 8
+* gaoler + obj + locking gaol cell
+M 0 12510 1 12533
+E 1 12502 100 6
+D 1 12533 1 2
+D 1 12534 3 2
+E 1 12503 8 7
+* Wyrm
+M 0 12511 1 12531
+* General
+M 0 12512 1 12518
+E 1 12505 20 3
+* Orc
+M 0 12513 2 12534
+M 0 12513 2 12534
+* Kobold
+M 0 12514 2 12535
+M 0 12514 2 12535
+* shutting other open doors
+* gates
+D 0 12503 1 1
+D 0 12507 3 1
+* stairs
+D 0 12510 0 1
+D 0 12511 2 1 
+* bedroom
+D 0 12512 0 1
+D 0 12514 2 1
+* nursery
+D 0 12514 1 1
+D 0 12515 3 1
+* council chamber
+D 0 12517 0 1
+D 0 12516 2 1
+* throne
+D 0 12517 1 1
+* seaweed
+D 0 12522 4 1
+D 0 12521 4 1
+D 0 12524 3 1
+* Rubble filled corridor
+D 0 12518 2 2
+D 0 12527 0 2
+* Rug
+D 0 12529 5 1
+D 0 12533 4 1
+* Locker
+D 0 12529 2 1
+D 0 12532 0 1
+*
+*
+*Delray Expansion by Amok for Elitemud 1999-2000 
+*
+* Halfling Citizens (male) (max 8)
+M 0 12516 8 12536
+M 0 12516 8 12541
+M 0 12516 8 12564
+M 0 12516 8 12572
+M 0 12516 8 12568
+M 0 12516 8 12569
+M 0 12516 8 12570
+*Halfling Citizens (female) (max 6 - gotta make those men compete ;P )
+M 0 12539 6 12537
+M 0 12539 6 12567
+M 0 12539 6 12573
+M 0 12539 6 12570
+M 0 12539 6 12579
+M 0 12539 6 12571
+* Off-duty Soldiers (max3)
+M 0 12517 3 12542
+E 1 12510 10 16
+M 0 12517 3 12582
+E 1 12510 10 16
+M 0 12517 3 12565
+E 1 12510 10 16
+* Halfling Children (max 3)
+M 0 12518 3 12573
+M 0 12518 3 12538
+* Apprentice Mage (1)
+M 0 12519 1 12573
+* Jakat (junk shopkeeper)
+M 0 12520 1 12566
+G 1 12513 100
+G 1 12512 100
+G 1 12514 100
+G 1 12515 100
+* Innkeeper 
+M 0 12521 1 12542
+E 1 12517 20 16
+* Gorkan's Ghost
+M 0 12522 1 12558
+* Giant Octopus
+M 0 12523 1 12552
+E 1 12516 20 16
+* Terapin
+M 0 12524 2 12537
+* Turtle
+M 0 12525 1 12554
+* Prawn
+M 0 12526 2 12575
+M 0 12526 2 12576
+* King Prawn
+M 0 12527 1 12577
+E 1 12511 10 5
+* Anenome
+M 0 12528 1 12575
+* Seahorse
+M 0 12529 2 12551
+M 0 12529 2 12547
+* Starfish
+M 0 12530 1 12548
+* Wriggly Eel
+M 0 12531 2 12549
+* Seaweed
+M 0 12532 4 12546
+M 0 12532 4 12550
+M 0 12532 4 12548
+M 0 12532 4 12559
+* Barracudas
+M 0 12533 3 12562
+M 0 12533 3 12560
+* Cloud of Coal Dust
+M 0 12535 1 12555
+* Little Crab
+M 0 12536 2 12564
+* Clownfish
+M 0 12537 3 12559
+M 0 12537 3 12570
+* Monkfish
+M 0 12538 1 12580
+* Entrance to the Sewer
+D 0 12543 5 1
+D 0 12544 4 1
+* Grate in Sewer
+D 0 12545 5 1
+D 0 12546 4 1
+* Secret Door
+D 0 12553 5 1
+D 0 12551 4 1
+* Coal Bunker
+D 0 12555 2 1
+D 0 12554 0 1
+* Doors in the Folly (12557)
+D 0 12557 0 1
+D 0 12557 1 1
+D 0 12558 2 1
+D 0 12556 3 1
+* Top of Tepans Folly
+D 0 12563 5 1
+D 0 12562 4 1
+* Jubilee Gates
+D 0 12573 1 1
+D 0 12574 3 1
+* Crawlspace
+D 0 12579 5 1
+D 0 12580 4 1
+* North Arch Gate (fake exit)
+D 0 12581 0 2
+* Hobbit homes (fake exits)
+D 0 12571 0 2
+D 0 12571 2 2
+D 0 12572 0 2
+D 0 12572 2 2
+S
+#99999
+$~

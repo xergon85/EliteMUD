@@ -1,0 +1,664 @@
+#12600
+ghost wizard figure pale~
+the ghost of a wizard~
+The pale figure of a wizard looks forlornly at the remains of the shop.
+~
+He is dressed in long flowing robes, which look to be fairly badly 
+singed. His beard is scorched too, and he glances nervously around the 
+room without seeing you. You can almost see right through his pale form.
+~
+1 4 gfil dkr 220 S
+95 -27 -42 1d1+1920
+400 500 95 1d40+40
+26 0 5 1d0+100 -1
+-1
+-1 
+2300 617485 8 8 1
+#12601
+baker ghost~
+the ghost of a baker~
+The ghost of a baker, flinches at every sound.
+~
+He was a rather corpulent individual while he was alive, with a jolly 
+smile. His ghost is recognisable, but he flinches at every sound and his 
+apron is full of burn holes. In fact, its not just his apron - you can 
+see right through him!
+~
+1 4 gfil dkr 220 S
+90 -27 -38 1d1+2104
+401 500 100 1d48+47 -1
+-1
+-1 
+2100 667843 8 8 1
+#12602
+grocer ghost~
+the grocer's ghost~
+The ghost of a grocer is standing around, with a slightly bewildered 
+look on his face.
+~
+The grocer looks surprised to be dead, blinking uncertainly as he surveys
+the wreckage around him. He appears to be missing an arm!
+~
+1 4 gfil dkr 220 S
+90 -27 -38 1d1+1873
+400 500 100 1d45+42 -1
+-1
+-1 
+1980 627348 8 8 1
+#12603
+ghost weaponsmith ghostly~
+the weaponsmith's ghost~
+A ghostly weaponsmith peers uncertainly at you.
+~
+He was only a young man when the wrath of the gods was unleashed. He holds
+a stout cugel in one hand, and glares around him, looking for his enemy. 
+He obviously hasn't realised yet that he is dead.
+~
+1 4 gfil dkr 220 S
+90 -27 -40 1d1+2002
+403 500 100 1d45+48 -1
+-1
+-1 
+2201 650300 8 8 1
+#12604
+ghost armorer ghostly faded~
+the armorer's ghost~
+A faded ghostly armorer stands here in a battered breastplate.
+~
+He was an old and seasoned campaigner even before he open his armory, 
+selling protective items to fresh faced, and naive adventurers. He has 
+found a battered but still wearable breast plate in the wreckage, and 
+wears it now to protect himself.
+~
+1 4 gfil dkr 220 S
+90 -27 -45 1d1+2200
+400 500 100 1d45+41 -1
+-1
+-1 
+1998 600000 8 8 1
+#12605
+ghost receptionist~
+the receptionist's ghost~
+A pale ghostly receptionist looks out of place here.
+~
+You notice a confused look on her face.  She has realised something 
+is wrong, but not yet figured out what!
+~
+1 4 gfil dkr 220 S
+90 -27 -40 1d1+1684
+400 500 95 1d40+38
+97 0 5 1d0+100 -1
+-1
+-1 
+2000 623745 8 8 2
+#12606
+ghost captain seafarer~
+the captain's ghost~
+A pale ghostly seafarer gazes into the fog.
+~
+The rags draped around his scarred body were once fine seamans clothes, 
+sturdy and warm for stormy seas, but now burnt and full of holes. 
+~
+1 4 gfil dkr 220 S
+90 -29 -43 1d1+1905
+401 500 100 1d50+44 -1
+-1
+-1 
+2034 687564 8 8 1
+#12607
+sailor ghost thin whispy~
+the sailor's ghost~
+A thin and whispy sailor haunts this area.
+~
+He looks he was a strong sailor while he was alive, he's now missing 
+his bottom half, and he moans as he floats towards you.  
+~
+1 4 gfil dkr 220 S
+90 -27 -38 1d1+1928
+400 500 100 1d45+42 -1
+-1
+-1 
+1870 619843 8 8 1
+#12608
+ghost uncle juan~
+the ghost of Uncle Juan~
+Uncle Juan's ghost loiters about, looking for his tacos.
+~
+He looks very surprised to be dead, and obviously not used to roaming 
+away from his taco stand. He peers around looking for his tacos, and 
+sniffs the air for a hint of chilli sauce.
+~
+1 4 gfil dkr 220 S
+90 -25 -39 1d1+1802
+400 500 99 1d45+46
+13 0 1 2d0+100 -1
+-1
+-1 
+1994 611292 8 8 1
+#12609
+wally watermaster ghost shade~
+the ghost of Wally the Watermaster~
+The shade of the watermaster is here, looking for something to drink.
+~
+One of Midgaards model citizens, Wally once ran the watershop near 
+the east gate. The air in this place is dry, and Wally's ghost wanders 
+the streets looking for even a drop of water to wet his throat.
+~
+1 4 gfil dkr 220 S
+90 -29 -38 1d1+1797
+400 500 100 1d50+39 -1
+-1
+-1 
+2093 637593 8 8 1
+#12610
+postmaster post master ghost~
+the ghostly postmaster~
+The ghost of the postmaster mechanically goes about his work.
+~
+He spent all his life in service to the inhabitants of EliteMUD. Now 
+thats he's passed on (and very badly scorched by the rain of fire) he 
+knows nothing else but his work, and mechanically continues sorting 
+mail, not even noticing that it's never collected.
+~
+1 4 bgfil dkr 220 S
+90 -27 -40 1d1+1820
+400 500 100 1d41+42 -1
+-1
+-1 
+2201 622942 8 8 1
+#12611
+priest cleric healer ghost~
+a ghostly priest~
+A ghostly priest weeps silently at the fall of Midgaard.
+~
+Ah! The poor soul, to have died so young, and in the prime of health. 
+His peity and service to the Gods could not save him from their rage. 
+Half of his face has been burnt right off, exposing bone underneath and 
+his left arm has also been stripped of flesh by the scourging fire.
+~
+1 4 bgfil dkr 220 S
+90 -30 -45 1d1+2020
+400 500 90 1d35+40
+28 0 10 2d0+100 -1
+-1
+-1 
+2154 640000 8 8 1
+#12612
+harold undertaker ghost~
+the ghost of Harold the Undertaker~
+Harold the Undertaker has sold his last coffin.
+~
+Harold was once a tall skinny man, plying his trade about the town of 
+Midgaard, much to the annoyance of many mortals. He must have annoyed 
+the gods as well, with his irreverant blowing of kisses because his 
+ghost walks in a peculiar fashion - as if someone had taken one of those 
+coffins and shoved it up his a**!
+~
+1 4 gfil dkr 220 S
+100 -30 -50 1d1+2968
+410 500 90 1d50+50 
+26 0 10 1d0+100 -1
+-1
+-1 
+1935 699432 8 8 1
+#12613
+guildmaster master ghost~
+the ghostly guildmaster~
+A ghost appears in the shape of a guildmaster.
+~
+He looks very tired, and very dead. His clothes are torn and he moans 
+occasionally as he stares at the destruction all around him.
+~
+1 4 gfil dkr 220 S
+80 -22 -32 1d1+1300
+400 500 90 1d35+38
+30 0 10 1d0+100 -1
+-1
+-1 
+1402 540352 8 8 1
+#12614
+guildmaster master ghost~
+the ghostly guildmaster~
+You see a ghost in the shape of a guildmaster.
+~
+He once believed he was close to the gods, but has been harshly 
+disabused of that misconception. He stares in disbelief at the 
+destruction - he seems to have lost all faith in the gods.
+~
+1 4 gfil dkr 220 S
+80 -20 -39 1d1+1625
+400 500 98 1d40+39
+28 0 8 2d0+100 -1
+-1
+-1 
+1527 523845 8 8 1
+#12615
+guildmaster master ghost~
+the ghostly guildmaster~
+The guildmaster's ghost haunts this area.
+~
+Even missing an arm, and so thin and whispy that she is almost 
+transparent, you can appreciate the stealth in her movement 
+as she glides around. 
+~
+1 4 gfil dkr 220 S
+80 -25 -33 1d1+1346
+402 500 100 1d37+44 -1
+-1
+-1 
+1396 582362 8 8 2
+#12616
+guildmaster master ghost~
+the ghostly guildmaster~
+A ghostly guildmaster searches for his arms.
+~
+No, his weapons are with him, still sheathed at his side - but he 
+is sadly lacking the limbs to draw them. 
+~
+1 4 gfil dkr 220 S
+80 -23 -32 1d1+1677
+403 500 100 1d43+46 -1
+-1
+-1 
+1294 535942 8 8 1
+#12617
+sorcerer ghost~
+a ghostly sorcerer~
+A ghostly sorcerer attempts to bar your way.
+~
+While alive he was dedicated to protecting the guild premeses of the 
+Mages. The onslaught of the gods has obviously taken him by such 
+surprise that he hasnt even realised that he is a ghost - doomed to 
+endlessly haunt the ruined city.
+~
+1 4 gfil dkr 220 S
+80 -20 -33 1d1+1588
+400 500 90 1d32+36
+73 0 8 1d0+100
+2 0 2 1d0+100 -1
+-1
+-1 
+1308 525493 8 8 1
+#12618
+knight templar ghost~
+a ghostly templar~
+A holy templar's ghost stands before you.
+~
+Perhaps that should be 'holey' templar - the the rain of fire which 
+swept across the city has shredded him. No doubt he died protecting 
+innocents, or maybe clerics.
+~
+1 4 gfil dkr 220 S
+80 -24 -32 1d1+1717
+403 500 90 1d40+43
+50 0 10 2d0+100 -1
+-1
+-1 
+1297 500245 8 8 1
+#12619
+assassin ghost~
+a ghostly assassin~
+A faint impression of an assassin glides towards you.
+~
+For a man in his line of work being dead has to be an advantage - no 
+sound, can walk through walls, can disappear just by turning sideways. 
+Of course theres a downside, you can't get drunk!
+~
+1 4 gfil dkr 220 S
+80 -26 -29 1d1+1326
+402 500 95 1d20+50 -1
+372 95 315 95-1
+-1 
+1300 539724 8 8 1
+#12620
+knight guildg ghost~
+a ghostly knight~
+A solid-looking ghost stands guard here.
+~
+He appears remarkably solid for a ghost, though he obviously is one - 
+he just walked right through a large chunk of masonry! He is dressed in 
+the thick protective armour of a knight, and carries a huge shimmering 
+sword. No doubt he knows how to use it too.
+~
+1 4 gfil dkr 220 S
+80 -20 -34 1d1+1550
+401 500 100 1d42+46 -1
+-1
+-1 
+1275 522932 8 8 1
+#12621
+tailor ghost~
+a ghostly tailor~
+A pale ghostly tailor, sadly fingers his ruined clothes.
+~
+He sighs forlornly as he looks at his own clothes, which are shredded 
+and charred. He peers around, searching to needle and thread, and 
+perhaps a miracle to sort out his garments.
+~
+1 4 gfil dkr 220 S
+80 -25 -30 1d1+1663
+400 500 100 1d36+43 -1
+-1
+-1 
+1282 544914 8 8 1
+#12622
+jeweler ghost~
+a ghostly jeweler~
+The shade of the jeweler scrabbles through the ash for precious stones.
+~
+He's on his kness, search desperately through the wreckage for any of 
+the old stock from his shattered jewellery shop. He doesn't appear to 
+have found much of value yet, just ash.
+~
+1 4 gfil dkr 220 S
+80 -22 -37 1d1+1500
+400 500 100 1d40+41 -1
+-1
+-1 
+1193 524914 8 8 1
+#12623
+waiter ghost shade~
+a ghostly waiter~
+The pale shade of a waiter offers you a drink.
+~
+Unlucky, the glass he offers you is empty, and chipped around the 
+edges. Its most likely therefore that he offers you the glass out of 
+habit, and has no comprehension of what has happened.
+~
+1 4 gfil dkr 220 S
+80 -20 -30 1d1+1101
+400 500 100 1d40+41 -1
+-1
+-1 
+1080 484914 8 8 1
+#12624
+filthy ghost~
+a filthy ghost~
+An especially filthy ghost is searching through the rubble.  
+~
+Just looking at him you can tell that the dirt with which he is coated 
+is not fresh. In fact it seems likely that he was filthy while he was 
+alive. He searches frantically through the dirty ash, but gives no 
+indication of what he is searching for - anything he can sell.
+~
+1 4 gfil dkr 220 S
+80 -22 -34 1d1+1735
+400 500 100 1d40+41 -1
+-1
+-1 
+1102 504914 8 8 1
+#12625
+keeper peacekeeper skeleton skeletal~
+a skeletal peacekeeper~
+The charred remains of a peacekeeper patrols this area.
+~
+Bits of burnt flesh hang from the charred bones of a once tall warrior. 
+His eyes glare from his skull, and for some reason he seems to be 
+angry. He keeps muttering about unruly mortals, and the wrath of the gods.
+~
+1 4 gfilm dkrz 220 S
+18 11 0 1d1+340
+400 500 100 1d9+13 -1
+-1
+-1 
+102 12501 8 8 1
+#12626
+cityguard guard skeletal skeleton~
+a skeletal cityguard~
+A badly burnt cityguard snaps to attention.
+~
+He tries to appear helpful and friendly, and smiles at you as you 
+approach. However its hard to feel comfortable when confronted by 
+a large blackened skeleton grinning at you with only half a face.
+~
+1 4 gfilm dkrz 220 S
+18 11 0 1d1+400
+400 500 100 1d9+12 -1
+-1
+-1 
+59 12501 8 8 1
+#12627
+janitor ghoul ghoulish~
+a ghoulish janitor~
+A ghoulish janitor hovers around here, scooping up trash.
+~
+He has no choice but to hover, he is missing the bottom half of his 
+body. The upper torso and arms float a few feet off the ground, and 
+every so often, stoop to pick up some piece of trash from the mucky 
+ash on the ground.
+~
+1 4 cg khr 300 S
+23 6 -1 1d1+539
+401 500 100 1d11+10 -1
+-1
+-1 
+190 31667 8 8 1
+#12628
+fido dog ghastly~
+the ghastly fido~
+A horrible ghastly fido is grubbing through the trash.
+~
+The charred ghost of this small dog looks ghastly, with globs of 
+charred flesh hanging from his bones.
+~
+1 4 gfhil dkr 220 S
+12 14 3 1d1+181
+408 500 100 1d6+7 -1
+-1
+-1 
+50 3201 8 8 1
+#12629
+mercenary merc skeletal~
+a skeletal mercenary~
+The bones of a mercenary dance around you.
+~
+You think he's trying to tell you something, but are unable to to work 
+out what. A few rags still cling to the skeleton, but he lacks any 
+weapons, perhaps thats what he wants?
+~
+1 4 gfil dkr 220 S
+12 14 3 1d1+181
+403 500 100 1d6+7 -1
+-1
+-1 
+74 3201 8 8 1
+#12630
+drunk skeleton~
+a drunk skeleton~
+A clumsy skeleton staggers around here.
+~
+It takes you a moment to realise that he has his feet on backwards, 
+which is why he's having so much trouble walking. Once a drunk 
+always a drunk eh?
+~
+1 4 gfil dkr 220 S
+12 14 3 1d1+251
+401 500 100 1d6+7 -1
+-1
+-1 
+99 3201 8 8 1
+#12631
+beggar half~
+half a beggar~
+Half a beggar lies crumpled on the floor.
+~
+He has been sliced in half vertically, which must have made his eyes 
+water. He lies slumped against a shattered wall. Perhaps you should 
+look around and find the other half.
+~
+1 4 cgfil dkr 220 S
+12 14 3 1d1+181
+400 500 100 1d6+7 -1
+-1
+-1 
+105 3201 8 8 1
+#12632
+odif yltsahg ghost~
+the odif yltsahg~
+An odif yltsahg has been turned inside out!
+~
+The odif has been completely turned inside out by those vindictive gods.
+~
+1 4 fgh khr 300 S
+10 15 4 1d1+153
+408 500 100 1d6+6 -1
+-1
+-1 
+30 2133 8 8 1
+#12633
+cityguard guard skeletal skeleton~
+a skeletal cityguard~
+A badly burnt cityguard snaps to attention.
+~
+He tries to appear helpful and friendly, and smiles at you as you 
+approach. However its hard to feel comfortable when confronted by 
+a large blackened skeleton grinning at you with only half a face.
+~
+1 4 bgfilm dkr 220 S
+15 13 1 1d1+223
+403 500 100 1d7+8 -1
+-1
+-1 
+109 6399 8 8 1
+#12634
+grey gelatinous blob~
+the grey gelatinous blob~
+An oozing grey blob gloops its way around the ruined city.
+~
+Its just a horrible big grey blob. A closer look reveals that it was 
+once green in colour, but has been turned grey by the rain of fire, 
+and the sucking up of lots of that horrible ash.
+~
+1 4 cgl dhkr 140 S
+20 10 -1 1d1+295
+409 500 100 1d10+11 -1
+-1
+-1 
+187 20832 8 8 0
+#12635
+rufus paper boy ghost~
+the ghost of Rufus~
+The pale ghost of Rufus sits sobbing in the centre of the square.
+~
+Rufus was hired in the heyday of the Midgaard News Service to advertise 
+the local newspaper. He used to spend all day shouting at people to 
+read the NEWS, but his incessent babble was a constant annoyance to 
+anyone who came accross him. He isn't talking now however, and a closer 
+look reveals that his mouth has been stuffed with burnt newspaper, and 
+his hands carefully removed.
+~
+1 4 bgfil dhkr 220 S
+100 -24 -38 1d1+2886
+410 500 100 2d40+51 -1
+-1
+-1 
+1304 624914 8 8 1
+#12636
+kitten little lovely~
+a lovely little kitten~
+A cute little kitten is cleaning the ash off herself.
+~
+Well, it seems the gods do have a soft spot for animals after all. The 
+little kitten is safe and well, and doesn't appear to have been harmed 
+in the slightest. She looks at you and blinks her large eyes, you are 
+overcome by an urge to pet her.
+~
+1 4 bg khr 300 S
+10 15 4 1d1+153
+400 500 100 1d6+6 -1
+-1
+-1 
+4 2133 8 8 2
+#12637
+puppy loyal~
+the loyal puppy~
+A loyal puppy bounds around your ankles, yapping exitedly.
+~
+The puppy seems overjoyed to see you. He obviously hasn't had any 
+living people to play with for quite some time.
+~
+1 4 bg khr 300 S
+10 15 4 1d1+153
+400 500 100 1d6+6 -1
+-1
+-1 
+4 2133 8 8 1
+#12638
+horse mount skeletal~
+the skeletal horse~
+A gleaming skeletal horse stamps impatiently.
+~
+It looks nothing like a normal horse, it gleams brightly, and its eyes 
+are like red glowing coals. You think that rather than destroying the 
+horse, the gods have improved it.
+~
+1 4 bg khr 300 S
+20 10 -1 1d1+295
+400 500 100 1d10+11 -1
+-1
+-1 
+44 16832 8 8 1
+#12639
+dagga avatar rage~
+Dagga~
+A towering figure of fiery rage furiously attacks you!
+~
+His entire body consists of living flame, and you suddenly understand 
+that the desecretion of the city is the result of Dagga passing through. 
+His head, which makes up just over half his height, bears an expression 
+of utter fury, his brows drawn down like buttresses against any attack. 
+He launches himself at you without thought, just a wordless roar of 
+anger.
+~
+14 4 bfgl dhkrzD -800 S
+109 -50 -90 10d10+10000
+404 500 80 1d50+80
+103 0 4 1d0+90
+26 0 8 1d0+100
+5 0 8 1d0+100 -1
+-1
+-1
+40000 1000000 8 8 1
+R
+-1 -1 -1 -1 30
+#12640
+dervish rage flame~
+A flame dervish~
+A tiny ball of concentrated rage flails about you furiously.
+~
+The anger of the gods has become concentrated to form at tiny ball of 
+fiery rage. The ground beneath him is heavily scorched, and he is so 
+hot that it hurts to look at him.
+~
+14 4 bfgm dkrD -500 S
+90 -32 -40 1d1+5200
+404 500 80 2d30+45
+5 0 10 1d0+100
+48 0 10 1d0+100 -1
+-1
+-1
+8000 613002 8 8 1
+R
+-1 -1 -1 -1 25
+#12641
+jade golem guardian~
+a Jade Golem~
+An animated figure made of jade guards this cave.
+~
+This solid jade golem has been carved in the shape of a man, but much 
+bigger, towering over you. He appears not to notice you as he goes about 
+his work, using a peculiar artefact, and continually making subtle 
+adjustments to the gateway carved upon the cave wall.
+~
+12 4 beg dhkr 100 S
+109 -30 -90 1d1+22220
+407 500 100 1d35+89 -1
+-1
+-1 
+100 64000 8 8 1
+A
+%%10 emote makes a minor adjustment to the gateway.;
+%10 activate gateway;
+%10 emote studies the jade artefact, and the symbols on the gateway.~
+#99999
+$~

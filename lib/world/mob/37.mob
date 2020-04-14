@@ -1,0 +1,391 @@
+#3700
+rat~
+The giant rat~
+A giant rat is here chewing on some bones.
+~
+   This looks like an ordinary rat, but it is far much larger.  It's red eyes
+don't show nothing but hunger.
+~
+0 0 64 1024 -450 S
+0 20 10 2d6+25
+408 500 100 1d2+1   -1
+-1
+-1
+0 300 8 8 0
+#3701
+skeleton~
+The skeleton~
+A skeleton scrambles slowly around here.
+~
+   The skeleton still have parts of old dirty clothes on it, but the flesh
+seems to have long ago vanished.
+~
+2 0 64 1024 -500 S
+0 20 10 1d20+22
+407 500 100 1d4+1   -1
+-1
+-1
+25 200 8 8 0
+#3702
+necro necromancer~
+The necromancer~
+A necromancer is here looking for spare parts.
+~
+   Black robes cover him or her.  You can't be sure which in the dark.
+~
+1 1 2114 1024 -500 S
+1 20 9 1d6+30
+400 500 90 1d2+0
+32 0 10 1d0+95   -1
+-1
+-1
+50 400 8 8 1
+#3703
+zombie~
+The zombie~
+A zombie smells your living flesh and shambles towards you.
+~
+   Rotten flesh and old molded clothes covers this foul evil creature.
+~
+2 0 64 1024 -700 S
+2 19 9 4d6+30
+407 500 100 1d6+1   -1
+-1
+-1
+35 600 8 8 0
+#3704
+ghoul~
+The ghoul~
+A ghoul that hates living things is here waiting.
+~
+   Rotten flesh and old molded clothes covers this foul evil creature.
+~
+2 0 64 1024 -900 S
+3 19 9 4d6+40
+407 500 100 1d6+3   -1
+-1
+-1
+30 800 8 8 0
+#3709
+troglodyte trog~
+the large troglodyte~
+A large troglodyte pounces on you from behind a stone!
+~
+An ugly troglodtye with large yellow teeth stands here, preparing to make you
+into a meal for the whole family. He eyes your weapons and armor greedily.
+~
+1 4 102 1024 -500 S
+3 18 7 1d20+40
+400 500 100 1d7+1  -1
+-1
+-1
+50 700 8 8 1
+#3710
+lieutenant trog troglodyte~
+the troglodyte lieutenant~
+A troglodyte lieutenant stands here, ording others about.
+~
+He is in complete control here.
+~
+1 4 66 1024 -500 S
+8 14 7 1d80+50
+400 500 100 1d8+2  -1
+-1
+-1
+100 2000 8 8 1
+#3711
+cave spider~
+the cave spider~
+The cave spider hangs nimbly from the webby roof.
+~
+The spider's hard exoskeleton is covered with an oily substance that keeps its
+sticky webs from clinging to it. It is large and quite dangerous looking.
+~
+1 4 70 1024 -500 S
+5 16 8 1d20+60
+408 500 100 1d10+0  -1
+-1
+-1
+0 900 8 8 0
+#3712
+trapper~
+the gigantic trapper~
+A gigantic trapper engulfs you from the floor below!
+~
+It looks exactly like the floor it mimics.
+~
+1 4 102 1024 -600 S
+8 15 6 1d20+100
+408 500 100 2d5+2  -1
+-1
+-1
+50 2000 8 8 0
+#3713
+troglodyte trog evil~
+the evil troglodyte~
+The troglodyte attacks you with a yell!
+~
+He is dirty, and covered in grime and dried blood, some of which is apparently
+his own. He doesn't look particularly well fed, but would like to take this
+opportunity to improve that situation.
+~
+1 4 102 1024 -1000 S
+4 17 6 1d50+40
+400 500 100 1d6+2  -1
+-1
+-1
+35 800 8 8 1
+#3714
+troglodyte guard trog~
+the troglodyte guard~
+The troglodyte guardsman defends his post from all invaders.
+~
+They guard their post diligently, fighting off all who would attack their
+homeland and pose a threat to the survival of their people. Each is armored
+and carries a sharp weapon.
+~
+1 4 66 1024 -700 S
+6 16 6 1d40+70
+400 500 100 1d8+3  -1
+-1
+-1
+50 1200 8 8 1
+#3715
+troglodyte teen trog~
+the adolescent troglodyte~
+The young troglodyte rests here between training sessions.
+~
+He looks at you with alarm. He isn't sure whether he should stay and fight, or
+run. He scrambles for his weapons, just in case...
+~
+1 4 70 1024 -600 S
+2 18 8 1d20+30
+400 500 100 1d6+2  -1
+-1
+-1
+10 500 8 8 1
+#3716
+troglodyte adolescent student trog~
+the adolescent troglodyte~
+The young troglodyte is bashing his fellows with abandon.
+~
+He looks at his battlemaster, who urges him to slay you.
+~
+1 4 70 1024 -500 S
+2 18 8 1d20+30
+400 500 100 1d6+2  -1
+-1
+-1
+20 500 8 8 1
+#3717
+troglodyte trog battlemaster~
+the troglodyte battlemaster~
+The battlemaster screams at his pupils to attack, then assaults you himself.
+~
+He is extremely large, and is covered with battlescars. His armor is nice, and
+is finely polished, as is his sword, which is sharp and wicked looking.
+~
+1 4 98 1024 -1000 S
+10 14 5 1d40+120
+400 500 100 1d10+2  -1
+-1
+-1
+400 3600 8 8 1
+#3718
+troglodyte trog clansman~
+the troglodyte clansman~
+The troglodyte clansman cries for aid as he defends his homeland.
+~
+He looks like an ordinary troglodyte, about six feet tall, weighing slightly
+less than two hundred pounds. He is well armored, and carries a sharp weapon.
+~
+1 4 102 1024 -800 S
+4 18 8 1d40+40
+400 500 100 1d6+2  -1
+-1
+-1
+40 800 8 8 1
+#3719
+troglodyte trog clansman~
+the troglodyte clansman~
+The troglodyte clansman is here, foraging for food.
+~
+He looks like an ordinary troglodyte, about six feet tall, weighing slightly
+less than two hundred pounds. He is well armored, and carries a sharp weapon.
+~
+1 4 68 1024 -800 S
+4 18 7 1d40+40
+400 500 100 1d6+2  -1
+-1
+-1
+50 800 8 8 1
+#3720
+tunnel rat~
+the tunnel rat~
+There is a tunnel rat here, running for its life.
+~
+It is trying desperately to avoid becoming a troglodyte meal, like others of
+its kind. It edges away as you approach.
+~
+1 4 64 1024 -400 S
+1 19 10 1d10+30
+408 500 100 1d4+1  -1
+-1
+-1
+0 300 8 8 1
+#3721
+troglodyte cook trog~
+the troglodyte cook~
+A troglodyte cook is here, slaving over an pot of tunnel rat stew.
+~
+She looks at you as if you would make an excellent addition to the stew. Given
+the large knife she brandishes at you, you think she just might do it, too.
+~
+1 4 66 1024 -500 S
+2 19 8 1d20+30
+400 500 100 1d6+1  -1
+-1
+-1
+40 500 8 8 2
+#3722
+troglodyte shaman trog~
+the troglodyte shaman~
+A troglodyte shaman is here, mumbling incantations.
+~
+She curses you, lifting aloft the small humanoid skull around her neck. The
+incantations spewing from her mouth send shivers down your spine.
+~
+1 2 66 40 -1000 S
+10 14 6 3d40+160
+400 500 80 1d8+2
+15 0 10 2d0+75
+8 0 10 1d0+75  -1
+-1
+-1
+500 4000 6 6 2
+#3723
+troglodyte chief trog~
+the troglodyte chief~
+The great chief of the troglodytes is here, regarding you dispassionately.
+~
+He is the largest troglodyte you've ever seen. He is covered with battle scars.
+He looks at you with resignation, and slowly pulls out his great sword for
+battle.
+~
+1 4 66 1024 -900 S
+10 14 4 1d100+140
+400 500 100 2d6+4  -1
+-1
+-1
+1000 5000 8 8 1
+#3724
+golgar god~
+Golgar, god of the troglodytes~
+Golgar, the mighty god of the troglodytes, prepares to smite you.
+~
+This lordly figure is like a troglodyte, only on a larger scale. He must be
+twenty feet tall. Golgar wears no armor and holds no weapon - his skin looks li
+from solid granite. You feel a tremendous urge to grovel in supplication before
+but this is slightly weaker than your urge to run in terror.
+~
+1 4 66 1024 -1000 S
+15 10 3 1d100+180
+400 500 80 2d8+4
+10 0 10 1d0+75
+17 0 10 3d0+75  -1
+-1
+-1
+1500 9000 8 8 0
+#3725
+troglodyte clanswoman trog~
+the troglodyte clanswoman~
+The troglodyte clanswoman is here, crushing bone to paste.
+~
+She doesn't appear to think much or your company.
+~
+1 4 66 1024 -700 S
+2 20 8 1d20+40
+400 500 100 1d6+1  -1
+-1
+-1
+50 500 8 8 2
+#3726
+troglodyte matron trog~
+the troglodyte matron~
+The troglodyte matron is here, watching over the young.
+~
+She would kill you just for *thinking* about touching one of the little ones.
+~
+1 4 66 1024 -400 S
+3 19 8 1d30+40
+400 500 100 1d7+1  -1
+-1
+-1
+50 650 8 8 2
+#3727
+troglodyte clanswoman trog~
+the troglodyte clanswoman~
+The troglodyte clanswoman is here, getting some needed rest.
+~
+She looks annoyed and frightened at your intrusion.
+~
+1 4 66 1024 -600 S
+2 20 8 1d30+20
+400 500 100 1d6+1  -1
+-1
+-1
+30 500 8 8 2
+#3728
+troglodyte young trog~
+the young troglodyte~
+The young troglodyte is annoying the adults here.
+~
+It ceases all such activity when you enter, and attacks you dutifully.
+~
+1 4 66 1024 -600 S
+1 20 10 1d20+30
+400 500 100 1d5+1  -1
+-1
+-1
+10 300 8 8 1
+#3729
+troglodyte infant trog~
+the infant troglodyte~
+The infant troglodyte is here, waddling around and acting cute.
+~
+It's too young to understand the concept of killing.
+~
+1 4 66 1024 -400 S
+1 20 10 1d20+10
+400 500 100 1d4+1  -1
+-1
+-1
+0 200 8 8 1
+#3744
+lieutenant trog troglodyte~
+the troglodyte lieutenant~
+The chief's lieutenants snarl and attack.
+~
+They hope to impress their leader with your swift destruction.
+~
+1 4 98 1024 -600 S
+6 16 7 1d20+60
+400 500 100 1d8+2  -1
+-1
+-1
+40 900 8 8 1
+#3745
+troglodyte trog clansman~
+the troglodyte clansman~
+The troglodyte clansman jumps up from his nap with a yell!
+~
+He doesn't seem to like having been interrupted.
+~
+1 4 66 1024 -600 S
+3 18 8 1d20+40
+400 500 100 1d6+1  -1
+-1
+-1
+30 600 8 8 1
+#99999
+$~

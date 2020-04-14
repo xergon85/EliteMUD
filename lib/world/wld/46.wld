@@ -1,0 +1,983 @@
+#4601
+The Entrance to the Great Elven City of Illir~
+   You are entering the great elven city of Illir. Many elves are 
+passing by you on the path that leads to the gates. Before you 
+are the walls that surround the city. The only way in is the gates 
+that is guarded by armed elves.
+~
+46 0 3
+D0
+You see the gates that guard the elven city.
+~
+gate gates~
+1 4610 4603
+D2
+You see a forest.
+~
+~
+0 -1 23072
+S
+#4603
+Inside the Gates of the Great Elven City of Illir~
+   You are inside the gates of Illir. Everywhere you see elves walking 
+around and there is a sound of elven smiths forging weapons and armors. 
+As you look north you see some kind of market square and to the east a 
+large tree can be seen.
+~
+46 0 1
+D0
+You see a market square.
+~
+~
+0 -1 4606
+D2
+You see the mighty gates of Illir.
+~
+gate gates~
+1 4610 4601
+D3
+You look upon another part of the city.
+~
+~
+0 -1 4602
+D1
+You see an enormous tree.
+~
+~
+0 -1 4604
+S
+#4602
+In the City of Illir~
+   You are in the great elven city of Illir. There are many houses 
+around you and elves are busy working. To the south you see a smith.
+~
+46 0 1
+D2
+You see the entrance to the elven smith.
+~
+door iron~
+1 -1 4611
+D1
+You see some houses inside the gates.
+~
+~
+0 -1 4603
+D0
+You see a guard house near a small river.
+~
+~
+0 -1 4605
+S
+#4604
+Under a Great Tree~
+   You stand under a very large tree with leaves that are shining like 
+gold. As you look up into the tree you see a ladder that leads up 
+through the tree. To the west the city gates can be seen.
+~
+46 0 1
+D3
+Inside the gates.
+~
+~
+0 -1 4603
+D0
+In the elven city of Illir.
+~
+~
+0 -1 4607
+D4
+Up in the large tree.
+~
+~
+0 -1 4612
+S
+#4605
+A Guard House Before the Bridge~
+   You are standing at a guard house at a river. Elven 
+guards watch for intruders at a bridge that leads over 
+a swift stream. Far away you can see the mountains from 
+which the river seems to come.
+~
+46 0 2
+D0
+You see the entrance to the Dancing Duck.
+~
+door doors entrance~
+1 -1 4608
+D1
+You see some sort of market.
+~
+~
+0 -1 4606
+D2
+You see another part of the city.
+~
+~
+0 -1 4602
+D3
+You see a bridge that leads over the stream.
+~
+~
+0 -1 4614
+S
+#4606
+The Market Square of Illir~
+   You are standing in the middle of a market. Here elves come to buy 
+their food or to trade things. There are musicians playing and even 
+some elves dancing.
+~
+46 0 1
+D0
+You see a path that leads to a large house.
+~
+~
+0 -1 4609
+D1
+You see another part of the city.
+~
+~
+0 -1 4607
+D2
+You see the gates of the elven city.
+~
+~
+0 -1 4603
+D3
+You see a bridge that leads over a stream.
+~
+~
+0 -1 4605
+S
+#4607
+The Elven City of Illir~
+   You are standing in another part of the elven city. To the west it 
+seems that the elves are holding some sort of market and to the north 
+more houses can be seen.
+~
+46 0 1
+D0
+The northeast corner of the city.
+~
+~
+0 -1 4610
+D2
+You see a great tree.
+~
+~
+0 -1 4604
+D3
+You see the market square of Illir.
+~
+~                         
+0 -1 4606
+S
+#4608
+The Dancing Duck~
+   You are standing in the Dancing Duck. Here elves come to 
+feast and to get a good nights sleep. The innkeeper is busy serving 
+elves food and wine and there are musicians playing in a corner.
+~
+46 d 0
+D2
+You see a guard house near a stream.
+~
+door doors entrance~
+1 -1 4605
+S
+#4609
+On the Trail to a Great Elven House~
+   You are walking on a trail that leads up to a house of great 
+beauty. The path doesn't seem to be made of mortals as it seems 
+to shine on its own. To the south you can see the market square.
+There are some guards on the path that stare threateningly at you.
+~
+46 0 3
+D0
+You see the entrance to a great house.
+~
+~
+0 -1 4623
+D1
+You see some houses in the distance.
+~
+~
+0 -1 4610
+D2
+As you look back you see the market square.
+~
+~
+0 -1 4606
+S
+#4610
+Another part of the city~
+   You are standing in a part of the elven city that is dominated by 
+the houses where the elves live. Here most of the mothers and their 
+children spend their time waiting for the fathers to come home 
+from their duties. 
+~
+46 0 1
+D2
+As you look south you can see that the city continues.
+~
+~
+0 -1 4607
+D3
+You see a trail that goes up in the woods.
+~
+~
+0 -1 4609
+S
+#4611
+In the Smithy~
+   You are in an elven smithy. Many young elves are working hard and 
+before you an old elf is hammering on an anvil. The sound of battering 
+iron is so loud that you want to cover your ears. The only way out is 
+the door to the north. 
+~
+46 d 0
+D0
+You see some houses.
+~
+door iron~
+1 -1 4602
+S
+#4612
+Up in the large tree~
+   You are climbing a very large tree. Elven guards are sitting on the
+limbs of the tree and you also see children playing around. As you look
+up you can see that another ladder leads even further up into the tree.
+~
+46 0 3
+D4
+The ladder goes even higher up into the great tree.
+~
+~
+0 -1 4613
+D5
+You see the ground under the great tree.
+~
+~
+0 -1 4604
+S
+#4613
+At the Top of the Tree~
+   You are standing in a house that is built in the great tree. Torches 
+are hanging on the walls and there seems to be food stored everywhere. 
+As you look around you also see many elven guards approaching you with 
+haste. It doesn't like they want you here! 
+~
+46 d 3
+D5
+You see the rope ladder that leads down from the tree.
+~
+~
+0 -1 4612
+S
+#4614
+The Bridge over the Stream~
+   You are standing on a bridge that leads over a swift stream. The 
+stream comes down from the imposing mountains that can be seen in 
+the north. The area west of the bridge seems to be very wild and 
+desolate compared to the city of the elves.
+~
+46 c 2
+D1
+You see the guard house before the bridge.
+~
+~
+0 -1 4605
+D3
+You see the hills which are below the mountains.
+~
+~
+0 -1 4615
+S
+#4615
+The Beginning of the Trail to the Mountains~
+   You are standing on a path that leads up to the mountains. As you move
+on you notice that you are not the only living being on this path. Many
+signs show that orcs have been on this path not long ago.
+~
+46 0 4
+D0
+The trail goes on through the hills.
+~
+~
+0 -1 4616
+D1
+You see the bridge that leads over the stream.
+~
+~
+0 -1 4614
+D2
+You see a trail that goes south down to the stream.
+~
+~
+0 -1 4622
+S
+#4616
+On the Trail Towards the Mountains~
+   You are walking on the trail that leads up to the mountain that 
+can be seen in the east.
+~
+46 0 4
+D0
+The trail continues.
+~
+~
+0 -1 4617
+D2
+You see the trail as it goes down to the bridge.
+~
+~
+0 -1 4615
+S
+#4617
+On the Trail Towards the Mountains~
+   You are on the trail that leads up to the moutains.
+~
+46 0 4
+D0
+The trail seems to be lesser used to the north.
+~
+~
+0 -1 4618
+D2
+You see the trail as it goes down by the hills.
+~
+~
+0 -1 4616
+S
+#4618
+In a Bend of the Trail Towards the Mountains~
+   The trail seems to be used very little here up in the hills. 
+Everywhere bushes and grass are growing on the trail and sometimes 
+some evil noise makes your heart stop for awhile.
+~
+46 0 4
+D2
+The trail continues south.
+~
+~
+0 -1 4617
+D3
+The trail goes directly towards the mountains.
+~
+~
+0 -1 4619
+S
+#4619
+Near the Misty Mountains~
+   You are standing on the trail that leads up from the elven city 
+to the mountains. As you look west you see that the mountains are 
+covered with snow and that seems unusual at this time of year.
+~
+46 0 4
+D1
+A trail that leads from the mountains seems to turn south after a 
+little while.
+~
+~
+0 -1 4618
+D3
+You see the mountains that are very close now.
+~
+~
+0 -1 4620
+S
+#4620
+At the Foot of the Misty Mountains~
+   You are standing just outside the eastern entrance to the mines of 
+Moria. The snowclad mountain seems to darken your thoughts and hope as 
+it casts its shadow upon you. Everywhere the sound of orcs and other 
+foul creatures gets nearer.
+~
+46 0 4
+D1
+A trail leads down from the mountains.
+~
+~
+0 -1 4619
+D3
+You see the eastern entrance to Moria.
+~
+~
+0 -1 4621
+S
+#4621
+The Eastern Entrance to Moria~
+   You are standing inside the entrance that goes into Moria from the 
+east. The signs of marauding orcs can be seen everywhere and you also 
+see some trees that have been burned just for pleasure. As you look 
+further in you see only darkness.
+~
+46 cd 0 
+D1
+You see the hills outside of Moria.
+~
+~
+0 -1 4620
+D2
+You see endless darkness.
+~
+~
+0 -1 4244
+S
+#4622
+At a swift Stream~
+   You are standing at the side of a stream that is making its way 
+down from the mountains. To the east the golden woods of Lothlorien 
+can be seen and you wonder if you dare to enter. There seems to be 
+a small path going along the stream.
+~
+46 0 3
+D0
+In the distance you see a bridge.
+~
+~
+0 -1 4615
+D1
+You see a great river and some elven ships.
+~
+~
+0 -1 4649
+S
+#4623
+The Entrance to the Royal Elven House~
+   You are standing before the doors of the house where the elven king 
+and queen live. There are guards on both sides of the door and it 
+doesn't look like you are invited.
+~
+46 0 3
+D0
+You see the doors of the house.
+~
+door~
+2 4611 4624
+D2
+You see the city of the Elves.
+~
+~
+0 -1 4609
+S
+#4624
+In the Great Elven House~
+   You have entered the elven house where the king and queen live. 
+There are guards patrolling just outside and you can see servants 
+working in the halls of the house. The hallway continues north but 
+there is also a small door to the east.
+~
+46 d 0
+D2
+You see the trees outside the house.
+~
+door~
+2 4611 4623
+D0
+You see a joint in the hallway.
+~
+~
+0 -1 4627
+D1
+You see a small door made of oak.
+~
+door~
+1 -1 4625
+S
+#4625
+A hallway in the elven house~
+   You are standing in a hallway in the elven house. To the west a 
+small door can be seen and to the east you hear the sounds of elves 
+singing. 
+~
+46 d 0
+D3
+You see a small door made of oak.
+~
+door~
+1 -1 4624
+D1
+You see the entrance to a room that appears filled with singing elves.
+~
+~
+0 -1 4626
+S
+#4626
+The Room of Pleasures~
+   You are standing in the entrance to a room where the elves go to 
+listen and take part in the choirs singing or to hear the lords tell 
+stories about orcs and goblins. In the middle of the room there is a 
+dark-haired old elf with a large sword in a sheet. As you look upon 
+him you understand that this is a very mighty man.
+~
+46 d 0
+D3
+You see the hall that leads out from the room.
+~
+~
+0 -1 4625
+S
+#4627
+At a Nexus in the Hall~
+   You have come to the place where the hallway that comes from the 
+entrance of the house divides in every direction.
+~
+46 d 0
+D0
+You see that the hall continues north.
+~
+~
+0 -1 4632
+D1
+A narrow hall continues east.
+~
+~
+0 -1 4628
+D2
+You see the hall that goes towards the entrance of the house.
+~
+~
+0 -1 4624
+D3
+You the hall that goes towards the kitchen.
+~
+~
+0 -1 4630
+S
+#4628
+In a Small Hallway~
+   You are standing in a hallway that goes east-west.
+~
+46 d 0
+D3
+You see a Nexus in the hallway.
+~
+~
+0 -1 4627
+D1
+You see the end of the hallway.
+~
+~
+0 -1 4629
+S
+#4629
+At the End of the Hallway~
+   You have come to the end of the hallway. There are no elves present 
+and you wonder why. In the east part of the room you can see a large 
+fireplace that is covered with dust.
+~
+46 d 0
+D3
+You see the hallway continue east.
+~
+~
+0 -1 4628
+D5
+You see that there are some strange details on the floor.
+~
+fireplace~
+1 -1 4642
+E
+fireplace~
+You see that there is a trigger on the side of the fireplace.
+~
+S
+#4630
+At the Entrance to the Kitchen~
+   You are standing in the entrance of the kitchen where the elven 
+cooks are preparing meals for the royal court. There is a sweet 
+smell and you start too drool as you haven't eaten a decent meal for 
+a long time. 
+~
+46 d 0
+D1
+You see a nexus in the hallway.
+~
+~
+0 -1 4627
+D0
+You see the middle of the elven kitchen.
+~
+~
+0 -1 4631
+S
+#4631
+The Kitchen of the Elves~
+   You are standing in the place where all food is prepared for the 
+elven queen and king. There are also many elves making lembas for 
+the traveling elves.
+~
+46 d 0
+D2
+You see the entrance to the kitchen.
+~
+~
+0 -1 4630
+S
+#4632
+In the Main Hallway~
+   You are standing in the hallway that goes from the entrance of the 
+great elven house to the stairs that can be see in the north. Some 
+elves are moving around carrying food for the court upstairs.
+~
+46 d 0
+D2
+You see a nexus in the Hallway.
+~
+~
+0 -1 4627
+D0
+You see the stairs that goes up.
+~
+~
+0 -1 4633
+S
+#4633
+At the Bottom of the Stairs~
+   You are standing at the foot of the spiral stairs that lead up to 
+the second floor of the great elven house. These stairs seem very 
+ancient and were probably made by dwarves milleniums ago.
+~
+46 d 0
+D2
+You see the hallway that leads south.
+~
+~
+0 -1 4632
+D4
+You see the spiral stairs go up, and up, and up......
+~
+~
+0 -1 4634
+S
+#4634
+At the Top of the Stairs~
+   You reach the top of the stairs and come to the great halls 
+of the elven court. To the south two great thrones can be seen and 
+there are elven guards everywhere.
+~
+46 d 0
+D5
+You see the stairs go down.
+~
+~
+0 -1 4633
+D2
+You see the hall of the elven court.
+~
+~
+0 -1 4635
+S
+#4635
+In a Hall in the Elven Court~
+   You are standing in a hall where the elven court is located. To the 
+south the throne of the elven queen and king can be seen, and to the 
+east and west there are guards watching you.
+~
+46 d 0
+D0
+You see the stairs.
+~
+~
+0 -1 4634
+D1
+You see a small alcove that is guarded by a royal guard.
+~
+~
+0 -1 4636
+D2
+You see the Thrones of the king and queen.
+~
+~
+0 -1 4638
+D3
+You see a small alcove that is guarded by a royal guard.
+~
+~
+0 -1 4637
+S
+#4636
+An Alcove in the Royal Hall~
+   You are standing in a small alcove that is used by the royal elven
+guards. There are weapons hanging on the walls and you can also see 
+paintings made centuries ago.
+~
+46 d 0
+D3
+You see the hall of the elven court.
+~
+~
+0 -1 4635
+S
+#4637
+An Alcove in the Royal Hall~
+   You are standing in a small alcove that is used by the royal elven
+guards. There are weapons hanging on the walls and you can also see
+paintings that seem to be made centuries ago.
+~
+46 d 0
+D1
+You see the hall of the elven court.
+~
+~
+0 -1 4635
+S
+#4638
+The Thrones of the Elven Queen and King~
+   You are standing before the elven queen and king who are sitting on
+their thrones. They seem to be very mighty and you get a strong urge 
+to run away from this place. At the same time you are caught by the 
+beauty of the elven queen whom you have never seen before.
+~
+46 dt 0
+D0
+You see the hallway of the elven court.
+~
+~
+0 -1 4635
+D2
+You see that there seems to be some sort of hidden room behind the 
+throne.
+~
+~
+0 -1 4640
+D4
+You see a door on the roof that leads to an attic.
+~
+attic door~ 
+1 -1 4639
+S
+#4639
+The Attic of the Elven House~
+   You are standing in an attic where nobody seems to have stepped  
+foot for a long time. There are bats sleeping under the roof and 
+you can see many things lying on the ground covered by dust.
+~
+46 d 0
+D5
+You look down on the thrones of the elven queen and king.
+~
+attic door~
+1 -1 4638
+S
+#4640
+A Secret Hall Behind the Thrones~
+   You have come to a secret hall behind the thrones of the elven 
+queen and king. There are many great paintings of elves and the 
+other free people of Middle earth. As you look south you can see 
+some sort of mirror that shines on its own and you think that it 
+would be clever not to go that way. 
+~
+46 d 0
+D0
+You see the elven thrones.
+~
+~
+0 -1 4638
+D2
+You see the mirror of Galadriel.
+~
+~
+0 -1 4641
+S
+#4641
+The Mirror of Galadriel~
+   As you step into the room you can't help looking into the mirror 
+that is placed on the floor. A terrible red eye catches your sight 
+and disintegrates your soul.
+~
+46 bcd 0
+D1
+~
+~
+0 -1 4640
+S
+#4642
+The Entrance to the Dungeons~
+   You have reached the dungeons where the Elves keep their prisoners. 
+It doesn't look like anyone has been here for a long time and you 
+start to wonder if there are any living creatures in them.
+~
+46 ac 0
+D2
+You see the dungeons of the Elves.
+~
+~
+0 -1 4643
+D4
+You see the tunnel up to the fireplace.
+~
+fireplace tunnel~
+1 -1 4629
+S
+#4643
+In the Dungeons~
+   You are standing in the dungeons under the great elven house. As 
+you turn around you can't see from which way you came.....or where 
+you should go next. 
+~
+46 ag 0
+D1
+You see old prison cells.
+~
+~
+0 -1 4644
+D0
+~
+~
+0 -1 4645
+D2
+You see the dungeons continue.
+~
+~
+0 -1 4646
+D3
+You see the dungeons continue.
+~
+~
+0 -1 4647
+S
+#4644
+Lost in the Dungeons~
+   You are standing in the dungeons where the elves keep their 
+prisoners. Strange sounds can be heard from the old cells and you 
+wish you hadn't come here.
+~
+46 ag 0
+D0
+You see nothing special.
+~
+~
+0 -1 4645
+D1
+You see old prison cells.
+~
+~
+0 -1 4644
+D2
+You see the dungeons continue.
+~
+~
+0 -1 4646
+D3
+You see the dungeons continue.
+~
+~
+0 -1 4647
+S
+#4645
+Lost in the Dungeons~
+   You are standing in the dungeons where the elves keep their 
+prisoners. Strange sounds can be heard from the old cells and you 
+wish you hadn't come here.
+~
+46 ag 0
+D0
+You see nothing special.
+~
+~
+0 -1 4645
+D1
+You see old prison cells.
+~
+~
+0 -1 4643
+D2
+You see the dungeons continue.
+~
+~
+0 -1 4646
+D3
+You see the dungeons continue.
+~
+~
+0 -1 4647
+S
+#4646
+Lost in the Dungeons~
+   You are standing in the dungeons where the elves keep their 
+prisoners. Strange sounds can be heard from the old cells and you 
+wish you hadn't come here. Some sort of strange smell is coming 
+from the south.
+~
+46 a 0
+D1
+You see old prison cells.
+~
+~
+0 -1 4644
+D0
+You see nothing special.
+~
+~
+0 -1 4645
+D2
+You see the entrance to a big cave.
+~
+~
+0 -1 4648
+D3
+You see the exit from the dungeons.
+~
+~
+0 -1 4642
+S
+#4647
+Lost in the Dungeons~
+   You are standing in the dungeons where the elves keep their 
+prisoners. Strange sounds can be heard from the old cells and you 
+wish you hadn't come here.
+~
+46 ag 0
+D0
+You see nothing special.
+~
+~
+0 -1 4645
+D1
+You see old prison cells.
+~
+~
+0 -1 4643
+D2
+You see the dungeons continue.
+~
+~
+0 -1 4646
+D3
+You see the dungeons continue.
+~
+~
+0 -1 4647
+S
+#4648
+The Lair of the Two-Horned Beast~
+   You have entered the lair where a great beast has been held captured
+for ages. On the floor lots of bones from humans and other creatures can 
+be seen and you wonder where they came from. As you stand here you feel 
+the noise of some foul creature in the back of you neck.
+~
+46 a 0
+D0
+You see the exit from the lair.
+~
+~
+0 -1 4646
+S
+#4649
+The Elf Haven~
+   You are standing at the place where the swift stream comes into a 
+mighty river. Here are many of the boats the elves use when they 
+like to travel on the river and these grey vessels are the finest 
+piece of workmanship you have ever seen. An elf can be seen mending 
+a golden rudder that apparently must be used to steer the ships.
+~
+46 0 0
+D3
+You see the trail along the swift stream.
+~
+~
+0 -1 4622
+S
+#99999
+$~

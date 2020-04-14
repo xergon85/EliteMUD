@@ -1,0 +1,968 @@
+#17202
+The gates of the Minotaur Village~
+   Directly south you see a huge pair of gates. These gates appear to be 
+carved almost completely out of wood. A huge city appears to be on the 
+other side of these gates. There is also a possibility of going back 
+north. 
+~
+172 0 1
+D0
+~
+~
+0 -1 17064
+D2
+To the south is a strong, sturdy gate. 
+~
+gate~
+1 0 17203
+S
+#17203
+The city streets of Mahn-Tor~
+   You walk among the various shops and homes. Most of the doors are 
+closed and only the light from the windows betrays the presence of 
+inhabitants. A cold wind blows through here. Small streets lead south 
+and east. 
+~
+172 0 1
+D0
+~
+gate~
+1 0 17202
+D1
+~
+~
+0 0 17204
+D2
+~
+~
+0 0 17206
+S
+#17204
+Inside the gates of Mahn-Tor~
+   You stand just inside the gates to the city of Mahn-Tor. The city 
+itself spreads out in front of you. The buildings are sturdy, as they 
+appear to be made from the very hard rock. Small city streets lead east 
+and west, while a main road appears to lead south. 
+~
+172 0 1
+D0
+~
+gates gate huge~
+1 -1 17202
+D1
+~
+~
+0 -1 17205
+D2
+~
+~
+0 0 17207
+D3
+~
+~
+0 -1 17203
+S
+#17205
+The city streets of Mahn-Tor~
+   You trudge among the streets of Mahn-Tor. The streets themselves are 
+made of cobblestone and are quite treacherous. Small homes and 
+businesses along the street are closed tight and light from their 
+windows throws eerie shadows across the dark street. Small streets lead 
+west and south here. 
+~
+172 0 1
+D2
+~
+~
+0 0 17208
+D3
+~
+~
+0 0 17204
+S
+#17206
+The city streets of Mahn-Tor~
+   You trudge through the streets of the city. The street itself is made 
+of cobblestones and the footing is quite treacherous. To the south, you 
+see what appears to be a small tavern. Bright lights shine through the 
+windows. Small streets also lead north and east. A small sign hangs 
+outside the tavern. 
+~
+172 0 1
+D0
+~
+~
+0 0 17203
+D1
+~
+~
+0 -1 17207
+D2
+~
+~
+0 -1 17209
+E
+sign small~
+[]=============[]
+ |  The Inn    |
+ |   of the    |
+ |   Broken    |
+ |    Horn     |
+[]=============[]
+~
+S
+#17207
+The Square of Mahn-Tor~
+   This appears to be the main square of Mahn-Tor. Small streets lead 
+east and west. To the north, you see the gates to the city. You also 
+notice a small store to the south. A small sign hangs outside the store. 
+~
+172 0 1
+D0
+~
+~
+0 0 17204
+D1
+~
+~
+0 0 17208
+D2
+~
+~
+0 0 17210
+D3
+~
+~
+0 0 17206
+E
+sign~
+[]=========[]
+ |  Equip  |
+ |   Shop  |
+[]=========[]
+~
+S
+#17208
+The streets of Mahn-Tor~
+   You walk among the small stores and homes of Mahn-Tor. The wind blows
+fiercely. Small streets lead in all directions. There appears to be a 
+large building to the east, but the sun obscures your view. 
+~
+172 0 1
+D0
+~
+~
+0 0 17205
+D1
+~
+~
+0 0 17215
+D2
+~
+~
+0 0 17211
+D3
+~
+~
+0 0 17207
+S
+#17209
+The Inn of the Broken Horn~
+   You enter a warm tavern. The room is lit mainly by two huge 
+fireplaces at each end of the room. Small tables and a large bar furnish 
+the room. The inhabitants of the inn are all minotaurs of varying size 
+and disposition. Most seem to regard you with suspicion. Few approach 
+you. A large door leads north, out of the bar and back out into the 
+city, and some stairs are leading up.
+~
+172 cd 0
+D0
+~
+~
+0 0 17206
+D4
+~
+~
+0 -1 17240
+S
+#17210
+The Mahn-Tor Equipment Shop~
+   You are in a crude equipment shop. The store is filled with racks of 
+various items that adventurers could use. Large fireplaces light and 
+heat the room. A large desk occupies the back of the room. The door to 
+the shop lies to the north. 
+~
+172 d 0
+D0
+~
+~
+0 0 17207
+S
+#17211
+The Mahn-Tor General Store~
+   You enter a small store that is dark and cold. Old empty shelves line 
+the walls and dust blows across the stony floor. It is evident that this 
+store was once used, but it is no more. A small doorway leads north out 
+into the streets of the city. 
+~
+172 d 0
+D0
+~
+~
+0 0 17208
+S
+#17212
+Aegithus's Training Room~
+   This room is full of all sorts of weapons and armors. Pieces of old 
+targets and practice dummies lie all around. The walls are chipped and 
+scored from weapon blows. This is obviously the room of an avid warrior. 
+A red door leads east. 
+~
+172 d 0
+D1
+~
+red~
+33 17202 17228
+E
+red~
+It looks like it leads back to the hall.
+~
+S
+#17213
+Pythian's Dark Study~
+   This room is dark. It reeks of death and evil. A black door leads east.
+§N~
+172 ad 0
+D1
+~
+black~
+33 17203 17229
+E
+black~
+It looks like it leads back to the hall.
+~
+S
+#17214
+Creon's Inner Sanctum~
+   Idols to Dirk fill the room. White furniture and decorations give the 
+room a holy appearance. It is evident that some being of supreme 
+goodness lives here. A white door leads east. 
+~
+172 d 0
+D1
+~
+white~
+33 17204 17232
+E
+white~
+It looks like it leads out to the hall.
+~
+S
+#17215
+The road to the Keep of Mahn-Tor~
+   You walk up a steep rocky road. It leads up a steep grade to the 
+east. At the end of this steep road, you see a huge keep. Dust swirls 
+all about you and you feel your throat itch from breathing. Blurry 
+lights to the east and west are all you can see from here. 
+~
+172 c 5
+D1
+~
+~
+0 0 17217
+D3
+~
+~
+0 0 17208
+S
+#17216
+A small guard house~
+   You enter a small guard house. A huge fireplace lights and warms the 
+room. Looking around, you see that the room is fairly well furnished. 
+Thick rugs and curtains help insulate the room and the beds themselves 
+look quite warm. A table in the center of the room has the remnants of 
+a card game strewn across it. A small door leads south. 
+~
+172 d 0
+D2
+~
+~
+0 0 17217
+S
+#17217
+Before the Keep of Mahn-Tor~
+   You stand before a huge keep that has been carved into the side of 
+the mountain. Huge wooden gates before you provide entrance to the keep. 
+It appears as though the storm here has convinced the guards to seek 
+shelter inside. You see the lights of the city to the west. You also 
+notice small guard houses to the north and south. 
+~
+172 0 1
+D0
+~
+~
+0 0 17216
+D1
+~
+gate~
+1 17201 17219
+D2
+~
+~
+0 0 17218
+D3
+~
+~
+0 0 17215
+S
+#17218
+A small guard house~
+   You enter a small, but warm, guard house. Deep rugs and thick 
+curtains insulate the room. A huge fireplace lights and warms the room. 
+Outside, you hear the roar of the wind. A small door leads north out 
+into the street. 
+~
+172 d 0
+D0
+~
+~
+0 0 17217
+S
+#17219
+The entryway to the Keep of Mahn-Tor~
+   You are at the entry hall to the huge keep. The high vaulted ceiling 
+is carved from solid stone. Huge stone pillars rise up from the floor to 
+meet the ceiling far above. The architecture appears to be dwarven. A 
+huge pair of gates stand to the west, protecting the keep from the harsh 
+wind outside. A large hall leads east, deeper into the keep. 
+~
+172 d 0
+D1
+~
+~
+0 0 17220
+D3
+~
+gate~
+1 17201 17217
+S
+#17220
+The Hall~
+   You are in a huge hall. Large tapestries line the walls and huge 
+statues of various make and appearance are spread about. The ceiling 
+above supports huge candelabras, which light the room. To the east, you 
+see a bright light and hear sounds of inhabitation. Looking west, you 
+see the entry gates to the keep. 
+~
+172 d 0
+D1
+~
+~
+0 0 17221
+D3
+~
+~
+0 0 17219
+S
+#17221
+The Grand Hall~
+   You are in the main hall of the Keep of Mahn-Tor. This hall is huge. 
+The wide floor of the hall is an expanse of marble. It shimmers in the 
+light thrown off by the torches that line the walls. To the east, you 
+see what appears to be a huge golden throne. The hall itself stretches 
+south and a smaller hall leads to the west. 
+~
+172 d 0
+D1
+~
+~
+0 0 17223
+D2
+~
+~
+0 0 17222
+D3
+~
+~
+0 0 17220
+S
+#17222
+The Great Hall~
+   You stand in the great hall of the keep. Huge pillars rise up to the 
+vaulted ceiling and torch light glimmers off the marble floor here. You 
+are amazed at the sheer size of the hall. The hall itself leads north 
+and east. You notice a smaller hall leading south, deeper into the keep. 
+~
+172 d 0
+D0
+~
+~
+0 -1 17221
+D1
+~
+~
+0 0 17224
+D2
+~
+~
+0 -1 17227
+S
+#17223
+Standing before the throne~
+   You stand before the throne of Xanthias. This golden throne is so 
+huge that it takes up almost the entire wall, stretching far above the 
+floor. Sitting upon it, you feel small and feeble. It is evident that 
+this throne is more of a decoration than anything else. Only the largest 
+of kings could sit upon it. The hall leads south and west into other 
+parts of the keep. 
+~
+172 d 0
+D1
+~
+throne huge golden gold~
+3 0 17225
+D2
+~
+~
+0 0 17224
+D3
+~
+~
+0 0 17221
+E
+throne huge gold golden~
+The golden throne is huge. It takes up the whole wall.........
+~
+S
+#17224
+The Great Hall~
+   You are in a great hall. Huge torches light the room and their light
+shimmers off the marble floor below you. To the north, you see a huge 
+golden throne. Looking up, you grow dizzy at the height to which the 
+vaulted ceiling rises. The hall itself leads north and west. 
+~
+172 d 0
+D0
+~
+~
+0 0 17223
+D3
+~
+~
+0 0 17222
+S
+#17225
+The secret hallway~
+   You are in a small, torch lit hall. It leads from east to west. A 
+large gold door is to the west. To the east, you see a heavy stone door. 
+~
+172 d 0
+D1
+~
+door huge stone~
+33 17210 17226
+D3
+~
+gold throne huge secret~
+1 0 17223
+E
+gold~
+Looks like the back of a secret door of sorts.
+~
+E
+huge stone~
+A very formidable looking door.
+~
+S
+#17226
+Entry to the Royal Chambers~
+   You are at the entrance to the royal chambers of the keep. A plush 
+shag rug covers the stone floor. Large candelabras hang from the 
+ceiling, lighting the room. A huge fireplace warms the room. Beaded 
+doorways lead south and east. A huge stone door stands in the west wall. 
+~
+172 d 0
+D1
+~
+~
+0 0 17235
+D2
+~
+~
+0 0 17233
+D3
+~
+door huge stone~
+33 17210 17225
+E
+door huge stone~
+A huge stone door.......
+~
+S
+#17227
+The Guard Post~
+   The hall here has been built into a guard post of sorts. It appears 
+as though it would be quite easy to defend in times of emergency. 
+Obviously, something important lies beyond. A small hall leads south, 
+while the main hall can be seen to the north. 
+~
+172 d 0
+D0
+~
+~
+0 0 17222
+D2
+~
+~
+0 0 17228
+S
+#17228
+The guarded hall~
+   You walk down a torch lit hallway. It has been carved out of pure 
+stone. It is very quiet in this hall. You notice rows of colored doors 
+on each wall. To your east, you see a yellow door. To your west, you see 
+a red door. The hall itself leads south and north. 
+~
+172 d 0
+D0
+~
+~
+0 0 17227
+D1
+~
+yellow~
+33 17206 17230
+D2
+~
+~
+0 0 17229
+D3
+~
+red~
+33 17202 17212
+E
+red~
+You see a red door. It has the name "Aegithus" written on it.
+~
+E
+yellow~
+You see a yellow door. It has the name "Jocasta" written on it.
+~
+S
+#17229
+The guarded hall~
+   You walk down a small, quiet, torch lit hallway. Doors of different 
+colors are in each wall. To your east, you see a maroon door. To your 
+west, you see a black door. The hall itself leads north and south. 
+~
+172 d 0
+D0
+~
+~
+0 0 17228
+D1
+~
+maroon~
+33 17207 17231
+D2
+~
+~
+0 0 17232
+D3
+~
+black~
+33 17203 17213
+E
+black~
+You see a black door. It has the name "Pythian" inscribed on it.
+~
+E
+maroon~
+You see a maroon door here. It has the name "Haemon" written on it.
+~
+S
+#17230
+Jocasta's Sanctum~
+   You enter a temple of sorts. A small altar is here and relics of many
+religions lie around. It is evident that this is the room of a studying 
+cleric. A yellow door leads west. 
+~
+172 d 0
+D3
+~
+yellow~
+33 17206 17228
+E
+yellow~
+It looks like it leads back to the hall.
+~
+S
+#17231
+Haemon's Arcane Study~
+   This room is full of shelves which hold various spell components. The 
+center of the room is occupied by a huge pentagram. The entire room 
+smells of smoke and incense. The room is obviously used extensively by a 
+practicing mage. A maroon door leads west. 
+~
+172 d 0
+D3
+~
+maroon~
+33 17207 17229
+E
+maroon~
+It looks like it leads back to the hall.
+~
+S
+#17232
+The guarded hall~
+   You walk down a quiet hall. The stone walls here are wet with 
+moisture. Colored doors can be seen in the walls here. To your east, you 
+see a green door. To your west, you see a white door. The hall itself 
+leads north and south. 
+~
+172 d 0
+D0
+~
+~
+0 0 17229
+D1
+~
+green~
+33 17208 17234
+D2
+~
+~
+0 0 17237
+D3
+~
+white~
+33 17204 17214
+E
+white~
+You see a white door here. It has the name "Creon" inscribed on it.
+~
+E
+green~
+You see a green door here. It has the name "Thesus" written on it.
+~
+S
+#17233
+The Harem Room~
+   This appears to be the harem room of the Keep. Huge piles of furs and 
+beds fill the room. The lighting is dim, but the room is very warm. You 
+can hear music playing quietly from somewhere. Beaded doorways lead 
+north and east. 
+~
+172 d 0
+D0
+~
+~
+0 0 17226
+D1
+~
+~
+0 0 17236
+S
+#17234
+Thesus's Humble Abode~
+   This room is filled with all types of natural items. Trees and plants 
+have been lovingly cultivated and grown by hand, in large pots. The room 
+is like an indoor garden. A green door leads west. 
+~
+172 d 0
+D3
+~
+green~
+33 17208 17232
+E
+green~
+It looks like it leads back to the hall.
+~
+S
+#17235
+The main living room~
+   This room is decorated with sturdy stone furniture that is carved and
+gilded. Large candles light the room. A thick rug covers the floor. 
+Thick furs and tapestries decorate the walls. Beaded doorways lead south 
+and west. 
+~
+172 d 0
+D2
+~
+~
+0 0 17236
+D3
+~
+~
+0 0 17226
+S
+#17236
+The Master Bedroom~
+   This appears to be the master bedroom. A huge bed fills the rooms. 
+Piles of furs and other rich furnishings adorn the room. Candles are 
+everywhere and they help a huge fireplace light the room. The lavishness 
+of the room overwhelms you. Beaded doorways lead north and west. 
+~
+172 dh 0
+D0
+~
+~
+0 0 17235
+D3
+~
+~
+0 0 17233
+S
+#17237
+The end of the guarded hall~
+   You are at the end of the hall. Colored doors line the walls to the 
+north. To your west, you see a brown door. To you east, you see a grey 
+door. The hall itself leads north back along the rows of doors. 
+~
+172 d 0
+D0
+~
+~
+0 0 17232
+D1
+~
+grey~
+33 17209 17238
+D3
+~
+brown~
+33 17205 17239
+E
+brown~
+You see a brown door here. It has the name "Balthazar" written on it.
+~
+E
+grey~
+You see a grey door here. It has the name "Astyanax" written on it.
+~
+S
+#17238
+Astyanax's Dismal Domicile~
+   This room is dirty and unkempt. Odds and ends of different items lie 
+all over. It is apparent that some type of pack-rat lives here. It 
+appears as though nothing has ever entered this room and ever left 
+again. A grey door leads west. 
+~
+172 d 0
+D3
+~
+grey~
+33 17209 17237
+E
+grey~
+It looks like it leads back to the hall.
+~
+S
+#17239
+Balthazar's Green Room~
+   This room is full of green. The furniture and all other items show 
+the color of nature. The room smells of pine and forest odors. From the 
+items here, it appears as though a woodsman of some sorts lives here. 
+A brown door leads east.
+
+~
+172 d 0
+D1
+~
+brown~
+33 17205 17237
+E
+brown~
+It looks like it leads to the hall.
+~
+S
+#17240
+The Corridor of the Broken Horn~
+   This corridor is clean and spotless. A nice carpet with motives of 
+great battles covers the floor. There are doors to the east and west, 
+marked with the roomnumbers and the stairs are leading back down.
+~
+172 d 0
+D1
+~
+door~
+9 -1 17241
+D3
+~
+door~
+9 -1 17251
+D5
+~
+~
+0 -1 17209
+S
+#17241
+A room in the Broken Inn.~
+   Someone is obviously living here, since the bed is unmade and an open 
+coffert is standing in the middle of the room. The door is leading back
+west and there is a door marked with a heart to the north, and you guess
+it must be the bathroom.
+~
+172 d 0
+D0
+~
+door~
+9 -1 17250
+D3
+~
+door~
+9 -1 17240
+E
+coffert~
+The coffert is filled with minotaur underwear. They are not your size 
+though.
+~
+S
+#17242
+A guard post~
+   A small sentrybox is here to shelter the guards from the weather.  
+A well traveled path is leading north into a military camp.
+~
+172 0 1
+D0
+~
+~
+0 -1 17243
+D3
+~
+~
+0 -1 17063
+S
+#17243
+In the camp~
+   The dusty ground bares witness of heavy exercise.  The camp continues
+further to the north, and there is a guard post to the south.  Your east
+and west side is flanked by huge green tents.
+~
+172 0 1
+D0
+~
+~
+0 -1 17244
+D1
+~
+tent~
+9 -1 17245
+D2
+~
+~
+0 -1 17242
+D3
+~
+tent~
+9 -1 17246
+S
+#17244
+Among the tents~
+   To the north is a larger tent, obviously hosting someone important, 
+since it is marked with a banner.  There are smaller tents to your east 
+and west, and a path leading back through the camp.
+~
+172 0 1
+D0
+~
+tent~
+9 -1 17249
+D1
+~
+tent~
+9 -1 17247
+D2
+~
+~
+0 -1 17243
+D3
+~
+tent~
+9 -1 17248
+S
+#17245
+The warriors sleeping quarters~
+   This tent is in perfect order, not the slightest speck of dust is 
+visible and the beds are made so tight that you wonder if they ever has 
+been unmade.
+~
+172 d 0
+D3
+~
+tent~
+9 -1 17243
+S
+#17246
+The warriors living quarters~
+   This tent is almost ready for inspection, the beds are however unmade.
+~
+172 d 0
+D1
+~
+tent~
+9 -1 17243
+S
+#17247
+The officers tent~
+   This tent is filled with trophys bearing witness of many glorious 
+battles, and it is in flawless order, since the minotaur officers take 
+pride in beeing a good example for their soldiers.  
+~
+172 d 0
+D3
+~
+tent~
+9 -1 17244
+S
+#17248
+The warriors living quarters~
+   This tent is, like the rest, in a very good order.  A chest for 
+personal belongings is standing in a corner, and there is a chair 
+standing by one of the beds.
+~
+172 d 0
+D1
+~
+tent~
+9 -1 17244
+S
+#17249
+The colonels tent~
+   A thick expensive looking carpet is lying on the floor, and there are
+trophys from many won battles standing all over.  A large desk is 
+standing in the middle of the tent, covered with maps and other papers 
+concering battle tactics. 
+~
+172 d 0
+D2
+~
+tent~
+9 -1 17244
+S
+#17250
+A Bathroom~
+   A bathtub is standing in the middle of the room, filled with warm
+water. The mirror is foggy and it looks like someone recently has taken
+a bath.
+~
+172 d 0
+D2
+~
+door~
+9 -1 17241
+S
+#17251
+A bedroom in the Broken Inn~
+   In here it is neat and tidy like the rest of the inn. The bed is made 
+and a fireplace is providing light and heat to this room.
+~
+172 d 0
+D1
+~
+door~
+9 -1 17240
+S
+#99999
+$~

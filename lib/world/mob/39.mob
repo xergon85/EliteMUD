@@ -1,0 +1,460 @@
+#3900
+mouse small~
+the small mouse~
+The small mouse is scampering around here.
+~
+The mouse leads a boring existance. However, he seems to be
+cheerful and merry as he scampers along the ground.
+~
+4 0 g 0 0 S
+0 20 10 1d1+10
+408 500 100 1d4+1 -1
+-1
+-1
+0 180 8 8 0
+#3901
+rat rodent~
+the rat~
+The rat scurries along looking for anything to scavenge.
+~
+The rat is a long tailed rodent which resembles mice, but is
+a little big larger. The rat scurries along the ground.
+~
+4 0 cg 0 -10 S
+1 19 10 1d2+15
+408 500 100 1d4+1 -1
+-1
+-1
+0 267 8 8 0
+#3902
+squirrel~
+the squirrel~
+The squirrel is here collecting nuts.
+~
+A brown furry squirrel. The squirrel has a long flexible,
+bushy tail. The squirrel is here searching for nuts.
+~
+4 0 g 0 40 S
+2 19 10 1d3+30
+407 500 100 1d5+1 -1
+-1
+-1
+0 333 8 8 0
+#3903  
+raccoon racoon coon~
+the raccoon~
+The raccoon is here showing little fear of you.
+~
+The raccoon has grayish-brown fur with black masklike
+facial markings, and a bushy, black-ringed tail.
+~
+4 0 g 0 0 S
+2 19 10 1d3+30
+408 500 100 1d4+1 -1
+-1
+-1
+0 333 8 8 0
+#3904
+cardinal bird~
+the cardinal~
+The cardinal is perched on a nearby tree branch.
+~
+The cardinal is a beautiful red bird with a
+crested head and a short, thick bill.
+~
+6 0 g 0 50 S
+2 19 10 1d3+30
+408 500 100 1d5+1 -1
+-1
+-1
+0 333 8 8 0
+#3905
+blue jay bird~
+the blue jay~
+The blue jay is perched on a nearby tree branch.
+~
+The blue jay is beautiful bird with a crested head
+and predominantly blue plumage.
+~
+6 0 g 0 50 S
+2 19 10 1d3+30
+408 500 100 1d5+1 -1
+-1
+-1
+0 333 8 8 0
+#3906
+robin bird~
+the robin~
+The robin is perched nearby whistling a delightful song.
+~
+The robin has a orange breast and a brown back.
+~
+6 0 g 0 50 S
+2 19 10 1d3+30
+408 500 100 1d5+1 -1
+-1
+-1
+0 333 8 8 0
+#3907
+eagle bird~
+the eagle~
+The eagle is resting on a large branch nearby.
+~
+The eagle has a powerful hooked bill, long broad
+wings, and strong, soaring flight.
+~
+6 0 g 0 50 S
+4 18 9 4d6+60
+408 500 100 1d6+1 -1
+-1
+-1
+0 533 8 8 0
+#3908
+owl bird~
+the owl~
+The owl is perched here on a nearby branch.
+~
+The owl has hooked and feathered talons, a large head with 
+short hooked beaks, and eyes set in a frontal facial plane.
+~
+6 0 g 0 50 S
+3 18 9 1d5+45
+408 500 100 1d5+1 -1
+-1
+-1
+0 400 8 8 0
+#3909
+black crow bird~
+the black crow~
+The black crow is here shrieking his raucous call.
+~
+The black crow is large glossy, black bird. The crow is
+scavenger who will feast on any corpse he encounters.
+~
+6 0 g 0 -50 S
+3 18 9 1d5+45
+408 500 100 1d5+0 -1
+-1
+-1
+0 400 8 8 0
+#3910
+bat~
+the bat~
+The bat is here hanging from the ceiling.
+~
+The bat is a nocturnal creature, sleeping all day and only
+moving about at night. The bat has membranous wings that extend
+from the forelimbs to the hind limbs or tail.
+~
+6 0 b 0 0 S
+2 19 10 1d3+30
+408 500 100 1d4+1 -1
+-1
+-1
+0 333 8 8 0
+#3911
+cave bear~
+the cave bear~
+The cave bear is sleeping here in his cave.
+~
+The cave bear is about 15 feet tall with reddish brown fur. Cave
+bears are harmless when sleeping, but be careful not to wake them.
+~
+5 0 bf 0 -55 S
+10 15 6 4d15+150
+407 500 100 2d5+4 -1
+-1
+-1
+0 2133 4 4 1
+#3912
+black bear~
+the black bear~
+The black bear is here wandering about.
+~
+The black bear is about 6 feet tall with dark black fur. Black
+bears tend do not attack unless provoked.
+~
+5 0 cgl 0 0 S
+8 16 7 3d12+120
+407 500 100 2d4+3 -1
+-1
+-1
+0 1333 8 8 1
+#3913
+grizzly bear~
+the grizzly bear~
+The grizzly bear is resting here.
+~
+The grizzly bear stands about 9 feet tall and has silver-tipped
+brown fur. Grizzly bears are fond of meat, however this one looks
+as if he has just finished a meal. Lucky for you!
+~
+5 0 bl 0 -300 S
+10 15 6 3d15+150
+407 500 100 2d5+4 -1
+-1
+-1
+0 2133 5 5 1
+#3914
+wild boar~
+the wild boar~
+The wild boar is here minding his own business.
+~
+The wild boar is an omnivorous creature, but tends to mind its own
+business. However, they have extremely nasty tempers when disturbed.
+~
+4 0 g 0 -40 S
+5 17 8 2d8+75
+408 500 100 1d6+1 -1
+-1
+-1
+0 667 8 8 0
+#3915
+mountain lion cat~
+the mountain lion~
+The mountain lion is here wandering around the mountain side.
+~
+The mountain lion is a tawny-furred creature. The lion weakest of
+the family of the great cats. As many of the creatures in its family,
+the mountian lion is a playful creature, but is subject to violent
+changes of temper.
+~
+3 0 g 0 -400 S
+9 15 6 3d14+135
+408 500 100 2d4+3 -1
+-1
+-1
+0 1600 8 8 0
+#3916
+wild big horn mountain ram~
+the wild big horn mountain ram~
+The wild big horn mountain ram is moving easily upon the mountain side.
+~
+The wild big horn mountain ram has large spiral horns. The ram is long
+legged and very agile as you can tell from the way he easily moves up
+and down the mountain side.
+~
+4 0 g 0 0 S
+7 16 7 2d9+90
+408 500 100 2d3+2 -1
+-1
+-1
+0 1067 8 8 0
+#3917
+weasel~
+the weasel~
+The weasel is here searching for some small prey.
+~
+The weasel is a short but long creature, measuring 4 to 5 feet in length.
+The look rather harmless, though you do not feel so safe when you see
+there sharp teeth.
+~
+4 0 g 0 -250 S
+3 18 9 1d5+45
+408 500 100 1d5+1 -1
+-1
+-1
+0 400 8 8 0
+#3918
+giant weasel~
+the giant weasel~
+The giant weasel is here looking at you hungrily.
+~
+The giant weasel looks similar to his smaller counterpart, except for
+the fact that he is twice the length, measuring 10 feet in length.
+One other thing you notice is that he is much more dangerous looking.
+~
+4 0 bcl 0 -400 S
+6 17 8 2d9+90
+408 500 100 2d3+2 -1
+-1
+-1
+0 800 8 8 0
+#3919
+sabre tooth tiger cat~
+the Sabre-Tooth Tiger~
+The Sabre-Tooth Tiger stands peering at his next meal.
+~
+The Sabre-Tooth Tiger are larger than most cats in the same family.
+You instanly notice the oversized fangs, from which the cat is named.
+~
+3 0 bf 0 -400 S
+10 15 6 4d15+150
+408 500 100 2d5+4 -1
+-1
+-1
+0 2133 8 8 0
+#3920
+wolf~
+the wolf~
+The wolf is standing here studying his surroundings.
+~
+The wolf is a beautiful animal, resembling that cute puppy you saw last
+time you wandered by the pet store. Don't forget that this is a vicous
+predator when provoked!
+~
+4 0 bl 0 -300 S
+7 16 7 2d11+105
+408 500 100 2d3+2 -1
+-1
+-1
+0 1067 8 8 0
+#3921
+goat~
+the goat~
+The goat is standing here nibbling on some grass.
+~
+The goat is a rather dull animal. He does little other than wander
+around nibbling on grass.
+~
+4 0 g 0 0 S
+5 17 8 2d8+75
+408 500 100 1d6+1 -1
+-1
+-1
+0 667 8 8 0
+#3922
+sheep~
+the sheep~
+The sheep is standing here grazing.
+~
+The sheep has a large wool covering over it's body. The sheep also
+has split hoofs, making it cloven-footed.
+~
+4 0 g 0 0 S
+5 17 8 2d8+75
+408 500 100 1d6+1 -1
+-1
+-1
+0 667 8 8 0
+#3923
+cow~
+the cow~
+The cow is standing in the grazing on nearby grass.
+~
+The cow is a decent sized animal. He is white with large black
+spots all over his body. The cow looks pretty harmless.
+~
+0 0 g 0 0 S
+6 17 8 2d9+90
+408 500 100 2d3+2 -1
+-1
+-1
+0 800 8 8 0
+#3924
+pig~
+the pig~
+The pig is here playing in the mud.
+~
+The pig is a very intelligent animal. Though the pig is not the
+world's prettiest animal, he does have some good qualities.
+~
+0 0 g 0 0 S
+4 18 9 1d6+60
+408 500 100 1d5+1 -1
+-1
+-1
+0 533 8 8 0
+#3925
+horse~
+the horse~
+The horse is standing here tall and proud.
+~
+The horse is a beautiful animal standing a little of more than 6 feet tall.
+~
+7 0 g 0 350 S
+7 16 7 2d11+105
+408 500 100 2d3+2 -1
+-1
+-1
+0 1067 8 8 0
+#3926
+deer~
+the deer~
+The deer is wandering around.
+~
+The deer is a beautiful animal. His antlers raise high above his head.
+The deer is a very quick and agile animal.
+~
+0 0 g 0 300 S
+7 16 7 3d11+105
+408 500 100 2d3+2 -1
+-1
+-1
+0 1067 8 8 0
+#3927
+moose~
+the moose~
+The moose is here wandering around looking at his surroundings.
+~
+The moose is the largest living deer. The moose has a heavy body,
+long legs, and short neck and tail. The moose can move quickly
+though his looks would seem to make you believe otherwise.
+~
+0 0 g 0 0 S
+8 16 7 3d12+120
+408 500 100 2d4+3 -1
+-1
+-1
+0 1333 8 8 0
+#3928
+bunny hare rabbit~
+the bunny rabbit~
+The bunny rabbit is here as cute as ever.
+~
+The bunny rabbit is a cute creature which you would like to
+pick up and hold. The bunny looks so harmless you feel like
+a jerk even thinking about harming it.
+~
+0 0 g 0 100  S
+2 19 10 1d3+30
+408 500 100 1d4+1 -1
+-1
+-1
+0 333 8 8 0
+#3929
+farmer~
+the farmer~
+The Farmer is here thinking about the chores to be done today.
+~
+The farmer is a middle aged man. He is of medium height and is
+pretty thin. You can tell that he has worked hard on the farm
+all his life.
+~
+1 0 gl 0 400 S
+10 15 6 4d15+150
+401 500 100 2d5+4 -1
+-1
+-1
+200 2133 8 8 1
+#3930
+farmer wife~
+the farmer's wife~
+The farmer's wife is standing here preparing a meal.
+~
+The farmer's wife is a well rounded woman. You can tell she has
+spent many days in the kitchen.
+~
+1 0 bl 0 400 S
+9 15 6 3d14+135
+410 500 100 2d4+3 -1
+-1
+-1
+180 1600 8 8 2
+#3931
+daughter girl~
+the farmer's daughter~
+The farmer's daughter is standing here looking as hot as ever.
+~
+The Farmer's Daughter is one of the most beautiful creatures you have
+ever seen in you life. As she notices you looking at her, she gives
+you a little wink!
+~
+1 0 g 0 400 S
+7 16 7 2d11+105
+400 500 100 2d3+2 -1
+-1
+-1
+140 1067 8 8 2
+#99999
+$~

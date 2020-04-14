@@ -1,0 +1,259 @@
+#27500
+king arthur~
+King Arthur~
+King Arthur stands before you, regal in his royal robes.
+~
+King Arthur is a elderly man.  His beard and hair have turned to
+grey, but the light in his eyes is strong.  He seems calm, rational, and
+at ease, at peace with himself and his life.
+~
+1 4 b 0 900 A 70 1
+#27501
+queen gwen guinevere~
+Queen Guinevere~
+Queen Guinevere stands tall, proud, and aloof.
+~
+The Queen is a pretty woman, past middle age.  Her hair is as black as a
+raven's feathers.  She is fairly tall, and very beautiful.  Her eyes do
+not look at you, rather, she looks away, treating you with disdain. 
+~
+1 4 b 0 200 A 50 2
+#27502
+lancelot lance~
+Lancelot~
+Sir Lancelot eyes you carefully, appraising your skills.
+~
+Lancelot is past the prime of his life but is still a physically fit man.
+He looks strong and sturdy.  His hair is a speckled brown, and his beard
+is light.  Not an attractive man, he still bears an air of confidence and
+politeness that gives him powerful charisma.  He smiles when you look at
+him.
+~
+1 4 b 0 500 A 109 1
+#27503
+gawaine gawain~
+Gawaine~
+Sir Gawaine stands proud in service to his king.
+~
+Gawaine is a large, cornish knight.  His hair is shocking red, although 
+age has highlighted it with streaks of white.  His beard is similary
+speckled.  He never seems quite comfortable with his massive frame, and
+his movements often seem clumsy.
+~
+1 4 b 0 300 A 100 1
+#27505
+percival~
+Percival~
+Sir Percival smiles politely but remains quiet.
+~
+Percival is a fairly young knight.  He doesn't seem arrogant, or terribly
+noble, but is quite polite and pleasant.  His hair is well-groomed and
+short.
+~
+1 4 b 0 400 A 70 1
+#27505
+kay~
+Kay~
+Sir Kay swaggers around and acts important.
+~
+Kay is a tall, stocky knight with short, cropped hair and a full beard.
+He snarls at you somewhat when he sees you approaching, and eyes you with
+a blank stare.
+~
+1 4 b 0 0 A 70 1
+#27506
+bors~
+Bors~
+Sir Bors smiles pleasantly at the passing peasants.
+~
+Bors is an older, balding man.  He is a relative of Lancelot's, but the
+familial similarities do not exist -- Bors is handsome for his age, with a
+calm demeanor and a rational eye.
+~
+1 4 b 0 350 A 85 1
+#27507
+pellinore~
+Pellinore~
+Sir Pellinore greets you warmly, his eyes glinting with mirth.
+~
+Pellinore, an aged king in the service of Arthur, is a happy old man.  He
+has hunted the questing beast all his life, and it has addled his mind a
+little, but he remains very cheerful and of good humor.
+~
+1 4 b 0 500 A 60 1
+#27508
+mordred~
+Mordred~
+Sir Mordred lurks in the corner, eyeing you carefully.
+~
+Mordred, the bastard child of the King and member of Gawaine's clan, is a
+prominent member of court.  He is slight of build, and not very strong,
+but his eyes betray his dark intelligence.
+~
+1 4 b 0 -500 A 55 1
+#27509
+tristram~
+Tristram~
+Sir Tristram lounges in the corner, sighing happily to himself.
+~
+This lovesick puppy is Sir Tristram.  He is completely in love with
+Isolde, a western princess.  He is a handsome young man, leading you to
+think that the princess is a lucky girl.  He sighs constantly.
+~
+1 4 b 0 300 A 80 1
+#27510
+gareth~
+Gareth~
+Sir Gareth stands upright, keeping the castle free of trouble.
+~
+Gareth is one of the youngest of the knights.  His hair is a red-brown,
+betraying his fraternal relationship to Gawaine, and his skin is fair.  He
+is carrying a sash marked with Lancelot's colours.
+~
+1 4 b 0 350 A 75 1
+#27511
+balin~
+Balin~
+Sir Balin saunters around with his two swords.
+~
+Balin is a short, muscular man with dark eyes and darker hair.  He bears
+two swords on his belt, unusual for any knight.
+~
+1 4 b 0 -100 A 95 1
+#27512
+agravaine~
+Agravaine~
+Sir Agravaine stands in the shadows, almost out of sight.
+~
+Agravaine is one of the Gawaines, a red-haired fellow of sturdy build.
+He is a fine warrior, but you hear that he has been beaten a lot lately by
+the better knights, such as Lancelot.
+~
+1 4 b 0 -50 A 75 1
+#27513
+bedivere~
+Bedivere~
+Sir Bedivere rushes around, making sure the weapons are in place.
+~
+Bedivere is the keeper of the castle armouries.  He is a talented sword
+smith, and keeps the armor and weapons in tip-top shape.  His eyes are
+shadowy and his hair is grey, showing his age, as he is the first man
+Arthur knighted.
+~
+1 4 b 0 200 A 55 1
+#27514
+merlin~
+Merlin~
+Merlin is standing here, his robes flowing around him.
+~
+Merlin is an old, old wizard.  He wears a pointed blue hat, a pointed blue
+robe, and has a pointed white beard (with blue highlights).  His eyes are
+wrinkled around the edges, but twinkle with mischief.
+~
+1 1 b 0 300 A 100 1
+#27515
+morgana fey~
+Morgana~
+Morgana la Fey, sister to the King, eyes you carefully.
+~
+Morgana is a beautiful woman, but must be getting on in years, although
+they do not show.  Her hair is a shocking blonde-red, streaming down her
+bare back.  Her voluptuous form almost looks overdone.
+~
+1 1 b 0 -300 A 100 2
+#27516
+lady lake~
+the Lady of the Lake~
+The Lady of the Lake smiles warmly at you.
+~
+The Lady of the Lake is a friend in Arthur's court.  She gave him
+excalibur, and in return, he owes her a favour.  Her beauty is elfin in
+nature, giving her a very magical aura.
+~
+1 1 b 0 0 A 30 2
+#27517
+nimue~
+Nimue~
+Nimue giggles uncontrollably at everything she sees.
+~
+Nimue is a pretty young sprite of a lady, with much magical energy about
+her.  She never looks away from Merlin.
+~
+1 1 b 0 0 A 40 2
+#27518
+woman evil demon princess~
+a princess~
+A princess is here, dressed scantily and breathing heavily.
+~
+This princess is a pretty young nubile girl, and is just the sort who'd
+get it into her head for some reason to seduce a chaste knight.
+~
+1 4 b 0 -1000 A 50 2
+#27519
+woman evil demon noble~
+a noblewoman~
+A noblewoman lounges on the grass, smiling lazily.
+~
+This noblewoman wears rich clothes, but her belt-pouch is full.  She
+smiles at you, and beckons with one hand for your service.
+~
+1 4 b 0 -1000 A 50 2
+#27520
+hermit~
+an old hermit~
+An old hermit is here, dressed in the robe of a monk.
+~
+This hermit is old, wrinkled, and falling apart.  His eyes are grey, his
+hair is shaggy, and his face is full of hard patches of skin.  He seems
+very holy.
+~
+1 4 b 0 350 A 50 1
+#27521
+scribe~
+a blind scribe~
+A scribe is rushing to and fro, trying to get all his work done.
+~
+This scribe squints a lot, so he must wear glasses.
+~
+1 4 b 0 100 A 20 1
+#27522
+young knight~
+a young, brash knight~
+A young knight wants to test his skill.
+~
+This knight looks no older than a boy, but is swaggering around, proud of
+himself and his excellent talent.  He doesn't seem to be much of a
+fighter.
+~
+1 4 b 0 300 A 10 1
+#27523
+knight french~
+a french knight~
+A knight in the service of Lancelot is here.
+~
+This knight serves Lancelot.
+~
+1 4 b 0 0 A 50 1
+#27524
+knight~
+an arthurian knight~
+A knight in the service of Arthur is here.
+~
+This knight serves Arthur.
+~
+1 4 b 0 0 A 50 1
+#27525
+maleagant~
+Maleagant~
+Sir Maleagant sneers maliciously at you.
+~
+Maleagant is a vile prince from north-eastern England.  He enjoys just
+beating the crap out of Arthur's knights.  His short hair is plastered to
+his head, and his beady eyes peek at you menacingly.  He is a large
+fighter.
+~
+1 4 b 0 -500 A 90 1
+#99999
+$~
+
+

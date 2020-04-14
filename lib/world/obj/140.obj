@@ -1,0 +1,247 @@
+#14000
+evil jack jack's knife~
+Jack's knife~
+The evil knife of Jack the Ripper lies here, dripping with blood.~
+~
+5 75 n fgj anp
+0 2 25 11 0 0
+8 20000 16667
+A
+18 5
+A
+19 10
+#14001
+pitch fork satan satan's~
+a pitch fork~
+Satan's pitch fork sings "My heart bleeds for you..."~
+~
+5 85 abcdefgijkmns abfj ano
+0 7 10 12 0 0
+12 50000 25000
+A
+18 10
+A
+19 10
+#14002
+hell hellfire whip~
+a hellfire whip~
+A whip is ablaze with the fires of hell.~
+~
+5 80 abefjmn abgj ano
+0 6 8 2 0 0
+16 25000 11667
+A
+18 5
+A
+19 10
+#14003
+lost ring soul souls~
+a ring of lost souls~
+A ring vibrates as if it has a life of its own.~
+~
+9 80 0 agj ab
+20 0 0 0 0 0
+2 25000 10000
+#14005
+potion red vial~
+a red vial~
+A small vial of red liquid is sitting here. It seems to have a label.~
+~
+10 70 0 ghn ao
+80 38 33 -1 0 0
+10 0 1667
+E
+label~
+HEALING
+~
+#14006
+potion white vial~
+a white vial~
+A small vial of white liquid is sitting here. It seems to have a label.~
+~
+10 70 0 gn ao
+80 36 71 0 0 0
+10 10000 5000
+E
+label~
+PROTECTION
+~
+#14007
+potion black vial~
+a black vial~
+A small vial of black liquid is sitting here. It seems to have a label.~
+~
+10 70 0 gn ao
+80 28 39 4 0 0
+10 5000 1333
+E
+label~
+POWER
+~
+#14008
+red scythe death~
+the red scythe of death~
+A scythe burns with the fires of Hell.~
+~
+5 75 abefijmn gj ano
+0 7 6 3 0 0
+14 25000 8333
+A
+19 12
+#14009
+fountain blood youth~
+a fountain of blood~
+You see the fabled Fountain of Youth.~
+~
+23 0 0 0 0
+100 100 13 1 0 0
+0 0 0
+#14010
+shimmering war band~
+a shimmering war band~
+Here lies a shimmering band with symbols of war written upon it.~
+~
+9 95 abefhijkm agj ae
+10 0 0 0 0 0
+25 50000 33333
+E
+symbols~
+Pretty interesting stuff!
+~
+A
+18 2
+A
+19 2
+#14011
+ferrix diamond armor~
+Ferrix's diamond armor~
+A suit of armor made of diamond lies here.~
+~
+9 90 abcefijkms abgj ad
+40 0 0 0 0 0
+150 90000 83333
+A
+13 75
+#14012
+hades death suit~
+a suit of death~
+A suit that emulates death lies here.~
+~
+9 95 abcefijkmns abgj ad
+55 0 0 0 0 0
+180 80000 100000
+A
+18 -5
+A
+12 -100
+A
+12 -100
+A
+12 -100
+#14013
+aura light stick~
+an aura of light~
+A small stick lies here emulating light all around.~
+~
+1 95 0 abgj a
+0 0 75 0 0 0
+5 75000 91667
+A
+17 -25
+#14014
+amulet true armor~
+an amulet of true armor~
+A small amulet with a silver shield etched upon it lies here.~
+~
+9 90 0 gj ac
+20 0 0 0 0 0
+10 50000 16667
+#14015
+potion grey vial~
+a grey vial~
+a small vial of grey liquid is sitting here. It seems to have a label.~
+~
+10 65 0 0 ao
+80 28 1 17 0 0
+5 15000 11667
+E
+label~
+PROTECTION
+~
+#14016
+emerald bracer~
+an emerald bracer~
+A small bracer made of emerald lies here.~
+~
+9 95 0 gj am
+5 0 0 0 0 0
+10 120000 40000
+A
+18 3
+A
+19 3
+#14017
+crimson long sword~
+a crimson long sword~
+A long sword made of crimson lies here.~
+~
+5 95 abcefgijkms gj ano
+95 8 8 3 0 0
+7 50000 50000
+A
+18 10
+A
+19 10
+#14018
+staff hellstaff~
+a hellstaff~
+You see a staff with strange carvings lying here.~
+^~
+4 85 abcdefghjklnops abfgj ao
+100 15 15 90 0 0
+10 50000 66667
+E
+carvings staff~
+As you look closer at the staff you can see strange carvings:
+"Irt Thidi Gravasiity Focsitl"
+~
+A
+12 100
+A
+12 100
+A
+12 100
+A
+12 100
+#14019
+evil liz borden axe~
+Liz's axe~
+The evil axe of Liz Borden lies here, dripping with blood.~
+~
+5 75 n fgj anp
+0 2 25 3 0 0
+18 25000 16667
+A
+18 5
+A
+19 10
+#14020
+suit fire~
+a suit of fire~
+An unbearably hot suit is burning here.~
+~
+9 85 0 abgj ad
+50 0 0 0 0 0
+140 60000 26667
+A
+20 20
+#14021
+amulet true armor~
+an amulet of true armor~
+A small amulet with a silver shield etched upon it lies here.~
+~
+9 90 0 gj ac
+25 0 0 0 0 0
+10 50000 16667
+#99999
+$~

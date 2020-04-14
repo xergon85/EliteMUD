@@ -1,0 +1,312 @@
+#17200
+citizen minotaur~
+the Minotaur Citizen~
+A minotaur citizen is here, hurrying through streets.
+~
+You see a rather ragged minotaur. It appears that it is in too much of a hurry
+to stop and chat.
+~
+12 4 2120 0 0 A 42 1
+#17201
+guard minotaur~
+the Minotaur Guard~
+A minotaur guard patrols the area.
+~
+This minotaur is not too happy at your appearance in his beloved city.
+~
+12 4 bgl z 350 A 44 1
+A
+%10 whistle; %5 : looks around for troublemakers.~
+#17202
+warrior minotaur~
+the Minotaur Warrior~
+A minotaur warrior is here looking for trouble.
+~
+You see a huge, musclebound minotaur that is covered in blood. The very sight
+of him makes you cringe in terror. 
+~
+12 4 bgl z 350 A 45 1
+A
+%10 : grunts.~
+#17203
+minotaur gatekeeper~
+the Minotaur Gatekeeper~
+A minotaur is here guarding the Keep of Minotaurs.
+~
+The minotaur stands rigidly before the gates of the keep. It looks 
+quite miserable, but then again with the recent layoffs and the lousy 
+health benefents, so would you.
+~
+12 4 2122 33554432 350 A 46 1
+#17204
+minotaur high guard~
+the High Minotaur Guard~
+The high minotaur guard is here guarding the Keep.
+~
+The high guard is dressed in glittering armor. She looks quite dangerous and
+skilled.
+~
+12 4 2122 33554432 350 A 48 2
+#17205
+minotaur royal guard~
+the Royal Minotaur Guard~
+The royal minotaur guard orders you to leave at once.
+~
+The royal guard is quite huge. He is dressed in magnicifant armor.  He does not
+like pests.
+~
+12 4 2122 168 350 A 50 1
+#17206
+guard minotaur elite~
+the Elite Minotaur Guard~
+The elite minotaur guard watches your every move.
+~
+This minotaur does not look like the talkative type, better leave him alone.
+~
+12 4 2122 168 350 A 52 1
+#17207
+girl haremgirl harem slave~
+the Harem Girl~
+A harem girl cowers here in fear.
+~
+She looks quite attractive. Her low cut gown reveals why she was chosen to be
+in the harem.
+~
+12 4 2120 0 0 A 10 2
+#17208
+butler minotaur~
+the Minotaur Butler~
+A minotaur butler stands here rigidly, awaiting orders.
+~
+He looks quite regal and refined to be a minotaur.
+~
+12 4 2120 0 0 A 48 1
+#17209
+keeper minotaur keymaster~
+the Minotaur Keymaster~
+The Minotaur Keymaster stands guarding his post.
+~
+He looks mean......what more is there to say?
+~
+12 1 2122 168 350 A 56 1
+#17210
+aegithus minotaur warrior~
+Aegithus~
+Aegithus, the Minotaur Warrior, is here practicing his skills.
+~
+Aegithus is HUGE. His muscles are bigger than you!
+~
+12 4 2122 8362 1000 A 66 1
+#17211
+pythian minotaur mage~
+Pythian~
+Pythian, the Minotaur Mage, stands here grinning wickedly.
+~
+Pythian is a living incarnation of evil. He radiates a dark aura, and 
+a cold chill runs down your spine.
+~
+12 1 2122 8362 -1000 A 68 1
+#17212
+creon minotaur cleric~
+Creon~
+Creon, the Minotaur Cleric, is here worshipping silently.
+~
+Creon is the minotaur incarnation of good. You feel safe and at ease in 
+his presence. 
+~
+12 2 2122 8362 1000 A 64 1
+#17213
+haemon minotaur mage~
+Haemon~
+Haemon, the Minotaur Mage, is here chanting songs by R.E.M.
+~
+Haemon is a small minotaur, and one heck of a dancer.
+~
+12 1 2122 8362 -1000 A 66 1
+#17214
+jocasta minotaur cleric~
+Jocasta~
+Jocasta, Minotaur Cleric, is here looking hungry.
+~
+He is another good-hearted soul. 
+~
+12 2 2122 8362 1000 A 68 1
+#17215
+thesus minotaur warrior~
+Thesus~
+Thesus, the minotaur Warrior is here studying the arts of ninjitsu.
+~
+Thesus is quite a nasty looking minotaur. 
+~
+12 4 2122 8362 -1000 A 64 1
+#17216
+balthazar minotaur thief~
+Balthazar~
+Balthazar, the Minotaur Thief, looks unhappy about having visitors.
+~
+Balthazar looks quite agile and thin, when compared to the normal minotaur. He
+looks at you with a slight smirk.
+~
+12 3 2122 8362 1000 A 66 1
+#17217
+astyanax minotaur thief~
+Astyanax~
+Astyanax, the Minotaur Thief, greedily keeps track of his money.
+~
+Astyanax is tall and slender, unlike most minotaurs. 
+~
+12 3 2122 8362 -1000 A 65 1
+#17218
+xanthias minotaur grand warrior~
+Xanthias~
+Xanthias, the Minotaur Grand Warrior, is here looking down at you.
+~
+Xanthias towers above you. He is simply huge. You can see why he is 
+the leader of the Minotaurs. 
+~
+12 4 2122 8362 1000 A 70 1
+#17219
+innkeeper minotaur~
+the Minotaur Innkeeper~
+A minotaur innkeeper watches his customers suspiciously.
+~
+He looks like he is ready to defend his inn, even when it is not really
+needed...
+~
+12 4 bgl 0 0 A 48 1
+#17220
+citizen minotaur~
+the Minotaur Citizen~
+A minotaur citizen is here, working on getting drunk.
+~
+You see a rather ragged minotaur.
+~
+12 4 bgl 0 0 A 42 1
+A
+%1 l;%10 sing; %5 whistle; %5 dance~
+#17221
+minotaur janitor~
+the Minotaur Janitor~
+A minotaur janitor is here, dusting frantically.
+~
+I don't feel like writing a description here, since no one bothers to
+read it anyway.
+~
+12 4 cg 0 0 A 42 1
+A
+%1 l;%20 emote mutters something sourly about cleaning and not wanting to do it.~
+#17222
+minotaur man naked~
+the Minotaur~
+A minotaur is standing here, with a towel wrapped around his waist.
+~
+He looks slightly disturbed by you entering the room...
+~
+12 4 bg 0 0 A 41 1
+A
+%1 l;%40 say Hey! Get out of here! I'm taking a bath!~
+#17223
+minotaur guard warrior~
+the Minotaur Guard~
+A minotaur warrior is standing here, guarding the entrance to the camp.
+~
+He looks ragged and fierce like the rest of the minotaurs.
+~
+12 4 bg z 350 A 44 1
+A
+%1 l;%5 whistle; %10 emote grunts.;%5 emote mutters about the weather and having to stand here.~
+#17224
+warrior minotaur~
+the Minotaur Warrior~
+A minotaur warrior is marching around here.
+~
+You see a huge, musclebound minotaur that is covered in blood. The very sight
+of him makes you cringe in terror. 
+~
+12 4 bg z 350 A 45 1
+A
+%10 : grunts.~
+#17225
+warrior sergeant minotaur~
+the Minotaur Sergeant~
+A minotaur sergeant is standing to attention, ready for inspection.
+~
+He looks very disturbed by your intruision.
+~
+12 4 bg z 350 A 48 1
+#17226
+warrior minotaur~
+the Minotaur Warrior~
+A minotaur warrior is standing to attention by his bed.
+~
+He looks like he is very proud of how well made his bed is.
+~
+12 4 bg z 350 A 45 1
+#17227
+warrior minotaur~
+the Minotaur Warrior~
+A minotaur warrior is here, making his bed.
+~
+He looks mean......what more is there to say?
+~
+12 4 bgl z 350 A 45 1
+#17228
+warrior minotaur~
+the Minotaur Warrior~
+A minotaur warrior is here, polishing his boots.
+~
+He looks mean......what more is there to say?
+~
+12 4 bg z 350 A 45 1
+#17229
+warrior captain minotaur~
+the Minotaur Captain~
+A minotaur captain is busy polishing his medals.
+~
+He looks he has been trough a lot of battles, and he is probably
+quite good at fighting since he has receives so many rewards.
+~
+12 4 bgl z 350 A 50 1
+#17230
+warrior lieutenant minotaur~
+the Minotaur Lieutenant~
+A minotaur lieutenant is here, pretending he is a captain.
+~
+He looks he has been trough a lot of battles, and he is probably
+quite good at fighting since he has receives so many rewards.
+~
+12 4 bgl z 350 A 49 1
+#17231
+warrior minotaur colonel~
+the Minotaur Colonel~
+The minotaur colonel is sitting behind his desk, studying battle tactics.
+~
+He looks very important, and it looks like it would be a bad idea to
+upset him.
+~
+12 4 bgl z 350 A 52 1
+#17232
+warrior bodyguard guard minotaur~
+the Minotaur Bodyguard~
+A bodyguard is here on duty.
+~
+He looks like he is doing a good job with protecting the colonel.
+~
+12 4 bgm z 350 A 48 1
+#99999
+$~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

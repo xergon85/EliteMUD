@@ -1,0 +1,84 @@
+#9800
+goat mountain~
+a mountain goat~
+A mountain goat nibbles at a piece of grass here.
+~
+This goat is acclimated to the rugged terrain of the mountains.  It looks at
+you and shies away a little.
+~
+0 0 192 0 0 S
+8 17 3 3d5+95
+408 500 100 2d5+1  -1
+-1
+-1
+0 1500 8 8 1
+#9801
+demon decay~
+a Demon of Decay~
+A cloaked and clawed demon of decay comes at you viciously!
+~
+This demon has pure malevolence for anything living.  Oops!  You're living!
+I guess that means you!
+~
+0 0 34 16777224 0 S
+24 11 2 3d5+250
+400 500 100 2d7+8  -1
+-1
+-1
+0 50000 8 8 0
+#9802
+book monster guardian~
+the Book Monster~
+A mound of books rise up into a human shape and tries to hit you!
+~
+Ironically enough, the book-monster's head is War and Peace.  Hmm.
+~
+0 0 34 1032 0 S
+28 9 1 1d1+340
+400 500 100 2d8+8  -1
+-1
+-1
+0 80000 8 8 0
+#9803
+bad feeling~
+a Bad Feeling~
+A bad feeling chokes your throat.
+~
+It resembles a lot of other bad feelings you've had, but a lot more
+tangible....magic?
+~
+0 0 34 1032 0 S
+36 7 0 1d1+410
+400 500 100 3d8+8  -1
+-1
+-1
+0 150000 8 8 0
+#9804
+nightmare~
+Your Worst Nightmare~
+Your worst nightmare coalesces in front of you and attacks!
+~
+It looks like you deepest, darkest fears personified.  Wait a minute!  It IS
+your deepest, darkest fears personified!
+~
+0 0 34 1032 0 S
+38 6 -2 1d1+480
+400 500 100 3d8+10  -1
+-1
+-1
+0 180000 8 8 0
+#9805
+guardian~
+the Guardian~
+A guardian guards the door.  It looks at you and attacks!
+~
+The guardian guards the door.  That's about all its brain can handle: guarding.
+~
+0 0 34 1032 0 S
+36 7 0 10d6+400
+400 500 100 3d6+8  -1
+-1
+-1
+0 155000 8 8 0
+#99999
+$~

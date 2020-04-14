@@ -1,0 +1,404 @@
+#14900
+The Gauntlet INFO room~
+        15 rooms the fatto mobs migrate into    11-25
+        15 pop rooms                            26-40
+        14 keys to the next migrate-into room   11-24 same as room number
+~
+149 bu 1
+S
+#14911
+A warm welcome~
+   ROOM_DESC00
+* this room got 3x flaming fury
+~
+149 duCv 11
+D4
+What_u_see_when_looking_at_next_room
+~
+DOOR_NAME00
+~
+295 14911 14912
+S
+#14912
+Scared yet?~
+   ROOM_DESC00
+*contain a man in red (crimsonlord)
+~
+149 duCv 1
+D4
+What_u_see_when_looking_at_next_room
+~
+DOOR_NAME00
+~
+295 14912 14913
+S
+#14913
+Room of the divine march (or was it marx?)~
+   ROOM_DESC00
+*zeppo harpo groucho gloria (archangels)
+~
+149 utdvC 1
+D4
+What_u_see_when_looking_at_next_room
+~
+DOOR_NAME00
+~
+295 14913 14914
+S
+#14914
+Speedy transit~
+   ROOM_DESC00
+*contain McLArry and a Wall (Mchoro+lord of death)
+~
+149 duCv 1
+D4
+What_u_see_when_looking_at_next_room
+~
+DOOR_NAME00
+~
+295 14914 14915
+S
+#14915
+A dubious exit~
+   ROOM_DESC00
+*with Henry and Morgan (henrietta+masteranger)
+
+~
+149 duCv 1
+D4
+What_u_see_when_looking_at_next_room
+~
+DOOR_NAME00
+~
+295 14915 14916
+S
+#14916
+Dragon spree~
+   ROOM_DESC00
+*with good/evil/neutral dragon (shadow+ruby+aquamarine dragon)
+~
+149 duCv 1
+D4
+What_u_see_when_looking_at_next_room
+~
+DOOR_NAME00
+~
+295 14916 14917
+S
+#14917
+Pentagon~
+   ROOM_DESC00
+*with First,2nd 3rd 4th and 5th memeber of the pentagon
+* which is all the warp goodies...
+* Minax, Blackthorne, Mondain, Guardian, Exodus
+~
+149 duCv 5
+D4
+What_u_see_when_looking_at_next_room
+~
+DOOR_NAME00
+~
+295 14917 14918
+S
+#14918
+The field of Dualism~
+   ROOM_DESC00
+*the genious and the vamp (genial+vampire dragonlord)
+
+~
+149 duCv 2
+D4
+What_u_see_when_looking_at_next_room
+~
+DOOR_NAME00
+~
+295 14918 14919
+S
+#14919
+Work Out~
+   ROOM_DESC00
+*Pilates/steupp/taichi
+*Polaris Cepheus Orcus(oldgen)
+~
+149 duCv 1
+D4
+What_u_see_when_looking_at_next_room
+~
+DOOR_NAME00
+~
+295 14919 14920
+S
+#14920
+The Veranda of the Faboulous Four~
+   ROOM_DESC00
+*fab4 1 2 3 4
+*apocalyptic horseriders
+~
+149 duCvt 1
+D4
+What_u_see_when_looking_at_next_room
+~
+DOOR_NAME00
+~
+295 14920 14921
+S
+#14921
+Dwelling place of the Holy TRIad~
+   ROOM_DESC00
+*holy triads W T/C M
+*unicorn grandMis Dagga
+~
+149 duCv 1
+D4
+What_u_see_when_looking_at_next_room
+~
+DOOR_NAME00
+~
+295 14921 14922
+S
+#14922
+A cave with a strange bat infestion~
+   ROOM_DESC00
+*with brunce + robin which really are
+*avatar+championdethguard
+~
+149 duCv 1
+D4
+What_u_see_when_looking_at_next_room
+~
+DOOR_NAME00
+~
+295 14922 14923
+S
+#14923
+The gauntlets last attempt to misguide you~
+   ROOM_DESC00
+*with Slafs Stomp Schlurp
+*hades satan and that nice lord over the flies
+~
+149 duCvg 6
+D4
+What_u_see_when_looking_at_next_room
+~
+DOOR_NAME00
+~
+295 14923 14924
+S
+#14924
+The Path of Resurrection~
+   ROOM_DESC00
+*with ArtiDragon DivineIntervention and AntiMass
+* Dragonlady, Mistress of the dead, Mistress of disgust.
+~
+149 duCv 1
+D4
+What_u_see_when_looking_at_next_room
+~
+DOOR_NAME00
+~
+295 14924 14925
+S
+#14925
+The END.~
+   ROOM_DESC00
+*with THE BLOB as the blob itself.
+~
+149 duCv 1
+S
+
+
+
+
+#14926
+Pop Room 14911~
+pops
+ 14900 flaming fury 1
+ 14901 flaming fury 2
+ 14902 flaming fury 3
+~
+149 duCv 1
+D4
+~
+~
+0 -1 14911
+S
+#14927
+Pop Room 14912~
+pops
+ 14903 Man shifting in red
+~
+149 duCv 1
+D4
+~
+~
+0 -1 14912
+S
+#14928
+Pop Room 14913~
+pops
+ 14904 Zeppo
+ 14905 Groucho
+ 14906 Harpo
+ 14907 GloriaGloriaGloria
+~
+149 duCv 1
+D4
+~
+~
+0 -1 14913
+S
+#14929
+Pop Room 14914~
+pops
+ 14908 McLarry
+ 14909 The Wall
+~
+149 duCv 1
+D4
+~
+~
+0 -1 14914
+S
+#14930
+Pop Room 14915~
+pops
+ 14910 Henry
+ 14911 Morgan
+~
+149 duCv 1
+D4
+~
+~
+0 -1 14915
+S
+#14931
+Pop Room 14916~
+pops
+ 14912 Evil Dragon
+ 14913 Good Dragon
+ 14914 Neutral Dragon
+~
+149 duCv 1
+D4
+~
+~
+0 -1 14916
+S
+#14932
+Pop Room 14917~
+pops
+ 14915 First member of the pentagon.
+ 14916 Second
+ 14917 Third
+ 14918 Fourth
+ 14919 Fifth
+~
+149 duCv 1
+D4
+~
+~
+0 -1 14917
+S
+#14933
+Pop Room 14918~
+pops
+ 14921 The Genious
+ 14920 The Vamp
+~
+149 duCv 1
+D4
+~
+~
+0 -1 14918
+S
+#14934
+Pop Room 14919~
+pops
+ 14922 Pilates
+ 14923 StepUpppp
+ 14924 ChiTai
+~
+149 duCv 1
+D4
+~
+~
+0 -1 14919
+S
+#14935
+Pop Room 14920~
+pops
+ 14925 1  The fabolous Four
+ 14926 2  The fabolous Four
+ 14927 3  The fabolous Four
+ 14928 4  The fabolous Four
+~
+149 duCv 1
+D4
+~
+~
+0 -1 14920
+S
+#14936
+Pop Room 14921~
+pops
+ 14929 Holy TRIad
+ 14930 Holy TRIad
+ 14931 Holy TRIad
+~
+149 duCv 1
+D4
+~
+~
+0 -1 14921
+S
+#14937
+Pop Room 14922~
+pops
+ 14932 Robin
+ 14933 Bruce
+~
+149 duCv 1
+D4
+~
+~
+0 -1 14922
+S
+#14938
+Pop Room 14923~
+pops
+ 14934 Slafs
+ 14935 Stomp
+ 14936 Schlurp
+~
+149 duCv 1
+D4
+~
+~
+0 -1 14923
+S
+#14939
+Pop Room 14924~
+pops
+ 14937 Arti
+ 14938 Divine
+ 14939 AntiMass
+~
+149 duCv 1
+D4
+~
+~
+0 -1 14924
+S
+#14940
+Pop Room 14925~
+pops
+ 14940 THE BLOB = THE BADASS!!!
+~
+149 duCv 1
+D4
+~
+~
+0 -1 14925
+S
+#99999
+$~

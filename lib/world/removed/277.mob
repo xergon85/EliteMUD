@@ -1,0 +1,814 @@
+#27701
+dark guard~
+a Dark Guard~
+A Dark Guard stands here spoiling for trouble.
+~
+The guard stands at the ready armed with weapon.  The sneer on his 
+face only confirms his disdain for you.  He looks like he is 
+standing in a shadow, until you notice he is in the middle of the 
+light.
+~
+1 4 2178 8 500  S
+15 15 2 4d6+140
+400 500 100 1d7+5 -1
+-1
+-1
+3500 3500 8 8 1
+#27703
+dark legionare soldier~
+a dark legionare~
+A dark soldier of the common variety stands before.
+~
+A well muscled man who is very heavily armored and armed to the teeth.  
+He lives for combat.
+~
+1 4 2 0 4294967046  S
+20 15 0 4d7+150
+400 500 100 1d8+6 -1
+-1
+-1
+700 5500 8 8 1
+#27704
+crazy madman~
+a crazy madman~
+A crazy madman is blathering nonsense to all.
+~
+~
+1 4 2112 0 900  S
+10 18 5 1d4+85
+400 500 100 1d8+1 -1
+-1
+-1
+100 650 8 8 1
+#27706
+dark centurian~
+a dark centurian~
+A well scared veteran of wars is spoiling for a fight.
+~
+You see a centurian of one of the emperor's elite legions.  He looks VERY 
+strong.  You have this vague feeling that his entertainment isn't going 
+to be a very wholesome activity.
+~
+1 4 2112 0 300  S
+30 14 -1 3d5+220
+400 500 100 1d6+9 -1
+-1
+-1
+1281 12000 8 8 1
+#27707
+emperor blood~
+the Blood Emperor~
+The Blood Emperor of Rome, is sitting here.
+~
+You see a man who is dressed in the finest of clothes, has eaten the 
+best of foods and lived in the most opulent palace that Rome has ever 
+known.  He is the one whipping up the trouble here too. 
+~
+1 4 2050 136 990  S
+50 11 -7 10d5+650
+400 500 100 3d7+15 -1
+-1
+-1
+24763 75000 8 8 1
+#27708
+guard blood bodyguard~
+the blood guard~
+There is a blood bodyguard here, ready to kill for the emperor.
+~
+The bodyguard is dressed in the finest of armor and wields only the 
+deadliest of weapons.  He is very strong and would put up one hell of a 
+fight.  He has been trained to be suspicious of all but the most 
+innocent visitors, and likely to take offense of anyone with less than 
+pure intentions.
+~
+1 4 3363 8 990  S
+40 14 0 3d6+220
+400 500 100 1d6+6 -1
+-1
+-1
+5000 12500 8 8 1
+#27709
+feral cur~
+a feral cur~
+A feral cur growls at you as you pass.
+~
+~
+0 0 38 40 4294966796  S
+12 16 2 3d4+145
+400 500 100 2d6+2 -1
+-1
+-1
+0 3500 8 8 0
+#27711
+corrupted mage~
+A corrupted mage~
+A corrupted mage is preparing a spell to cast.
+~
+He looks like a mischievous youth.
+~
+1 1 194 0 380 S
+40 8 -6 3d50+250
+400 500 60 3d8+4
+26 0 15 1d0+90
+30 0 25 1d0+60     -1
+-1
+-1
+500 60000 8 8 1
+#27712
+dark valkyrie~
+a dark valkyrie~
+A dark valkyrie is threatens you with death.
+~
+She looks quite rugged. In fact, she more resembles a godling more
+than a warrior.
+~
+1 1 98 8 200 S
+65 0 -15 2d100+500
+400 500 100 3d10+30    -1
+-1
+-1
+3000 300000 8 8 2
+#27714
+alterist mage~
+the Alterist~
+The Alterist is here corrupting a dweomer upon several swords.
+~
+~
+1 1 98 8 300 S
+80 -7 -17 2d100+900
+400 500 60 3d10+50
+77 0 15 1d0+85
+88 0 15 1d0+85
+30 0 10 1d0+95 -1
+-1
+-1
+5000 500000 8 8 1
+#27715
+flaming dancing sword~
+a dancing flaming sword~
+A well crafted sword bursts into flames on the work table here.
+~
+It looks quite sharp and on fire.
+~
+2 4 98 128 0 S
+55 2 -11 1d100+300
+403 500 100 4d10+20 -1
+-1
+-1
+0 200000 8 8 0
+#27716
+sorcerer mage~
+the master sorcerer~
+The master sorcerer is here calling creatures from other planes.
+~
+~
+1 1 2226 8 200 S
+80 -6 -18 2d100+800
+400 500 70 3d13+20
+30 0 10 1d0+95
+77 0 10 1d0+75
+88 0 10 1d0+75 -1
+-1
+-1
+5000 500000 8 8 1
+#27717
+ebony wood golem~
+an ebony wooden golem~
+An ebony wooden golem stands a silent vigil here, guarding the stairs.
+~
+He looks flammable.
+~
+12 4 98 536871048 100 S
+50 2 -10 1d100+400
+401 500 100 3d8+26 -1
+-1
+-1
+0 150000 8 8 0
+#27718
+master dark binder~
+the master dark binder~
+The master dark binder is here re-charging a blackened wand.
+~
+The dark binder snarls at you and attacks.
+~
+1 1 2148 40 200 S
+95 -17 -30 4d100+1000
+400 500 60 3d12+50
+30 0 10 1d0+95
+4 0 5 3d0+95
+77 0 10 1d0+95
+87 0 10 1d0+95
+39 0 5 2d0+75    -1
+-1
+-1
+5000 600000 8 8 1
+#27719
+golem maker~
+the golem maker~
+The golem maker is here making a new golem.
+~
+~
+1 1 2148 40 200 S
+95 -17 -30 4d100+1000
+400 500 70 4d15+30
+30 0 10 1d0+95
+4 0 5 3d0+95
+77 0 10 1d0+95
+39 0 5 2d0+75    -1
+-1
+-1
+5000 600000 8 8 1
+#27720
+flint golem~
+a flint golem~
+A flint golem stands here waiting to do its master's bidding.
+~
+It looks like a statue, until you see it shamble towards you.
+~
+12 4 66 536871048 100 S
+80 -14 -26 3d100+700
+401 500 100 3d15+15 -1
+-1
+-1
+0 526000 8 8 0
+#27722
+drow drowish golem~
+a drow golem~
+A drow golem stands guard here
+~
+It looks to be made of a potpourri of different body parts; some don't 
+even resemble anything drowish.
+~
+12 4 98 536871048 100 S
+75 -7 -20 2d100+500
+401 500 100 3d10+15 -1
+-1
+-1
+0 370000 8 8 0
+#27723
+sable golem~
+a sable golem~
+A sable golem wanders around here.
+~
+It looks like a bunch of old rags, quite surprising it can actually 
+walk.
+~
+12 4 96 536871048 100 S
+65 -4 -15 2d100+450
+401 500 100 3d10+15 -1
+-1
+-1
+0 313000 8 8 0
+#27724
+golem~
+an adamantine golem~
+An adamantine golem stands here looking very dangerous.
+~
+It seems to be forged of dark metal.  It looks strong and durable,
+but somewhat un-intelligent.
+~
+12 4 66 536871048 100 S
+95 -18 -30 5d100+700
+401 500 100 3d15+20 -1
+-1
+-1
+0 600000 8 8 0
+#27725
+mud golem~
+a mud golem~
+A mud golem stands guard here.
+~
+~
+12 4 98 536871048 100 S
+80 -8 -19 3d100+600
+401 500 100 3d15+10 -1
+-1
+-1
+0 420000 8 8 0
+#27726
+master necromancer~
+the Master Necromancer~
+The Master Necromancer is here raising undead servants
+~
+Attired all in black, the Necromancer is tall and gangly, but still 
+quite an imposing figure.  A dark cowl shrouds most of his face, but two 
+blazing embers which serve as eyes can be seen through the shadow.  The 
+Necromancer shrieks some obscenities and orders his minions to attack.
+~
+1 1 2148 40 -400 S
+95 -17 -30 4d100+1000
+400 500 60 3d12+30
+30 0 10 1d0+95
+4 0 5 3d0+95
+77 0 10 1d0+95
+87 0 10 1d0+95
+39 0 5 2d0+75    -1
+-1
+-1
+5000 600000 8 8 1
+#27727
+vampire~
+a vampire~
+A vampire stands here .
+~
+~
+2 4 102 8 -500 S
+80 -12 -27 5d100+1000
+401 500 100 5d10+30   -1
+-1
+-1
+0 470000 8 8 0
+#27728
+shadow apprentice~
+the shadow apprentice~
+The shadow apprentice sneers at your worthlessness.
+~
+A powerful wizard in his own right, this ex-apprentice of the master of 
+balance has given up his station in the mage guild hierarchy in order to 
+serve the great master in hopes of gleaning secrets one could never hope 
+to uncover alone.
+~
+1 1 2150 8 0 S
+90 -17 -28 4d100+900
+400 500 70 3d15+25
+30 0 10 1d0+95
+26 0 10 1d0+95
+77 0 10 1d0+95   -1
+-1
+-1
+0 670000 8 8 1
+#27729
+shadow master~
+the master of Shadows~
+The master of Shadows stands here contemplating the balance.
+~
+He looks quite peaceful.
+~
+1 1 2114 136 0 S
+105 -30 -45 5d100+5000
+400 500 50 3d20+30
+76 0 5 1d0+95
+90 0 10 1d0+75
+88 0 10 1d0+95
+28 0 10 2d0+75
+87 0 10 1d0+95
+30 0 5 1d0+95   -1
+-1
+-1
+0 2000000 8 8 1
+#27730
+dark master~
+the master of the dark~
+The master of the dark is here plotting vile deeds.
+~
+The master glares at you.
+~
+1 1 2114 136 -1000 S
+105 -30 -45 5d100+5000
+400 500 50 3d20+30
+76 0 5 1d0+95
+90 0 10 1d0+75
+88 0 10 1d0+95
+28 0 10 2d0+75
+87 0 10 1d0+95
+30 0 5 1d0+95   -1
+-1
+-1
+0 2000000 8 8 1
+#27731
+apprentice~
+a white robed apprentice~
+A white robed apprentice screams at your desecration of goodness.
+~
+He looks like a fanatic.
+The apprentice screams 'Thou art unworthy of this honor!'
+~
+1 1 2150 8 600 S
+80 -17 -28 4d100+900
+400 500 70 3d15+25
+30 0 10 1d0+95
+26 0 10 1d0+95
+77 0 10 1d0+95   -1
+-1
+-1
+0 670000 8 8 1
+#27732
+apprentice~
+a dark apprentice~
+A dark apprentice jumps from the shadows and attacks.
+~
+She bears a wicked looking scar down the side of her face, though once 
+she must have been beautiful, now the scar combined with what seems to 
+be a permanent scowl make her looks quite fearsome.
+~
+1 1 2150 8 -600 S
+90 -17 -28 4d100+900
+400 500 70 3d15+25
+30 0 10 1d0+95
+26 0 10 1d0+95
+77 0 10 1d0+95   -1
+-1
+-1
+0 670000 8 8 1
+#27733
+shade master~
+The master of shade~
+The master of shade is here frowning at your intrusion.
+~
+He looks like a self-righteous bastard.
+~
+1 1 2114 136 1000 S
+105 -30 -45 5d100+5000
+400 500 50 3d20+30
+76 0 5 1d0+95
+90 0 10 1d0+75
+88 0 10 1d0+95
+28 0 10 2d0+75
+87 0 10 1d0+95
+30 0 5 1d0+95   -1
+-1
+-1
+0 2000000 8 8 1
+#27734
+mistress~
+The Dark Mistress~
+The Dark Mistress of Magic is sitting here.
+~
+She looks quite comfortable on her emerald throne. Amazingly young and
+pretty for one of such stature in the guild, no doubt she has kept her
+youthful appearance through the use of strong magics.  The Grand Master 
+pets her cat and smiles at you in confidence.
+~
+1 1 2114 168 0 S
+109 -40 -45 10d100+8000
+400 500 40 3d20+30
+28 0 15 2d0+95
+76 0 15 1d0+95
+90 0 10 1d0+95
+4 0 2 3d0+95
+30 0 10 1d0+95
+87 0 5 1d0+95
+33 0 3 3d0+95  -1
+-1
+-1
+20000 4000000 8 8 2
+#27740
+elemental guardian~
+the elemental guardian~
+An elemental guardian of the canyon is here.
+~
+You can't tell which kind of elemental it is, maybe it's a bit of all of 
+them?
+~
+8 2 bclm 0 0 S
+90 2 -14 3d68+908 
+410 500 60 3d9+11
+26 0 10 1d0+40
+30 0 10 1d0+40
+36 0 5 2d0+40
+48 0 10 1d0+40
+77 0 5 1d0+75 -1
+-1
+-1
+0 210000 8 8 0
+#27741
+small elemental~
+the small elemental~
+A small, rather non-descript elemental is here.
+~
+The small elemental is a resident here.
+~
+1 1 cg 0 0 S
+70 6 -6 4d50+294
+400 500 70 3d10+7
+26 0 10 1d0+40
+30 0 10 1d0+40
+48 0 10 1d0+40 -1
+-1
+-1
+0 50000 8 8 0
+#27742
+medium elemental~
+the medium elemental~
+A medium-sized elemental wanders about.
+~
+The medium elemental is a resident here.
+~
+1 4 cg 0 0 S
+80 3 -9 3d51+357
+400 500 70 3d7+9
+26 0 10 1d0+40
+30 0 10 1d0+40
+36 0 5 2d0+40
+77 0 5 1d0+40 -1
+-1
+-1
+0 125000 8 8 0
+#27743
+large elemental~
+the large elemental~
+A large elemental stands here.
+~
+The large elemental is a resident here.
+~
+1 1 cg 0 0 S
+90 0 -12 4d59+410
+400 500 65 3d8+10
+26 0 10 1d0+40
+30 0 10 1d0+40
+36 0 5 2d0+40
+77 0 10 1d0+40 -1
+-1
+-1
+0 187500 8 8 0
+#27744
+earth elemental king~
+the Earth King~
+The monarch of the earth elementals sits here.
+~
+It looks as old as the earth itself. It seems to know all the secrets 
+and knowledge of the Earth. You can't really tell where it begins and 
+the rock wall ends.
+~
+1 1 bl h 0 S
+102 -5 -17 2d100+800
+410 500 60 3d10+15
+23 0 30 1d0+100
+90 0 10 1d0+25 -1
+-1
+-1
+10000 330000 6 6 0
+#27745
+fire elemental king~
+the Fire King~
+The monarch of the fire elementals flickers here.
+~
+As you look at it, it seems to blend in with the fire in its throne.
+~
+1 1 bl h 0 S
+102 -5 -17 2d100+800
+404 500 55 3d10+15
+26 0 40 1d0+75
+48 0 5 1d0+100 -1
+-1
+-1
+10000 330000 8 8 0
+#27746
+air elemental king~
+the Air King~
+The monarch of the air elementals is here, staring upwards.
+~
+As you peer at it, you seem to be looking at the sky itself.
+~
+1 1 bl h 0 S
+102 -5 -17 2d100+800
+404 500 60 3d10+15
+8 0 10 1d0+100
+72 0 10 1d0+75
+77 0 10 1d0+75
+88 0 10 1d0+50 -1
+-1
+-1
+10000 330000 8 8 0
+#27747
+lightning elemental king~
+the Lightning King~
+The monarch of the lightning elementals is here.
+~
+As you examine it there is a blinding flash of light and a deafening 
+boom! You rub your eyes and look and the ruler is there grinning at you.
+~
+1 1 bl h 0 S
+50 -5 -17 2d100+800
+404 500 55 3d10+15
+6 0 25 1d0+75
+30 0 20 1d0+75 -1
+-1
+-1
+10000 330000 8 8 0
+#27748
+water elemental king~
+the Water King~
+The ruler of the water elementals is here.
+~
+As you look at it, it changes to mist, which swirls around you. Just as 
+you get scared, it reforms in elemental form.
+~
+1 1 bl h 0 S
+102 -5 -17 1d100+800
+404 500 55 3d10+20
+27 0 10 1d0+75
+71 0 5 2d0+50
+75 0 5 2d0+50
+77 0 10 1d0+75
+80 0 5 2d0+50
+88 0 10 1d0+75 -1
+-1
+-1
+10000 330000 8 8 0
+#27749
+lightning elemental guard~
+the lightning guard~
+The lightning guard considers zapping you for the heck of it.
+~
+A humanoid figure seems made of lightning.
+~
+17 1 cfgh z -400 S
+85 -3 -15 3d68+472
+402 500 60 3d9+11
+6 0 20 1d0+40
+30 0 20 1d0+40 -1
+-1
+-1
+0 262500 8 8 1
+#27750
+water elemental guard~
+the water guard~
+The water guard strikes cold fear in your heart.
+~
+You see a humanoid figure made of water.
+~
+15 1 cgl 0 -200 S
+85 -3 -15 3d68+472
+402 500 20 3d9+11
+403 500 30 3d9+11
+8 0 10 1d0+40
+77 0 20 1d0+30
+87 0 20 1d0+30 -1
+-1
+-1
+0 262500 8 8 1
+#27751
+earth elemental guard~
+the earth guard~
+The earth guard considers you in stoney silence.
+~
+A humanoid figure made of stone seems alive.
+~
+16 4 cfgh 0 -300 S
+85 -3 -15 3d68+472
+410 500 75 3d9+11
+23 0 25 1d0+100 -1
+-1
+-1
+0 262500 8 8 0
+#27752
+air elemental guard~
+the air guard~
+A air guard rages across the sky.
+~
+A humanoid figure made of rushing wind.
+~
+17 4 cgl 0 -300 S
+85 -3 -15 3d68+472
+404 500 50 3d9+11
+77 0 25 1d0+30
+88 0 25 1d0+30 -1
+-1
+-1
+0 262500 8 8 0
+#27753
+shade elemental~
+a shade elemental~
+A shade elemental wanders the place looking for something.
+~
+The Shade elemental is hard to see as it bounces from shadow to shadow.
+It gives of no heat nor is it easily seen.
+~
+1 1 cgl bA -150 S
+75 2 -10 3d60+550
+402 500 50 3d8+10
+6 0 10 1d0+40
+26 0 10 1d0+40
+30 0 10 1d0+40
+67 0 5 2d0+100
+70 0 5 2d0+100
+77 0 10 1d0+40 -1
+-1
+-1
+4000 200000 8 8 1
+#27754
+HUGE elemental~
+the HUGE elemental~
+A HUGE elemental form stands here.
+~
+HUGE, need I say more?
+~
+12 1 cgl hA 0 S
+100 -4 -16 3d72+904
+410 0 50 3d10+12
+6 0 10 1d0+40
+23 0 10 1d0+50
+26 0 10 1d0+40
+77 0 10 1d0+40
+88 0 10 1d0+40 -1
+-1
+-1
+0 300000 8 8 0
+#27755
+earth elemental prince~
+the Earth prince~
+The prince of the earth elementals sits here.
+~
+It looks as old as the earth itself. It seems to know all the secrets 
+and knowledge of the Earth. You can't really tell where it begins and 
+the rock wall ends.
+~
+1 1 bl h 0 S
+50 -5 -17 2d100+800
+410 500 60 3d10+15
+23 0 30 1d0+100
+90 0 10 1d0+25 -1
+-1
+-1
+10000 330000 6 6 0
+#27756
+fire elemental prince~
+the Fire prince~
+The prince of the fire elementals flickers here.
+~
+As you look at it, it seems to blend in with the fire in its throne.
+~
+1 1 bl h 0 S
+50 -5 -17 2d100+800
+404 500 55 3d10+15
+26 0 40 1d0+75
+48 0 5 1d0+100 -1
+-1
+-1
+10000 330000 8 8 0
+#27757
+air elemental prince~
+the Air prince~
+The prince of the air elementals is here, staring upwards.
+~
+As you peer at it, you seem to be looking at the sky itself.
+~
+1 1 bl h 0 S
+50 -5 -17 2d100+800
+404 500 60 3d10+15
+8 0 10 1d0+100
+72 0 10 1d0+75
+77 0 10 1d0+75
+88 0 10 1d0+50 -1
+-1
+-1
+10000 330000 8 8 0
+#27758
+lightning elemental prince~
+the Lightning prince~
+The prince of the lightning elementals is here.
+~
+As you examine it there is a blinding flash of light and a deafening 
+boom! You rub your eyes and look and the ruler is there grinning at you.
+~
+1 1 bl h 0 S
+50 -5 -17 2d100+800
+404 500 55 3d10+15
+6 0 25 1d0+75
+30 0 20 1d0+75 -1
+-1
+-1
+10000 330000 8 8 0
+#27759
+water elemental prince~
+the Water prince~
+The prince of the water elementals is here.
+~
+As you look at it, it changes to mist, which swirls around you. Just as 
+you get scared, it reforms in elemental form.
+~
+1 1 bl h 0 S
+50 -5 -17 1d100+800
+404 500 55 3d10+20
+27 0 10 1d0+75
+71 0 5 2d0+50
+75 0 5 2d0+50
+77 0 10 1d0+75
+80 0 5 2d0+50
+88 0 10 1d0+75 -1
+-1
+-1
+10000 330000 8 8 0
+#27760
+shade elemental king~
+the Shade King~
+The King of Shade elementals is here.
+~
+You see the absense of light swirling here, or rather, swirling around
+the edges.  It is large and you hope not as powerful.
+~
+1 1 bl h 0 S
+105 -5 -17 1d100+1000
+404 500 55 4d10+20
+27 0 10 1d0+100
+71 0 5 2d0+50
+75 0 5 2d0+50
+77 0 10 1d0+75
+80 0 5 2d0+50
+88 0 10 1d0+75 -1
+-1
+-1
+10000 330000 8 8 0
+#99999
+$~

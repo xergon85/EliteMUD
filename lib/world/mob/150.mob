@@ -1,0 +1,923 @@
+#15001
+king welmar~
+King Welmar~
+The wise King Welmar sits here in his throne.
+~
+In his later middle-age, with his beard starting to grey, King Welmar is
+still very powerfully built, and wouldn't take kindly to an attack.
+Despite that, you know he is well-loved throughout the land, and has a
+reputation as a wise and just ruler.
+~
+1 2 3 136 400  S
+109 -45 -60 10d60+3510
+400 500 100 3d20+40 -1
+-1
+-1
+25000 3000000 6 8 1
+#15002
+ghost horrible~
+the horrible ghost~
+You hear a frightening wail, and see a horrible Ghost approaching.
+~
+The Ghost is almost translucent, and looks really SCARY!
+~
+0 0 36 524296 -500  S
+85 -25 -35 20d10+1350
+400 500 100 4d15+30 -1
+-1
+-1
+10000 760000 8 8 0
+#15003
+jim guard royal~
+Jim the Royal guard~
+Jim the Royal guard is here on duty.
+~
+As all members of the Guard, Jim wears the chain mail required of
+them as uniform. He seems very well trained, and moves like an
+experienced fighter.
+~
+1 4 65 0 300  S
+80 -20 -30 3d6+1230
+400 500 100 2d8+56 -1
+-1
+-1
+4000 670000 8 8 1
+#15004
+brian guard royal~
+Brian~
+Brian the Royal guard is here, training with the Master.
+~
+As all members of the Guard, Brian wears the chain mail required of
+them as uniform. He seems very well trained, and moves like an
+experienced fighter.
+~
+1 4 67 0 300  S
+80 -20 -30 3d6+1230
+400 500 100 2d8+56 -1
+-1
+-1
+4000 670000 8 8 1
+#15005
+mick guard royal~
+Mick~
+Mick the Royal guard is here, training with the Master.
+~
+As all members of the Guard, Mick wears the chain mail required of
+them as uniform. He seems very well trained, and moves like an
+experienced fighter.
+~
+1 4 67 0 300  S
+80 -20 -30 3d6+1230
+400 500 100 2d8+56 -1
+-1
+-1
+4000 670000 8 8 1
+#15006
+matt guard royal~
+Matt the Royal guard~
+Matt the Royal guard is here on duty.
+~
+As all members of the Guard, Matt wears the chain mail required of
+them as uniform. He seems very well trained, and moves like an
+experienced fighter.
+~
+1 4 65 0 300  S
+80 -20 -30 3d6+1230
+400 500 100 2d8+56 -1
+-1
+-1
+4000 670000 8 8 1
+#15007
+jochem guard royal~
+Jochem the Royal guard~
+Jochem the Royal guard sits here, off duty.
+~
+As all members of the Guard, Jochem wears the chain mail required of
+them as uniform. He seems very well trained, and moves like a fighter
+who has seen more than one battle, and longs to see the next!
+~
+1 4 65 0 300  S
+85 -24 -32 3d6+1430
+400 500 100 2d8+65 -1
+-1
+-1
+4000 760000 6 6 1
+#15008
+anne guard royal~
+Anne the Royal guard~
+Anne the Royal guard is here on duty.
+~
+As all members of the Guard, Anne wears the chain mail required of
+them as uniform. She seems very well trained, and moves like a fighter
+who has seen more than one battle, and longs to see the next!
+~
+1 4 65 0 300  S
+85 -24 -32 3d6+1430
+400 500 100 2d8+65 -1
+-1
+-1
+4000 760000 8 8 2
+#15009
+andrew guard royal~
+Andrew the Royal guard~
+Andrew the Royal guard is here on duty.
+~
+As all members of the Guard, Andrew wears the chain mail required of
+them as uniform. He seems very well trained, and moves like a fighter
+who has seen more than one battle, and longs to see the next!
+~
+1 4 65 0 300  S
+85 -24 -32 3d6+1430
+400 500 100 2d8+65 -1
+-1
+-1
+4000 760000 8 8 1
+#15010
+bertram bert guard royal~
+Bertram the Royal guard~
+Bertram the Royal guard is here on duty.
+~
+As all members of the Guard, Bertram wears the chain mail required of
+them as uniform. He seems very well trained, and carries his scars
+with pride. This guy seems tough...
+~
+1 4 65 0 300  S
+85 -24 -32 3d6+1430
+400 500 100 2d8+65 -1
+-1
+-1
+4000 760000 8 8 1
+#15011
+jeanette guard royal~
+Jeanette the Royal guard~
+Jeanette the Royal guard is here on duty.
+~
+As all members of the Guard, Jeanette wears the chain mail required of
+them as uniform. She seems very well trained, and carries her scars
+with pride. This girl could be nasty if she wanted to...
+~
+1 4 65 0 800  S
+85 -24 -32 3d6+1430
+400 500 100 2d8+65 -1
+-1
+-1
+4000 760000 8 8 2
+#15012
+peter captain guard royal~
+Peter, the Captain of the Royal guard~
+Peter, the Captain of the Royal guard, walks around inspecting.
+~
+As all members of the Guard, Peter wears the chain mail required of
+them as uniform. Even though all the other guards seem well trained,
+you realise none of them would stand a chance against this man in a
+fight. He stands at least two metres tall, but still moves with an
+almost feline grace. He actually radiates strength and confidence,
+and you have to fight a sudden urge to come to attention as you see
+him.
+~
+1 4 65 0 900  S
+90 -25 -35 3d6+1640
+400 500 100 2d8+70 -1
+-1
+-1
+8000 900000 8 8 1
+#15013
+master trainingmaster~
+the Training Master~
+The Training Master is here, supervising.
+~
+Aged, but experienced, the Training Master is skilled in the use
+of virtually every weapon type invented by Man.
+~
+1 4 67 0 950  S
+88 -24 -34 2d6+1220
+400 500 100 2d8+65 -1
+-1
+-1
+10000 833333 8 8 1
+#15014
+herald royal~
+the Royal Herald~
+The Royal Herald is standing here.
+~
+This is a young, powerfully built man, whose primary function
+is to make Royal Announcements.
+~
+1 4 66 0 950  S
+88 -24 -34 2d6+1220
+400 500 100 2d8+65 -1
+-1
+-1
+10000 833333 8 8 1
+#15015
+ergan murderer~
+Ergan the Murderer~
+Slumped in a corner you see Ergan, aka the Murderer of Townsbridge.
+~
+You remember a time almost a decade ago, when the news of the day
+was how this man had slaughtered the entire population of the little
+village of Townsbridge. He was imprisoned, and here he is: a shadow
+of the undoubtedly great warrior he once was, but still to be reckoned
+with.
+~
+1 4 166 0 -300  S
+83 -18 -30 3d6+1255
+400 500 100 2d8+52 -1
+-1
+-1
+0 721666 6 6 1
+#15016
+butler james~
+James the Butler~
+James the Butler is standing here, looking pompous.
+~
+The typical perfect butler: upper middle age, a bit bald and with 
+an impressive belly.
+~
+1 4 1 0 500  S
+70 -11 -18 1d6+1200
+400 500 100 2d9+45 -1
+-1
+-1
+2000 526666 8 8 1
+#15017
+woman cleaning~
+the cleaning woman~
+There is a cleaning woman here, trying not be noticed.
+~
+Although she has a menial job, she seems to like it.
+~
+1 4 1 0 800  S
+55 -6 -16 4d6+800
+400 500 100 2d15+28 -1
+-1
+-1
+0 370000 8 8 2
+#15018
+cockroach roach~
+the Cockroach~
+A large Cockroach is crawling by the wall.
+~
+Very large indeed, and they say cockroaches are hard to kill...
+~
+0 0 0 0 0  S
+45 -5 -12 2d6+720
+400 500 100 4d8+25 -1
+-1
+-1
+0 255000 8 8 0
+#15019
+astrologer~
+the Astrologer~
+The Astrologer is sitting here, studying a book.
+~
+He is old and white-haired, with a long beard. As you see him, you
+can almost believe the rumours about stars deciding Fate, and
+that astrology is capable of seeing the future.
+~
+1 1 2051 8 900  S
+109 -100 -200 1d1+30000
+400 500 100 1d100+100 -1
+-1
+-1
+10000 50000 8 8 1
+#15020
+tim guard lifeguard~
+Tim, the King's Lifeguard~
+Tim, the King's Lifeguard, is standing here.
+~
+This guy looks just like his twin, Tom. There seems to be no
+doubt that he is completely prepared to give his life
+for the King, if necessary.
+~
+1 4 3 8 900  S
+95 -28 -32 3d6+1605
+400 500 100 2d8+65 -1
+-1
+-1
+1000 983333 8 8 1
+#15021
+tom guard lifeguard~
+Tom, the King's Lifeguard~
+Tom, the King's Lifeguard, is standing here.
+~
+This guy looks just like his twin, Tim. There seems to be no
+doubt that he is completely prepared to give his life
+for the King, if necessary.
+~
+1 4 3 8 900  S
+95 -28 -32 3d6+1605
+400 500 100 2d8+65 -1
+-1
+-1
+1000 983333 8 8 1
+#15022
+chef cook~
+the Chef~
+The Chef is here, shouting orders to the other cooks.
+~
+It seems he has been tasting his own food a bit too enthusiastically.
+He is, in other words, a bit fat.
+~
+1 4 130 0 500  S
+80 -16 -25 2d6+1283
+400 500 100 4d10+40 -1
+-1
+-1
+1000 670000 8 8 1
+#15023
+cook~
+the junior cook~
+A junior cook makes himself busy stirring a pot.
+~
+A junior cook, eager to do the Chef's bidding.
+~
+1 4 130 0 300  S
+60 -8 -16 2d7+846
+400 500 100 2d8+30 -1
+-1
+-1
+0 420000 8 8 1
+#15024
+david guard~
+David~
+David, a big, mean-looking man, stands here, guarding the door.
+~
+He really is big, and you get the feeling he wouldn't take kindly
+to an attempt to get past him.
+~
+1 4 3 8 250  S
+100 -30 -55 2d6+1635
+400 500 100 2d8+70 -1
+-1
+-1
+2000 2000000 8 8 1
+#15025
+dick guard~
+Dick~
+Dick, a big, mean-looking man, stands here, guarding the door.
+~
+He really is big, and you get the feeling he wouldn't take kindly
+to an attempt to get past him.
+~
+1 4 3 8 250  S
+100 -30 -55 2d6+1635
+400 500 100 2d8+70 -1
+-1
+-1
+2000 2000000 8 8 1
+#15026
+jerry guard royal~
+Jerry the Royal guard~
+Jerry the Royal guard is here off duty, playing dice.
+~
+As all members of the Guard, Jerry wears the chain mail required of
+them as uniform. He seems very well trained, and moves like an
+experienced fighter.
+~
+1 4 67 0 800  S
+80 -20 -30 3d6+1230
+400 500 100 2d8+52 -1
+-1
+-1
+4000 670000 8 8 1
+#15027
+michael guard royal~
+Michael the Royal guard~
+Michael the Royal guard is here off duty, playing dice.
+~
+As all members of the Guard, Michael wears the chain mail required of
+them as uniform. He seems very well trained, and moves like an
+experienced fighter.
+~
+1 4 67 0 800  S
+80 -20 -30 3d6+1230
+400 500 100 2d8+52 -1
+-1
+-1
+4000 670000 5 5 1
+#15028
+hans guard royal~
+Hans the Royal guard~
+Hans the Royal guard is here on duty.
+~
+As all members of the Guard, Hans wears the chain mail required of
+them as uniform. He seems very well trained, and moves like a fighter
+who has seen more than one battle, and longs to see the next!
+~
+1 4 67 0 800  S
+80 -20 -30 3d6+1230
+400 500 100 2d8+52 -1
+-1
+-1
+4000 670000 8 8 1
+#15029
+boris guard royal m15029~
+Boris the Royal guard~
+Boris the Royal guard is here on duty.
+~
+As all members of the Guard, Boris wears the chain mail required of
+them as uniform. He seems very well trained, and carries his scars
+with pride. This guy seems tough...
+~
+1 4 67 0 800  S
+80 -20 -30 3d6+1230
+400 500 100 2d8+52 -1
+-1
+-1
+4000 670000 8 8 1
+#15030
+Morianne queen m15030~
+Queen Morianne~
+Lovely Queen Morianne moves gracefully about the room.
+~
+The daughter of the Grand Mistress, the frightening witch who lives in a
+Tower of Sorcery, Morianne has managed to avoid her mother's evil
+habits.  She is as pure and lovely as her husband is good and wise.
+~
+1 2 b rz 400  S
+109 -45 -60 10d60+3510
+400 500 100 3d20+40 -1
+-1
+-1
+25000 3000000 8 8 2
+#15031
+Petunia attendant lady lady-in-waiting m15031~
+Petunia~
+Petunia the Queen's lady-in-waiting is helping her majesty.
+~
+As all members of the Queen's personal staff, Petunia is the quite
+lovely daughter of one of the local nobles.  The Queen hopes to marry
+her off soon, as her personality is quite grating.
+~
+1 4 bg rz 800  S
+80 -20 -30 3d6+1230
+400 500 100 2d8+52 -1
+-1
+-1
+4000 670000 8 8 1
+#15032
+Pansy lady lady-in-waiting m15032~
+Pansy~
+Pansy looks at you from eyes the color of crushed violets.
+~
+Pansy has a way of getting what she wants from the queen or, indeed, any
+member of the court.  She is extremely beautiful, and appears quite
+vulnerable.  In fact, of course, she is extremely strong.
+~
+1 4 g 0 300  S
+85 -24 -32 3d6+1430
+400 500 100 2d8+65 -1
+-1
+-1
+4000 760000 8 8 1
+#15033
+Tulip lady m15033~
+Tulip~
+Tulip struts arrogantly about the room, stopping only at mirrors.
+~
+With long blond hair braided in the latest fashion to hit the court,
+wearing only the latest and most costly of gowns, Tulip feels she is not
+arrogant, just very aware of her place as the most eligible of the
+ladies in waiting.
+~
+1 4 g 0 300  S
+85 -24 -32 3d6+1430
+400 500 100 2d8+65 -1
+-1
+-1
+4000 760000 8 8 2
+#15034
+m15034 sergei guard dungeon~
+Sergei the dungeon guard~
+Sergei the dungeon guard stands here, seemingly watching everything
+at once.
+~
+Although he never seems to move and inch he appears to be seeing
+everything around him simultaneously.  For that matter, you can't
+imagine anything could possibly move Sergei; he is easily one of
+the largest men you have ever seen.  His armor is worn and dirty,
+casting him as a huge black figure.  It's no wonder no one ever
+escapes from this dungeon.
+~
+1 4 bfil fk 800  S
+90 -25 -34 2d4+1500 
+400 500 100 4d6+80 -1
+-1
+-1
+1000 900000 8 8 1
+A
+%%10 emote watches you intently.~
+#15035
+m15035 nikolas guard dungeon~
+Nikolas the dungeon guard~
+Nikolas the dungeon guard stands here, seemingly watching everything
+at once.
+~
+Although he never seems to move and inch he appears to be seeing
+everything around him simultaneously.  For that matter, you can't
+imagine anything could possibly move Nikolas; he is easily one of
+the largest men you have ever seen.  His armor is worn and dirty,
+casting him as a huge black figure.  It's no wonder no one ever
+escapes from this dungeon.
+~
+1 4 bfil fk 800  S
+90 -25 -34 2d4+1500 
+400 500 100 4d6+80 -1
+-1
+-1
+1000 900000 8 8 1
+A
+%%10 emote watches you intently.~
+#15036
+m15036 prisoner heretic reb'malim rebmalim~
+Reb'Malim~
+The moronic heretic named Reb'Malim stands here, stupidly.
+~
+This prisoner is guilty of heresy against the Gods, by using unethical
+alchemy to reproduce gold and magical items.  At first you fear his
+cunning, but when you look into his eyes, you realize that there isn't
+much there...
+~
+1 4 cg 0 -500 S
+85 -22 -34 2d4+1500
+400 500 100 4d6+50 -1
+-1
+-1
+0 845000 8 8 1
+#15037
+m15037 prisoner murderer jack~
+Jack~
+Jack, the cowardly murderer is huddled in the corner.
+~
+This prisoner is guilty of luring and murdering the young, innocent, and
+inexperienced.  Have no mercy for this coward, for he deserves none.
+~
+1 3 cfgh s -500 S
+85 -22 -34 2d4+1500
+400 500 100 4d6+50 -1
+-1
+-1
+0 845000 8 8 1
+#15038
+m15038 prisoner burnt bread toast~
+A prisoner called burnt bread~
+A heinous prisoner, known only as burnt bread stands here.
+~
+One of the dungeons many captives stands before you, smelling faintly of
+stale, cooked bread.  His crimes are otherworldly and unspeakable...
+Things mortal man were not meant to understand, yet he is so irritating
+you would not dream of questioning his imprisonment.
+~
+1 3 g z -500 S
+85 -22 -34 2d4+1500
+400 500 100 4d6+50 -1
+-1
+-1
+0 845000 8 8 1
+#15039
+m15039 prisoner pedro alonso lopez~
+Pedro Alonso Lopez, "Monster of the Andes"~
+Pedro Alonso Lopez stands here, planning future slayings.
+~
+Estimated at killing over three hundred young girls, Lopez's childhood
+is marked by his mother's prostitution, molesting his sister, and
+finally his own sodomy by a pedophile.  He is truly a product of his
+environment.
+~
+1 4 fgjl 0 -800 S
+90 -25 -34 3d10+1550
+400 500 100 5d6+65 -1
+-1
+-1
+0 900000 8 8 1
+A
+%%10 grin;%10 lick;%10 cackle~
+#15040
+m15040 prisoner sadist king henry lee lucas~
+Henry Lee Lucas, the "Sadist King"~
+Henry Lee Lucas stands here, day dreaming about animals and corpses.
+~
+Lucas's nickname of "Sadist King" doesn't even begin to describe his
+depravity.  Guilty of many, many murders, he also took pleasure in
+matricide, necrophilia, and bestiality.  Forever linked with his partner
+in crime, Ottis Toole.
+~
+1 4 fgjl 0 -800 S
+90 -25 -34 3d10+1550
+400 500 100 5d6+65 -1
+-1
+-1
+0 840000 8 8 1
+A
+%%10 headache;%10 mutter;%10 twitch~
+#15041
+m15041 prisoner ottis toole generalissimo pain~
+Ottis Toole, the "Generalissimo of Pain"~
+Ottis Toole, the deeply psychotic retard, stands here.
+~
+Ottis Toole complements his partner in crime, Henry Lee Lucas, perfectly.
+He is a transvestite mass murderer with a taste for human flesh.  He
+also claims to be a close associate of Jim Jones.
+~
+1 4 fgjl 0 -800 S
+90 -25 -34 3d10+1550
+400 500 100 5d6+65 -1
+-1
+-1
+0 840000 8 8 1
+A
+%%10 drool;%10 twitch;%10 emote eyes you, hungrily.~
+#15042
+m15042 prisoner doctor holmes dr~
+Dr. Holmes the corpse looter~
+Dr. Holmes stands here, contemplating your demise.
+~
+Dr. Holmes started his career as a medical student by stealing corpses
+from his University.  He used insurance fraud to raise enough money to
+construct a castle filled with torturous devices, which he later had to
+torch to destroy evidence of his murders.
+~
+1 4 fgjl 0 -800 S
+90 -25 -34 3d10+1550
+400 500 100 5d6+65 -1
+-1
+-1
+0 840000 8 8 1
+#15043
+higglebottom Mrs. housekeeper m15043~
+Mrs. Higglebottom~
+Mrs. Higglebottom, King Welmar's housekeeper, bustles about tidying up.
+~
+Mrs. Higglebottom is a short, round woman of indeterminate age.  Her
+title is honorary, as there is nothing to indicate there was ever a Mr.
+Higglebottom.  She seems to have been at the castle forever.  She makes
+sure the cleaning ladies do their jobs properly and that the castle is
+run in an orderly fashion.
+~
+1 4 ceg 0 500  S
+70 -11 -18 1d6+1200
+400 500 100 2d9+45 -1
+-1
+-1
+2000 526666 8 8 1
+#15044
+m15044 advisor Parassus~
+The king's advisor~
+Parassus, the king's advisor, wears a strange insignia around his neck.
+~
+A tall, gaunt human with long, dark hair, high cheekbones, and deep blue
+eyes that never quite meet yours, Parassus has been the king's advisor
+since Nilrem mysteriously disappeared.  King Welmar relies on him
+absolutely, seemingly oblivious to the advisor's occasional (hiss) and
+his fiery explosions of temper. 
+~
+1 4 g krszD -800 S
+90 -25 -34 3d10+1550
+400 500 100 5d6+65 -1
+-1
+-1
+0 870000 8 8 1
+#15045
+court mage m15045~
+The court mage~
+The mage dressed in forest green peers out from under bushy white brows.
+~
+Thick snow white hair floats wildly about the tall, slender mage's head,
+effectively hiding the gentle points of his ears.  As Chief Mage to His
+Majesty, King Welmar, he is allowed, even expected to have his
+eccentricities.  Nobody knows that his preference for green comes from
+his secret alliance with his brethern in the Free the Elves foundation.
+~
+1 4 g krszD 800 S
+90 -25 -35 3d10+1500
+400 500 40 5d6+65
+4 0 10 1d0+95
+30 0 5 1d0+80
+96 0 10 1d0+95
+106 0 10 1d0+95
+79 0 10 1d0+95 
+-1
+-1
+-1
+0 900000 8 8 1
+#15046
+priest court highpriest m15046~
+The High Priest~
+Trained by the avatar at a small temple near Moria, the High 
+Priest is feared.
+~
+If ever there were a warrior priest, this man fulfills the description.
+He is the second son of a Duke of the Realm of King Welmar.  He is quite
+tall, well over six and a half feet (over 2m), and as broad of shoulder
+as a minotaur.  His high forehead leads to long thick brown hair, tied
+back with a leather thong.  The priest watches carefully over the
+spiritual health of the castle inhabitants, and is likely to order a
+flogging of a miscreant.
+~
+1 4 g hkrsD 800 S
+90 -25 -40 3d10+1500
+400 500 40 5d6+65
+28 0 20 1d0+95
+27 0 20 1d0+98 -1
+-1
+-1
+0 900003 8 8 1
+#15047
+prisoner thief~
+A captured thief~
+A captured thief is imprisoned here, wishing for death.
+~
+Standing at about 5'8", this thief doesn't seem very dangerous at all.
+Perhaps he was just stealing some food for his family.  Since he still
+has one hand he probably was only caught once.
+~
+1 3 g 0 -200 S
+75 -19 -32 5d10+1150
+400 500 100 4d8+40 -1
+-1
+-1
+0 645000 8 8 1
+#15048
+prisoner peeping tom~
+A peeping Tom~
+A peeping Tom wanders around here, looking embarassed.
+~
+Even minor crimes of perversion are punishable by life imprisonment in
+Welmar's domain.  You better keep your eyes to yourself.
+~
+1 3 g 0 -200 S
+75 -19 -32 5d10+1150
+400 500 100 4d8+40 -1
+-1
+-1
+0 645000 8 8 1
+#15049
+prisoner political~
+A political prisoner~
+A political prisoner runs around, frustrated by his capture.
+~
+This young man's life came to an accelerated end after being foolish
+enough to support one of Welmar's opponents.  Let this be a lesson to
+all would-be fanatics, "Don't mess with the King."
+~
+1 3 g 0 -200 S
+75 -19 -32 5d10+1150
+400 500 100 4d8+40 -1
+-1
+-1
+0 645000 8 8 1
+A
+%%10 jump;%10 scream~
+#15050
+man young travelling warrior~
+young warrior~
+A young man hurries towards Midgaard, determined to become a warrior.
+~
+All his life he has dreamed of becoming a warrior, fighting dragons
+and rescuing maidens in distress. Now he is off to Midgaard to make
+his dreams come true!
+~
+0 0 64 1024 0 S
+1 19 6 1d20+25
+403 500 100 1d6+5 -1
+-1
+-1
+0 300 8 8 1
+#15051
+dispatch runner~
+the dispatch runner~
+A dispatch runner hurries along the road, to deliver important messages.
+~
+The key to ruling a kingdom is communication. King Welmars dispatch 
+runners travel all over the world delivering his missives.
+~
+5 0 g 1024 0 S
+15 12 0 1d50+230
+401 500 100 2d6+4 -1
+-1
+-1
+0 10000 8 8 1
+#15052
+child adventurous~
+an adventurous child~
+An adventurous young child is looking for excitement.
+~
+This mischevious child has sneaked away to look for adventure. Who knows?
+Perhaps she will find it?
+~
+0 0 eg 1024 350 S
+8 16 5 2d50+35
+400 500 100 1d6+1 -1
+-1
+-1
+0 2100 8 8 2
+#15053
+soldier patrolling~
+a patrolling soldier~
+A soldier is patrolling this area.
+~
+This confident looking soldier patrols the road between Midgaard and
+King Welmars castle, protecting people from bandits.
+~
+0 0 g 1024 0 S
+4 18 6 1d15+80
+400 500 100 1d8+3 -1
+-1
+-1
+0 750 8 8 1
+#15054
+mage wandering apprentice~
+a wandering mage~
+An apprentice mage is wandering along the road.
+~
+The mage doesnt look very powerful. Her hat is not very pointy and her
+robe has only got a few straggly looking stars on it. She hopes to find
+a powerful master on her travels and become his apprentice.
+~
+0 0 g 1024 0 S
+5 17 5 1d12+60
+400 500 90 2d4+3  
+32 0 10 1d0+95 -1
+-1
+-1
+0 1100 8 8 2
+#15055
+fairy cheeky druid~
+a cheeky fairy~
+A cheeky fairy pokes her tongue out at you!
+~
+How rude! But you guess she's just teasing.
+~
+0 0 g 1024 200 S
+1 18 9 1d10+20
+409 500 90 1d4+0 
+50 10 10 2d0+90 -1
+-1
+-1
+0 250 8 8 2
+#15056
+elf elven ranger~
+the elven ranger~
+A willowy elven ranger looks about, ready to disappear into the forest.
+~
+In his dark green clothing, and carrying his bow, he looks ready to 
+vanish into the forest at a moments notice.
+~
+0 0 g 1024 200 S
+1 18 7 1d10+80
+402 500 100 1d8+4  -1
+-1
+-1
+0 250 8 8 1
+#15057
+priest~
+an old priest~
+An old priest limps slowly towards Midgaard
+~
+Dressed in ragged priests robes, and clutching a gnarled walking staff
+the priest slowly makes his way home towards Midgaard.
+~
+0 0 g 1024 150 S
+2 18 7 1d12+22
+400 500 100 1d6+0  -1
+-1
+-1
+0 350 8 8 1
+#15058
+guard guardsman welmars royal~
+a guardsman~
+An armored guardsman marches purposefully towards Welmars Castle.
+~
+He marches with a self importantly towards King Welmars castle, watching
+the forest on all sides for brigands and thieves.
+~
+0 0 g 1024 50 S
+4 18 5 1d20+50
+400 500 100 2d3+2  -1
+-1
+-1
+0 750 8 8 1
+#15059
+brigand robber revolutionary~
+the brigand~
+A rough looking young brigand is startled by your arrival.
+~
+Surely too young to be away from home, this idealistic young revolutionary 
+has run away to join Iram Ashmar's anti-monarchy revolution. It is not all 
+living in the forest and eating bark you know, sometimes they have to run 
+away from soldiers too.
+~
+1 4 bfk t -300 A 12 1
+#15060
+neb nvar n'var revolutionary leader brigand~
+Neb N'var~
+Neb N'var, the leader of the revolution, tries to bring you to his cause.
+~
+A very charismatic man, with a sharp moustache and quick smile. He 
+immediately tries to convince you to join his band with a rakish smile and 
+the promise of glory and justice for the common people.
+~
+1 4 b 0 0 A 18 1
+#99999
+$~

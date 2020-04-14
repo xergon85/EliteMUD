@@ -1,0 +1,616 @@
+#147
+Ma Globs Dancing Parlor~
+14798 110 2
+*
+*DOORS
+*Outside - Entrance door
+D 1 14711 3 1
+D 1 14712 1 1
+*Entrance - Ticket office door
+D 1 14712 2 2
+D 1 14715 0 2
+*Restaurant - Kitchen  Swinging doors
+D 1 14738 2 1
+D 1 14780 0 1
+*Corridor - Hulios door
+D 1 14773 0 2
+D 1 14775 2 2
+*Blocked door (no way)
+D 1 14774 3 2
+*Prompt Box - Stage
+D 1 14776 4 1
+D 1 14762 5 1
+*oven door (one way)
+D 1 14785 1 1
+*Kitchen - wine cellar dust door
+D 1 14782 1 2
+D 1 14783 3 2
+*Kitchen - Cold store door
+D 1 14792 3 2
+D 1 14793 1 2
+*Kitchen - Rest room door
+D 1 14792 2 1
+D 1 14794 0 1
+*Rest room - Office door
+D 1 14794 1 2
+D 1 14795 3 2
+*Office - Bob door (only one door)
+D 1 14795 1 2
+*PORTAL
+* L 0 <room #> <portal #> <destination>   Load the portal object
+* A 1 <room #> 1 <key #>                  Attach the key
+*From Office back to Pop-room
+L 0 14795 14768 14703  load portal guard start pos
+A 1 14795 0 -1
+*
+*#14701 Chute I~
+*takes Ma,janitorsand guards to different subareas of the zone.
+*MA 4 Janitors 4stroll guards
+M 0 14761 1 14701
+E 1 14763 25 5       wet dress
+E 1 14705 100 4      office KEY
+*
+M 0 14706 8 14701
+M 0 14706 8 14701
+M 0 14706 8 14701
+M 0 14706 8 14701
+M 0 14705 8 14701
+M 0 14705 8 14701
+M 0 14705 8 14701
+M 0 14705 8 14701
+*#14702 Chute II~
+*takes the crows in from above the chimney.
+*10 Crows
+M 0 14746 20 14702
+M 0 14746 20 14702
+M 0 14746 20 14702
+M 0 14746 20 14702
+M 0 14746 20 14702
+M 0 14746 20 14702
+M 0 14746 20 14702
+M 0 14746 20 14702
+M 0 14746 20 14702
+M 0 14746 20 14702
+*
+*#14703 Chute III~
+*takes the extra guards into Ma's Office when the dragon is dead.
+*5+5 Mad guards
+M 0 14762 10 14703
+M 0 14762 10 14703
+M 0 14762 10 14703
+M 0 14762 10 14703
+M 0 14762 10 14703
+*
+M 0 14765 10 14703
+M 0 14765 10 14703
+M 0 14765 10 14703
+M 0 14765 10 14703
+M 0 14765 10 14703
+*
+*#14704 Chute IV~
+*takes in some more querers.
+*4 querers
+M 0 14701 10 14704
+M 0 14701 10 14704
+M 0 14701 10 14704
+M 0 14701 10 14704
+*
+*#14710 In Line~
+*2 querers
+M 0 14701 10 14710
+M 0 14701 10 14710
+*
+*#14711 Outside the Entrance~
+*2 querers 2 Door guards
+M 0 14701 10 14711
+M 0 14701 10 14711
+M 0 14702 3 14711
+E 1 14710 50 5       door guard jacket
+M 0 14702 3 14711
+E 1 14710 50 5       door guard jacket
+*
+*#14712 Entrance~
+*no loads
+*
+*#14713 Wardrobe~
+*2 clothes guards
+M 0 14703 3 14713
+M 0 14703 3 14713
+G 1 14711 10         fur longcoat
+*
+*#14714 Guard Headquarters~
+*guard captain
+M 0 14704 1 14714
+E 1 14712 25 5       captains harness
+*
+*#14715 Ticket Office~
+*ticket lady
+M 0 14707 1 14715
+G 1 14701 100        Ticket KEY
+E 1 14713 20 17      Stave of remembrance
+E 1 14736 15 12      Tablecloth
+*
+*#14716 Hallway~
+*no loads
+*
+*#14717 East Side of the Bar~
+*3 bar hangouts
+M 0 14709 10 14717
+E 1 14717 10 17      BEER !!!
+M 0 14709 10 14717
+E 1 14717 10 17      BEER !!!
+M 0 14709 10 14717
+E 1 14717 10 17      BEER !!!
+*
+*#14718 Behind the Bar~
+*1 monkey 3 bartenders
+M 0 14708 1 14718
+E 1 14765 40 17      umbrella-special
+M 0 14767 2 14718
+G 1 14714 100        umbrella
+G 1 14715 100        drink 1
+G 1 14716 100        drink 2
+G 1 14717 100        BEER
+G 1 14718 100        fruit
+G 1 14719 100        veggie
+M 0 14768 2 14718
+G 1 14714 100        umbrella
+G 1 14715 100        drink 1
+G 1 14716 100        drink 2
+G 1 14717 100        BEER
+G 1 14718 100        fruit
+G 1 14719 100        veggie
+M 0 14769 2 14718
+G 1 14714 100        umbrella
+G 1 14715 100        drink 1
+G 1 14716 100        drink 2
+G 1 14717 100        BEER
+G 1 14718 100        fruit
+G 1 14719 100        veggie
+*
+*#14719 Center part of the Bar~
+*3 bar hangots+ 1strolling guards
+M 0 14709 10 14719
+E 1 14717 10 17      BEER !!!
+M 0 14709 10 14719
+E 1 14717 10 17      BEER !!!
+M 0 14709 10 14719
+E 1 14717 10 17      BEER !!!
+M 0 14705 8 14719
+*
+*#14720 West Side of the Bar~
+*2 bar hangots + 2 Drunkies
+M 0 14709 10 14720
+E 1 14717 10 17      BEER !!!
+M 0 14709 10 14720
+E 1 14717 10 17      BEER !!!
+M 0 14710 4 14720
+G 1 3003 100         Firebreather Megadrunk
+G 1 3003 100         Firebreather Megadrunk
+G 1 3003 100         Firebreather Megadrunk
+G 1 3003 100         Firebreather Megadrunk
+G 1 3003 100         Firebreather Megadrunk
+M 0 14710 4 14720
+G 1 3003 100         Firebreather Megadrunk
+G 1 3003 100         Firebreather Megadrunk
+G 1 3003 100         Firebreather Megadrunk
+G 1 3003 100         Firebreather Megadrunk
+G 1 3003 100         Firebreather Megadrunk
+*
+*#14721 Hallway~
+*lost in hallway
+M 0 14711 1 14721
+*
+*#14722 Hallway~
+*no loads
+*
+*#14730 Head Waiters Pulpit~
+*Head Waiter
+M 0 14712 1 14730
+E 1 14720 100 11     book of reservations
+*
+*#14731 Restaurant~
+*waiter
+M 0 14731 6 14731
+E 1 14737 20 10      White cloth
+*
+*#14732 Restaurant~
+*2xdining man and woman +waiter
+M 0 14734 6 14732
+E 1 14738 100 16     Fork
+E 1 14739 90 17      and Knife
+M 0 14735 6 14732
+E 1 14738 100 16     Fork
+E 1 14739 90 17      and Knife
+M 0 14734 6 14732
+E 1 14738 100 16     Fork
+E 1 14739 90 17      and Knife
+M 0 14735 6 14732
+E 1 14738 100 16     Fork
+E 1 14739 90 17      and Knife
+M 0 14731 6 14732
+E 1 14737 20 10      White cloth
+*
+*#14733 A small fountain~
+* lemonade fountain
+O 0 14766 100 14733
+*
+*#14734 Dimly lit part of the Restaurant~
+*honey & bunney
+M 0 14732 1 14734
+M 0 14733 1 14734
+E 1 14734 70 12      nice jacket
+P 1 14733 50 14734   very smal diamond ring
+*
+*#14735 Restaurant~
+*2xdining man and woman +waiter+1stroll guard
+M 0 14734 6 14735
+E 1 14738 100 16     Fork
+E 1 14739 90 17      and Knife
+M 0 14735 6 14735
+E 1 14738 100 16     Fork
+E 1 14739 90 17      and Knife
+M 0 14734 6 14735
+E 1 14740 100 16     Spoon
+M 0 14735 6 14735
+E 1 14740 100 16     Spoon
+M 0 14731 6 14735
+E 1 14737 20 10      White cloth
+M 0 14705 8 14735
+*#14736 Restaurant~
+*1xdining man and woman +waiter
+M 0 14734 6 14736
+E 1 14740 100 16     Spoon
+M 0 14735 6 14736
+E 1 14740 100 16     Spoon
+M 0 14731 6 14736
+E 1 14737 20 10      White cloth
+*
+*#14737 Restaurant~
+*family dinner +waiter
+M 0 14731 6 14737
+E 1 14737 20 10      White cloth
+M 0 14766 1 14737
+*
+*#14738 Swinging doors~
+*waiter
+M 0 14731 6 14738
+E 1 14737 20 10      White cloth
+*
+*#14740 Boule-o-Drome Display~
+*no load
+*
+*#14741 Black Jack Table~
+*croupier + 3 BJ gamblers + 4lookats
+M 0 14713 3 14741
+E 1 14721 10 17      Deck of cards
+M 0 14714 4 14741
+G 1 14724 10         Game Token
+M 0 14714 4 14741
+G 1 14724 10         Game Token
+M 0 14714 4 14741
+G 1 14724 10         Game Token
+M 0 14717 10 14741
+M 0 14717 10 14741
+M 0 14717 10 14741
+M 0 14717 10 14741
+*
+*#14742 Chemin-de-Fer Table~
+*croupier + 3 CdF gamblers +1strollguard
+M 0 14713 3 14742
+E 1 14722 40 16      Spatula
+M 0 14715 4 14742
+G 1 14724 80         Game Token
+G 1 14724 80         Game Token
+G 1 14724 80         Game Token
+M 0 14715 4 14742
+G 1 14724 80         Game Token
+G 1 14724 80         Game Token
+G 1 14724 80         Game Token
+M 0 14715 4 14742
+G 1 14724 80         Game Token
+G 1 14724 80         Game Token
+G 1 14724 80         Game Token
+M 0 14705 8 14742
+*
+*#14743 Roulette Table~
+*croupier + 3 R gamblers + 3 lookats
+M 0 14713 3 14743
+E 1 14723 35 17      Scraper
+M 0 14716 5 14743
+G 1 14724 80         Game Token
+M 0 14716 5 14743
+G 1 14724 80         Game Token
+M 0 14716 5 14743
+G 1 14724 80         Game Token
+M 0 14717 10 14743
+M 0 14717 10 14743
+M 0 14717 10 14743
+*
+*#14744 Darts~
+*3 dartplayers
+M 0 14718 3 14744
+E 1 14725 35 17      Darts
+M 0 14718 3 14744
+E 1 14725 35 17      Darts
+M 0 14718 3 14744
+E 1 14725 35 17      Darts
+*
+*#14745 Next to the Stage~
+*1 stage guard
+M 0 14720 2 14745
+*
+*#14746 Panels~
+*4 fallflower girls
+M 0 14719 4 14746
+M 0 14719 4 14746
+M 0 14719 4 14746
+E 1 14726 20 6       Sad face
+M 0 14719 4 14746
+E 1 14726 20 6       Sad face
+*
+*#14747 Panels~
+*3 wallflower Boys
+M 0 14764 3 14747
+G 1 14764 15          fick-plunta
+M 0 14764 3 14747
+G 1 14764 15          fick-plunta
+M 0 14764 3 14747
+G 1 14764 15          fick-plunta
+*
+*#14750 Dance floor~
+*1 tango man woman
+M 0 14741 2 14750
+M 0 14742 2 14750
+*
+*#14751 Dance floor~
+*1 tango man woman
+M 0 14741 2 14751
+E 1 14743 20 5       stiff surface
+M 0 14742 2 14751
+E 1 14743 20 5       stiff surface
+*
+*#14752 Dance floor~
+*4 waltzers
+M 0 14740 4 14752
+M 0 14740 4 14752
+M 0 14740 4 14752
+M 0 14740 4 14752
+*
+*#14753 Dance floor~
+*1 jenka dancer + 4 shakers
+M 0 14738 9 14753
+M 0 14743 7 14753
+M 0 14743 7 14753
+M 0 14743 7 14753
+M 0 14743 7 14753
+E 1 14744 18 7       sacky trousers
+*
+*#14754 Dance floor~
+*1 jenka dancer + 2 shakers +2 huggers
+M 0 14738 9 14754
+M 0 14743 7 14754
+E 1 14744 18 7       sacky trousers
+M 0 14743 7 14754
+E 1 14744 18 7       sacky trousers
+M 0 14744 4 14754
+M 0 14744 4 14754
+*
+*#14755 Dance floor~
+*1+6 jenka leader + dancers
+M 0 14739 1 14755
+E 1 14742 50 17      Whistle
+M 0 14738 9 14755
+M 0 14738 9 14755
+M 0 14738 9 14755
+M 0 14738 9 14755
+*
+*#14756 Dance floor~
+* no load
+*
+*#14757 Dance floor~
+*4 screamers+H.wannabe
+M 0 14736 5 14757
+E 1 14735 10 3       Fan club Pin
+M 0 14736 5 14757
+E 1 14735 10 3       Fan club Pin
+M 0 14736 5 14757
+E 1 14735 10 3       Fan club Pin
+M 0 14736 5 14757
+E 1 14735 10 3       Fan club Pin
+M 0 14737 1 14757
+E 1 14746 50 5       hairy chest
+*
+*#14760 Hulio's part of the Stage~
+*HULIO
+M 0 14749 1 14760
+E 1 14702 100 17     hulios KEY
+E 1 14741 50 5       wide open shirt
+E 1 14748 30 3       golden chain
+*
+*#14761 On the Catwalk~
+*no load
+*
+*#14762 Center of the Stage~
+*1 guitar
+M 0 14724 2 14762
+E 1 14730 20 17      guitar
+*
+*#14763 South-East Corner of the Stage~
+*4 brass
+M 0 14723 4 14763
+M 0 14723 4 14763
+M 0 14723 4 14763
+E 1 14729 10 17       golden horn
+M 0 14723 4 14763
+E 1 14729 10 17       golden horn
+*
+*#14764 North-East Corner of the Stage~
+*3backing vocals
+M 0 14726 4 14764
+M 0 14726 4 14764
+M 0 14726 4 14764
+*
+*#14765 Mad Drummer Corner~
+*MAD drummer
+M 0 14721 1 14765
+E 1 14727 27 17      drumstick wan
+E 1 14728 5 16       drumstick wep
+*
+*#14766 Center part of the back Stage~
+*percussionist
+M 0 14722 1 14766
+*
+*#14767 South-West part of the Stage~
+*pianoplayer+1 guitar
+M 0 14725 1 14767
+E 1 14732 10 17      piano thread
+M 0 14724 2 14767
+E 1 14730 10 17      guitar
+*
+*#14768 Behind the Curtain~
+*1 stage guard
+M 0 14720 2 14768
+*
+*#14769 Above the Stage~
+*no load
+*
+*#14770 Above the Centre Stage~
+*dust mob stage
+M 0 14727 1 14770
+E 1 14731 25 17      bag of sand
+*
+*#14771 Above the Stage~
+*no load
+*
+*#14772 Behind the Curtain~
+*no load
+*
+*#14773 Corridor behind the Stage~
+*no load
+*
+*#14774 End of the Corridor~
+*no load DOOR
+*
+*#14775 Star Dressing Room~
+*lady in waiting
+M 0 14730 1 14775
+O 1 14747 15 14775   chest hair curler
+*
+*#14776 In the Prompt-Box~
+*sussana + 6 papers
+M 0 14729 1 14776
+M 0 14728 14 14776
+M 0 14728 14 14776
+M 0 14728 14 14776
+M 0 14728 14 14776
+M 0 14728 14 14776
+M 0 14728 14 14776
+*
+*#14780 North-East part of the Kitchen~
+*
+*#14781 Staircase~
+*
+*#14782 Wine cellar~
+*
+*#14783 Inner parts of the Wine cellar~
+*3 bad wines
+M 0 14756 3 14783
+M 0 14756 3 14783
+E 1 14755 17 16      broken bottle
+M 0 14756 3 14783
+E 1 14754 20 17      ancient wine
+*
+*#14784 At a Huge Frying board~
+*fat fryer
+M 0 14745 1 14784
+E 1 14745 16 13      fat thingie
+*
+*#14785 Next to a big Oven~
+*1 minor chef
+M 0 14747 5 14785
+E 1 14767 10 5       full white suit
+*
+*#14786 Inside a overheated Oven~
+* no load DT
+*
+*#14787 South end of the Kitchen~
+*minor chef
+M 0 14747 5 14787
+E 1 14767 10 5       full white suit
+*
+*#14788 Kitchen Center~
+*missy bean + assistant
+M 0 14748 1 14788
+E 1 14703 100 17     cellar KEY
+M 0 14750 1 14788
+E 1 14704 100 17     moist KEY
+*
+*#14789 North wall of the Kitchen~
+*1 minor chef
+M 0 14747 5 14785
+E 1 14767 10 5       full white suit
+*
+*#14790 North end of the Sink~
+*dish washer + 3 foams
+M 0 14751 1 14790
+E 1 14749 23 9       rubber gloves
+M 0 14752 4 14790
+M 0 14752 4 14790
+M 0 14752 4 14790
+*
+*#14791 South end of the Sink~
+*drier + towels
+M 0 14753 1 14791
+E 1 14750 20 5       uncle juan T-shirt
+M 0 14754 2 14791
+E 1 14751 20 17      dirty towel
+*
+*#14792 South-West corner of the Kitchen~
+*1 minor chef
+M 0 14747 5 14785
+E 1 14767 10 5       full white suit
+*
+*#14793 Cold Store~
+*3 frosties
+M 0 14755 4 14793
+M 0 14755 4 14793
+M 0 14755 4 14793
+O 0 14752 100 14793    Cradle
+P 1 14753 5 14752    Puts loin in cradle
+*#14794 Personnel Rest Room~
+*3 resting waiter +2 guards
+M 0 14757 4 14794
+E 1 1244 10 17      rufus paper
+M 0 14757 4 14794
+E 1 1244 10 17      rufus paper
+M 0 14757 4 14794
+E 1 1244 10 17      rufus paper
+M 0 14758 2 14794
+E 1 14756 10 17      magasine
+M 0 14758 2 14794
+E 1 14756 10 17      magasine
+*#14795 The Office of Ma Glob~
+*Clara + 2 portals
+M 0 14759 1 14795
+E 1 14706 100 2      Lodge KEY
+E 1 14757 50 17      sissling box
+E 1 14758 20 11      scale shield
+E 1 14759 5 5        scale body
+*#14796 Red Velvet Room~
+*BOB
+M 0 14760 1 14796
+E 1 14760 15 6       Evil smile
+E 1 14761 15 8       Boots of evading
+E 1 14762 10 2       Lodge Ring
+*#14797 Up the Fan~
+*monster in fan
+M 0 14763 1 14797
+*#14798 Top of the Chimney~
+*3 crows
+M 0 14746 20 14798
+M 0 14746 20 14798
+M 0 14746 20 14798
+S
+#99999
+$~

@@ -1,0 +1,179 @@
+#5400
+large broadsword~
+a large broadsword~
+A large broadsword has been left here.~
+slash~
+5 70 abcefgijklms gk an
+0 6 10 3 0 0
+17 25000 4000
+A
+18 5
+A
+19 10
+#5401
+shiny plate~
+a shiny plate~
+A shiny plate has been left here.~
+~
+9 70 abcefgijklms k ad
+40 0 0 0 0 0
+100 25000 4000
+#5402
+dagger~
+a cermonial dagger~
+A cermonial dagger has been left here.~
+~
+5 50 0 gk an
+0 5 8 11 0 0
+6 5000 500
+A
+18 2
+A
+19 4
+#5403
+emerald ring~
+an emerald ring~
+An emerald ring has been left here.~
+~
+9 80 0 g ab
+15 0 0 0 0 0
+4 45000 4000
+A
+18 3
+A
+19 3
+#5404
+bracers bracer~
+a pair of shiny bracers~
+A pair of shiny bracers has been left here.~
+~
+9 85 0 gk am
+15 0 0 0 0 0
+5 50000 5000
+A
+18 3
+#5405
+chainmail golden glowing~
+a glowing golden chainmail~
+A glowing golden chainmail has been left here.~
+~
+9 85 0 agk ad
+45 0 0 0 0 0
+90 100000 20000
+E
+golden chainmail~
+The chainmail is covered with arcane symbols and writings.
+~
+A
+18 3
+A
+19 3
+#5406
+spear avatar avatars glowing~
+the avatars glowing spear~
+A glowing spear lies here.~
+~
+5 85 bfj agk an
+0 6 10 12 0 0
+16 50000 5000
+A
+18 6
+A
+19 15
+#5407
+gold coins~
+a huge mountain of gold~
+A huge mountain of gold lies here.~
+~
+20 1 0 ag a
+100000 0 0 0 0 0
+1 100000 0
+#5408
+treasury key~
+a treasury key~
+A shiny key lies here.~
+~
+18 1 0 0 a
+0 0 0 0 0 255
+1 50 50
+#5409
+breastplate shiny golden~
+a shiny golden breastplate~
+A shiny golden breastplate has been left here.~
+~
+9 90 abcdefgijklmos agk ad
+50 0 0 0 0 0
+140 50000 4000
+A
+13 80
+#5410
+legplates shiny golden~
+shiny golden legplates~
+A pair of shiny golden legplates are laying here.~
+~
+9 90 abcdefgijklmos agk af
+20 0 0 0 0 0
+60 40000 5000
+A
+14 -50
+#5411
+armplates shiny golden~
+shiny golden armplates~
+A pair of shiny golden armplates are laying here.~
+~
+9 90 abcdefgijklmos agk ai
+20 0 0 0 0 0
+40 30000 5000
+#5412
+gauntlets shiny golden~
+shiny golden gauntlets~
+A pair of shiny golden gauntlets are laying here.~
+~
+9 90 abcdefgijklmos agk ah
+12 0 0 0 0 0
+30 30000 4000
+A
+18 5
+A
+19 5
+#5413
+footplate footplates shiny golden~
+shiny golden footplates~
+A pair of shiny golden footplates are laying here.~
+~
+9 90 abcdefgijklmos agk ag
+15 0 0 0 0 0
+20 20000 5000
+A
+14 -50
+#5414
+helm shiny golden~
+a shiny golden helm~
+A shiny golden helm is laying on the ground here.~
+~
+9 90 abcdefgijklmos agk ae
+30 0 0 0 0 0
+30 40000 5000
+A
+13 100
+#5415
+hammer holy~
+the holy hammer~
+A huge glowing hammer is laying here.~
+~
+5 85 acdegiklmos agk an
+0 7 10 7 0 0
+20 45000 10000
+E
+holy hammer~
+  As you inspect the hammer, you notice a small inscription. 
+ "This hammer can only be used by those that are true and good".
+~
+A
+24 10
+A
+19 15
+A
+18 4
+#99999
+$~

@@ -1,0 +1,125 @@
+#666
+Outside the Wedding Chapel~
+   You seem to be floating in the heavens above Elite.  Directly below
+you can see the town of Midgaard, the center of Elite.  Looking around
+you can also see Welmar's castle and the fires of Hell dimly burning.
+You wonder what mystical power protects you from falling to the earth
+below.  As you look around, the only thing visible is a white chapel
+in the distance.  Two large golden doors and beautiful stained glass
+windows decorate this magnificent building.  You conclude that this
+place must be the creation of one of Elite's gods.  Putting aside the
+fear of plummeting to your death below, you decide to approach the
+chapel to bear witness to the events that are about to unfold.
+§N~
+-1 deu 0
+D0
+~
+~
+0 -1 667
+D5
+~
+~
+0 -1 3001
+S
+#667
+Inside the Wedding Chapel~
+   The golden doors mysteriously open, as if sensing your presence.
+At first glance, the interior of this building is as beautiful as its
+exterior.  Flowers gathered from the far reaches of Elite can be seen
+here decorating the white walls.  Ahead of you a set of crystaline
+doors can be seen.  These also open, as if they had a life of their
+own.  Your first look at the actual chapel leaves you speechless.  
+§N~
+-1 deu 0
+D0
+~
+~
+0 -1 668
+D1
+~
+~
+0 -1 669
+D2
+~
+~
+0 -1 666
+D3
+~
+~
+0 -1 670
+S
+#668
+The Wedding Chapel~
+   The walls inside the chapel glow with a divine light.  You feel at
+ease inside here, all of your worries left at the door.  Rows of
+cushioned silvery seats are here for your seating comfort.  Murals of
+Elite's great gods line the walls, providing witness to this event.
+Upon closer inspection, you realize the stained glass windows are
+actually depictions of IO creating the very fabric of existance.  At
+the far end of the room you see a magnificent altar constructed of an
+unknown, but enchanting alloy. A beautiful silken canopy covers the
+wedding platform, where the bride and groom to be will stand and speak
+their vows.
+§N~
+-1 deu 0
+D2
+~
+~
+0 -1 667
+S
+#669
+Flower Garden~
+  You have wandered into a beautiful flower garden.  Every variety of
+Elite foliage must be here growing and blossoming.  Looking around
+you realize that the flowers form a heart-shape, with a single
+golden swing in the middle.  The swing seems perfectly sized for two
+people.  You inhale deeply and breath in the wonderful scents that
+float around this garden.
+§N~
+-1 deu 0
+D3
+~
+~
+0 -1 667
+S
+#670
+Dining Hall~
+   Inside the dining hall you see a gigantic room with foods of all
+sorts.  Elite's finest chefs must have gathered and collaborated to
+create such a magnificent feast for the eyes as well as the
+stomachs of all.  At the head of the room you see a gigantic cake,
+fit for such an occassion.  Next to the cake you see the table that
+belongs to the lucky couple.  Through the many large glass doors
+you can see a balcony that must provide a breathtaking view of the
+land below.
+§N~
+-1 deu 0
+D1
+~
+~
+0 -1 667
+D3
+~
+~
+0 -1 671
+S
+#671
+Balcony~
+   Standing upon the balcony you can see virtually all of Elite below.
+Through the clouds, characters the size of ants can be seen scurrying
+around below, rushing from one zone to the next.  There appears to be
+celebration all around you, including on the world below.  The news of
+a wedding must have spread throught the realm.  Looking out above the
+clouds, in the very distance you see the palace that contains the
+homes of Elite's mighty gods.
+§N~
+-1 deu 0
+D1
+~
+~
+0 -1 670
+S
+#99999
+$~
+
+

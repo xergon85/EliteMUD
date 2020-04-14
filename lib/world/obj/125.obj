@@ -1,0 +1,270 @@
+#12500
+key magic twisted~
+A twisted key~
+You see a strangely warped and twisted key.~
+~
+18 1 0 abg aco
+0 0 0 0 0 240 
+0 50 0
+E
+key magic twisted~
+This key, threaded onto a leather chord, seems to be bent and twisted in
+a peculiar fashion.  It grows warm in your hand and you see a vision of 
+a door covered in mystical symbols.
+~
+#12501
+malaig's silver key pen~
+A silver pen~
+A large silver pen, covered in carvings, lies here.~
+~
+18 20 0 abmn aon
+0 0 0 0 0 240
+0 50 0
+E
+pen silver key~
+No matter how you try you can't seem to get this pen to write, you 
+guess it must be tuned somehow so that only Malaig can use it.  Another 
+strange thing - it has a square cross section, making it awkward to 
+hold.
+~
+#12502
+jawbone gaolers key~
+the gaoler's jawbone~
+The jawbone of the gaoler has somehow landed next to the east wall.~
+~
+18 20 0 abmn aeo
+0 0 0 0 0 240
+0 50 0
+E
+jawbone key gaolers~
+The key to the cells was once cleverly incorporated into the gaoler, so 
+that no one could steal it.  Someone must have carefully removed it.
+~
+#12503
+hindquarters razor steel sharp~
+razor sharp hindquarters~
+The gaolers hindquarters have landed by the south wall.~
+~
+9 32 0 ag af
+8 32 0 0 0 0
+6 3000 0
+E
+hindquarters razor steel sharp~
+They are spring loaded and razor sharp, not exactly comfortable to wear,
+but worth the effort.
+~
+A
+18 1
+A
+19 1
+#12504
+dragon miniature~
+miniature dragon~
+A perfect dragon, only two inches high, nips at your toes.~
+~
+1 45 0 abgk ao
+0 0 -1 0 0 0 
+7 8000 0
+E
+miniature dragon~
+The tiny dragon tries to attack you, but he's only two inches high and is
+unable to harm you in the slightest.  He breathes flame in a vain 
+attempt to burn you to ash, lighting up the entire room. Hmm...wait a 
+minute...that gives you an idea...
+~
+A
+13 20
+#12505
+ice pendant~
+a beautiful ice pendant~
+A beautiful pendant, made of ice, is gently melting here.~
+~
+18 40 0 abmf aco
+0 0 0 0 0 150
+7 500 0
+E
+ice pendant~
+The pendant glows with power, you can almost feel it, but it seems to be
+melting.  It seems beauty like this doesn't last forever.
+~
+A
+12 50
+A 
+13 50
+A
+18 5
+A
+19 5
+#12507
+halfling breastplate~
+a halfling's breastplate~
+A highly polished breastplate catches your eye.~
+~
+9 33 aeim k ado
+13 33 0 0 0 0 
+10 2000 0
+E
+halfing breastplate~
+It bears the silver five-pointed star of Delray and is polished to a 
+silver sheen.
+~
+#12508
+slippers silver~
+a pair of silver slippers~
+A beautiful pair of golden slippers have been carefully place here.~
+~
+9 38 dhlnp ak ago
+7 38 0 0 0 0 
+2 1000 0
+E
+silver slippers~
+Beautifully handcrafted, these slippers seem suited to some kind of 
+formal court, rather than everyday use.
+~
+A
+6 4 
+B A
+#12509
+poleaxe halfling~
+a halfling poleaxe~
+A halflings poleaxe has been placed in the corner of the room.~
+~
+5 33 almeik gk ano
+33 5 6 3 0 0 
+10 500 0
+E
+poleaxe halfling~
+Its about five feet long and topped with a wide curving axe blade.  Blue 
+and silver tassels adorn its' length and the blade is etched on each 
+side with a tiny silver star.
+~
+A
+18 1
+A
+19 1
+#12510
+sword halfling~
+a halfling sword~
+A halfling-size sword look recently used.~
+~
+5 30 almeik gk ano
+30 4 8 3 0 0
+7 2000 0
+E
+sword halfling~
+Slightly smaller than a normal sword, it seems ideally proportioned for 
+a halfling.
+~
+A
+18 4
+A
+19 4
+#12511
+prawn king shell~
+a king-prawn shell~
+The empty shell of a king prawn lies discarded on the ground.~
+~
+9 28 0 0 ab
+9 28 0 0 0 0
+3 3220 0
+E
+prawn king shell~
+The shell of the king-prawn is made up of layers of chitinous scales
+providing protection from all kinds of predators.
+~
+A
+18 1
+A
+19 1
+#12512
+essence lungfish grey bubbly~
+an essence of lungfish~
+A grey bubbly essence gasps for oxygen!~
+~
+10 19 0 0 a
+10 108 43 -1 0 0
+2 1000 0
+E
+essence lungfish grey bubbly~
+The grey essense bubbles furiously - incredible to think that there is so
+much gas in such a little potion. Could keep you going for hours!
+~
+#12513
+flippers shoes~
+a pair of flippers~
+A ridiculous pair of flat shoes stand propped against a wall.~
+~
+9 33 0 0 ag
+5 33 0 0 0 0
+8 8200 0
+E
+flippers shoes~
+Walking in these things would be absolutely impossible, and they look
+so incredibly stupid. They look like dolphins tails! 
+~
+A
+2 -1
+A
+6 -1
+A
+14 -50
+A
+18 -1
+B C
+#12514
+lamp broken~
+a broken lamp~
+A small lamp looks like it has weathered a storm~
+~
+1 34 0 0 ao
+0 0 50 0 0 0
+6 3200 0
+E
+lamp broken~
+The wick inside looks cracked and flimsy, and the battered casing doesn't
+look very sturdy. You wonder if the little lamp will work at all!
+~
+A
+14 10
+#12515
+star little silver delray~
+a little silver star~
+A little silver star is the symbol of the City of Delray.~
+~
+9 36 0 0 ac
+13 36 0 0 0 0
+3 3434 0
+E
+star little silver delray~
+The little silver star is edged in dark blue enamel and hangs on a thin
+silver chain. Any Delray citizen would be proud to wear such a trinket.
+~
+#12516
+octopus arm~
+an octopus arm~
+The long arm of a giant octopus twitches on the ground.~
+~
+3 26 bcdfghklnops g ao
+45 3 3 4 0 0
+8 3200 0
+E
+octopus arm~
+The arm must have come from a HUGE octopus. The remaining arm seems pretty
+harmless, although it does twitch occasionally. Careful where you point it - 
+you could have someones eye out!
+~
+#12517
+towel wet~
+a wet towel (dripping)~
+A wet towel has lies in a puddle on the floor. (dripping)~
+~
+5 22 cdghklnops ov ano
+22 5 3 2 0 0
+12 800 0
+E
+towel wet~
+The towel is about the length of your arm, and sopping wet. Someone has
+twirled round so it is like a whip, ready to sting someones backside!
+~
+#99999
+$~

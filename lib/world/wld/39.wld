@@ -1,0 +1,1915 @@
+#3901
+Beginning of the Dirt Path~
+   You have wandered onto a narrow dirt path. It appears to be a safe and
+passable trail. The path continues to the north. 
+~
+39 4 2
+D0
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3902
+D2
+~
+~
+0 -1 6092
+S
+#3902
+A Bend in the Dirt Path~
+   The dirt path continues here. The trail makes a ninety degree turn, with
+exits leading to the south and west. 
+~
+39 0 2
+D2
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3901
+D3
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3903
+S
+#3903
+The Dirt Path~
+   The dirt path continues here. You sense small animals darting about in the
+trees and tall grass surrounding the trail. Exits lead to the east and west. 
+~
+39 0 2
+D1
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3902
+D3
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3904
+S
+#3904
+The Dirt Path~
+   The dirt path continues here. To the north you see a small hollow in the
+forest. To the south you see a small cave entrance. The dirt path continues to
+the east and west. 
+~
+39 0 2
+D0
+A small hollow appears here. 
+~
+~
+0 -1 3908
+D1
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3903
+D2
+You see a small cave entrance. 
+~
+~
+0 -1 3905
+D3
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3914
+S
+#3905
+Entrance to a Small Cave~
+   You climb through a small opening in the rock formation to enter the cave.
+You can see the exit which is to the north. However, the light from the cave
+entrance is small and you can't see beyond the entrance of the cave. The cave
+continues to the south. 
+~
+39 12 0
+D0
+Through the cave entrance you can see the dirt path. 
+~
+~
+0 -1 3904
+D2
+It is to dark to see. 
+~
+~
+0 -1 3906
+S
+#3906
+A Bear's Den~
+   You have found the home of a large Cave Bear. He may not be to pleased that
+you have entered uninvited. If you are very quiet, he may not hear you. Exits
+lead to the north and west. 
+~
+39 9 0
+D0
+The entrance to the cave lies in this direction. 
+~
+~
+0 -1 3905
+D3
+It is to dark to see. 
+~
+~
+0 -1 3907
+S
+#3907
+A Bat's Lair~
+   You have gone deeper into the cave. Though you may not see anything
+on the ground here, you may want to check above your head. There is an
+exit to the east. 
+~
+39 9 0
+D1
+It is to dark to see. 
+~
+~
+0 -1 3906
+S
+#3908
+Entrance to Rabbit Hollow~
+   Off the dirt path you have come upon a rabbit hollow. The rabbit's
+tend to stay away from the entrance since many travelers often pass
+by on the dirt path. 
+~
+39 4 2
+D0
+The rabbit hollow is there. 
+~
+~
+0 -1 3909
+D2
+You can see the dirt path from here. 
+~
+~
+0 -1 3904
+S
+#3909
+Rabbit Hollow~
+   You have entered the Rabbit Hollow. Here you can see rabbits darting
+here and there. Many of the Rabbits are coming and going from the east.
+To the south, you can make out the dirt path which lies beyond the
+entrance to the Hollow. 
+~
+39 0 2
+D1
+You can see a small hole in the hollow. 
+~
+~
+0 -1 3910
+D2
+You can see the entrance to the Rabbit Hollow. 
+~
+~
+0 -1 3908
+S
+#3910
+A small hole in the hollow~
+   As you wander deeper into the hollow, you have come upon a small hole. You
+imagine that the rabbit's use this as there home. The hole looks just big
+enough for you to fit through. 
+~
+39 0 2
+D3
+You can see the Rabbit Hollow where many rabbits frolic and play. 
+~
+~
+0 -1 3909
+D5
+Below you, you see a hole in the ground. 
+~
+~
+0 -1 3911
+S
+#3911
+The Rabbit Hole~
+   You are now underground. Above you can see opening that leads back up to the
+rabbit hollow. To the north there is a small wooden door. A tunnel to the east
+leads deeper into the hole. 
+~
+39 8 0
+D0
+You can see a doorway to the north. 
+~
+door wooden~
+1 -1 3912
+D1
+You can see a tunnel leading to the east. 
+~
+~
+0 -1 3913
+D4
+Through the hole you can see the rabbit hollow. 
+~
+~
+0 -1 3910
+S
+#3912
+Rabbit storage room~
+   You have entered the storage room of the rabbits. However, the rabbits tend
+to eat there food more quickly than they can store it. If you are lucky, you
+might just find some carrots lying around on the floor. 
+~
+39 9 0
+D2
+You can see a doorway to the south. 
+~
+door wooden~
+1 -1 3911
+S
+#3913
+Deeper in the rabbit hole~
+   You are deeper in the rabbit hole now. The only exit from here is to
+go back to the west. 
+~
+39 8 0
+D3
+You can see a higher in the rabbit hole. 
+~
+~
+0 -1 3911
+S
+#3914
+The Dirt Path~
+   The dirt path continues here. You feel very safe on the path. As you glance
+around, you tremble as you think about what lies off the beaten path. Exits
+lead to the east and west. 
+~
+39 0 2
+D1
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3904
+D3
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3915
+S
+#3915
+The Dirt Path~
+   The dirt path continues here. It is a very calm and peaceful walk. Exits
+lead to the east and west. 
+~
+39 0 2
+D1
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3914
+D3
+You can see the intersection of two paths ahead. 
+~
+~
+0 -1 3916
+S
+#3916
+Intersection of the Dirt Paths~
+   You have come upon a crossing of two dirt paths. Paths lead off to the
+north, east, and west. To the south, you can see an entrance to a wooded area. 
+~
+39 4 2
+D0
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3924
+D1
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3915
+D2
+You see the entrance to the Bird Sanctuary. 
+~
+~
+0 -1 3917
+D3
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3965
+S
+#3917
+Entrance to the Bird Sanctuary~
+   You have entered the bird sanctuary. Here you can see several different
+types of birds all in one small area. You can wander through, just make sure
+that you keep you eyes open for those bird bombs. 
+~
+39 0 3
+D0
+You can see an intersection of two dirt paths. 
+~
+~
+0 -1 3916
+D2
+You can see the bird sanctuary to the south. 
+~
+~
+0 -1 3918
+S
+#3918
+The Bird Sanctuary~
+   This area is heavily wooded so that it will attract many different types of
+birds. You hear many different bird calls as you enter. There are thousands of
+birds who call this sanctuary home, but you will be lucky to see just a few. 
+~
+39 0 3
+D0
+You can see the entrance to the bird sanctuary. 
+~
+~
+0 -1 3917
+D2
+You can see a thickly wooded area. 
+~
+~
+0 -1 3923
+D3
+You can see a thickly wooded area. 
+~
+~
+0 -1 3919
+S
+#3919
+The Bird Sanctuary~
+   This area is heavily wooded so that it will attract many different types of
+birds. You hear many different bird calls as you enter. There are thousands of
+birds who call this sanctuary home, but you will be lucky to see just a few. 
+~
+39 0 3
+D1
+You can see a thickly wooded area. 
+~
+~
+0 -1 3918
+D3
+You can see a thickly wooded area. 
+~
+~
+0 -1 3920
+S
+#3920
+The Bird Sanctuary~
+   This area is heavily wooded so that it will attract many different types of
+birds. You hear many different bird calls as you enter. There are thousands of
+birds who call this sanctuary home, but you will be lucky to see just a few. 
+~
+39 0 3
+D1
+You can see a thickly wooded area. 
+~
+~
+0 -1 3919
+D2
+You can see a thickly wooded area. 
+~
+~
+0 -1 3921
+S
+#3921
+The Bird Sanctuary~
+   This area is heavily wooded so that it will attract many different types of
+birds. You hear many different bird calls as you enter. There are thousands of
+birds who call this sanctuary home, but you will be lucky to see just a few. 
+~
+39 0 3
+D0
+You can see a thickly wooded area. 
+~
+~
+0 -1 3920
+D1
+You can see a thickly wooded area. 
+~
+~
+0 -1 3922
+S
+#3922
+The Bird Sanctuary~
+   This area is heavily wooded so that it will attract many different types of
+birds. You hear many different bird calls as you enter. There are thousands of
+birds who call this sanctuary home, but you will be lucky to see just a few. 
+~
+39 0 3
+D1
+You can see a thickly wooded area. 
+~
+~
+0 -1 3923
+D3
+You can see a thickly wooded area. 
+~
+~
+0 -1 3921
+S
+#3923
+The Bird Sanctuary~
+   This area is heavily wooded so that it will attract many different types of
+birds. You hear many different bird calls as you enter. There are thousands of
+birds who call this sanctuary home, but you will be lucky to see just a few. 
+~
+39 0 3
+D0
+You can see a thickly wooded area. 
+~
+~
+0 -1 3918
+D3
+You can see a thickly wooded area. 
+~
+~
+0 -1 3922
+S
+#3924
+The Dirt Path~
+   The dirt path continues here. You can see a long trail leading to the north.
+To the south, you can see an intersection of two paths. 
+~
+39 0 2
+D0
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3925
+D2
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3916
+S
+#3925
+The Dirt Path~
+   The dirt path continues here. The path leads of to the north and to the
+south. 
+~
+39 0 2
+D0
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3926
+D2
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3924
+S
+#3926
+The Dirt Path~
+   The dirt path continues here. The path leads off to the north and to the
+south. To the north-east you can see a mountain. A small opening lies to the
+east. 
+~
+39 0 2
+D0
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3931
+D1
+You see a small opening which leads into the mountain side. 
+~
+~
+0 -1 3927
+D2
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3925
+S
+#3927
+Entrance to a Cave~
+   You have entered a cave. The light from outside shines through the small
+opening during the day. You can tell the cave continues to the east, but it is
+to dark to see anything. 
+~
+39 12 0
+D1
+It is to dark to see anything. 
+~
+~
+0 -1 3928
+D3
+You can see the dirt path through the small opening in the cave entrance. 
+~
+~
+0 -1 3926
+S
+#3928
+Deeper in the Cave~
+   You are now well within the cave. You are getting an uneasy feeling about
+being here and a fleeting thought races through you mind that you should turn
+back. 
+~
+39 9 0
+D0
+It is to dark to see anything. 
+~
+~
+0 -1 3929
+D3
+You can see the entrance to the cave. 
+~
+~
+0 -1 3927
+S
+#3929
+Well within the Cave~
+   As you look around, you don't see anything that interests you. Then,
+suddenly, in the corner you see a pile of human bones that sends shivers down
+your spine. 
+~
+39 9 0
+D1
+It is to dark to see anything. 
+~
+~
+0 -1 3930
+D2
+It is to dark to see anything. 
+~
+~
+0 -1 3928
+S
+#3930
+The Grizzly Bear's Lair~
+   You have entered the lair of a huge grizzly bear. If you run now you might
+just get away with your life. As far as you can tell, there are no exits other
+than the one that you came in through. 
+~
+39 9 0
+D3
+It is to dark to see anything. 
+~
+~
+0 -1 3929
+S
+#3931
+The Dirt Path~
+   The dirt path continues here. To the east the mountain continues to get
+larger and larger. The path leads off to the north and to the south. 
+~
+39 0 2
+D0
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3932
+D2
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3926
+S
+#3932
+The Dirt Path~
+   The dirt path continues here. The mountain to the east is very large. The
+path leads off to the north and to the south. 
+~
+39 0 2
+D0
+A bend in the path lies ahead. 
+~
+~
+0 -1 3933
+D2
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3931
+S
+#3933
+A Bend in the Dirt Path~
+   The dirt path bends to the west here. To the east you see a steep path up
+the side of the mountain. The path does seem to be passable.
+   Near the path up the mountain side is a small sign. READ IT!!!
+~
+39 4 2
+D2
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3932
+D3
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3945
+D4
+A path leads up the side of a mountain. 
+~
+~
+0 -1 3934
+E
+sign~
+The small weather beaten sign reads:
+
+              Dangerous CLIFFS!!!
+              -------------------
+            Climb at your own risk!
+          One wrong move and you will
+              fall to your death.
+~
+S
+#3934
+Mountain Side~
+   You have walked half way up the side of the mountain. You can feel yourself
+getting winded. You can go farther up the mountain side or you can go down to
+the dirt path.
+   There is a sign here.  You feel the that you should READ IT!!! 
+~
+39 0 4
+D4
+You can see the top of the mountain. 
+~
+~
+0 -1 3935
+D5
+You can see the dirt path below. 
+~
+~
+0 -1 3933
+E
+sign~
+The small weather beaten sign reads:
+
+              Dangerous CLIFFS!!!
+              -------------------
+          Take care in every step that
+          you take. If you don't, your
+         next one could be your last...
+~
+S
+#3935
+South-West Corner of the Mountain~
+   You have reached the highest passable point on the mountain. You can follow
+the trail which goes around the peak of the mountain, or head back down the
+side of the mountain.  There is a small fence here, which is the only thing
+that will stop you from falling to your death. 
+~
+39 0 4
+D0
+You see a small trail that leads around the top of the mountain. 
+~
+~
+0 -1 3936
+D1
+You see a small trail that leads around the top of the mountain. 
+~
+~
+0 -1 3943
+D5
+Back down the mountain side to safe ground. 
+~
+~
+0 -1 3934
+S
+#3936
+Trail on Top of the Mountain~
+   You are on the edge of the cliff walking around a narrow trail. The mountain
+path continues around the top of the mountain. To the west you can look out
+over the beautiful landscape. Just don't look down! There is a small hole in
+the fence to the west here. Be very careful, death is only a few feet away.
+~
+39 0 4
+D0
+You see a small trail that leads around the top of the mountain. 
+~
+~
+0 -1 3937
+D2
+You see a small trail that leads around the top of the mountain. 
+~
+~
+0 -1 3935
+D3
+Off of the cliff. You don't want to go this way. But what a view! 
+~
+~
+0 -1 3944
+S
+#3937
+North-West Corner of the Mountain~
+   You have reached the north-western corner of the mountain. You can see for
+miles and miles. You best not get to caught up in the view, death is only a few
+feet away. The small fence is the only thing between you and your death! 
+~
+39 0 4
+D1
+You see a small trail that leads around the top of the mountain. 
+~
+~
+0 -1 3938
+D2
+You see a small trail that leads around the top of the mountain. 
+~
+~
+0 -1 3936
+S
+#3938
+Trail on Top of the Mountain~
+   You are on the edge of the cliff walking around a narrow trail. The mountain
+path continues around the top of the mountain. To the north you can look out
+over the beautiful landscape. Just don't look down! The fence is broken here
+and you better be careful.  One wrong step and you will be taking the fast
+track off of the mountain.
+~
+39 0 4
+D0
+Off of the cliff. You don't want to go this way. But what a view! 
+~
+~
+0 -1 3944
+D1
+You see a small trail that leads around the top of the mountain. 
+~
+~
+0 -1 3939
+D3
+You see a small trail that leads around the top of the mountain. 
+~
+~
+0 -1 3937
+S
+#3939
+North-East Corner of the Mountain~
+   You have reached the north-eastern corner of the mountain. You can see for
+miles and miles. You best not get to caught up in the view, death is only a few
+feet away. The small fence is the only thing between you and flight.
+~
+39 0 4
+D2
+You see a small trail that leads around the top of the mountain. 
+~
+~
+0 -1 3940
+D3
+You see a small trail that leads around the top of the mountain. 
+~
+~
+0 -1 3938
+S
+#3940
+Trail on Top of the Mountain~
+   You are on the edge of the cliff walking around a narrow trail. The mountain
+path continues around the top of the mountain. To the east you can look out
+over the beautiful landscape. Just don't look down! To the west you see a small
+crack in the mountain side. You think that you could probably fit down through
+it.  The small fence continues around the mountain trail.
+~
+39 0 4
+D0
+You see a small trail that leads around the top of the mountain. 
+~
+~
+0 -1 3939
+D2
+You see a small trail that leads around the top of the mountain. 
+~
+~
+0 -1 3942
+D5
+You see a small opening in the side of the mountain. 
+~
+~
+0 -1 3941
+S
+#3941
+Lair of the Saber-Tooth Tiger~
+   You have entered the lair of the Saber-Tooth Tiger. It would be wise of you
+to climb right back out of here. This Tiger is not one you want to mess with. 
+~
+39 9 0
+D4
+You see a small opening which will take you back onto the mountain trail. 
+~
+~
+0 -1 3940
+S
+#3942
+South-East Corner of the Mountain~
+   You have reached the south-eastern corner of the mountain. You can see for
+miles and miles. You best not get to caught up in the view, death is only a few
+feet away. The small fence has a break in it to the east, so be very very
+careful about where you step.
+~
+39 0 4
+D0
+You see a small trail that leads around the top of the mountain. 
+~
+~
+0 -1 3940
+D1
+Off of the cliff. You don't want to go this way. But what a view! 
+~
+~
+0 -1 3944
+D3
+You see a small trail that leads around the top of the mountain. 
+~
+~
+0 -1 3943
+S
+#3943
+Trail on Top of the Mountain~
+   You are on the edge of the cliff walking around a narrow trail. The mountain
+path continues around the top of the mountain. To the south you can look out
+over the beautiful landscape. Just don't look down! The small fence continues
+around the mountain trail, your only safeguard against a sure fall to death.
+~
+39 0 4
+D1
+You see a small trail that leads around the top of the mountain. 
+~
+~
+0 -1 3942
+D3
+You see a small trail that leads around the top of the mountain. 
+~
+~
+0 -1 3935
+S
+#3944
+The Fall to Death~
+   How's it feel to fly? You watch the beautiful scenery before you as you
+tumble towards the ground below. Your life flashes before your eyes.
+AAAAAAA
+      AAAAAAAA
+             AAAAAAAAAAA
+                       AAAAHHHHHHHHHHHHHHHH
+                                          HHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!
+You are dead. 
+~
+39 6 0
+D1
+You see a trail back to safety.
+~
+~
+0 -1 3942
+D2
+You see a trail back to safety.
+~
+~
+0 -1 3936
+D3
+You see a trail back to safety.
+~
+~
+0 -1 3938
+S
+#3945
+The Dirt Path~
+   The dirt path continues here. The trail continues to the east and
+to the west. 
+~
+39 0 2
+D1
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3933
+D3
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3946
+S
+#3946
+End of the Dirt Path~
+   You have come to a dead end on the dirt path. You can follow the path
+back to the east, or you can be adventurous you can leave the well worn
+path and enter the woods to the north. To the south, you see a small
+opening in a rock formation. 
+~
+39 0 2
+D0
+There is a small entrance to a heavily wooded area. 
+~
+~
+0 -1 3947
+D1
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3945
+D2
+You see a small opening in a rock formation. 
+~
+~
+0 -1 3960
+S
+#3947
+Entrance to the Heavily Wooded Area~
+   You have entered a heavily wooded area. You can hear branches breaking all
+around you. There is not a whole lot of room to move around in here, so you
+better keep your eyes open... 
+~
+39 4 3
+D0
+The woods are to thick to see ahead of you. 
+~
+~
+0 -1 3948
+D2
+You can barely make out the dirt path through all the trees. 
+~
+~
+0 -1 3946
+S
+#3948
+Heavy Woods~
+   You are in a heavily wooded area. You hear movement all around you... You
+can't see very far in any direction. 
+~
+39 0 3
+D1
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3959
+D2
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3947
+D3
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3949
+S
+#3949
+Heavy Woods~
+   You are in a heavily wooded area. You hear movement all around you... You
+can't see very far in any direction. 
+~
+39 0 3
+D0
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3950
+D1
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3948
+S
+#3950
+Heavy Woods~
+   You are in a heavily wooded area. You hear movement all around you... You
+can't see very far in any direction. 
+~
+39 0 3
+D0
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3951
+D2
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3949
+S
+#3951
+Heavy Woods~
+   You are in a heavily wooded area. You hear movement all around you... You
+can't see very far in any direction. 
+~
+39 0 3
+D0
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3952
+D2
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3950
+S
+#3952
+Heavy Woods~
+   You are in a heavily wooded area. You hear movement all around you... You
+can't see very far in any direction. 
+~
+39 0 3
+D1
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3953
+D2
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3951
+S
+#3953
+Heavy Woods~
+   You are in a heavily wooded area. You hear movement all around you... You
+can't see very far in any direction. 
+~
+39 0 3
+D1
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3954
+D3
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3952
+S
+#3954
+Heavy Woods~
+   You are in a heavily wooded area. You hear movement all around you... You
+can't see very far in any direction. 
+~
+39 0 3
+D1
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3955
+D3
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3953
+S
+#3955
+Heavy Woods~
+   You are in a heavily wooded area. You hear movement all around you... You
+can't see very far in any direction. 
+~
+39 0 3
+D2
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3956
+D3
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3954
+S
+#3956
+Heavy Woods~
+   You are in a heavily wooded area. You hear movement all around you... You
+can't see very far in any direction. 
+~
+39 0 3
+D0
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3955
+D2
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3957
+S
+#3957
+Heavy Woods~
+   You are in a heavily wooded area. You hear movement all around you... You
+can't see very far in any direction. 
+~
+39 0 3
+D0
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3956
+D2
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3958
+S
+#3958
+Heavy Woods~
+   You are in a heavily wooded area. You hear movement all around you... You
+can't see very far in any direction. 
+~
+39 0 3
+D0
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3957
+D3
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3959
+S
+#3959
+Heavy Woods~
+   You are in a heavily wooded area. You hear movement all around you... You
+can't see very far in any direction. 
+~
+39 0 3
+D1
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3958
+D3
+You can't see anything through the thick woods. 
+~
+~
+0 -1 3948
+S
+#3960
+Crack in the Rock Formation~
+   You are now standing inside the rock formation. You can see the dirt path
+through the small opening. You can tell that the tunnel you have entered slopes
+down ahead. It is very dark inside the underground tunnel. 
+~
+39 13 0
+D0
+You can see the dirt path through the small crack. 
+~
+~
+0 -1 3946
+D5
+It is to dark to see anything. 
+~
+~
+0 -1 3961
+S
+#3961
+Underground Tunnel~
+   Inside the underground tunnel you can see almost nothing. The only light in
+the tunnel is supplied by you. 
+~
+39 9 0
+D3
+It is to dark to see anything. 
+~
+~
+0 -1 3962
+D4
+It is to dark to see anything. 
+~
+~
+0 -1 3960
+S
+#3962
+Underground Tunnel~
+   You are well within the underground tunnel. You can tell by your
+surroundings that this is probably the home of several weasels. 
+~
+39 9 0
+D1
+It is to dark to see anything. 
+~
+~
+0 -1 3961
+D3
+It is to dark to see anything. 
+~
+~
+0 -1 3963
+S
+#3963
+Underground Tunnel~
+   Now deep within the tunnel, you can see what looks like the carcasses of
+many unlucky animals lying around the tunnel. 
+~
+39 9 0
+D1
+It is to dark to see anything. 
+~
+~
+0 -1 3962
+D3
+It is to dark to see anything. 
+~
+~
+0 -1 3964
+S
+#3964
+Lair of the Giant Weasel~
+   You are at the end of the tunnel. Here you see many carcasses lying
+everywhere. Of all the weasels, you can tell that this is where the biggest of
+all resides. 
+~
+39 9 0
+D1
+It is to dark to see anything. 
+~
+~
+0 -1 3963
+S
+#3965
+The Dirt Path~
+   The dirt path continues here. You feel as if you don't have a care in the
+world as you wander along this peaceful trail. Exits lead to the east and west.
+
+~
+39 0 2
+D1
+You can see the intersection of two paths ahead. 
+~
+~
+0 -1 3916
+D3
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3966
+S
+#3966
+The Dirt Path~
+   The dirt path continues here. This path reminds you of that path you used to
+spend all you days on as a child. You feel just so comfortable on it. Exits
+lead to the east and west. 
+~
+39 0 2
+D1
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3965
+D3
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3967
+S
+#3967
+The Dirt Path~
+   The dirt path continues here. You are surrounded to the north and south by
+vast fields that allow you to see for miles around. There is no reason for you
+to leave the trail however. Exits lead to the east and west. 
+~
+39 0 2
+D1
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3966
+D3
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3968
+S
+#3968
+The Dirt Path~
+   The dirt path continues here. Such a nice path don't you think? Exits lead
+to the east and west. To the north is the porch of a small farm house. 
+~
+39 0 2
+D0
+A small farm house lies directly to the north. 
+~
+~
+0 -1 3992
+D1
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3967
+D3
+You see an entrance to the pasture again. 
+~
+~
+0 -1 3969
+S
+#3969
+Entrance to the Pasture~
+   You have come upon the entrance to a vast pasture. To the south you can see
+the entrance to a pig pen. To the west you can see the entrance to a sheep
+pasture. All you are sure of is that you don't want to be here any longer than
+you have to, because it stinks worse than anything you have ever smelled. 
+~
+39 4 2
+D1
+A narrow dirt path leads in this direction. 
+~
+~
+0 -1 3968
+D2
+You can see a pig pen. 
+~
+metal gate~
+1 -1 3970
+D3
+You can see an entrance to a sheep pasture. 
+~
+wooden gate~
+1 -1 3974
+S
+#3970
+Pig Pen~
+   You are now in the pig pen. You have heard that pigs are one of the cleanest
+animals around, but you are a mess. The exit to the pig pen lies to the north.
+The wooden fence around the pen will allow you to go to the south and east. 
+~
+39 0 2
+D0
+You see the exit to the Pig Pen. 
+~
+metal gate~
+1 -1 3969
+D1
+You can see farther into the pig pen. 
+~
+~
+0 -1 3973
+D2
+You can see farther into the pig pen. 
+~
+~
+0 -1 3971
+S
+#3971
+South-West Corner of the Pig Pen~
+   You are now in the pig pen. You have heard that pigs are one of the cleanest
+animals around, but you are a mess. A wooden fence has been erected around the
+pen, leaving you with exits only to the north and east. 
+~
+39 0 2
+D0
+You see more of the Pig Pen. 
+~
+~
+0 -1 3970
+D1
+You can see farther into the pig pen. 
+~
+~
+0 -1 3972
+S
+#3972
+South-East corner of the Pig Pen~
+   You are now in the pig pen. You have heard that pigs are one of the cleanest
+animals around, but you are a mess. A wooden fence has been erected around the
+pen, leaving you with exits only to the north and west. 
+~
+39 0 2
+D0
+You see more of the Pig Pen. 
+~
+~
+0 -1 3973
+D3
+You see more of the Pig Pen. 
+~
+~
+0 -1 3971
+S
+#3973
+North-East Corner of the Pig Pen~
+   You are now in the pig pen. You have heard that pigs are one of the cleanest
+animals around, but you are a mess. A wooden fence has been erected around the
+pen, leaving you with exits only to the south and west. 
+~
+39 0 2
+D2
+You see farther into the Pig Pen. 
+~
+~
+0 -1 3972
+D3
+You see more of the Pig Pen. 
+~
+~
+0 -1 3970
+S
+#3974
+The Vast Sheep Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the sheep. To the east is the entrance to this pasture. The
+pasture continues to the north and east. To the south is a barbed wire fence. 
+~
+39 0 2
+D0
+You see more of the sheep pasture. 
+~
+~
+0 -1 3979
+D1
+You see the exit to the sheep pasture. 
+~
+wooden gate~
+1 -1 3969
+D3
+You see more of the sheep pasture. 
+~
+~
+0 -1 3975
+S
+#3975
+The Sheep Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the sheep. The pasture continues to the north, east, and
+west. To the south is a barbed wire fence. 
+~
+39 0 2
+D0
+You see more of the sheep pasture. 
+~
+~
+0 -1 3978
+D1
+You see more of the sheep pasture. 
+~
+~
+0 -1 3974
+D3
+You see more of the sheep pasture. 
+~
+~
+0 -1 3976
+S
+#3976
+The South-West Corner of the Sheep Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the sheep. The pasture continues to the north and east. To
+the south and west is a barbed wire fence. 
+~
+39 0 2
+D0
+You see more of the sheep pasture. 
+~
+~
+0 -1 3977
+D1
+You see more of the sheep pasture. 
+~
+~
+0 -1 3975
+S
+#3977
+The North-West Corner of the Sheep Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the sheep. The pasture continues to the south and east. To
+the north and west is a barbed wire fence. 
+~
+39 0 2
+D1
+You see more of the sheep pasture. 
+~
+~
+0 -1 3978
+D2
+You see more of the sheep pasture. 
+~
+~
+0 -1 3976
+S
+#3978
+The Sheep Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the sheep. To the north you see a gate which will leads into
+the cow pasture. The pasture continues to the south, east and west. 
+~
+39 0 2
+D0
+You see a gate leading to the cow pasture. 
+~
+gate~
+1 -1 3980
+D1
+You see more of the sheep pasture. 
+~
+~
+0 -1 3979
+D2
+You see more of the sheep pasture. 
+~
+~
+0 -1 3975
+D3
+You see more of the sheep pasture. 
+~
+~
+0 -1 3977
+S
+#3979
+The North-East Corner of the Sheep Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the sheep. The pasture continues to the south and west. To
+the north and east is a barbed wire fence. 
+~
+39 0 2
+D2
+You see more of the sheep pasture. 
+~
+~
+0 -1 3974
+D3
+You see more of the sheep pasture. 
+~
+~
+0 -1 3978
+S
+#3980
+The Cow Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the cows. To the south you see a gate which will leads into
+the sheep pasture. The pasture continues to the north, east and west. 
+~
+39 0 2
+D0
+You see more of the cow pasture. 
+~
+~
+0 -1 3983
+D1
+You see more of the cow pasture. 
+~
+~
+0 -1 3985
+D2
+You see a gate leading to the sheep pasture. 
+~
+gate~
+1 -1 3978
+D3
+You see more of the cow pasture. 
+~
+~
+0 -1 3981
+S
+#3981
+The South-West Corner of the Cow Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the cows. The pasture continues to the north and east. To the
+south and west is a barbed wire fence. 
+~
+39 0 2
+D0
+You see more of the cow pasture. 
+~
+~
+0 -1 3982
+D1
+You see more of the cow pasture. 
+~
+~
+0 -1 3980
+S
+#3982
+The North-West Corner of the Cow Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the cows. The pasture continues to the south and east. To the
+north and west is a barbed wire fence. 
+~
+39 0 2
+D1
+You see more of the cow pasture. 
+~
+~
+0 -1 3983
+D2
+You see more of the cow pasture. 
+~
+~
+0 -1 3981
+S
+#3983
+The Cow Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the cows. To the north you see a gate which will leads into
+the horse pasture. The pasture continues to the south, east and west. 
+~
+39 0 2
+D0
+You see a gate leading to the horse pasture. 
+~
+gate~
+1 -1 3986
+D1
+You see more of the cow pasture. 
+~
+~
+0 -1 3984
+D2
+You see more of the cow pasture. 
+~
+~
+0 -1 3980
+D3
+You see more of the cow pasture. 
+~
+~
+0 -1 3982
+S
+#3984
+The North-East Corner of the Cow Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the cows. The pasture continues to the south and west. To the
+north and east is a barbed wire fence. 
+~
+39 0 2
+D2
+You see more of the cow pasture. 
+~
+~
+0 -1 3985
+D3
+You see more of the cow pasture. 
+~
+~
+0 -1 3983
+S
+#3985
+The South-East Corner of the Cow Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the cows. The pasture continues to the north and west. To the
+south and east is a barbed wire fence. 
+~
+39 0 2
+D0
+You see more of the cow pasture. 
+~
+~
+0 -1 3984
+D3
+You see more of the cow pasture. 
+~
+~
+0 -1 3980
+S
+#3986
+The Horse Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the horses. To the south you see a gate which will leads into
+the cow pasture. The pasture continues to the north, east and west. 
+~
+39 0 2
+D0
+You see more of the horse pasture. 
+~
+~
+0 -1 3989
+D1
+You see more of the horse pasture. 
+~
+~
+0 -1 3991
+D2
+You see a gate leading to the cow pasture. 
+~
+gate~
+1 -1 3983
+D3
+You see more of the horse pasture. 
+~
+~
+0 -1 3987
+S
+#3987
+The South-West Corner of the Horse Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the horses. The pasture continues to the north and east. To
+the south and west is a barbed wire fence. 
+~
+39 0 2
+D0
+You see more of the horse pasture. 
+~
+~
+0 -1 3988
+D1
+You see more of the horse pasture. 
+~
+~
+0 -1 3986
+S
+#3988
+The North-West Corner of the Horse Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the horses. The pasture continues to the south and east. To
+the north and west is a barbed wire fence. 
+~
+39 0 2
+D1
+You see more of the horse pasture. 
+~
+~
+0 -1 3989
+D2
+You see more of the horse pasture. 
+~
+~
+0 -1 3987
+S
+#3989
+The Horse Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the horses. The pasture continues to the south, east and
+west. To the north is a barbed wire fence. 
+~
+39 0 2
+D1
+You see more of the horse pasture. 
+~
+~
+0 -1 3990
+D2
+You see more of the horse pasture. 
+~
+~
+0 -1 3986
+D3
+You see more of the horse pasture. 
+~
+~
+0 -1 3988
+S
+#3990
+The North-East Corner of the Horse Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the horses. The pasture continues to the south and west. To
+the north and east is a barbed wire fence. 
+~
+39 0 2
+D2
+You see more of the horse pasture. 
+~
+~
+0 -1 3991
+D3
+You see more of the horse pasture. 
+~
+~
+0 -1 3989
+S
+#3991
+The South-East Corner of the Horse Pasture~
+   You are now in a vast fenced in pasture. This section of the pasture has
+been reserved for the horses. The pasture continues to the north and west. To
+the south and east is a barbed wire fence. 
+~
+39 0 2
+D0
+You see more of the horse pasture. 
+~
+~
+0 -1 3990
+D3
+You see more of the horse pasture. 
+~
+~
+0 -1 3986
+S
+#3992
+Porch of a Small Farm House~
+   You are standing on the porch of the small farm house. A door lies to the
+north. You can step off of the porch and onto to the dirt path which lies to
+the south. 
+~
+39 4 1
+D0
+You see a doorway which leads into a small farm house. 
+~
+front door~
+1 -1 3993
+D2
+The dirt path lies in this direction. 
+~
+~
+0 -1 3968
+S
+#3993
+Foyer of the Farm house~
+   You are standing in the foyer of the small farm house. The home is very
+rustic. You can see a dining room through a doorway to the west. To the east,
+you see a living room. To the north, there is a small doorway. The doorway out
+of the house lies to the south. 
+~
+39 8 0
+D0
+You can see a doorway to the north. 
+~
+bathroom door~
+1 -1 3999
+D1
+You can see a living room. 
+~
+~
+0 -1 3997
+D2
+You can see the doorway which leads outside. 
+~
+front door~
+1 -1 3992
+D3
+You can see the dinning room. 
+~
+~
+0 -1 3994
+S
+#3994
+The Dining Room~
+   You are in the dinning room of the small home. The antique dinning room set
+is absolutely beautiful. There is a small window on the west wall. Through the
+window you can see a vast pasture. To the east you can see the foyer of the
+small house. To the north lies the kitchen. 
+~
+39 8 0
+D0
+You can see the kitchen. 
+~
+~
+0 -1 3995
+D1
+You can see the foyer in this direction. 
+~
+~
+0 -1 3993
+S
+#3995
+The kitchen~
+   You are now standing in the kitchen. Hmmm, does it smell good in here! Looks
+like an apple pie baking in the oven. On the North wall is a small window that
+looks out over the vast plains behind the house. There is a door to the east
+here. To the south lies the dinning room. 
+~
+39 8 0
+D1
+You see a doorway. 
+~
+bedroom door~
+1 -1 3996
+D2
+You can see the dinning room. 
+~
+~
+0 -1 3994
+S
+#3996
+The Farmer's Daughters Bedroom~
+   You are in a quaint little room. Everything in this room is placed ever
+so perfectly. There is a picture of the small family on the dresser. There
+is a window on the north wall which you can see the vast plains that lie
+behind the house. 
+~
+39 8 0
+D3
+You see a doorway. 
+~
+bedroom door~
+1 -1 3995
+S
+#3997
+The Living Room~
+   You are standing in the Living room of the small farm house. As you look
+around, you feel as though you are in your grandmother's home, since it looks
+as though none of the furniture has been replaced in about 40 years. To the
+west is the foyer. A door lies to the north. 
+~
+39 8 0
+D0
+You see a dooryway. 
+~
+bedroom door~
+1 -1 3998
+D3
+You can see the foyer to the small house. 
+~
+~
+0 -1 3993
+S
+#3998
+The Master Bedroom~
+   You have entered the master bedroom of the home. As you look around, you
+notice that the farmer and his wife might not be the simple people you thought
+them to be. You see a set of handcuffs on the night stand next to the bed. To
+the south is a door leading out to the living room. 
+~
+39 8 0
+D2
+You can see a doorway leading out to the living room. 
+~
+bedroom door~
+1 -1 3997
+S
+#3999
+The Bathroom~
+   You have entered the bathroom of the small farm house.  It is an
+absolute mess in here. You think that you will wait till you see McDonald's
+on your way home so you can stop and use the restroom.  There is a doorway
+to the south here. 
+~
+39 8 0
+D2
+You can see a doorway leading out to the foyer of the house. 
+~
+bathroom door~
+1 -1 3993
+S
+#99999
+$~

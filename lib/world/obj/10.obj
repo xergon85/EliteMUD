@@ -1,0 +1,86 @@
+#1000
+wings~
+a pair of wings~
+A pair of wings is sitting here.~
+~
+9 0 0 0 ae
+6 0 0 0 0 0
+0 10000 200
+#1001
+rose red~
+a #rred#N rose~
+A red rose is lying on the ground.~
+~
+9 0 0 0 ao
+3 0 0 0 0 0
+8 2000 200
+E
+rose~
+This is no ordinary rose, as it is a gift from IO.
+~
+#1002
+rose pink~
+a pink rose~
+A beautiful pink rose is lying on the ground.~
+~
+9 0 0 0 ao
+3 0 0 0 0 0
+8 2000 200
+E
+rose~
+This is no ordinary rose. It is a gift from IO.
+~
+#1003
+rose yellow~
+an yellow rose~
+A bright yellow rose is lying on the ground.~
+~
+9 0 0 0 ao
+3 0 0 0 0 0
+8 2000 200
+E
+rose~
+This is no ordinary rose. It is a gift from IO as a token of friendship.
+~
+#1004
+rose white~
+a white rose~
+A frosty white rose is lying on the ground.~
+~
+9 0 0 0 ao
+3 0 0 0 0 0
+8 2500 200
+E
+rose~
+This is no ordinary rose. It is a gift from IO as a token of eternal trust.
+~
+#1005
+rose black~
+a black rose~
+An ill-boding black rose is lying on the ground.~
+~
+9 0 0 0 ao
+3 0 0 0 0 0
+8 4000 200
+E
+rose~
+This is no ordinary rose. It is a sign from IO.  Death is always near.
+~
+#1006
+rose blue~
+a blue rose~
+An blue rose is lying on the ground.~
+~
+9 0 0 0 ao
+3 0 0 0 0 0
+8 4000 200
+#1007
+rose purple~
+a purple rose~
+An purple rose is lying on the ground.~
+~
+9 0 0 0 ao
+3 0 0 0 0 0
+8 4000 200
+#99999
+$~

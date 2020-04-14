@@ -1,0 +1,67 @@
+#28700
+mad prophet~
+the mad prophet~
+The prophet swings his staff wildly at you, muttering arcane phrases.
+~
+His robes are neat, though threadbare, and his hair and beard are both
+long and ragged, showing both the order of his mind, and the chaos of
+his thoughts.  He rambles what seems nonsense, and yet at times speaks
+with both a strong voice and clarity of thought that frightens.  Perhaps
+he will impart some ancient wisdom upon you... or tell you of his pet
+dragon when he was a boy.  Who can say?
+~
+1 0 bg hk 1000 S
+109 -60 -200 1d900+30000
+400 500 100 100d100+99 -1
+-1
+-1
+50000 10 8 8 1
+A
+%%5 emote waves his arms about, wildly shouting at you to, "Get out there and kill something!!";
+%5 emote stares at you, moving his eyes slowly up from your toes to your head, and sneers, "WHERE did you get THAT and WHY would you wear it ?";
+%20 rem staff;
+%20 hold armor;
+%20 hold sanctified;
+%20 hold healing;
+%5 hold mystic;
+%20 use staff~
+Proc(mu_guild)
+#28701
+cook~
+the guild cook~
+The guild cook snarls at you as he prepares your meal.
+~
+Small and hairy, this man wishes he were anywhere but here.  Working over 
+a hot stove all day does not appeal to him.
+~
+1 0 bg hk 1000 S
+109 -60 -200 1d900+30000
+400 500 100 100d100+99 -1
+-1
+-1
+50000 10 8 8 1
+A
+%%5 say Aye, an' what d'YE want?;
+%5 say An' I be supposin' ye want food, too?;
+%5 say Make 'em food 'e says.  So I makes 'em food.  Do I get paid for it ?~
+#28702
+Meagan barmaid~
+Meagan~
+The barmaid, Meagan, greets you with an inviting smile.
+~
+As you look over, the bar maid comes walking up to you, her hips
+swaying nicely.  She smiles and presses up against you, asking if 
+there is anything, anything at all, that you need.  You'd feel a 
+little more special if she didn't keep looking at your money pouch.
+~
+1 0 bg hk 1000 S
+109 -60 -200 1d900+30000
+400 500 100 100d100+99 -1
+-1
+-1
+50000 10 8 8 2
+A
+%%05 say Hey there, sexy.  What can I do ye for?~
+#99999
+$~
+

@@ -1,0 +1,191 @@
+#14200
+fairy female~
+the female fairy~
+A beautiful female Fairy frolics in the flowers here.
+~
+The fairy is about 32 centimeters tall and as she notices you she
+greets you with a smile.
+~
+1 1 g hkB 0 S
+35 3 -10 1d55+420
+400 410 60 3d8+10
+10 0 20 1d0+75
+79 0 15 1d0+50
+28 0 5 2d0+95 -1
+-1
+-1
+1500 133333 8 8 2
+#14201
+fairy male~
+the male fairy~
+A male fairy stands here looking for a mate.
+~
+He looks strong to you now since you are the same size as him. Probably quite
+the adversary too.
+~
+1 1 g hkB 0 S
+35 3 -10 1d55+425
+400 410 60 3d8+11
+52 0 20 1d0+75
+28 0 5 2d0+95
+32 0 15 1d0+45 -1
+-1
+-1
+1750 133333 8 8 1
+#14202
+monk fairy~
+the Fairy Monk~
+The Monk of Faerise is standing here, chanting a psalm.
+~
+The Monk looks really wise and omnipotent. He doesn't seem to notice you.
+~
+1 1 bg hkB 0 S
+45 0 -16 1d1+550
+400 410 70 3d9+20
+23 0 5 1d0+50
+33 0 5 1d0+45
+63 0 10 1d0+75
+28 0 10 2d0+75 -1
+-1
+-1
+0 150000 8 8 1
+A
+%%20 emote mumbles to himself.;%10 emote prays to the powers that be.~
+#14203
+puck sprite~
+Puck~
+Puck, the mischeivious sprite stands here looking for trouble.
+~
+Puck is Oberon's loyal servant. He notices you and smirks. Looks like he has
+something in store for you!
+~
+1 1 bg dfhkstB 0 S
+40 0 -15 1d1+475
+400 410 75 3d9+15
+17 0 10 1d0+40
+30 0 10 1d0+60
+37 0 5 1d0+65 -1
+-1
+-1
+2000 137222 8 8 1
+#14204
+fairy evil~
+an Evil Fairy~
+A hideous looking fairy glares at you and attacks.
+~
+She is the ugliest fairy you have ever seen. She definitely doesn't seem
+to fit in well with the other fairies. Maybe she's an outcast.
+~
+1 4 bfg hkB -500 S
+35 2 -10 1d1+400
+400 500 100 2d8+15 -1
+-1
+-1
+0 120667 8 8 2
+#14205
+unicorn female~
+a Female Unicorn~
+A female unicorn is here, comforting her mate.
+~
+She is a beautiful creature, but there is a sadness about her.
+~
+1 4 bg hk 0 S
+35 2 -7 1d1+450
+400 408 100 3d8+11  -1
+-1
+-1
+0 105000 8 8 2
+#14206
+unicorn male~
+a Male Unicorn~
+A male unicorn with his horn slashed off stands here weeping in pain.
+~
+Since his horn has been detached from his body, he looks like a magnificent
+white stallion.
+~
+1 4 bg hk 0 S
+35 2 -7 1d1+425
+400 408 100 3d8+11 -1
+-1
+-1
+0 100000 8 8 1
+#14207
+bee bumble~
+a Bumble Bee~
+A bumble bee is here gathering pollen.
+~
+The Bumble Bee looks very angry that you have entered its territory.
+~
+1 4 bfg kB 0 S
+35 4 -6 1d1+380
+400 409 100 3d7+15 -1
+-1
+-1
+0 69000 8 8 0
+A
+%%25 emote buzzs loudly making your ears ring.~
+#14208
+girl gigantic young~
+a Gigantic Young Girl~
+A gigantic young girl is here, running around trying to catch fairies.
+~
+She towers above you. She suddenly looks your way, giggles and starts
+swinging her net at you. Maybe you shouldn't have bothered her.
+~
+1 4 bfg k 0 S 
+40 2 -11 1d1+500
+400 500 100 3d9+15 -1
+-1
+-1
+1000 89222 8 8 2
+A
+%%10 emote hums happily, swinging her net.;%10 emote exclaims, 'My, you're an ugly fairy!'~
+#14209
+servant fairy woman~
+a Fairy Servant~
+A servant of the king and queen fairies dusts happily here.
+~
+She looks like a very pleasant woman. She hums quietly as she works, seems
+to like her job.
+~
+1 4 bg hkB 0 S
+35 3 -10 1d1+450
+400 410 100 3d8+10 -1
+-1
+-1
+1100 110000 8 8 2
+#14210
+titania queen fairy~
+Titania~
+Titania the beautiful queen of fairies sits here on her throne.
+~
+Titania is the most beautiful fairy you've ever laid eyes on. She smiles
+sweetly at you.
+~
+1 4 bg hkB 0 S
+45 1 -19 1d1+600
+400 410 100 3d10+20
+30 0 40 1d0+75
+-1
+-1
+-1
+3000 170888 8 8 2
+#14211
+oberon king fairy~
+Oberon~
+Oberon the handsome king of the fairies sits here admiring his queen.
+~
+Oberon looks very charming, his smile is broad and his body is built.
+He seems very fond of the lovely lady sitting beside him.
+~
+1 4 bg hkB 0 S
+45 1 -19 1d1+610
+400 410 60 3d10+20
+99 0 40 1d0+75
+-1
+-1
+-1
+3000 200888 8 8 1
+#99999
+$~
+

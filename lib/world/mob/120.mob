@@ -1,0 +1,2120 @@
+#12000
+adjudicator romemob~
+the adjudicator~
+An adjudicator is watching the games intently.
+~
+The adjudicator is a retired gladiator.  Scars cover all exposed
+parts of his body.  Although he is getting on in years, he remains
+healthy and fit.
+~
+1 4 bg dy 100  S 
+12 15 2 3d7+140
+400 500 100 1d7+4 -1
+-1
+-1
+2000 3000 8 8 1
+A
+%%1 peer~
+#12001
+scorekeeper romemob~
+the scorekeeper~
+A scorekeeper places another marker on the stone as the horses pass the
+turning point.
+~
+The scorekeeper is a young man of about twenty-five years of age who is
+very intently watching the race.  As the horses past the easternmost
+point of the racetrack, he places another marker up where everyone can
+see it.  After seven laps, the race is done.
+~
+0 4 bg dry 100 S
+11 15 3 1d1+167
+400 500 100 1d6+6
+-1 -1 -1 
+121 2667 8 8 1
+A
+%%1 pose~
+#12002
+tribune romemob~
+the tribune~
+Representing the poorest of Romans, the tribune fights for their rights.
+~
+A man of medium height with blond hair, green eyes, and a very white
+toga worn over a deep blue tunic, the tribune has an honest face.  This,
+you think, is a man you would trust.  Too bad you are about to stab him
+in the back.
+~
+1 0 0 rs 500 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20832 8 8 1
+#12003
+spectator fan romemob~
+a spectator~
+A spectator is filthy, half drunk and screaming his head off.
+~
+The spectator loves the blood and gore and death of the games.  He says
+it's a chance for the gladiators to show their bravery and to die the
+glorious death of combat.
+~
+1 4 2 0 4294967196  S 
+5 18 5 2d6+65
+400 500 100 2d4+0 -1
+-1
+-1
+100 650 6 6 0
+A
+%%5 emote screams "Kill!!!!" at the top of his lungs.~
+#12004
+patrician romemob~
+the patrician~
+A patrician looks down at you from dark gray eyes.
+~
+The patrician is dressed in fine clothes and jewelry and has a very
+snobbish attitude.  While he is getting old and his hair and beard
+are streaked with gray, he is by no means an easy target.
+~
+1 4 g dy 500 S
+12 14 3 1d1+181
+400 500 100 1d6+7
+-1 -1 -1 
+144 3201 8 8 1
+A
+%%2 em refuses to notice your unworthy presence.~
+#12005
+slave romemob~
+the slave~
+A slave busies herself with small tasks, hoping not to be noticed.
+~
+This very pretty young woman was captured when the Roman legions
+subjugated her land.  She is quiet, dark, with brown hair and eyes and
+very dark skin.  She is hoping to buy her freedom some day, and has
+been looking about for business opportunities that won't take time from
+her work.
+~
+1 4 0 0 300 S
+10 15 4 1d1+153
+400 500 100 1d6+6
+-1 -1 -1 
+100 2133 8 8 2
+A
+%%2 hum~
+#12006
+gladiator romemob~
+the gladiator~
+There is a gladiator standing here.
+~
+This well muscled man is very heavily armored and armed to the
+teeth.  He lives for combat, and has become a "star" of the arena.  He
+has bribed the games' patron to match him up always with someone that
+he can kill, but someone who will show off his skill.  He grows rich
+with gifts from admiring fans.
+~
+1 4 dyg 0 100 S
+19 10 0 1d1+281
+400 500 100 1d9+10
+-1 -1 -1 
+361 19665 8 8 1
+A
+%%50 kill victim~
+#12007
+driver romemob~
+the chariot driver~
+The chariot driver eyes you as if wondering how fast you can run.
+~
+You see a very slight and small individual whose whole life is
+centered around nothing but horses and speed.  His only goal in life at
+the moment is to get to the end of the track before anyone else.  If
+that means trampling you into the dust, that is but a small price to
+pay.
+~
+1 4 g z 100 S
+17 12 0 1d1+252
+400 500 100 1d8+9
+-1 -1 -1 
+289 10467 8 8 1
+A
+%%5 emote yells, "Hey! You! Get outta da way!"
+;%5 emote yells, "Hey! Meatballs for brains! You wanna get yourself
+killed??"~
+#12008
+coach trainer romemob~
+the coach~
+There is a coach standing here, going over last minute strategy.
+~
+A lot of gold rides on the outcome of each race.  As long as yours is
+the first chariot over the finish line, it doesn't matter if you are in
+it.  The coach talks to the charioteers about how to scream around the
+bend on one wheel, how to get the most out of their horses, but not
+about how to stay alive in the circus.
+~
+1 4 b z 0 S
+11 15 3 1d1+167
+400 500 100 1d6+6
+-1 -1 -1 
+121 2667 8 8 1
+A
+%%5 emote eyes you suspiciously, sure you are trying to steal his
+strategy.~
+#12009
+healer romemob~
+the healer~
+The healer gives you wine to dull the pain.  This is gonna hurt!
+~
+This young man is still learning about healing.  He has studied at the
+temple of Aesculpius, but was not one of the brighter students.  He
+seems to have a large number of very sharp instruments on him, which
+does not reassure you.
+~
+1 2 bg f 900 S
+14 13 2 1d1+209
+400 500 100 1d7+8
+-1 -1 -1 
+196 5334 8 8 1
+#12010
+herbalist romemob~
+the herbalist~
+A beautiful young woman carries herbs to help the healer.
+~
+The herbalist is a very beautiful young woman who is about 22 years
+old.  She  has deep brown eyes and shoulder-length chestnut hair.
+Her body is perfectly proportioned and she stands about 5' 5" tall.
+~
+1 2 bg d 1000 S
+10 15 4 1d1+153
+400 500 100 1d6+6
+-1 -1 -1 
+100 2133 8 8 2
+#12011
+shopkeeper romemob~
+Titus's shopkeeper~
+Titus's shopkeeper is minding the store while he is away.
+~
+The shopkeeper is an older man in his middle to late fifties and
+looks like he enjoys the quiet life.  There is a long scar running
+from the edge of his mouth to his right ear, making it look like he
+is always smiling.
+~
+1 4 bg dfk 750  S 
+109 -50 -100 1d1+30000
+400 500 100 1d54+54 -1
+-1
+-1
+240000 500000 8 8 1
+#12012
+peddler romemob~
+the peddler~
+A poor peddler is trying to support his meager existence.
+~
+The small, dirty man doesn't look very healthy.  He lives life on the
+street.  He does get an occasional bath in the public baths and always
+lines up for the entertainments on "public day" at the circus and the
+Colosseum, but mostly you will see him wandering around, selling his
+oranges, apples and hot chestnuts.
+~
+1 4 g 0 250  S 
+4 18 6 3d4+40
+400 500 100 1d8+0 -1
+-1
+-1
+100 600 8 8 1
+#12013
+page romemob~
+the page~
+A page stands here, waiting to run an errand.
+~
+You see a young boy who looks very strong and very fast.  He has the
+look of a scholar about him.
+~
+1 1 g 0 0 S
+12 14 3 1d1+181
+400 500 100 1d6+7
+-1 -1 -1 
+144 3201 8 8 1
+A
+%%5 wiggle~
+#12014
+plaintiff romemob~
+the plaintiff~
+The plaintiff works hard to prove his case.
+~
+The son of a very wealthy senator, the plaintiff has accused the
+defendant of not returning some very expensive jewelry to him after they
+were no longer lovers.  
+~
+1 1 bg 0 0 S
+17 12 0 1d1+252
+400 500 100 1d8+9
+-1 -1 -1 
+289 10467 8 8 1
+#12015
+master romemob~
+the ticket master~
+A ticket master is looking at you expectantly.
+~
+This ticket master expects you to spend 1 gold coin to buy a ticket so
+that you can enter the entertainment.  I would not attack him if I were
+you!  You would most assuredly die.
+~
+18 1 bg dkhrzB 900 S 
+109 -99 -100 1d1+30000
+400 404 100 100d100+99
+-1
+317 100 321 100 322 100 323 100 326 100 327 100 329 100
+331 100 338 100 339 100 345 100 365 100 373 100 -1
+-1
+1 3 8 8 1
+A
+%%10 say Buy a ticket!!~
+#12016
+vendor romemob~
+the street vendor~
+A street vendor sells overpriced sausages and wine.
+~
+The vendor is a scruffy looking man who isn't afraid of a fight.  His
+sausages are rather stringy, but filling, and the wine is sweetly
+intoxicating.  
+~
+1 4 g A 4294967146  S 
+8 17 3 2d4+100
+400 500 100 2d5+1 -1
+-1
+-1
+500 1330 8 8 1
+A
+%%1 yell "Sausages! Hot and spicy! Get your sausages while they last!"~
+#12017
+citizen romemob~
+the citizen~
+A citizen of Rome, well wrapped in his toga, goes about his business.
+~
+At the top of the social heap, this citizen is healthy and in great
+physical shape.  As you are NOT a citizen, he ignores you as a
+non-person.
+~
+1 4 g 0 900 S
+10 15 4 1d1+153
+400 500 100 1d6+6
+-1 -1 -1 
+100 2133 8 8 1
+A
+%%5 stare~
+#12018
+gateguard guard romemob~
+the gateguard~
+A gateguard stands here, tending the gate.
+~
+Clad in light armor, the gateguard makes sure only the right people are
+allowed into Rome.  He also strictly enforces the "no cart" policy.
+The streets have become so congested that no carts are allowed within
+the city walls until after sunset.
+~
+1 4 bg z 1000  S 
+11 16 2 3d6+130
+400 500 100 1d6+5 -1
+-1
+-1
+500 2800 8 8 1
+#12019
+soldier romemob~
+the soldier~
+A soldier on leave is walking around looking for entertainment.
+~
+You see a member of one of the republic's elite legions.  He looks
+VERY strong.  You have this vague feeling that his entertainment
+isn't going to be a very wholesome activity.
+~
+1 4 g 0 300 S
+17 12 0 1d1+252
+400 500 100 1d8+9
+-1 -1 -1 
+289 10467 8 8 1
+#12020
+soldier roman romemob~
+the soldier~
+The soldier trains hard, preparing for the summer campaigns.
+~
+A short, strong young man with deep brown hair and twinkling green eyes,
+he is quite serious about his training.  When his century goes to war,
+he will be required to carry heavy packs on long marches, then build the
+camp at the end of a long day.  He will fight valiantly or be killed by
+his own commander.
+~
+1 4 g 0 990 S
+19 10 0 1d1+281
+400 500 100 1d9+10
+-1 -1 -1 
+361 16665 8 8 1
+#12021
+guard bodyguard romemob~
+the bodyguard~
+The bodyguard stands ready to die for the praetor, if necessary.
+~
+The bodyguard is dressed in the finest of armor and wields only the
+deadliest  of weapons.  He is very strong and would put up one hell
+of a fight.  He has been trained to be suspicious of all but the most
+innocent visitors, and likely to take offense of anyone with less
+than pure intentions.
+~
+1 4 bfgi d 990 S
+18 11 0 1d1+266
+400 500 100 1d9+10
+-1 -1 -1 
+324 12501 8 8 1
+#12022
+judge justice romemob~
+the judge~
+The judge takes his time consulting a lengthy scroll on law.
+~
+Neatly trimmed gray hair surrounds a weathered and not-too-wise looking
+face.  The judge bought his position in return for a hefty donation to
+the city treasury, and he will be well-remunerated for his work by the
+cases brought before him.
+~
+1 4 bg 0 990 S
+21 9 -1 1d1+310
+400 500 100 1d10+11
+-1 -1 -1 
+441 24999 8 8 1
+#12023
+master scheduler romemob~
+the master scheduler~
+The master scheduler keeps careful track of the trial schedule.
+~
+A studious, elderly man of Greek origin, the master scheduler has
+responsibilities to keep detailed records of court cases.  He does not
+like to be disturbed when he is working.
+~
+1 1 bg 0 900  S 
+17 15 0 4d4+210
+400 500 100 1d6+9 -1
+-1
+-1
+3000 8000 8 8 1
+#12024
+slimeball slime ball green romemob~
+the slimeball~
+A green ball of slime is hanging over you, oozing downward.
+~
+There is a green ball of slime oozing from the coating on the
+walls.  It appears to have a life of its own, and it appears NOT to
+like intruders.
+~
+0 0 bg 0 429 S
+12 14 3 1d1+181
+400 500 100 1d6+7
+-1 -1 -1 
+144 3201 8 8 0
+#12025
+Frobozz romemob~
+FrobozZ~
+FrobozZ the wizard mutters to herself as she perfects a new spell.
+~
+Well, she's gone through a lot of dumb apprentices, and she's 
+damned cranky.  Her knowledge of magic, both offensive and
+defensive, is as legendary as her fashion sense, however.  You 
+think you would be really stylin' in her robe.  I don't think 
+she'd just *give* it to you, however.
+~
+1 4 bgl hD 300  S 
+90 -50 -100 1d1+3000
+400 500 50 3d19+54
+100 0 30 1d0+99 
+26 0 20 1d0+99-1
+-1
+-1
+22000 500000 8 8 2
+A
+%%8 mutter~
+R
+-1 -1 -1 -1 5
+#12026
+Titus romemob~
+Titus Andronicus~
+Titus Andronicus is standing here, polishing a few swords.
+~
+The master swordsmith, Titus Andronicus retired after 30 years of
+soldiering with the Roman Army to open his weapons-and-armor shops.  He
+sells nothing but the best, he will tell you.
+~
+1 4 bg krs 500 S
+24 8 -3 1d1+354
+400 500 100 1d12+13
+-1 -1 -1 
+576 50001 8 8 1
+#12027
+senator romemob~
+the senator~
+The senator strides about, looking important.
+~
+Well, of course, he IS important.  A man in his early 40s, he will tell
+you he is in the prime of his life.  He rises early every morning to
+order his household, then heads off to the office.  Afternoons are
+devoted to indulgences and socializing at the baths, then the evenings
+are entertaining with (important) friends.
+~
+1 4 g d 350 S
+14 13 2 1d1+209
+400 500 100 1d7+8
+-1 -1 -1 
+196 5334 8 8 1
+#12028
+bailiff romemob~
+the bailiff~
+The bailiff keeps order in the courtroom.
+~
+Although he's not a very important man in social ranks, the bailiff is
+very strong ... massively strong, actually ... and not at all afraid to
+use his strength to subdue unruly spectators or others who disrupt the
+orderly proceedings in this courtroom.
+~
+1 4 bg d 900 S
+16 12 1 1d1+238
+400 500 100 1d8+9
+-1 -1 -1 
+256 8433 8 8 1
+#12029
+defendant romemob~
+the defendant~
+The defendant pleads her case without much hope.
+~
+During her lengthy love affair with the unprincipled son of a wealthy
+senator, he gave her many valuable pieces of jewelry, as is the custom.
+Now, having found another lover, he wants the expensive items returned.
+~
+1 4 bg 0 200 S
+13 14 2 1d1+195
+400 500 100 1d6+7
+-1 -1 -1 
+169 4266 8 8 1
+#12030
+jupiter romemob~
+Jupiter~
+Jupiter, King of the Gods, smiles benignly at his worshipers.
+~
+He is the strongest of the Gods, and certainly no easy mark!  His
+powers transcend the plane of the physical, and could easily kill an
+unprepared mortal.  Yes, even you.
+~
+1 1 bg dfh 1000  S 
+99 -13 -10 20d15+950
+400 500 80 8d6+40
+52 0 5 1d0+100
+48 0 5 1d0+100
+5 0 5 1d0+100
+23 0 5 1d0+100 -1
+-1
+-1
+25000 1500000 8 8 1
+R
+-1 -1 -1 -1 5
+#12031
+Venus romemob~
+Venus~
+Venus, the Goddess of Love and Beauty, ignores your unworthy presence.
+~
+The most beautiful woman you have ever seen stands before you.
+Actually, she towers over you.  Perfectly proportioned, yet at 10'
+(over 3m) tall, she is also the largest woman you have ever seen.  And
+perhaps the strongest.
+~
+1 1 bg dfh 1000  S 
+85 -9 -6 5d10+650
+400 500 80 6d6+22
+26 0 10 1d0+95
+32 0 5 1d0+95
+8 0 5 1d0+95 -1
+-1
+-1
+8000 710000 8 8 2
+R
+-1 -1 -1 -1 5
+#12032
+Mars romemob~
+Mars~
+Mars, the God of War and State, is resting here.
+~
+Husband to Venus and father of Rhea Silvia, mother of the founders of
+Rome, Mars watches over this training field for Rome's soldiers, and he
+accepts frequent tribute from them.                                                                                                                                                                    
+~
+1 1 bg dhy 1000  S 
+77 -6 -9 15d10+630
+400 500 80 8d6+20
+25 0 10 1d0+90
+37 0 10 1d0+90 -1
+-1
+-1
+6000 620000 8 8 1
+R
+-1 -1 -1 -1 5
+#12033
+Mercury romemob~
+Mercury~
+Mercury, looks out at you slyly from under his wrinkled brow.
+~
+God of tradesmen and thieves, and Jupiter's messenger, Mercury's priests
+and priestesses have grown quite wealthy on the tithes of roman
+businessmen and traders.  Once a year on the 12th of August a portion of
+this wealth is returned to the citizens in the form of a banquet.
+~
+1 1 bg dfh 1000  S 
+66 -2 -10 5d10+550
+400 500 80 4d6+18
+32 0 10 1d0+85
+4 0 10 1d0+85 -1
+-1
+-1
+2500 485000 8 8 1
+R
+-1 -1 -1 -1 5
+#12034
+shopkeeper romemob~
+Frobozz's shopkeeper~
+Frobozz's shopkeeper is here, minding the store.
+~
+The shopkeeper is an older man in his middle to late fifties and
+looks like he enjoys the quiet life.  There is a long scar running
+from the edge of his mouth to his right ear, making it look like he
+is always smiling.
+~
+1 4 bg dhy 650  S 
+109 -50 -100 1d1+30000
+400 500 100 3d19+54 -1
+-1
+-1
+210000 500000 8 8 1
+#12035
+lion romemob~
+the tawny lion~
+The scrawny tawny lion yawns, letting you see his sharp teeth.
+~
+Oooh!  The breath on this lion is enough to kill you!  He looks like he
+hasn't eaten in days.  His claws are still nice and sharp, though, and I
+bet he has all those great feline skills.
+~
+1 0 g k 0 S 
+25 0 -5 6d6+500
+400 500 85 4d7+3
+384 0 5 0d0+0
+385 0 10 0d0+0 -1
+384 385-1
+-1
+425 145000 8 8 1
+#12036
+baker romemob~
+the Baker~
+The Baker looks at you calmly, waiting for you to decide.
+~
+It's a hard life, being a baker.  This one makes nice long loaves of
+bread as well as the circular flat ones topped with cheese and a new
+invention he is calling a calzone.
+~
+1 4 bg hd 900  S 
+109 -50 -100 1d1+30000
+400 500 100 1d54+54 -1
+-1
+-1
+60000 500000 8 8 1
+#12037
+grocer romemob~
+the grocer~
+A grocer stands at the counter with a slightly impatient look.
+~
+A tall grocer, who moves two 200 pounds bag of flour around on his
+shoulders.
+~
+1 4 bg hd 900  S 
+109 -50 -100 1d1+30000
+400 500 100 1d54+54 -1
+-1
+-1
+220000 500000 8 8 1
+#12038
+gardener romemob~
+the gardener~
+The gardener glares at you as you tromp through his flower bed.
+~
+A tall, lean, fit slave with callused hands and skin brown from
+countless hours in the Roman sunlight, the gardener enjoys his work.
+Tread lightly and watch your step, for if you hurt his plants you'll
+have to answer to him!
+~
+1 4 bg dy 100 S
+13 14 2 1d1+195
+400 500 100 1d6+7
+-1 -1 -1 
+169 4266 8 8 1
+#12039
+fuller romemob~
+the fuller~
+The fuller stares at your filthy tunic. Do you think he's a magician?
+~
+Appearances are important to those who aspire to high political
+office in Rome.  And all Roman citizens do.  A toga should be
+pristine, without a stain.  The men who wear them should look young,
+athletic, tanned and healthy.  The fuller's job is to clean togas and
+other garments to maintain that image, but it's a pretty hard job
+with no soap!
+~
+1 4 bg dy 100 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20832 8 8 1
+#12040
+Norseman guards romemob~
+the Norseman guard~
+The tall fair Norseman stares stonily at you.
+~
+Tall, brawny and very fierce, this Norseman came to pillage and
+decided to stay and work.  He is paid a hefty fee by the jeweler to
+stand at the entrance to the store and frighten would-be thieves.
+His size alone is a major deterrent to crime!
+~
+1 4 bgm dy 100 S
+21 9 -1 1d1+310
+400 500 100 1d10+11
+-1 -1 -1 
+441 24999 8 8 1
+#12041
+functionary worker workers one romemob~
+the functionary~
+One of many hundreds of government workers stands before you.
+~
+A busy little man, the functionary has a small wiry body and an air
+of constant nervous energy.  His main joy in life is found in getting
+in your face, and he is liable to call out the city guards if you
+give him any lip!
+~
+1 4 g h 100 S
+11 15 3 1d1+167
+400 500 100 1d6+6
+-1 -1 -1 
+121 2667 8 8 1
+#12042
+praetor petyus romemob~
+Praetor Petyus~
+Praetor Petyus drops the white flag to start the races.
+~
+I wouldn't bother the Praetor at the moment.  He's very busy with
+matters of state, and he is a very important man.  The Praetor is, of
+course, tanned and fit, and well trained in martial arts. 
+~
+1 0 bg hrs 500 S
+72 14 3 1d1+1381
+400 500 100 2d30+35
+-1 -1 -1 
+14004 600000 8 8 1
+#12043
+Bacchus romemob~
+Bacchus~
+The god of wine, song and fertility invites you to party on with him.
+~
+Bacchus is large, as befits a god, with an aura of sensuality about
+him.  His wide forehead slopes to a long straight nose separating two
+large gray eyes.  His mouth is full, curved, sensuous.  You have the
+sense that this god enjoys all that he does.
+~
+1 0 bg hkD 1000 S
+70 -16 -28 1d1+1224
+400 500 100 1d35+36
+-1 -1 -1 
+4900 532413 8 8 1
+R
+-1 -1 -1 -1 5
+#12044
+Vulcan romemob~
+Vulcan~
+Vulcan wields his enormously heavy hammer as if it were a feather.
+~
+Muscles hard as the iron at his forge, skin gleaming with a light sheen
+of perspiration, Vulcan looks at you, mortal, indulgently.  A god of
+incredible strength, he knows he has little to fear from a fight with
+such as you.
+~
+1 0 bg hkD 1000 S
+70 -16 -28 1d1+1224
+400 500 100 1d35+36
+-1 -1 -1 
+4900 532413 8 8 1
+R
+-1 -1 -1 -1 5
+#12045
+advisor romemob~
+the advisor~
+The finance advisor smiles cannily at you, easily estimating your worth.
+~
+The investment advisor is a tall, elegant man, dressed in a pristine
+white toga.  He is well tanned, virile, fit, the very image of the Roman
+ideal.  He invites you to leave your money with him, where it will be
+safely invested for you.
+~
+1 4 bg h 100 S
+14 13 2 1d1+209
+400 500 100 1d7+8
+-1 -1 -1 
+196 5334 8 8 1
+#12046
+fireman romemob~
+the fireman~
+The many Roman fires keep the fireman always running for water.
+~
+The hot sun bakes the wooden structures that make up Rome's office
+buildings and apartments, drying them as if in a kiln.  Cooking fires
+and heating fires frequently throw sparks, easily igniting the building,
+and the fireman is off to work again.  He is necessarily strong, and has
+many scars from burns.
+~
+1 4 g dy 100 S
+16 12 1 1d1+238
+400 500 100 1d8+9
+-1 -1 -1 
+256 8433 8 8 1
+#12047
+drinius romemob~
+Drinius~
+Drinius has found a comfy spot to read his favorite scrolls.
+~
+A student of everything, master of nothing in particular, Drinius was
+the despair of his fond parents.  "Why do you always have your nose
+buried in a scroll, Drinius?  Why aren't you out there conquering new
+territory for Rome or something?"  But Drinius ignores them and goes his
+own way.
+~
+1 4 bg dhy 100 S
+75 7 -3 1d1+1369
+400 500 100 2d20+35
+-1 -1 -1 
+625 608332 8 8 1
+R
+-1 -1 -1 -1 5
+#12048
+Mattias trainer gladiator romemob~
+Mattias~
+Mattias will charge you an arm and a leg to train you.
+~
+After all, you will probably lose them anyway in the arena.  Actually,
+this retired gladiator doesn't trade in limbs, but he will take your
+gold to teach you how to fight bravely in the arena and, perhaps, to win
+and live to fight another day.
+~
+1 4 bdgy fhrz 100 S
+60 -11 -23 1d1+983
+400 500 100 1d30+31
+-1 -1 -1 
+3600 420000 8 8 1
+Proc(wa_guild)
+#12049
+rat romemob~
+the sewer rat~
+The sewer rat sniffs at the odd smells entering her home.
+~
+Long wiry whiskers twitching in disgust at the sights and sounds and
+smells that humans bring to her sewer, the rat scurries about her
+business.  She is a very LARGE rat, and looks like she might like to
+take a bite out of you!
+~
+1 4 bg drs 100  S 
+12 15 2 3d7+140
+400 500 100 1d7+4 -1
+-1
+-1
+2000 3000 8 8 1
+#12050
+actor romemob~
+the actor~
+The actor provides pleasure to the Romans, and therefore is a star.
+~
+Greatly admired and rewarded for his acting, the actor was able to buy
+his freedom from his benefactor, who had him trained.  He wears heavy
+masks and very stylized clothing to act in the melodramas and farces at
+the theater.
+~
+1 4 g rA 100 S
+13 14 2 1d1+195
+400 500 100 1d6+7
+-1 -1 -1 
+169 4266 8 8 1
+#12051
+stagehand romemob~
+the stagehand~
+Cursing quietly, the stagehand moves the heavy props into place.
+~
+The stage props keep getting more and more elaborate every year, as the
+theater vies for popularity with the more bloody Colosseum and the
+racetrack.  Backdrops, heavy curtains, traps in the stage and all kinds
+of gadgetry are managed by the few overworked stagehands.
+~
+1 4 g y 100 S
+13 14 2 1d1+195
+400 500 100 1d6+7
+-1 -1 -1 
+169 4266 8 8 1
+#12052
+athlete romemob~
+the athlete~
+The athlete is stretching his body, preparing for exercise.
+~
+Sharing the training fields with the soldiers, the athlete prepares for
+a long run.  He will combine some running with some muscle building
+activities designed to keep him fit.
+~
+1 4 g r 100 S
+14 13 2 1d1+209
+400 500 100 1d7+8
+-1 -1 -1 
+196 5334 8 8 1
+#12053
+bather man romemob~
+the old bather~
+The old man sits in the steam, moist heat invading his joints.
+~
+Coming to the baths, sharing war stories with his cronies are two
+pleasures left in the life of this old soldier.  You can see his body
+covered with scars, and wonder at the strength of spirit that has kept
+him alive.  He is not tall, but very sturdily built, a man of great
+stamina.
+~
+1 4 bg 0 100 S
+17 12 0 1d1+252
+400 500 100 1d8+9
+-1 -1 -1 
+289 10467 8 8 1
+#12054
+moorish soldier romemob~
+the moorish soldier~
+The moorish soldier straps on his gear, preparing for battle.
+~
+As Rome has extended her frontiers, men and women of all types have been
+brought to the city to serve.  In time they may earn their freedom, and
+their children may become citizens.  This Moor is earning a good salary
+in the Roman army.
+~
+1 4 g rz 100  S 
+12 15 2 3d7+140
+400 500 100 1d7+4 -1
+-1
+-1
+2000 3000 8 8 1
+#12055
+cloakroom attendant romemob~
+cloakroom attendant~
+The cloakroom attendant will store your garments while you bathe.
+~
+A city-owned slave, this one has found an easy job.  He will not guard
+your things, however he will help you remove them and fold them neatly
+for you.  He is young and comely and undoubtedly has other duties than
+folding togas and tunics.
+~
+1 4 bg r 100 S
+15 13 1 1d1+223
+400 500 100 1d7+8
+-1 -1 -1 
+225 6399 8 8 1
+#12056
+trainee gladiator romemob~
+the trainee gladiator~
+The trainee swings his sword clumsily, tripping over his own feet.
+~
+Wealth or early death await this trainee in the arena.  Well, an early
+death for this one if he doesn't learn to manage his sword better!  He
+is poor, and has nothing except a lifetime of poverty to lose.  With
+training there is hope he may win the gladiator's crown.
+~
+1 4 g rz 100 S
+13 14 2 1d1+195
+400 500 100 1d6+7
+-1 -1 -1 
+169 4266 8 8 1
+#12057
+priest romemob~
+the priest~
+Being a priest is a political honor as well as a religious one.
+~
+Serving the gods can be rewarding politically as well as financially.
+The worshipers sacrifice gifts, and the priest gracefully accepts them
+in the name of the god, of course.
+~
+1 4 g rA 100 S
+12 14 3 1d1+181
+400 500 100 1d6+7
+-1 -1 -1 
+144 3201 8 8 1
+#12058
+priestess romemob~
+The priestess~
+The priestess goes about her duties with sure, efficient movements.
+~
+The priestess is a powerful woman in the prime of her life.  She is tall
+and strong, and her skin, her hair and her eyes all glow with her
+health.  She has been dedicated to the service of the god since early
+adolescence, and clearly it suits her.
+~
+1 4 g rA 100 S
+23 8 -2 1d1+339
+400 500 100 1d11+12
+-1 -1 -1 
+529 41667 8 8 1
+#12059
+martyr romemob~
+The martyr~
+The martyr bravely awaits her fate, knowing in her heart she is right.
+~
+She could have worshipped her own gods as well as the Roman ones, but
+she refused.  She has been sentenced to death in the arena.  A
+beautiful, passionate young woman with chestnut hair and green eyes,
+she will soon be torn to ribbons by a wild beast.
+~
+1 0 g frzk 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20832 8 8 2
+#12060
+vestal virgin romemob~
+the vestal virgin~
+Dedicated to goddess Vesta, the virgin keeps the hearth fire burning. 
+~
+It's a career!  and a somewhat dubious honor for a noble woman to be
+chosen to serve the goddess (and the republic) by keeping the fire
+burning in the forum.  One of six women, she will serve for 30 years.
+She will never marry.
+~
+1 4 bg y 100 S
+17 12 0 1d1+252
+400 500 100 1d8+9
+-1 -1 -1 
+289 10467 8 8 2
+#12061
+retiarius gladiator romemob~
+the retiarius~
+The retiarian gladiator fights in little more than a loincloth.
+~
+With little more than a loincloth and sandals for armor, and a net and
+trident for weaponry, the retiarius has little hope of killing his
+opponent.  He is hoping to be matched against someone who is weighed
+down with heavy armor.
+~
+1 0 dfgy frzk 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20832 8 8 1
+A
+%%60 kill victim~
+#12062
+samnite gladiator romemob~
+the Samnite gladiator~
+The Samnite gladiator is well protected behind heavy armor.
+~
+Well polished body armor sparkles in the light, reflecting you in all
+your dirt and fear.  The Samnite carries a tall oblong shield, and
+wears a metal helmet with a gruesome face mask to frighten you.  It
+works.
+~
+1 0 dfgy frzk 0 S
+23 8 -2 1d1+339
+400 500 100 1d11+12
+-1 -1 -1 
+529 41667 8 8 1
+A
+%%60 kill victim~
+#12063
+murmillo gladiator romemob~
+The Murmillo gladiator~
+The Murmillo gladiator snarls at you from beneath his heavy faceplate.
+~
+The Murmillo gladiator is a man of average height.  He carries a tall,
+square shield with a strange design in red and black.  He is well
+armored, covered ankle to mid thigh in bronze, and with a helmet that
+covers the lower half of his face.
+~
+1 0 dfgy frzk 0 S
+23 8 -2 1d1+339
+400 500 100 1d11+12
+-1 -1 -1 
+529 41667 8 8 1
+A
+%%60 kill victim~
+#12064
+thracian gladiator romemob~
+the Thracian gladiator~
+Carrying a light round shield, the Thracian gladiator is quite agile.
+~
+The Thracian gladiator wears light but strong leather armor, his sword
+arm protected with leather wrappings.  He carries a small round shield
+and wears no leg armor.  He easily dodges blows and slips quickly
+behind your guard to attack.
+~
+1 0 dfgy frzk 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20832 8 8 1
+A
+%%60 kill victim~
+#12065
+consul xelfking romemob~
+the Consul~
+As he walks, the Consul's white toga swirls about him like a cape.
+~
+This consul radiates an aura of goodness.  From the tips of his
+slightly pointed ears to the tips of his toes in his comfortable
+leather sandals, you sense that finally you have found a man you can
+trust.  His features are elfin, his body slender and not overly tall,
+but there is still a sense of inner strength about him that you cannot
+help but admire.
+~
+1 0 g dfhk 1000 S
+70 -16 -28 1d1+1224
+400 500 100 1d35+36
+-1 -1 -1 
+4900 532413 8 8 1
+A
+%%5 say It's all good.~
+#12066
+marcus lawyer romemob~
+Marcus Wallgrenus~
+The famous lawyer, Marcus Wallgrenus, slyly sizes you up.
+~
+This citizen is no dummy!  He knows how to move up in the Roman world.
+He is an excellent advocate, willing to do what it takes to win each
+case and canny enough to know what that is.  
+~
+1 0 bg frzk 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20832 8 8 1
+#12067
+faun romemob~
+the faun~
+A strange being, part goat, part man and GLOWING, dances in the gardens.
+~
+A freak of nature or a god?  Clearly a free spirit, and clearly happy in
+the garden.  He is about your height, but has massive shoulder and arm
+muscles and apparently small horns on his head.
+~
+1 0 b hkD 1000 S
+70 -16 -28 1d1+1224
+400 500 100 1d35+36
+-1 -1 -1 
+4900 532413 8 8 1
+#12068
+plebeian romemob~
+the plebeian~
+The plebeians toga is ragged and threadbare, but he is still proud.
+~
+Still proud of his citizenship despite his poverty, the plebeian is ever
+on the look out for ways to earn a little more gold.  Thick eyebrows
+meet over a long, slightly crooked nose.  His deep tan make his teeth a
+startling white when he smiles, which he does often.
+~
+1 0 g y 0 S
+15 13 1 1d1+223
+400 500 100 1d7+8
+-1 -1 -1 
+225 6399 8 8 1
+#12069
+augurer romemob~
+the augurer~
+The augurer neatly slits the sacrificial beast from neck to tail.
+~
+A small, thin, frail man with gray hair that extends past his waist, the
+augurer is a man of mystery.  One of sixteen prophets in Rome, and one
+of the most powerful men of Rome, the augurer advises the political
+elite on every move they make.
+~
+1 0 bg h 0 S
+70 10 -1 1d1+1295
+400 500 100 5d10+21
+-1 -1 -1 
+400 580000 8 8 1
+#12070
+Albertus Al ATM romemob~
+Albertus Tellus Maximus~
+Albertus Tellus Maximus will cheerfully keep your money for you.
+~
+The banker pats his belly and smiles benignly at you.  He is a truly
+immense man, and there are rumors he has ties with the Family.  He will
+take your money and invest it wisely, then give it back to you when you
+need it, minus a small fee, of course.
+~
+1 0 bg 0 0 S
+17 12 0 1d1+252
+400 500 100 1d8+9
+-1 -1 -1 
+289 10467 8 8 1
+#12071
+equite romemob~
+the wealthy equite~
+This equite may not be a social leader, but he is quite wealthy.
+~
+Scorned by more patrician fellow citizens for his business dealings,
+this equite has the last laugh as he watches them go into debt as his
+wealth builds.  He is very tall and massively built, leading one to
+believe there might be some minotaur ancestry in his bloodline.
+~
+1 0 g 0 0 S
+19 10 0 1d1+281
+400 500 100 1d9+10
+-1 -1 -1 
+361 16665 8 8 2
+#12072
+woman shopworker romemob~
+the shopworker~
+The woman works in a shop by day, then cares for her family at night.
+~
+A life of poverty is a life of hard work.  This small, dark woman looks
+old for her years.  Her fingers are callused from work, and her back is
+bent.  She has great strength in her wiry frame, but it is severely
+tested.
+~
+1 0 g 0 0 S
+17 12 0 1d1+252
+400 500 100 1d8+9
+-1 -1 -1 
+289 10467 8 8 2
+#12073
+carpenter romemob~
+the carpenter~
+The carpenter works long hours in the summer, but he is well paid.
+~
+Never out of work in a city where politicians vie for public favor with
+their building programs, this carpenter is hoping to move to better
+quarters soon.  He is a tall, dark haired man of about 30 with a deep
+tan from his life out of doors.
+~
+1 0 g 0 0 S
+19 10 0 1d1+281
+400 500 100 1d9+10
+-1 -1 -1 
+361 16665 8 8 1
+#12074
+guest romemob~
+the dinner guest~
+The dinner guest reclines lazily on the sofa, gesturing for more food.
+~
+Elegantly coiffed, elegantly dressed, the guest is seated on an elegant
+chaise and served elegant food.  Only rigorous training in the field of
+Mars or at the gymnasium has enabled her to keep her well-proportionned
+body.
+~
+1 0 bg 0 0 S
+18 11 0 1d1+266
+400 500 100 1d9+10
+-1 -1 -1 
+324 12501 8 8 2
+#12075
+roman woman romemob~
+the poor Roman woman~
+The woman nods her head in your direction as she steps out of your way.
+~
+At the bottom of the social heap, this woman shares space at
+entertainments with the slaves knowing they may one day earn their
+freedom, but she never will.  She longs for the freedom that wealth and
+widowhood might bring, but realizes it is not to be her lot.
+~
+1 0 g 0 0 S
+18 11 0 1d1+266
+400 500 100 1d9+10
+-1 -1 -1 
+324 12501 8 8 2
+#12076
+farmer romemob~
+the farmer~
+The farmer brings produce left from the Faire to sell in Rome.
+~
+He had a most profitable week while the Faire was in progress.  It was a
+safe celebration and all the fairegoers seemed hungry, so he was able to
+sell lots of his produce, but there is still some left to sell to the
+greengrocer in town.
+~
+1 0 g 0 0 S
+18 11 0 1d1+266
+400 500 100 1d9+10
+-1 -1 -1 
+324 12501 8 8 1
+#12077
+general romemob~
+the Roman general~
+The Roman general contemplates the celebrations of his victories.
+~
+Wearing the laurel wreath of the successful Roman general, Fobos
+Maximilius follows his successful army back to Rome.  They bring with
+them treasures from the mighty civilizations and barbaric tribes they
+have conquered.  The general ponders the effect his triumph may have on
+his political career.  Perhaps he should stage a coup.
+~
+1 4 g z 0 S 
+30 6 -4 2d100+350
+400 500 100 3d6+9-1
+-1
+-1
+1000 100000 8 8 1
+#12078
+centurion Roman soldier leader romemob~
+The Roman centurion~
+The Roman centurion reflects on the campaign and looks for relaxation.
+~
+Wearing a bronze helmet topped with bright red feathers, the Roman
+centurion struts at the head of his 100 man command.  The Roman army
+was, as always, successful, and the centurion is mentally spending the
+bonus he will receive.  He is a tall man, well favored, with a long
+straight nose.  His skin is well-tanned and firm, though it bears many
+scars.
+~
+1 4 g z 0 S 
+25 9 -4 1d150+250
+400 500 100 3d4+7-1
+-1
+-1
+400 60000 8 8 1
+#12079
+standard bearer roman soldier standard-bearer romemob~
+The Roman standard-bearer~
+Glad to be back home, the standard-bearer slowly lowers the standard.
+~
+A deep tan born of countless summers spent conquering new territory
+contrasts sharply with the ice blue eyes and blond hair bleached almost
+white by the sun.  The son of a slave turned freedman, this citizen's
+Nordic heritage is very clear both in his coloring as well as his
+fierceness in battle.
+~
+1 4 g z 0 S 
+22 11 -3 1d100+220
+400 500 100 3d4+5-1
+-1
+-1
+400 33000 8 8 1
+#12080
+warrior Roman~
+The Roman warrior~
+The young Roman warrior struts along proudly with his comrades in arms.
+~
+Finished with his first campaign, the young warrior feels he has
+acquitted himself with honor.  He has carefully guarded his salarium,
+his ration of salt, and he will bring that back to his family.
+~
+1 4 gm z 0 S 
+22 11 -3 1d100+220
+400 500 100 3d4+5-1
+-1
+-1
+400 33000 8 8 1
+#12081
+slave Gaul gallic captive romemob~
+The Gallic slave~
+The Gallic captive, now a slave to the Romans, glares haughtily at you.
+~
+He was a great and fierce fighter, but he was captured and now will be
+a great and proud slave.  His body still retains the remnants of blue
+paint, which evidently was not enough to frighten off the Roman armies.
+His amulet of herbs and unmentionables, worn about his neck, were also
+not enough to protect him from capture.
+~
+1 4 g z 0 S 
+25 7 -5 3d38+262
+400 500 90 3d5+6
+32 0 10 1d0+100 -1
+-1
+-1
+0 29167 8 8 0
+A
+%%5 stare; %5 glare~
+#12082
+roman warrior romemob~
+The mighty warrior~
+The mighty minotaur Roman warrior needs no helmet as his horns suffice.
+~
+Roman citizens come in all shapes and sizes.  The minotaur's grandsire
+was captured during an early raid on Crete.  He did well as a slave,
+earning great quantities of gold as a favored charioteer (of the leek,
+or green team).  He was freed, and his son and grandson thereby were
+able to be citizens.
+~
+1 4 g ky 600 S 
+30 6 -4 2d100+350
+400 500 100 3d6+9-1
+-1
+-1
+1000 100000 8 8 1
+#12083
+barbarian evil slave romemob~
+The evil barbarian~
+The evil barbarian performs menial tasks for his new owner.
+~
+A tall human ... perhaps all of 6.5' (about 2m.) ... with heavy bone
+structure and well defined musculature, the captive will undoubtedly
+sell for a high price at the slave market.  His unshaven chin juts out
+with pride, and his shoulders remain square, his back straight.  He is
+aware of his worth and uncowed by his status.
+~
+1 1 g 0 0 S 
+25 7 -5 4d38+262
+400 500 100 3d5+6
+-1
+-1
+-1
+0 29167 8 8 0
+#12084
+warrior elephant roman romemob~
+The warrior elephant~
+The huge elephant stomps along, grinding the dirt to dust.
+~
+The pachyderm packs a whallop with her trunk, although she has not been
+used for fighting.  Originally brought over from Africa by Hannibal,
+who wanted to "surprise" the Romans one winter, these Romans are
+delighted to bring them back as a prize to Rome.  They can carry
+literally tons of treasure brought back from the wars.
+~
+1 4 g kz 0 S 
+30 6 -4 2d100+350
+400 500 100 3d6+9
+-1
+-1
+-1
+1000 100000 8 8 2
+A
+%%5 yawn;%5 emote rears back, preparing to STOMP you.~
+#12085
+ratman roman warrior soldier ratsoldier romemob~
+The Roman Ratsoldier~
+The Ratman Ratsoldier looks fierce despite his long twitching tail.
+~
+As long as you are a land owning citizen, you may sign up for a 20 year
+stretch in the Roman army.  Although it is a hard life (especially for
+a rat), the promise of glory and a regular salary are hard to resist.
+~
+17 4 g z 0 S  
+25 7 -5 1d100+300
+400 500 100 3d6+4
+-1
+-1
+-1
+200 60000 8 8 1
+A
+%%5 pose;%5 twitch~
+#12086
+halfling roman soldier romemob~
+The halfling~
+The halfling looks small, but his heart is as brave as any Roman's.
+~
+This halfling is small and far from the land of his grandparent's birth,
+but he is a Roman citizen-soldier and very proud of it.  His parents,
+captured in a raid, were able to buy their freedom from their small
+tobacco shop.
+~
+1 0 g k 800  S 
+1 18 8 10d2+45
+400 500 100 3d1+4 -1
+-1
+-1
+55 270 8 8 1
+#12087
+gnome roman soldier romemob~
+The gnome~
+The gnomish soldier is on holiday, looking for entertainment.
+~
+This gnome was something of a washout in terms of carrying around 3 days
+worth of equipment on his back, but he is a positive genius when it
+comes to building bridges and designing campsites.  He is small and
+getting a trifle old for the life of a soldier.
+~
+1 0 g k 800  S 
+2 16 6 10d2+55
+400 500 100 5d1+5 -1
+-1
+-1
+65 333 8 8 1
+#12088
+gnome old cloth merchant romemob~
+The cloth merchant~
+The old gnome leads a donkey laden with bolts of wool.
+~
+Bringing heavy bolts of wool woven from Stanneg sheep, the cloth
+merchant hopes to trade for some fairy cloth, should he be lucky enough
+to discover the fairy home.
+~
+1 0 g k 0 S 
+25 0 -5 6d6+500
+400 500 100 4d7+3 -1
+-1
+-1
+425 145000 8 8 1
+#12089
+tinker romemob~
+The tinker~
+The tinker easily carries his huge pack on his massive back.
+~
+"Wandering from village to village, that's the life for me!"  A man of
+enormous strength and cleverness, the tinker carries the tools of his
+trade on his back.  Quick to fix, that's the tinker.
+~
+1 0 g kr 200  S 
+25 0 -5 6d6+500
+400 500 100 4d7+3 -1
+-1
+-1
+425 145000 8 8 1
+#12090
+worshiper romemob~
+the worshiper~
+The worshiper prays his sacrifice will not go unheeded.
+~
+The worshiper has saved all year to purchase the oxen to bring to
+sacrifice to his god.  It has meant doing without, but he is used to
+that.  If the god answers his prayer, he won't have to do without much
+longer.
+~
+1 0 g kr 500  S 
+17 2 0 6d6+300
+400 500 100 4d7+3 -1
+-1
+-1
+425 145000 8 8 1
+#12091
+worshiper romemob~
+the worshiper~
+Bacchus' worshiper is long lost to the pleasures of wine, song and love.
+~
+For this young woman, worship of the god Bacchus is like a continual
+round of pleasure.  Her head in a drug and wine induced fog, she dances
+for the god and the other worshipers, lost to the world around her.
+~
+1 0 bg kr 400 S
+15 13 1 1d1+223
+400 500 100 1d7+8
+-1 -1 -1 
+225 6399 8 8 0
+#12092
+high priest romemob~
+the high priest~
+The high priest sacrifices the animal at the altar.
+~
+The high priest is a patrician, a wealthy and noble Roman who has been
+elected to this extremely important office.  If he cannot convince the
+god to grant the people's wishes, all of Rome will suffer.
+~
+1 0 bg h 1000 S
+65 -14 -26 1d1+1098
+400 500 100 1d32+33
+-1 -1 -1 
+4225 472878 8 8 1
+#12093
+slave romemob~
+the slave~
+The slave hastens about his task.
+~
+Brought here from Greece, this slave is unlikely to have to work very
+hard.  He will most likely soon be employed as a tutor or scribe.  The
+Romans have a healthy awe of Roman learning.
+~
+1 0 0 0 1000 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20832 8 8 1
+#12094
+roman soldier romemob~
+The Roman soldier~
+The Roman soldier fought hard to win new land for Rome.
+~
+Roman soldiers have earned enough for the republic in their many
+campaigns of conquest that Roman citizens no longer must pay heavy
+taxes or work as slaves due to their poverty.  This soldier was proud to
+carry back part of the bounty of war, although the chest was quite
+heavy.
+~
+1 4 g z 0 S 
+25 7 -5 3d38+262
+400 500 100 3d5+6
+-1
+-1
+-1
+0 29167 8 8 1
+#12095
+wolf victim romemob~
+the gray wolf~
+The shaggy gray wolf lifts his massive head as you enter his small den.
+~
+Brought back from the far north by a minion of the Maximus clan, the
+wolf wearies of his long waits in this airless hole.  The only
+unfiltered light he has seen is when he has been released to hunt in the
+arena. 
+~
+1 0 dfgy frzk 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1
+400 20832 8 8 1
+A
+%%1 howl~
+#12096
+panther victim romemob~
+a sleek panther~
+The sleek black panther paces restlessly in his small cage.
+~
+Brought back from a campaign 3 months ago, the panther has subsisted on
+a steady diet of adventurers and gladiators.  He looks at you, bored, as
+if to say, "Why couldn't they at least send someone who would be a
+challenge?
+~
+1 0 dfgy k 0 S 
+19 0 -5 1d1+300
+400 500 85 1d10+11
+384 0 5 0d0+0
+385 0 10 0d0+0 -1
+384 100 385 100 -1
+-1
+425 45000 8 8 1
+#12097
+bear victim romemob~
+the huge and very furry bear~
+Looking like a big teddybear with teeth, the bear is ready to fight.
+~
+One mighty swipe of his paw could easily knock you flat.  The long sharp
+claws would rake the skin right off your body, leaving the meat and
+bones there for him to munch on.  
+~
+5 0 dfgy k 0 S 
+20 0 300 6d6+300
+408 500 100 2d5+11 -1
+-1
+-1
+425 45000 8 8 1
+#12098
+minotaur victim romemob~
+a minotaur~
+The minotaur lowers his head, ready to spear you with long sharp horns.
+~
+Brought back from Minos, this minotaur is HUGE, sentient, intelligent,
+and just plain mean.  He is a favorite of the Roman crowds, because
+there is always a lot of blood and gore when the minotaurs are brought
+out.
+~
+1 0 dfgy k 0 S
+19 10 0 1d1+281
+400 500 100 1d9+10
+-1 -1 -1 
+361 16665 8 8 1
+#12099
+tiger victim romemob~
+the striped tiger~
+The tigers' large black and gold stripes have a dizzying effect.
+~
+The tiger rests lazily on the dirt floor of his cage.  Don't make the
+mistake of thinking he is asleep.  Under the smooth glossy fur you can
+see rippling muscles, and you know if he decides to *pounce* on you, you
+are history.
+~
+1 0 dfgy k 0 S
+19 10 0 1d1+281
+400 500 100 1d9+10
+-1 -1 -1 
+361 16665 8 8 1
+A
+%%5 snarl~
+#12100
+prisoner victim romemob~
+the prisoner~
+The prisoner looks sadly around her cell, knowing she is about to die.
+~
+She will not be much of a challenge for the gladiators, since she is so
+weak from hunger and lack of sleep.  She spilled some red wine on the
+white toga of a very important guest of the Maximus clan, and has been
+sent here as an example to the other servants.
+~
+1 0 dgy k 0 S
+19 10 0 1d1+281
+400 500 100 1d9+10
+-1 -1 -1 
+361 16665 8 8 1
+#12101
+jeweler romemob~
+the jeweler~
+The jeweler eyes you appraisingly.
+~
+Marius is a small, hefty freedman, a former slave to Homerus Maximus,
+who is now his patrone.  Marius has an excellent eye for jewels and
+knows what people will buy.  Naturally, he makes small "gifts" of his
+best selections to his patrone.
+~
+1 0 bg hk 0 S
+70 -16 -28 1d1+1224
+400 500 100 1d35+36
+-1 -1 -1 
+4900 532413 8 8 1
+A
+%%4 say How about a little sparkle for the love of your life?
+;%3 say YOU've got a friend in the diamond business!
+;%3 emote smiles a particularly oily smile.
+~
+#12102
+Julius Maximus romemob~
+Julius Maximus~
+An aging senator, the head of the clan Maximus, Julius remains fit.
+~
+Julius is a man of many years, but he has taken great care to remain fit
+and youthful in appearance.  He owes his full head of hair to great
+genes, but the deep brown color is from a substance purchased for him
+from a small shop in town, a shop that he owns.
+~
+1 0 bg hk 0 S
+80 -22 -34 1d1+1526
+400 500 100 1d40+41
+-1 -1 -1 
+6400 674914 8 8 1
+#12103
+Gluteus Maximus~
+Gluteus Maximus~
+Gluteus Maximus frowns as you intrude on his space.
+~
+Gluteus has a lot wagered on this race, and doesn't take kindly to
+intruders.  He is a MASSIVE man of truly colossal proportions.  Even his
+tunic and toga can't disguise the beefiness of the form beneath.
+~
+1 0 bfg hk 0 S
+75 -19 -31 1d1+1366
+400 500 100 1d37+38
+-1 -1 -1 
+5625 599444 8 8 1
+#12104
+Augustus Maximus romemob~
+Augustus Maximus~
+Augustus cheers loudly for the leeks, as the chariots race past his box.
+~
+The youngest of the male adults in the Maximus clan, Augustus is
+probably the most successful.  He is good natured, friendly, active, and
+an astute businessman.  Like the rest of his clans, he makes frequent
+trips to the field of Mars and the baths to remain fit and healthy.  He
+would be a challenging opponent!
+~
+1 0 bg hk 0 S
+78 -21 -33 1d1+1459
+400 500 100 1d39+40
+-1 -1 -1 
+6084 643648 8 8 1
+A
+%%5 emote smiles benignly at you.~
+#12105
+Gaius hotfood shopkeeper romemob~
+Gaius~
+Face glowing with sweat, Gaius asks, "What can I get for you?"
+~
+Since most people can't cook at home, Gaius does a good business
+providing hot food.  He has several shops in different parts of Rome,
+where he caters to different appetites.  It is always hot in his store,
+but Gaius has become used to it.
+~
+1 0 bg hk 0 S
+75 -19 -31 1d1+1366
+400 500 100 1d37+38
+-1 -1 -1 
+5625 599444 8 8 1
+A
+%%5 emote wipes down the counter with a fairly clean rag.
+;%5 emote accepts delivery of a shipment of elephant tails from the
+arena.
+~
+#12106
+Sulla image shopkeeper romemob~
+Sulla~
+Sulla sells magic to enhance your image.
+~
+Sulla purchases powders, potions and other items from alchemists and
+priests of many sects and resells them to the wealthy.  His many
+assistants will also perform various services for you, such as
+hairdressing, hair softening, hair removal, hair coloring, massage, in
+short, anything to enhance your beauty.  Sulla has many of his
+assistants working at the more exclusive baths in town.
+~
+1 0 bg hk 0 S
+75 -19 -31 1d1+1366
+400 500 100 1d37+38
+-1 -1 -1 
+5625 599444 8 8 1
+#12107
+assistant romemob~
+Sulla's assistant~
+Sulla's assistant will painlessly remove hair from your arms and legs.
+~
+Using a mixture of bat's blood and hedgehog ashes, Sulla's assistant
+will peel the hair from your arms and legs.  Roman men prefer to be
+hairless, although generally they prefer this to be done in privacy.
+Sulla is also skilled in using hot walnut shells to soften the hair, in
+case you do not like arm stubble.
+~
+1 0 bg k 0 S
+15 13 1 1d1+223
+400 500 100 1d7+8
+-1 -1 -1 
+225 6399 8 8 2
+#12108
+assistant romemob~
+the shopkeeper's assistant~
+The shopkeeper's assistant sweeps up the shop, trying to look busy.
+~
+A young slave, learning the business, the assistant has learned it is
+best to always at least appear to be busy.  The assistant is about 14,
+the son of another of the shop owner's slaves.  He knows he is quite
+lucky to have landed such an easy spot in life.
+~
+1 0 bg k 0 S
+13 14 2 1d1+195
+400 500 100 1d6+7
+-1 -1 -1 
+169 4266 8 8 1
+A
+%%5 emote grumbles under his breath.
+;%5 emote mutters, "I always get stuck with the dirty work."
+~
+#12109
+spectator fan romemob~
+a spectator~
+A spectator is filthy, half drunk and screaming his head off.
+~
+The spectator has a small fortune riding on the leeks losing today, but
+he's so drunk and rowdy he's all but forgotten.  He's not a very tall
+man, but very strong and very hairy, showing some of his undoubted
+dwarven ancestry.
+~
+1 4 2 0 4294967196  S 
+5 18 5 2d6+65
+400 500 100 2d4+0 -1
+-1
+-1
+100 650 6 6 1
+A
+%%4 emote thumps you hard on the back, grinning.~
+#12110
+spectator fan romemob~
+a spectator~
+A spectator is filthy, half drunk and screaming his head off.
+~
+The spectator loves all the spectacle of the theater, which has gotten
+very amusing now that it has some real competition in the form of the
+arena in the north of town.
+~
+1 4 2 0 4294967196  S 
+5 18 5 2d6+65
+400 500 100 2d4+0 -1
+-1
+-1
+100 650 6 6 0
+#12111
+Drucilla woman roman romemob~
+Drucilla~
+Drucilla drowsily drifts off into dreamland, dreading dinner.
+~
+Drucilla would rather be anywhere but entertaining boring dinner guests.
+Her mind drifts off as she smiles and nods at them.  Where has she gone?
+Drucilla the dreamy-eyed is tall and slender, with dark brown hair
+fashionably styled in brown curls around her pale brown-eyed face.
+~
+1 4 bg dhy 1000 S
+75 7 -3 1d1+1369
+400 500 100 2d20+35
+-1 -1 -1 
+6250 608332 8 8 2
+A
+%%2 em looks up at you, startled out of her reverie.~
+#12112
+patrician roman romemob~
+the patrician~
+The patrician ignores you, his attention focused elsewhere.
+~
+Unless you are another wealthy citizen or unless you are needed for some
+task, or unless you get in his way, you do not exist for this wealthy,
+toga-wearing citizen.  You are of less importance than the sandals on
+his elegant feet.  Body hardened by hours spent on the Field of Mars,
+the patrician will be a difficult opponent.
+~
+1 0 bg r 500 A 25 1
+#12113
+equite wealthy romemob~
+the equite~
+The equite looks about him with satisfaction, pleased at his success.
+~
+Gradually moving up the social ladder, the equite has made quite a lot
+of money off the Roman's love for the odd and unusual.  This helps him
+hang out with the patricians.  Since he spends most of his time social
+climbing and making money, he is not quite so fit as his patrician
+"friends".
+~
+1 0 bg r 400 A 20 1
+A
+%%5 emote pats his paunch and smiles.~
+#12114
+gateguard guard romemob~
+the gateguard~
+A gateguard stands here, tending the gate.
+~
+Clad in light armor, the gateguard makes sure only the right people are
+allowed into Rome.  He also strictly enforces the "no cart" policy.
+The streets have become so congested that no carts are allowed within
+the city walls until after sunset.
+~
+1 4 bg z 1000  S 
+11 16 2 3d6+130
+400 500 100 1d6+5 -1
+-1
+-1
+500 2800 8 8 1
+#12115
+gateguard guard romemob~
+the gateguard~
+A gateguard stands here, tending the gate.
+~
+Clad in light armor, the gateguard makes sure only the right people are
+allowed into Rome.  He also strictly enforces the "no cart" policy.
+The streets have become so congested that no carts are allowed within
+the city walls until after sunset.
+~
+1 4 bg z 1000 S 
+11 16 2 3d6+130
+400 500 100 1d6+5 -1
+-1
+-1
+500 2800 8 8 1
+#12116
+gateguard guard romemob~
+the gateguard~
+A gateguard stands here, tending the gate.
+~
+Clad in light armor, the gateguard makes sure only the right people are
+allowed into Rome.  He also strictly enforces the "no cart" policy.
+The streets have become so congested that no carts are allowed within
+the city walls until after sunset.
+~
+1 4 bg z 1000 S 
+11 16 2 3d6+130
+400 500 100 1d6+5 -1
+-1
+-1
+500 2800 8 8 1
+A
+%%1 say Halt! Who goes there!;%5 glare~
+#12117
+nymph romemob~
+the nymph~
+This nymph will tempt you into dishonor with her seductive beauty.
+~
+Beautiful but deadly.  The nymph smiles seductively at you, inviting you
+to follow her into joyful but mindless abandon.  Forever young, forever
+beautiful, forever dangerous.
+~
+0 1 bfj dfb -500 A 23 2
+A
+%%5 wiggle~
+#12118
+pan romemob~
+Pan~
+The curious looking man with goat horns and goat feet plays his pipes.
+~
+Pan is looking for woodland nymphs, hoping to lure them to him with his
+music.  He is always looking for them, but never accepted because he is
+SO ugly.
+~
+1 1 bl dfh 800 A 70 1
+A
+%%5 emote looks around for a nymph to chase.~
+#12119
+woman wife romemob~
+the young Roman wife~
+The young Roman woman sits on the hard wooden benches, watching.
+~
+Another non-person to the rest of the Romans, the young woman still
+enjoys watching the entertainments, even though she must sit high up
+against the back wall and on hard, splintery wooden benches.  Hers is a
+hard life, and although she possesses a certain wiry strength, she will
+not live long enough to give her husband more than a child or two.
+~
+1 1 bl df 600 A 26 2
+A
+%%5 emote shrinks back, trying NOT to be noticed.~
+#12120
+slave drunk romemob~
+the drunken slave~
+The slave found some time off and went out to have a good time.
+~
+Lucky to be the pampered slave of a very indulgent master, the young man
+used to be even closer to his master and his master's friends.  Once he
+started growing a beard, however, he was given errands to run and
+speeches to scribe.  Much more boring work.
+~
+1 1 bl df 600 A 17 1
+A
+%5 flutter~
+#12121
+farmer romemob~
+the Stanneg farmer~
+The farmer has come into town from Stanneg, full of wonder at Rome.
+~
+Although he has heard all his life about the marvels of the great city
+of Rome, he has always believed them to be myths.  A cyclops raid on his
+home burned down his crops and farmhouse, so he has taken his family to
+Rome to seek his fortune.
+~
+1 0 bg k 0 S
+15 13 1 1d1+223
+400 500 100 1d7+8
+-1 -1 -1 
+225 6399 8 8 2
+A
+%%1 gasp
+;%5 say well I'll be the son of a blue-nosed donkey!  Will you look at
+that!~
+#12122
+helper romemob~
+the fuller's helper~
+The fuller's helper has slipped away from his work to enjoy the day.
+~
+The fuller is at his country home today, so his helper closed up the
+shop early and escaped to enjoy the day with his friends.  Hopefully, he
+will not be caught!  He is a youth of 17, tall with dark hair and a long
+straight nose that hints of his patrician ancestry.
+~
+1 0 bg k 300 S
+13 14 2 1d1+195
+400 500 100 1d6+7
+-1 -1 -1 
+169 4266 8 8 1
+A
+%%5 emote looks at your dirty clothes and snickers softly.~
+#12123
+vendor romemob~
+a street vendor~
+The vendor sells hot roast chestnuts to warm your hands and belly.
+~
+Every morning she buys chestnuts at the grocers and hot charcoal, then,
+rain or shine, roasts chestnuts in the Forum.  She will wrap them in a
+bit of paper or cloth she finds and give them to you to warm your hands,
+your mouth and your belly.  The vendor is ageless, and you feel she may
+have some tricks up the long loose sleeves of her tunic.
+~
+1 0 bg k 500 A 15 2
+A
+%%1 yell Hot chestnuts! Get your charcoal-grilled chestnuts right
+here!!~
+#12124
+Antonius romemob~
+Antonius the Younger~
+Shoulders stooped with age, the elderly man peers at a scroll.
+~
+His eyesight going as are the rest of his faculties, still, Antonius the
+Younger is a remarkable orator.  His grasp of Roman common law is
+remarkable, and his name is well known throughout the courts.  For that
+reason, his services are still much sought after and he can well afford
+his luxurious office.
+~
+1 0 bg h 900 A 28 1
+#12125
+jason romemob~
+Jason~
+#GJason is much more than a pretty piece of marble.#N
+~
+Jason led the original Super Hero band.  One glance at his incredible
+physique (and this clear white marble statue hides NOTHING), one peek
+into his clever mind, and you can easily understand why so many Greek
+Heroes followed him to Colchis.  Of course, stealing the golden fleece
+back from the dragon might have had something to do with it as well.
+~
+1 1 bg dfh 1000  S 
+99 -13 -10 20d15+950
+400 500 80 8d6+40
+52 0 5 1d0+100
+48 0 5 1d0+100
+5 0 5 1d0+100
+23 0 5 1d0+100 -1
+-1
+-1
+25000 1500000 8 8 1
+#12126
+Maximus romemob~
+Maximus Maximus~
+Maximus Maximus chortles gleefully as another sucker enters his shop.
+~
+A small, oily man of indeterminate age, you can sense that in another
+lifetime Maximus might have sold used camels or snake oil cures.  There
+is a wiry strength to his body and a look of confidence and
+determination that makes you hesitate to attack him.
+~
+1 0 bgl dhk -1000 A 75 1
+A
+%%10 chortle~
+#12127
+young Briton romemob~
+a young Briton~
+A young Briton was brought back from one of Rome's recent campaigns.
+~
+Trainable!  This young man would be good for running errands.  If he is
+brighter than he looks, he might make a good scribe.  Although he comes
+just to the elbow of your average full-grown minotaur, he has reached
+his full height, and the long walk back from his homeland has
+strengthened him.
+~
+1 0 bc s 200 A 5 1
+A
+%%10 peer~
+#12128
+pedagogue greek teacher ped romemob~
+a Greek pedagogue~
+The pedagogue might be able to teach you to read.
+~
+An expensive slave, much valued.  You will be the envy of all of your
+friends if you buy this brilliant, cultured Greek pedagogue.  And, due
+to some slight infirmities we are willing to sell him cheap!
+~
+1 0 bc afh 500 A 3 1
+#12129
+druid witch woman romemob~
+a witchy woman~
+A witchy woman from Gaul casts some nasty spells on you.
+~
+Don't let the blue skin put you off!  This wench will cast her evil
+spells only on your enemies if you should buy her.  With the loose black
+waves of hair floating behind her she may look a bit untidy, but she
+will be a blessing in your retinue.
+~
+1 0 bcl kz 250 A 4 2
+A
+%%10 cast 'control weather'~
+#12130
+warrior fierce Hun romemob~
+a fierce looking blond warrior~
+The battle-scarred blond warrior looks fierce.  Scary!
+~
+Towering above you, this Hun was brought back from a land far to the
+north of here inhabited mainly by Germanic tribes.  Such a deal! Already
+trained in the arts of war, this warrior could make a bundle for you in
+the arena.  Make an investment in your future with this warrior.
+~
+1 0 bl zD 0 A 7 1
+#12131
+dresser female hairdresser slave romemob~
+an elderly hairdresser~
+An elderly hairdresser would make a nice present for your sister.
+~
+This woman is well trained in the arts of styling hair in the latest
+fashion.  Roman clothing may not change much from year to year, but you
+wouldn't want to go to that dinner party in last year's hairstyle!  This
+little woman won't eat much, but she will be worth her weight in gold
+coins.
+~
+1 0 bcl kz 0 A 2 2
+#12132
+architect builder romemob~
+a builder~
+Slave to the joys of building, the roamin architect-builder works ceaselessly.
+~
+Finally ready to build that little villa outside town?  Perhaps you had
+something a bit grander in mind?  A fortress on top of a volcano?  A
+small village inhabited by some of Rome's more unusual creatures?  Then
+you've come to the right place.  Purchase this builder and ride his
+dream!
+~
+1 0 bcl kz 0 A 3 1
+#99999
+$~

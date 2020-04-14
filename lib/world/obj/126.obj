@@ -1,0 +1,483 @@
+#12600
+portal~
+A flickering portal~
+A faint portal winks at you from across the street.~
+~
+26 1 0 gmnt 0
+-1 0 -1 -1 -1 -1
+1 100000 0
+E
+portal flickering~
+You remember hearing that unstable portals are unsafe, and that they 
+could end up taking you anywhere. With that in mind you decide it 
+would be wisest NOT to enter this one.
+~
+#12601
+shield cracked~
+a cracked shield~
+A templar's shield has been blasted almost in half.~
+~
+9 82 acegiklmops agko aj
+13 82 0 0 0 0
+35 8000 0
+E
+shield cracked~
+Some kind of detonation has put a huge split in this magnificent shield. 
+It still seems strong enough to offer you some protection. It bears a 
+holy insignia, perhaps its previous owner was a religious warrior?
+~
+A
+5 6
+A
+18 1
+B e
+#12602
+kebab burnt charred~
+a burnt kebab~
+The smell of burnt meat comes from that charred kebab over there.~
+~
+19 1 0 bn ao
+18 0 0 0 0 0
+1 30 0
+E
+kebab burnt charred~
+The kebab is burnt to a crisp and the meat is of questionable origin. 
+It doesn't look particularly appetising, but once you've had a few 
+drinks there will be no more delicious sight in the universe.
+~
+A
+23 8
+#12603
+pastry charred~
+a charred pastry~
+What was once a delicious looking pastry has been left here.~
+~
+19 1 0 bn ao
+13 0 0 0 0 0
+2 20 0
+E
+pastry charred~
+Lovely sweet pastry filled with dried fruits, and covered in icing and 
+almond sprinkles, then blasted to a charred crispy mess. Yum!
+~
+#12604
+cudgel stout blackened~
+a stout cudgel~
+A sturdy looking cudgel lies just at your feet.~
+~
+5 77 0 g an
+77 7 8 7 0 0
+8 2000 0
+E
+stout cudgel~
+Its a wonderfully simple weapon - just a lump of wood hardened in a 
+fire, anyone could use it!
+~
+A
+18 7
+A
+19 8
+#12605
+chainmail chain melted~
+a melted chainmail~
+The links of this chainmail have become melted together.~
+~
+9 77 abcefgijklms ag ad
+42 77 0 0 0 0
+52 2000 0
+E
+chainmail chain melted~
+Finely crafted in silver and bronze, this chainmail was clearly once 
+meant for a rich lord. However, exposure to a great heat has melted 
+the links together, which will make it difficult to manoeuvre in.
+~
+A
+2 -2
+A
+14 -50
+A
+18 -1
+#12606
+tricorn hat~
+a tricorn~
+A sea captains hat has been dropped on the ground.~
+~
+9 84 abcdefghijklmnps ag ae
+25 84 0 0 0 0
+31 3400 0
+E
+tricorn hat~
+Its a three-pointed hat often worn by sea captains. Sure it looks 
+stupid, but nobody would say it to your face.
+~
+A
+13 100
+A
+24 10
+B k
+#12607
+tam'o'shanter tam shanter tamoshanter woolly hat~
+a tam'o'shanter~
+This woolly tam'o'shanter looks very warm.~
+~
+9 79 abdehijlmnp bgk ae
+18 79 0 0 0 0
+10 1000 0
+E
+tam'o'shanter tam shanter tamoshanter woolly hat~
+Its a woolly hat with a bobble on top, worn by sailors through the ages 
+to keep them warm on long winter voyages.
+~
+B C
+#12608
+rod dowsing rods~
+a dowsing rod~
+A dowsing rod, made from a forked hazel twig twitches sporadically.~
+~
+5 42 aceikms bgijko anq
+42 6 6 2 0 0
+10 2000 0
+E
+dowsing rod~
+Normally used to find water, the dowsing rod would probably make quite 
+an effective weapon.
+~
+A
+18 10
+A
+19 10
+#12609
+symbol holy twisted~
+a twisted holy symbol~
+A holy symbol lies awkwardly on the ground.~
+~
+9 84 acdeghiklmops agko ac
+13 84 0 0 0 0
+5 5000 0
+E
+symbol holy twisted~
+It looks like a giant has taken it in his hands and bent it several times.
+~
+A
+12 50
+#12610
+hat top tophat~
+a top hat~
+A tall shiny black hat stands here.~
+~
+9 78 cdfhjklnos gko ae
+15 78 0 0 0 0
+8 2500 0
+E
+hat top tophat~
+It's a tall shiny black silk top hat, such as an undertaker might wear.
+~
+A
+13 20
+A
+24 5
+#12611
+potion shimmering flickering~
+a shimmering potion~
+A potion shimmers and flickers in the centre of the room.~
+~
+10 58 0 ag a
+58 80 27 -1 0 0
+2 5000 0
+E
+potion shimmering flickering~
+The potion is a pale yellow colour, and shimmers a flickers fitfully.
+~
+#12612
+blade vorpal~
+a vorpal blade~
+A radiant blade sparkles dangerously on the ground.~
+~
+5 70 abdefhijlmno abik an
+70 7 6 11 0 0
+8 16000 0
+E
+vorpal blade~
+It glitters like jewels in the sun, and is so narrow that it vanishes 
+when viewed edge-on. You touch the blade experimentally and your hand 
+passes right through it. Testing it on a piece of wood however reveals 
+that while it will not harm you, it will severely damage anything you 
+use it on!
+~
+A
+18 7
+A
+19 8
+#12613
+tuxedo ragged~
+a ragged tuxedo~
+A ragged tuxedo has been discarded here.~
+~
+9 77 0 l ak
+15 77 0 0 0 0
+12 900 0
+E
+tuxedo ragged~
+It's very fashionably cut, well stitched and made from very fine 
+fabric. Oh and its full of burn holes, you're not exactly gonna fit 
+in at the casino wearing it.
+~
+A
+6 4
+A
+22 10
+A
+23 10
+#12614
+diamond fragments fragment~
+some diamond fragments~
+Fragments of crushed diamond glitter on the ground.~
+~
+8 20 0 ap a
+0 0 0 0 0 0
+1 60000 0
+E
+diamond fragments~
+They glitter and sparkle in your hands. They must be worth a fortune!
+~
+#12615
+longsword bent curved~
+a bent longsword~
+A longsword which has been bent out of shape sticks out of the ground.~
+~
+5 10 0 0 an
+10 3 6 3 0 0
+8 2000 0
+E
+longsword bent curved~
+Its just a normal longsword, but it has been heated up and 
+bent out of shape.
+~
+#12616
+newspaper news paper blackened~
+a blackened newspaper~
+A charred newspaper lies discarded on the floor.~
+~
+5 46 0 0 an
+46 5 8 7 0 0
+4 1000 0
+E
+newspaper news paper~
+It's an old burned edition of the Midgaard Times.
+~
+A
+18 4
+A
+19 4
+#12617
+flame ball monsterous~
+a monsterous ball of flame~
+The room is dominated by a monsterous roiling ball of flame.~
+~
+5 97 abcdfhjklnops aghou anq
+97 10 5 8 0 0
+20 12000 0
+E
+ball flame monsterous~
+It's so hot that it hurts just to look at it. You could use it 
+to burn your enemies to ash.
+~
+A
+18 10
+A
+19 30
+A
+13 -100
+#12618
+robes scorched tattered~
+scorched robes~
+Some badly scorched robes lie in a heap on the floor.~
+~
+9 79 cdhklnops ago ak
+12 79 0 0 0 0
+20 13000 0
+E
+robes scorched tattered~
+They have been badly burned in places, although they still seem wearable.
+~
+A
+20 8
+A
+21 8
+A
+24 8
+#12619
+gateway gate~
+Gateway~
+~
+~
+26 1 0 hmnpt 0
+-1 0 -1 -1 -1 10
+1 100000 0
+E
+gateway gate~
+At first glance it appears to be merely an extravagant wall carving, but 
+a closer inspection leads you to believe that the ancient gateway would 
+still work, if only you could figure out how to activate it.
+~
+#12634
+jade artefact~
+a Jade artefact~
+An ancient artefact made of jade glitters on the ground at your feet.~
+~
+9 110 abcdefghijklmnops abgmnot ao
+0 110 0 0 0 0
+0 0 0
+#12686
+MR special ring~
+MR ring +50~
+oedit as required~
+~
+9 1 abcdefghijklmnops gmnot abo
+0 1 0 0 0 0
+0 0 0
+A
+24 50
+#12687
+MR special ring~
+MR ring +80~
+oedit as required~
+~
+9 1 abcdefghijklmnops gmnot abo
+0 1 0 0 0 0
+0 0 0
+A
+24 80
+#12688
+ac special ring~
+ac ring -50~
+oedit as required~
+~
+9 1 abcdefghijklmnops gmnot abo
+0 1 0 0 0 0
+0 0 0
+A
+17 -50
+#12689
+dr hr special ring~
+dr/hr ring +5+5~
+oedit as required~
+~
+9 1 abcdefghijklmnops gmnot abo
+0 1 0 0 0 0
+0 0 0
+A
+18 5
+A
+19 5
+#12690
+dr hr special ring~
+dr/hr ring +10+10~
+oedit as required~
+~
+9 1 abcdefghijklmnops gmnot abo
+0 1 0 0 0 0
+0 0 0
+A
+18 10
+A
+19 10
+#12691
+dr hr special ring~
+dr/hr ring +20+20~
+oedit as required~
+~
+9 1 abcdefghijklmnops gmnot abo
+0 1 0 0 0 0
+0 0 0
+A
+18 20
+A
+19 20
+#12692
+mr special neck~
+mr neckware +40~
+oedit as required~
+~
+9 1 abcdefghijklmnops gmnot aco
+0 1 0 0 0 0
+0 0 0
+A
+24 40
+#12693
+mr special neck~
+mr neckware +60~
+oedit as required~
+~
+9 1 abcdefghijklmnops gmnot aco
+0 1 0 0 0 0
+0 0 0
+A
+24 60
+#12694
+ac special neck~
+ac neckware -50~
+oedit as required~
+~
+9 1 abcdefghijklmnops gmnot aco
+0 1 0 0 0 0
+0 0 0
+A
+17 -50
+#12695
+dr hr special neck~
+dr hr neckware +5+5~
+oedit as required~
+~
+9 1 abcdefghijklmnops gmnot aco
+0 1 0 0 0 0
+0 0 0
+A
+18 5
+A
+19 5
+#12696
+dr hr special neck~
+dr hr neckware +10+10~
+oedit as required~
+~
+9 1 abcdefghijklmnops gmnot aco
+0 1 0 0 0 0
+0 0 0
+A
+18 10
+A
+19 10
+#12697
+dr hr special neck~
+dr hr neckware +20+20~
+oedit as required~
+~
+9 1 abcdefghijklmnops gmnot aco
+0 1 0 0 0 0
+0 0 0
+A
+18 20
+A
+19 20
+#12698
+sanc regen special body armour~
+sanc regen special body armour~
+oedit as required~
+~
+9 1 abcdefghijklmnops gmnot ado
+15 1 0 0 0 0
+0 0 0
+B hD
+#12699
+MR special ring~
+MR ring +30~
+oedit as required~
+~
+9 1 abcdefghijklmnops gmnot abo
+0 1 0 0 0 0
+0 0 0
+A
+24 30
+#99999
+$~

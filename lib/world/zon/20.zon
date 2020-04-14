@@ -1,0 +1,24 @@
+#20
+Halls of Learning~
+2099 1 2
+*
+O 0 50 100 2000 * Newbie Handbook (from 0.obj) - Mokky
+O 0 3087 100 2000 * Newbie board (from 20.obj) - Mokky
+*
+O 0 2000 100 2004     Bread for hungry
+O 0 2000 100 2004     Bread for hungry
+O 0 2000 100 2004     Bread for hungry
+O 0 2001 100 2004     Water for the thirsty
+O 0 2001 100 2004     Water for the thirsty
+O 0 2002 100 2007     Torch
+O 0 2002 100 2007     Torch
+O 0 3020 100 2005     Dagger
+O 0 3021 100 2005     Small Sword
+O 0 3024 100 2005     Warhammer
+O 0 3081 100 2005     Leather jacket
+O 0 3043 100 2005     Jacket
+O 0 3076 100 2005     Cap
+M 0 2000 3 2006     Gremlin
+S
+#99999
+$~

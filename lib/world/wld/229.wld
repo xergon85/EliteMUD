@@ -1,0 +1,351 @@
+#22902
+Hidden Path~
+   Welcome to the Midgaard Honeymoon Resort.  We have designed this area
+especially for you on this special day.  Before you, just a little up the
+mountain side, is a beautiful cottage with everything you could want on your
+honeymoon.  So what are you waiting on, come on up and begin your lives
+together here with us at Honeymoon Resort!
+~
+229 0 0
+D4
+Up the path is a beautiful cottage just waiting for you to enter.
+~
+~
+0 0 22903
+S
+#22903
+Front Porch~
+   You come up onto the front porch of the cottage. Before you is the door 
+to your cottage.  All around you is a beautiful view of the mountains. 
+Provided for your comfort is a double wide lounge chair.  Beside the chair is
+a bottle of wine for you to enjoy along with the view.
+~
+229 0 0
+D0
+On the door is a sign that says:
+
+                     Welcome to honeymoon Resort
+                     May your first day of your 
+                     lives together only be a 
+                     small sample of the joy
+                     and happiness that waits you
+                     in the coming days together.
+
+                     Midgaard Management HM Resort
+~
+door sign~
+2 22910 22904
+D1
+The east provides a beautiful view of a mountain lake complete with
+a dock and small boat for your pleasure.~
+~
+0 0 22999
+D2
+Before you is the path down the mountain.  Not to far from the cabin it 
+disappears into the trees.~
+~
+0 0 21099
+D3
+2
+  To the west is a beautiful sunset splendid with the glow of reds and 
+orange, a more beautiful site you have never seen.~
+~
+0 0 21099
+D5
+Down below is the path back to the mundane world.~
+~
+0 0 22902
+S
+#22904
+Cottage~
+   The cottage is bigger than you first thought from outside. On one wall is
+a huge fireplace already ablaze with a cozy fire.  In front of the
+fireplace is a giant bearskin rug.  In the center of the north wall is a
+enormous champaign glass that reaches all the way to the upstairs balcony.
+~
+229 0 0
+D0
+You see small wisps of steam coming from the next room.~
+~
+0 0 22905
+D1
+You see a large, pool of water.~
+~
+0 0 22907
+D2
+You see the front porch and a beautiful view of the forest and mountain side.~
+~
+0 22901 22903
+D3
+The bearskin rug looks big enough to climb into.~
+~
+0 0 22908
+D4
+Up the ladder is a large room, hmm maybe you should take a look.~
+~
+0 0 22921
+D5
+Down the steps is a nice brightly lit room.~
+~
+0 0 22906
+S
+#22905
+Sauna~
+This is a large sauna, complete with massage benches, oils, and all the things
+you might need for an enjoyable steam bath for two.
+~
+229 0 0
+D2
+ You see the main cottage room.~
+~
+0 0 22904
+S
+#22906
+The Library~
+   A quaint little library is here, stacked with many volumes of poems,
+love stories, and how-to-manuals.  If you ever find time, you might even
+come down here and take a look around.  To the north is a door leading out
+onto an open patio.
+~
+229 0 0
+D0
+You see a large patio.~
+~
+0 0 22909
+D4
+The main cottage are is here.~
+~
+0 0 22904
+S
+#22907
+The Heated Pool~
+Before you is a magnificent olympic size swimming pool. The pool is
+enclosed by some type of forcefield that lets in light and heat, but
+does not show up from outside.  At least you do not remember seeing it
+from the front porch. Around the pool are lounge chairs arranged to capture
+the best view from all angles.  You stick your toe in the pool and
+find it is the perfect temperature for a swim.
+~
+229 0 0
+D3
+You see the main cottage area.~
+~
+0 0 22904
+D5
+You see the deep blue water of the pool.~
+~
+0 0 22925
+S
+#22908
+bearskin Rug~
+ The rug IS big enough to crawl into, actually its -just- big enough for two
+people to fit into.  Under the rug you are a little warm with all your cloths
+on.  Maybe someone should turn down the heat a bit....or.....
+~
+229 0 0
+D1
+~
+~
+0 0 22904
+S
+#22909
+The Patio~
+  The patio is open to the sky and gives you a beautiful view of the 
+mountains and the lake below the cottage.  Around you the birds chirp and 
+sing love songs to each other.
+~
+229 0 0
+D1
+ You see a windy trial leading down the mountain.~
+~
+0 0 22910
+D2
+ You see a quaint library~
+~
+0 0 22906
+S
+#22910
+Mountain Path~
+   Here the trail winds down the mountain to the lake below.  All around 
+you are small birds chirping and you see several rabbits hopping about,
+seemingly oblivious of you.
+~
+229 0 0
+D3
+  You see a large patio to the west.~
+~
+0 0 22909
+D5
+ The path continues down the mountain.~
+~
+0 0 22911
+S
+#22911
+Beside The Lake~
+  Before you is a beautiful mountain lake.  A boat dock at the edge of the 
+lake has a small boat that looks seaworthy and shipshape.
+  As you look out over the lake you see swans swimming slowly by and small
+birds diving for fish in the shallows.  There are wildflowers along the 
+banks that leave the air with a sweet smell of nectar.
+~
+229 0 0
+D0
+  You see a small boat dock.~
+~
+0 0 22912
+D4
+ Above you is a twisty mountain path.~
+~
+0 0 22910
+S
+#22912
+Boat Dock~
+  Here is a small boatdock complete with a tidy little boat.  Off to the
+northwest you notice a little island in the middle of the lake.
+~
+229 0 0
+D0
+  You see the lake before you.~
+~
+0 0 22913
+D2
+ You see the lake front.~
+~
+0 0 22911
+S
+#22913
+On the Lake~
+  The lake is as beautiful from here as it is from the shore.  All around
+below the boat you can see fish of all sizes swimming about.  Beautiful
+lake trout and fierce pike exist side by side in perfect harmony.
+~
+229 0 0
+D2
+ You see the boat dock.~
+~
+0 0 22912
+D3
+ The middle of the lake.~
+~
+0 0 22914
+S
+#22914
+Middle of the Lake~
+  Here in the middle of the lake all is quiet and relaxing.  Just north of 
+you is the island you spotted from the boat dock.  It looks like the perfect
+place for a picnic.
+~
+229 0 0
+D0
+You see a small island.~
+~
+0 0 22915
+D1
+The lake continues here.~
+~
+0 0 22913
+S
+#22915
+honeymoon Island~
+   This is a beautiful little island covered with tall trees to give you
+shade from the noonday sun.  Under a large oak a blanket is spread out and
+two picnic baskets await you.  The management seems to have thought of
+everything.
+~
+229 0 0
+D0
+You see a small island.~
+~
+0 0 22916
+D2
+~
+~
+0 0 22914
+S
+#22916
+Under the Oak~
+   You settle down under the oak for a lovely picnic.  Inside the basket 
+you find all your favorite foods.  How did they know that.  You also find
+a note that says, "May your lives always be as full as these baskets. Please
+keep them as our honeymoon gift to you"  
+                                         Signed  HR Management.
+~
+229 0 0
+D2
+~
+~
+0 0 22915
+S
+#22921
+The Bedroom~
+  This is a bedroom from your fantasies. There is a gigantic bed in the
+center of the room that must be 12 feet to a side.  The bed is covered with
+satin sheets, and mounds of fluffy pillows are heaped on the bed and around
+on the floor.
+~
+229 0 0
+D0
+A large shower looks inviting.~
+~
+0 0 22924
+D1
+ You see a large balcony that overlooks the downstairs.~
+~
+0 0 22922
+D5
+ Down is the main cottage area~
+~
+0 0 22904
+S
+#22922
+Balcony~
+  Here the balcony looks down over the main cottage area.  In front of you
+is the top of the champaign glass.  It seems to be filled with bubbly
+liquid of some type.
+~
+229 0 0
+D3
+The main bedroom area.~
+~
+0 0 22921
+D5
+ Lots of bubbly liquid awaits you.~
+~
+0 0 22923
+S
+#22923
+In the Champaign Glass~
+   The glass is filled with some type of bubbly water that gives you
+the most curious sensations as you sit down and relax in its curved sides.
+~
+229 0 0
+D4
+Above you is the balcony.~
+~
+0 0 22922
+S
+#22924
+The Shower~
+  A large shower with multiple showerheads dominates this room.  Just the
+thing after a long day (or night) to refresh you and get your going again.
+~
+229 0 0
+D2
+ You see the master bedroom.~
+~
+0 0 22921
+S
+#22925
+Under Water~
+  Beneath the clear blue water of the pool are many small lights.  The
+give off a beautiful glow the illuminates the whole pool.  You look around
+and see your Love floating beside you.
+~
+229 0 0
+D4
+~
+~
+0 0 22907
+S
+#99999
+$~

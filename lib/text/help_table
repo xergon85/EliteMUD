@@ -1,0 +1,4198 @@
+! ^
+
+Use ! to repeat the last command typed at the keyboard.
+
+Use ^ to replace a string from the last command with a new string.  The
+syntax is the same as in csh: "^old-string^replacement"  For example:
+
+> tell rasmusse Hi there, how are you?
+No-one by that name here.
+
+> ^rasmusse^rasmussen
+You tell Rasmussen, 'Hi there, how are you?'
+
+> ^you^you doing^
+You tell Rasmussen, 'Hi there, how are you doing?'
+#
+2-MULTI-CLASS MULTI
+
+One class isn't enough for some so they try to get the most out of two.
+#
+3-MULTI-CLASS MULTI
+
+Trying to master 3 classes isn't easy.  But when it is done there isn't 
+much you can't do.
+#
+AC
+
+"AC" is your armor class.  It is a number from -10 to 10, roughly
+defined as follows:
+
+  10 Naked person
+   0 Badly armored
+ -10 Average armored.
+ -20 Good armored
+ -30 Well armored
+ -40 Strongly armored
+ -50 For almost all mobs impossible to hit
+ -60 Armored battle tank :)
+
+The score command displays your armor class as a number such as 78/10;
+this means 78 on a scale from 100 down (i.e., 7.8 on the 10-scale)
+
+See also:  SCORE STAT
+#
+"ACID BREATH"
+Usage           : cast 'acid breath' : cast 59
+Damage          : Explained below
+Cost            : 100 Mn
+Duration        : instant
+
+   This is an Area Affect spell.  The damage basically boils down to 
+this:  max of 1d(caster's hp/4) and 10
+#
+ACTIVATE
+
+If you cant enter portal, you need to activate it with special item (key)
+which fits this portal. For example:
+
+>activate moongate
+
+#
+"ADVANCED MARTIAL ARTS" 
+
+As a ninja progresses and masters Ninjitsu, they learn a multitude of 
+deadly kicks, punches, and strikes. Each technique is learned and then 
+applicable to the Ninjitsu they already know bestowing bonuses in damage 
+to their attacks. These bonuses in damage are only applicable to attacks 
+made via Ninjitsu.
+
+SEE NINJITSU, AMA TABLE
+#
+ALIAS
+
+This is a quite powerful command for those of you who doesn't have a
+client program like tintin++.
+Make your own aliases.  Shorten down often used and long names.
+
+> alias [SHORT] [REPLACE]  or  alias [load|save|clear]
+> alias k kill
+> k fido (Will be: kill fido)
+> alias z zugerunerweisen
+> rescue z
+> alias rr recite recall
+
+To remove the alias rr:
+> alias rr
+
+You can also define multicommands with alias:
+> alias ge get bread bag & eat bread
+> alias befriend shake %&smile %&kiss %&french %
+> befriend Rigel
+
+See also: TOGGLE SPEEDWALK SAVE
+#
+AMA TABLE
+
+Attack Name                  (In English)                    Level Gained
+
+choku-tsuki                   straight punch                           30
+haishu                        backhand strike                          33
+dan-tsuki                     double punch                             35
+haito                         ridge-hand strike                        37
+gyaku-tsuki                   reverse punch                            40
+hasami-tsuki                  scissors punch                           42
+hiraken                       fore-knuckle fist                        45
+keage                         snap kick                                48
+ippon-ien                     one-knuckle fist strike                  51
+heiko-tsuki                   parallel punch                           53
+oi-tsuki                      lunge punch                              55
+yoko-geri                     side kick                                58
+mae-geri                      front kick                               60
+tate-uchi                     vertical strike                          62
+empi-ate                      elbow smash                              65
+nukite                        spear hand                               67
+mawashi-tsuki                 roundhouse punch                         69
+mawashi-geri                  roundhouse kick                          71
+uraken                        back-fist strike                         74
+usiro-geri                    back kick                                78
+kekomi                        thrust kick                              80
+soto mawashi-uchi             outside circular strike                  82
+mikazuki-geri                 crescent kick                            85
+tobi-geri                     jump kick                                87
+tate-tsuki                    upwards punch                            90
+gyaku mikazuki-geri           reverse crescent kick                    93
+washide                       eagle-hand strike                        95
+shuti-uchi                    knife-hand strike                        98
+hiza-ate                      knee smash                              100
+kentsui                       hammer-fist strike                      105
+yama-tsuki                    mountain strike                         107
+#
+"ANIMATE DEAD"
+Usage          : cast 'animate dead' corpse : cast 54 corpse
+Effect         : Raises a corpse to life
+Cost           : 150 Mn
+Duration       : Instant
+
+When cast, this spell will raise a corpse to life as an undead
+servant of the caster.
+#
+ANSI COLOR
+
+If you have a color-capable terminal and wish to see useful color-coding
+of information, use the COLOR command to set the level of coloring you 
+see.
+
+> color off
+This command disables all color.
+
+> color sparse
+> color normal
+> color complete
+
+These three commands turn color on to various levels.  Experiment to see
+which level suits your personal taste.
+
+Using color will slow down the speed at which you see messages VERY 
+slightly.  The effect is more noticable on slower connections.  Even if 
+you have color turned on, non-colorized messages will not be slowed down 
+at all.
+
+> color test
+
+See also: SCREEN TOGGLE DISPLAY COLORS
+#
+"ARC FIRE"
+Usage           : cast 'arc fire' <victim> : cast 48 <victim>
+Damage          : 1d6 + level/2 (max 20)
+Duration        : instant
+Cost            : 11 Mn
+#
+AREA AREAS
+For a list of some of the areas on EliteMud and an approximate level
+ranges type HELP AREA LIST.
+
+To see who wrote which zone, type HELP AREA CREDITS.
+
+To find out about becoming a builder on EliteMud, type HELP BUILDERS.
+
+#
+"AREA LIST"
+The level ranges stated in this list are very approximate - and depend
+heavily upon the class and equipment you are using. When you're 
+exploring a new zone make sure to take recall scrolls and set your 
+wimpy nice and high.
+
+Newbie Zoo                     [#Rnewbie#N]
+Dirt Path                      [#Rnewbie#N]
+North Road                     [#Rnewbie#N]
+Catacombs                      [#Rnewbie#N]
+Troglodytes                    [#Ylow#N]
+Hobbit Village                 [#Ylow#N]
+Lizardman Village              [#Ylow#N]
+Sewers                         [#Ylow#N]
+Moria                          [#Ylow#N]
+Assassins                      [#Ylow#N]
+Bandits                        [#Ylow#N]
+New Arachnos                   [#Ylow#N]
+Hobgoblin Mines                [#Ylow#N]
+Rome                           [#Ylow#N]
+Dwarfen Empire                 [#Ylow#N]
+Village of the Merkins         [#Ylow#N-#Mmedium#N]
+Elemental Canyon               [#Ylow#N-#Mmedium#N]
+The Lost City of Delray        [#Ylow#N-#Mmedium#N]
+Chess board                    [#Ylow#N-#Mmedium#N]
+Graveyard and Undertemple      [#Ylow#N-#Mmedium#N]
+Fairies                        [#Mmedium#N]
+Minotaurs                      [#Mmedium#N]
+Elven Archers                  [#Mmedium#N]
+Pyramid                        [#Mmedium#N]
+Black Lagoon                   [#Mmedium#N]
+Ultima Yew Forest              [#Mmedium#N]
+Draconia                       [#Mmedium#N]
+Gigantia                       [#Mmedium#N]
+Illir                          [#Mmedium#N]
+Psionicist School              [#Mmedium#N]
+Tynstri                        [#Mmedium#N-#Gv.high#N]
+Shaalziran'dar                 [#Mmedium#N-#Gv.high#N]
+Ancient Battlefield            [#Chigh#N]
+Tower of Sorcery               [#Chigh#N]
+Barrow of the Crimson Fists    [#Chigh#N]
+Ultima Dungeon                 [#Chigh#N]
+Stanneg                        [#Chigh#N]
+Gragloy Castle                 [#Chigh#N]
+Ultima Desert                  [#Chigh#N]
+Werehome                       [#Chigh#N]
+Ogres                          [#Chigh#N]
+New Japan                      [#Chigh#N]
+Trolls                         [#Chigh#N]
+Swamp                          [#Chigh#N]
+Welmars Castle                 [#Chigh#N]
+Rage of the Gods               [#Chigh#N]
+Galaxy                         [#Chigh#N]
+Ultima                         [#Ylow#N-#Gv.high#N]
+Small Temple                   [#Chigh#N-#Gv.high#N]
+Heaven                         [#Chigh#N-#Gv.high#N]
+Storm Dragon Fortress          [#Gv.high#N]
+Dwarf'n'Glob Iron Mill         [#Gv.high#N]
+Dwarfen Undermountain Harbour [#Gv.high#N]
+Hell                           [#Gv.high#N]
+Elysium                        [#Gv.high#N]
+
+Approximate level ranges:
+                            [#Rnewbie 0-5#N]
+                            [#Ylow 5-30#N]
+                            [#M#Mmedium#N 30-60#N]
+                            [#Chigh 60-90#N]
+                            [#Gv.high 90+#N]
+                            
+                            
+#
+"AREA CREDITS"
+What would Elite be without areas? We'd like to thank some of out
+fabulously creative builders for their hard work and dedication. If
+you'd like your name to be added to this list, it's simple - just
+build us an area! 
+
+
+Ancient Battlefield                       Crimh
+Arachnos                                  Mahatma*
+Barrow of the Crimson Fists               Amok
+Book of Fables                            Mystery 
+Book of Nursery Rhymes                    Kaleen 
+Crete                                     Mahatma*
+Demon Empire                              Crimh
+Drow City                                 Rorschach*
+Dwarfen Empire                            Jellie
+Dwarf'n'Glob Iron Mill                    Egba
+Dwarfen Undermountain Harbour             Egba
+Eastern Desert                            Rorschach*
+Elysium Faire                             Jellie
+Fairy Village                             HeaVen & Link 
+Gigantia                                  Rasputen 
+Gragloy Castle                            Link
+Gnome Village Extension                   Jellie
+Heaven                                    Devon & Skarek
+Lizardman Hometown                        Nostromo 
+Ma Glob's Dancing Parlor                  Egba
+Moria                                     Diku*
+Midgaard                                  Circle*
+Northern Woods                            Kaleen & Jellie
+Psionicists                               Wulf
+Pyramid                                   Andersen*
+Rage of the Gods                          Amok
+Rand's Tower                              C.A.W*
+Redfernes residence                       Diku*
+Rome                                      Jellie
+Sewers                                    Circle*
+Shaalziran'dar                            Phobos
+Stanneg                                   Jellie
+Storm Dragons Fortress                    Garrion
+Thalos                                    Rorschach*
+The Elven City of Illir                   Khazad
+The Jungle                                Kaleen
+The Library                               Kaleen 
+The Lost City of Delray                   Amok
+The Newbie Zoo                            Kaleen 
+The River of Midgaard                     Kaleen 
+The Vast Ocean                            Kaleen
+The Village of Miqi'erke                  Kaleen
+Tower of Sorcery                          Circle*
+Troll Caves                               Ember
+Village of the Merkins                    Amok
+Village of Tynstri                        Jellie
+Welmar's Castle                           Circle*
+Welmar's Castle Extension                 Bauhaus & Jellie
+Werehome                                  Amok
+
+Areas marked * were not custom-made for EliteMud.
+#
+ARENA WARGAMES WARGAME JOIN SHOOT
+
+   The Arena is the home of the Wargames. To play a game, just type 
+"wargame" to see the current game's status, if any, and if there isn't 
+one running, type "wargame start". You'll notice you have other options, 
+as well, namely, teams, ammo, and hits.  These are all pretty much self 
+explanatory. Simply type "wargame ammo #" to change the amount of 
+ammunition a player has, "wargame hits #" to change the amount of hits a 
+player can sustain before being eliminated, and "wargame teams #" for 
+however many teams you might like. (0 is the default, and should be used 
+for a free-for-all type game) When a game begins, type "join" and you 
+will be transported to the Arena. Once all the players have joined, the 
+gamesmaster should type "wargame run". Once the game begins, an exit will 
+appear. You may shoot your opponent from up to three rooms away, but, as 
+the distance increases, your accuracy will suffer. You only have a 
+limited number of shots, so use them carefully. 
+
+   To attempt to hit a player, use the command "shoot <player>". If he is 
+in a room west of you, for example, the command "shoot <player> w" will 
+allow you to snipe him. However, if you miss him, he will be alerted to 
+your presence. 
+
+   You will be eliminated after being hit twice, and will be transported 
+back to the temple of Midgaard. If both players use up all shots, the 
+match goes into sudden death, and each player has 99 shots. Level does 
+not matter, immortals and newbies can play alike, although some skills 
+will be beneficial, such as sneak, hide, and scout. Immortals of course, 
+are forbidden to use potentially useful commands not available to 
+mortals. The results of the match, as well as events such as a player 
+getting wounded, are broadcast throughout the arena zone. 
+
+   A spectators room is available for those who wish to yell encouragement,
+taunts, and the like, as well as keep abreast of current wargame happenings. 
+This room, which contains an arena board, is up and south from the Temple 
+of Midgaard. 
+
+   Enjoy! 
+#
+"ARMOR"
+Usage            : cast 'armor' <victim> : cast 1 <victim>
+Effect           : -20 AC
+Cost             : 12 Mn
+Duration         : 25 hours
+#
+ASSASSIN
+
+Combining the power of the warrior with the subtlety of the thief, these
+fighters make deadly opponents. Death by poison or by blade, nothing
+is too difficult for the right price.
+
+You can improve your skills by using the practice command in Thief Guild.
+
+See also: PRACTICE, GUILD, MIDGAARD
+
+#
+ASSIST
+
+Usage: ASSIST <person in need>
+
+If Quifael is being beaten senseless by a warg and you feel brave enough
+to help him, type ASSIST QUIFAEL to hit the warg.  Note that the warg 
+will keep hitting Quifael; assist only makes you start to fight whomever 
+you're trying to assist.
+
+This command is very usefull while grouped.
+
+> assist quifael
+
+See also:  RESCUE, FLEE, GROUP
+#
+AUCTION GOSSIP CHAT GRAT NEWBIE
+
+These are channels reserved for specific purposes.  Messages on these
+channels reach everyone who is monitoring them.  You must be at least 
+level two to use these channels.
+
+Don't use colorful language on chat, or you might get muted by an 
+Immortal.
+
+auction <string>
+newbie <string>
+gossip <string>   (Or ,<string>)
+chat <string>     (Or .<string>)
+
+> auction short sword -- minimum bid 100k
+> gos Hey, is that a short sword on your belt or are you happy to see me?
+> grat LEVEL!!!!!!!!
+> grat GRATS!!!!!!!
+> newbie Where i can find some lvl 5 eq?
+> newbie Any lvl 10 who want sapphire ring for free go 1u from temple
+
+auction gossip chat without parameters shows 10 previous messages
+was on this channel.
+
+>auc
+[Saler]  Pool cue? Hmm have one spared
+[Saler]  ok 500k
+[Client]  500k
+[Saler]  1
+[Saler]  2
+[Saler]  3... sold temple
+[Player]  what was for sale?
+[Saler]  Pool cue
+[Player]  sold? for 500k?
+[Player]  Gotta selfdelete... :(
+
+See also:  SAY GTELL TOGGLE REPEAT
+#
+AUTOASSIST
+
+When you have AUTOASSIST flag toggled on, you authomatically assist 
+people from your group. If your group is already fighting when you 
+arrived in room, you join battle as well.
+
+See also: TOGGLE ASSIST GROUP
+
+#
+BACKSTAB
+
+Rogues only.
+
+Backstab is a way to sneak up on a person and attempt to place your 
+dagger in his back, at exactly the point where it does most damage.  A 
+successful backstab gives a damage multiplier, depending on level.
+The chance of successfully backstabbing a person depends on how well you
+have practiced backstab at your guild.  You can always backstab sleeping
+people.
+
+See also: CIRCLE
+#
+BANK WITHDRAW DEPOSIT BALANCE
+
+Commands to take money out of the bank, put money in the bank, or see how
+much money you have in the bank.  Can be used at any branch of the First
+National Bank of EliteMUD (wherever you see an automatic teller machine).
+
+> deposit 400
+> withdraw 1000
+> balance
+
+#
+BARD
+
+Jack of all trades, master of none. Through their travelling, these
+entertainers have picked a variety of skills and spells from other
+classes. They know enough of everything to get by.
+
+    You can improve your spells and skills by using the practice
+command in Thief Guild.
+
+See also: PRACTICE, GUILD, MIDGAARD
+
+#
+BASH
+
+Fighters only.
+The success of a bash depends upon how well you are learned. To bash 
+someone is to attempt to 'knock' that person over. If you succeed you 
+will inflict minor damage, and cause the victim to fall on it's rear.  If 
+you miss you loose your balance and fall.
+
+A bash makes you unable to type commands for 2 rounds of violence.
+
+Bash can also be used to bash down closed doors.  This will do a small 
+amout of damage to your health.
+
+Fighters See Also : Rescue, Kick
+#
+"BATTLE TACTICS"
+
+Veterans know the benefict of tactics.  Even for a small group, fighting
+strategically is always a benefit.  If you are a leader of a group, you 
+will automatically use this skill to aid your party in battle by shouting 
+orders to them.
+#
+BERZERK
+
+Warriors, Cavaliers and Mariners only.
+Your adrenaline will flow through your veins and you will hit the foes
+harder and faster and meaner until they die OR you do.  Fleeing is out
+of the question, and you will also be easier to hit.
+
+> berzerk
+#
+"BLESS"
+Usage            : cast 'bless' <victim> : cast 3 <victim>
+Effect           : +2 to Hitroll, +5 to magic resistance
+Cost             : 8 Mn
+Duration         : 7 hours
+#
+BLINDFIGHT
+
+This skill enables you to continue fighting although you have been
+blinded.
+#
+"BLINDNESS"
+Usage            : cast 'blindness' <target> : cast 4 <target>
+Effect           : -4 Hitroll and +40 AC + target become BLIND.
+Cost             : 13 Mn
+Duration         : 2 hours
+
+This spell will fail if the target is higher level than the caster
+or if the target saves against magic.
+#
+BLUDGEON
+
+A general skill for all classes.  The knowledge of how to use bludgeoning
+weapons like hammers, clubs etc.  You will have a greater chance of
+hitting your enemy with a bludgeoning weapon.
+
+See also:  PIERCE SLASH STAB CHOP
+#
+BOARD
+
+A board is where you can post a message for everyone to read. Most boards
+are in the librare, but there are also some boards by the guilds and in
+the clanhouses.
+
+> read board
+> read #
+> write <headline>
+> remove #
+
+See Also: WRITE, MIDGAARD
+#
+BOT
+
+A BOT is a player who uses a script to cast beneficial spells on 
+other (less fortunate) people. Bots may be public (in which case
+they are often located 2u from the temple) or may be limited to
+certain clans, groups or individuals.
+
+NOTE: If you are Botting, you MAY NOT do so unattended. Immortals
+may check bots at any time, and if a timely response is not
+forthcoming, they may be jailed.
+
+#
+BRIEF
+
+When in brief mode, you don't see the descriptions of the room you are 
+in; only the name of the room and the people and objects there.  Unless 
+you're very familiar with the area in which you're travelling, however, 
+it is not advisable to use this command.  Frequently, you will find small 
+but vital hints in the descriptions of the rooms: An extra peek at your 
+surroundings could mean the difference between life and death!
+
+> TOGGLE BRIEF
+
+See also: TOGGLE COMPACT
+#
+BUILDER BUILDERS BUILDING
+
+So you'd like to be a builder at Elite?  First you need an idea;
+something interesting, exciting, unique, and well-planned.  Then you'll
+have to follow through with that idea and turn it into reality.  We'd
+like to have some of the most creative and original areas here at Elite,
+and we'll need your help to do that.  Becoming a builder can be quite
+rewarding, it's a great feeling to have people running through your
+latest creation, wondering how someone could be insane enough to write
+such a unique area!
+
+Please note that building does not require #rany#N coding experience!
+
+It's quite easy to learn, and we have a wide range of help files and
+tools available to anyone who'd like to give it a shot.  Don't be
+discourage if you've never built before.  Some of our best areas have
+been created by first-time builders.
+
+The first step you'll need to take on your way to becoming a builder is
+submitting an area proposal.  This can be one of the most difficult
+steps in a sometimes very long process.  You'll need to mail the
+following information to #gGlob#N. (email or mudmail)
+
+    1) The proposed name for your area
+    2) Approximate number of rooms needed
+    3) A description of the theme (or story) behind the area
+    4) A sample room description
+    5) A sample mob description
+    6) A sample object description
+    7) Any additional information that might be useful for helping to
+       visualize your area
+    
+Your proposal will be reviewed by the current builders, and you should
+receive a reply within 2 weeks from initial submission.  Don't be
+discouraged if your original proposal is not accepted, with work that
+idea could eventually turn into reality.
+
+Once your proposal is accepted, you will receive a zone number (or
+numbers if necessary) so you may begin work.  You will be allowed a
+reasonable amount of time to build your area.  In cases where an area is
+taking an unusually long time to be built, you may be contacted.
+Because we are currently limited by the number of available zones, your
+zone numbers may be reassigned if you do not respond.
+
+Be aware that there are a few things that must be done before your area
+is implemented:
+
+    1) The area must be free of all grammar and spelling errors.
+    2) The area must be playtested.
+    3) All mobs and objects must be approved by the appropriate groups.
+    4) A formal walkthrough must be completed.
+    5) A map must be submitted (in text or image format).
+
+If you have any questions regarding building, the best way to get
+answers is to either contact one of the members of the World Group
+(check the immlist for some names) or email Glob.
+Additional building information can be found at 
+"#Chttp://hemsidor.torget.se/users/e/Egba/BuildDoc/index.html#N"
+#
+BUG TYPO IDEA
+
+For making useful suggestions to the Powers that Be.
+
+{bug | typo | idea} <text>
+
+> bug the entire game crashes when I type 'put bag in bag'
+> idea make a restaurant in Midgaard
+> typo 'sence' should be spelled 'sense'
+#
+"BURNING HANDS"
+Usage           : cast 'burning hands' <victim> : cast 5 <victim>
+Damage          : 3d8 + 3
+Cost            : 12 Mn
+Duration        : instant
+#
+BUY SELL LIST VALUE
+
+Commands for the shops - very useful too!
+
+See: SHOP
+#
+"CALL LIGHTNING"
+Usage           : cast 'call lightning' <victim> : cast 6 <victim>
+Damage          : 7d8 + 7
+Cost            : 25 Mn
+Duration        : instant
+#
+CAST
+For "magical" people. If you want to throw a spell at someone or 
+something.
+
+Example : cast 'burning hands' <player>
+   Note that the name of the spell must be enclosed by "'"s.
+
+You can also get the spellnumber and use this format:
+
+cast SPELLNR <TARGET>
+> cast 26 fido -> cast 'fireball' fido -> BARBEQUE PARTY
+
+#
+"CAT EYES"
+Usage            : cast 'cat eyes' : cast 47
+Effect           : Gives target ability to see in the dark
+Cost             : 12 Mn
+Duration         : 15 hrs
+
+Only possible to use on yourself.
+#
+CAVALIER
+
+Cavaliers are warriors for hire.  They are veterans of many battles who
+will work for anyone who offers them a large enough incentive.
+
+    You can improve your skills by using the practice command in Warrior
+Guild.
+
+See also: PRACTICE, GUILD, MIDGAARD
+
+#
+"CLAN TUTORIAL" CLAN
+ 
+Welcome to EliteMud Clan Code Tutorial.
+ 
+For more info on certain topics, type the following:
+CLAN HELP <TOPIC>  or   HELP CLAN <TOPIC>
+ 
+Choose one of the following topics:
+        GENERAL         FOUNDATION      RULES           COMMANDS
+        DEITY           HOUSE           RANKS           PROBATION
+        MOB             EQ              SHOPKEEPER
+#
+"CLAN GENERAL"
+
+Elite clans are based on membership and ranks.  You can only be a 
+member of one clan (at a time).  What you do for the clan and what 
+the clan requires from you is totally dependent on the rules of the 
+clan and who is leading it.  To apply to join a clan, you have to be 
+level 10 or greater.  Each clan may have a different minimum level 
+for membership, so check the clan's info.
+
+#
+"CLAN FOUNDATION" 
+
+To be able to found and run a clan, certain criteria must be 
+fulfilled from you.  In general, you should be an experienced player 
+and know EliteMud fairly well.  You must be able and willing to take
+responsibility for what you and your members do and practice as a 
+clan.  You must know the clan rules, and follow them.  If interested, 
+please contact the immortal in charge of clans to start the application 
+process.
+
+The details of what you will need on the application include:
+        1.  An original theme. <must be a medieval or fantasy theme,
+            one which will not clash with the theming of Elite.>
+        2.  A name and color scheme for your clan.
+        3.  The 20 names of the characters wishing to form the clan
+            <Multis do not count in the orginal 20.  An immortal member 
+            is highly recommended, but is not required.>
+        4.  A listing of the proposed clan ranks and start up 
+            officers.
+        5.  A clan info as it would be listed if the clan was accepted.
+        6.  A clan symbol
+
+A fee of 200M gold and 5 QPs will be charged if your clan gets accepted.  Be 
+sure to have this readily available.
+
+For details on what your fee will entitle you to:
+See Also:  CLAN HOUSE
+
+#
+"CLAN RULES"
+
+These rules are subject to change.  All changes will be posted on the 
+main clan board, so be sure to check it ever now and then.
+
+* Clans may not in any way contribute to an anti-social behaviour.
+* Within the clan, the clan rules are followed, assuming they do 
+  follow the general EliteMud policies. ( use: POLICY command )
+* The clan leader(s) are responsible for all members.  Members who 
+  break the clan rules should be dealt with accordingly by the 
+  leaders of that clan.
+
+#
+"CLAN COMMANDS"
+
+By using the command CLAN, you will get a list of the clan 
+subcommands you can use.  As you raise in ranks in your clan, you
+will get more.
+
+Short descriptions of what some subcommands do:
+        APPLY   You apply for membership with this clan.
+                > clan apply <clan vnum>
+        INFO    Info about the clans.  Their vnums, rules, stats
+                and more.
+                > clan info
+                > clan info <clan vnum>
+        SYMBOL  Shows clan symbol.
+                > clan symbol <clan vnum>
+        HELP    Help on clan system.
+        TITLE   Will toggle the display of your clan name and rank in 
+                the who list.
+        RESIGN  You will leave you clan unconditionally.  If you are 
+                not happy with your clan, use this command.
+        ENLIST  Enrolls a character into your clan.
+                >clan enlist <character>
+        RAISE   Advance a clan member to the next higher clan level.
+                >clan raise <character>
+        DEMOTE  Lower a clan member to the next lower clan level.
+        EXPEL   Remove a clan member from your clan.
+        TELL    The clan's communication channel.
+                > ct "<message>"
+                or, for ctell only for ppl with your clan lvl or 
+                above:
+                >ct #<clan level> <message>
+                Without parameters it show a last 10 messages you
+                heard on ctell:
+                >ct
+                [Member (2)] Hi clan
+                [Leader (2)] Hi Member :)
+                [Leader (5)] I think he deserved to be promoted
+                [Remort (5)] No, I think hes a moron.
+                [Immo   (9)] Hey Leader, leave this up to me.
+         WHO    Lists the clan members currently in the game.
+         ROSTER Shows list of members in clan you ask about.
+                >clan roster <clan vnum>
+         POWER  Shows the activity of all the clans during that 
+                particular reboot period.
+
+#
+"CLAN DEITY"
+
+A immortal may choose to be your clan 'deity', or immortal leader.
+He/She will be the voice of your clan in the immortal realm.  The 
+immortal may only be part of discipliniary action or answer 
+questions.  He/she is to see that the clan rules and EliteMUD policy 
+are followed.  Immorts MAY NOT:
+        retrieve corpses
+        load equipment
+        help in mob killing
+        or in any other way break the general Imm rules.
+
+#
+"CLAN HOUSE"
+
+Costs of renovations or new construction:
+   #cBasic clan house                               200M/5QPs#N
+       #c*#N 10 Rooms (1 Donation room, 1 Regen room)
+       #c*#N Clan Guard, Clan Board
+       
+   #cClan Rewrite (Name+info+ranks changes)         100M
+
+   #cClan info/rank/commands#N                        3M each
+
+   #cExtra rooms                                 Price per room#N
+       11-30                                         10M
+       31-50                                         15M
+       51-75                                         20M
+       76-99                                         30M
+       
+   #cRoom changes#N                                   5M
+
+   #cSpecial Flags                               Price per flag#N
+       silent, private, no_mob                      FREE
+       no_quit, no_summon                            10M
+       regen, lawfull, pkok, no_drop                 20M
+
+   #cSpecial Objects                             Price per obj#N
+       Container                                     10M
+       Statue                                        15M
+       Guard (can set for specific clanlevels)       20M
+       Board                                         25M
+       ATM                                           25M
+       Fountain                                      25M
+          #c*#N Custom Fountain                          35M
+
+   #cSpecial Mobs                                Price per mob#N
+       Mob                                           30M
+       Mob with actions                              35M
+       Shopkeeper w/ 3 items                         40M
+          #c*#N Additional items                       5M each
+
+  #c*#N Only one donation room per clan.
+
+For details on clan mob restrictions:
+See Also:  CLAN MOB
+
+#
+"CLAN RANKS"
+
+Each clan has ranks within it.  There are 10 ranks in each clan.  The
+ranking decides what you can do and what responsibilities you have.   
+This is a sample standard ranking:
+
+        Applying
+        New member
+        Member
+        Soldier
+        Adept
+        Advisor
+        Counselor
+        Ruler
+        Queen
+        Deity
+
+They may have different names though, depending on the clan.
+
+#
+"CLAN PROBATION"
+
+After being approved to form a clan, the newly formed clan will be 
+put on one month's probation.  In this time the clan will be reviewed 
+by the #CClan Group#N.  The rest is subjective.  Some of the subjective 
+items could include *but are not limited to*:  organization, leadership, 
+interclan relations, activity.  Also, current clans will be reviewed 
+as needed.  Any clan which does not show improvement while on probation 
+will be deleted.
+
+#
+"CLAN MOB"
+
+The Clan Group is proud to announce a new addition to the list of 
+ways your clan can spend, spend, spend here on Elite.  
+
+  #CRestrictions#N
+
+1. Mobs must be level 109 (immune to summon, charm)
+2. Mobs must be sentinel.
+3. Mobs will have stats comparable with guildmasters and other 
+   shopkeepers
+4. Mobs will have 0 exp assigned.
+5. Mobs may be shopkeepers such as bartenders (Shopkeepers
+   come with a free LAWFUL flag)
+6. Mobs can not buy items
+7. Mobs can not use the public channels
+8. Mob actions can not be offensive.
+
+Clans can buy a maximum of one (1) shopkeeper and three (3) other 
+(non-shopkeeper) mobs.  No clan will be allowed more than a total of 
+four (4) clan mobs.
+
+  #CShopkeeper Standards#N
+
+Shopkeepers for clans may not sell items at prices that are below 
+the going price in town.  If bread is 10 gold at the Baker, clan 
+shopkeepers can also sell bread for 10 gold.  Shopkeepers can not 
+sell equipment of any kind.
+
+They can sell a maximum of ten (10) items.  These may include 
+original food or drink items, or potions, wands or scrolls sold 
+in other shops around the Mud. All items are flagged for the 
+particular clans use only.
+
+
+  #CRequesting Clan Mobs#N
+
+All requests should be sent to the Clan Group for review.  Once 
+everything is approved, the mobs will be added to your clan's files, 
+tested and put in for the next reboot.
+
+   The following should be sent with your request:
+        1. Mob decriptions
+        2. Actions (for mobs with actions)
+        3. List of items sold and prices (for shopkeepers)
+        4. Room the mob will load into
+#
+"CLAN SHOPKEEPER" "CLAN EQ"
+This should not be confused with the shopkeeper in your clanhouse
+selling potions, food and scrolls. The Clan Shopkeeper lives next
+to the Clan Board in the Midgaard Library (swwnnnnne).
+
+Clans may have up to 3 special clan items, which will be identical
+in function to an existing piece of non-quest equipment. Members
+of that clan will be able to EXCHANGE one of the regular items, for
+its Clan Equivalent. The Exchange is free, but there is a one-off 
+cost of 50 million to create the special clan item.
+
+Example: Minions of Mokky create a Spider Shield, which is an
+exact copy of a Large Round Shield, for 50mil. Any member of
+Minions of Mokky can take a Large Round Shield to the Clan
+Shopkeeper, and exchange it for a Spider Shield, which only other
+members of their clan can use.
+
+How to use: Go to the Clan Equipment Shopkeeper in the Library
+and type "list". This shows a list of all your clans available
+equipment, and the item you need to bring to exchange for it.
+Drop the item on the ground, and type "exchange ##" where ## 
+is the number of the exchange you want to make.
+
+#
+CLASSES
+
+There are many different classes on Elite.
+
+  #MMagic-User  Mu  #RPsionicist  Ps  #yIllusionist Il  #mWizard      Wi
+  #GCleric      Cl  #gMonk        Mo  #GDruid       Dr  #bPaladin     Pa
+  #YThief       Th  #YBard        Ba  #rAssassin    As  #wNinja       Ni
+  #BWarrior     Wa  #CKnight      Kn  #GRanger      Ra  #cCavalier    Ca
+  #BMariner     Ma
+#N
+
+#
+CLERIC
+Clerics have an ancient belief in not carrying sharp weapons. Hence,
+they can only wield bludgeoning weapons. This class gives you the wisdom
+of peace, and the magics of blessing and healing, though it is possible
+to advance to utilise more violent spells.
+
+    You can improve your spells and skills by using the practice
+command in Cleric Guild.
+
+See also: PRACTICE, GUILD, MIDGAARD
+
+#
+"CHARM PERSON"
+Usage         : cast 'charm person' <victim> : cast 7 <victim>
+Cost          : 45 Mn
+Duration      : 10 Hours
+Save          : Save vs. Magic
+
+When cast, this spell will cause the target to follow the caster, and
+complete any task ordered of him by his master. This ONLY works with
+mobs though. :)
+
+To succed with this spell, you need to be higher level than the mob.
+#
+"CHILL TOUCH"
+
+Usage           : cast 'chill touch' <victim> : cast 8 <victim>
+Damage          : 1d6 + level/2 (max 20)
+Cost            : 11 Mn
+Duration        : instant for damage, see below for affections.
+
+Chill Touch has a victim affect of -1 strength for 4 hours, if the saving
+throw is not successful.  If the saving throw is successful, the 
+affection is -1 strength for 1 hour.
+#
+CHOP
+
+A general skill.  The knowledge of how to use chopping weapons like 
+different sorts of axes.  You will have a greater chance of hitting your 
+enemy with a chopping weapon.
+
+See also: PIERCE BLUDGEON SLASH STAB
+#
+"CIRCLE AROUND"
+
+This rogue skill is like backstab.  If the heat of a fight, you can try 
+to nimbly circle around your enemy's defenses and put your dagger in it's 
+neck.
+
+> circle
+#
+CLEAR CLS
+
+Clears the screen on many terminals.
+
+See Also: TOGGLE, DISPLAY
+
+#
+CLIMB
+
+There are many hills and mountains in the world that keeps most 
+adventurers away.  This skill will let you explore some of these 
+mountains.
+#
+COLORS
+
+In ELITE there is a color system implemented, which allows you to use 
+colors in your titles/messages etc.
+
+      Color for foreground shall be defined by
+            ##<color-letter>, where letter is:
+
+ #r##r - red        #b##b - blue      #y##y - yellow  #g##g - green
+ #c##c - cyan       #m##m - magenta   #w##w - white   #W##W and #N##N - normal
+
+ #R##R - dark red  #B##B - dark blue    #Y##Y - dark yellow #G##G - dark green
+ #C##C - dark cyan #M##M - dark magenta #e##e - dark grey#N
+
+     for ex: "##Ctest##rtest##N." looks as "#Ctest#rtest#N."
+
+      Important: Do not forget ##N in end of colored text.
+
+Colors for background are defined by
+  ##:<color_letter>.
+
+                      Examples:
+
+ ##:r##y  - #:r#y yellow on red#N
+
+ ##N returns background color to normal as well as foreground.
+
+
+WARNING: on some terminals colors worked incorrectly so please be aware:
+when using background colors your text can screw up terminals of other
+players.
+
+#
+"COLOR SPRAY"
+Usage           : cast 'color spray' <victim> : cast 10 <victim>
+Damage          : 2d12 + level + level/2 (max of 20)
+Cost            : 13 Mn
+Duration        : instant
+#
+COMMANDS
+
+A canonical list of all the commands known to you.
+
+> commands
+#
+COMPACT
+
+TOGGLE COMPACT toggles the extra blank line output to your screen after 
+each command.  Useful if you have a small display.
+
+See also: TOGGLE BRIEF
+#
+CONSIDER
+
+Usage : consider <monster>
+
+This command will compare your protection, health and Level with the
+<monsters> level. You will then receive a rough estimate, which is by
+no means exact.
+
+> consider fido
+#
+"CONTROL WEATHER"
+Usage         : cast 'control weather' better|worse : cast 11 
+                better|worse
+Cost          : 10 Mn
+Effect        : will alter the course of the weather
+#
+"CREATE FOOD"
+Usage            : cast 'create food' : cast 12
+Effect           : Creates one waybread, which satisfies your hunger.
+Cost             : 15 Mn
+#
+"CREATE WATER"
+
+Usage            : cast 'create water' <object> : cast 13 <object>
+Effect           : Completely fills an object with clear water.
+Cost             : 15 Mn
+#
+CIRCLE CIRCLEMUD CREDITS
+                    C  I  R  C  L  E  M  U  D     3  .  0
+
+CircleMUD was developed from DikuMUD (Gamma 0.0) by Jeremy "Ras" Elson at
+Johns Hopkins University's Department of Computer Science.  All code unique
+to CircleMUD is protected under a copyright by the Trustees of the Johns
+Hopkins University.
+
+Many, many people contributed to CircleMUD in one way or another throughout
+the course of its development.  Although it's impossible for me to remember
+them all, I'd like to extend special thanks to certain people:
+
+  -- Jeff Fink, for submitting a veritable mountain of excellent code.
+  -- Chris Epler and Chris Herringshaw for extensive beta-testing and bug
+     reporting.
+  -- Furry (Alex Fletcher), for single-handedly managing Circle's world files.
+  -- Fred Merkel, Ryan Watkins, Jay Levino, and Sharon Goza, for other
+     code and area submissions.
+  -- Jean-Jack Riethoven for porting the code to the Amiga, and David Carver
+     for porting it to OS/2.
+  -- Bill Bogstad and Tim Stearns for allowing Circle to exist at JHU.
+  -- The DikuMUD folk, and the good old WhatMUD implementors Dave & Justin,
+     for starting the ball rolling.
+  -- Bryan Jolson, Steven Lacher, Cat Stanton, and Naved Surve, for being 
+     there in the very early days of Circle's development.
+  -- And, of course, Sharon, Ben, Erica, Aly, and Josh, for keeping me sane.
+
+...plus everyone else in the Circle community who has submitted material!
+Thanks everyone!
+
+  Anonymous FTP:  ftp.cs.jhu.edu:pub/CircleMUD
+Author's E-Mail:  jelson@jhu.edu
+            URL:  http://www.cs.jhu.edu/~jelson/circle.html
+   Mailing List:  circle@pvv.unit.no
+#
+"CRITICAL HIT"
+
+As a rogue, you know where your enemies have their weak spots.  And you
+can use this knowledge to your advantage of course.
+#
+"CURE BLIND"
+Usage         : cast 'cure blind' <victim> : cast 14 <victim>
+Cost          : 14 Mn
+Duration      : Instant
+Effect        : Removes the effects of a blindness spell
+#
+"CURE CRITIC"
+Usage            : cast 'cure critic' <target> : cast 15 <target>
+Effect           : 3d8 + 3
+Cost             : 25 Mn
+Duration         : Instant
+
+A healing spell.
+#
+"CURE LIGHT"
+Usage            : cast 'cure light' <target> : cast 16 <target>
+Effect           : 1d8 + 1 + level / 16
+Cost             : 8 Mn
+Duration         : Instant
+
+A healing spell.
+#
+"CURSE"
+Usage          : cast 'curse' <victim> : cast 17 <victim>
+Duration       : 1 + level / 2
+Cost           : 12 Mn
+Effect         : -1 to hitroll
+
+Curses the victim and lowers its hitroll.
+#
+DATE
+
+Date will give you the current machine time. Good to use when deciding
+time for marriages etc.
+
+See Also: TIME
+#
+DEAF
+
+TOGGLE DEAF toggles whether or not you hear shouts.  (deaf) will appear 
+after your name in the WHO list.
+
+See also: FLAGS SHOUT WHO TOGGLE
+#
+"DEATH STRIKE"
+Usage           : cast 'death strike' <victim> : cast 76 <victim>
+Damage          : 500 through Sanctuary (if succeed).
+Cost            : 220 Mn
+Duration        : instantaneous
+
+   This powerful spell will, if it works, instantly slay your chosen 
+opponent.
+#
+DEMONS
+
+Demons are the manifestion of all that is evil in the world of elite.
+Feeding on the souls of the damned, they lack the mortal need for
+sustenance.  Living their entire lives shrouded in darkness, they remain
+unhampered by the mortal need for light to see.  Only those who prove 
+their vileness and cruelty can join the demons in their mission to defile 
+purity and goodness.  Many are rejected, and are doomed to spend their 
+lives hampered by the restraints of goodness. 
+
+#
+DESERT
+The desert, all expeditions to this place have never returned so nothing 
+to tell.
+#
+"DETECT ALIGNMENT"
+Usage            : cast 'detect alignment' : cast 18
+Effect           : Tells the caster the alignment of objs/mobs/players.
+Cost             : 16 Mn
+Duration         : 12 + level
+#
+"DETECT INVISIBILITY"
+Usage            : cast 'detect invisibility' : cast 19
+Effect           : Allows the caster to see the invisible.
+Cost             : 20 Mn
+Duration         : Level + 12 hours
+
+Only possible to cast on yourself.
+#
+"DETECT MAGIC"
+Usage            : cast 'detect magic' : cast 20
+Effect           : Allows the caster to detect magic
+Cost             : 6 Mn
+Duration         : 12 + level hrs
+
+Only possible to use on yourself.
+#
+"DETECT POISON"
+Usage            : cast 'detect poison' <target> : cast 21 <target>
+Effect           : Tells the caster if the target is healthy or poisoned. 
+Cost             : 24 Mn
+Duration         : Instant
+#
+"DETONATE"
+Usage           : cast 'detonate' <victim> : cast 98 <victim>
+Damage          : (2d10 + 10) * (level / 6) max lvl 75
+Cost            : 32 Mn
+Duration        : instant
+#
+DIAGNOSE
+
+diagnose
+diagnose <character>
+
+The DIAGNOSE command tells you how wounded a character looks.  If you are
+fighting someone, you can use DIAGNOSE with no arguments to diagnose the
+person you're fighting.
+
+> diagnose
+> diagnose rasmussen
+
+See Also: LOOK
+#
+DISARM
+
+This skill allows you to try to disarm your opponent.
+#
+"DISPEL EVIL"
+Usage           : cast 'dispel evil' <victim> : cast 22 <victim>
+Damage          : 6d8 + 6 to evil characters (see below)
+Cost            : 30 Mn
+Duration        : instant
+
+   This spell, when cast, will do damage to the victim if and only if the
+victim is evil and the caster is non evil. If the caster is evil, only
+the caster will receive damage.
+#
+DISPLAY
+
+Display format is: display [H|M|V|norm|all||none|vt|ansi]
+disp h      - display hp
+disp m      - display mana
+disp v      - display movement
+disp norm   - will reset to a prompt displaying Hp Mn Mv
+disp all    - display Hp/Mn/Mv/Victim-status
+          (format on your screen will be 100h | 102m | 97v > for example)
+disp vt     - vt100 term emulation(status will be at bottom of screen)
+disp ansi   - ansi terminal emulation
+
+See also RESIZE REDRAW
+#
+DODGE
+
+A thief skill that makes you able to dodge your enemy's attacks.  The 
+better you are the more attacks you can dodge.
+#
+DONATE
+
+This command takes an object that you no longer want and deposits it in 
+the donation room of Midgaard to assist newbies in getting started.  
+There is a 75% chance objects donated will wind up in a donation room in 
+Midgaard, and a 25% chance the item will be junked.
+
+donate <object>
+donate <number> coins
+
+> donate shield
+> donate all.bread
+> donate 500 coins
+
+See also: SACRIFICE DROP
+#
+DRACONIAN
+
+Draconians are the descendants of an ancient group of cursed dragons.
+They were created from the offspring of these dragons to serve the forces
+of evil, and most still do to this day.  They have the strength of
+their dragon ancestors, and many have their intelligence, but because
+each line of draconians evolved from a different kind of dragon there
+is much variation.  Draconians are similar in appearance to lizardmen,
+but they tend to have shorter tails or no tails at all.  They are
+capable of speech, but they share the tell-tale hiss of lizardmen.
+Draconians do not like to be compared to their lizardman cousins,
+believing that they are far superior to them in all ways.  They dislike
+humans end elves but has been known to associate with some of the more
+evil races.
+#
+DRAGON
+The Dragon race on Elite is a race so powerful, that one must endure
+a long and intense quest to attain it.  Dragons are strong fighters and
+magic users that, although are not very dexterous, have incredible
+strength and vitality.  It is said that they possess natural properties
+of armor in their extremely tough scales.  They also have the rare 
+ability to fly without the aid of magic.  
+
+#
+"DRAGON BREATH"
+Usage           : cast 'dragon breath' : cast 103
+Damage          : (1d20 + 10) * (level / 5)
+                  to all opponents in room.
+Cost            : 80 Mn
+Duration        : instant
+#
+"DRAGON MOUNTAINS"
+The Dragon Mountains is the west mountains. It got its name because of 
+all the dragons that roam this mountains
+#
+"DRAIN LIFE"
+Usage           : cast 'drain life' victim : cast 100 <victim>
+Damage          : (1d8 + 8) * (level / 5)
+Cost            : 45 Mn
+Duration        : instant
+
+You also regain (damage / 4) (max of 75) hitpoints.
+#
+DROP
+
+If you lose interest in a carried item, you can drop it on the ground.
+
+drop <item>
+drop all.<item>
+drop all
+drop <number> coins
+
+> drop bottle
+> drop all.bread
+> drop all
+> drop 1000 coins
+
+See also: GET SACRIFICE DONATE
+#
+DROW DARKELF
+
+The drow are an evil race of subterranean creatures that are closely
+related to elves.  They are cruel and cunning, preferring the darkness of
+dark smoky rooms to the sunny squares of Midgaard.  Drows are usually
+shorter than elves, and have much less variation in coloring.  Most drows
+have dark hair and dark eyes to match their dark souls.  Their eyesight
+has evolved tremendously in their time under the surface to be perfect
+for walking around caverns and caves without a light source, but they 
+tend to have trouble on the surface because of the relative brightness.  
+Drows are not well-liked by other races, but they don't seem to mind much 
+since the feeling is mutual.
+#
+DRUID
+
+Druids live in harmony with their prime deity - mother earth.  These
+priests have an innate knowledege of the forest and the natural magics
+of healing.
+
+    You can improve your spells and skills by using the practice
+command in Cleric Guild.
+
+See also: PRACTICE, GUILD, MIDGAARD
+
+#
+DUAL-CLASS DUAL
+
+When you are adept in your class, why not try a new trade?
+#
+"DUAL WEAPONS"
+
+This thief skill lets you attack with a second weapon held in your hand,
+but you can only attack with it once per round.
+#
+DUCK
+
+These creatures are about the same size as a halfling, but have a duck's 
+head. They are often sailors.  Though they speak common, their beaks 
+makes it sound awkward.  They should however always be considered armed 
+and dangerous.
+#
+DWARF
+
+Dwarves are a short and stocky race with strong arms and a will to match.
+Dwarven men have long beards while the women have short beards.  Both
+sexes normally have earth-colored skin and dark hair, though some dwarves
+have been found with fairer coloring.  The dwarves that live in Midgaard
+are mostly descendants of the mining dwarves from the mountains in the
+east, and share with them the ability to see well in the darkness of the
+caves and caverns.  Dwarves are fond of food and fight, and will indulge
+in both if allowed.  Their stubbornness often frustrates other races, but
+makes them wonderful comrades-in-arms.
+#
+"EARTHQUAKE"
+Usage           : cast 'earthquake' : cast 23
+Damage          : 2d8 + level/4 (max of 30)  TO all opponents in room
+Cost            : 20 Mn
+Duration        : instant
+#
+EAT DRINK SIP TASTE
+
+If you're hungry or thirsty, these commands are for you!
+
+> eat bread
+> taste bread
+> drink from cup
+> sip fountain
+#
+"ELEMENTAL CANNON"
+Usage           : cast 'elemental cannon' <victim> : cast 105 <victim>
+Damage          : (1d20 + 30) * (level / 5)
+Cost            : 75 Mn
+Duration        : instant
+#
+ELF
+
+Elves are slender creatures with pointed ears and graceful features.  
+Elven folk vary in coloration depending on their region of origin.  They 
+can be dark or fair or even blue-green with hair and eyes to match.  They 
+are an ancient race and consider themselves to be superior to all others
+because they believe that they were the first intelligent race of beings.
+Elves are long-lived and intelligent.  They are very interested in magic,
+and because of their long lives often become quite proficient at it.
+Elves tend to avoid their larger cousins, the humans, and try to avoid
+fighting when possible.  They prefer to use brain more than brawn, and
+are often quite successful at turning a foe away without even raising
+a sword.
+#
+EMOTE :
+
+Show people what you're feeling.  The shorthand is ":".
+
+"emote <string>" will display your name, then the string.  For example,
+if your name is "Quifael",
+
+> emote is feeling very sad today.
+
+will display:
+
+Quifael is feeling very sad today.
+
+See also: SOCIALS, SOCIAL
+#
+"ENCHANT WEAPON"
+Usage          : cast 'enchant weapon' <target> : cast 24 <target>
+Duration       : Permanent
+Cost           : 80 Mn
+Effect         : +2 Hitroll, +2 Damroll to the weapon.
+
+Also if the caster is evil, the weapon will become anti-good and if the 
+caster is good, the weapon becomes anti-evil.
+
+Enchant weapon, only works with non magical weapons. A weapon can't be
+re-enchanted.
+#
+"ENERGY DRAIN"
+Usage           : cast 'energy drain' <victim> : cast 25 <victim>
+Damage          : explained below
+Cost            : 20 Mn
+Duration        : instant
+
+   If the opponents level is less than 3, this spell will do 100 in 
+damage, otherwise it only does 1d10 in damage.
+#
+ENTER
+
+If you type 'enter' while you are outdoors, you'll enter any nearby 
+shelter.  You can also follow 'enter' with an argument; for example:
+
+>enter window
+
+When in room presents portal, you try to enter portal, for example:
+
+>enter moongate
+
+#
+ESCAPE
+
+This skill is the knowledge of how to avoid panic facing overwelming 
+enemies.  Instead of fleeing there is a chance that you may succed with 
+your escape, loosing no experience.  It is however a difficult skill.
+#
+ETHICS
+
+                      IMMORTAL CODE OF ETHICS
+
+I.     Be fair.  This doesn't just mean to try to act fair.  It also 
+       means avoiding situations in which your impartiality can be 
+       compromised.  These situations can include enforcing policy where 
+       clan members, friends, signifigant others or enemies are 
+       concerned.  If this means waiting until another non-involved 
+       immortal arrives, so be it.
+
+       A.  Fairness is more important than justice.
+       B.  If you are personally involved in a rules dispute, odds are 
+           you can't be fair.  Get another immortal to adjudicate it.
+       C.  Your immortal is a tool to be used to help the mud, not a 
+           bonus to help your mortals or the mortals of others.  This 
+           means you should avoid situations where your immortal gives 
+           you an edge in zones.  If you write a zone, try to avoid 
+           running it for items or experience until others get a chance.  
+           If you are online, resist the urge to log on a mortal when you 
+           see areas reset.
+
+II.    Listen.  Don't assume things about mortals, and don't act like 
+       they are stupid.  If they are talking to us, they have something 
+       important to say.
+
+III.   Understand.  Remember, a lot of things on a mud can make people
+       angry.  Try to understand why a mortal feels the way he does.
+       Put yourself in their shoes.
+
+IV.   Be considerate.  Having an immortal gives you a lot of clout in
+      discussions.  Use it, don't abuse it.  Always remember that you
+      are an immortal and represent Elite, even when you are playing
+      a mortal.
+
+      A.  A special note on consideration.  Remember, many of our users
+          speak english as their second language.  Be very courteous when
+          dealing with these people, and try your best to understand what
+          they are saying.  Sometimes this will mean asking another god 
+          to help.
+      B.  While there is nothing wrong with being invisible, try to be
+          visible when actually punishing mortals.  If you have reason
+          to be invisible, consider why;  you may have a conflict of
+          interest (such as the mortal hates you) and in this case, it
+          is better if you ask another immortal to help.
+
+V.    Use common sense.  Don't get angry when dealing with mortals.  It
+      only makes it worse.  If they are angry, let them blow off some
+      steam first.  If you are angry, stop dealing with them problem and
+      let someone else take care of it.  If people are unable to agree, 
+      never underestimate the value of compromise -- even if one person
+      is wrong.
+
+VI.   Don't make a mistake because you're afraid to ask questions.  If 
+      you don't know what to do, ask another immortal to help you.  Also, 
+      if you need to make a ruling, be sure to gather the facts before 
+      acting.  It's more important to answer the questions of "why" and 
+      "how" than the question of "who", and all your rulings should have 
+      a basis in fact, and not rhetoric or bias.
+
+VII.  The immortals are a team.  The best way for us to work is through
+      constructive work and constructive criticism.  If we have problems,
+      they should be solved among the immortals -- including the mortals
+      in our conflicts will only make them worse.
+
+VIII. EliteMUD is a hobby for all of us, just as it is a hobby for the
+      players.  All your actions should be guided by this concept;  this
+      is not a job, it is a game.
+
+#
+EQUIPMENT
+
+Gives you a list of all the equipment you're wearing, holding, and 
+wielding.
+
+See also: INVENTORY REMOVE WEAR HOLD WIELD
+#
+EXAMINE
+
+May give you some valuable information about an item.
+
+> exam girdle
+will show what is in the girdle.
+
+See also: LOOK
+#
+EXITS
+
+Gives you a list of the obvious exits from your location. Of course, the 
+less obvious ones won't show up here - you have to THINK in order to 
+locate those.
+#
+EXPERIENCE XP
+
+Whenever you kill a monster, you earn experience points. When
+enough experience points are earned, you raise a level.
+Things you should know about experience points:
+
+  * When damaging a monster, you get experience points.
+
+  * If you kill a monster of higher level than yourself, you get bonus
+    experience points. If killing a monster of lower level you'll gain
+    less experience points
+
+See Also: GROUP, LEVELS, LEVEL, SCORE, STAT
+#
+FAIRY FAIRIES
+
+Fairies are a magical race of woodland creatures that are believed to
+be descendants of the spirits of the forest themselves.  They are tiny,
+beautiful beings with gossamer wings and pointed ears.  Their hair
+and eyes have the same variation in color as the forest itself.  Fairies
+are weak because of their small size, but because they often live for
+several hundred years they are usually very wise.  They are inherently
+magical creatures, and are often protected from harm by the very forces
+of nature that created them.  Fairy folk are playful and friendly, but
+tend to stay close to the forests from which they come.  Fairies only
+recently began to venture into Midgaard from the surrounding forests, so
+not much is known about this mystical race.
+#
+FELINE
+                             #GFELINES#N
+
+From their treetop paradise, hidden high in the jungles to the south, 
+came a race of catlike beings.  They are the chosen protectors of the 
+jungle that they call home.  This leads to them being wary of the same 
+strangers that had once threatened their wildlife homes.  The battles of 
+good and evil are of little concern to them, they will adapt to suit 
+their needs.  They are humble creatures that do not boast of power or 
+strength.  Their heightened senses, great agility, and quick wit are all 
+they need to survive and prosper.
+
+                           #G REQUIREMENTS: #N
+
+Applicants must be at least level 50 or a remort.  The quest consists of
+three (3) parts and requires creative writing and roleplaying.
+
+#
+FILL
+
+If you want to fill a container you're holding with liquid from a 
+fountain in the same room as you.
+
+> fill canteen fountain
+
+See also: POUR
+#
+"FIREBALL"
+Usage           : cast 'fireball' <victim> : cast 26 <victim>
+Damage          : (1d20 + 10) * (level/5)  (Up to level 90)
+Cost            : 40 Mn
+Duration        : instant
+#
+"FIRE BREATH"
+Usage           : cast 'fire breath' : cast 56
+Damage          : Explained below
+Cost            : 100 Mn
+Duration        : instantaneous
+
+   This is an Area Affect spell.  The damage basically boils down to 
+this:  Max of 1d(caster's hp/4) and 10
+#
+"FIRST AID"
+
+This skill are quite useful when your best friend is lying in the dirt,
+about to die (incapacitated, mortally wounded).  You can try to stop the
+bleeding by using first aid.
+
+> aid <CHARACTER>
+#
+FLAGS
+
+Players sometimes have FLAGS after their names in the WHO list.  These
+flags are always in parentheses, not brackets or braces.
+
+FLAG        MEANING
+----------- ---------------------------------------------------------
+(invis)     Player is invisible; you can see him/her because you are
+            sensitive to the presence of invisible things.
+(writing)   Player is writing on the board; do not disturb.
+(mailing)   Player is writing mail; do not disturb.
+(deaf)      Player has chosen not to hear shouts.
+(notell)    Player has chosen not to accept tells.
+(quest)     Player is participating in a quest currently being run by
+            the Gods.
+(linkless)  Player is currently linkless.
+(creating)  God is currently creating something.
+
+See also:  STEAL VISIBLE TOGGLE
+#
+"FLAME RAY"
+Usage           : cast 'flame ray' <victim> : cast 95 <victim>
+Damage          : 4d10 + (level * 2) (max level of 25)
+Cost            : 9 Mn
+Duration        : instant
+#
+FLEE
+
+If you are in a fight and things are beginning to get a little 
+uncomfortable (maybe your are dying), just type 'flee', and presto! you 
+are out of harm's way - that is, IF there is a suitable exit nearby, and 
+IF that exit doesn't simply bring you from the ashes to the fire... but 
+then, who wants to live forever?
+#
+"FLESH ANEW"
+Usage            : cast 'flesh anew' <target> : cast 64 <target>
+Effect           : 4d8 + 1
+Cost             : 30 Mn
+Duration         : Instant
+
+A healing spell.
+#
+"FLESH RESTORE"
+Usage            : cast 'flesh restore' <target> : cast 62 <target>
+Effect           : 2d8 + 1
+Cost             : 14 Mn
+Duration         : Instant
+
+A healing spell.
+#
+"FLY"
+Usage          : cast 'fly' <victim> : cast 45 <victim>
+Effect         : Gives the caster the ability to fly
+Cost           : 40 Mn
+Duration       : 7 Hours
+
+When cast, this spell will give the caster the gift of flight,
+therefore they will not use movement points nor fall when travelling.
+The caster will also be able to fly up into otherwise unreachable areas.
+#
+FOLLOW
+
+Use FOLLOW to automatically follow someone else.
+
+> follow Karli
+> follow self
+#
+FOREST
+There are two major forest, the forest of Namir and the forest of 
+Haon-Dor.  Namir is also called elven forest as Namir is the home of the 
+elves.
+#
+"FROST BREATH"
+Usage           : cast 'frost breath' : cast 58
+Damage          : Explained Below
+Cost            : 100 Mn
+Duration        : instantaneous
+
+   This is an Area Affect spell.  The damage basically boils down to 
+this:  max of 1d(caster's hp/4) and 10
+#
+"GAS BREATH"
+Usage           : cast 'gas breath' : cast 57
+Damage          : Explained below
+Cost            : 100 Mn
+Duration        : instant
+
+   This is an Area Affect spell.  The damage basically boils down to 
+this:  max of 1d(caster's hp/4) and 10
+#
+GET TAKE
+
+If you find something interesting on the ground, you may use 'get' to 
+pick it up.  'get' can also be used to extract items from containers.
+
+> get sword corpse
+> get all corpse
+> get all all.bag
+> get all.bread all.bag
+
+See also: DROP PUT
+#
+GIVE
+
+If you feel benevolent, you may give some stuff to someone in need.
+
+give <object> <victim>
+give <number> coins <victim>
+
+> give all Helm
+> give bread Sarastro
+> give all.recall fido
+> give 2 coins Mithrandir
+#
+GNOME
+
+Gnomes are a race of good-natured creatures that originated in the
+forests east of Midgaard.  They look much like dwarves, but are not
+quite as stocky.  Gnomes generally have light colored hair and eyes
+and a rosy complexion.  They are long-lived and sturdy folk.  Gnomes
+are intelligent, but they tend to focus their attentions on unsolvable
+problems.  Gnome scientists are common, but none ever seem to become
+famous!
+#
+GRAB HOLD
+
+For getting a good grip on something; a torch, for example. Note that you
+can both hold a weapon and wield one at the same time.
+
+> hold torch
+> grab stone
+
+See also: WEAR, WIELD, EQUIPMENT, REMOVE EQUIPMENT
+#
+"GRAVITY FOCUS"
+Usage           : cast 'gravity focus' <victim> : cast 90 <victim>
+Damage          : 1d100 + 100
+Cost            : 200 Mn
+Duration        : instant
+#
+GROUP
+
+Usage : GROUP [player]
+        GROUP all
+
+GROUP with no arguments shows the status of your group.  GROUP <player>
+adds or removes <player> from your group.  GROUP ALL adds everyone who is
+following you to your group.
+
+If you are a group member, then you will share experience points for 
+killing monsters equally among the group. Experience points will only be 
+shared among group members that are in the same location, at the time of 
+the killing blow. Sharing is regardless of wherther the group members 
+have been participating in the fight.
+
+To make a group, a "leader" must be selected. All members of the group
+must then "follow" the leader using the follow command. The leader should
+NOT follow anyone at all! The leader can now toggle group membership for
+each player in the group, by using "group <player_name>". The leader
+should remember to include himself in the group.
+
+Example:
+
+Quifael and Redferne wishes to group with Dragon.
+
+Quifael : "follow dragon"
+Redferne: "follow dragon"
+(Dragon should be following no one but himself)
+Dragon  : "group all"
+(or if he wishes to make things mroe complicated)
+Dragon  : "group dragon"
+Dragon  : "group redferne"
+Dragon  : "group quifael"
+
+Later when Dragon get upset at Quifael (because he is sleeping all the 
+time) he types : "Group Quifael" to kick Quifael out of the group.
+
+See Also: XP, EXPERIENCE, UNGROUP, ASSIST
+#
+GTELL
+
+Tell something to all the members of your group, even if they're not in 
+the room.
+
+#
+GUILD
+
+The Guildhouse is the place where mortals may go to escape the troubles 
+and perils of a cruel world. Each guild is heavily guarded, so that only 
+members may enter the building.
+
+There are 4 guilds in Midgaard, one for each archtype (warrior, thief,
+cleric, mage), and this is where you can practice your skills and spells,
+but only in the guild to which you belong.
+
+See Also: PRACTICE, MIDGAARD
+#
+HALF-ELF HALFELF
+
+Half-elves are a hybrid of the human and elf races.  They are often 
+shunned by both races, but consider themselves superior because of their 
+elven lineage.  They are the same height as a typical human, though they 
+tend to be a bit more slender.  Their coloration varies much more than 
+that of humans and elves because of their hybrid nature.  They are 
+normally as long-lived as elves and just as intelligent, but they tend to 
+be a bit larger and more muscular thanks to their human half.  Because 
+they share the qualities of both races, half-elves are able to learn many
+skills and trades.
+#
+HALFLING HOBBIT
+
+Halflings are a race of short peace-loving creatures.  They have an
+appearance similar to that of elves, but they are considerably shorter.
+Halflings are outgoing but not particularly brave.  Many races consider
+halflings to be a lazy race, and they are usually right, but some young
+halflings will go out of their way to seek out adventure.  Most halflings
+never leave their village, choosing to stay in their comfortable woodland
+homes.  Halflings tend to shun most of the larger races, preferring to
+associate with elves and fairies.
+#
+"HARM"
+Usage           : cast 'harm' <victim> : cast 27 <victim>
+Damage          : 8d8 + 8
+Cost            : 50 Mn
+Duration        : instant
+#
+"HEAL"
+Usage            : cast 'heal' <target> : cast 28 <target>
+Effect           : 3d8 + 100
+Cost             : 60 Mn
+Duration         : Instant
+
+Heal also removes blindness.
+#
+HIDE
+
+Rogues Only.
+
+When you type hide there is a chance that you hide in the room. If hidden
+you can only be "sensed" by the "sense life" spell. Even if sensed your
+identity will remain hidden. Hide is broken by pressing return, 
+regardless of wherther you typed a command or not.
+
+Example:
+
+> hide
+Ok.
+>  (you wait for ex. 5 mins and remain hidden for 5 mins)
+
+>  (You pressed enter and no longer hide)
+
+See Also : SNEAK
+#
+"HOLY WRATH"
+Usage         : cast 'holy wrath' : cast 110
+Cost          : 80 Mn
+Duration      : 4 hrs.
+Effect        : This spell allows the holy warrior class of the paladin 
+                to call down the wrath of their gods to slay their 
+                opponents.  The paladin is gifted with some additional 
+                hitroll based upon their level.
+                It imbues a +1 hitroll for every 10 levels after level 20.
+#
+HUMAN
+
+Humans are a large race of creatures with adequate strength and
+intelligence, enabling them to learn a variety of skills and trades.
+Humans get along pretty well with most other races, but have a they
+have a tendency to believe that they are superior to all of them.
+Their appearance varies greatly depending on their region of origin.
+The humans from the southern seas tend to have dark hair and eyes,
+while those hailing from north of Midgaard are usually more fair.
+Humans are not particularly long-lived, but they are capable of
+achieving a great deal in their short lives.
+#
+HUNT
+
+Why bother to bring food along.  Just flush out a rabbit and eat new-
+roasted rabbit.
+
+> hunt
+
+See also:  TRACK
+#
+IBM PC
+
+Use TOGGLE PC to enable/disable IBM-PC-MODE.
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º If you are using a pc and a comm program that supports the IBM characters  º
+º (if this text is in a box of two lines) you will receive different text    º
+º using that character set.  Mainly of layout reasons.                       º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+#
+"ICE STORM"
+Usage           : cast 'ice storm' : cast 77
+Damage          : 6d10 + 10 to all opponents in room
+Cost            : 46 Mn
+Duration        : instantaneous
+#
+"IDENTIFY"
+Usage         : cast 'identify' <target> : cast 53 <target>
+Cost          : 100 Mn
+Effect        : tells you info about useful stats of target object.
+#
+IGNORE
+Ignore Command (#wusable ONLY by mortals#N)
+
+Usage : ignore <player> - will ignore/unignore a player
+        ignore *        - will clear ignore list
+
+Cannot be used against self, mobs or immortals. 
+#
+ILIST
+    #w
+Immortal          Mortals           E-mail#N
+--------          -------           ------
+Kestrel           Kanth             kanth@orangeroad.tzo.com
+Phobos            Ben, Nymph        paris@zianet.com
+
+Bod               Icestorm, Shilak  lostsoul@mono.org
+Glob              Egba, Wish        egba@earthling.net
+Sapphyre          Aurian
+Articus           Zutgorak
+Criz
+Israfel           Corin
+Rahl              Perrin
+Chani
+Aislinn           Xorinthalasea
+Britomartis
+Djmcave           Djmc
+Drusian           Aiden, Kaziana
+Erebos            Pern
+Kenshiro          Tellurian
+Kosomot           Fingolfin
+Maerlyn           Darth, Jessica    Marajalasa@hotmail.com
+Talon             Xenos
+Titan             Predator
+Turf              Mistress
+#
+ILLUSIONIST
+
+This branch of specialist wizardry concentrates on the magical spheres
+of protection and illusion. Beware, illusions can be just as deadly as
+reality.
+
+    You can improve your spells and skills by using the practice
+command in Magic Guild.
+
+See also: PRACTICE, GUILD, MIDGAARD
+
+#
+IMMORTALS
+
+Players/Characters may apply for an immortal character when the need is
+posted.  Having an immortal is a privilege, NOT a right.  Abuse of your
+immortal powers could result in punishment or deletion.  It is best to
+have some amount of experience of EliteMUD when applying for an immortal.
+
+You may also inquire about aquiring an immortal on the test site if you
+are interesting in zone building or player testing.
+
+#
+IMPLEMENTOR
+
+The most powerful being in existence.
+
+See Also: IMMORTALS
+#
+INFO NEWS CREDITS VERSION MOTD
+
+These commands show you important information about EliteMUD.  It is a 
+good idea to read them every once in a while.
+
+info     - useful information about recent code updates   
+news     - latest changes to the code and areas
+policy   - policies on topics like playerkilling
+credits  - the people who made EliteMUD possible!
+version  - displays the current EliteMUD version number
+motd     - shows the loginscreen with important messages
+
+For those who have speedwalk on, type NEWS in capital letters!
+#
+"INFRAVISION"
+Usage          : cast 'infravision' <victim> : cast 46 <victim>
+Effect         : Gives the ability to see players or mobs without light
+Cost           : 40 Mn
+Duration       : 123 Hours
+
+When cast, this spell will give the caster the ability to sense
+players or mobiles in the room through their heat, needing no light.
+#
+"INSTANT SLAYER"
+Usage            : cast 'instant slayer' : cast 66
+Effect           : Summons aid for the caster
+Cost             : 120 Mn
+Duration         : Instant
+
+When cast, this spell will summon an Elemental Ruler to come to
+your aid.
+#
+"INSTANT WOLF"
+Usage          : cast 'Instant Wolf' : cast <65>
+Effect         : Summons aid for the caster
+Cost           : 100 Mn
+Duration       : Instant
+
+When cast, this spell will summon a huge pack of wolves to fight
+at your side.
+#
+INVENTORY
+
+If you're uncertain about what you're carrying, or simply want to check
+that no thieves have got to your backpack.
+
+See also: EQUIPMENT
+#
+INVISIBLE
+Usage            : cast 'invisible' <target> : cast 29 <target>
+Effect           : Makes target invisible, AC -40
+Cost             : 22 Mn
+Duration         : 12 + (level/4)
+
+This spell will be broken if the target is attacked or attacks.
+To break it, type 'vis'.
+#
+KICK
+Fighters only.
+The success of a kick depends upon how well you are learned. The higher
+level you reach the harder you kick. There is one small catch -- whenever
+you kick (or miss) you will be unable to type any command for three
+rounds of 'Violence' -- so be sure that you do not need to flee!
+
+See Also: RESCUE, BASH, BERZERK
+#
+KILL HIT
+
+A good way to start a fight.
+#
+KNIGHT
+
+Knights live by their code of honour. As skilled and as fearless as
+warriors in battle, these fighters have also been blessed with minor
+healing powers as a reward for their virtue.
+
+    You can improve your spells and skills by using the practice
+command in Warrior Guild.
+
+See also: PRACTICE, GUILD, MIDGAARD
+
+#
+LEAVE
+
+If you feel claustrophobic, typing 'leave' will make you use the nearest
+obvious exit to the outside.
+#
+LEVEL
+
+This is the basic meassure of your power. You start playing at level 1
+and by killing mobs and gaining experience you raise in level. At level
+109 you can choose between remorting and immorting. If you are more than
+one class, for example Thief/Cleric, you need to level all of your 
+classes.
+
+See Also: EXPERIENCE, REMORT, IMMORTALS, STATS, SCORE, LEVELS
+#
+LEVELS
+
+Lists the levels of a class.
+
+> level warrior
+#
+"LEVITATION"
+Usage          : cast 'levitation' <victim> : cast 51 <victim>
+Effect         : Causes caster to hover
+Cost           : 20 Mn
+Duration       : 21 hours
+
+When cast, this spell will cause the caster to float slightly above
+the ground, using 1 movement point per room and avoiding nasty falls.
+Unlike fly, this spell will NOT, however, give the ability to enter
+really high areas.
+#
+"LIGHTNING BOLT"
+Usage           : cast 'lightning bolt' victim : cast 30 <victim>
+Damage          : (2d8 + 4) * (level / 4)  (Up to level 60)
+Cost            : 22 Mn
+Duration        : instant
+#
+"LIGHTNING BREATH"
+Usage           : cast 'lightning breath' : cast 60
+Damage          : Explained below
+Cost            : 100 Mn
+Duration        : instant
+
+   This is an Area Affect spell.  The damage basically boils down to 
+this:  max of 1d(caster's hp/4) and 10.
+#
+LINK LINKLESS
+
+A lot of players have problems with their links to the game.  This can be
+very hazardous to your health in the middle of a battle, of course.
+
+  I. If your link is broken, you will automatically attempt to flee each
+     time someone attempts to hit you.  If you manage to flee, then you
+     will be saved by divine forces, and put in a safe place until you
+     reconnect to the game.
+
+ II. If your link jams (freezes), you have a problem.  The only solution 
+     we can give is that you break your link as quickly as possible.  By
+     breaking the link you can hope that the above procedure is 
+     initiated.
+
+     Do not try to get out of a fight by breaking link.  You will be not
+     reimbursed for any experience or equipment if you purposefully
+     cut your link.
+#
+LIZARDMAN
+
+Lizardmen are an ancient race of creatures that appear to have evolved
+from more primitive lizards.  They are tall and strong with the head
+and tail of a lizard.  Their scaly skin varies in color from green to
+brown, and some isolated populations are capable of changing their skin
+color to match their surroundings.  They have large green or yellow
+eyes with three eyelids over each.  Though lizardmen are capable of
+speech, their forked tongues cause them to hiss.  Lizardmen differ from
+the primitive lizards with their humanoid appearance and higher 
+reasoning.  The lizardmen tend to be solitary, avoiding civilization and 
+even others of their own race.  Many lizardmen only willingly come in 
+contact with others only for procreation, and some don't even do that!
+#
+"LOCATE OBJECT"
+Usage          : cast 'locate object' <target> : cast 31 <target>
+Duration       : Instant
+Cost           : 50 mn
+
+When cast, this spell will reveal to the caster all locations of
+target object.
+#
+LOOK
+
+For studying your surroundings. Examples:
+> look
+> look AT angel   (or just: l angel)
+> look IN bag     (or examine bag)
+> look to south   (or just: look south)
+
+Note that if you LOOK AT CORPSE you will not see its inventory.
+To see what's inside a container (i.e. a corpse) use LOOK IN <OBJECT>.
+
+See also: EXAMINE, READ, DIAGNOSE
+#
+"MAELSTROM"
+Usage           : cast 'maelstrom' : cast 88
+Damage          : 5d20 to all opponents in room.
+Cost            : 58 Mn
+Duration        : instantaneous
+#
+"MAGE GAUNTLETS"
+Usage            : cast 'mage gauntlets' <target> : cast 70 <target>
+Effect           : +2 Hitroll
+Cost             : 18 Mn
+Duration         : 7 hrs
+#
+MAGIC "MAGIC USER"
+This is the class of powerful and violent magic. However the magic
+utilised is raw and untamed, and not easily controlled. Although not
+powerful in hand-to-hand combat, they can fry you at a distance with
+a fireball.
+
+    You can improve your spells and skills by using the practice
+command in Magic Guild.
+
+See also: PRACTICE, GUILD, MIDGAARD
+#
+"MAGIC MISSILE"
+Usage           : cast 'magic missle' <victim> : cast 32 <victim>
+Damage          : (4d6 + 2) * (level/2) (Up to level 15)
+Duration        : instant
+Cost            : 6 Mn
+#
+MAIL CHECK RECEIVE
+
+The commands used by the Midgaard Mail System (MMS) are MAIL, CHECK, and
+RECEIVE.  These commands can only be used while in an Official MMS Post
+Office.
+
+To write mail to Quifael:
+> mail quifael
+
+To check and see if you have any mail waiting:
+> check
+
+To ask the Postmaster to give you your mail, if you have any waiting:
+> receive
+
+Stamps cost 350 coins.
+
+See Also: MIDGAARD
+#
+MAP
+
+MAP
+§B                                 §B__§N                            
+§B                                   §B\ §N                          
+§B                                    §B\____        §BSEA §N          
+§G                                    §GWWWW§B \______   §N            
+§G                                  §GWWWWWWWWWWWWW §B\_    §N         
+§W                              §W |--- §WTYNSTRI§G WW    §B\ §N           
+§W                              §W |§GWWWWWWWWWWWWW §R<<<<<§B\  §N         
+§W                              §W |        §R<<< §WDWARVES§R §B\_________  §N 
+§R     <<<<<<<<<<<§W         §WROME§W ---|     §R<<<<<<<<<<<<<<<<         §B\§N  
+§R   <<<<<<<<<<<<<<<<§W              |   §R< §WMORIA§R <<<<<<<§Y,,,,,,,,,    §N
+§R <<<<<< §WSTANNEG§R <<<<<<§W           |  §R<< §WMOUNTAINS§R <<<<§Y, §WDESERT§Y ,,,
+§R <<<<<<<<< §WMOUNTAINS§R <<<<<§W       |§R<<<<<<<<<<<<<<§Y,,,,,,,,,,,,,,  
+§R  <<<<<<<<<<<<<<<<<<<§W            |§R<<<<§W|§R<<<<<<<<§Y,,,§GWWWW§Y,,,,,,,    
+§B |  §R<<<<<<<<<<<<<<<<<<§W           |  |§B.§W|  §GWWWWWWWWWWWWWWWWW  §N     
+§B |   §G    WWWWWWWWWWWWWWWWWW§W      |  |§B:§W|---------------§GWWWWWW §N    
+§B  |  §GWWWWWWWWWW §WULTIMA§G WWWWWWW§W   |  |-- §GWWWWWWWWWWWWWWWWWWWWW §N   
+§B   | §GWWWWWWWWWWWWWWWWWWWWW  §WMIDGAARD§W|§B:§W§GWWWWWWWWWWWWWWWWWWWWWWWW §N  
+§B   |   §GWWWWWW§W-------------------§R**§W---§B:§W------- §WWELMAR'S §GWWWWW §N    
+§B   |  §GWWWW §WSWAMP§G WWWWWWWWWW §W    |    §B:§W   §GWWWW §WKINGDOM §GWWWWWWWWWWW§N
+§B    |   §GWWWWWWWWWWWWWWWW§W        |    §B:§W     §GWWWWWWWWWWWWWWWWW       
+§B     |.......... §CRIVER§B .........§W|§B....:§W       §GWWWWWWWWWWWW    §N      
+§B       |  §GWWWWWWWWWWWWWWWWW §B   -----------------------------  §N     
+§B  SEA   |  §GWWWW§B  ----- §G WWWW §B  |§N                                   
+§B         |      |     | §GWW§B    | §N                                   
+§B          ------      |     |      SEA §N                            
+§B                       -----      §N                                 
+§B           SEA §N                                      
+> RIVER, FOREST, DRAGON, MORIA , DESERT , MIDGAARD , GNOME
+#
+MARINER
+
+Sailors of the fourteen seas, these rogues have come ashore looking for
+fresh adventures in which to use their abilities of fighting and
+subterfuge.
+
+You can improve your skills by using the practice command in Thief Guild.
+
+See also: PRACTICE, GUILD, MIDGAARD
+#
+"MARTIAL ARTS"
+
+This high-level rogue proficiency makes you able to fly- or round kick 
+your enemies to fragments.  Why bother using a weapon when your fists and 
+feet can do the job?
+#
+MIDGAARD CITY TOWN
+
+§w                                 NORTH
+                                 GATE
+                                  |
+                                  |
+                                ALTAR
+                                  |
+           HALLS                  |
+             OF-------READING---TEMPLE----DONATION
+         LEARNING       ROOM      |         ROOM
+             |                    |
+          LIBRARY                 |
+                                  |
+              CITY    §y CLERIC §w    |   POST OFFICE           §r  CITY§w
+             LIBRARY  §y  GUILD §w    |   THREE CROWNS   CASINO §r  BANK§w
+                |         |       |        |           |       |
+         ---TEMPLE---STREET-----TEMPLE-----TEMPLE---STREET------
+         |      |         |     SQUARE     |           |       |
+         |  §r TAILOR'S  JEWELER'S§w  |   §r   ROSY'S    STATIONARY§w  |
+         |                        |   §r   FLOWERS      SHOP  §w   |    HOBBIT
+ DIRT    |                        |                            |    VILLAGE
+ PATH    |§r  MAGIC      BAKER §w     | §r    GENERAL    WEAPON  §w    |      |
+  |      |§r   SHOP       SHOP §w     | §r    STORE       SHOP   §w    |      |
+  | WEST |    |          |        |       |          |         |   EAST
+  --GATE----MAIN------STREET----MARKET----MAIN------STREET---------GATE---- 
+         |    |          |      SQUARE    |          |        |
+         | §y MAGIC §w    §r ARMORER§w    |  §r    PET §w    §y  WARRIOR§w    |
+         | §y GUILD §w                |  §r    SHOP  §w   §y  GUILD§w§r   WATER§w
+         |                        |                         §rSHOP§w
+  §w       |                        |
+  §w       |                        |                    §r  UNCLE JUAN'S§w
+  §w       |                        |                           |
+  §w       |--POOR---ALLEY--------COMMON----DARK---ALLEY---------
+  §w       |               |      SQUARE      |        |        |
+  §w       |            GRUBBY      |      §y THIEF§w    LEEVE  WAREHOUSE
+   MIDGAARD PARK        INN       |     §y  GUILD§w      |
+                                  |                  |
+                 DUMP            |
+             (Entrance to Sewer)     MIDGAARD RIVER
+
+#
+"MIND BLADE"
+Usage           : cast 'mind blade' <victim> : cast 86 <victim>
+Damage          : 4d10 + level/4 (max of level 25)
+Cost            : 40 Mn
+Duration        : Instantaneous
+#
+"MIND JAB"
+Usage           : cast 'mind jab' <victim> : cast 79 <victim>
+Damage          : 3d6 + level (max lvl of 20)
+Cost            : 6 Mn
+Duration        : instantaneous
+#
+MINOTAUR
+
+Minotaurs are the descendants of a cursed beast that was half man and
+half bull.  They are large and strong, but they are normally not very
+intelligent.  The minotaurs that venture into Midgaard tend to get
+into many fights because of their strong wills and violent natures.
+Minotaurs usually have dark brown or black fur covering their heads and
+backs.  They have a long tail and two sharp horns on their bull-like
+heads, with the torso, legs and arms of a human.  Minotaurs have their
+own code of honor: "The one still standing is the winner."  These fierce
+creatures are intimidating and are often shunned by all other races due 
+to their war-like nature.
+#
+MONK
+
+These devout priests are the protectors of their temples. Through
+meditation and relaxation, they discovered the secrets of the
+martial arts.
+
+    You can improve your spells and skills by using the practice
+command in Cleric Guild.
+
+See also: PRACTICE, GUILD, MIDGAARD
+#
+MORIA
+The Moria Mountains is the east mountains. The rumors are that this 
+mountains once where a great dwarven strong hold. Now the old caves and 
+mines have been taken over by orcs and other evil creatures. The Dwarfs 
+have established a new home further up the mountains.
+#
+"MOUNTED BATTLE"
+
+The skill of fighting most effectively on a horse back.  Unused 
+adventurers are only hampered by their horses, but you know how to use 
+the mount as an advantage.
+#
+"MYSTICAL COAT"
+Usage            : cast 'mysticial coat' : cast 75
+Effect           : AC -50
+Cost             : 60 Mn
+Duration         : 48 hrs
+
+Only possible to use on yourself.
+#
+"MYSTIC SHIELD"
+Usage            : cast 'mystic shield' : cast 71
+Effect           : AC -40
+Cost             : 40 Mn
+Duration         : 25 hrs
+
+Only possible to use on yourself.
+#
+NINJA
+
+The Ninja class studies the discipline of murder and deception. They are 
+reasonably trained in the arts of a thief and in weapons but work best 
+using few weapons or none at all. Many times a ninja seems outclassed 
+they will drop their weapons, smile at their opponents and calmly engage 
+them in their own particular breed of combat. Ninja study unarmed combat 
+during their lives, how to take life without leaving a mark on an enemy, 
+and develop their own forms of attack with higher training.
+#
+NINJITSU
+
+Ninjitsu is the study of bare-handed attacks, a ninja may elect to use no 
+weapons and strike an opponent with their body. By fighting in this 
+manner they negate all bonuses to damage except those incurred by their 
+striking styles.
+
+SEE ADVANCED MARTIAL ARTS, AMA TABLE
+#
+NORTH SOUTH EAST WEST UP DOWN
+
+To walk (or ride if mounted) in a given direction.
+#
+NOSUMMON
+
+Back in the time when there was no laws, players were allowed to kill
+eachother. In that time evil people used "summon" to summon others
+to dangerous places. The Immortals decided that they had to do something
+to protect the innocent, so they created summon protection, which
+is turned on by default. Nowadays it is not possible to kill other
+players exept in PK-OK zones and you cannot summon another person into
+a PK-OK zone. To allow other players to summon you, type "tog summon".
+
+> tog summon
+
+See Also: TOGGLE
+#
+NOTELL
+
+Use TOGGLE TELL if you wish to prevent other players from using "tell" to
+communicate with you.  (notell) will appear after your name in the WHO
+list if you have notell on.
+
+See also: FLAGS TELL WHO TOGGLE REPLY
+#
+OEDIT
+
+An oedit is a piece of equipment that has been magically altered
+by an immortal to have a unique name and description. You may come
+across oedits during quests, or being used by some older players.
+At one time, it was possible to purchase a permanent oedit for a cost
+of 1 quest point, but this is no longer the case.
+
+#
+OFFER RENT
+
+There is no renting on ELiteMUD, you simply save and quit.
+#
+OPEN CLOSE LOCK UNLOCK
+
+To open, close, lock, and unlock doors, of course.
+
+<open | close | lock | unlock> <door> [direction]
+
+> open portal
+> open door <DIRECTION>
+> lock door
+> unlock door south
+> close gate
+#
+ORDER
+
+Used for ordering pets and charmed people to do your evil bidding.  You
+can order everyone under your command with "order followers".
+
+order <character> <command>
+order followers <command>
+
+> order puppy kiss IO
+> order cityguard sleep
+
+See also:  CHARM
+#
+PALADIN
+
+Paladins are the soldiers of their church. They have taken oath to turn
+the world's faithless to the true religion. They are proficient in both
+combat skills and healing magics.
+
+    You can improve your spells and skills by using the practice
+command in Cleric Guild.
+
+See also: PRACTICE, GUILD, MIDGAARD
+#
+PARRY PARRYING
+
+This skill enables you to parry enemy attacks.  This means that you
+will not get hit as much during battle.
+#
+"PHANTASMAL KILLER"
+Usage           : cast 'phantasmal killer' <victim> : cast 107 <victim>
+Damage          : (1d20 + 20) * (level / 5)
+Cost            : 85 Mn
+Duration        : instant
+#
+"PHASE BLUR"
+Usage            : cast 'phase blur' : cast 80
+Effect           : AC -40
+Cost             : 26 Mn
+Duration         : 3 hrs
+
+Only possible to use on yourself. Unlike other AC spells can be cast
+in battle.
+#
+"PHASE FIRE"
+Usage           : cast 'phase fire' <victim> : cast 99 <victim>
+Damage          : 1d30 * (level / 6) (max lvl 75)
+Cost            : 36 Mn
+Duration        : instant
+#
+"PHASE KNIFE"
+Usage           : cast 'phase knife' <victim> : cast 94 <victim>
+Damage          : 3d8 + level (max of 25)
+Cost            : 6 Mn
+Duration        : instant
+#
+"PICK LOCKS"
+
+This is a rogue skill, used mainly by thieves, assassins, mariners, and
+sometimes bards for picking locks.
+
+Not all locks can be picked.
+
+pick <door> [direction]
+
+> pick door
+> pick door west
+> pick safe
+
+See Also : OPEN, CLOSE, LOCK, UNLOCK
+
+#
+PIERCE
+
+A general skill for all classes.  The knowledge of how to use piercing
+weapons like spears.  You will have a greater chance of hitting your 
+enemy with a piercing weapon.
+
+See also:  BLUDGEON SLASH STAB CHOP
+#
+PK KILLING PLAYER_KILLING
+
+Player Killing (PK) is completely illegal except in the PK zone.  The PK
+zone is, from the market square, 3w5swse.  Once inside the zone, you
+*must* obey the following rules:
+
+* All PK is by consent only.  This means you must preplan your fights.
+  Once the fight ends, you must stop fighting, and in order to fight
+  again, you must once more agree to the fight.  Also, the fight only
+  begins when all contestents are ready.
+
+* You are no longer a part of any PK if you leave the zone.  This means
+  dying, being summoned out, walking out, and so on.  This includes
+  leaving by accident.  In short, if you leave, stop fighting.
+
+* There is no grouping in PK.
+
+* If you wish to make terms before the fight (such as no potions, or
+  no eq, or no circling, etc), you should get an outside party such
+  as an immortal to observe the fight.  This ensures that all parties
+  obey the rules.  Breaking agreed-upon terms is the same thing as
+  breaking official PK rules.
+
+* Violators of these rules will be crushed.  Happy PKing!
+#
+POISON
+
+Usage            : cast 'poison' <target> : cast 33 <target>
+Effect           : Poison target, STR -2
+Duration         : level of caster
+Cost             : 16 Mn
+
+If someone is poisoned, he or she will loose some hp instead of
+gaining every hour.
+#
+"POISON BLADE"
+
+Veteran rogues know the benefit of always keeping their weapons tainted 
+with poison.  The poison is seldom deadly, but having the enemy 
+disoriented and dizzy is always an advantage.
+#
+POLICY
+
+This command provides a summary of the policies of EliteMUD ranging from
+topics like playerkilling through to acceptable language on channels.
+
+For more info on certain topics, type the following:
+                #wHELP POLICY <TOPIC>#N
+
+Choose one of the following policy numbers / topics:
+        ONE          TWO          THREE        FOUR         FIVE
+        SIX          SEVEN        EIGHT        NINE         REIMB
+        CHANNELS     LANGUAGE     
+
+Thanks to Mokky, Bod and Titan for source of POLICY related topics.
+
+#
+"POLICY ONE"  
+
+EliteMUD Policy - ONE - Player Killing (PK)
+
+No player killing.  This includes charming, cursing, blinding,
+poisoning, or otherwise causing harm or trouble to other players.
+
+There is however a PKOK zone where this rule is not applied, but
+players involved must be consenting.       
+
+Note: Players who are part of the Global PKOK system are ONLY
+affected by this policy if they kill another player who is not
+participating in the Global PKOK system (all participating
+players are clearly identifiable and no excuses will be accepted!)
+
+Abuse of this rule will result in severe punishment.
+
+First Offense:
+    #C<MIN>  Forced to read Policy and given a warning.#N
+    #C<MAX>  1 week frozen.#N
+Second Offense:
+    #C<MIN>  Deletion of offending character.#N
+#
+"POLICY TWO"
+
+EliteMUD Policy - TWO - Player Theft (PT)
+
+No stealing from other players. This includes stealing / looting
+other's corpses or kills. Killing a mob in a room where another
+player is already present is kill stealing, so is killing a mob 
+in a room where a player is sleeping. 
+
+Additionally you may not steal from or otherwise interfere with
+mobs in a room where another player is already present.
+
+Ask before you kill away!
+
+First Offense:
+    #C<MIN>  Forced to read Policy and given a warning.#N
+    #C<MAX>  1 day jail time.#N
+Second Offense:
+    #C<MAX>  7 days jail time.#N
+Third+ Offense:
+    #C<MAX>  4 weeks jail time.#N
+#
+"POLICY THREE"
+
+EliteMUD Policy - THREE - Harassment
+
+No harassing other players. This includes summoning and / or reciting
+recalls on other players without explicit permission, spamming, and
+excessive use of charmed mobs on public channels. Deliberate attempts
+to trigger actions on other players' mud clients is considered
+harrassment as well.
+
+Ask if you don't understand what that means!
+
+First Offense:
+    #C<MIN>  Forced to read Policy and given a warning.#N
+    #C<MAX>  1 day jail time.#N
+Second+ Offense:
+    #C<MIN>  1 day jail time.#N
+    #C<MAX>  Deletion / Siteban.#N
+#
+"POLICY FOUR"
+
+EliteMUD Policy - FOUR - Personal Harassment
+
+A special case of harassment is personal harassment. This includes
+swearing directed at someone in tell, belittlement, sexual harassment,
+and other related personal attacks. This applies to boards / postings
+as well.  Libelous or hateful writings will not be tolerated.
+
+Ask if you don't understand what that means!
+
+First Offense:
+    #C<MIN>  Forced to read Policy and given a warning.#N
+    #C<MAX>  5 days jail time.#N
+Second+ Offense:
+    #C<MIN>  1 week jail time.#N
+    #C<MAX>  Deletion / Siteban.#N
+#
+"POLICY FIVE"
+
+EliteMUD Policy - FIVE - Swearing / Language
+
+No swearing on public channels, in titles/plans or harassing others
+in any way by showing off your elementary knowledge in bad slang.
+Elite is a family mud where everyone is respected.
+See NOTE below.
+
+First Offense:
+    #C<MIN>  Forced to read Policy and given a warning.#N
+    #C<MAX>  24 hours mute / title ban.#N
+Second+ Offense:
+    #C<MIN>  24 hours mute / title ban.#N
+    #C<MAX>  1 week jail.#N
+
+However, Elite has a special channel for swearing and related bad
+language. See #wHELP POLICY CHANNELS#N for more info.
+#
+"POLICY SIX"
+
+EliteMUD Policy - SIX - Multi-Playing
+
+NO MULTI-PLAYING. You may not under any circumstances have more than
+one (1) character logged on, or at the menu. This is not to say that 
+you may not own more than one character. It is NOT allowed to group
+your multiple characters together and adventure, leave a character
+behind (to heal or summon) while you adventure with the other
+character, or trade of goods between characters.
+
+AGAIN: NEVER have more than one character on at the same time. #r
+It is also forbidden to leave one character linkdead and log on 
+another one.#N  NO other characters anywhere in the game, not even 
+at the main menu for whatever reason.
+
+First Offense:
+    #C<MIN>  Forced to read Policy and given a warning.#N
+    #C<MAX>  3 weeks jail for all characters involved.#N
+Second Offense:
+    #C<MIN>  Deletion of all offending characters.#N
+#
+"POLICY SEVEN"
+
+EliteMUD Policy - SEVEN - Bug Abuse  
+
+REPORT BUGS.  You must report any bug you find in the game.
+Using a bug to your advantage, or using commands in a way that they 
+clearly were not intended for is a serious abuse.
+        #C
+The Maximum penalty for such offenses includes a total siteban.#N
+#
+"POLICY EIGHT"
+
+EliteMUD Policy - EIGHT - Unattended Processes / AFK Botting or Camping
+
+Most unattended processes are banned. Unattended processes are things
+your mud client does automatically without you being at the keyboard.
+Eating / drinking and giving spells to yourself is the only exception.
+While you are afk, you can only use these triggers in clan houses or 
+in Midgaard. Running zones, botting, and anything else you can automate
+are okay if you're sitting at the keyboard. When you leave, you must
+disable these. The penalties are the same as for multiplaying.
+
+Additionally anything else you can think of while AFK (through the use
+of a client or other means) is subject to the same punishment.
+
+First Offense:
+    #C<MIN>  Forced to read Policy and given a warning.#N
+    #C<MAX>  3 weeks jail for all characters involved.#N
+Second Offense:
+    #C<MIN>  Deletion of all offending characters.#N
+#
+"POLICY NINE"
+
+EliteMUD Policy - NINE - Password Sharing / Trading Characters
+
+Password sharing between players is also illegal.  If you are found
+sharing passwords with another player, or hacking other players'
+characters you will be punished.
+
+This also means that it is illegal to trade characters between players.
+        #C
+The Maximum penalty for such offenses includes a total siteban.#N
+#
+"POLICY CHANNELS"
+
+EliteMUD Policy - CHANNELS - Correct usage of Public Channels
+
+There are a lot of different communication channels available for
+different purposes and it should not be that difficult to follow
+them.  No advertising other muds on any channel, folks.
+
+1. #CGRAT#N channel:   This is the ONLY channel where messages
+   regarding level gains and congratulations thereof belong. Keep
+   those here.
+
+2. #GCHAT#N channel:   This is a communications channel meant for
+   mud-related topics that may be of interest to the entire mud.
+
+3. #YGOSSIP#N channel:   This is a general communication channel,
+   it is meant for funny, serious, or any other kind of messages that
+   are not mud-related.  This is also the only channel where you can
+   use your colourful language and swear, as long as you are not
+   harassing any other player.
+
+4. #RYELL#N channel:   Yell sends your message to everyone in the same
+   zone as you.
+
+5. #mQUEST#N channel:   This channel exists solely for information
+   to be exchanged during quests, and should be turned off when
+   quest is over. It should go without saying, anything talked about
+   on it should be quest related.
+
+6. #wNEWBIE#N channel:   This channel is for newer players to request
+   help, and for more experienced players to assist them.
+
+7. #MAUCTION#N channel:   This is a communications channel meant for
+   the selling, bidding and purchase of items.
+
+8. #rPK-SAY#N channel:   This is a communications channel meant for
+   PK-related topics that may be of interest.
+        #r
+Please note the the only channel where any language other than ENGLISH
+is acceptable is #YGOSSIP#r!#N
+#
+"POLICY LANGUAGE"
+
+EliteMUD Policy - LANGUAGE - Acceptable Language Guidelines
+
+With the exception of the gossip channel, swearing on public channels
+should be only mild at worst. This is the type of language that you
+might hear in a PG rated film.
+
+This mud has always had a policy of keeping all public channels except
+gossip as "family rated". There is absolutely no way to "prescribe" what
+what can and cannot be said - at least we couldn't think of a way. So we 
+checked out the BBFC (British Board of Film Classification) to see how 
+-they- decide what is acceptable:
+    #C
+Many people are offended, some of them deeply, by bad language, including
+the use of expletives with a religious association. The extent of that
+offence varies according to age, background and beliefs. Different groups
+(for example, a minority ethnic community) have their own, seperate
+standards of acceptability. Additionally, the severity of any particular
+word or expression will depend upon the context within which it is used.
+
+For these reasons, it is impossible to set out comprehensive list of
+acceptable words or expressions which will satisfy all sections of the
+public. The advice at different classification levels, therefore, provides
+general guidance with reference to specific terms only where there is a
+reasonable consensus of opinion.#N
+
+So, there you have it....THEY cant decide either. They use their judgement,
+and offer the following guidelines. They suggest swearing be classified in
+the following broad bands: #wHELP POLICY CLASSIFICATION#N
+#
+"POLICY CLASSIFICATION"
+
+EliteMUD Policy - CLASSIFICATION - Language Classification 
+
+The BBFC (British Board of Film Classification) suggest swearing be 
+classified in the following broad bands:
+   #Y
+ Very Mild#N:  Damn, Hell, god, bloody, son-of-a-bitch, sod, tart, crap#Y
+      Mild#N:  Bugger, screw, arse, slag, slut, tosser, Jesus Christ, 
+             dickhead, bitch, shit#Y
+  Moderate#N:  Piss off, whore, arsehole, prick, bollocks, twat, bastard, 
+             wanker, shag#Y
+    Strong#N:  Fuck#Y
+Very Strong#N: Motherfucker, cunt
+
+
+To be honest, we were a little surprised at some of the words rated as 
+"moderate" (they were strong when Mokky was a regular user). Regardless 
+we think they are a pretty good basis for determining acceptable language.
+
+Aside from gossip, swearing should be kept at #RMILD#N or less (which is  
+equivalent to that heard in a PG film). We are sorry that we can't put 
+that in context for those of you from countries other than the UK.
+
+Those words which constitute #MModerate#N swearing, should result in a polite  
+request to move the conversation to gossip. Stronger language may or may  
+not warrant a warning depending on context, and depending on whether the 
+player is a newbie, or if they have perhaps used chat instead of ct by   
+mistake. #rIn all cases, if the swearing is blatant or persistent, punishment 
+will be forthcoming.#N
+#
+"POLICY REIMB"
+
+EliteMUD Policy - REIMB - Reimbursement
+
+These rules are not set in stone, but in general they will be followed.
+
+  i) Money and experience will not be reimbursed.  Use of the Elite's
+     ATM system will prevent major money loss, and Elite's periodic
+     saving of the player file will prevent major loss of experience.
+
+ ii) In general, only equipment that was in use will be reimbursed.
+
+iii) Eq gained in a multiple crash situation will not be reimbed:
+        "The Mud giveth and the Mud taketh away".
+
+ iv) The reimbursement of quest or special eq, being that it is rare
+     in nature may need to be approved by a 115 Immortal or the Quest
+     group leader.
+
+  v) The mud has a sweeper. It will clean up any item on the ground
+     every time a zone resets. Only clan houses and Godrooms are 
+     immune to this. One other room immune to this is the Midgaard
+     Chat Room (ws of Temple). If items are lost due to the sweeper
+     they will NOT be reimbursed.
+
+ vi) There is a 100 item limit on what you may have on your character.
+     If you go over this limit and lose items due to logging out or a
+     mud crash, it will not be reimbursed. 
+#
+POUR
+
+If you want to pour some liquid from one container to another.
+
+> pour canteen cup
+> pour fountain out
+
+See also: FILL
+#
+PRACTICE
+Practice is the way you improve your spells and skills. You must go to
+your guildmaster to let him/her help you improve.
+
+You can then use practice <skill>, to practice the appropriate skill.
+You can only practise a certain amount for each level you gain, and you
+do not have to save this, it can be accumulated.
+#
+PRAY
+
+This communication channel sends a message to all online immortals (both
+visible and invisible). In addition, if you worship a high level mortal
+player, they will also receive the message.
+
+It should only be used in emergencies.
+
+#
+PRIMER
+Well so you want to be an Immortal, eh? Well here to get you started are
+the important room numberss and the basics, as well as a little bit of
+policy.
+
+Immortal Board- 1204
+Mortal Board- 1205
+Jail- 4
+Midgaard (temple)- 3001
+Helm's Book- 1260
+Code Board- 1200
+Immortal Quest Board - 1208
+Void- 0
+Limbo- 1
+
+[#bPolicy#N] As a newly created immortal you are not allowed to enforce 
+policy. If you see something that needs to be dealt with please contact 
+the closest 112+.
+
+
+
+[#c-#N]- Otherwise known as wiznet, an extra channel for imms only.
+         Usage - - #level(optional) text, use it like you would a clan
+                 tell.
+
+[#cat#N]- Similar to goto you are only in the room specified for the
+duration of the action you perform, and return to your last room
+occupied.
+          Usage - at (name) or (vnum) (action)
+
+[#cEcho#N]- Used like an emote. Instead of putting your name in front of
+the text it just sends the input to the screens of everyone in the room.
+            Usage- Echo (message)
+
+[#cGoto#N]- An easy way to get around the mud -
+            Usage - goto (name) or goto (virtual number)
+
+[#cHandbook#N]- another helpful list of all immortal powers.
+                Usage- handbook
+
+[#cHolylight#N]- Used to see in darkness without a light source or spell.
+                 Usage- holylight
+
+[#cImotd#N]- Immortal message of the day. See what the higher ups have to
+say.
+             Usage- imotd
+
+[#cInvis#N]- wizinvis- go invis to everyone below the level specified.
+             Usage- invis or invis (level)
+
+[#cLog#N] - Used to write a message to the syslog explaining an action
+            Usage- log (message)
+
+[#cNohassle#N]- Keeps aggressive mobs from attacking.
+                Usage- nohassle
+
+[#cPoof#N]- The message mortals see when you 'goto'
+              Usage- poof (in|out|view)
+
+[#cPrename#N]- Used to create the string before your name.
+               Usage- prename (victim) text
+
+[#cRoomflags#N]- So you can see the flags of the room and its vnum.
+                 Usage- roomflags
+
+[#cSet#N]- used to set various things on the mud.
+           Usage- set (option) (value)
+
+[#cShow#N] - Used to display various information.
+             Type show for a list of the options available to you.
+             Usage- show (option)
+
+[#cSnowball#N]- An immortal only social.
+                Usage- snowball (target)
+
+[#cSyslog#N]- Used to keep track of connections and general god things.
+              Usage- syslog(sparse normal complete)
+
+[#cUptime#N]- Time the mud has been up since last reboot.
+              Usage- uptime
+
+[#cVnum#N]- Used to look up items or mobiles.
+            Usage- vnum o (object name) vnum m (mob name)
+
+[#cWizhelp#N]- A list of commands available to you.
+               Usage- wizhelp
+
+[#cWizname#N]- used to create the string in the wizbox.
+               Usage- wizname (victim) text
+
+#
+"PROJECT FORCE"
+Usage           : cast 'project force' <victim> : cast 97 <victim>
+Damage          : 6d10 + (lvl*3) (max lvl of 70)
+Cost            : 28 Mn
+Duration        : instant
+#
+PROTECT
+
+If you protect someone, you will rescue that person in case he/she
+gets attacked.
+#
+"PROTECTION FROM EVIL"
+
+Usage           : cast 'protection' : cast 34 
+Effect          : AC -10 against evil aligned mobs
+Cost            : 16 Mn
+Duration        : 25 hours
+
+#
+PSIONICIST
+
+Often confused with magic-users and wizards, these spellcasters
+concentrate the forces of magic of the inner self: the Mind and Body,
+instead of drawing from the elements of the external world.
+
+    You can improve your spells and skills by using the practice
+command in the Magic Guild.
+
+See also: PRACTICE, GUILD, MIDGAARD
+#
+PUGILISM
+
+This skill allows you to fight really good without wielding a weapon.
+#
+PUT
+
+For putting items into containers.
+
+> put bread bag
+> put all.bread bag
+> put all chest
+
+See also: GET
+#
+"PSYCHIC SCREAM"
+Usage           : cast 'psychic scream' <victim> : cast 96 <victim>
+Damage          : 6d8 + (level * 3/2) (max lvl of 40)
+Cost            : 10 Mn
+Duation         : instant
+#
+QUEST
+
+Quests are immortal-run special events. There is no set format for
+quests, although in general they involve some amount of role-playing,
+problem solving or combat against unusual opponents. The best way
+to join in a quest is to interact with mobs who appear to be talking
+with players - then follow hints and instructions. Sometimes quests
+will be announced in advance on the Quest Board in the library
+(swwnnnw).
+
+Very often, as a reward for successful participation in a quest you
+will be awarded Quest Points. These will show in a separate line
+in your score. When you have enough points, you can use them to
+purchase special quest items from the quest shopkeeper in the library.
+
+#
+QSAY
+
+To tell something to everyone on the current Quest.
+#
+QUAFF POTION POTIONS
+
+Use : Quaff <Potion>
+
+Quaff is used to "drink" a (magical) potion.
+#
+QUI SHUTDOW
+
+Just to prevent accidental quittings and/or shutdowns.
+These commands doesn't DO anything, it simply is.
+#
+"QUICK FIX"
+Usage            : cast 'quick fix' <target> : cast 68 <target>
+Effect           : 1d6
+Cost             : 5 Mn
+Duration         : Instant
+
+A healing spell.
+#
+QUIT
+
+When you get tired of playing, you can leave the game by typing 'quit'.
+A maximum of 100 items will be stored, but some items, like mails, cannot
+be saved.
+#
+RACE
+
+There are are twenty five different races available on Elite. Most are 
+available to starting players and remorts. These are:
+
+human          elf          half-elf       dwarf         gnome
+halfling       fairy        minotaur       ratman        drow
+lizard         troll        draconian
+
+As a 4th remort, you may choose to become an Avatar race.
+
+There are also six quest races which are available. See the quest board
+for further details of how to become one of these:
+
+werewolf      dragon     demon      feline      angel     vampire
+
+
+
+#
+RANGER
+
+Rangers dwell in the forest. They are masters of the bow, and have great
+skill in hunting. Through their time spent in the forest, they have
+acquired some minor forest magics.
+
+    You can improve your spells and skills by using the practice
+command in Warrior Guild.
+
+See also: PRACTICE, GUILD, MIDGAARD
+#
+RATMAN
+
+Ratmen are the creation of a cruel god that made common sewer rats larger
+and smarter.  Though they are infinitely more intelligent than their
+primitive ancestors, ratmen are still prone to rummaging through garbage.
+They are usually covered with thick brown or black fur and have beady
+black eyes and a large pink tail.  Some ratmen have white hair and pink
+eyes, but this rare breed is nearly extinct due to their participation in
+extensive experimentation done by local alchemists.  Ratmen are cunning
+and sly, and very capable of complex reasoning, but they tend to prefer
+trades that allow them to live off of the prosperity of others.
+#
+READ
+
+When you want to read something.
+#
+RECALL
+
+Until level 10 you can type RECALL if you wish to be transfered back to
+temple. This is very useful if you get lost etc and it will not cost
+you anything. After level 10 you can buy scrolls of recall in the
+Wizards shop in Midgaard.
+
+See Also: MIDGAARD, RECITE, SCROLL
+#
+RECITE SCROLL SCROLLS
+
+Use : Recite <Scroll> [Target]
+
+Is used to "read" a magical scroll. Target can be an object, character or
+nothing (which may be yourself).
+
+See Also: RECALL
+#
+REDRAW
+
+If you have display vt ot ansi on, and the screen gets messed up for 
+various of reasons, use redraw to correct that.  No parameters needed.
+
+See also DISPLAY RESIZE
+#
+"REGENERATION"
+Usage          : cast 'regeneration' <victim> : cast 61 <victim>
+Effect         : Increases regen
+Cost           : 60 Mn
+Duration       : 7 hours
+
+When cast, this spell will speed up a player's metabolsm, causing
+an increased health sensation. The effect will cause you to regenerate
+hit points much faster then normal.
+#
+REMORT
+
+A remort is a mortal character, that is, in most cases, more powerful
+than your average mortal.  Being a remort allows you to choose any
+class combination you want, assuming you follow the simply rules.
+The main benefit is that you are now able to make class combinations
+that are not available to you when you make a new character.
+There are no exceptions, and all remorts will be done according to
+the rules as they are posted here.  Any questions that you might have
+may be directed at a member of the Remort Team.
+
+For more info on certain topics, type the following:
+                HELP REMORT <TOPIC>
+
+Choose one of the following topics:
+        READY         CLASS      SECOND         FOURTH
+        RACE          FIRST      THIRD          TRI
+
+Thanks to Phobos, Phish and Fitzroy for source of REMORT related topics.
+
+#
+"REMORT READY"
+
+Here are some questions to ask yourself before you ask to be
+remorted. Doing this will save you some time in the Remort Lab.
+
+* Are you 109 in all of your classes?  If not, go level.
+
+* Is all of your gold in the bank?  If not, put it in or you will
+lose it upon remorting.
+
+* Are you carrying any objects?  If you are, be sure that they are
+usable by a level 1 character.  If they are not, you must either put
+them in a locker or give them to another character.  If they are,
+you may keep them with you while being remorted.  Just as a reminder,
+you will be asked to remove and drop everything you have on you.
+
+* For first remorts, do you know which race you want to be?  If not,
+you should make a decision.
+
+* Do you know what class you want to be, and are you sure that you
+are allowed to be that class?
+
+#
+"REMORT RACE"
+On your first remort, you must select a race.  You may choose any
+race you want, except for god, avatar, dragon, demon, werewolf,
+feline, or vampire.  The ONLY way you can be one of these races is
+if you already are one before you remort.
+
+After you select your race for your first remort, you are stuck
+with that race until you reach your fourth remort.  Choose wisely,
+there will be no leniency in changing races after they have been
+set to you.
+
+On your fourth remort, you can become an avatar if you wish.  You
+get all of your stats maxed to 23.  Naturally, if you do not want
+to be an avatar, you do not have to be.  For example, if you are a
+dragon, you are free to keep dragon as your race if you wish.  You
+would still get your stats maxed in any case.
+
+#
+"REMORT CLASS"
+There are four basic archtypes, warrior, cleric, thief and
+magic user.  Each of these archtypes are the base for three
+special classes.  If you type 'help class' you will see a
+list of all of the classes offered on Elite.
+
+The archtype classes are listed in the first column.  The
+special classes associated with each archtype are in the
+same row as the archtype they are based on.  For example,
+the special types that are derrived from a warrior are
+knight, ranger, and cavalier.
+
+See also CLASS
+
+#
+"REMORT FIRST"
+
+Anyone who is level 109 in all of their classes and is not a
+remort may ask to become a first remort.  When you become a
+first remort, you are put back at level one, with new classes
+and a new race and start all over again.
+
+Your race choices are outlined in the post marked RACES.  The
+way your class choice works is this:   First, you pick whatever
+class you are now.  If you are a multi-class, you must pick one
+of your classes.  If the class that you have chosen is a special
+class (ie, anything but a wa/th/cl/mu), you downgrade it to it's
+archtype (Kn -> Wa, Mo -> Cl, etc...).  Next, you add another
+archtype, and are now a dual class character.  Then, you pick one
+of your two classes and upgrade it to a special class.
+
+For example:  John the 109 th/cl picks cleric as his class.  Then
+he adds warrior to it.  This now makes him a wa/cl.  He upgrades
+the warrior to a ranger and John becomes a level 1, Ra/Cl.  This
+seems fairly simple, if there are any questions, ask a remort god.
+
+#
+"REMORT SECOND"
+
+In order to become a second remort, you must be a first remort that
+is level 109 in all of your classes.  However, the rules now change
+a little bit.
+
+You may not pick a new race.  As you were told when you remorted for
+the first time, you are stuck with that race until your fourth remort.
+
+This time around, instead of picking one of your classes going through
+the procedure for a first remort, you simply upgrade your remaining
+archtype to a special type.
+
+For example.  John, our level 109/109 Ra/Cl wishes to second remort.
+He chooses druid as his second class.  He then becomes John, the
+level 1 Ra/Dr.  And off to level he goes.
+
+#
+"REMORT THIRD"
+
+To become a third remort, you must be a second remort who is level
+109 in all of your classes.  Again, the rules are slightly
+different from those of previous remorts.
+
+This time around, you keep the two archtypes that you have from
+your second remort, and add a third class.  You may add any of the
+four archtypes.  As with second remorts, you are not allowed to
+change your race.
+
+For example, John, our level 109/109 Ra/Dr wants to third remort.
+He chooses to add thief as a new class, and he then becomes
+John, the level 1 Ra/Dr/Th.
+
+#
+"REMORT FOURTH"
+
+In order to become a fourth remort, you must be a third remort
+who is level 109 in all of your classes.  Unlike previous
+remorts, you have a few more options this time around.
+
+Race -- You may choose to become an avatar this time around.
+Avatars are the best race that is still available to mortals.
+If you do not want to be an avatar, that is your choice.  If
+you are a quest race, you may keep that race.  If you are not
+a quest race, and do not wish to become an avatar, you may pick
+any other race you wish.
+
+Hunger & Thirst --  You have the option of having hunger and
+thirst toggled off.  If you do not want hunger and thirst off,
+it is your responsibility to say so.  Vampires may not have
+their blood turned off, being that they are required to role
+play the vampire to remain powerful.
+
+Maxed Stats -- No matter what race you choose on your fourth
+remort, you are allowed to have your stats maxed if you wish.
+If for some reason you do not want your stats maxed, it is your
+responsibility to say so.
+
+Class -- You may pick any class combination on your fourth
+remort, be it a single, dual, or tri class structure.  You are
+not limited to your previous classes in any way.
+
+For example, John, our level 109/109/109 Ra/Dr/Th wants to
+fourth remort.  He decides to become an avatar race and wants
+to be a Ca/Wi/Cl.  However silly this may seem it is a valid
+choice and he then becomes John, the level 1 Ca/Wi/Cl.  He
+gets all of his stats maxed and his hunger and thirst toggled
+off.
+
+Note:  You will be charged 10M gold for each time you remort
+       after your 4th.  
+
+#
+"REMORT TRI"
+
+Because of the TRI clan, we have a special set of rules for people
+who desire to remain TRI class characters for all of their remorts.
+
+First Remort:  Instead of the rules stated, he keeps his three
+classes (wa/cl/mu or wa/th/mu) and is allowed to change any one of
+them to a special class.
+
+Second Remort:  Instead of the rules stated, he keeps his first
+remort race, and has the OPTION to change one of his archtypes to
+any other archtype.  Sorry, Your special class has to remain the
+same.
+
+Third Remort:  Instead of the rules stated, he keeps his second
+remort class and upgrades one of his archtypes to a special class.
+
+Fourth Remort:  You may choose any class combination that you wish.
+
+All of the rules that do not pertain to class selection are the
+same for TRI remorts as with all others, ie, races, hunger/thirst,
+maxing stats...
+
+#
+"REMOVE CURSE"
+
+Usage          : cast 'remove curse' <victim> : cast 35 <victim>
+Duration       : Instant
+Effect         : Removes the Effect of the Curse spell on players
+Cost           : 14 Mn
+#
+"REMOVE EQUIPMENT"
+If you tire of wearing some armor or wielding a weapon.
+
+> remove boots
+> remove sword
+> remove all
+> remove all.bronze
+
+See also: WEAR EQUIPMENT LOCKER
+#
+"REMOVE POISON"
+Usage         : cast 'remove poison' <victim> : cast 43 <victim>
+Cost          : 14 Mn
+Effect        : Removes the effects of being poisoned.
+#
+REPEAT
+
+TOGGLE REPEAT toggles whether or not you see your communication echoed
+back to you (i.e., from commands such as SAY, SHOUT, HOLLER, GOSSIP, 
+etc.)  Useful if you have a slow connection or if it just annoys you.
+#
+REPLY
+
+Reply sends a tell to the last person to tell you something. This will 
+work even if the one you reply to has toggled tell of.
+
+See Also: TELL, NOTELL
+#
+RESCUE
+
+This command is useful if you want to try and make an attacker hit you
+instead of your poor friend who is being pummeled.  You can only 'turn'
+one monster for each rescue attempt.  This is highly useful when playing
+in groups, of course.
+
+rescue <victim>
+
+> rescue quifael
+
+See Also: Protect
+#
+RESIZE
+
+This will resize your active window, parameters are any number from 1 to
+99, the max # of lines you can have displayed on your screen.
+Most standard size screens should be sized to 25 lines.
+
+Usage: res 25 (for example)
+
+See also DISPLAY REDRAW
+#
+"RIMEFANG"
+Usage           : cast 'rimefang' <victim> : cast 87 <victim>
+Damage          : (5d6 + 10) * (level / 6) (max of level 90)
+Cost            : 40 Mn
+Duration        : instantaneous
+#
+RIVER
+The Midgaard river flows from deep within the moria mountains to the
+sea. To travel on this river you need a boat, it can be bought from the
+captain at the leeve in Midgaard.
+#
+SACRIFICE
+
+Use SAC instead of DROP if you want to keep the world a little cleaner.  
+If you SAC something, it will disappear and you'll get a few coins, just 
+as if you had dropped it in the dump.
+
+> sac cup
+> sac all.bronze
+> sac 500 coins
+
+See also: DROP DONATE
+#
+"SANCTUARY"
+
+Usage            : cast 'sanctuary' <victim> : cast 36 <victim>
+Effect:          : Reduces the damage done to you by enemies
+Cost             : 50 Mn
+Duration         : 4 hours
+
+While affected by sanctuary, you will only take half the
+damage you usually would.
+#
+SAVE
+
+Save your persona.  This includes experience points, strength, gold, etc.
+Your equipment is also saved in the (unlikely?) event of a crash.  The
+game periodically auto-saves you and your equipment, so it is not 
+necessary to have your client auto-save you as well.  Aliases are saved 
+as well.
+
+You CANNOT load a saved version if you die -- your persona still exists,
+but you will lose experience, and all your objects stay in the game, with
+your corpse.
+
+Note that the QUIT commands automatically saves you.  When you want to 
+quit, just type quit.
+
+#
+SAY TELL ASK WHISPER YELL  '
+If you consider communicating with other beings, you might be understood
+better if you start your sentences with either say, tell, or whisper.
+
+<say | yell> <string>
+<tell | whisper | ask> <player> <string>
+
+> say Hey, does anyone know how to get to Oz?
+> tell uncle hi, how are you?
+
+You can use ' as a shorthand for say, as in: ' hello there.
+
+Yell broadcasts to everybody in your geographical zone.
+
+Say and tell without parameters shows 10 previous messages
+you heard by this way.
+
+>say
+[IO]  Hi
+[Player]  Hello IO
+[Newbie]  Where i can level?
+[Player]  In newbie zoo.
+[Remort]  Hey Player... wanna PK?
+[Player]  Nope, thank IO.
+[IO]  You are welcome. :)
+
+See also: GOSSIP AUCTION GTELL NOREPEAT QSAY NOTELL REPLY DEAF
+#
+SCORE
+
+Whenever you want to check whether you're still alive and healthy
+or simply want to see how much money you have left.
+
+See also: STAT
+#
+SCOUT
+
+This skill will display location of mobs in your surrounding area. It's
+accuracy depends on how good you are at the skill.
+
+Example: > scout
+         North: 1 - [2] Beastly Fido
+         South: 2 - Mercenary
+
+means that there are 2 beastly fidos 1 step north and 1 Mercenary 2 steps
+south.
+
+See also: TRACK
+#
+SCREENMODES
+
+If your terminal supports vt100+ codes you may want to use this.  That 
+will give you a info-bar in the game.  If you have a color monitor and 
+can use ANSI color, this is also supported by Elite.
+
+See Also: DISPLAY, COLOR, TOGGLE, PC
+#
+SECOND THIRD FOURTH ATTACK
+
+Depending on your class, you can attack up to four times each 'round'.
+All classes can practice second attack.  Only warriors, rangers, knights,
+cavaliers and mariners may attack up to four times a round.
+
+See also:  DUAL WEAPONS
+#
+"SENSE LIFE"
+Usage          : cast 'sense life' : cast 44
+Effect         : Gives the ability to see hidden mobs
+Cost           : 13 Mn
+Duration       : Level +1 hours
+
+When cast, this spell will give the caster the ability to sense hidden
+life forms in a room. Only possible to use on yourself.
+#
+"SHADOW KNIFE"
+Usage           : cast 'shadow knife' <victim> : cast 101 <victim>
+Damage          : (1d20 + 20) * (level / 5) (max lvl of 100)
+Cost            : 60 Mn
+Duration        : instant
+#
+"SHOCKING GRASP"
+Usage           : cast 'shocking grasp' <victim> : cast 37 <victim>
+Damage          : 5d8 + 5
+Duration        : instant
+Cost            : 12 Mn
+#
+"SHOCKING SPHERE"
+Usage           : cast 'shocking sphere' <victim> : cast 63 <victim>
+Damage          : 4d8 + level/4 (max 10)
+Duration        : instant
+Cost            : 35 Mn
+#
+SHOPS
+
+Shops are places where the adventurer may purchase equipment for his 
+quests, and where he may sell his treasure if he should manage to survive 
+the perils with his life and sanity intact. Many shops trade only in a 
+specific type of merchandise. Thus, a baker may well refuse to buy your 
+armor, even if it is of high quality!
+   To some people, the prospect of obtaining the entire inventory of a 
+shop by murdering the keeper may appear tempting - but beware: The 
+shopkeepers are often rugged, capable men; roughened by years of trading 
+and, indeed, surviving in a world where the only safe prospect is death 
+in the end.
+
+> list       - Will display the items for sale
+> buy ITEM   - Buy a item  Ex: buy sword
+> sell ITEM  - Sell a item the shopkeeper deals with
+> Value ITEM - Ask the shopkeeper how much he is willing to pay for your ITEM
+#
+SLASH
+
+A general skill for all classes.  The knowledge of how to use slashing
+weapons like swords.  You will have a greater chance of hitting your
+enemy with a slashing weapon.
+
+See also:  PIERCE BLUDGEON STAB CHOP
+#
+SLEEP
+
+Usage            : cast 'sleep' <target> : cast 38 <target>
+Effect           : Puts your target to sleep
+Duration         : 4 + level/4
+Cost             : 24 Mn
+
+This spell will fail if the target level is higher than the caster's or
+if the target has a successfull saving throw vs. magic.
+#
+SNEAK
+
+Rogues Only.
+
+Used for sneaking (moving in and out of rooms without anyone taking 
+notice).  When you type sneak, there is no way to know if you're actually 
+sneaking.  If you successfully sneak, then you'll continue to sneak for a 
+little while.
+
+> sneak
+
+See Also : HIDE
+#
+SOCIALS
+
+Socials are commands used to show your affective state to others.  The
+actor, victim and bystanders may receive different messages.  Generally,
+social commands are used only to express emotion, but it is possible that
+some mobs (or players) will take action based on the social.
+
+<social> [<victim>]
+
+> shake homer
+> applaud marge
+> stare
+
+The SOCIALS command generates a canonical listing of all available socials.
+
+> socials
+
+See also: EMOTE
+#
+"SPECTRE TOUCH"
+Usage           : cast 'spectre touch' : cast 73
+Damage          : 4d10 + level (max of 40)
+Cost            : 30 Mn
+Duration        : instantaneous
+
+Spectre Touch has a victim affect of -1 strength for 4 hours, if the 
+saving throw is not successful.  If the saving throw is successful, the 
+affection is -1 strength for 1 hour.
+#
+SPEEDWALK
+
+On Elite you can use speedwalk to travel through the world.  Speedwalk 
+means that you can abbreviate your directions and type them together when 
+you are familiar with the path.
+
+> dd  -->  down;down
+> 3s2e2s  (From temple to river)
+> 2s6w8n  (Temple to Moria)
+
+If you want to avoid speedwalk you can type in CAPITAL LETTERS.  You can 
+also disable the speedwalk with the TOGGLE command.
+
+> NEWS  --> Will display news instead of walking n, e, w, s
+
+See also: ALIAS TOGGLE
+#
+SPELLCRAFT
+
+The lore and history of spells.  As an adept in this skill, you are able 
+to determine what sort of spell others are casting, even if they are not 
+of your class.
+#
+SPLIT
+
+Usage:  SPLIT <amount to split>
+
+SPLIT is used to split money among people in your group who are in the 
+same room as you.  If you are in a group with 4 other people, all of whom 
+are in the same room with you, and you type SPLIT 100, you will give each 
+of the other 4 group members 20 coins each.  (100 coins is split 5 ways; 
+you keep your share and give everyone else their share).
+
+See also: GROUP FOLLOW
+#
+STAB
+
+A general skill for all classes.  The knowledge of how to use stabbing 
+weapons like daggers, knives etc.  You will have a greater chance of 
+hitting your enemy with a stabbing weapon.
+
+See also:  PIERCE BLUDGEON SLASH CHOP
+#
+"STAR FLARE"
+Usage           : cast 'star flare' : cast 72
+Damage          : 5d8 + 2 * level (up to level 50)
+Cost            : 15 Mn
+Duration        : Instantaneous
+#
+"STAT STATS"
+
+Will display your statistics. This includes your age and leve, your
+armour class, hitroll, damroll and resistances, and also your
+characteristics like strength, intelligence, wisdom, dexterity, 
+constitution and charisma. It also lists any skills or spells that
+are currently active.
+#
+STEAL
+
+Rogues Only.
+
+Use steal to steal gold or items from mobs. The chance of not getting
+caught depends on how well you have practiced steal, and if the person
+is asleep.
+
+Example:
+
+> steal gold drunk
+
+> steal sword mercenary
+  (only possible if he is sleeping)
+
+#
+STRENGTH
+Usage            : cast 'strength' <target> : cast 39 <target>
+Effect           : If level < 18, Str +1. If level > 18, Str +2.
+Cost             : 25 Mn
+Duration         : 4 + (level/2)
+#
+"SUMMON"
+Usage          : cast 'summon' <victim> : cast 40 <victim>
+Duration       : Instant
+Cost           : 45 Mn
+Save           : Save vs. Magic
+
+When cast, this spell will transport another player or mobile to
+the caster. Mobiles will get a saving throw.
+#
+SWEEPER
+
+Every day, the mud loads about thirty thousand objects. If they
+were just left lying around, then very quickly the mud would be
+full of junk.
+
+To prevent this, when a zone resets, a SWEEPER goes through each
+room in the zone, and clears away any discarded objects. This is
+why it is dangerous to leave objects lying around on the ground - 
+they might get cleared up by mistake!
+
+To avoid losing items, NEVER drop them in game zones. The only safe
+places to drop items are inside your clanhouse, or in the donation
+room in Midgaard.
+
+#
+SWIM
+
+With this skill, you can swim across lakes, rivers and other shallow 
+waters.
+#
+"TELEPORT"
+Usage          : cast 'teleport' : cast 2
+Cost           : 50 Mn
+Duration       : Instant
+
+When cast, this spell will randomly transport the caster to another
+room. Use with caution, since you can teleport into really dangerous
+places.
+#
+"TERRORWEAVE"
+Usage           : cast 'terrorweave' <victim> : cast 104 <victim>
+Damage          : (1d30 + 30) * (level / 5)
+Cost            : 80 Mn
+Duration        : instant
+#
+THIEF
+
+Thieves possess a variety of special abilities that no other class
+offers. These skills allow them to break into locked rooms, sneak past
+guards, steal from merchants, and ambush the unwary.
+
+    You can improve your skills by using the practice command in
+Thief Guild.
+
+See also: PRACTICE, GUILD, MIDGAARD
+#
+THROW
+
+Rogues only.
+You will throw the weapon you are wielding at the enemy.  All weapons can
+be thrown but the most effective ones are piercing weapons.
+
+> throw <victim>
+#
+TIME
+
+Gives you the current game time.  Your initial reaction to the output of
+this command may be one of surprise, but you'll get used to it.
+
+See Also: DATE
+#
+TITLE
+
+Sets the title people see on the WHO list and when you're in the room 
+with them.  You can't use parentheses (the "(" and ")" characters) 
+because those are reserved for flags.  TITLE without any argument will 
+set you title to one of the predefined.  Do not abuse this command; if 
+you do, it will be taken from you.
+
+See also:  FLAGS
+#
+TOGGLE
+
+TOGGLE shows you the current values of various toggles available on the 
+MUD.  This command is also used to change most of these values.
+All of these toggles remain the same until you change them; i.e. they are
+saved when you quit or rent.
+To get a list of the things you can change, type: TOGGLE HELP
+
+See Also:  DISPLAY BRIEF COMPACT QUEST REPEAT WIMP
+#
+TRACK
+
+Used for finding the first step on the shortest route to a monster.
+
+> track fido
+#
+TROLL
+
+Trolls are ugly, strong, and dumb.  They love to fight with almost
+anything that moves, and even things that don't move!  Trolls have been
+known to attack even a dead foe.  Their stout bodies can take a lot
+of abuse with little wear and tear, and it sure is hard for them to get
+any uglier.  Trolls vary in appearance, but most tend to have dark hair
+and eyes with putrid skin and teeth.  They don't normally smell very
+good, a result of their taste for raw flesh.  Trolls are not the smartest
+creatures, but they sure know how to fight.
+#
+TUMBLE
+
+A thief skill like dodge.
+#
+"UNFAIR FIGHT"
+
+You are familiar with all the tricks to make you the winner of a fight.  
+Some sand in the eyes.  A well placed kick in the groins.  A bite on his 
+arm.  This skill is automatical and will be used when opportunity arises. 
+It will not however do any damage to the opponent.
+#
+UNGROUP
+
+UNGROUP can be used by group leaders to disband the entire group, or
+to kick a specific group member out of the group (and stop him/her from
+following the leader).
+
+> ungroup
+> ungroup homer
+
+See also: GROUP
+#
+"UNLEASH MIND"
+Usage           : cast 'unleash mind' <victim> : cast 106 <victim>
+Damage          : (1d20 + 20) * (level / 5)
+Cost            : 80 Mn
+Duration        : instant
+#
+USE WAND STAFF STAFFS WANDS
+
+Use : Use <Staff>
+      Use <Wand> <Target>
+
+Using staff's will automatically target everybody (or everything) in a
+room, execpt yourself. Therefore staff's are naturally very powerful, and
+yet may be very dangerous to use around other players.
+
+Using wands require that you point it at a target, which can be eihter a
+character or an object.
+
+Both staff's and wand's must be HELD in the hand prior to use! (Use the
+grab or hold commands). You must still supply the name of the staff or
+wand to avoid confusion.
+
+See Also: SCROLL, POTION
+#
+VAMPIRE
+                             #mVAMPIRE#W
+
+When a human's mortal blood is tainted by that of the undead, a vampire 
+is born. These abominations of nature have the potential to be more 
+powerful in every respect than a human ever could possibly imagine.  A 
+vampire can incorporate the characteristics of a bat into thier bodies 
+and take flight.  Also, these defilers of God's life cycle no longer 
+require normal sustinance; instead they feed on the blood of their 
+victims.  This act causes thier strength to grow, but the longer they 
+roam without feeding the weaker they become, ensuring that their hunger 
+rules their unlives eternally.
+
+ #mTo Apply#W
+
+The level minimum for joining the vampire quest race is 50, or remort
+status.  Your writing ability, role playing talent, and mud knowledge 
+will be tested.
+#
+VISIBLE
+
+Use this command to break your spell of invisibility before it expires.
+#
+"VORPAL PLATING"
+Usage            : cast 'vorpal plating' <target> : cast 67 <target>
+Effect           : AC -30
+Cost             : 20 Mn
+Duration         : 12 hrs
+#
+WAKE SLEEPING REST SIT STAND
+
+For changing your position.  If you feel weary, it's probably a good idea
+to sit and rest for a while, or maybe even take a nap.
+#
+WARRIOR FIGHTER
+
+Warriors are known to have more strength than the average player. They
+excel at hand-to-hand-combat, as they possess skills of violence and
+fighting unequaled by the members of any other class. They do, however,
+lack ability to use magic of any sort.
+
+    You can improve your skills by using the practice command in
+Warrior Guild.
+
+See also: PRACTICE, MIDGAARD, GUILD
+#
+"WARSTRIKE"
+Usage           : cast 'warstrike' <victim> : cast 52 <victim>
+Damage          : 4d6 + level/4 (max 10)
+Duration        : instant
+Cost            : 30 Mn
+#
+WEAR
+
+If you want to wear some clothes, armor or the likes.
+
+Also, to wear everything in your inventory (or at least try to, as 
+wearing things like loaves of bread is not a good way to win friends and 
+influence people) you can type "wear all".
+
+Optionally, you can specify what part of your body to wear the equipment 
+on.
+
+> wear boots
+> wear all.bronze
+> wear all
+> wear ring finger
+
+See also: EQUIPMENT, REMOVE EQUIPMENT, WIELD, HOLD
+#
+WEATHER
+
+If you're uncertain whether the sun is shining or the rain is pouring 
+down.
+#
+WEREWOLF
+
+When the full moon rises, the werewolves prowl the streets of Midgaard.
+Proud warriors able to assume the form of the wolf, these deadly 
+predators battle between their own inner rage and a world that calls them 
+monsters.
+
+Defenders of nature from mankind, these creatures are known for their
+inherent goodness.  Despite this, some are consumed by their rage and 
+turn to evil.  These deadly beings are feared the most of all.
+
+Contrary to mythology, werewolves are born, not made, and no-one knows
+they are a were until the changes begin to occur.  Certainly, some people
+may feel out of place or different from others;  they tend to be broody
+and solitary, but it's not until their first rage takes them that they
+know the truth.  This is often the hardest time for the new werewolf, for
+they must reconcile their new, dangerous selves with their lives. 
+
+Werewolves are the creatures born to prey on mortal men.  For this 
+reason, they are dangerous, and driven by their hunger.
+
+Chani is currently in charge of the werewolf race.
+#
+WHERE
+Tells you which players are currently in the same zone as you.
+
+Immortals may type 'where' without arguments to see where everybody is.
+
+> where
+#
+WHO
+
+Lists the people currently in the game.  Some people may be invisible.
+Command-line options can be used to limit the listing.  The parameters
+can be specified on the command-line in any order.
+
+who [minlev[-maxlev]][-n sname][-c class][-r race][-k clanvnum]
+    [-s -o -p -q -r -z -R -< ->]
+
+minlev, maxlev : list only people whose level is at or above minlev, and
+                 optionally, at or below maxlev
+-< : Sort the list in ascending levels.
+-> : Sort the list in descending levels.
+-n : list only people whose names or titles contain sname
+-c : list only people of a certain class, where class is the name of the 
+     class consisting of at least 4 characters.
+-r : list only people of a certain race, where race is the name of the 
+     race consisting of at least 4 characters
+-k : list only people of a certain clan, where clanvnum is number of the
+     clan (as shown on clan info)
+-s : list names in the short form.
+-o : list only outlaws (i.e. people with a killer or thief flag)
+-p : list only #rPKOK#N (i.e. people in the Global PK System)
+-q : list only people who are on the Quest
+-R : list only people who are in your room
+-z : list only people in your zone
+
+> who -c warr -s -l 20
+   List, in short form, warriors and clerics at or above level 20
+> who 15-25 -o -z -r duck
+   List all duck outlaws between levels 15 and 25 who are in your zone.
+#
+WIELD
+
+When you get tired of bashing monsters with your fists, you might 
+consider wielding a weapon.
+
+> wield sword
+
+See also: EQUIPMENT, REMOVE EQUIPMENT, WEAR, HOLD
+#
+WIMP WIMPY
+
+Use the WIMP command to automatically wimp out of a fight.
+
+WIMP 35 will make your character automatically flee a fight if he/she has
+     less than 35 hit points.
+WIMP 0  will turn off wimpy mode.
+WIMP    will show you your current wimp status.
+
+See also:  TOGGLE
+#
+WIZARD
+
+These spellcasters seek out ways to bind the raw energy of their
+external world and harness it for their own purposes. Knowing at first
+only a few megre spells, apprentice wizards can begin to learn ways to
+harness the very elements of the universe.
+
+    You can improve your spells and skills by using the practice
+command in Magic Guild.
+
+See also: PRACTICE, GUILD, MIDGAARD
+#
+WIZLIST IMMLIST
+
+Immlist lists the Immortal Structure (ie who is working on what).
+The structure is made up as follows:
+
+                      Implemetor(s)
+                            |
+                ------------------------
+               |            |           |
+            Balance       Devel       World
+
+
+Balance, Code and World Groups are further divided into teams.
+These teams can be identified by the following colourisation: #c
+Character      #YRahl #NKosomot
+
+and the Team Head (as per above example) is displayed in #Yyellow#N.
+
+Some of these teams contain sub-teams and these are displayed
+in #Ccyan#N. ie#c
+Information    #YArticus#C
+Helpfiles                             Imm Training   #NTurf
+
+
+
+Wizlist lists the Immortals in the more formal level structure.
+It does not list retired or trainee immortals (110-111)
+#
+WIZNAME PRENAME
+Format of player information as it shows up on the "who" list:
+
+[Wizname] Prename <player-name> title [clan title]
+
+  #yPrenames#N are given if you are level 100 or above.
+  Non-standard #rWiznames#N are given if you are a 3rd remort or higher.
+
+To set a WIZNAME or PRENAME type "wizname <text>" or "prename <text>"
+
+See also: REMORT
+
+#
+"WORD OF HEALING"
+Usage            : cast 'word of healing' <target> : cast  50 <target>
+Effect           : 2d8
+Cost             : 6 Mn
+Duration         : Instant
+
+A healing spell.
+#
+"WORD OF RECALL"
+Usage          : cast 'word of recall' : cast 42
+Effect         : Teleports to safety
+Cost           : 30 Mn
+Duration       : Instant
+
+When cast, this spell will safely transport the caster to the temple
+of Midgaard. Only possible to use on yourself.
+#
+WORSHIP
+
+The worship system work like this:
+
+   After a certain level (5) you can start worshipping any player
+above a certain level (99).  You do this with WORSHIP PLAYERNAME.
+
+> worship <player>
+
+Note that you cannot abbreviate the worship command.  If you do it'll be
+considered as the worship social. (worshi)  Worship will give your deity 
+or hero more power, thereby showing how popular he/she/it is.  The person 
+will naturally be more helpful towards their worshippers.
+
+Also note that only long term worshipping, ie not change deities often, 
+will affect the worshipped.  Sporadically changing deity does nothing.  
+There is also a PENALTY for changing deities.  You LOSE all your current 
+EXPERIENCE.  This do not apply when you first start to worship someone.  
+
+You can check whom you are worshipping in the SCORE list.
+#
+WRITE
+
+In order to write a note, you need a piece of blank paper (or similar), 
+and a pen of some sort. You can then type something like "write on the 
+paper with the pen", whereupon you'll be asked to type in your note at 
+the keyboard.
+
+To post a message on a board:
+> write <headline>
+
+See Also: BOARD
+#~
+

@@ -1,0 +1,355 @@
+#16001
+oven black~
+an oven~
+A huge black oven is here.~
+~
+15 0 0 a 0
+1000 5 -1 0 0 0
+1000 1000 1000
+#16002
+locker~
+a meat locker~
+An enormous meat locker is here.~
+~
+15 0 0 0 0
+1000 5 -1 0 0 0
+1000 1000 1000
+E
+locker~
+You just had the horrid thought that a cadaver might be in there.
+~
+#16005
+chunk meat~
+a large chunk of meat~
+A large chunk of meat is here.~
+~
+19 0 0 0 a
+24 0 0 1 0 0
+2 20 5
+#16007
+broom straw~
+a straw broom~
+A straw broom is here leaning against the wall.~
+~
+13 1 0 0 ao
+0 0 0 0 0 0
+5 5 1
+E
+broom straw~
+A magical flying broomstick?  Nah!  Not here.
+~
+#16009
+cabinet~
+a cabinet~
+A cabinet is here.~
+~
+15 0 0 0 0
+5000 5 -1 0 0 0
+10000 10 10
+#16010
+bar silver~
+a bar of silver~
+A bar of silver has been left here.~
+~
+8 1 0 0 a
+0 0 0 0 0 0
+10 1000 500
+#16011
+bar gold~
+a bar of gold~
+A bar of gold has been left here.~
+~
+8 1 0 0 a
+0 0 0 0 0 0
+11 2000 750
+#16012
+bar mithril~
+a bar of mithril~
+A bar of mithril has been left here.~
+~
+8 1 0 0 a
+0 0 0 0 0 0
+12 3000 950
+#16013
+bar adamantite~
+a bar of adamantite~
+A bar of adamantite has been left here.~
+~
+8 1 0 0 a
+0 0 0 0 0 0
+15 5000 1000
+#16014
+hammer mithril~
+a mithril hammer~
+a mithril hammer has been left here.~
+~
+5 13 0 g an
+0 2 6 6 0 0
+18 5000 500
+A
+18 2
+A
+1 1
+#16015
+chest~
+a chest~
+A chest is here.~
+~
+15 0 0 a 0
+5000 15 16016 0 0 0
+1000 1000 1000
+#16016
+key~
+a small key~
+A small key has been left here.~
+~
+18 1 0 0 a
+2 0 0 0 0 255
+1 1 1000000
+#16017
+ruby long sword~
+a ruby long sword~
+A long sword made of ruby lies here.~
+~
+5 50 bfj g an
+0 4 12 3 0 0
+8 10000 1000
+A
+18 5
+A
+19 5
+#16018
+dagger silver~
+a silver dagger~
+A finely crafted dagger made of silver is on the ground here.~
+~
+5 50 bf g an
+0 5 7 11 0 0
+5 15000 1200
+A
+18 5
+A
+19 5
+#16019
+scimitar~
+a curved scimitar~
+A curved scimitar is here in a jewel-covered sheath.~
+~
+5 50 bfj g an
+0 4 12 3 0 0
+10 8000 1000
+A
+18 3
+A
+19 3
+#16020
+juice bottle~
+a bottle of cranberry juice~
+A bottle of cranberry juice is here.~
+~
+17 1 0 0 ao
+25 25 2 0 0 0
+25 1 1
+#16023
+key old~
+an old key~
+An old key is here~
+~
+18 0 0 0 a
+0 0 0 0 0 255
+1 1 1000000
+#16026
+broach diamond~
+a diamond broach~
+A diamond broach is here.~
+~
+9 25 0 agk ac
+6 0 0 0 0 0
+5 8000 1000
+A
+12 50
+#16051
+cup brew herbal~
+a herbal brew~
+A herbal brew is here.~
+~
+17 1 0 0 a
+5 5 11 1 0 0
+2 11 5
+#16052
+waybread~
+a waybread~
+A loaf of waybread has been left here.~
+~
+19 1 0 0 a
+32 0 0 0 0 0
+3 65 5
+#16055
+cleaver~
+a meat cleaver~
+A meat cleaver is sticking in the wall here.~
+~
+5 20 bfj 0 an
+0 3 5 3 0 0
+8 600 100
+#16056
+shackles chain~
+some chain shackles~
+Some chain shackles have been discarded here.~
+~
+13 1 0 gh a
+0 0 0 0 0 0
+15 750 1000
+A
+12 -100
+A
+14 -82
+#16059
+scroll~
+a scroll named "Protesci"~
+A scroll named "Protesci" lies discarded here.~
+~
+2 25 dhklnop g a
+50 67 61 -1 0 0
+1 8000 1000
+E
+scroll~
+  You can only make out two words, something about plate and fast 
+heal.
+~
+#16060
+scroll repmuj~
+a scroll named 'repmuj'~
+A scroll named 'repmuj' lies here.~
+~
+2 25 dhklnop g a
+50 28 61 14 0 0
+2 10000 500
+E
+scroll repmuj~
+This is written in a handwriting smiliar to that of a doctor.
+~
+#16061
+tube~
+a long cylindrical tube~
+A long cylindrical tube is rolling around here.~
+~
+15 10 0 g a
+100 5 -1 0 0 0
+8 5000 400
+#16062
+scroll poofsky~
+a scroll named 'poofsky'~
+A scroll with the words 'poofsky' on it lies here.~
+~
+2 25 dhklnop g a
+20 2 -1 -1 0 0
+5 10000 2000
+#16064
+pouch leather~
+a leather pouch~
+A leather pouch is on the ground here.~
+~
+15 1 0 g ao
+100 0 -1 0 0 0
+2 1750 50
+#16065
+spoon silver~
+a silver stirring spoon~
+A silver stirring spoon has been left here.~
+~
+12 1 0 g ao
+0 0 0 0 0 0
+1 5000 500
+A
+24 -1
+#16067
+potion milky white~
+a milky white potion~
+A milky white potion lies here.~
+~
+10 25 0 g a
+65 36 0 0 0 0
+1 7000 1000
+E
+potion milky white~
+This potion is thick enough to coat your armor with.
+~
+#16068
+potion green~
+a green potion~
+A green potion lies here.~
+~
+10 25 0 g a
+50 14 43 35 0 0
+1 6000 200
+E
+potion green~
+This potion looks good, but it smells slightly antiseptic.
+~
+#16069
+potion purple~
+a purple potion~
+A purple potion is here.~
+~
+10 25 0 g a
+50 1 39 39 0 0
+2 5000 400
+E
+potion purple~
+This potion shocks you as you try to touch it.
+~
+#16070
+potion black~
+a thick black potion~
+A thick black potion is lying here.~
+~
+10 25 0 g a
+99 4 17 33 0 0
+1 1000 400
+E
+potion black~
+This potion flows slowly and singes your nosehairs.
+~
+#16071
+ruby dagger~
+a ruby dagger~
+A dagger made of ruby lies on the ground.~
+~
+5 40 bf g an
+0 5 6 11 0 0
+8 10000 1000
+A
+18 5
+A
+19 5
+#16072
+robe armor~
+a robe of protection~
+A strange robe is laying here.~
+~
+9 45 bcdhklops g ad
+20 0 0 0 0 0
+20 25000 5000
+A
+21 10
+A
+20 10
+#16073
+staff of control~
+a staff of control~
+A strange staff lies here on the ground.~
+~
+4 50 cdhklnops g ao
+70 10 10 7 0 0
+14 10000 2000
+#16074
+key diamond~
+a diamond key~
+A diamond key lies here.~
+~
+18 1 0 0 a
+2 0 0 0 0 255
+1 100 1000
+#99999
+$~

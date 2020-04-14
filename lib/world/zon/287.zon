@@ -1,0 +1,33 @@
+#287
+Clans~
+28799 1 0
+*
+*** ADVENTURERS GUILD HOUSE (100)
+O 0 39 100 28704      Guard Statue Guarding  GUILD
+O 0 3087 100 28705    Newbie Board
+O 0 40 100  28701     Newbie Power Board
+O 0 28700 100 28700   Barrel of water
+M 0 28700 1 28706     Mad prophet
+G 1 28701 100          more healing
+G 1 28702 100          staff of healing
+G 1 28703 100          staff of healing
+G 1 28704 100          staff of healing
+G 1 28705 100          staff of healing
+M 0 28702 1 28700      barman
+G 1 28714 100          staff of healing
+G 1 28715 100
+G 1 28716 100
+G 1 28717 100
+M 0 28701 1 28702     cook
+G 1 28706 100
+G 1 28707 100
+G 1 28708 100
+G 1 28709 100
+G 1 28710 100
+G 1 28711 100
+G 1 28712 100
+G 1 28713 100
+S
+#99999
+$~
+

@@ -1,0 +1,183 @@
+#14911
+key SOMETHING00~
+ inventory_desc00~
+ Room_Desc00~
+~
+18 1 0 0 a
+14911 0 0 0 0 241
+1 1 1
+E
+key SOMETHING00~
+ Examine_desc00
+~
+#14912
+key SOMETHING00~
+ inventory_desc00~
+ Room_Desc00~
+~
+18 1 0 0 a
+14912 0 0 0 0 241
+1 1 1
+E
+key SOMETHING00~
+ Examine_desc00
+~
+#14913
+key SOMETHING00~
+ inventory_desc00~
+ Room_Desc00~
+~
+18 1 0 0 a
+14913 0 0 0 0 241
+1 1 1
+E
+key SOMETHING00~
+ Examine_desc00
+~
+#14914
+key SOMETHING00~
+ inventory_desc00~
+ Room_Desc00~
+~
+18 1 0 0 a
+14914 0 0 0 0 241
+1 1 1
+E
+key SOMETHING00~
+ Examine_desc00
+~
+#14915
+key SOMETHING00~
+ inventory_desc00~
+ Room_Desc00~
+~
+18 1 0 0 a
+14915 0 0 0 0 241
+1 1 1
+E
+key SOMETHING00~
+ Examine_desc00
+~
+#14916
+key SOMETHING00~
+ inventory_desc00~
+ Room_Desc00~
+~
+18 1 0 0 a
+14916 0 0 0 0 241
+1 1 1
+E
+key SOMETHING00~
+ Examine_desc00
+~
+#14917
+key SOMETHING00~
+ inventory_desc00~
+ Room_Desc00~
+~
+18 1 0 0 a
+14917 0 0 0 0 241
+1 1 1
+E
+key SOMETHING00~
+ Examine_desc00
+~
+#14918
+key SOMETHING00~
+ inventory_desc00~
+ Room_Desc00~
+~
+18 1 0 0 a
+14918 0 0 0 0 241
+1 1 1
+E
+key SOMETHING00~
+ Examine_desc00
+~
+#14919
+key SOMETHING00~
+ inventory_desc00~
+ Room_Desc00~
+~
+18 1 0 0 a
+14919 0 0 0 0 241
+1 1 1
+E
+key SOMETHING00~
+ Examine_desc00
+~
+#14920
+key SOMETHING00~
+ inventory_desc00~
+ Room_Desc00~
+~
+18 1 0 0 a
+14920 0 0 0 0 241
+1 1 1
+E
+key SOMETHING00~
+ Examine_desc00
+~
+#14921
+key SOMETHING00~
+ inventory_desc00~
+ Room_Desc00~
+~
+18 1 0 0 a
+14921 0 0 0 0 241
+1 1 1
+E
+key SOMETHING00~
+ Examine_desc00
+~
+#14922
+key SOMETHING00~
+ inventory_desc00~
+ Room_Desc00~
+~
+18 1 0 0 a
+14922 0 0 0 0 241
+1 1 1
+E
+key SOMETHING00~
+ Examine_desc00
+~
+#14923
+key SOMETHING00~
+ inventory_desc00~
+ Room_Desc00~
+~
+18 1 0 0 a
+14923 0 0 0 0 241
+1 1 1
+E
+key SOMETHING00~
+ Examine_desc00
+~
+#14924
+key SOMETHING00~
+ inventory_desc00~
+ Room_Desc00~
+~
+18 1 0 0 a
+14924 0 0 0 0 241
+1 1 1
+E
+key SOMETHING00~
+ Examine_desc00
+~
+#14925
+reward~
+ inv_desc00~
+ Room_Desc00~
+~
+8 1 0 ahm ap
+0 0 0 0 0 0
+0 100000 0
+E
+ reward~
+ desc00
+~
+B fC
+#99999
+$~

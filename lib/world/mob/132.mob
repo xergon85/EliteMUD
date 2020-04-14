@@ -1,0 +1,2481 @@
+#13200
+enraged angry mob dwarf male~
+an enraged dwarf~
+The dwarf looks angrily at YOU!
+~
+ You seem to have done something you should not do. A fair guess is that
+you bought an entry at hourly rates from Slick (a scumbag by profession) 
+to his location. Prostitution is not popular amongst the harbour town 
+citizen and against the law as well. Now he is here to more handily punish 
+you for your wicked behaviour.
+~
+9 1 bfijkm fkyD -600 S
+100 -32 -45 2d500+2459
+401 500 100 1d50+51
+-1 -1 -1
+700 1084545 8 8 1
+A
+%%5 emote roars 'You Bastard!' spraying you with froth.
+;%5 emote glares at you with great contempt.
+~
+#13201
+enraged angry mob dwarf male~
+an enraged dwarf~
+The dwarf looks at YOU with great disgust!
+~
+ You seem to have done something you should not do. A fair guess is that
+you bought an entry at hourly rates from Slick (a scumbag by profession) 
+to his location. Prostitution is not popular amongst the harbour town 
+citizens and against the law as well. Now he is here to more handily 
+punish you for your wicked behaviour.
+~
+9 1 bfijkm fkyD -600 S
+100 -32 -45 2d500+2459
+404 500 100 1d50+51
+-1 -1 -1
+700 1084545 8 8 1
+A
+%%5 emote faces you with a wicked grin.
+;%5 emote smiles wickedly towards you.
+~
+#13202
+enraged angry mob dwarfess female~
+an enraged dwarfess~
+The dwarf woman glares at YOU angrily.
+~
+ You seem to have done something you should not do. A fair guess is that
+you bought an entry at hourly rates from Slick (a real naughty scumbag) 
+to her location. Prostitution is not popular amongst the harbour town 
+citizen and against the law as well. Now she is here to make you feel how 
+wrongly you acted.
+~
+9 1 bfijkm fkyD -600 S
+100 -32 -45 2d500+2459
+406 500 100 1d50+51
+-1 -1 -1
+700 1084545 8 8 2
+A
+%%5 emote hollers 'THERE YOU ARE!'
+;%5 emote glares at you with great contempt.
+~
+#13203
+enraged angry mob dwarfess female~
+an enraged dwarfess~
+The dwarf woman stares enraged at YOU!.
+~
+ You seem to have done something you should not do. A fair guess is that
+you bought an entry at hourly rates from Slick (a real naughty scumbag) 
+to her location. Prostitution is not popular amongst the harbour town 
+citizen and against the law as well. Now she is here to more handily 
+punish you for your wicked behaviour.
+~
+9 1 bfijkm fkyD -600 S
+100 -32 -45 2d500+2459
+409 500 100 1d50+51
+-1 -1 -1
+700 1084545 8 8 2
+A
+%%5 emote screams 'You PIG!'
+;%5 emote practice swings her big axe a few times.
+~
+#13204
+lady lust~
+the Lady of Lust~
+A Dying Lady of Lust lies before you.
+~
+ The dwarfen woman has not spent much time at her new profession. Her
+life has been a continous struggle to keep above the surface but she
+finally fell through, tempted by the grandiose visions she was served by
+her employer, Slick. Now she regrets it, but she is bound by a more or
+less slavelike contract.
+~
+9 4 0 0 10 S
+1 20 9 1d1+9
+400 500 100 1d0+0
+-1 -1 -1
+1 10 1 1 2
+#13205
+Jenny Haniver~
+Jenny Haniver~
+Jenny Haniver is acting out her anger over something.
+~
+ A natural leader, this aggravating woman. She leaves no cause
+unattended, no struggle unfought and no mischief unmessed with. People
+say she causes trouble, but she merely accentuates them in favour of
+close and physical argumentation. Nevertheless she is shunned by most,
+except those whose arguments she is dabbling with at the moment.
+~
+0 2 bfijklm fdhkyz -1000 S
+109 -32 -50 3d500+3132
+405 500 33 1d64+25
+407 500 34 1d24+25
+410 500 33 1d34+55
+-1 -1 -1
+21881 1342602 8 8 2
+A
+%%5 emote sharpens her claws.
+;%5 say Welcome
+~
+R
+-1 -1 -1 -1 40
+#13206
+minotaur~
+the minotaur~
+The battle scenting minotaur has found someone to start a battle with.
+~
+ Anything approaching battle evaporates pheromones from their glands, if
+they have any. And when they do, these pheromones are easily picked up
+over huge distances by a war-smelling and fight-scenting minotaur nose.
+Especially if it is as large as this one's. This otherwise typical sample
+of his breed sniffed up a possible battle and forced his way there. Now
+he
+is about to start one by himself at any moment unless you beat him(to
+it).
+~
+12 4 bfijk zyD 0 S
+105 -30 -48 3d500+2806
+403 500 100 1d52+53
+-1 -1 -1
+11025 1221089 8 8 1
+A
+%%5 emote aims his horns towards YOU!
+;%5 emote snorts at you.
+~
+R
+-1 -1 -1 -1 20
+#13207
+bony fish~
+The bony fish~
+A big but bony fish just noticed its first food in ages.
+~
+ The food supply for fish in this place is not plenty, very meager in
+fact and the fish just have to widen their usual food selection. This
+particular fish has not had a decent meal in ages, which is pretty
+clear as it is mostly skin, bones and a few occasional pointy teeth.
+~
+0 0 bcfijkgm C 0 S
+63 -7 -22 1d500+1051
+408 500 100 1d41+22
+-1
+308 100
+-1
+-1
+399 420972 8 8 0
+A
+%%5 emote does its best to look unintelligent.
+;%5 west
+;%5 east
+;%5 north
+;%5 south
+~
+#13208
+ghoti silent~
+the silent ghoti~
+A little fish sounds just like the other fishes.
+~
+ This small, soundalike fish swims around trying to melt in with the
+rest of the population in these waters. Just one more fish in the sea at
+the end of the day. It just sounds a little different.
+~
+2 3 bg sC 0 S
+63 -9 -23 1d500+1251
+408 500 100 1d21+22
+-1
+308 100
+-1
+-1
+139 440972 8 8 0
+A
+%%5 emote causes your mind to wander of, finding the word 'tough'.
+;%5 emote causes your mind to wander of, finding the word 'women'.
+;%5 emote causes your mind to wander of, finding the word 'action'.
+;%5 west
+;%5 east
+;%5 north
+;%5 south
+~
+R
+ -1 -1 -1 -1 +25
+#13209
+skinny guppy~
+the skinny guppy~
+A really wild minimal fish swims around screaming the fish way.
+~
+ The skinny guppy is a real hard-core fish. The sea is to calm and need
+to be stirred up a bit and this angry little pale, skinny guppy does its
+best. It is not much, but it is the principle that counts.
+~
+2 4 bgfkl dzCD +300 S
+70 -13 -28 1d500+1224
+403 500 30 1d35+16
+409 500 40 1d35+26
+405 500 30 1d55+16
+-1
+308 100
+-1
+-1
+911 532413 8 8 1
+A
+%%30 say BLUPP!!!
+;%5 emote wiggles it skinny tail.
+;%5 west
+;%5 east
+;%5 north
+;%5 south
+~
+R
+ -1 -1 -1 -1 +10
+#13210
+red eye ninja deep gnome~
+A red eye ninja~
+A deep gnome with red eyes looks at you strangely.
+~
+ Small and almost invisible this little deep gnome conducts duties with
+utmost care and precision. What his duties are you will never know, at
+least not until it is much too late. A slight gleam of mockery can be
+seen in his eyes as he watches you.
+~
+9 2 gfijklm dkrsD -950 S
+105 -30 -48 2d500+4806
+400 500 97 1d52+53
+322 0 3 0d0+0
+-1
+386 90 322 90
+-1 -1
+11025 1421089 8 8 1
+A
+%%5 emote makes a straining body movement and goes 'iiiiaaaahhh'.
+;%5 emote peers at you.
+;%5 emote mocks you.
+;%5 emote points at you and laugh.
+;%5 emote dodges your view and appears behind you.
+~
+#13211
+female red eye ninja deep gnome~
+A female red eye ninja~
+A deep gnome with red eyes looks at you strangely.
+~
+ Small and almost invisible this little deep gnome conducts duties with
+utmost care and precision. What her duties are you will never know, at
+least not until it is much too late. A slight gleam of mockery can be
+seen in her eyes as she watches you.
+~
+9 2 glm sdkD -950 S
+106 -30 -48 2d500+4883
+400 500 92 1d53+54
+322 0 6 0d0+0
+345 0 2 0d0+0
+-1
+386 90 322 90 345 90
+ -1 -1
+11236 1450395 8 8 2
+A
+%%5 emote waves her arms around in the air.
+;%5 emote lunges towards you.
+;%5 emote fights her way in behind you, uh-oh...
+;%5 smile
+;%5 emote smiles very wickedly.
+~
+#13212
+slapbonk ninja dwarf~
+A slapbonk ninja~
+A rather stocky dwarf is expecting you.
+~
+ A not so very invisible dwarf awaits his next orders. This dwarf is used
+for the more obvious assignments, but again he does carry them out with
+surgical precision and with extreme stubbornness, never giving up. So
+beware next time you look behind you, he might be somewhere completely
+different and where you least expect him.
+~
+9 2 gfijklm kzsrD -900 S
+104 -30 -47 3d500+3731
+400 500 97 1d52+53
+322 0 3 0d0+0
+-1
+386 90 322 90 321 50
+-1 -1
+10816 1392470 8 8 1
+A
+%%5 emote slaps you hard in the face.
+;%5 emote bonks you hard on the head. Ouch!
+;%5 emote insults you gravely.
+;%5 emote makes foul faces at you.
+;%5 emote stomps real hard on your foot. Aiiiii.
+;%5 emote utters something about 'pitiful beings'.
+;%3 emote blinks in - punches you in the face - blinks out - Laugh!
+~
+#13213
+female slapbonk dwarf ninja~
+A female slapbonk ninja~
+A dwarf that tries to be invisible, awaits you.
+~
+ A not so very invisible dwarf awaits her next orders. This dwarf is used
+for the more obvious assignments, but again she does carry them out with
+surgical precision and with extreme stubbornness, never giving up. So
+beware next time you look behind you, she might be somewhere completely
+different and where you least expect her.
+~
+9 2 glm ybst -980 S
+108 -31 -50 3d500+4046
+400 500 80 1d54+55
+384 0 20 0d0+0
+-1
+386 90 384 90 321 50
+ -1 -1
+11664 1511134 8 8 2
+#13214
+Red eye ninja priest~
+The Red Eye Ninja Priest~
+A really strange creature makes you feel how evilness approach...
+~
+ Dressed up in a wide white robe with a strange but slightly familiar
+red eye in the front, the priest stands in front of the altar of his god,
+constantly worshipping. Who he worships is unknown as are the purpose of
+his prayers, but you feel that it behooves you to join in the chant. The
+priest himself seems to have developed some kind of scales instead of
+skin, a skin type that looks moist and covered with small drops of
+water.
+~
+0 2 gb kdhrD -1000 S
+109 -36 -55 3d500+5132
+400 500 69 1d54+55
+28 0 7 2d0+100
+13 0 1 2d0+100
+30 0 5 1d0+100
+10 0 5 1d0+100
+100 0 10 1d0+100
+71 0 2 2d0+0
+75 0 1 2d0+0
+-1
+321 90 373 90 318 90 363 90 328 90 322 90
+-1 -1
+51281 1942602 8 8 0
+A
+%%5 emote welcomes you to this shrine.
+;%5 emote rests for a moment, sips some water and continue his chanting.
+;%5 emote starts a strange chant.
+;%5 emote stares at you with #rred#N eyes.
+;%5 lick Glob
+;%5 whisper Glob welcome
+;%5 worshi Glob
+;%5 bow Glob
+;%5 emote kneels in solemn worship of the true god.
+;%5 emote bends its head back and roars 'F'TAGN!!!'
+~
+R
+ -1 -1 -1 -1 50
+#13215
+Deep Gnome scavenger~
+A deep gnome scavenger~
+A small gnome smiles wickedly towards YOU!
+~
+ Hidden among the stones, but not behind strangely enough, this rather
+small creature prowls for anything worth collecting and clinging to.
+Most of it falls from the sky but some he has gained from stupid
+adventurers foolish enough to walk this far off their known paths.
+~
+9 2 bcfjhg kbsfdtDr -650 S
+108 -33 -50 3d500+4646
+400 500 81 1d54+55
+345 0 4 0d0+0
+372 0 1 0d0+0
+29 0 7 2d0+100
+32 0 7 1d0+100
+-1
+345 80
+372 100
+ -1 -1
+3664 1311134 8 8 1
+R
+ -1 -1 -1 -1 15
+#13216
+Hopping Mayor~
+The Mayor~
+The Mayor of the Dwarven Undermountain Harbour Town is a bit unstable...
+~
+ The current Harbour Town Mayor has got a strange disease. He is
+unstable in space and constantly blinks in and out of the different town
+locations. He was voted mayor because he could not really do anything
+else than pop up at the most unusual places wishing everyone the best of
+times. A natural choice.
+~
+9 4 hclg dfhryzDk 0 S
+110 -42 -51 2d500+3221
+400 500 75 1d55+56
+28 0 15 2d0+100
+3 0 4 2d0+100
+3 0 1 1d0+90
+36 0 4 2d0+100
+36 0 1 1d0+90
+-1
+317 100 324 100 329 100 365 100 338 100 339 100 345 100 373 100 358 100
+-1
+7 100 38 100 40 100 324 90 315 90 104 90 105 90 106 90 26 90 100 75
+-1
+54321 1700021 8 8 1
+A
+%%5 say Is everyone feeling good?
+;%5 say Helluuu!
+;%5 say Have a nice day!
+;%5 say I better be quick. Soon off again.
+;%5 emote greets you with a smile.
+;%5 emote pats you on the head.
+;%5 emo shudders a bit as the space-time-continuum starts to rift again.
+;%1 emote feels the rift in the space-time-continuum coming closer.
+~
+R
+ -1 -1 -1 -1 20
+#13217
+Illuminal blinding flash~
+The Illuminal~
+A blinding flash of light shines out over the harbour bay.
+~
+ The light elemental shines with the extreme light that makes up its
+complete body. The use of illuminals in the harbour town as living
+lighthouses suits them perfectly. The only two problems with them are
+that they do not want to be lighthouses and therefore must be magically
+bound to stay and the fact that just watching them makes you blind.
+~
+10 2 bgo hdkzD 0 S
+109 -33 -50 2d500+3132
+400 500 63 1d54+55
+4 0 20 1d0+100
+10 0 10 1d0+100
+95 0 7 1d0+100
+-1 -1
+4 100 7 100 38 100 40 100
+-1
+10232 1442602 8 8 0
+A
+%%5 emote breaks out into a powerful flash.
+;%5 emote almost blinds you.
+;%5 emote pulsates for a moment and then goes back to full strength.
+;%5 emote blinds you.                                                  
+ #ySomeone says 'Gotcha!'#N
+~
+R
+ -1 -1 -1 -1 20
+#13218
+Carrier dwarf MBCARS~
+A carrier dwarf~
+A dwarf carries his burden with pride.
+~
+ The dwarf is a real chunk of muscles. One can easily imagine the load
+he carries on his shoulders when transporting things down the Parade.
+Metal bars are not light, at least not in their usual sizes. And he
+usually carries more than one. They really should give this job to the
+giants but the harbour town roof height limits their usability a tiny
+bit.
+~
+9 2 bg kD +100 S
+100 -32 -45 3d500+3459
+400 500 94 1d50+51
+39 0 6 2d0+100
+-1
+365 80
+ -1 -1
+3000 1084545 8 8 1
+A
+%%5 emote huffs.
+;%5 emote glares at you for not working.
+;%5 flex
+;%25 east
+;%25 west
+~
+#13219
+Carrier gnome MBCARS~
+A carrier gnome~
+A nice little gnome fulfills his duties as a carrier.
+~
+ The gnome looks too small for this, but his immense strength does not
+show easily. He could carry as much as his dwarven relatives if he
+wanted to, if it were not for him having a smaller body.
+~
+9 2 bg kdfD -200 S
+104 -34 -47 3d500+4331
+400 500 100 1d52+53
+-1
+365 100
+-1 -1
+3816 1192470 8 8 1
+A
+%%5 emote yawns as he is a bit bored.
+;%5 emote jumps on one leg for a few paces just to annoy you.
+;%5 sneak
+;%5 grin
+;%5 emote peers at you.
+;%25 east
+;%25 west
+~
+#13220
+Tourist Carrier~
+A tourist carrier~
+A tourist earns a few extra gold as a carrier.
+~
+ A tourist who wants to make a few extra gold coins can register as a
+carrier and start transporting metal from the drop point to the ships.
+This mans clothing is not the most suitable for this but he has not
+planned to do it for long.
+~
+9 2 bg kD 0 S
+95 -30 -42 2d500+2168
+400 500 100 1d47+48
+-1 -1 -1
+5025 963269 8 8 1
+A
+%%5 emote staggers under the weight of his load.
+;%5 emote sweats copiously.
+;%5 emote stares dreamingly at something in the distant.
+;%5 say Wanna help out?  Great fun!
+;%25 east
+;%25 west
+~
+#13221
+Female Tourist Carrier~
+A female Tourist carrier~
+A tourist earns a few extra gold as a carrier.
+~
+A tourist who wants to make a few extra gold coins can register as a
+carrier and start transporting metal from the drop point to the ships.
+This woman's clothing is not the most suitable for this but she has not
+planned to do it for long.
+~
+9 2 bg kD 0 S
+95 -30 -42 2d500+2168
+400 500 100 1d47+48
+-1 -1 -1
+5025 963269 8 8 2
+A
+%%5 emote staggers under her load.
+;%5 emote sweats rather omniously.
+;%5 emote gathers some new powers and takes another step.
+;%5 sigh
+;%5 emote takes a short break without loading off.
+;%25 east
+;%25 west
+~
+#13222
+Unwilling Tourist Carrier UMHTmob13222~
+An unwilling tourist carrier~
+A whining little tourist has not paid his bills.
+~
+ A tourist who wants to make a few extra bucks can register as a
+carrier. This can also be done if you have debts that you can not pay
+off. The guards will keep you in place, so escape is very much out of the
+question.
+~
+1 2 bg kr +3 S
+85 -24 -37 1d500+1409
+400 500 100 1d42+43
+-1 -1 -1
+2 759886 8 8 1
+A
+%%5 emote kneels under his load.
+;%5 emote squeeks 'elp!
+;%5 say Help me, please!
+;%5 emote whines softly.
+;%5 emote stops and starts to massage a soft red line from a whiplash.
+;%5 emote tries to flee but does not have the strength to it.
+;%5 emote desperately looks around.
+;%15 east
+;%15 west
+~
+#13223
+Carrier Centaur UMHTmob13223 MBCARS~
+A carrier centaur~
+The proud centaur carries a really heavy load.
+~
+ As a combination of a horses body and a man's torso instead of the
+horse's head and neck, the centaur works real fine as a carrier of metal
+bars. His load makes the dwarfs' load look almost pitiful, but he is in
+his own category of carriers and can not really be compared with anyone
+other than his mate.
+~
+7 2 bg k +150 S
+100 -32 -45 2d500+2459
+408 500 78 1d50+51
+323 0 15 0d0+0
+28 0 7 2d0+100
+-1
+323 100
+-1 -1
+10000 1084545 8 8 1
+A
+%%5 emote looks at you with content.
+;%5 emote stamps his rear foot against the stonefloor.
+;%5 emote neighs.
+;%5 emote snorts.
+;%5 emote peers around for his mate.
+;%5 look UMHTmob13224
+;%25 east
+;%25 west
+~
+#13224
+Female Carrier Centaur UMHTmob13224 MBCARS~
+A female carrier centaur~
+The proud centaur carries her heavy load head high.
+~
+ As a combination of a horse's body and a woman's torso instead of
+the horse's head and neck, the centaur works real fine as a carrier of
+metal bars. Her load makes the dwarfs load look almost pitiful, but she
+is in her own category of carriers and can not really be compared with
+anyone other than her mate.
+~
+7 2 bg k +151 S
+102 -33 -46 2d500+2591
+408 500 75 1d51+52
+323 0 15 0d0+0
+28 0 10 2d0+100
+-1
+323 100
+-1 -1
+10001 1137228 8 8 2
+A
+%%5 emote peers around for her mate.
+;%5 emote snorts.
+;%5 look UMHTmob13223
+;%25 east
+;%25 west
+~
+#13225
+Carrier Gnom MBCARS~
+The Gnom~
+A huge pillar of dirt and stone has some metal bars stuck into it.
+~
+ The gnom looks more like a powerful pillar of dirt and stone than
+anything else, a good reason for this is that it is just that. Bonded to
+his trail it walks, or whatever it is called that it does, from drop
+point to ship. Every day and every night, hour after hour, it works
+without any signs of getting tired. An excellent employee in the eyes of
+the overseer.
+~
+9 2 bg kDzd 0 S
+109 -30 -40 5d500+8132
+400 500 100 1d54+35
+-1 -1 -1
+11 1942602 8 8 0
+A
+%%2 emote does not do anything.
+;%2 emote still does not do anything.
+;%2 emote slowly flows away.
+;%2 emote is very very silent.
+;%12 east
+;%12 west
+~
+#13226
+Iron Golem carrier~
+The Iron Golem~
+The Iron Golem carries bigger loads than any other carrier.
+~
+ A slightly reddish golem walks clumsily from drop point to the harbour
+line and back in a seemingly endless march with its iron bars. Its
+constructors thought it was perfect for the metal to carry itself, but
+as it started to corrode they did not produce any more specimens. The
+life spell seemed to make it more vulnerable for these kind of things.
+~
+0 2 bg kh 0 S
+110 -39 -61 3d500+5221
+400 500 100 1d55+56
+-1
+365 40
+-1 -1
+69100 3700321 8 8 0
+A
+%%5 emote squeeks a little as it moves along.
+;%5 emote let its gaze watch something without amusement.
+;%5 emote is in need of some serious oiling.
+;%20 east
+;%20 west
+~
+R
+ -1 -1 -1 -1 55
+#13227
+Patrolling Carrier Guard~
+A patrolling carrier guard~
+A mill guard patrols the transport way of metal bars.
+~
+A powerful dwarf protects the carriers from disturbing elements such as
+adventurers like yourself that are up to no good and other scoundrels
+that might be after the highly valuable load that is being transported
+from the drop point to the ships.
+~
+9 2 bgl kzD -50 S
+100 -32 -45 3d500+3759
+400 500 90 1d50+51
+324 0 10 0d0+0
+-1
+373 80
+324 80
+325 100
+-1 -1
+3200 1084545 8 8 1
+A
+%%5 emote peers at you.
+;%5 emote makes sure all is swell.
+;%5 emote looks at you, the typical newcomer.
+;%40 protect MBCARS
+;%5 emote mutter something.
+;%5 emote yawns slightly.
+;%5 bonk UMHTmob13222
+;%15 east
+;%15 west
+~
+#13228
+Stationary Carrier Guard~
+A stationary carrier guard~
+A mill guard protects the metal bar transport way.
+~
+A powerful dwarf protects the carriers from disturbing elements such as
+adventurers like yourself that are up to no good and other scoundrels
+that might be after the highly valuable load that is being transported
+from the drop point to the ships.
+~
+9 2 b kDd -50 S
+103 -33 -47 3d500+3660
+400 500 90 1d51+52
+324 0 10 0d0+0
+-1
+373 80
+325 100
+324 80
+-1 -1
+6009 1164521 8 8 1
+A
+%%5 taunt UMHTmob13222
+;%5 emote shift foot to stand on.
+;%5 emote giggles slightly at some old internal joke.
+;%40 protect MBCARS
+;%5 emote stands firm.
+;%5 emote peers around.
+;%5 emote look at you.
+~
+#13229
+Sailor walking~
+A Sailor~
+A sailor on shore leave takes a stroll thorugh the town.
+~
+ The sailors of the ships that enter the harbour have a few hours on
+solid ground before their ships are off again. Perfect time to take a
+little stroll through the city and feel the atmosphere of town life.
+~
+9 2 g krD +100 S
+99 -32 -45 2d500+2397
+400 500 100 1d49+50
+-1 -1 -1
+901 1059126 8 8 1
+A
+%%5 emote looks at you and likes what he sees.
+;%5 scout
+;%5 say Hello.
+;%5 emote sways slightly to compensate for the fixated ground.
+~
+#13230
+Slick scumbag professional~
+Slick~
+Slick, a scumbag by profession, wants you indulged in illegalities.
+~
+ Slick can spot a adventuerer miles away and will, if possible (ie, no
+other clients for the moment), try to convince you to join him in some
+activites banned by law. He is currently searching for people that can
+help him with some locals that have caused his business trouble lately.
+~
+9 2 bg krd -340 S
+100 -32 -45 2d500+2397
+401 500 70 1d49+50
+409 500 30 1d99+1
+-1 -1 -1
+1321 1059126 8 8 1
+A
+%%5 snort
+;%5 emote coughs softly.
+;%5 emote grins and wants you to watch what he has got on display.
+~
+#13231
+Sailor drunk~
+A Sailor~
+The sailor looks a bit unstable, mostly due to the wavy ground.
+~
+ The sailors of the ships that enter the harbour have a few hours on
+solid ground before their ships are off again. Perfect time to get
+really really drunk in some shabby bar and then sober up on the next leg
+of the sailing.
+~
+9 2 g ky +100 S
+99 -32 -45 2d500+2397
+400 500 100 1d49+50
+-1 -1 -1
+801 1059126 8 8 1
+A
+%%5 say Gimme a beer!
+;%5 say Wanna join me to <hick> the pub.
+;%5 hick
+;%5 emote pukes on you. What a mess and how humiliating.
+;%5 emote is not only landsick.
+;%5 emote tries to compensate for the unmoving ground but fails
+utterly.
+~
+#13232
+Sailor buying~
+A sailor~
+A really sleazy sailor is looking for company.
+~
+ The sailors of the ships that enter the harbour have a few hours on
+solid ground before their ships are off again. Perfect time to get some
+non-sailor company, even though it might become costly...
+~
+9 2 g krD -300 S
+101 -32 -46 2d500+2524
+400 500 100 1d50+51
+-1 -1 -1
+10201 1110574 8 8 1
+A
+%%5 say How much for your little daughter?
+;%5 say I have money...
+;%5 blink
+;%5 emote flirts outrageously with you. Wonder what he wants.
+;%5 say You available?
+;%5 emote grabs hold of your arm.
+~
+#13233
+Sailor merchant~
+A sailor~
+The sailor desperately tries to interest you in a deal.
+~
+ The sailors of the ships that enter the harbour have a few hours on
+solid ground before their ships are off again. Perfect opportunity to
+make a few good deals with the local tradesmen and perhaps get hold of
+something that is less available at the next destination.
+~
+9 2 g krD +100 S
+103 -33 -47 2d500+2660
+400 500 100 1d51+52
+-1 -1 -1
+20609 1164521 8 8 1
+A
+%%5 say You interested in some business?
+;%5 emote leans over.
+;%5 say Wanna make a deal?
+;%5 say I got something you want.
+;%5 say I got something you do not.
+;%5 say The firebreathers pay alot on the northern continent.
+~
+#13234
+Tourist Whiteshoe~
+A tourist~
+A whiteshoed tourist in a sunhat, troops around town sightseeing.
+~
+ A human tourist tries to get as many interesting views of the
+harbour town as possible in the short time he has available. His trip
+will probably continue within a few hours so he is in a bit of a hurry to
+see it all.
+~
+1 2 gh k +300 S
+95 -30 -42 3d500+1868
+400 500 100 1d47+48
+-1 -1 -1
+3025 963269 8 8 1
+A
+%%5 emote rushes from side to side.
+;%5 emote wished he had a ink djinn in a box.
+;%5 say What is there to see?
+;%5 say You know any good guide?
+;%5 strut
+;%5 say Have you seen the chasm yet?
+~
+#13235
+Tourist Beslipped Female~
+A tourist~
+A beslipped female tourist in wide-brimmed sunhat smiles at you.
+~
+ A human tourist trips ahead in her slippery slippers trying to achieve
+as much tourism as possible before her journey continues. Everything she
+sees will be memorized and then reported back to her friends and family.
+There will of course be a little filter of 'glamour' added to this part
+as she finds the hardbour very dull.
+~
+1 2 gh k +300 S
+94 -29 -42 2d500+1615
+400 500 100 1d47+48
+-1 -1 -1
+8836 940693 8 8 2
+A
+%%5 say You know somewhere where they have a nice bench with a view?
+;%5 say You got tour tickets to the mill?
+;%5 say ...any other nice attractions around here?
+~
+#13236
+Old Female Tourist UMHTmob13236~
+The old tourist~
+The old female tourist looks bored.
+~
+ She walks around watching the local population in a rather uninterested
+manner. She is here only because this is a place where one should have
+been and where few others have gone and most importantly where one has
+to pay a small fortune to reside for a couple of days.
+~
+1 2 gh k -500 S
+107 -35 -49 2d500+2263
+400 500 84 1d53+54
+17 0 16 1d0+100
+-1 -1 -1
+14444 1280405 8 8 2
+A
+%%5 emote glares at you, unworthy creature.
+;%5 emote gruffs in your direction.
+;%5 emote ignores you completely.
+;%5 emote yawns very discretely.
+;%5 emote frowns at your presence.
+;%5 emote struts around with her nose high in the air.
+;%5 emote walks across your path, elbows sharpened.
+~
+#13237
+Ado-Nisse attendant ado nisse~
+Ado-Nisse~
+The attendant tries to serve his employer in any way possible.
+~
+The young well built man walks around with nothing 'less' than a pair of
+shoes, a pair of tight trousers and a frack chest. Nothing more. All day
+long he walks around doing nothing but serving his mistress in any way
+she pleases.
+~
+1 2 gm k +50 S
+106 -35 -48 2d500+2883
+400 500 100 1d53+54
+-1 -1 -1
+3236 1250395 8 8 1
+A
+%%5 emote flips down his frack chest that keeps rolling up again.
+;%5 emote smears some lotion on his body.
+;%5 emote tries to serve his employer properly.
+;%5 follow UMHTmob13236
+;%5 adore UMHTmob13236
+;%40 flex
+~
+#13238
+cityguard guard~
+The Cityguard~
+The undermountain city guard watches you closely.
+~
+ The city guards are just volunteers from the local militia that are
+given a spear, some short legal information and some kind of
+identification attribute. The universal cityguard is a bit stocky but
+this man is just an ordinary citizen with a minimum of training trying to
+uphold the law in the town. The guard carries the town emblem with a big
+sailing vessel on water but with a mountain as a sail.
+~
+9 2 glm kDr 0 S
+105 -34 -48 3d500+4306
+400 500 97 1d52+53
+345 0 3 0d0+0
+-1
+373 70
+345 70
+ -1
+324 90 7 100 38 100 40 100
+ -1
+3025 1221089 8 8 1
+A
+%%5 emote stands proud.
+;%5 emote makes sure you behave.
+;%5 smile
+;%5 emote rests upon his spear.
+;%5 emote has had a long shift and looks a bit tired.
+~
+#13239
+LT UM CG~
+The UM CG LT~
+The UM CG LT is busy shouting orders (and coming up with more).
+~
+The LieuTenant of the Under Mountain City Guards is as nice as he
+sounds. A constant shouting and giving of orders can be heard from his
+lips by those mustering up the power needed to hang around for a while.
+The guard carries the town emblem with a big sailing vessel on water but
+with a mountain as a sail.
+~
+9 2 gml krD -200 S
+107 -35 -49 4d500+4363
+400 500 90 1d53+54
+96 0 3 1d0+100
+28 0 7 2d0+100
+-1 -1 -1
+21449 1280405 8 8 1
+A
+%%25 emote shouts some orders.
+;%25 emote yells a directive that has to be obeyed.
+;%25 emote roars some command.
+;%25 emote expresses his will in the most loud fashion.
+;%5 emote starts hollering about something else that have to be done.
+~
+#13240
+Josephine CG cityguard captainess~
+Josephine~
+The cityguard captainess is looking for militia volounteers.
+~
+Josephine, the city guard captainess strolls around inspecting and
+chatting with the person closest by. A nice female role model for all in
+the militia. She just wants everyone to behave and not make a mess of
+things.
+~
+9 2 gml krDh +300 S
+109 -36 -50 5d500+5132
+400 500 76 1d54+55
+324 0 7 0d0+0
+28 0 17 2d0+100
+-1
+373 85
+324 80
+-1 -1
+41881 2342602 8 8 2
+A
+%%5 emote eyes you over.
+;%5 glare
+;%5 smile
+;%5 emote makes sure you are having a pleasant stay.
+;%5 say And What are you doing?
+;%5 say And How are you doing?
+~
+#13241
+dwarf Town citizen UMHTmob13241~
+A dwarf~
+A completely ordinary harbour town citizen is doing some shopping.
+~
+ A dwarf. Not everyone has a job they attend 24 hours a day. Most people
+have a life where they walk around doing shopping or having a little
+chat with their fellow citizens and neighbors, or just stay home a take a
+little nap.
+~
+9 2 gh kD +50 S
+90 -27 -40 2d500+3420
+400 500 100 1d45+46
+-1 -1 -1
+2100 855555 8 8 1
+A
+%%5 smile
+;%5 emote greets you.
+;%5 wave
+;%5 emote strolls around.
+;%5 emote is out grocery shopping.
+;%5 whisper UMHTmob13242 Hellu
+;%5 makeup UMHTmob13242
+~
+#13242
+dwarf Female Town citizen UMHTmob13242~
+A dwarf~
+A completely ordinary harbour town citizen is doing some shopping.
+~
+ A dwarf. Not everyone has a job they attend 24 hours a day. Most people
+have a life where they walk around doing shopping or having a little
+chat with their fellow citizens and neighbors, or just stay home and take
+a little nap.
+~
+9 2 gh kD +50 S
+90 -27 -40 2d500+3420
+400 500 100 1d45+46
+-1 -1 -1
+2100 855555 8 8 2
+A
+%%5 smile
+;%5 emote greets you.
+;%5 wave
+;%5 giggle
+;%5 whisp UMHTmob13241 Tihi
+;%5 blush UMHTmob13241
+~
+#13243
+Miner RnRing~
+The miner~
+The RnRing miner is having a real blast.
+~
+ When the dwarfs take a little trip out of the mines they often end up
+travelling to the harbour town for some excitement and a little
+adventure. And of course this also means they do not have to leave the
+mountain, which many of the dwarfs prefer not to do. This little fellow
+sure looks pleased with his choice of target for his trip.
+~
+9 2 gl kDz -50 S
+95 -30 -42 3d500+3468
+400 500 100 1d47+48
+-1
+365 90
+-1 -1
+3025 963269 8 8 1
+A
+%%5 emote has a strange gleam in his eye.
+;%5 emote is going to have a real party, somewhere.
+;%5 say You know any bar that is nearby?
+;%5 smile
+;%5 emote does a little pirouette.
+;%5 emote hollers PARTYYYY!!!
+~
+#13244
+rat Wharf rats~
+a rat~
+The rat eats away on some leftovers.
+~
+ This stubborn little creature lives in the harbour of what might be
+available at this moment. Huge, blackish and almost 'rulty' it seeks
+out new nourishment among the barrels of the shoreline. Apparently the
+amount found is high as is sure looks well fed.
+~
+12 2 gmb kyf -700 S
+87 -25 -38 2d500+1489
+400 500 61 1d43+44
+322 0 1 0d0+0
+331 0 38 0d0+0
+-1
+331 100
+322 50
+ -1 -1
+569 796798 8 8 0
+A
+%%5 snicker
+;%5 emote smacks its teeth together.
+;%5 emote hisses at you.
+;%5 emote gnaws on something. You do not want to know what.
+;%25 north
+;%25 south
+~
+#13245
+emigrant dwarf dwarven UMHTmob13245~
+an emigrant~
+A dwarven emigrant has left house and home to find a new place to settle.
+~
+ Some people find no other option than to leave house and home to get a
+new start in some far away place. Others choose to do this willingly or
+to join up with already emigrated friends. They all hope for a safe
+passage and that the future will bring joy and happiness to their lives.
+This man in one of those people.
+~
+9 2 g kD 0 S
+85 -24 -37 2d500+1709
+400 500 100 1d42+43
+-1 -1 -1
+7225 759886 8 8 1
+A
+%%5 emote stares dreamingly into the future.
+;%5 emote looks somewhat nervous.
+;%5 emote has hope in his eyes.
+;%5 hug UMHTmob13246
+~
+#13246
+emigrant Female dwarven dwarf UMHTmob13246~
+A female emigrant~
+A dwarven emigrant is eager to go.
+~
+ Some people find no other option than to leave house and home to get a
+new start in some far away place. Others choose to do this willingly or
+to join up with already emigrated friends. They all hope for a safe
+passage and that the future will bring joy and happiness to their lives.
+This woman is one of those people.
+~
+9 2 g kD 0 S
+85 -24 -37 2d500+1709
+400 500 100 1d42+43
+-1 -1 -1
+7225 759886 8 8 2
+A
+%%5 emote is a bit sad.
+;%5 emote stares dreamingly into the future.
+;%5 emote looks somewhat nervous.
+;%5 smi UMHTmob13245
+;%5 caress UMHTmob13245
+~
+#13247
+immigrant dwarf~
+A immigrant~
+The little dwarf immigrant has found a new place to live.
+~
+ The harbour town grows slowly, mostly due to the time needed to safely
+excavate more mountain, but a few willing souls have decided to settle
+in this place in hope of a more prosperous future. What brought him to
+leave his original home is now of no importance as that was yesterday and
+past time.
+~
+9 2 g kD +800 S
+87 -25 -38 2d500+1789
+400 500 100 1d43+44
+-1 -1 -1
+569 796798 8 8 1
+A
+%%5 smile
+;%5 emote is finally home.
+;%5 emote sighs softly in what seems to be relief.
+~
+#13248
+immigrant Female~
+A female immigrant~
+The little dwarfess immigrant has found a new place to live.
+~
+ The harbour town grows slowly, mostly due to the time needed to safely
+excavate more mountain, but a few willing souls have decided to settle
+in this place in hope of a more prosperous future. What brought her to
+leave her original home is now of no importance as that was yesterday and
+past time.
+~
+9 2 g kD +800 S
+87 -25 -38 2d500+1789
+400 500 100 1d43+44
+-1 -1 -1
+569 796798 8 8 2
+A
+%%5 smile
+;%5 emote is home.
+;%5 emote have a positive feeling about the future.
+~
+#13249
+Immigrant troll~
+A immigrant~
+The big trollish immigrant has found a new place to stay.
+~
+ The harbour town grows slowly, mostly due to the time needed to safely
+excavate more mountain, but a few willing souls have decided to settle
+in this place in hope of a more prosperous future. What brought him to
+leave his original home among the other trolls is now of no importance as
+that was yesterday and past time.
+~
+8 2 gc kz -200 S
+95 -30 -42 3d500+3468
+410 500 92 1d47+48
+39 0 8 2d0+100
+-1
+365 100
+-1 -1
+1025 963269 8 8 1
+A
+%%5 emote glare at you.
+;%5 grunt
+;%3 emote stomps down his foot on some now very dead bug.
+~
+#13250
+immigrant Hill gnome~
+An immigrant~
+The little hill gnome has immigrated in search of his brethren.
+~
+ The harbour town grows slowly, mostly due to the time needed to safely
+excavate more mountain, but a few willing souls have decided to settle
+in this place in hope of a more prosperous future. What brought him to
+leave his original home in the hills is now of no importance as that was
+yesterday and past time.
+~
+9 2 gl tskdfDr -800 S
+99 -32 -45 3d500+3397
+400 500 100 1d49+50
+-1 -1 -1
+2801 1059126 8 8 1
+A
+%%5 emote wants to find his deep brethren.
+;%5 grin
+;%5 emote feels exalted about the future.
+~
+#13251
+immigrant human~
+A immigrant~
+A human immigrant is hoping for a better start in this place.
+~
+ The harbour town grows slowly, mostly due to the time needed to safely
+excavate more mountain, but a few willing souls have decided to settle
+in this place in hope of a more prosperous future. What brought him to
+leave his original home on the surface is now of no importance as that
+was yesterday and past time.
+~
+1 2 g k 0 S
+91 -27 -40 2d500+1567
+400 500 100 1d45+46
+-1 -1 -1
+81 876088 8 8 1
+A
+%%5 emote looks a bit out of place.
+;%5 say You looks like a stranger. Where are you from?
+;%5 emote hopes for a new beginning.
+~
+#13252
+SHOPKEEPER Harry But Salesman ~
+Harry But~
+Harry But the Water Salesman is looking for thirsty customers.
+~
+ A little man walks around offering water for a small sum of money. He
+looks pretty sharply dressed for being a street salesman, perhaps his
+trade goes with a decent profit.
+~
+9 2 gb kD -300 S
+109 -36 -50 2d500+5132
+400 500 100 1d54+55
+-1 -1 -1
+31881 1342602 8 8 1
+A
+%%5 emote suddenly turns allowing you to peer down into his low
+ pantline discovering a, more than hairy, butt.
+;%5 say Want to buy some water?
+;%5 say Cheap water - Come and get it!
+;%5 say Special price - Only for you!
+;%5 smile
+~
+#13253
+SHOPKEEPER pudlum salesman~
+Pudlum~
+Pudlum the soft boot salesman look at your feet.
+~
+ A little man, named Pudlum, stands here offering you an upgrade of
+shoes for a smaller fee. He looks pretty sharply dressed for being a
+street salesman, perhaps his trade goes down with a decent profit.
+~
+9 2 bgl kDrs -300 S
+109 -36 -50 2d500+5132
+400 500 100 1d54+55
+-1 -1 -1
+31881 1342602 8 8 1
+A
+%%5 say Have you never seen soft boots before?
+;%5 say Perfect for you loaders 'n carriers.
+;%5 emote shows you a pair of excellent shoes.
+;%5 smile
+~
+#13254
+SHOPKEEPER Wendy may saleswoman Wendy-May~
+Wendy-May~
+Wendy-May wants to BONK you hard, just to prove her point.
+~
+ A well grown woman stands at the corner selling shoulder pads and neck
+protections to the passing citizens, which luckily and by some strange
+coincidence include ALL the carriers. She looks pretty sharply dressed
+for being a street saleswoman, not to mention big, perhaps her trade
+goes down with a decent profit. Could also be that Wendy-May likes
+to dress up for work.
+~
+8 2 bg kz -300 S
+109 -36 -50 2d500+6132
+410 500 100 1d54+55
+-1
+365 99
+-1 -1
+31881 1342602 8 8 2
+A
+%%5 emote looks down on you.
+;%5 say Yoo want pad?
+;%5 say Buy - or Wendy-May whupp!
+;%5 emote glares at you.
+;%5 bonk bonk
+~
+#13255
+Longshoreman administrator~
+The Longshoreman Administrator~
+The Longshoreman Administrator keeps an eye on the bars loaded.
+~
+ This stubby little dwarf keeps count of what and how many things get
+loaded on the ships and which ships too. It is an important job as
+nobody wants their packages to arrive at the wrong destination. Before a
+ship leaves he goes through his list with the captain or the
+quartermaster that everything is correct.
+~
+9 2 bg krD 0 S
+105 -34 -48 4d500+4806
+400 500 96 1d52+53
+373 0 4 0d0+0
+-1
+373 70
+-1 -1
+7025 1221089 8 8 1
+A
+%%5 emote scrabbles something down in his notebook.
+;%5 emote looks at you and says 'And where is your load?'
+;%5 say You better stay there.
+~
+#13256
+Longshoreman director~
+The Longshoreman Director~
+The Longshoreman Director make sure everything ends up where it should.
+~
+ Everything should go to the right place. Stuffing the cargo bay of a
+ship is a responsible task. The danger of everything in the load
+tumbling over to one side in the middle of a storm is always present and
+would surely be very hazardous. A very appreciated man when he does his
+job properly, and nobody has ever come back to complain, so he is.
+~
+9 2 gml krD 0 S
+107 -35 -49 4d500+4963
+400 500 96 1d53+54
+373 0 4 0d0+0
+-1
+373 80
+-1 -1
+11449 1280405 8 8 1
+A
+%%5 emote points towards a still empty slot.
+;%5 emote makes sure everything is where it should be.
+;%5 say Do NOT touch that!
+~
+#13257
+Troll longshoretroll~
+A longshoretroll~
+A longshoretroll carries some bars up to the boat.
+~
+He is really too big for this job but nobody has had the guts to
+complain, at least not to him. But on the other hand he loads up pretty
+much when he takes his strolls up and down the planks from ship to
+shore, so they let him be. Perhaps you should too.
+~
+8 2 gml kz -100 S
+104 -34 -47 3d500+3731
+410 500 87 1d52+53
+373 0 5 0d0+0
+39 0 8 2d0+100
+-1
+373 80
+365 100
+-1 -1
+4816 1192470 8 8 1
+A
+%%5 emote grunts some.
+;%5 emote flips a bar in the air as he passes you.
+;%5 emote muffles a little trollish laugh as he looks at you.
+~
+#13258
+Minotaur Longshoreminotaur~
+A longshoreminotaur~
+The bighorned longshoreman does his way through the other longshoremen.
+~
+The minotaur longshoreman is a really dangerous creature. How he got this
+job from the start is a really good question. His big horns should get in
+the way in the narrow passageways of any boat. And he is even bigger than
+an ordinary troll. But then again that could be exactly why nobody cares,
+at least as long as he does his job as good as he, after all, does.
+~
+8 2 gl kz -400 S
+104 -34 -47 4d500+3731
+410 500 85 1d52+53
+378 0 5 0d0+0
+322 0 1 0d0+0
+373 0 5 0d0+0
+39 0 4 2d0+100
+-1
+378 100
+322 100
+365 100
+373 90
+-1 -1
+216 1192470 8 8 1
+A
+%%5 emote froths heavily.
+;%5 emote walks very close to you.
+;%5 emote just tried to peek at your stuff.
+~
+#13259
+Dwarven longshoreman~
+A longshoreman~
+The Dwarven longshoreman carries metal bars on board.
+~
+ In the small stuffs of the boats it can be very useful to be small, so
+that one can reach in fully (or even walk in). For some of the
+longshoremen that has been a real problem as their muscles have grown
+considerably since they were hired. But their storing skill usually
+makes up for that nowadays.
+~
+9 2 g krD 0 S
+106 -35 -48 4d500+4883
+400 500 88 1d53+54
+373 0 4 0d0+0
+39 0 8 2d0+100
+-1
+373 90
+-1 -1
+3236 1250395 8 8 1
+A
+%%5 emote glares at you as you are not helping with the load.
+;%5 flex
+;%5 emote wipes off some sweat.
+~
+#13260
+winged Fairy longshoreman~
+A winged longshoreman~
+A fairy longshoreman does the final matching of the load.
+~
+ Some think it is strange that such a weak creature has been hired as a
+longshoreman, but the fact that he can fly really makes up for that he
+only takes one piece at the time.  The storage rate increases
+considerably if he is allowed to aid in the storing. On the other hand
+this little fairy does look a bit more powerful than an ordinary one.
+~
+13 2 bg kBrh 0 S
+109 -36 -50 2d500+3132
+408 500 45 1d54+55
+409 500 45 1d54+55
+5 0 10 1d0+100
+-1 -1 -1
+5581 1342602 8 8 1
+A
+%%5 emote flutters past you.
+;%5 emote manage to move one metal bar.
+;%35 north
+;%35 south
+;%20 fly
+;%5 emote pokes you in order to make you move out of his way.
+~
+#13261
+drow evil Longshoreman whipper~
+A very Evil Drow~
+An elf stands looking over the premises, hand on his whip.
+~
+ Long and tall this drow stands overlooking the longshoremen, following
+their every move. Held in his hand is a long whip that sparkles of
+energy. A strange thing is he never seems to use it on anybody. Wonder
+what or who he is waiting for...
+~
+12 2 gbm kdfryA -1000 S
+109 -36 -50 2d500+3132
+400 500 100 1d54+55
+-1
+331 90
+365 80
+-1 -1
+25123 2342602 8 8 1
+A
+%%5 emote whacks his whip in the air.
+;%5 emote straightens up the back of all that is present.
+;%5 emote caresses his whiphandle.
+;%20 grin
+~
+#13262
+Lagoon monster~
+The Monster~
+The Lagoon monster has hidden itself.
+~
+ Usually hidden but now aroused by your presence the lagoon monster has
+now come out to amuse itself on your behalf. Its size is immense and as
+a relative to Kraken it sure has long tentacles that work almost
+separately from the monster. This could become very dangerous.
+~
+0 2 bfijk kfCt -950 S
+110 -37 -51 5d555+5555
+400 500 88 1d55+55
+88 0 12 1d0+89
+-1 -1 -1
+21000 2800354 8 8 0
+#13263
+Lagoon monster tentacle~
+A tentacle~
+The rattling arm of some lagoon monster tries to surround you.
+~
+ Long, powerful, muddy (that is the worst) and covered with suction pods,
+the tentacle rattles in the water in search of ... of ... YOU!!!
+~
+0 2 mgb ksCf -900 S
+109 -36 -50 2d500+3132
+400 500 90 1d54+55
+324 0 10 0d0+0
+-1
+308 100
+324 80
+-1 -1
+1 1342602 8 8 0
+A
+%%5 emote schlurps softly.;
+%9 :tries to grab hold of you, but you are even more slippery that it is.
+;%5 emote stirs up some goo from the harbour bay stone floor.
+;%5 north
+;%5 south
+~
+#13264
+dwarf guard~
+A boat guard~
+The Harbour Boat Guard is out looking for smugglers.
+~
+ A dwarven sailor without a sailing ship to enlist on and with a powerful
+constitution can, if opportunity arises, take up the job as harbour
+guard. Equipped with long spetums they travel the harbour water basin
+making sure noone takes a swim or tries to bring contraband into the town
+or even worse try to evade taxation...
+~
+9 2 gm krD +50 S
+100 -32 -45 3d500+3659
+400 500 88 1d50+51
+373 0 10 0d0+0
+324 0 2 0d0+0
+-1
+373 80
+324 80
+-1 -1
+8000 1084545 8 8 1
+A
+%%5 emote watches the water surface really carefully.
+;%5 emote watches your every move.
+;%5 scout
+~
+#13265
+Rowman~
+A rowman~
+A rowman sits by his oar.
+~
+ If you have strong arms and nothing else to do, why not do what this
+fellow does? Be a rowman. Travel known waters, see places you have seen
+many many times before, go home in the evening. Everything you ever
+dreamed of right? He does seem jolly even though he keeps one eye
+constantly on the water as if he was looking for something.
+~
+9 2 gmh krD +150 S
+95 -30 -42 3d500+3168
+400 500 96 1d47+48
+39 0 4 2d0+100
+-1 -1 -1
+25 963269 6 6 1
+A
+%%5 emote row row rows a boat gently cross the bay.
+;%5 emote glances towards the water surface.
+;%5 emote wonders what you are doing out here.
+~
+#13266
+shopkeeper Fritz official~
+Fritz~
+Fritz the customs official is here as a part of his duties.
+~
+ He is a gentle and kind man that only does his duties. Unfortunately
+so many evil men hate him for this as his task is not that popular
+amongst them. If he were to catch you trying to sneak out of the harbour
+without the necessary papers the fee you would have to pay would be quite
+a bit larger and his associates would surely enforce this upon you.
+~
+9 2 g krDhdfC 0 S
+109 -36 -50 2d500+3132
+400 500 100 1d54+55
+-1 -1 -1
+18732 1342602 8 8 1
+A
+%%5 emote peers at you.
+;%5 say You have the correct papers?
+;%5 say You can not leave until you have been taxed properly.
+~
+#13267
+Guard Heavy Custom~
+The Customs Guard~
+The Heavy Customs Guard obediently awaits new instructions.
+~
+Fully obedient and ready to react on the slightest sign of any criminal
+intent or action, this dwarf is not to be tampered with. That is unless
+you are Fritz the Tollman and head of Custom Guard operations. The guard
+looks a bit evil, but that is just his appearance. He sure does treat
+everyone the same way.
+~
+9 2 gml kdfhCrDz 0 S
+109 -36 -55 4d500+5132
+400 500 90 1d54+55
+345 0 2 0d0+0
+324 0 3 0d0+0
+373 0 5 0d0+0
+-1
+373 40
+324 80
+345 70
+-1 -1
+6881 1342602 8 8 1
+A
+%%5 emote stands silent watching you.
+;%5 emot awaits orders from the Head of Customs what to do about you.
+~
+#13268
+Critter ICE Troll~
+The Ice Troll~
+A rather warm Ice Troll is in sightseeing.
+~
+ He looks a bit sweaty even though it is a rather pleasant temperature.
+Could be he is used to places to very much below zero. Apart from that
+it looks like he is in good condition, big and strong as most trolls.
+Being a really skilled scout he keeps his eyes open to check for any
+changes around him, such as you showing up.
+~
+5 2 g kz -50 S
+105 -34 -48 2d500+4806
+400 500 83 1d52+53
+373 0 5 0d0+0
+322 0 3 0d0+0
+8 0 9 1d0+80
+-1 -1
+315 100 324 100 322 100 7 100 38 100 40 100
+-1
+2881 1342602 8 8 1
+A
+%%5 emote sweats a bit.
+;%5 emote grunts.
+;%5 emote looks at you and wonder why you survived the evolution.
+~
+#13269
+ice block Critter white~
+The big ice block~
+A big white ice block. These northern continent critters do look strange.
+~
+ A large block of ice walks (!!!) around here doing whatever large
+walking blocks of ice do. You have never seen anything like this and you
+will not probably see anything like it again. Where did it come from?
+Who did it? How? And WHY? The questions gather but the ice block is so
+very silent, but what did you expect? Or do you know iceblockish?
+~
+15 2 g k 0 S
+109 -36 -50 2d500+4132
+400 500 51 1d54+55
+8 0 37 1d0+100
+77 0 12 1d0+90
+-1 -1
+315 100 324 100 7 100 38 100 40 100
+-1
+3 1342602 8 8 0
+A
+%%2 emote does not do anything.
+~
+#13270
+PSB boy UMHTmob13270~
+A Pet Shop Boy~
+A Pet Shop Boy does not really do his job.
+~
+ This long and loose limbed boy hangs around all day doing nothing. 'I
+am an artist', 'I am creating' are typical sentences that pour out of him
+all day, constantly. What he really does is unknown but one could guess
+that he is getting inspiration for new songs. Right now he is aiding the
+Petshop shopkeeper in his daily duties.
+~
+1 2 bg k +2 S
+82 -23 -35 2d500+1596
+400 500 100 1d41+42
+-1 -1 -1
+6724 707699 8 8 1
+A
+%%5 emote peers around.
+;%5 snicker
+;%5 emote looks at the pets.
+;%5 look UMHTmob13271
+~
+#13271
+PSB boy UMHTmob13271~
+A Pet Shop Boy~
+A Pet Shop Boy does not really do his job.
+~
+ This long and loose limbed boy hangs around all day doing nothing. 'I
+am an artist', 'I am creating' are typical sentences that pour out of him
+all day, constantly. What he really does is unknown but one could guess
+that he is getting inspiration for new songs. Right now he is aiding the
+Petshop shopkeeper in his daily duties.
+~
+1 2 bg k +20 S
+82 -23 -35 2d500+1596
+400 500 100 1d41+42
+-1 -1 -1
+6724 707699 8 8 1
+A
+%%5 emote peers around.
+;%5 snicker
+;%5 emote looks at the pets.
+;%5 look UMHTmob13270
+~
+#13272
+Stranger Tall dark UMHTmob13272~
+The Tall Dark Stranger~
+A really handsome stranger is looking for some long term company.
+~
+ The tall dark stranger is about to embark on a long trip and is now
+looking for someone that was supposed to meet him here and join him on
+the trip. He looks really nice and is most surely rich and famous too. It
+almost sounds too good to be true.
+~
+1 2 0 kfh +1000 S
+96 -30 -43 2d500+2222
+400 500 100 1d48+49
+-1 -1
+7 0
+-1
+9216 986388 8 8 1
+A
+%%5 emote invites you to follow him.
+;%5 emote flirt with all and every female around.
+;%5 smile
+;%5 emote tries to look handsome and is sucessful.
+;%5 emote is a real bargain.
+;%1 follow UMHTmob13272
+~
+R
+ -1 -1 -1 -1 25
+#13273
+imak bard troll 00_Kami~
+Imak, the troll bard~
+Imak, the troll bard, sings better than Hulio.
+~
+ Imak, the little trollish bard usually sits in a corner singing small
+and self composed songs that would make the great and very famous Hulio
+completely speechless. He is so cute you just can not take your eyes
+from him for a long time.
+~
+8 2 ml khrD +1000 S
+109 -36 -50 5d500+5132
+410 500 100 1d54+55
+-1 -1 -1
+12438 1342602 8 8 1
+A
+%%5 emote sings a lovely tune.
+;%5 emote wonders why Hulio has such a big Fanclub.
+;%5 emote sings a song for you.
+;%5 smile
+~
+R
+ -1 -1 -1 -1 49
+#13274
+Cat~
+An alley cat~
+An alley cat.
+~
+ The cat is greyish brown with streaks over its fur. It is a pure racial
+cat. Its genes contain all cat genes there are. The best and the worst
+in a complete mixture. Lucky you, if you find a cuddlier animal.
+~
+3 2 m ksf 0 S
+5 18 7 1d50+103
+408 500 100 1d6+6
+-1 -1 -1
+0 133 8 8 0
+A
+%%40 purr
+;%5 emote licks your leg.
+;%30 emote licks its own face.
+~
+#13275
+Dog Skeletal skeleton~
+The Skeleton Dog~
+The skeleton dog.
+~
+ It is a dog. Or at least was. And maybe it is again. Someone took the
+work of peeling the bones of the dog when it died and then poured some
+magic into it bringing it back to a undead life. It now becomes the
+loyal follower of whomever it is given to.
+~
+2 2 cm ky 0 S
+5 18 7 1d50+103
+400 500 100 1d6+6
+-1 -1
+402 60
+-1
+0 133 8 8 0
+A
+%%5 emote walks on very unbalanced legs.
+;%5 emote tries to bark, but no lungs give no sound.
+;%5 emote tries to identify some unnoticeable smell.
+~
+#13276
+Orc Tamed~
+The Orc~
+The 'tamed' orc smiles towards you.
+~
+ Hi! The orc does not look nearly as wild as its usual brethren. He
+even has polished teeth, watercombed hair and a at least somewhat
+standable breath. There has to be some real power involved to take the
+naughtiness out of such a naturally mean breed.
+~
+5 2 m k 0 S
+5 18 7 1d50+103
+407 500 100 1d6+6
+-1
+313 100
+-1 -1
+0 233 8 8 1
+A
+%%2 say Anyone have a comb?
+;%2 smile
+;%2 emote scratches your back with his still filthy hand.
+;%47 Hide
+~
+#13277
+Falcon~
+A Falcon~
+A falcon.
+~
+ A little bird. But what a set of fangs and bill! It would easily have
+a go at any mouse around without too much trouble. Just keep it away
+from eyes and ears and everything will be ok for you.
+~
+13 2 m kB 0 S
+5 18 7 1d50+103
+408 500 100 1d6+6
+-1 -1 -1
+0 133 8 8 1
+A
+%%5 emote tries to pick your eyes out.
+;%5 emote tries to bite your ear off.
+;%5 hit mouse
+;%5 emote glares at you with sharp eyes.
+~
+#13278
+Bird Prey yellow~
+#YThe yellow bird#N~
+#YA big yellow bird of prey.#N
+~
+#Y What a BIG bird. It has got bright yellow feathers that almost shine
+as it positions itself next to you. It is so big it could kill a cow
+singlehandedly, eh, singleclawedly. Make sure it is well fed and far
+off.
+#N
+~
+13 2 m kz -700 S
+5 18 7 1d70+100
+408 500 100 1d6+6
+-1 -1
+29 100
+-1
+2 166 8 8 1
+A
+%%1 : #Y removes a little piece of meat that got stuck in its feathers.#N
+;%5 emote #Ylooks at you.#N
+;%5 emote #Ypeers around for a cow to peck.#N
+;%5 emote #Ytries to bite of the ear of anyone close enough.#N
+;%5 emote #Ysmiles a little bit too wickedly.#N
+~
+#13279
+Dead Cow~
+The nearly Dead Cow~
+The cow is almost dead.
+~
+ OH NO!!! Someone tried to off the poor cow! There are distinct claw
+marks all over its big body and there are pieces of flesh missing, thorne
+out through the thick skin. Even one of the eyes is gone. How disgusting.
+~
+16 2 b 0 0 S
+3 19 8 1d56+1
+400 500 100 1d1+2
+-1 -1 -1
+0 2 1 1 2
+#13280
+shopkeeper Fritz Cleric~
+Fritz~
+Fritz the Cleric.
+~
+ Fritz stands single in a world of turmoil. As being one of the few of
+his order he has taken the opportunity to stay here at the local shrine
+producing small things to ease the problems of the local population or
+his community as he refers to them. A little cure here and a bigger heal
+there, everything for his god of Neutrality and Tolerance.
+~
+9 2 b kh 0 S
+100 -32 -200 2d500+23970
+400 500 90 1d49+50
+27 0 10 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 say Enter in peace and harmony.
+;%5 say How can my humble being aid you?
+;%5 emote starts to work on a new poem.
+;%5 smile
+;%5 emote looks at you.
+;%5 emote sends a little prayer to his gods.
+~
+R
+ -1 -1 -1 -1 50
+#13281
+shopkeeper Fritz Tooldwarf~
+Fritz~
+Fritz the Tooldwarf.
+~
+ A stocky little dwarf with stocky little limbs and stocky little
+fingers.  Even his hair and beard look stocky. Hmm, dreadlocks... it
+might be called. His plain but robust clothing suits not only his body
+but his working conditions with sharp and heavy things lying around
+everywhere.
+~
+9 2 b k 0 S
+100 -32 -200 2d500+23970
+400 500 90 1d49+50
+52 0 10 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 say Jaah, welcome.
+;%5 say Whaat caan I do for you?
+;%5 say Wanna see my tool?
+;%5 emote look around a bit.
+;%5 smile
+;%5 flex
+;%5 emote checks out his tool.
+;%5 emote shows you some ware he has on display.
+~
+R
+ -1 -1 -1 -1 50
+#13282
+shopkeeper Fritz Cat salesman Cat-salesman~
+Fritz~
+Fritz the Cat-salesman.
+~
+ Fritz got to be one of the sleaziest characters you have ever
+encountered and you sure have seen a few. Slim clothing, in a green-
+blue- pinkish coloring, accessorized with a similarly coloured wide-
+brimmed hat with a small feather in its band. And not to forget,
+extremely well polished black shoes. If you want a deal with him you have
+to bundle up quite a few gold pieces under his table.
+~
+9 2 b k -340 S
+100 -32 -200 2d500+23970
+400 500 70 1d49+50
+63 0 30 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 say I have the perfect one for you!
+;%5 say What did you say? That cost extra!
+;%5 say No! No sheeps. You will have to wait a few days for that.
+;%5 emote smiles very sleazily.
+;%5 purr
+;%5 emote looks really cool, in a sleazy way.
+;%5 say I got a special price, only for you, my friend.
+~
+R
+ -1 -1 -1 -1 50
+#13283
+shopkeeper Fritz Beer Hoister~
+Fritz~
+Fritz the Beer Hoister.
+~
+ A stained white (or at least used to be white) linen is the first
+impression you get of this dwarf and as first impressions last, so does
+that linen. If you get over it, you find a rather friendly little
+bartender awaiting your orders with a smile from behind this, for human
+standards, low bar.
+~
+9 2 b k 0 S
+100 -32 -200 2d500+23970
+400 500 90 1d49+50
+72 0 10 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 emote draws up a beer.
+;%5 emote makes sure the foam level of the beer is OK.
+;%5 emote awaits your order.
+;%5 emote chats a little with another customer.
+;%5 emote draws up another beer.
+;%5 say Two beer - Coming right up!
+~
+R
+ -1 -1 -1 -1 50
+#13284
+shopkeeper Fritz Harbour Official~
+Fritz~
+Fritz the Harbour Official.
+~
+ Tall, for a dwarf, and pompous Fritz is located behind his desk doing
+paperwork. There seems to be a lot of that awaiting him too. The local
+mayor does seem to let over quite a lot of responsibility for him,
+wonder why, but he seems to cope even though he works a lot of overtime.
+~
+9 2 b k 0 S
+100 -32 -200 2d500+23970
+400 500 70 1d49+50
+48 0 30 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 say How can I help you?
+;%5 say You want to fill out a work permit?
+;%5 say Donations are welcome...
+;%5 emote reads one of his papers.
+;%5 smile
+;%5 emote looks at you as you are intruding.
+;%5 emote continues to fill out his daily report.
+~
+R
+ -1 -1 -1 -1 50
+#13285
+shopkeeper Fritz salesguy~
+Fritz~
+Fritz your very personal salesguy.
+~
+ As you look at Fritz you see a little glow in his eyes and he starts to
+talk about the closest thing around showing you how incredibly good and
+high quality it is and that you really really have to buy at least one.
+He even helps you to put one on you as he pushes you to the next shelf
+in his well assorted high quality sales boutique.
+~
+9 2 b kdf 0 S
+100 -32 -200 2d500+23970
+400 500 80 1d49+50
+25 0 10 1d0+100
+37 0 10 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 emote drags you along showing more examples of low prices.
+;%5 emote pulls you with him to the next counter.
+;%5 emote hands you a Trinky.
+;%5 emote puts a Trinky in your shopping basket.
+;%5 emote smiles at you.
+;%5 emote tries to block your exit.
+;%5 emote says 'HAVE A LOOK AT THIS. MARVELLOUS AND PRICE WORTHY.'
+;%5 emote says 'THERE ARE MORE THINGS OVER HERE.'
+;%5 emote says 'GRAB A FEW MORE THINGS AND I WILL GIVE YOU A NICE PRICE.'
+~
+R
+ -1 -1 -1 -1 50
+#13286
+shopkeeper Fritz Doppelganger UMHTmob13286~
+Fritz~
+Fritz the Doppelganger.
+~
+ He looks familiar, could be because there are two of him. The immense
+ringing and the continual double vision of his customers took its tribute
+one day when a group of travelling psionics came in for a drink at what
+they thought to be a local cultural happening. Alcohol and psis do not
+make a healthy combination at least not for the surroundings.
+~
+9 2 b k 0 S
+100 -32 -200 2d500+23970
+400 500 70 1d49+50
+79 0 30 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 emote looks at you from all directions at the same time.
+;%5 say Want some food?
+;%1 say try the ancient ice - marvellous.
+;%5 look UMHTmob13296
+;%5 smile
+;%5 emote mixes a grogg that someone ordered.
+;%5 emote looks at you with his very special version of split vision.
+~
+R
+ -1 -1 -1 -1 50
+#13287
+shopkeeper Fritz Receptionist~
+Fritz~
+Fritz the Receptionist.
+~
+ Usually the reception is crowded and Fritz has so much to do he hardly
+has time to breathe. Today, au contraire, it is completely dead. He has
+taken this opportunity to relax a bit behind his desk. A little instant
+sun and a pair of shorts can sometimes really make somebody's day.
+~
+9 2 b k 0 S
+100 -32 -200 2d500+23970
+400 500 70 1d49+50
+73 0 30 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 emote smears some suntan on his pale body.
+;%5 emote polishes a spot away from his sunglasses.
+;%5 emote casually asks 'Wanna room?'
+;%5 scratch fritz
+;%5 emote takes a sip from his old Dancing Parlor umbrella drink.
+;%5 yawn
+~
+R
+ -1 -1 -1 -1 50
+#13288
+shopkeeper Fritz Tollman~
+Fritz~
+Fritz the Tollman.
+~
+ He is a gentle and kind man who only does his duties. Unfortunately so
+many hate him for this as his tasks are not that popular and he is but
+the tool. On the other hand you were lucky to find him in his office. If
+he were to catch you sneaking out of the harbour without the necessary
+papers the fee would be a bit larger and his associates would surely
+enforce this on you, with a smile and lots of possible pain.
+~
+9 2 b k 0 S
+100 -32 -200 2d500+23970
+400 500 90 1d49+50
+30 0 10 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 emote moves some papers around on his desk.
+;%5 say You have to wait for your turn.
+;%5 say Toll free?! Sure thing, give me the money and I'll be with you
+ in a moment.
+;%5 emote smiles stiffly.
+~
+R
+ -1 -1 -1 -1 50
+#13289
+shopkeeper Fritz Fishtrader~
+Fritz~
+Fritz the Fishtrader.
+~
+ Slightly cold and wet, Fritz stands in the middle of his large newly
+bought barrels of iced fish, but he sure seems to enjoy it. Fish is his
+life and secretly one can guess that he dreams of one day becoming one.
+And he would surely know where to go to avoid the fishers and where to
+stay cold and comfortable.
+~
+9 2 b k -800 S
+100 -32 -200 2d500+23970
+400 500 80 1d49+50
+79 0 20 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 emote throws a cod at you. Right in the face. Bleh!
+;%5 emote glares at you.
+;%5 emote sadly pats one of his dead herrings.
+;%5 emote splashes some water on his dehydrating body.
+;%5 emote smiles wickedly.
+;%1 emote painfully takes a hissing breath through his tiny gills.
+~
+R
+ -1 -1 -1 -1 50
+#13290
+shopkeeper Fritz old Baker~
+Fritz~
+Fritz the old Baker.
+~
+ It is hard for a baker to work ahead, but Fritz here has. His bread is
+so heavy and of course of such high quality it would have been ruined a
+long time ago if not. But it has not. So now he rests upon his products
+and lives solely on a healthy diet of meat and fish with a bit of
+vegetables. And a beer or three once in a while.
+~
+9 2 b k 0 S
+100 -32 -200 2d500+23970
+400 500 80 1d49+50
+86 0 20 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 emote saws a loaf of bread apart for you.
+;%5 emote gnaws on some dry fish.
+;%5 smile
+;%5 emote sorts something in the bread storage.
+;%5 emote brings out the BIG axe and chops of another breadslice.
+;%5 emote looks at you.
+;%5 yawn
+;%5 emote rests a bit.
+;%1 sneeze
+~
+R
+ -1 -1 -1 -1 50
+#13291
+shopkeeper Fritz Pumpman~
+Fritz~
+Fritz the Pumpman.
+~
+ From well even further down the mountain base Fritz brings up his clear
+and mineral rich waters. And, of course, trades them off with good
+profits. He wears an old Iron Mill vest with its logo on the back, no
+doubt where he got his pumping training.
+~
+9 2 b k -600 S
+100 -32 -200 2d500+23970
+400 500 80 1d49+50
+97 0 20 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 emote has a go at the pump.
+;%5 emote fills a barrel with water.
+;%5 emote takes a moment of rest.
+;%5 emote wonder how he could get rid of that cursed air in the piping.
+;%5 emote sips some water from his personal bottle.
+;%1 emote saves the amforas that keep rolling off.
+~
+R
+ -1 -1 -1 -1 50
+#13292
+shopkeeper Fritz Mage~
+Fritz~
+Fritz the Mage.
+~
+ The world seems to shimmer around this character as he walks around in
+his cave shop constantly picking and fixing with his potions and papers
+until they are so perfectly aligned it suits his well structured mind.
+His two favorite things in his shop are the potion for seasickness and
+the one against.
+~
+9 2 b kdf 0 S
+100 -32 -200 2d500+23970
+400 500 70 1d49+50
+26 0 30 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 emote hums a tune composed by himself.
+;%5 emote gets a new idea for a poem.
+;%5 emote scrabbles something down on paper.
+;%5 emote watches you intensely.
+;%5 emote annoys his familiar with yet another attempt of poetry.
+;%5 emote moves a potion half a millimeter to the right.
+;%5 emot pulls a scroll just a tiny bit to give it optimal illuminance.
+~
+R
+ -1 -1 -1 -1 50
+#13293
+shopkeeper Fritz Tailor~
+Fritz~
+Fritz the Tailor.
+~
+ Long and thin bodily composition makes Fritz no ordinary dwarf, even
+though he lives in a rather typical Dwarven Undermoutain Harbour Town.
+But his skilled eyes can still without a moment of hesitation pick out
+your size and even more interesting what you could be interested in in
+the way of clothing.
+~
+9 2 b k 0 S
+100 -32 -200 2d500+23970
+400 500 60 1d49+50
+96 0 30 1d0+100
+68 0 10 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 emote eyes you up from head to toes.
+;%5 emote snaps of an odd thread from a dress he is making.
+;%5 emote puts a few pins into a dress.
+;%5 emote lets his hand slide over some dress fabric.
+;%5 emote watches your bottom for a long time while he snickers softly.
+          #y'Hey! It is not that big'#N you hear yourself snarl.
+~
+R
+ -1 -1 -1 -1 50
+#13294
+shopkeeper Fritz Slaughterer~
+Fritz~
+Fritz the Slaughterer.
+~
+ Fritz has a rather unique style of cutting up animals. He goes in to
+something that looks like close melee with such a frenzy that one hardly
+thinks that he would survive... It looks VERY brutal but it is clearly
+efficient in both time and losses, but it has also earned his the title
+slaughterer instead of butcher.
+~
+9 2 b kz +300 S
+100 -32 -200 2d500+23970
+400 500 80 1d49+50
+76 0 20 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 Berzerk
+;%5 emote makes a little kata with his favourite chopper.
+;%5 emote sizes up another piece of meat. Better step aside.
+;%5 emote looks at you - looks at his big knife - looks at you again.
+;%5 emote removes a thin piece of meat that got stuck in his hair.
+~
+#13295
+shopkeeper Fritz Cartographer~
+Fritz~
+Fritz the Cartographer.
+~
+ Mapmaking is an art, too bad the artist has so little material to work
+with as he is stuck here and not out in the field. This also shows in
+his output. They seem rather limited in viewable range and areas but
+there are a lot of copies. A never-ending supply is at your disposal.
+~
+9 2 b k 0 S
+100 -32 -200 2d500+23970
+400 500 80 1d49+50
+5 0 20 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 emote draws a few lines on a blank paper.
+;%5 emote smiles and asks you 'Got any area info you want to share?'
+;%5 emote sighs a bit and starts working again.
+;%5 emote draws another map over the harbour.
+;%5 emote draws yet another map over the closest neighbourhood.
+;%5 emote looks at you.
+~
+R
+ -1 -1 -1 -1 50
+#13296
+shopkeeper Fritz Doppelganger UMHTmob13296~
+Fritz~
+Fritz the Doppelganger.
+~
+ He looks familiar, could be because there are two of him. The immense
+ringing and the continual double vision of his customers took its tribute
+one day when a group of travelling psionics came in for a drink at what
+they thought to be a local cultural happening. Alcohol and psis do not
+make a healthy combination at least not or the surrounding.
+~
+9 2 b k 0 S
+100 -32 -200 2d500+23970
+400 500 70 1d49+50
+79 0 30 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 emote looks at you from all directions at the same time.
+;%5 emote tells you 'What can I get you people?'
+;%5 say Want some food?
+;%1 say Try the ancient ice - Marvellous.
+;%5 look UMHTmob13286
+;%5 smile
+;%5 emote mixes a grogg that someone ordered.
+;%5 emote looks at you with his very special version of split vision.
+~
+R
+ -1 -1 -1 -1 50
+#13297
+shopkeeper Sigourney~
+Sigourney~
+Sigourney was left behind by her sister.
+~
+ A small but long lived female deep gnome weaves ropes for her living as
+her twin took the part of wrestling monsters. Someone had to stay at
+home and that fell on poor Sigourney. She looks pretty cute but her hands
+are going gnarled from all the rope strings that pass through them. If
+you ask nicely, perhaps she will sell you some.
+~
+9 2 b k -600 S
+100 -32 -200 2d500+23970
+400 500 40 1d49+50
+33 0 30 1d0+100
+17 0 30 1d0+100
+-1 -1 -1
+9801 1059126 8 8 2
+A
+%%5 smile
+;%5 emote looks at you as you already have disturbed her.
+;%5 emote quickly spins up another short piece of rope she is making.
+;%5 emote grabs a bunch of threads that were not supposed to be there.
+;%5 emo does one of her special maneuvers to increase the rope strength.
+~
+R
+ -1 -1 -1 -1 50
+#13298
+Fortuneteller~
+the Fortuneteller~
+The Fortuneteller sits in a corner serving truths about the world.
+~
+ The fortune teller sits in the corner revealing the future to anyone
+that asks for it or comes close enough. The future is not to be tampered
+with easily so treat this man with duly respect.
+~
+9 2 b kh 0 S
+100 -32 -200 2d500+23970
+400 500 90 1d49+50
+106 0 10 1d0+100
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 say You are about to embark on a long journey.
+;%5 say You will meet a tall, dark stranger.
+;%5 emote mutters something about 'Writing your own destiny.'
+;%5 say You will meet a short, bearded sailor.
+~
+R
+ -1 -1 -1 -1 75
+#13299
+miner Japanese~
+The miner~
+A slightly blueish Japanese miner is far away from home.
+~
+A blueish japanese tries to get something warming into his body. The
+blue does not seem to be his natural colour but caused by too long
+exposure to the ice mines in the northern, very cold, continent.
+~
+1 2 bg kr 0 S
+99 -32 -45 1d500+2097
+400 500 100 1d49+50
+-1 -1 -1
+9801 1059126 8 8 1
+A
+%%5 emote whispers to his friend 'Did you say they found ancient eyes
+ in the glacier?'
+;%5 nod
+;%5 shiver
+~
+#99999
+$~
+
+

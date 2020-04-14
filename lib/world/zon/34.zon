@@ -1,0 +1,170 @@
+#34
+Graveyard~
+3499 120 1
+*
+D 0 3400 0 2          Close Grate from inside
+*
+D 0 3404 2 1          Close Chapel door from outside
+D 0 3405 0 1          Close Chapel door from inside
+*
+D 0 3414 2 2          Close Park Gate from outside
+D 0 3443 0 2          Close Park Gate from inside
+*
+D 1 3433 1 2          Close bronze door from outside
+D 1 3434 3 2          Close bronze door from inside
+*
+D 1 3440 1 2          Close mural door from outside
+D 1 3441 3 2          Close mural door from inside
+*
+D 1 3446 2 2          Close Iron door from outside
+D 1 3453 0 2          Close Iron door from inside
+*
+D 0 3473 2 1          Close vlads door from outside
+D 0 3474 0 1          Close vlads door from inside
+*
+D 0 3473 1 1          Close library door from outside
+D 0 3475 3 1          Close library door from inside
+*
+D 0 3477 1 1          Close spike door from outside
+D 0 3478 3 1          Close spike door from inside
+*
+D 0 3478 5 1          Close slab from outside
+D 0 3479 4 1          Close slab from inside
+*
+M 0 3400 14 3404      skeletons on north side
+M 0 3400 14 3404
+M 0 3400 14 3404
+M 0 3400 14 3404
+M 0 3400 14 3404
+M 0 3400 14 3404
+M 0 3400 14 3404
+*
+M 0 3400 14 3414      skeletons on south side
+M 0 3400 14 3414
+M 0 3400 14 3414
+M 0 3400 14 3414
+M 0 3400 14 3404
+M 0 3400 14 3404
+M 0 3400 14 3404
+*
+M 0 3411 2 3403       graverobber #1
+G 1 3422 100          Give him a gate key
+E 1 3412 5 16           shovel
+E 1 6004 5 0            lantern
+M 0 3411 2 3403       graverobber #2
+G 1 3422 100          Give him a gate key
+E 1 3412 5 16           shovel
+E 1 6004 5 0            lantern
+*
+M 0 3413 1 3405       The Fryer
+G 1 3414 100              skeleton key
+D 1 3405 5 2          Close altar from outside
+D 1 3420 4 2          Close altar from inside
+E 1 3411 5 16           mace
+E 1 3002 5 17           bottle of ale
+*
+M 0 3406 4 3412       ghoul #1
+M 0 3406 4 3412       ghoul #2
+M 0 3406 4 3416       ghoul #3
+M 0 3406 4 3416       ghoul #4
+*
+M 0 3417 6 3424       mummy #1
+G 1 3416 100              bronze key
+M 0 3417 6 3428       mummy #2
+M 0 3417 6 3429       mummy #3
+M 0 3417 6 3454       mummy #4
+M 0 3417 6 3455       mummy #5
+M 0 3417 6 3457       mummy #6
+*
+M 0 3408 6 3425       zombie #1
+M 0 3408 6 3425       zombie #2
+M 0 3408 6 3425       zombie #3
+M 0 3408 6 3425       zombie #4
+M 0 3408 6 3461       zombie #5
+M 0 3408 6 3465       zombie #6
+*
+M 0 3403 8 3434       wraith #1
+M 0 3403 8 3434       wraith #2
+M 0 3403 8 3435       wraith #3
+M 0 3403 8 3435       wraith #4
+M 0 3403 8 3455       wraith #5
+M 0 3403 8 3461       wraith #6
+M 0 3403 8 3465       wraith #7
+M 0 3403 8 3472       wraith #8
+*
+M 0 3404 4 3435       swordwraith #1
+E 1 3410 8 16          shadowsword
+M 0 3404 4 3434       swordwraith #2
+E 1 3410 8 16          shadowsword
+M 0 3404 4 3446       swordwraith #3
+E 1 3410 8 16          shadowsword
+M 0 3404 4 3470       swordwraith #4
+E 1 3410 8 16          shadowsword
+*
+M 0 3407 2 3440       ghost #1
+*
+M 0 3405 8 3433       skeleton war #1
+E 1 3420 16 16          broken sword
+M 0 3405 8 3433       skeleton war #2
+E 1 3420 16 16          broken sword
+M 0 3405 8 3444       skeleton war #3
+E 1 3420 16 16          broken sword
+M 0 3405 8 3444       skeleton war #4
+E 1 3420 16 16          broken sword
+M 0 3405 8 3444       skeleton war #5
+E 1 3420 16 16          broken sword
+M 0 3405 8 3444       skeleton war #6
+E 1 3420 16 16          broken sword
+M 0 3405 8 3444       skeleton war #7
+E 1 3420 16 16          broken sword
+M 0 3405 8 3444       skeleton war #8
+E 1 3420 16 16          broken sword
+*
+M 0 3412 1 3453       general patton
+E 1 3404 5 16           ivory sword
+E 1 3405 5 6            helmet
+E 1 3406 5 8            boots
+*
+M 0 3402 1 3474       count Vladamir
+G 1 3418 100              key to Igon's vault
+D 1 3479 5 2          Close carcophegus (one way)
+E 1 3400 5 3            cape
+E 1 3401 5 4            medallion
+M 0 3409 1 3475       The guardian
+E 1 3403 5 17          hourglass (trapdoor key)
+D 1 3475 5 2           Close trapdoor (one way)
+E 1 3402 5 0            scarab
+*
+M 0 3401 5 3440       vampire #1
+G 1 3417 100              mural key
+M 0 3401 5 3462       vampire #2
+G 1 3421 20            violet potion
+M 0 3401 5 3464       vampire #3
+G 1 3421 20             violet potion
+M 0 3401 5 3466       vampire #4
+G 1 3421 20             violet potion
+M 0 3401 5 3468       vampire #5
+G 1 3421 20             violet potion
+*        
+M 0 3415 1 3480       Igon the Lich
+E 1 3407 5 6            headband
+E 1 3408 5 16           staff
+E 1 3409 5 0            ball
+*
+M 0 3410 1 3479       the spectre
+*
+M 0 3414 2 3478       draco #1
+M 0 3414 2 3478       draco #2
+*
+M 0 3416 3 3477       spike #1
+M 0 3416 3 3477       spike #2
+M 0 3416 3 3477       spike #3
+*
+M 0 3418 1 3444       The Nameless Hero
+G 1 3415 100              key to moseleum
+E 1 3414 5 13           girdle
+E 1 3419 5 11           shield
+E 1 3411 5 16           mace
+S
+#99999
+$~

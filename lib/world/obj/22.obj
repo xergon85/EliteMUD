@@ -1,0 +1,374 @@
+#2200
+spear jagged~
+a jagged spear~
+A jagged spear has been left here.~
+~
+5 20 abefijm 0 an
+0 4 6 12 0 0
+15 1000 1500
+#2201
+dagger silver~
+a silver dagger~
+A silver dagger is lying here.~
+~
+5 25 bj 0 an
+0 4 5 11 0 0
+10 1000 200
+#2202
+knife tooth dragon~
+a dragon's tooth knife~
+A dangerous looking knife made from a dragon's tooth has been left here.~
+~
+5 45 bf g an
+0 4 8 11 0 0
+8 5000 50000
+A
+2 1
+A
+19 6
+#2203
+bracelet dragon~
+a dragon skin bracelet~
+A scaly bracelet lies on the ground.~
+~
+9 30 0 0 am
+10 0 0 0 0 0
+10 2000 10000
+#2204
+belt silk black~
+a black silk belt~
+A black belt made of the finest silk is hanging here.~
+~
+9 30 0 g al
+8 0 0 0 0 0
+25 500 4000
+A
+18 1
+A
+19 1
+#2210
+belt silk white~
+a white silk belt~
+A white belt made of the finest silk is hanging here.~
+~
+9 30 0 g al
+5 0 0 0 0 0
+25 500 4000
+A
+1 2
+A
+13 40
+#2211
+bracelet platinum~
+a platinum bracelet~
+A tarnished platinum bracelet has been dropped here.~
+~
+9 30 0 0 am
+8 0 0 0 0 0
+5 2500 25000
+#2220
+symbol holy~
+a holy symbol~
+A golden holy symbol is here.~
+~
+9 30 acdeghiklmops ag aco
+15 0 0 0 0 0
+2 5000 5000
+A
+12 35
+#2221
+robe black~
+a plain black robe~
+A black robe is hanging on a hook on the wall.~
+~
+9 50 0 g ak
+12 0 0 0 0 0
+4 5000 5000
+A
+18 2
+#2222
+sword emerald~
+an emerald sword~
+An emerald long sword is leaning against the wall.~
+~
+5 40 bj g an
+0 5 8 3 0 0
+14 4000 1000
+A
+18 5
+A
+19 5
+#2223
+club stone~
+a stone club~
+A heavy looking stone club is here.~
+~
+5 30 0 0 an
+0 5 5 6 0 0
+18 750 5000
+#2224
+ring diamond~
+a diamond ring~
+A diamond ring lies gleaming on the ground.~
+~
+9 50 0 g ab
+6 0 0 0 0 0
+6 15000 10000
+A
+18 2
+A
+19 2
+#2230
+ring copper~
+a copper ring~
+A copper ring is here.~
+~
+9 35 0 g ab
+8 0 0 0 0 0
+1 7000 25000
+A
+4 2
+#2231
+key steel~
+a steel key~
+A steel key.~
+~
+18 1 0 0 a
+0 0 0 0 0 200
+1 500 1000
+#2232
+key ruby~
+A ruby key~
+A ruby key.~
+~
+18 1 0 0 a
+0 0 0 0 0 200
+1 500 1000
+#2233
+key white~
+a white key~
+A white key.~
+~
+18 1 0 0 a
+0 0 0 0 0 200
+1 500 1000
+#2234
+key grey~
+a grey key~
+A grey key is resting on the ground here.~
+~
+18 1 0 0 a
+0 0 0 0 0 200
+1 500 1000
+#2237
+key stone~
+a stone key~
+A stone key.~
+~
+18 1 0 0 a
+0 0 0 0 0 200
+1 500 1000
+#2240
+key black~
+a black key~
+A black key.~
+~
+18 1 0 0 a
+0 0 0 0 0 200
+1 500 1000
+#2241
+key platinum~
+a platinum key~
+A platinum key.~
+~
+18 1 0 0 a
+0 0 0 0 0 200
+1 500 1000
+#2242
+shield crested~
+a crested shield~
+A large crested shield draws your attention.~
+~
+9 40 0 g aj
+11 0 0 0 0 0
+20 10000 100000
+A
+5 2
+A
+20 10
+#2243
+wand golden~
+a golden wand~
+A golden wand has been dropped here.~
+~
+3 20 cdhknops g ao
+60 5 5 87 0 0
+5 10000 5000
+#2244
+staff silver~
+a silver staff~
+A silver staff.~
+~
+4 15 cdhknops g ao
+70 5 5 72 0 0
+5 10000 5000
+#2245
+staff dragon~
+the staff of the dragon~
+A powerful oak staff has been left here.~
+~
+4 15 cdhknops g ao
+45 10 10 6 0 0
+5 5000 3000
+#2246
+mail scale~
+scale mail~
+A set of scale mail has been abandoned here.~
+~
+9 35 0 0 ad
+15 0 0 0 0 0
+20 10000 20000
+#2250
+staff black~
+a black staff~
+You notice the faint outline of a staff.~
+~
+4 35 cdhknops g ao
+30 10 10 26 0 0
+25 7500 5000
+#2251
+potion cyan~
+a cyan potion~
+A small cyan potion has been left here.~
+~
+10 15 0 g a
+30 4 27 0 0 0
+1 2000 1000
+#2252
+potion magenta~
+a magenta potion~
+A magenta potion.~
+~
+10 1 0 g a
+30 15 34 0 0 0
+1 1000 100
+#2254
+gauntlets spiked~
+a pair of spiked gauntlets~
+A pair of spiked gauntlets.~
+~
+9 40 0 g ah
+8 0 0 0 0 0
+10 13000 5000
+A
+19 2
+A
+18 4
+#2260
+scimitar golden~
+a golden scimitar~
+A golden scimitar.~
+~
+5 25 0 ag an
+0 3 7 3 0 0
+10 4000 7000
+A
+18 2
+A
+19 3
+#2261
+brooch diamond~
+a diamond brooch~
+A diamond brooch.~
+~
+9 30 0 g ac
+7 0 0 0 0 0
+2 10000 4000
+A
+12 50
+#2270
+scroll~
+a runed scroll~
+A runed scroll.~
+~
+2 30 0 g ao
+30 1 34 67 0 0
+1 700 500
+#2271
+gloves dragon~
+a pair of dragon skin gloves~
+A pair of dragon skin gloves are lying on the ground.~
+~
+9 40 0 g ah
+8 0 0 0 0 0
+5 6000 15000
+A
+2 2
+#2275
+helm dragon~
+a helm of dragon kind~
+A helm made of a dragon's skull is lying on the ground.~
+~
+9 40 0 g ae
+8 0 0 0 0 0
+15 5000 6000
+A
+13 50
+#2276
+fur cloak~
+a fur cloak~
+A large mound of fur is lying here.~
+~
+9 40 0 g ak
+10 0 0 0 0 0
+10 5000 10000
+A
+1 1
+A
+13 50
+#2280
+leggings dragon scale~
+a pair of dragon scale leggings~
+A pair of dragon scale leggings is lying on the ground.~
+~
+9 40 aeim 0 af
+8 0 0 0 0 0
+15 3500 4000
+#2281
+sleeves dragon scale~
+a set of dragon scale sleeves~
+A set of dragon scale sleeves is lying on the ground.~
+~
+9 40 aeim 0 ai
+8 0 0 0 0 0
+12 3000 3000
+#2285
+whip dragon tail~
+a dragon tailed whip~
+A dragon tailed whip is lying on the ground.~
+~
+5 40 0 g an
+0 6 6 2 0 0
+14 4000 20500
+A
+18 3
+A
+19 5
+#2286
+hammer copper~
+a copper hammer~
+A copper hammer is lying on the ground.~
+~
+5 20 0 0 an
+0 3 6 6 0 0
+12 1000 15000
+#2299
+key gold tarnished~
+a tarnished gold key~
+A tarnished gold key lies here.~
+~
+18 1 0 0 a
+0 0 0 0 0 200
+1 500 1000
+#99999
+$~

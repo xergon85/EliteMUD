@@ -1,0 +1,140 @@
+#3700
+sticky spider web~
+The sticky spider web~
+There are sticky spider webs all over the roof,  with drained corpses inside.~
+~
+15 0 0 0 0
+500 5 -1 0 0 0
+50 0 1000
+E
+web sticky spider~
+The corpses look like those of troglodtyes, tunnel rats, and adventurers like
+yourselves. You might be able to pull a couple of them out.
+~
+#3701
+troglodyte corpse~
+The drained troglodyte corpse~
+There is a corpse of a troglodyte here.~
+~
+15 0 0 0 a
+150 0 -1 0 0 0
+80 1 1
+E
+troglodyte corpse~
+It has been completely drain of blood, and still has it's equipment.
+~
+#3702
+elf corpse~
+The corpse of an elven adventurer~
+An elven adventurer's corpse, covered with bite marks, is here.~
+~
+15 0 0 0 a
+200 0 -1 0 0 0
+100 1 1
+E
+elf corpse~
+It has been slightly drained of blood. Apparently the cave spiders didn't like
+the taste of elven blood very much. It is fully equipped.
+~
+#3703
+black metal plate breast~
+a black metal breast plate~
+A black metal breast plate is lying on the ground.~
+~
+9 5 acefijkms 0 ad
+8 0 0 0 0 0
+10 12000 15000
+E
+black plate metal breast~
+This breast plate is made of a hard black metal of unknown origins. It has an
+insignia emblazoned on the front you do not recognize - it is a white unicorn
+rearing over an eclipsed sun.
+~
+#3704
+black gauntlets metal~
+a pair of black metal gauntlets~
+A pair of black metal gauntlets is lying in a small heap here.~
+~
+9 5 acefijkms 0 ah
+7 0 0 0 0 0
+3 3000 2000
+E
+black gauntlets metal~
+There is have a small relief of a white unicorn over an eclipsed sun on the
+back of each glove. They are light and extremely strong.
+~
+#3705
+black helm metal~
+a black metal helm~
+A black metal helm has been discarded here.~
+~
+9 5 acefijkms 0 ae
+7 0 0 0 0 0
+7 4000 3000
+E
+black helm metal~
+Across the crest of the helmet there is a relief of a white unicorn rearing
+over an eclipsed sun. The helmet is made of an unknown metal, possibly some
+kind of adamantite compound, and is both light and extremely strong.
+~
+#3706
+black leg plates metal~
+a pair of black metal leg plates~
+A pair of black metal leg plates wait here for a new owner.~
+~
+9 5 acefijkms 0 af
+7 0 0 0 0 0
+6 3000 3000
+E
+black leg plates metal~
+Each of them has an engraving in the center. It is of a white unicorn rearing
+over a solar eclipse. The plates are made of a strong, unknown black metal.
+~
+#3707
+black metal arm plates~
+a pair of black metal arm plates~
+a pair of black metal arm plates is lying here.~
+~
+9 5 acefijkms 0 ai
+7 0 0 0 0 0
+7 3000 4000
+E
+black metal arm plates~
+Each of them has an engraving in the center. It is of a white unicorn rearing
+over a solar eclipse. The plates are made of a strong, unknown black metal.
+~
+#3708
+black metal boots~
+a pair of black metal boots~
+A pair of black metal boots lie on the ground here.~
+~
+9 5 0 0 ag
+5 0 0 0 0 0
+5 3000 3000
+E
+black metal boots~
+The boots are made from a strange black metal. They have a white unicorn
+rearing over an eclisped sun emblazoned on the side, and look very sturdy.
+~
+#3711
+pot black iron~
+a huge black iron pot~
+A pot big enough to feed an army is here.~
+~
+15 0 0 0 0
+4000 0 -1 0 0 0
+700 500 500
+E
+black iron pot~
+It is hot, and covered with scratches. It must be two inches thick!
+~
+#3712
+brown liquid~
+some murky brown liquid~
+Some murky brown liquid~
+~
+12 0 0 0 0
+0 0 0 0 50 1
+1 500 500
+#99999
+$~

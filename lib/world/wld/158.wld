@@ -1,0 +1,1269 @@
+#15800
+Waiting Room~
+  Adrenaline surges through your veins as the anticipation of battle 
+and death builds.A sign hangs from the wall, look at it if you aren't 
+familiar with this style of battle. Only one of you will leave alive, 
+so prepare now, and fight well. A doorway will lead upwards when 
+the battle begins.
+~
+158 duA 0
+E
+sign~
+These will be instructions when the zone is complete. (Mental note:
+must put a door in here :P)
+~
+S
+#15801
+Middle Level Of the Arena - South~
+   The battle begins, and the time for strategy is now. You can go up, 
+to the open hallways, for sniping. Or you can go down, into the dank 
+catacombs of the Arena, where sight and movement are impaired. Or, 
+you can just stay on the middle level. Exits leave in all directions 
+except south.
+~
+158 dus 0
+D0
+~
+~
+0 -1 15806
+D1
+It looks remarkably like a door.
+~
+door~
+1 -1 15802
+D3
+~
+~
+0 -1 15804
+D4
+~
+~
+0 -1 15833
+D5
+~
+~
+0 -1 15818
+S
+#15802
+Middle Level of the Arena - South~
+   Footsteps echo all around you, and you wonder how near your 
+adversary is. Not too near, you hope. This room is bare, save for 
+the evidence of battle, and exits leave in all directions save for 
+south.
+~
+158 dus 0
+D0
+~
+~
+0 -1 15809
+D1
+~
+~
+0 -1 15803
+D3
+It looks remarkably like a door.
+~
+door~
+1 -1 15801
+D4
+~
+~
+0 -1 15832
+D5
+~
+~
+0 -1 15819
+S
+#15803
+Middle Level of the Arena - SouthEast Corner~
+  You find yourself cornered here, yet you can use it to your 
+advantage, if you so choose. This room is bare and reasonably 
+well-lit, allowing you to see the bloodstains and holes in the wall. 
+Exits are in all directions except south and east.
+~
+158 dus 0
+D0
+~
+~
+0 -1 15810
+D3
+~
+~
+0 -1 15802
+D4
+~
+~
+0 -1 15831
+D5
+~
+~
+0 -1 15820
+S
+#15804
+Middle Level of the Arena - South~
+   As is the motif here, this room is bare, with light entering from 
+above. Fin d your opponent, and slay him! Exits lead in all directions,
+ except south.
+~
+158 dus 0
+D0
+~
+~
+0 -1 15807
+D1
+~
+~
+0 -1 15801
+D3
+It looks remarkably like a door.
+~
+door~
+1 -1 15805
+D4
+~
+~
+0 -1 15834
+D5
+~
+~
+0 -1 15817
+S
+#15805
+Middle Level of the Arena - SouthWest Corner~
+   You are in the corner of the arena, more vulnerable than in most 
+places, yet also in a fair position to set an ambush. Exits lead in
+all directions, except south and west.
+~
+158 dus 0
+D0
+It looks remarkably like a door.
+~
+door~
+1 -1 15808
+D1
+It looks remarkably like a door.
+~
+door~
+1 -1 15804
+D4
+~
+~
+0 -1 15835
+D5
+~
+~
+0 -1 15816
+S
+#15806
+Middle Level of the Arena - Central~
+   This room, like all others on this level, is bare. Exits lead in 
+all directions, and you find yourself wishing for the security of a 
+wall at your back.
+~
+158 dus 0
+D0
+~
+~
+0 -1 15813
+D1
+~
+~
+1 -1 15809
+D2
+~
+~
+0 -1 15801
+D3
+It looks remarkably like a door.
+~
+door~
+1 -1 15807
+D4
+~
+~
+0 -1 15838
+D5
+~
+~
+0 -1 15823
+S
+#15807
+Middle Level of the Arena - Central~
+   This well-lit room is close to the center of the Arena, bloodstains 
+attest to the danger of having exits, and entryways, in all directions. 
+If you dont have eyes in the back of your head, you had better find a 
+more defensible position.
+~
+158 dus 0
+D0
+It looks remarkably like a door.
+~
+door~
+1 -1 15814
+D1
+It looks remarkably like a door.
+~
+door~
+1 -1 15806
+D2
+~
+~
+0 -1 15804
+D3
+~
+~
+1 -1 15808
+D4
+~
+~
+0 -1 15837
+D5
+~
+~
+0 -1 15824
+S
+#15808
+Middle Level of the Arena - Central Edge~
+   You feel more secure with a solid wall at your back. Echoes of 
+footsteps ring all around you, yet you cannot tell in what direction. 
+Exits, however, lead in all directions except east, so you could try 
+to find out......
+~
+158 dus 0
+D0
+~
+~
+0 -1 15815
+D1
+~
+~
+1 -1 15807
+D2
+It looks remarkably like a door.
+~
+door~
+1 -1 15805
+D4
+~
+~
+0 -1 15836
+S
+#15809
+Middle Level of the Arena - Central~
+   Once again, a pretty bare room, littered with some broken crossbow 
+bolts, and as usual, some dried blood. Exits lead in every direction.
+~
+158 dus 0
+D0
+It looks remarkably like a door.
+~
+door~
+1 -1 15812
+D1
+It looks remarkably like a door.
+~
+door~
+1 -1 15810
+D2
+~
+~
+0 -1 15802
+D3
+~
+~
+1 -1 15806
+D4
+~
+~
+0 -1 15839
+D5
+~
+~
+0 -1 15822
+S
+#15810
+Middle Level of the Arena - Central Edge~
+   Again, you feel secure without a potential sniper at your back. The
+worn stone floors of this room are spattered with drops of blood from 
+wounded players. Exits lead in every direction except east.
+~
+158 dus 0
+D0
+It looks remarkably like a door.
+~
+door~
+1 -1 15811
+D2
+~
+~
+0 -1 15803
+D3
+It looks remarkably like a door.
+~
+door~
+1 -1 15809
+D4
+~
+~
+0 -1 15840
+D5
+~
+~
+0 -1 15821
+S
+#15811
+Middle Level of the Arena - NorthEast Corner~
+   You find yourself in another corner, the pitted floors seem more 
+worn than the rest, attesting to the fact that some combatants use 
+this room often, for whatever reason. Exits lead in all directions 
+except north and east.
+~
+158 dus 0
+D2
+It looks remarkably like a door.
+~
+door~
+1 -1 15810
+D3
+~
+~
+0 -1 15812
+D4
+~
+~
+0 -1 15841
+D5
+~
+~
+0 -1 15830
+S
+#15812
+Middle Level of the Arena - North~
+   Little furnishings and bloodstained, pockmarked walls make this 
+a dreary room.Exits lead in all directions except for north.
+~
+158 dus 0
+D1
+It looks remarkably like a door.
+~
+door~
+0 -1 15811
+D2
+It looks remarkably like a door.
+~
+door~
+1 -1 15809
+D3
+It looks remarkably like a door.
+~
+door~
+1 -1 15813
+D4
+~
+~
+0 -1 15842
+D5
+~
+~
+0 -1 15829
+S
+#15813
+Middle Level of the Arena - North~
+   The battle begins, and the time for strategy is now. You can go 
+up, to the open hallways, for sniping. Or you can go down, into the 
+dank catacombs of the Arena, where sight and movement are impaired. 
+Or, you can just stay on the middle level. Exits leave in all 
+directions except north.
+~
+158 dus 0
+D1
+It looks remarkably like a door.
+~
+door~
+1 -1 15812
+D2
+~
+~
+0 -1 15806
+D3
+~
+~
+0 -1 15814
+D4
+~
+~
+0 -1 15843
+D5
+~
+~
+0 -1 15828
+S
+#15814
+Middle Level of the Arena - North~
+   The sound of shuffling feet fills your ears, but you cant place the 
+sound. It sounds like someone who is trying to walk softly, with little
+success. Exits lead everywhere but north.
+~
+158 dus 0
+D1
+~
+~
+0 -1 15813
+D2
+It looks remarkably like a door.
+~
+door~
+1 -1 15807
+D3
+It looks remarkably like a door.
+~
+door~
+1 -1 -1
+D4
+~
+~
+0 -1 15844
+D5
+~
+~
+0 -1 15827
+S
+#15815
+Middle Level of the Arena - NorthWest Corner~
+   Bones litter the ground beneath your feet, step carefully, your 
+opponent will no doubt hear the crunching of bones beneath your feet. 
+Another corner room, and exits going everywhere but north and west.
+~
+158 dus 0
+D1
+It looks remarkably like a door.
+~
+door~
+1 -1 15813
+D2
+~
+~
+0 -1 15808
+D4
+~
+~
+0 -1 15845
+D5
+~
+~
+0 -1 15826
+S
+#15816
+Arena Catacombs - SouthWest Corner~
+   This room is dark, dank, and cluttered. Bones and other assorted 
+junk is strewn across the floor, making accurate and quick movement 
+impossible.Exits from this corner lead in all directions but west, 
+south, and down.
+~
+158 adgus 0
+D0
+~
+~
+0 -1 15825
+D1
+~
+~
+0 -1 15817
+D4
+~
+~
+0 -1 15805
+S
+#15817
+Arena Catacombs - South~
+   Unidentifiable sounds fill the air, making you very jumpy and wary. 
+Your only comfort is that to find you, your opponent must subject 
+himself to same confusing catacombs. Exits lead everywhere but south 
+and down.
+~
+158 adgus 0
+D0
+~
+~
+0 -1 15824
+D1
+~
+~
+0 -1 15818
+D3
+~
+~
+0 -1 15816
+D4
+~
+~
+0 -1 15804
+S
+#15818
+Arena Catacombs - South~
+   The heat and humidity make your eyes water, and the constant 
+thundering sounds distract you from proper concentration. Clutter 
+surrounds the exits that lead everywhere except south and down.
+~
+158 adgus 0
+D0
+~
+~
+0 -1 15823
+D1
+~
+~
+0 -1 15819
+D3
+~
+~
+0 -1 15817
+D4
+~
+~
+0 -1 15801
+S
+#15819
+Arena Catacombs - South~
+   You stumble around this filthy and bleak room for a moment, before 
+finding the exits that lead everywhere but down and south.
+~
+158 adgus 0
+D0
+~
+~
+0 -1 15822
+D1
+~
+~
+0 -1 15820
+D3
+~
+~
+0 -1 15818
+D4
+~
+~
+0 -1 15802
+S
+#15820
+Arena Catacombs - SouthEast Corner~
+   The sweltering heat combined with the smell of death makes for a 
+nauseating combination as you stumble into this corner room. Exits lead
+everywhere but down, south, and east.
+~
+158 adgus 0
+D0
+~
+~
+0 -1 15821
+D3
+~
+~
+0 -1 15819
+D4
+~
+~
+0 -1 15803
+S
+#15821
+Arena Catacombs - Central Edge~
+   Stifling heat and steam cloud your vision, blood and gore stays 
+moist and quickly decomposes down here. Exits lead everywhere but down
+and east.
+~
+158 adgus 0
+D0
+~
+~
+0 -1 15830
+D2
+~
+~
+0 -1 15820
+D3
+~
+~
+0 -1 15822
+D4
+~
+~
+0 -1 15810
+S
+#15822
+Arena Catacombs - Central~
+   Sweat drips into your eyes, and the stinging forces you to blink 
+repeatedly. The blink of an eye is more than enough time to catch a 
+crossbow bolt between the eyes....Wipe the sweat from your brow and 
+leave through an exit that leads anywhere but down.
+~
+158 adgus 0
+D0
+~
+~
+0 -1 15829
+D1
+~
+~
+0 -1 15821
+D2
+~
+~
+0 -1 15819
+D3
+~
+~
+0 -1 15823
+D4
+~
+~
+0 -1 15809
+S
+#15823
+Arena Catacombs - Central~
+   Sounds assail your ears, and the heat makes your head throb. How 
+much longer can you remain down here? There is an exit that leads up, 
+as well as to the 4 cardinal directions.
+~
+158 adgus 0
+D0
+~
+~
+0 -1 15828
+D1
+~
+~
+0 -1 15822
+D2
+~
+~
+0 -1 15818
+D3
+~
+~
+0 -1 15824
+D4
+~
+~
+0 -1 15806
+S
+#15824
+Arena Catacombs - Central~
+   Your head swims, your vision is blurry, in this state, your 
+vulnerability is clear. But will the other combatants pursue you into
+this hellhole? You may soon find out. In the meantime, however, you
+can leave in every direction but down.
+~
+158 adgus 0
+D0
+~
+~
+0 -1 15827
+D1
+~
+~
+0 -1 15823
+D2
+~
+~
+0 -1 15817
+D3
+~
+~
+0 -1 15825
+D4
+~
+~
+0 -1 15807
+S
+#15825
+Arena Catacombs - Central Edge~
+   A wall at your back calms you down, but just barely. Your eyesight 
+is almost useless, as is your hearing. You may want to stumble through 
+an exit that leads to all directions but down and west, but who knows 
+where you'll end up.
+~
+158 adgus 0
+D0
+~
+~
+0 -1 15826
+D1
+~
+~
+0 -1 15824
+D2
+~
+~
+0 -1 15816
+S
+#15826
+Arena Catacombs - NorthWest Corner~
+   You find yourself in another corner, did you come here on purpose? 
+Who knows, your mind plays tricks on you due to the constant assaults 
+on your senses. Exits lead everywhere but down, north, and west.
+~
+158 adgus 0
+D1
+~
+~
+0 -1 15827
+D2
+~
+~
+0 -1 15825
+D4
+~
+~
+0 -1 15815
+S
+#15827
+Arena Catacombs - North~
+   The clutter becomes impassable to some directions, bones and junk 
+line the walls. You can stagger in any direction but north and down.
+~
+158 adgus 0
+D0
+This large pile of crap could be obscuring something.
+~
+junk~
+1 -1 15846
+D1
+~
+~
+0 -1 15828
+D2
+~
+~
+0 -1 15824
+D3
+~
+~
+0 -1 15826
+D4
+~
+~
+0 -1 15814
+S
+#15828
+Arena Catacombs - North~
+   Your only consolation is that your opponent is experiencing the 
+same agony as yourself. That is, of course, if he is down here. If 
+not, well, then all this agony is for naught. Exits lead everywhere 
+but north and down.
+~
+158 adgus 0
+D1
+~
+~
+0 -1 15829
+D2
+~
+~
+0 -1 15823
+D3
+~
+~
+0 -1 15827
+D4
+~
+~
+0 -1 15813
+S
+#15829
+Arena Catacombs - North~
+   The pain you experience down here is nothing compared to the pain 
+of a bolt drilling into your chest. The clutter parts to reveal exits 
+to everywhere, save for north and down.
+~
+158 adgus 0
+D1
+~
+~
+0 -1 15830
+D2
+~
+~
+0 -1 15822
+D3
+~
+~
+0 -1 15828
+D4
+~
+~
+0 -1 15812
+S
+#15830
+Arena Catacombs - NorthEast Corner~
+   You have a tactical advantage over your opponents by being down 
+here, though that is little comfort against the crashing sounds and 
+stinging, acrid steam. Exits from this corner lead everywhere but down,
+north, and east.
+~
+158 adgus 0
+D2
+~
+~
+0 -1 15821
+D3
+~
+~
+0 -1 15829
+D4
+~
+~
+0 -1 15811
+S
+#15831
+Open-air Hallways of the Upper Arena - Southeast Corner~
+   The fresh air masks the real menace of this upper level. You are 
+extremely vulnerable from all directions, then again, so are your 
+opponents, if they choose to brave this veritable shooting gallery. 
+Exits lead everywhere but up, south, and east.
+~
+158 adgus 0
+D0
+~
+~
+0 -1 15840
+D3
+~
+~
+0 -1 15832
+D5
+~
+~
+0 -1 15803
+S
+#15832
+Open-air Hallways of the Upper Arena - South~
+   The sky is above you, escape from this deathtrap seems almost 
+possible. Think again, the walls are three times as tall as you are, 
+and slick with blood. Exits lead everywhere but up and south.
+~
+158 us 1
+D0
+~
+~
+0 -1 15839
+D1
+~
+~
+0 -1 15831
+D3
+~
+~
+0 -1 15833
+D5
+~
+~
+0 -1 15802
+S
+#15833
+Open-air Hallways of the Upper Arena - South~
+   These hallways are bare, save for glorious paintings of opponents 
+past, most are blood-smeared or damaged. The hallway leads everywhere 
+but up and south, and trapdoors go down in every room.
+~
+158 us 1
+D0
+~
+~
+0 -1 15838
+D1
+~
+~
+0 -1 15832
+D3
+~
+~
+0 -1 15834
+D5
+~
+~
+0 -1 15801
+S
+#15834
+Open-air Hallways of the Upper Arena - South~
+   The walls, underneath the gristle and sun-dried blood, are made 
+of stone, and and inscription is carved here. Exits lead everywhere, 
+except up and south.
+~
+158 us 1
+D0
+~
+~
+0 -1 15837
+D1
+~
+~
+0 -1 15833
+D3
+~
+~
+0 -1 15835
+D5
+~
+~
+0 -1 15804
+E
+inscription carving~
+You may find it worth your while to stop and examine your 
+surroundings from time to time, you may find an exceptional tactical 
+advantage. Be sure not to stop too long, or you remains too, will 
+litter this arena.....
+~
+S
+#15835
+Open-air Hallways of the Upper Arena - SouthWest Corner~
+   You find yourself in another corner, and a femur lies at your feet,
+surrounded by scattering of smaller bones. You can lie in wait here, 
+or you can move on, through exits to all directions but up, south, and
+west.
+~
+158 us 1
+D0
+~
+~
+0 -1 15836
+D1
+~
+~
+0 -1 15834
+D5
+~
+~
+0 -1 15805
+E
+femur bone~
+There is a small carving on this femur, it reads as follows:
+
+          #wZone by Kurrelgyre, Hope you like it!:)#N
+			
+~
+S
+#15836
+Open-air Hallways of the Upper Arena - Central Edge~
+   The west wall is smooth and stained, save for a crossbow bolt 
+stuck into the wall at angle. Exits lead everywhere but up and west.
+~
+158 us 1
+D0
+~
+~
+0 -1 15845
+D1
+~
+~
+0 -1 15837
+D2
+~
+~
+0 -1 15835
+D5
+~
+~
+0 -1 15808
+S
+#15837
+Open-air Hallways of the Upper Arena - Central~
+   These rooms are weather-worn, but fresh-smelling from the 
+constant influx of air. The smell of death remains, however. 
+Exits lead everywhere but up.
+~
+158 us 1
+D0
+~
+~
+0 -1 15844
+D1
+~
+~
+0 -1 15838
+D2
+~
+~
+0 -1 15834
+D3
+~
+~
+0 -1 15836
+D5
+~
+~
+0 -1 15807
+S
+#15838
+Open-air Hallways of the Upper Arena - Central~
+   You're extremely vulnerable here, a well-aimed shot could take you 
+down from any of the four directions, and someone can come from below 
+and take you by surprise.
+~
+158 us 1
+D0
+~
+~
+0 -1 15843
+D1
+~
+~
+0 -1 15839
+D2
+~
+~
+0 -1 15833
+D3
+~
+~
+0 -1 15837
+D5
+~
+~
+0 -1 15806
+S
+#15839
+Open-air Hallways of the Upper Arena - Central~
+   The center of the upper arena could very well be the most 
+indefensible area in the arena, you may want to move around often, 
+at they very least. Exits lead in every direction but up.
+~
+158 us 1
+D0
+~
+~
+0 -1 15842
+D1
+~
+~
+0 -1 15840
+D2
+~
+~
+0 -1 15832
+D3
+~
+~
+0 -1 15838
+D5
+~
+~
+0 -1 15809
+S
+#15840
+Open-air Hallways of the Upper Arena - Central Edge~
+   A nice, seemingly solid wall is on the eastern wall of this room. A 
+skull, held fast by a rusty bolt, adorns the center of the wall. Exits 
+lead to victory or death in every direction but up, and east.
+~
+158 us 1
+D0
+~
+~
+0 -1 15841
+D1
+Perhaps this skull has something to offer.
+~
+skull~
+0 -1 15848
+D2
+~
+~
+0 -1 15831
+D3
+~
+~
+0 -1 15839
+D5
+~
+~
+0 -1 15810
+S
+#15841
+Open-air Hallways of the Upper Arena - NorthEast Corner~
+   You find yourself in another corner, the air rushes in from above, 
+obscuring any sounds you might otherwise hear. You can wedge yourself 
+into the corner and wait, or you can exit in any direction but up, 
+north, and east.
+~
+158 us 1
+D2
+~
+~
+0 -1 15840
+D3
+~
+~
+0 -1 15842
+D5
+~
+~
+0 -1 15811
+S
+#15842
+Open-air Hallways of the Upper Arena - North~
+   Blood streaks the floor here, it glistens, and reveals its freshness.
+Exits go everywhere but up and north.
+~
+158 us 1
+D1
+~
+~
+0 -1 15841
+D2
+~
+~
+0 -1 15839
+D3
+~
+~
+0 -1 15843
+D5
+~
+~
+0 -1 15812
+S
+#15843
+Open-air Hallways of the Upper Arena - North~
+   A corpse lies here, dessicated by the sun and dry air from above. 
+It looks as if this combatant had a painful death. Leave this corpse 
+behind, and go in any direction but up and north.
+~
+158 us 1
+D1
+~
+~
+0 -1 15842
+D2
+~
+~
+0 -1 15838
+D3
+~
+~
+0 -1 15844
+D5
+~
+~
+0 -1 15813
+S
+#15844
+Open-air Hallways of the Upper Arena - North~
+   The wind whistles through the hallways atop the arena, and you 
+can't hear much from below. Could your opponent be drawing a bead on 
+you as you stand here, listening? Move quickly, and leave in any 
+direction but up and north.
+~
+158 us 1
+D1
+~
+~
+0 -1 15843
+D2
+~
+~
+0 -1 15837
+D3
+~
+~
+0 -1 15845
+D5
+~
+~
+0 -1 15814
+S
+#15845
+Open-air Hallways of the Upper Arena - NorthWest Corner~
+   Rusted items of useless equipment litter the floor of this corner 
+room, most with neat little holes in them, just about the size of a 
+crossbow bolt. Leave anywhere buy up, north, and east.
+~
+158 us 1
+D1
+~
+~
+0 -1 15844
+D2
+~
+~
+0 -1 15836
+D5
+~
+~
+0 -1 15815
+S
+#15846
+A Hidden Alcove in the Catacombs~
+   This small alcove is a brief respite from the acrid air of the 
+catacombs.The air in here is cooler and less foul. You can lie in 
+wait for your opponent here, or, if you're a pessimist, consider 
+yourself trapped.
+~
+158 adgus 0
+D2
+~
+~
+0 -1 15827
+D4
+This vent allows air to pass into the chamber.
+~
+vent~
+1 -1 15848
+S
+#15847
+A Hidden Alcove on the Middle Level~
+   You can rest here, and catch your breath, but pray your opponents 
+dont get the same idea....
+~
+158 dus 0
+D0
+~
+~
+1 -1 15805
+S
+#15848
+A Hidden Alcove among the Open-air Hallways~
+   This little room offers a supreme place to snipe an unknowing 
+opponent. A stench wafts in from someplace, making it less than ideal
+to sit here.
+~
+158 us 1
+D3
+~
+~
+0 -1 15840
+D5
+This vent allows air to pass into the chamber.
+~
+vent~
+1 -1 15846
+S
+#15849
+The Spectators Room for the Arena~
+   This room was created for the amusement of the spectators watching 
+the fights to the death contained within the Arena. While spectators 
+rarely get a glimpse of the frenzied combatants, from this room they 
+can shout encouragement, and hear the agonized screams of the dying.
+~
+158 dus 0
+D0
+~
+~
+0 -1 3097
+S
+#15850
+Waiting room~
+Adrenaline surges through your veins as the anticipation of 
+battle and death builds. A sign is etched into the wall. Read it 
+if you aren't familiar with the art of the crossbow. Only one of 
+you will leave alive, so prepare now, and fight well. A doorway will 
+lead upwards when the battle begins.
+~
+158 dus 0
+E
+sign~
+This will be instructions when the code is complete.
+~
+S
+#99999
+$~

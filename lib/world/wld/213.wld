@@ -1,0 +1,1100 @@
+#21300
+The Temple of Yanaquri~
+   As you reach the end of the temple, a swirling darkness surrounds
+you.  The warmth of the jungle fills your very soul as you find
+yourself in the most holy of places.  The walls and ceiling once
+again depict a night-time jungle, but this time the scene is much
+more vivid. In the center of the hall stands an enormous statue.  You
+may stay here in awe of this place, or you can continue back towards
+the entrance of the temple to the south. 
+~
+213 d 0
+D2
+~
+~
+0 -1 21305
+E
+mural~
+The mural depicts the night-time jungle, but it appears almost too
+life-like to be a painting.  As you reach to touch the mural, you can
+almost feel the leaves on the trees.  You hear a low growl behind
+you, and as you turn to look, you are stunned to see a fierce feline
+beast flying through the trees in your direction.  Only when the
+sharp claws of the beast do not tear the life from you do you realize
+that it is only a part of the painting. 
+~
+S
+#21301
+The Spiral of Life~
+   Ever-spiraling inward, life is a mystery to which few hold the
+key.  As one reaches what appears to be the end of the spiral, she is
+returned back along the same path once more.  While a mortal life may
+end, the energy that drove that life never ceases to exist.  The
+spiral continues ever-inward
+~
+213 0 0
+D1
+~
+~
+0 -1 21302
+D2
+~
+~
+0 -1 21306
+S
+#21302
+The Spiral of Life~
+   Ever-spiraling inward, life is a mystery to which few hold the
+key.  As one reaches what appears to be the end of the spiral, she is
+returned back along the same path once more.  While a mortal life may
+end, the energy that drove that life never ceases to exist.  The
+spiral continues ever-inward. 
+~
+213 0 0
+D1
+~
+~
+0 -1 21303
+D3
+~
+~
+0 -1 21301
+S
+#21303
+The Spiral of Life~
+   Ever-spiraling inward, life is a mystery to which few hold the
+key.  As one reaches what appears to be the end of the spiral, she is
+returned back along the same path once more.  While a mortal life may
+end, the energy that drove that life never ceases to exist.  The
+spiral continues ever-inward. 
+~
+213 0 0
+D1
+~
+~
+0 -1 21304
+D3
+~
+~
+0 -1 21302
+S
+#21304
+The Spiral of Life~
+   Ever-spiraling inward, life is a mystery to which few hold the
+key.  As one reaches what appears to be the end of the spiral, she is
+returned back along the same path once more.  While a mortal life may
+end, the energy that drove that life never ceases to exist.  The
+spiral continues ever-inward. 
+~
+213 0 0
+D2
+~
+~
+0 -1 21309
+D3
+~
+~
+0 -1 21303
+S
+#21305
+The Temple of Yanaquri~
+   The long hall leads through the center of the magnificent temple. 
+The mural in this part of the temple depicts a beautiful woman
+dressed in black robes.  You can't seem to shake the feeling that you
+are being followed as you wander through the temple.  The large hall
+continues to the north and south. 
+~
+213 d 0
+D0
+~
+~
+0 -1 21300
+D2
+~
+~
+0 -1 21310
+E
+mural~
+The woman depicted in the mural is dressed completely in black.  Her
+hair is the color of night, and her eyes are the color of the jungle. 
+She is bathed by the light of a pure moonbeam as she stands with her
+arms outstretched.  A cloud of darkness surrounds her, and as you
+inspect it more carefully, you can see the shapes of several
+creatures in its smoky depths. 
+~
+S
+#21306
+The Spiral of Life~
+   Ever-spiraling inward, life is a mystery to which few hold the
+key.  As one reaches what appears to be the end of the spiral, she is
+returned back along the same path once more.  While a mortal life may
+end, the energy that drove that life never ceases to exist.  The
+spiral continues ever-inward. 
+~
+213 0 0
+D0
+~
+~
+0 -1 21301
+D2
+~
+~
+0 -1 21311
+S
+#21307
+The Spiral of Life~
+   Ever-spiraling inward, life is a mystery to which few hold the
+key.  As one reaches what appears to be the end of the spiral, she is
+returned back along the same path once more.  While a mortal life may
+end, the energy that drove that life never ceases to exist.  The
+spiral continues ever-inward. 
+~
+213 0 0
+D0
+~
+~
+0 -1 21316
+D1
+~
+~
+0 -1 21308
+S
+#21308
+The Spiral of Life~
+   Ever-spiraling inward, life is a mystery to which few hold the
+key.  As one reaches what appears to be the end of the spiral, she is
+returned back along the same path once more.  While a mortal life may
+end, the energy that drove that life never ceases to exist.  The
+spiral continues ever-inward. 
+~
+213 0 0
+D2
+~
+~
+0 -1 21313
+D3
+~
+~
+0 -1 21307
+S
+#21309
+The Spiral of Life~
+   Ever-spiraling inward, life is a mystery to which few hold the
+key.  As one reaches what appears to be the end of the spiral, she is
+returned back along the same path once more.  While a mortal life may
+end, the energy that drove that life never ceases to exist.  The
+spiral continues ever-inward. 
+~
+213 0 0
+D0
+~
+~
+0 -1 21304
+D2
+~
+~
+0 -1 21314
+S
+#21310
+The Temple of Yanaquri~
+   The long hallway continues through the center of the temple.  The
+walls and ceiling are painted with a magnificent mural depicting a
+beautiful woman in green robes.  As you wander through the temple,
+you become to feel a little unneasy, as if you are being followed. 
+When you turn to look, you see nothing but the mural.  The hall
+continues to the north and south. 
+~
+213 d 0
+D0
+~
+~
+0 -1 21305
+D2
+~
+~
+0 -1 21315
+E
+mural~
+The mural depicts a beautiful woman dressed in green robes.  She
+stands in the center of the jungle with her arms outstretched. 
+Behind her is a swirling cloud of both darkness and light. The woman
+smiles gently at you from the painting, and you feel as if you have
+seen her before. 
+~
+S
+#21311
+The Spiral of Life~
+   Ever-spiraling inward, life is a mystery to which few hold the
+key.  As one reaches what appears to be the end of the spiral, she is
+returned back along the same path once more.  While a mortal life may
+end, the energy that drove that life never ceases to exist.  The
+spiral continues ever-inward. 
+~
+213 0 0
+D0
+~
+~
+0 -1 21306
+D1
+~
+~
+0 -1 21312
+S
+#21312
+The Spiral of Life~
+   Ever-spiraling inward, life is a mystery to which few hold the
+key.  As one reaches what appears to be the end of the spiral, she is
+returned back along the same path once more.  While a mortal life may
+end, the energy that drove that life never ceases to exist.  The
+spiral continues ever-inward. 
+~
+213 0 0
+D1
+~
+~
+0 -1 21313
+D3
+~
+~
+0 -1 21311
+S
+#21313
+The Spiral of Life~
+   Ever-spiraling inward, life is a mystery to which few hold the
+key.  As one reaches what appears to be the end of the spiral, she is
+returned back along the same path once more.  While a mortal life may
+end, the energy that drove that life never ceases to exist.  The
+spiral continues ever-inward. 
+~
+213 0 0
+D0
+~
+~
+0 -1 21308
+D3
+~
+~
+0 -1 21312
+S
+#21314
+The Spiral of Life~
+   Ever-spiraling inward, life is a mystery to which few hold the
+key.  As one reaches what appears to be the end of the spiral, she is
+returned back along the same path once more.  While a mortal life may
+end, the energy that drove that life never ceases to exist.  The
+spiral continues ever-inward. 
+~
+213 0 0
+D0
+~
+~
+0 -1 21309
+D2
+~
+~
+0 -1 21319
+S
+#21315
+The Temple of Yanaquri~
+   An enormous hall leads through the center of the temple.  The
+walls and ceiling have been painted with a beautiful mural depicting
+a night-time jungle.  The floor is covered with a soft, spongy
+material, that feels an awful lot like the jungle floor.  In this
+place high above the trees, you feel as if you are on the ground
+below, surrounded by the jungle and all of its inhabitants.  The hall
+continues to the north, and the entrance of the temple is to the
+south. 
+~
+213 ad 0
+D0
+An enormous door made of pure gold guards the entrance to the temple.
+~
+~
+0 -1 21310
+D1
+One of the panels appears to be somewhat loose.~
+panel~
+1 -1 21316
+D2
+~
+~
+0 -1 21320
+E
+mural~
+The mural depicts the beauty of the jungle as it is at night.  As you
+inspect the painting carfully, you notice that several glowing appear
+to be gazing out at you from the trees.  Behind one tree, it appears
+as if the wall panel is loose, and it might possibly be moved. 
+~
+S
+#21316
+The Spiral of Life~
+   Ever-spiraling inward, life is a mystery to which few hold the
+key.  As one reaches what appears to be the end of the spiral, she is
+returned back along the same path once more.  While a mortal life may
+end, the energy that drove that life never ceases to exist.  The
+spiral continues ever-inward. 
+~
+213 ad 0
+D1
+~
+~
+0 -1 21317
+D3
+~
+~
+1 -1 21315
+S
+#21317
+The Spiral of Life~
+   Ever-spiraling inward, life is a mystery to which few hold the
+key.  As one reaches what appears to be the end of the spiral, she is
+returned back along the same path once more.  While a mortal life may
+end, the energy that drove that life never ceases to exist.  The
+spiral continues ever-inward. 
+~
+213 0 0
+D1
+~
+~
+0 -1 21318
+D3
+~
+~
+0 -1 21316
+S
+#21318
+The Spiral of Life~
+   Ever-spiraling inward, life is a mystery to which few hold the
+key.  As one reaches what appears to be the end of the spiral, she is
+returned back along the same path once more.  While a mortal life may
+end, the energy that drove that life never ceases to exist.  The
+spiral continues ever-inward. 
+~
+213 0 0
+D1
+~
+~
+0 -1 21319
+D3
+~
+~
+0 -1 21317
+S
+#21319
+The Spiral of Life~
+   Ever-spiraling inward, life is a mystery to which few hold the
+key.  As one reaches what appears to be the end of the spiral, she is
+returned back along the same path once more.  While a mortal life may
+end, the energy that drove that life never ceases to exist.  The
+spiral continues ever-inward. 
+~
+213 0 0
+D0
+~
+~
+0 -1 21314
+D3
+~
+~
+0 -1 21318
+S
+#21320
+The Entrance to the Temple~
+   As you cross the rope bridge leading to the temple, the sounds of
+the jungle suddenly cease. It is as if every creature is holding its
+breath, waiting to see if you are going to make it inside.  The
+entrance to the temple itself is quite magnificent.  Two large
+jaguars, carved from the finest mahogany, stand guard on either side
+of an enormous door made of pure gold.  You can either attempt to
+enter the temple to the north, or return to the village to the south. 
+~
+213 c 0
+D0
+An enormous door made of pure gold guards the entrance to the temple.
+~
+door gold~
+0 -1 21315
+D2
+A rope bridge leads back to the village.
+~
+~
+0 -1 21324
+S
+#21321
+Mikuna'wasi~
+   The inhabitants of Miki'erke, while great hunters, sometimes want
+to just relax and have their food prepared for them.  For this
+purpose, Mikuna'wasi is the place to go.  A choice of raw and cooked
+foods is offered by the finest chef in these parts, Mikuna himself!
+The delicious smell of game permeates the air, making your mouth
+water and your stomach growl.
+~
+213 d 0
+D2
+~
+~
+0 -1 21332
+S
+#21322
+A Small Hut~
+   The small hut appears to be some sort of sleeping area.  Mats line
+the floors, many of which appear to still be occupied by sleepy
+inhabitants.  A small fire burns warmly in the center of the room,
+the smoke escaping through a small hole cut in the ceiling above.  An
+open doorway leads to a small rope bridge to the south.
+~
+213 d 0
+D2
+~
+~
+0 -1 21333
+S
+#21323
+Miski'wasi~
+   Who ever said that all felines are carnivores?  They seem to enjoy
+sweets just as much as anyone else, and Miski'wasi is the place to go
+for delicious sugar-coated treats.  Prepared by Miski herself, the
+yummy sweets here are quite exotic and very delicious.  Everything is
+100% natural, with no added sugar or preservatives.  The jungle
+provides the sweetness, and the treats never last long enough to need
+preservatives!
+~
+213 d 0
+D2
+~
+~
+0 -1 21334
+S
+#21324
+On a Rope Bridge~
+   The wide rope bridge spans the space between the village and a
+large temple.  To the south stands Miqi'erke, as it has for hundreds
+of generations.  To the north stands an ominous temple.  Below you is
+the expansive jungle, with all the life that it holds. 
+~
+213 0 0
+D0
+~
+~
+0 -1 21320
+D2
+~
+~
+0 -1 21335
+S
+#21325
+A Small Hut~
+   The small hut appears to be some sort of sleeping area.  Mats line
+the floors, many of which appear to still be occupied by sleepy
+inhabitants.  A small fire burns warmly in the center of the room,
+the smoke escaping through a small hole cut in the ceiling above.  An
+open doorway leads to a small rope bridge to the south.
+~
+213 d 0
+D2
+~
+~
+0 -1 21336
+S
+#21326
+The Smiling Para'miqi~
+   Laughter fills the air of this fun-filled place.  While the
+Miqi'erke are serious about their duties, they are also serious about
+enjoying themselves.  Several tables are scattered about the room,
+many of which are covered with drinks and games.  A large bar spans
+the western wall, and a wide variety of Miqi'erken brews are neatly
+shelved behind it.  This is a place to relax and enjoy the good life. 
+~
+213 d 0
+D2
+~
+~
+0 -1 21337
+S
+#21327
+A Small Hut~
+   The small hut appears to be some sort of sleeping area.  Mats line
+the floors, many of which appear to still be occupied by sleepy
+inhabitants.  A small fire burns warmly in the center of the room,
+the smoke escaping through a small hole cut in the ceiling above.  An
+open doorway leads to a small rope bridge to the south.
+~
+213 d 0
+D2
+~
+~
+0 -1 21338
+S
+#21328
+The Circle of Tuta~
+   A large circular platform made of mahogany floats above the
+canopy.  The circle appears to be a place of worship.  Offerings of
+flowers, fruit, nuts, and flesh have been left at various points at
+the edge of the circle.  The circle continues to the south and east. 
+~
+213 ad 1
+D1
+~
+~
+0 -1 21329
+D2
+~
+~
+0 -1 21341
+S
+#21329
+The Circle of Tuta~
+   A large circular platform made of mahogany floats above the
+canopy.  The circle appears to be a place of worship.  Offerings of
+flowers, fruit, nuts, and flesh have been left at various points at
+the edge of the circle.  The circle continues to the east and west. 
+~
+213 ad 1
+D1
+~
+~
+0 -1 21330
+D2
+~
+~
+0 -1 21342
+D3
+~
+~
+0 -1 21328
+S
+#21330
+The Circle of Tuta~
+   A large circular platform made of mahogany floats above the
+canopy.  The circle appears to be a place of worship.  Offerings of
+flowers, fruit, nuts, and flesh have been left at various points at
+the edge of the circle.  The circle continues to the south and west. 
+~
+213 ad 1
+D2
+~
+~
+0 -1 21343
+D3
+~
+~
+0 -1 21329
+S
+#21331
+The Nursery~
+   This small hut is where the young of the village are raised.  Toys
+are scattered all over the place, making it very difficult to
+traverse the room.  A small rocking chair sits in the corner in front
+of several small mats, apparently arranged so that they may be used
+for story time or nap time.  In the center of the hut, a small fire
+burns surrounded by a large iron rail to keep the kittens away from
+the hot embers.  An open doorway leads east onto a rope bridge. 
+~
+213 d 0
+D1
+~
+~
+0 -1 21332
+S
+#21332
+The End of the Skyway~
+   The skyway ends as it branches into three smaller bridges leading
+to the north, south, and west.  Small buildings lie at the end of
+each bridge.  Smoke rises from a small hole cut in the roof of the
+structure to the north.  The buildings to the south and west appear
+to be empty, but in this village you can never be quite sure. 
+~
+213 0 0
+D0
+~
+~
+0 -1 21321
+D1
+~
+~
+0 -1 21333
+D2
+~
+~
+0 -1 21344
+D3
+~
+~
+0 -1 21331
+S
+#21333
+The Skyway~
+   The skyway makes its way through the tree-top village on an
+east-west route.  The wide planks seem to be quite sturdy, but it's
+probably best to keep your eyes from straying to the view into the
+canopy far below.  To the north and south, smaller bridges lead into
+buildings. 
+~
+213 0 0
+D0
+~
+~
+0 -1 21322
+D1
+~
+~
+0 -1 21334
+D2
+~
+~
+0 -1 21345
+D3
+~
+~
+0 -1 21332
+S
+#21334
+The Skyway~
+   The wide bridge cuts through the jungle sky on its way through the
+village.  Smaller bridges branch off to the north and south, leading
+into buildings.  A delicious odor reaches your nose from the north. 
+The skyway continues through the village to the east and west. 
+~
+213 0 0
+D0
+~
+~
+0 -1 21323
+D1
+~
+~
+0 -1 21335
+D2
+~
+~
+0 -1 21346
+D3
+~
+~
+0 -1 21333
+S
+#21335
+The Skyway~
+   The numerous tree-top walkways and bridges appear to all meet this
+broad skyway.  An enormous bridge itself, the skyway is made of large
+planks of wood taken from the jungle itself.  The skyway continues
+through the village to the east and west, and smaller bridges branch
+off to the north and south. 
+~
+213 0 0
+D0
+~
+~
+0 -1 21324
+D1
+~
+~
+0 -1 21336
+D2
+~
+~
+0 -1 21347
+D3
+~
+~
+0 -1 21334
+S
+#21336
+The Skyway~
+   The large skyway allows access to various structures in the
+village.  To the north and south smaller bridges lead into tree-top
+huts.  The skyway continues through the village to the east and west. 
+Strange sounds can be heard coming from the east. 
+~
+213 0 0
+D0
+~
+~
+0 -1 21325
+D1
+~
+The skyway continues, but you can see that it ends in a place of complete
+darkness.
+~
+0 -1 21337
+D2
+~
+~
+0 -1 21348
+D3
+~
+~
+0 -1 21335
+S
+#21337
+The Skyway~
+   As the skyway continues through the village, you notice that you
+are not alone here.  From a rather large structure to the north, you
+can hear the sounds of laughter.  To the south stands a smaller
+building, with sounds of battle coming from within.  The skyway
+continues to the east and west. 
+~
+213 0 0
+D0
+~
+~
+0 -1 21326
+D1
+~
+The skyway continues, but you can see that it ends in a place of complete
+darkness.
+~
+0 -1 21338
+D2
+~
+~
+0 -1 21349
+D3
+~
+~
+0 -1 21336
+S
+#21338
+The Skyway~
+   The wide bridge cuts through the jungle sky on its way through the
+village.  Smaller bridges branch off to the north and south, leading
+into buildings.  To the east you can hear strange sounds, almost like
+chanting, but in voices unlike any you have ever heard before.  The
+skyway also continues through the village to the west. 
+~
+213 0 0
+D0
+~
+~
+0 -1 21327
+D1
+~
+An unbelievable darkness ends the skyway.
+~
+0 -1 21339
+D2
+~
+~
+0 -1 21350
+D3
+~
+~
+0 -1 21337
+S
+#21339
+The Darkness of Night~
+   The darkness of night surrounds you as you make your way across
+the wide bridge.  Your light source can barely penetrate the black
+void.  Strange sounds come from the east, an eerie chanting in an
+unusual voice.  The glow of torchlight attempts to enter this dark
+place from the west, but the darkness maintains its presence to the
+east. 
+~
+213 ad 1
+D1
+~
+~
+0 -1 21340
+D3
+~
+~
+0 -1 21338
+S
+#21340
+The Darkness of Night~
+   The blackness of the night surrounds you on your journey through
+the sky.  A strange chanting emenates from the east.  The sounds of a
+night jungle surround you and attempt to claw their way into your
+very being.  You feel a presence on the bridge with you, but you
+cannot see it through the darkness!  The darkened skyway continues
+above the jungle to the east and west. 
+~
+213 ad 1
+D1
+~
+~
+0 -1 21341
+D3
+~
+~
+0 -1 21339
+S
+#21341
+The Circle of Tuta~
+   A large circular platform made of mahogany floats above the
+canopy.  The circle appears to be a place of worship.  Offerings of
+flowers, fruit, nuts, and flesh have been left at various points at
+the edge of the circle.  The circle continues to the north and south. 
+A small rope bridge serves as an exit from the circle to the west. 
+~
+213 ad 1
+D0
+~
+~
+0 -1 21328
+D1
+~
+~
+0 -1 21342
+D2
+~
+~
+0 -1 21351
+D3
+~
+~
+0 -1 21340
+S
+#21342
+The Center of the Circle~
+   At the center of the circular platform, a magnificent statue has
+been erected.  A pure beam of moonlight shines down upon the statue,
+and you realize that this circle is in a perpetual night.  Several
+small offerings have been left in reverance of the statue.  The
+circle surrounds this point on every side. 
+~
+213 ad 1
+D0
+~
+~
+0 -1 21329
+D1
+~
+~
+0 -1 21343
+D2
+~
+~
+0 -1 21352
+D3
+~
+~
+0 -1 21341
+S
+#21343
+The Circle of Tuta~
+   A large circular platform made of mahogany floats above the
+canopy.  The circle appears to be a place of worship.  Offerings of
+flowers, fruit, nuts, and flesh have been left at various points at
+the edge of the circle.  The circle continues to the north and south. 
+~
+213 ad 1
+D0
+~
+~
+0 -1 21330
+D2
+~
+~
+0 -1 21353
+D3
+~
+~
+0 -1 21342
+S
+#21344
+A Small Hut~
+   The small hut appears to be some sort of sleeping area.  Mats line
+the floors, many of which appear to still be occupied by sleepy
+inhabitants.  A small fire burns warmly in the center of the room,
+the smoke escaping through a small hole cut in the ceiling above.  An
+open doorway leads to a small rope bridge to the north.
+~
+213 d 0
+D0
+~
+~
+0 -1 21332
+S
+#21345
+A Small Hut~
+   The small hut appears to be some sort of sleeping area.  Mats line
+the floors, many of which appear to still be occupied by sleepy
+inhabitants.  A small fire burns warmly in the center of the room,
+the smoke escaping through a small hole cut in the ceiling above.  An
+open doorway leads to a small rope bridge to the north.
+~
+213 d 0
+D0
+~
+~
+0 -1 21333
+S
+#21346
+A Small Hut~
+   The small hut appears to be some sort of sleeping area.  Mats line
+the floors, many of which appear to still be occupied by sleepy
+inhabitants.  A small fire burns warmly in the center of the room,
+the smoke escaping through a small hole cut in the ceiling above.  An
+open doorway leads to a small rope bridge to the north.
+~
+213 d 0
+D0
+~
+~
+0 -1 21334
+S
+#21347
+On a Rope Bridge~
+   The rope bridge crosses the space between several very large
+trees.  You wonder just how this village stays in place, as there
+doesn't seem to be anything supporting it.  The structures appear to
+be sturdy, but they do not seem to be resting on anything solid.  The
+rope bridge continues into the village to the north, and out of the
+village to the south. 
+~
+213 0 0
+D0
+~
+~
+0 -1 21335
+D2
+~
+~
+0 -1 21354
+S
+#21348
+A Small Hut~
+   The small hut appears to be some sort of sleeping area.  Mats line
+the floors, many of which appear to still be occupied by sleepy
+inhabitants.  A small fire burns warmly in the center of the room,
+the smoke escaping through a small hole cut in the ceiling above.  An
+open doorway leads to a small rope bridge to the north.
+~
+213 d 0
+D0
+~
+~
+0 -1 21336
+S
+#21349
+The Training Grounds~
+   Stealth and cunning are the tools of the Miqi'erke, but they know
+that strength and skill are also quite important.  Many brave
+warriors have passed through these doors, and many more will follow. 
+A large altar stands in the center of the room, indicating the
+Miqi'erke allegiance to their great father.  They will fight to the
+death for him if it is necessary, for they know that death is but one
+step in the spiral of life. 
+~
+213 d 0
+D0
+~
+~
+0 -1 21337
+S
+#21350
+A Small Hut~
+   The small hut appears to be some sort of sleeping area.  Mats line
+the floors, many of which appear to still be occupied by sleepy
+inhabitants.  A small fire burns warmly in the center of the room,
+the smoke escaping through a small hole cut in the ceiling above.  An
+open doorway leads to a small rope bridge to the north.
+~
+213 d 0
+D0
+~
+~
+0 -1 21338
+S
+#21351
+The Circle of Tuta~
+   A large circular platform made of mahogany floats above the
+canopy.  The circle appears to be a place of worship.  Offerings of
+flowers, fruit, nuts, and flesh have been left at various points at
+the edge of the circle.  The circle continues to the north and east. 
+~
+213 a 1
+D0
+~
+~
+0 -1 21341
+D1
+~
+~
+0 -1 21352
+S
+#21352
+The Circle of Tuta~
+   A large circular platform made of mahogany floats above the
+canopy.  The circle appears to be a place of worship.  Offerings of
+flowers, fruit, nuts, and flesh have been left at various points at
+the edge of the circle.  The circle continues to the east and west. 
+~
+213 ad 1
+D0
+~
+~
+0 -1 21342
+D1
+~
+~
+0 -1 21353
+D3
+~
+~
+0 -1 21351
+S
+#21353
+The Circle of Tuta~
+   A large circular platform made of mahogany floats above the
+canopy.  The circle appears to be a place of worship.  Offerings of
+flowers, fruit, nuts, and flesh have been left at various points at
+the edge of the circle.  The circle continues to the north and west. 
+~
+213 ad 1
+D0
+~
+~
+0 -1 21343
+D3
+~
+~
+0 -1 21352
+S
+#21354
+On a Rope Bridge~
+   As you make your way across the rope bridge, you happen to glance
+down into the canopy.  You can barely see the ground below, and it
+looks like it's miles away.  The bridge continues into the village to
+the north, and the entrance of the village is to the south. 
+~
+213 0 1
+D0
+~
+~
+0 -1 21347
+D2
+~
+~
+0 -1 21355
+S
+#21355
+The Village of Miqi'erke~
+   A large village, built into the very jungle itself, fills the
+canopy with its splendor.  Hidden from the ground below, this
+civilization has remained a secret to all but a few for thousands of
+generations.  Replacing the roads of a typical village is a vast
+network of rope bridges.  The village itself has been built into the
+trees, with magnificent structures made of the finest wood the jungle
+has to offer.  A large rope bridge leads to the north, and a small
+hut lies to the south.  A strange sound emenates from the northeast -
+it resembles chanting, but the voices are like none you have ever
+heard before. 
+~
+213 0 1
+D0
+A large rope bridge leads into the village.
+~
+~
+0 -1 21354
+D2
+A small hut stands guard at the entrance of the village.
+~
+~
+0 -1 21276
+S
+#99999
+$~
+

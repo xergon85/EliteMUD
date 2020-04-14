@@ -1,0 +1,77 @@
+   Welcome to EliteMUD. You have wisely chosen to embark on a great adventure
+with EliteMUD, and to keep this MUD great the immortals of Elite ask you to
+keep our rules in mind. Entering the command "policy" will inform you of the
+Ten Commandments of Elite. Breaking these is punishable by jail time, freezing,
+or at worst deletion. Keeping the rules in mind leads to a better experience
+for everyone.
+
+   EliteMUD is unlike any other MUD. It has sixteen classes and fifteen
+races. All of the classes practice at the standard four guilds: Warrior, Thief,
+Cleric, and Mage. Go to the guild which best suits your class. If you are not
+allowed in, go to another guild to see if you are a member there. From the
+Temple of Midgaard, the Warrior Guild is two south, two east, and one
+south. The Mage Guild is two south, two west, and one south. The Cleric Guild
+is one south and one west. The Thief Guild is three south, one east, and one
+south. In your guild use your practice sessions to improve your abilities. To
+receive a list of what you may practice and how many sessions you have, type
+"practice" when standing next to your guildmaster. The different spells and
+skills which appear are explained in depth in the help files. Enter "help
+<skill>" to check what a skill does.
+
+   Once you have practiced you need to learn how to get where you want to go
+more effectively. EliteMUD has a system known as "speedwalk". If you know the
+directions to your destination, you may enter them as one command, on one
+line. This is done like this: instead of saying that "the Warrior Guild is two
+south, two east, and one south", you may say that "the Warrior Guild is 2s2es."
+Entering 2s2es at the Temple will take you to the Warrior Guild.
+
+   There are three places in Midgaard that are necessary for good equipment:
+the Donation Room, the Armory, and the Weapon Shop. In the Armory and the
+Weapon Shop you purchase better weapons and armor. At any shop, the command
+"list" will show you what is for sale, the prices, and the minimum level for
+use ("minlvl"). "Buy <name>" lets you purchase anything you have the money for,
+and "sell <name>" lets you sell anything the shopkeeper has the money for and
+is interested in. If you do not have the money, the Donation Room is the place
+to be. In the Don Room, as the Donation Room is known, equipment which others
+do not want is left for any taker. It is not friendly to take all of the
+equipment in the Don Room. Take only what you need and can use. If you have
+equipment which you no longer want, the command "donate <item>" is
+helpful. Also, use "sacrifice <item>" to sacrifice the item to the gods. These
+last two commands are commonly shortened to "don" and "sac". A word of warning:
+occasionally, an donated item i s sacrificed. This is the will of the gods, so
+if an item is valuable do not donate it. Instead give it to a friend or sell
+it.
+   
+   After you have practiced your skills and acquired eq, it is time to gain
+experience points, or xp. The best place for a newbie to kill is the
+Catacombs. These are directly below the Temple. Go down from the temple and
+explore. Use your weapons and magic to kill the evil beasts in the
+Catacombs. Doing so will give you xp, and you will "level" if you kill enough
+times. When you level you gain hit points, mana, movement points, and practice
+sessions. Use the practice sessions you have gained and learn more skills and
+spells. If all the monsters in the Catacombs are dead, wander around Midgaard
+and attempt to kill weak monsters such as beastly fidos or beggars.
+
+   There are three levels which are of great note. Gaining level 2 enables you
+to use the public channels. Chat and gossip are the general channels. Auction
+is used if you have an item for sale, or if there is an item you want and are
+willing to pay for. Grat is used when someone announces a great achievement,
+such as making a level. Finally there are yell and shout. These channels are
+considered annoying and should be used sparingly. Shout also drains 20 movement
+points from you every time you use it.
+   
+   Level 5 allows you to start a new religious life. Worship is more than a
+social on EliteMUD. Once you have made level five you may worship any deity of
+your choice. A deity is someone who is above level 100. "help worship" outlines
+the worship system in greater detail.
+
+   Level 10 is the beginning of a whole new experience. Upon achieving level 10
+you may apply for a clan. Clans are groups of friends who help each
+other. Every clan varies from another, so choose wisely the clan that will fit
+you the best. Enter "clan help" for greater information on clans, and "clan
+info #" for information on a specific clan.
+
+   The greatest resource of the wise player is the help files. If there is
+anything you do not understand, check the help files, and if they are not
+covered there, ask someone. EliteMUD is about having fun, and the immortals are
+doing their best to help you have fun.

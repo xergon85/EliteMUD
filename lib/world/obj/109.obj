@@ -1,0 +1,60 @@
+#10900
+dragon tooth bracer~
+a dragon-tooth bracer~
+A bracer lined with dragon teeth lies here.~
+~
+9 60 bfj ag am
+10 0 0 0 0 0
+3 20000 1
+A
+13 -50
+A
+18 1
+A
+19 3
+#10901
+pendant crystal~
+A crystal pendant~
+A glinting crystal tied to a piece of string lies here.~
+~
+9 50 0 a ac
+15 0 0 0 0 0
+5 10000 1
+E
+crystal pendant~
+Bright beams of light shoot into your eyes as you gaze
+into the center of the crystal.
+~
+A
+24 5
+#10902
+magic rock ~
+a magic rock~
+A runed rock lies here un-noticed.~
+~
+3 30 0 g ao
+50 5 5 70 0 0
+10 20000 1
+E
+rock magic runed~
+As you look at the small rock you notice a small symbol:
+          /\
+        /____\
+      /\      /\
+    /____\  /____\
+Kind of like the one on the rock by Castle Gragloy
+~
+#10903
+pentagram medallion~
+a pentagram medallion~
+A pentagram on a string is hanging on a hook.~
+~
+3 35 0 cegjl aco
+50 3 3 4 0 0
+5 5000 1
+A
+12 20
+A
+17 -5
+#99999
+$~

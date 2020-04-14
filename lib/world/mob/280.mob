@@ -1,0 +1,39 @@
+#28000
+attendant immortal shopkeeper DOPclan~
+The Immortal Attendant~
+The Immortal Attendant lives only to serve you.
+~
+The Attendant is humanoid in shape, with sallow grey skin, and
+large black eyes. He looks at you with a mixture of awe and 
+fear. He has been brought across space and time by the rulers 
+of the #MDragoons #wof #CPhos#N to serve their clan for eternity.
+~
+1 0 be dthk 0 S 
+109 -40 -200 1d900+30000
+400 500 100 100d100+99 -1
+-1
+-1
+0 10 8 8 1
+A
+%%3 emote kneels before you in solemn worship.;
+%3 emote offers you some sweet #MDragoons #wof #CPhos#N crackers.;
+%3 emote brushes the dust off your clothes.;
+%3 emote starts polishing his bar.;
+%3 say welcome home master, let me fetch you a drink.;
+%3 emote straightens your jacket and polishes your weapon.;
+%3 emote begins to clean the atm.;
+%3 emote gets some cash from the atm.;
+%3 emote drinks some water.;
+%3 emote eats a sweet #MDragoons #wof #CPhos#N cracker.;
+%3 emote offers you some delicious donuts.;
+%3 say The finest brew in the finest clan, care to try some?;
+%3 emote nods respectfully at you.;
+%3 emote hums a soft melody.;
+%3 emote polishes a commemorative #MDragoons #wof #CPhos#N tankard.;
+%3 say These crackers are delicious! How about some for the road?;
+%3 say There is a Dragoon in the forest master.;
+%3 emote cleans your weapons.;
+%3 emote lives only to serve you.~
+#99999
+$~
+$~

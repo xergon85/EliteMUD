@@ -1,0 +1,512 @@
+#120
+Rome~
+12199 60 2
+*
+* The following zone commands are needed for each portal:
+*
+* L 0 <room #> <portal #> <destination>   Load the portal object
+* A 1 <room #> 1 <key #>                  Attach the key
+*
+L 0 12125 12032 12141
+A 1 12125 1 12033
+L 0 12060 12037 12070  * load portal to circus
+A 1 12060 1 12038
+L 0 12056 12039 12045  * portal to good seats in theater
+A 1 12056 1 12040
+L 0 12056 12041 12055  * portal to cheap seats in theater
+A 1 12056 1 12042
+L 0 12141 12054 12033  * load portal exit
+A 1 12141 -1 -1
+L 0 12151 12054 12039  * load portal exit
+A 1 12151 -1 -1
+D 0 12127 1 1       Cage to arena
+D 0 12128 0 1       Arena to  cage
+D 0 12128 3 1       Arena to cage
+D 0 12129 0 1       Arena to cage
+D 0 12129 1 1       Arena to cage
+D 0 12130 3 1       Cage to arena
+D 0 12131 1 1       Cage to arena
+D 0 12132 2 1       Arena to cage
+D 0 12132 3 1       Arena to cage
+D 0 12133 1 1       Arena to cage
+D 0 12133 2 1       Arena to cage
+D 0 12134 3 1       Cage to arena
+D 0 12135 0 1       Cage to arena
+D 0 12135 5 1       Prisonners' tunnel
+D 0 12136 0 1       Cage to arena
+D 0 12138 2 1       Cage to arena
+D 0 12139 2 1       Cage to arena
+D 0 12163 1 2       stairs east
+D 0 12168 3 2       1st apt to stairs
+D 0 12169 1 1       Apartment
+D 0 12169 2 2       Apartment south to stairs
+D 0 12170 1 1       Apartment
+D 0 12170 3 1       Apartment
+D 0 12172 3 1       Apartment
+D 0 12173 1 1       Apartment > Balcony
+D 0 12173 3 2       Apartment
+D 0 12174 0 2       Apartment
+D 0 12174 1 2       Apartment
+D 0 12185 3 2       West gate Rome side to 12189
+D 0 12189 1 2       West gate Outside rome	to 12185
+O 0 12050 100 12166 Flamingo tongues at Drucilla's party
+O 0 12043 100 12166 Honeyed dormouse
+O 0 18014 100 12166 frog lips
+M 0 12000  2 12148  adjudicator
+E 1 12008 100 8     sandals
+M 0 12001  2 12066  scorekeeper
+M 0 12001  2 12066  scorekeeper
+M 0 12002  3 12199  tribune
+M 0 12002  3 12199  tribune
+M 0 12003  8 12140  a spectator
+M 0 12003  8 12142  a spectator
+M 0 12003  8 12144  a spectator
+M 0 12003  8 12146  a spectator
+E 1 12008 100 8     sandals
+M 0 12003  8 12147  a spectator
+M 0 12003  8 12148  a spectator
+M 0 12003  8 12150  a spectator
+M 0 12003  8 12151  a spectator
+M 0 12004  3 12194  tribune
+M 0 12004  6 12194  patrician
+M 0 12004  6 12194  patrician
+E 1 12008 100 8     sandals
+M 0 12004  6 12194  patrician
+M 0 12004  6 12199  patrician
+E 1 12008 100 8     sandals
+M 0 12004  6 12199  patrician
+M 0 12004  6 12199  patrician
+M 0 12005  1 12194  female slave
+M 0 12005  1 12199  female slave
+M 0 12006  2 12128  gladiator
+M 0 12006  2 12128  gladiator
+M 0 12007  6 12064  chariotDriver
+M 0 12007  6 12065  chariotDriver
+M 0 12007  6 12066  chariotDriver
+M 0 12007  6 12066  chariotDriver
+M 0 12007  6 12066  chariotDriver
+M 0 12007  6 12068  chariotDriver
+M 0 12008  2 12061  coach
+E 1 12008 100 8     sandals
+M 0 12008  2 12062  coach
+M 0 12009  1 12180  healer * Kodarta staff, healing scroll
+G 1 12027  20       herb bag
+G 1 12028  20       Kodarta Staff
+G 1 12024  20       healing scroll
+M 0 12010  1 12180  herbalist
+M 0 12011  1 12113  Titus's shopkeeper
+G 1 3020 100
+G 1 3021 100
+G 1 3022 100
+G 1 3023 100
+G 1 3025 100
+G 1 12015 100       tempered sword
+G 1 12016 100       quenched sword
+M 0 12012  6 12194  peddler
+E 1 12008 100 8     sandals
+M 0 12012  6 12194  peddler
+M 0 12012  6 12194  peddler
+E 1 12008 100 8     sandals
+M 0 12012  6 12199  peddler
+M 0 12012  6 12199  peddler
+E 1 12008 100 8     sandals
+M 0 12012  6 12199  peddler
+M 0 12013  3 12116  page
+E 1 12000 80 1      pewter ring
+M 0 12013  3 12199  page
+M 0 12013  3 12199  page
+M 0 12014  1 12121  plaintiff
+M 0 12015  1 12033  ticketMaster
+G 1 12038 100       ticket to ticketmaster
+G 1 12040 100       ticket to ticketmaster
+G 1 12042 100       ticket to ticketmaster
+G 1 12033 100       ticket to ticketmaster
+M 0 12016  7 12199  street vendor
+G 1 12010 100       street vendor has sausage 
+M 0 12016  7 12199  street vendor
+G 1 12010 100       street vendor has sausage 
+M 0 12016  7 12199  street vendor
+G 1 12010 100       street vendor has sausage 
+M 0 12016  7 12199  street vendor
+G 1 12010 100       street vendor has sausage 
+M 0 12016  7 12199  street vendor
+G 1 12010 100       street vendor has sausage 
+M 0 12016  7 12199  street vendor
+G 1 12010 100       street vendor has sausage 
+M 0 12016  7 12199  street vendor
+G 1 12010 100       street vendor has sausage 
+M 0 12017  7 12194  citizen
+E 1 12001 80 13     bronze belt
+M 0 12017  7 12194  citizen
+M 0 12017  7 12194  citizen
+M 0 12017  7 12199  citizen
+M 0 12017  7 12199  citizen
+M 0 12017  7 12199  citizen
+M 0 12017  7 12199  citizen
+*
+M 0 12018   3 12008  gateguard
+M 0 12018   3 12008  gateguard
+M 0 12018   3 12008  gateguard
+M 0 12114   3 12095  gateguard
+M 0 12114   3 12095  gateguard
+M 0 12114   3 12095  gateguard
+M 0 12115   3 12096  gateguard
+M 0 12115   3 12096  gateguard
+M 0 12115   3 12096  gateguard
+M 0 12116   4 12185  gateguard
+G 1 12103 100     	key to west gate
+M 0 12116   4 12185  gateguard
+M 0 12116   4 12189  gateguard
+G 1 12103 100 	key to west gate
+M 0 12116   4 12189  gateguard
+G 1 12103 100 	key to west gate
+*
+M 0 12019  2 12199  soldier
+M 0 12020  2 12029  soldier
+M 0 12021  3 12075  bodyguard
+M 0 12022  1 12121  judge
+M 0 12023  1 12121  Master scheduler
+M 0 12024  2 12159  slimeball
+M 0 12024  2 12159  slimeball
+M 0 12025  1 12094  Froboz
+G 1 12024 10 1      scroll #1
+G 1 12025 10 1      scroll #2
+G 1 12026 10 1      scroll #3
+G 1 12029 10 1      prototype wand
+M 0 12026  1 12111  Titus Andronicus
+M 0 12027  7 12194  senator
+M 0 12027  7 12194  senator
+M 0 12027  7 12194  senator
+M 0 12027  7 12194  senator
+M 0 12027  7 12194  senator
+M 0 12027  7 12194  senator
+M 0 12027  7 12194  senator
+M 0 12028  1 12121  bailiff
+M 0 12029  1 12121  Defendant
+M 0 12030  1 12153  Jupiter
+E 1 12020 16 16     thunderbolt
+M 0 12031  1 12032  Venus
+E 1 12022 25 3      crystal necklace of knowledge
+M 0 12032  1 12099  Mars
+M 0 12033  1 12156  Mercury
+E 1 12023 50 8      sandals
+M 0 12034  1 12093  Froboz's shopkeeper
+G 1 12053 100
+G 1 3050 100
+G 1 3051 100
+G 1 3052 100
+G 1 3053 100
+G 1 3054 100
+M 0 12035  1 12138  lion
+M 0 12035  3 12138  Lions
+M 0 12035  3 12138  Lions
+M 0 12035  3 12138  Lions
+M 0 12036  1 12025  Baker
+G 1 3000 100
+G 1 3001 100
+G 1 12006 100
+G 1 12007 100
+M 0 12037  1 12009  grocer
+G 1 3030 100
+G 1 3031 100
+G 1 3032 100
+G 1 3005 100
+G 1 12044 100
+M 0 12038  2 12192  gardener
+M 0 12038  2 12196  gardener
+M 0 12038  3 12191  gardener
+M 0 12039  1 12107  fuller
+M 0 12040  4 12108  Norseman guard
+M 0 12040  4 12108  Norseman guard
+M 0 12040  4 12109  Norseman guard
+M 0 12040  4 12109  Norseman guard
+M 0 12041  1 12116  functionnary
+M 0 12041  5 12122  functionnary
+M 0 12041  5 12117  functionnary
+M 0 12041  5 12118  functionnary
+M 0 12041  5 12116  functionnary
+M 0 12042  1 12075  Praetor
+M 0 12043  1 12115  Bacchus
+O 0 12046 100 12114 fountain of wine in the portico of Bachus' temple
+M 0 12044  1 12158  vulcan
+M 0 12045  1 12123  advisor
+M 0 12046  3 12199  fireman
+M 0 12046  3 12199  fireman
+M 0 12046  3 12199  fireman
+M 0 12047  1 12165  Drinius
+M 0 12048  1 12179  Mattias
+M 0 12049  2 12190  sewer rat
+M 0 12050  3 12043  actor
+M 0 12050  3 12043  actor
+M 0 12050  3 12043  actor
+M 0 12051  2 12059  stagehand
+M 0 12051  2 12059  stagehand
+M 0 12052  3 12028  athlete
+M 0 12052  3 12028  athlete
+M 0 12052  3 12028  athlete
+M 0 12053  2 12021  old bather
+M 0 12053  2 12021  old bather
+M 0 12054  3 12029  Moorish soldier with bracers
+E 1 12017  5 10     bracers
+M 0 12054  3 12029  Moorish soldier
+M 0 12054  3 12029  Moorish soldier
+M 0 12055  1 12013  cloakroom attendant
+M 0 12056  5 12182  trainee gladiator
+M 0 12056  5 12182  trainee gladiator
+M 0 12056  5 12182  trainee gladiator
+M 0 12056  5 12182  trainee gladiator
+M 0 12056  5 12182  trainee gladiator
+M 0 12057 12 12198  priest with sapphire
+E 1 12012 10 1      sapphire
+M 0 12057 12 12198  priest
+M 0 12057 12 12198  priest
+M 0 12057 12 12198  priest
+M 0 12057 12 12198  priest
+M 0 12057 12 12198  priest
+M 0 12057 12 12198  priest
+M 0 12057 12 12198  priest
+M 0 12057 12 12198  priest
+M 0 12057 12 12198  priest
+M 0 12057 12 12198  priest
+M 0 12057 12 12198  priest
+M 0 12058  3 12032  Priestess
+M 0 12058  3 12198  Priestess
+M 0 12058  3 12198  Priestess
+M 0 12059  3 12127  Martyr
+M 0 12059  3 12127  Martyr
+M 0 12059  3 12127  Martyr
+M 0 12060  6 12035  vestal
+M 0 12060  6 12035  vestal
+M 0 12060  6 12035  vestal
+M 0 12060  6 12035  vestal
+M 0 12060  6 12035  vestal
+M 0 12060  6 12035  vestal
+M 0 12061  2 12132  retiarius
+M 0 12061  2 12133  retiarus gladiator
+M 0 12062  1 12128  Samnite gladiator
+M 0 12062  2 12129  samnite gladiator
+M 0 12063  2 12128  Murmillo gladiator
+M 0 12063  2 12129  Murmillo gladiator
+M 0 12064  2 12128  Thracian gladiator
+M 0 12064  2 12132  Thracian gladiator
+M 0 12065  1 12199  Consul
+E 1 12049  5 12     toga
+M 0 12066  1 12119  Marcus Wallgrenus
+M 0 12067  2 12192  faun
+M 0 12067  2 12192  faun
+M 0 12068  6 12199  plebian
+M 0 12068  6 12199  plebian
+M 0 12069  1 12178  augurer
+M 0 12070  1 12120  Albertus TellusMaximus
+M 0 12071  5 12199  wealthy equite
+M 0 12071  5 12199  wealthy equite
+M 0 12071  5 12199  wealthy equite
+M 0 12071  5 12199  wealthy equite
+M 0 12071  5 12199  wealthy equite
+M 0 12071  6 12194  plebian
+M 0 12071  6 12198  plebian
+M 0 12071  6 12199  plebian
+M 0 12072  6 12199  shopworker
+E 1 12011 50 15     silver and gold bracelet 
+M 0 12072  7 12172  shopworker
+M 0 12073  1 12173  carpenter
+M 0 12074  5 12166  Dinner guest
+M 0 12074  5 12167  Dinner guest
+M 0 12074  5 12167  Dinner guest
+M 0 12074  5 12168  Dinner guest
+M 0 12074  5 12168  Dinner guest
+M 0 12075  6 12199  poor Roman woman
+M 0 12075  6 12199  poor Roman woman
+M 0 12075  6 12199  poor Roman woman
+M 0 12075  6 12199  poor Roman woman
+M 0 12075  6 12199  poor Roman woman
+M 0 12075  7 12171  poor Roman woman
+M 0 12076  1 12008  farmer
+M 0 12077  1 12000  Roman general
+M 0 12078  1 12199  Roman centurion
+M 0 12079  3 12194  Roman standard-bearer
+M 0 12080 10 12199  Roman soldier (strutting)
+E 1 12002 80 6      Roman combat helmet
+M 0 12080 10 12199  Roman soldier (strutting)
+E 1 12004 90 3      bulla (stethoscope)
+M 0 12080 10 12199  Roman soldier (strutting)
+E 1 12018 20 5      Combat Breast plate
+M 0 12080 10 12199  Roman soldier (strutting)
+E 1 12018 20 5      Combat Breast plate
+M 0 12080 10 12199  Roman soldier (strutting)
+M 0 12080 10 12199  Roman soldier (strutting)
+E 1 12018 20 5      Combat Breast plate
+M 0 12080 10 12199  Roman soldier (strutting)
+E 1 12019 10 8      combat boots
+M 0 12080 10 12199  Roman soldier (strutting)
+E 1 12019 10 8      combat boots
+M 0 12080 10 12199  Roman soldier (strutting)
+E 1 12018 20 5      Combat Breast plate
+M 0 12080 10 12199  Roman soldier (strutting)
+E 1 12019 10 8      combat boots
+M 0 12080 10 12199  Roman soldier (strutting)
+E 1 12019 10 8      combat boots
+M 0 12081  2 12199  Gallic slave
+G 1 12045 10        flaming wand
+M 0 12082  6 12194  Minotaur warrior
+E 1 12021  5 13     loincloth
+M 0 12082  6 12027  Roman warrior
+M 0 12082  6 12027  Roman warrior
+M 0 12082  6 12097  Roman warrior
+M 0 12082  6 12097  Roman warrior
+M 0 12082  6 12099  Roman warrior
+M 0 12083  2 12199  evil barbarian
+M 0 12083  2 12199  evil barbarian
+M 0 12084  1 12003  warrior elephant
+M 0 12085  2 12199  Roman Ratsoldier
+M 0 12085  2 12199  Roman Ratsoldier
+M 0 12086  1 12199  halfling
+M 0 12087  1 12199  gnome
+M 0 12088  1 12002  cloth merchant
+M 0 12089  2 12102  tinker
+M 0 12089  2 12199  tinker
+M 0 12090  6 12198  worshipper
+M 0 12090  6 12198  worshipper
+M 0 12090  6 12198  worshipper
+M 0 12090  6 12198  worshipper
+M 0 12090  6 12198  worshipper
+M 0 12090  6 12198  worshipper
+M 0 12091  3 12114  worshipper (bacchus)
+M 0 12091  3 12114  worshipper (bacchus)
+M 0 12091  3 12115  worshipper (bacchus)
+M 0 12091  3 12115  worshipper (bacchus)
+M 0 12092 12 12152  high priest
+M 0 12092 12 12114  high priest
+M 0 12092 12 12155  high priest
+M 0 12092 12 12157  high priest
+M 0 12092 12 12031  high priest
+M 0 12092 12 12098  high priest
+M 0 12092 12 12152  high priest
+M 0 12092 12 12114  high priest
+M 0 12092 12 12155  high priest
+M 0 12092 12 12157  high priest
+M 0 12092 12 12031  high priest
+M 0 12092 12 12098  high priest
+M 0 12093  5 12099  Male slave
+E 1 12052 20 3      slave collar
+M 0 12093  5 12099  Male slave
+M 0 12093  5 12097  Male slave
+M 0 12093  5 12099  Male slave
+M 0 12093  5 12199  Male slave
+M 0 12094  5 12194  warrior
+E 1 12021  5 13     loincloth
+M 0 12094  5 12194  warrior
+M 0 12094  5 12194  warrior
+M 0 12094  5 12194  warrior
+M 0 12094  5 12194  warrior
+M 0 12095  3 12131  wolves
+M 0 12095  3 12131  wolves
+M 0 12095  3 12131  wolves
+M 0 12096  2 12139  panther
+M 0 12096  2 12139  panther
+M 0 12097  2 12130  bear
+M 0 12097  2 12130  bear
+M 0 12098  3 12134  minotaur
+M 0 12098  3 12134  minotaur
+M 0 12098  3 12134  minotaur
+M 0 12099  2 12136  tiger
+M 0 12099  2 12136  tiger
+M 0 12100  3 12135  prisonner
+M 0 12100  3 12135  prisonner
+M 0 12100  3 12135  prisonner
+M 0 12101  1 12108  jeweler
+G 1 12005 100       hairpin for jeweler to sell
+M 0 12102  1 12073  Julius Maximus
+M 0 12103  1 12074  Gluteous Maximus
+M 0 12104  1 12072  August Maximus
+M 0 12105  1 12103  hot food shopkeeper (Gaius)
+G 1 12043  100      honeyed dormouse 
+G 1 12010 100       sausage 
+G 1 12050 100       flamingo tongues
+M 0 12106  1 12105  image shop shop keeper (sulla)
+G 1 12030 100       give Sulla the disappearing lotion to sell
+M 0 12107  2 12105  Sulla's assistant
+M 0 12107  2 12019  Sulla's assistant
+M 0 12108  5 12108  shopkeeper's assistant
+M 0 12108  5 12108  shopkeeper's assistant
+M 0 12108  5 12103  shopkeeper's assistant
+M 0 12108  5 12113  shopkeeper's assistant
+M 0 12108  5 12025  shopkeeper's assistant
+M 0 12109  8 12089  races spectator
+M 0 12109  8 12089  races spectator
+M 0 12109  8 12085  races spectator
+M 0 12109  8 12080  races spectator
+M 0 12109  8 12079  races spectator
+M 0 12109  8 12083  races spectator
+M 0 12109  8 12078  races spectator
+M 0 12110  8 12049  theater spectator
+M 0 12110  8 12049  theater spectator
+M 0 12110  8 12047  theater spectator
+M 0 12110  8 12050  theater spectator
+M 0 12110  8 12050  theater spectator
+M 0 12110  8 12053  theater spectator
+M 0 12110  8 12053  theater spectator
+M 0 12111  1 12165  Drucilla
+M 0 12112 10 12166  patrician sentinel
+M 0 12112 10 12046  patrician sentinel
+M 0 12112 10 12027  patrician sentinel
+M 0 12112 10 12046  patrician sentinel
+M 0 12112 10 12013  patrician sentinel baths
+M 0 12112 10 12076  patrician sentinel
+M 0 12112 10 12076  patrician sentinel
+M 0 12112 10 12077  patrician sentinel
+M 0 12112 10 12077  patrician sentinel
+M 0 12112 10 12147  patrician sentinel
+M 0 12112 10 12078  patrician sentinel
+M 0 12112 10 12147  patrician sentinel
+E 1 12013  50 3     jade pendant
+O 0 12034 100 12163 vase outside wealthy apartment
+P 1 12102 100 12034 pearl key to apartment
+O 0 12035 100 12174 straw mat - upstairs cheap apt
+P 1 12100 100 12035 key to apartment
+O 0 12036 100 12174 hidden lintel over apt. door
+P 1 12101 100 12036 key to apartment
+O 0 3034 100 12120  load ATM by Albertus
+M 0 12117   2 12114 nymph
+M 0 12118   1 12192 Pan
+M 0 12122   5 12047 sentinel farmer at theater
+M 0 12113   5 12049 sentinel equite at theater
+M 0 12120   5 12050 sentinel slave at theater
+M 0 12122   5 12050 sentinel farmer at theater
+M 0 12119   5 12051 sentinel wife at theater
+M 0 12119   5 12052 sentinel wife at theater
+M 0 12121   5 12054 sentinel helper at theater
+M 0 12121   5 12054 sentinel helper at theater
+M 0 12122   5 12079 sentinel farmer at circus
+M 0 12113   5 12083 sentinel equite at circus
+M 0 12113   5 12084 sentinel equite at circus
+M 0 12121   5 12090 sentinel helper at circus
+M 0 12122   5 12085 sentinel farmer at circus
+M 0 12121   5 12079 sentinel helper at circus
+M 0 12120   5 12085 sentinel slave at circus
+M 0 12120   5 12091 sentinel slave at circus
+M 0 12119   5 12092 sentinel wife at circus
+M 0 12119   5 12091 sentinel wife at circus
+M 0 12113   5 12140 sentinel equite at arena
+M 0 12120   5 12141 sentinel slave at arena
+M 0 12120   5 12143 sentinel slave at arena
+M 0 12121   5 12140 sentinel helper at arena
+M 0 12121   5 12150 sentinel helper at arena
+M 0 12122   5 12151 sentinel farmer at arena
+M 0 12113   5 12150 sentinel equite at arena
+M 0 12119   5 12151 sentinel wife at arena
+M 0 12123   1 12034 roast chestnut sales in forum
+G 1 12047 100       give her the chestnuts to sell
+M 0 12124   1 12124 Antonius the Younger in his office
+M 0 12125   1 12117 Load Jason in the city building
+M 0 12126   1 12196 Maximus Maximus in slave shop
+E 1 12051  20 16    whip
+M 0 12127   1 12197 Slave #1 to storage room
+M 0 12128   1 12197 Slave #2
+M 0 12129   1 12197 Slave #3
+M 0 12130   1 12197 Slave #4
+M 0 12131   1 12197 Slave #5
+M 0 12132   1 12197 Slave #6
+S
+#99999
+$~

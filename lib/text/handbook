@@ -1,0 +1,96 @@
+#yWIZCOMMANDS
+#b~~~~~~~~~~~#N
+ADVANCE     #gadvance #c<victim> #m<level>                                    #r(112+)#N
+
+AT         #gat #c3001 #mlook#N; #gat #cfido #mkill fido#N; #gat #ctemple #m'Hello           #r(110+)#N
+
+DC          #gdc #c<descriptor number>                                      #r(113+)#N
+            (Disconnect <connection number>)
+
+ECHO        #gecho #c<message>          #N(To room)                           #r(111+)#N
+GECHO       #ggecho #c<message>         #N(To game)                           #r(112+)#N
+SEND        #gsend #c<victim> #m<message> #N(To char)                           #r(111+)#N
+QECHO       #gqecho #c<message>         #N(To chars on Quest Channel)         #r(111+)#N
+
+FORCE       #gforce #cfido #mdrop meat; #gforce #cbeauty #mkiss IO                  #r(111+)#N
+
+FREEZE      #gFreezes a #ccharacter.                                        #r(112+)#N
+            (freeze #c<victim> #Nboth freeze and unfeezes character.)
+
+GOTO        #ggoto #c<location>                                             #r(110+)#N
+
+TRANS       #gtrans #c<victim>                                              #r(110+)#N
+TELEPORT    #gteleport #c<victim> #m<location>                                #r(111+)#N
+            (LOCATION can be roomnumber roomname player mob)
+
+HOLYLIGHT   #gGodly lightsource.                                          #r(110+)#N
+
+INVIS       #ginvis #c[level]                                               #r(111+)#N
+
+LOAD        #gload #c<mob|obj> #m<virtual number>                             #r(111+)#N
+
+MUTE        #gmute #cMrNoisy                                                #r(111+)#N
+
+NOHASSLE    #gPrevents aggressive monsters from attacking.                #r(110+)#N
+
+NOTITLE     #gPrevents players from setting their own titles.             #r(111+)#N
+
+PAGE        #gpage #c<player|'all'> #m<message>                               #r(111+)#N
+
+PARDON      #gRemoves killer and thief flags from a player.               #r(111+)#N
+
+POOFIN      #gTry it.                                                     #r(110+)#N
+POOFOUT                                                                 #r(110+)#N
+
+PURGE       #gpurge #c[name]; Destroys item/mob.                            #r(111+)#N
+
+REBOOT      #greboot #c<'*'|file>                                           #r(113+)#N
+
+RESTORE     #gRestores hit, mana, and move points.                        #r(112+)#N
+
+RETURN      #gReturns to your own body if you are switched.               #r(111+)#N
+
+ROOMFLAGS   #gToggles a flag which causes the virtual room number and room flags,
+            if any,  to be displayed next to room names.                #r(110+)#N
+
+SET         #gset #c[file|player] <character> #m<field> <value>               #r(110+)#N
+            (set #c<field> #Nchanges depending on what level you are)
+
+SHOW        #gshow #c<mode> #m[argument]                                      #r(110+)#N
+            (show #c<mode> #Nchanges depending on what level you are)
+
+SHUTDOWN    #gshutdown #c[reboot|die|pause]                                 #r(113+)#N
+
+SNOOP       #gsnoop #c<character> , snoop #c<YourOwnName> unsnoops            #r(111+)#N
+            (Snoop other sessions.)
+
+SNOWBALL    #gVery funny immortal social.                                 #r(110+)#N
+
+STATS       #gstats #c[player|object|mobile|file] #m[name]                    #r(110+)#N
+
+SWITCH      #gswitch #c<mob>; Switch is used to take over the body of mobiles.
+                                                                        #r(111+)#N
+
+SYSLOG      #gThe SYSLOG command controls how detailed of an on-line system log
+            you see. Options : #cComplete, Normal, Spare                  #r(110+)#N
+            (What you see on SysLog depends on level)
+
+UNAFFECT    #gunaffect #c<victim>  ;Removes all spell affects.              #r(111+)#N
+
+UPTIME      #gDisplays how long the game has been up.                     #r(110+)#N
+
+USERS       #gList players and sockets.                                   #r(110+)#N
+
+VNUM        #gvnum #c<mob|obj> #m<name>                                       #r(110+)#N
+
+VSTAT       #gvstat #c<mob|obj> #m<virtual number>                            #r(110+)#N
+
+WIZHELP     #gGives a list of the commands and min level to use.          #r(110+)#N
+
+WIZLOCK     #gwizlock #c[value]                                             #r(113+)#N
+
+WIZNET '-'  #gwiznet #c[ '@' | '+' | '-' | '#' ] #m[<text>]
+            The immortal communication channel.                         #r(110+)#N
+
+ZRESET      #gzreset #c<zone | '*' | '.'>                                   #r(112+)#N
+

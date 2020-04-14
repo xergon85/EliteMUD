@@ -1,0 +1,289 @@
+#11200
+ant worker m11200~
+the worker ant~
+A tiny worker ant glares at you for being in its way.
+~
+This ant scurries about with the rest of his colony preparing 
+grain for the winter. He seems very determined to get his job 
+done efficiently, and he doesn't look too happy now that you've
+managed to get in his way.
+~
+0 0 bc 0 100 A 17 1
+#11201
+grasshopper grass m11201~
+the starving grasshopper~
+The grasshopper begs you for some food.
+~
+Although he once sang cheerily in the summer evenings, famine has 
+caused this grasshopper to look sickly and weak. His antennae 
+hang droopily and his skin has turned a strange yellowish green 
+color. Perhaps one of the ants will be kind enough to give him 
+some food to last him the winter.
+~
+0 0 b 0 100 A 18 1
+A
+%%5 shiver;%5 say Please, sir, can I have some more?~
+#11202
+traveller m11202~
+the boasting traveller~
+A man is telling tales to anybody who will listen.
+~
+From the suitcase at his feet to the trinkets in his pockets, you 
+can tell that this man has been on numerous journeys.  The most 
+impressive souveneir that he has brought home, though, are the tall 
+tales that are tumbling out of his mouth.
+~
+1 0 b 0 -100 A 16 1
+#11203
+mouse m11203~
+a wary mouse~
+You think you see two eyes peering at you through a hole in the wall.
+~
+After being terrorized by that awful cat, it's no wonder the mice 
+here are so frightened. It's difficult to get a good look at them 
+as they go scurrying across the floor, and the only thing you see 
+is a scrawny tail disappearing into a hole in the wall.
+~
+0 0 bh t 300 A 15 0
+A
+%%10 emote squeeks frightfully.~
+#11204
+cat m11204~
+the deceitful cat~
+A dead cat is hanging from a peg on the wall.
+~
+At first glance, this beautiful calico kitty appears to be dead, 
+but upon closer examination you see that she is very much alive. 
+Every now and then she peeks at the mouse hole with one eye to 
+see if the mice have fallen for her trick.
+~
+3 0 bl df -300 A 19 2
+#11205
+dog hound m11205~
+a hound dog~
+A hound dog playfully chases a hare across the hillside.
+~
+This puppy is full of energy, and it's obvious that he just wants 
+to play with his new friend, the hare. He looks at you with big 
+brown eyes and wags his tail in an invitation to come play with him.
+~
+4 0 bi 0 -250 A 20 1
+A
+%%15 bark~
+#11206
+hare m11206~
+the hare~
+The hare runs as fast as she possibly can away from the hound.
+~
+This poor hare just can't seem to get away from her pursuer, 
+despite her powerful legs and natural agility. Her long ears 
+start to twitch with fright as the hound dog closes in on her. He 
+wouldn't really eat her... would he?
+~
+0 0 bh h 0 A 20 2
+#11207
+eagle m11207~
+a mourning eagle~
+An eagle mourns the loss of her young.
+~
+This eagle sits in the place where her nest once sat, high above 
+the ground nestled in the branches of a tall tree. The once proud 
+eagle silently ruffles her feathers as she looks down at the fox 
+with her beady eyes. At one time, the two of them had been close 
+friends, now it appears they are mortal enemies.
+~
+13 0 bj yzB -500 A 18 2
+#11208
+fox vixen m11208~
+the vengeful vixen~
+A childless vixen seeks revenge against the eagle.
+~
+Everybody knows that the fox is the most clever creature in the 
+world, and this one is no exception. She knows that mourning for 
+the loss of her children is not going to bring them back, and 
+instead seeks retribution. Don't double cross this fox unless you 
+want to feel the heat of her ire.
+~
+0 0 bi z 500 A 18 2
+#11209
+fox m11209~
+a hungry fox~
+A starving fox mutters something about sour grapes.
+~
+Something in this fox's eyes makes you want to run in the 
+opposite direction; perhaps it is because she looks bitter and 
+hungry, not a good combination in a fox. While foxes are known 
+for being swift and cunning, this one obviously couldn't figure 
+out how to get those grapes down.
+~
+0 0 b 0 0 A 16 2
+#11210
+goat m11210~
+a wandering goat~
+A goat has meandered away from its flock.
+~
+This goat wanders around the mountainside nibbling on the grass, 
+not really paying attention to anything else around him. Upon 
+closer inspection you notice that one of his horns has been 
+broken by someone or something. Perhaps the inattentiveness of 
+the goat has gotten him into trouble before.
+~
+0 0 bc 0 100 A 19 1
+#11211
+goatherd boy m11211~
+the guilty goatherd~
+#cThe guilty goatherd whispers to you, 'I'm in trouble...'#N
+~
+A boy of no more than fifteen or sixteen looks at you with a 
+guilty look on his face. His ruddy complexion indicates that he 
+must spend a lot of time on this mountain with his goats. Every 
+now and then he checks to make sure the flock is still together. 
+Maybe he knows what has happened to the goat with the broken horn.
+~
+1 0 blm 0 500 A 20 1
+#11212
+tortoise m11212~
+the persistent tortoise~
+A tortoise walks steadily past you with a determined look on her face.
+~
+This tortoise won't let anything get in the way of her goal - the 
+finish line! She ambles slowly down the path with her stumpy legs, 
+not even flinching as the hare speeds past her.
+~
+0 0 b h 500 A 17 2
+#11213
+hare m11213~
+a sleeping hare~
+You hear a hare snoring as he sleeps under a tree.
+~
+Looking peaceful and contented, this hare sleeps away the 
+afternoon under a huge tree.  His long ears hang down and every 
+now and then you see his nose twitch. It is hard to imagine that 
+this hare plans on winning a race by sleeping, especially 
+considering that his opponent is just coming around the bend.
+~
+0 0 b q 400 A 16 1
+#11214
+mouse m11214~
+a mouse~
+A mouse tries desperately to save his friend, the lion.
+~
+This little gray mouse scampers about as he attempts to chew the 
+lion out of trouble. One would never think that a timid mouse 
+would be able to aid a brave and mighty lion, but the proof is 
+right in front of you.
+~
+0 0 b 0 0 A 15 1
+#11215
+lion m11215~
+the trapped lion~
+A lion seems to have been outsmarted by giant ropes.
+~
+The lion roars angrily at the rope that has ensnared him, which 
+only traps him more. His golden mane is tangled and his teeth are 
+bared... maybe you should leave before he becomes free and attacks
+the closest living thing - YOU!
+~
+3 0 bl z -100 A 20 1
+A
+%%10 emote roars in your general direction.~
+#11216
+man m11216~
+Old Baldy~
+You flinch as the light reflects off this man's head.
+~
+This finely dressed man stands here frowning, probably due to the 
+fact that he no longer has any hair on his head.  Rumor has it 
+that he got himself into trouble with the ladies, and that's never 
+a good sign.
+~
+1 0 b 0 200 A 18 1
+#11217
+wind north m11217~
+the North Wind~
+You feel a sudden gust of air as the North Wind greets you.
+~
+The North Wind picks up anything it can that stands in its path 
+and chills everything else.  Just looking at it makes you want to 
+pile on some more clothes.
+~
+17 0 bf hA -200 A 20 0
+#11218
+sun m11218~
+the blazing Sun~
+An intense heat fills your body as the Sun shines down upon you.
+~
+Not paying any attention to all those warnings about looking 
+directly at the sun has proved to be a very dumb thing to do. 
+The only thing that you manage to notice before having to turn 
+away is that it's just bright... very, very bright.
+~
+14 0 bl h 200 A 20 0
+#11219
+peacock bird m11219~
+the peacock~
+A peacock struts about, showing off his plumage with pride.
+~
+This beautiful bird can't last a single day without showing off 
+his feathers to everyone around him. They are a radiant blue and 
+green with just a touch of yellow, and they make you want to 
+reach out and take one... but you wouldn't dare do that, would you?
+~
+13 0 b 0 100 A 16 1
+#11220
+frog m11220~
+a crazy frog~
+A frog rushes up to you claiming that he can heal all your wounds.
+~
+This "cure-all" doctor needs to listen to his own advice - he 
+walks with a crutch and has wrinkles all over his body. He seems 
+friendly enough, if not a little bit looney in the head.
+~
+0 0 bh d 100 A 16 1
+A
+%%5 say Ribbit! Ribbit Ribbit!~
+#11221
+boy shepherd m11221~
+the shepherd~
+The shepherd boy mourns the loss of his flock.
+~
+This young man will never forget the lesson he learned the night 
+that awful wolf devoured his flock right before his eyes. He 
+watches cautiously over the meadow and is always looking over 
+his shoulder for any signs of danger.
+~
+1 0 b 0 150 A 15 1
+#11222
+thief m11222~
+the sneaky thief~
+A thief tries to look innocent as he breaks into somebody's house.
+~
+This HUGE man manages to make himself look small and stealthily moves  
+along the wall of this unsuspecting person's house. He doesn't look 
+like someone you should be messing around with, so maybe you should 
+keep moving and pretend you never saw a thing.
+~
+1 3 b ks -300 A 19 1
+#11223
+lioness lion m11223~
+the lioness~
+A lioness holds and cuddles her cub in her arms.
+~
+Obviously, this lioness is proud of her only cub, and she makes 
+sure it is well cared for. She looks at the little cub, and the 
+only thing you can see in her big brown eyes is pure love and 
+affection. 
+~
+3 0 b qy 400 A 17 2
+#11224
+wolf m11224~
+a wolf~
+An odd-looking sheep stands out from the rest of the flock.
+~
+As you approach the odd sheep, you realize that it is actually a 
+wolf in a sheep's skin. The disguise is an excellent one... or 
+else these are very gullible sheep!
+~
+4 0 bj df -500 A 17 0
+#99999
+$~

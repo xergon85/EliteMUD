@@ -1,0 +1,93 @@
+#212
+The Jungle~
+21299 60 2
+*
+* Load all the mobs *
+*
+* Critters *
+*
+M 0 21200 3 21259	* blue macaws
+M 0 21200 3 21269	*
+M 0 21200 3 21272	*
+M 0 21201 3 21240	* scarlet macaws
+M 0 21201 3 21250	*
+M 0 21201 3 21260	*
+M 0 21202 1 21208	* black jaguar
+M 0 21203 1 21214	* peccary
+M 0 21204 4 21210	* poison-arrow frogs
+M 0 21204 4 21220	*
+M 0 21204 4 21230	*
+M 0 21204 4 21240	*
+M 0 21205 10 21205	* fire ants
+M 0 21205 10 21205	*
+M 0 21205 10 21205      *
+M 0 21205 10 21205      *
+M 0 21205 10 21205      *
+M 0 21205 10 21204	*
+M 0 21205 10 21203	*
+M 0 21205 10 21202	*
+M 0 21205 10 21201	*
+M 0 21205 10 21206	*
+M 0 21206 5 21209	* leaf-cutter ants
+M 0 21206 5 21214	*
+M 0 21206 5 21219	*
+M 0 21206 5 21224	* 
+M 0 21206 5 21225	*
+*
+* Runa Tribesmen and Women *
+*
+M 0 21207 3 21218	* runa man
+E 1 21200 25 3		* jaguar skin
+*
+M 0 21207 3 21228	* runa man
+G 1 21201 20 		* poisoned dart
+*
+M 0 21207 3 21299	* runa man
+E 1 21202 20 16		* wooden spear
+*
+M 0 21208 3 21223	* runa woman
+G 1 21203 100		* pouch
+P 1 21204 100 21203	* sampaka leaf
+G 1 21207 70		* maseropini (BAD!)
+*
+M 0 21208 3 21233	* runa woman 
+G 1 21203 100		* pouch
+P 1 21206 100 21203	* masero leaf
+G 1 21205 25		* sampakatishi (Good!)
+*
+M 0 21208 3 21243	* runa woman
+G 1 21203 100		* pouch
+P 1 21208 100 21203	* epi'kimi root
+G 1 21209 25		* epi'kimi (Good!)
+*
+*
+* More Critters *
+*
+M 0 21209 4 21243	* titi monkey
+M 0 21209 4 21253	*
+M 0 21209 4 21263	*
+M 0 21209 4 21273	*
+M 0 21210 3 21252	* iguana
+M 0 21210 3 21262	* 
+M 0 21210 3 21272	*
+M 0 21211 3 21204	* anteater
+M 0 21211 3 21212	*
+M 0 21211 3 21225	*
+M 0 21212 4 21230	* sloth
+M 0 21212 4 21260	*
+M 0 21212 4 21270 	*
+M 0 21212 4 21275	*
+M 0 21213 5 21205	* tapir
+M 0 21213 5 21210	*
+M 0 21213 5 21215	*
+M 0 21213 5 21220 	*
+M 0 21213 5 21225	*
+*
+* Load Objs in Dwellings *
+O 0 21201 25 21281	* dart
+O 0 21205 25 21281	* sampakatishi potion
+O 0 21207 25 21299	* masero potion
+*
+S
+#99999
+$~

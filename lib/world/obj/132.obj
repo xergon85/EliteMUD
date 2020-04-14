@@ -1,0 +1,1691 @@
+#13200
+Pump fountain water clear~
+a clear water pump~
+A big pump has been bolted into the floor of the mountain cave.~
+~
+23 0 0 n 0
+999999 999999 15 0 0 0
+999999 0 0
+E
+Pump fountain water clear~
+   The metal pump is securely fixed into the mountain via a strong
+fundament and some bolts. A lever allows clear mineral water to be pumped
+up from some distant water reservoir below. A little problematic it still
+seems as a constant rattling of air bubbles seems to appear when pumping.
+Perhaps it is some punishment for something Fritz did before or maybe it
+is just bad plumbing.
+~
+#13201
+key room~
+a key to a special room (sleazy)~
+A rather sleazy key have been abandoned.~
+~
+18 90 n 0 a
+2 0 0 0 0 20
+2 30000 0
+E
+room key~
+   Small and discrete, a little key among many, but it might lead to
+pleasures beyond your wildest imagination or rather just to that. On one
+side, a little text is applied:
+  One person - One hour - Satisfaction guaranteed.
+~
+#13202
+slime pod suction shield arm octopus~
+a slime covered suction pod~
+A piece of an octopus' arm lies shivering before you.~
+~
+12 0 0 h adefghijkl
+20 0 0 0 0 0
+7 50 0
+E
+slime pod suction shield arm octopus~
+   A tentacle of an octopus has been cut off in a piece the size
+of one suction pod. The pod still sticks to anything, anywhere or anyone
+it is pressed against, giving the piece a rather strange way of staying
+in place. The octopus flesh have received no treatment and the muscle
+fibres hang out from the uneven cut. This surely must be an object that
+will start to smell horribly after a while.
+~
+A 17 -5
+A 13 +10
+A 14 -15
+A 18 -1
+#13203
+stairway upstairs~
+The stairway to 'Upstairs'~
+A rather sleazy stairway leads up to the second floor.~
+~
+26 0 0 hnz 0
+13237 b 13201 90 -1 -1
+0 0 0
+E
+stairway upstairs~
+   The stairs lead to the second floor of the house where at least
+someone is waiting for you to make your visit an interesting and maybe
+even educational experience. The steps are covered with a soft red carpet
+and the walls have paintings with an at least somewhat remotely erotic
+content.
+~
+#13204
+shield guard~
+The Shield of the Harbour Town guards~
+A nice shield with a huge ship etched on it lies forgotten.~
+~
+9 80 ckgbjfloamies 0 aj
+12 80 0 0 0 0
+30 6000 0
+E
+shield guard~
+   The Dwarven Undermountain Harbour Town Guards use this very simple
+shield. It is made out of a piece of wood, almost a perfect square,
+that is plated with metal from the Iron Mill nearby. Simple design but
+still useful enough.
+~
+#13205
+Concrete boot boots bucket~
+a single concrete boot for both feet~
+A big bucket filled with concrete is currently out of use.~
+~
+9 40 0 tx ag
+14 40 0 0 0 0
+140 3 0
+E
+Concrete boots bucket~
+   Big, grey and "one size - fits all" rather summarises these shoes,
+or to keep the nomenclature correct, this shoe. This one shoe with two
+foot holes, actually with some remains of the previous owner, does not
+look inviting but none of the previous users has risen any complaint
+about it so far, so why should you? On the other hand, you are pretty
+sure that you will not slip on this shoe deliberately, ever...
+~
+A 14 -100
+A 14 -100
+A 14 -100
+A 14 -100
+#13206
+Bauta stone~
+a real nice bauta stone~
+The three dimensional eliptical stone should fit in any collection.~
+~
+8 2 0 0 a
+0 0 0 0 0 0
+240 60 0
+E
+Bauta stone~
+   What a big stone. Shaped like a gigantic stone spearhead this work of
+art is now for you to use as you please. The artist must have spent a lot
+of time (and been mighty strong) to be able to create such fine surface
+as this 14 foot stone has.
+~
+#13207
+Horse shoes shoe~
+a pair of horse shoes~
+A big metal 'U' has lost its horse.~
+~
+9 88 ckgosjflamie 0 ac
+20 88 0 0 0 0
+40 2500 0
+E
+Horse shoes~
+   A centaur horseshoe. Who else can really say that a horseshoe fits
+like it should? And would a centaur use a shoe that was not all right.
+And would a centaur use a shoe that was not all right? Probably not. And
+then again this shoe is not on one, at least not at the moment. And if
+you are not of semihorse species what are you going to do with this bent
+U of metal?
+~
+A 14 +50
+#13208
+spetum Boatguard~
+a Boatguard spetum~
+The spetum of a boatguard has floated away from its wielder.~
+~
+5 70 cksbjnhpamie 0 anq
+70 12 4 12 0 0
+17 101 0
+E
+Boatguard spetum~
+   The favourite weapon of the boatguards of the Dwarven Undermountain
+Harbour Town. Long and slender, giving reach far far away and even
+beneath the water surface if so were needed, clearly makes it a primary
+choice. The wooden shaft even makes it so light compared to its size it
+floats on water and the three bone edges would pierce the skin of anyone
+swimming, shedding their blood into the waters.
+~
+A 19 +19
+A 18 +8
+#13209
+black Squid Ink~
+the collected ink of a squid~
+The squid does not use its ink any more.~
+~
+3 60 dhpnc c ao
+105 1 1 4 0 0
+4 6000 0
+E
+black Squid Ink~
+   Someone has gone through the mess of collecting ink from a big sample
+of squids. Now it can be used by you. But take heed so you do not stain
+your own clothing. It is very hard to wash away and it will miscolour
+everything.
+~
+#13210
+Cure poison Potion sweet~
+a sweet smelling potion~
+A potion that will take you out of the poison moved itself as well.~
+~
+10 12 0 g ao
+1 2 43 -1 0 0
+4 20000 0
+E
+Cure poison Potion~
+
+Whenever you are in pain
+ And feel that someone else is to blame
+Drink this potion
+ In one swift motion
+When you have it drained
+ You wont feel the same.
+
+~
+#13211
+soft curse potion~
+a soft smelling potion~
+'Sin, San, Son, The curse is gone.' says the attached potion-note.~
+~
+10 30 0 g ao
+80 35 -1 -1 0 0
+2 16000 0
+E
+curse potion note~
+
+Stung on a thorne are we
+ aaiaiaiaiaiiii
+Quaff this down
+ And the pain will drown.
+
+~
+#13212
+potion meditative~
+a Meditative potion~
+This potion is only for meditative purposes.~
+~
+10 40 cgd b a
+109 3 4 -1 0 0
+2 30000 0
+E
+meditative potion~
+
+If you meditate will
+ you better sit still
+if you stand up and run
+ you wont see much fun.
+
+~
+#13213
+tome Scroll Insight~
+the Scroll of Insight~
+An educational tome has been rolled up and tossed away.~
+~
+2 23 sk g ao
+46 46 -1 -1 0 0
+3 8000 0
+E
+tome Scroll Insight~
+
+To understand more
+ This paper adore
+And you will see
+ More than me.
+
+~
+A 4 +3
+#13214
+Sickle~
+a small sickle~
+The question is gone but the mark remains, except for its dot.~
+~
+5 25 cgondhp a aon
+25 5 3 3 0 0
+3 1907 0
+E
+sickle~
+   The sickle looks like a question mark without the dot. A nice little
+tool for cutting off herbs from the trees and bushes or for thread
+cutting when making nets. All suitable for the trained craftsman.
+~
+A 18 +3
+A 19 +3
+A 12 +20
+#13215
+Thread Needle~
+a needle and some thread~
+Someone left a needle and a piece of thread behind.~
+~
+12 1 hpn 0 ano
+1 0 0 0 0 0
+1 1 0
+E
+Thread Needle~
+   A punctured shard of metal made by the hands of local finesmiths and a
+few yards of thin fibre made out of wool, create a perfect little kit for
+repairing your clothes. A necessity in every traveller's backpack.
+~
+A 19 +1
+#13216
+Anchor~
+a huge anchor~
+The really big anchor is just missing a boat to be complete.~
+~
+5 100 ckgsbjfnhplamie 0 anq
+100 1 100 7 0 0
+40 3598 0
+E
+Anchor~
+   If you have a big ship and intend to keep it when walking off, an
+anchor is recommended to keep it in place. Of course a strong rope or a
+chain connecting the two would surely improve chances. Getting whupped in
+the head by one of these things will of course not be so nice on the
+other hand dodging it is really simple as any wielder would be very
+encumbered.
+~
+A 19 +35
+A 18 -15
+#13217
+sail folded~
+a nicely folded sail~
+The sail is just missing a boat to be complete.~
+~
+12 35 0 0 abcdefghijklm
+35 0 0 0 0 0
+65 6433 0
+E
+sail~
+   If you have a big ship and hope not to row all the time, sails are a
+good thing to bring. This sail is rather large, perhaps it could used as
+a raincover for a smaller army or a very big bag. The cloth does look
+like it could withstand a lot of rough weather.
+~
+A 17 -2
+A 14 -70
+A 14 -70
+#13218
+hammer small~
+a small hammer~
+A small hammer has fallen out of its toolbox.~
+~
+5 15 0 b aon
+15 1 18 7 0 0
+5 1200 0
+E
+small hammer~
+   If you have a nail that needs to be nailed and you do not want to use
+the flatside of your sword, how about this small hammer instead? Easy to
+fit, not heavy at all and it will surely cause a lot less fright and
+agitation than the sword or the morningstar inside the carpenter
+workshop.
+~
+A 18 +3
+#13219
+Waterproof bag~
+a Waterproof bag~
+A waterproof bag would be a useful companion on any sea journey.~
+~
+15 27 0 w ao
+60 1 0 0 0 0
+12 1200 0
+E
+Waterproof bag~
+   If you are out at sea and you do not want your gear to get all wet and
+start rusting, either STAY IN THE FRIGGIN BOAT! Or stuff your things in
+this oil and fat impregnated bag. It is not the biggest around but the
+water proofness makes it worth sticking to.
+~
+#13220
+Set gadget pouches~
+a set of gadgets pouches~
+A whole set of gadget pouches has been discarded all at once.~
+~
+15 39 0 0 alo
+80 1 0 0 0 0
+7 390 0
+E
+Set gadget pouches~
+   When you have a lot of small things and want to be able to carry them
+around but still have them easily accessible as well, then this is the
+thing for you. How often does one not end up scraping the bottom of the
+fully packed backpack in search of that little item that you just left on
+top. With these that could easily be avoided.
+~
+#13221
+Tar block~
+a tar block~
+A big block of tar should be heated before use.~
+~
+12 2 0 c ad
+2 0 0 0 0 0
+50 500 0
+E
+Tar block~
+   A block of fat stuff smells of tar. Guess you need to warm it up
+properly before you can use it as one should. But it sure is easy to
+transport this way. It even mixes well with birds, at least everyone but
+the birds think so.
+~
+A 17 0
+A 14 -20
+A 20 -5
+#13222
+Oil~
+some oil~
+Some oil was left alone as it was getting everything else dirty.~
+~
+12 2 0 c ao
+2 0 0 0 0 0
+4 608 0
+E
+Oil~
+   This sticky black stuff sure smells like the thick black oil it is. It
+can be used for a large number of things but mostly it just dirties
+everything and everyone down in the neighbourhood.
+~
+A 20 -15
+#13223
+Ancient Grog~
+an Ancient Grog~
+The grog of ancients has been left alone, good thinking.~
+~
+17 12 0 0 aonq
+3 3 8 0 0 0
+2 40 0
+E
+Ancient Grog~
+   The old brewer really knew how to make good booze. The current
+bartender really knows how to mix it. And topped with some ancient ice
+from the very northmost of continents it really really asks for another
+round.
+~
+A 19 +5
+A 18 -5
+#13224
+Doublebladed minotaur axe twohanded double~
+the minotaur twohanded axe~
+A huge twohanded axe was torn from its minotaur originator.~
+~
+5 87 sckbjfnoamie a aqn
+87 3 20 3 0 0
+22 9999 0
+E
+Doublebladed minotaur axe twohanded double~
+   The axe is a large two-handed double-bladed weapon with an awesome
+destructive power in the hands of a skilled user. Combine it with the
+feared hornbutts the minotaurs deliver and the result would not be that
+nice, at least not if you are at the wrong end.
+~
+#13225
+Hydro beer~
+a Hydro beer~
+The beer bottle smells of something extra.~
+~
+17 4 0 0 ao
+4 4 4 0 0 0
+2 50 0
+E
+Hydro beer~
+   Some very special breweries, in a very distant place, add a lot of
+extra hydro to their beer giving it a lot of extra 'bounce' compared with
+the others. And they sure know to charge a lot extra for it.
+~
+#13226
+Turbo beer~
+the Turbo beer~
+A beer that would break all limits was considered too hot.~
+~
+10 27 amie au ao
+40 56 -1 -1 0 0
+2 9000 0
+E
+Turbo~
+   This is the thing you are looking for if you are out to get that real
+scorcher of blasts. Make sure you have no open fires to close to you
+after drinking one of these. Or at least no flames that you do not
+control completely.
+~
+#13227
+Fireball Beer~
+a Fireball beer~
+Some tourist left their beer behind.~
+~
+17 3 0 0 ao
+3 3 3 0 0 0
+2 650 0
+E
+Fireball Beer~
+   A perfect tourist beer. Knocks you out, takes all your money and makes
+you think it was great fun. Luckily a fresh stream of new tourists come
+by testing this special brew as the old ones stagger home. There are so
+many suckers out there that just need to test this, specially made brand.
+~
+#13228
+Permit Work~
+a Work permit~
+Someone did not want to keep their work permit.~
+~
+16 2 0 0 ao
+0 0 0 0 0 0
+1 10000 0
+E
+Work permit~
+
+                Congratulations,
+
+             YOU MAY NOW WORK HARD.
+
+ -Dwarven Undermountain Harbour Town authorities.
+
+~
+#13229
+T-shirt T shirt~
+a T-shirt~
+A commercial T-Shirt was unfairly discarded.~
+~
+11 0 0 0 ad
+0 0 0 0 0 0
+2 55 0
+E
+t shirt T-shirt~
+
+'My old folks went to the Dwarven Undermountain Harbour Town
+and all I got was this, perfectly shaped and well made,
+underpriced, but yet marvellous, T-shirt from Fritz Quality
+Wares and Extraordinary Discounts.'
+
+ is written on the chest of this T-shirt in rather small letters.
+~
+A 17 -1
+#13230
+mug~
+a nice mug~
+This nice mug would be perfect for your morning coffee.~
+~
+17 3 0 0 ao
+3 0 0 0 0 0
+1 13 0
+E
+mug~
+   A porcelain mug with the traders name on it in a very bad colour.
+Discount is written in large letters. Hope you got it cheap as it really
+is not pretty at all. A perfect coffee mug for work.
+~
+#13231
+Postcard~
+a Postcard from the Dwarven Undermountain Harbour Town~
+A Dwarven Undermountain Harbour Town Postcard was not sent properly.~
+~
+16 1 0 0 ao
+0 0 0 0 0 0
+0 10 0
+E
+Postcard~
+   The dwarfs choose their own motifs to put on their cards. This one for
+example has a nice heap of rubble on it. How very nice. Others might have
+views over mountain inner walls on them. Nice too.
+~
+#13232
+Waistbag~
+a nifty little waistbag~
+A little bag would fit perfectly around your waist.~
+~
+15 3 nphpl p al
+25 1 0 0 0 0
+3 800 0
+E
+Waistbag~
+   To be the perfect tourist and to increase your chances not to be
+pickpocketed you can carry this neat little bag around your waist keeping
+your money pouch in front of you at all times and probably a little more
+under you supervision.
+~
+A 17 -2
+#13233
+banner protective~
+Josephine's protective banner~
+Josephine's family banner stands alone waiting for someone to protect.~
+~
+9 100 amieckjfs ag aj
+13 100 0 0 0 0
+12 28000 0
+E
+banner protective~
+   Josephine have had the dwarven finesmith make a shield especially for
+her. The smith hammereed in her family banner in the metal of this plated
+treeshield. It is a rather light weight shield allowing her to wear it
+all day without too much discomfort.
+~
+A 2 +2
+A 18 +2
+A 1 +2
+#13234
+Leisure Trousers~
+some Leisure Trousers~
+A nice pair of trousers apparently fell off, how embarrasing.~
+~
+11 2 0 0 ag
+2 0 0 0 0 0
+6 600 0
+E
+Leisure Trousers~
+   Soft, sacky and in pastel colours and of course of Fritz' own brand.
+There is also a complete guarantee that it has been stone washed just to
+make sure it is perfect.
+~
+E
+Brand~
+   Fritz Leisure Ware. The Best in all climates.
+~
+A 17 -4
+A 6 +2
+A 2 +1
+#13235
+standar streamer flag~
+a triangular standar~
+A little streamer would bring out the joy of any child.~
+~
+12 0 0 o ao
+0 0 0 0 0 0
+2 90 0
+E
+stremer standar flag~
+   What joy does not a streamer bring to a child? And what pain would it
+not cause to have the child see it and you DO NOT buy it? It is also a
+good thing to use when locating the little toddler a bit later when it is
+gone again. If the offspring still has it of course.
+~
+#13236
+KITE~
+a kite~
+A wonderful kite would bring a surprise if used on a rainy day.~
+~
+2 60 nhp 0 ao
+60 44 19 6 0 0
+2 8000 0
+E
+KITE~
+   Half a yard wide and a full yard long with a long long string of
+threads rolled up in a roll next to it. You can not use it indoors but it
+will be great fun out in the open on a fine day.
+~
+#13237
+Shopping basket~
+#Ba compact shiny blue shopping basket#N~
+The bright blue shopping basket is pretty obvious.~
+~
+15 3 0 h ao
+50 0 -1 0 0 0
+12 1 0
+E
+Shopping basket~
+   #BIt is big. It is blue. And it contains more than what you expected
+especially considering your wallet. Drawn on its side are large letters
+proclaiming it as the property of FRITZ QUALITY WARES AND EXTRAORDINARY
+DISCOUNTS.#N
+~
+#13238
+Trinky One~
+one single Trinky~
+A shopping necessity, the Trinky, is now available even cheaper.~
+~
+13 0 0 n aon
+0 0 0 0 0 0
+2 10 0
+E
+One Trinky~
+   This is a clear must. You just can not enter a shop like FRITZ QUALITY
+WARES AND EXTRAORDINARY DISCOUNTS without getting one. First then it
+really fullfils its true purpose.
+                                        Now go and get more!!!
+~
+A 3 -1
+#13239
+TEN Trinkies~
+TEN Trinkies for the price of SEVEN!~
+TEN Trinkies, What a find!~
+~
+13 0 0 n aon
+0 0 0 0 0 0
+11 90 0
+E
+Trinkies TEN~
+   A sell-out of trinkies! What a bargain. This must be the chance of a
+lifetime. Buy, buy, BUY! Let the question of usage come later, much
+later.
+~
+A 3 -2
+#13240
+sour baltic herring~
+some sour baltic herring (Fear)~
+Some half rotten fish have been thrown away, but not far enough. (Fear)~
+~
+19 3 0 q a
+3 0 0 3 0 0
+3 3 0
+E
+sour baltic herring~
+   BLEH!!! Very dead, not salted enough, half rotten fish. Yummie...
+Some people find this a delicacy. Others just find it extremely
+repulsive. The stench (wonderful aroma) can cause terror and panic miles
+away.It is a must for the hardbellied to eat this with crisp bread,
+cheese, red onions and fresh sweetpotatoes. Why did anyone ever take this
+out of its bulging can?
+~
+#13241
+COD~
+a cod~
+The dead cod smells kind of fishy.~
+~
+19 0 0 0 ao
+12 0 0 0 0 0
+4 12 0
+E
+COD~
+   BIG FISH
+~
+#13242
+herring~
+a herring~
+The dead herring smells kind of fishy.~
+~
+19 0 0 0 ao
+4 0 0 0 0 0
+2 6 0
+E
+herring~
+   SMALL FISH
+~
+#13243
+seaweed~
+some seaweed~
+The seaweed does not smell of fish at all.~
+~
+19 0 0 0 ao
+0 0 0 0 0 0
+1 3 0
+E
+seaweed~
+   NO FISH
+But it is useful for sushi.
+~
+#13244
+shrimp~
+a shrimp~
+The shrimp smells semi-fishy.~
+~
+19 0 0 0 ao
+0 0 0 0 0 0
+1 36 0
+E
+Schrimp~
+  SMALL SHELLFISH
+It consumes just as much energy to prepare as one will get by digest it.
+~
+#13245
+privet~
+a tasty looking privet~
+A tasty looking privet.~
+~
+19 0 0 0 ao
+7 0 0 0 0 0
+2 90 0
+E
+privet~
+   BIG SHELLFISH
+~
+#13246
+Squid~
+the major part of a small squid~
+The major part of a small squid smells slimy.~
+~
+19 0 0 0 ao
+8 0 0 0 0 0
+2 56 0
+E
+Squid~
+   Just slimy,
+but deep fry it a few moments and it would taste just delicious. Of
+course one can can them as well but the joys and marvels of it would be
+very restricted to certain persons.
+~
+#13247
+embryos smoked fish caviar~
+smoked fish embryos~
+The little heap of caviar still looks pretty clean.~
+~
+19 0 0 0 ao
+2 0 0 0 0 0
+1 26 0
+E
+caviar smoked fish embryos~
+   The underdeveloped fetuses of unknowing, now presumed dead fish lies
+in a big can. Grab a spoon, a cracker and have a taste.
+   Yummie-Yummie.
+~
+#13248
+fish Unspecified salt salted fishes~
+a few salted fishes~
+Some salt fish smells strongly of salt.~
+~
+19 0 0 0 ao
+5 0 0 0 0 0
+2 18 0
+E
+Unspecified salt fish salted fishes~
+   Salt. Keeps up for long journeys at sea. Just bring a long a lot of
+water as you surely will get very thirsty from devouring this package.
+~
+#13249
+Stone bun~
+a Stone bun~
+This stone hard bun does not smell at all.~
+~
+19 0 0 0 ao
+10 0 0 0 0 0
+1 20 0
+E
+Stone bun~
+   A dull dark stone lies under your scrutinizing eyes. A faint smell of
+bread can be detected if one sniffs really close to it. This could of
+course be a pure psychological thing as well.The estimated hunger removal
+factor is about as low as the time to devour it is long.
+~
+#13250
+Rock bread loaf~
+the rock bread~
+The rock hard bread does not smell at all.~
+~
+19 0 0 0 ao
+20 0 0 0 0 0
+2 40 0
+E
+Rock bread loaf~
+   A slightly bigger version of the stone bun. Call it a loaf or a brick
+if you like. Not even the ship rats would attack this one. That is either
+in fear of losing or the fact that it takes so long to get any
+nourishment out of it that it is no use.
+~
+#13251
+Dried meat~
+some dried meat~
+Have a bit of dried meat. It will last...~
+~
+19 0 0 0 ao
+9 0 0 0 0 0
+1 19 0
+E
+Dried meat~
+   Slightly reddish and gnaw-friendly. A flat piece of very dry meat lies
+before you. Add a lot of water and eat it, or just carve off small pieces
+and eat them as they are. Candy for the carnivore.
+~
+#13252
+pickled danish danishs jar~
+a pickled danish jar~
+A big jar of pickled danishs have received a suitable safety distance.~
+~
+19 0 0 0 ao
+24 0 0 0 0 0
+3 99 0
+E
+pickled danish danishs jar~
+  Hmmmm. Who ever want to eat this. Guess it would stay 'fresh' for a
+long time. Something it will need as noone with their senses right would
+ever indulge themselves with something as horrid as this piece of pastry.
+~
+#13253
+log Old bread~
+the old log bread~
+The old log bread does not smell at all.~
+~
+19 0 0 0 ao
+18 0 0 0 0 0
+2 36 0
+E
+Old bread~
+   Oh, a piece of wood. No wrong, it is bread, fiber rich such and very
+coarse in its structure. You can almost see the year rings made from the
+ingredients.
+~
+E
+log~
+ The bread is so old that the previous owners have carved their names on
+it.
+~
+E
+name names~
+ The names are unreadable, as carved in letters on bread usually are.
+~
+#13254
+water bottle~
+a water bottle~
+The water bottle might need a refill of fresh water.~
+~
+17 0 0 0 ao
+8 0 0 0 0 0
+1 170 0
+E
+water bottle~
+   The bottle is made of glass and could surely be brittle, but it is a
+rather common and accepted way of storing smaller amounts of liquid,
+dispite this. The glassblowers were really fussy when it came to the
+apperance, so there is a lot of strange carvings and pictures on it.
+~
+E
+picture pictures carving carvings~
+ The bottlemaker really went through a lot of troubles etching in nice
+pictures of when the excavation of the caves of the Dwarven Undermountain
+Harbour Town and the Harbour Basin took place. Strong dwarfs chopping
+away the rock is a pretty common motif for the dwarf glass artist.
+~
+#13255
+Waterproof barrel~
+a waterproof barrel~
+A big floating device shaped like a barrel could be used as a water
+container instead.~
+~
+17 0 0 0 a
+150 0 0 0 0 0
+43 250 0
+E
+Waterproof barrel~
+   The wooden segments of the barrel fit perfectly together, quite a
+necessity in making it waterproof. Waterproof on the sea not only
+prevents the contents from leaking out but also stops the seawater from
+getting in. A very valuable quality.
+~
+#13256
+Waterproof amphora~
+a nonleaking amphora~
+A big clay amphora is still a bit chilled.~
+~
+17 0 0 0 a
+60 0 0 0 0 0
+12 90 0
+E
+Waterproof Amfora~
+   The amphora is an ancient construct that not only keeps the liquid in
+place, but also keeps it reasonably cool, due to the evaporation from the
+clay. A splash of water would keep it chilled for a long time even in a
+really warm place.
+~
+#13257
+bathtub white Waterproof~
+a nice white bathtub~
+A big bathtub, perfect for a bath...~
+~
+17 0 0 o a
+400 400 15 0 0 0
+160 6000 0
+E
+Waterproof bathtub~
+   The bathtub is waterproof, hurray! Would not be the same otherwise.
+Losing water out of the tub whilst bathing would cause you not only to
+cool down due to lack of warm water but also force you to arise to
+replenish the warm water. And that is sooo cumbersome.
+~
+#13258
+Scroll of brightness~
+the Scroll of Brightness~
+A shining bright scroll is rolled up in a corner.~
+~
+2 26 0 g ao
+47 47 -1 -1 0 0
+3 12000 0
+E
+Scroll brightness~
+
+If you want to think
+ give me no thank
+See the pet
+ and give it a pat.
+
+~
+A 3 +4
+#13259
+Potion seasickness~
+a potion of seasickness~
+A seasickness potion is waiting for someone to bring it along on a trip.~
+~
+10 2 0 g ao
+2 17 33 -1 0 0
+2 459 0
+E
+Potion seasickness~
+
+For seasickness
+ Drink this potion
+Slobber up the mess
+ And apply as lotion.
+
+~
+#13260
+Potion against~
+a potion against~
+An antidote potion was left behind, wonder why.~
+~
+10 18 0 g ao
+64 62 34 0 0 0
+3 8000 0
+E
+Potion against~
+
+Evil clerics roam the land
+ Strike them down with power hand
+If they touch your skin
+ This will make it new.
+
+[Fritz never was a good poet]
+~
+#13261
+herbs Smelly~
+some smelly herbs~
+Some smelly herbs certainly makes this place smell better.~
+~
+8 2 0 t ao
+0 0 0 0 0 0
+1 80 0
+E
+Smelly herbs~
+   Twisted leaves and cut small branches lies together making a compote
+which gives away a smell that seems to fill the room fully. The smell is
+sweet and soothing. Should be a nice addition to the odd mixture you
+already have in your backpack.
+~
+#13262
+fat Jar yak~
+a jar of yak fat~
+The jar is filled with some greasy stuff.~
+~
+9 10 0 o aj
+0 10 0 0 0 0
+3 900 0
+E
+Jar yak fat~
+   A nice round clay jar is filled with some semitransparent greasy stuff
+that smells like sh##, fat sh##. It is a difficult process, the
+extracting of the yak fat. One has to boil the fat tissue a long time
+skimming it continuously. Now the fat here is ready to be applied to your
+body as protection versus cold. Could be why the pricetag is a bit high.
+~
+A 17 +3
+A 21 +5
+A 20 -3
+#13263
+coat Heavy fur~
+a heavy fur coat~
+A heavy fur coat looks really warm even from outside.~
+~
+9 60 0 0 ak
+10 60 0 0 0 0
+22 2600 0
+E
+Heavy fur coat~
+   The coat must be at least a decimeter thick, with lots of fluffy fur
+both on the inside and the outside. The heat protection must be excellent
+if one camps inside it. Only problems seem to be that it is a bit warm if
+not worn in the worst of winters and that it would take up quite a bit of
+space when trying to store it away.
+~
+A 20 -2
+A 21 +4
+A 13 +20
+#13264
+raincoat Long~
+a long raincoat~
+The long raincoat shuns all water.~
+~
+9 35 0 0 ak
+7 35 0 0 0 0
+8 5100 0
+E
+Long raincoat~
+   The raincoat is made out of some very thin and very polished skin that
+has been in the oil impregnation barrel for a very very long time. The
+water almost seems to avoid it on its way down. It will not keep you warm
+though, but very very dry.
+~
+#13265
+Southwest Sou'wester sou wester~
+the latest gnome rain fashion, a sou'wester~
+The gnomish sou'wester make the rain go away.~
+~
+9 0 ksamie 0 ae
+2 0 0 0 0 0
+1 2111 0
+E
+Southwest Sou'wester sou wester~
+   An odd gnomish hat. They are known to create odd things and this is
+their own, very special rain hat. It is a skin-hat that is worn tight on
+the head after is has been dipped in fat from the yak farm research
+centre. It keeps everything and everyone on a safe distance. Well maybe
+not flies.
+~
+A 6 -2
+#13266
+Trousers Thick~
+some thick furlined trousers~
+Some thick trousers has been lined with fur.~
+~
+9 35 0 0 af
+7 35 0 0 0 0
+6 6790 0
+E
+thick trousers~
+   The thick furlined trousers look like a furry tube broken in half
+almost completely. Attach a nice pair of suspenders and you will be able
+to move almost freely in them as well. A bit warm perhaps in summer, but
+they look real nice, that is if you are into furs.
+~
+A 14 -20
+A 6 +2
+A 21 +3
+#13267
+boots Small warm~
+some small warm boots~
+The boots look a bit small but they just might fit anyway.~
+~
+9 30 0 b ag
+4 30 0 0 0 0
+5 400 0
+E
+Small warm boots~
+   The boots are almost too small for you, but they sure look nice and
+comfortable. Soft skin from a no longer woollen creature, line the inside
+just to make sure it is smoother for your feet to walk around in them.
+~
+A 14 +60
+A 21 +2
+#13268
+Woolen full body undergarments red~
+#Ra full set of red undergarments#N~
+#RA full set of red undergarments was apparently not preferred.#G~
+~
+9 0 0 a adk
+1 2 0 0 0 0
+12 20 0
+E
+Woolen full body undergarments~
+   #RBright red, this woolen full body underwear sure attracts attention
+even when not worn. It would keep you warm and itchy in most weathers and
+climates. It even comes with a neat little opening in the rear in case of
+emergencies.#N
+~
+A 2 +2
+A 6 +1
+#13269
+bottle Sun Tan suntan~
+a bottle of Sun Tan~
+A bottle of suntan has not been used yet.~
+~
+10 36 0 a ao
+40 95 -1 -1 0 0
+3 1200 0
+E
+bottle Sun Tan suntan~
+   A bottle of brownish liquid for you to smear all over your body to get
+an even colour. It could be used as a camouflage appliance if you are
+more the sneaky type. A ruder name on this is 'Brown without soap'
+~
+A 20 -7
+#13270
+bottle Sun Block~
+a bottle of sun block~
+Some smear-on sunblock looks pretty pale.~
+~
+10 14 0 0 ao
+37 8 -1 -1 0 0
+2 12000 0
+E
+bottle Sun Block~
+   A bottle holding a whitebluish liquid. A liquid that is to be
+applied thickly to all and every skin surface exposed to the light.
+Failure to comply to this means no full protection against the dangerous
+sunlight.
+~
+A 20 +3
+#13271
+Chunk Meat~
+a chunk of Meat~
+Someone left a chunk of meat behind.~
+~
+19 0 0 0 a
+6 0 0 0 0 0
+1 11 0
+E
+Chunk Meat~
+   Flesh and muscle tissue with some pieces of bone. Apparently a
+result of some unfortunate fumble in the chopshop by some now long gone
+apprentice. Wonder how far he got, or how well spread he became...
+~
+#13272
+Bloody mess~
+a bloody mess~
+Do not slip in the bloody mess.~
+~
+19 0 0 0 a
+12 0 0 0 0 0
+2 20 0
+E
+Bloody mess~
+   Gore, blood and tissue in an awful mess. There even seems to be some
+part of the entrails stuck in there too. If you even mention the name of
+this now, ehh, missing butcher wannabe in Fritz' Slaughterhouse in the
+Dwarven Undermountain Harbour Town, you could very well end up having a
+face like this.
+~
+#13273
+Raw snake~
+a raw snake~
+Some carefully prepared raw snake awaits your dinner table.~
+~
+19 0 0 0 a
+5 0 0 0 0 0
+2 24 0
+E
+Raw snake~
+   Gutted and skillfully pealed, a long string of meat awaits your
+cooking tools. Prepared the correct way it sure can be a very tasty dish.
+~
+#13274
+Raw deer~
+a raw deer~
+Some carefully prepared raw deer awaits your dinner table.~
+~
+19 0 0 0 a
+20 0 0 0 0 0
+3 46 0
+E
+Raw deer~
+   The body of a deer is opened up and cleared from all organs and
+entrails. The skin has been removed as well and has probably gone to a
+garvery somewhere. Rest is about 100 pounds pure deer steak awaiting long
+hours, slowly turning over a open fire, surrounded by many eagerly
+awaiting dinner guests.
+~
+#13275
+Raw duck~
+some raw duck~
+Some carefully prepared raw duck awaits your dinner table.~
+~
+19 0 0 0 a
+16 0 0 0 0 0
+3 31 0
+E
+Raw duck~
+   The duck does not really look like duck any more. All feathers are
+gone, the head and the feet as well. A big opening in the body's lower
+part is the only trace of it being gutted. Stuff in some herbs and some
+fat, perhaps garlic butter, and roast it slowly in an oven for a while
+and you can look forward to a real feast.
+~
+#13276
+Raw cow~
+a raw cow~
+Some carefully prepared raw cow awaits your dinner table.~
+~
+19 0 0 0 a
+30 0 0 0 0 0
+7 90 0
+E
+Raw cow~
+   It must have taken a while to prepare the cow like this. It must
+have taken a while only to get rid of the removed parts! The whole lower
+part, belly, legs etc, has been cut away as well as all the skin. What is
+left is mere meat and bones. Enjoy.
+~
+#13277
+Raw horse~
+a big piece of raw horse~
+Some carefully prepared raw horse awaits a lot of dinner tables.~
+~
+19 0 0 0 a
+50 0 0 0 0 0
+10 150 0
+E
+Raw horse~
+   The biggest food unit available in Fritz' Slaughterhouse. A whole
+horse minus head, skin and the entrails measures up to one REALLY big
+piece of meat. One human would never be able to eat it whole without
+spoiling the bigger part of it, either by decay or due to his own
+exploded belly.
+~
+#13278
+Elf Raw~
+a prefectly prepared piece of raw elf~
+Someone became brutish with someone else and left but flesh and bones...~
+~
+19 0 0 e a
+24 0 0 0 0 0
+5 11001 0
+E
+Raw Elf~
+   A real delicacy, especially manufactured for the trollish population
+and a few cannibalistic drows that have developed a taste for their
+own kind. Some special orders from distant restaurants also show here
+once in a while. The body is neatly opened up and decapitated to avoid
+any family interference. It even got a thin layer of cinnamon scented
+honey smeared all over it to increase the marvellous taste.
+~
+#13279
+map Harbour~
+the Harbour map~
+A map of the Dwarven Undermountain Harbour Town harbour.~
+~
+16 10 0 0 ao
+0 0 0 0 0 0
+2 100 0
+E
+Harbour map~
+
+                     |
+         |     |     |
+        -|-----|-----|
+         |  F  |  F  | .
+         | F F | F F P .
+         |  F  |  F  | .
+   D-----|-----|-----O
+         |  F  |  F  | .
+         | F F | F F P .
+         |  F  |  F  | .
+      ---|-----|-----|
+         |     |     |
+        -|           |
+
+D Drop point
+O Outshipping
+P Person outshipping
+F Fritz' place
+. The harbour basin
+ (no swimming allowed)
+
+~
+#13280
+Exit Map home~
+the exit map~
+A limited map over the Dwarven Undermountain Harbour Town surroundings.~
+~
+2 1 0 0 ao
+12 42 -1 -1 0 0
+2 1200 0
+E
+Exit Map~
+
+                                 T1
+
+                        |N
+                        |
+      D-----------------|
+            |
+            |
+            |
+            |                     T2
+           ---
+            C
+
+D Drop Point
+N Nortern Continent passenger ship's landing place
+T1 Northern exits of the traffic channel
+T2 Southern exits of the traffic channel
+C the Chasm
+~
+E
+Home~
+
+  Home Sweet Home.
+
+~
+#13281
+rope Long~
+a long rope~
+A long rope lies curled up on the ground.~
+~
+12 25 0 w ak
+25 0 0 0 0 0
+30 1800 0
+E
+Long rope~
+   Long ropes can come in handy when climbing mountains, rescuing people
+from holes in the ice or when trying to keep track of prisoners just to
+mention a few examples. This rope is half an inch wide and very long. How
+long exactly you will only find out if you get someone to deroll the roll
+it is rolled into. The fibres stick together as if glued but it is still
+very flexible. A real craftmanship.
+~
+A 5 +2
+#13282
+rope short~
+a short rope~
+A shorter rope can become dangerous.~
+~
+5 12 amienhpl b aon
+12 1 3 3 0 0
+6 980 0
+E
+short rope~
+   A short rope can come in handy at many occasions, like when you want
+to tie your bags up or when you want to show off how drunk you are. The
+rope, a quarter of an inch wide, has its fibres bonded together really
+close, but it is still very, very flexible. The work of a really skilled
+and experienced rope weaving artist, that is for sure.
+~
+A 19 +3
+A 18 +1
+#13283
+Rope fibre~
+a rope fibre~
+One essential piece of rope has lost its friends.~
+~
+12 66 0 g ao
+66 0 0 0 0 0
+1 6000 0
+E
+Rope fibre~
+   As the smallest component of the gnomish ropeweavers ropes, the rope
+fibre is of excellent quality. This fibre is quite rough and would be
+excellent to bond to similar fibres. It would also give the user a good
+grip when the robe was done. The usage of fibre for other appliances is
+rather limited but it sure should be usable as something else, dunno what
+though...
+~
+#13284
+Robe ninja priest~
+a ninja priest robe~
+An almost invisible and camouflaged robe was brutally removed from its
+rightful owner.~
+~
+15 100 acdefghijklmnop p ak
+60 1 -1 0 0 0
+12 36000 0
+E
+Robe of a ninja priest~
+   The robe is more like a hooded poncho, perfect for hiding weaponry,
+scrolls and potions in. The robe is coloured in natural dark grey colours
+to make sure it blends in with most surroundings. The robe is made of a
+very smooth silky materiel that does not give fold marks or make any
+sound when moved or rubbed together.
+~
+A 17 -10
+A 9  +50
+A 12 +100
+A 2  +2
+B s
+#13285
+PickAxe deep gnome DeepGnome~
+a DeepGnome PickAxe~
+The favourite choice of deep gnomes, the pickaxe, shines wickedly at you.
+~
+~
+5 90 djfnhplamie gj aon
+90 7 7 11 0 0
+13 15012 0
+E
+deep gnome DeepGnome PickAxe~
+   The favourite weapon of the deep gnomes. Equally good at hacking off
+mountain parts, bashing away legs or deeply piercing through heavy
+armour. A devastating weapon in the hands of a skilled user. Still it is
+constructed in a simple way, just a pointy metal head with a short wooden
+handle.
+~
+A 19 +8
+A 18 +13
+#13286
+Rod Ruling~
+the Rod of Ruling~
+The Dwarven Harbour Town mayor's rod of ruling awaits his grip.~
+~
+4 56 cksfdhpl kgi ao
+109 1 1 7 0 0
+4 20000 0
+E
+Rod ruling~
+   The sign of supreme power over the Dwarven Undermountain Harbour Town
+citizens. It should only be held by the voted official and noone else. It
+is merely a macelike iron stick with the harbour emblem on it as a
+blessing from the community.
+~
+E
+emblem~
+ The emblem is a big sailing vessel on water but with a mountain as a
+sail. Must have been a dwarf that invented this emblem...
+~
+#13287
+Harness Guard~
+a harness of a dwarf town guard~
+One official harness of the harbour town guards awaits a new owner.~
+~
+9 80 ckgosbjflamie 0 ad
+30 80 0 0 0 0
+40 8000 0
+E
+Guard Harness~
+   In this you would look proud and handsome. Your body configuration
+would be forced to it, as it would attain such a stiff and rigid position
+inside this armour, when worn properly. It is not the best metal plate in
+the world but it sure looks nice.
+~
+A 2 -2
+A 6 +2
+#13288
+White shoes~
+stainfree white shoes~
+A pair of white shoes is ready to be stepped into.~
+~
+11 15 ndhplo 0 ag
+15 0 0 0 0 0
+3 2000 0
+E
+White shoes~
+   The small white summer shoes look rather new. Perhaps the previous
+owner did just have one chance to use them before they were brutally
+taken from him. It is a nice pair of shoes with a leather sole and cloth
+upper part ie a real nice pair of shoes to go touristing in.
+~
+A 14 +30
+A 17 -1
+#13289
+Sunhat~
+a Sunhat~
+A nice straw sunhat would be nice under a shining sun.~
+~
+11 6 ndhpl 0 ae
+6 0 0 0 0 0
+0 700 0
+E
+Sunhat~
+   If you want to avoid overheating of the head and the sometimes grim
+beams of the sun, why not invest in a hat like this? It is woven by thin
+straws in especially prepared hay or cane, you are not sure. The hat fits
+perfectly and is very light, almost weightless.
+~
+A 17 0
+#13290
+Fluffy slippers~
+the fluffy slippers of pain (TERROR)~
+These great terror devices, with fluff, would terrorize not only your
+feet.~
+~
+11 79 ksbndhpla oej ag
+79 0 0 0 0 0
+1 16000 0
+E
+Fluffy slippers~
+   These high healed three-way terror devices would fit only the smallest
+and neatest of feet. It is made of a heel, a sole and a fluffy part
+that should go around your foot. Walking in them is a skill of its own
+and can only be mastered by those that really devote themselves to it.
+~
+A 18 -1
+A 19 +3
+A 17 +2
+A 14 -30
+#13291
+sunhat Wide brimmed~
+a wide brimmed sunhat~
+A very wide-brimmed sunhat is the almost perfect sunscreen.~
+~
+11 13 ndhpl 0 ae
+13 0 0 0 0 0
+0 2000 0
+E
+Wide brimmed sunhat~
+   The sunhat is at least a yard wide with flowers attached to the pink
+ribbon that go around the head bulge. Keeping it on the head in the
+slightest of winds can not be easy as it is not only big but weighs
+nearly nothing. And yes indeed some small holes after hairpins can be
+seen puncturing the hat.
+~
+E
+flowers flower~
+   The flowers are fresh and must have been placed within the ribbon not
+too long ago. They smell nice too.
+~
+A 24 +1
+A 18 -2
+#13292
+Ultrabig Sunglasses~
+a pair of Ultrabig Sunglasses~
+No light will slip through these ultrabig sunglasses.~
+~
+9 16 0 c ae
+4 16 0 0 0 0
+2 2000 0
+E
+Ultrabig Sunglasses~
+   Big sunglasses, big coolness maybe, but this is well beyond that. Five
+inch wide, each of the very darkened glasses sits in their incredibly
+well-manufactured metal arcs. Must have been real expensive to produce,
+but they efficiently block out every light beam around, so maybe it was
+worth it.
+~
+A 22 +3
+B a
+#13293
+spear Cityguard~
+the spear of a undermountain cityguard~
+The long spear of the harbour cityguards has noone guarding it any more.~
+~
+5 75 cksbjfamie kj aon
+75 3 20 11 0 0
+15 6000 0
+E
+Cityguard spear~
+   One and a half meters of wooden stick ending in a super-pointy edge
+made of hardened iron. Efficient and cheap. No cityguard of the Dwarven
+Undermountain Harbour Town would willingly part from it as it works as an
+identification between the different guards and of course because the
+paperwork for acquiring a new one is so very cumbersome and tiring.
+~
+A 18 +6
+A 19 +8
+#13294
+trunk big~
+a really big trunk~
+Some emigrant left his really big locked trunk behind.~
+~
+15 1 0 dw a
+1 13 -1 0 0 0
+80 800 0
+E
+big trunk~
+   The trunk has been hauled around even though it weighs so much. It is
+a very sturdy chestlike trunk with heavy escutcheons. The lock looks very
+complex and there is a clear need to get hold of the right key to unlock
+it. Perfect thing to move things around in if you do not want them to be
+stolen during the trip by some raiding adventurers.
+~
+#13295
+waterglass water Big glass~
+a waterglass~
+A really big waterglass seems solid enough.~
+~
+17 0 0 0 ao
+1 1 15 0 0 0
+10 17 0
+E
+waterglass Big glass water~
+   What a big glass of water! It has thick walls and a really massive
+lower end. This unfortunately increases the weight and reduces the
+maximum volume of the content, but you already paid for it so now it
+is too late. But the water look tasty and seems clear and fresh.
+~
+#13296
+boots small soft~
+a pair of Boots size one~
+No wonder someone left these boots behind as they are but an inch big.~
+~
+9 35 ndhpamie g ab
+7 35 0 0 0 0
+2 6000 0
+E
+small soft boots~
+   Boots size two inch - combined. That is not big. Noone but an infant
+child may be able to have them on their feet. They look nice though with
+a soft thin leather sole and a cover that feels like the smoothest of
+silks. Maybe they can be useful as something anyway.
+~
+A 14 +50
+A 2 +1
+#13297
+Boots Big soft~
+some big soft boots~
+A pretty large pair of soft boots stand together.~
+~
+9 44 0 0 ag
+8 44 0 0 0 0
+8 8000 0
+E
+Big soft boots~
+   Luckily these boots seems to fit well as it really is a nice pair.
+A thick leather sole combined with a rough cloth tightly woven as
+an upper part. A really nice walking shoe.
+~
+A 14 +40
+#13298
+Shoulder pads~
+a pair of shoulder pads~
+A pair of shoulder pads smells faintly of fungus.~
+~
+9 60 amiebjf 0 ai
+12 60 0 0 0 0
+12 9000 0
+E
+Shoulder pads~
+   Layer upon layer of cloth, sewn tightly together at the side and then
+filled with some fluffy fungi from the bottom of the sea. Worn over the
+shoulders they give nice protection when carrying heavy loads. No more
+red aching shoulders and collar bones for you, at least not from sharp
+edges.
+~
+A 1 +2
+A 2 +2
+A 5 +2
+#13299
+whip boatloader~
+the whip of a boatloader~
+A clear evil aura surround the whip of boatloaders.~
+~
+5 65 0 ejl an
+65 1 40 2 0 0
+6 23000 0
+E
+boatloader whip~
+   Intimidating in apperance and making a really impressive sound when
+snapped in the air, or over someone's back. Short robust handle and one
+long meandering whip-string. This weapon is not made to cause damage as
+one does not want to seriously harm the loaders, they are after all the
+ones that do all the work and the one whipping would not like to replace
+them himself.
+~
+A 19 -2
+A 18 +14
+#99999
+$~

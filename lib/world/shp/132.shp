@@ -1,0 +1,585 @@
+#13230~
+13201
+-1
+1.
+0.1
+-1
+%s Oh no, that is way out of your league.~
+%s Dear friend, you do not have that.~
+%s I prefer to trade in more unique stuff.~
+%s IF YOU SEE THIS-PLEASE REPORT AS IT IS A BUG/ Glob.~
+%s Someone stole your wallet?~
+%s Enjoy your stay.~
+%s IF YOU SEE THIS-PLEASE REPORT AS IT IS A BUG/ Glob.~
+1
+1
+13230
+0
+13269
+0
+13
+13
+24
+#13252~
+13295
+-1
+1.3
+0.1
+17
+-1
+%s Oh dear, just ran out of those.~
+%s You said you are selling what?~
+%s I don not buy such junk.~
+%s Hey! Someone stole my wallet.  GUARDS!!!~
+%s Someone stole your wallet too?~
+%s There you go.~
+%s Now just don't stand there wiggling it - move on.~
+1
+1
+13252
+0
+13244
+0
+13
+13
+24
+#13253~
+13296
+13297
+-1
+1.3
+0.8
+11
+-1
+%s Who said I sold that?~
+%s Me buy that - BIG Doubt.~
+%s Me buy - Doubt that.~
+%s There must be a thief here amongst us. Got no money.~
+%s You poor little peasant.~
+%s Me sell - Be happy.~
+%s OK, just this once then.~
+1
+1
+13253
+0
+13243
+0
+13
+13
+24
+#13254~
+13298
+-1
+1.3
+0.1
+-1
+%s Me no have.~
+%s You no have.~
+%s Me no want.~
+%s ME kill that Thief - Arghaaaa!!!~
+%s Get Mo Money!!!~
+%s Come back to Wendy-May.~
+%s Dunno, but OK.~
+1
+1
+13254
+0
+13245
+0
+13
+13
+24
+#13266~
+-1
+7.3
+0.1
+-1
+%s Sorry, out of stock. Go see the harbour officials.~
+%s Is that a bribe?~
+%s Is that a bribe?~
+%s Sorry, I do not carry that amount of money.~
+%s Better go visit a bank before you return.~
+%s You are now free to leave the harbour. Thank you for your donation.~
+%s Just this one thing then.~
+1
+1
+13266
+0
+13225
+0
+13
+13
+24
+#13280~
+13210
+13211
+13212
+13213
+-1
+1.3
+0.8
+10
+4
+-1
+%s My friend, that is not available at the moment.~
+%s My friend, that is not possible at the moment.~
+%s This item is in better need somewhere else.~
+%s My funds has run out. I am so sorry.~
+%s My friend, I have to take out a moderate fee.~
+%s Enjoy the item as We will you grateful donation.~
+%s I will share this with my ecumenical community.~
+1
+1
+13280
+0
+13280
+0
+13
+13
+24
+#13281~
+13213
+13214
+13215
+13216
+13217
+13219
+13221
+13222
+-1
+1.3
+0.7
+22
+-1
+%s Ooops, that little toolie is out.~
+%s ...and you said you wanted to sell what?~
+%s Others are in charge of those products.~
+%s Ran out of funds.~
+%s We do have a price level.~
+%s It will suit you fine.~
+%s I just might find some need for that.~
+1
+1
+13281
+0
+13281
+0
+13
+13
+24
+#13282~
+-1
+1.3
+0.1
+-1
+%s Oh no, that surely is not for you.~
+%s Hey there! Stay off the wares.~
+%s Hey there! Stay off the wares.~
+%s Ooops, my pets have been into the treasury again, nothing left.~
+%s Hey. Nothing is free.~
+%s Enjoy your new friend.~
+%s Hey there! Stay off the wares.~
+1
+1
+13282
+0
+13282
+0
+13
+13
+24
+#13237~
+3001
+13177
+9820
+-1
+1.3
+0.1
+-1
+%s You see that item on the menu? Think I have to charge you the
+ double.~
+%s I am not much for used items.~
+%s I am not much for used items.~
+%s Just spilled a beer on the money, you can not get any now.~
+%s Hey!! We do not do charity in this bar.~
+%s There you go.~
+%s I am not much for used items.~
+1
+1
+13283
+0
+13237
+0
+13
+13
+24
+#13284~
+13228
+-1
+1.3
+0.1
+-1
+%s We do not supply that service.~
+%s I do doubt you have anything that might be of any interest for us.~
+%s I do doubt you have anything that might be of any interest for us.~
+%s We are currently out of funds. Please return later.~
+%s How about you start working for the money you need.~
+%s Hope you enjoyed your visit.~
+%s I do doubt you have anything that might be of any interest for us.~
+1
+1
+13284
+0
+13284
+0
+13
+13
+24
+#13285~
+13229
+13230
+13231
+13232
+13234
+13235
+13236
+13237
+13238
+13239
+-1
+1.1
+0.01
+13
+-1
+%s You can not hear this as the room has such a loud soundlevel.~
+%s You can not hear this as the room has such a loud soundlevel.~
+%s You can not hear this as the room has such a loud soundlevel.~
+%s You can not hear this as the room has such a loud soundlevel.~
+%s You can not hear this as the room has such a loud soundlevel.~
+%s You can not hear this as the room has such a loud soundlevel.~
+%s You can not hear this as the room has such a loud soundlevel.~
+1
+1
+13285
+0
+13285
+0
+13
+13
+24
+#13286~
+3001
+13225
+13227
+-1
+1.2
+0.1
+-1
+%s We have a lot of other stuff that might interest you.~
+%s A what?!~
+%s Did you lick on that? - BLEEH!~
+%s No money. Ask Fritz instead.~
+%s A bit cheap, are we?~
+%s Now be careful with that.~
+%s Never though I ever do this.~
+1
+1
+13286
+0
+13286
+0
+13
+13
+24
+#13287~
+-1
+1.3
+0.1
+19
+20
+-1
+%s I dont to that. I am on vacation you see.~
+%s You do not have that. You on vacation too?~
+%s Gear just mean work, maaan. I am on vacation.~
+%s Now where is the money? Hmmm, must have spent it all on these drinks.~
+%s Better save your money. You wont afford a vacation otherwise.~
+%s There you go. Wanna zip of my drink as well?~
+%s OK, OK. Just this once then.~
+1
+1
+13287
+0
+13287
+0
+13
+13
+24
+#13288~
+-1
+4.3
+0.1
+-1
+%s Ran out of those. Want anything else?~
+%s Now there, Kiddo. You do not have that.~
+%s I really has no need for that, little child.~
+%s Pretty low on funds today, perhaps you better ask someone else.~
+%s Sorry, prices are fixed.~
+%s A something for you, anything else?~
+%s Just because you need the money.~
+1
+1
+13288
+0
+13288
+0
+13
+13
+24
+#13289~
+13240
+13241
+13242
+13243
+13244
+13245
+13246
+13247
+13248
+-1
+2.0
+0.4
+19
+-1
+%s Baah, Got rid of those long time ago.~
+%s What!?! Study your bags better, you little twitt.~
+%s Crappy stuff, you have...~
+%s Hey! Where is my money? Give 'em back!   GUARDS!!!~
+%s Looser!~
+%s Enjoy.              Hehe.~
+%s You are making a bargain, you know that, don't you.~
+1
+1
+13289
+0
+13289
+0
+13
+13
+24
+#13290~
+13249
+13250
+13251
+13252
+13253
+-1
+1.2
+0.7
+19
+-1
+%s I appears I have emptied my stock of those of those particular items.~
+%s Where is the bread?~
+%s I deal in my own bread only.~
+%s OH NOO!!! I have sold the loaf I store my money in.~
+%s You do not have the doe, tiny.~
+%s Want me to put the newbought in a bag?~
+%s Another bread, yeah yeah...~
+1
+1
+13290
+0
+13290
+0
+13
+13
+24
+#13291~
+13257
+13256
+13255
+13254
+-1
+1.3
+0.8
+17
+-1
+%s Have to get that from my storage. You better wait to another time.~
+%s You are selling what?~
+%s Sorry I only trade in waters and thier storage facilities.~
+%s I am not made of money, you know.~
+%s Poured out too much from the money pouch have we?~
+%s There you have one.~
+%s Sellin a used water container. What is the world coming too?~
+1
+1
+13291
+0
+13291
+0
+13
+13
+24
+#13292~
+3083
+3052
+13261
+13260
+13259
+13258
+-1
+1.3
+0.8
+2
+3
+-1
+%s Do you see that around here?~
+%s Do you see that around here?~
+%s Do you see anything similar to that around here?~
+%s Asch, now the money has gone invisible again. Come back tomorrow.~
+%s Your money seems invisible. Hehe.~
+%s That stuff is very useful I must say.~
+%s Well, well, I put it up for display.~
+1
+1
+13292
+0
+13292
+0
+13
+13
+24
+#13293~
+13262
+13263
+13264
+13265
+13266
+13267
+13268
+13269
+13270
+-1
+1.3
+0.9
+11
+-1
+%s Sorry run out of cloth.~
+%s If you want to sell it. Bring it forth.~
+%s Clothing is my thing, not that.~
+%s You see a black pair of trousers somewhere, my wallet is in those.~
+%s To sad you do not have the money. They sure would fit you perfectly.~
+%s Fits perfectly.~
+%s A few stiches and that should be as new.~
+1
+1
+13293
+0
+13293
+0
+13
+13
+24
+#13294~
+13278
+13277
+13276
+13275
+13274
+13273
+13272
+13271
+-1
+1.3
+0.6
+25
+-1
+%s Bring forth a live one and I'll cut it up for you.~
+%s Just let me get this piece of cow out of my ear, then tell me again.~
+%s I do not trade that. I am into meat.~
+%s Hmmm, no money. You take blood?~
+%s You have no money. Would you mind selling one of your legs?~
+%s Now that is food for a real adventurer.~
+%s I will not ask where you got it.~
+1
+1
+13294
+0
+13294
+0
+13
+13
+24
+#13295~
+13280
+13279
+-1
+1.3
+1.0
+16
+-1
+%s Just that particular map is out of stock.~
+%s Ehh, what did you say?~
+%s IS that really a map?~
+%s How about you buy something instead?~
+%s You do not have the money. Bring me a map and Ill give you some.~
+%s I am sure you will find it useful.~
+%s I am sure I will find that useful, somehow. Here is %d.~
+1
+1
+13295
+0
+13295
+0
+13
+13
+24
+#13296~
+13223
+13226
+-1
+1.2
+0.1
+-1
+%s We have a lot of other stuff that might interest you.~
+%s A what?!~
+%s Did you lick on that? - BLEEH!~
+%s No money. Ask Fritz instead.~
+%s A bit cheap, are we?~
+%s Now be careful with that.~
+%s Never though I ever do this.~
+1
+1
+13296
+0
+13286
+0
+13
+13
+24
+#13297~
+13281
+13282
+13283
+-1
+1.3
+0.7
+5
+-1
+%s Do not have that.~
+%s YOU do not have that.~
+%s And how could that become useful for ropemaking?~
+%s Aint that rich, wished I was.~
+%s Go get some money.~
+%s It is a real marvel and well worth the money.~
+%s %d is not that bad for this.~
+1
+1
+13297
+0
+13297
+0
+13
+13
+24
+#99999
+$~

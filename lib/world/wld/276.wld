@@ -1,0 +1,383 @@
+#27600
+#BT#YR#MI #BClan Gates#N~
+   You have come upon the front gate of the Tri Clan House. Upon the 
+gate you see a plaque. There is also a portal to the west with an odd 
+looking triangle on it.
+~
+276 cuz 0
+D0
+You see the main meeting area of the house. 
+~
+~
+0 -1 27601
+D3
+Back to town!
+~
+portal~
+11 -1 3070
+S
+#27601
+#BT#YR#MI #BClan Meeting Hall#N~
+   You find yourself in a room that glows with a light of its own. 
+Around you are beautiful paintings of mighty Tri Elders in battle. 
+You feel at home here and know that this is a place to rest were you 
+can get away from the busy mud traffic. On one wall is a large 
+fireplace that adds to the glow of the room.  This room is large 
+enough to hold the entire clan and has ample seating for any clan 
+meeting if need were to arise. 
+~
+276 duz 0
+D1
+You see a comfortable looking lounge. 
+~
+~
+0 -1 27603
+D2
+The front gate of Tri House 
+~
+~
+0 -1 27600
+D3
+You see what looks like a storage room. 
+~
+~
+0 -1 27602
+S
+#27602
+#BStorage and Donations Room#N~
+   You are standing in the Donations room. Please help out your 
+fellow clan members and leave your unused or unwanted equiptment 
+here. 
+~
+276 duz 0
+D1
+You see the clan meeting hall. 
+~
+~
+0 -1 27601
+S
+#27603
+#BT#YR#MI #BLounge#N~
+   You enter a comfortable lounge area decorated in relaxing colors 
+and patterns. This is a great place to get away for a while, kick up 
+your feet and just relax or have a nice conversation. Around you are 
+chairs and couches provided for your comfort. 
+~
+276 dtuz 0
+D1
+You see a pub. 
+~
+~
+0 -1 27604
+D3
+You see the main meeting area. 
+~
+~
+0 -1 27601
+D4
+~
+~
+0 -1 27606
+S
+#27604
+#BT#YR#MI #BClan Pub#N~
+   Here you find the perfect pub. Around you are your friends, the 
+beer is good and there is no phone, so you dont have to worry about 
+calling the wife. Enjoy while you are here.
+§N~
+276 duz 0
+D2
+You see a door to the back alley. 
+~
+door~
+9 -1 27605
+D3
+To the west is the lounge. 
+~
+~
+0 -1 27603
+S
+#27605
+#BBack Alley#N~
+   Ok, you come out here for a reason, so lets get at it. If you got 
+a problem this is were to solve it. Just remember, there are no rules 
+in street fights. 
+~
+276 druz 0
+D0
+The back door of the pub is here. 
+~
+door~
+9 -1 27604
+S
+#27606
+#BT#YR#MI #Bhallway#N~
+   You have reached the inner sanctum of the TRI clan house.  All 
+around you are the doors that lead to the personal rooms of the TRI 
+Dominators.
+§N~
+276 duz 0
+D0
+~
+door~
+1 -1 27608
+D1
+~
+~
+0 -1 27609
+D2
+~
+door~
+11 -1 27614
+D3
+~
+~
+0 -1 27610
+D4
+~
+door~
+1 -1 27613
+D5
+~
+~
+0 -1 27603
+S
+#27607
+#BAngulion's Corner#N~
+   The room is filled with the odour of the many roses around and you 
+get a strange feeling of happines and honour towards the clan.  From 
+the ceiling, which glows with unearthly colors, hangs a huge skull of 
+a dragon.  In the middle of the room is a well-laid table with roses 
+and candles on it.  On the east wall hangs a rack with many unique 
+weapons and armors.  By the west wall are bookshelves filled with 
+books containing the secrets of magic and skills.  In the north wall 
+is an alcove with a king size bed. Above the bed is a picture of a 
+very lovely girl.  In the south wall is something that seems like a 
+window, through which you see strange wagons moving fast, hoovering 
+above the ground, there are also huge glass like towers, could it be 
+a distant future?
+§N~
+276 dejouz 0
+D5
+~
+~
+11 -1 27609
+E
+candle~
+The candles burn with a clear light. They seem as if the would have
+just been lighted.
+~
+E
+candles~
+The candles burn with a clear light. They seem as if the would have
+just been lighted.
+~
+E
+rose~
+The roses are of a varity of colors, but a large part are in the 
+shades of red.
+~
+E
+roses~
+The roses are of a varity of colors, but a large part are in the 
+shades of red.
+~
+E
+picture~
+Under the picture reads 'Anna' in golden letters.
+~
+S
+#27608
+#BOgy's Room#N~
+   You have entered the room of one of the TRI clan leaders, the 
+honorable and humble Ogy. The room is filled with a wide variety of 
+art and artifact depicting the areas of skill and knowledge, that Ogy 
+has chosen to gain power, honor, and glory, in the name of the 
+mightiest of all the clans, the TRI clan.
+   Against the east wall you see a large and luxurious waterbed, so 
+large in fact, you could lay two people end to end and still not span 
+the length or width of this masterpiece of aquatic hybernation. On 
+the wall above the bed is a large portrait of Ogy in battle against 
+the nearly indestructable "ferocious killer rabbit".
+   On west wall can be seen a large rack holding a vast arsenal of 
+weapons.  It contains practically every type of weapon imaginable. 
+You shiver at the thought that any one person could be their master.
+   Near the west wall is large cabinet. Peering within you see a 
+enormous assortment of healing and recupritive items. Seen are, 
+scrolls, potions, vials, herbs, and several other items you've never 
+seen before. It is quite clear that Ogy is not just a run of the mill 
+healer, but is instead well versed in the healing arts.
+   A bookcase stands against the entire north wall. It contains 
+volume after volume of magical knowledge from times long forgotten 
+upto the present day.  Mastering the knowledge contained in just a 
+few of these precious tabloids would most certainly make any man one 
+of the most powerful magic-users in the land.  Your mind reels to 
+think of the person who could master them all.
+§N~
+276 djuz 0
+D2
+~
+door~
+11 -1 27606
+S
+#27609
+#BT#YR#MI #BHallway#N~
+   You have reached the inner sanctum of the TRI clan house.  All 
+around you are the doors that lead to the personal rooms of the TRI 
+Dominators.
+§N~
+276 duz 0
+D0
+~
+door~
+11 -1 27611
+D2
+~
+door~
+11 -1 27612
+D3
+~
+~
+0 -1 27606
+D4
+~
+door~
+11 -1 27607
+S
+#27610
+#BThe seventh side of truth...#N~
+The best day of my life was with you, on that
+summer warm beach, remember?...with some people  
+in the distance, still... we weren't feeling very disturbed
+with that, for a change. That sweet low breeze, really
+was a gift from the gods, and the way it balanced your
+hair made the impossible thought of loving you more,
+could i die there and justice was made on my life...
+Yet, the very shadow of misfortune hanged around
+our very heads... we knew about the next day and
+i can't think how we could find such a peace on such
+a dreadfull moment. The next day the dream was over.
+How can i survive? I guess im finding out...
+- Here lives Kidd, still searching...
+  to Mijke                            
+~
+276 duz 0
+D1
+~
+door~
+11 -1 27606
+S
+#27611
+#BThe Sept of a Deep One.#N~
+   You are in a small clearing in what seem to be a endless forest. 
+Strange, you think as you are sure that this is within the walls of 
+the TRI-clanhouse. But considering it is the home of Egba Glob, you 
+are not really surprised. The climate in here is very moist and you 
+feel really refreshed. In the centre of the clearing is a small 
+statue of some very odd deity. It is surrounded by large heaps of 
+gold and jewellery, weapons, bloodstenched armours and one or two 
+dismembered peasants. This surely is: the Home of Egba Glob the Furry 
+Deep One.
+~
+276 djuz 0
+D2
+~
+door~
+11 -1 27609
+E
+statue~
+The statue shows a strange entity.
+A massive body with large pods,
+crude arms, huge leathery bat wings 
+and a head that looks like a gigantic octopus. 
+And the eyes.......
+
+You hear yourself say : CHUTHULU !!!  I hear and obey !
+~
+S
+#27612
+#BHath's Lair#N~
+   What is this!? - You wonder as you step inside his lair. The room 
+that from the outside looked so warm and cozy has turned into an icy 
+and dark lair as you step over the threshold. Gloom and sadness is 
+lurking here in the shadows, making you feel uncomfortable.  It's 
+cold here, so very cold. A chilly wind is blowing from nowhere.  A 
+large bed is placed in the middle of the lair. Above the bed there is 
+circular window in the roof, from there you can see the dark starlit 
+sky and the Northern lights dancing seductively. In the middle of the 
+bed you can see an old torn teddy-bear. You smile a bit as you see 
+it. Everyone, no matter how strong, needs some comfort and support 
+when times are tough.
+   On one of the Icy walls you can see a carving of a red dragon on a 
+snow-covered mountain top. There are a Sun and a Moon on each side of 
+the mountain, facing each other. From the dragon's nostrils and 
+mouth, a cone of cold can be seen as it breaths. It is probably the 
+first time you've seen a red dragon breathe something other than 
+fire. The carving looks very much alive and you can almost feel the 
+serpent eyes watch you as you move along. Strange indeed.
+   Then on the floor under the bed you can see a half-written book 
+about the clan called TRI. "Hath's guide to TRI" it's called. You 
+open it andread the first lines in the introduction.
+
+"This is the book written by me, Hath. I am a TRI in heart and will 
+always be no matter what. Of me you can ask the way of a true TRI, 
+beginner as a master, lawful or chaotic. Everyone is welcome.
+Here the story begins..."
+~
+276 dejouz 0
+D0
+~
+door~
+11 -1 27609
+S
+#27613
+#BGoddess's retreat#N~
+A thousand years ago, supersition and the sword ruled.  It was a time 
+of darkness it was the age of gargolyes.  Stone by day warriors by 
+night.  As a gargoyle  I have sworn to protect my clan.  I am the 
+defender of the TRI Clan. I am Demona the Gargoyle.
+
+Insences fill the room reminding you of a far off land.  Silken 
+sashes hang from the ceiling making it hard to judge the size of the 
+room.  Eerie melodies waft across the air.  You feel a peace, a 
+oneness with yourself and the world around.  You have entered a calm 
+state.  Thoughts of the world of mobs and  levels fade like a distant 
+stome. A voice speaks out and says, 'Come, relax, and enjoy all I can 
+offer.  One request, please check your egos at the door.
+§N~
+276 djuz 0
+D5
+~
+~
+11 -1 27606
+S
+#27614
+#BA Teddybear's Hideyhole#N~
+   As you enter the room a sparkling veil of wind carresses your heart
+and soul, cleansing your aura to the deepest of blues. Icecream trees 
+and popsical plants spring up amidst the great big flowers which emit an
+apple fragrence. You see teddybears playing carefree amongst large
+pillows and comfy blankies. A wonderful waterfall flows from a 
+refreshing stream of orange juice that circles this teddybear paradise.
+The beat of a faint song whispers soothing sounds in your ears,
+instinctively moving your body joyfully to its tempting lure. A twinkle
+catches your eye and you see a small angel beckoning you to follow her
+and you are lead to a trail deep within this haven.
+You search around to find that the angel has disappeared. After much 
+wandering, you come upon a floating scroll encased in shimmering glass
+surrounded by the most beautiful roses ever seen. You feel youself drawn 
+to learn of these magical words and discover an angel sitting on the
+glass singing the words - it was always you and me, always and forever - 
+You are suddenly filled with a peace like no other as you are carried 
+by these words. As the angel finishes her song, she whispers to you once
+more - welcome to the home of Bod and Drusian - and quickly vanishes
+leaving a faint mist of blue sparkles.
+~
+276 djtuz 0
+D0
+~
+door~
+11 -1 27606
+S
+#99999
+$~

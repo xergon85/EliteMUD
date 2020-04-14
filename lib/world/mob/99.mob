@@ -1,0 +1,948 @@
+#9900
+farmer m9900 m99~
+the farmer~
+A farmer walks around, awed by all there is to do in Stanneg.
+~
+This farmer is a resident of Stanneg by the Mountains, and as such, is
+one of the most boring people on earth.  Every day is pretty much the
+same for him.  You wonder who is feeding his chickens while he is
+wandering around town.
+~
+1 1 bg k 0 S
+36 2 -10 1d1+539
+400 500 100 1d18+19
+-1 -1 -1 
+1296 150000 8 8 1
+A
+%%5 yawn~
+#9901
+storekeeper m9901 m99~
+the storekeeper~
+A bored storekeeper waits for you to do something.
+~
+The bored storekeeper keeps a lazy eye on you as he waits for you to
+buy something.  Whee.
+~
+1 4 2 0 750 S 
+109 -100 -200 1d1+30000
+400 500 100 1d100+100 -1
+-1
+-1
+60000 0 8 8 1
+#9902
+Cowgirl m99~
+the cowgirl~
+A cowgirl stands here ready to defend her horses...
+~
+This woman seems ready for anything you might do... she is truly a
+woman to be reckoned with...
+~
+1 1 bg k 0 S
+28 6 -5 1d1+414
+400 500 100 1d14+15
+-1 -1 -1 
+784 83333 8 8 2
+#9903
+horse m9903 m99~
+the horse~
+A horse does horsely things here.
+~
+This horse looks like a nice horse.  It looks at you with soft brown
+eyes and you want to give it a carrot and tie ribbons in its mane.
+~
+1 7 bg k 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 1
+#9904
+farmer's farmers wife m9904 m99~
+the farmer's wife~
+A farmer's wife offers you some vegetables.
+~
+This woman has many different types of fruits and vegetables for you to
+buy.  She looks bored, though.
+~
+1 1 bg k 0 S
+30 5 -6 1d1+445
+400 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 2
+#9905
+Aglandiir dragon prince m9905 m99~
+Aglandiir~
+The Dragon Prince, Aglandiir, sits here looking at you curiously.
+~
+Towering over his bodyguards, his scales glistening with a pearlescent
+gleam that is somehow neither red nor black, but both together,
+depending on the whim of the flickering torchlight.  Aglandiir lives in
+the ancestral home of dragonkind, proud and fierce.  He has a taste for
+the finer things civilization has to offer, and the cyclops, who toady
+to him, are forever bringing him small treasures.  Aglandiir is as
+magnificent as his surroundings suggest.
+~
+18 0 34 136 750 S 
+60 -7 -20 1d100+749
+408 500 50 3d15+15
+407 500 50 3d10+15 -1
+-1
+-1
+10000 500000 8 8 1
+#9906
+Cyclops m9906 m99~
+the cyclops~
+The cyclops is trying to judge range with no depth perception.
+~
+This Cyclops throws rocks real good.  With one eye though, hitting the
+target is another matter.  He looks at you and growls as he misses
+again!
+~
+1 0 38 0 0 S 
+36 3 -10 3d5+530
+400 500 100 3d6+15 -1
+-1
+-1
+1200 151000 8 8 1
+#9907
+Salle woman m9907 m99~
+Salle~
+A woman ignores you completely, so intent is she upon her sword.
+~
+   She is a stunning woman, all hair and eyes, it seems.  Her clothing
+is of the same tawny brown of her skin and hair.  Her blue eyes look at
+you appraisingly, seemingly to show great intelligence.  Her mouth
+twitches into a sneer...
+~
+1 4 b 0 0 S
+20 10 -1 1d1+295
+400 500 100 1d10+11
+-1 -1 -1 
+400 20833 8 8 2
+#9908
+Duwick man m9908 m99~
+Duwick~
+A truly immense man laughs at you, and draws his knife!
+~
+   This has to be one of the biggest men you've ever seen.  He is a
+full seven feet toe to head, and weighs a good three hundred pounds --
+mostly on his biceps and pectorals it appears.  An ornate scabbard
+slaps by his side, with the pommel of a silvered dagger sticking
+out...a tiny weapon for such a large man!
+~
+1 4 2 0 -300 S 
+44 -2 -14 3d5+610
+400 500 100 3d6+20 -1
+-1
+-1
+5000 260000 8 8 1
+#9909
+Receptionist m9909 m99~
+the receptionist~
+A receptionist offers you a room.
+~
+   He looks like a retired farmer now making an honest living in an
+inn.  More power to him!
+~
+1 4 bg k 400 S 
+36 3 -10 3d5+530
+400 500 100 3d6+15 -1
+-1
+-1
+1200 151000 8 8 1
+#9910
+innkeeper m9910 m99~
+the innkeeper~
+An aged innkeeper greets you as you enter.
+~
+   He's old and graying, but seems to have been able to keep his mental
+faculties through the years.  A large woolen sweater is wrapped about
+him for warmth.  His blue eyes dance with amusement as he notices your
+weapons, but he doesn't seem too terribly startled.
+~
+1 4 bg 0 400 S 
+36 3 -10 3d5+530
+400 500 100 3d6+15 -1
+-1
+-1
+1200 151000 8 8 1
+#9911
+hunter m9911 m99~
+the hunter~
+A hunter strides along purposefully, looking neither right nor left.
+~
+   He looks mean, as if the very personality of the mountains had
+infected him with hardness.  His stride is purposeful, his face
+weathered, his eyes cold and dark.  Others are standing out of his way
+as he walks on by.
+~
+1 4 g 0 400 S 
+36 3 -10 3d5+530
+400 500 100 3d6+15 -1
+-1
+-1
+1200 151000 8 8 1
+A
+%%5 em lifts his bow, notching in an arrow.;%5 em takes careful aim
+ down the shaft of his bow.~
+#9912
+waiter m9912 m99~
+a waiter~
+A waiter rushes by, intent on his business.
+~
+   He looks harried from the way he hastily takes orders and rushes in
+the back to get food, and to the bar for drinks.  He doesn't even spare
+you a glance as he passes by.
+~
+1 4 bg 0 0 S 
+36 3 -10 3d5+530
+400 500 100 3d6+15 -1
+-1
+-1
+1200 151000 8 8 1
+#9913
+waitress m9913 m99~
+a waitress~
+A waitress rushes by, intent on her business.
+~
+   She looks married from the way she hastily takes orders and rushes
+in the back to get food, and to the bar for drinks.  She doesn't even
+spare you a glance as she passes by.
+~
+1 4 bg 0 0 S 
+36 3 -10 3d5+530
+400 500 100 3d6+15 -1
+-1
+-1
+1200 151000 8 8 1
+#9914
+bartender m9914 m99~
+a bartender~
+A bartender washes a glass idly here.
+~
+   He nods, smiles, and asks you what you would like to drink.  As you
+decide, he slowly polishes a glass with an old bar rag.  The glass is
+completely clean, but he polishes it anyway.  Go figure.
+~
+1 4 bg 0 200 S 
+36 3 -10 3d5+530
+400 500 100 3d6+15 -1
+-1
+-1
+1200 151000 8 8 1
+#9915
+bandit m9915 m99~
+the bandit~
+A bandit springs into action upon seeing you.
+~
+   Whew!  Has this guy ever seen a bath?  His face, hands, arms...
+nearly every bit of him is covered with grime, dust, dirt and decay.
+His sword is polished and cleaned though...
+~
+1 4 100 0 -600 S 
+32 4 -9 3d5+455
+400 500 100 2d8+12 -1
+-1
+-1
+500 110000 8 8 1
+#9916
+bandit guard m9916 m99~
+the bandit guard~
+A bandit guard stands at attention here.
+~
+   He may be a bandit, but he's no slacker.  You wonder who would be
+able to keep these bandits in line enough to pull a good guard duty...
+(Boy is this guy DIRTY!!!)
+~
+1 4 34 0 -600 S 
+36 3 -10 3d5+530
+400 500 100 3d6+15 -1
+-1
+-1
+1200 151000 8 8 1
+#9917
+miner worker slave m9917 m99~
+the slave~
+A slave here is mining out a new passageway.
+~
+   The slave looks up at you with pleading eyes.  He wants his freedom.
+The chains around his ankles are tight, and you wonder if you should
+set him free, and if you even can.
+~
+1 4 2 0 400 S 
+32 4 -9 3d5+455
+400 500 100 2d8+12 -1
+-1
+-1
+500 110000 8 8 1
+#9918
+farmer m9918 m99~
+the farmer~
+A farmer walks around, looking for something to do.
+~
+This farmer is a resident of Stanneg by the Mountains, and as such, is
+one of the most boring people on earth.
+~
+1 4 198 0 500 S 
+36 3 -10 3d5+530
+400 500 100 3d6+15 -1
+-1
+-1
+1200 151000 8 8 1
+#9919
+hunter m9919 m99~
+the hunter~
+A hunter walks through the town streets on his own time.
+~
+   He looks mean, as if the very personality of the mountains had
+infected him with hardness.  His stride is purposeful, his face
+weathered, his eyes cold and dark.  Others are standing out of his way
+as he walks on by.
+~
+1 4 bg 0 500 S 
+36 3 -10 3d5+530
+400 500 100 3d6+15 -1
+-1
+-1
+1200 151000 8 8 1
+#9920
+apple grower m9920 m99~
+the apple grower~
+The apple grower is in town for the day, looking for excitement.
+~
+   Tinted slightly green from eating too many green apples, this
+half-orc is unimpressed with the sights and sounds of the tiny town of
+Stanneg.  Perhaps he will start raising sheep for company instead of
+apple trees.
+~
+1 4 eg 0 500 S
+37 1 -10 1d1+555
+400 500 100 1d18+19
+-1 -1 -1 
+1369 161666 8 8 1
+#9921
+chambermaid m9921 m99~
+the chambermaid~
+The little wood elf chambermaid is just too cute for words.
+~
+   Well, the forest was just too boring, so the little elf hired on as
+a chambermaid at the Stanneg Inn, in Stanneg.  She is young, pretty and
+full of mischief.  She just wants to have fun.
+~
+1 4 bg 0 500 S
+34 3 -8 1d1+507
+400 500 100 1d17+18
+-1 -1 -1 
+1156 133333 8 8 2
+#9922
+horse rancher m9922 m99~
+the horse rancher~
+The half-orc horse rancher rode into town on his horse, Joe.
+~
+   One of many horse ranchers / traders who live outside the small
+rural town of Stanneg, this rancher raises warhorses for the many
+knights.  He turns a tidy profit at it!
+~
+1 4 eg 0 500 S
+35 2 -9 1d1+523
+400 500 100 1d17+18
+-1 -1 -1 
+1225 141666 8 8 1
+#9923
+highwayman m9923 m99~
+the highwayman~
+Although this is no highway, the highwayman will rob you just the same!
+~
+   Although this path looks forgotten, it was once a major thoroughfare
+between a major mining community (Stanneg by the Mountains) and the
+thriving metropolis of Midgaard (by the Sea).  The highwaymen have not
+forgotten! They will roam this path til they die!
+~
+1 3 fbg sk -500 S
+30 5 -6 1d1+445
+400 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 1
+#9924
+one-eyed jack m9924 m99~
+One-Eyed Jack~
+"Stand and deliver!", shouts One-eyed Jack.
+~
+   The most feared of the highwaymen, One-Eyed Jack is ruthless and
+cunning.  He's mean and he's evil.  And that one eye is right in the
+middle of his forehead, making you think he's not quite right in the
+head.
+~
+1 3 fbg sk -500 S
+38 0 -11 1d1+572
+400 500 100 1d19+20
+-1 -1 -1 
+1444 173333 8 8 1
+A
+%%3 smirk~
+#9925
+guest m9925 m99~
+the inn guest~
+"How dare you barge in here!" screams the guest of the inn.
+~
+   Well, can you blame him?  He paid for this rather shabby but
+expensive room, and was all set to take a nice hot bath in the large
+copper tub when you come barging in where you are obviously not wanted!
+~
+1 3 fbg sk 0 S
+37 1 -10 1d1+555
+400 500 100 1d18+19
+-1 -1 -1 
+1369 161666 8 8 1
+A
+%%5 scream~
+#9926
+Nelly mindslayer m99 m9926~
+Nelly the Mindslayer~
+Nelly the Mind Bogglingly Magnificent Mindslayer tours Stanneg.
+~
+Nelly used to tour Major Capitals of the World!! (especially those
+beginning with the letter "S")  She had a show of amazing "Feats of the
+Magnificent Mind of the #gGnomish#N Miss Nelly!", however greater and
+more wondrous mages were soon envious of the fortune she amassed with
+her tour, and she was, alas, outclassed.  She now tours Small Towns of
+the World!! (especially those beginning with the letter "S")
+~
+1 3 bg s 500 S
+40 3 -10 3d5+800
+400 500 30 3d6+20
+79 0 20 1d0+95
+96 0 50 1d0+95 -1
+-1
+-1
+1200 181000 8 8 2
+R
+-1 -1 -1 -1 50
+#9927
+O'rgile xorgyle minotaur m99 m9927~
+O'Rgile~
+The town's only doctor is a fierce #RMinotaur#Y named O'Rgile.
+~
+Lust for blood sent this sharp-horned Minotaur to war as a mercenary.
+He grew sad, losing so many of his comrades to battles, and vowed to
+learn to heal as well as to kill.  He still has a pretty mean horn,
+however, and he is not at all afraid to use it.
+~
+1 3 bg k 500 S
+35 2 -9 1d1+523
+400 500 100 1d17+18
+-1 -1 -1 
+1225 141666 8 8 1
+#9928
+O'Degra xodegra m9928 m99~
+O'Degra~
+O'Degra may be short, stocky and a bit furry, but he is quite strong.
+~
+O'Degra was the original lone Irish Dwarven miner to discover the seams
+of mithril running through the mountains here in Stanneg.  He became
+quite wealthy from his fabulous discovery, but he gave it all away and
+now is quite poor.  He still roams the hills looking for another "find".
+~
+1 3 bg k 500 S
+38 0 -11 1d1+572
+400 500 100 1d19+20
+-1 -1 -1 
+1444 173333 8 8 1
+A
+%%2 spit;%5 em looks about him grumpily.;
+%5 emote mutters moodily about mithril mining.;
+%5 say You wouldn't last a second, sonny!~
+#9929
+high sheriff m9929 m99~
+the High Sheriff of Stanneg~
+The High Sheriff of Stanneg eyes you, fingering his badge of office.
+~
+If ever a political appointee there was, there was the High Sheriff of
+Stanneg.  His heavy gold badge rests on his velvet-covered paunch.
+Heavy eyebrows meet in the middle of a low forehead, and his scent is
+faintly reminiscent of troll.  With bandits living near here, cyclops
+roaming the hills, highwaymen on trail leading here and rumors of a
+Dragon Prince living not far away, the Sheriff has clearly NOT been
+doing a good job!
+~
+1 3 g k -500 S
+34 3 -8 1d1+507
+400 500 100 1d17+18
+-1 -1 -1 
+1156 133333 8 8 1
+A
+%%5 em fingers his badge of office thoughtfully.;
+%5 rubs his palms over his enormous velvet clad belly.~
+#9930
+deputy dahwig m9930 m99~
+Deputy Dahwig~
+Deputy Dahwig just can't seem to get his sword sheathed properly.
+~
+Dressed in tattered trousers with a sword by his side, Deputy Sheriff
+Dahwig is just the picture of incompetence.  He frequently misses the
+scabbard for his sword, and adds yet another tear to his battered
+clothing or a slight gash to his skin.
+~
+1 3 g k 0 S
+33 3 -8 1d1+491
+400 500 100 1d16+17
+-1 -1 -1 
+1089 125000 8 8 1
+#9931
+aunt auntie tabitha m9931 m99~
+Auntie Tabitha~
+Auntie Tabitha keeps her cookie jar full for children who visit.
+~
+Auntie Tabitha is kind of an institution here in Stanneg.  She came here
+as a young bride decades before the mining explosion.  She has vowed
+never to leave, although Stanneg has become known for being "the most
+boring town on earth".
+~
+1 3 bg k 50 S
+35 2 -9 1d1+523
+400 500 100 1d17+18
+-1 -1 -1 
+1225 141666 8 8 1
+A
+%%5 em asks, "Wanna cookie, honey ?";
+%1 em asks, "Want some honey, cookie ?~
+#9932
+troll mean ol ugly m9932 m99~
+a mean ol' ugly troll~
+A bridge troll wonders if you will fit in her cooking pot.
+~
+Ever since a run in with a certain very LARGE billy goat gruff, this
+troll has gone hungry.  She has been just waiting for someone to come
+discover her little hidey hole and volunteer to be her dinner.  She
+thanks you for volunteering.
+~
+1 3 fg k -500 S
+39 0 -11 1d1+588
+400 500 100 1d19+20
+-1 -1 -1 
+1521 185000 8 8 2
+A
+%%5 drool;
+%2 yell Who's that trip-trapping cross my bridge?;
+%2 yell I ain't afraid o' no goats!;
+%1 yell Pay the Troll!!!;
+%15 em mutters, "Troll vegetablarian! No eat goat!"~
+#9933
+billygoat wee little billy goat gruff m9933 m99~
+a wee little billy goat gruff~
+A wee little billy goat gruff looks for some sweet meadow grass.
+~
+A very tiny billy goat with a tiny white beard treads lightly, looking
+for some sweet grass to eat.  He and his many billy goat brothers and
+sisters feast on the grass on both sides of this small mountain canyon.
+~
+1 3 g y 0 S
+27 6 -5 1d1+399
+400 500 100 1d13+14
+-1 -1 -1 
+729 75000 8 8 1
+A
+%%5 em nudges you gently with his little head.~
+#9934
+billygoat billy goat middle middle-sized gruff m9934 m99~
+a middle-sized billy goat gruff~
+The middle-sized billy goat gruff says, "Wait for my big brother!"
+~
+The medium-sized billy goat wears a medium-sized bell on a medium-sized
+leather collar around his medium sized billy goat gruff neck.  He is
+getting tired of being medium sized, neither cute like his littlest
+brothers, nor strong like his bigger brothers.
+~
+1 3 g y 500 S
+28 6 -5 1d1+414
+400 500 100 1d14+15
+-1 -1 -1 
+784 83333 8 8 1
+A
+%%5 em headbutts you none too gently.  Ouch!! That hurt!!!~
+#9935
+billygoat billy goat enormous gruff m9935 m99~
+an enormous billy goat gruff~
+The biggest billy goat gruff has two long, curved, sharp, wicked horns.
+~
+The enormous billy goat is a threat even (perhaps especially) to trolls.
+A force to be reckoned with!  He could gore you with one of his horns,
+or simply ram you down in a fierce headbutt.
+~
+1 3 fbg y 100 S
+30 5 -6 1d1+445
+400 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 1
+A
+%%5 emote rams into you from behind, knocking you to the ground!;
+%1 say Where's that troll been messin with my brothers?~
+#9936
+gnome tourist m9936 m99~
+the Gnomish tourist~
+The #gGnome#Y came to record the former glory of Stanneg for Glob, Inc.
+~
+This little gnome is fascinated by history.  The Descent of Stanneg from
+prosperous mining town to this boring little place amazed her both for
+its rapidity and its completeness.  She is talking to some of the
+town's long time residents, planning to amaze her friends back at the
+Glob, Inc. Information headquarters.
+~
+1 3 bg k 100 S
+37 1 -10 1d1+555
+400 500 100 1d18+19
+-1 -1 -1 
+1369 161666 8 8 2
+A
+%%5 peer~
+#9937
+fat friar francis m9937 m99~
+Friar Francis~
+Fat Friar Francis watches you from shifty eyes.
+~
+Friar Francis has a passion for the good things of life, and
+unfortunately has not the means to indulge in them.  How does he pay for
+them then ?  Nobody knows for sure, but it is rumored he has a link with
+the bandits living in caves near here.
+~
+17 4 cg kz 0 S
+33 3 -8 1d1+491
+400 500 100 1d16+17
+-1 -1 -1 
+1089 125000 8 8 1
+A
+%%5 cast 'create waybread'~
+#9938
+kithy boy little sturdy m9938 m99 ~
+Kithy~
+A sturdy little boy begs for choco cookies.
+~
+A very tall little boy with deep blue eyes looks up at you appealingly.
+He has short, straight blond hair and an engaging smile.  You can sense
+he's very good at scrounging cookies from the town's best cookie-bakers!
+~
+1 1 bcg ks 0 S
+34 3 -8 1d1+507
+400 500 100 1d17+18
+-1 -1 -1 
+1156 133333 8 8 1
+A
+%%5say Gimme cookie!  Kithy want choco!~
+#9939
+granny higglebottom m9939 m99~
+Granny Higglebottom~
+Granny Higglebottom's daughter has left to work in the valley.
+~
+Ever since Granny Higglebottom's daughter went to work for "the Royals",
+Granny H has been lonely, cranky and out of sorts.  Her thin, wispy
+white hair forms a soft halo around her deeply lined face.
+~
+1 1 bcg ks 1000 S
+33 3 -8 1d1+491
+400 500 100 1d16+17
+-1 -1 -1 
+1089 125000 8 8 2
+#9940
+sara m9940 m99 xsarastro~
+Sara~
+Long curly hair falls gracefully around the face of Stro's sister Sara.
+~
+Stro's twin sister Sara looks very much like her brother, except for her
+long curly hair.  She and Stro are constantly together, and constantly
+in trouble for some piece of mischief or another.  It is a full time job
+for their big sister Rooth to keep an eye on them!
+~
+1 1 bcg ks 0 S
+36 2 -10 1d1+539
+400 500 100 1d18+19
+-1 -1 -1 
+1296 150000 8 8 2
+A
+%%15 emote playfully headbutts her brother, pretending to be a goat.;
+%15 emote chases her brother around, pretending to be a troll.;
+%15 pinch stro;%15 tickle stro;
+%15 em does a snoopy-like dance of joy.;
+%20 snuggle rooth;%15 smooch sara;%15 smooch rooth~
+#9941
+stro m9941 xsarastro m99~
+Stro~
+Stro looks up at you through bright, mischievous green eyes.
+~
+Pale blond hair cut very short gives this athletic little boy a slightly
+elfin look.  He and his twin sister Sara are active, curious children.
+~
+1 1 bcg ks 0 S
+36 2 -10 1d1+539
+400 500 100 1d18+19
+-1 -1 -1 
+1296 150000 8 8 1
+A
+%%15 emote playfully headbutts his sister, pretending to be a goat.;
+%15 emote chases a wee little billy goat gruff, pretending to be 
+a troll.;%15 tackle sara;%15 wrestle sara;%15 pinch sara;
+%20 snuggle sara;
+%20 snuggle rooth;%15 smooch sara;%15 smooch rooth~
+#9942
+rooth xrue m9942 m99~
+Rooth~
+Rooth often takes the twins for walks through the hills near Stanneg.
+~
+Rooth loves her twin brother and sister, Sara and Stro, even though
+their mischievous nature often lands all three of them in trouble.  The
+three of them live on a farm outside Stanneg, where their family raises
+goats for both the wool and the milk.
+~
+1 1 bcg ks 0 S
+35 2 -9 1d1+523
+400 500 100 1d17+18
+-1 -1 -1 
+1225 141666 8 8 1
+A
+%10 frown sara;%10 frown stro;%10 spank stro;%10 spank sara;
+%10 cuddle stro;
+%10 cuddle sara;%10 smile sara;%10 smile stro~
+#9943
+floyd m9943 xkalsa m99~
+Floyd~
+Floyd sings madrigals in in tight leather pants and a #mpink#Y shirt.
+~
+Remember when you were young, you shone like the sun
+Now there's a look in your eyes, like black holes in the sky
+You were caught in the crossfire of childhood and stardom
+Blown on the steel breeze
+Come on you target for far away laughter, come on you stranger,
+you legend, you martyr, and shine!
+You reached for the secret too soon
+You cried for the moon
+Shine on you crazy diamond
+~
+1 1 bcg ks 0 S
+36 2 -10 1d1+539
+400 500 100 1d18+19
+-1 -1 -1 
+1296 150000 8 8 1
+A
+%%5 airguitar~
+#9944
+troll mean ol ugly m9944 m99~
+a mean ol' ugly troll~
+The bridge troll is drawn to you, drooling, dreaming of soup!
+~
+You sure look good enough to eat! At least to *this* troll.  But
+don't let it go to your head.  He's so hungry he'd eat just about
+anything!
+~
+1 3 g k -500 S
+39 0 -11 1d1+588
+400 500 100 1d19+20
+-1 -1 -1 
+1521 185000 8 8 1
+A
+%%5 drool;%5 say Yum! You tasty!;%5 say Wanna bite? *chomp!*;
+%5 em chomps away at you with his great big (slightly) yellow troll 
+teeth!;
+%2 yell Who's that trip-trapping cross my bridge?;
+%1 yell I ain't afraid o' no goats!;
+%1 yell Pay the Troll!!!;
+%5 em mutters, "Troll vegetablarian! No eat goat!"~
+#9945
+farmer's farmers wife m9905 m99~
+the farmer's wife~
+A farmer's wife came to town to see the sights.
+~
+After endless days and endless nights on one of the most boring farms in
+the world, finally the farmer's wife gets to come to town to see the
+sights.
+~
+1 1 bg k 0 S
+30 5 -6 1d1+445
+400 500 100 1d15+16
+-1 -1 -1 
+900 100000 8 8 2
+#9946
+Grizzly Gus m99 m9946~
+Grizzly Gus, the mountain man~
+Grizzly Gus, the mountain man, he'll be roamin these mountains as long
+as he can.
+~
+Grizzly Gus is a nasty old cuss.  He smells like he hasn't had a bath in
+years, which he probably hasn't.  He doesn't see the need.  Gus is
+happiest ALONE in his mountains.
+~
+1 0 f zA 0 S
+48 -5 -16 1d1+744
+400 500 100 1d24+25
+-1 -1 -1 
+2304 290000 8 8 1
+A
+%%15say GIT!!~
+#9947
+Helmet xhelm m9947 m99 m9947~
+Helmet~
+#GGrandpa H's mining helmet glows demonically in a corner, forgotten.#N
+~
+A very large green helmet with a large glowing crystal sits quietly in a
+corner.  During its heyday, all miners in Stanneg owned one of these
+helmets.  It is very sturdy, providing a good deal of protection from
+falling rocks, and the crystal provides a handy source of light for the
+miners.  This particular one, however, looks somewhat ... demonic,
+despite the eerie feline reflection in its surface.  
+
+Grandpa Higglebottom (sadly no longer with us) was at the helm of the
+Stanneg Mining and Exploration Company, a once profitable subdivision of
+Glob, Inc.
+~
+12 1 bcgfjm dkD -1000 S
+40 -1 -12 1d1+605
+400 500 100 1d20+21
+-1 -1 -1 
+1600 196666 8 8 1
+#9948
+music box xmelody m99 m9948~
+the music box~
+#GThe music box plays a pretty little melody.#N
+~
+Crank up this music box with the wind-up arm and it will play a lovely
+little song.  You have heard this tune before, but where ?
+~
+1 0 bgm D 0 S
+35 2 -9 1d1+523
+400 500 100 1d17+18
+-1 -1 -1 
+1225 141666 8 8 2
+#9949
+bodyguard m99 m9949~
+Prince Aglandiir's bodyguard~
+The prince's bodyguard is a dark and glorious dragon.
+~
+Only the strongest, most fearsome dragons are allowed to guard the heir
+to the dragon throne, Prince Aglandiir.  This one is deepest black,
+except for the glowing golden eyes and the occasional tongue of flame.
+~
+18 0 34 136 750 S 
+50 -5 -20 1d100+749
+408 500 50 3d15+13
+407 500 50 3d10+13 -1
+-1
+-1
+10000 500000 8 8 1
+#9950
+prospector m99 m9950~
+the wiry prospector~
+The wiry little gnomish prospector searches endlessly for mithril.
+~
+Determined to strike it rich in the mountains around Stanneg, confident
+that the bandits won't bother him since he is so poor, the prospector
+searches the hills and caves of the Stanneg mountains for hints of
+mithril.
+~
+1 1 f zA -100 S
+45 -3 -15 1d1+691
+400 500 100 1d22+23
+-1 -1 -1 
+2025 255000 8 8 1
+A
+%%15say I know you! you're one o'them claim jumpers!;%10 glare~
+#9951
+man spry guy ol mountain m99 m9951~
+the mountain man~
+The spry old guy hides away on the mountain side.
+~
+Long years away from people has made the old coot even more distrustful
+of the rest of the two-legged world than he was before.  He's living off
+the bare pickings of the land, killing wild goats and squirrels, and
+eating greens that others might call weeds.  His temper, like his breath
+and his body odor, is most foul.
+~
+1 1 f zA -100 S
+54 -3 -15 1d1+691
+400 500 100 1d22+23
+-1 -1 -1 
+2025 255000 8 8 1
+#9952
+wheel spinning m99 m9952 mimic~
+the mimic~
+#GThe spinning wheel twirls hypnotically, entrancing you.
+~
+Auntie Tabitha says she uses this lovely old walnut spinning wheel to
+spin yarn for Granny Higglebottom.  There is something not quite RIGHT
+about Auntie T, however.  But nothing wrong with the goats, aside from
+a little mischievous headbutting.  The goats roam the mountain valley
+between here and Rome, and are gathered twice annually to be sheared.
+The goathair is then spun into soft yarn.  Granny H has a passion for
+soft knitted blankets, and has managed to capture a bit of tourist trade
+selling them.
+~
+12 1 bcgfjm dkD -1000 S
+40 -1 -12 1d1+605
+400 500 75 1d20+21
+79 0 20 1d0+95
+97 0 5 1d0+95 -1
+-1 -1  
+1600 196666 8 8 1
+#9953
+explorer orcish m99 m9953~
+the Orcish explorer~
+The Orcish explorer is searching for new lands and peoples to conquer.  
+~
+The Orc explorer has left his cave to look for newer, larger caves here
+in the played out mines of Stanneg.  If he happens to find one with a
+bit of mithril left, look out! He will be making some pretty scary
+weapons.
+~
+1 1 f zA -100 S
+45 -3 -15 1d1+691
+400 500 100 1d22+23
+-1 -1 -1 
+2025 255000 8 8 1
+#9954
+wolf cub xnightwolf playful wolfcub m99 m9954~
+a playful wolf cub~
+An adorable little wolf cub romps around in the sweet grass.
+~
+Thick jet-black fur covers this adorable little wolf cub.  He has
+wandered away from his den for a frolic in the sunshine and adventures
+chasing goats ... and perhaps chasing adventurers as well!
+~
+1 1 0 y 100 S
+45 -3 -15 1d1+691
+400 500 100 1d22+23
+-1 -1 -1 
+2025 255000 8 8 1
+A
+%%15 emote races playfully after a billy goat, nipping its heels.;
+%10 emote rolls on his back in the grass, tongue hanging long in a big
+ wolf smile.~
+#9955
+guest phobic xphobos m9955~
+the slightly phobic guest~
+The slightly phobic guest of the Inn clutches the sheets in worry.
+~
+The poor guest quakes at the thought of the mountains around him.  What
+if there is a quake?  And he is a bit nervous around goats ... and there
+are so many of them.  So many phobias, hard to pick which one to worry
+over!
+~
+1 0 fgb yD 0 S
+40 -3 -13 1d1+705
+400 500 100 1d20+21
+-1 -1 -1 
+1600 225666 8 8 1
+#9956
+guest raven-haired xraven m9956 woman~
+the raven-haired guest~
+The raven-haired guest looks about her warily.
+~
+She does her best to sooth her phobic companion, but finds it difficult
+at times.  The guest has long, thick black hair, and an air of constant
+awareness, a stirring restlessness that reminds you of a wild creature.
+For some reason the wolfcub you passed on your way into Stanneg comes to
+mind, as does the glimpse you had of some graceful, feral movement in
+the trees.
+~
+1 0 fgb yD 0 S
+40 -2 -13 1d1+705
+400 500 100 1d20+21
+-1 -1 -1 
+1600 215666 8 8 1
+#99999
+$~

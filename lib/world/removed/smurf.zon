@@ -1,0 +1,45 @@
+#38
+Smurfs~
+3899 20 2
+O 0 3808 1 3809
+M 0 3802 3 3818    Berry picking Smurfs
+G 1 3800 10       give each smurfberries
+M 0 3802 3 3817
+G 1 3800 10
+M 0 3802 3 3816
+G 1 3800 10
+*
+M 0 3801 3 3805    Regular smurfs
+M 0 3801 3 3810
+G 1 3802 10
+M 0 3801 3 3811
+M 0 3801 3 3812
+G 1 3802 10       give hats to some
+M 0 3801 3 3807
+M 0 3801 3 3808
+G 1 3802 10
+M 0 3801 3 3809
+M 0 3801 3 3804
+G 1 3802 10
+*
+M 0 3803 1 3819    Brainy Smurf
+E 1 3801 8 6
+M 0 3804 1 3820    Handy Smurf
+E 1 3803 8 16
+M 0 3805 1 3822    Sleepy Smurf
+M 0 3806 1 3821    Hefty Smurf
+E 1 3803 8 16
+M 0 3807 1 3823    Grumpy Smurf
+M 0 3808 1 3824    Jokey Smurf
+M 0 3809 1 3829    Smurfette
+E 1 3804 8 3
+G 1 3807 8
+M 0 3810 1 3825    Papa Smurf
+G 1 3805 10
+G 1 3809 8
+M 0 3811 1 3828    Gargamel
+E 1 3806 8 17
+M 0 3812 1 3828    Azreal
+S
+#99999
+$~

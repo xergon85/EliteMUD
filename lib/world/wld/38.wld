@@ -1,0 +1,583 @@
+#3801
+A Dimly Lit Path~
+   This path is narrow, REAL narrow.  You draw the conclusion that it
+wasn't man-made, or made for man for that matter.  The path continues
+north to a village.
+~
+38 0 3
+D0
+The path continues toward a village.
+~
+~
+0 -1 3802
+D2
+~
+~
+0 -1 3053
+S
+#3802
+A Dimly Lit Path~
+   This section of the road is badly worn and frequently traversed.
+There is some noise coming from the north.  The road back to the forest
+lies to the south. 
+~
+38 cl 3
+D0
+The path continues toward the village. 
+~
+~
+0 -1 3803
+D1
+~
+~
+0 -1 28400
+D2
+The dimly lit path continues south.
+~
+~
+0 -1 3801
+S
+#3803
+A Dimly Lit Path~
+   This section of the road is badly worn and frequently traversed.  The
+noise is getting stronger to the north.  The road back to the forest
+lies to the south. 
+~
+38 0 3
+D0
+You see the entrance to Hobbit Village.
+~
+~
+0 -1 3804
+D2
+You see a dimly lit path. 
+~
+~
+0 -1 3802
+S
+#3804
+The Entrance to Hobbit Village~
+   You stand at the entrance to a small hobbit village.  You have heard
+stories about these little creatures, but you had no idea they really
+existed.  You wonder how many people have seen this village before, and
+returned to tell about it.  Now go on... explore.
+~
+38 0 2
+D0
+You see Hobbit Road.
+~
+~
+0 -1 3805
+D2
+You see a dimly lit path.
+~
+~
+0 -1 3803
+S
+#3805
+Hobbit Road~
+   A small narrow road here twists through the village.  Hobbit Road
+continues to the north, west, and east.  There is still time to turn
+back and head south. 
+~
+38 0 1
+D0
+Hobbit Road stretches to the north.
+~
+~
+0 -1 3806
+D1
+Hobbit Road winds of to the east.
+~
+~
+0 -1 3810
+D2
+You can make out the entrance to Hobbit Village. 
+~
+~
+0 -1 3804
+D3
+Hobbit Road veers off  to the west.
+~
+~
+0 -1 3811
+S
+#3806
+Hobbit Road~
+   You continue to stroll down Hobbit Road.  The smell of richly scented
+smoke assails your senses as you pass house after immaculate house.
+This place is not that bad when you think of it, clean, friendly, and
+comfortable.  Perhaps that is why nobody ever seems to leave here...
+Hobbit Road continues its path to the north, west, and south.   A small
+hobbit home lies to the east. 
+~
+38 0 1
+D0
+Hobbit Road continues to the north.
+~
+~
+0 -1 3807
+D1
+Hobbit Road continues to the east.
+~
+~
+0 -1 3820
+D2
+Hobbit Road continues to the south.
+~
+~
+0 -1 3805
+D3
+Hobbit Road continues to the west.
+~
+~
+0 -1 3812
+S
+#3807
+Hobbit Road~
+   You stroll along down Hobbit Road.  It continues north and south
+here.  To the west you can see a small hobbit home.
+~
+38 0 1
+D0
+Hobbit Road continues to the north.
+~
+~
+0 -1 3808
+D1
+You see the tobacco garden.
+~
+~
+0 -1 3816
+D2
+Hobbit Road continues to the south.
+~
+~
+0 -1 3806
+D3
+You see a Hobbit Home.
+~
+~
+0 -1 3829
+S
+#3808
+Hobbit Road~
+   The straightforward little Hobbit Road continues in its leisurely
+north-south direction. A tobacco garden is to the east.  A stone path
+leads west. 
+~
+38 0 1
+D0
+Hobbit Road continues to the north.
+~
+~
+0 -1 3809
+D1
+You see the tobacco garden. 
+~
+~
+0 -1 3817
+D2
+Hobbit Road continues to the south.
+~
+~
+0 -1 3807
+D3
+A stone path lies to the west.
+~
+~
+0 -1 3813
+S
+#3809
+Hobbit Road~
+   A small hospitable well sits neatly by the side of the road, waiting
+for you to bring up a bucket of fresh cold well water.  A small garden
+is to the east. Hobbit Road continues to the south and west, and a road
+leads north towards some purple mountains.  The hobbits have had many
+adventures with the dwarves and gnomes who live in the highlands north
+of here. 
+~
+38 0 1
+D0
+A long cart track headed north carries produce from the farms north of
+here and marvelous weapons from the steel mill.
+~
+~
+0 -1 6500
+D1
+You see the tobacco garden.
+~
+~
+0 -1 3818
+D2
+Hobbit Road continues to the south.
+~
+~
+0 -1 3808
+D3
+Hobbit Road continues to the west.
+~
+~
+0 -1 3814
+E
+hobbit well~
+A small well is here.  Just the right size if you're a hobbit, but just
+barely big enough for you to get some water from.  I'm sure no-one would
+mind.
+~
+E
+fence~
+It looks high.
+~
+S
+#3810
+Hobbit Road~
+   A corner of Hobbit Road is where you stand.  A high fence blocks
+passage to the east or south.  A hobbit home is to the north.  Hobbit
+Road goes back to the west. 
+~
+38 0 1
+D0
+You see a Hobbit Home.
+~
+~
+0 -1 3819
+D3
+Hobbit Road continues to the west.
+~
+~
+0 -1 3805
+E
+fence~
+It looks high.
+~
+S
+#3811
+Hobbit Road~
+   You are at a bend of Hobbit Road.  You can continue down the road to
+the east and north.  You can also visit a hobbit home to the south. 
+~
+38 0 1
+D0
+Hobbit Road continues to the north.
+~
+~
+0 -1 3812
+D1
+Hobbit Road continues to the east.
+~
+~
+0 -1 3805
+D2
+You see a Hobbit Home.
+~
+~
+0 -1 3821
+S
+#3812
+Hobbit Road~
+   You are on Hobbit Road.  A hobbit home is to the west.  Took's
+backyard is to the north, but you can't go there.  Hobbit Road continues
+to the south and east.
+~
+38 0 1
+D1
+Hobbit Road continues to the east.
+~
+~
+0 -1 3806
+D2
+Hobbit Road continues to the south.
+~
+~
+0 -1 3811
+D3
+You see a Hobbit Home.
+~
+~
+0 -1 3822
+S
+#3813
+Stone Path~
+   You are walking along a cute little stone path.  To the south lies
+Took’s house.  A small house is to the west.  Hobbit Road is to the
+east.  Everything is so peaceful here.  You could stay forever. 
+~
+38 0 1
+D1
+Hobbit Road continues to the east.
+~
+~
+0 -1 3808
+D2
+You see Took’s House.
+~
+door~
+1 3807 3825
+D3
+You see a Hobbit House.
+~
+~
+0 -1 3823
+S
+#3814
+Hobbit Road~
+   Yet another part of Hobbit Road.  To the west is the last section of
+Hobbit Road.  You can go back to the small well to the east. 
+~
+38 0 1
+D1
+Hobbit Road continues to the east.
+~
+~
+0 -1 3809
+D3
+Hobbit Road continues to the west.
+~
+~
+0 -1 3815
+S
+#3815
+Hobbit Road~
+   The last part of Hobbit Road.  You can go back the Hobbit Road to the
+east.  A nice, beautiful, hobbit home is to the south.  In the distance
+to the north you can see the Hobbit Mayor's office. 
+~
+38 0 1
+D0
+You see the path to Mayor's office.
+~
+~
+0 -1 3826
+D1
+Hobbit Road continues to the east.
+~
+~
+0 -1 3814
+D2
+You see a Hobbit Home.
+~
+~
+0 -1 3824
+S
+#3816
+The Tobacco Garden~
+   The greatest tobacco in the world is growing here.  If only you were
+a smoker... Hobbit Road is back to the west.  Another part of the garden
+is to the north.
+~
+38 0 1
+D0
+The tobacco garden continues to the north.
+~
+~
+0 -1 3817
+D3
+Hobbit Road continues to the west.
+~
+~
+0 -1 3807
+S
+#3817
+The Tobacco Garden~
+   Another part of the garden.  Small tobacco-leafs is growing here.
+The smell is driving your nostrils crazy.  It almost makes you forget
+that you don't smoke.  Hobbit Road is to the west, while the garden are
+to the north and south. 
+~
+38 0 1
+D0
+The tobacco garden continues to the north.
+~
+~
+0 -1 3818
+D2
+The tobacco garden continues to the south.
+~
+~
+0 -1 3816
+D3
+You see Hobbit Road.
+~
+~
+0 -1 3808
+S
+#3818
+Tobacco Garden~
+   The northern part of the tobacco garden.  It smells just as good as
+all the rest. Hobbit Road is to the west.  The tobacco garden lies to
+the south. 
+~
+38 0 1
+D2
+The tobacco garden continues to the south.
+~
+~
+0 -1 3817
+D3
+You see Hobbit Road.
+~
+~
+0 -1 3809
+S
+#3819
+Bilbo's Home~
+   This is the home of the famous Bilbo.  You see a desk all covered
+with books, but you can't understand a word in them!  Maybe it is
+written in Hobbitish.  Hobbit Road is back to the south. 
+~
+38 0 1
+D2
+You see Hobbit Road.
+~
+~
+0 -1 3810
+S
+#3820
+Frodo's Home~
+   This home looks nice and cozy.  A small sofa is standing in a corner
+and the room is covered in papers and books.  Frodo must be a hobbit who
+likes to read.  Hobbit Road is back to the west. 
+~
+38 0 1
+D3
+You see Hobbit Road.
+~
+~
+0 -1 3806
+S
+#3821
+Merry's Hole~
+   This home belongs to Merry.  A hobbit who has shared many adventures
+with Frodo.  He is a tough hobbit and if he can carry the sword that is
+nailed to the wall, he must be quite strong.  Better not make him angry
+with you!  Hobbit Road is back to the north. 
+~
+38 0 1
+D0
+You see Hobbit Road.
+~
+~
+0 -1 3811
+S
+#3822
+Sam's Home~
+   The home of Sam and Rosa.  The house is all clean and shiny.  Rosa
+and Sam must like to have things clean in case they have visitors.
+Maybe you should stay a while.  This place is nice.  Hobbit Road to the
+east. 
+~
+38 0 1
+D1
+You see Hobbit Road.
+~
+~
+0 -1 3812
+S
+#3823
+Pippin's Home~
+   The home of Pippin.  A tough hobbit who has been on many adventures.
+You have heard rumors about this guy.  People say he is a mean and
+strong hobbit, just like his cousin Merry.  Maybe you should leave
+before he find you here.  Hobbit Road to the east may be your only
+salvation. 
+~
+38 0 1
+D1
+You see Hobbit Road.
+~
+~
+0 -1 3813
+S
+#3824
+Bogo's Hole~
+   Bogo, the laughing stock of the hobbit village lives here.  This
+place is all dirty and dusty.  Maybe Bogo is here somewhere, but you are
+not sure.  Anyway, you don't really like the smell of this place.
+Hobbit Road is to the north. 
+~
+38 0 1
+D0
+You see Hobbit Road.
+~
+~
+0 -1 3815
+S
+#3825
+Took's House~
+   Took's home.  The home of Took.  You have heard stories about this
+guy.  The other hobbits say he is big and strong and some people say he
+knows his way around magic.  You can see a desk here, all covered with
+papers.  There seems to be some magic words written on the papers, but
+you can't understand them.  A stone  path lies to the north.
+~
+38 0 1
+D0
+You see a stone path.
+~
+door~
+1 3807 3813
+S
+#3826
+Path to Hobbit Mayor's Office~
+   You are walking along a path to the Mayor's office to the North.
+Hobbit Road lies to the south. 
+~
+38 0 1
+D0
+Outside the Hobbit Mayor's office.
+~
+~
+0 -1 3827
+D2
+Hobbit Road continues to the south.
+~
+~
+0 -1 3815
+S
+#3827
+Outside the Hobbit Mayor's Office~
+   You are standing outside the Mayor's office.  You can hear him
+screaming at his employees inside from the road.  His office is to the
+north, while Hobbit Road is to the south. 
+~
+38 0 1
+D0
+You see the Hobbit Mayor's office.
+~
+door~
+1 3809 3828
+D2
+You see the path to Hobbit Mayor's office.
+~
+~
+0 -1 3826
+S
+#3828
+The Hobbit Mayor's Office~
+   This is the office of the Hobbit Mayor.  You can see a huge desk
+where he usually sits and look busy.  The office is quite large with
+nice paintings on the walls.  The desk is all covered with papers.
+~
+38 0 1
+D2
+Outside the Hobbit Mayor's office.
+~
+door~
+1 3809 3827
+S
+#3829
+Rosa's Home~
+   This is Rosa's home still, since she and Sam aren't legally wedded
+yet. However if she is not here, she is most likely at Sam's.  The only
+exit is to the east.
+~
+38 0 1
+D1
+You see Hobbit Road.
+~
+~
+0 -1 3807
+S
+#99999
+$~

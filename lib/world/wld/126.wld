@@ -1,0 +1,1552 @@
+#12600
+The Cave of Wonder~
+   You find yourself in a glorious underground chamber, illuminated by
+many thousands of multicoloured gems set in the cave walls. On the north 
+wall of the cavern a huge gateway is deeply engraved onto the cave wall. 
+The arcane symbols carved around the edge of the gateway writhe with 
+magical energy, spitting bolts of raw energy across the chamber. A 
+towering figure made entirely of jade stands to one side of the gateway, 
+apparently making subtle adjustments to its configuration.
+~
+126 cdheu 0
+D2
+You can see a dark cave to the south.
+~
+~
+0 -1 4044
+S
+#12601
+The Desecrated Temple of Midgaard~
+   You are at the southern end of what was once a magnificent temple. 
+People travelled from all over the world to visit this place in its 
+prime - not just a place of worship, but a place of sanctuary and 
+healing. In the days of the Gods' rage the entire temple was razed to 
+the ground, it's fluted columns broken, and its statues toppled and 
+scorched. There used to be an exit west, but it is blocked with fallen 
+rubble. You can make your way behind the shattered altar to the north, 
+or into the alcove east of here. Or you could leave this ruin, and 
+mourn its passing from this earth.
+~
+126 acdu 1
+D0
+You can make your way carefully through the rubble behind the altar.
+~
+~
+0 -1 12654
+D1
+You see a small alcove to the east.
+~
+~
+0 -1 12663
+D2
+You can make your way down the chipped and cracked stone steps to the 
+Temple Square.
+~
+~
+0 -1 12605
+D4
+The steps are badly damaged, but it should be safe to climb them.
+~
+~
+0 -1 12697
+E
+ash~
+It smells like barbecued dog hair, its pungent smell assaults your 
+nostrils and churns your stomach, making you want to gag. The fine 
+ash also gets everywhere, being lifted on the slightest breeze to 
+sting your eyes and make them water.
+~
+S
+#12602
+Cleric's Inner Sanctum~
+   Although the roof of this part of the Clerics guild is still intact, 
+it has not escaped the destruction. The walls are pitted and cracked, 
+the beautifully rendered paintings of the gods have been disfigured, and 
+smeared with blood. A well in the centre of the room is filled to 
+overflowing with dust and broken relics.
+~
+126 adu 1
+D1
+You can see the cleric's bar to the east.
+~
+~
+0 -1 12603
+S
+#12603
+Cleric's Bar~
+   A thirsty travelling cleric could always find a drink in here in the 
+pleasant surrounds of the private guild bar. It used to be tastefully 
+decorated, with finely appointed fixtures and fittings. All of it is 
+gone now. The furniture broken into tiny pieces by the raging gods, and 
+the decorations despoiled. The demonic sky is visible through the 
+damaged ceiling, although the roof is intact further to the west.
+~
+126 adu 1
+D2
+You see the entrance to the Cleric's guild.
+~
+~
+0 -1 12604
+D3
+You can make out the inner sanctum through the gloom. 
+~
+~
+0 -1 12602
+S
+#12604
+Entrance to Cleric's Guild~
+   This entrance chamber was once simple reception area, where 
+travellers would be welcomed by the members of the guild, and where 
+visitors were received. There used to be a small door to the north, but 
+now the whole wall is gone, allowing easy access to the clerics bar. The 
+filth and destruction of the city lies to the south.
+~
+126 adu 1
+D0
+You can go further into the clerics guild.
+~
+~
+0 -1 12603
+D2
+You see west temple street to the south.
+~
+~
+0 -1 12667
+S
+#12605
+The Temple Square~
+   You are standing in the Temple Square, steps lead northwards up from 
+here to the shattered temple. The market square lies to the south, and 
+temple street leads both east and west. Your mouth is dry from 
+breathing the fetid ash, and the sticky heat is making your skin crawl. 
+You can make out fragments of bone in the ash at your feet.
+~
+126 aduAB 11
+D0
+You can climb the scarred steps up to the desecrated temple. 
+~
+~
+0 -1 12601
+D1
+You see east temple street stretching out before you.
+~
+~
+0 -1 12668
+D2
+You see a large open square to the south.
+~
+~
+2112 -1 12614
+D3
+You see west temple street stretching out before you.
+~
+~
+0 -1 12667
+E
+bone bones~
+Eww! They are definitely human bones, and look like they have been 
+blasted apart from inside! Poor chap never stood a chance as his 
+marrow was turned to fire.
+~
+S
+#12606
+Entrance Hall of the Three Crowns Inn~
+   This was once a simple inn, where common adventurers could buy a 
+drink, or rent a room. A staircase once led up to a reception, and while 
+the wooden stairs have been burnt away, the room above looks 
+structurally sound, however the fallen stairs have totally blocked the 
+way to the east. The smell of burning comes from the north, and that 
+side of the entrance hall is slowly filling with ash. It seems to be a 
+different kind of ash to that filling the streets.
+~
+126 adu 1
+D0
+There is a burning smell coming from the north.
+~
+~
+0 -1 12662
+D2
+You can walk south, out onto east temple street.
+~
+~
+0 -1 12668
+D4
+If you could fly, then you could get up to the reception, perhaps one of 
+the guests has left something valuable behind that you could salvage.
+~
+~
+0 -1 12608
+S
+#12608
+The Reception~
+   Well, at least half of the old reception counter is still standing, 
+but the other half has been torn out of the floor and flung against the 
+wall. If you came up here looking for valuables, you're out of luck - 
+nothing seems to have escaped destruction, those Gods must have been 
+really mad!
+~
+126 adu 9
+D5
+Strange - without the stairs there it looks alot further down to the 
+entrance of the Inn.
+~
+~
+0 -1 12606
+S
+#12609
+The Bakery~
+   The blackened clay oven still seems to be intact, but the rest of the 
+bakery is burned out, the sickly smell of burnt flesh stings the back 
+of your throat, you decide it would be best not to look in the oven 
+after all. The counter and shelves lie in a shattered pile against the 
+north wall, you also notice several charred loaves of bread in one corner.
+~
+126 adu 1
+D2
+You see the main street.
+~
+~
+0 -1 12613
+E
+oven~
+You move close to the oven, with the intention of looking inside, but 
+the terrible stench coming from within convinces you that ignorance is 
+probably the best policy.
+~
+E
+bread loaves~
+They're not edible, not even close.
+~
+S
+#12610
+The General Store~
+   Before the destruction came, this was a busy store, selling 
+everything that adventurers would need on their travels. The counter and 
+shelves have been turned into a charred mess on the floor, and there's 
+the remains of a backpack and a melted statuette in amongst the char.
+~
+126 adu 1
+D2
+You can see the destruction of the main street to the south.
+~
+~
+0 -1 12615
+E
+mess char remains backpack statuette~
+Nothing salvageable I'm afraid, the backpack is barely recognisable and 
+the statuette, while once beautiful, is now so badly deformed that 
+rivulets of gold have cooled into the cracks in the floor, locking it 
+in place.
+~
+S
+#12611
+The Weapon Shop~
+   The wooden counter and weapons racks have been utterly destroyed, 
+leaving only a faint charred outline on the floor visible through the 
+smelly grey ash. The weapons once stored here have melted into a single
+mass of various metals, with a great number of hilts and handles 
+sticking out in all directions. 
+~
+126 adu 1
+D2
+You see the desolate main street to the south.
+~
+~
+0 -1 12616
+S
+#12612
+Main Street~
+   You are at the end of the Main street of Midgaard. South of here was 
+the Entrance to the Guild of Magic Users, and to the north was a magic 
+shop. The ground is cracked wide open in places, and some of the walls 
+have even melted under the magical assault. It seems likely that the 
+magic users tried to fight back against the raging Gods, but were easily 
+destroyed.
+~
+126 adu 11
+D0
+You see the shattered shell of the Magic Shop
+~
+~
+0 -1 12633
+D1
+Main street continues east.
+~
+~
+0 -1 12613
+D2
+You see the entrance to the mages guild.
+~
+~
+0 -1 12617
+D3
+You can make out the west city gates.
+~
+~
+0 -1 12640
+S
+#12613
+Main Street~
+   You are trudging along main street, and find yourself outside the 
+bakery to the north and the armory to the south. The sun doesn't shine 
+here, but its still hot, as if this place is still warmed by the magical 
+after effects of the desecration.
+~
+126 adu 11
+D0
+You see the charred remains of the Bakery.
+~
+~
+0 -1 12609
+D1
+You see the Market Square
+~
+~
+0 -1 12614
+D2
+You see the armory to the south.
+~
+~
+0 -1 12620
+D3
+Main Street continues to the west.
+~
+~
+0 -1 12612
+S
+#12614
+Market Square~
+   You stand amongst the wreckage of the market square, the statue of 
+the Midgaard Worm has been broken into a thousand pieces, which are 
+scattered around the square. You can see the broken temple north of 
+here, and the common square to the south. Main street continues east 
+and west from here.
+~
+126 adu 11
+D0
+Temple square lies to the north.
+~
+~
+2112 -1 12605
+D1
+Main street leads east.
+~
+~
+0 -1 12615
+D2
+You see the common square to the south.
+~
+~
+0 -1 12625
+D3
+Main street leads west.
+~
+~
+0 -1 12613
+S
+#12615
+The Main Street~
+   The ash stings your eyes as you walk down what was once the main 
+street of Midgaard. The building to the north is burnt out, but the one 
+to the south seems to have escaped most of the destruction. The sky 
+overhead seems to glare angrily at you, you feel as if someone is 
+watching you.
+~
+126 adu 11
+D0
+You see a gutted shop to the north.
+~
+~
+0 -1 12610
+D1
+Main street continues east.
+~
+~
+0 -1 12616
+D2
+The building to the south is relatively untouched by the destruction.
+~
+~
+0 -1 12631
+D3
+You see the Market Square.
+~
+~
+0 -1 12614
+S
+#12616
+The Main Street~
+   The street is almost blocked here by fallen rubble and charred 
+timbers from the buildings to the north and south, which have 
+collapsed outwards. The building to the north is missing its roof 
+and all of its walls, the only part standing is a door-frame and you 
+can see right through into the interior. To the south, a sign 
+bearing the symbol of a sword and shield lies next to the doorway.
+~
+126 adu 11
+D0
+You can see right into the ruined weapon shop.
+~
+~
+0 -1 12611
+D1
+You can just make out the east gate through the haze.
+~
+~
+0 -1 12641
+D2
+You see the remains of the swordsmans guild. 
+~
+~
+0 -1 12621
+D3
+The main street continues west.
+~
+~
+0 -1 12615
+E
+sign~
+It looks like it once hung upon the wall, and bears the symbol of a 
+sword and shield - the sign of the Guild of Swordsmen.
+~
+S
+#12617
+Entrance to Mage's Guild~
+   From the austerity of the walls you assume that this entrance room 
+was never extravagantly decorated. However, in its prime it surely never 
+had huge rents in the walls, as if they had been gouged by some 
+monstrous clawed hand. And the floor was obviously never designed with a 
+large gaping crack right down the middle.
+~
+126 adu 1
+D0
+You see the main street to the north.
+~
+~
+0 -1 12612
+D2
+There is another room to the south.
+~
+~
+0 -1 12618
+E
+crack cracked rent floor~
+Its almost as if someone tried to rip the entire room apart. The crack 
+extends all the way from the entrance, and continues south into the next 
+room.
+~
+S
+#12618
+Mage's Bar~
+   It's said that the Mages guild was once filled with illusionary 
+furniture and the walls covered with magical images. There's no such 
+decoration here now, the plaster peeling from the walls, and the huge 
+crack across the floor are definitely not illusions, and neither is the 
+terrible smell coming from the room east of here.
+~
+126 adu 1
+D0
+You can follow the giant crack north to the lobby.
+~
+~
+0 -1 12617
+D1
+A horrible smell comes from the east.
+~
+~
+0 -1 12619
+E
+crack floor~
+Better watch your step, you don't want to fall down there!
+~
+S
+#12619
+Mage's Laboratory~
+   This is where the Mages used to perform all their experiments, and it 
+has since been used for experiments of a far more grisly kind. Those 
+mages unlucky enough not to have been killed immediately have been 
+gathered here, and used for a horrific series of magical experiments. On 
+one bench there is a human head, with the top of the skull missing and 
+with wires protruding from the brain. Its eyes are closed, but the head 
+moans occasionally, indicating that it is still being kept alive. A well 
+in the middle of the room is the source of the smell, it is piled high 
+with corpses, all of which are wearing the elaborate robes of a mage.      
+~
+126 adu 1
+D3
+You can escape this hell-hole by returning west.
+~
+~
+0 -1 12618
+E
+head experiment~
+#RThe head tells you, '..please......kill....me...'#N
+~
+E
+well~
+Gah! Its definitely the source of the smell. You notice a journal
+poking out of one set of robes.
+~
+E
+journal~
+It describes a creature know as Dagga:
+   "Dagga is an an avatar of rage, forged from hellfire, and 
+   powered by the fury of the Gods. As you are no doubt aware 
+   and avatar is not a free thinking agent, but an extension 
+   of its masters will on any plane upon which its exists. 
+   Many renowned wizards doubt the existence of Dagga, 
+   claiming that his existence is merely theoretical (a natural 
+   extension of the theory Avatavism, which is an obscure branch 
+   of demonology). However, is would be unwise to provoke the 
+   Gods, just to test this theory, for the consequences would 
+   be disastrous - the combined magical and physical might 
+   of every hero in Midgaard could not hope to stand against 
+   such an entity, much less destroy him."
+~
+S
+#12620
+The Armory~
+   All the quality products that used to line the walls of this shop lie 
+battered and broken on the floor. There is a ripped note on the wall, 
+behind the scarred counter.
+~
+126 adu 1
+D0
+Main street lies to the north.
+~
+~
+0 -1 12613
+E
+note~
+     _______________________________
+     \an use these commands for tra/ 
+     /                            / 
+    /lue <item>     To get the pri\ 
+    \ll <item>      To sell someth/ 
+    /y <item>       To buy someth/ 
+    \st             Gives you a l\ 
+    /                             \ 
+   /    WE DON'T GIVE CREDIT; WE DO\ 
+   \                         NO HAG/ 
+    \_____________________________/
+~
+S
+#12621
+Entrance Hall to the Guild of Swordsmen~
+   It used to be that you had to watch what you said in this place, lest 
+an over enthusiastic young warrior use you for sparring practice. Now is 
+it empty, except for the ash (which seems to be everywhere in this city) 
+and a small heap of armor in the corner.
+~
+126 adu 1
+D0
+Main street lies to the north.
+~
+~
+0 -1 12616
+D1
+You see the Guild bar.
+~
+~
+0 -1 12622
+E
+armour armor~
+It looks like it was once a complete set, although its no longer usable, 
+someone has punched a hold through it large enough to fit your head!
+~
+S
+#12622
+The Bar of Swordsmen~
+   This room was never well kept - frequent brawling meant that the 
+furniture was often broken. Nothing much has changed, the furniture is 
+still a mess, but now a layer of the sickly smelling ash covers 
+everything. A small door to the south leads outside to a small practice 
+yard.
+~
+126 adu 1
+D2
+You see the practice yard.
+~
+~
+0 -1 12623
+D3
+The entrance to the swordsmans guild lies to the west.
+~
+~
+0 -1 12621
+S
+#12623
+The Tournament and Practice Yard~
+   A strange sensation takes you over as you enter the practice yard. 
+You feel suddenly very aggressive, and want to test your skills. You get 
+the impression that the raging gods also felt this way, the well that 
+stood in the centre of the yard is smashed to smithereens, and someone 
+with giant fists has punched a huge hole in the wall to the south.
+~
+126 adur 11
+D0
+Through the red mist before your eyes, you see the guild bar.
+~
+~
+0 -1 12622
+E
+hole~
+Its only just too small to crawl through, you wouldn't want to meet 
+whoever could punch a hole this big through a brick wall!
+~
+S
+#12624
+Eastern End of Poor Alley~
+   You are in a narrow alley, which runs from the common square east of 
+here, to the city walls in the distance to the west. To the south is a 
+shabby looking Inn, you can smell burning within. Looking back the way 
+you came you see your footprints in the ash, marking your way for 
+anyone who might be following.
+~
+126 adu 11
+D1
+You see the common square.
+~
+~
+0 -1 12625
+D2
+The smell of burning comes from the shabby looking Inn to the south. 
+~
+~
+0 -1 12648
+D3
+The poor alley continues west.
+~
+~
+0 -1 12644
+S
+#12625
+The Common Square~
+   This large open square is connected to the market square north of 
+here, narrow alley ways lead west and east. The centre of the square is 
+filled with a large heap of the horrible ash that has covered you as you 
+have walked around. Maybe its just your imagination, but you swear you 
+can see human shapes in the ash.
+~
+126 adu 11
+D0
+You see the Market square
+~
+~
+0 -1 12614
+D1
+A dark alley leads east.
+~
+~
+0 -1 12626
+D2
+You see the Old South Gate.
+~
+~
+0 -1 12680
+D3
+A narrow alley leads west.
+~
+~
+0 -1 12624
+S
+#12626
+The Dark Alley~
+   You stand in a shadowy alley which runs from the common square east 
+toward the Midgaard river. The old thieves guild south of here is hidden 
+in shadows, but you can make out the sharp edges of broken walls through 
+the gloom. 
+~
+126 adu 11
+D1
+The dark alley continues east.
+~
+~
+2112 -1 12645
+D2
+You can't make anything out through the shadows.
+~
+~
+0 -1 12627
+D3
+You can see a great heap of ash in the common square.
+~
+~
+0 -1 12625
+S
+#12627
+Entrance Hall to the Guild of Thieves~
+   Always a haven for thieves, assassins and other wandering rogues, 
+this has never been a very safe place to be. However, it seems more 
+unsafe than usual - there is a certain menace in the air and you 
+can't help but feel someone is watching you. You feel you ought to 
+leave, only the very brave or very foolish would venture inside the 
+guild.
+~
+126 adu 1
+D0
+The dark alley lies to the north.
+~
+~
+0 -1 12626
+D1
+You can venture into the darkness.
+~
+~
+0 -1 12628
+S
+#12628
+The Thieves Bar~
+   As you enter the thieves bar your attention is immediately drawn to 
+some markings in the ash. Someone has been here before you, someone who 
+treads very lightly because faint footprints lead south into the yard.
+~
+126 adu 1
+D2
+The footprints lead south.
+~
+~
+0 -1 12629
+D3
+You see the entrance to the guild.
+~
+~
+0 -1 12627
+S
+#12629
+The Secret Yard~
+   Lying on the ground is a complete suit of clothes, obviously once 
+belonging to a thief (who else would wear such unfashionably dark 
+clothes?) The clothes are arranged on the ground as if someone were 
+still wearing them, but they contain only ash, still warm. One glove 
+still clutches a scrap of parchment.
+~
+126 adu 1
+D0
+You see the thieves bar.
+~
+~
+0 -1 12628
+E
+scrap parchment note glove~
+You carefully remove the parchment from the glove, and read it:
+
+   __________________________________________________________
+  /                                                          \ 
+ / My friend                                                  \
+/  My time grows short, i pray IO may still save us, but i    / 
+\  think it is too late for prayers. The gods have unleashed  \
+/  Dagga against us, in their rage. I had long thought that   /
+\  Dagga was a myth, but i have since learned the truth. He  /
+ \ is pure evil, malevolence personified, and more powerful  \
+ / than all the minions of hell combined. I will attempt to  /
+ \ rally the other mages to stand against him, but i believe \
+ / we will fail, and that we will all be killed.             /
+/                                         Lorrigan           \
+\____________________________________________________________/
+~
+S
+#12631
+The Pet Shop~
+   Oh the poor little animals never stood a chance, who would do such a 
+thing? The cages all round the shop are melted into tiny metallic 
+puddles.
+~
+126 adu 0
+D0
+You see the main street.
+~
+~
+0 -1 12615
+S
+#12632
+Pet Shop Store~
+Hey! this rooms doesnt exist - get OUT!
+~
+126 du 0
+S
+#12633
+The Magic Shop~
+   The front wall of the magic shop has been melted away, presumably in 
+the struggle between the magic users and whatever did this. The back 
+wall has been destroyed, blown out by a detonation of magical objects. 
+The ceiling looks like it could collapse at any second, you better get 
+out of here.
+~
+126 adu 0
+D2
+You see the main street through the melted front wall.
+~
+~
+0 -1 12612
+S
+#12640
+Inside the West Gate of Midgaard~
+   The west towers have been toppled, and the gate hangs forlornly on 
+only one of its hinges. The top third of the gate has been totally 
+burned away, as has the footbridge that once connected the towers. You 
+can see out into the wilderness to the west of the city.
+~
+126 adu 11
+D0
+A narrow road leads north towards a ruined keep.
+~
+~
+0 -1 12665
+D1
+You see Main Street. 
+~
+~
+0 -1 12612
+D2
+You see a road running alongside the the city wall. Sections of the wall 
+have collapsed, almost blocking the road, but you think it is passable.
+~
+~
+0 -1 12642
+D3
+A desolate grey wasteland extends as far as you can see.
+~
+gate~
+1 -1 12652
+S
+#12641
+The Ruined East Gate~
+   There are signs of fighting all around you, as you stand inside the 
+shattered east gate. All the buildings you can see are badly damaged, 
+most don't have roofs, and many are missing some of their walls as well. 
+The ground is covered with a dark grey ash that wafts around your feet 
+as you move, and the same ash covers every visible surface like a pall.
+There is an air of danger, as if the whole city is an elaborate trap.
+~
+126 adu 11
+D0
+You can make your way along the ruined alley to the north.
+~
+~
+0 -1 12670
+D1
+You see a desolate grey wilderness outside the gates. 
+~
+gate~
+1 -1 12653
+D2
+The ruins of the water shop lie to the south.
+~
+~
+0 -1 12658
+D3
+The street continues on towards the market square. 
+~
+~
+0 -1 12616
+E
+gate gates~
+The gates hang awkwardly on broken hinges. Their surfaces are pitted 
+by thousands of small burn marks and the bronze studs have melted and 
+run down the face of the gate like tears.
+~
+S
+#12642
+Wall Road~
+   You pick your way gingerly along the road beside the west wall. 
+Sections of the wall have collapsed, and the thick layer of ash 
+covering the ground makes the footing treacherous. Wall road continues 
+to the south.
+~
+126 adu 11
+D0
+You see the ruined city gate.
+~
+~
+0 -1 12640
+D2
+Wall road continues south.
+~
+~
+2112 -1 12643
+S
+#12643
+Wall Road~
+   The wall has fallen inwards totally just to the south of here, 
+rubble blocking the way. You might be able to get past the rubble with 
+a bit of effort though - you can hear a crackling noise coming from 
+there, and sounds of movement. Possibly someone has escaped the 
+destruction. Wall road leads north from here, or you can head down the
+narrow alley to the east.
+~
+126 adu 11
+D0
+You can pick your way through the rubble to the north.
+~
+~
+0 -1 12642
+D1
+A narrow alley heads east.
+~
+~
+0 -1 12644
+D2
+You might be able to force a way through to the south.
+~
+rubble~
+39 -1 12647
+S
+#12644
+Poor Alley~
+   You are in a narrow alley, which runs east and west. The walls to 
+either side of you are badly scorched, as if a great fire has passed 
+this way.
+~
+126 adu 11
+D1
+The poor alley continues east.
+~
+~
+0 -1 12624
+D3
+You see the city walls to the west.
+~
+~
+0 -1 12643
+S
+#12645
+Alley at Levee~
+   You are standing in the shadowy alley, to the east of the old 
+thieves guild. To the south you see the levee, and the alley continues 
+east through the ash. This part of town seems relatively untouched by 
+the destruction, most of the walls are still standing but the ground 
+is still covered with a layer of that horrible ash.
+~
+126 adu 11
+D1
+The alley continues east.
+~
+~
+0 -1 12646
+D2
+You see the levee.
+~
+~
+0 -1 12649
+D3
+The alley continues west.
+~
+~
+0 -1 12626
+S
+#12646
+Eastern end of Alley~
+   You are standing at the end of the alley, where the city wall blocks 
+any movement east. The top of the wall has collapsed outwards, you can 
+just about see over the top, though the other side is only a grey 
+wasteland with nothing to see. A small warehouse lies to the south, and 
+to the north is a Mexican food stand.
+~
+126 adu 11
+D0
+You see the remains of the Taco stand.
+~
+~
+0 -1 12656
+D2
+You see a burnt out warehouse. 
+~
+~
+0 -1 12650
+D3
+A Dark alley leads west.
+~
+~
+0 -1 12645
+S
+#12647
+Wall Road~
+   The western wall here is mostly intact, but to the south it ends 
+abruptly, and where the bridge used to be is just a hole in the 
+ground. Its very hot in here, and the lack of air movement makes it
+suffocating. You can hear moaning to the south, and occasional 
+growling and the smell of burning flesh hangs in the air. 
+~
+126 adux 11
+D0
+You can make your way along the wall road.
+~
+rubble~
+39 -1 12643
+D2
+It feels even hotter to the south, and you can hear sounds of suffering.
+~
+~
+0 -1 12651
+S
+#12648
+Grubby Inn~
+   You are inside the old Grubby Inn. This place was never well cared 
+for, and its odour was legendary so it would be fair to say that nothing 
+much has changed in that respect. However, the whole of the Inn is 
+gutted, the floorboards are burned through in places and you can see 
+into the cellars and the remains of the furniture form a large heap of 
+kindling in the far corner.
+~
+126 adu 0
+D0
+You see a narrow alley.
+~
+~
+0 -1 12624
+S
+#12649
+Levee~
+   You are at the levee, where boats that travelled the Midgaard river 
+would dock and unload their wares. Looking over the river bank you find 
+that there is no river anymore, just a dry river bed, and beyond it a 
+desolate grey wilderness.
+~
+126 adu 11
+D0
+You see the dark alley.
+~
+~
+0 -1 12645
+S
+#12650
+Warehouse~
+   All goods coming into the city would be stored here, the shopkeepers 
+paid handsomely for the space to keep their goods. The roof of the 
+warehouse is full of holes, as if fire rained from the sky, and the 
+boxes and crates lie burned and broken along the west wall.
+~
+126 adu 1
+D0
+You see the dark alley.
+~
+~
+0 -1 12646
+S
+#12651
+Dagga's Lair~
+   You find yourself in a living hell. The Avatar of Rage, Dagga, has 
+made this his final resting place. There are several prisoners chained 
+just to the south of where you stand, and corpses strewn all around. The 
+heat is unbearable, and emanates from Dagga himself, who sits in the 
+centre of the room torturing his victims. He casually points a finger at 
+a young girl, who screams as her bones turn to fire. The scream goes on 
+and on, until her tiny body turns completely to ash and crumbles to the 
+ground. Now that you understand where all the ash in the city came from, 
+you feel nauseous.
+~
+126 adux 11
+D0
+You can escape this hell-hole to the north.
+~
+~
+0 -1 12647
+S
+#12652
+In the Wilderness~
+   Blood red clouds glare angrily at you as you gaze around the 
+wilderness that now surrounds Midgaard. Once a verdant forest, the 
+land to the west looks as if it has been scoured by a rain of fire. The 
+only evidence of trees are several charred limbs clawing forlornly at 
+the sky. The ash beneath your feet crunches as you walk.
+~
+126 adu 11
+D0
+You can't see anything through the haze.
+~
+~
+0 -1 12682
+D1
+The ruined city of Midgaard lies to the east.
+~
+gate~
+1 -1 12640
+D2
+You can't see anything through the haze.
+~
+~
+0 -1 12682
+D3
+You can't see anything through the haze.
+~
+~
+0 -1 12682
+S
+#12653
+In the Wasteland~
+   You find yourself in a waking nightmare. The sky is a threatening 
+dark grey colour, and the clouds are blood red. The ground beneath your 
+feet is also grey, and as you move it sends up little puffs of foul 
+smelling ash to assault your nose and eyes. The terrain is flat as far 
+as the eye can see to the north, east and south, but quickly fades into 
+an indistinct fog. You imagine that it would be very easy to get lost out 
+there in the desolation. However it is the sight to the west that 
+captures your attention. You stand before a set of broken gates, melted 
+on their hinges, but still just about attached to the crumbling walls. 
+Moreover, you recognise these walls, and the city behind them - Midgaard.
+~
+126 aduc 11
+D0
+The view north quickly becomes obscured by the fog.
+~
+~
+0 -1 12681
+D1
+The view east quickly becomes obscured by the fog.
+~
+~
+0 -1 12681
+D2
+The view south quickly becomes obscured by the fog.
+~
+~
+0 -1 12681
+D3
+The gates have been broken by a severe magical onslaught
+~
+gate gates~
+1 -1 12641
+E
+gate gates~
+The gates hang awkwardly on broken hinges. Their surfaces are pitted 
+by thousands of small burn marks and the bronze studs have melted and 
+run down the face of the gate like tears.
+~
+S
+#12654
+Behind the Shattered Altar~
+   You are behind the temple altar at the north end of the ruined 
+Midgaard temple. The huge white marble altar has been broken into 
+several fragments and the floor is strewn with debris which has fallen 
+from the ceiling. Two large statues of IO and Rigel, the two creators 
+of the world lie where they have fallen, IO's head is missing and Rigel 
+has been broken in half. A thick layer of grey ash covers everything.
+~
+126 adu 1
+D2
+The main part of the temple lies to the south.
+~
+~
+0 -1 12601
+S
+#12656
+Uncle Juan's Eatery~
+   Mixed in with the acrid smell of the ash, is a sweet spicy smell, 
+obviously left over from the time when this was a popular eatery. The 
+whole place looks like a whirlwind has passed through, turning all the 
+fixtures and fittings to tinder.
+~
+126 adu 0
+D2
+You see the eastern end of the alley.
+~
+~
+0 -1 12646
+S
+#12658
+The Wrecked Water Shop~
+   It used to be a source of refreshment, but the Gods, in their rage, 
+have ripped out the inside, scorching the walls and obliterating the 
+roof. While dry ash clings to the walls, there is a small puddle of damp 
+muck in the corner, where the proprietor once stored his wares.
+~
+126 adu 0
+D0
+The rest of the city awaits.
+~
+~
+0 -1 12641
+S
+#12662
+The Post Office~
+   A vast amount of mail once passed through the post office, not just 
+letters and postcards but also crates and packages. Messages still 
+magically appear in the sorting box in the far corner, but they 
+immediately catch fire. Ash from the burning letters spills out of the 
+sorting box, over the floor and out of the door to the south.
+~
+126 adu 1
+D2
+You see the entrance to the Three Crowns Inn.
+~
+~
+0 -1 12606
+S
+#12663
+Midgaard Donation Room~
+   This tiny alcove, just to the east of the main temple, was the source 
+of help to many a young adventurer. People would often donate useful 
+items to help the less fortunate. Everything left here before the gods 
+came to destroy the city has been destroyed, each item deliberately 
+rendered totally useless.
+~
+126 adu 1
+D3
+The main part of the temple lies to the west.
+~
+~
+0 -1 12601
+S
+#12665
+Wall Road~
+   This narrow road follows the west wall northwards until it turns 
+east. Just to the north of this place you see a ruined citadel, the 
+heavy stone blocks from which it was constructed have been toppled, and 
+the ruins it look far too dangerous to enter.
+~
+126 adu 11
+D1
+You see west temple street.
+~
+~
+0 -1 12666
+D2
+A road follows the west city wall southwards.
+~
+~
+0 -1 12640
+S
+#12666
+West Temple Street~
+   You are on west temple street, picking your way over the rubble, 
+and coughing as the ash irritates your lungs. To the north you see 
+the old Midgaard library, and to the south you see the burnt out 
+shell of the tailor's shop.
+~
+126 adu 11
+D0
+You see the entrance to the old Midgaard library.
+~
+~
+0 -1 12677
+D1
+Temple street continues east.
+~
+~
+2112 -1 12667
+D2
+You see the burnt out shell of the tailor's shop to the south.
+~
+~
+0 -1 12671
+D3
+The street continues west.
+~
+~
+0 -1 12665
+S
+#12667
+West Temple Street~
+   You are on west temple street, just to the east is the temple square. 
+The building to the north, which seems to be missing its roof, and one 
+of its walls, still bears the battered symbol of brotherhood - it can 
+only be the clerics guild house. The building to the south seems to 
+glitter like treasure despite the ash that covers it.
+~
+126 adu 11
+D0
+You see the wreckage of the clerics guild.
+~
+~
+0 -1 12604
+D1
+You see the Temple Square.
+~
+~
+0 -1 12605
+D2
+The air seems to glitter in the building south of here.
+~
+~
+0 -1 12672
+D3
+Temple street continues west.
+~
+~
+0 -1 12666
+S
+#12668
+East Temple Street~
+   Ash hangs in the air near here choking you, and stinging your eyes. 
+The old Three Crowns Inn lies to the north, and to the south you can 
+make out the shattered flower shop.
+~
+126 adu 11
+D0
+You see the burnt out ruin of an Inn
+~
+~
+0 -1 12606
+D1
+Temple street continues east.
+~
+~
+0 -1 12669
+D2
+You can make out the ruin of Rosy's flower shop.
+~
+~
+0 -1 12673
+D3
+Temple square lies to the west.
+~
+~
+0 -1 12605
+S
+#12669
+East Temple Street~
+   The devastation at this end of east temple street seems worse than 
+elsewhere in the city. It is impossible to enter the building south of 
+here, the charred timbers no longer support the ravaged roof, and the 
+walls have all collapsed inwards. The building to the north has also 
+sustained severe damage, though it is impossible to tell how much damage 
+without taking a closer look.
+~
+126 adu 11
+D0
+If you're careful you could take a look round the building north of here.
+~
+~
+0 -1 12676
+D1
+East Temple street continues east.
+~
+~
+0 -1 12670
+D3
+Temple street continues west.
+~
+~
+0 -1 12668
+S
+#12670
+East Temple Street~
+   You have reached the east end of East Temple Street. The ground is 
+uneven under foot, and foul smelling grey ash makes you cough and 
+wheeze. The building to the north has reinforced walls, and while it has 
+sustained damage it seems to be structurally sound. A faint portal to 
+the east flickers fitfully, you suspect that it no longer works. To the 
+south you can make out the remains of the east gate.
+~
+126 adu 11
+D0
+You can see the gutted shell of the city bank.
+~
+~
+0 -1 12675
+D2
+You can make out the city's east gate.
+~
+~
+0 -1 12641
+D3
+East Temple street leads west. 
+~
+~
+2112 -1 12669
+S
+#12671
+Tailor's~
+   It used to be that you could find the ideal garment here for any 
+occasion. But no more, the only thing that remains is a hanging rail 
+along the south wall, any clothes that once hung upon it have been 
+destroyed by the gods.
+~
+126 adu 0
+D0
+You see temple street to the north.
+~
+~
+0 -1 12666
+S
+#12672
+Jeweller's~
+   The floor of the jewellers is covered with tiny blobs of gold and 
+silver, once finely crafted rings that have been melted in the 
+destruction. The whole shop seems to glitter, as a result of the 
+powdered gemstones embedded on the walls and mingled in with the 
+ashes on the floor. Guess diamonds aren't forever after all.
+~
+126 adu 0
+D0
+Temple street lies to the north.
+~
+~
+0 -1 12667
+S
+#12673
+Rosy's Flowers~
+   Rosy's flower shop used to brighten the day of anyone passing by, 
+with arrangements of beautiful and fragrant flowers. There are no 
+flowers here now, and the only smell is that that of burning timbers
+~
+126 adu 0
+D0
+You see east temple street to the north.
+~
+~
+0 -1 12668
+S
+#12675
+City Bank~
+   The reinforced walls of the bank have saved it from total 
+destruction, although it has still sustained alot of damage. A 
+wrecked automatic teller winks at you from the corner of the room.
+~
+126 adu 0
+D2
+You see East Temple Street.
+~
+~
+0 -1 12670
+E
+teller~
+Doesn't look so useful lying on its side like this. You poke 
+experimentally at it, but it refuses to pay out.
+~
+S
+#12676
+The Casino~
+   Gambling of all types used to be available here; roulette, blackjack, 
+craps and even poker. Someone obviously didn't approve however and the 
+entire building has been pulled down. Only the entrance where you stand 
+remains intact, and it is filled with the wreckage of craps tables, and 
+pieces of the roulette wheel.
+~
+126 adu 0
+D2
+The grey ash-filled east temple street lies to the south.
+~
+~
+0 -1 12669
+S
+#12677
+City Library~
+   This building was a source of information to all visitors to 
+Midgaard, and a place of discussion. A long hallway used to run 
+north from here, although the rest of the building has since been 
+destroyed. The second storey, where all the books were stored is 
+also no longer in existence.
+~
+126 adu 1
+D2
+You can see west temple street.
+~
+~
+0 -1 12666
+S
+#12680
+The Old South Gate~
+   The Old South Gate had been disused and unguarded for many years, 
+before the destruction visited by the gods. The remaining wall sections, 
+and moss covered gates have been reduced to a sad pile of rubble, 
+blocking any further movement south.
+~
+126 adu 11
+D0
+You see the common square.
+~
+~
+0 -1 12625
+S
+#12681
+In the Wasteland~
+   You don't recall which way you came to get here. The fog is dry, and 
+chokes you as you walk. You can travel in any direction but they all 
+seem the same.
+~
+126 acgu 11
+D0
+You can't make anything out through the fog.
+~
+~
+0 -1 12681
+D1
+You can't make anything out through the fog.
+~
+~
+0 -1 12681
+D2
+You can't make anything out through the fog.
+~
+~
+0 -1 12681
+D3
+You can't make anything out through the fog.
+~
+~
+0 -1 12653
+S
+#12682
+In the Wasteland~
+   You don't remember which way you came, ash wafts round your
+ankles, and the blackened skeletal trees all look the same. The 
+land is completely flat, but your view in every direction is 
+obscured by a foggy haze.
+~
+126 acgu 11
+D0
+You can't make anything out through the fog.
+~
+~
+0 -1 12682
+D1
+You can't make anything out through the fog.
+~
+~
+0 -1 12682
+D2
+You can't make anything out through the fog.
+~
+~
+0 -1 12652
+D3
+~
+~
+You can't make anything out through the fog.
+0 -1 12682
+S
+#12683
+Lake of Fire~
+This is where bad folks go when they die. They go to a lake of fire 
+and fry!
+~
+126 abcud 0 
+S
+#12684
+A pile of rubble~
+The stairs collapse beneath your weight, and you find yourself crushed 
+to death by the falling chunks of marble.
+~
+126 abcud 0
+D5
+You can't see anything - you're DEAD! Unless....hmmm...wait a second..
+are you an Imm..? Pah...ok...ok...enjoy it while you can...but ill get
+you when you're morting :P
+~
+~
+0 -1 12697
+S
+#12697
+Temple stairs~
+   The stairs wobble alarmingly as you ascend towards the old BOT room, 
+once a haven for adventurers, and a source of much needed help. The 
+thick marble steps beneath your feet are chipped and cracked, and 
+looking further ahead you see that the steps could easily collapse 
+under your weight.
+~
+126 adu 1
+D4
+I wouldn't try climbing those steps, they could collapse.
+~
+~
+0 -1 12684
+D5
+You see the main part of the desecrated temple.
+~
+~
+0 -1 12601
+S 
+#99999
+$~

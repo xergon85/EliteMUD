@@ -1,0 +1,1334 @@
+#30000
+The Old Well~
+   The well doesn't look that unused as you thought it should be. In 
+fact it looks like it has been used every day. You see rungs leading 
+down into the darkness below. The main farm house lies to the north 
+and to the west you see a large wild grown field.
+~
+300 l 2
+D2
+~
+~
+0 -1 30058
+D5
+~
+~
+0 -1 30001
+E
+rungs rung well~
+As you look closer you see that some of the rungs have been replaced 
+with new ones. 
+~
+S
+#30001
+Down in the well~
+   This is a dark and slippery place, filled with maggots and rotten 
+smells. The ladder is rusty, and you wonder if the rung will really 
+hold you and all that equipment you insist on having with you.
+~
+300 dl 4
+D4
+You see the light of the sky up there.
+~
+~
+0 -1 30000
+D5
+The ladder leads further down into the darkness.
+~
+~
+0 -1 30002
+S
+#30002
+Further down in the well~
+   The rotten smells are almost intolerable down here. The brick walls 
+here is very old and whole sections have fallen down into the dark 
+water far below you.
+~
+300 d 4
+D4
+You see a small dot up there that you think is the sky over EliteMud.
+~
+~
+0 -1 30001
+D5 
+The ladder leads further down into the darkness, but the rung is VERY 
+rusty and will probably fall apart if you try them.
+~
+~
+0 -1 30057
+D3
+There is a hole here that your probably can squeeze you through, if you 
+take away some stones.
+~
+~
+0 -1 30003
+S
+#30003
+Small room~
+   This room is quite small, and the stone bricks on the walls are 
+marked with erosion. A small stone door is on the west wall, with 
+ancient symbols carved into it. There is a hole in the east wall 
+that you probably can squeeze you through.
+~
+300 ad 0
+D1 
+~
+~
+0 -1 30002
+D3
+~
+door~
+2 30005 30004
+S
+#30004
+Entrance room~
+   The ancient stonewalls are covered here by black tapestries with 
+strange symbols on them. The room extends further to the north and a 
+black painted door leads to the west. A small stone door is on the east 
+wall.
+~
+300 d 0
+D0
+The room extends further to the north.
+~
+~
+0 -1 30035
+D1
+~
+~
+1 -1 30003
+D3
+The black door is on this wall, between two black tapestries.
+~
+door~
+1 -1 30005
+E
+tapestries~
+The tapestries are very ancient, and now as you look at them, the 
+symbols must actually be letters in an unknown language.
+~
+S
+#30005
+Dark corridor~
+   This corridor is filled up to your knees with a gray, thick, slow 
+moving smoke. The walls here are completely black with strange symbols 
+painted in purple.
+~
+300 ad 0
+D1
+There is a door on this wall.
+~
+door~
+1 -1 30004
+D2
+~
+~
+0 -1 30006
+S
+#30006
+Dark corridor~
+   This corridor is filled up to your knees with a gray, thick, slow 
+moving smoke. The walls here are completely black with strange symbols 
+painted in purple.
+~
+300 ad 0
+D0
+~
+~
+0 -1 30005
+D3
+~
+~
+0 -1 30007
+S
+#30007
+Dark corridor~
+   The corridor is filled up to your waist with a gray, thick, slow 
+moving smoke, making your feet impossible to spot. The corridor opens 
+up into a room to the west.
+~
+300 acd 0
+D1
+~
+~
+0 -1 30006
+D3
+The room to the west is even more filled with the gray smoke.
+~
+~
+0 -1 30008
+S
+#30008
+Smoke filled room~
+   The room is almost completely filled with the thick smoke. The smoke 
+seems to flow through the room in a very strange way. It's almost as if 
+you can see the smoke turn into cloaked figures, moving in a ancient 
+dance of death.
+~
+300 ad 0
+D1
+~
+~
+0 -1 30007
+D2
+~
+~
+0 -1 30010
+D3
+~
+~
+0 -1 30009
+S
+#30009
+Smoke filled room~
+   The room is almost completely filled with the thick, gray smoke. Here 
+the smoke is almost at rest, only moving by the sudden movements of your 
+body.
+~
+300 ad 0
+D0
+~
+~
+0 -1 30012
+D1
+~
+~
+0 -1 30008
+D2
+~
+~
+0 -1 30011
+D3
+The smoke seems to be less thick to the west.
+~
+~
+0 -1 30013
+S
+#30010
+Smoke filled room~
+   The room is almost completely filled with the thick, gray smoke. The 
+smoke is moving through this room in a very strange way. It's almost as 
+if you can see the smoke turn into cloaked figures, moving in an ancient 
+dance of death.
+~
+300 ad 0
+D0
+~
+~
+0 -1 30008
+D3
+~
+~
+0 -1 30011
+S
+#30011
+Smoke filled room~
+   The room is almost completely filled with the thick, slow moving 
+smoke. The smoke seems to flow around you and grapple your body in a 
+most disturbing way.
+~
+300 ad 0
+D0
+~
+~
+0 -1 30009
+D1
+~
+~
+0 -1 30010
+S
+#30012
+Smoke filled room~
+   This part of the room IS completely filled with the gray smoke, 
+making breathing almost impossible. You wonder if this smoke is 
+poisonous to inhale.
+~
+300 ad 0
+D2
+The smoke seems to be less thick to the south.
+~
+~
+0 -1 30009
+S
+#30013
+Dark corridor~
+   The corridor is filled up to your waist with the gray smoke. To the 
+east you see a room filled with this strange smoke. The corridor bends 
+to the south here.
+~
+300 acd 0
+D1
+The room seems to be completely filled with smoke.
+~
+~
+0 -1 30009
+D2
+~
+~
+0 -1 30014
+S 
+#30014
+Dark corridor~
+   At last you leave the smoke behind you as you enter this part of the
+corridor. The corridor leads into the darkness to the north, and to the 
+east into a narrower part of the corridor. To the south there is an 
+old oak door.
+~
+300 ad 0
+D0
+Smoke slowly moves towards you from the north.
+~
+~
+0 -1 30013
+D1
+The corridor stretches further to the east.
+~
+~
+0 -1 30018
+D2
+Yes, there is definitely a door to the south.
+~
+door~
+1 -1 30015
+E
+door~
+The door must be very old because it fits exactly into the door frame.
+~
+S
+#30015
+The dining room~
+   You have entered a quite big room with rows of tables and chairs. On 
+the walls hangs black tapestries of assassins killing king Welmar. The 
+air is filled with an aroma of lobsters and sweet wine. Who makes this 
+good and expensive food for the foul assassins?
+~
+300 d 0
+D0
+~
+door~
+1 -1 30014
+D3
+The room to the west must be the kitchen. You hear the well-known noises 
+of someone making a nice dinner.
+~
+~
+0 -1 30016
+E
+tapestries~
+Its certainly King Welmar on one of the tapestries, but he looks much 
+younger on it, and quite dead too with a knife in his back.  
+~
+S
+#30016
+The Kitchen~
+   The kitchen is filled with tools needed for making food. A big 
+cauldron with lobster soup stands here over a small fire. You suddenly 
+think back to the loaves of bread you always eat when hungry and wonder 
+if the soup is as good as it smells. To the east is the eating area and 
+to the west is a small door, probably to the food storage.
+~
+300 d 0
+D1
+~
+~
+0 -1 30015
+D3
+The door to the west is small and very fragile.
+~
+door~
+1 -1 30017
+door~
+The door is very very fragile and would probably break if you bash it.
+~
+S
+#30017
+The food storage room~
+   This room is very damp and the walls is made of packed earth. The 
+room is filled with sacks and barrels with food and wine. With all this 
+food this organization will not be starving for years. The only exit is 
+through the door to the east.
+~
+300 ad 0
+D1
+~
+~
+1 -1 30016
+S
+#30018
+Dimly lit corridor~
+   The corridor's only light source is a small flickering torch on the 
+south wall. The bricks here are painted black making this a quite scary 
+place. The corridor continues to the west and the east. A black door 
+with a small sign is to the north.
+~
+300 d 0
+D0
+The black door has a sign on it.
+~
+door~
+1 -1 30019
+D1
+~
+~
+0 -1 30020
+E
+door~
+There is a sign on the black door.
+~
+E
+sign~
+The sign says:
+
+
+           THE TRAINING ROOM
+
+~
+D3
+~
+~
+0 -1 30014 
+S
+#30019
+The assassins training room~
+   You have entered a big room with gray walls a big nice carpet of 
+Arabian quality. A huge amount of wicked weapons hangs on the walls, 
+some of them you recognize, others are very strange and old. Three 
+dummies stand near the north wall, looking somewhat smashed. The only 
+exit is through the door to the south.  
+~
+300 d 0
+D2
+The door leads out to the corridor.
+~
+door~
+1 -1 30018
+E
+dummies dummy~
+The assassins must be fond of cutting these dummies throats because it 
+looks like they have been repaired there several times.
+~
+E
+weapon weapons~
+The weapons looks extremely deadly. Wonder if the assassins train with 
+razor-sharp weapons?
+~
+S
+#30020
+Dimly lit corridor~
+   This part of the corridor is completely silent. You see small 
+puddles of fresh blood on the floor. Someone must have been killed here 
+recently. The corridor continues to the east and west, and there is a 
+door on the north wall with a small sign.
+~
+300 d 0
+D0
+There is a door on the north wall, made of oak.
+~
+door~
+1 -1 30021
+D1
+You see that the corridor continues to the east.
+~
+~
+0 -1 30023
+D3
+The corridor continues to the west.
+~
+~
+0 -1 30018
+D4
+You see that the blood comes from a small trapdoor in the ceiling. 
+Suddenly a blood drop lands on your shoulder. Yuck!
+~
+trapdoor~
+1 -1 30022
+E
+door~
+The door is made of oak, and there is a sign on it.
+~
+E
+sign~
+The sign says:
+
+              MEDITATION CHAMBER
+
+~
+E
+trapdoor~
+The trapdoor is small and fits well into the ceiling. You are very 
+lucky that you even saw it.
+~
+S
+#30021
+Meditation chamber~
+   The air in this room is filled with a soft, narcotic aroma that makes 
+your head spin. On small tables by the walls stands hundreds of small 
+candles which provides a eerie feeling over the place. On the floor is 
+a big black carpet with strange golden symbols woven into it. The only 
+exit is through the door to the south.
+~
+300 d 0
+D2
+You see a door.
+~
+door~
+1 -1 30020
+E
+carpet~
+The carpet is very beautiful but too heavy for you to take with you.
+~
+S
+#30022
+Secret room~
+   These assassins must be maniacs! The floor is almost completely 
+filled with fresh corpses, and you can't move an inch without steeping 
+into a puddle of blood. Is this place a storage room for corpses?
+~
+300 ad 0
+D5
+There is a trapdoor under all the corpses.
+~
+trapdoor~
+1 -1 30020
+S
+#30023
+Dimly lit corridor~
+   You are at a bend of the corridor. It stretches further to the west 
+and to the south. The smell of something sticky and poisonous catch 
+your nose from the south corridor. There is a black painted door on the 
+north wall.
+~
+300 d 0
+D0
+There is a door on the north wall.
+~
+door~
+1 -1 30024
+D2
+There is strange smell coming from this corridor.
+~
+~
+0 -1 30026
+D3
+The corridor continues to the west.
+~
+~
+0 -1 30020
+S
+#30024
+Barracks~
+   This sparsely equipped room must be the assassins sleeping quarters. 
+Rows of small and not so comfortable beds stand by the walls, there 
+must be some 20 beds here. Why don't you count the beds and then see 
+if you have killed the right number of baddies down here? (grin). The 
+room extends further to the east, and there is a door to the south here.
+~
+300 ad 0
+D1
+Someone must have a candle lit to the east.
+~
+~
+0 -1 30025
+D2
+Yes, there is a door there.
+~
+door~
+1 -1 30023
+S
+#30025
+The inner part of the barracks~
+   These beds seems even more uncomfortable than the beds in the west 
+part of the room. They are made of stone! On a small table by a bed is 
+a lit candle. The only apparent exit is to the west.
+~
+300 d 0
+D3
+The room extends further to the west.
+~
+~
+0 -1 30024
+E
+candle~
+The candle seems to have burned halfway and is firmly attached to the 
+table.
+~
+S
+#30026
+Smelly part of the corridor~
+   There is a poisonous smell in the air here, mainly coming from the 
+door to the east. There is a sign on the door too. You see the end of 
+the corridor to the south and a bend of the corridor to the north.
+~
+300 d 0
+D0
+You see a bend in the corridor to the north.
+~
+~
+0 -1 30023
+D1
+There is a door to the east, with a sign on it.
+~
+door~
+1 -1 30027
+D2
+You see three doors at the end of the corridor.
+~
+~
+0 -1 30029
+E
+sign~
+The sign says:
+
+   The hall of the Poisonlord.
+    
+          Keep out !!
+
+~
+S
+#30027
+The hall of the Poisonlord~
+   You have entered a great underground hall, probably a natural cave. 
+Huge black tapestries cover the gray stone walls, with a very ugly and 
+horrible face woven in gold on each of them. To the east you see a pool 
+filled with a boiling liquid, the smell of acidic venom is almost 
+intolerable in here.
+~
+300 d 0
+D1
+You the pool to the east.
+~
+~
+0 -1 30028
+D3
+The door leads out to the corridor.
+~
+door~
+1 -1 30026
+E
+tapestries~
+The eyes on the huge ugly faces seems to follow your every move.
+~
+S
+#30028
+By the Pool~
+   You stand by the 10 feet wide pool. Lethal fumes is emerging from the 
+boiling surface of the liquid, making you cough.  On tables around the 
+pool stands hundreds of small flasks and bottles with weird looking tags 
+labels on each of them. A huge humanoid stands by the pool, wearing a 
+black robe and a hood that puts its face in shadow. He radiates a 
+feeling of complete corruption. Suddenly you realize that this is the 
+guy on the tapestries to the west.
+~
+300 d 0
+D3
+You see the door at the end of the hall.
+~
+~
+0 -1 30027
+D5
+The pool doesn't look nice to jump into. Do you really wanna try that?
+~
+~
+0 -1 30056
+E
+pool~
+The pool is filled with a green boiling liquid that must be poison. 
+Bubbles with gray smoke is constantly emerging on the surface.
+~
+E
+bottles flasks~
+The stuff in the bottles seems to be ingredients to the liquid in the 
+pool. Do not touch them, they must be poisonous too!
+~
+S
+#30029
+By the end of the corridor~
+   You stand at the end of the long corridor. The bricks on the walls 
+are really old here, looking like they have been there for thousands of 
+years. A steel door is on the east wall, and on the west wall there is 
+a completely normal door. Silent screams can be heard from the door to 
+the south.
+~
+300 d 0
+D0
+The corridor goes back to the north.
+~
+~
+0 -1 30026
+D1
+There is a heavy steel door to the east.
+~
+door~
+2 30013 30030  
+D2
+Horrible screams breaks the otherwise complete silence through the door.
+~
+door~
+1 -1 30031
+D3
+The door is very normal.
+~
+door~
+1 -1 30032
+S
+#30030
+The Dungeons~
+   This prison is simply constructed, its a square room with steel bars 
+running parallel with the ceiling at 8 feet high. The bars must have 
+been put there to hang the prisoners upside down through their achilles 
+tendons. Hoards of maggots and rats run around on the dirty floor.
+~
+300 d 0
+D3
+You see the corridor through a small window in the door.
+~
+door~
+1 -1 30029
+E
+bar bars~
+The bars are very rusty and there is coagulated blood all over them.
+~
+S
+#30031
+The torture chamber~
+   This room is filled with clever tools to inflict pain into a 
+creatures body and soul. Most of the stuff in here are so complex that 
+it would take days for you to optimize the efficiency of them. You spot 
+a iron maiden in one corner, probably out of use with all the other 
+apparently effective tools here. You somehow feel the hopelessness of 
+all the victims of these horrible experiment during the centuries past.
+~
+300 d 0
+D0
+The door leads out to the corridor.
+~
+door~
+1 -1 30029
+E
+iron maiden~
+The steel tips in the iron maiden is very rusty. Wonder if that will 
+help you a bit if you got trapped in it.
+~
+S
+#30032
+Gontran's room~
+   This rooms interior are very luxurious and very different to all the 
+other rooms in this complex. The huge bed is made of dharian irontree, 
+the furniture of Direwood and the carpet must be from Thalos. Small 
+lanterns hangs in the ceiling making this room kind of a nice place. 
+But the guy that lives here is probably not nice at all.
+~
+300 d 0
+D1
+The door leads out to the corridor.
+~
+door~
+1 -1 30029 
+D3 
+There is a secret door behind the a tapestry.
+~
+secret door~
+2 30006 30033
+S
+#30033
+Secret room~
+   This room is very small and the stone bricks in the walls are heavily 
+eroded here. Small puddles of water is on the floor, probably the 
+subsoil water that is leaking through the walls.
+~
+300 ad 0
+D1
+The secret door leads to the Gontran's room.
+~
+secret door~
+1 -1 30032
+S
+#30035
+Entrance room~
+   The black tapestries cover most of the walls here, with ancient 
+symbols which seems to move around in small circles, although you know 
+that they are well woven into the cloth. You spot a door to the west, 
+and the room extends further to the south.
+~
+300 d 0
+D2
+You see the southern part of the room.
+~
+~
+0 -1 30004
+D3
+There is a door on the west wall.
+~
+door~
+1 -1 30036
+S
+#30036
+A dark corridor~
+   You are standing in a dark corridor, very dirty and with spiderwebs 
+in the upper corners of the walls. To the west you see a illuminated 
+hall with several mirrors reflecting your image back to you. To the east 
+there is a door.
+~
+300 acd 0
+D1
+You see a door to the east.
+~
+door~
+1 -1 30035
+D3
+To the west lies the Hall of Mirrors.
+~
+~
+0 -1 30037
+S
+#30037
+The Hall of Mirrors~
+   You have entered a hall with thousands of mirrors. In the light of 
+your light source you see thousands of images of yourself staring at 
+you. The mirrors seems to make the proportions of the room very 
+unrealistic and strange. 
+~
+300 d 0
+D0 
+~
+~
+0 -1 30042
+D1
+~
+~
+0 -1 30036
+D2
+~
+~
+0 -1 30045
+D3
+~
+~
+0 -1 30038
+S
+#30038
+The Hall of Mirrors~
+   You have entered a hall with thousands of mirrors. In the light of 
+your light source you see thousands of images of yourself staring at 
+you. The mirrors seems to make the proportions of the room very 
+unrealistic and strange. 
+~
+300 d 0
+D0 
+~
+~
+0 -1 30041
+D1
+~
+~
+0 -1 30037
+D2
+~
+~
+0 -1 30044
+D3
+~
+~
+0 -1 30039
+S
+#30039
+The Hall of Mirrors~
+   You have entered a hall with thousands of mirrors. In the light of 
+your light source you see thousands of images of yourself staring at 
+you. The mirrors seems to make the proportions of the room very 
+unrealistic and strange. 
+~
+300 d 0
+D0
+~
+~
+0 -1 30040
+D1
+~
+~
+0 -1 30038
+D2
+~
+~
+0 -1 30043
+D3
+~
+~
+0 -1 30046
+S
+#30040
+The Hall of Mirrors~
+   You have entered a hall with thousands of mirrors. In the light of 
+your light source you see thousands of images of yourself staring at 
+you. The mirrors seems to make the proportions of the room very 
+unrealistic and strange. 
+~
+300 d 0
+D0
+~
+~
+0 -1 30043
+D1
+~
+~
+0 -1 30041
+D2
+~
+~
+0 -1 30039
+D3
+~
+~
+0 -1 30042
+S
+#30041
+The Hall of Mirrors~
+   You have entered a hall with thousands of mirrors. In the light of 
+your light source you see thousands of images of yourself staring at 
+you. The mirrors seems to make the proportions of the room very 
+unrealistic and strange. 
+~
+300 d 0
+D0
+~
+~
+0 -1 30044
+D1
+~
+~
+0 -1 30042
+D2
+~
+~
+0 -1 30038
+D3
+~
+~
+0 -1 30040
+S
+#30042
+The Hall of Mirrors~
+   You have entered a hall with thousands of mirrors. In the light of 
+your light source you see thousands of images of yourself staring at 
+you. The mirrors seems to make the proportions of the room very 
+unrealistic and strange. 
+~
+300 d 0
+D0
+~
+~
+0 -1 30045
+D1
+~
+~
+0 -1 30040
+D2
+~
+~
+0 -1 30037
+D3
+~
+~
+0 -1 30041
+S
+#30043
+The Hall of Mirrors~
+   You have entered a hall with thousands of mirrors. In the light of 
+your light source you see thousands of images of yourself staring at 
+you. The mirrors seems to make the proportions of the room very 
+unrealistic and strange. 
+~
+300 d 0
+D0
+~
+~
+0 -1 30039
+D1
+~
+~
+0 -1 30044
+D2
+~
+~
+0 -1 30040
+D3
+~
+~
+0 -1 30045
+S
+#30044
+The Hall of Mirrors~
+   You have entered a hall with thousands of mirrors. In the light of 
+your light source you see thousands of images of yourself staring at 
+you. The mirrors seems to make the proportions of the room very 
+unrealistic and strange. 
+~
+300 d 0
+D0
+~
+~
+0 -1 30038
+D1
+~
+~
+0 -1 30045
+D2
+~
+~
+0 -1 30041
+D3
+~
+~
+0 -1 30043
+S
+#30045
+The Hall of Mirrors~
+   You have entered a hall with thousands of mirrors. In the light of 
+your light source you see thousands of images of yourself staring at 
+you. The mirrors seems to make the proportions of the room very 
+unrealistic and strange. 
+~
+300 d 0
+D0
+~
+~
+0 -1 30037
+D1
+~
+~
+0 -1 30043
+D2
+~
+~
+0 -1 30042
+D3
+~
+~
+0 -1 30044
+S
+#30046
+A dark corridor~
+   This corridor doesn't seem to have been used for ages. The dirt on 
+the floor is almost ankle-deep and the spiderwebs are really big here. 
+To the east you see the strange Hall of Mirrors, and to the west you 
+see a well lit room.
+~
+300 acd 0
+D1
+You see the Hall of Mirrors to the east.
+~
+~
+0 -1 30039
+D3
+You see a room to the west.
+~
+~
+0 -1 30047
+S
+#30047
+Hall of the Statues~
+   The entire room is filled with statues of cloaked figures. On the 
+walls and in the ceiling the figures have been carved out with 
+perfection from the bare rock. Several statues stands in the middle of 
+the room. They look so natural that you almost think that they will 
+start moving and stab you in the back! There is an exit to the east and 
+one to the south.
+~
+300 d 0
+D1
+You see a corridor to the east leading to the Hall of Mirrors.
+~
+~
+0 -1 30046
+D2
+You see one more room to the south.
+~
+~
+0 -1 30048
+E
+statue statues~
+The statues are carved out of the rock with excellent expertise. Maybe 
+they are made by a dwarven artist, captured by the wicked assassins.
+~
+S
+#30048
+Skull filled room~
+   In the ceiling of this room hangs several complete sets of human 
+bones, with rotten pieces of flesh hanging from them. In niches lies 
+hundreds of humanoid skulls in rows, some half smashed, others very 
+fine specimens that you could have on your table at home and recite 
+Hamlet to. To the north lies the Hall of Statues and to the south you 
+see the entrance to the temple.
+~
+300 ad 0
+D0
+The Hall of Statues lies to the north from here.
+~
+~
+0 -1 30047
+D2
+The temple to the south seems very old and evil.
+~
+~
+0 -1 30049
+S
+#30049
+The Temple~
+   You have entered the organizations own temple, dedicated to unearthly 
+powers of old. The bloodstained floor with ancient inscriptions and the 
+presence of something horrible makes you think that you probably should 
+leave right now.
+~
+300 d 0
+D0
+The exit from the temple is to the south.
+~
+~
+0 -1 30048
+D1
+~
+~
+0 -1 30050
+D2
+You see the temple-altar far to the south.
+~
+~
+0 -1 30052
+D3
+~
+~
+0 -1 30054
+S
+#30050
+The eastern tapestries~
+   You are standing by a row of stone pillars made of a green unearthly 
+type of rock. On the east wall you see huge tapestries of hellish demons entering human bodies. The realistic pictures make your poor stomach 
+scream. You sense a very evil presence all around you searching for the 
+right moment to steal your soul here.
+~
+300 d 0
+D2
+~
+~
+0 -1 30051
+D3
+~
+~
+0 -1 30049
+E
+tapestries~
+As you look at the tapestries, you suddenly notice a movement in the 
+picture. Are the demons for real?
+~
+E
+presence~
+The evil presence is all around you, seeking for a weakness in your 
+iron will.
+~
+S
+#30051
+By a manmade mountain of coffins~
+   By the south wall there is a pile of coffins, made for human-sized 
+bodies. All of them seems to have been forced open. Are the assassins 
+grave robbers too? The columns that supports the ceiling are shaped 
+like robed figures, praying to the altar to the south-west.
+~
+300 d 0
+D0 
+~
+~
+0 -1 30050
+D3
+~
+~
+0 -1 30052
+E
+coffin coffins~
+The coffins are all empty.
+~ 
+S
+#30052
+By the Pentagram~
+   You are standing by a big Pentagram painted in red on the floor. As 
+you look at it, it seems to rotate in a strange way on the ground. In 
+the center of the pentagram stands a small statue resembling a demon. 
+The dark priests probably summons demons here, to wreak the world of 
+nice guys like yourself. You sense a strong evil presence from the south.
+~
+300 d 0
+D0
+~
+~
+0 -1 30049
+D1
+You see a mountain of coffins to the east.
+~
+~
+0 -1 30051
+D2
+You see the Temple Altar to the south.
+~
+~
+0 -1 30055
+D3
+~
+~
+0 -1 30053
+S
+#30053 
+By the great fire~
+   A big fireplace is here, providing light to the evil temple . As you 
+look into the red flames, you think you see faces of people in fear, 
+just as if they were trapped into the fire. You also see some pieces of 
+bones in the ashes here.
+~
+300 d 0
+D0
+~
+~
+0 -1 30054
+D1
+You see a Pentagram on the floor to the east.
+~
+~
+0 -1 30052
+S
+#30054
+Dimly lit part of the temple~
+   As you look around here, you notice that it's strangely dark. To the 
+south you see a big fireplace, but somehow the light fails to get here. 
+On the walls you see dark tapestries with strange symbols woven into 
+them. 
+~
+300 d 0
+D1
+~
+~
+0 -1 30049 
+D2
+You see a big fireplace to the south.
+~
+~
+0 -1 30053
+E
+tapestry tapestries~
+You fail to recognize most of the symbols, but catches your eye: 
+triangle with a watching eye in the center. Wonder what that means...
+~
+S
+#30055
+The Temple Altar~
+   The evil presence is building up to gigantic proportions around the 
+black altar in front of you. The surface of the altar is stained with 
+gallons of coagulated blood and pieces of rotten corpses. The only exit 
+from this horrible place is to the north.
+~
+300 d 0
+D0
+You see a pentagram on the floor to the north.
+~
+~
+0 -1 30052
+S
+#30056
+In the pool~
+   As you step into the pool, the acid burns your flesh. You look in 
+fear at your feet as they slowly disintegrates. Suddenly you lose the 
+grip and fall into the poisonous pool. You scream in agony as the 
+poison enters your body and the acidic ingredients eats you raw.
+
+
+                       Sorry Dude, You Died!!!!
+        All that is left of you is some teeth at the bottom of the pool.
+~
+300 bcd 0
+D4
+~
+~
+0 -1 30028
+S
+#30057
+On the ladder~
+   As you try the old rungs they suddenly break and falls into the 
+darkness below. Unfortunately you are joining them..... 
+
+ AAAAAAAAA
+         AAAAAAAAAAA
+                   AAAAAAAAAAAA 
+                               AAAAAAAAAAAAAAAAAA 
+--------------------------------------------------------->DEAD!!!!!!!!!
+~
+300 bcd 0
+D4
+~
+~
+0 -1 30002
+S
+#30058
+On an overgrown old road~
+   You are standing on an overgrown old road. High grass and bushes make 
+it very hard to see that it actually has been a road. As you move 
+further on the road you see some buildings to the north. The buildings 
+looks like they once have been a farm. To the west you can see the 
+remnants of an old barn and to the north lies the main building, and 
+just before it you see an old well. The overgrown road turns eastwards 
+here.
+~
+300 cd 2
+D0 
+~
+~
+0 -1 30000
+D1
+~
+~
+0 -1 30059
+D2
+~
+~
+0 -1 23045
+S
+#30059
+The Overgrown Road~
+   The road quickly turns back towards the north and continues uphill 
+towards the mountains. The vegetation here is sparse, and not 
+particularly healthy, and dry grasses crunch beneath your feet as you 
+walk.
+~
+300 cd 2
+D0
+~
+~
+0 -1 30060
+D3
+~
+~
+0 -1 30058
+S
+#30060
+A Narrow Trail~
+   The road climbs as you continue north, it becomes more and more 
+difficult to make out the old overgrown road, until all that is left 
+is a narrow trail through the foothills. You could rediscover the old 
+road if you go south from here, but a short steep section of the trail 
+appears to lead to a plateau, and might be worth investigating.
+~
+300 cd 2
+D2
+~
+~
+0 -1 30059
+D4
+~
+~
+0 -1 10900
+S
+#30099
+A totally empty last room in the system~
+   You are standing in a totally empty room with nothing in it and no 
+where to go.
+~
+300 cd 2
+S
+#99999
+$~

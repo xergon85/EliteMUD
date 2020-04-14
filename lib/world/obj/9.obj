@@ -1,0 +1,119 @@
+#900
+key golden heavy~
+a golden key~
+A heavy golden key lies here.~
+~
+18 1 0 0 ao
+0 0 0 0 0 120
+1 0 0
+#901
+shield minotaur~
+a dark minotaur shield~
+A dark minotaur shield has been left here.~
+~
+9 25 0 0 aj
+10 0 0 0 0 0
+12 5000 1350
+E
+shield minotaur~
+A strong, sturdy shield.  It brings to mind legends of a shield that
+provided protection from poisonous gases.
+~
+A
+23 10
+#902
+potion speckled~
+a speckled potion~
+A speckled potion speckles here.~
+~
+10 1 0 0 a
+15 15 15 -1 0 0
+2 1300 500
+#903
+gauntlets troll~
+a pair of troll gauntlets~
+A pair of gauntlets made from troll skin lie on the ground.~
+~
+9 20 0 0 ah
+4 0 0 0 0 0
+8 2000 1350
+A
+1 4
+#904
+ring platinum~
+a platinum ring~
+A shining ring of platinum lies here.  It has a tiny inscription.~
+~
+9 20 0 0 abo
+0 0 0 0 0 0
+1 2000 5500
+E
+ring platinum inscription~
+The inscription on the ring reads:
+Cursed be the gods that supply coins to mortals!
+And cursed be the mortal that accepts valuable gifts from the gods!
+Especially cursed are those who do not leave the toilet seat up!
+~
+A
+18 2
+#905
+flail~
+a flail~
+A flail has been carelessly left here.~
+~
+5 20 0 0 an
+0 3 6 7 0 0
+8 5000 3500
+A
+19 2
+#906
+coins gold treasure~
+a great pile of treasure~
+A great, gleaming pile of treasure lies at your feet.~
+~
+20 1 0 0 a
+8500 0 0 0 0 0
+20 8500 0
+#907
+spear heavy~
+a heavy spear~
+A heavy spear has been tossed on the ground here.~
+~
+5 20 abcefijkms 0 an
+0 5 5 12 0 0
+15 1500 500
+A
+19 4
+#908
+trident~
+a trident~
+There is a warrior's trident here.~
+~
+5 7 0 0 an
+0 4 4 12 0 0
+8 350 200
+E
+trident~
+This is a common trident, often used by gladiators or mermen.  It has
+three sharp prongs jutting from the business end and a smooth wooden
+handle with two comfortable grip points.
+~
+#909
+boots boat~
+a pair of boots~
+A pair of boots sit here in a puddle of water.~
+~
+22 10 0 0 ag
+0 0 0 0 0 0
+1 5000 1850
+E
+boots boat~
+The boots are made of a strange lightweight hide and float in a puddle
+of water.
+~
+A
+17 -5
+A
+14 -30
+#99999
+$~

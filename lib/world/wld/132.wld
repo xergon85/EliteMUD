@@ -1,0 +1,3152 @@
+#13200 CHUTE~
+   Distributes in some pals to play with.
+  * Comments *
+~
+132 edu 1
+D0
+ _north00
+~
+~
+0 -1 13255
+D1
+ _east00
+~
+~
+0 -1 13266
+D2
+ _south00
+~
+~
+0 -1 13272
+D3
+ _west00
+~
+~
+0 -1 13241
+D4
+delay _up00
+~
+~
+0 -1 13200
+D5
+delay _down00
+~
+~
+0 -1 13200
+S
+#13201 In the harbour water next to a ship and the sidewalk~
+   The water is clear and you have no problems looking through it.
+Unfortunately for you the water bends the light and you can not see
+much of what happens below you, anyway. Water extends north, east and
+down while a ship lies at anchor south of you. Up is the harbour sidewalk
+where the city guards would very much want you to be instead.
+~
+132 cd 6
+D1
+ The harbour basin.
+~
+~
+0 -1 13206
+D2
+ A ship being loaded blocks your path.
+~
+~
+0 -1 -1
+D4
+ The harbour sidewalk.
+~
+~
+0 -1 13250
+D5
+ Below the surface.
+~
+~
+0 -1 13203
+E
+ship~
+   The ship is a nicelty built cargo vessel made especially for the
+certain requirements needed to use this harbour fulfillingly. There seems
+to be a bit of activity on it as cargo is being moved around.
+~
+S
+#13202 In the harbour water next to a ship and the sidewalk~
+   The water is clear and you have no problems looking through it.
+Unfortunately for you the water bends the light and you cannot see much
+of what happens below you anyway. Water extends south, east and down
+while a ship lies at anchor north of you. Up is the harbour sidewalk
+where the city guards would very much want you to be instead.
+~
+132 cd 6
+D0
+ A ship being loaded blocks your path.
+~
+~
+0 -1 -1
+D1
+ The harbour basin.
+~
+~
+0 -1 13208
+D4
+ The harbour sidewalk.
+~
+~
+0 -1 13273
+D5
+ Below the surface.
+~
+~
+0 -1 13205
+E
+ship~
+   The ship is a nicely built cargo vessel made especially for the
+certain requirements needed to use this harbour fulfillingly. There seems
+to be a bit of activity on it as cargo is being moved around.
+~
+S
+#13203 Below water level~
+   Blupp, Blupp. The water is silent except for your bubbles. The visual
+range of about 15 meters allows you to see the wall that makes the
+foundation of the harbour sidewalk west of you. South above you a big
+dark shadow of a trade vessel can be clearly distinguished against the
+flickering light of the harbour town. If you can stay underwater the bay
+allows you to travel east and south. If not, up is a real good option.
+~
+132 Aoad 8
+D1
+ Below the surface.
+~
+~
+0 -1 13210
+D2
+ Below the surface.
+~
+~
+0 -1 13204
+D3
+ The harbour sidewalk fundament.
+~
+~
+0 -1 -1
+D4
+ AIR!!!
+~
+~
+0 -1 13201
+E
+water~
+   The water is cool and without much of a stir other than the one you
+bring. The lack of lighting in the harbour basin cave can makes it
+very dark down here, even though you are close to the surface.
+~
+S
+#13204 Below water level and below a trade ship~
+   Blupp, blupp. It is dark underwater, even darker here under the ship.
+Your vision is limited by the range of any functional light source that
+you have brought down with you. The absence of both light and sound as
+well as a large portion of your ordinary weight really messes up your
+sense of direction. Hope you can stay under for a long time. On one side
+you have the sidewalk foundation, on another the basin floor, on a third
+the hull of a large ship (guess that's up) then the rest is water, water
+and water...
+~
+132 gAoad 8
+D0
+ Below the surface.
+~
+~
+0 -1 13203
+D1
+ Below the surface.
+~
+~
+0 -1 13211
+D2
+ Below the surface.
+~
+~
+0 -1 13205
+D3
+ The fundament of the harbour sidewalk.
+~
+~
+0 -1 -1
+D4
+ The hull of a cargo ship blocks your passage.
+~
+~
+0 -1 -1
+D5
+ It is dark. It is hard. It is the ground.
+~
+~
+0 -1 -1
+E
+ship~
+   The ship hull is dark and wooden and you can not swim through it
+however much you might want to.
+~
+E
+water~
+   The water is cool and without much of a stir other than the one you
+bring. The lack of lighting over the harbour basin cave makes it
+very dark down here, even though it is close to the surface.
+~
+S
+#13205 Below water level Blupp, Blupp.~
+   The water is silent except for your bubbles. The visual range of about
+15 meters allows you to see the wall that makes the foundation of the
+harbour sidewalk west of you. South above you a big dark shadow of a
+trade vessel can be clearly distinguished against the flickering light of
+the harbour town. If you can stay underwater the bay allows you to travel
+east and north, if not, up is a real good option.
+~
+132 Aoad 8
+D0
+ Below the surface.
+~
+~
+0 -1 13204
+D1
+ Below the surface.
+~
+~
+0 -1 13212
+D3
+ The harbour sidewalk have its fundament here. No walkthrough.
+~
+~
+0 -1 -1
+D4
+ Ahh, Breathable Air!
+~
+~
+0 -1 13202
+E
+water~
+   The water is cool and without much of a stir other than the one you
+bring. The lack of lighting over the harbour basin cave makes it
+very dark down here, even though it is close to the surface.
+~
+S
+#13206 The harbour basin~
+   The water is cold and has a very calm surface. Not much happening here
+as the ships are infrequent and it is otherwise prohibited to be out in
+the harbour basin. This includes swimming or whatever it is you are doing
+out here. The water is rather clear but the visibility is pretty low
+anyway. The water expands in every direction but if you want to get
+ashore the Dwarven Undermountain Harbour Town is just a little bit west
+of you.
+~
+132 d 6
+D0
+ More water.
+~
+~
+0 -1 13223
+D1
+ More water.
+~
+~
+0 -1 13213
+D2
+ More water.
+~
+~
+0 -1 13207
+D3
+ Some more water is between you and the harbourline.
+~
+~
+0 -1 13201
+D5
+ Below the surface.
+~
+~
+0 -1 13210
+E
+harbour town~
+   The light from the harbour town makes the cave shine and glow in a
+real nice fashion. The dwarfs must be a lucky race to have this at all
+times.
+~
+S
+#13207 The harbour basin~
+   The water is cold and has a very calm surface. Not much happening here
+as the ships are infrequent and it is otherwise prohibited to be out in
+the harbour basin. The water is rather clear but the visibility is
+pretty low anyway. The water expands in every direction but if you want
+to get ashore you will have to take a little detour as there is a ship
+anchored in your western path to the Dwarven Undermountain Harbour Town.
+~
+132 d 6
+D0
+ More water.
+~
+~
+0 -1 13206
+D1
+ More water.
+~
+~
+0 -1 13214
+D2
+ More water.
+~
+~
+0 -1 13208
+D3
+ A nice vessel, just being loaded, blocks your attempt of transit.
+~
+~
+0 -1 -1
+D5
+ Below the surface.
+~
+~
+0 -1 13211
+E
+ship~
+   The cargo vessel that lies harboured in the Dwarven Undermountain
+Harbour Town, lies very still. There is hardly any splash aginst the hull
+as the waters you travel are very calm. The name of the vessel is clearly
+visible from this location.
+~
+E
+name~
+   You can see the name of the cargo vessel.        "Glob of the Sea"
+Odd name.
+~
+E
+harbour town~
+   The harbour town light makes the cave shine and glow in a real nice
+fashion. The dwarfs must be a lucky race to have this at all times.
+~
+S
+#13208 The harbour basin~
+   The water is cold and has a very calm surface. Not much happening here
+as the ships are infrequent and it is otherwise prohibited to be out in
+the harbour basin. That includes swimming or whatever it is you are doing
+out here. The water is rather clear but the visibility is pretty low
+anyway. The water expands in every direction but if you want to get
+ashore the Dwarven Undermountain Harbour Town is just a little bit west
+of you.
+~
+132 d 6
+D0
+ More water.
+~
+~
+0 -1 13207
+D1
+ More water.
+~
+~
+0 -1 13215
+D2
+ More water.
+~
+~
+0 -1 13209
+D3
+ Some more water is between you and the harbourline.
+~
+~
+0 -1 13202
+D5
+ Below the surface.
+~
+~
+0 -1 13212
+E
+harbour town~
+   The harbour town light makes the cave shine and glow in a real nice
+fashion. The dwarfs must be a lucky race to have this at all times.
+~
+S
+#13209 The harbour basin~
+   The water is cold and has a very calm surface. Not much happening here
+as the ships are infrequent and it is otherwise prohibited to be out in
+the harbour basin. The water is rather clear but the visibility is
+pretty low anyway. The water expands in every direction but if you want
+to get ashore, the Dwarven Undermountain Harbour Town is just a little
+bit west of you.
+~
+132 d 6
+D0
+ More water.
+~
+~
+0 -1 13208
+D1
+ More water.
+~
+~
+0 -1 13216
+D2
+ More water.
+~
+~
+0 -1 13209
+D3
+ More water.
+~
+~
+0 -1 13209
+D5
+ Below the surface.
+~
+~
+0 -1 13212
+E
+harbour town~
+   The light from the harbour town makes the cave shine and glow in a
+real nice fashion. The dwarfs must be a lucky race to have this at all
+times.
+~
+S
+#13210 Underwater~
+   Blubb, blubb! It is silent and dark and there is almost no activity
+here, well under the surface. It is a little bit brighter above and much
+less below as the carved out mountain makes itself noticed. Water
+stretches out in all other directions.
+~
+132 Aoad 8
+D0
+ More water.
+~
+~
+0 -1 13210
+D1
+ Below the surface.
+~
+~
+0 -1 13217
+D2
+ Below the surface.
+~
+~
+0 -1 13211
+D3
+ Below the surface.
+~
+~
+0 -1 13203
+D4
+ Up there is AIR!
+~
+~
+0 -1 13206
+E
+water~
+   The water is cool and without much of a stir other than the one you
+bring. The lack of lighting over the harbour basin cave makes it
+very dark down here, even though it is close to the surface.
+~
+S
+#13211 Underwater~
+   Blubb, blubb! It is silent and dark and there is almost no activity
+here well under the surface. It is a little bit brighter above and much
+less below as the carved out mountain makes itself noticed. Water
+stretches out in all other directions.
+~
+132 Aoad 8
+D0
+ Below the surface.
+~
+~
+0 -1 13210
+D1
+ Below the surface.
+~
+~
+0 -1 13218
+D2
+ Below the surface.
+~
+~
+0 -1 13212
+D3
+ Below the surface.
+~
+~
+0 -1 13204
+D4
+ Ahhh, AIR!
+~
+~
+0 -1 13207
+E
+water~
+   The water is cool and without much of a stir other than the one you
+bring. The lack of lighting over the harbour basin cave makes it
+very dark down here, even though it is close to the surface.
+~
+S
+#13212 Underwater~
+   Blubb, blubb! It is silent and dark and there is almost no activity
+here well under the surface. It is a little bit brighter above and much
+less below as the carved out mountain makes itself noticed. Water
+stretches out in all other directions.
+~
+132 Aoad 8
+D0
+ Below the surface.
+~
+~
+0 -1 13211
+D1
+ Below the surface.
+~
+~
+0 -1 13219
+D2
+ Below the surface.
+~
+~
+0 -1 13212
+D3
+ Below the surface.
+~
+~
+0 -1 13205
+D4
+ AIR, how nice would it not be to breath again?
+~
+~
+0 -1 13208
+E
+water~
+   The water is cool and without much of a stir other than the one you
+bring. The lack of lighting over the harbour basin cave makes it
+very dark down here, even though it is close to the surface.
+~
+S
+#13213 The harbour basin~
+   The water is cold and has a very calm surface. Not much happening here
+as the ships are infrequent and it is otherwise prohibited to be out in
+the harbour basin. The water is rather clear but the visibility is
+pretty low anyway. The water expands in every direction but east of you,
+where the mountain blocks your path. If you want to get ashore the
+Dwarven UnderMountain Harbour Town is just a bit west of you. The
+traffic channel goes north and south here.
+~
+132 d 6
+D0
+ More water.
+~
+~
+0 -1 13224
+D2
+ More water.
+~
+~
+0 -1 13214
+D3
+ More water.
+~
+~
+0 -1 13206
+D5
+ Below the surface.
+~
+~
+0 -1 13217
+E
+mountain~
+   The mountain, when you think of it, is everywhere around you as you
+are in a dug out cave and the mountain walls you see rising next to you
+is but one part of a large cave system, cut out by crafty dwarfs long
+ago.
+~
+S
+#13214 The harbour basin~
+   The water is cold and has a very calm surface. Not much happening here
+as the ships are infrequent and it is otherwise prohibited to be out in
+the harbour basin. The water is rather clear but the visibility is
+pretty low anyway. The water expands in every direction but east of you,
+where the mountain blocks both your physical person and the waters slow
+but continual stir. If you want to get ashore the Dwarven Undermountain
+Harbour Town is just a bit west of you. The traffic channel goes north
+and south.
+~
+132 d 6
+D0
+ More water.
+~
+~
+0 -1 13213
+D2
+ More water.
+~
+~
+0 -1 13215
+D3
+ More water.
+~
+~
+0 -1 13207
+D5
+ Below the surface.
+~
+~
+0 -1 13218
+E
+mountain~
+   The mountain, when you think of it, is everywhere around you as you
+are in a dug out cave and the mountain walls you see rise next to you is
+but one part of a large cave system, cut out by crafty dwarfs ong ago.
+~
+S
+#13215 The harbour basin~
+   The water is cold and has a very calm surface. Not much happening here
+as the ships are infrequent and it is otherwise prohibited to be out in
+the harbour basin. The water is rather clear but the visibility is
+pretty low anyway. The water expands in every direction but east of you,
+where the mountain blocks the path of the water and your body. If you
+want to get ashore the Dwarven Undermountain Harbour Town is just a bit
+west of you. The traffic channel goes north and south.
+~
+132 d 6
+D0
+ More water.
+~
+~
+0 -1 13214
+D2
+ More water.
+~
+~
+0 -1 13216
+D3
+ More water.
+~
+~
+0 -1 13208
+D5
+ Below the surface.
+~
+~
+0 -1 13219
+E
+mountain~
+   The mountain, when you think of it, is everywhere around you as you
+are in a dug out cave and the mountain wall you see rising next to you is
+but one part of a large cave system, cut out by crafty dwarfs ong ago.
+~
+S
+#13216 The harbour basin~
+   The water is cold and has a very calm surface. Not much happening here
+as the ships are infrequent and it is otherwise prohibited to be out in
+the harbour basin. The water is rather clear but the visibility is
+pretty low anyway. The water expands in every direction but east, where
+the mountain blocks both you and the water. If you want to get ashore the
+Dwarven Undermountain Harbour Town is just a bit west of you. The traffic
+channel goes north and south here.
+~
+132 d 6
+D0
+ More water.
+~
+~
+0 -1 13215
+D2
+ The southern traffic channel.
+~
+~
+0 -1 13221
+D3
+ More water.
+~
+~
+0 -1 13209
+D5
+ Below the surface.
+~
+~
+0 -1 13219
+E
+mountain~
+   The mountain, when you think of it, is everywhere around you as you
+are in a dug out cave and the mountain wall you see rising next to you is
+but one part of a large cave system, cut out by crafty dwarfs ong ago.
+~
+S
+#13217 Underwater Blubb, blubb!~
+   It is silent and dark and there is almost no activity here, well under
+the surface. It is a little bit brighter above and much less below and
+east as the excavated mountain connects to the east wall. Water stretches
+out in all other directions.
+~
+132 Aoad 8
+D0
+ Below the surface.
+~
+~
+0 -1 13217
+D2
+ Below the surface.
+~
+~
+0 -1 13218
+D3
+ Below the surface.
+~
+~
+0 -1 13210
+D4
+ AIR.
+~
+~
+0 -1 13213
+E
+water~
+   The water is cool and without much of a stir other than the one you
+bring. The lack of lighting over the harbour basin cave makes it
+very dark down here, even though it is close to the surface.
+~
+>push 20 2~
+Something drags you south.
+~
+S
+#13218 Underwater~
+   A big hole leads east into the mountain wall. It is as dark and silent
+down here as if you would have put your head into your waterskin. You can
+not detect any more dangers in this place than inside the waterskin...
+~
+132 Aoad 8
+D0
+ Below the surface.
+~
+~
+0 -1 13217
+D1
+ Into really dark waters.
+~
+~
+0 -1 13220
+D2
+ Below the surface.
+~
+~
+0 -1 13219
+D3
+ Below the surface.
+~
+~
+0 -1 13211
+D4
+ Ah, Air.
+~
+~
+0 -1 13214
+E
+water~
+   The water is cool and without much of a stir other than the one you
+bring. The lack of lighting over the harbour basin cave makes it
+very dark down here, even though it is close to the surface.
+~
+>push 20 1~
+Something takes you into the dark cave.
+~
+S
+#13219 Underwater Blubb, blubb!~
+   It is silent and dark and there is almost no activity here, well under
+the surface. It is a little bit brighter above and much less below and
+east as the excavated mountain connects to the east wall. Water stretches
+out in all other directions.
+~
+132 Aoad 8
+D0
+ Below the surface.
+~
+~
+0 -1 13218
+D2
+ Below the surface.
+~
+~
+0 -1 13219
+D3
+ Below the surface.
+~
+~
+0 -1 13212
+D4
+ Can not hold your breath any longer? The relief is up. AIR.
+~
+~
+0 -1 13215
+E
+water~
+   The water is cool and without much of a stir other than the one you
+bring. The lack of lighting over the harbour basin cave makes it
+very dark down here, even though it is close to the surface.
+~
+>push 20 0~
+Something drags you north.
+~
+S
+#13220 In an underwater cave~
+   Darkness... Scattered on the ground are small metal parts and broken
+boats. Looks like something or someone used this place as a combined
+dumping place and feeding ground.
+~
+132 Aoad 8
+D3
+ An open bulk of just slightly more penetrateble water.
+~
+~
+0 -1 13218
+S
+#13221 Waterway tunnel~
+   A big tunnel has been cut out of the mountain. Much work has been done
+to assure passage of the big ships through the mountain. The waterway
+takes you southeast. Hope you have oars, because there is no wind
+available and swimming is a real nono in the traffic channel.
+~
+132 d 6
+D0
+ The Dwarven Undermountain Harbour Town Basin.
+~
+~
+0 -1 13216
+D2
+ The Southern Traffic Channel.
+~
+~
+0 -1 13222
+E
+mountain~
+   The mountain, when you think of it, is everywhere around you as you
+are in a dug out cave and the mountain walls you see rising next to you
+is but one part of a large cave system, cut out by crafty dwarfs ong ago.
+~
+S
+#13222 The Southern Traffic Channel~
+   A big tunnel has been cut out of the mountain. Much work has been done
+to assure passage of the big ships through the mountain. The waterway
+takes you southeast. Hope you have oars, because there is no wind
+available and swimming is a real nono in the traffic channel.
+~
+132 d 7
+D0
+ The traffic channel continues.
+~
+~
+0 -1 13221
+D2
+ Into the darkness of the mountain inside.
+~
+~
+0 -1 5098
+E
+mountain~
+   The mountain, when you think of it, is everywhere around you. After
+all, you are in a dug out cave and the mountain wall you see rising next
+to you is one of the walls cut out by crafty dwarfs long ago.
+~
+S
+#13223 The harbour basin~
+   The water is cold and has a very calm surface. Not much happening here
+as the ships are infrequent and it is otherwise prohibited to be out in
+the harbour basin. The water is rather clear but the visibility is
+pretty low anyway. The water expands in every direction but if you want
+to get ashore the Dwarven Undermountain Harbour Town is just a little
+bit west of you.
+~
+132 d 6
+D0
+ More water.
+~
+~
+0 -1 13223
+D1
+ More water.
+~
+~
+0 -1 13224
+D2
+ More water.
+~
+~
+0 -1 13206
+D3
+ More water.
+~
+~
+0 -1 13223
+D5
+ Below the surface.
+~
+~
+0 -1 13210
+E
+harbour town~
+   The light from the harbour town makes the cave shine and glow in a
+real nice fashion. The dwarfs must be a lucky race to have this at all
+times.
+~
+S
+#13224 The harbour basin~
+   The water is cold and has a very calm surface. Not much happening here
+as the ships are infrequent and it is otherwise prohibited to be out in
+the harbour basin. The water is rather clear but the visibility is
+pretty low anyway. The water expands in every direction, but east of you
+the mountain blocks both your paths. If you want to get ashore the
+Dwarven Undermountain Harbour Town is just a bit west of you. The traffic
+channel goes north and south here.
+~
+132 d 6
+D0
+ Northern Traffic Channel
+~
+~
+0 -1 13225
+D2
+ More water.
+~
+~
+0 -1 13213
+D3
+ More water.
+~
+~
+0 -1 13223
+D5
+ Below the surface.
+~
+~
+0 -1 13217
+E
+mountain~
+   The mountain, when you think of it, is everywhere around you as you
+are in a dug out cave and the mountain walls you see rising next to you
+is but one part of a large cave system, cut out by crafty dwarfs ong ago.
+~
+S
+#13225 Passage out to the common waters~
+   The waterway out could take you directly to the big northern ocean
+that separates this land from the northern continent if it were not for
+customs check. A little floating control point marks the limit of
+where one may and may not go without paying the correct fee or bringing
+the suitable papers.
+#GA portal leads out to the open sea. (magic)#N
+~
+132 d 7
+D0
+ The portal could take you out to somewhere north of this mountain.
+You just have to fill in the proper paperwork, somewhere.
+
+When you think about it, it is fantastic to have had all these tunnels
+dug out only for YOU! Be grateful for what you have gotten.
+~
+~
+0 -1 -1
+D2
+ The north side of the Dwarven Undermountain Harbour Town Basin.
+~
+~
+0 -1 13224
+E
+mountain~
+   The mountain, when you think of it, is everywhere around you as you
+are in a dug out cave and the mountain walls that rise before you are
+but one piece in a very complex puzzle, cut out by crafty dwarfs long
+ago.
+~
+E
+floating control point device~
+   A big sign hangs on the floating device. Better read it.
+~
+E
+sign~
+   Stated on the sign is the following:
+
+" The northern exit has been sealed off until further notice due to
+security reasons."
+                 Go Home!
+                        There is nothing to see!
+                                Circulate!
+
+And by the way, what are YOU doing here anyway?
+The harbour basin is banned for all unauthorized transport.
+~
+E
+sea portal~
+   The exit portal from the sea of the large cave to the northern channel
+is shimmering in the darkness of the harbour town water basin. Some kind
+of enchantment must rest over it blocking the passage for unauthorized
+travellers.
+
+A text on the portal reads:
+Unfortunately for you, all passage has been restricted for all citizens
+not on board a ship.
+                                         The Ruling Council.
+~
+S
+#13226 On a swaying gangplank~
+   All transport on and off the ships goes over these kind of swinging
+devices. Luckily there is a chain rail to hold on to if one has any spare
+hands, but of course doing so is a real BIG sign of cowardice. Up and
+down are your only options and you had better move quickly as the
+loaders want to use the gangplank too.
+~
+132 di 1
+D4
+ Onboard a vessel.
+~
+~
+0 -1 13227
+D5
+ End of Big Tunnel and the loaded switch spot.
+~
+~
+0 -1 13247
+E
+sign~
+   You Coward YOU!~
+E
+chain rail~
+   The chain rail goes about a yard up from the plank and would probably
+support you if you were to fall in that direction.
+~
+S
+#13227 Onboard a loading ship~
+   The well-cleaned deck stretches out north and south of this well-
+trimmed vessel tied up for loading in the Dwarven Undermountain Harbour
+Town. A whole lot of people usually run around embarking and disembarking
+the ships as the load takes place.If you want to get off the ship, use
+the gangplank to the west, or if all these alternatives are not
+appealing ennough, you can try climbing the mast for a little better
+view of the surroundings.
+~
+132 d 1
+D0
+ On the Deck.
+~
+~
+0 -1 13229
+D2
+ On the Deck.
+~
+~
+0 -1 13228
+D3
+ Trying to get off the ship.
+~
+~
+0 -1 13226
+D4
+ There is a outlook on top of the short mast.
+~
+~
+0 -1 13300
+E
+mast~
+   Woowooo! Look, its climbable.
+~
+S
+#13228 On board an anchored ship~
+   You are standing at the southern part of the ship. The deck is nice
+and shiny, someone must have washed it recently. The sailors have
+cleaned it very recently as a part of their daily routines. There is a
+lot of activity here as the loaders go up and down to the cargo bay below
+you. If you do not want to go down there or stay watching the loaders you
+might just walk north toward the more central parts of the ship.
+~
+132 d 1
+D0
+ On the Deck, next to the mast.
+~
+~
+0 -1 13227
+D5
+ Into the cargo bay.
+~
+lid~
+1 -1 13234
+E
+sidewalk~
+   The sidewalk stretches far north ending in some illuminated point. The
+southern end of the sidewalk probably does the same. You can not see from
+here.
+~
+S
+#13229 On board an anchored ship~
+   The deck is shiny. The sailors have cleaned it very recently as a part
+of their daily routines. There is a lot of activity here as the loaders
+go up and down to and from the cargo bay below you. If you do not want to
+go down there or stay watching the loaders you might just sneak north to
+the front part of the ship for a more calmer place.
+~
+132 d 1
+D0
+ On the Deck.
+~
+~
+0 -1 13236
+D2
+ On the Deck, next to the mast.
+~
+~
+0 -1 13227
+D5
+ Into the cargo bay.
+~
+lid~
+1 -1 13232
+S
+#13230 In a Red Room~
+   The furniture of this red light room is sparse to say the least. Apart
+from a chair and a bed there is not much to gather in here. It must be
+something else that the people that visit this place are after. If you
+want to leave, the window exit is suggested to avoid further attention to
+your persona.
+~
+132 dz 1
+D1
+ You can, after you have finished your business here, jump out
+the window, down to A road.
+~
+window~
+1 -1 13269
+E
+chair~
+   Some well worn, bright rags hang over the back of the chair.
+~
+E
+rags~
+   The rags are not that useful any more.
+~
+E
+bad~
+   The bed seems very well used unfortunately the sheet have not been
+changed since the day the harbour town was opened to the public.
+Huuuu...
+~
+S
+#13231 Below deck of a cargo ship~
+   A small lantern hangs on the wall illuminating most parts of the hull.
+It is really a very dull place as it is only used for cargo. Nothing fun
+here except shelves and storage facilities in different degrees of
+fullness.
+~
+132 d 1
+D2
+ More cargo facilities.
+~
+~
+0 -1 13232
+E
+storage shelf shelves~
+   The different variations of the storage facilities suit a variety of
+purposes, even though most of them are used to transport iron bars.
+Some others are used for bags and supplies while yet still others are
+empty to perfect the ship's balance.
+~
+S
+#13232 Below deck of a cargo ship~
+   A small lantern hangs on the wall illuminating most parts of the hull.
+It is really a very dull place as it is only used for cargo. Nothing fun
+here except shelves and storage facilities in different degrees of
+fullness.
+~
+132 d 1
+D0
+ More cargo facilities.
+~
+~
+0 -1 13231
+D2
+ More cargo facilities.
+~
+~
+0 -1 13233
+D4
+ Onto the Deck.
+~
+lid~
+1 -1 13229
+E
+storage shelf shelves~
+   The different variations of the storage facilities suit a variety of
+purposes, even though most of them are used to transport iron bars.
+Some others are used for bags and supplies while yet some others are
+empty to perfect the ship's balance.
+~
+S
+#13233 Below deck of a cargo ship~
+   A small lantern hangs on the wall illuminating most parts of the hull.
+It is really a very dull place as it is only used for cargo.  Nothing fun
+here except shelves and storage facilities in different degrees of
+fullness.
+~
+132 d 1
+D0
+ More cargo facilities.
+~
+~
+0 -1 13232
+D2
+ More cargo facilities.
+~
+~
+0 -1 13234
+E
+storage shelf shelves~
+   The different variations of the storage facilities suit a variety of
+purposes, even though most of them are used to transport iron bars in.
+Some others are used for bags and supplies while yet still others are
+empty to perfect the ships balance.
+~
+S
+#13234 Below deck of a cargo ship~
+   A small lantern hangs on the wall illuminating most parts of the hull.
+It is really a very dull place as it is only used for cargo. There are
+shelves and storage facilities in different degrees of fullness
+everywhere.
+~
+132 d 1
+D0
+ More cargo facilities.
+~
+~
+0 -1 13233
+D2
+ More cargo facilities.
+~
+~
+0 -1 13235
+D4
+ Onto the deck.
+~
+lid~
+1 -1 13228
+E
+storage shelf shelves~
+   The different variations of the storage facilities suit a variety of
+purposes, even though most of them are used to transport iron bars.
+Some others are used for bags and supplies while yet others are empty to
+perfect the ships balance.
+~
+S
+#13235 Below deck of a cargo ship~
+   A small lantern hangs on the wall illuminating most parts of the hull.
+It is really a very dull place as it is only used for cargo. There are
+shelves and storage facilities in different degrees of fullness
+everywhere.
+~
+132 d 1
+D0
+ More cargo facilities.
+~
+~
+0 -1 13234
+E
+storage shelf shelves~
+   The different variations of the storage facilities suit a variety of
+purposes, even though most of them are used to transport iron bars in.
+Some others are used for bags and supplies while yet others are empty
+to perfect the ships balance.
+~
+S
+#13236 Forward point of the ship~
+   This place is deserted as all people tend to go up and down from the
+cargo bay south of here, or back and forth to the harbour sidewalk of the
+Dwarven Undermountain Town. Below you the water splashes softly against
+the boat hull. A beautiful sea princess is placed as a front figurine on
+the ship to give her good luck on her journeys over the oceans. You can
+jump into the water if you like, but it won't be popular as swimming is
+not permitted in the harbour.
+~
+132 d 1
+D2
+ On the Deck.
+~
+~
+0 -1 13229
+D5
+ Into the harbour basin where swimming is banned, but who or what are to
+prevent you from taking a little dip?
+~
+~
+0 -1 13201
+E
+water~
+   The water is cool and without much of a stir other than the one you
+bring. The lack of lighting over the harbour basin cave makes it
+very dark down here, even though it is close to the surface.
+~
+E
+figure seaprincess sea princess~
+   The ship front figurine is a sculpture of a really nice looking sea
+princess. She has fish scale skin and beautiful well combed sea weed
+hair. Around her neck hangs the Dwarven Undermountain Harbour Town city
+arms as a protective measure as well as a way of identification on her
+long ocean travels. Her face is delicate with smooth features, red lipped
+mouth, a small nose, green eyes and above them a well shaped forehead
+with a large glowing red eye written into a triangle in its centre.
+~
+E
+city weapon~
+   The weapon has eroded over the years at sea, but you can see some
+indications of waves, hammers and a mountain on it. But that is also all.
+~
+E
+sidewalk~
+   The sidewalk stretches far north ending in some illuminated point. The
+southern end of the sidewalk probably does the same. You can not see it
+from here.
+~
+E
+name~
+   You can not see the name from this upper angle. Have to be on the east
+side of the ship to get a proper view.
+~
+E
+eye~
+   As an extremely secret, extremely evil society, Glob Inc has tentacles
+that have threaded their way into the hearts of societies around the
+world. Members sometimes place the Glob Insignia on certain places to
+mark them as under their protection or control. Do not stare at it too
+long as it just might stare back, entrancing you.
+~
+E
+insignia~
+   The insignia shows an ever-vigilant eye glowing with a red-orange
+background. The eye looks at you strangely - calling...as if alive!
+~
+E
+glob~
+   Little is known about this society. Perhaps it is best not to know
+too much. Just for your own sake, as they are already watching you.
+~
+S
+#13237 ColdFire Bierstube~
+   You're afraid of fireballs? Then you've come to the most wrong place
+you have ever set your foot in or even dreamed about.Big flames now and
+then appears from the guests, causing shouting and appearent joy. What is
+this place? The stench of scorched belches (and worse) lies thick over
+the badly ventilated cave. On the other hand, not too many caves even
+have ventilation. You want service, then you better ask the bartender or
+read the sign behind the bar.
+~
+132 d 1
+D3
+ A tunnel named after Queen Gwandolyn.
+~
+door~
+1 -1 13275
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+~
+E
+bar thing things~
+ The bar seems to have all that you might ever need in the liquor biz,
+and a few more things that you dont want.
+~
+E
+ventilation~
+ Yes, there actaully is a hole in the roof where smoke and other
+semibodily vapours could escape. But even if it was working, which is
+uncertain, it would be with a capacity far to small even to be noticed.
+~
+S
+#13238 Inside a water-filled grey cube below the altar~
+   You are suspended in a grayish cube of water. Through the sides you
+can see different parts of the city, slightly blurred due to the water.
+As you watch the locations you feel yourself being drawn to that
+particular side, but you have to make a real effort to break out through
+the water's surface. A very strange place indeed. The lower side of the
+cube is black.
+~
+132 ocgAC 10
+D0
+ Somewhere in the Dwarven Undermountain Harbour Town.
+~
+~
+0 -1 13256
+D1
+ Somewhere in the Dwarven Undermountain Harbour Town.
+~
+~
+0 -1 13266
+D2
+ Somewhere in the Dwarven Undermountain Harbour Town.
+~
+~
+0 -1 13263
+D3
+ Somewhere in the Dwarven Undermountain Harbour Town.
+~
+~
+0 -1 13276
+D4
+ Somewhere wet, in the Dwarven Undermountain Harbour.
+~
+~
+0 -1 13204
+D5
+ Into swirling dark waters. *Shudder*
+~
+~
+0 -1 -1
+E
+grey cube~
+   Moving in the grey cube feels like stirring jello with a thin
+stick. It works but nothing really happens. It is strange being
+surrounded by this mass while still having no problems breathing.
+Got to be magic.
+~
+E
+black~
+   You feel a concentrated evilness protrude from down there, huuuuu....
+~
+S
+#13239 Signaling cliff~
+   Up on the little cliff stands a solitary wall, a wall that is slightly
+scorched on the mountainside but not the waterside. A not so hard guess
+is that it is used as some kind of lighthouse or signaling point to
+guide the ships safely into the harbour. A little blackened fence shows
+where the passage down is.
+~
+132 ud 1
+D5
+ Somewhere usually much darker than up here.
+~
+fence black blackened~
+3 -1 13261
+E
+ship harbour~
+   The incoming and outgoing ships would have no problem locating this
+spot and thus know exactly where they were.
+~
+S
+#13240 Below a hole in the mountain~
+   The ground is covered with completely crushed lumber. The constant
+dropping of metal bars down the drop hole causes such heavy impacts that
+nothing remains for long. The logs are completely crushed. There is no
+possibility of climbing without the risk of getting a falling bar in the
+head. A rather unpleasant and utterly terminal experience. The Big Tunnel
+continues east.
+~
+132 d 1
+D1
+ Parade Street.
+~
+~
+0 -1 13241
+D4
+ UP THE DROP TUNNEL - Looks dangerous, very dangerous...
+SSSSSCHMACK!!!  Another heavy metal bar drops into the soil next to you.
+~
+~
+0 -1 -1
+E
+lumber~
+  The lumber should not be classified as lumber. It is more or less pulp.
+~
+S
+#13241 The Big Tunnel~
+   The first excavated and the largest of tunnels goes straight between
+the drop hole and the harbour in an east-west manner. The Big Tunnel is
+also called Parade Street in the guttural tongue due to the continual
+parade of carriers and guards that traffic it.
+~
+132 d 11
+D1
+ Parade Street.
+~
+~
+0 -1 13242
+D3
+ The Drop Room.
+~
+~
+0 -1 13240
+S
+#13242 Crossing of Big Tunnel and Desolation Avenue~
+   Big Tunnel goes straight between the drop hole and the harbour in an
+east-west manner. Big Tunnel is also called Parade Street in the guttural
+tongue due to the continual parade of carriers and guards that traffic
+it. Here Desolation Avenue crosses it or rather goes out south as the
+northern part is about a yard long.
+~
+132 d 11
+D1
+ Parade Street.
+~
+~
+0 -1 13243
+D2
+ The stillness of Desolation Avenue invites you.
+~
+~
+0 -1 13276
+D3
+ Parade Street.
+~
+~
+0 -1 13241
+S
+#13243 Crossing of Big Tunnel and Queen way~
+   Big Tunnel goes straight between the drop hole and the harbour in an
+east-west manner. Big Tunnel is also called Parade Street in the guttural
+tongue due to the continual parade of carriers and guards that traffic
+it. Here Queen way crosses it going both north and south.
+~
+132 d 11
+D0
+ A tunnel named after Queen Gwandolyn.
+~
+~
+0 -1 13248
+D1
+ Parade Street.
+~
+~
+0 -1 13244
+D2
+ A tunnel named after Queen Gwandolyn.
+~
+~
+0 -1 13275
+D3
+ Parade Street.
+~
+~
+0 -1 13242
+S
+#13244 Big Tunnel~
+   Big Tunnel goes straight between the drop hole and the harbour in an
+east-west manner. Big Tunnel is also called Parade Street in the guttural
+tongue due to the continual parade of carriers and guards that traffic
+it. Someone has chipped out little stores in the tunnel stone wall on
+each sides of it. No doors are hung up as they seem to be open around the
+clock.
+~
+132 d 11
+D0
+ A heavy smell comes out from the Mage Outpost.
+~
+~
+0 -1 13292
+D1
+ Parade Street.
+~
+~
+0 -1 13245
+D2
+A soft chanting(or is it singing?) can be heard from the Clerics Outpost.
+~
+~
+0 -1 13280
+D3
+ Parade Street.
+~
+~
+0 -1 13243
+S
+#13245 Crossing of Big Tunnel and King Way~
+   Big Tunnel goes straight between the drop hole and the harbour in an
+east-west manner. Big Tunnel is also called Parade Street in the guttural
+tongue due to the continual parade of carriers and guards that traffic
+it. Here King Way crosses it, going both south and north.
+~
+132 d 11
+D0
+ The tunnel of King Kwathoum.
+~
+~
+0 -1 13249
+D1
+ Parade Street.
+~
+~
+0 -1 13246
+D2
+ The tunnel of King Kwathoum.
+~
+~
+0 -1 13274
+D3
+ Parade Street.
+~
+~
+0 -1 13244
+S
+#13246 Big Tunnel~
+   Big Tunnel goes straight between the drop hole and the harbour in an
+east-west manner. Big Tunnel is also called Parade Street in the guttural
+tongue due to the continual parade of carriers and guards that traffic
+it. Someone has chipped out little stores in the tunnel stone wall on
+each side of it. No doors are hung up as they seem to be open around the
+clock.
+~
+132 cd 11
+D0
+ Customs Office.
+~
+~
+0 -1 13288
+D1
+ Parade Street.
+~
+~
+0 -1 13247
+D2
+ Harbour Officials.
+~
+~
+0 -1 13284
+D3
+ Parade Street.
+~
+~
+0 -1 13245
+S
+#13247 End of Big Tunnel~
+   The freshness of the undermountain water reaches your nostrils as you
+stand next to the harbour line. The harbour sidewalk takes you either
+north or south along the waterline. Big Tunnel, also known as Parade
+Street, allows you to move away in a westward direction into the
+mountain.
+~
+132 d 1
+D0
+ The harbour sidewalk.
+~
+~
+0 -1 13250
+D2
+ The harbour sidewalk.
+~
+~
+0 -1 13273
+D3
+ Parade Street.
+~
+~
+0 -1 13246
+D4
+ On a undsteady plank leading onto a trade vessel.
+~
+~
+0 -1 13226
+E
+water waterline harbour harbourline~
+   The harbour sidewalk allows you to follow the edge of the harbour
+basin a long way, even past the town centre and to the lighthouses that
+are present at either end.
+~
+S
+#13248 On Queen Way~
+   The Queen's Way tunnel takes you in a north-south direction. The
+occasionally smoothed walls show graphic interpretations of the great
+deeds performed by the dwarven Queen. A little door with a sign allows
+you to enter a little cave in the eastern wall.
+~
+132 d 1
+D0
+ A tunnel named after Queen Gwandolyn.
+~
+~
+0 -1 13251
+D1
+ There does not seem to be much activity at the Mapmakers.
+~
+door~
+1 -1 13295
+D2
+ Parade Street.
+~
+~
+0 -1 13243
+E
+queen graphic smooth wall walls~
+   The graphical masterpiece (?) shows the, ehum, vigourous Queen
+Gwandolyn the Dragonslayer battling the most terrifying monster known to
+the intelligent races, the Nosegoo.~
+E
+goo nosegoo nose~
+
+      You do not know of Nose-Goo?
+Just have a pick and find out for yourself!
+
+:)
+~
+E
+sign~
+   Undermountain Maps
+    Welcome - Fritz
+~
+S
+#13249 On King way~
+   The King's Way tunnel takes you in a north-south direction. The
+occasional smoothed walls show graphic interpretations of the great deeds
+performed by the dwarven ruler. Two small stone wheels hide passages into
+what seem to be little shops in the east and west wall.
+~
+132 d 1
+D0
+ The tunnel of King Kwathoum.
+~
+~
+0 -1 13253
+D1
+ A splashing sound can be heard from the east.
+~
+stone wheel~
+1 -1 13291
+D2
+ Parade Street.
+~
+~
+0 -1 13245
+D3
+ Suits are on display at the ClothShop.
+~
+stone wheel~
+1 -1 13293
+E
+wheel wheels small stone~
+   The small stone wheels should be rolled aside as the shop is open
+around the clock.
+~
+E
+smooth wall walls graphic ruler~
+   The pictures on the wall show the glorious King Kwathoum the Wide-
+Bottomed son of Raktwein the Orc-Hunter gracefully marching down the
+newly excavated tunnel carrying his complete splendior.
+~
+E
+suit suits display~
+   You most certainly want one. Wonderful craftmanship.
+~
+S
+#13250 On the harbour sidewalk~
+   The fresh air from the mineral rich undermountain bay mixes with the
+wonderful smell of fine seafood and fish. Perhaps the little shop carved
+out of from the mountain west of you is the source of that. North and
+south you can follow the sidewalk to new interesting discoveries. A big
+pillar seems to rise up towards the cave roof standing in the middle of
+the southern sidewalk.
+~
+132 cd 1
+D0
+ The harbour sidewalk.
+~
+~
+0 -1 13255
+D1
+ Take a step out into thin air and plumeth into the harbour basin.
+  - Not popular by the guards.
+~
+~
+0 -1 13201
+D2
+ The harbour sidewalk.
+~
+~
+0 -1 13247
+D3
+ There is something fishy smelling to the west.
+~
+~
+0 -1 13289
+D5
+ Jumping into the harbour basin - Not popular.
+~
+~
+0 -1 13201
+E
+pillar~
+   It is BIG!  Go closer and have a look. It will not harm you.
+~
+S
+#13251 Crossing Queen Way and First Street~
+   The undermountain village tunnels called Queen Way and First Street
+cross here. Well actually, it is more an east-south turn as First Street
+does not continue and Queen only continues in a very small tunnel. It
+seems like the possibility and the capacity of propagating this little
+town sure do exist.
+~
+132 d 1
+D0
+ Toward the northern end of the Queen Gwandolyn tunnel.
+~
+~
+0 -1 13256
+D1
+ 1st Street.
+~
+~
+0 -1 13252
+D2
+ A tunnel named after Queen Gwandolyn.
+~
+~
+0 -1 13248
+S
+#13252 On First Street~
+   The tunnel of First Street takes you in an east-west direction. This
+part of the walls is rather crudely cut. The only noteworthy thing is a
+little opening, with a sign next to it, which allows you to enter a
+little cave in the wall.
+~
+132 d 1
+D1
+ 1st Street.
+~
+~
+0 -1 13253
+D2
+ The sweet smell of meat meets you.
+~
+~
+0 -1 13294
+D3
+ 1st Street.
+~
+~
+0 -1 13251
+E
+crude wall walls~
+   The walls did not get that extra smoothening as can be seen on other
+places in the Dwarven Undermountain Harbour Town.
+~
+E
+sign~
+   The small sign read :
+ Welcome to Fritz' Slaughterhouse.
+
+Enter willingly or do not expect to get out again.
+~
+S
+#13253 Crossing of King Way and First Street~
+   The carved out tunnel roads called King and First allow you to walk in
+every direction but up and down. The dwarfs seem to have a rather good
+knowledge about how to make tunnels, thus the very flat floor.
+~
+132 d 1
+D0
+ Toward the northern end of the King Kwathoum tunnel.
+~
+~
+0 -1 13257
+D1
+ 1st Street.
+~
+~
+0 -1 13254
+D2
+ The tunnel of King Kwathoum.
+~
+~
+0 -1 13249
+D3
+ 1st Street.
+~
+~
+0 -1 13252
+S
+#13254 On First Street~
+   The tunnel of First Street takes you in an east-west direction. The
+craftsdwarves who created this part of the tunnel were over their daily
+ale allotment, and the result is a very rough, uneven surface to the
+wall. There are only two things that want to be noticed at this part of
+the street. One is the little opening in the south wall that allows you
+to enter a little cave. The other is the big pillar that seems to rise up
+towards the roof where the tunnel emerges to the east.
+~
+132 d 1
+D1
+ The freshness of the harbour sidewalk comes towards you.
+~
+~
+0 -1 13255
+D2
+ A rather dry place is dug into the wall.
+~
+~
+0 -1 13290
+D3
+ 1st Street.
+~
+~
+0 -1 13253
+E
+pillar~
+   It is BIG!  Go closer and have a look. It will not harm you.
+~
+E
+sign~
+   Fritz Bread Chop
+~
+S
+#13255 Harbour sidewalk and First Street~
+   The tunnel of First Street opens up west into the mountain. To the
+south and north, the harbour sidewalk extends. The air is a bit fresher
+here, than deeper into the tunnels, as the big harbour cave and the water
+allows for some new smell sensations. One thing differentiates this place
+from the rest of the sidewalk and that is the VERY big stone staircase
+that leads up from the pavement to the cave roof. It seems like an odd
+thing to place here. There is a sign hanging over the first turn of the
+staircase.
+~
+132 d 1
+D0
+ The harbour sidewalk.
+~
+~
+0 -1 13258
+D2
+ The harbour sidewalk.
+~
+~
+0 -1 13250
+D3
+ 1st Street.
+~
+~
+0 -1 13254
+D4
+ The big stone staircase leads up.
+~
+~
+0 -1 13305
+E
+smell~
+   Ever seen a smell before?
+~
+E
+sign~
+   Northern Continent Person Travels - Go and see GeldenRock.
+~
+S
+#13256 End of Queen Way~
+   The small tunnel ends here rather abruptly. A current need for more
+living space does not seem to exist, but if you hand over enough money to
+the appropriate authorities then perhaps you can have some more tunnels
+dug out for your exclusive use. A little bench has been set up to
+allow citizens to admire the views.
+~
+132 d 1
+D2
+ A tunnel named after Queen Gwandolyn.
+~
+~
+0 -1 13251
+E
+bench views view~
+   The bench allow you to sit and admire the beautiful surroundings. The
+newly excavated tunnels are a popular target for many dwarven tourists.
+They can sit here on the city sponsored bench and look at the stone
+walls. Marvellous! Only thing that breaks the atmosphere is that someone
+has carved his name in the bench.
+~
+E
+tunnel ending~
+   About 1 yard deep. Only enough to mark out the heading and location of
+the tunnel-to-be.
+~
+E
+name carving carved~
+   RAFF!!!
+~
+S
+#13257 End of King Way~
+   The small tunnel ends here rather abruptly. A current need for more
+living space does not seem to exist, but if you hand over enough money to
+the appropriate authorities then perhaps you can have some more tunnels
+dug out for you to walk in personally. If the donation is large enough,
+there would be no extra fee for any number of companions.
+~
+132 d 1
+D2
+ The tunnel of King Kwathoum.
+~
+~
+0 -1 13253
+E
+tunnel ending~
+   About 1 yard deep. Only enough to mark out the heading and location of
+the tunnel-to-be.
+~
+S
+#13258 Harbour sidewalk~
+   The harbour sidewalk thins out into a only yard-wide shelf next to the
+sub mountain sea. It is still walkable but do not slip unless you want to
+fall down into the water. When you look to the south, you see the shape
+of a big pillar rising up in the middle of the sidewalk there.
+~
+132 d 1
+D0
+ The harbour sidewalk.
+~
+~
+0 -1 13259
+D2
+ The harbour sidewalk.
+~
+~
+0 -1 13255
+E
+shelf~
+   It is walkable and cut by skilled dwarven craftsmen. It will hold.
+~
+E
+pillar~
+   It is BIG!  Go closer and have a look. It will not harm you.
+~
+S
+#13259 Harbour sidestep~
+   The harbour sidewalk is so narrow here, you have to walk sideways to
+avoid falling into the water. There might be some kind of lookout point
+above you, where the dwarfs can scan a greater area of the water. That is
+if you manage to pass the black fence that has been set up.
+~
+132 d 1
+D2
+ The harbour sidewalk.
+~
+~
+0 -1 13258
+D4
+ Light pours down through the blackened fence.
+~
+fence black blackened~
+3 -1 13260
+S
+#13260 Signaling cliff~
+   Up on the little cliff stands a solitary wall, a wall that is slightly
+scorched on the mountainside but not the waterside. A not so hard guess
+is that it is used as some kind of lighthouse or signaling point to
+guide the ships safely into the harbour. A little blackened fence shows
+where the passage down is.
+~
+132 du 1
+D5
+ A place much much darker than this.
+~
+fence black blackened~
+3 -1 13259
+E
+ship harbour~
+   The in and outgoing ships would have no problem locating this spot and
+thus know exactly where they are.
+~
+S
+#13261 Harbour sidestep~
+   The harbour sidewalk is so narrow here you have to walk sideways to
+avoid falling into the water. There might be some kind of lookout point
+above you, where the dwarfs can scan a greater area of the water. That is
+if you manage to pass the black fence that has been set up.
+~
+132 d 1
+D0
+ The harbour sidewalk.
+~
+~
+0 -1 13262
+D4
+ Light pours down through the blackened fence.
+~
+fence black blackened~
+3 -1 13239
+S
+#13262 Harbour sidewalk~
+   The harbour sidewalk thins up into a only yard wide shelf next to the
+sub mountain sea. It is still walkable but do not slip unless you want to
+fall down into the water. A big pillar seems to rise up towards the cave
+roof standing in the middle ot the northern sidewalk.
+~
+132 d 1
+D0
+ The harbour sidewalk.
+~
+~
+0 -1 13266
+D2
+ The harbour sidewalk.
+~
+~
+0 -1 13261
+E
+pillar~
+   It is BIG!  Go closer and have a look it will not harm you.
+~
+S
+#13263 End of King Way~
+   The small tunnel ends here rather abruptly. A current need for more
+living space does not seem to exist, but if you hand over enough money to
+the appropriate authorities then perhaps you can have some more tunnels
+dug out for you to walk in personally.
+~
+132 d 1
+D0
+ The tunnel of King Kwathoum.
+~
+~
+0 -1 13268
+E
+tunnel ending~
+   About 1 yard deep. Only enough to mark out the heading and location of
+the tunnel-to-be.
+~
+S
+#13264 End of Queen Way.~
+   The small tunnel ends here rather abruptly. A current need for more
+living space does not seem to exist, but bring a pick axe and some
+stronger arms and start chopping. If things go unnoticed by the
+authorities, then one day you will have a little hole in the wall to hide
+in, all for yourself.
+~
+132 d 1
+D0
+ A tunnel named after Queen Gwandolyn.
+~
+~
+0 -1 13270
+E
+tunnel ending~
+   About 1 yard deep. Only enough to mark out the heading and location of
+the tunnel-to-be.
+~
+S
+#13265 Desolation Avenue~
+   The rather untidy tunnel turns west-north heading from the center of
+the Dwarven Undermountain Harbour Town to a little settlement a bit more
+west from here.
+~
+132 d 1
+D0
+ The stillness of Desolation Avenue invites you.
+~
+~
+0 -1 13272
+D3
+ The stillness of Desolation Avenue invites you (but to what?)
+~
+~
+0 -1 13277
+E
+settlement~
+   Walk closer and you just might see it better.
+~
+S
+#13266 Harbour sidewalk and A road~
+   The tunnel of A road opens up west into the mountain. To the south
+and north the harbour sidewalk extends. The air is a bit fresher here
+than deeper into the tunnels, as the big harbour cave and the water allow
+for some new and improved smell sensations. One thing differentiates this
+place from the rest of the sidewalk and that is the VERY big stone
+staircase that leads up from the pavement to the cave roof. It seems like
+an odd thing to place here. There is a sign hanging over the first turn
+of the staircase.
+~
+132 d 1
+D0
+ The harbour sidewalk.
+~
+~
+0 -1 13273
+D2
+ The harbour sidewalk.
+~
+~
+0 -1 13262
+D3
+ A road leads into the tunnel.
+~
+~
+0 -1 13267
+D4
+ The big stone staircase leads up.
+~
+~
+0 -1 13303
+E
+sign~
+   Northern Continent Person Travels - Go and see GeldenRock.
+~
+S
+#13267 On A road~
+   The tunnel of A road takes you in an east-west direction. Maybe the
+local janitors do not do their job here as the road is a bit untidy, or
+perhaps it is the local clientele that graciously spread their belongings
+along the street. Or perhaps it is the way the pub was dug out of the
+mountain fundament north of you that caused this somehow. It most
+certainly was not the big pillar that seems to rise up towards the cave
+roof where the tunnel emerges east.
+~
+132 d 1
+D0
+ A continual roar can be heard from in there.
+~
+~
+0 -1 13286
+D1
+ A road leads towards a opening in the cave system.
+~
+~
+0 -1 13266
+D3
+ A road leads into the tunnel.
+~
+~
+0 -1 13268
+E
+street road~
+   Broken bottles, soil, pieces of wood, a strip of cloth and some
+internal decorations have been shared with you due to some weary sailors
+excessive beverage consumption.
+~
+E
+internal decoration decorations~
+   BLEH!!!  Someone puked on the tunnel floor! It smells horribly.
+~
+E
+pillar~
+   It is BIG!  Go closer and have a look. It will not harm you.
+~
+S
+#13268 Crossing of King Way and A road~
+   The carved out tunnel roads called King and A allow you to walk in
+every direction but up and down. The dwarfs seem to have a rather good
+orientation about the tunnels, keeping them suitably flat.
+~
+132 d 1
+D0
+ The tunnel of King Kwathoum.
+~
+~
+0 -1 13274
+D1
+ A road leads into the tunnel.
+~
+~
+0 -1 13267
+D2
+ The tunnel of King Kwathoum.
+~
+~
+0 -1 13263
+D3
+ A road leads into the tunnel.
+~
+~
+0 -1 13269
+S
+#13269 On A road~
+   The tunnel of A road takes you in an east-west direction. The A road
+is a bit untidy. Maybe the local janitors do not do their job here or
+perhaps it is the local clientele who graciously spread their belongings
+along the street. Or perhaps it is that the janitors just keep away from
+this place to keep at least their reputation clean...
+~
+132 d 1
+D0
+ The place reeks of perfume and a few other odours.
+~
+~
+0 -1 13282
+D1
+ A road leads into the tunnel.
+~
+~
+0 -1 13268
+D3
+ A road leads into the tunnel.
+~
+~
+0 -1 13270
+D4
+ There is actually a little window up close to the tunnel ceiling. From
+inside the window a soft red light is emitted. Perhaps it was from there
+that the trash came down...
+~
+~
+0 -1 -1
+E
+street road~
+   Broken bottles, soil, pieces of wood, a strip of cloth and some
+internal decorations have been shared with you due to some weary sailors'
+excessive beverage consumption.
+~
+S
+#13270 Crossing of Queen Way and A road~
+   The undermountain village tunnels paths called Queen way and A road
+cross here. The carved out tunnel allows you to walk in every direction
+but up and down. The dwarfs seem to have a rather good orientation about
+the tunnels keeping them very flat.
+~
+132 d 1
+D0
+ A tunnel named after Queen Gwandolyn.
+~
+~
+0 -1 13275
+D1
+ A road leads into the tunnel.
+~
+~
+0 -1 13269
+D2
+ A tunnel named after Queen Gwandolyn.
+~
+~
+0 -1 13264
+D3
+ A road leads into the tunnel.
+~
+~
+0 -1 13271
+S
+#13271 On A road~
+   The A road tunnel changes width a bit and narrows if you are headed
+west. The noise of the town can be heard from the east while silence
+covers the road west. The civilized town does seem to have its limits.
+~
+132 d 1
+D1
+ A road leads into the tunnel.
+~
+~
+0 -1 13270
+D3
+ A road leads into the tunnel.
+~
+~
+0 -1 13272
+S
+#13272 Crossing of A road and Desolation Avenue~
+   The town is silent. The crossing seems well-tidied though revealing
+that someone moves here at least sometimes. Maybe some sounds would be
+heard if you were to move more east along A road or north along
+Desolation Avenue. The avenue also continues south into the very
+outskirts of the undermountain harbour town.
+~
+132 do 1
+D0
+ The stillness of Desolation Avenue invites you.
+~
+~
+0 -1 13276
+D1
+ A road leads into the tunnel.
+~
+~
+0 -1 13271
+D2
+ The stillness of Desolation Avenue invites you.
+~
+~
+0 -1 13265
+S
+#13273 Harbour sidewalk~
+   The fresh air from the mineral-rich undermountain bay mixes with the
+marvels that undermountain music bring to your ears. Perhaps the little
+shop carved from the mountain west of you is the source of that. You can
+follow the sidewalk north or south to new interesting discoveries.
+Standing in the middle ot the southern sidewalk, a big pillar rises up
+towards the cave roof.
+~
+132 cd 1
+D0
+ The harbour sidewalk.
+~
+~
+0 -1 13247
+D1
+ Take a step out into thin air and plummet into the harbour basin.
+- Not popular with the guards.
+~
+~
+0 -1 13202
+D2
+ The harbour sidewalk.
+~
+~
+0 -1 13266
+D3
+   Music pours out the cave opening. Music that makes you want to shop.
+~
+~
+0 -1 13285
+D5
+ Jumping into the harbour basin - Not popular.
+~
+~
+0 -1 13202
+E
+pillar~
+   It is BIG!  Go closer and have a look it will not harm you.
+~
+>push 50 3~
+ Fritz drags you into his shop filled with various useful wares.
+~
+S
+#13274 King Way~
+   The King Way tunnel takes you in a north south direction. The
+occasional smoothed walls show graphic interpretations of the great deeds
+performed by the dwarven ruler. Two small stone wheels indicate passages
+into what seem to be little shops.
+~
+132 d 1
+D0
+ Parade Street.
+~
+~
+0 -1 13245
+D1
+ The Dwarven Undermountain Harbour Town Inn
+~
+stone wheel~
+1 -1 13287
+D2
+ The tunnel of King Kwathoum.
+~
+~
+0 -1 13268
+D3
+ The Tool Shed
+~
+stone wheel~
+1 -1 13281
+E
+ruler smooth graphic wall walls~
+   The carvings gracefully portray the dwarf ruler walking down the
+newly dug tunnel on his knees just after his beloved wife, Gwandolyn.
+~
+E
+small wheel wheels~
+   Usually rolled way to reveal the shop in the cave. A shop that never
+closes unless it is inventory day.
+~
+S
+#13275 Queen Way~
+   The Queen Way tunnel takes you in a north south direction. The
+occasionally smoothed walls show graphic interpretations of great deeds
+performed by the dwarven queen. A little door with a sign allows for you
+to enter a little cave in the wall.
+~
+132 d 1
+D0
+ Parade Street.
+~
+~
+0 -1 13243
+D1
+ The cave smell of burned flesh. What are they doing in there?
+~
+door~
+1 -1 13237
+D2
+ A tunnel named after Queen Gwandolyn.
+~
+~
+0 -1 13270
+E
+queen smooth graphic wall walls~
+   The graphic shows the marvellous adored Queen Gwandolyn holding court
+with her really good looking Ladies in Waiting.
+~
+E
+sign~
+                   BIERSTUBE!!!
+~
+S
+#13276 Desolation Avenue~
+   Quite much noise and a occasional crash can be heard from the north
+where Parade street and the Drop room cause the daily commotion of the
+Dwarven Undermountain Harbour Town. The activity in the tunnel, in which
+the path go, lessen down quite a bit to the south where Desolation avenue
+continues.
+~
+132 d 1
+D0
+ Parade Street.
+~
+~
+0 -1 13242
+D2
+ The stillness of Desolation Avenue invites you.
+~
+~
+0 -1 13272
+S
+#13277 A little settlement on Desolation Avenue~
+   You hear activity from around you, from the solid stone walls. There
+seems to be living quarters in there but there is no door or window.
+Looks like the inhabitants of this part of town are a little more
+secretive than the rest.
+~
+132 d 1
+D1
+ The stillness of Desolation Avenue invites you.
+~
+~
+0 -1 13265
+D3
+ Desolation Avenue opens up into something really BIG.
+~
+~
+0 -1 13278
+E
+window~
+   But there is no window to be found!~
+E
+door~
+   But there is no door to be seen!~
+S
+#13278 Bottom of the Chasm~
+   Small fires lit here and there are the only sign of any habitation you
+can see. Scattered around the stones on the chasm floor lie what seem to
+be leftovers of mostly humanoid creatures. The origin of these remains is
+probably the sky from where they have made futile attempts to reach the
+lit fires. Greed can be very fatal sometimes. Desolation Avenue leads you
+east and a small trail goes south along the stony chasm floor.
+~
+132 d 5
+D1
+ Into the mountain and Desolation Avenue.
+~
+~
+0 -1 13277
+D2
+ Following the chasm floor.
+~
+~
+0 -1 13279
+E
+humanoid leftovers creatures~
+   The scattered remains have several svere bucklings on them as if the
+whoever-it-was have fell down a long way. The leftovers do have some
+resemblace to a lost clannie of yours. Perhaps now his fate is revealed.
+~
+S
+#13279 End of a trail~
+   The little trail at the bottom of the huge chasm ends here next to the
+mountainside. The chasm continues for a long distance in an southeastward
+direction but the fallen stones make it impassable.
+~
+132 d 5
+D0
+ A tunnel opens up in the mountain wall.
+~
+~
+0 -1 13278
+D1
+ There seems to be a little room inside the heavy metal plated, but still
+very well camouflaged, door that marks the entrance to it.
+~
+metal plate mark~
+259 -1 13296
+D2
+ So many stones- So very many stones.
+~
+~
+0 -1 -1
+D3
+ So many stones- So very many stones.
+~
+~
+0 -1 -1
+E
+stone stones~
+   So very many stones. If you did not know better you would say:
+             'This is the floor of a gigantic chasm'
+~
+
+>echo 10~
+Something peeks out at you from the face of the stone.
+~
+S
+#13280 Clerics' Outpost~
+   This outpost serves almost all deities around, except those which
+directly oppose each other and those which can not accept that not all
+worship other gods. Left is about nothing at all. Religious people might
+not be as forgiving as they say they are, at least not towards other
+religious people. Still, a lot of potions and staffs line the shelves of
+the stone walls for those that do visit. A little sign hangs above the
+counter. On top of a small altar next to the entrance there is a note,
+worth reading.
+~
+132 d 1
+D0
+ Parade Street.
+~
+~
+0 -1 13244
+E
+altar~
+   The altar is very discrete and show no markings or sign of belonging
+to worshippers of any particular belief. Stuck to the wall above the
+altar is a small note stating what the altar is used for.
+~
+E
+tithe note~
+   The note reads:
+ Altar of Tithes.
+Please donate a small part of ALL your gold for the benefit of the less
+fortunate members of the community.
+                               Do 'Tithe' to be rewarded for your action.
+
+On the back side of the note there are some more text, perhaps even more
+valuable to read.
+~
+E
+more text back side~
+   Making your Tithe contribution will remove a percent from your bank
+account as well as decimating your pocket money. To avoid unnecessary and
+time consuming administration no less than 10 000 gold will be removed
+when making the transaction.
+~
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+
+                                And dont forget to 'Tithe'
+~
+S
+#13281 Tooling and devices~
+   Tools, tools and more tools - everywhere tools... Everything a sailor
+might need on his trip in terms of tools can be found in this carved out
+shop. You can see tar and oil on one side and sails and rope on the
+other, even a few good anchors might be available if you ask nicely. A
+little sign next to the door instructs you what to do.
+~
+132 d 1
+D1
+ The tunnel of King Kwathoum.
+~
+stone wheel door~
+1 -1 13274
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#13282 Brothel and Pet Shop~
+   What is your desire? - You want it, WE got it. These are the slogans
+of this rather 'strange' boutique. It is not socially accepted in most
+communities but with the right kind of discretion it can still be run
+without too much trouble. And would you not agree that a Pet Shop is the
+perfect cover for this kind of operation? The interior decoration is left
+for your own imagination to decide, except for the sign over the pretty
+sleazy counter.
+~
+132 d 1
+D2
+ A road leads into the tunnel.
+~
+~
+0 -1 13269
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+~
+S
+#13283
+MOB CHUTE~
+   For the pet shop.
+~
+132 ude 1
+S
+#13284 Harbour Officials~
+   The office of the harbour town officials is quite a nice place for a
+cave. A large desk stands at a central position and in front of that a
+few chairs. Apparently the manager gets visitors rather a lot. The
+paperwork present is well beyond any normal man or dwarf's capability. It
+is here where you register if you want permanent working permission,
+long-range tickets or if you want to file a complaint against any
+representantive of the town. There is a little sign next to the entrance.
+~
+132 d 1
+D0
+ Parade Street.
+~
+~
+0 -1 13246
+E
+desk~
+   It is big and marble. Lucky for it as it has a big burden of papers
+upon it. Lucky for you it is not on your foot.
+~
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+~
+S
+#13285 Fritz quality wares and extraordinary discounts~
+   WELCOME! OUR SHELVES ARE FILLED WITH THE BEST PRICES AVAILABLE IN ALL
+  THE LAND. HERE YOU CAN MAKE YOUR BEST BUY EVER!!! DO NOT HESITATE,
+ GRAB A LITTLE BASKET AND FILL IT TO THE BRIM WITH OUR FINE GOODS.
+COME ON - COME ON - THESE PRICES WON'T HOLD FOR MUCH LONGER - BUY NOW!!!
+~
+132 do 1
+D1
+ The harbour sidewalk.
+~
+~
+0 -1 13273
+E
+shelf shelves goods~
+   Oh, geeee....   There is a lot on sale in here. Hmmm, perhaps you
+really need one of those things anyway.
+~
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#13286 Shabby bar~
+   The ordinary shore leave sailor hangout. In this well used hole in the
+wall you can get something to drink anytime of day or night and a beer to
+go with that. It is cheap and tastes like it, but if you want to get
+really drunk for almost no money and you have a long sea journey ahead of
+you to sober up on -- this is the place. What is being sold can be seen
+on a large sign.
+~
+132 d 1
+D2
+ A road leads into the tunnel.
+~
+~
+0 -1 13267
+E
+large sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+~
+>echo 2~
+#RFritz tells you 'What can I get you people?'#N
+~
+S
+#13287 Hotel Inn-Side~
+   The Harbour Inn is the only place for tourists to stay overnight in
+this town as sleeping in the streets is not allowed. Rates are posted on
+a little sign on the wall. It looks a bit rustic and cold as it is
+chipped out directly from the mountain, but complaining does not help as
+you do not have much of an option.
+~
+132 d 1
+D3
+ The tunnel of King Kwathoum.
+~
+wheel stone~
+1 -1 13274
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#13288 Customs Office~
+   The customs office is where the town gets its income. A certain tithe
+is expected to allow passage in for goods and out for passengers. If you
+do not pay, you either turn back, get jailed or pay an extra, rather
+heavy fee. Any goods transported might be confiscated. Be nice to these
+people. More information is supplied on a little sign on the wall.
+~
+132 d 1
+D2
+ Parade Street.
+~
+~
+0 -1 13246
+E
+sign little~
+The sign reads:
+
+We will do anything to make your transit smooth and easy,
+ just wait for your turn and you will be served.
+
+~
+S
+#13289 Fish Shop~
+   The stench of, or if you are in the business, delights of raw fish and
+seafood come toward you from all natural wonders collected in here. The
+variety of kinds is as big as the price range. A little sign behind the
+counter tells you so. Perhaps some salted or dried fish would suit you if
+you are headed out for a long journey.
+~
+132 d 1
+D1
+ The harbour sidewalk.
+~
+~
+0 -1 13250
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#13290 Bread and Stone Rations~
+   The smell of fresh bread in the morning is one of the natural wonders
+of the Old World. Unfortunately for you and the neighbours this shop only
+trades in old, now smell-less bread of the log-kind. The good thing is
+that they hold up much better when travelling on the sea. Some hard
+rations of dried meat can also be found standing in a corner. If you are
+going for this kind of food you had better bring along a lot of fresh
+water. A more detailed list of what is being sold is placed on the wall.
+~
+132 d 1
+D0
+ 1st Street.
+~
+~
+0 -1 13254
+E
+sign wall list~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#13291 Water Shoppe~
+   Fresh sweet water, without the slightest trace of salt in it, along
+with some real neat containers is exactly what you need to stay alive on
+the long trips that go out from this town. A little sign next to the
+entrance shows you how to behave in here.
+~
+132 d 1
+D3
+ The tunnel of King Kwathoum.
+~
+~
+0 -1 13249
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#13292 Mage Outpost~
+   If you want to fill up your spell components before setting out on
+longer trips, then this is the right place for you. The Mage Outpost
+supplies those arcane ingredients that you need so much. One or two
+scrolls might also come in handy, and they can surely be found somewhere
+in the large unavailable storage facilities that the shopkeeper uses. But
+beware! Too long exposure to these smells could alter your sensory
+organs. A sign informs you of what is available today.
+~
+132 d 1
+D2
+ Parade Street.
+~
+~
+0 -1 13244
+E
+storage facility~
+   Big place - Lotsa stuff - To go NONO.
+~
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#13293 Seafarers Clothing~
+   Travelling the sea is a dangerous business. Not only could you get
+lost and never return, but you could also starve to death or dehydrate
+into a tiny heap of bones and, not to forget, freeze to death. Well, this
+place could help you avoid that last thing, freezing. Heavy coats and
+furs line the walls and jars filled with yak fat smell horridly in their
+cabinets. Maybe even some suntan oil for that southern trip can be
+detected here somewhere... Read the sign and see what is being offered.
+~
+132 d 1
+D1
+ The tunnel of King Kwathoum.
+~
+stone wheel~
+1 -1 13249
+E
+sign~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#13294 Slaughterhouse~
+   The sights in here are rather bizarre. Wide open cows, rabbits, birds,
+horses, deers and even a few snakes hang on display on large hooks in the
+store stone roof. The smell in the air is rather sweet from all the
+exposed blood tissue. A stained sign on the wall shows you todays prices.
+~
+132 d 1
+D0
+ 1st Street.
+~
+~
+0 -1 13252
+E
+hook hooks~
+   Big, Bloody and very much belonging to Fritz.
+~
+E
+sign stain stained~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#13295 MapMakers Associated~
+   There are no maps on display - nobody ever came back with any. *Sniff*
+The only maps available are the ones that the mapmaker himself made, but
+the accuracy of those can be discussed (but not with him). Todays prices
+are stated on a neatly written note on the wall.
+~
+132 d 1
+D3
+ A tunnel named after Queen Gwandolyn.
+~
+door~
+1 -1 13248
+E
+sign note~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#13296 Rope weaver~
+   The store is almost empty, only a few samples lie scattered around
+in the cave. The shop is bigger than one would expect from the outside,
+but the Deep Gnomes know how to build real good underground housing and
+discrete ones too. A little curtain of woven seaweed hangs on the back
+wall. Other than that, not much decoration can be found.
+~
+132 d 1
+D1
+ The manufacturer's part of the cave house.
+~
+curtain~
+3 -1 13297
+D3
+ Out onto the chasm floor.
+~
+door~
+3 -1 13279
+E
+sample~
+   The rope samples are as far as you can see with your untrained eye
+pretty good. An expert would go for Clearly Superior.
+~
+E
+curtain~
+   The curtain is just a plain stone grey curtain used to separate the
+two rooms of the shopweaver shop.
+~
+S
+#13297 Rope weaver's manufacturer seats~
+   This is the place where the actual rope weaving takes place. Two
+chairs laden with various rope-weaving equipment stand bolted to the
+floor opposite each other. Completed ropes lie on the shelves, of which
+one shelf has a tiny sign on it. One rope differs a bit as it is
+stretched out inbetween the floor and the cave roof. Apart from all this
+the shop is rather Spartan, even though there is a nice looking curtain
+hanging on the western wall.
+~
+132 cd 1
+D3
+ The part of the house closest to the chasm.
+~
+curtain~
+3 -1 13296
+D4
+ Upper floor.
+~
+roof trapdoor~
+1 -1 13298
+E
+chair chairs~
+   The rope weaver chairs are well bolted to the stone floor. A necessity
+as the ropeweavers tug rather heavily on the rope fibres of the rope
+fixed to the chair, as they bond them together.
+~
+E
+equipment~
+   The ropeweavers use use equipment sparsely. The skill is in the
+technique after all. The only tool lying around is a very short
+supersharp knife used to split up the fibres in their lengthwise
+direction.
+~
+E
+shelf shelves~
+   Full sized ropes fill the shelves but unfortunately they are also very
+well protected by the shopkeeper and the only way for you to have a peek
+is to buy one.
+~
+E
+rope~
+   All ropes are of the most superior quality and are rolled up nicely.
+All except the one rope standing completely straigh on the floor (or in
+the ceiling if you are standing on your head). Rigid at your touch one
+can wonder over its purpose.
+~
+E
+sign tiny~
+The sign reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#13298 Roof chamber~
+   The room looks like it has been used as a hiding place for a long
+time, but not only that. A lot of martial arts practice equipment stand
+along the walls. It seems this place has been used as a secret training
+facility center, but by whom and WHY? A big black cloth with a staring
+red eye hangs on the south wall. Perhaps there, is the explanation.
+~
+132 d 1
+D3
+ The Shrine!
+~
+cloth~
+1 -1 13299
+D5
+ Lower floor.
+~
+floor trapdoor~
+1 -1 13297
+E
+equipment practice walls wall~
+   Small balls, wooden dolls, nunchucks, toppling benches, hanging rings,
+walkable elevated ropes, the list could be made very long. In here is
+everything you might need of a martial arts practice centre.~
+E
+cloth black~
+   There is some sound coming out from behind there. Go have a close look
+and examine it very carefully. It might prove both revealing and
+interesting. The red eye stares back at you. Gulp!
+~
+S
+#13299 The Shrine~
+   Someone seems to be worshipping some strange old deity at the altar in
+here. The whole place has this purpose only. The only untidy place in
+here is the altar foot where gifts have been placed to please the
+divinity.
+~
+132 d 1
+D1
+ What seems to be some kind of combined roof chamber and practice centre.
+~
+cloth~
+1 -1 13298
+D5
+ Into a grey cubical mass.
+~
+altar~
+291 -1 13238
+E
+altar~
+   The altar shows some kind of wet creature covered up in large moisture
+keeping leaves dripping with water. You feel sheer evilness protrude from
+the altar body.
+~
+E
+god divinity wet creature~
+   The altar shows some kind of wet creature covered up in large moisture
+keeping leaves dripping with water. You feel sheer evilness protrude from
+the altar body.
+~
+E
+gift~
+   In the centre of the altar is a small statue of some very odd deity.
+It is surrounded by large heaps of gold and jewellery, weapons, blood-
+stained armours and one or two dismembered peasants.
+~
+E
+diety body~
+
+The statue shows a strange entity.
+A massive body with large pods,
+crude arms, huge leathery bat wings
+and a head that looks like a gigantic octopus.
+And the eyes.......
+                Dont look into the eyes.....
+~
+E
+eye eyes~
+
+   #yYou hear yourself say : CTHULHU!!!  I hear and obey!#N
+
+~
+S
+#99999
+$~

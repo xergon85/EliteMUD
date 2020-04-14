@@ -1,0 +1,188 @@
+#20800
+key cage~
+cage key~
+A simple metal key with the sign of the triskelion etched on one side.~
+~
+18 20 0 bn a
+1 0 0 0 0 0
+10 100 1
+#20801
+key stone keystone~
+a small keystone~
+A small keystone is etched with a triskelion on one side.~
+~
+18 20 0 bn a
+1 0 0 0 0 0
+10 100 1
+#20802
+robe white triskelion~
+a robe of triskelion~
+This is a white robe with a scarlet triskelion embroidered on it.~
+~
+9 39 cdhklops g ak
+9 0 0 0 0 0
+15 3000 1
+A
+3 1
+A
+12 50
+#20803
+tooth lhurgoif~
+a tooth~
+This is the sharp canine tooth of the Lhurgoif.~
+~
+5 30 n 0 ano
+0 5 4 11 0 0
+6 6666 6
+A
+18 2
+A
+19 4
+#20804
+ring triskelion~
+a ring of triskelion~
+This is a plain silver ring in the shape of a triskelion.~
+~
+9 30 0 0 ab
+11 0 0 0 0 0
+5 1000 1
+A
+3 1
+A
+18 2
+#20805
+belt triskelion~
+a belt of triskelion~
+A silver belt with a symbol of 3 swirling lines emanates power.~
+~
+9 100 abcdfhjklmnops b al
+18 0 0 0 0 0
+25 11234 1
+A
+12 50
+A
+24 10
+#20806
+jar green goo~
+jar of goo~
+A jar of green goo is sitting on a shelf.~
+~
+10 30 0 hno a
+60 61 33 -1 0 0
+5 100 1
+#20807
+bucket large dusty~
+the dusty bucket~
+A large dusty bucket is laying around.~
+~
+15 1 0 0 ao
+150 0 -1 0 0 0
+40 355 1
+A
+2 -8
+#20809
+guard guards spear~
+a guard spear~
+A guards spear has been carelessly left on the ground.~
+~
+5 45 acdeghiklmops b ano
+0 1 25 12 0 0
+15 550 1
+A
+24 5
+A
+18 -2
+#20810
+jewel mind~
+a mind jewel~
+A small jewel used for teaching is on the ground.~
+~
+9 10 abcdfghijklmnops a ae
+3 0 0 0 0 0
+1 250 1
+A
+12 10
+A
+24 -1
+#20811
+fountain psi fish~
+green marble fountain~
+A green marble fountain carved with fish is bubbling happily.~
+~
+23 1 0 h 0
+1000 1000 15 0 0 0
+100000 1 1
+E
+*~
+~
+#20812
+psi psionic crystal whip~
+a psionic whip~
+A small crystal used to amplify psionic energy hovers in the air.~
+~
+5 100 abcdfghijklmnops 0 ano
+0 6 12 2 0 0
+15 1300 1
+A
+19 6
+A
+18 9
+A
+12 100
+#20813
+vial small plat platinum~
+platinum vial~
+A small vial made of platinum and psychic energy is glowing brightly.~
+~
+10 50 0 ag a
+50 80 -1 -1 0 0
+2 2000 1
+#20814
+sash plat platinum cloth~
+platinum sash~
+A wide strip of silvery colored cloth is laying on the ground.~
+~
+9 24 bcdfghjklnops 0 al
+14 0 0 0 0 0
+15 2000 1
+A
+3 2
+#20815
+mop~
+an old mop~
+An old mop is propped up in the corner.~
+~
+4 10 0 0 0
+10 1 1 15 0 0
+25 100 5
+#20816
+cane dilligaf walking~
+dilligaf's cane~
+The walking cane of an old mage is here.~
+~
+5 60 0 a ano
+0 3 5 6 0 0
+10 1 1
+E
+old~
+The old staff is covered with glowing blue runes
+~
+E
+runes~
+The runes cover the entire length of the cane and are some sort of
+words.  
+~
+E
+words~
+Dilligaf
+~
+E
+dilligaf Dilligaf DILLIGAF~
+Does It Look Like I Give A Fuck
+~
+A
+2 8
+A
+14 100
+#99999
+$~

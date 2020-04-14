@@ -1,0 +1,877 @@
+#14300
+angel~
+An angel~
+An angel walks around, having a happy existence.
+~
+This is a normal angel. He smiles at you as he notices that you are
+watching him. He is very beautiful, and very very good. How could you
+even think of harming such a good-willed being?
+~
+12 0 gl hkrB 700 S
+100 -30 -37 2d100+1300
+404 500 50 6d10+20
+400 500 50 7d10+10 -1
+304 100 326 100 327 100 -1
+-1
+2000 1000000 8 8 1
+A
+%%5 smile~
+#14301
+angel~
+An angel~
+An angel walks around, having a happy existence.
+~
+This is a normal angel. She smiles at you as she notices that you are
+watching her. She is very beautiful, and very very good. How could you
+even think of harming such a good-willed being?
+~
+12 0 gl hkrB 700 S
+100 -30 -37 2d100+1300
+404 500 50 6d10+20
+400 500 50 7d10+10 -1
+304 100 326 100 327 100 -1
+-1
+2000 1000000 8 8 2
+A
+%%5 smile~
+#14302
+angel guard~
+An angel guard~
+No evil passes the watching eye of the angel guard!
+~
+This angel has been given the honor of guarding Heaven, or places
+inside Heaven, against evilness. Don't mess with him, he knows how to
+handle the weapon in his hand.
+~
+12 4 bfgilm dhkrB 800 S
+100 -34 -41 2d100+1500
+406 500 100 6d10+35 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2500 1100000 8 8 1
+#14303
+angel soldier~
+An angel soldier~
+The angel soldier is part of God's army.
+~
+This angel has signed into the army. He's now part of the glorious army
+overseen by Michael, the arch angel. It's a great honor to have achieved
+this position, and maybe someday the army will attack Hell. The soldiers
+can't wait until that day!
+~
+12 4 gl dhkrB 800 S
+100 -35 -41 2d100+1700
+406 500 100 6d10+35 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2500 1100000 8 8 1
+#14304
+angel guard death~
+The angel guarding Death~
+The angel guarding the black door of Death is watching you.
+~
+This is one of the four guards that are to ensure that the riders of
+the Apocalypse don't get free before the time is right. The guard is
+dressed in black, and he is standing at the north, black door to Death's
+chamber. This angel won't budge for anything.
+~
+12 4 bfgilm dhkrB 800 S
+100 -35 -41 2d100+1500
+406 500 100 6d10+35 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2500 1100000 8 8 1
+#14305
+angel guard war~
+The angel guarding War~
+The angel guarding the blood red door of War is watching you.
+~
+This is one of the four guards that are to ensure that the riders of the
+Apocalypse doesn't get free before the time is right. The guard is
+dressed in bloody red, and he is standing at the south, red door to
+War's chamber. This angel won't budge for anything.
+~
+12 4 bfgilm dhkrB 800 S
+100 -35 -41 2d100+1500
+406 500 100 6d10+35 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2500 1100000 8 8 1
+#14306
+angel guard pestilence~
+The angel guarding Pestilence~
+The angel guarding the green door of Pestilence is watching you.
+~
+This is one of the four guards that are to ensure that the riders of the
+Apocalypse doesn't get free before the time is right. The guard is
+dressed in green, and he is standing at the west, green door to
+Pestilence's chamber. This angel won't budge for anything.
+~
+12 4 bfgilm dhkrB 800 S
+100 -35 -41 2d100+1500
+406 500 100 6d10+35 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2500 1100000 8 8 1
+#14307
+angel guard famine~
+The angel guarding Famine~
+The angel guarding the grey door of Famine is watching you.
+~
+This is one of the four guards that are to ensure that the riders of the
+Apocalypse doesn't get free before the time is right. The guard is
+dressed in grey, and he is standing at the east, grey door to Famine's
+chamber. This angel won't budge for anything.
+~
+12 4 bfgilm dhkrB 800 S
+100 -35 -41 2d100+1500
+406 500 100 6d10+35 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2500 1100000 8 8 1
+#14308
+soul till lindemann~
+The soul of Till Lindemann~
+The soul of Till Lindemann is still singing the text to 'Engel'.
+~
+This is what is left of Till Lindemann after his death. He died on a
+concert with Rammstein, while singing 'Engel'. God knows, he does not
+want to be an angel, and so he will most likely not get access to Heaven
+- not until he stops singing.
+~
+2 0 gl A 0 S
+60 -13 -25 2d50+1200
+400 500 100 4d10+15 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2000 450000 8 8 1
+A
+%%10 sing;%10 emote sings 'Gott weiss ich will kein Engel sein!'~
+#14309
+soul elvis~
+The soul of Elvis~
+The soul of Elvis is still trying to get access to Heaven.
+~
+When Elvis died, he thought he'd get into Heaven right away, but that
+wasn't the case. Saint Petrus couldn't make up his mind about Elvis,
+and so he decided to think it over. As a result, Elvis have been arguing
+with the informant about this ever since he got here, and he will most
+likely continue doing that until a final decision is made.
+~
+2 0 gl A 0 S
+60 -13 -25 2d50+1200
+400 500 100 4d10+15 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2000 450000 8 8 1
+A
+%%10 sing~
+#14310
+soul~
+A soul~
+A soul is waiting for his final judgement.
+~
+This is what all sentient lifeforms become at first when they die:
+transparent, non-material manifestations of their former bodies. They
+will stay that way, until their actions as live ones have been judged
+and their final fate will be decided. Until then, they are unable to
+feel emotions, since the presence of this phenomenon could affect saint
+Petrus' final decision. In effect, most souls are wandering,
+empty-headed ghosts without any goal that they know of themselves.
+~
+2 0 gl A 0 S
+60 -13 -25 2d50+1200
+400 500 100 4d10+15 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2000 450000 8 8 1
+#14311
+informant old man~
+An old man~
+The old informant is trying to create some order in his paperwork.
+~
+This old man is obviously having a bad day. Somehow, all his papers were
+mixed up and he accidentally sent a pope to Hell, while Attila was sent
+to Heaven. Now he is desperatly trying to get everything right, so
+please don't bother him, he doesn't have time for you at the moment. Oh,
+and by the way - don't try to attack him. He is way too hard for you.
+~
+2 0 gl hB 1000 S
+109 -37 -200 1d0+30000
+400 500 100 1d100+100 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+1 10 6 6 1
+A
+%%5 swear;%10 sigh;%10 say Oh dangit! I'll never get these papers in order! Why can't they get me a computer or something?~
+#14312
+shopkeeper dresser old man~
+A dresser~
+An old man is here to dress you up.
+~
+This old man is very similar to the one at the informations desk, except
+that he is much less busy. He is having his little shop here and he is
+quite pleased with his current existence. His long white beard goes well
+with his white wings and dress, and he has a kind of fatherly look about
+him. Oh, and by the way - don't try to attack him. He is way too hard
+for you.
+~
+2 0 bgl hkB 1000 S
+109 -37 -200 1d0+30000
+400 500 100 1d100+100 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+1 10 8 8 1
+#14313
+saint petrus~
+Saint Petrus~
+Saint Petrus is judging your soul - and he doesn't like what he sees.
+~
+Saint Petrus is the guardian of the gates to Heaven, and he is to make
+sure that only the souls of those who lived a worthy life may enter
+Heaven itself. As you look into his eyes, you realize that he sees every
+little secret that you are hiding within you. He obviously doesn't like
+what he sees, because he won't open the gates for you. You guess Hell is
+the place where you belong.
+~
+12 1 bfgi dhkrB 1000 S
+100 -32 -40 2d100+1600
+404 500 100 6d10+20 -1
+304 100 326 100 327 100 -1
+-1
+2000 1100000 8 8 1
+A
+%%5 say Begone, you heathen!;%5 say Ack, you miserable wreck of a living creature! I pity you!;%5 sigh~
+#14314
+saint george~
+Saint George~
+Saint George ended up here in Heaven after his crusade.
+~
+George was once a noble and very powerful knight - and he still is,
+although he has left his physical body. Still wearing (non-physical)
+armor, he is now a proud officer in God's army. Hell will have much
+trouble withstanding this fighter, who once slew a dragon with his
+mighty lance.
+~
+12 4 gl hrB 1000 S
+100 -35 -42 5d50+1500
+406 500 100 5d10+25 -1
+304 100 326 100 327 100 328 75 333 100 321 50 -1
+-1
+2500 1200000 8 8 1
+#14315
+saint nicholas nicholaus~
+Saint Nicholas~
+Saint Nicholas is walking around with a big sack full of loot.
+~
+Incredibly enough, saint Nicholas the thief got into Heaven after all.
+But then again, being the patron saint of thieves includes more than
+just stealing - this man helped many in his life, and good deeds are
+worth more than evil ones. Especially his many gifts to the children of
+the world made saint Petrus make up his mind.
+~
+12 3 cegl dfhkrsB 1000 S
+100 -28 -37 2d100+1500
+402 500 100 5d10+20 -1
+304 100 326 100 327 100 314 100 316 100 338 75 339 100 318 75 -1
+-1
+2000 900000 8 8 1
+A
+%%5 smile;%10 emote laughs a merry laugh.;%10 say Ho ho ho!~
+#14316
+saint sebastian~
+Saint Sebastian~
+Saint Sebastian still has the scars from the arrows on his body.
+~
+Saint Sebastian was a christian who got himself into the roman army.
+There he fed the christian prisoners and gave them water and hope. He
+was discovered and executed - only he did not die. He later returned to
+get his revenge. That was when he finally died, and he was made the
+patron saint of archers, as a symbol of his execution, which he survived.
+~
+12 0 gl hB 1000 S
+100 -30 -40 2d100+1500
+400 500 100 6d10+10 -1
+304 100 326 100 327 100 -1
+-1
+2000 1000000 8 8 1
+#14317
+arch angel gabriel~
+Gabriel the arch angel~
+Gabriel the arch angel is waiting to recieve further orders from God.
+~
+Gabriel is the mightiest of the four arch angels. He is the right hand
+of God and is generally working as a messanger to the people of Elite.
+Gabriel will announce when the judgement day is here, and he also holds
+the key to the  chamber of Death, the mightiest rider of the apocalypse.
+You really shouldn't mess with this person.
+~
+12 4 bgl dhkrB 1000 S
+109 -43 -48 0d0+5000
+403 500 80 2d40+20
+26 0 20 1d0+75 -1
+304 100 326 100 327 100 -1
+-1
+10000 2000000 8 8 1
+R
+-1 -1 -1 -1 25
+#14318
+arch angel michael~
+Michael the arch angel~
+Michael the arch angel is preparing God's army for an assault on Hell.
+~
+Michael is the second strongest of the arch angels, and the leader of
+God's army. He is very mighty, and third in rank below only God and
+Gabriel. He has been training how to fight and lead an army all his
+existence, and he is very good at it. He holds the key to War, the
+second of the horsemen of the Apocalypse and his own nemesis.
+~
+12 4 bgl dhkrB 1000 S
+109 -43 -48 0d0+5000
+403 500 80 2d40+20
+30 0 20 1d0+75 -1
+304 100 326 100 327 100 -1
+-1
+10000 2000000 8 8 1
+R
+-1 -1 -1 -1 25
+#14319
+arch angel raphael~
+Raphael the arch angel~
+Raphael the arch angel is teaching his priests the holy art of healing.
+~
+Raphael is the third of the arch angels, and the least violent one. He
+has dedicated his existence to teaching and developing the arts of
+healing, and he is the most skillful person in this area in existence.
+He also holds the key to Pestilence, the third horseman of the
+Apocalypse and his own sworn enemy. It will take a lot to make Raphael
+use the key to unleash the nameless diseases Pestilence can create upon
+Elite.
+~
+12 2 bgl dhkrB 1000 S
+109 -38 -48 0d0+5000
+400 500 85 2d40+15
+28 0 15 2d0+95 -1
+304 100 326 100 327 100 -1
+-1
+10000 2000000 8 8 1
+A
+%%10 emote utters the words 'pzar'.~
+R
+-1 -1 -1 -1 25
+#14320
+arch angel uriel~
+Uriel the arch angel~
+Uriel the arch angel is doing some heavy thinking.
+~
+Uriel the arch angel is a great scientist, and he is trying to reveal
+the innermost secrets of the existence, the secrets that even God know
+nothing about. In fact, God told him to try to reveal what happened at
+God's creation. To complete this task, Uriel has gathered the most
+brilliant dead minds to work for him. Uriel also holds the key to
+Famine, the weakest horseman of the Apocalypse. He does this only
+because he is the last arch angel, and Famine is the last horseman.
+~
+12 2 bgl dhkrB 1000 S
+109 -38 -48 0d0+5000
+400 500 90 2d40+20
+6 0 10 1d0+95 -1
+304 100 326 100 327 100 -1
+-1
+10000 1800000 8 8 1
+A
+%%8 frown;%8 mumble;%8 scratch;%8 ponder~
+R
+-1 -1 -1 -1 25
+#14321
+moses~
+Moses~
+Moses is God's administrator nowadays.
+~
+Moses once led his people to triumph over Egypt's armies, away from
+slavery. Now he is the general administrator of Heaven, taking care of
+prayers, worships etc. A hard work, but Moses is very competent. He is
+still carrying his staff and the stone tablets as a memory of the good
+old times, when he still had the will to fight. Today, he is mostly
+tired and just wishes to have a calm and trouble free existence.
+~
+12 0 gl hkrB 1000 S
+100 -30 -40 2d100+1300
+401 500 100 6d10+20
+26 0 10 1d0+80 -1
+304 100 326 100 327 100 -1
+-1
+2000 1000000 8 8 1
+#14322
+angel priest healer~
+An angel priest~
+An angel priest is learning the holy art of healing.
+~
+This angel chose to be a healer in Heaven. His duty is to heal the
+wounded and cure the sick. His teacher is the best in existence, and the
+priest hopes that he will be at least almost as good himself one day.
+When it comes to fighting, however, he hates it and will only harm
+another being in self-defense.
+~
+12 2 gl hkB 800 S
+100 -20 -36 6d60+2000
+400 500 90 5d10+15
+28 0 10 2d0+80 -1
+304 100 326 100 327 100 -1
+-1
+2000 750000 8 8 1
+#14323
+angel priestess healer~
+An angel priestess~
+An angel priestess is learning the holy art of healing.
+~
+This angel chose to be a healer in Heaven. Her duty is to heal the
+wounded and cure the sick. Her teacher is the best in existence, she
+hopes that she will be at least almost as good herself one day. When it
+comes to fighting, however, she hates it and will only harm another
+being in self-defense.
+~
+12 2 gl hkB 800 S
+100 -20 -36 6d60+2000
+400 500 90 5d10+15
+28 0 10 2d0+80 -1
+304 100 326 100 327 100 -1
+-1
+2000 750000 8 8 2
+#14324
+lucifer fallen angel~
+Lucifer the fallen angel~
+Lucifer the fallen stares at you, with the rage of Hell in his eyes.
+~
+Lucifer was once God's most trusted associate and his most powerful arch
+angel, but he wanted God's position for himself and wished to overthrow
+his master. Because of this treason he is now banished for all eternity
+from Heaven. His entire being is filled with bitterness and hate, and
+these feelings affect his appearance; his skin is black, symbolizing his
+heart, and his clothing is red, to remind of his rage.
+~
+12 4 bgl dhkrB -800 S
+109 -43 -48 0d0+5000
+403 500 80 2d40+20
+26 0 20 1d0+75 -1
+304 100 326 100 327 100 -1
+104 20 40 100 7 100 38 100 -1
+10000 2000000 8 8 1
+#14325
+soul lost damned~
+A lost soul~
+A damned soul is trying to hang on to the edge of the Hole to Hell.
+~
+This poor soul has no future. He will be forced to enter the portal to
+Hell, and after that, he will be reduced to nothing. Pain is the only
+feeling he will experience, and his existence will be eternal. Forever
+will his agony last, overseen and maintained by demons. Don't ever turn
+out like this guy. If you want to be evil, then be careful not to die!
+~
+2 0 bgl A -400 S
+60 -13 -25 2d50+1200
+400 500 100 4d10+15 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2000 450000 8 8 1
+A
+%%10 scream;%10 cry;%5 sob~
+#14326
+soul lost damned~
+A lost soul~
+A damned soul is walking the Path of Peril towards eternal damnation.
+~
+This poor soul has no future. He will be forced to enter the portal to
+Hell, and after that, he will be reduced to nothing. Pain is the only
+feeling he will experience, and his existence will be eternal. Forever
+will his agony last, overseen and maintained by demons. Don't ever turn
+out like this guy. If you want to be evil, then be careful not to die!
+~
+2 0 gl A -400 S
+60 -13 -25 2d50+1200
+400 500 100 4d10+15 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2000 450000 8 8 1
+A
+%%5 sob; %5 sniff;%5 cry~
+#14327
+angel old man fisher~
+An old angel~
+An old man, or angel actually, is sitting here, fishing.
+~
+This old man flew his way up to this pond about five hundred years ago,
+and he has been sitting here since. He likes fishing, and even though he
+uses no bait or hook, the fish occasionally bites a hold onto the line,
+so he gets a catch every ten years or so. Of course he throws them back
+in the water as soon as he catches them. After all, he ain't going to
+eat them.
+~
+12 0 bgl hkrB 750 S
+100 -23 -37 2d100+1300
+404 500 50 6d10+20
+400 500 50 7d10+10 -1
+304 100 326 100 327 100 -1
+-1
+2000 750000 6 6 1
+A
+%%5 smile~
+#14328
+chemist angel~
+The angel chemist~
+An angel with burnt hair and clothing is mixing something together.
+~
+The angel chemist has specialized himself on chemistry, mainly because
+he happens to be a genius within that specific area. He is responsible
+for most of the explosions in Heaven, but he also makes a lot of useful
+discoveries. At the moment, he is trying to find out what makes hydrogen
+so explosive when mixed with air.
+~
+12 0 bgl hkrB 750 S
+100 -30 -37 2d100+1300
+404 500 50 6d10+20
+400 500 50 7d10+10 -1
+304 100 326 100 327 100 -1
+-1
+2000 1000000 8 8 1
+A
+%%5 frown;%5 mumble;%5 scratch;%5 ponder;%5 emote does a mistake and his chemicals blow up in his face with a deafening boom!~
+#14329
+physicist angel~
+The angel physicist~
+An old angel with a funny haircut is writing something down.
+~
+This angel seems to be a bit insane. His white hair looks like a
+shrubbery, and he is constantly humming to himself. He is sitting down,
+writing something on a piece of paper. He is obviously very smart, but,
+as mentioned before, somewhat mad.
+~
+12 0 bgl hkrB 750 S
+100 -30 -37 2d100+1300
+404 500 50 6d10+20
+400 500 50 7d10+10 -1
+304 100 326 100 327 100 -1
+-1
+2000 1000000 6 6 1
+A
+%%5 laugh;%5 stand;%5 sit;%5 giggle;%5 emote suddenly stands up and yells 'Eureka!'~
+#14330
+magician angel~
+The angel magician~
+An angel is making some funny gestures with his hands.
+~
+This is the spell researcher in Heaven. He was a great arch mage in real
+life, but one of his experiments failed and he blew himself up. Now he
+continues his work by researching the nature of magic in the afterlife.
+At the moment he is trying to find a way to resurrect dead people.
+~
+12 1 bgl hkrB 750 S
+100 -30 -37 2d100+1300
+404 500 50 6d10+20
+400 500 50 7d10+10 -1
+304 100 326 100 327 100 -1
+-1
+2000 1000000 8 8 1
+A
+%%5 frown;%5 mumble;%5 scratch;%5 ponder~
+#14331
+astrophysicist angel~
+An angel astrophysicist~
+Uriel's angel associate is trying to figure something astronomical out.
+~
+This is one of Uriel's personal assistants. He is working with the
+universe and the nature of it, how it was created, by whom, when, what
+it contains, how big it is etc etc. Not even God knows the answer to
+these questions, but with the help of these brilliant minds, he soon
+will, especially since he connected them all with his own.
+~
+12 0 bgl hkrB 750 S
+100 -30 -37 2d100+1300
+404 500 50 6d10+20
+400 500 50 7d10+10 -1
+304 100 326 100 327 100 -1
+-1
+2000 1000000 8 8 1
+A
+%%5 frown;%5 mumble;%5 scratch;%5 ponder~
+#14332
+angel scientist~
+An angel scientist~
+An angel scientist is thinking about some scientific problem.
+~
+This is one of the really smart people in Heaven. He is a genius in some
+area, and his mind is connected to God and all the other scientists. At
+the moment he is trying to figure out a way to solve a problem which has
+been nagging his mind for some time. This is really not a fighter, but
+he can be a formidable opponent nevertheless.
+~
+12 0 gl hkrB 750 S
+100 -30 -37 2d100+1300
+404 500 50 6d10+20
+400 500 50 7d10+10 -1
+304 100 326 100 327 100 -1
+-1
+2000 1000000 8 8 1
+A
+%%5 frown;%5 mumble;%5 scratch;%5 ponder~
+#14333
+old man librarian~
+The old librarian~
+The librarian, an old friendly man, is organizing the library.
+~
+This old man was the best librarian in the world when he was alive, so
+God thought it would be nice to put him on this duty. The old man
+approved, and so he was the librarian of Heaven. He keeps the library
+nice and tidy, and he likes it. Otherwise, he is just a normal angel.
+~
+12 0 bgl hkrB 750 S
+100 -30 -37 2d100+1300
+404 500 50 6d10+20
+400 500 50 7d10+10 -1
+304 100 326 100 327 100 -1
+-1
+2000 1000000 6 6 1
+#14334
+death horseman rider apocalypse~
+Death~
+#rDeath#N will reap your soul and crush your body!
+~
+#rDeath#N is the first and strongest of the riders of the Apocalypse. He
+wears a dark cape that covers his whole body, except the hands and the
+face, and he rides a black horse, hovering above the ground. His hands
+are just bones, and  his face is just a skull with two glowing red
+spheres where a normal human  would have eyes. With his scythe in his
+hand, he will slaughter all souls on  earth when the judgement day
+arrives!
+~
+12 4 fl dfhkrsA -800 S
+109 -45 -55 0d0+6000
+403 500 75 6d10+35
+100 0 20 1d0+95
+17 0 5 1d0+100 -1
+304 100 326 100 327 100 338 100 328 100 -1
+-1
+15000 2400000 8 8 1
+A
+%%40 emote laughs a wicked laugh.~
+R
+-1 -1 -1 -1 33
+#14335
+war rider horseman apocalypse~
+War~
+#RWar#N swings his axe. He thirsts for blood!
+~
+#RWar#N is the second strongest rider of the Apocalypse. His methods
+kill fast and effectively. He is actually just an empty steel armor,
+being magic enough to have its own counsiousness. He rides a large,
+heavily armoured horse with fierce, red eyes, and his axe seems to be
+powerful enough to cut a man in half.
+~
+12 4 fl dfhkrA -800 S
+109 -45 -55 0d0+6000
+403 500 100 7d10+35 -1
+304 100 326 100 327 100 338 100 328 100 -1
+1004 33 -1
+15000 2400000 8 8 1
+A
+%%10 growl;%5 moan;%10 emote swings his axe in a wide circle above his head.~
+R
+-1 -1 -1 -1 40
+#14336
+pestilence rider horseman apocalypse~
+Pestilence~
+#GPestilence#N, the third horseman of the Apocalypse, reaches for you.
+~
+#GPestilence#N is the third strongest rider of the Apocalypse. His way
+of killing might not be the fastest, but it sure is effective! Noone
+knows how many poor creatures that have fallen under his painful way of
+killing by infecting. As you look at him, you realize that he is nothing
+but a big swarm of insects, forming an only vaguely humanoid, but very
+solid, shape.
+~
+12 3 fl dfkhrsAD -800 S
+109 -43 -50 0d0+6000
+402 500 90 6d10+30
+33 0 10 1d0+100 -1
+304 100 326 100 327 100 338 100 328 100 331 100 -1
+-1
+15000 2100000 8 8 1
+R
+-1 -1 -1 -1 33
+#14337
+famine rider horseman apocalypse~
+Famine~
+#wFamine#N tries to grab you with a bony hand!
+~
+Famine is the weakest of the riders of the Apocalypse. He might have
+killed many, but his methods are, compared to his brothers', slow and
+ineffective. He is also not as good a fighter as his brothers, since he
+is but a skeleton, with no flesh or muscles. But still, this bony being
+and his starving horse are formidable opponents to most.
+~
+12 4 fl dfkhrA -800 S
+109 -42 -48 0d0+5500
+400 500 100 6d10+30 -1
+304 100 326 100 327 100 338 100 328 100 -1
+-1
+15000 2000000 8 8 1
+A
+%%30 emote laughs a wicked laugh.~
+R
+-1 -1 -1 -1 20
+#14338
+god~
+God~
+God the almighty is sitting on his throne in all his divinity.
+~
+God the almighty, all knowing and all judging has created this whole
+world we live in. He is sitting here, in all his might and beauty,
+giving those who are good a rich and happy life, and those who have sold
+their soul to greed, hatred and other evil feelings a really lousy
+existence. Of course, he knows what you are thinking, and he is waiting
+for you to do your move.
+~
+0 0 bgl dfhkryBD 1000 S
+109 -50 -100 0d0+30000
+404 500 70 100d100+100
+4 0 5 1d0+100
+28 0 10 2d0+100
+104 0 15 1d0+95 -1
+304 100 326 100 327 100 338 100 328 100 321 100 322 75 -1
+-1
+50000 6500000 8 8 1
+A
+%%5 smile;%7 emote pats you on the head.;%5 sigh;%5 say Thou shalt not kill!;%5 say Thou shalt not steal!;%5 say Thou shalt honor thy father and thy mother!;%5 say Thou shalt not worship any god beside me!~
+R
+-1 -1 -1 -1 35
+#14339
+worker~
+A worker~
+A confused worker can't understand what his friends are saying.
+~
+This worker has a confused look on his face. He doesn't seem to
+understand what is going on. For some reason, he has stopped building,
+ust as everyone else. He tries to say something, but noone seems to
+understand him. Just what has happened here?
+~
+1 0 gl jk 0 S
+60 -13 -25 2d50+1200
+400 500 100 4d10+15 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2000 450000 8 8 1
+A
+%%10 say Vad har h#<ae>nt? Varf#<oe>r #<ae>r det ingen som f#<oe>rst#<aa>r mig?;%10 scratch;%5 shrug;%5 frown~
+#14340
+worker~
+A worker~
+A confused worker can't understand what his friends are saying.
+~
+This worker has a confused look on his face. He doesn't seem to
+understand what is going on. For some reason, he has stopped building,
+just as everyone else. He tries to say something, but noone seems to
+understand him. Just what has happened here?
+~
+1 0 gl jk 0 S
+60 -13 -25 2d50+1200
+400 500 100 4d10+15 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2000 450000 8 8 1
+A
+%%10 say Was ist passiert? Warum kann niemand mich verstehen?;%10 scratch;%5 shrug;%5 frown~
+#14341
+worker~
+A worker~
+A confused worker can't understand what his friends are saying.
+~
+This worker has a confused look on his face. He doesn't seem to
+understand what is going on. For some reason, he has stopped building,
+just as everyone else. He tries to say something, but noone seems to
+understand him. Just what has happened here?
+~
+1 0 gl jk 0 S
+60 -13 -25 2d50+1200
+400 500 100 4d10+15 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2000 450000 8 8 1
+A
+%%10 say What is going on? Why doesn't anybody understand what I'm saying?;%10 scratch;%5 shrug;%5 frown~
+#14342
+worker~
+A worker~
+A confused worker can't understand what his friends are saying.
+~
+This worker has a confused look on his face. He doesn't seem to
+understand what is going on. For some reason, he has stopped building,
+just as everyone else. He tries to say something, but noone seems to
+understand him. Just what has happened here?
+~
+1 0 gl jk 0 S
+60 -13 -25 2d50+1200
+400 500 100 4d10+15 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2000 450000 8 8 1
+A
+%%10 say Qu'est-ce que se passe? Pourquoi es-ce que je ne comprends rien?;%10 scratch;%5 shrug;%5 frown~
+#14343
+worker~
+A worker~
+A confused worker can't understand what his friends are saying.
+~
+This worker has a confused look on his face. He doesn't seem to
+understand what is going on. For some reason, he has stopped building,
+just as everyone else. He tries to say something, but noone seems to
+understand him. Just what has happened here?
+~
+1 0 gl jk 0 S
+60 -13 -25 2d50+1200
+400 500 100 4d10+15 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2000 450000 8 8 1
+A
+%%10 say Blaczego nikt mnie nierozumie? Co sie dzieje?;%10 scratch;%5 shrug;%5 frown~
+#14344
+sainte lucia~
+Sainte Lucia~
+Sainte Lucia walks around, enjoying the good weather.
+~
+Sainte Lucia is truly beautiful, in her white dress and the candles in
+her hair. While alive, she brought food to christian prisoners. She held
+the food in her hands, and because of that there was no way for her to
+hold the candles so she made a small crown to give her light enough to
+see. She took this crown with her to Heaven. Too bad she was executed.
+~
+12 0 gl hkrB 1000 S
+100 -23 -38 2d100+1700
+404 500 50 6d10+20
+400 500 50 7d10+10 -1
+304 100 326 100 327 100 -1
+-1
+2000 800000 8 8 2
+A
+%%5 smile;%5 sigh;%5 stare~
+#14345
+worker~
+A worker~
+A confused worker can't understand what his friends are saying.
+~
+This worker has a confused look on his face. He doesn't seem to
+understand what is going on. For some reason, he has stopped building,
+just as everyone else. He tries to say something, but noone seems to
+understand him. Just what has happened here?
+~
+1 0 gl jk 0 S
+60 -13 -25 2d50+1200
+400 500 100 4d10+15 -1
+328 70 318 70 345 70 304 100 326 100 327 100 -1
+-1
+2000 450000 8 8 1
+A
+%%10 say Sta je zasto me nitko ne razumije? Pricaj bre srpsi da te ceo svet razume!;%10 scratch;%5 shrug;%5 frown~
+#99999
+$~
+

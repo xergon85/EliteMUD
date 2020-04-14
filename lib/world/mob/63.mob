@@ -1,0 +1,246 @@
+#6301
+spider young~
+the young spider~
+The young spider is ballooning by you.
+~
+He looks freshly hatched and sprightly.  His young fangs are just
+growing in as of late.
+~
+19 0 cgf d -100 S
+26 8 -4 60d10+10
+409 500 100 2d6+10 -1
+-1
+-1
+600 66666 8 8 0
+#6302
+dragon Yevaud~
+Yevaud~
+Yevaud the Usurper of Midgaard is here, grinning evilly at you.
+~
+Old, scaly, but still with a lot of bite in him left.
+~
+18 1 bcfikl d -700 S
+35 3 -8 100d8+50
+405 500 60 3d7+10
+407 500 30 3d7+10
+8  0   13 1d0+60 -1
+-1
+-1
+3000 120000 8 8 1
+A
+%1 l; %10 emote sets a small bush to fire.~
+#6303
+spider wolf~
+the Wolf Spider~
+The Wolf Spider is here, licking its bloody fangs.
+~
+The Wolf Spider is hairy, very hairy.
+~
+19 0 bf k -100 S
+30 4 -6 4d50+400
+409 500 100 4d4+10 -1
+-1
+-1
+900 100000 8 8 0
+#6304
+orc~
+the orc~
+The orc is stuck in the web and he can't get out.
+~
+You notice an evil look in his eyes, but he seems quite drained of life, and
+all he can do is glare at you while he's stuck in this web.
+~
+19 0 b k -200 S
+25 9 -4 1d150+250
+400 500 100 3d4+7  -1
+-1
+-1
+400 60000 8 8 1
+#6305
+wasp queen~
+the Queen Wasp~
+The Queen Wasp is here, thinking how tasty you look.
+~
+You notice a glazed look in her eyes.
+~
+19 0 bf c -200 S
+30 4 -6 4d50+400
+409 500 100 4d4+10 -1
+-1
+-1
+900 100000 8 8 0
+#6306
+spider drone~
+the drone spider~
+A drone spider walks around doing its master's bidding.
+~
+An ordinary drone spider.
+~
+19 0 cfg k -200 S
+29 4 -6 4d10+300
+409 500 100 2d7+13 -1
+-1
+-1
+700 92000 8 8 0
+#6307
+spider ethereal~
+the ethereal spider~
+An ethereal spider strides here, traveling to different worlds.
+~
+She winks in and out of reality.  It looks like it'd be difficult to hit her
+without a magickal weapon.
+~
+19 1 cg bdfyt 300 S
+30 6 -6 4d50+400
+409 500 80 4d4+10 
+8 0 20 1d0+60 -1
+-1
+-1
+900 100000 8 8 0
+A
+%1 l;%20 emote fades into existence, but disapears again.
+~
+#6308
+slave human~
+the slave~
+A human slave of Arachnos works here relentlessly.
+~
+The slave does not mind you, but will fight like a warrior if attacked.  He
+serves the spider Empress, Arachnos, though whether it is by choice or because
+he was beguiled you are not fully certain.
+~
+1 4 cfgl c -50 S
+26 8 -4 60d10+10
+400 500 100 2d6+10 -1
+-1
+-1
+600 66666 8 8 1
+#6309
+quasit~
+the quasit~
+A quasit blinks in and out, grinning at you.
+~
+Demoniac in nature, but more mischievous.  He twiddles his thumbs
+and creates a magickal treasure!
+~
+3 1 cefh bdt -300 S
+30 4 -6 4d50+400
+409 500 80 4d4+10 
+8 0 20 1d0+60 -1
+-1
+-1
+900 100000 8 8 0
+#6310
+spider bird~
+the Bird Spider~
+The Bird Spider snaps its powerful jaws.
+~
+The Bird Spider has very powerful jaws.
+~
+19 0 bf k -800 S
+30 4 -6 4d50+400
+409 500 100 4d4+10 -1
+-1
+-1
+900 100000 8 8 0
+#6311
+hermit~
+the Hermit~
+The Hermit sits here and warns, "Go back before it's too late!"
+~
+A dishevelled veteran warrior in disguise is what he is, but he
+means well.
+~
+1 4 bc dh 750 S
+30 6 -6 1d100+350
+400 500 100 3d6+6 -1
+-1
+-1
+0 115000 8 8 0
+#6312
+donjonkeeper~
+the Donjonkeeper~
+The Donjonkeeper eyes you and wonders how pure your soul is.
+~
+He delves deeper into you as you stare at him.  Only those free of taint will
+be allowed to remain here safely.
+~
+1 4 bcfil hd 700 S
+29 7 -5 1d100+350
+400 500 100 3d6+6 -1
+-1
+-1
+0 110000 8 8 0
+#6313
+guardian~
+The guardian~
+The guardian is obviously not doing his job.
+~
+He looks like a lazy bum who sleeps half the time.
+~
+1 4 fg c 50 A 28 1
+#6314
+spider empress arachnos~
+Arachnos~
+Arachnos the Empress of Spiders welcomes you with an evil smile.
+~
+She is a very attractive spider with an ornate gown.  She tempts you
+into being one of her many slaves.  She does not possess the venomous
+fangs of normal spiders, but then, as you realize, she does not need
+them.
+~
+19 0 bcfi d -700 S
+30 5 -6 1d100+450
+400 500 80 4d9+6 
+8  0   20 1d0+60 -1
+-1
+-1
+0 142000 8 8 2
+#6315
+ki-rin~
+the Ki-Rin~
+The Ki-Rin smiles good-naturedly to you.
+~
+She is the last bastion of good in this realm.  Her mission is to
+someday free the slaves of the Empress.  She has been trapped here for
+time eternal, and now the evil power of Arachnos feeds upon her intense
+magickal energies.  She will never give up here fight against evil, though,
+and will continue her work in whatever manner presents itself.
+~
+1 4 bcfil dh 700 S
+30 5 -6 1d100+350
+400 500 100 3d8+6 
+8 0 20 1d0+60 -1
+-1
+-1
+0 140000 8 8 2
+#6316
+dragon wormkin young~
+the young wormkin~
+A wormkin with no teeth plays here.
+~
+It is a rather small dragon, and you almost feel sad in killing it.
+~
+18 0 b d 50 A 24 0
+#6317
+dragon wormkin elder~
+the elder wormkin~
+A wormkin that has grown a bit stares at you inquisitively.
+~
+A medium-sized dragon -- seems it hasn't killed anything yet by itself, 
+though there is a first time for everything...
+~
+18 0 b d -300 A 28 0
+#99999
+$~
+
+
+
+
+
+
+
+
+
+
+

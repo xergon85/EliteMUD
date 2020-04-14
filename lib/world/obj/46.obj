@@ -1,0 +1,151 @@
+#4601
+Sword Wrath~
+the Sword of Wrath~
+A old battered sword is lying here on the ground waiting for its master.~
+~
+5 32 abcdfhjklmnops agklu ano
+32 5 5 3 0 0
+15 600 50
+E
+sword wrath~
+As you look on the sword you can see the souls that lie within it waiting
+for a chance to avenge their deaths. 
+~
+A
+20 5
+A
+21 5
+A
+18 4
+A
+19 2
+#4602
+Sword longsword silver~
+a silver longsword~
+A long sword made of silver is leaning against the wall.~
+~
+5 50 abcegijklms k an
+50 6 5 3 0 0
+10 7000 600
+#4603
+mail elven~
+an elven mail~
+An elven mail is put carefully on the ground.~
+~
+9 60 acegijkms aklo ad
+30 60 0 0 0 0
+60 8000 900
+#4604
+hammer ages~
+the hammer of the ages~
+An old hammer is lying here.~
+~
+5 45 cefkms b an
+45 3 8 7 0 0
+20 300 10
+A
+9 100
+#4605
+cloak elven~
+an elven cloak~
+A nice piece of cloth is lying here on the ground.~
+~
+9 25 hnp kp ak
+13 25 0 0 0 0
+10 5000 200
+#4606
+silver helmet~
+a silvery helmet~
+A tall helmet made of silver is put here.~
+~
+9 50 abcegjklmos ak ae
+10 50 0 0 0 0
+20 5000 300
+#4607
+ring galadriel~
+the ring of Galadriel~
+A ring is lying on the ground mourning the loss of its mistress.~
+~
+9 40 cdhklnops abfg ab
+12 40 0 0 0 0
+1 15000 1000
+A
+3 2
+A
+4 2
+A
+6 5
+A
+12 50
+B k
+#4608
+sword goodness~
+the sword of goodness~
+A shining sword has been put here by someone.~
+~
+5 70 abcefijkmops aik an
+70 10 4 3 0 0
+10 10000 1000
+#4609
+Mail chainmail~
+a shiny chainmail~
+A shiny set of mail is lying here.~
+~
+9 70 abcegijklmos k ad
+25 70 0 0 0 0
+50 10000 500
+#4610
+key citykey~
+the key to the city~
+A very large key is lying here.~
+~
+18 0 0 m a
+0 0 0 0 0 80
+1 0 0
+#4611
+key~
+the key to the elven house~
+A small key made in silver is put here.~
+~
+18 0 0 m a
+0 0 0 0 0 80
+1 0 0
+#4612
+scroll ancient~
+the scroll of the ancient~
+A scroll is placed here.~
+~
+2 50 bcdfghklnps a a
+100 1 39 36 0 0
+1 3000 100
+#4613
+wand revenge~
+the wand of revenge~
+A wand made of pure gold and rubies is lying here.~
+~
+3 60 dfhklnop b ao
+100 7 7 26 0 0
+2 5000 1000
+#4614
+orb galadriel~
+the orb of Galadriel~
+A beautiful orb that is shining on it's own is lying here.~
+~
+1 60 0 agk ao
+0 0 200 0 0 0
+2 5000 1000
+A
+17 -10
+#4615
+rudder golden~
+a golden rudder~
+A golden rudder with some inscriptions on it lies here on the ground.~
+~
+5 50 abcdefghijklmnps 0 an
+50 10 7 6 0 0
+15 5000 1000
+A
+18 5
+A
+19 8
+$~

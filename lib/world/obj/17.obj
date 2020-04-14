@@ -1,0 +1,349 @@
+#1700
+key bloody~
+a bloody key~
+A bloody key is stuck to the floor.~
+~
+18 1 0 0 1
+2 0 0 0 0 255
+1 100 40
+#1701
+key dirty~
+a dirty key~
+A dirty key lies here.~
+~
+18 1 0 0 1
+2 0 0 0 0 255
+1 105 40
+#1702
+toy boomerang~
+a toy boomerang~
+A toy boomerang wants to be picked up.~
+~
+5 1 0 0 8193
+0 2 4 7 0 0
+6 50 0
+#1703
+staff gnarled~
+a gnarled staff~
+A gnarled staff is here.~
+~
+5 1 0 0 8193
+0 1 9 7 0 0
+15 60 25
+#1704
+sword gnome~
+a gnome sword~
+A gnome sword catches your eye.~
+~
+5 10 546 0 8193
+0 3 5 3 0 0
+15 400 200
+#1705
+shield studded~
+a studded shield~
+A studded wooden shield lies here.~
+~
+9 1 0 0 513
+2 0 0 0 0 0
+16 300 150
+#1706
+potion bloody~
+a bloody potion~
+A bloody potion lies here.~
+~
+10 1 0 0 1
+35 14 15 39 0 0
+22 150 80
+#1707
+cloak bloody~
+a bloody cloak~
+A bloody cloak lies in a corner.~
+~
+9 1 0 64 9
+4 0 0 0 0 0
+15 200 100
+#1708
+ring bat~
+a bat ring~
+A ring in the shape of a bat lies here.~
+~
+9 4 0 64 3
+3 0 0 0 0 0
+2 250 125
+A
+14 45
+#1709
+necklace bead~
+a bead necklace~
+A string of beads is here.~
+~
+9 5 0 64 5
+3 0 0 0 0 0
+8 400 200
+A
+18 1
+#1710
+sword electrum~
+an electrum sword~
+An electrum sword lies here.~
+~
+5 12 546 0 8193
+0 3 5 3 0 0
+18 1500 200
+A
+18 2
+A
+19 2
+#1711
+basket wicker~
+a wicker basket~
+A wicker basket sits here.~
+~
+15 1 0 0 1
+40 0 0 0 0 0
+6 100 10
+#1712
+peanuts~
+some peanuts~
+Peanuts lie here.~
+~
+19 1 0 0 1
+16 0 0 0 0 0
+9 2 0
+#1713
+grain~
+some grain~
+There is some grain here.~
+~
+19 1 0 0 1
+15 0 0 0 0 0
+8 2 0
+#1714
+skiff~
+a skiff~
+A small skiff is here.~
+~
+22 1 0 0 1
+0 0 0 0 0 0
+50 150 50
+#1715
+boots gnome~
+a pair of gnome boots~
+You notice a pair of Gnome Boots.~
+~
+9 4 0 0 65
+2 0 0 0 0 0
+12 1200 500
+A
+14 20
+#1716
+coins~
+a pile of coins~
+A pile of coins.~
+~
+20 1 0 0 1
+5000 0 0 0 0 0
+1 0 0
+#1717
+coins~
+a pile of coins~
+A pile of coins.~
+~
+20 1 0 0 1
+1200 0 0 0 0 0
+1 0 0
+#1718
+coins~
+a pile of coins~
+A pile of coins.~
+~
+20 1 0 0 1
+800 0 0 0 0 0
+1 0 0
+#1719
+shield stone~
+a stone shield~
+A stone slab lies here.~
+~
+9 1 0 0 513
+4 0 0 0 0 0
+35 900 500
+A
+1 -1
+#1720
+bread gnome~
+a gnome bread~
+A delicous bread is laying here.~
+~
+19 1 0 0 1
+20 0 0 0 0 0
+2 10 0
+#1721
+Cornbread~
+a cornbread~
+A cornbread lies here.~
+~
+19 1 0 0 1
+15 0 0 0 0 0
+1 15 5
+#1722
+banana~
+a banana~
+There is a banana here.~
+~
+19 1 0 0 1
+6 0 0 0 0 0
+5 0 0
+#1723
+life potion~
+a potion of life healing~
+A potion of life healing has left here.~
+~
+10 1 0 128 1
+32 43 3 0 0 0
+1 0 0
+#1724
+dagger long~
+a long dagger~
+A long dagger is laying here.~
+~
+5 5 34 0 8193
+0 3 4 11 0 0
+6 250 100
+#1725
+belt~
+a gnome belt~
+A strange looking leather belt lies here.~
+~
+9 5 0 0 2049
+3 0 0 0 0 0
+5 150 10
+#1726
+gloves sturdy~
+a pair of sturdy leather gloves~
+A sturdy pair of leather gloves lies here.~
+~
+9 5 0 0 129
+3 0 0 0 0 0
+2 400 100
+#1727
+sack~
+a sack~
+A large sack lies.~
+~
+15 1 0 0 16385
+60 0 0 0 0 0
+6 200 50
+#1728
+lantern hooded~
+a hooded lantern~
+A hooded lantern lies here.~
+~
+1 1 0 0 16385
+0 0 48 0 0 0
+4 100 20
+#1729
+Wand of missiles~
+a wand of missiles~
+a strange wand is laying here.~
+~
+3 5 60556 64 16385
+5 5 5 32 0 0
+4 3000 400
+#1730
+scroll~
+a scroll of invisibility~
+A old dust scroll lies forgoten here.~
+~
+2 5 0 0 a
+35 29 0 0 0 0
+2 400 100
+#1731
+Barrel~
+a barrel~
+A barrel stand here on the ground.~
+~
+17 1 0 0 1
+75 75 0 0 0 0
+5 100 20
+#1732
+Beer~
+a glass~
+A glass with beer stands here.~
+~
+17 1 0 0 1
+2 2 1 0 0 0
+2 10 1
+#1733
+bottle~
+a bottle~
+A bottle is standing here.~
+~
+17 1 0 0 1
+10 10 5 0 0 0
+4 300 100
+#1734
+fountain~
+a small fountain~
+A small fountain filled with water stands in the middle of the square.~
+~
+23 1 0 0 0
+999999999 999999999 0 0 0 0
+9999999 0 0
+#1735
+yakherder hat~
+a yakherder hat~
+The many shades of green knitted into this cap say "Come hither" to a yak.~
+~
+9 10 0 128 17
+8 0 0 0 0 0
+1 2000 600
+E
+hat~
+Granny Higglebottom in Stanneg knits these special caps for the gnomish
+yakherders from fine, soft wool.  It has a little added "something" from
+the magic of her hands.  The colors she has used are many different
+shades of grasses found on the yak plateau, and because of this the yaks
+are very attracted to the wearer of the hat.  It is a long, narrow tube,
+tapering to a point at one end.
+~
+A
+9 15
+A
+12 15
+#1736
+bikini~
+a teensy weensy bikini~
+It was an itsy bitsy teensy weensy yellow polka dot bikini that she wore.~
+~
+9 5 0 0 9
+1 5 0 0 0 0
+1 10 10
+E
+bikini~
+It was an itsy bitsy teensy weensy yellow polka dot bikini ... 
+~
+A
+6 6
+A
+2 1
+A
+24 5
+#1737
+potion levitating~
+a levitating potion~
+This potion is given to graduates of the Gnomish Mountaineer Academy.~
+~
+10 1 0 0 ao
+50 51 -1 -1 0 0
+1 10 0
+E
+potion~
+In case of emergencies, such as an imminent event that involves
+plummeting to the ground at a very high speed, this potion is to be quaffed,
+IMMEDIATELY.  A small disclaimer is put at the bottom: "Not to be used in any
+other purpose than specified by license agreement. Using this potion for any
+actions involving scrounging cookies is strictly forbidden.
+~
+#99999
+$~

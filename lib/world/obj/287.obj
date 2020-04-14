@@ -1,0 +1,210 @@
+#28700
+barrel water~
+a large cold barrel~
+Cold clear water fills a large barrel made from oak.~
+~
+23 0 0 h 0
+9999 9999 15 0 0 0
+1 1 1
+E
+barrel~
+The innkeeper keeps this barrel filled with cold clear water.  One can't
+help but wonder at the source, as you have seen no streams nearby.  In
+truth, the innkeeper has the water brought in by travelers passing
+through the Stanneg Mountains.
+~
+#28701
+staff armor~
+staff of student armor~
+A strange staff is laying here.~
+~
+4 50 abcdefghijklmnops 0 ao
+50 9999 9999 1 0 0
+8 7000 1000
+#28702
+blessed staff~
+a blessed staff ~
+A staff of blessing is used by the prophet.~
+~
+4 50 abcdefghijklmnops 0 ao
+50 9999 9999 3 0 0
+10 25000 500
+#28703
+healing staff~
+a healing staff ~
+A staff of healing is used by the prophet.~
+~
+4 50 abcdefghijklmnops 0 ao
+50 9999 9999 28 0 0
+10 25000 500
+#28704
+mystic mystical staff~
+a mystical staff~
+A mystical staff is used by the prophet.~
+~
+4 50 abcdefghijklmnops 0 ao
+50 9999 9999 71 0 0
+10 25000 500
+#28705
+sanctified staff~
+a sanctified staff ~
+A sanctified staff is used by the prophet.~
+~
+4 50 abcdefghijklmnops 0 ao
+50 9999 9999 36 0 0
+10 25000 500
+#28706
+vegetable stew~
+a plate of vegetable stew~
+A steaming plate of vegetable stew looks very appetising.~
+~
+19 1 0 n ao
+15 0 0 0 0 0
+1 8 10
+E
+vegetable stew~
+Its packed full of chunky vegetables, in a thick gravy, and it 
+smells fantastic! 
+
+Your mouth begins to water.
+~
+#28707
+roast lamb~
+a plate of roast lamb~
+A delicious plate of roast lamb reminds you how hungry you are.~
+~
+19 1 0 n ao
+13 0 0 0 0 0
+1 5 10
+E
+roast lamb~
+Thick slices of beautiful lean lamb, cooked to perfection and 
+still slightly pink in the middle. The plate is piled high 
+with lamb and vegetables and covered in a rich gravy that 
+smells of rosemary.
+
+Your stomach cries out for you to feed it!
+~
+#28708
+whole roast chicken~
+a whole roast chicken~
+A whole roast chicken smells fantastic.~
+~
+19 1 0 n ao
+24 0 0 0 0 0
+1 9 10
+E
+roast chicken~
+A lovely chicken, roasted with garlic until its a lovely 
+golden brown.  It smells divine! You think you might go insane 
+if you don't eat it right now!
+~
+#28709
+steak kidney pie~
+a huge steak and kidney pie~
+A huge steak and kidney pie is covered with thick gravy.~
+~
+19 1 0 n ao
+14 0 0 0 0 0
+1 13 10
+E
+steak kidney pie~
+Large chunks of steak and kidney, in delicious gravy, and 
+topped with golden flakey pastry. *drool*
+~
+#28710
+pudding dessert bread butter~
+a tasty bread and butter pudding~
+A creamy bread and butter pudding is a feast for you eyes.~
+~
+19 1 0 n ao
+12 0 0 0 0 0
+1 15 10
+E
+pudding dessert bread butter~
+A traditional favourite, its probably very fattening, but 
+you'll soon work it off when you're out adventuring.
+~
+#28711
+death chocolate dessert~
+death by chocolate~
+An amazing and elaborate chocolate dessert makes your mouth water.~
+~
+19 1 0 n ao
+12 0 0 0 0 0
+1 20 10
+E
+death chocolate dessert~
+Incredible! How can it possibly be self-supporting! Layers of 
+chocolate, and chocolate ice-cream, chocolate sauce, and 
+topped with (you guessed it) chocolate sprinkles. *drool*
+~
+#28712
+damn fine cherry pie~
+a damn fine cherry pie~
+A plate of pie, covered in cream, makes your stomach rumble.~
+~
+19 1 0 n ao
+12 0 0 0 0 0
+1 15 10
+E
+damn fine cherry pie~
+A quick taste comfirms that this is indeed the finest slice of
+cherry pie you have ever tasted.
+~
+#28713
+ice cream~
+a bowl of ice cream~
+A bowl of ice cream is starting to melt.~
+~
+19 1 0 n ao
+15 0 0 0 0 0
+1 8 10
+E
+ice cream~
+No matter what fantastic desserts are on offer, someone always wants ice 
+cream.  Not exactly the adventurous type are you?  Maybe you're not cut 
+out for adventuring.
+~
+#28714
+flagon real ale darkale~
+a flagon of real ale~
+A flagon of some dark liquid has been carefully placed here.~
+~
+17 1 0 n ao
+20 20 4 0 0 0
+1 10 10
+#28715
+juice measure calan's knockout~
+a measure of Calan's knockout juice~
+A measure of some brightly coloured liquid gently sparkles here.~
+~
+17 1 0 an ao
+5 5 5 0 0 0
+1 15 10
+#28716
+mug coffee~
+a huge mug~
+Obviously no one wants a mug of coffee.~
+~
+17 1 0 n ao
+5 5 12 0 0 0
+1 5 10
+#28717
+key~
+the key to the Overseer's office~
+A shiny brass is for sale from the barman.~
+~
+18 1 0 0 a
+28717 0 0 0 1 255
+1 1 1
+#28718
+board MO~
+the MO's board~
+The Mortal Overseer's board hangs on a wall in the MO Office.~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+#99999
+$~

@@ -1,0 +1,664 @@
+#102
+wedding ring drusian~
+#RA #rLove #REternal#N~
+A symbol of eternal love slipped to the ground unnoticed.~
+~
+11 110 0 ai ab
+10 0 0 0 0 0
+0 101 0
+E
+wedding ring drusian vow~
+ Ever since I was young, I've dreamt of a future that I always wanted to 
+have. Every night I would look up at the stars and make a wish and blow a 
+kiss that one day happiness would be mine. In all my dreams and all my 
+hopes, I never thought I  would find a love like this. You've filled my 
+life and my heart with such happiness and such love that mere words would 
+never do it justice. You are my life. You are my world. You are my 
+happiness. It seems as though I've loved you forever. In a way I guess I 
+have. It's because of you I now smile freely and have a joy in my heart 
+I've never known. Thank you for making me a better person but mostly thank 
+you for loving me. This is our life now and we will walk through it 
+together. We can get through anything as long as we stand together and we 
+will. I love you - always. - Charlene
+~
+#103
+wedding ring bod~
+#RA #rLove #REternal#N~
+A symbol of eternal love slipped to the ground unnoticed.~
+~
+11 110 0 ai ab
+10 0 0 0 0 0
+0 101 0
+E
+wedding ring bod vow~
+ When you came into my life, I was scared and frightened and the path 
+seemed empty for me. I never expected to fall in love with you but when I 
+opened my eyes and realised I did it was a most beautiful feeling and 
+something I now wonder how I ever lived without. You opened my eyes and my 
+heart to a world I never knew. It is because of you life is worth living. 
+Everyday is special because of you. It is because of you that I smile and 
+feel peace in my heart. On this day onto forever, I promise to love and 
+cherish and care for you. I will always stand with you and will always be 
+there. Happiness is our world now. Happiness together. This our future. 
+bright, strong and full of love. Thank you for loving me. Thank you for 
+you. I love you - forever.  - Tim
+~
+#104
+board overseer bulletin~
+the overseers bulletin board~
+The Overseers bulletin board is mounted on a wall here.  It glows with a faint aura.~
+~
+13 115 0 fh 0
+0 0 0 0 0 0
+0 0 0
+E
+board~
+This is the overseers bulletin board.  Use LOOK BOARD and READ <ITEM#>.
+~
+#105
+clarinet criz instrument~
+Criz's Clarinet~
+A strange black instrument is lying on the floor here.~
+$n plays an eerie tune on Criz's Clarinet.~
+3 110 0 abgi ao
+109 1 1 104 0 0
+1 100 0
+E
+clarinet criz instrument~
+You see an instrument only heard of in legend: Criz's Clarinet - 
+A powerful artifact created by the God of Bards Himself! This single
+reed instrument may have the power to move mountains!
+~
+#110
+wedding ring~
+a golden wedding ring~
+A plain golden ring is lying here.~
+~
+11 40 0 0 ab
+10 0 0 0 0 0
+1 100000 100000
+A
+18 3
+A
+19 3
+#111
+tuxedo~
+a tuxedo~
+A newly ironed tuxedo is lying here.~
+~
+9 1 0 0 ad
+2 0 0 0 0 0
+3 10000 10000
+#112
+wedding dress~
+a wedding dress~
+A long white gorgeous wedding dress in neatly folded here.~
+~
+9 1 0 0 ad
+2 0 0 0 0 0
+3 20000 20000
+#113
+beer bottle~
+a bottle~
+A bottle of Xargxsiksupaekul beer has been left here.~
+~
+17 0 0 0 a
+8 8 1 0 0 0
+10 20 8
+#114
+bear teddy teddybear~
+a teddybear called Qualen~
+A battered but cuddly-looking teddybear lies here.~
+~
+9 1 0 0 aj
+6 0 0 0 0 0
+4 10000 10000
+E
+bear teddy teddybear~
+On a collar around it's head stands:
+"Hello! My name is Qualen.  Cuddle me and I'll love you always."
+~
+A
+6 4
+#115
+champagne bottle~
+a bottle of champagne~
+A bottle of expensive looking champagne stands here.~
+~
+17 0 0 0 a
+24 24 16 0 0 0
+12 20000 20000
+#116
+champagne glass~
+a champagne glass~
+A champagne glass stands here.~
+~
+17 0 0 0 a
+4 4 16 0 0 0
+1 200 80
+#117
+crown~
+The Crown of the Elite Queen~
+A magnificently jewelled golden crown is lying here.~
+~
+9 15 aeim gk ae
+7 0 0 0 0 0
+40 12000 10000
+A
+3 2
+A
+4 2
+#118
+book notebook~
+IO's notebook~
+IO's hardcover, leather inbound notebook is here.~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+notebook book~
+This is IO's private notebook.
+~
+#119
+pen quill~
+a quill pen~
+A quill pen has been dropped here.~
+~
+21 1 0 0 ao
+0 0 0 0 0 0
+1 1000 1000
+#120
+paper~
+a sheet of paper~
+A sheet of paper lies here.~
+~
+16 1 0 0 a
+0 0 0 0 0 0
+1 1000 1000
+#121
+spray can spraycan~
+a spraycan~
+a spraycan of a weird color lies here.~
+~
+13 1 0 0 ao
+0 0 0 0 0 0
+2 50000 50000
+#122
+book slobber mess~
+Glob's slobbery mess~
+A huge shivering mess of slobbery goo, got some wierd inscriptions.~
+~
+13 114 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+mess slobber book~
+This is Glob's personal notebook.
+~
+#123
+book scrap~
+Articus scrapbook~
+Looks like Articus has lost his scrapbook.~
+~
+13 110 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+book scrap~
+This is Articus's personal scrapbook.
+~
+#124
+wedding ring~
+a mithril wedding ring~
+A plain silvery ring is lying here.~
+~
+11 112 0 0 ab
+100 0 0 0 0 0
+1 1 1
+A
+3 9
+A
+4 9
+#125
+ring wisdom iq~
+a ring of wisdom and high IQ~
+A plain metal ring, with an F in it, has been left here.~
+~
+11 25 0 g ab
+1 0 0 0 0 0
+5 30000 2400
+A
+4 1
+A
+3 1
+#126
+Veil~
+A bride's veil~
+A beautiful bride's veil, made of the finest lace, has been left
+here.~
+~
+9 25 0 i ae
+2 0 0 0 0 0
+5 10000 10000
+#127
+Slippers~
+A pair of glass slippers~
+A sparkling pair of glass slippers, once worn by a bride, has been
+left  here.~
+~
+9 25 0 a ag
+2 0 0 0 0 0
+10 10000 10000
+A
+17 -5
+#128
+Corsage~
+A wedding corsage~
+A wedding corsage crafted of the most delicate and rare flowers has
+been left here.~
+~
+9 25 0 g am
+2 0 0 0 0 0
+2 5000 5000
+#129
+Gloves~
+A pair of lace gloves~
+A beautiful pair of white lace gloves has been left here.~
+~
+9 25 0 i ah
+2 0 0 0 0 0
+5 10000 10000
+A
+17 -2
+#130
+Trousers~
+A pair of black leather trousers~
+A pair of black leather trousers, made of finest calfskin, has been
+left here.~
+~
+9 25 0 a af
+2 0 0 0 0 0
+25 10000 10000
+A
+17 -10
+#131
+Boots~
+A pair of high leather boots~
+A pair of high leather boots, styled in the latest fashion, has been
+left here.~
+~
+9 25 0 g ag
+2 0 0 0 0 0
+25 10000 10000
+A
+17 -5
+#132
+Boutonierre~
+A Boutonierre~
+A wedding boutonierre made of the finest red roses has been left
+here.~
+~
+2 25 0 i ao
+2 0 0 0 0 0
+5 10000 10000
+#133
+Invitation~
+A Wedding Invitation~
+A beautifully inscribed wedding invitation lies here.~
+~
+16 0 0 0 a
+0 0 0 0 0 0
+2 50 50
+E
+note invitation~
+This invitation is beautifully inscribed in gold ink, the print is 
+raised, and you see the following words written on it:
+Invitation for:
+The happy couple:
+Date/Time of Wedding:
+Place of Wedding:
+~
+#134
+book notebook personal organiser bods strange board~
+#bBod's #wStrange Notebook#N~
+A strange book shaped object lies abandoned here.~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+notebook book personal object strange organiser~
+On first glance it almost looks like an ordinary notebook.
+That is of course until you realise that it appears to be made
+out of metal and some strange red lights wink off and on in a
+seemingly random pattern. Looking closer you notice it has some
+letters engraved on one side: "#bBod's#w Personal Organiser#N".
+Personal Organiser? It makes no sense to you but then again 
+what else about Bod makes sense to you?
+~
+#135
+book notebook rules~
+Holy Book of Rules~
+A huge book is floating here.~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+notebook book rules~
+This is the Holy Book of Rules.
+~
+#136
+drusian secret thoughts board book~
+#wThoughts of #bDrusian#N~
+#bDrusian's #wboard#N ALL HANDS OFF!~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+book note notebook~
+This is Drusian's personal notebook.
+~
+#137
+book notebook board~
+Rahl's Notebook~
+A small notebook is lying here.~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+book note notebook~
+This is Rahl's personal notebook.
+~
+#138
+book notebook board~
+Israfel's Notebook~
+A small notebook is lying here.~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+book note notebook~
+This is Israfel's personal notebook.
+~
+#139
+book quest quests~
+Criz's Book of Quests~
+A book filled with epic adventures is lying here unnoticed.~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+book quest quests~
+A book filled with epic adventures.
+~
+#140
+blocker north~
+North Blocker~
+A huge stone block makes it impossible to go further to the north.~
+~
+12 110 0 abghmtz a
+0 1 0 0 110 116
+0 120 0
+Proc(guard_object)
+#141
+blocker east~
+East Blocker~
+A huge stone block makes it impossible to go further to the east.~
+~
+12 110 0 abghmtz a
+0 2 0 0 110 116
+0 120 0
+Proc(guard_object)
+#142
+blocker south~
+South Blocker~
+A huge stone block makes it impossible to go further to the south.~
+~
+12 110 0 abghmtz a
+0 4 0 0 110 116
+0 120 0
+Proc(guard_object)
+#143
+blocker west~
+West Blocker~
+A huge stone block makes it impossible to go further to the west.~
+~
+12 110 0 abghmtz a
+0 8 0 0 110 116
+0 120 0
+Proc(guard_object)
+#144
+blocker up~
+Up Blocker~
+A huge stone block makes it impossible to go further to the up.~
+~
+12 110 0 abghmtz a
+0 16 0 0 110 116
+0 120 0
+Proc(guard_object)
+#145
+blocker down~
+Down Blocker~
+A huge stone block makes it impossible to go further down.~
+~
+12 110 0 abghmtz a
+0 32 0 0 110 116
+0 120 0
+Proc(guard_object)
+#146
+board guild~
+the Adventurer's Guild board~
+The #yA#Rd#rv#we#yn#wt#ru#Rr#ye#wr#ys  #yG#ru#wi#rl#yd #Gboard
+floats magically here at your eye level.~
+~
+13 0 0 h 0
+0 0 0 0 0 0
+0 0 0
+E
+board~
+The #yA#Rd#rv#we#yn#wt#ru#Rr#ye#wr#ys  #yG#ru#wi#rl#yd board has
+message of great importance to members of in all stages of training 
+in the guild.
+~
+#147
+sword long~
+a long sword~
+A long sword has been left here.~
+slash~
+5 10 gin 0 an
+0 5 5 3 0 100
+8 600 10
+#148
+book balance~
+Sapphyre's Balance Book~
+Sapphyre's balance book is lying here.~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+book balance~
+This is Sapphyre's balancing book.
+~
+#149
+book poetry~
+Kestrel's Poetry Book~
+#NUpon a pedestal appears to be a small book of Poetry, or are they more notes in disguise?~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+book poetry~
+This is Kestrel's poetry book.
+~
+#150
+crusher bag holding~
+a magical bag of holding~
+An enormous bag lays before you.~
+~
+15 111 j 0 ai
+1300 9 0 0 0 0
+0 0 0
+E
+bag holding~
+This bag is enormous.  When you look inside, and figure that this
+must be a bag similar to which Santa uses at Christmas time.
+~
+#151
+crusher glasses sunglasses~
+A pair of sunglasses~
+A pair of dark glasses lays on the ground~
+~
+9 110 j 0 ae
+100 0 0 0 0 0
+0 0 0
+E
+glasses sunglasses~
+As you examine these glasses, you notice that they must be very
+expensive and really cool.
+~
+#152
+book notebook~
+Nymph's notebook~
+Nymph's gossimer notebook is here.~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+#153
+Zoom doll toy~
+a Zoom doll (tm)~
+An almost cuddly, but blue haired doll lies here.~
+~
+9 1 0 0 aj
+6 0 0 0 0 0
+4 10000 10000
+E
+Zoom doll toy~
+The doll is a humanoid, whose outstanding characteristic is it's blue 
+hair.  As you squeeze it, the doll sneers at you and says, " You
+suck, join AOD!"
+~
+#154
+jar cookie~
+The all-mighty cookie jar~
+The all-mighty cookie jar sits here humming quietly to itself.~
+~
+15 0 0 bmno 0
+30 1 -1 0 0 0
+25 0 0
+E
+cookie jar~
+The Jar has the word "Cookies" written on the side.
+~
+#155
+cookie~
+A yummy cookie~
+One of those yummy cookies is lying here.~
+~
+19 1 0 mnt ao
+0 0 0 0 0 0
+1 0 0
+E
+sugar cookie~
+This is a yummy sugar cookie.  It looks good enough to eat.
+~
+#156
+book notebook~
+#BMelody's Daily Planner#N~
+Oh no!  Melody dropped her planner!~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+#157
+book notebook amok~
+Amok's Drawing Board~
+A huge drawing board covered in sketches and scrawls, catches your eye.~
+~
+13 0 0 h 0
+0 0 0 0 0 0
+0 0 0
+#158
+agenda schedule~
+Turf's counselling schedule~
+Turf's agenda lies open on her favourite cloud.~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+agenda schedule~
+Turf's agenda seems fully booked.
+~
+#159
+book angelic wanderings~
+Chanis Wolfmistress' Angelic Wanderings~
+A book entitled "Chanis Wolfmistress' Angelic Wanderings" is lying here.~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+book angelic wanderings~
+This is Chani's personal notebook.
+~
+#160
+mountain belly fat~
+Titan's giant round belly~
+A mountain of fat has been written on by vandals!~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+mountain belly fat~
+Titan is so fat that, even after vandals spray painting gang signs
+all over his gut, there's still lots of room for you to write! 
+Please use paint or ink. No tattoos!
+~
+#161
+book notebook board~
+Maerlyn's Notebook~
+A book with the words "#rDon't Panic#N" inscribed on the cover in nice friendly letters.~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+book note notebook~
+This is Maerlyn's personal notebook.
+~
+#162
+book notebook board~
+Erebos's Notebook~
+A small notebook is lying here.~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+book note notebook~
+This is Erebos's personal notebook.
+~
+#163
+book confessions~
+some confessions of a stoned mallard~
+A book entitled "Some confessions of a Stoned Mallard" is lying here.~
+~
+13 0 0 0 a
+0 0 0 0 0 0
+0 0 0
+E
+book confessions~
+This is Talon's personal notebook.
+~
+#99999
+$~

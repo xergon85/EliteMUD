@@ -1,0 +1,639 @@
+act.informative.c:extern struct clan_data *clan_list;
+act.informative.c:extern char     *clan_ranks[][3];
+act.informative.c:      if (CLANEQ(object) && PRF_FLAGGED(ch, PRF_HOLYLIGHT))
+act.informative.c:	   if ((CLANEQ_CLAN(object) != CLAN(ch)) ||
+act.informative.c:               (CLAN_LEVEL(ch) <= 1)) {
+act.informative.c:		strcat(buf, " (!CLAN)");
+act.informative.c:"format: who [minlev[-maxlev]][-n sname][-c class][-r race][-k clanvnum]" \
+act.informative.c:  int	clanlist = 0, short_list = 0, outlaws = 0, num_can_see = 0;
+act.informative.c:  int   ptr = 0, clan_search = 0, pkok = 0;
+act.informative.c:                 clanlist = 2;
+act.informative.c:                 clan_search = real_clan(i);
+act.informative.c:                 if((clan_search == -1)) {
+act.informative.c:                      send_to_char("That clan exists only in your imagination.\r\n", ch);
+act.informative.c:                      clanlist = 1;
+act.informative.c:      if (clanlist == 2)
+act.informative.c:        if (CLAN(ch) != CLAN(tch))
+act.informative.c:      if ((clanlist == 1) && (clan_search != CLAN(tch)))
+act.informative.c:	if (CLAN(tch) >= 0 && !PLR_FLAGGED(tch, PLR_NOCLANTITLE))
+act.informative.c:		  CLAN_NAME(tch), CLAN_RANKNAME(tch));
+act.informative.c:  if (CLAN(tch) >= 0)
+act.informative.c:	    CLAN_NAME(tch), CLAN_RANKNAME(tch));
+act.informative.c:"format: users [-l minlevel[-maxlevel]] [-n name] [-h host] [-c clanlist] [-o] [-p]\r\n"
+act.informative.c:   int	clanlist = 0, outlaws = 0, num_can_see = 0, playing = 0, deadweight = 0, clan_search = 0;
+act.informative.c:		 clanlist = 2;
+act.informative.c:		 clan_search = real_clan(i);
+act.informative.c:		 if((clan_search == -1)) {
+act.informative.c:		      send_to_char("That clan exists only in your imagination.\r\n", ch);
+act.informative.c:                      clanlist = 1;
+act.informative.c:         if (clanlist == 2) 
+act.informative.c:     	   if (CLAN(ch) != CLAN(tch))
+act.informative.c:         if ((clanlist == 1) && (clan_search != CLAN(tch)))
+act.informative.c:	"clantitle",
+act.informative.c:	"clantell",
+act.informative.c:	SCMD_NOCLANTIT,
+act.informative.c:	SCMD_NOCLANTELL,
+act.informative.c:		"#w   Clan Tell      : %-3s   "
+act.informative.c:		ONOFF(!PLR_FLAGGED(ch, PLR_NOCLANTELL)),
+act.obj1.c:extern struct clan_data *clan_list;
+act.obj1.c:extern int    top_of_clan;
+act.obj1.c:int same_clan(struct char_data *ch, struct obj_data *obj);
+act.obj1.c:      else if (!same_clan(vict, obj) && !PRF_FLAGGED(ch, PRF_HOLYLIGHT))
+act.obj1.c:	   act("$p: Wrong Clan!.", FALSE, ch, obj, 0, TO_CHAR);
+act.obj1.c:  int i, num_clans;
+act.obj1.c:  num_clans = top_of_clan+1;
+act.obj1.c:  for (i=0;i<num_clans;i++)
+act.obj1.c:    if (ch->in_room == clan_list[i].donation && (CLAN(ch) != i || CLAN_LEVEL(ch) < 2))
+act.obj1.c:/* Get the number of the clan that is the owner of this donation room */
+act.obj1.c:int get_clan_room(sh_int room)
+act.obj1.c:  int i, num_clans;
+act.obj1.c:  num_clans = top_of_clan+1;
+act.obj1.c:  /  return number of the clan (not real number) */
+act.obj1.c:  for (i=0;i<num_clans;i++)
+act.obj1.c:    if (room == clan_list[i].donation)
+act.obj1.c:  /  sure that it is a clan donation room */
+act.obj1.c:                  clan_list[get_clan_room(ch->in_room)].name);
+act.obj1.c:int same_clan_cont(struct char_data *ch, struct obj_data *obj)
+act.obj1.c:	  if (CLANEQ(obj)) {
+act.obj1.c:	       if ((CLANEQ_CLAN(obj) != CLAN(ch)) ||
+act.obj1.c:		    (CLAN_LEVEL(ch) <= 1)) return 0;
+act.obj1.c:		if (!same_clan_cont(ch, obj->contains)) return 0;
+act.obj1.c:		if (!same_clan_cont(ch, obj->next_content)) return 0;
+act.obj1.c:int same_clan(struct char_data *ch, struct obj_data *obj)
+act.obj1.c:    if (CLANEQ(obj)) {
+act.obj1.c:      if ((CLANEQ_CLAN(obj) != CLAN(ch)) ||
+act.obj1.c:	  (CLAN_LEVEL(ch) <= 1)) return 0;
+act.obj1.c:      if (!same_clan_cont(ch, obj->contains))
+act.obj1.c:  } else if (!same_clan(ch, obj) && !PRF_FLAGGED(ch, PRF_HOLYLIGHT)) {
+act.obj1.c:    act("$p: Wrong Clan!.", FALSE, ch, obj, 0, TO_CHAR);
+act.obj1.c:    sprintf(buf, "You have to be a member of %s#N to get equipment from here.", clan_list[get_clan_room(ch->in_room)].name);
+act.obj1.c:  /* Check if its a clan donation room and if you are in the clan */
+act.obj1.c:      sprintf(buf, "You have to be a member of %s#N to donate equipment from here.\r\n", clan_list[get_clan_room(ch->in_room)].name);
+act.obj1.c:        sprintf(buf, "You have to be a member of %s#N to sacrifice equipment from here.\r\n", clan_list[get_clan_room(ch->in_room)].name);
+act.obj1.c:          sprintf(buf, "You have to be a member of %s#N to drop equipment here.\r\n", clan_list[get_clan_room(ch->in_room)].name);
+act.obj1.c:          sprintf(buf, "You are not a member of %s#N.\r\n", clan_list[get_clan_room(ch->in_room)].name);
+act.obj1.c:	/* prevent eq from dropping down in clan donation room - Charlene
+act.obj1.c:    case 1: RDR = (CLAN(ch) >= 0?CLAN_LEVEL(ch) >= 2?clan_list[CLAN(ch)].donation:0:0); break;
+act.obj2.c:   if (CLANEQ(temp))
+act.obj2.c:	if ((CLANEQ_CLAN(temp) != CLAN(ch) && !PRF_FLAGGED(ch, PRF_HOLYLIGHT)) ||
+act.obj2.c:            (CLAN_LEVEL(ch) <= 1)) {
+act.obj2.c:	     send_to_char("You aren't in the correct clan to drink that.\r\n", ch);
+act.obj2.c:   if (CLANEQ(food))
+act.obj2.c:	if ((CLANEQ_CLAN(food) != CLAN(ch) && !PRF_FLAGGED(ch, PRF_HOLYLIGHT)) ||
+act.obj2.c:            (CLAN_LEVEL(ch) <= 1)) {
+act.obj2.c:	     send_to_char("You aren't in the correct clan to eat that.\r\n", ch);
+act.other.c:  if (CLANEQ(mag_item))
+act.other.c:       if ((CLANEQ_CLAN(mag_item) != CLAN(ch) && !PRF_FLAGGED(ch, PRF_HOLYLIGHT)) ||
+act.other.c:           (CLAN_LEVEL(ch) <= 1)) {
+act.other.c:	    send_to_char("You aren't in the correct clan to use that.\r\n", ch);
+act.other.c:{ "Your clan & clanlevel will show in title.\r\n",
+act.other.c:    "Your clan & clanlevel will NOT show in title.\r\n"},
+act.other.c:{ "You can now hear clan tells.\r\n",
+act.other.c:    "You have turned off clan tells.\r\n" },
+act.other.c:  case SCMD_NOCLANTIT  : result = TOGGLE_BIT(PLR_FLAGS(ch), PLR_NOCLANTITLE) & PLR_NOCLANTITLE; break;
+act.other.c:  case SCMD_NOCLANTELL : result = TOGGLE_BIT(PLR_FLAGS(ch), PLR_NOCLANTELL) & PLR_NOCLANTELL; break;
+act.social.c:extern struct clan_data *clan_list;
+act.social.c:extern int      top_of_clan;
+act.social.c:extern char *clan_ranks[][3];
+act.social.c:*  Elite Clan System - ECS (C) 1994 Mr.Wang at RIT - This is unique for Elite *
+act.social.c:show_clan_info(struct char_data *ch, int vnum, int info_check)
+act.social.c:    for (j = vnum, i = 0; clan_list[i].vnum != j && i <= top_of_clan; i++);
+act.social.c:    if (i <= top_of_clan) {
+act.social.c:	if (clan_list[i].roster[j]) {
+act.social.c:		  clan_list[i].ranknames[j][0],
+act.social.c:		  clan_list[i].roster[j]);
+act.social.c:	      clan_list[i].vnum,
+act.social.c:	      clan_list[i].name,
+act.social.c:	      clan_list[i].gods,
+act.social.c:	      clan_list[i].remorts,
+act.social.c:              clan_list[i].mortals,
+act.social.c:	      clan_list[i].power,
+act.social.c:              clan_list[i].members ? clan_list[i].level / clan_list[i].members : 0,
+act.social.c:              clan_list[i].members ? clan_list[i].power / clan_list[i].members : 0,
+act.social.c:	      clan_list[i].wealth/1000,
+act.social.c:	      clan_list[i].info);
+act.social.c:      sprintf(buf, "%s\r\n", clan_list[i].symbol);
+act.social.c:      send_to_char("No clan with that number.\r\n", ch);
+act.social.c:    for (*buf = '\0', i = 0; i <= top_of_clan; i++)
+act.social.c:	      buf, clan_list[i].vnum, clan_list[i].name);
+act.social.c:void show_clan_roster(struct char_data *ch, int vnum)
+act.social.c:    send_to_char("Roster unavailable for that clan.\r\n", ch);
+act.social.c:  for (j = vnum, i = 0; clan_list[i].vnum != j && i <= top_of_clan; i++);
+act.social.c:  if (i <= top_of_clan) {
+act.social.c:      if (clan_list[i].roster[j]) {
+act.social.c:		clan_list[i].ranknames[j][0],
+act.social.c:		clan_list[i].roster[j]);
+act.social.c:    send_to_char("That clan is a figment of your imagination.\r\n", ch);
+act.social.c:void clan_update(void)
+act.social.c:  FILE *clan_f;
+act.social.c:       (CLAN_LEVEL(d->character) > 1) &&
+act.social.c:      clan_list[CLAN(d->character)].on_power += 1;
+act.social.c:      clan_list[CLAN(d->character)].on_power_rec += 1;
+act.social.c:  if (!(clan_f = fopen(CLAN_FILE, "w+"))) {
+act.social.c:    log("SYSERR: Unable to open/create Clan Power File");
+act.social.c:  for (i = 0; i <= top_of_clan; i++) {
+act.social.c:      fprintf(clan_f, "#%d A%ld\n", clan_list[i].vnum,
+act.social.c:	      clan_list[i].on_power_rec);
+act.social.c:  fprintf(clan_f, "#99999\n");
+act.social.c:  fclose(clan_f);
+act.social.c:void show_clan_power(struct char_data *ch)
+act.social.c:     extern int top_of_clan;
+act.social.c:     extern int newbie_clan;
+act.social.c:     int top = (top_of_clan + 1);
+act.social.c:     for (i = 0; i <= top_of_clan; i++) {
+act.social.c:	  if (clan_list[i].vnum != newbie_clan) {
+act.social.c:	       j += clan_list[i].on_power;
+act.social.c:	       k += clan_list[i].on_level;
+act.social.c:     sprintf(buf, "Elite Mud Online Clan Statistics:\r\n");
+act.social.c:     strcat(buf, "#y(M)  #g(R)  #r(I)       #bActivity  #cLevels Gained  #wClan#N\r\n");
+act.social.c:	       if ((CLAN(d->character) >= 0) &&
+act.social.c:		   (CLAN_LEVEL(d->character) > 1)) {
+act.social.c:			 immortal[CLAN(d->character)]++;
+act.social.c:			 remort[CLAN(d->character)]++;
+act.social.c:			 mortal[CLAN(d->character)]++;
+act.social.c:     for (i = 0; i <= top_of_clan; i++) {
+act.social.c:		  clan_list[i].on_power,
+act.social.c:		  j ? ( 100 * clan_list[i].on_power / j) : 0,
+act.social.c:		  clan_list[i].on_level,
+act.social.c:		  k ? (100 * clan_list[i].on_level / k) : 0,
+act.social.c:		  clan_list[i].vnum,
+act.social.c:		  clan_list[i].name);
+act.social.c:	  if (clan_list[i].vnum != newbie_clan) {
+act.social.c:		    clan_list[i].on_power,
+act.social.c:		    clan_list[i].on_level,
+act.social.c:		    clan_list[i].vnum,
+act.social.c:		    clan_list[i].name);
+act.social.c:#define CLANLEVEL_APPLYING  1
+act.social.c:#define CLANLEVEL_NEW       2
+act.social.c:#define CLANLEVEL_MEMBER    3
+act.social.c:#define CLANLEVEL_SOLDIER   4
+act.social.c:#define CLANLEVEL_ADEPT     5
+act.social.c:#define CLANLEVEL_ADVISOR   6
+act.social.c:#define CLANLEVEL_RULER     7
+act.social.c:#define CLANLEVEL_QUEEN     8
+act.social.c:#define CLANLEVEL_DEITY     9
+act.social.c:#define CLANLEVEL_OVERGOD  10
+act.social.c:void send_to_clan(struct char_data *ch, char *arg)
+act.social.c:  if (CLAN(ch) < 0) return;
+act.social.c:      if ((CLAN(d->character) == CLAN(ch))  && (IN_ROOM(d->character) >= 0) &&
+act.social.c:ACMD(do_clantell);
+act.social.c:int clan_power_check(struct char_data *ch, int cmd)
+act.social.c:	  if (IS_SET(clan_list[CLAN(ch)].pwr_enlist, (1 << CLAN_LEVEL(ch))))
+act.social.c:	  if (IS_SET(clan_list[CLAN(ch)].pwr_raise, (1 << CLAN_LEVEL(ch))))
+act.social.c:	  if (IS_SET(clan_list[CLAN(ch)].pwr_demote, (1 << CLAN_LEVEL(ch))))
+act.social.c:	  if (IS_SET(clan_list[CLAN(ch)].pwr_expel, (1 << CLAN_LEVEL(ch))))
+act.social.c:ACMD(do_clan)
+act.social.c:  struct clan_struct {
+act.social.c:  } clancmds[] =
+act.social.c:      { "title" , CLANLEVEL_NEW     , NONE},
+act.social.c:      { "resign", CLANLEVEL_NEW     , STRING},
+act.social.c:      { "enlist", CLANLEVEL_NEW     , VICTIM}, /* 5 */
+act.social.c:      { "raise" , CLANLEVEL_NEW     , VICTIM}, /* 6 */
+act.social.c:      { "demote", CLANLEVEL_NEW     , VICTIM}, /* 7 */
+act.social.c:      { "expel" , CLANLEVEL_NEW     , VICTIM}, /* 8 */
+act.social.c:      { "tell"  , CLANLEVEL_NEW     , STRING},
+act.social.c:      { "who"   , CLANLEVEL_NEW     , NONE  },
+act.social.c:    send_to_char("Sorry man, you cannot join a clan.\r\n", ch);
+act.social.c:    while (*(clancmds[l].cmd) != '\n') {
+act.social.c:      if (CLAN_LEVEL(ch) >= clancmds[l].level && clan_power_check(ch, l)) {
+act.social.c:	sprintf(buf, "%s %-12s", buf, clancmds[l].cmd);
+act.social.c:  for (l = 0; *(clancmds[l].cmd) != '\n'; l++)
+act.social.c:    if (!strncmp(buf, clancmds[l].cmd, strlen(buf)))
+act.social.c:  if (CLAN_LEVEL(ch) < clancmds[l].level || !clan_power_check(ch, l)) {
+act.social.c:  if (clancmds[l].type == VICTIM) {
+act.social.c:  } else if (clancmds[l].type == NUMBER) {
+act.social.c:    if (CLAN(ch) >= 0 && CLAN_LEVEL(ch) > 1) {
+act.social.c:      send_to_char("You are already in a clan.  Try resigning there first.\r\n", ch);
+act.social.c:    if ((i = real_clan(num)) < 0) {
+act.social.c:      send_to_char("There is no such clan.\r\n", ch);
+act.social.c:    CLAN(ch) = i;
+act.social.c:    CLAN_LEVEL(ch) = 1;
+act.social.c:    sprintf(buf, "Ok you are now applying for membership in clan %s\r\n",
+act.social.c:	    clan_list[i].name);
+act.social.c:    send_to_clan(ch, "$n is applying for membership into your clan.#N\r\n");
+act.social.c:      show_clan_info(ch, num, 1);
+act.social.c:      show_clan_info(ch, -1, 1);
+act.social.c:      strcpy(buf, "clan tutorial");
+act.social.c:      sprintf(buf, "clan %s", buf2);
+act.social.c:    do_gen_tog(ch, buf2, cmd, SCMD_NOCLANTIT);
+act.social.c:      send_to_char("WARNING: You are going to leave your clan.\r\nIf that is really what you want, type 'clan resign resign'", ch);
+act.social.c:      if(CLAN(ch) < 0){
+act.social.c:        send_to_char("You cannot resign from a clan if you're not in one.\r\n", ch);
+act.social.c:      CLAN_LEVEL(ch) = 0;
+act.social.c:      CLAN(ch) = -1;
+act.social.c:    send_to_clan(ch, "#m$n has resigned from your clan.\r\n");
+act.social.c:    if (CLAN(vict) != CLAN(ch)) {
+act.social.c:      act("$N must be applying to your clan.", TRUE, ch, 0, vict, TO_CHAR);
+act.social.c:    } else if (CLAN_LEVEL(vict) > 1) {
+act.social.c:      act("$N seems to be in your clan already :)", TRUE, ch, 0, vict, TO_CHAR);
+act.social.c:    if(CLAN(ch) < 0) {
+act.social.c:      send_to_char("You have to be in a clan to be able to do that", ch);
+act.social.c:    CLAN_LEVEL(vict) = 2;
+act.social.c:    act("$n has enlisted you to $s clan.", TRUE, ch, 0, vict, TO_VICT);
+act.social.c:    sprintf(buf, "#m%s has enlisted %s into %s.\r\n", GET_NAME(ch), GET_NAME(vict), CLAN_NAME(ch));
+act.social.c:    send_to_clan(ch, buf);
+act.social.c:    if (CLAN(vict) != CLAN(ch)) {
+act.social.c:      act("$N isn't even in your clan.", TRUE, ch, 0, vict, TO_CHAR);
+act.social.c:    } else if (CLAN_LEVEL(vict) >= CLAN_LEVEL(ch)) {
+act.social.c:    } else if(CLAN(ch) < 0) {
+act.social.c:      send_to_char("You have to be in a clan to be able to do that.", ch);
+act.social.c:      if ((CLAN_LEVEL(vict) >= CLAN_LEVEL(ch) - 1) || (CLAN_LEVEL(vict) == 1)) {
+act.social.c:      CLAN_LEVEL(vict)++;
+act.social.c:	      CLAN_NAME(ch), CLAN_RANKNAME(vict));
+act.social.c:	      CLAN_NAME(ch), CLAN_RANKNAME(vict));
+act.social.c:      sprintf(buf, "%s has raised %s to %s#N.\r\n", GET_NAME(ch), GET_NAME(vict), CLAN_RANKNAME(vict));
+act.social.c:      if (CLAN_LEVEL(vict) > 2) {
+act.social.c:	CLAN_LEVEL(vict)--;
+act.social.c:		CLAN_NAME(ch), CLAN_RANKNAME(vict));
+act.social.c:		CLAN_NAME(ch), CLAN_RANKNAME(vict));
+act.social.c:        sprintf(buf, "%s has demoted %s to %s#N.\r\n", GET_NAME(ch), GET_NAME(vict), CLAN_RANKNAME(vict));
+act.social.c:      CLAN_LEVEL(vict) = 0;
+act.social.c:      CLAN(vict) = -1;
+act.social.c:	      CLAN_NAME(ch));
+act.social.c:	      CLAN_NAME(ch));
+act.social.c:      sprintf(buf, "%s has expelled %s from %s#N.\r\n", GET_NAME(ch), GET_NAME(vict), CLAN_NAME(ch));
+act.social.c:    send_to_clan(ch, buf);
+act.social.c:    do_clantell(ch, buf2, 0, 0);
+act.social.c:      show_clan_info(ch, num, 0);
+act.social.c:      show_clan_info(ch, -1, 0);
+act.social.c:      show_clan_roster(ch, num);
+act.social.c:      show_clan_roster(ch, -1);
+act.social.c:    show_clan_power(ch);
+act.social.c:ACMD(do_clantell)
+act.social.c:  int  level = CLANLEVEL_APPLYING;
+act.social.c:    send_to_char("Sorry - no mob clan here (yet).\r\n", ch);
+act.social.c:    send_to_char( "You are in a silent room so you can't clan tell.\r\n" ,ch);
+act.social.c:       print_history(ch, CHAN_CLAN);
+act.social.c:      level = MAX(atoi(buf1), CLANLEVEL_APPLYING);
+act.social.c:      if (level > CLAN_LEVEL(ch)) {
+act.social.c:	send_to_char("You can't clantell above your own level.\r\n", ch);
+act.social.c:  if (CLAN(ch) < 0 || CLAN_LEVEL(ch) < CLANLEVEL_NEW) {
+act.social.c:    send_to_char("You are not a member in any clan.\r\n", ch);
+act.social.c:    send_to_char("What do you want to tell your clan?\r\n", ch);
+act.social.c:  if (PLR_FLAGGED(ch, PLR_NOCLANTELL)) {
+act.social.c:  if (level > CLANLEVEL_APPLYING) {
+act.social.c:    sprintf(buf1, "§m$n tells your clan <%d>, '%s§m'§N", level, argument);
+act.social.c:    sprintf(buf2, "§mYou tell your clan <%d>, '%s§m'§N\r\n", level, argument);
+act.social.c:    sprintf(buf1, "§m$n tells your clan, '%s§m'§N", argument);
+act.social.c:    sprintf(buf2, "§mYou tell your clan, '%s§m'§N\r\n", argument);
+act.social.c:  chan_history(argument, ch, NULL, MAX(level, CLANLEVEL_NEW), CHAN_CLAN);
+act.social.c:	(CLAN(d->character) == CLAN(ch)) &&
+act.social.c:	(CLAN_LEVEL(d->character) >= MAX(level, CLANLEVEL_NEW)) &&
+act.social.c:	(!PLR_FLAGGED(d->character, PLR_WRITING|PLR_MAILING|PLR_NOCLANTELL))) {
+act.wizard.c:extern struct clan_data *clan_list;
+act.wizard.c:extern int      top_of_clan;
+act.wizard.c:  sprintf(buf, "%s   CLAN: %d Exchange: %d\r\n", buf, CLANEQ(j) ? clan_list[CLANEQ_CLAN(j)].vnum : -1, CLANEQ(j) ? CLANEQ_EX(j) : -1);
+act.wizard.c:    sprintf(buf, "%sClan[#B%d#N] ClanLevel[#B%d#N] Hometown[#B%s#N] Pracs[#B%d#N]\r\n",
+act.wizard.c:	    CLAN(k)>=0?clan_list[CLAN(k)].vnum:-1,
+act.wizard.c:	    CLAN_LEVEL(k), buf1, SPELLS_TO_LEARN(k));
+act.wizard.c:    { "clan"    , IMM_CLAN },
+act.wizard.c:    strcpy(buf, "Usage: load < obj | mob | clan | quest > <vnum>\r\nYou can load the following:\r\n\r\n");
+act.wizard.c:    send_to_char("Usage: load < obj | mob | clan | quest > <vnum>\r\n", ch);
+act.wizard.c:    if (obj_proto[real_object(number)].clan_eq && (l != 3)) {
+act.wizard.c:	  send_to_char("You can't load clan items.\r\n", ch);
+act.wizard.c:    break; /* End load (obj, clan, quest) */
+act.wizard.c:  long clan = 0;
+act.wizard.c:  extern int buf_switches, buf_largecount, buf_overflows, newbie_clan;
+act.wizard.c:    { "clans",    IMM_CLAN  },
+act.wizard.c:    sprintf(buf, "%s  #w%5d#N clans\r\n",
+act.wizard.c:	    buf, top_of_clan + 1);
+act.wizard.c:  case 12:			/* clans */
+act.wizard.c:      for (i = 0; i <= top_of_clan; i++) {
+act.wizard.c:	clan_list[i].on_power_rec = 0;
+act.wizard.c:      send_to_char("Clan Power stats reset.\r\n", ch);
+act.wizard.c:    sprintf(buf, "Elite Mud Online Clan Statistics (Recorded):\r\n");
+act.wizard.c:    strcat(buf, "     #bActivity  #wClan#N\r\n");
+act.wizard.c:    for (i = 0; i <= top_of_clan; i++)
+act.wizard.c:      if (clan_list[i].vnum != newbie_clan)
+act.wizard.c:	clan += clan_list[i].on_power_rec;
+act.wizard.c:    for (i = 0; i <= top_of_clan; i++)
+act.wizard.c:      if (clan_list[i].vnum != newbie_clan) {
+act.wizard.c:	sprintf(buf2, "%7ld(%3ld%%)  %3d. %s\r\n", clan_list[i].on_power_rec,
+act.wizard.c:		clan ? (100 * clan_list[i].on_power_rec / clan): 0,
+act.wizard.c:		clan_list[i].vnum, clan_list[i].name);
+act.wizard.c:	sprintf(buf1, "%7ld( N/A)  %3d. %s\r\n", clan_list[i].on_power_rec,
+act.wizard.c:		clan_list[i].vnum, clan_list[i].name);
+act.wizard.c:  { "gold", 	    IMM_CLAN               , BOTH , NUMBER },
+act.wizard.c:  { "bank", 	    IMM_CLAN               , BOTH , NUMBER },
+act.wizard.c:  { "loadroom",     IMM_ADMIN  | IMM_CLAN  , PC   , MISC   },
+act.wizard.c:  { "clan",         IMM_CLAN               , PC   , MISC   },
+act.wizard.c:  { "clanlevel",    IMM_BASIC              , PC   , NUMBER },
+act.wizard.c:      CLAN(vict) = -1;
+act.wizard.c:      CLAN_LEVEL(vict) = 0;
+act.wizard.c:      sprintf(buf, "%s doesn't belong to any clan now.", GET_NAME(vict));
+act.wizard.c:      if ((i = real_clan(value)) >= 0) {
+act.wizard.c:	CLAN(vict) = i;
+act.wizard.c:	sprintf(buf, "%s's clan set to %d.", GET_NAME(vict), value);
+act.wizard.c:	send_to_char("Not a valid clan vnum.\r\n", ch);
+act.wizard.c:      send_to_char("Must be 'off' or the vnum of the clan.\r\n", ch);
+act.wizard.c:	IS_SET(GODLEVEL(ch), IMM_CLAN) ||
+act.wizard.c:	((CLAN(ch) == CLAN(vict)) &&
+act.wizard.c:      CLAN_LEVEL(ch) > CLAN_LEVEL(vict)))
+act.wizard.c:	CLAN_LEVEL(vict) = RANGE(1, 10);
+act.wizard.c:ACMD(do_claneq)
+act.wizard.c:  struct obj_data *claneq;
+act.wizard.c:  extern struct obj_data *claneq_list;
+act.wizard.c:  if (!claneq_list) return;
+act.wizard.c:    send_to_char("Which clan would you like to list the eq for?\r\n", ch);
+act.wizard.c:    show_clan_info(ch, -1, 1);
+act.wizard.c:  for (claneq = claneq_list ; claneq ; claneq = claneq->next)
+act.wizard.c:    if (CLANEQ(claneq))
+act.wizard.c:      if (clan_list[CLANEQ_CLAN(claneq)].vnum == i) {
+act.wizard.c:	sprintf(buf2, " [#G%6d#N]  Clan:#C%3d#N  Ex: [#G%6d#N] #Y%s#N\r\n",
+act.wizard.c:		obj_index[claneq->item_number].virtual,
+act.wizard.c:		clan_list[CLANEQ_CLAN(claneq)].vnum,
+act.wizard.c:		CLANEQ_EX(claneq),
+act.wizard.c:		claneq->short_description);
+act.wizard.c:  { "claneq"     , IMM_CLAN },
+act.wizard.c:  extern int newbie_clan;
+act.wizard.c:    { "newbieclan" , NUMBER },
+act.wizard.c:                 "DT's destroy equipment: #r%s#N. Newbie Clan Vnum: #y%d#N.\r\n"
+act.wizard.c:            YESNO(dts_are_dumps), newbie_clan, YESNO(auto_save), autosave_time,
+act.wizard.c:          newbie_clan = toggle;
+boards.c:extern int real_clan(int virtual);
+boards.c:extern struct clan_data *clan_list;
+boards.c:  {   7, BOARD_CLAN, 121, 0, 0, 10, "boards/Clan.ntribe2", 0},
+boards.c:  {   8, BOARD_CLAN, 110, 0, 0, 10, "boards/Clan.ms", 0},
+boards.c:  {  15, BOARD_CLAN, 110, 0, 0, 10, "boards/Clan.elite", 0},
+boards.c:  {27509,BOARD_CLAN, 110, 0, 0, 10, "boards/Clan.elite2", 0},
+boards.c:  {  27, BOARD_CLAN, 107, 0, 0, 9, "boards/Clan.tri", 0},
+boards.c:  {  16, BOARD_CLAN, 122, 0, 0, 10, "boards/Clan.cod", 0},
+boards.c:  {  29, BOARD_CLAN, 112, 0, 0, 10, "boards/Clan.sd", 0},
+boards.c:  {  30, BOARD_CLAN, 116, 2, 2, 10, "boards/Clan.tkk", 0},
+boards.c:  {28102,BOARD_CLAN, 116, 0, 0, 10, "boards/Clan.tkk2", 0},
+boards.c:  {  17, BOARD_CLAN, 118, 0, 0, 10, "boards/Clan.elysium", 0},
+boards.c:  {  31, BOARD_CLAN, 117, 0, 0, 9, "boards/Clan.kai", 0},
+boards.c:  {28202,BOARD_CLAN, 117, 0, 0, 9, "boards/Clan.kai2", 0},
+boards.c:  {  32, BOARD_CLAN, 121, 0, 0, 10, "boards/Clan.ntribe", 0},
+boards.c:  {  33, BOARD_CLAN, 122, 0, 0, 10, "boards/Clan.malina", 0},
+boards.c:  {  34, BOARD_CLAN,   0, 0, 0, 10, "boards/Clan.art", 0},
+boards.c:  {  36, BOARD_CLAN, 113, 0, 0, 10, "boards/Clan.moc", 0},
+boards.c:  {27903,BOARD_CLAN, 113, 0, 0, 10, "boards/Clan.moc2", 0},
+boards.c:  {28000,BOARD_CLAN, 114, 0, 0, 9, "boards/Clan.dragoon", 0},
+boards.c:  {28001,BOARD_CLAN, 114, 9, 2, 9, "boards/Clan.dragoon2", 0},
+boards.c:  {  40, BOARD_CLAN, 100, 0, 0, 9, "boards/Clan.ag", 0},
+boards.c:  {28826,BOARD_CLAN, 119, 0, 0, 10, "boards/Clan.goa", 0},
+boards.c:  {28825,BOARD_CLAN, 119, 0, 0, 10, "boards/Clan.wew", 0},
+boards.c:  {  44, BOARD_CLAN, 115, 0, 0, 10, "boards/Clan.norsca", 0},
+boards.c:  {  47, BOARD_CLAN, 111, 0, 0, 10, "boards/Clan.ni", 0}
+boards.c:  if (BOARD_FLAGGED(board_type, BOARD_CLAN))
+boards.c:    if (WRITE_LVL(board_type) > 0 && CLAN(ch) != real_clan(BOARD_REF(board_type)) &&
+boards.c:              clan_list[real_clan(BOARD_REF(board_type))].name);
+boards.c:      if (CLAN_LEVEL(ch) < WRITE_LVL(board_type) && GET_LEVEL(ch) < LEVEL_BOARD)
+boards.c:                clan_list[real_clan(BOARD_REF(board_type))].name);
+boards.c:  if (BOARD_FLAGGED(board_type, BOARD_CLAN))
+boards.c:    if (CLAN(ch) != real_clan(BOARD_REF(board_type)))
+boards.c:      NEW_MSG_INDEX(board_type).level = CLAN_LEVEL(ch);
+boards.c:  if (BOARD_FLAGGED(board_type, BOARD_CLAN)) {
+boards.c:    if (READ_LVL(board_type) > 0 && CLAN(ch) != real_clan(BOARD_REF(board_type)) &&
+boards.c:                   clan_list[real_clan(BOARD_REF(board_type))].name);
+boards.c:    if (CLAN_LEVEL(ch) < READ_LVL(board_type) && GET_LEVEL(ch) < LEVEL_BOARD) {
+boards.c:                   clan_list[real_clan(BOARD_REF(board_type))].name);
+boards.c:  if (BOARD_FLAGGED(board_type, BOARD_CLAN))
+boards.c:        CLAN(ch) != real_clan(BOARD_REF(board_type)) &&
+boards.c:                   clan_list[real_clan(BOARD_REF(board_type))].name);
+boards.c:    if (CLAN_LEVEL(ch) < READ_LVL(board_type) && GET_LEVEL(ch) < LEVEL_BOARD)
+boards.c:                   clan_list[real_clan(BOARD_REF(board_type))].name);
+boards.c:        if (BOARD_FLAGGED(board_type, BOARD_CLAN) &&
+boards.c:           IS_SET(GODLEVEL(ch), IMM_CLAN))
+boards.c:          if (BOARD_FLAGGED(board_type, BOARD_CLAN) &&
+boards.c:             (CLAN(ch) == real_clan(BOARD_REF(board_type))) &&
+boards.c:             (CLAN_LEVEL(ch) >= REMOVE_LVL(board_type)))
+boards.c:    if (BOARD_FLAGGED(board_type, BOARD_CLAN))
+boards.c:      if (CLAN(ch) != real_clan(BOARD_REF(board_type)) &&
+boards.c:                     clan_list[real_clan(BOARD_REF(board_type))].name);
+boards.c:      if (CLAN_LEVEL(ch) < REMOVE_LVL(board_type) &&
+boards.c:                     clan_list[real_clan(BOARD_REF(board_type))].name);
+boards.c:      if ((CLAN_LEVEL(ch) < MSG_LEVEL(board_type, ind)) && (CLAN_LEVEL(ch) < 10))
+boards.c:        send_to_char("You can't remove a message of higher clan rank "
+boards.c:  if (!BOARD_FLAGGED(board_type, BOARD_CLAN))
+boards.c:      if (CLAN(ch) != real_clan(BOARD_REF(board_type)))
+boards.c:                clan_list[real_clan(BOARD_REF(board_type))].name);
+boards.c:      if (CLAN_LEVEL(ch) < MSG_LEVEL(board_type, ind) &&
+boards.c:          CLAN_LEVEL(ch) < 10 &&
+boards.c:          CLAN_LEVEL(ch) < REMOVE_LVL(board_type))
+boards.c:                clan_list[real_clan(BOARD_REF(board_type))].name);
+boards.c:  if (BOARD_FLAGGED(board_type, BOARD_CLAN))
+boards.c:    msg_flag.flag[0] = CLAN_LEVEL(ch);
+boards.c:    if (BOARD_FLAGGED(board_type, BOARD_CLAN))
+boards.c:      if (CLAN(ch) == real_clan(BOARD_REF(board_type)))
+boards.c:        if (CLAN_LEVEL(ch) < MSG_LEVEL(board_type, ind) &&
+boards.c:            CLAN_LEVEL(ch) < REMOVE_LVL(board_type))
+boards.c:                  clan_list[real_clan(BOARD_REF(board_type))].name);
+boards.c:                  clan_list[real_clan(BOARD_REF(board_type))].name);
+boards.c:  if (BOARD_FLAGGED(board_type, BOARD_CLAN))
+boards.c:    msg_flag.flag[0] = CLAN_LEVEL(ch);
+boards.c:    if (BOARD_FLAGGED(board_type, BOARD_CLAN))
+boards.c:      if (CLAN(ch) != real_clan(BOARD_REF(board_type)))
+boards.c:      if (CLAN_LEVEL(ch) < msg_flag.flag[0])
+boards.c:            if (BOARD_FLAGGED(board_type, BOARD_CLAN))
+boards.c:              // Clan Board
+boards.c:              if (CLAN_LEVEL(ch) <= msg_flag.flag[0])
+boards.c:    if (BOARD_FLAGGED(board_type, BOARD_CLAN))
+boards.c:      if (CLAN(ch) != real_clan(BOARD_REF(board_type)))
+boards.c:        sprintf(buf, "You can't lock a %s#N board, you arent even in the clan.\r\n",
+boards.c:                  clan_list[real_clan(BOARD_REF(board_type))].name);
+boards.c:        if (CLAN_LEVEL(ch) < REMOVE_LVL(board_type))
+boards.c:          sprintf(buf, "Your rank in %s#N is not sufficient to lock the clan board.\r\n",
+boards.c:                  clan_list[real_clan(BOARD_REF(board_type))].name);
+boards.c:    if (BOARD_FLAGGED(board_type, BOARD_CLAN))
+boards.c:      if (CLAN(ch) != real_clan(BOARD_REF(board_type)))
+boards.c:        sprintf(buf, "You can't unlock a %s#N board, you arent even in the clan.\r\n",
+boards.c:                  clan_list[real_clan(BOARD_REF(board_type))].name);
+boards.c:        if (CLAN_LEVEL(ch) < REMOVE_LVL(board_type))
+boards.c:          sprintf(buf, "Your rank in %s#N is not sufficient to unlock the clan board.\r\n",
+boards.c:                  clan_list[real_clan(BOARD_REF(board_type))].name);
+config.c:int newbie_clan;
+config.c:/* Newbie Clan */
+config.c:int newbie_clan;
+config.c:newbie_clan = config.newbie_clan = 100;
+config.c:  newbie_clan = config.newbie_clan;
+config.c:  config.newbie_clan = newbie_clan;
+constants.c:  "CLAN",
+constants.c:const char      *clan_ranks[][3] = {
+constants.c:   "!CLANTLL",
+cstore.c:*  Usage: spec-procs and other funcs for clan storing.                        *
+cstore.c:    if (CLAN(ch) == real_clan(cstore_index[cstore_nr].with_who) )
+cstore.c:  if (!(c_is_ok(keeper,ch,cstore_nr)) || CLAN_LEVEL(ch)!=8) {
+db.c:struct obj_data *claneq_list = 0;    /* linked list of clan objs        */
+db.c:struct clan_data *clan_list = 0;     /* array of clans                  */
+db.c:int     top_of_clan = 0;
+db.c:int     r_newbie_clan;                  /* rnum of newbie clan          */
+db.c:extern char     *clan_ranks[][3];
+db.c:   extern int newbie_clan;
+db.c:   log("Loading clans and generating index.");
+db.c:   boot_clanpower();
+db.c:   if ((r_newbie_clan = real_clan(newbie_clan)) >= 0) {
+db.c:     sprintf(buf, "Newbie Clan Enabled: %d [%d]", newbie_clan, r_newbie_clan);
+db.c:     log("SYSERR: Newbie Clan Disabled");
+db.c:      /* clan system -Petrus */
+db.c:      if (dummy.specials2.clan >= 0 &&
+db.c:	  dummy.specials2.clanlevel > 1 &&
+db.c:	  (i = real_clan(dummy.specials2.clan)) != -1) {
+db.c:	  clan_list[i].gods++;
+db.c:	else /* Disabled NODELETE flagged players not counting towards clan stats */
+db.c:		       clan_list[i].remorts++;
+db.c:		       clan_list[i].wealth += ((dummy.points.gold + dummy.points.bank_gold)/1000);
+db.c:		       clan_list[i].level += dummy.level;
+db.c:		       clan_list[i].power += (dummy.level + dummy.specials2.remorts *
+db.c:		       clan_list[i].members++;
+db.c:		       clan_list[i].mortals++;
+db.c:		       clan_list[i].wealth += ((dummy.points.gold + dummy.points.bank_gold)/1000);
+db.c:		       clan_list[i].level += dummy.level;
+db.c:		       clan_list[i].power += dummy.level;
+db.c:		       clan_list[i].members++;
+db.c:	if (dummy.specials2.clanlevel > 0) {
+db.c:	  ptr = &(clan_list[i].roster[dummy.specials2.clanlevel]);
+db.c:    CREATE(clan_list, struct clan_data, rec_count);
+db.c:    case DB_BOOT_CLN  : load_clans(db_file); break;
+db.c:void boot_clanpower()
+db.c:  FILE *clan_f;
+db.c:  if (!(clan_f = fopen(CLAN_FILE, "r"))) {
+db.c:    log("SYSERR: Unable to open clan power file");
+db.c:    if (fscanf(clan_f, "#%d A%ld\n", &i, &j) < 0) {
+db.c:      log("SYSERR: Corrupt clanpower info file.");
+db.c:      if ((i = real_clan(i)) >= 0)
+db.c:	clan_list[i].on_power_rec = j;
+db.c:      fclose(clan_f);
+db.c:	    obj_proto[i].clan_eq = NULL;
+db.c:void	load_clans(FILE *clan_f)
+db.c:  struct clan_obj_data *clan_eq;
+db.c:  if (!fscanf(clan_f, "%s\n", chk)) {
+db.c:    perror("load_clans");
+db.c:      clan_list[i].vnum = nr;
+db.c:      sprintf(buf2, "clan #%d", nr);
+db.c:      tmpptr = clan_list[i].name = fread_string(clan_f, buf2);
+db.c:      clan_list[i].symbol = fread_string(clan_f, buf2);
+db.c:      clan_list[i].info   = fread_string(clan_f, buf2);
+db.c:	  clan_list[i].ranknames[j][k] = clan_ranks[j][k];
+db.c:      fscanf( clan_f, " %d\n", &j);
+db.c:	  sprintf(buf2, "Format error in clan file at or near clan #%d - In rank names", nr);
+db.c:	clan_list[i].ranknames[j][0] = fread_string(clan_f, buf2);
+db.c:	clan_list[i].ranknames[j][1] = fread_string(clan_f, buf2);
+db.c:	clan_list[i].ranknames[j][2] = fread_string(clan_f, buf2);
+db.c:	fscanf( clan_f, " %d\n", &j);
+db.c:      clan_list[i].flags  = fread_number(clan_f, buf2);
+db.c:      if ((clan_list[i].donation =
+db.c:	   real_room(fread_number(clan_f, buf2))) > 0) {
+db.c:	room_ls->number = clan_list[i].donation;
+db.c:      fscanf(clan_f, " %hd\n", &clan_list[i].recall);
+db.c:      clan_list[i].pwr_demote = fread_number(clan_f, buf2);
+db.c:      clan_list[i].pwr_enlist = fread_number(clan_f, buf2);
+db.c:      clan_list[i].pwr_expel  = fread_number(clan_f, buf2);
+db.c:      clan_list[i].pwr_raise  = fread_number(clan_f, buf2);
+db.c:      /* Clan EQ list */
+db.c:      fscanf(clan_f, " %s \n", chk);
+db.c:           fscanf(clan_f, " %d %d \n", &j, &k);
+db.c:		/* flag the obj clan */
+db.c:	     CREATE(clan_eq, struct clan_obj_data, 1);
+db.c:	     clan_eq->clan = i;
+db.c:	     clan_eq->exchange = k;
+db.c:	     obj_proto[j].clan_eq = clan_eq;
+db.c:	     /* create claneq list */
+db.c:	     obj->next = claneq_list;
+db.c:	     claneq_list = obj;
+db.c:	   fscanf(clan_f, " %s \n", chk);
+db.c:      /* Initialize online clan Information */
+db.c:      clan_list[i].members = 0;
+db.c:      clan_list[i].gods    = 0;
+db.c:      clan_list[i].remorts = 0;
+db.c:      clan_list[i].mortals = 0;
+db.c:      clan_list[i].power   = 0;
+db.c:      clan_list[i].wealth  = 0;
+db.c:      clan_list[i].on_power= 0;
+db.c:	clan_list[i].roster[j]  = NULL;
+db.c:      sprintf(buf2, "Format error in clan file at or near clan #%d", nr);
+db.c:  top_of_clan = i - 1;
+db.c:   if (CLAN(ch) >= 0)
+db.c:     CLAN(ch) = real_clan(CLAN(ch));
+db.c:   if (CLAN(ch) < 0)
+db.c:     CLAN_LEVEL(ch) = 0;
+db.c:   if (CLAN(ch) >= 0)
+db.c:     st->specials2.clan = clan_list[CLAN(ch)].vnum;  /* Save the clan vnum */
+db.c:  ch->specials2.clan = -1;
+db.c:  ch->specials2.clanlevel = 0;
+db.c:  if (r_newbie_clan >= 0) {
+db.c:    CLAN(ch) = r_newbie_clan;
+db.c:    CLAN_LEVEL(ch) = 2;
+db.c:/* returns the real number of the clan with given virtual number */
+db.c:int	real_clan(int virtual)
+db.c:   top = top_of_clan;
+db.c:      if ((clan_list + mid)->vnum == virtual)
+db.c:      if ((clan_list + mid)->vnum > virtual)
+handler.c:extern struct clan_data *clan_list;
+handler.c:extern int    top_of_clan;
+handler.c:    if (CLANEQ(obj))
+handler.c:	 if(((CLANEQ_CLAN(obj) != CLAN(ch)) && !PRF_FLAGGED(ch, PRF_HOLYLIGHT)) ||
+handler.c:            (CLAN_LEVEL(ch) <= 1)) {
+history.c:     case CHAN_CLAN :
+history.c:			  (CLAN(d->character) == CLAN(from)) &&
+history.c:			  (CLAN_LEVEL(d->character) >= level))
+history.c:			  add_history(buf, from, &GET_HISTORY(d->character, CHAN_CLAN));
+history.c:     case CHAN_CLAN : /* Clantell 10 */
+history.c:	  sprintf(buf, "#mClan Tell History#N\r\n");
+interpreter.c:ACMD(do_worship); ACMD(do_redit); ACMD(do_clan); ACMD(do_land);
+interpreter.c:ACMD(do_clantell); ACMD(do_sitename); ACMD(do_ocsrsave); ACMD(do_eedit);
+interpreter.c:ACMD(do_pose); ACMD(do_temp); ACMD(do_oedit); ACMD(do_count);ACMD(do_claneq);
+interpreter.c:  { "clan"       , POS_SLEEPING , do_clan     , 1,           0 },
+interpreter.c:  { "ctell"      , POS_SLEEPING , do_clantell , 1,           0 },
+interpreter.c:  { "claneq"     , POS_DEAD     , do_claneq   , LEVEL_DEITY, 0 },
+interpreter.c:  extern int r_newbie_clan;
+interpreter.c:      if ((CLAN(d->character) == r_newbie_clan) &&
+interpreter.c:	  (CLAN_LEVEL(d->character) < 5) &&
+interpreter.c:	   CLAN(d->character) = -1;
+interpreter.c:	   CLAN_LEVEL(d->character) = 0;
+interpreter.c:      if ((CLAN(d->character) >= 0) && !PLR_FLAGGED(d->character,PLR_INVSTART))
+interpreter.c:        send_to_clan(d-> character, "#m$n entering game.#N\r\n");
+limits.c:extern struct clan_data *clan_list;
+limits.c:	  /* Online Clan Power Tracking */
+limits.c:	  if (!IS_NPC(ch) && (CLAN(ch) >=0) && (CLAN_LEVEL(ch) > 1))
+limits.c:	    clan_list[CLAN(ch)].on_level += 1;
+limits.c:  clan_update();
+magic.c:extern struct clan_data *clan_list;
+magic.c:ASPELL(spell_clan_recall)
+magic.c:    if (CLAN(victim) < 0) {
+magic.c:	 send_to_char("You aren't in a clan!!!\r\n", victim);
+magic.c:    if (CLAN_LEVEL(victim) < 2) {
+magic.c:	 send_to_char("You aren't in the clan yet!!!\r\n", victim);
+magic.c:    loc_nr = clan_list[CLAN(victim)].recall;
+magic.c:	send_to_char("You can't seem to find your clan...\r\n", victim);
+shop.c:   if (CLANEQ(temp1))
+shop.c:	if ((CLANEQ_CLAN(temp1) != CLAN(ch)) ||
+shop.c:            (CLAN_LEVEL(ch) <= 1)) {
+shop.c:	     sprintf(buf, "%s : You can't buy that clan's items.\r\n", GET_NAME(ch));
+shop.c:   if (CLANEQ(temp1)) {
+shop.c:	sprintf(buf, "%s I don't buy those clan items", GET_NAME(ch));
+spec_assign.c:SPECIAL(claneq_shopkeeper);
+spec_assign.c:   ASSIGNMOB(3097, claneq_shopkeeper);
+spec_procs.c:SPECIAL(claneq_shopkeeper)
+spec_procs.c:  struct obj_data *claneq, *newobj, *oldobj;
+spec_procs.c:  extern struct obj_data *claneq_list;
+spec_procs.c:  if (!claneq_list) return(FALSE);
+spec_procs.c:    if (CLAN_LEVEL(ch) <= 1) {
+spec_procs.c:      send_to_char("You need to be in a clan to buy clan items.\r\n", ch);
+spec_procs.c:    for (claneq = claneq_list; claneq; claneq = claneq->next) {
+spec_procs.c:	 if (CLANEQ_CLAN(claneq) == CLAN(ch) &&
+spec_procs.c:	     (CLANEQ_EX(claneq) != -1)) {
+spec_procs.c:	      i = real_object(CLANEQ_EX(claneq));
+spec_procs.c:		      claneq->short_description,
+spec_procs.c:		      claneq->obj_flags.level,
+spec_procs.c:    if (CLAN_LEVEL(ch) <= 1) {
+spec_procs.c:      send_to_char("You need to be in a clan to buy clan items.\r\n", ch);
+spec_procs.c:    for (claneq = claneq_list; claneq; claneq = claneq->next) {
+spec_procs.c:	 if (CLANEQ_CLAN(claneq) == CLAN(ch) &&
+spec_procs.c:	     (CLANEQ_EX(claneq) != -1))
+spec_procs.c:    if (claneq) {
+spec_procs.c:      if ( (j = real_object(CLANEQ_EX(claneq))) < 0) {
+spec_procs.c:      if (GET_LEVEL(ch) < claneq->obj_flags.level) {
+spec_procs.c:      if ((IS_CARRYING_W(ch) + claneq->obj_flags.weight) > CAN_CARRY_W(ch)) {
+spec_procs.c:	newobj = read_object(claneq->item_number, REAL);
+spec_procs.c:    /* Check clan first */
+spec_procs.c:    if (GET_ITEM_VALUE(obj, 2) && CLAN(ch) != real_clan(GET_ITEM_VALUE(obj, 2))) {
+spec_procs.c:      send_to_char("You cannot go into other's clanhouses.\r\n", ch);
+spec_procs.c:      /* clan level */
+spec_procs.c:	       CLAN_LEVEL(ch) < GET_ITEM_VALUE(obj, 3)) {
+spec_procs.c:      send_to_char("Your clan rank is too low to go in there.\r\n", ch);
+spellconst.c:    "clan recall",
+spell_parser.c:    case SPELL_CLAN_RECALL:
+spell_parser.c:      MANUAL_SPELL(spell_clan_recall); break;
+spell_parser.c:    spello(SPELL_CLAN_RECALL, MAG_MANUAL, POS_STANDING, 30, 13, TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, NULL);

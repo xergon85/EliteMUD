@@ -1,0 +1,440 @@
+#5200
+ringmail vest~
+a ringmail vest~
+A vest made of iron rings lies heaped on the floor.~
+~
+9 12 0 ag ad
+6 0 0 0 0 0
+60 12000 400
+A
+17 -1
+#5201
+helm iron~
+an iron helm~
+An iron helm has been left on the ground.~
+~
+9 1 aeim 0 ae
+7 0 0 0 0 0
+10 5000 800
+A
+18 -2
+#5202
+gauntlets iron~
+a pair of iron gauntlets~
+A pair of iron gauntlets rests heavily on the ground.~
+~
+9 1 aeim 0 ah
+7 0 0 0 0 0
+10 2200 900
+A
+18 -3
+A
+19 1
+#5203
+sleeves iron~
+a pair of iron sleeves~
+A set of iron sleeves lies on the ground.~
+~
+9 1 aeim 0 ai
+7 0 0 0 0 0
+10 2450 500
+A
+18 -4
+A
+19 2
+#5204
+boots iron~
+a pair of iron boots~
+A pair of iron boots has been left here.~
+~
+9 1 0 0 ag
+4 0 0 0 0 0
+6 800 200
+A
+18 -1
+A
+2 -2
+#5205
+greaves iron~
+a set of iron greaves~
+A set of iron greaves lie here unattended.~
+~
+9 1 aeim 0 af
+7 0 0 0 0 0
+10 5400 210
+A
+18 -3
+A
+2 -3
+#5206
+girth iron~
+an iron girth~
+A small iron girth lies at your feet.~
+~
+9 1 0 0 al
+4 0 0 0 0 0
+6 4200 600
+#5207
+breast plate iron~
+a battered iron breast plate~
+A battered iron breast plate lies here.~
+~
+9 1 0 0 ad
+5 0 0 0 0 0
+125 13000 150
+A
+18 -6
+#5208
+shield iron~
+a sturdy iron shield~
+A small, but sturdy, iron shield has been left here.~
+~
+9 1 0 gh aj
+5 0 0 0 0 0
+5 500 1000
+A
+23 -2
+A
+24 -2
+#5210
+potion black~
+a black potion~
+A jet black potion sits upright waiting to be taken.~
+~
+10 12 0 fg a
+16 4 36 39 0 0
+5 6000 1000
+#5211
+potion orange~
+an orange potion~
+A small orange potion lies here.~
+~
+10 12 0 fg a
+20 44 -1 -1 0 0
+10 7500 200
+#5213
+staff serpentine~
+a green serpentine staff~
+A green serpentine staff has been left here.~
+~
+4 15 0 fg ao
+15 2 2 23 0 0
+12 6600 300
+#5214
+ball quartz~
+a smooth quartz ball~
+A smooth quartz ball lies here gleaming.~
+~
+1 10 0 g ao
+0 0 72 0 0 0
+30 3050 950
+#5215
+scroll tattered~
+a tattered scroll~
+A worn and tattered scroll has been left here.~
+~
+2 9 0 g a
+24 24 44 4 0 0
+15 11000 4000
+#5216
+scroll bound~
+a bound scroll~
+A bound scroll of detection lies at your feet.~
+~
+2 9 0 g a
+15 18 19 20 0 0
+15 4200 100
+#5217
+flute silver~
+a silver flute~
+A brilliant silver flute glimmers from beneath a rock.~
+~
+4 25 0 ag ao
+18 2 2 7 0 0
+3 1500 800
+#5218
+talisman demon~
+a demon-faced talisman~
+A demon-faced talisman glares at you angrily.~
+~
+9 1 0 agh ac
+5 0 0 0 0 0
+11 2500 150
+A
+1 -10
+A
+2 -8
+#5219
+venison chunk~
+a chunk of venison~
+A large chunk of venison sits here, ready to be eaten.~
+~
+19 1 0 0 a
+24 0 0 0 0 0
+20 100 20
+#5220
+fountain cracked~
+a large cracked fountain~
+~
+A pool of blood lies in the bottom of the fountain.~
+23 1 0 ghm 0
+10 10 13 1 0 0
+0 0 0
+#5221
+two-handed two sword~
+a two-handed sword~
+A nice two-handed sword hangs on a hook in the wall.~
+~
+5 14 abefijmn 0 an
+0 3 6 3 0 0
+22 5500 800
+A
+18 -3
+A
+19 4
+#5222
+robe black silk~
+a black silk robe~
+A black silk robe lies heaped in one corner.~
+~
+9 1 0 0 ak
+1 0 0 0 0 0
+6 1300 500
+#5223
+cloak green~
+a dark green cloak~
+A beautiful dark green cloak has been dropped here by someone.~
+~
+9 27 0 ag ac
+0 0 0 0 0 0
+12 4500 400
+A
+13 8
+A
+17 -5
+#5224
+seal ebony~
+an engraved ebony seal~
+A small, engraved ebony seal is here.~
+~
+18 1 0 m ao
+30 0 0 0 0 90
+2 500 20
+#5225
+desk curved~
+the desk~
+~
+~
+15 1 0 0 0
+100 13 5224 0 0 0
+0 0 0
+#5226
+seal ivory~
+an engraved ivory seal~
+A small, engraved ivory seal lies here.~
+~
+18 1 0 m ao
+31 0 0 0 0 90
+2 500 20
+#5227
+cabinet glass~
+the glass cabinet~
+~
+~
+15 1 0 0 0
+500 13 5226 0 0 0
+0 0 0
+#5228
+arm rotted~
+a half-rotted arm~
+A half-rotted arm floats lazily past your feet.~
+~
+19 1 0 0 a
+50 0 0 1 0 0
+20 0 10
+#5230
+stone pale blue~
+a pale blue stone~
+A pale blue stone sits here.~
+~
+8 1 0 g ao
+0 0 0 0 0 0
+10 1500 600
+A
+1 1
+#5231
+stone scarlet blue~
+a scarlet and blue stone~
+A pretty scarlet and blue stone has been dropped here.~
+~
+8 1 0 g ao
+0 0 0 0 0 0
+10 1500 600
+A
+3 1
+#5232
+stone blue incandescent~
+an incandescent blue stone~
+A small incandescent blue stone lies here.~
+~
+8 1 0 g ao
+0 0 0 0 0 0
+10 1500 600
+A
+4 1
+#5233
+stone red deep~
+a deep red stone~
+Someone has left a deep red stone here.~
+~
+8 1 0 g ao
+0 0 0 0 0 0
+10 1500 600
+A
+2 1
+#5234
+stone pink~
+a pink stone~
+A tiny pink stone lies at your feet.~
+~
+8 1 0 g ao
+0 0 0 0 0 0
+10 1500 600
+A
+5 1
+#5235
+stone pearly white~
+a pearly white stone~
+A lovely, pearly white stone has been carelessly left here.~
+~
+8 1 0 g ao
+0 0 0 0 0 0
+10 870 60
+A
+13 1
+#5236
+stone lavender pale~
+a pale lavender stone~
+A beautiful pale lavender stone lies here.~
+~
+8 1 0 gh ao
+0 0 0 0 0 0
+10 430 60
+A
+24 10
+#5237
+stone lavender green~
+a lavender and green stone~
+A stunning lavender and green stone rests on the ground.~
+~
+8 1 0 gh ao
+0 0 0 0 0 0
+10 4700 600
+A
+24 15
+#5238
+stone rose dusty~
+a dusty rose stone~
+A stone is here, sort of a dusty rose color and very pretty.~
+~
+8 1 0 g ao
+0 0 0 0 0 0
+10 980 60
+A
+17 -1
+#5239
+stone grey dull~
+a dull grey stone~
+You can barely make out a dull grey stone on the ground.~
+~
+8 1 0 0 ao
+0 0 0 0 0 0
+10 20 200
+#5240
+stone purple vibrant~
+a vibrant purple stone~
+A stunningly vibrant purple stone attracts your attention.~
+~
+8 20 0 gh ao
+0 0 0 0 0 0
+10 1200 1000
+A
+13 -50
+#5241
+stone pink green~
+a pink and green stone~
+A bright pink and green stone has been left here.~
+~
+8 10 0 gh ao
+0 0 0 0 0 0
+10 660 100
+A
+18 -5
+#5242
+stone green pale~
+a pale green stone~
+A pale green stone lies here collecting dust.~
+~
+8 10 0 gh ao
+0 0 0 0 0 0
+10 710 100
+A
+19 -5
+#5243
+stone clear~
+a clear stone~
+An odd clear stone lies at your feet.~
+~
+8 6 0 gh ao
+0 0 0 0 0 0
+10 890 100
+A
+17 -3
+#5244
+stone irridescent~
+an irridescent stone~
+A large irridescent stone has been left here.~
+~
+8 21 0 gh ao
+0 0 0 0 0 0
+10 370 100
+A
+13 -100
+#5250
+mandolin~
+a mandolin~
+A mandolin lies against the wall.~
+~
+4 8 0 g ao
+13 3 3 15 0 0
+20 1000 100
+#5251
+harp golden~
+a golden harp~
+A battered golden harp has been tipped over.~
+~
+4 9 0 g ao
+18 1 1 6 0 0
+100 1500 800
+#5252
+wristguard serpentine metal coil thalosobj~
+a serpentine wristguard~
+Pitted, scarred metal lies here in a coil.~
+~
+9 5 0 adg am
+2 0 0 0 0 0
+2 100 100
+E
+wristguard metal coil serpentine~
+A thick coil of metal, stained with verdigris and hammered into a
+remarkable likeness of a snake, lies in your hands. The eyes and fangs
+are made of quartz, and when light plays off them, you'd swear the
+little snake could come alive and sink its fangs into the flesh of your
+palm......
+~
+A
+18 1
+A
+19 1
+#99999
+$~

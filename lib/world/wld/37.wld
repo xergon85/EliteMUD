@@ -1,0 +1,1699 @@
+#3700
+Crypt Entrance~
+   You enter into a musty smelling anteroom from the main entrance to the 
+crypt.  Strangely enough you don't see any indication of coffins or corpses
+of any type. Along one wall are ledges that look like they might at one time
+have held a body, but they have long since been removed. In one corner you 
+do see a very old pile of bones.  Above the bones on the wall you can 
+barely make out a message scrawled there.  Maybe you should 'read message'.
+~
+37 cd 0
+D2
+~
+~
+0 -1 3797
+D5
+~
+~
+0 0 3706
+E
+message writing~
+Beware of the Trogs, they were to much for me and this is as far as I could
+make it.  They busted my legs, but I killed them.  I was stupid to go down
+there before I was 5th level.  I hope this message saves someone from the
+horrible pain that I am fe..........  The message ends in a dark brown stain.
+~
+S
+#3706
+Dim Cavern~
+   You come down into a tremendous cave-in to the south.  It isn't clear how 
+long ago the earth shifted and the roof of the tunnel collapsed, but it is
+clear that no further travel to the south is possible this way.  You spot
+a few bones and pieces of broken equipment here, and the shadows your light
+cast off the large stones among those that block your passage seem to dance
+and flicker evilly.  You have a strong urge to flee.
+~
+37 acd 0
+D3
+There seems to be an irregular shape here, hmm maybe a secret passage.
+~
+passage secret~
+3 -1 3707
+D4
+~
+~
+0 0 3700
+S
+#3707
+Ambush!~
+    Well, you've found an explanation for the broken bones. A party of
+well armed troglodytes have marked your travel down the road and have been
+waiting patiently for you to arrive. They seem to have come from a small hole
+in the west wall you hadn't noticed before, as it was partially hidden by one
+of the large rocks that has fallen from the ceiling.
+~
+37 d 1
+D1
+~
+secret passage~
+3 -1 3706
+D3
+~
+~
+0 -1 3708
+S
+#3708
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading to the east and west. The tunnel floor has been worn smooth by
+the passage of many feet.
+~
+37 d 1
+D1
+~
+secret~
+0 -1 3707
+D3
+~
+~
+0 -1 3709
+S
+#3709
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading to the north and east. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 d 1
+D0
+~
+~
+0 -1 3710
+D1
+~
+~
+0 -1 3708
+S
+#3710
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading in all four compass directions. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 d 1
+D0
+~
+~
+0 -1 3712
+D1
+~
+~
+0 -1 3711
+D2
+~
+~
+0 -1 3709
+D3
+~
+~
+0 -1 3711
+S
+#3711
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading to the east and west. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 d 1
+D1
+~
+~
+0 -1 3710
+D3
+~
+~
+0 -1 3710
+S
+#3712
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading in all four compass directions. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 d 1
+D0
+~
+~
+0 -1 3714
+D1
+~
+~
+0 -1 3713
+D2
+~
+~
+0 -1 3710
+D3
+~
+~
+0 -1 3713
+S
+#3713
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading to the east and west. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 d 1
+D1
+~
+~
+0 -1 3712
+D3
+~
+~
+0 -1 3712
+S
+#3714
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading west and south. The tunnel floor has been worn smooth by the
+passage of many feet.
+~
+37 d 1
+D2
+~
+~
+0 -1 3712
+D3
+~
+~
+0 -1 3715
+S
+#3715
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading to the east and west. The tunnel floor has been worn
+smooth by the passage of many feet. There is a small hole in the floor here.
+~
+37 d 1
+D1
+~
+~
+0 -1 3714
+D3
+~
+~
+0 -1 3716
+S
+#3716
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading east, west and south. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 d 1
+D1
+~
+~
+0 -1 3715
+D2
+~
+~
+0 -1 3717
+D3
+~
+~
+0 -1 3714
+S
+#3717
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading to the north and west. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 d 1
+D0
+~
+~
+0 -1 3716
+D3
+~
+~
+0 -1 3718
+S
+#3718
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading in all four compass directions. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 d 1
+D0
+~
+~
+0 -1 3719
+D1
+~
+~
+0 -1 3717
+D2
+~
+~
+0 -1 3719
+D3
+~
+~
+0 -1 3721
+S
+#3719
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading to the west and south. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 d 1
+D2
+~
+~
+0 -1 3718
+D3
+~
+~
+0 -1 3720
+S
+#3720
+Spider Cave~
+    This might have been a troglodyte cave at one time, but it is currently
+inhabited by a couple of really hungry looking cave spiders. It's hard to read
+their expressions, but they seem to be looking at you in a manner that implies
+you are going to be lunch. You notice a lot of broken bones on the floor here,
+and there are some partially drained troglodyte corpses up in the webbing that
+is suspended from the ceiling.
+~
+37 d 1
+D1
+~
+~
+0 -1 3719
+S
+#3721
+Caves of the Troglodytes~
+    You have entered a small, smelly cave. There are bits of junk scattered
+about the dirty floor, personal things of the cave's occupant - a large and
+particularly evil looking troglodyte. The conditions he is living in are
+pitiful, and you turn your nose in disgust at the remains of a rotted tunnel
+rat that he discards as you enter. Looks like he's found a more appetizing
+meal.
+~
+37 ad 1
+D1
+~
+~
+0 -1 3718
+D3
+~
+~
+0 0 3722
+S
+#3722
+Caves of the Troglodytes~
+    This cave is really nothing more than a slightly larger tunnel than most,
+but it serves as an outpost for several troglodyte watchmen, who don't seem to
+think much of your visit. They don't like your light very much. In fact, from
+their behavior you might even think they don't like you!
+~
+37 ad 1
+D1
+~
+~
+0 -1 3721
+D3
+~
+~
+0 -1 3723
+S
+#3723
+Caves of the Troglodytes~
+    You seem to have stumbled upon an outpost of the troglodytes that live in
+this region. In fact, from the sounds and glimpses to movement you see to the
+west, you might have stumbled upon a troglodyte settlement. There are several
+large troglodytes here will be glad to show you around. Well, they might be
+willing to at least carry bits of you around, after they're done taking you
+apart.
+~
+37 ad 1
+D1
+~
+~
+0 -1 3722
+D3
+~
+~
+0 -1 3728
+S
+#3724
+Caves of the Troglodytes~
+    This cave is apparently home to a bunch of real slobs. Not surprisingly,
+it is adolescent troglodytes that live here. There are pieces of broken bone
+and little bits of metal and glass scattered about the floor, as well as the
+"valuables" of the cave's residents. You can hear the sounds of metal hitting
+metal coming from the south.
+~
+37 ad 1
+D0
+~
+~
+0 -1 3725
+D1
+~
+~
+0 -1 3723
+D3
+~
+~
+0 -1 3727
+E
+valuables~
+There are bits of broken armor, the skull of a tunnel rat, pieces of string
+and other such items of little worth.
+~
+S
+#3725
+Caves of the Troglodytes~
+    This cave is clearly a practice area for young troglodytes to hone their
+skills of maiming and killing. The cave wall is an impressive dark brown -
+dried blood from the less successful of those tutored here. Apparently they
+play-fight awfully rough. The broken weapons and scraps of armor lying about
+testify to this fact as well. The only exit is to the north.
+~
+37 ad 1
+D2
+~
+~
+0 -1 3724
+D3
+~
+~
+0 -1 3726
+S
+#3726
+Caves of the Troglodytes~
+    Mmm, you can smell some delicious tunnel rat stewing here, a cave that is
+quite apparently the cooking area for the troglodytes living around here.
+There are a few pots and pans here, though they are barely recognizable as
+such. The small fire under the pot from which that yummy rat smell is being
+emitted is barely enough to see by, but you can detect some troglodyte matrons
+slaving over the cookery. They seem to think you'd make a nice addition to the
+meal they're preparing. There is an exit to the south, and you hear what might
+be the clatter of weapons coming from the east.
+~
+37 d 1
+D0
+~
+~
+0 -1 3730
+S
+#3727
+Caves of the Troglodytes~
+    It's yet another troglodyte strong point. From the density of these things,
+you'd have to think the troglodyte people were constantly under attack. Who
+could be invading their homeland? You realize it's probably adventurers like
+you they guard themselves against. The cave is large and has two exits, one
+each to the north and south. There is a funny, slightly unpleasant smell
+coming from the north.
+~
+37 ad 1
+D0
+~
+~
+0 -1 3726
+D2
+~
+~
+0 -1 3730
+S
+#3728
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading to the north, east and west. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 ad 1
+D0
+~
+~
+0 -1 3724
+D1
+~
+~
+0 -1 3723
+D3
+~
+~
+0 -1 3729
+S
+#3729
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading to the south, east and west. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 ad 1
+D1
+~
+~
+0 -1 3728
+D2
+~
+~
+0 -1 3725
+D3
+~
+~
+0 -1 3726
+S
+#3730
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading to the north, south and east. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 ad 1
+D0
+~
+~
+0 -1 3727
+D1
+~
+~
+0 -1 3731
+D2
+~
+~
+0 -1 3726
+S
+#3731
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading to the west and south. The tunnel floor has been worn smooth by
+the passage of many feet.
+~
+37 d 1
+D2
+~
+~
+0 -1 3732
+D3
+~
+~
+0 -1 3730
+S
+#3732
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading to the north and south. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 ad 1
+D0
+~
+~
+0 -1 3731
+D2
+~
+~
+0 -1 3733
+S
+#3733
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading north and west. The tunnel floor has been worn smooth by the
+passage of many feet.
+~
+37 d 1
+D0
+~
+~
+0 -1 3732
+D3
+~
+~
+0 -1 3734
+S
+#3734
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading to the east and west. The tunnel floor has been worn smooth by
+the passage of many feet.
+~
+37 d 1
+D1
+~
+~
+0 -1 3733
+D3
+~
+~
+0 -1 3740
+S
+#3735
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading in all four compass directions. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 ad 1
+D0
+~
+~
+0 -1 3736
+D1
+~
+~
+0 -1 3735
+D2
+~
+~
+0 -1 3735
+D3
+~
+~
+0 -1 3738
+S
+#3736
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading in all four compass directions. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 ad 1
+D0
+~
+~
+0 -1 3732
+D1
+~
+~
+0 -1 3736
+D2
+~
+~
+0 -1 3735
+D3
+~
+~
+0 -1 3729
+S
+#3737
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading in all four compass directions. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 ad 1
+D0
+~
+~
+0 -1 3738
+D1
+~
+~
+0 -1 3739
+D2
+~
+~
+0 -1 3735
+D3
+~
+~
+0 -1 3736
+S
+#3738
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading in all four compass directions. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 ad 1
+D0
+~
+~
+0 -1 3737
+D1
+~
+~
+0 -1 3731
+D2
+~
+~
+0 -1 3738
+D3
+~
+~
+0 -1 3730
+S
+#3739
+Many Tunnels~
+    This is a twisty underground tunnel with many exits and entrances. The
+ground is more or less even, but the passage walls are so similar in kind that
+it is impossible to differentiate one passage from another by them. There are
+exits leading in all four compass directions. The tunnel floor has been worn
+smooth by the passage of many feet.
+~
+37 ad 1
+D0
+~
+~
+0 -1 3737
+D1
+~
+~
+0 -1 3739
+D2
+There is a sign carved in the south wall. It reads:
+
+       _____
+      /     \
+      | O O |
+       \uuu/
+       /nnn\
+       \___/
+    O____ ____O
+     ____X____
+    O         O
+
+~
+~
+0 -1 3719
+D3
+~
+~
+0 -1 3739
+S
+#3740
+Caves of the Troglodytes~
+    This is the entrance of a large cave, that extends to the west and then
+branches out further to the north. It is likely that you have found the
+beginning of the main troglodyte community, as they are quite numerous here.
+>From their reaction to you, you'd think they are of the opinion you are
+invading their privacy or something. There are three exits - east back into the
+tunnels, west deeper into the caves, and north into the unknown.
+~
+37 d 1
+D0
+~
+~
+0 -1 3742
+D1
+~
+~
+0 -1 3734
+D3
+~
+~
+0 -1 3741
+S
+#3741
+Caves of the Troglodytes~
+    You are in the south westernmost arc of a large cave shaped approximately
+like a donut, with an extremely large column in the center of the cavern. The
+diameter of the column, you estimate, is probably about two-thirds of that of
+the cave itself. It makes for a very strange tunnel-like effect, but it looks
+natural though you have no idea what force of nature might have caused it.
+This is where the troglodytes hone their weapons and repair their armor. From
+the looks of things, it appears as if it's a skill they've been working on for
+some time; though their tools are limited their armor and weapons are in
+excellent shape. Maybe the Repair Guy had some troglodyte blood, who knows?
+As you enter the cave, the many troglodytes working in here eye your armor and
+weapons appreciatively.
+~
+37 d 1
+D0
+~
+~
+0 -1 3748
+D1
+~
+~
+0 -1 3740
+D2
+~
+~
+0 0 3746
+S
+#3742
+Caves of the Troglodytes~
+    This is the northeastern cave of a linked set of four caves, which could
+also be characterized as a single cave with an awfully big column in the
+center.  From what you can tell, the cave is shaped more or less like a big
+donut. In this section of the cave, female troglodytes are working on
+extracting those vital vitamins and minerals from recent kills, by crushing
+the bones into a powder which gets mixed into an occasional meal. There are
+a couple of young trogs running around here, annoying those working. All this
+activity ceases when you enter, and they turn to the task of defending their
+home. In addition to the exits along the cave to the west and south.
+~
+37 d 1
+D2
+~
+~
+0 -1 3740
+D3
+~
+~
+0 -1 3748
+S
+#3743
+Caves of the Troglodytes~
+    This cave appears to be the nursery. Normally, the troglodyte young and
+their guardians are here, playing games and learning new skills. The cave is
+entirely unlit normally, and the presence of your light source appears to be
+the brightest thing some of the little trogs have ever seen. Again, it strikes
+you that you might be trespassing. There is a larger cave off to the south,
+and there are also cavern to the north and west.
+~
+37 d 1
+D0
+~
+~
+0 -1 3744
+D2
+~
+~
+0 -1 3747
+D3
+~
+~
+0 -1 3745
+S
+#3744
+Caves of the Troglodytes~
+    This is a smaller cave than any of the others in this area. It appears to
+be a hidden twin strong point to the one directly east of here, from which the
+cave you are currently in is not clearly visible. Ordinarily, this position
+would be occupied by troglodytes watching over the other strong point to the
+east, preparing to reinforce them in case of any trouble.
+~
+37 d 1
+D2
+~
+~
+0 -1 3743
+D3
+~
+~
+0 -1 3743
+S
+#3745
+Caves of the Troglodytes~
+    You are in the female troglodytes sleeping quarters - as nice a place as
+you think you've ever seen, for a cave. It looks like the place has been
+cleaned with a toothbrush... even the dirt on the cave floor looks clean. The
+rocks are shiny and sparkle at you, hinting at worth in their glittering
+cleanliness, even though you know they are without value. There are ordinarily
+several female troglodytes here, in serious discussion.
+~
+37 d 1
+D1
+~
+~
+0 -1 3743
+S
+#3746
+Caves of the Troglodytes~
+    This large cave is the sleeping quarters of most of the male troglodytes,
+a fact that is evinced more than anything by the bad smell and the large mess.
+How so many creatures who don't believe in bathing could live together in one
+room is beyond comprehension. Perhaps troglodytes have no sense of smell. This
+place is such a mess, you imagine they must have bad vision, too, to tolerate
+it. The cave is normally occupied by a few troglodyte soldiers, catching a nap
+between guard duties.
+~
+37 d 1
+D0
+~
+~
+0 -1 3741
+D2
+~
+~
+0 -1 3709
+D3
+~
+~
+0 0 3747
+S
+#3747
+Caves of the Troglodytes~
+    The cave you are in resembles a tunnel more than anything, and might be
+labeled as such if it weren't so wide. In fact, though, you are in a cavern
+with an extremely large column of natural stone in the middle, which blocks
+the view of the other side of the cavern from your current position. This part
+of the cave is a practice area for adult troglodytes, as there are scraps of
+metal and wood scattered about the floor in silent testimony to past rites of
+supremacy that determine the clan chief. There are exits to the north and east.
+~
+37 ad 1
+D0
+~
+~
+0 -1 3743
+D1
+~
+~
+0 -1 3746
+S
+#3748
+Caves of the Troglodytes~
+    You are now in the northwest arc of a large, donut shaped cave. This is
+likely the place where the soldiers work out their strategy and formations, as
+you can see a bunch of rocks set on a stone "table" (really just a large, flat
+rock), ostensibly the staging grounds for mock battles and strategic plots by
+troglodytes here for many a year, given how smooth the top has now been worn.
+There are also several crude drawings on the wall, though what they are of, it
+is hard to say for sure. The cave continues to the south and east, and there
+are also passageways leading to the west and north.
+~
+37 d 1
+D0
+~
+~
+0 -1 3749
+D1
+~
+~
+0 -1 3742
+D2
+~
+~
+0 -1 3741
+D3
+~
+~
+0 -1 3750
+E
+drawing drawings~
+___| |________________
+|       |   |        |
+|       |      Vkrm  |
+| Gzk!      |        |
+|       |   |________|
+|_______|   |        |
+|           |        |
+|<<<<<<<       Xcwn  |
+|_______    |        |
+|       |   |________|
+|  \|/  |   |        |
+|  -o-  |   |        |
+|  /|\  |            |
+|___________|___ ____|
+              |   |
+              | : |
+              |___|
+~
+S
+#3749
+Caves of the Troglodytes~
+    This is the chief's "private" cave. Apparently being the leader of these
+people has some privileges, at least. The caves furnishings are only slightly
+more ornate here than anywhere else, though, so apparently the job isn't
+exactly loaded with perks. The chief is here, talking with his top fighters
+about prospects of battle. They turn to you, knowing now the battle they had
+been anticipating is already upon them. There is an exit to the south.
+~
+37 ad 1
+D2
+~
+~
+0 -1 3748
+S
+#3750
+Caves of the Troglodytes~
+    This cave is apparently the place where the troglodyte chief receives his
+guests. There is a large case filled with trophies from past victories of the
+troglodyte clan. Among the trophies, you spot a battered Golden Shield, the
+skull of a cave fisher, with some dents and a big hole just over the right
+eye, a small crystal sphere, and dull gray helmet with a plume that was once
+probably white. The mementos here range from the unexpected to the astounding.
+You are impressed by the ability of such a seemingly limited people to have
+defeated such a large and varied set of opponents. You can exit east
+~
+37 ad 1
+D1
+~
+~
+0 -1 3748
+S
+#3760
+The Entrance to The Catacombs~
+   This place feels chilly and faintly damp. It is the burial grounds for many
+prominent and other less prominent citizens of Midgaard. Two huge stone doors
+stand widely open. The place is dimly lit by torches on the walls. A small sign
+is visible on one of the doors. To the south there is a raspberry bush.#N
+~
+37 cd 1
+D0
+Through the doors, the upper Catacombs begin. 
+~
+~
+0 0 3761
+D4
+Stairs lead up to the temple. 
+~
+~
+0 0 3001
+E
+sign~
+The sign reads:  Beware of undead creatures of the dark
+~
+E
+door doors~
+These two huge doors don't seem to have been touched in years.  They must
+be so heavy that none have been able to close them.
+~
+E
+bush raspberry~
+   Behind the raspberry bush you spot a hole. Hmm, seems to be a entrance
+to a cave here. There is a strange deep carving on the stone wall... six
+runes. You translate... 
+
+"M..E..no..A..L?..yes..I..errr..@$#%^...N..and..A..again"
+Yes! It says "Malina!"... What the heck is a Malina?#N
+~
+S
+#3761
+Upper Catacombs~
+   This wide hallway is only dimly lit by torches. Along the north wall,
+there are many alcoves, probably graves of some higher ranking Midgaard
+citizens. The hallway continues to the east and the west.#N
+~
+37 d 0
+D1
+The hallway continues to the east. 
+~
+~
+0 0 3762
+D2
+Through huge stone doors you see the entrance. 
+~
+~
+0 0 3760
+D3
+~
+~
+0 0 3766
+S
+#3762
+The long hallway~
+   Along both sides of this long and cold hallway, there are many more resting
+places for the dead. They have all been tightly sealed though, should anyone by
+any chance want to disturb the rest of the dead. Far to the east end of this
+corridor there is a small staircase leading down into darkness. To the west it
+seems to be lighter - probably the entrance. 
+~
+37 d 0
+D3
+The hallway continues to the west, getting brighter. 
+~
+~
+0 0 3761
+D5
+Small stairs lead down into darkness. 
+~
+~
+0 0 3763
+S
+#3763
+Cellars of Catacombs~
+   Cold and stagnant air fills this place. It smells stale and of death. These
+tunnels must be deep below the city. The only thing that disturbs the silence
+is water dripping down occasionally from the earth ceiling, and muffled screams
+for away. This tunnel continues to the north and west. A small staircase lead
+back up. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3768
+D3
+~
+~
+0 0 3764
+D4
+Stairs lead up to the Catacombs. 
+~
+~
+0 0 3762
+S
+#3764
+The Tunnel~
+   Bones and debris cover the ground in this tunnel. It leads east-west. There
+a iron grate to the north. 
+~
+37 ad 0
+D0
+Through the grate you see mounds of unmoving shapes. 
+~
+grate~
+3 0 3767
+D1
+~
+~
+0 0 3763
+D3
+~
+~
+0 0 3765
+S
+#3765
+The Tunnel of Death~
+   The sense of death is everywhere. In the air, in the ground and in the
+silence, that is only disturbed by occasionally dripping water. The tunnel
+leads east and north. A ladder is secured on the west wall, leading up. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3772
+D1
+~
+~
+0 0 3764
+D4
+A ladder in the west wall leads up. There seems to be light up there. 
+~
+~
+0 0 3766
+E
+ladder~
+The ladder seems strong and well made.  Also very well secured to the wall.
+~
+S
+#3766
+Western End~
+   The western end of this corridor is lit with torches. It continues to the
+east. A ladder leads down into darkness. 
+~
+37 d 0
+D1
+~
+~
+0 0 3761
+D5
+~
+~
+0 0 3765
+E
+ladder~
+The ladder seem strong enough to hold several persons at a time.
+~
+S
+#3767
+The Burial Room~
+   This huge room smells of death, both ancient and very recent. Skeletons and
+semi-decomposed corpses litter the ground. You can hear the squeaks of rats or
+other vermin. There don't seem to be any other exit besides a grate to the
+south. 
+~
+37 0 0
+D2
+~
+grate~
+3 0 3764
+S
+#3768
+Smelly Tunnel~
+   The smell in this tunnel makes even you want to lose your breakfast. Some
+corpses lie in small ponds of water. You can see small things moving on the
+corpses. Just hope there aren't any big things too. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3769
+D2
+~
+~
+0 0 3763
+S
+#3769
+Turning Tunnel~
+   Besides the usual smell and dripping water, nothing specials is found in
+this room. You can continue south or west. 
+~
+37 ad 0
+D2
+~
+~
+0 0 3768
+D3
+~
+~
+0 0 3770
+S
+#3770
+Large Tunnel~
+   This large tunnel connects to all the four bearings. To the east and west,
+the tunnel continues. To north and south there seems to be rooms or caves of
+some sort. 
+~
+37 ad 0
+D0
+To the north a there's a room. 
+~
+~
+0 0 3774
+D1
+~
+~
+0 0 3769
+D2
+You can see a large cave. 
+~
+~
+0 0 3773
+D3
+~
+~
+0 0 3771
+S
+#3771
+Turning~
+   East and south the tunnel goes on. Rats squeaking and running makes the only
+noise. Bones litter and debris cover. 
+~
+37 ad 0
+D1
+~
+~
+0 0 3770
+D2
+~
+~
+0 0 3772
+S
+#3772
+Dark Tunnel~
+   Somehow the earthen walls here seems to suck away the light, shading
+everything, making everything gloomy and cold. This north-south passage also
+feels more humid, like death was breathing not far away. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3771
+D2
+~
+~
+0 0 3765
+S
+#3773
+Large Cave~
+   This large cave is filled with skeletons, corpses, rats and other vermin
+that goes with death. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3770
+S
+#3774
+The Room of the Dead~
+   This cold room differs from the rest of the Catacombs. It has stone walls.
+But that is the only difference. It is still cold and smelly, and though no
+water drips from the ceiling, the air is still humid. In the north, stairs
+descend into deeper darkness. 
+~
+37 ad 0
+D2
+~
+~
+0 0 3770
+D5
+The stairs of stone are cracked and lead only to darkness. 
+~
+~
+0 0 3775
+S
+#3775
+The Lower Catacombs~
+   This place feels even colder, as if the earth itself tries to absorb the
+little warmth that is left, avoiding to freeze to death. Though still there,
+the dripping of water has lessened and the squeaking of vermin too. Besides the
+stairs that lead back up to warmth and life, the way leads to east and west. 
+~
+37 ad 0
+D1
+~
+~
+0 0 3776
+D3
+~
+~
+0 0 3790
+D4
+~
+~
+0 0 3774
+S
+#3776
+Catacomb Tunnel~
+   Nothing distinguish this tunnel from the rest you have seen. The cold is
+still there. And the dread of what is to come. East or west. 
+~
+37 ad 0
+D1
+~
+~
+0 0 3777
+D3
+~
+~
+0 0 3775
+S
+#3777
+Turning~
+   The tunnel turn here. This place feel vaguely familiar. Nowhere to go
+besides west or north. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3778
+D3
+~
+~
+0 0 3776
+S
+#3778
+Catacomb Tunnel~
+   The similarity of this foul place makes it hard to keep bearings. Nothing
+besides old roots and bones makes it hard to find a mark. North or south. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3779
+D2
+~
+~
+0 0 3777
+S
+#3779
+Catacomb T-junction~
+   From here you can go in three directions. You are sure you have been here
+before. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3780
+D2
+~
+~
+0 0 3778
+D3
+~
+~
+0 0 3791
+S
+#3780
+Catacomb Tunnel~
+   The tunnels seem to continue forever. Will it ever end? This tunnel looks
+just like the others. Perhaps little narrower. Or maybe the pressure of the
+ground has oppressed your head. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3781
+D2
+~
+~
+0 0 3779
+S
+#3781
+Turning~
+   The tunnel turn here. This place feel vaguely familiar. Nowhere to go
+besides west or south. 
+~
+37 ad 0
+D2
+~
+~
+0 0 3780
+D3
+~
+~
+0 0 3782
+S
+#3782
+Catacomb Tunnel~
+   Huge piles of bones litter this tunnel. Crawling of them are bugs and small
+creatures of the earth. Creatures that don't need light. Creatures that avoid
+light. 
+~
+37 ad 0
+D1
+~
+~
+0 0 3781
+D3
+~
+~
+0 0 3783
+S
+#3783
+Catacomb T-junction~
+   From here you can go in three directions. You are sure you have been here
+before. 
+~
+37 ad 0
+D1
+~
+~
+0 0 3782
+D2
+~
+~
+0 0 3793
+D3
+~
+~
+0 0 3784
+S
+#3784
+Catacomb Tunnel~
+   Nothing distinguish this tunnel from the rest you have seen. The cold is
+still there. And the dread of what is to come. East or west. 
+~
+37 ad 0
+D1
+~
+~
+0 0 3783
+D3
+~
+~
+0 0 3785
+S
+#3785
+Another Turning~
+   This endless turnings of this tunnel almost makes you dizzy. When will this
+end? Will you get out alive or will you join the rest of the dead? 
+~
+37 ad 0
+D1
+~
+~
+0 0 3784
+D2
+~
+~
+0 0 3786
+S
+#3786
+North-south Tunnel~
+   This tunnel feels little warmer in the air. Many small fungus is growing on
+the walls. Where can they find anything to grow on you wonder. Maybe from the
+corpses of ignorant adventurers. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3785
+D2
+~
+~
+0 0 3787
+S
+#3787
+Catacomb T-junction~
+   From here you can go in three directions. You are sure you have been here
+before. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3786
+D1
+~
+~
+0 0 3795
+D2
+~
+~
+0 0 3788
+S
+#3788
+Low Tunnel~
+   Roots from long dead trees hangs down from the earth ceiling above. You try
+your best to avoid the bugs on them. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3787
+D2
+~
+~
+0 0 3789
+S
+#3789
+Turn in the Tunnel~
+   The air here feels ancient and heavy, as if you are the first to disturb it
+in centuries. That is not true however since you discover tracks of something
+that has dragged itself past here. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3788
+D1
+~
+~
+0 0 3790
+S
+#3790
+Catacomb Tunnel~
+   This tunnel is wide. Cobwebs and roots covers the ceiling and bones and
+other debris cover the ground. You can go east or west. 
+~
+37 ad 0
+D1
+~
+~
+0 0 3775
+D3
+~
+~
+0 0 3789
+S
+#3791
+Catacomb Room~
+   You have entered a large cavelike room. Stone floor covers the ground but
+the ceiling is still earthen and with roots dangling down. The remains of a
+seemly huge stone table lies here, broken and tattered. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3792
+D1
+~
+~
+0 0 3779
+D2
+~
+~
+0 0 3798
+S
+#3792
+Storage Room~
+   This room seems to have been used as a storage room of some sort. Piles of
+old broken wood lies to the north wall. Some unfinished coffins lie to the
+east. A small sign lie on the floor, dusty of age. 
+~
+37 ad 0
+D2
+~
+~
+0 0 3791
+D3
+~
+~
+0 0 3793
+E
+sign~
+It says: Property of Harold & Son
+~
+S
+#3793
+Altar Chamber~
+   This room is dominated by a large altar. Old blood cover the altar, as if
+some obscene rite of offering has taken place here. You also discover blood not
+so old - only a few days at the most. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3783
+D1
+~
+~
+0 0 3792
+D3
+~
+~
+0 0 3794
+S
+#3794
+Storage Room~
+   This seems to be storage room for tools. Shovels and picks lies everywhere.
+All are broken and rusty and of little use now. 
+~
+37 ad 0
+D1
+~
+~
+0 0 3793
+D2
+~
+~
+0 0 3795
+S
+#3795
+Smelly Room~
+   This room smells awful. A large ovenlike structure lies in the middle of
+room. The smell comes from burnt flesh. Broken pots and crockery lines the east
+wall, all empty and dusty. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3794
+D2
+~
+~
+0 0 3796
+D3
+~
+~
+0 0 3787
+S
+#3796
+Empty Room~
+   This room looks empty. Besides dust and dirt there is nothing. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3795
+D1
+~
+~
+0 0 3797
+S
+#3797
+Entrance to the Crypt~
+   A huge stone door is to the north is inscribed with the word 'CRYPTS'.
+Besides that the rooms seems too clean. No dust or bones or debris cover the
+stone floor. 
+~
+37 ad 0
+D0
+~
+door~
+1 -1 3700
+D1
+~
+~
+0 0 3798
+D3
+~
+~
+0 0 3796
+S
+#3798
+Torture Room~
+   This room was made to torture people in. The sight of the room is enough to
+make you shudder. Shackles line the walls. Instruments of torture litter the
+floor, rusty of time. 
+~
+37 ad 0
+D0
+~
+~
+0 0 3791
+D3
+~
+~
+0 0 3797
+S
+#99999
+$~
+	

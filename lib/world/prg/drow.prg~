@@ -1,0 +1,8 @@
+>greet_prog 100~
+ if(isplayer(ch) && !isimmort(ch))
+ {
+ do(mob, "circle " + name(ch));
+ }
+~
+|
+

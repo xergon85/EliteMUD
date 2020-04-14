@@ -1,0 +1,160 @@
+#172
+Minotaur Village~
+17299 75 2
+M 0 17200 5 17203         Minotaur Citizen
+E 1 17218 35 16             Kopesh Sword
+M 0 17200 5 17207 
+E 1 17218 35 16 
+M 0 17200 5 17205
+E 1 17218 35 16 
+M 0 17200 5 17204
+E 1 17218 35 16 
+M 0 17200 5 17210
+E 1 17218 35 16 
+M 0 17201 3 17208           Minotaur Guard
+E 1 17219 10 16               Battle Axe
+M 0 17201 3 17206
+E 1 17219 10 16 
+M 0 17201 3 17202
+E 1 17219 10 16  
+M 0 17202 3 17207            Minotaur Warrior
+E 1 17223 15 5                 Steel Plate
+M 0 17202 3 17216
+E 1 17223 15 5  
+M 0 17202 3 17218
+E 1 17223 15 5
+M 0 17203 1 17217	Minotaur Gatekeeper
+G 1 17201 5		Keep Key
+D 1 17217 1 2		Set Door States at Reset
+D 1 17219 3 2
+M 0 17204 2 17220              Minotaur High Guard
+E 1 17220 15 10                Blue Steel Vambraces
+M 0 17204 2 17219
+E 1 17220 15 10 
+M 0 17205 2 17223               Minotaur Royal Guard
+E 1 17221 10 7                 Red Steel Greaves
+M 0 17205 2 17222
+E 1 17221 10 7 
+M 0 17206 2 17225               Minotaur Elite Guard 
+E 1 17222 5 6                  Crimson Steel Visor
+M 0 17206 2 17225
+E 1 17222 5 6 
+G 1 17210 5		Royal Key
+D 1 17225 1 2		Lock door
+D 1 17226 3 2		Lock door
+M 0 17207 5 17233                Harem Girl
+M 0 17207 5 17233
+M 0 17207 5 17233
+M 0 17207 5 17233
+M 0 17207 5 17233
+M 0 17208 1 17235                Minotaur Butler
+M 0 17209 1 17227                Minotaur Key Holder
+E 1 17262 100 13                  Multi-Colored Key Ring 
+P 1 17202 5 17262                    Red Key
+P 1 17203 5 17262                    Black Key
+P 1 17204 5 17262                    White Key
+P 1 17205 5 17262                    Brown Key
+P 1 17206 5 17262                    Yellow Key
+P 1 17207 5 17262                    Maroon Key
+P 1 17208 5 17262                    Green Key
+P 1 17209 5 17262                    Grey Key
+D 1 17228 1 2
+D 1 17228 3 2
+D 1 17229 1 2
+D 1 17229 3 2
+D 1 17232 1 2
+D 1 17232 3 2
+D 1 17237 1 2
+D 1 17238 3 2
+E 1 17263 5 16                  Huge Maul
+M 0 17210 1 17212                Aegithus 
+E 1 17225 5 5                   Spiked Garde Armor
+E 1 17226 5 7                   Black Minotaur Greaves
+E 1 17227 5 10                  Black Minotaur Vambraces
+E 1 17228 5 16                  Rod of Weaponry
+E 1 17211 10 9                  Minotaur Combat Gloves
+M 0 17211 1 17213                Pythian 
+E 1 17229 20 12                 Pitch Black Cloak
+E 1 17230 15 4                  Black Plate Neckguard
+E 1 17231 10 11                 Shadow Shield
+E 1 17232 5 16                  Nightbringer
+E 1 17212 5 9                   Spiked Gauntlets
+M 0 17212 1 17214                Creon 
+E 1 17233 10 6                  Gold Helm and Visor
+E 1 17234 15 4                  Billowing White Cape
+E 1 17235 20 11                 Huge Tower Shield
+E 1 17236 5 16                  Dawnbringer
+E 1 17213 5 5                   Gilded Gold Breast Plate
+M 0 17213 1 17231                Haemon 
+E 1 17237 10 1                  Gold Rimmed Specs
+E 1 17238 5 2                   Banded Ring
+E 1 17239 5 12                  Minor Globe 
+E 1 17240 5 16                  Gnarled Magius Staff
+E 1 17214 10 13                 Girdle of Many Pouches
+M 0 17214 1 17230                Jocasta 
+E 1 17241 15 12                 Heavy Woolen Robe
+E 1 17242 20 17                 Manual of Healing Arts
+E 1 17243 5 16                  Mithril Mace
+E 1 17244 15 4                  Holy Symbol
+E 1 17224 5 3                   Broach of Life
+M 0 17215 1 17234                Thesus 
+E 1 17245 10 1                  Marble Ring
+E 1 17246 10 8                  Boots of Striding
+E 1 17247 10 12                 Icy White Cloak
+E 1 17215 10 15                 Marble Bracelet
+M 0 17216 1 17239                Balthazar 
+E 1 17248 10 2                  Carved Wooden Ring
+E 1 17249 20 17                 Horn of Life
+E 1 17250 10 13                 Belt of Life
+G 1 17251 5                     Blood Red Stone
+E 1 17216 5 16                  Huge Crossbow
+M 0 17217 1 17238                Astyanax 
+E 1 17252 10 6                  Black Leather Hood
+E 1 17253 20 10                 Black Leather Sleeves
+E 1 17254 10 7                  Black Leather Pants
+E 1 17255 10 16                 Wicked Short Sword
+E 1 17217 15 12                 Small Leather Pack
+M 0 17218 1 17236                Xanthias 
+E 1 17256 5 12                  Major Globe 
+E 1 17257 5 5                   Black Minotaur Chainmail
+E 1 17258 15 14                 Spiked Buckler
+E 1 17259 10 2                  Studded Ring
+E 1 17260 10 6                  Horned Minotaur Helm
+E 1 17200 1 16                  Xanthias's Great Axe
+D 0 17223 1 1
+D 0 17202 2 1
+M 0 17219 1 17209               Innkeeper in Broken Horn
+M 0 17220 1 17209               Citizen getting drunk
+M 0 17221 1 17240               Janitor
+M 0 17222 1 17250               mino in bathroom
+M 0 17223 1 17242               mino guard in guardpost
+M 0 17224 2 17243               Warrior in camp
+M 0 17224 2 17244               Warrior among tents
+M 0 17225 1 17245		Sergeant in tent
+M 0 17226 2 17245		Warrior in tent
+M 0 17226 2 17245		Warrior in tent
+M 0 17227 2 17246               Warrior making his bed
+M 0 17227 2 17246               Warrior making his bed
+M 0 17228 2 17248               Warrior polishing his boots
+M 0 17228 2 17248               Warrior polishing his boots
+M 0 17229 1 17247               Captain in tent
+M 0 17230 1 17247               Lieutenant
+M 0 17231 1 17249               Colonel
+M 0 17232 2 17249		bodyguard
+M 0 17232 2 17249		bodyguard
+S
+#99999
+$~
+
+
+
+
+
+
+
+
+
+
+
+
+

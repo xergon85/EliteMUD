@@ -1,0 +1,268 @@
+#27800
+scroll identify knowledge dragons SDclan~
+a scroll labelled #R'Dragon's Knowledge'#N~
+A glowing scroll has the knowledge of all Dragonkind.~
+~
+2 1 0 64 16385
+12 53 -1 -1 0 0
+1 2500 10
+E
+scroll identify knowledge dragons SDclan~
+The knowledge of the whole of dragonkind is held in the scroll
+ready to be used for identifying valuable discoveries.
+~
+#27801
+potion vial yellow seeinvis dragons eye SDclan~
+a yellow potion labelled #R'Dragon's Eye'#N~
+A small yellow vial in the shape of a Dragon's Eye glares at you.~
+~
+10 0 0 64 16385
+12 19 -1 -1 0 0
+1 400 10
+E
+potion yellow vial dragons eye SDclan~
+This yellow potion will give you the sight of a mighty dragon - the 
+ability to see invisible things!
+~
+#27802
+scroll clan crecall SDrecall~
+a scroll bearing the image of a Dragon~
+A dragon scroll has been left here, but wants to go home!~
+~
+2 1 0 64 16385
+12 109 -1 -1 0 0
+4 1500 10
+E
+scroll dragon~
+The scroll has written a formulae of 'Clan Recall' upon it.
+~
+#27803
+crackers storm dragon spicy sdclan~
+some spicy #RStorm Dragon#N crackers~
+You can see some delicious crackers in the shape of a #RStorm Dragon#G~
+~
+19 0 0 0 1
+15 0 0 0 0 0
+1 15 15
+E
+crackers storm dragon spicy sdclan~
+Not only delicious, but nutritious and able to sustain even 
+the hungriest dragon for many hours. (Rumour has it that the 
+recipe belongs to Amok.)
+~
+#27804
+donut huge purple SDclan~
+a huge donut with #Mpurple#N stuff in the centre~
+A delicious looking donut is enticing you from across the room.~
+~
+19 0 0 0 1
+5 0 0 0 0 0
+1 5 5
+E
+donut huge purple SDclan~
+It is full of some sticky purple stuff, you don't know what it is - but
+it tastes fantastic!
+~
+#27805
+potion white dragons wing SDclan~
+a white potion labelled #R'Dragon's Wing'#N~
+A small white potion flys around here on a tiny pair of dragon's wings.~
+~
+10 0 0 64 16385
+30 45 -1 -1 0 0
+1 2000 50
+E
+potion white dragons wing SDclan~
+Once you can catch hold of it and read the label, you realise that this
+potion will give you the ability to fly!
+~
+#27806
+tankard engraved storm dragon SDclan dark ale~
+an engraved #RStorm Dragons#N tankard~
+A beautifully engraved tanked sits here, full of foamy dark ale.~
+~
+17 0 0 0 1
+8 8 3 0 0 0
+10 10 3
+#27807
+beaker commemorative storm dragon SDclan milk~
+a commemorative #RStorm Dragons#N beaker~
+A large beaker waits for you to take a sip.~
+~
+17 0 0 0 1
+4 4 10 0 0 0
+10 6 3
+#27808
+barrels viking mead SDclan~
+a cluster of barrels with viking runes~
+Several barrels marked with viking runes lie scattered by the storm.~
+~
+23 0 0 ho 0
+999999 999999 17 0 0 0
+6000 30 0
+E
+barrels viking mead SDclan barrel~
+Despite the battering of the storm, some of the stout barrels have
+survived intact. The runes on the barrels are undecipherable, but
+a quick taste from one of them is all it takes to discover that 
+you have struck liquid gold - Its mead!
+~
+#27809
+statue dragons storm sd~
+A Huge dragons statue~
+A Huge statue of a Storm dragon is guarding a cave entrance here.~
+~
+12 114 0 ght 0
+27800 ae 112 2 1 116
+0 0 0
+Proc(guard_object)
+#27810
+chest ornate locker treasure~
+an ornate treasure chest~
+#CA deep chest, carved with hundreds of dragons, lies at your feet.#G~
+~
+15 0 0 ht 0
+1000 0 0 0 0 0
+0 0 0
+E
+chest locker ornate treasure ~
+The treasure chest is made of some peculiar darkened wood, with hundreds
+of beautiful dragons in various poses, carved all over it. There is a 
+small brass plaque inlaid into the top of the chest.
+~
+E
+plaque brass~
+                                                                        
+              #C@===================================@#N                     
+              #C|                                   |#N
+              #C|  #YThis chest is to be used #Ronly#C    |#N                     
+              #C|        #Yfor the storage of#C         |#N                     
+              #C|        #Gpotions #Yand #Gscrolls#C        |#N                     
+              #C|                                   |#N
+              #C|  #YItems placed in here will be#C     |#N                     
+              #C|  #Ylost in the event of a crash#C     |#N                     
+              #C|           #Yor reboot#C               |#N                     
+              #C|                                   |#N                     
+              #C@===================================@#N                     
+                                                                        
+~
+#27811
+altar high storm dragons~
+the high altar of the Storm Dragons~
+#CA huge altar, made of polished marble, dominates the room.#G~
+~
+15 0 0 th 0
+1000 0 0 0 0 0
+0 0 0
+E
+altar high storm dragons~
+The altar is made from a single block of dark marble. Swirling veins 
+of grey, white and red in the heavily polished stone give the altar 
+the appearence of a raging storm. Around the rear of the altar is a 
+deep recess, which glows with magical energy. There is an inscription 
+at the back of the recess, etched into the stone.
+~
+E
+recess inscription~
+                                                     
+          #R________________________ #N             
+          #R\                       \ #N            
+           #R\  #CThis Altar is for#R    \ #N       
+            #R\   #Cthe donation of #R    \ #N      
+             #R\  #Ccursed items only!#R   \ #N     
+              #R\_______________________\ #N        
+                                                     
+~
+#27812
+statue golden sadsam~
+a statue of SadSam~
+A large golden statue of the invincible SadSam towers over you!~
+~
+12 1 0 0 0
+1 0 0 0 0 0
+1 1 1
+E
+statue golden sadsam~
+This statue was erected as a tribute to the mighty Storm Dragon
+SadSam, who won the first ever Storm Dragon Clan Olympics beating
+many great opponents. The statue is incredibly realistic, and
+made of solid gold (it must have taken AGES to carve it! :P). 
+
+On the base is a tiny plaque!
+~
+E
+plaque base~
+The inscription reads:
+
+Work hard - and you can be as great as SadSam!
+
+~
+#27813
+ring storms SDclan~
+the #RRi#rng#N of #RSt#ror#Rms#N~
+A furious stormcloud crowns a large silver ring.~
+~
+9 60 cdhkops ag ab
+15 0 0 0 0 0
+1 30000 5000
+E
+ring storms SDclan~
+The fury of a storm is captured at the centre of this beautiful ring.
+Boiling grey and black clouds swirl angrily atop the silver circle, 
+and tiny flashes of lightning sparkle and glitter.
+
+The ring is worn by trusted Storm Dragon members, who wish to carry 
+a piece of the Storm with them at all times.
+~
+A
+12 100
+#27814
+dragonfire dragon fire SDclan flash~
+a #RFla#rsh#N of #RDra#rgon#Rfi#rre#N~
+A flash of dragonfire burns into the ground.~
+~
+1 100 0 a a
+0 0 -1 0 0 0
+14 10000 0
+E
+dragonfire dragon fire flash sdclan~
+The burst of dragonfire is too bright to look at directly, and 
+brightly illuminates the whole area with a shimmering red-white 
+light. A blast of heat emanates from the dragonfire, like the
+heat of an open forge, or a volcano.
+~
+A
+12 80
+A
+18 2
+#27815
+blade stormbringer SDClan artefact~
+the #RSt#rorm#Rbr#rin#Rger#N~
+The ancient Stormbringer lies here radiating power.~
+~
+5 85 acdegiklmos agk an
+0 7 10 7 0 0
+20 45000 10000
+E
+stormbringer sdclan artefact~
+The Stormbringer is a legendary weapon in which is captured the infinite
+might of the DragonLords of Old. It is an enormous spiked mace, made of
+a reddish crystalline material and glowing from within with dragonfire. A
+deep groaning ROOOOOAAAAAAAAAR escapes the Stormbringer as it moves
+through the air, and when it strikes an enemy there is a detonation, like
+a thunderclap!
+
+The making of a Stormbringer is incredibly difficult, and requires 
+centuries of Dragon Lore, as well as a mastery over dragonkind and some 
+rare items of a magical nature. Although the art was lost for centuries, 
+the current rulers of the Storm Dragons have rediscovered it, and the
+world will tremble anew under the furious pounding of the Stormbringer!
+~
+A
+24 10
+A
+19 15
+A
+18 4
+#99999
+$~

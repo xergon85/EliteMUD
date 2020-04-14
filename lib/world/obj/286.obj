@@ -1,0 +1,151 @@
+#28600
+fountain~
+a fountain~
+A fountain shaped in an Ankh pours water.~
+~
+23 0 0 ghm 0
+999999 999999 15 0 0 0
+9999 0 0
+E
+fountain~
+The fountain looks old and is made from stone.
+~
+#28601
+fountain blood~
+a blood fountain~
+A horned skull is spurting blood into a large bowl.~
+~
+23 0 0 ghm 0
+999999 999999 13 0 0 0
+9999 0 0
+E
+fountain blood~
+It is the horned Shamhna skull,fastened on a bone pedestal. Fresh blood 
+is dripping from it's opened mouth into a large bowl, made from black 
+marble.
+~
+#28602
+alcohol skullbowl bowl ~
+#wa Skullbowl full of pure alcohol#N~
+A strange looking cup has been dropped here.~
+~
+17 0 0 n a
+8 8 7 0 0 0
+5 15 10
+E
+skullbowl bowl alcohol~
+It's a skullshaped bowl with a bone handle.
+~
+#28603
+alcohol skull canteen~
+#wa Skull#N~
+A white skull lies on the ground and some red liquid is leaking from it.~
+~
+17 0 0 n a
+80 80 15 0 0 0
+20 45 15
+E
+canteen skull~
+It's a canteen in the shape of a skull.
+~
+#28604
+corpse fried yummy~
+#rthe corpse a'la #MS#rha#Mm#rhn#Ma#N~
+A fried corpse has been left here.  It smells yummy.~
+~
+19 0 0 n a
+10 0 0 0 0 0
+1 10 10
+E
+corpse fried yummy~
+It is a finely prepared, tasty looking corpse.
+~
+#28605
+meat human fresh~
+#ra piece of fresh human meat#N~
+A piece of a human is laying on the ground, still dripping blood.~
+~
+19 0 0 n a
+10 0 0 0 0 0
+1 10 10
+E
+meat human fresh~
+It is a piece of fresh human meat, still soaked with blood.
+~
+#28606
+scroll recall demon~
+a scroll named 'Demon Wings'~
+You see a glowing scroll with demons drawn on it.~
+~
+2 1 0 g ao
+12 42 -1 -1 0 0
+4 1000 10
+E
+scroll recall demon~
+A glowing scroll has been left on the ground.
+~
+#28607
+elixir potion blood~
+an elixir of #Rvampire blood#N~
+A thin flask filled with blood is floating in the air.~
+~
+10 0 0 g ao
+30 45 -1 -1 0 0
+1 2000 50
+E
+elixir vampire blood~
+It is a flask containing a red liquid. It's blood. Vampire blood.
+~
+#28608
+crecall clan~
+the Death Portal scroll~
+A mysterious looking scroll is laying on the ground.~
+~
+2 1 0 g ao
+12 109 -1 -1 0 0
+4 1500 10
+E
+crecall clan~
+As you unroll the scroll you see a picture of the Shamhna death 
+castle in the middle of it.
+~
+#28609
+flask eye~
+a flask labeled #y'The Evil Eye'#N~
+A small flask made of yellow glass seems as if it was starring at you.~
+~
+10 0 0 g ao
+12 19 -1 -1 0 0
+1 400 10
+E
+flask eye~
+It is a small flask made from yellow glass. It is labelled with a 
+grim looking eye.
+~
+#28610
+book identify necronomicom~
+The Necronomicom~
+A very thick book with leather covers has been left here.~
+~
+2 1 0 g ao
+12 53 -1 -1 0 0
+1 2500 10
+E
+book identify necronomicom~
+It is a thick book with leather covers. It contains  
+information about various things.
+~
+#28611
+wine skullbowl bowl ~
+#wa Skullbowl full of red wine#N~
+A strange looking cup has been dropped here.~
+~
+17 0 0 n a
+8 8 2 0 0 0
+5 15 10
+E
+skullbowl bowl wine~
+It's a skullshaped bowl with a bone handle.
+~
+#99999
+$~

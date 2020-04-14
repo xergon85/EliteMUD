@@ -1,0 +1,695 @@
+#67
+Catwalk and Cavern areas of Tynstri~
+6799 200 2
+*
+* 6700 Western End/Start of Catwalk
+*                                  
+M 0 6714 2 6700    				topaz dragon    
+E 1 6727 5 14      				topaz bracelet
+E 1 6761 100 6     dragon crown 85mr 15hr
+M 0 6717 2 6700    				gold dragon
+E 1 6761 100 6     dragon crown 85mr 15hr
+E 1 6718 3 1       				ornate gold ring
+M 0 6719 3 6700    				white
+E 1 6761 100 6     dragon crown 85mr 15hr
+*
+* 6701 Catwalk intersection
+M 0 6705 4 6701    wyvern    
+M 0 6703 6 6701	   gryphon
+M 0 6703 6 6701	   gryphon
+E 1 6716 20 12     wings of the gryphon                       
+*
+* 6702 Catwalk in the Trees (w of purple dragon)
+*      
+M 0 6709 4 6702    male elf
+E 1 6635 5 17      sturdy oak staff                         
+M 0 6707 6 6702    male elf                  
+E 1 6633 20 5      peach linen shirt                  
+E 1 6672 100 7     gray suede pants                  
+M 0 6707 6 6702    male elf                  
+E 1 6633 20 5      peach linen shirt                  
+E 1 6672 100 7		gray suede pants				 
+M 0 6707 6 6702    male elf                  
+E 1 6633 20 5		peach linen shirt				 
+E 1 6672 100 7		gray suede pants				 
+*
+* 6703 Catwalk ends  - lair of the purple dragon 
+*
+M 0 6713 1 6703    purple dragon
+E 1 6722 5 13      purple belt
+E 1 6761 100 6     dragon crown 85mr 15hr
+G 1 6712 100	   key
+M 0 6716 3 6703	   ice dragon
+E 1 6721 100 17    icicle
+E 1 6761 100 6     dragon crown 85mr 15hr                 
+M 0 6691 1 6703	   Malachi
+E 1 6761 100 6     dragon crown 85mr 15hr
+M 0 6692 1 6703	   Chaora
+E 1 6761 100 6     dragon crown 85mr 15hr
+M 0 6693 1 6703	   Jasper
+E 1 6761 100 6     dragon crown 85mr 15hr
+O 0 6698 100 6703  Egg
+*
+* 6704 Along the catwalk - ne of start
+*
+M 0 6702 8 6704    aarakocra            
+M 0 6702 8 6704    aarakocra            
+M 0 6728 3 6704    emerald dragon            
+E 1 6726 5 10      emerald arm plates            
+*
+* 6705 Temporary safety (ha!) 
+*
+M 0 6705 4 6705	   wyvern
+M 0 6708 6 6705	   elf male
+*
+* 6706 Out on a limb - n of 05
+*
+* 
+M 0 6715 2 6706	   aquamarine with leg plates
+E 1 6723 5 7       glowing leg plates
+E 1 6761 100 6     dragon crown 85mr 15hr
+M 0 6726 3 6706	   ruby
+E 1 6730 5 11      shield 
+E 1 6761 100 6     dragon crown 85mr 15hr
+M 0 6707 6 6706	   forest male 
+M 0 6709 4 6706	   forest elder
+E 1 6713 2 1       ancient elven ring             
+*
+* 6707  Walk on the wildside - catwalk continues s.
+*
+M 0 6730 2 6707	   amethyst dragon
+*
+* 6708 Turning Twisting Catwalk
+*
+M 0 6703 6 6708    gryphon
+M 0 6703 6 6708	   gryphon
+*
+* 6709 Mistletoe path
+*
+M 0 6719 3 6709	   white 
+E 1 6761 100 6     dragon crown 85mr 15hr
+M 0 6702 8 6709	   aarakocra
+M 0 6702 8 6709	   aarakocra
+*
+* 6710
+*
+* Path pivots
+* 
+M 0 6714 2 6710	   topaz 
+E 1 6761 100 6     dragon crown 85mr 15hr
+M 0 6728 3 6710	   emerald
+E 1 6761 100 6     dragon crown 85mr 15hr
+*
+* 6711  at the crossroads
+*
+M 0 6702 8 6711	   aarakocra
+M 0 6702 8 6711	   aarakocra
+M 0 6730 2 6711	   amethyst
+E 1 6761 100 6     dragon crown 85mr 15hr
+E 1 6724 5 8       dainty amethyst ankle bracelet              
+*
+* 6712  Element of fire
+*
+M 0 6718 2 6712	   fire dragon
+E 1 6761 100 6     dragon crown 85mr 15hr
+M 0 6715 2 6712	   aquamarine dragon
+E 1 6761 100 6     dragon crown 85mr 15hr
+*
+* 6713 Henrietta's doorstep
+* 
+M 0 6774 2 6713	   gentle dragon
+E 1 6761 100 6     dragon crown 85mr 15hr
+E 1 6742 20 17	   wand  						   
+M 0 6705 4 6713	   wyvern			 
+O 0 6706 100 6713  tree             
+P 1 6707 100 6706  leaves			 
+P 1 6708 100 6707  twig (key)			 
+* 
+M 0 6708 6 6713	   forest female
+D 0 6713 1 2
+*
+* 6714 Henrietta's
+*
+* henrietta with dress and shoes
+* items she sells - recall, heal etc
+*
+M 0 6710 1 6714	   
+E 1 6709 1 5       Henrietta's favorite dress              
+E 1 6745 50 8	   black velvet slippers 			 
+G 1 6647 100
+G 1 6695 100
+G 1 6739 100
+G 1 6740 100
+M 0 6711 1 6714	   her cat			 
+M 0 6712 1 6714	   Tamric			 
+E 1 6717 5 17	   his staff			 
+* door west back to catwalk
+D 0 6714 3 2
+*
+* 6715 Along the catwalk
+O 0 6715 100 6715  sign	  
+M 0 6703 6 6715	   Gryphon	  
+M 0 6703 6 6715    Gryphon	  
+*
+* 6716 Change in direction
+*
+M 0 6702 8 6716	   aarakocra
+M 0 6702 8 6716	   aarakocra 
+M 0 6729 3 6716	   crystal
+E 1 6761 100 6     dragon crown 85mr 15hr
+E 1 6728 1 16	   trident
+*
+* 6717 Walking the catwalk
+*
+M 0 6705 4 6717    wyvern
+M 0 6708 6 6717    elf woman
+M 0 6708 6 6717    elf woman
+M 0 6709 4 6717    elder
+*
+* 6718 surrounded by trees : nomob
+*
+* 6719 Another decision 
+*
+M 0 6707 6 6719	   elf man
+M 0 6708 6 6719	   elf woman
+*
+* 6720 One last turn
+*
+M 0 6728 3 6720	   emerald
+E 1 6761 100 6     dragon crown 85mr 15hr
+M 0 6717 2 6720	   gold
+E 1 6761 100 6     dragon crown 85mr 15hr
+G 1 6729 5         glowing golden vial
+*
+* 6721 Cul de Sac
+*
+M 0 6731 1 6721	   shadow
+E 1 6761 100 6     dragon crown 85mr 15hr
+E 1 6720 5 3       shadow robes
+M 0 6716 3 6721	   ice
+E 1 6761 100 6     dragon crown 85mr 15hr
+*
+* 6722 Turning Point
+*
+M 0 6729 3 6722    crystal
+E 1 6761 100 6     dragon crown 85mr 15hr
+M 0 6726 3 6722    ruby
+E 1 6761 100 6     dragon crown 85mr 15hr
+*
+* 6723 Long walk above the forest floor
+*
+M 0 6719 3 6723    white
+E 1 6761 100 6     dragon crown 85mr 15hr
+E 1 6725 5 12      icy white cloak
+M 0 6774 2 6723    gentle
+E 1 6761 100 6     dragon crown 85mr 15hr
+G 1 6743 20
+G 1 6744 20
+*
+* 6724 dead end 
+*
+M 0 6726 3 6724    ruby dragon
+E 1 6761 100 6     dragon crown 85mr 15hr
+M 0 6718 2 6724    fire dragon
+E 1 6761 100 6     dragon crown 85mr 15hr
+E 1 6714 5 2       fire opal ring
+D 0 6724 2 1
+D 0 6724 3 1
+*
+* 6725 Lookout
+* 
+M 0 6706 1 6725    Master Ranger
+E 1 6700 5 16      hunting bow
+E 1 6701 5 5       chainmail
+E 1 6753 5 7       leggings of elvenkind
+E 1 6702 5 8       boots
+E 1 6703 5 11      shield
+E 1 6704 5 0       light       
+E 1 6705 5 17      hunting knife     
+E 1 6755 5 13      girth of forests 
+G 1 6695 100       dragon crackers
+* Door: east, unlocked, to catwalk
+D 0 6725 1 1
+*
+* 6726 Annie's room
+* Door: west, unlocked to closet
+*       up, locked, to throne room
+*       north, unlocked, to catwalk
+*
+M 0 6701 1 6726     under-the-bed monster
+E 1 6711 50 8       purple socks
+G 1 6710 50          Anastasia
+M 0 6729 3 6726     crystal
+E 1 6761 100 6     dragon crown 85mr 15hr
+D 0 6726 0 1
+D 0 6726 4 2
+D 0 6726 3 1
+*
+* 6727 Closet
+* Door: east, unlocked (annie's room)
+*
+M 0 6700 1 6727    closet monster
+E 1 6711 50 8      purple socks
+D 0 6727 1 1
+*
+* 6728 winding stairs
+* Door: down, locked (to Annie's room)
+*
+M 0 6727 12 6728   rat
+M 0 6727 12 6728   rat
+M 0 6727 12 6728   rat
+D 0 6728 5 2
+*
+* 6729 stairs: nomob
+*
+* 6730 throne room
+*
+M 0 6720 1 6730    Honora
+M 0 6721 1 6730    Petra
+M 0 6722 1 6730    Purity
+M 0 6723 1 6730    Chastity
+E 1 6719 5 13      Chastity's belt
+M 0 6724 1 6730    Patience    
+M 0 6725 1 6730    Faith
+D 0 6730 2 2       S to grand stairway
+*
+* 6731
+*
+M 0 6704 4 6731    vulture
+M 0 6704 4 6731    vulture
+M 0 6704 4 6731    vulture
+M 0 6704 4 6731    vulture
+*
+* 6732 One of several sturdy branches:  entrance from 66 zone
+*
+M 0 6716 3 6732
+*
+* 6733 Staircase to throne from park
+*
+* 6734 Public entrance to throne
+*
+D 0 6734 0 2       N to throne
+*
+* 6735  NOMOB
+*
+* 6736
+*
+M 0 6741 7 6736	   goblin
+M 0 6741 7 6736	   goblin
+*
+* 6737 
+*
+M 0 6732 3 6737	   banshee
+M 0 6742 3 6737	   lynx
+M 0 6743 2 6737	   sasquatch
+M 0 6744 3 6737	   sasquatch
+*
+* 6738
+*
+M 0 6749 6 6738	   werewolf
+M 0 6749 6 6738	   werewolf
+M 0 6749 6 6738	   werewolf
+*
+* 6739
+*
+M 0 6733 6 6739	   woodcutter
+M 0 6733 6 6739	   woodcutter
+M 0 6736 7 6739	   drinking
+*
+* 6740  
+*
+M 0 6733 6 6740	   woodcutter
+M 0 6733 6 6740	   woodcutter
+M 0 6733 6 6740	   woodcutter
+M 0 6744 3 6740	   sasquatch m
+*
+* 6741 
+*
+M 0 6751 3 6741	   hunting
+M 0 6748 3 6741	   curious
+M 0 6777 5 6741	   jackrabbit
+E 1 6734 50 8	   jackrabbit shoes
+D 0 6741 1 1
+*
+* 6742
+*
+M 0 6748 3 6742	   curious
+D 0 6742 3 1
+*
+* 6743
+*
+M 0 6750 7 6743    werecub
+M 0 6750 7 6743    werecub
+M 0 6750 7 6743	   werecub
+M 0 6750 7 6743	   werecub
+M 0 6750 7 6743	   werecub
+M 0 6750 7 6743	   werecub
+M 0 6750 7 6743	   werecub
+*
+* 6744 
+*
+M 0 6747 1 6744	   were male
+M 0 6746 1 6744	   were f
+M 0 6749 6 6744	   werewolf
+M 0 6749 6 6744	   werewolf
+M 0 6749 6 6744	   werewolf
+*
+* 6745
+* Mobs: nomob
+*
+* 6746 
+*
+M 0 6741 7 6746	   goblin
+M 0 6741 7 6746	   goblin
+*
+* 6747 
+*
+M 0 6736 7 6747	   drinking elf
+M 0 6736 7 6747	   drinking elf
+M 0 6742 3 6747	   lynx
+*
+* 6748 
+*
+M 0 6743 2 6748	   sasquatch f
+M 0 6744 3 6748	   sasquatch m
+M 0 6745 3 6748	   woodsprite
+M 0 6745 3 6748	   woodsprite
+M 0 6745 3 6748	   woodsprite
+*
+* 6749   
+*
+M 0 6741 7 6749	   goblin
+M 0 6741 7 6749	   goblin
+M 0 6741 7 6749	   goblin
+M 0 6734 2 6749	   adventurer
+E 1 6736 20 10
+*
+* 6750 
+*
+M 0 6707 6 6750	   forest m
+M 0 6708 6 6750	   forest f
+M 0 6777 5 6750	   jackrabbit
+M 0 6777 5 6750	   jackrabbit
+M 0 6777 5 6750	   jackrabbit
+*
+* 6751
+*
+M 0 6751 3 6751	   hunter w
+*
+* 6752
+*
+M 0 6748 3 6752	   curious wolf
+*
+* 6753  
+*
+M 0 6736 7 6753	   drinker
+M 0 6732 3 6753	   banshee
+M 0 6737 10 6753   listener
+*
+* 6754
+*
+M 0 6736 7 6754	   drinking wood elf
+E 1 6601 100 13    bota of milk
+M 0 6736 7 6754	   drinking wood elf
+E 1 6601 100 13    bota of milk
+M 0 6736 7 6754	   drinking wood elf
+E 1 6601 100 13    bota of milk
+*
+* 6755
+*
+M 0 6735 2 6755	   dancer
+M 0 6735 2 6755	   dancer
+M 0 6738 1 6755	   singer
+M 0 6737 10 6755   listener
+M 0 6737 10 6755   listener
+M 0 6737 10 6755   listener
+M 0 6737 10 6755   listener
+*
+* 6756
+*
+M 0 6737 10 6756   listener
+M 0 6737 10 6756   listener
+M 0 6737 10 6756   listener
+M 0 6737 10 6756   listener
+M 0 6737 10 6756   listener
+M 0 6739 1 6756		storyteller
+*
+* 6757 
+*
+M 0 6734 2 6757	   adventurer
+M 0 6740 2 6757	   gnome
+E 1 6732 100 5     gnomish walking tunic
+P 1 6627 100 6732  vulture eggs
+E 1 6746 50 17	   gnomish walking stick
+M 0 6740 2 6757	   gnome
+E 1 6732 100 5	   gnomish walking tunic
+P 1 6627 100 6732  vulture eggs
+E 1 6746 50 17	   gnomish walking stick
+*
+* 6758  
+*
+M 0 6709 4 6758	   elder
+M 0 6742 3 6758	   lynx
+M 0 6752 1 6758	   lame
+*
+* 6759
+M 0 6733 6 6759	   woodcutter
+*
+* 6760  
+*
+M 0 6751 3 6760	   hunter
+M 0 6791 3 6760	   tarantula
+*
+* 6761 
+*
+M 0 6777 5 6761	   jackrabbit
+M 0 6732 3 6761	   banshee
+*
+* 6762
+*
+M 0 6798 4 6762	   fighter
+M 0 6798 4 6762	   fighter
+M 0 6798 4 6762	   fighter
+*
+* 6763 
+*
+M 0 6796 1 6763	   Whoosh!
+M 0 6783 1 6763	   Pinky
+*
+* 6764
+*				  
+M 0 6776 1 6764	   hotshot
+E 1 6748 100 6     bandana
+M 0 6780 1 6764	   mole
+*
+* 6765  
+*
+M 0 6795 1 6765	   whodeeny
+M 0 6787 1 6765	   smoky
+E 1 6748 100 6     bandana
+D 0 6765 0 1
+*
+* 6766 kitchen 
+*
+M 0 6772 4 6766		elf slaves
+G 1 6607 100        trout
+G 1 6607 100		trout
+M 0 6772 4 6766		elf slaves
+G 1 6607 100		trout
+M 0 6772 4 6766		elf slaves
+M 0 6772 4 6766		elf slaves
+D 0 6766 1 1
+*
+* 6767 
+* Door: North and west
+*
+D 0 6767 2 1
+D 0 6767 3 1
+*
+* 6768 
+*
+M 0 6771 2 6768	   studly
+E 1 6733 20 5	   vest
+M 0 6771 2 6768	   studly
+E 1 6737 20 10     tattoo
+M 0 6767 1 6768	   fourth
+E 1 6749 10 6	   bandana
+M 0 6768 3 6768	   consort
+E 1 6749 10 6	   bandana
+M 0 6768 3 6768	   consort
+E 1 6749 10 6	   bandana
+M 0 6768 3 6768	   consort
+E 1 6749 10 6	   bandana
+*
+* 6769
+* Mobs: 70 
+* Objs: ankle bracelet for queen, snake
+* Door: None
+*
+M 0 6770 1 6769	   d queen
+E 1 6749 100 4	   red bandana
+E 1 6754 5 10	   ssssnake
+*
+* 6770 	   
+*
+M 0 6791 3 6770	   spider
+*
+* 6771 
+*
+M 0 6755 6 6771	   cave bat
+M 0 6755 6 6771	   cave bat
+M 0 6755 6 6771	   cave bat
+M 0 6755 6 6771	   cave bat
+M 0 6755 6 6771	   cave bat
+M 0 6755 6 6771	   cave bat
+*
+* 6772 
+*
+M 0 6782 1 6772	   oopsi
+M 0 6786 1 6772	   screamer
+E 1 6741 100 15	   runed bracers
+*
+* 6773  
+*
+M 0 6797 1 6773	   wuuda
+M 0 6794 1 6773	   wa-z
+*
+* 6774  
+*
+M 0 6788 1 6774	   sneaker
+E 1 6749 100 6     bandana
+M 0 6773 1 6774	   froggy
+E 1 6748 100 6	   bandana
+*
+* 6775  
+*
+M 0 6769 1 6775	   d master
+E 1 6749 100 6     bandana
+M 0 6775 1 6775	   grumbly
+E 1 6748 100 6	   bandana
+*
+* 6776
+* Mobs: 56  (5), 93 
+*
+M 0 6756 5 6776	   Chucky
+M 0 6756 5 6776	   Chucky
+M 0 6756 5 6776	   Chucky
+M 0 6756 5 6776	   Chucky
+M 0 6756 5 6776	   Chucky
+M 0 6793 1 6776	   violet
+E 1 6747 100 17	   violets
+*
+* 6777  
+*
+M 0 6785 1 6777	   puff
+M 0 6779 1 6777	   kaboom
+*
+* 6778  
+*
+M 0 6789 1 6778	   sunshine
+E 1 6735 20 8	   slippers
+M 0 6781 1 6778	   moonshine
+E 1 6750 100 17	   elf crackers
+*
+* 6779
+*
+M 0 6754 1 6779	   Bubba
+E 1 6731 100 5	   overalls
+P 1 6751 100 6731  cookies
+P 1 6752 100 6731  jellybeans
+M 0 6778 1 6779	   Dood
+*
+* 6780  
+*
+M 0 6784 1 6780	   splat!
+M 0 6790 1 6780	   swipe
+M 0 6798 4 6780	   fighter
+*
+* 6781  
+*
+M 0 6753 1 6781	   baby blue
+M 0 6766 1 6781	   daffy
+M 0 6792 1 6781	   Tweaker
+E 1 6748 100 6     bandana
+*
+* 6782 
+* 6783 : !mob
+*
+* 6784  
+*
+M 0 6762 3 6784	   newbie ghost
+M 0 6763 2 6784	   phantom
+*
+* 6785  
+*
+M 0 6764 3 6785	   dragon hero skeleton
+*
+* 6786 
+*
+M 0 6761 3 6786	   g undead
+*
+* 6787 
+*
+M 0 6765 1 6787	   telep mage
+M 0 6757 2 6787	   d ghos
+*
+* 6788
+*
+M 0 6759 2 6788	   d skeleton
+M 0 6764 3 6788	   undead dragon hero
+*
+* 6789 
+*
+M 0 6758 2 6789    d mummy
+O 0 6756 20 6789   garlic
+*
+* 6790  
+*
+M 0 6761 3 6790	   g undead
+*
+* 6791  
+*
+M 0 6764 3 6791	   d hero
+*
+* 6792 
+*
+M 0 6760 1 6792	   d zombie
+M 0 6759 2 6792	   d skeleton
+*
+* 6793  
+*
+M 0 6763 2 6793	   phantom
+M 0 6762 3 6793	   newbie
+*
+* 6794
+*
+M 0 6757 2 6794	   d ghost
+*
+* 6795
+*
+M 0 6791 3 6795	   tarantula
+M 0 6761 3 6795	   great undead
+*
+* 6796 
+*
+M 0 6758 2 6796	   mummy
+M 0 6762 3 6796	   newbie
+M 0 6799 3 6796	   greedy
+*
+* 6797
+*
+M 0 6799 3 6797	   greedy
+M 0 6799 3 6797	   greedy
+*
+* 6798
+*
+* Dragon crematorium (DT)
+* Mobs: none
+* Door: None
+*
+* 6799
+* Mobs: None
+*
+S
+#99999
+$~
